@@ -1,9 +1,9 @@
 ---
 title: Guiding Star
-revid: 152527
+revid: 153863
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", Children of Navae, Bows]
+categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", The Children of Navae, Bows]
 ---
 
 # Guiding Star

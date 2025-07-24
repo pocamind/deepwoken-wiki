@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 144405
+revid: 153827
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -12,7 +12,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | 25 |
+| selling price | 7 |
 | requirements | None |
 | weight | 2 |
 | innate stats | +5 Health, +2 Rare Pips, +1 Legendary Pip |
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:, Duke Ishamon Erisia, Maestro Evengarde Rest, Lodestar, The Depths (First Layer), Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, War Mode, Primadon, Titan of the East, Heart of Enmity, Dread Serpent chest |
-| description | "..." |
+| description | ... |
 
 ## Description
 

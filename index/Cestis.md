@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 150296
+revid: 153801
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, NPCs located in the Eastern Luminant]

@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 149719
+revid: 153799
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -163,7 +163,7 @@ Castaway is an Origin granted by joining Deepwoken for the first time, and gives
 Here is what makes Etris unique:
 
 -   At the central tree island, there is a [Vesperian](Vesperian.md) [Justicar](Polis.md) cleaning his [Darksteel Greatsword](Darksteel_Greatsword.md) with a rag, who gives you a [Gold Ring](Equipment.md#rings) for talking to him. Most players sell this, meaning you can start with a few extra Notes.
--   The NPC who greets you grants, unlike the NPC in Vigils who only gives.
+-   The NPC who greets you grants 25, unlike the NPC in Vigils who only gives 20.
 -   You can do the Lord Regent's Quest in order to get the [Manor Key](Manor_Key.md) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
 -   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the Etris blacksmith.
 -   The NPC at the Docks teaches you the Repair Kit recipe, unlike the Vigils variant.

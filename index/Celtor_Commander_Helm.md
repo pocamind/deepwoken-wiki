@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 138057
+revid: 153808
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Second Layer, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow |
-| description | "..." |
+| description | ... |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 

@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 151102
+revid: 153758
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -90,7 +90,7 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a>.</li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
     <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>.</li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md#alloyed">Alloyed Inheritor</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:

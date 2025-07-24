@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 146495
+revid: 153826
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Capes]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Torso, Capes]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Other sources:, Dread Serpent drop, The Diluvian Mechanism |
-| description | "..." |
+| description | ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Chick
-revid: 149936
+revid: 153793
 source: https://deepwoken.fandom.com/wiki/Chick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]

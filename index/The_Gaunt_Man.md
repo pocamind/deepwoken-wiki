@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 153252
+revid: 153873
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, NPCs, Vendors]
@@ -66,7 +66,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 </tr>
 <tr>
   <td colspan="2">Monsters? I suppose that is one description. Will you assist me?</td>
-  <td colspan="2">Yes. I was think you were average enough to make for a good assistant in this.</td>
+  <td colspan="2">Yes. I was thinking you were average enough to make for a good assistant in this.</td>
 </tr>
 <tr>
   <td>Of course.</td>
@@ -105,7 +105,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 </tr>
 <tr>
   <td colspan="4">Monsters? I suppose that is one description. Will you assist me?</td>
-  <td colspan="4">Yes. I was think you were average enough to make for a good assistant in this.</td>
+  <td colspan="4">Yes. I was thinking you were average enough to make for a good assistant in this.</td>
 </tr>
 <tr>
   <td colspan="2">Of course.</td>

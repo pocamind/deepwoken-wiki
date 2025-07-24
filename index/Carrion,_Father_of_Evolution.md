@@ -1,20 +1,24 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 153702
+revid: 153843
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 2, Floor 1]
+categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1]
 ---
 
 # Carrion, Father of Evolution
 
-Template:NPC name
+| Carrion, Father of Evolution | |
+|---|---|
+| name | Carrion, Father of Evolution |
+| aspect | Ganymede |
+| location | New Kyrsa, Castle Light |
 
 ## Description
 
-Carrion, referred to as the Father of Evolution is a Black Diver and master alchemist that resides in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md) or in the Library of [Castle Light](Castle_Light.md) after informing him you work for no one in Layer 2. He is also the leader of the Apothecary.
+Carrion, the "Father of Evolution," is a Ganymede Black Diver and master alchemist. Initially found in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md), he later resides in the [Castle Light](Castle_Light.md) library (after proving you're unaffiliated with Klaris).
 
-Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eyes, a result of using himself to test a prototype of the Moonseye Vigour potion, which also drove him insane. He resides in Great Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He can be found at the end of the library puzzle, next to an obelisk. _Once you talk with him there_, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian and banker. There he can teach you the various monster mantras if you have the materials for them. Despite being a Black Diver, he is more of a scientist than a fighter. His goal is to perfect the Moonseye Vigour which he will use to 'transcend' everyone, by force if necessary.
+His wild white hair and unique green eyes are side effects of a Moonseye Vigour potion prototype that drove him insane. Leader of the Apothecary, he teaches monster mantras (given the right materials) and can untarnish players [Resonance](Resonance.md) for 1. While a Black Diver, he's more scientist than fighter, aiming to perfect the Moonseye Vigour to "transcend" everyone, by force if necessary..
 
 ## Dialogue
 

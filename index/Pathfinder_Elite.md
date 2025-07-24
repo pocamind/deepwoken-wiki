@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 153620
+revid: 153823
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Drops, Coats]
@@ -28,7 +28,7 @@ categories: [Items, Equipment, Arms, Drops, Coats]
 
 The Pathfinder Elite is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5% Damage Vs Monsters and 2 Rare + 1 Legendary pip
 
-This can be considered the preferred Monster hunting armor, being one of the very few ways to obtain the Damage vs Monsters stat after the removal of Damage vs Monsters pips. The only competition the Pathfinder Elite has for extra PvE damage is the [Megalodaunt Coat](Megalodaunt_Coat.md), as it boasts the same 5% Damage vs Monsters as an innate stat. Though, the Megalodaunt Coat lacks the Legendary pip that Pathfinder Elite has, making it inherently inferior, it used to drop from duke erisia.
+This can be considered the preferred Monster hunting armor, being one of the very few ways to obtain the Damage vs Monsters stat after the removal of Damage vs Monsters pips. The only competition the Pathfinder Elite has for extra PvE damage is the [Megalodaunt Coat](Megalodaunt_Coat.md), as it boasts the same 5% Damage vs Monsters as an innate stat. Though, the Megalodaunt Coat lacks the Legendary pip that Pathfinder Elite has, making it inherently inferior.
 
 ## Additional notes:
 

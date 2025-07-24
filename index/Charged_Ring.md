@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 145382
+revid: 153798
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Items, Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Primadon, Fishing |
-| description | "Reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal." |
+| description | Reduces the charges required to proc Crystal Explosions and Surge Overloads, but also reduces the damage they deal. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 145316
+revid: 153717
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -32,7 +32,7 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 ### [Fishing](Fishing.md) Shop
 
--   Players can purchase a Fishing Rod for and [Chum](Chum.md) for here.
+-   Players can purchase a Fishing Rod for 30 and [Chum](Chum.md) for 10 here.
 
 ### [Mantra Collector](Mantra_Collector.md)
 
@@ -45,7 +45,7 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 ### Tools
 
--   Players can purchase a [Repair Hammer](Repair_Hammer.md) for on the right side of the port.
+-   Players can purchase a [Repair Hammer](Repair_Hammer.md) for 30 on the right side of the port.
 
 ### [Great Megalodaunt Rumbling](The_Great_Sharko_Rumbling.md) Remembrance Shrine
 

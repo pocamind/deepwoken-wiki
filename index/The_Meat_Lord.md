@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 150983
+revid: 153880
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -170,12 +170,14 @@ The Meat Lord can be found at the following places:
 </tr>
 <tr>
   <td>When accessing the Shop</td>
+  <td>After purchasing something</td>
 </tr>
 <tr>
   <td>Very well.</td>
+  <td>Here's your meat.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
@@ -201,7 +203,12 @@ His item descriptions will be the same as what he's selling:
 
 -   _And who said mercury wasn't delicious?_
 -   _A hearty bisque._
+-   _Deep fried squid tentacles!_
 -   _Everyone knows rice neutralizes food poisoning from raw fish._
+-   _Extra protein!_
+-   _Make sure to remove the beak first!_
+-   _Wow! What a meal!_
+-   _..Should I really eat this? The smell is the most vile combination of stenches, ranging from megalodaunt meat to "kelp." Even the toughest, most strongheaded Authority soldier can not stand a chance against this.. monstrosity._
 
 ## Shop Rotation
 
@@ -213,7 +220,7 @@ Sold Items
 <tbody>
 <tr>
   <td><b><a href="Food.md">Food</a></b></td>
-  <td><p><b>For 2 </b>: <a href="Calamari.md">Calamari</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Glazed_Fish.md">Glazed Fish</a>, <a href="Megurger.md">Megurger</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Seafood_Boil.md">Seafood Boil</a>.</p></td>
+  <td><p><b>For 2 </b>: <a href="Calamari.md">Calamari</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Cooked_Squid.md">Cooked Squid</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Glazed_Fish.md">Glazed Fish</a>, <a href="Megurger.md">Megurger</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Seafood_Boil.md">Seafood Boil</a>, <a href="Sushi.md">Sushi</a>.</p></td>
 </tr>
 </tbody>
 </table>

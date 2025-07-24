@@ -1,6 +1,6 @@
 ---
 title: Etrean Rogue
-revid: 151413
+revid: 153726
 source: https://deepwoken.fandom.com/wiki/Etrean_Rogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -29,7 +29,7 @@ categories: [Outfits]
 
 ### _Requirements_
 
-This Outfit costs and requires three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) and three (3) [Spark Glands](Spark_Gland.md) to craft.
+This Outfit costs 0 and requires three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) and three (3) [Spark Glands](Spark_Gland.md) to craft.
 
 This Outfit additionally requires the player to have 30 [Agility](Attributes.md#agl) to be crafted.
 

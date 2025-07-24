@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 145023
+revid: 153721
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons, Etrea]
@@ -12,6 +12,7 @@ categories: [Items, Equipment, Legs, Sabatons, Etrea]
 |---|---|
 | type | Boots |
 | rarity | ??? |
+| selling price | ? |
 | requirements | PWR 6 |
 | innate stats | +4 Health |
 | innate talent | N/A |
@@ -20,7 +21,7 @@ categories: [Items, Equipment, Legs, Sabatons, Etrea]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Miner's Landing, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, First Layer, Lodestar, Second Layer, Crypt of the Unbroken |
-| description | "..." |
+| description | ... |
 
 ## Description
 

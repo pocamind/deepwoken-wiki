@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 153631
+revid: 153846
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -211,14 +211,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 _**You need to have made and drank at least one potion for the Talents to start showing up.**_
 
--   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown
-    -   The negative components of potions have a stronger effect when thrown. (More info on the [potions](Alchemy.md) page.)
+-   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.
+    -   Increases potion Potency by 125%, this is additive to Potency from Intelligence investment. (More info on the [potions](Alchemy.md) page.)
+    -   Apothecary is applied as a potion ingredient that does not count towards the potion ingredient cap, meaning the Talent does not have to be actively present for it to be in effect.
     -   Prerequisite: 10 Intelligence
-    -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent.
+    -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent. The [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit also has this Talent.
     -   This Talent was merged with the old Exterminator Talent. (Although the [Strapped Hat](Strapped_Hat.md) still has this Talent)
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
-    -   Will proc on any player with a potion effect, does not replace the current effect.
+    -   Procs when a **thrown** potion replaces a different potion's effect.
+    -   This effect increases the effectiveness of your potion by 40% and is applied multiplicatively to potency.
     -   Prerequisite: 80 Intelligence
         -   This Talent was merged with the old Taste Test Talent.
 
@@ -226,13 +228,15 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 80 Intelligence
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
-    -   Was reworked to have 100% chance of proccing (Previously 25%) but with a much smaller range.
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
     -   Prerequisite: 60 Intelligence
 
 -   _Potion Quaffer_ \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
-    -   Drink potions faster. (~0.5 seconds faster)
-    -   Increases the strength of regeneration potion ingredients for the user.
+    -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
+    -   The increased potion effectiveness is applied multiplicatively after Potency.
+    -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
+    -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
+    -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
     -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
         -   This Talent was merged with the old Subsistence Talent.
 

@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 131716
+revid: 153832
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]

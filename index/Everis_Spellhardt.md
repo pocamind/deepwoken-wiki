@@ -1,6 +1,6 @@
 ---
 title: Everis Spellhardt
-revid: 143866
+revid: 153713
 source: https://deepwoken.fandom.com/wiki/Everis_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]

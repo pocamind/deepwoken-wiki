@@ -1,6 +1,6 @@
 ---
 title: Eternal Restraints
-revid: 125092
+revid: 153731
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Items, Equipment, Arms, Developer Spec]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Arms |
 | rarity | Unique |
-| selling price | 100 |
+| selling price | ??? |
 | weight | 2 |
 | innate stats | +20% Health , +5 Posture |
 | innate talent | Chains of Eternity , Cognito Hazard |
@@ -23,7 +23,7 @@ notices:
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | (Unobtainable) |
-| description | "The world will never forgive you of your sins, Haske. And you will never be freed from them." |
+| description | The world will never forgive you of your sins, Haske. And you will never be freed from them. |
 
 ## Description
 

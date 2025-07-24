@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 143648
+revid: 153829
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]

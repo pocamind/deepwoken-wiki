@@ -1,6 +1,6 @@
 ---
 title: Cloth
-revid: 148582
+revid: 153789
 source: https://deepwoken.fandom.com/wiki/Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -18,7 +18,7 @@ categories: [Items, Craftable, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A sheet of cloth woven together with fibers. |
-| obtainment | Bought for from every vendor., Crafting together three (3) Fiber. |
+| obtainment | Bought for 6 from every vendor., Crafting together three (3) Fiber. |
 
 **Cloth** is an essential resource used to craft [Outfits](Outfits.md) and other tools.
 
@@ -26,7 +26,7 @@ categories: [Items, Craftable, Ingredients]
 
 Cloth can be can be obtained in a few ways:
 
--   Bought for from every vendor.
+-   Bought for 6 from every vendor.
 -   Crafting together three (3) [Fiber](Fiber.md).
 
 ## Uses
@@ -46,20 +46,20 @@ Cloth can be sold from the following locations:
 
 The cloth at [Etris](Etris.md) is located outside the [Blacksmith](Blacksmith.md) near [Pori](Pori.md).
 
--   Costs
--   Cost can be reduced to after speaking with Pori.
+-   Costs 6
+-   Cost can be reduced to 3 after speaking with Pori.
 
 **Isle of Vigils:**
 
 The cloth at the [Isle of Vigils](Isle_of_Vigils.md) is located on a table near the Blacksmith.
 
--   Costs.
+-   Costs 6.
 
 **Voidheart:**
 
 The cloth at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
 
--   Costs.
+-   Costs 6.
 -   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
 
 **Eastern Luminant:**
@@ -68,7 +68,7 @@ The cloth at the [Voidheart](Voidheart.md) is located on a table near the [Antiq
 
 The cloth at [Fort Merit](Fort_Merit.md) is located on a crate in the same building as the [Cauldron](Cauldron.md).
 
--   Costs.
+-   Costs 6.
 
 (The building the cloth is located in.)
 
@@ -76,19 +76,19 @@ The cloth at [Fort Merit](Fort_Merit.md) is located on a crate in the same build
 
 The cloth at [Greathive Aratel](Greathive_Aratel.md) is located on a crate in front of the Antiquarian in the [Root Plaza](Greathive_Aratel.md#root-plaza).
 
--   Costs.
+-   Costs 6.
 
 **Miner's Landing:**
 
 The cloth at [Miner's Landing](<Miner's_Landing.md>) is located on top of a crate in front of the Antiquarian.
 
--   Costs.
+-   Costs 6.
 
 **Summer Isle:**
 
 The cloth at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's Pawn.
 
--   Costs.
+-   Costs 6.
 
 **First Layer:**
 
@@ -96,4 +96,4 @@ The cloth at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's
 
 The cloth at [Castle Light](Castle_Light.md) is located on the second floor near the [Instruments](Instruments.md).
 
--   Costs
+-   Costs 6

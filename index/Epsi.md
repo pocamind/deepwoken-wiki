@@ -1,6 +1,6 @@
 ---
 title: Epsi
-revid: 138761
+revid: 153735
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]

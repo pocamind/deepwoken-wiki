@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 153699
+revid: 153895
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -35,7 +35,7 @@ Dialogue: | Books: | Glossary Entries: [The Heavens](#the-heavens)
 
 -   Entities of immense and unknowable power that are said to slumber deep within the [Depths](#the-depths).
 -   Many believe that the [Song](#the-song) has stirred them from their sleep and brought about the [Tides](#the-tides). Should a Drowned God wake, it's also believed that it would result in [Lumen's](#lumen) undoing.
--   The names of Drowned gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
+-   The names of Drowned Gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
 -   Worship of Drowned Gods is taboo across most of the [Lumen](#lumen), with their faithful being branded as cultists and heretics.
 
 Dialogue: | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer)
@@ -60,7 +60,7 @@ Dialogue: | Books: | Glossary Entries: [The Citadel of Markor](#the-citadel-of-m
 -   Their gales are said to drag even Time itself into their wake.
 -   Thought to preside over the Second Layer, granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | Books: | Glossary Entries: [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md) | Books: | Glossary Entries: [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### Krulians
 
@@ -89,7 +89,7 @@ Dialogue: | Books: | Glossary Entries: [The Drowned City of Celtor](#the-drowned
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Kressa](Kressa.md), [Scope](Scope.md) | Books: | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Scope](Scope.md) | Books: | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -98,7 +98,7 @@ Dialogue: [Kressa](Kressa.md), [Scope](Scope.md) | Books: | Glossary Entries: [T
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | Books: | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md) | Books: | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ## Notable Figures
 
@@ -159,7 +159,7 @@ Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: 
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md) | Books: | Glossary Entries:
+Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) | Books: | Glossary Entries:
 
 ### The Song
 
@@ -169,7 +169,7 @@ Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md) | Books: | Glossary Entr
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Regek](Regek.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kelsius](Kelsius.md), [Regek](Regek.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods)
 
 ### Radiant Tones
 
@@ -254,7 +254,7 @@ Dialogue: | Books: | Glossary Entries: [The Tides](#the-tides)
 -   The central and largest [Luminant](#the-luminants) of all, the Central Luminant is a tumultuous region that is governed overall by the [Central Authority](#the-central-authority).
 -   Enclaves outside of the Central Authority's purview do exist within the Central Luminant, however. One such example are the [Lullaby Isles](#the-lullaby-isles), the homeland of the Chrysid and the Moonlit Faith.
 
-Dialogue: | Books: | Glossary Entries: [The Luminants](#the-luminants)
+Dialogue: [Kelsius](Kelsius.md) | Books: | Glossary Entries: [The Luminants](#the-luminants)
 
 ### The Depths
 
@@ -302,7 +302,7 @@ Dialogue: | Books: | Glossary Entries: [The Submergence of Celtor](#the-submerge
 -   The half of [Lumen](#lumen) in which you reside.
 -   The Surface is made up of the [Luminants](#the-luminants) and the [Voidsea](#the-voidsea) that surrounds them.
 
-Dialogue: | Books: | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), [The Nightsea](#the-nightsea)
+Dialogue: [C'lantaa](<C'lantaa.md>) | Books: | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), [The Nightsea](#the-nightsea)
 
 ### The Voidfog
 
@@ -398,7 +398,7 @@ Dialogue: | Books: | Glossary Entries:
 -   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
-Dialogue: [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### Pathfinders
 

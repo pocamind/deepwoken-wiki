@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 153663
+revid: 153819
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -850,19 +850,19 @@ Having the [Attunement Path](Attunements.md#alternative-paths) Talent **Glass Pa
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Duke erisia Impale** (★★☆)
+**Crystal Impale** (★★☆)
 
 **Combat Mantra**
 
-_Impale your foes with a brutal cry OR warlmaster oathstal barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
+_Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
 
  | 
 
-## Duke erisia Impale (★★☆)
+## Crystal Impale (★★☆)
 
   
 **Combat Mantra**  
-_Impale your foes with a brutal cry OR warlmaster oathstal barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
+_Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
 
  |
 | 
@@ -875,7 +875,7 @@ Ice
 
  | 
 
-bee duke Frostdraw, Glass Path: Crystallization
+30 Frostdraw, Glass Path: Crystallization
 
  |
 | 

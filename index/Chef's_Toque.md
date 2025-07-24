@@ -1,6 +1,6 @@
 ---
 title: "Chef's Toque"
-revid: 153497
+revid: 153794
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Head]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Head]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Chef Odiolovaro |
-| description | "It's not raw, you are." |
+| description | It's not raw, you are. |
 
 ## Description
 

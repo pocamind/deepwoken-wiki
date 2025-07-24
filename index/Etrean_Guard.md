@@ -1,6 +1,6 @@
 ---
 title: Etrean Guard
-revid: 151566
+revid: 153729
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, Etrea]
@@ -8,7 +8,23 @@ categories: [Items, Outfits, Expert Outfits, Etrea]
 
 # Etrean Guard
 
-Template:ArmorInfobox**Etrean Guard** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
+| Etrean Guard | |
+|---|---|
+| caption | Serpentine armor of the Kingdom of Etrea. A lightweight piece of plate sits atop padded snakeskin leather. |
+| tier | Expert |
+| crafting_req | x5 Cloth, x5 Erisore, x5 Fiber, x2 Megalodaunt Hide |
+| price | 30 |
+| stat_req | Power 10 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 2000 Durability |
+| resistances | +25% Physical Armor, +20% Elemental Armor |
+| talents | Unbreakable |
+| obtainment | Etrean Soldier (direct drop)Chests from:, First Layer, Erisia |
+| selling_price | 10 |
+| weight | 1 |
+
+**Etrean Guard** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

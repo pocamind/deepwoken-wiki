@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 147254
+revid: 153718
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -29,7 +29,7 @@ Etris is the capital of the [Kingdom of Etrea](Etrea.md), being on top of a tall
 
 #### Inn
 
--   Players can spend to change their spawn-point here.
+-   Players can spend 5 to change their spawn-point here.
 
 #### Bank
 
@@ -38,7 +38,7 @@ Etris is the capital of the [Kingdom of Etrea](Etrea.md), being on top of a tall
 #### Antiquarian
 
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
--   Players can purchase ankle weights (AGI), a boulder (FTD & STR), a dumbbell (STR), a training vest (FTD), and prayer beads (WLP) for each.
+-   Players can purchase ankle weights (AGI), a boulder (FTD & STR), a dumbbell (STR), a training vest (FTD), and prayer beads (WLP) for 25 each.
 
 Blacksmith
 
@@ -46,18 +46,18 @@ Blacksmith
 
 -   Players can find Caragan, a [blacksmith](Blacksmith.md), here.
 -   Players can purchase [Cloth](Cloth.md), [Fiber](Fiber.md), [Wood](Wood.md), [Rock](Ores.md#rock), [Coal](Ores.md#coal), [Iron](Ores.md#iron), and [Gold](Ores.md#gold) here. Cloth and Fiber are sold outside of the Blacksmith by [Pori](Pori.md), who can give you a 50% discount on them if you talk to him, however you are still unable to purchase Cloth or Fiber unless you can afford their base price.
-    -   Wood can be purchased for.
-    -   Cloth can be purchased for / (discounted price).
-    -   Rocks can be purchased for /.
-    -   Iron can be purchased for /.
-    -   Gold can be purchased for /.
+    -   Wood can be purchased for 2.
+    -   Cloth can be purchased for 6 /3 (discounted price).
+    -   Rocks can be purchased for 10 /5.
+    -   Iron can be purchased for 25 /12.
+    -   Gold can be purchased for 50 /25.
 
 Mantra shop
 
 #### Mantra Shop
 
 -   The Mantra Shop contains a [Mantra Table](Mantra_Lectern.md). Previously, [Attunement Training Gear](Training_Gear.md#attunement-training-gears) were sold here individually, but this function was replaced with [Gear Cabinets](Training_Gear.md#attunement-training-gears). There's no Gear Cabinet in the shop itself, however; the closest Gear Cabinet from the Mantra Shop is at the Antiquarian.
--   Above the mantra shop, accessible through the weaponry, the schematic for [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) can be purchased for.
+-   Above the mantra shop, accessible through the weaponry, the schematic for [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) can be purchased for 45.
 
 Weaponry
 
@@ -65,25 +65,25 @@ Weaponry
 
 -   Players can buy a variety of starter [weapons](Weapons.md) from Astra here:
     -   Light Weapon users can purchase:
-        -   [Stiletto](Stiletto.md) for.
-        -   [Apprentice Rapier](Apprentice_Rapier.md) for.
-        -   Bullets for [gun](Guns.md) users for per.
+        -   [Stiletto](Stiletto.md) for 16.
+        -   [Apprentice Rapier](Apprentice_Rapier.md) for 16.
+        -   Bullets for [gun](Guns.md) users for 5 per.
     -   Medium Weapon users can purchase:
-        -   [Iron Spear](Iron_Spear.md) for.
-        -   [Messer](Messer.md) (requires 10 MED) for.
-        -   [Mace](Mace.md) (requires 10 MED) for.
-        -   [Ritual Spear](Ritual_Spear.md) (requires 35 MED) for.
+        -   [Iron Spear](Iron_Spear.md) for 25.
+        -   [Messer](Messer.md) (requires 10 MED) for 16.
+        -   [Mace](Mace.md) (requires 10 MED) for 16.
+        -   [Ritual Spear](Ritual_Spear.md) (requires 35 MED) for 100.
         -   [Sword](<Sword_(weapon).md>).
     -   Heavy Weapon users can purchase:
-        -   [Battleaxe](Battleaxe.md) for.
-        -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for.
-        -   [Zweihander](Zweihander.md) (requires 20 HVY, 10 STR) for.
-    -   Players can purchase a [Targe](Targe.md) (requires 10 FTD) for.
-    -   Players can purchase a [Parrying Dagger](Parrying_Dagger.md) (requires 10 AGI) for.
+        -   [Battleaxe](Battleaxe.md) for 16.
+        -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for 100.
+        -   [Zweihander](Zweihander.md) (requires 20 HVY, 10 STR) for 100.
+    -   Players can purchase a [Targe](Targe.md) (requires 10 FTD) for 15.
+    -   Players can purchase a [Parrying Dagger](Parrying_Dagger.md) (requires 10 AGI) for 25.
     -   On the second floor, players can also purchase the schematic for:
-        -   [Skeptic Pioneer](Skeptic_Pioneer.md) for.
-        -   [Shadow Hunter](Shadow_Hunter.md) for.
-        -   [Experienced Adventurer](Experienced_Adventurer.md) for.
+        -   [Skeptic Pioneer](Skeptic_Pioneer.md) for 45.
+        -   [Shadow Hunter](Shadow_Hunter.md) for 50.
+        -   [Experienced Adventurer](Experienced_Adventurer.md) for 80.
 
 #### Guildhouse
 
@@ -93,24 +93,24 @@ Weaponry
 
 -   [Bookkeeper Andros](Bookkeeper_Andros.md) can be found here.
 -   A permanent [campfire](Campfire_Pit.md) can be found here.
--   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), and Encyclopedia (INT) for each.
--   Players can purchase the Math Textbook (INT) for.
+-   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), and Encyclopedia (INT) for 25 each.
+-   Players can purchase the Math Textbook (INT) for 30.
 
 General store
 
 #### General Store
 
--   Players can purchase a pickaxe, lumber axe, flint and fiber for each.
--   Players can purchase wood here for.
+-   Players can purchase a pickaxe, lumber axe, flint and fiber for 3 each.
+-   Players can purchase wood here for 5.
 
 #### Lance's Food
 
 -   [Lance Leshi](Lance.md) and [Ploom](#flamecharmer-ploom-quest) can be found here.
--   Mushroom Omelettes can be purchased for.
--   Mushroom Bisque can be purchased for.
--   Megurgers can be purchased for.
--   [Flame Worshipper Shield](<Worshipper's_Shield.md>) can be purchased for.
--   Behind the shop, a schematic for [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for.
+-   Mushroom Omelettes can be purchased for 15.
+-   Mushroom Bisque can be purchased for 20.
+-   Megurgers can be purchased for 15.
+-   [Flame Worshipper Shield](<Worshipper's_Shield.md>) can be purchased for 45.
+-   Behind the shop, a schematic for [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for 60.
 
 #### The Palace
 
@@ -118,7 +118,7 @@ General store
 
 #### The Den
 
--   The [Den Master](Den_Master.md) can be found here. He sells [Cloudstones](Mantra_Modifiers.md), [Amnesic Driftwood](Mantra_Modifiers.md), [Drift Shards](Mantra_Modifiers.md), and [Crystal Lenses](Mantra_Modifiers.md) for each.
+-   The [Den Master](Den_Master.md) can be found here. He sells [Cloudstones](Mantra_Modifiers.md), [Amnesic Driftwood](Mantra_Modifiers.md), [Drift Shards](Mantra_Modifiers.md), and [Crystal Lenses](Mantra_Modifiers.md) for 10 each.
 -   To get there, either sail with the right wall from the docks, or fall to the right of where [Kennith](Kennith.md)'s dismembered corpse is hung up
 
 #### Alchemist's Lodge
@@ -150,7 +150,7 @@ General store
 -   Talk to the Etrean that is idling outside a house by the exit to the [Etrean Wilds](Etrean_Wilds.md).
 -   He will ask you to chop wood for him so that they have a sustainable supply of lumber for the winter.
 -   Accepting his quest gives you a lumber axe for free.
--   6 wood for.
+-   6 wood for 5.
 -   This quest is repeatable.
 -   An incredible way of getting Etrea reputation
 
@@ -200,7 +200,7 @@ Warning: This quest is exceptionally difficult. Recommended for high-level and p
 To begin this quest, talk to [Karliah](Karliah.md), an [Adret](Adret.md) Diver. She is located in a house near the signs, next to the General store.
 
 -   Accepting to escort her activates the quest. Meet her at the Erisian Mines, located in Erisia. (She is located near the zip line placement near the ruins, on top of the cave deposit in Pathfinder's Respite.
-    -   You must have Charisma ~10 to charge Karliah.
+    -   You must have Charisma ~10 to charge Karliah 20.
 -   Save her from the [Mudskipper](Mudskipper.md) that is attacking her.
 -   Interact with her.
 -   This quest is very easy to screw up, and if you do so there is no way to uncap Charisma, so be careful.

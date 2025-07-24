@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 146422
+revid: 153705
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -64,7 +64,6 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 -   +3 Charisma.
 -   Increased health for owned ships.
 -   Cheaper ship prices at the shipwright.
--   Useful.
 -   The Bonus Charisma and Intelligence give a neat boost in ether.
     
 

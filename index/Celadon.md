@@ -1,6 +1,6 @@
 ---
 title: Celadon
-revid: 135373
+revid: 153809
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Oaths]

@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 149370
+revid: 153813
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -164,7 +164,7 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
 
 ## [Songseeker Wilds](Songseeker_Wilds.md) Loot Table
 
-_One of the first island inside the Eastern Luminant, most people come here for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), or for the [Oath: Starkindred](Oath%253A_Starkindred.md) worms, the loot here is comparable to that found at Minityrsa_
+_One of the first island inside the Eastern Luminant, most people come here for the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), or for the [Oath: Starkindred](Oath%253A_Starkindred.md), the loot here is comparable to that found at Minityrsa_
 
 <table>
 <tbody>
@@ -386,7 +386,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
     <li><b>Legendary Weapons</b>: <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
     <li><b>Light Weapons</b>: <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></li>
     <li><b>Medium Weapons</b>: <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>,</li>
+    <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a>, Master Hawk's Handaxe, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>,</li>
     <li><b>Offhand Weapons</b>: <a href="Legion_Shield.md">Khan Shield</a></li>
   </ul></td>
 </tr>

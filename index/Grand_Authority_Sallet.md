@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sallet
-revid: 138052
+revid: 153828
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -22,7 +22,7 @@ categories: [Equipment, Head, Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, Miner's Landing, Second Layer, Interluminary Parasol, Hell Mode, Maestro Evengarde Rest |
-| description | "..." |
+| description | ... |
 
 ## Description
 

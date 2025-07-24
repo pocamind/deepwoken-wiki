@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 118493
+revid: 153736
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms, Plates]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Duke Erisia, The Depths (First Layer) |
-| description | "..." |
+| description | ... |
 
 ## Description
 

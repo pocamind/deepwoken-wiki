@@ -1,9 +1,9 @@
 ---
 title: Faction Ambushes
-revid: 147088
+revid: 153851
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Reputation, Mechanics]
+categories: [Factions, Reputation, Mechanics]
 ---
 
 # Faction Ambushes

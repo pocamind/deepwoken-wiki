@@ -1,6 +1,6 @@
 ---
 title: Dwelling Charm
-revid: 140349
+revid: 153752
 source: https://deepwoken.fandom.com/wiki/Dwelling_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Items]
@@ -20,7 +20,7 @@ categories: [Guilds, Items]
 
 ## Description
 
-Dwelling Charms can be purchased at Guild Halls for or inside of a Guild Base for.
+Dwelling Charms can be purchased at Guild Halls for 50 or inside of a Guild Base for 80.
 
 A Dwelling Charm allows you to summon your [Guild Base](Guild_Bases.md) ten times until it runs out, commonly used if you aren't a guild officer or leader who can do it for free using the [Chime of Dwelling](Chime_of_Dwelling.md).
 

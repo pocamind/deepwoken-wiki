@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 144429
+revid: 153805
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Legs, Sabatons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Second Layer, First Layer, Lodestar, Duke Erisia, Maestro Evengarde Rest, War Mode, Dread Serpent |
-| description | "..." |
+| description | ... |
 
 ## Description
 

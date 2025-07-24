@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 153647
+revid: 153844
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -74,7 +74,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 </tbody>
 </table>
 
-**Turning in the Souls:**
+**Quest End:**
 
 <table>
 <tbody>
