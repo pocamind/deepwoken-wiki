@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 153734
+revid: 154024
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -146,7 +146,7 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
-|  | 
+| File:Aegis of Enmity2.png | 
 
 [Aegis of Enmity](Aegis_of_Enmity.md)
 
@@ -1320,7 +1320,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | N/A |
-| File:Parasolplanter.png | 
+| File:Parasol Planter.png | 
 
 [Parasol Planter](Parasol_Planter.md)
 
@@ -1476,7 +1476,7 @@ Found from:
 -   [Lodestar](Lodestar.md)
 
  | N/A |
-| File:Tillian's beret .png | 
+|  | 
 
 [Tillian's Beret](<Tillian's_Beret.md>)
 
@@ -1575,7 +1575,7 @@ Found from:
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
  | N/A |
-| File:Brimlilal2.png | 
+| File:Navy Warlock Brim.png | 
 
 [Warlock's Brim](<Warlock's_Brim.md>)
 
@@ -1941,7 +1941,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~33%**)
 
  | N/A |
-| File:Bastionsofemnity.png | 
+|  | 
 
 [Bastions of Enmity](Bastions_of_Enmity.md)
 
@@ -2734,7 +2734,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
-| File:Inquisitor's Duster Icon.png | 
+|  | 
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>)
 
@@ -2755,7 +2755,7 @@ Sources:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | Brown, Dark, Navy, Smoke & Titan |
-| File:Iron pauldrons.png | 
+| File:Iron Pauldrons1.png | 
 
 [Iron Pauldrons](Iron_Pauldrons.md)
 
@@ -3294,7 +3294,7 @@ Found from:
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | N/A |
-| File:Gorden fleecemen.PNG | 
+| File:Sailor's Fleece.png | 
 
 [Sailor's Fleece](<Sailor's_Fleece.md>)
 
@@ -3583,7 +3583,7 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  | N/A |
-| File:Navymantle.png | 
+| File:Navy Warlock Mantle.png | 
 
 [Warlock's Mantle](<Warlock's_Mantle.md>)
 
@@ -4186,7 +4186,7 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  | N/A |
-| File:Leather boots.png | 
+| File:Leather Boots NEW.png | 
 
 [Leather Boots](Leather_Boots.md)
 
@@ -4432,7 +4432,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | N/A |
-| File:Screenshot 2024-12-24 180347.png | 
+| File:Wartreads of Enmity.png | 
 
 [Wartreads of Enmity](Wartreads_of_Enmity.md)
 
@@ -4684,7 +4684,7 @@ Found from:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
-| File:Fauld of enmity.png | 
+|  | 
 
 [Fauld of Enmity](Fauld_of_Enmity.md)
 
@@ -5002,7 +5002,7 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
  | Red, Black, Midnight & White |
-| File:Threadwork kilt.png | 
+| File:Threadwork Kilt.png | 
 
 [Threadwork Kilt](Threadwork_Kilt.md)
 
@@ -5089,7 +5089,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
-| File:Wormwarder regular.png | 
+| File:Wormwarder Lantern.png | 
 
 [Wormwarder Lantern](Wormwarder_Lantern.md)
 
@@ -5131,7 +5131,7 @@ Sources:
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
  | N/A |
-| File:Mantle.png | 
+|  | 
 
 [Mantle of Enmity](Mantle_of_Enmity.md)
 
@@ -5472,7 +5472,7 @@ Found from:
 -   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
  | N/A |
-| File:Orange Headband.png | 
+| File:BlackHeadband.png | 
 
 [Headband](Headband.md)
 
@@ -5647,7 +5647,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
-|  | 
+| File:Sworn Angel Mask1.png | 
 
 [Sworn Angel Mask](Sworn_Angel_Mask.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 153426
+revid: 154027
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -185,7 +185,9 @@ It grants the user +50 knowledge on subsequent uses.
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 6
 
  |
-|  | **[Armorer's Needle](<Armorer's_Needle.md>)** - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
+| 
+
+ | **[Armorer's Needle](<Armorer's_Needle.md>)** - A needle that rerolls one of your [Equipment's pips](Equipment.md) of choice upon usage, applying a random different pip.
 
 -   _(Consumed upon usage)_
 
@@ -343,8 +345,6 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
  |
 | 
 
-File:Image 2024-09-28 125352958.png
-
  | **[Whistling Periapt](Whistling_Periapt.md)** - A pendant that grants the Talent "Whistleguard" which summons a shield of gale similar to Duke's to automatically parry a single attack for you after you have landed 3 consecutive hits (5 for light weapons) on your opponent.
 
   
@@ -357,8 +357,6 @@ This has a 6 second cooldown and charges cannot be stacked.
 
  |
 | 
-
-File:EnmityMantle.png
 
  | [Mantle Of Enmity](Mantle_of_Enmity.md) - A set of wing resembling those of [The Heart Of Enmity](Heart_of_Enmity.md), Grants the talent "Heartwing Beat" which transforms your aerial attack to a double hit  
 hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and will scale according to your currently held weapon. | 

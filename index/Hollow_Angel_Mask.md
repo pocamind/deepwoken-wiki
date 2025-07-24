@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel Mask
-revid: 153374
+revid: 154001
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

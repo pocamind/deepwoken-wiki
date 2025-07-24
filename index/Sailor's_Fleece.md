@@ -1,6 +1,6 @@
 ---
 title: "Sailor's Fleece"
-revid: 152181
+revid: 153947
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Arms]
 
 ## Description
 
-The **Sailor's Fleece** are a common piece of equipment that can be obtained in chests from [Voidsea](Voidsea.md) events, by buying it from [Traan Zakshun](Traan_Zakshun.md) for 100 Notes or by handing in [Artifacts](Artifacts.md) to a [Banker](Banker.md). Sailor's Fleece grants 1 posture and 1 rare pip on equip.
+The **Sailor's Fleece** are a common piece of [Equipment](Equipment.md) that can be obtained in chests from [Voidsea](Voidsea.md) events, by buying it from [Traan Zakshun](Traan_Zakshun.md) for 100 Notes or by handing in [Artifacts](Artifacts.md) to a [Banker](Banker.md). Sailor's Fleece grants 1 posture and 1 rare pip on equip.
 
 ## Trivia
 

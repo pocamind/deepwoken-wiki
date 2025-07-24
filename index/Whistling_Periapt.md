@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 152958
+revid: 154023
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Items]

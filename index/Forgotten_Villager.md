@@ -1,9 +1,9 @@
 ---
 title: Forgotten Villager
-revid: 141036
+revid: 153899
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Enemies, NPCs]
+categories: [Enemies, NPCs]
 ---
 
 # Forgotten Villager
@@ -20,6 +20,28 @@ Forgotten Villagers are NPCs that spawn in groups of three inside [Erisor's Chur
 -   Wave 4 - A [Rock Golem](Rock_Golem.md)
 
 A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [aspect](Aspects.md) varying.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Hello? Oh thank the gods, not another bandit... Can you help us?</td>
+</tr>
+<tr>
+  <td>Help with what?</td>
+</tr>
+<tr>
+  <td>The Royal <a href="Glossary.md#pathfinders">Pathfinder</a> of this island... He is searching for all of those that lived here before the island froze in time. He claims to be an ally but his loyalty still lies with the Lord of this land... Our people look to him as a protector, but I know the truth. Wait do you hear that outside?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Moveset
 
@@ -40,10 +62,7 @@ A Forgotten Villager executes their opponent after knocking them:
 
 ## Trivia
 
-File:Forgotten Villager Event Chest.png
-
-Location of the chests' spawn after completing the event
-
--   Taking a knocked one to [Alastir](Alastir.md) will result in no reaction.
+-   In their dialogue the "Royal Pathfinder" that they mention is [Alastir](Alastir.md).
+    -   Though, bringing them to Alastir gives no reaction.
 -   They are hostile to every NPC, including the [Teacher](Teacher.md) NPC.
--   The only place where they naturally spawn in the [Erisor's Church](<Erisor's_Church.md>).
+-   The only place where they naturally spawn is inside the [Erisor's Church](<Erisor's_Church.md>).

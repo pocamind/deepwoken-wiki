@@ -1,6 +1,6 @@
 ---
 title: Parasol Planter
-revid: 152574
+revid: 153917
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Equipment, Head, Hats]

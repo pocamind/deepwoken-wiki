@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 152483
+revid: 153932
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment, Items]

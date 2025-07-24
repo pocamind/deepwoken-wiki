@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 141084
+revid: 153898
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -35,7 +35,7 @@ The Teacher spawns along with 2 more NPCs sitting next to a campfire with set ra
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, a fellow Pathfinder? What might you need?</td>
+  <td colspan="12">Ah, a fellow <a href="Glossary.md#pathfinders">Pathfinder</a>? What might you need?</td>
 </tr>
 <tr>
   <td colspan="12">Do you have any stories?</td>

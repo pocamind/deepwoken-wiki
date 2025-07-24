@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 153895
+revid: 153904
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -318,7 +318,7 @@ Dialogue: | Books: | Glossary Entries: [Lumen](#lumen), [The Nightsea](#the-nigh
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 
-Dialogue: [Neero](Neero.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Neero](Neero.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
 
 ### The Western Luminant
 
@@ -405,12 +405,12 @@ Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdel
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
-Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: | Glossary Entries:
+Dialogue: [Alastir](Alastir.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Teacher](Teacher.md) | Books: | Glossary Entries:
 
 ### Power
 
--   A general measure of one's ability, and of your mastery of the Song.
--   Increasing one's Power grants them new Talents and Mantras.
+-   A general measure of one's ability, and of your mastery of the [Song](#the-song).
+-   Increasing one's Power grants them new Talents and [Mantras](#mantra).
 
 Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: | Glossary Entries:
 
