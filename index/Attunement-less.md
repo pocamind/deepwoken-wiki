@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 154109
+revid: 154292
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -216,6 +216,38 @@ Blunt
 -   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling
 -   69.9 damage at 100 Strength level 5
 -   Victims crushed by the rock will be dazed and will be thrown away.
+
+ |
+| 
+
+**Throw** (★★☆)
+
+_Grab and throw your enemies._
+
+ | 
+
+## Throw (★★☆)
+
+  
+_Grab and throw your enemies._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+≤40 Strength, defeated [Titus](Titus_Fulminus_Destellus.md)
+
+ |
+| 
+
+**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
 
  |
 | 
@@ -502,7 +534,7 @@ N/A
 -   The damage reduction can be reduced by PEN, but PEN has 25% effectiveness on it.
     -   E.g. 100% PEN lowers Reinforce's defense buff to 7.5%.
 -   Reinforce's Duration and Cooldown scale on level.
-    -   Reinforce lasts 20/28/36/44/52 seconds per level.
+    -   Reinforce lasts 20/21.5/23/24.5/26 seconds per level.
     -   Reinforce has a 55/50/45/40/35 second cooldown per level.
 -   When holding your block button during Reinforce's wind-up, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
 -   Shares a cooldown with [Iceberg](Frostdraw.md#iceberg).
@@ -1191,6 +1223,8 @@ N/A
 -   Affected entities become unable to jump.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
+-   Using Taunt on any humanoid [boss](Bosses.md) will instantly start the fight without the dialogue.
+    -   Using this, it is possible to defeat Duke without completing his questline, even if you fight him solo.
 
  |
 | 
@@ -1978,3 +2012,4 @@ Slash
 -   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
 -   For about a week before **Ether Barrage** was added, there was a bug where a duplicate of **Rapid Punches** would be available to pick as an Intelligence Combat Mantra. This of course was a placeholder, and was later replaced by **Ether Barrage** when it fully released.
 -   **Slice 'n' Dice** is likely a reference to Shiv's ability "[Slice and Dice](<https://deadlock.wiki/Shiv#(2)_Slice_and_Dice>)" from the game _Deadlock_, due to the 2nd cast mimicking Shiv's "max rage" Slice and Dice, which automatically retraces the attack path taken dealing damage a second time.
+-   **Throw** is the only Attunement-less Mantra to currently have stars.

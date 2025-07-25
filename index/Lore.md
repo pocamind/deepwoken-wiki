@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 152978
+revid: 154248
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -762,7 +762,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Inventors of the fist style 'The Way of Navae.'
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
 -   They have no clue what quarrel the Ministry holds with them, seeing them as just more marauders and bandits.[\[1\]](#cite-note-rag-1)
--   They are the only people with a dedicated religion and hold a few qualities relating them to other religions in the real world.
+-   They are one of the only peoples with a dedicated religion (the others being the Crysids and their Moonlit Faith) and hold a few qualities relating them to other religions in the real world.
 -   On Meteor Isle they are currently negotiating with the Hive to get mutual benefit, the Hive getting the life of the Island while probably the Children of Navae get protection of the Hive from the Authority.
     
     Master of the way of Navae

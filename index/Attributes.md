@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 154168
+revid: 154251
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -41,7 +41,7 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 
 ## Body and Mind
 
-Body and Mind are categories for the Core Attributes. Talents, weapon requirements, and weapon scaling can be based off your Mind or Body stat rather than scaling directly on the individual Attributes, leading to much more stat diversity in a build.
+Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talents, weapon requirements, and weapon scaling can be based off your Mind or Body stat rather than scaling directly on the individual Attributes, leading to much more stat diversity in a build.
 
 -   Strength, Fortitude, and Agility are **Body** attributes.
     -   Your Body stat is based off the highest invested attribute in the Body category. For example if you have 50 Strength, 35 Fortitude, and 25 Agility, your Body stat will be 50.

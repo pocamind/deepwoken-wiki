@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 154220
+revid: 154246
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -10,7 +10,7 @@ categories: [Aspects]
 
 Template:Races-Main
 
-"_quote_"
+"_Once Isolated in the subterranean caverns that straddle the boundary, the bat-like Kirons are perceptive and shrewd spelunkers..._"
 
 Chance of obtaining aspect: **4%**
 
@@ -36,8 +36,7 @@ Kirons are a aspect similar to bats.
   <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+3</li>
-    <li>+2</li>
+    <li>None (might be a bug(?))</li>
   </ul></td>
 </tr>
 </tbody>
@@ -52,13 +51,27 @@ Yep that's some lore for ya.
 
 -   Can see better in the dark.
 -   Can more easily sense potential threats.
--   +2 stat
--   +3 stat
+-   Kiron do not have innate racial stats, granting you an innate [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers) effect.
+    
+
+**Weaknesses:**
+
+-   Kiron do not have innate racial stats, this may seen as a downside for some players.
     
 
 **Surnames:**
 
--   Wow names!
+-   Aatu
+-   Draatu
+-   Mihaatu
+-   Noctu
+-   Ratu
+-   Ventu
+-   Alukaatu
+-   Metu
+-   Netu
+-   Petu
+-   Vatu
     
 
   

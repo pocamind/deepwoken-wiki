@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 154205
+revid: 154230
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -16,7 +16,7 @@ categories: [Races, Character, Mechanics]
 
 **Aspects** in _Deepwoken_ are human subcategories that each have unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling an Aspect will give you the option between keeping your new current aspect or switching back to the previous one. This option is available until you finish creating the character or log off the character creation menu._
 
-All 12 rollable aspects have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
+All 13 rollable aspects have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
 
 -   While +3 or +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this bonus into a given stat may be the key to making that build attainable.
 

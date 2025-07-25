@@ -1,11 +1,9 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 154107
+revid: 154267
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Weapons]
-notices:
-  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
+categories: [Weapons]
 ---
 
 # Worldpiercer Gauntlets
@@ -13,8 +11,14 @@ notices:
 | Worldpiercer Gauntlets | |
 |---|---|
 | type | Fist |
+| requirements | 85 LHT, 30 STR |
+| damage | 18 |
+| scaling | 6 |
+| range | 6 |
+| swing speed | 1.15 |
+| penetration | 25% |
 | stances | 1 Handed |
-| weight | 2 |
+| weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -22,7 +26,7 @@ notices:
 
 ## Description
 
-Titus Gauntlets are a Fist Weapon.
+The Worldpiercer Gauntlets are a Fist Weapon obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 ## Trivia
 

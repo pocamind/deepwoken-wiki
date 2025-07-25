@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 154172
+revid: 154295
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1568,6 +1568,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
     -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the Aspect variant.
 
+-   Echolocator \[[Kiron](Kiron.md) Exclusive\] - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
+
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the Give and Take Talent, totaling to 48% damage reduction.
     -   This does not apply to self damage.
@@ -1598,7 +1600,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
 
 -   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
-    -   Receive a compass, displayed at the top of your screen, which point East. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other Aspects with the blind flaw.
+    -   Receive a compass, displayed at the top of your screen, which points East.
+    -   Right clicking on the map will place a waypoint both in the physical world and on the map itself, your compass will point towards this waypoint.
+    -   Lower the passive hunger decay.
+    -   If you have the [Blind](Boons_and_Flaws.md#flaws) flaw, gain an area of vision around your character.
 
 -   Nightchild \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
@@ -3293,9 +3298,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 25 Agility
     -   The head equipment "[Monastery Cowl](Monastery_Cowl.md)" has this Talent.
 
--   _Cut to the Chase_ \[Rare Talent\] - You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)
-    -   5 Seconds Cooldown.
+-   _Cut to the Chase_ \[Rare Talent\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. (+5 Passive Agility)
+    -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount up to 70% of your weapon's scaled damage.
+    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), uses a [Lifevent](Lifevents.md), casts [Strong Leap](Attunement-less.md#strong-leap), [Flame Leap](Flamecharm.md#flame-leap), or [Vein Tendrils](Bloodrend.md#vein-tendrils), or feints [Heavenly Wind](Galebreathe.md#heavenly-wind) or [Vicious Descent](Bloodrend.md#vicious-descent).
     -   Prerequisite: 60 Agility
+        -   The old Air Counter Talent was made innate and then reworked into this.
 
 -   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     -   Bleed is not accounted for in the damage modifier cap and bypasses armor.

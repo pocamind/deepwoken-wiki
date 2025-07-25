@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 149751
+revid: 154250
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -10,7 +10,8 @@ categories: [Locations, Etrean Luminant]
 
 LocationL Viper's Jaw LocationR
 
-  
+When Erisia was whole, these caverns were used by smugglers to sneak past the watchful eye of the Erisian nobles and ply their goods to the townsfolk.
+
   
 
 **Viper's Jaw** is a location in _Deepwoken._ It is a landmark found in [Lower Erisia](Lower_Erisia.md).

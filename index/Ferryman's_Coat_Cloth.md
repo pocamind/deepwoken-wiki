@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat Cloth"
-revid: 154159
+revid: 154337
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat_Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -16,8 +16,9 @@ categories: [Items, Drops, Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A sheet of cloth woven together with fibers. |
+| desc | The material properties of this curio astound you. Elastic yet impenetrable, you wonder if this is really cloth, or something else entirely. |
+| obtainment | The Ferryman |
 
 ## Description
 
-The **Ferryman's Coat Cloth** is a chest drop from [The Ferryman](The_Ferryman.md).
+The **Ferryman's Coat Cloth** is a direct and chest drop from [The Ferryman](The_Ferryman.md). It's a purple cloth emitting purple lightnings.

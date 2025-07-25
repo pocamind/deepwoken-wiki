@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 136938
+revid: 154242
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,14 @@ Whisper Draws are special hands of [Talent](Talents.md) cards that provide the p
 
 ## Info
 
-Whisper Draws only present themselves on [powering up to certain levels](Power.md). By the time the player has reached Power 20, they will have been offered 12 Whisper Draws. A Whisper Draw can also be gained through completing [Kelsius](Kelsius.md)' quest, consuming a Mantra at the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md), or combining two [Talents](Talents.md) into a Mantra at the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md).
+Whisper Draws only present themselves on [powering up to certain levels](Power.md). By the time the player has reached Power 20, they will have been offered 12 Whisper Draws. A Whisper Draw can also be gained through combining two [Talents](Talents.md) into a Mantra at the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md).
+
+Whisper Draws can also be obtained from specific methods. You can only gain **1** Whisper Draw total from these, as only the first one you complete will grant the Whisper Draw. These tasks are:
+
+-   [Kelsius](Kelsius.md)' quest
+-   Completing the [Tutorial](Tutorial.md)
+-   Escaping [The Depths](The_Depths.md)
+-   etc. (TBA)
 
 Every Whisper Draw also provides you with an [Ace](Aces.md), allowing you to either burn or freeze Mantra and Talent cards.
 

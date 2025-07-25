@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 153443
+revid: 154314
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -34,7 +34,8 @@ Bow: [AllBowWeapons2](https://deepwoken.fandom.com/wiki/Template:AllBowWeapons2)
 
 Greataxes: [AllGreataxeWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreataxeWeapons2)  
 Greatswords: [AllGreatswordWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreatswordWeapons2)  
-Greathammers: [AllGreathammerWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreathammerWeapons2)
+Greathammers: [AllGreathammerWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreathammerWeapons2)  
+Greatcannons: AllGreatcannonWeapons2
 
 ## Elemental Weapons
 

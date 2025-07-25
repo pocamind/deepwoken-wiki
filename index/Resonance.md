@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 154152
+revid: 154271
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Resonances, Mechanics]
+categories: [Resonances, Mechanics]
 ---
 
 # Resonance
@@ -45,7 +45,6 @@ Resonances can also be obtained through the Ancient Soul [Regalia](Regalia.md).
 -   Unnamed Ice Resonance(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 -   Unnamed Memory Swap Resonance- [Sordino](Sordino.md)
 -   Unnamed Resonance- [Volu](Volu.md)
--   Unnamed Resonance- Titus[\[1\]](#cite-note-1)
 
 ## Overview
 
@@ -75,7 +74,7 @@ Known side-effects include:
 
 -   **WITHER:** On use player will receive Wither for 10% of their max HP.
 -   **MANIA:** On use, player will lose 40 sanity.
--   **POISON:** On use, player will lose 7% HP.[\[2\]](#cite-note-2) If used below 6% health, you will be left at 1 health.
+-   **POISON:** On use, player will lose 7% HP.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
 -   **BLOOD LOSS:** On use player will lose 15% of their max blood.
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
@@ -272,7 +271,3 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 ## References
 
 1.  [↑](#cite-ref-1)
-    
-    File:Titus resonance.png
-    
-2.  [↑](#cite-ref-2)
