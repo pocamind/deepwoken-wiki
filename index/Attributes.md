@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 152301
+revid: 154168
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -63,8 +63,8 @@ Body and Mind are categories for the Core Attributes. Talents, weapon requiremen
 -   Resilience against threats. _Increases **Health** slightly per point._ This Attribute falls under the Body category.
     -   Every point in Fortitude increases your chances to resist food poisoning when eating raw materials.
     -   At 50 Fortitude, can eat most raw materials without vomiting.
-    -   Adds 0.5 HP to your character for every Fortitude point.
-    -   100 Fortitude will grant you 50 HP.
+    -   Adds 0.5 HP to your character for every Fortitude point up until you reach 50 Fortitude. At 50 Fortitude, this bonus will be halved, with each additional point only adding 0.25 HP.
+    -   100 Fortitude will grant you 37.5 HP.
     -   Does **not** add damage resistance.
     -   Some types of equipment, such as shields, some helmets, and the _Ironsinger Heavy Plate_, have a fortitude requirement to wield.
         -   _These helmets tend to have better stats than those without a fortitude requirement._

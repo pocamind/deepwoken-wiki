@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 152784
+revid: 154182
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -230,7 +230,7 @@ Exhaustive Loot Table
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Vigil_Hood.md">Vigil Hood</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Black).</li>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Vigil_Hood.md">Vigil Hood</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Black).</li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
   <ol>
     <li><b>Legendary Arms</b>: <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a>.</li>

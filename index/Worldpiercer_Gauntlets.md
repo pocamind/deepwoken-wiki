@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 148489
+revid: 154107
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -26,11 +26,11 @@ Titus Gauntlets are a Fist Weapon.
 
 ## Trivia
 
--   On release, the gauntlets were likely remnants from testing, having properties such as:
-    -   Being obtainable from a variety of sources it isn't intended to, such as [Chime of Conflict](Chime_of_Conflict.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [The Depths](The_Depths.md), [Voidsea](Voidsea.md). or [voidwalker](Voidwalker.md) chests
+-   During the 06/09/2025 update, the gauntlets were accidentally published into the game, being likely remnants from testing with the following properties:
+    -   Being obtainable from a variety of sources it isn't intended to, such as [Chime of Conflict](Chime_of_Conflict.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [The Depths](The_Depths.md), [Voidsea](Voidsea.md). or [Voidwalker](Voidwalker.md) chests.
         -   These are common lootpools, likely ones that are easy to pull from.
-    -   Having the same description as the [Legion Cestus](Legion_Cestus.md).
+    -   Being named the "Votive Gaunlets" before it was renamed into "TitusGaunlets", which is likely a placeholder or internal name.
+        -   Before it was renamed, it had the same requirements and description as the [Legion Cestus](Legion_Cestus.md). It would keep the description after it was renamed.
     -   Having no requirements, no visible stats, and having a base of 1 damage.
-    -   Being named the "TitusGaunlets", likely a placeholder or internal name.
     -   They are enchantable.
-    -   If equipped before 06/15/25, they would be deleted from the inventory. This leaves the player with no weapon, making them unable to use basic attacks, parry, block, or assassinate.
+    -   If they were equipped before 06/15/25, they would be voided and converted into placeholder items.

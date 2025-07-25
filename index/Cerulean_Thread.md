@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 153109
+revid: 154149
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Multiple Criticals, Light Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Mult
 |---|---|
 | type | Dagger |
 | requirements | 85 LHT, LVL 10 |
-| damage | 16.5 |
+| damage | 15 |
 | scaling | LHT: 7.5 |
 | range | 6 |
 | swing speed | 1.20x |
@@ -47,6 +47,6 @@ The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on 
 -   Cerulean refers to a deep blue color, referencing this weapon's shade.
 -   This is the only instance of a weapon where the critical's cooldown changes.
 -   The Cerulean Thread's initial critical uses the same animation as the [Whaling Knife](Whaling_Knife.md) critical.
--   Meeting the requirement of LHT, the damage is (24.4).
--   At max LHT, the damage is (25.8).
+-   Meeting the requirement of LHT, the damage is (22.2).
+-   At max LHT, the damage is (23.4).
 -   The second half of the Cerulean Thread critical was temporarily bugged, but this was fixed in the 06/14/2024 update.

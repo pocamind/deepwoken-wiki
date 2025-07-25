@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 152549
+revid: 154171
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -30,7 +30,7 @@ The Poser's Ring is an [Equipment](Equipment.md) item under the "Ring" category.
 
 While using a [Katana](Katana.md), [Alloyed Katana](Katana.md#alloyed), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly.
 
-Poser's Ring grants an 8% damage bonus in PvE to your melee attacks. On top of this, the sheathe can benefit separately from your [Chain of Perfection](Talents.md#metamancer) stacks, allowing you to benefit from your stacks twice. On any other weapon, max Perfection stacks would be +100% (2x) damage, but for Poser's Ring, it is +316% (4.16x) damage. This makes Poser's Ring incredibly potent for PvE, especially for bosses.
+Poser's Ring grants an 8% damage bonus in PvE to your melee attacks.
 
 ## Trivia
 

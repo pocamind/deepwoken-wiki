@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 153613
+revid: 154109
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -750,7 +750,7 @@ N/A
 -   Counts as a speed boost, meaning it can proc all related talents (including "**Speed Demon**").
 -   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
 -   Can be upgraded with the Talent "**[Action Surge](Talents.md#vigil-swordsman)**" which increases the swing speed of weapons by a extra 0.04 while the Mantra is active.
--   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
+-   Mantra modifiers Blast Spark, Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
  |
 

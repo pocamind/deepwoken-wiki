@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 154032
+revid: 154146
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -93,7 +93,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Saintsworn](Oath%253A_Saintsworn.md)
 
-(20 FIR + 20 ICE + 20 LTN + 20 WND + 20 SDW)
+(15 FIR + 15 ICE + 15 LTN + 15 WND + 15 SDW)
 
 [Saltchemistfinal](Oath%253A_Saltchemist.md)
 

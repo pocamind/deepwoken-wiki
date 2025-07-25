@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 153843
+revid: 154108
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1]
@@ -168,13 +168,29 @@ His wild white hair and unique green eyes are side effects of a Moonseye Vigour 
 </tbody>
 </table>
 
+**Player has not spoken to him in New Kyrsa:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You can barely make out the sounds of laughter as you approach*.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh? Salutations! Do you need something?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 ## Untarnishing
 
 If you talk to him with a Resonance and the Tarnished flaw, he will offer to untarnish it for 1 Knowledge, this is unlocked permanently on all slots after meeting him for the first time in New Kyrsa.
 
-## Obtainable [Monster Mantras](Monster_Mantras.md)
+## [Monster Mantras](Monster_Mantras.md)
 
-**Note:** To get the option to obtain Monster Mantras: you have to talk to him and tell him that **you work for no one**. After this he will appear in the Library at [Castle Light](Castle_Light.md), where you can interact with him again to obtain monster mantras.
+**Note:** To get the option to obtain Monster Mantras: you must talk to him and in New Kyrsa and tell him **"I work for no one."** After this he will appear in the library at [Castle Light](Castle_Light.md), where you can interact with him again to obtain monster mantras.
 
 | **Name** | **Description** | **Required Item** |
 | --- | --- | --- |

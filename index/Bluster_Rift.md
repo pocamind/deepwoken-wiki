@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 150284
+revid: 154183
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -52,7 +52,7 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   [Authority Helm](Authority_Helm.md)
 -   [Blackleaf Helm](Blackleaf_Helm.md)
 -   Gladiator Helm
--   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
 -   [Khan Helmet](Legion_Helmet.md)
 -   [Pale Assassin's Hood](<Assassin's_Hood.md>)
 -   [Vigil Hood](Vigil_Hood.md)

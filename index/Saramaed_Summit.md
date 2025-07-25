@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 151996
+revid: 154189
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones, The Ignition Union, Eastern Luminant, Locations in the Eastern Luminant]
@@ -38,7 +38,7 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 
  | 
 
--   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
 -   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
 -   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
 -   [Mercenary's Garb](<Mercenary's_Garb.md>)

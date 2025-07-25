@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 151813
+revid: 154134
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -25,7 +25,7 @@ _A glittering blue corundum._
 
  | 
 
-4
+10
 
  |
 | 
@@ -55,7 +55,7 @@ _A glittering red corundum._
 
  | 
 
-6
+20
 
  |
 | 
@@ -70,7 +70,7 @@ _Of the non-chaotic variety._
 
  | 
 
-7
+16
 
  |
 | 
@@ -133,7 +133,7 @@ _Hey, there's no blood on this one!_
 
  | 
 
-20
+6
 
  |
 

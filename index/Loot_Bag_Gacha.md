@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 153286
+revid: 154198
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics, Quests, Vendors]
@@ -79,7 +79,7 @@ An NPC located inside [The Lordsgrove](The_Lordsgrove.md).
 ### Lootpool
 
 -   [Legion Cestus](Legion_Cestus.md)
--   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
 -   Scarfs
 -   [Grand Pathfinder Backpack](<Grand_Pathfinder's_Backpack.md>)
 -   [Tanto](Tanto.md)

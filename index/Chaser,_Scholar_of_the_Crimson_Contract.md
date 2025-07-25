@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 153797
+revid: 154188
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -241,7 +241,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>:
   <ol>
     <li><b>Mythical Head</b>: <a href="Bloodforged_Crown.md"><font>Bloodforged Crown</font></a>.</li>
-    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>.</li>
+    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipments</font></a></b>:
   <ol>

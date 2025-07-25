@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 153245
+revid: 154170
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
@@ -38,9 +38,11 @@ Meeting the required amount of HVY, the damage is (39.2).
 
 ## Critical
 
-The user leans backwards and uses the blades to "chomp" the target, applying Daze. If this is landed, the user will then proceed to spin forward and perform two bloody slashes.
+The user leans backwards and uses the blades to "chomp" the target. If this is landed, the user will then proceed to spin forward and perform two bloody slashes.
 
 The critical has a cooldown of **7 seconds**.
+
+Despite what is shown in the gif, this critical does **not** apply Daze.
 
 ## Trivia
 

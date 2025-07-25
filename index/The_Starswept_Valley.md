@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 151008
+revid: 154180
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -100,7 +100,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Pale), <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, Gladiator Helmet, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Pale), <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, Gladiator Helmet, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, Parkas (Black), <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Woodland_Pauldrons.md">Woodland Pauldrons</a>.</li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (Black, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: Scarf (All Variants).</li>

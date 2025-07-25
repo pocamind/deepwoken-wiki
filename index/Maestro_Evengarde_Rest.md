@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 153279
+revid: 154191
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -320,7 +320,7 @@ Exhaustive Loot Table
     <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>:
   <ol>
     <li><b>Legendary Head</b>: <a href="Monastery_Cowl.md"><font>Monastery Cowl</font></a>.</li>
-    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Bloodfeather_Cowl.md">Bloodfeather Cowl</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Grand_Authority_Sallet.md">Bulwark Helm</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Both Variants), <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
+    <li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Bloodfeather_Cowl.md">Bloodfeather Cowl</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Grand_Authority_Sallet.md">Bulwark Helm</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Both Variants), <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipments</font></a></b>:
   <ol>

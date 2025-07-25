@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 154024
+revid: 154209
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -146,6 +146,27 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
+|  | 
+
+[Aazel's Horns](<Aazel's_Horns.md>)
+
+(**Legendary**)
+
+ | 
+
+_+1 Posture_
+
+_+8% Fire Armor_
+
++1 Rare Pip
+
+ | 
+
+Found From:
+
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
+
+ | N/A |
 | File:Aegis of Enmity2.png | 
 
 [Aegis of Enmity](Aegis_of_Enmity.md)
@@ -1134,35 +1155,6 @@ Found from:
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
  | N/A |
-| File:KnightHelm.png | 
-
-[Knight's Helm](<Silver_Knight's_Helm.md>)
-
- | 
-
-_+10 Health_  
-
-+1 Uncommon Pip  
-
-+1 Rare Pip
-
-**Requires Power 8, Fortitude 10**
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
 |  | 
 
 [Kyrsmas Hat](Kyrsmas_Hat.md)
@@ -1403,6 +1395,35 @@ Found From:
 
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Voidsea](Voidsea.md) events
+
+ | N/A |
+| File:KnightHelm.png | 
+
+[Silver Knight's Helm](<Silver_Knight's_Helm.md>)
+
+ | 
+
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+**Requires Power 8, Fortitude 10**
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
+-   [Hell Mode](Hell_Mode.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Lodestar](Lodestar.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 

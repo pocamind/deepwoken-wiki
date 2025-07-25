@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 153462
+revid: 154154
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -10,14 +10,14 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 | Oath: Saintsworn | |
 |---|---|
-| oath_req | 20 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
+| oath_req | 15 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
 | effects | +2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot |
 
 | Saintsblade | |
 |---|---|
 | type | Oath Weapon |
 | requirements | Oath |
-| damage | 30 |
+| damage | 28 |
 | range | 8.5 |
 | swing speed | 1.04x |
 | penetration | 10% |
@@ -46,7 +46,7 @@ The Five Heroes were considered to be the Saints of their respective [attunement
 
 ### Obtainment
 
-Saintsworn obtainment requires 20 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
+Saintsworn obtainment requires 15 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
 
 After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Thundercall -> Flamecharm -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement.
 
@@ -76,7 +76,7 @@ The ice on the floor will deal damage.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/v-BLz4_jidU)._
 
--   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 20 points in an attunement to resonate with their respective obelisk- in other words, you need 20 points in the 5 different attunements. It is **NOT** a combined requirement.
+-   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 15 points in an attunement to resonate with their respective obelisk- in other words, you need 15 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
     -   This may be a bug but as of now you can get saintsworn without meeting the requirements for as long as you have spoken with the obelisk's beforehand (Example, you can talk with the obelisks and obtain the oath and then shrine down your attunement to below the requirement, so, 30 flame, get oath, shrine, 18 flame, and you still have the oath.) (Tested 5/31/25, confirmed to work but took an _aggravatedly_ long time...)
 
@@ -100,7 +100,7 @@ Each stance uses the critical of the matching hero blade.
 
 **Saintsblade - Passive**
 
--   By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **30** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
+-   By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **28** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
     -   The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects. It does, however, gain extra PEN from Proficiency.
     -   The Saintsblade shares the star value from your normal weapon, but it won't carry over the Enchant due to effectively being a Legendary Weapon.
     -   However, if you have an Enchantment that applies a status effect onto the enemy (e.g. Grim, Sear, or Solar), they will stay active upon switching back to the Saintsblade.
@@ -228,7 +228,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 ## Trivia
 
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
--   The 20 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 20 invest in some of your attunements.
+-   The 15 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 15 invest in some of your attunements.
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
 -   Saint's Synergy, Ether Proselyte('s Mantra level increasing effect), and Hero's Assist can all proc when not using the Saintsblade. The rest of the Saintsworn Oath does nothing while not using the weapon.
 -   The Saintsblade has the most base M1 damage amount at 30 of all other base weapons in the game. But does not have any scaling.

@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 152732
+revid: 154187
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, The Ignition Union]
@@ -110,7 +110,7 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 
  | 
 
--   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
 -   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
 -   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
 -   [Mercenary's Garb](<Mercenary's_Garb.md>)

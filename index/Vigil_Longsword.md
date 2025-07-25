@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 153495
+revid: 154110
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -49,4 +49,4 @@ This critical has a **5 second** cooldown.
     -   At max MED, the alloyed damage is (31.3)
 -   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg in exchange for less pen. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Its model was changed to match the length of its stats.
--   The Vigil Longsword was given a unique crit on the January 25, 2025 update.
+-   The Vigil Longsword was given a unique critical attack on the January 25, 2025 update.

@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 154029
+revid: 154166
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -28,9 +28,13 @@ categories: [Equipment, Torso, Items, Relics]
 
 The **Mantle of Enmity** is a Unique [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
-This equipment grants the [Heartwing Beat](Talents.md#spoils-of-enmity) Talent, transforming your aerial attack into a quick true hyperamor slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 15 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash.
+This equipment grants the [Heartwing Beat](Talents.md#spoils-of-enmity) Talent, transforming your aerial attack into a quick slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 15 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash.
 
 This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) Talent.
+
+## Gallery
+
+Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor.
 
 ## Trivia
 

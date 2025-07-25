@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 154040
+revid: 154172
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -428,7 +428,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 30 Fortitude, 30 Willpower
     -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
 
--   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%. (+5 Health)
+-   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%.
     -   Scales linearly with investment up to its requirement. You'll have 10% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD above 65; scaling up to the full 30% once you hit 90 FTD.
     -   PEN calculation: incoming PEN \* (1 - 0.Reinforced Armor effectiveness) = reduced incoming PEN.
         -   For example, 50% PEN vs 20% Reinforced Armor = 50 \* (1 - 0.2) = 40% PEN.
@@ -988,7 +988,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Restore 2 flat posture on a successful dodge.
     -   Prerequisites: 15 Strength, 45 Agility.
 
--   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility)
+-   Strong Hold \[Common Talent\] - When above 33% health and two-handing, posture damage taken is reduced by 5%. (+9 Carry Load, +1 Passive Agility)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
     -   The head equipments "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this Talent.
     -   Works only with medium weapons.
@@ -1597,8 +1597,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name.
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
 
--   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. You are less prone to starvation.
-    -   Receive a compass, displayed at the top of your screen, which point South. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other Aspects with the blind flaw.
+-   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
+    -   Receive a compass, displayed at the top of your screen, which point East. Lose less hunger. If you have the blind flaw, you will have a little more vision unlike other Aspects with the blind flaw.
 
 -   Nightchild \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
@@ -1748,7 +1748,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
--   Hoplite \[Common Talent\] - Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility)
+-   Hoplite \[Common Talent\] - Posture damage is reduced by 15% when wielding a spear and standing still. (+2 Passive Agility)
     -   Stacks with shield.
     -   Was moved to Lancer class, used to be in Legion Shock Trooper.
     -   Prerequisites: 15 Fortitude, Using a spear
@@ -1880,7 +1880,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
     -   Prerequisite: [Power](Power.md) 10
 
--   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 25% less posture damage. (+5 Health)
+-   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
     -   Prerequisite: 20 Willpower
 
 -   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your M1's and critical attacks have an additional +5% PEN on top.
@@ -1939,7 +1939,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: [Iron Skin](Ironsing.md#iron-skin) (Mantra), 25 Ironsing
 
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
-    -   Iron Hug will steal 15% of current enemy's armor durability (If iron hug someone with 1k durability armor, you will get only 150 durability to you, as example 2600 durability armor will get 6% armor)
+    -   Iron Hug will steal 10% of your opponent's current armor durability and siphon it back to yourself.
     -   Prerequisites: [Iron Hug](Ironsing.md#iron-hug) (Mantra), 30 Ironsing
 
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
@@ -2327,7 +2327,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Saintsworn
 
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Prerequisites: 20 Flamecharm, 20 Galebreathe, 20 Shadowcast, 20 Frostdraw, 20 Thundercall, resonate with all of the Attunement obelisks in any order.
+    -   Prerequisites: 15 Flamecharm, 15 Galebreathe, 15 Shadowcast, 15 Frostdraw, 15 Thundercall, resonate with all of the Attunement obelisks in any order.
         -   The Flamecharm obelisk is at [Saramaed Summit](Saramaed_Summit.md), the Galebreathe obelisk is at [The Garden Reservoir](The_Garden_Reservoir.md), the Shadowcast obelisk is at [Moon's Eyrie](<Moon's_Eyrie.md>), the Frostdraw obelisk is atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), and the Thundercall obelisk is at [Boatman's Watch](<Boatman's_Watch.md>). See the [Saintsworn](Oath%253A_Saintsworn.md) page for more info.
 
 -   Ether Proselyte \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md) Exclusive\] - All of your Elemental Mantras below Lv. 5 are now 1 level higher. Your Mantras are now converted to the element of your current stance.
@@ -2807,7 +2807,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Spoils of Enmity
 
 -   Heartwing Beat \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
-    -   Replaces your aerial attack with a true hyperarmor attack that applies wither and has innate bleed.
+    -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
     -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
     -   Heartwing Beat has a 6 second cooldown.
     -   Granted by the [Mantle of Enmity](Mantle_of_Enmity.md) torso equipment.
@@ -3283,10 +3283,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Action Surge \[Common Talent\] - Adrenaline Surge now increases your swing speed by 0.04 for its duration. (+1 Passive Agility)
     -   Prerequisites: 70 Agility, [Adrenaline Surge](Attunement-less.md#adrenaline-surge) (Mantra)
 
--   _Air Counter_ \[Rare Talent\] - You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)
-    -   5 Seconds Cooldown.
-    -   Prerequisite: 60 Agility
-
 -   Bear Trap \[Common Talent\] - Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
     -   Makes the opponent unable to jump for 4 seconds.
@@ -3296,6 +3292,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Blade Dancer \[Common Talent\] - Landing an M1 removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
     -   The head equipment "[Monastery Cowl](Monastery_Cowl.md)" has this Talent.
+
+-   _Cut to the Chase_ \[Rare Talent\] - You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)
+    -   5 Seconds Cooldown.
+    -   Prerequisite: 60 Agility
 
 -   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
@@ -3448,7 +3448,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Prerequisites: 20 Flamecharm, 20 Galebreathe, 20 Shadowcast, 20 Frostdraw, 20 Thundercall, resonate with all of the Attunement obelisks in any order.
+    -   Prerequisites: 15 Flamecharm, 15 Galebreathe, 15 Shadowcast, 15 Frostdraw, 15 Thundercall, resonate with all of the Attunement obelisks in any order.
         -   The Flamecharm obelisk is at [Saramaed Summit](Saramaed_Summit.md), the Galebreathe obelisk is at [The Garden Reservoir](The_Garden_Reservoir.md), the Shadowcast obelisk is at [Moon's Eyrie](<Moon's_Eyrie.md>), the Frostdraw obelisk is atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), and the Thundercall obelisk is at [Boatman's Watch](<Boatman's_Watch.md>). See the [Saintsworn](Oath%253A_Saintsworn.md) page for more info.
 
 -   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
@@ -3674,7 +3674,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), or Rush Hour from Bloodrend.
 -   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
-    -   Replaces your aerial attack with a true hyperarmor attack that applies wither and has innate bleed.
+    -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
     -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
     -   Heartwing Beat has a 6 second cooldown.
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.

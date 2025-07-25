@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 153813
+revid: 154199
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -291,7 +291,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
   <td><b><a href="Equipment.md">Equipment Drops</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>: <a href="Silver_Knight's_Helm.md">Knight's Helm</a></li>
+    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>: <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a></li>
     <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>,<a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>,<a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Delver's_Duster.md">Delver's Duster</a></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>,</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>: <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li>

@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 153758
+revid: 154181
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -106,7 +106,7 @@ Exhaustive Loot Table
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Strapped_Hat.md">Double Strapped Hat</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Gumshoe_Hat.md">Gumshoe Hat</a> (All Variants), <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Silver_Knight's_Helm.md">Knight's Helm</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>.</li>
+    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Strapped_Hat.md">Double Strapped Hat</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Gumshoe_Hat.md">Gumshoe Hat</a> (All Variants), <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>.</li>
     <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>:
   <ol>
     <li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a></li>
