@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 153655
+revid: 154422
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -20,7 +20,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
 
 [Arcwarder](Oath%253A_Arcwarder.md) - A [Flamecharm](Flamecharm.md)/[Thundercall](Thundercall.md) Hybrid Oath that harnesses these Attunements' defensive and offensive capabilities. Requirements: 20 Flamecharm, 20 Thundercall, 20 Fortitude.
 
-[Saintsworn](Oath%253A_Saintsworn.md) - An Hybrid Oath that is comprised of the 5 base Attunements, specializing in elemental combination through various methods. Requirements: 20 [Flamecharm](Flamecharm.md), 20 [Frostdraw](Frostdraw.md), 20 [Galebreathe](Galebreathe.md), 20 [Shadowcast](Shadowcast.md), 20 [Thundercall](Thundercall.md).
+[Saintsworn](Oath%253A_Saintsworn.md) - An Hybrid Oath that is comprised of the 5 base Attunements, specializing in elemental combination through various methods. Requirements: 15 [Flamecharm](Flamecharm.md), 15 [Frostdraw](Frostdraw.md), 15 [Galebreathe](Galebreathe.md), 15 [Shadowcast](Shadowcast.md), 15 [Thundercall](Thundercall.md).
 
 ## Mantras
 

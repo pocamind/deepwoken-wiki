@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 154095
+revid: 154426
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -93,7 +93,7 @@ Gain 15% physical damage reduction. Applied through the [Orbital Ice](Talents.md
 
 Applied by the [Cool Head](Talents.md#cryomancer) Talent. For the duration, you are unable to be lit on fire, signified by a cold breath coming out of your character's mouth periodically.
 
-### Jumpstarted
+### Jumpstart
 
 Applied by using the [Static Withdraw](Talents.md#thundercall) Talent tool with the [Jumpstart](Talents.md#self-shocker) upgrade. Increases your mobility, grants a 10% damage modifier to weapon attacks, and allows you to apply [Shock](#shock)/[Surge Stacks](#overloaded) on your weapon attacks. This effect can be enhanced with the [Raging Static](Talents.md#self-shocker) Talent, removing the mobility buffs to double the damage modifier's effectiveness to 20% and lessening the self damage on cast. Signified by a yellow/blue thunder conduit over your heart.
 
@@ -163,7 +163,7 @@ At the cost of draining all of your armor, your M1s bypass your opponent's armor
 
 ### Champion's Regalia
 
-Gain +50% posture damage for 10 seconds after successfully flourishing an opponent. This effect is applied from the [Champion's Regalia](Talents.md#champion) Talent and is signified by a gold outline on your character.
+Gain +50% posture damage for 10 seconds to your M1's after successfully flourishing an opponent. This effect is applied from the [Champion's Regalia](Talents.md#champion) Talent and is signified by a gold outline on your character.
 
 ### Overcharm
 
@@ -232,7 +232,7 @@ It has a few sub-variants:
 -   Azure Burning: Has higher burn damage. This burn type comes from [Azure Flames](Talents.md#flamecharmer).
 -   Black Flames: Consumes your Ether while you are burning and spawns Puppets if applied via a non-Shadowcast source. This burn type comes from [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets).
 -   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
--   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) exclusive, white flames that scale on your Intelligence investment, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, it instead scales on your Flamecharm investment like all other burn types.)
+-   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that scale on your Intelligence investment, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, it instead scales on your Flamecharm investment like all other burn types.)
 -   Flamewreathe Burn: [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
 -   Self Immolation: [Flame Within](Talents.md#amoran-seeker) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
 

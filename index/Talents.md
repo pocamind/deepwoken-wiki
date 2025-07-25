@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 154295
+revid: 154380
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -366,7 +366,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Lights Out \[Common Talent, Agility\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
 
--   Lowstride \[Common Talent, Agility\] - Speed during crouching increased, unsheathing a weapon is silent and stealth increased (+1 Passive Agility)
+-   Lowstride \[Common Talent, Agility\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Crouching already increases your stealth, but Lowstride amplifies this.
     -   Prerequisite: 20 Agility
@@ -1050,7 +1050,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 15 Intelligence
 
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
-    -   Gives ~3% ether per parry
+    -   Gives ~3% ether per mantra parry. (this seems to scale with damage (?) multihits also give ether for each hit parried, for example caltrops gave back 8% ether meanwhile exhaustion strike gave back 3%)
     -   Prerequisites: 20 Agility, 15 Intelligence
 
 -   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
@@ -1062,7 +1062,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
     -   Refunds the ether cost of a mantra proportionate to your INT.
     -   Refunds 20% at 30 Intelligence, scaling up to 25% refunded at 100 Intelligence.
-    -   It has **6 seconds** cooldown.
+    -   Has a **6 second** cooldown.
     -   Prerequisite: 30 Intelligence
 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.

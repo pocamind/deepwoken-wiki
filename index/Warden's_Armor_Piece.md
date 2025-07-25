@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 154318
+revid: 154392
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -16,7 +16,7 @@ categories: [Items, Drops, Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A much-prized trophy to prised off the beast. |
+| desc | A much-prized trophy you prised off the beast. |
 
 ## Description
 

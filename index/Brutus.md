@@ -1,9 +1,9 @@
 ---
 title: Brutus
-revid: 152520
+revid: 154415
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant]
+categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
 ---
 
 # Brutus

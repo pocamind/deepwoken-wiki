@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 154344
+revid: 154433
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Hundred Legions]
@@ -25,7 +25,7 @@ Requires Hero Rep with [The Hundred Legions](The_Hundred_Legions.md)
 
 ## Progression
 
-Currently unknown.
+Unknown
 
 ## Effects
 

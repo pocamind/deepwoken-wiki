@@ -1,9 +1,9 @@
 ---
 title: Viridian
-revid: 152443
+revid: 154417
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, Oaths, Oath Trainers, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, NPCs, Oaths, Oath Trainer, NPCs located in the Eastern Luminant]
 ---
 
 # Viridian

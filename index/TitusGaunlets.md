@@ -1,6 +1,6 @@
 ---
 title: TitusGaunlets
-revid: 149137
+revid: 154382
 source: https://deepwoken.fandom.com/wiki/TitusGaunlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Titus Gauntlets](Titus_Gauntlets%253Fredirect=no.md)
+-   [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md)

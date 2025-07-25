@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 153546
+revid: 154411
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -32,6 +32,7 @@ Some books are obtained as part of specific quests and cannot be found outside o
 -   Diver Journal I, II, III: [Second Layer](Second_Layer.md)
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
 -   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md)
+-   Legion Intelligence: Talking to [Caitus](Caitus.md)
 
   
 
@@ -1338,6 +1339,16 @@ Shoulder to shoulder, together, tall!
 > “I'm sorry.”
 > 
 > The chamber door seals shut.
+
+  
+
+### Legion Intelligence
+
+> SALVETE, LEGATE FVLMINVS
+> 
+> IN LIGHT OF THE CIRCVMSTANCES, THERE HAS BEEN A SHIFT IN PRIORITIES. A CHALLENGING DECISION HAS BEEN TAKEN TO DELAY YOVR FREEDOM IN FAVOVR OF THE IMPROVEMENT OF OVR STRATEGIC ODDS. WE ASK FOR YOVR FAMED PATIENCE DURING THIS TIME. YOVR LOYALTY AND DRIVE AMONGST THE HVNDRED LEGIONS IS FOREVER APPRECIATED.
+> 
+> AVDENTES FORTVNA IVVAT
 
   
 

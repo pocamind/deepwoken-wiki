@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 152278
+revid: 154391
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Attribute Trees
 
-Talent Trees documented so far in [Talents](Talents.md): 48/195  
+Talent Trees documented so far in [Talents](Talents.md): 53/195  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
 Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[15 Fortitude OR 15 Willpower, 30 intelligence, Other\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Potion Quaffer.
@@ -39,15 +39,17 @@ Pulled from [Talents](Talents.md) for immediate reference.
 2.  [Body and Mind](#body-and-mind-hybrids-211)
     1.  [Fortitude (FTD)](#fortitude-hybrids-212)
     2.  [Agility (AGL)](#agility-hybrids-213)
-    3.  [Willpower (WIL)](#willpower-hybrids-214)
-3.  [Weapon (WEP)](#weapon-hybrids-215)
-    1.  [Heavy (HVY)](#heavy-hybrids-216)
-    2.  [Medium (MED)](#medium-hybrids-217)
-4.  [Attunement (ELM)](#attunement-hybrids-218)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids-219)
-5.  [Oaths](#oaths-2110)
-    1.  [Bladeharper](#bladeharper-2111)
-    2.  [Chainwarden](#chainwarden-2112)
+    3.  [Intelligence (INT)](#intelligence-hybrids-214)
+    4.  [Willpower (WIL)](#willpower-hybrids-215)
+3.  [Weapon (WEP)](#weapon-hybrids-216)
+    1.  [Heavy (HVY)](#heavy-hybrids-217)
+    2.  [Medium (MED)](#medium-hybrids-218)
+4.  [Attunement (ELM)](#attunement-hybrids-219)
+    1.  [Flamecharm (FIR)](#flamecharm-hybrids-2110)
+    2.  [Galebreathe (WND)](#galebreathe-hybrids-2111)
+5.  [Oaths](#oaths-2112)
+    1.  [Bladeharper](#bladeharper-2113)
+    2.  [Chainwarden](#chainwarden-2114)
 
 ## Exclusive 2.1.0
 
@@ -98,7 +100,15 @@ Duelist;4.48c | 25STR
 15AGL  
 [Phalanx Helmet](Phalanx_Helmet.md) | After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility) |
 
-### Willpower Hybrids 2.1.4
+### Intelligence Hybrids 2.1.4
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Nullifying Clarity  
+Ether Adept;4.53g | 15STR  
+5INT | Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects) |
+
+### Willpower Hybrids 2.1.5
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -107,8 +117,11 @@ Apex Predator;4.12a | 5STR
 5WIL | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
 Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
+| File:TalentCardImage2.png | Charged Return  
+Ether Adept;4.53a | 15STR  
+20WIL | Being under an elemental status effect causes your M1's and critical attacks to do 10% more damage. |
 
-## Weapon Hybrids 2.1.5
+## Weapon Hybrids 2.1.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -116,7 +129,7 @@ Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health wh
 Aerial Dancer;4.4a | 15STR  
 25WEP | You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead. |
 
-### Heavy Hybrids 2.1.6
+### Heavy Hybrids 2.1.7
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -133,7 +146,7 @@ Colossus;4.34c | 25STR
 Unwavering Resolve  
 Greathammer | \[Greathammer\] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load) |
 
-### Medium Hybrids 2.1.7
+### Medium Hybrids 2.1.8
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -143,9 +156,18 @@ Duelist;4.48f | 30STR
 [Authority Helm](Authority_Helm.md), [Bulwark Helm](Grand_Authority_Sallet.md)  
 Medium Weapon | When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility) |
 
-## Attunement Hybrids 2.1.8
+## Attunement Hybrids 2.1.9
 
-### Galebreathe Hybrids 2.1.9
+### Flamecharm Hybrids 2.1.10
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Concussive Flash  
+Duelist Flame;4.49a | 25STR  
+30FIR  
+Flame Bind(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
+
+### Galebreathe Hybrids 2.1.11
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -155,9 +177,9 @@ Aeromancer;4.5d | 15STR
 |  | Stifled Jump  
 Aeromancer;4.5e | Suffocating Impact;4.5d | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
 
-## Oaths 2.1.10
+## Oaths 2.1.12
 
-### Bladeharper 2.1.11
+### Bladeharper 2.1.13
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -179,7 +201,7 @@ Bladeharper;4.21e | Oath: Bladeharper;4.21a
 Bladeharper;4.21f | Oath: Bladeharper;4.21a  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
-### Chainwarden 2.1.12
+### Chainwarden 2.1.14
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -339,12 +361,13 @@ Chainwarden;4.29c | Oath: Chainwarden;4.29a
 2.  [Body and Mind](#body-and-mind-hybrids-231)
     1.  [Strength (STR)](#strength-hybrids-232)
     2.  [Fortitude (FTD)](#fortitude-hybrids-233)
-3.  [Weapon (WEP)](#weapon-hybrids-234)
-    1.  [Light (LHT)](#light-hybrids-235)
-4.  [Attunement (ELM)](#attunement-hybrids-236)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids-237)
-5.  [Oaths](#oaths-238)
-    1.  [Bladeharper](#bladeharper-239)
+    3.  [Intelligence (INT)](#intelligence-hybrids-234)
+3.  [Weapon (WEP)](#weapon-hybrids-235)
+    1.  [Light (LHT)](#light-hybrids-236)
+4.  [Attunement (ELM)](#attunement-hybrids-237)
+    1.  [Galebreathe (WND)](#galebreathe-hybrids-238)
+5.  [Oaths](#oaths-239)
+    1.  [Bladeharper](#bladeharper-2310)
 
 ## Exclusive 2.3.0
 
@@ -415,9 +438,17 @@ Alley Cat;4.7a | 25AGL
 | File:TalentCardImage2.png | Conditioned Runner  
 Alley Cat;4.7c | Endurance Runner;4.7a, Scaredy Cat;4.7b | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
-## Weapon Hybrids 2.3.4
+### Intelligence Hybrids 2.3.4
 
-### Light Hybrids 2.3.5
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Ether Blade  
+Ether Adept;4.53c | 20AGL  
+15INT | Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras. |
+
+## Weapon Hybrids 2.3.5
+
+### Light Hybrids 2.3.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -426,9 +457,9 @@ Critical Specialist;4.38a | 50AGL
 40LHT  
 Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger. |
 
-## Attunement Hybrids 2.3.6
+## Attunement Hybrids 2.3.7
 
-### Galebreathe Hybrids 2.3.7
+### Galebreathe Hybrids 2.3.8
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -436,9 +467,9 @@ Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack 
 Aeromancer;4.5a | 30AGL  
 35WND | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility) |
 
-## Oaths 2.3.8
+## Oaths 2.3.9
 
-### Bladeharper 2.3.9
+### Bladeharper 2.3.10
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -464,11 +495,13 @@ Bladeharper;4.21f | Oath: Bladeharper;4.21a
 
 1.  [Exclusive](#exclusive-240)
 2.  [Body and Mind](#body-and-mind-hybrids-241)
-    1.  [Fortitude (FTD)](#fortitude-hybrids-242)
-    2.  [Willpower (WIL)](#willpower-hybrids-243)
-3.  [Attunement (ELM)](#attunement-hybrids-244)
-    1.  [Frostdraw (ICE)](#frostdraw-hybrids-245)
-    2.  [Shadowcast (SDW)](#shadowcast-hybrids-246)
+    1.  [Strength (STR)](#strength-hybrids-242)
+    2.  [Fortitude (FTD)](#fortitude-hybrids-243)
+    3.  [Agility (AGL)](#agility-hybrids-244)
+    4.  [Willpower (WIL)](#willpower-hybrids-245)
+3.  [Attunement (ELM)](#attunement-hybrids-246)
+    1.  [Frostdraw (ICE)](#frostdraw-hybrids-247)
+    2.  [Shadowcast (SDW)](#shadowcast-hybrids-248)
 
 ## Exclusive 2.4.0
 
@@ -477,12 +510,20 @@ Bladeharper;4.21f | Oath: Bladeharper;4.21a
 | File:TalentCardImage2.png | Apothecary  
 Alchemist;4.6a | 10INT  
 [Alchemist's Hat](<Alchemist's_Hat.md>), [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) | Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown |
+| File:TalentCardImage2.png | Ether Absorption  
+Ether Adept;4.53b | 15INT | Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load) |
+| File:TalentCardImage2.png | Mantra Permanence  
+Ether Adept;4.53f | 20INT | Knocking an enemy with a mantra refunds the cost of the mantra. |
 | File:TalentCardImage2.png | Everchanging Aegis  
 Adept Caster;4.3a | 25INT | You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load) |
 | File:TalentCardImage2.png | Perfect Flash  
 Adept Caster;4.3d | 25INT | Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away. |
 | File:TalentCardImage2.png | Wild Alchemy  
 Alchemist;4.6f | 25INT | You have a chance to brew 2 potions instead of 1. |
+| File:TalentCardImage2.png | Ether Conduit  
+Ether Adept;4.53d | 30INT | Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load) |
+| File:TalentCardImage2.png | Eureka  
+Ether Adept;4.53e | 30INT | Receive ether back on every successful [perfect cast](Combat_Mechanics.md). (+7 Carry Load) |
 | File:TalentCardImage2.png | Overflowing Dam  
 Adept Caster;4.3c | 40INT | Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage. |
 | File:TalentCardImage2.png | Master Craftsman  
@@ -500,7 +541,15 @@ Adept Caster;4.3b | 85INT | You can input up to 4 copies of each Mantra ingredie
 
 ## Body and Mind Hybrids 2.4.1
 
-### Fortitude Hybrids 2.4.2
+### Strength Hybrids 2.4.2
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Nullifying Clarity  
+Ether Adept;4.53g | 5INT  
+15STR | Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects) |
+
+### Fortitude Hybrids 2.4.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -509,7 +558,15 @@ Alchemist;4.6e | 30INT
 15FTD  
 [Other](Talents.md#alchemist) | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-### Willpower Hybrids 2.4.3
+### Agility Hybrids 2.4.4
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Ether Blade  
+Ether Adept;4.53c | 15INT  
+20AGL | Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras. |
+
+### Willpower Hybrids 2.4.5
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -518,9 +575,15 @@ Alchemist;4.6e | 30INT
 15WIL  
 [Other](Talents.md#alchemist) | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-## Attunement Hybrids 2.4.4
+## Attunement Hybrids 2.4.6
 
-### Frostdraw Hybrids 2.4.5
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Ether Overdrive  
+Elementalist;4.50a | 90INT  
+20ELM | Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. |
+
+### Frostdraw Hybrids 2.4.7
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -528,7 +591,7 @@ Alchemist;4.6e | 30INT
 Cryomancer;4.39c | 20INT  
 15ICE | Passively collect condensation from the air, greatly reducing your thirst. |
 
-### Shadowcast Hybrids 2.4.6
+### Shadowcast Hybrids 2.4.8
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -561,6 +624,8 @@ Champion;4.30b | 70WIL | Negative status effects are half as effective when you 
 
 ### Strength Hybrids 2.5.2
 
+WIL
+
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
 | File:TalentCardImage2.png | Carnivore  
@@ -568,6 +633,9 @@ Apex Predator;4.12a | 5WIL
 5STR | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
 Apex Predator;4.12b | Carnivore;4.12a | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
+| File:TalentCardImage2.png | Charged Return  
+Ether Adept;4.53a | 20WIL  
+15STR | Being under an elemental status effect causes your M1's and critical attacks to do 10% more damage. |
 
 ### Fortitude Hybrids 2.5.3
 
@@ -631,6 +699,9 @@ Charm Caster;4.31a | 25CHA | Landing mantras on enemies charms them reducing dam
 | File:TalentCardImage2.png | Tough Love  
 Charm Caster;4.31d | 25CHA  
 Charmismatic Cast;4.31a | Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly. |
+| File:TalentCardImage2.png | Give and Take  
+Empath;4.51b | 35CHA  
+[Investigator's Hat](<Investigator's_Hat.md>), [Tophat](Tophat.md) | Deal less damage to comrades and receive less damage from comrades. |
 | File:TalentCardImage2.png | Chaotic Charm  
 Charm Caster;4.31b | 55CHA  
 Charmismatic Cast;4.31a | When attacked at low health enemies deal less damage to you and more to anyone else. |
@@ -639,6 +710,12 @@ Charm Caster;4.31c | 55CHA
 Charmismatic Cast;4.31a | Enemies charmed by your mantras are charmed longer. |
 | File:TalentCardImage2.png | Dazing Finisher  
 Charm Caster;4.31e | [Charm Caster;4.31](Talents.md#charm-caster) (Talents) | Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. |
+| File:TalentCardImage2.png | Cornered Fool  
+Empath;4.51a | 85CHA  
+[Taunt](Attunement-less.md#taunt)(☆☆☆) | Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD. |
+| File:TalentCardImage2.png | Off Your Game  
+Empath;4.51c | 90CHA  
+[Taunt](Attunement-less.md#taunt)(☆☆☆) | You now slow Taunted enemies when you hit them. |
 
 **Weapon (WEP):**
 
@@ -781,10 +858,12 @@ Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack 
 **Flamecharm (FIR):**
 
 1.  [Exclusive](#exclusive-410)
-2.  [Attunement (ELM)](#attunement-hybrids-411)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-412)
-3.  [Oaths](#oaths-413)
-    1.  [Arcwarder](#arcwarder-414)
+2.  [Body and Mind](#body-and-mind-hybrids-411)
+    1.  [Intelligence (INT)](#intelligence-hybrids-412)
+3.  [Attunement (ELM)](#attunement-hybrids-413)
+    1.  [Bloodrend (BLD)](#bloodrend-hybrids-414)
+4.  [Oaths](#oaths-415)
+    1.  [Arcwarder](#arcwarder-416)
 
 ## Exclusive 4.1.0
 
@@ -793,9 +872,19 @@ Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack 
 |  | Flame Within  
 Amoran Seeker;4.9a | 25FIR | An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage. |
 
-## Attunement Hybrids 4.1.1
+## Body and Mind Hybrids 4.1.1
 
-### Bloodrend Hybrids 4.1.2
+### Intelligence Hybrids 4.1.2
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Ether Overdrive  
+Elementalist;4.50a | 20ELM  
+90INT | Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. |
+
+## Attunement Hybrids 4.1.3
+
+### Bloodrend Hybrids 4.1.4
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -803,9 +892,9 @@ Amoran Seeker;4.9a | 25FIR | An application of Pleeksty's concept of the inner f
 Bloodsong;4.24f | 40FIR  
 40BLD | Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood. |
 
-## Oaths 4.1.3
+## Oaths 4.1.5
 
-### Arcwarder 4.1.4
+### Arcwarder 4.1.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -843,8 +932,16 @@ Arcwarder;4.13f | Arcwarder;4.13a
 
 **Generic:**
 
-1.  [Quest](#quest-exclusive-x10)
-2.  [Fishing](#fishing-x11)
+1.  [Starter](#starter-x10)
+2.  [Quest](#quest-exclusive-x11)
+3.  [Fishing](#fishing-x12)
+
+## Starter X.1.0
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Robber Baron  
+Escape Artist;4.52a | [Pathfinder's Backpack](<Pathfinder's_Backpack.md>), [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) | You hold onto more items when defeated. |
 
 ## Quest Exclusive X.1.0
 

@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 154285
+revid: 154403
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -41,5 +41,6 @@ Chorus Divide will use the players highest invested attunement upon obtaining th
 -   The [Galebreathe](Galebreathe.md) variant will (potentially) apply suffocate or other gale talents to players hit by the beams
 -   The [Thundercall](Thundercall.md) variant will (shock?) players hit by the beams
 -   The [Shadowcast](Shadowcast.md) variant will (potentially) steal ether from, blind, and proc shadow talents to player hit by the beams
+-   The [Ironsing](Ironsing.md) variant will proc metal rods to players hit by the beams
 
 If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will additionally be the attunement of their current **Saint Stance**.

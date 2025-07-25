@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 154334
+revid: 154379
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 ## Appearance
 
-Titus Fulminus Destellus is a Khan with great stature, just around twice the height of a Deepwoken player/character. He wears his hair in dreads, being greyed out to signify his age, as well as having wrinkles on his face to further show his age. He wears the Worldpiercer Gauntlets as well as (insert outfit here) and (insert his equipment here). He also wears a bell on his waist, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
+Titus Fulminus Destellus is a Khan with great stature, just around twice the height of a Deepwoken player/character. He wears his hair in dreads, being greyed out to signify his age, as well as having wrinkles on his face to further show his age. He wears the Worldpiercer Gauntlets as well as (insert outfit here) and (insert his equipment here). He also wears a bell on his waist, signifying that he is strong enough to have obtained a [Resonance](Resonance.md) (Uses Chorus Divide).
 
 WIP
 
@@ -26,19 +26,17 @@ WIP
 
 | Name | Description | Media |
 | --- | --- | --- |
-| 
-**Move Name**  
-
- | Move Description |  |
-| 
-
-'_Move Name_  
-
- | Move description
-
+| Worldpiercer | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves.
 Parryable:◯  
-Blockable:✗  
-Dodgeable:◯
+Blockable:  
+Dodgeable:
+
+ |  |
+| Sovereign Drive | Move description
+
+Parryable:  
+Blockable:  
+Dodgeable:
 
  |  |
 
@@ -95,3 +93,7 @@ Dodgeable:◯
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Fulminus Destellus means "Starlight Lightning" in Latin.
