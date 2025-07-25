@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 136114
+revid: 154055
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -75,16 +75,16 @@ _**If enough Medallions:**_
 
 _(Nothing Happens)_
 
-1.  Here are the coins. (**5 Kyrsan Medallions**)
+1.  Here are the coins. (**5** )
 
 "Wise friend... Cleanse their bones with this strength."
 
 _**If not enough Medallions:**_
 
 1.  Nevermind, maybe later.
-2.  Here are the coins. (**5 Kyrsan Medallions**)
+2.  Here are the coins. (**5** )
 
-"I shall search your s-" _(Dialogue cut by Death)_
+"I shall search your spine, rat." - **Instant death**.
 
 _**Clarity:**_
 
@@ -115,8 +115,10 @@ _**Loop:**_
 
 -   Misérables' name may be a reference to 19th century novel _Les Misérables_, a story which touches on the topics of moral philosophy and the nature of human society. The word "Misérables" directly translates to wretched. And of course, Misérables is a cognate for Miserable.
 -   He is theorized to be related to Deep Owls; both are familiar with the concept of deals and treat humans as small boring creatures like mice. Misérables especially has the power to back up his threats, whereas you can fight off a Deep Owl.
-    -   This difference in strength between Misérables and other Deep Owls may stem from Misérables' differing choice of prey. Feeding on Kyrsgarde, as opposed to humans, likely yields a far superior meal, as shown by the Kyrsgarde's overwhelmingly superior technological innovation and splendor. Misérables himself speaks on this when asking why he seeks medallions.
--   As a friendly reminder, Misérables won't kill you if you're in combat, if you select any of the \[End Dialogue\]'s, or lack the knowledge for Clarity. He exclusively kills you if you ask for Power without the necessary medallions.
--   You can empower yourself with medallions as many times in a row as you wish despite having no effect.
--   If you still have your Light Hook active, you can make your deal with Misérables and then light hook out. This method will still count your Echo task completed.
--   You can use the medallions from your Inventory to Power up against Ethiron.
+    -   This difference in strength between Misérables and other Deep Owls may stem from Misérables' differing choice of prey. Feeding on Kyrsgarde, as opposed to humans, likely yields a far superior meal, as shown by the Kyrsgarde's overwhelmingly superior technological innovation and splendor. Misérables himself speaks on this when asking why he seeks Medallions.
+-   As a friendly reminder, Misérables won't kill you if you're in combat, if you select any of the \[End Dialogue\]'s, or lack the knowledge for Clarity. He exclusively kills you if you ask for Power without the necessary Medallions.
+-   You can empower yourself with Medallions as many times in a row as you wish despite having no effect.
+-   If you still have your Light Hook active, you can make your deal with Misérables and then Light Hook out. This method will still count your Echo task completed.
+-   You can use the Medallions from your Inventory to Power up against Ethiron.
+-   The maximum amount of Wishes a player can carry at any given time is 197. Due to the price ramp up, Wish 198 would require you to bypass the Knowledge cap.
+    -   This would require a combined total of ~99,485 Knowledge.

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 153601
+revid: 154095
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -172,6 +172,10 @@ Apply charm every M1 and Mantra landed, even without having the Charismatic Cast
 ### Inspired
 
 Granted by reaching 3 stacks of Inspiration with the [Ether Conduit](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through the Talents [Ether Absorption](Talents.md#ether-adept) and [Ether Blade](Talents.md#ether-adept). Mantras deal 10% more damage for the duration of the status, which is always 5 seconds long. Signified by a light blue hue and outline surrounding your character.
+
+### Entangled Defence
+
+Applied from the [Entanglement](Entanglement.md) Enchantment; gain 10% damage reduction for 5 seconds. During the duration of this status effect, you will also have your movement speed reduced by 30% (22.5% due to the innate slow resistance players have). This has a 20% chance to proc when you get hit by weapon attacks, but has no cooldown. If procced while currently active, the duration will be refreshed, but the slow will be stacked. Signified by green shields appearing when you take damage.
 
 ### Mark of Jurik
 

@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 152327
+revid: 154086
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons]
@@ -34,4 +34,5 @@ The Stiletto is a dagger. It is the starting light weapon (not counting advanced
 
 -   This is the only base starter weapon not used by any NPCs, being replaced with the [Gilded Knife](Gilded_Knife.md).
 -   It does less damage than [Fists](Fists.md) and same damage as [Flintlock](Flintlock.md) and [Canor Fang](Canor_Fang.md).
--   At max LHT, the damage is (14.4).
+-   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 14.4
+-   At max LHT, the damage is (13.5).

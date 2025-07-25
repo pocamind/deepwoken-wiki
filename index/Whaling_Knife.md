@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 153090
+revid: 154077
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -49,3 +49,4 @@ The critical has a cooldown of **3 seconds**.
 -   The critical formerly benefitted from the Talent _Knife's Journey_, which had a 30% chance to deal 1.2x, signified by red sparks on hit. Having the Talent stacked the chance to 40%.
 -   The model of this weapon is an exact copy of [Sting](https://lotr.fandom.com/wiki/Sting), a blade from _[the Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)_.
 -   Despite it's name, Whales (or any mammals for that matter) do not exist in the game.
+-   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 22.8 when alloyed (27.5)

@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 153902
+revid: 154096
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -27,6 +27,8 @@ Alastir is located at the [Pathfinder's Respite](<Pathfinder's_Respite.md>) in [
 ## Dialogue
 
 **First Encounter:**
+
+**Quest Start:**
 
 <table>
 <tbody>
@@ -66,6 +68,27 @@ Alastir is located at the [Pathfinder's Respite](<Pathfinder's_Respite.md>) in [
 </tbody>
 </table>
 
+**Quest End:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Player has Pathfinder NPC</td>
+  <td>Player does not have Pathfinder NPC</td>
+</tr>
+<tr>
+  <td>Thank you, you are of great help.</td>
+  <td>Have you... Found any of them?</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
 **Subsequent Encounters:**
 
 <table>
@@ -74,15 +97,15 @@ Alastir is located at the [Pathfinder's Respite](<Pathfinder's_Respite.md>) in [
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">WIP</td>
+  <td colspan="2">You fulfilled your end of the bargain, what do you want to know?</td>
 </tr>
 <tr>
-  <td>Who is Lord Erisia?</td>
   <td>What's that sword?</td>
+  <td>Who is Duke Erisia?</td>
 </tr>
 <tr>
-  <td>Lord Erisia... An incredibly powerful man. He could give life to stone with that thing on his hip, though he never explained how. He started acting strange after he found a way past 'God on the Peak'. It's this large creature that watches over the temple on the top of the island, gross thing really.. Somehow he found a way to extract the insides of the temple and brought them back to his manor. Soon after well.. All of <i>this</i> started happening. You'll have to find the Lord in his manor if you want more answers, it's at the other end of the island.. I don't have the strength to face him anymore... Keep bringing me survivors, I'll take care of them.</td>
   <td>I... I know I promised to speak. But I can't, not this.</td>
+  <td>Duke Erisia... An incredibly powerful man. He could give life to stone with that thing on his hip, though he never explained how. He started acting strange after he found a way past 'God on the Peak'. It's this large creature that watches over the temple on the top of the island, gross thing really.. Somehow he found a way to extract the insides of the temple and brought them back to his manor. Soon after well.. All of <i>this</i> started happening. You'll have to find the Lord in his manor if you want more answers, it's at the other end of the island.. I don't have the strength to face him anymore... Keep bringing me survivors, I'll take care of them.</td>
 </tr>
 <tr>
   <td colspan="2">End</td>

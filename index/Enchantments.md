@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 154037
+revid: 154093
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -539,7 +539,13 @@ Entanglement
 
  | 
 
-On proc, greatly slows the user and reduce damage taken by the attack and the next 5 attacks by 10%.
+Entanglement has a 20% chance to proc when the user is hit by weapon attacks.
+
+On proc, the user will be slowed by 30% (actually 22.5% due to the innate slow resistance players have) and will gain 10% damage reduction to all attacks for **5 seconds**.
+
+Entanglement has no cooldown and can be procced while its active, refreshing its damage reduction duration, but stacking the slow.
+
+The damage reduction effect also applies to the attack that procced the Enchant.
 
 **DOESNT WORK ON MOBS, ONLY HUMANOIDS**
 

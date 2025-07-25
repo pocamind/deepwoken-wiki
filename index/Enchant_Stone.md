@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 153738
+revid: 154051
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -41,7 +41,7 @@ Most of the game's Enchant Stones have non-exclusive obtainment locations, meani
 
 ### Exclusive Enchants
 
-These Enchant Stones can only be obtained through certain methods. These are: Astral, Curse of Rhaemen's Ember, Nighbringer, Parasol's Blight, and Void.
+These Enchant Stones can only be obtained through certain methods. These are: Astral, Curse of Rhaemen's Ember, Nightbringer, Parasol's Blight, and Void.
 
 -   _**[Astral](Astral.md)**_ can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 20 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Rhaemen's Ember can also be sold for 10 in [Traan Zakshun's](Traan_Zakshun.md) black market.

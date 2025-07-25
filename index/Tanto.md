@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 153087
+revid: 154078
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -52,3 +52,4 @@ A short windup before jumping in the air and slashing forwards in a cartwheel-li
 
 -   This is currently the only dagger in the game that does not have any endlag.
 -   This weapon is often treated as a pseudo-medium weapon due to it's slower swing speed and higher damage in comparison to other daggers
+-   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 28.4 alloyed (29.3)

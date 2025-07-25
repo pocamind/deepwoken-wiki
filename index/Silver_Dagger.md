@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 151975
+revid: 154083
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons]
@@ -37,3 +37,4 @@ It is a decent dagger to use from early to mid game. However, it is highly sugge
 -   The design of the guard looks similar to a [Worshipper Longsword](Worshipper_Longsword.md).
 -   Meeting the requirement of LHT, the damage is (13.9)
 -   At max LHT, the damage is (17.4)
+-   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 19.5

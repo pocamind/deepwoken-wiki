@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 145569
+revid: 154079
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -10,7 +10,7 @@ categories: [Items]
 
 | Pluripotent Alloy | |
 |---|---|
-| usage | Converts midgame weapons into stronger, endgame-level variants, Converting into Smith's Alloy |
+| usage | Converts midgame weapons into stronger, endgame-level variants, Converting into Smith's Alloy or Armorer's Needle |
 
 “ A liquid metal that can be applied to certain weapons to draw out inner strength. The discovery of the Pluripotent Alloys is said to have sparked the development of Ironsing during the Canticlysm. ”
 

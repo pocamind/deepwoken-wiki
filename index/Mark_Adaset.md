@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 153273
+revid: 154099
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Divers, NPCs located in the First Layer]
@@ -16,45 +16,75 @@ categories: [Adret NPCs, NPCs, The Divers, NPCs located in the First Layer]
 
 ## Description
 
-Mark Adaset is a [Journeyman Diver](The_Divers.md) and the maintainer of [Castle Light](Castle_Light.md).
+Mark Adaset is the Quartermaster of [Castle Light](Castle_Light.md). He wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md)
 
-If you still have the [Deepbound](Boons_and_Flaws.md) flaw, he will replace it for a flaw/flaws of your liking. This isn't a good idea, though, since it's pretty much 2 free points.
+He is able to replace the [Deepbound](Boons_and_Flaws.md) flaw for a flaw/flaws of your liking.
 
-  
-
-  
+-   This isn't recommended though as still having this flaw is considered rare and provides zero downsides to your character.
 
 ## Dialogue
 
-Speaking to him:
+**First Encounter:**
 
-Ah you're back. What do you need?
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adretian man before you speaks without meeting your gaze.*</i> Another one wandered in? What a pain...</td>
+</tr>
+<tr>
+  <td>You really aren't as hospitable as Roy made you out to be.</td>
+</tr>
+<tr>
+  <td><i>*He smirks, and meets your gaze earnestly.*</i> A new recruit eh? Forgive my initial rudeness, I'm Mark Adaset, Castle Light's Quartermaster.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
-1.  Isn't this place dangerous?
-2.  Can I join you?
-3.  Why did you move out of the other room?
-4.  \[End Dialogue\]
+**Subsequent Encounters:**
 
-1\. _\*He looks you over as if calculating your life's worth.\*_ I think this Layer should be light work for someone like you. _(Only at high power level, exact numbers unknown)_
-
-1\. _\*He looks you over as if calculating your life's worth.\*_ For most it is, but you might be able to manage. I'd try to get out quick if I were you though. _(Power 13 - Power 16)_
-
-1.  Can i join you?
-2.  \[End Dialogue\]
-
-1.1 I don't really manage recruitment - you should talk to Akira.
-
-1.  \[End Dialogue\]
-
-2\. I don't really manage recruitment - you should talk to Akira.
-
-1.  \[End Dialogue\]
-
-3\. Miss Llfiend described me as a 'bubble chugging waste of air' and told me to leave.
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're back. What do you need?</td>
+</tr>
+<tr>
+  <td colspan="6">Isn't this place dangerous?</td>
+  <td colspan="6">How go your efforts here?</td>
+</tr>
+<tr>
+  <td colspan="2">Player is power 1-(?)</td>
+  <td colspan="2">Player is power (?)-(?)</td>
+  <td colspan="2">Player is power (?)-20</td>
+  <td colspan="6"><i>*He grimaces.*</i> Slowly. It's been a while since we've made any real headway here. As I'm sure you already know, the turnover rate of new recruits is pretty abysmal. Here's hoping you stick around long enough to help the effort, friend.</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*He looks you over as if calculating your life's worth.*</i> For you, definitely. You look like a complete small-fry.</td>
+  <td colspan="2"><i>*He looks you over as if calculating your life's worth.*</i> For most it is, but you might be able to manage. I'd try to get out quick if I were you though.</td>
+  <td colspan="2"><i>*He looks you over as if calculating your life's worth.*</i> I think this Layer should be light work for someone like you.</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Can I join you?</td>
+</tr>
+<tr>
+  <td colspan="6">I don't really manage recruitment - you should talk to Akira.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
--   Prior to Verse 2, he was located where [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) is located now, hence the dialogue referencing him being forced out by her.
--   When asking him "Isn't this place dangerous?" he will respond differently depending on your power.
+-   Prior to Verse 2, he was located where [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) is located now, hence the dialogue referencing him being forced out by her.
+-   When asking him "Isn't this place dangerous?" he will respond differently depending on the players power.

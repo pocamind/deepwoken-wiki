@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 152683
+revid: 154088
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
@@ -42,4 +42,5 @@ The critical has a cooldown of **4 seconds**.
 -   This weapon serves as an alternate for [Alloyed Tanto](Tanto.md), which is often used as a pseudo medium weapon.
 -   Meeting the requirement of LHT, the damage is (17.4)
 -   At max LHT, the damage is (21.7)
+-   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 25.9
 -   Remodeled on December 24th 2024 as a part of the World Events update.

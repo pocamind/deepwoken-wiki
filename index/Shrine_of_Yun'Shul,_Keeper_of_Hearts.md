@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 150144
+revid: 154054
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1, Oath Trainer]
@@ -52,7 +52,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 3.  **"The Vows I made give me much regret, I wish to break them."**
     -   Erase all your active [Vows](Vows.md), including [Vow of Mastery](Vow_of_Mastery.md), whether it be for the master or the servant, and Vow of Allegiance.
 4.  **"The powers I have been granted displease me, I wish for new gifts."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant). The 4thcard will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version. Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md#flaws) unless you have [Soul Plasticity](Echoes.md#upgrades).
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant). The 4thcard will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version. Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md#flaws) unless you have [Soul Plasticity](Echoes.md#upgrades-unlocks-and-modifiers).
 5.  **"For now I am one, but I wish to be three."**
     -   If you meet the requirements, gives you the [Soulbreaker](Oath%253A_Soulbreaker.md) oath.
 6.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
@@ -64,5 +64,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 ## Trivia
 
 -   Originally, only [Oathless](Oath%253A_Oathless.md) could be removed, and it had differing dialogue: _"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."_
--   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
+-   The maximum amount of Wishes a player can carry at any given time is 197. You can purchase Wishes from [Misérables](Misérables.md), however the price ramps up, costing 15 Knowledge initially with every stacking Wish costing the previous price + 5 Knowledge (e.g. 15 -> 20 -> 25 -> 30, stacking a mere 4 wishes has cost you a total of 90 Knowledge). Wish 197 costs 995 Knowledge, making 198 Wishes not possible, as it'd require you to go past the Knowledge cap.
+    -   This would require a combined total of ~99,485 Knowledge.
+-   [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   There is an [Enchantment](Enchantments.md#curses) named after Yun'Shul, the Curse of Yun'Shul.

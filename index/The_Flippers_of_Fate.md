@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 153608
+revid: 154091
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -44,3 +44,4 @@ Notably, this attack is shared with the [Warden Ceremonial Sword](Warden_Ceremon
 -   A part of the chef weapon set, along with [The Pastry Paster](The_Pastry_Paster.md) and [The Long Tong of The Law](The_Long_Tong_of_The_Law.md).
 -   The description reads _"That isn't smoke. It's steam."_ which is in reference to [a scene](https://www.youtube.com/watch?v=4jXEuIHY9ic) from the twenty first episode of the seventh seasons of American animated sitcom, _[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)_.
 -   This is the third fastest weapon in the game after the [Divine Dagger](https://deepwoken.fandom.com/wiki/Crazy_Slots#Weapons) and [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Weapons), with 1.26x swing speed which is slightly higher than the usual norm for daggers.
+-   If you have 100 attribute points invested into LHT,INT,CHA and having 6 proficiency you will achieve a total damage of 32

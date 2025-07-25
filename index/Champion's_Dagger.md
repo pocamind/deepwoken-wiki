@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 153110
+revid: 154081
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons]
@@ -36,4 +36,5 @@ The Champion's Dagger is a Dagger, and it is tied for the third highest tier dag
 -   Relatively rare, usually it's more worth going straight for the [Krulian Knife](Krulian_Knife.md).
 -   Meeting the requirement of LHT, the damage is (18.9)
 -   At max LHT, the damage is (23.2)
+-   If you have 100 attribute points invested into LHT, you will achieve a total damage of 26.6
 -   The model of the Champion's Dagger is identical to the [Champion's Sword](<Champion's_Sword.md>) but smaller.
