@@ -1,9 +1,9 @@
 ---
 title: Ganymede
-revid: 153704
+revid: 154447
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Aspects]
+categories: [Pages with broken file links, Aspects]
 ---
 
 # Ganymede
@@ -24,7 +24,7 @@ Ganymedes are a snail-based aspect in Deepwoken that appear with dark skin, abno
 <table>
 <tbody>
 <tr>
-  <td></td>
+  <td>File:Navae's Guidance.png</td>
   <td><b>Deepfolk</b>
   <ul>
     <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"

@@ -1,6 +1,6 @@
 ---
 title: Enforcer Eye
-revid: 150587
+revid: 154496
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients, Ingredients]
@@ -13,7 +13,7 @@ categories: [Items, Drops, Monster Mantra Ingredients, Ingredients]
 | value | 75 |
 | weight | None |
 | stack | x6 |
-| type | Monster Material |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

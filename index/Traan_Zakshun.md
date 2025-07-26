@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 154126
+revid: 154470
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -222,8 +222,8 @@ Sold Items
   </ul></li>
     <li><b>For 650 </b>:
   <ul>
-    <li><b><font>Medium Weapons</font></b>: [[Falchion#Alloyed|Template:AlloyedColor]], [[Scalesplitter#Alloyed|Template:AlloyedColor]], <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.</li>
-    <li><b><font>Heavy Weapons</font></b>: [[Darksteel Greatsword#Alloyed|Template:AlloyedColor]].</li>
+    <li><b><font>Medium Weapons</font></b>: <a href="Falchion.md#alloyed">Alloyed Falchion</a>, <a href="Scalesplitter.md#alloyed">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.</li>
+    <li><b><font>Heavy Weapons</font></b>: <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
   </ul></li>
     <li><b>For 1,000 </b>:
   <ul>
@@ -311,7 +311,7 @@ Sold Items
   (Equipment <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For 5 </b>: <a href="Aazel's_Horns.md">Aazel's Horns</a>, <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+    <li><b>For 5 </b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
   </ul></td>
 </tr>
 <tr>

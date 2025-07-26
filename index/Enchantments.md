@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 154093
+revid: 154555
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -77,6 +77,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will apply Puppet Burn, summoning puppets.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets. (This is currently bugged as of 26/05/2025)</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Bluster<div></div></font></center></td>
+  <td><div><p>On weapon hit, apply Bluster stacks. Once enough stacks are applied, a countdown will start, ticking down to an explosion. Land additional weapon attacks during the countdown to lower the delay.</p>
+  <p>This explosion deals your <b>scaled M1 damage</b> with a <b>5%</b> damage buff.</p></div></td>
+  <td><div>Weapon is a light-grey color with smoke effects emanating from it.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -291,6 +298,12 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <i>Note: This only means the damage is distributed in an area.</i></p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Windswept<div></div></font></center></td>
+  <td><div><p>After landing enough stacks, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this winded effect scales on your weapon stat investment.</p></div></td>
+  <td><div>Weapon is covered in green swirling effects.</div></td>
+</tr>
 </tbody>
 </table>
 
@@ -358,6 +371,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, <a href="Cloaked_Assassin.md">Cloaked Assassin</a> chests, <a href="Calamus.md">Calamus</a> job chests and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a> and <a href="Fishing.md">Fishing</a> chests. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
   Explosion has 7.56X PVE scale and Green Fire PVE scale is 6.66x. Temporary Health doesn't scale with PVE.</p></div></td>
   <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Curse of the Authoritative<div></div></font></center></td>
+  <td><div><p>You take 50% more damage when being guard broken.<br>
+  On Flourish, Critical, or Uppercut, apply the Authoritative status effect, increasing all posture damage taken by your opponent by 50% for a short duration.</p></div></td>
+  <td><div>Weapon is covered in arcing yellow lightning, turning the weapon itself yellow.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>

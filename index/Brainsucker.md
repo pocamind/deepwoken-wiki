@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 154423
+revid: 154445
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,7 +17,7 @@ Template:Creature Infobox V3_Also referred to as Harpy or Bat._
 
 ## Description
 
-**Brainsuckers**, or known by their academic name Cephalorins,are beaked flying creatures which earned their moniker thanks to their tendency to latch onto the heads of fallen prey in order to feed on their brains, they resemble many things, having bat-like wings, a beak, three eyes, and all of it forming a body that looks like a gargoyle. They can only be found flying, which allows them to easily follow you on your voyage and pester you when you slow down.
+**Brainsuckers**, or known by their academic name Cephalorins, are beaked flying creatures which earned their moniker thanks to their tendency to latch onto the heads of fallen prey in order to feed on their brains, they resemble many things, having bat-like wings, a beak, three eyes, and all of it forming a body that looks like a gargoyle. They can only be found flying, which allows them to easily follow you on your voyage and pester you when you slow down.
 
 Brainsuckers are a [monster](Monsters.md) that spawns alone above the waves of the [Etrean Sea](The_Etrean_Sea.md), [The Aratel Sea](The_Aratel_Sea.md), and [Voidsea](Voidsea.md). It also spawns in packs of two or three in [Minityrsa](Minityrsa.md), [The Starswept Valley](The_Starswept_Valley.md), and [Miner's Landing](<Miner's_Landing.md>). Multiple Brainsuckers are also encountered in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).
 

@@ -1,9 +1,9 @@
 ---
 title: Enforcer Plate
-revid: 154418
+revid: 154545
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Equipment, Arms, Plates]
+categories: [Pages with broken file links, Items, Equipment, Arms, Plates, Equipment with Set Bonuses]
 ---
 
 # Enforcer Plate
@@ -17,23 +17,24 @@ categories: [Pages with broken file links, Items, Equipment, Arms, Plates]
 | weight | 2 |
 | innate stats | +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Berserker |
+| set | Enforcer Boots |
+| set talent | Enforcer's Pull |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Direct drop from:EnforcerChests from:Duke Erisia, The Depths (First Layer) |
+| obtainment | Direct drop from:, Enforcer, Chests from:, Duke Erisia, First Layer |
 | description | ... |
+
+Enforcer Set
 
 ## Description
 
 The Enforcer Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Berserker, which grants 20% damage resistance for 15 seconds upon knocking an enemy. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
 
-This equipment is a part of a 2 piece set bonus with [Enforcer boots.](Enforcer_Boots.md)
+  
+Equipping both items grants the "Enforcer's Pull" Talent, which increases the strength of the [Enforcer Pull](Monster_Mantras.md#enforcer-pull) Mantra after landing a flourish.
 
 File:Enforcer plate description.png
 
 An image of the talents
-
-## Trivia
-
--   The Enforcer Plate is part of the “Enforcer” set; with the only other piece being the [Enforcer Boots](Enforcer_Boots.md).

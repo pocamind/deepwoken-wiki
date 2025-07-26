@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 154292
+revid: 154542
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -128,9 +128,10 @@ Blunt
 
 -   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5.
--   Deals 22/24/26/28/30 posture damage per level.
+-   Deals 22/24/26/28/30 posture damage per level. Guard breaks at level 5 if you have the [Titus's Raiment](<Titus's_Raiment.md>) Outfit.
 -   Has a wind-up of 0.55s, and an endlag of 0.25s (0.35s if whiffed).
--   Can fell trees. With the [**Treefelling Blow**](Talents.md) Talent, you can gain wood from fallen trees.
+-   Can fell trees. With the [**Treefelling Blow**](Talents.md#treefelling-blow) Talent, you can gain wood from fallen trees.
+-   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
 
  |
 | 
@@ -216,6 +217,7 @@ Blunt
 -   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling
 -   69.9 damage at 100 Strength level 5
 -   Victims crushed by the rock will be dazed and will be thrown away.
+-   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
 
  |
 | 
@@ -286,11 +288,12 @@ Blunt
 
 -   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5, per kick.
--   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md) variant.
+-   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md) variant. Guard breaks at level 5 if you have the [Titus's Raiment](<Titus's_Raiment.md>) Outfit.
 -   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md) variant.
 -   Has a range of 20 studs.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
+-   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
 
  |
 | 
@@ -1188,7 +1191,7 @@ Charisma Mantras are mainly based on AOE support: immobilizing and debuffing ene
 
 **Support Mantra**
 
-_Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage._
+_Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal +10% more damage._
 
  | 
 
@@ -1196,7 +1199,7 @@ _Taunt those around you, causing them to be unable to jump and to take more dama
 
   
 **Support Mantra**  
-_Taunt those around you, causing them to be unable to jump and to take more damage. However, in their rage they do extra damage._
+_Taunt those around you, causing them to be unable to jump and to take 20% more damage. However, they deal +10% more damage._
 
  |
 | 

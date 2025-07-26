@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 152477
+revid: 154441
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -60,8 +60,8 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   </ul></td>
 </tr>
 <tr>
-  <td><a href="Brainsucker.md">Brainsucker</a></td>
-  <td>Beakbuster/II/III
+  <td rowspan="2"><a href="Brainsucker.md">Brainsucker</a></td>
+  <td>Beakbuster, Cephalorin Champion, Chiropterous Conqueror
   <ul>
     <li>Slay 10, 25, and 100 <a href="Brainsucker.md">Brainsuckers</a></li>
   </ul></td>
@@ -69,6 +69,18 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   <ul>
     <li>Total 30% damage and 15% resistance</li>
   </ul></td>
+</tr>
+<tr>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div><p><b>Beakbuster</b>:</p>
+  <ul>
+    <li>'<i>Brainsuckers', better known in the academic world as 'Cephalorins', are beaked flying creatures which earned their moniker thanks to their tendency to latch onto the heads of fallen prey in order to feed on their brains.</i></li>
+  </ul><p><b>Cephalorin Champion</b>:</p>
+  <ul>
+    <li><i>Curiously, a Cephalorin will never feed on the brains of living prey. Latching onto their prey's head leaves the naturally-fragile Cephalorin vulnerable - and the change to be injured by dead prey is close to zero.</i></li>
+  </ul><p><b>Chiropterous Conqueror</b>:</p>
+  <ul>
+    <li><i>Cephalorins were some of the first monsters to be noted in historic records, though they were initially described as small bat-like creatures that predated on rodents and poultry. It seems that they've since grown up somewhat, and moved on to larger prey.</i></li>
+  </ul></div></td>
 </tr>
 <tr>
   <td><a href="Crustaceous_Rex.md">Crustaceous Rex</a></td>

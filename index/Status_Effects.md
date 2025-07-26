@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 154426
+revid: 154539
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -403,6 +403,10 @@ Become tethered to your attacker, being pulled towards them forcefully. Applied 
 ### Nemesis Mark
 
 Become marked for an auto aim [Katana](Katana.md)\-like critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
+
+### Authoritative
+
+Applied by being hit by a Flourish, Critical, or an Uppercut from a player with the [Curse of the Authoritative](Curse_of_the_Authoritative.md) Enchantment. All posture damage taken is increased by 50% for a short duration. Signified by yellow electricity arcing out of your chest on proc.
 
 ### Cauterized
 

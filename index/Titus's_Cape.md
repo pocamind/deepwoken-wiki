@@ -1,0 +1,30 @@
+---
+title: "Titus's Cape"
+revid: 154491
+source: https://deepwoken.fandom.com/wiki/Titus's_Cape
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress without reason, InProgressPages, Items, Equipment, Arms, Plates, Equipment with Set Bonuses]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+---
+
+# Titus's Cape
+
+| Titus's Cape | |
+|---|---|
+| type | Torso |
+| rarity | Unique |
+| selling price | 100 |
+| requirements | Power 15 |
+| weight | 0.5 |
+| innate stats | +2 Rare Pips, +1 Legendary Pip |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Chests from:Titus Fulminus Destellus |
+| description | The fabled cape of Titus Fulminus Destellus. Even for its size, it's heavier than it looks. |
+
+## Description
+
+Titus's Cape is an [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants you 3 Pips. It is found in the exclusive chest from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).

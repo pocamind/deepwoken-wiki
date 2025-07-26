@@ -1,9 +1,9 @@
 ---
 title: Blacksmith
-revid: 152868
+revid: 154485
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors]
+categories: [Vendors, NPCs]
 ---
 
 # Blacksmith
@@ -16,9 +16,21 @@ categories: [NPCs, Vendors]
 
 ## Description
 
-The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Voidheart](Voidheart.md), and [Guild Bases](Guild_Bases.md). They're used to craft [Outfits](Outfits.md) and [Seasonal Medals](Seasonal_Medals.md), and turn in [pure ores](Ores.md). Blacksmiths will refuse to service the player if their [reputation](Reputation.md) is too low with the faction of the location they're at.
+The Blacksmiths are stationary NPCs found in numerous towns across Lumen. They are the primary station used to craft and manage [Outfits](Outfits.md). They are also the leading source of [Cloth](Cloth.md) and [Fiber](Fiber.md), essential to craft Outfits, as well as selling utility tools. Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [Seasonal Medals](Seasonal_Medals.md), and exchanging [Pure Ores](Ores.md) for moderate-tier loot.
 
-When interacting with a blacksmith, you get three options: To craft an armor (outfit), to hand in pure ores, and to craft event items using [Seasonal Medals](Seasonal_Medals.md).
+Additionally, they sell:
+
+-   [Cloth](Cloth.md) for 6
+-   [Fiber](Fiber.md) for 3
+-   [Coal](Ores.md#coal) for 15
+-   [Pickaxe](Pickaxe.md) for 3
+-   [Lumber Axe](Lumber_Axe.md) for 3
+-   [Flint](Flint.md) for 3
+-   and [Repair Hammer](Repair_Hammer.md) for 30.
+
+Blacksmiths will refuse to service the player if their [reputation](Reputation.md) is too low with the faction of the location they're at.
+
+  
 
 ### To craft an outfit
 
@@ -44,6 +56,50 @@ _More info: [Transmogrification](Transmogrification.md)_
 
 -   You are able to craft limited-time items using [Knowledge](Knowledge.md) if you bought [Seasonal Medals](Seasonal_Medals.md) during a Deepwoken event, such as Hallowtide Medals 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. You can also craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
     -   You can craft outfits, weapons, and even enchants and mantras that were from these events.
+
+## Shop
+
+Smithy's Supplies
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>6 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Cloth</div><div><i>Useful for a bit of tailoring.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Fiber</div><div><i>Spun into thread or woven into cloth for tailoring.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Coal</div><div><i>Used for fuel and in the production of steel.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+Smithy's Tools
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Pickaxe</div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Lumber Axe</div><div><i>A sturdy axe for felling trees.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Repair Hammer</div><div><i>Handy if your boat springs a leak.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

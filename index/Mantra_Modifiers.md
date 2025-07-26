@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 153276
+revid: 154544
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -330,6 +330,7 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   [Saramaed Hollow](Saramaed_Hollow.md) (Common)
 -   [War Mode](War_Mode.md) (common)
 -   The Aegis Gem isn't obtained from any of the above sources, it's exclusively obtained through completing [The Vat](The_Vat.md)'s trial and then trading a [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) with [The Gaunt Man](The_Gaunt_Man.md).
+-   The Wrath and Might Gems aren't obtained from any other the above sources, it's exclusively obtained from the [Merit Detainment Core](Merit_Detainment_Core.md) dungeon.
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
@@ -341,6 +342,12 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
   <th>Image</th>
   <th>Name</th>
   <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Aegis Gem</td>
+  <td>Grants 20% damage reduction for 10 seconds after landing your Mantra. This effect has a 10 second cooldown.<br>
+  <b>Note: if you have not beaten <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on the character you are using this gem on, it will not work.</b></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -364,6 +371,11 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
+  <td>Might Gem</td>
+  <td>Increases the applied Mantra's posture damage by 10%. This effect has no cooldown.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Wayward Gem</td>
   <td>Puts a mark on the opponent alerting them that they have been tagged by a Wayward Mantra, before teleporting you to them after a second has passed. Has 8s CD.</td>
 </tr>
@@ -374,9 +386,8 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Aegis Gem</td>
-  <td>Grants 20% damage reduction for 10 seconds after landing your Mantra. This effect has a 10 second cooldown.<br>
-  <b>Note: if you have not beaten <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on the character you are using this gem on, it will not work.</b></td>
+  <td>Wrath Gem</td>
+  <td>Effect unknown.</td>
 </tr>
 </tbody>
 </table>

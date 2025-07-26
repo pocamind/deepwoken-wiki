@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 153718
+revid: 154513
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -63,11 +63,11 @@ Weaponry
 
 #### Weaponry
 
--   Players can buy a variety of starter [weapons](Weapons.md) from Astra here:
+-   Players can buy a variety of starter [weapons](Weapons.md) around the shop and some directly from [Astra](Astra.md) here:
     -   Light Weapon users can purchase:
         -   [Stiletto](Stiletto.md) for 16.
         -   [Apprentice Rapier](Apprentice_Rapier.md) for 16.
-        -   Bullets for [gun](Guns.md) users for 5 per.
+        -   [Bullets](Bullets.md) for [gun](Guns.md) users for 5 per.
     -   Medium Weapon users can purchase:
         -   [Iron Spear](Iron_Spear.md) for 25.
         -   [Messer](Messer.md) (requires 10 MED) for 16.

@@ -1,16 +1,18 @@
 ---
 title: "Oath: Blightsurger"
-revid: 154433
+revid: 154541
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths, The Hundred Legions]
+categories: [In progress without reason, InProgressPages, Oaths, The Hundred Legions]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Oath: Blightsurger
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | 60 Fortitude40 Gale / Thunder |
+| oath_req | 60 Body (the highest between Strength, Fortitude and Agility)40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 ## Description
@@ -19,15 +21,13 @@ categories: [Oaths, The Hundred Legions]
 
 ## Obtainment
 
-To obtain Blightsurger, you first have to defeat Titus. Afterwards select his 2nd dialogue option and go and talk to Brutus. Go back to Titus and he will give you the oath.
+To obtain Blightsurger, you first have to defeat [Titus](Titus_Fulminus_Destellus.md). Afterwards select his 2nd dialogue option and go and talk to Brutus. Go back to Titus and he will give you the oath.
 
 Requires Hero Rep with [The Hundred Legions](The_Hundred_Legions.md)
 
 ## Progression
 
-Unknown
-
-## Effects
+Use **Sovereign State**
 
 Currently unknown.
 

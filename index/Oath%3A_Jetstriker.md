@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 152601
+revid: 154476
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -66,6 +66,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
     -   Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
         -   This works on humanoid mobs, Teleporting you to the middle of their hitbox.
         -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
+        -   Works on talent-caused flourishes like [Emperor's Flame](<https://deepwoken.fandom.com/wiki/Flamecharm#The_Emperor's_Blade>).
 
 -   **Momentum Bar - Passive**
     -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player.

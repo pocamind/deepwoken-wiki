@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 154200
+revid: 154493
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -84,7 +84,7 @@ Dodgeable:◯
  |
 | 
 
-Charged Pull  
+Event Horizon  
 ★
 
  | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage. During this charge up, Enmity is free to be hit.

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 153816
+revid: 154548
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -397,6 +397,7 @@ N/A
 **Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](Enforcer.md)'s '**Space Pull'** attack._
 
 -   Missing still takes Ether and does not put this mantra on cooldown.
+-   The set Talent "**Enforcer's Pull**" from [Enforcer Plate](Enforcer_Plate.md) and [Enforcer Boots](Enforcer_Boots.md) heavily decreases the windup of the pull after landing a flourish.
 -   Can be modified with Crystal and Perfect lens to increase range
 
  |

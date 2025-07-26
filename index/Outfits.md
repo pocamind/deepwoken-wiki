@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 152580
+revid: 154507
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -51,7 +51,7 @@ _Deepwoken_ currently has 19 Expert Outfits that have been discovered.
 
 ### Master
 
-_Deepwoken_ currently has 21 Master Outfits that have been discovered.
+_Deepwoken_ currently has 22 Master Outfits that have been discovered.
 
 ### Unique
 
@@ -139,7 +139,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td></td>
   <td><a href="11th_Legion_Plate.md">11th Legion Plate</a></td>
   <td></td>
-  <td><a href="Legion_Centurion.md">Legion Centurion</a></td>
+  <td><a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Titus's_Raiment.md">Titus's Raiment</a></td>
 </tr>
 <tr>
   <td><b><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></b></td>

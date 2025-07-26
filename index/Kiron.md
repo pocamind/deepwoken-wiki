@@ -1,9 +1,9 @@
 ---
 title: Kiron
-revid: 154246
+revid: 154468
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Aspects]
+categories: [Pages with broken file links, Aspects]
 ---
 
 # Kiron
@@ -16,14 +16,14 @@ Chance of obtaining aspect: **4%**
 
 ## Description
 
-Kirons are a aspect similar to bats.
+Kirons are an aspect similar to bats.
 
 ## Racial Traits
 
 <table>
 <tbody>
 <tr>
-  <td></td>
+  <td>File:Navae's Guidance.png</td>
   <td><b>Echolocator</b>
   <ul>
     <li>"<i>Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.</i>"
@@ -45,7 +45,7 @@ Kirons are a aspect similar to bats.
 **Lore:**
 
   
-Yep that's some lore for ya.
+\-
 
 **Strengths:**
 
@@ -62,16 +62,16 @@ Yep that's some lore for ya.
 **Surnames:**
 
 -   Aatu
--   Draatu
--   Mihaatu
--   Noctu
--   Ratu
--   Ventu
 -   Alukaatu
+-   Draatu
 -   Metu
+-   Mihaatu
 -   Netu
+-   Noctu
 -   Petu
--   Vatu
+-   Ratu
+-   Vaatu
+-   Ventu
     
 
   

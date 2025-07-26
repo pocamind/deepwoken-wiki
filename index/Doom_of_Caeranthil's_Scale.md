@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 154264
+revid: 154503
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,7 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 5,000 |
 | weight | None |
-| type | Monster Material |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -29,6 +29,6 @@ categories: [Items, Drops, Ingredients]
 
 ## Trivia
 
--   This item and the [Parasol Part](Parasol_Part.md) have the second highest sell value out of all other items in the game, being 5,000.
+-   This item and the [Parasol Part](Parasol_Part.md) have the third highest sell value out of all other items in the game, being 5,000.
     -   With [Snake Oil](Talents.md#silvertongue), you can sell this for 7,000.
 -   This item's model is identical to the [Lionfish Scale](Lionfish_Scale.md).

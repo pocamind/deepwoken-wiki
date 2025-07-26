@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 154314
+revid: 154534
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -19,7 +19,7 @@ In order to edit the stats of a weapons, you'll need to make the edits on the te
 Daggers: [AllDaggerWeapons2](https://deepwoken.fandom.com/wiki/Template:AllDaggerWeapons2)  
 Fists: [AllFistWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFistWeapons2)  
 Rapiers: [AllRapierWeapons2](https://deepwoken.fandom.com/wiki/Template:AllRapierWeapons2)  
-Flintlocks: [AllFlintlockWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFlintlockWeapons2)
+Pistols: [AllFlintlockWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFlintlockWeapons2)
 
 ## Medium Weapons
 
@@ -52,7 +52,7 @@ Bloodrend: [AllBloodrendWeapons2](https://deepwoken.fandom.com/wiki/Template:All
 Offhands: [AllOffhandWeapons](https://deepwoken.fandom.com/wiki/Template:AllOffhandWeapons)  
 Shields: [AllShieldWeapons](https://deepwoken.fandom.com/wiki/Template:AllShieldWeapons)  
 Parrying Daggers: [AllParryingDaggersWeapons](https://deepwoken.fandom.com/wiki/Template:AllParryingDaggersWeapons)  
-Flintlocks: [AllFlintlockWeapons](https://deepwoken.fandom.com/wiki/Template:AllFlintlockWeapons)
+Pistols: [AllFlintlockWeapons](https://deepwoken.fandom.com/wiki/Template:AllFlintlockWeapons)
 
 ## Hybrid Weapons
 
