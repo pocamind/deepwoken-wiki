@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 154680
+revid: 154718
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -16,7 +16,7 @@ Chance of obtaining aspect: **4%**
 
 ## Description
 
-Kirons are an aspect similar to bats.
+Kirons are an aspect similar to bats. Their Agility and Intelligence attributes are innately increased, as a result of years of spelunking experience.
 
 ## Racial Traits
 
@@ -28,7 +28,7 @@ Kirons are an aspect similar to bats.
   <ul>
     <li>"<i>Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.</i>"
   <ul>
-    <li>Talent effects</li>
+    <li></li>
   </ul></li>
   </ul></td>
 </tr>
@@ -36,7 +36,8 @@ Kirons are an aspect similar to bats.
   <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>None (might be a bug(?))</li>
+    <li>+3 Agility</li>
+    <li>+2 Intelligence</li>
   </ul></td>
 </tr>
 </tbody>
@@ -45,18 +46,12 @@ Kirons are an aspect similar to bats.
 **Lore:**
 
   
-\-
+Kiron were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly influencing their bat-like appearance.
 
 **Strengths:**
 
 -   Can see better in the dark.
 -   Can more easily sense potential threats.
--   Kiron do not have innate racial stats, granting you an innate [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers) effect.
-    
-
-**Weaknesses:**
-
--   Kiron do not have innate racial stats, this may seen as a downside for some players.
     
 
 **Surnames:**
@@ -77,6 +72,14 @@ Kirons are an aspect similar to bats.
 ## Racial Features
 
 Kiron has a very small range of ornament choice, with the only two options being fluff or no fluff, it does however have 3 unique mouth options, 6 different facial marking variants and four unique eyebrow options.
+
+### Ears
+
+The color of the ear fluff is based on your first hair slot's color.
+
+### Markings
+
+Alternatively, you can choose no markings.
 
 ## Trivia
 

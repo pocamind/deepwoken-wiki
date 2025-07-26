@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 153566
+revid: 154727
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -35,5 +35,5 @@ The **Gaunts of Enmity** are a unique fist weapon exclusive to [Heart of Enmity]
 -   The Gaunts of Enmity **are** enchantable despite their unique rarity.
 -   Meeting the requirement of LHT, the damage is (23.9)
 -   At max LHT, the damage is (26.8)
--   At max LHT, 6 Proficiency and with bleed, the damage is (36) (31.4 + **4.6**)
+-   At max LHT, 6 Proficiency, the damage is (31.4)
 -   A sidegrade to the [Broodalloy Cestus](Coral_Cestus.md), having extremely similar stats, but exchanging Penetration for Chip Damage, while keeping your style's Critical Attack.

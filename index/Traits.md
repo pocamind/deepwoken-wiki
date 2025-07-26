@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 153490
+revid: 154724
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,8 +32,8 @@ Each trait can only be increased up to 6 points.
 -   Increase [Weapon](Weapons.md) **PEN** by 2.5% per point. (Maximum of 15% increase from **PEN**)
     -   The PEN increase is additive to PEN from other sources, including your weapon's innate PEN.
 -   **Proficiency applies to EVERY weapon. [Hero Blades](Hero_Blades.md), [Crypt Blades](Crypt_Blade.md), [Light's Final Toll](<Light's_Final_Toll.md>), everything.**
-    -   There is a sole exception; the scaling increase from Proficency does not work on the [Saintsblade](Oath%253A_Saintsworn.md) or [Formless Shard](Formless_Shard.md), as they have no scaling. They however, will still benefit from the PEN increase from Proficiency.
--   Be warned, as this only increases the scaling, not base damage, making it significantly more effective on weapons that already have high scaling, such as the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and less effective for weapons with low scaling stats.
+    -   There are a few exceptions; the scaling increase from Proficency does not work on the [Saintsblade](Oath%253A_Saintsworn.md), [Sovereign Bangle](Oath%253A_Blightsurger.md), or [Formless Shard](Formless_Shard.md), as they have no scaling. They however, will benefit from Proficiency if you add scaling through [Scaling Rings](Equipment.md#rings), albeit with very little effectiveness. Additionally, they will still benefit from the PEN increase from Proficiency.
+-   Be warned, as this only increases the scaling, not base damage, making it much more effective the higher your weapon's innate scaling is.
 
 ### Songchant
 

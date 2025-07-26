@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 154539
+revid: 154710
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -120,6 +120,10 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 ### True Strength
 
 [Bladeharper](Oath%253A_Bladeharper.md) exclusive. Gain a speed boost and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
+
+### Sovereign State
+
+[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Enhance your Blightsurger abilities with better performance and equip the [Sovereign Bangle](Oath%253A_Blightsurger.md) weapon. This status effect is applied by maxing your Blight Meter or pressing X while having Blight Meter. While in this mode, your Blight Meter will slowly decay. Signified by white and black streams coming from your eyes and your current weapon being replaced with the Sovereign Bangle.
 
 ### Tidal Shock
 
@@ -379,6 +383,10 @@ Deal an additional 10% less damage to the player who Charmed you and 20% more da
 ### Negative Link
 
 [Linkstrider](Oath%253A_Linkstrider.md) exclusive. Become slowed and deal less damage, also become a valid target for Parasitic Leech. Signified by a red link between you and the [Linkstrider](Oath%253A_Linkstrider.md).
+
+### Blightshock
+
+[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Innately, this applies [Wither](#wither) on proc, but it can be enhanced further by Blightsurger Talents, gaining new effects such as: granting it hyperarmor bypass similar to regular Shock, increasing the Blightsurger user's PEN on their Blightsurger Mantras and [Sovereign Bangle](Oath%253A_Blightsurger.md) attacks, and putting affected players' mobility Mantras on cooldown. Blightshock is applied by Blightsuerger abilities and is signified by white and black lightning on proc.
 
 ### Drained
 

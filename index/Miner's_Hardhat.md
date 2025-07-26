@@ -1,6 +1,6 @@
 ---
 title: "Miner's Hardhat"
-revid: 153045
+revid: 154698
 source: https://deepwoken.fandom.com/wiki/Miner's_Hardhat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Helmets, Items]
@@ -33,3 +33,4 @@ A helmet with a chance to be dropped by Mineskippers. This [equipment's](Equipme
 -   The helmet provides a small, yellow light source when worn.
     -   The light is switched off while it is held.
 -   The first and currently only piece of equipment to give Talents related to mining.
+-   Cannot be enchanted.

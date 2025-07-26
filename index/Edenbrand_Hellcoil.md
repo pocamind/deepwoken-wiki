@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 154336
+revid: 154697
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -41,3 +41,4 @@ With a decent wind-up, fire your cannon towards your enemy, launching yourself b
 ## Trivia
 
 -   The Edenbrand Hellcoil is the first Greatcannon to be added to deepwoken.
+-   it's a very rare drop from titus, it's around a 1/30 chance of getting one from a run.

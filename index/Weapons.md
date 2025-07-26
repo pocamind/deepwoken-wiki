@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 154331
+revid: 154721
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -12755,7 +12755,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
 -   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
-    -   Base Damage: [Saintsblade](Oath%253A_Saintsworn.md), [Divine Greatsword](Crazy_Slots.md), [Hivelord's Hubris](<Hivelord's_Hubris.md>) (28)
+    -   Base Damage: [Sovereign Bangle](Oath%253A_Blightsurger.md) (32)
     -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md), [Lumensplitter](Lumensplitter.md) (100 HVY)
     -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
@@ -12774,7 +12774,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 -   Rifles are the only weapon type that have four basic m1s before a flourish.
 -   Twinblades lack a flourish when two handed, making them the only weapon class to lack a flourish... sometimes.
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to scale on alternating weapon stats.
--   The [Saintsblade](Oath%253A_Saintsworn.md) and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade has very high base damage; Formless Shard on the other hand...
+-   The [Saintsblade](Oath%253A_Saintsworn.md), [Sovereign Bangle](Oath%253A_Blightsurger.md), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
 
 ## References
 
