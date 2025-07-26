@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 150931
+revid: 154623
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,6 +31,7 @@ In order of carry load given:
 -   _Captain Etrea_ gives 4 carry load.
 -   _Pocket Sand_ gives 4 carry load.
 -   _Shield Breaker_ gives 4 carry load.
+-   _Pocket Bombs_ gives 5 carry load.
 -   _Spine Cutter_ gives 6 carry load.
 -   _Face Cutter_ gives 6 carry load.
 -   _Turning of the Wheel_ gives 6 carry load.
@@ -53,7 +54,7 @@ In order of carry load given:
 -   _Berserker_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 190 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 194 carry load.
 
 ### Other Sources
 
@@ -71,14 +72,14 @@ In order of carry load given:
 -   The [Threadwork Kilt](Threadwork_Kilt.md) gives 20 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   [Saltchemist](Oath%253A_Saltchemist.md) gives 20 carry load.
--   The carrying capacity [echo upgrade](Echoes.md#upgrades-and-modifiers) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
+-   The carrying capacity [echo upgrade](Echoes.md#upgrades-unlocks-and-modifiers) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
     -   Each upgrade costs 50 echoes, needing 300 total echoes to fully upgrade.
 -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
--   The Packmule [Boon](Boons_and_Flaws.md) gives 50 carry load.
+-   The Packmule [Boon](Boons_and_Flaws.md#boons) gives 50 carry load.
 -   The [base character](Character_Stats.md#carry-load) starts off with 100 carry load.
--   [Strength](Attributes.md#strength-str) increases your carry load by 1 for every point of strength you get.
+-   [Strength](Attributes.md#str) increases your carry load by 1 for every point of strength you get.
     -   [Canor](Canor.md) and [Khan](Khan.md) can get up to 103 strength due to their 3 starting strength, resulting in 103 extra carry load.
     -   [Gremor](Gremor.md) can get up to 102 strength due to its 2 starting strength, resulting in 102 extra carry load.
     -   Every other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
@@ -87,9 +88,9 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **565**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **679**.
+Combining both Talents and other sources, the total amounts to **569**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **683**.
 
-Due to attribute limitations, the current best carry load build can only get 535/643 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
+Due to attribute limitations, the current best carry load build can only get 539/647 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
 -   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to help calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 

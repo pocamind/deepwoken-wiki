@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 154559
+revid: 154683
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -28,19 +28,151 @@ A Khan with great stature, he's around twice the height of the player. He has wr
 
 | Name | Description | Media |
 | --- | --- | --- |
-| Worldpiercer | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves.
-Parryable:◯  
-Blockable:  
+| 
+The Legion's Martial Arts  
+★
+
+ | Titus firmly swings his fists at his opponent with hyperarmor.
+
+-   These moves are typically slow and can often lead to the player missing a parry.
+
+Parryable:
+
+Blockable:
+
 Dodgeable:
 
  |  |
-| Sovereign Drive | Move description
+| 
 
-Parryable:  
-Blockable:  
+Worldpiercing Deluge  
+★
+
+ | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
+
+-   Titus is most likely to follow up with Warp Kick, which can be very problematic when they are ragdolled.
+
+Parryable:
+
+Blockable:
+
 Dodgeable:
 
  |  |
+| 
+
+Worldshattering Smackdown  
+★★
+
+ | Titus winds up with both arms, grabbing the opponent before smacking them into the ground.
+
+-   This move is very similar to Worldpiercing Deluge, in which it shares the same animation.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |
+| 
+
+Commander's Rage  
+★★
+
+ | Titus unleashes an echoing roar that temporarily amplifies his attacks.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |
+| 
+
+Commander's Whirlthrow  
+★★★
+
+ | Titus firmly grabs his opponent, spins around, and sends them flying.
+
+-   Almost always leads to Warp Kick if Titus lands this move.
+-   This attack will autogrip when the player is low.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |
+| 
+
+Sovereign Drive  
+★
+
+ | Titus dashes towards the opponent, leaving behind a destructive path of white lightning in his way.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |  |
+| 
+
+Skycrash  
+★★
+
+ | Titus ascends into the air before crashing down into opponents.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |
+| 
+
+Warp Kick  
+★★
+
+ | In a flash, Titus warps to a random opponent and kicking them away.
+
+-   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |  |
+| 
+
+Chorus Divide: Shattering Crescendo  
+★★★★★
+
+ | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will also be knocked further back.
+
+-   Titus will only use this move in his second phase.
+-   These beams are combined with the [Wind-Up](Wind-Up.md) Resonance, proccing every hit, making this move **very deadly**.
+-   While he is winding up, it is best to start running or getting to higher levels to avoid the beams.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |
+
+### Passives
+
+-   Quaking Presence - The rumbling presence of Titus will break nearby campfires and cause debris to fall into the prison, dealing damage to the player.
+-   Thorn Guard - Titus is immune to Providence's Thorns.
 
 ## Dialogue
 
@@ -81,10 +213,10 @@ Dodgeable:
   <td><i>*Titus looks you up and down with mild curiosity.*</i> You again? Tsch. What, still lost? Or is there another message from the Hundred Legions? You'd better have <i>real good</i> news for me, sprout.</td>
 </tr>
 <tr>
-  <td>Yep. Very lost. Let me just find my way out.</td>
+  <td>Uhh... I am to inform you that... there's been another delay. [Lie]</td>
 </tr>
 <tr>
-  <td>Uhh... I am to inform you that... there's been another delay. [Lie]</td>
+  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>
@@ -176,6 +308,6 @@ Dodgeable:
 
 ## Trivia
 
--   Fulminus Destellus means "Starlight Lightning" in Latin.
--   He uses the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md).
+-   Titus' middle and last names, "Fulminus Destellus" means "Starlight Lightning" in Latin, mirroring the origins of where he earned his name.
+-   Titus uses a unique variant [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   When combat tagged by him his real name is shown as Franky Strabes.

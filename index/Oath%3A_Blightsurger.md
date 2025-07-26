@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 154541
+revid: 154630
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths, The Hundred Legions]
@@ -17,13 +17,13 @@ notices:
 
 ## Description
 
-**[Oath](Oaths.md): Blightsurger** is an Oath associated with [The Hundred Legions](The_Hundred_Legions.md).
+**[Oath](Oaths.md): Blightsurger** is one of the 17 obtainable Oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
 
 ## Obtainment
 
-To obtain Blightsurger, you first have to defeat [Titus](Titus_Fulminus_Destellus.md). Afterwards select his 2nd dialogue option and go and talk to Brutus. Go back to Titus and he will give you the oath.
+To obtain Blightsurger, you first have to defeat [Titus](Titus_Fulminus_Destellus.md). Afterwards select his 2nd dialogue option and go and talk to [Brutus](Brutus.md). Go back to [Titus](Titus_Fulminus_Destellus.md) and he will give you the oath.
 
-Requires Hero Rep with [The Hundred Legions](The_Hundred_Legions.md)
+Requires very high ally reputation with [The Hundred Legions](The_Hundred_Legions.md)
 
 ## Progression
 

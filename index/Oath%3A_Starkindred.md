@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 152592
+revid: 154660
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Starkindred** is one of the 16 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
+**[Oath](Oaths.md): Starkindred** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
 
 “ The world around you shifts and bends, as if your skull was melting into a swirl of infinity. The world as you know it isn't the same. These Stars above us are more than constellations. You feel as though you can feel the entire world. A̸l̴l̴ ̴a̷t̶ ̴o̵n̴c̷e̸.̴ ̶E̵V̷E̵R̴Y̵W̸H̸E̵R̸E̴.̶ ”
 
@@ -104,6 +104,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 -   It is recommended to kill [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) first, [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) second, and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md) last, due to their locations.
 -   The best way to kill the [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and the Sinners is to parry trade until you flourish them.
 -   Starkindred's mantras scale with Strength.
+-   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Starkindred had the Mystic line "I speak for my masters above."
 -   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain; they also have a long history of bloodshed in the name of their faith.
     -   This "history of bloodshed" is elaborated on by the existence of the [Pale Briar](Pale_Briar.md).
 -   This Oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 152605
+revid: 154634
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths, The Central Authority]
 
 ## Description
 
-**[Oath](Oaths.md): Chainwarden** is one of the 16 obtainable Oaths in _Deepwoken_. This Oath focuses on an aggressive playstyle along with immobilizing foes with chains, with unique talents such as Perpetual Wrath, increasing your damage with consecutive hits to Chained enemies.
+**[Oath](Oaths.md): Chainwarden** is one of the 17 obtainable Oaths in _Deepwoken_. This Oath focuses on an aggressive playstyle along with immobilizing foes with chains, with unique talents such as Perpetual Wrath, increasing your damage with consecutive hits to Chained enemies.
 
 “ What is it? You had better not be wasting my time. There's filth that requires scraping off the map. ”
 

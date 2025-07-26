@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 152373
+revid: 154625
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -40,6 +40,8 @@ If you hover your mouse over one of your active waypoints, activation will inste
 
   
 You can place teleport points in the Depths, however, teleporting to it will cause it to disappear.
+
+**This Resonance cannot be used in any [Dungeon](Dungeons.md).**
 
 ### Drowned Teleportation
 

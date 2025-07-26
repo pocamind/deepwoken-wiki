@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 154490
+revid: 154621
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
@@ -18,7 +18,7 @@ notices:
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A much-prized trophy you prised off the beast. |
+| desc | Forged with steel from the furnaces of Markor. |
 
 ## Description
 

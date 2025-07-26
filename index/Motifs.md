@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 153604
+revid: 154573
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,7 @@ There are a few specific weapons that can equip Motifs despite them not being Mo
 
 -   Light Weapons: [Needle's Eye](<Needle's_Eye.md>) / [Tanto](Tanto.md) / [Alloyed Tanto](Tanto.md#alloyed)
 -   Medium Weapons: [Gremorian Longspear](Gremorian_Longspear.md) / [Alloyed Longspear](Gremorian_Longspear.md#alloyed) / True Seraph's Spear
--   Heavy Weapons:
+-   Heavy Weapons: [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) (though strangely, this can only accept Greatcannon Motifs, and none of those exist currently)
 
 ### 
 
@@ -197,7 +197,7 @@ Dagger: [Stiletto](Stiletto.md), Fists: N/A, Gun: [Dawnshot](Dawnshot.md), Rapie
 Sword: [Sword](<Sword_(weapon).md>), Spear: [Iron Spear](Iron_Spear.md), Club: [Mace](Mace.md), Gun: [Dawnshot](Dawnshot.md), Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A
 
 **Heavy Weapons**:  
-Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Divine Greatsword](Crazy_Slots.md#weapons), Greathammer: [Pale Morning](Pale_Morning.md)
+Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Divine Greatsword](Crazy_Slots.md#weapons), Greathammer: [Pale Morning](Pale_Morning.md), Greatcannon: N/A
 
  | 
 

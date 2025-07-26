@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 152595
+revid: 154644
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,7 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 ## Description
 
-**[Oath](Oaths.md): Silentheart** is one of the 16 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for the ability to change weapons during battle and a unique set of attacks integrated into your moveset.
+**[Oath](Oaths.md): Silentheart** is one of the 17 obtainable Oaths_._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for the ability to change weapons during battle and a unique set of attacks integrated into your moveset.
 
 “ You feel as though a part of yourself has drifted away, into the vast nothingness of the Song. As sudden as this sensation arrived, a new piece of you took place. This heart beats differently, it drums to the beat of the world, not the Song, ever silent. ”
 

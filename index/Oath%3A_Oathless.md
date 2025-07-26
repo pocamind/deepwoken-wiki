@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 152598
+revid: 154656
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Oathless** is one of the 16 obtainable Oaths in _Deepwoken._ It is a rather varied Oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of the 5 [Oaths](Oaths.md) that have no direct stat requirements.
+**[Oath](Oaths.md): Oathless** is one of the 17 obtainable Oaths in _Deepwoken._ It is a rather varied Oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Contractor](Oath%253A_Contractor.md), it is one of the 5 [Oaths](Oaths.md) that have no direct stat requirements.
 
 Despite its oxymoronic nature, this still counts as an Oath. So other Oaths like [Linkstrider](Oath%253A_Linkstrider.md) or [Contractor](Oath%253A_Contractor.md) that has their progression tied to killing Oath users can progress by killing people with this Oath, along with other Oaths.
 
@@ -60,6 +60,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
     -   Used to be obtainable through a hand of cards at around [Power](Power.md) 30 (the Verse 1 equivalent to current-day Power 10).
 -   Commonly agreed to be a subpar Oath compared to the other non-stat locked Oaths.
     -   However, being the only Oath to grant +3 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
+-   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Oathless had the Mystic line "I am unbounded."
 -   Obtaining Oathless doesn't award the Oathsworn [badge](Badges.md).
 -   You can still use [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) if you have Oathless.
 -   All of its quest characters are named after cities in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. (These are all colours, Cerulean is blue, Viridian and celadon and blueish greens, and saffron is red.)

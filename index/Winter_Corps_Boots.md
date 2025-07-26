@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 154014
+revid: 154602
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -17,12 +17,16 @@ categories: [Items, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
+| set | Winter Corps Parka, Winter Corps Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Miner's Landing, Second Layer, Crypt of the Unbroken, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
+
+Winter Corps Set
 
 Variants: [Winter Corps Parka](Winter_Corps_Parka.md)
 

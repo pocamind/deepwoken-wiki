@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 152591
+revid: 154662
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,7 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 ## Description
 
-**[Oath](Oaths.md): Visionshaper** is one of the 16 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
+**[Oath](Oaths.md): Visionshaper** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
 
 “ Things aren't always what they seem, little mouse... In time, you may pretend to be one of us, use abilities inherent to my kind... And you may do with these as you please, but are you prepared to pay the toll? ”
 
@@ -122,7 +122,8 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only way to clone non-humanoid mobs and bosses.
     -   When cloning non-humanoid mobs, they'll T-pose and won't be able to move or attack. It's more of a funny interaction rather than something you can actively use in combat, especially when someone clones the [Heart of Enmity](Heart_of_Enmity.md) or some other very large mob.
     -   When cloning humanoid [bosses](Bosses.md), it allows you to see the internal name for the ability they used last. For example, [Duke Erisia's](Duke_Ishamon_Erisia.md) Aero Spear ability is named DukeBlast and his Strong Left-like attack is named DukePunch. You can of course use Reality Shift to make the boss clones use their copied boss abilities.
--   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Saintsworn](Oath%253A_Saintsworn.md).[\[1\]](#cite-note-1)
+-   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Visionshaper had the Mystic line "I speak to the Owls."
+-   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Saintsworn](Oath%253A_Saintsworn.md).[\[1\]](#cite-note-1)
     -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
 -   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones.
     -   If you had a slot that had Visionshaper pre-removal of Illusory Realm, your Illusory Realm would be replaced with the [Disguise](Attunement-less.md#disguise) Mantra.

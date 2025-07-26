@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 154555
+revid: 154589
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -81,8 +81,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Bluster<div></div></font></center></td>
-  <td><div><p>On weapon hit, apply Bluster stacks. Once enough stacks are applied, a countdown will start, ticking down to an explosion. Land additional weapon attacks during the countdown to lower the delay.</p>
-  <p>This explosion deals your <b>scaled M1 damage</b> with a <b>5%</b> damage buff.</p></div></td>
+  <td><div><p>After landing (LHT: 5, MED: 4, HVY: 3) hits, a 10 second countdown will start, ticking down to an explosion. Land additional weapon attacks during the countdown to lower the delay.</p>
+  <p>This explosion deals your <b>scaled M1 damage</b> with a <b>5%</b> damage buff, dealt as typeless damage, meaning it bypasses armor resistances.</p></div></td>
   <td><div>Weapon is a light-grey color with smoke effects emanating from it.</div></td>
 </tr>
 <tr>

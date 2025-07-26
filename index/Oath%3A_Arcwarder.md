@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 152622
+revid: 154655
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -19,7 +19,7 @@ categories: [Oaths, The Ignition Union]
 
 ## Description
 
-**[Oath](Oaths.md): Arcwarder** is one of the 16 obtainable Oaths in _Deepwoken._ It heavily focuses on defense; four of its passives are defensive, and the other two are mobility. It still allows for a fair bit of offensive play however as dash allows the user to close gaps and maneuver around opponents, and both combat mantras are as effective if not more in aggressive play.
+**[Oath](Oaths.md): Arcwarder** is one of the 17 obtainable Oaths in _Deepwoken._ It heavily focuses on defense; four of its passives are defensive, and the other two are mobility. It still allows for a fair bit of offensive play however as dash allows the user to close gaps and maneuver around opponents, and both combat mantras are as effective if not more in aggressive play.
 
 “ Unlike the Central Authority, the Union's identity is not defined wholly by internal hierarchy, lingering military traditions, and loyalty to power. Instead, it is rooted in the solidarity of toil - a sense of kinship among those working for the same goal. ”
 
@@ -118,21 +118,21 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 
 ## Trivia
 
+-   This is one of Dexerius' Oaths, along with [Blightsurger](Oath%253A_Blightsurger.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Visionshaper](Oath%253A_Visionshaper.md).[\[1\]](#cite-note-1)
 -   The Arcwarder suit originally looked far different but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
     -   The Arcwarder suit is inspired by Bondrewd's suit from the anime and manga series _Made in Abyss_. The Immortal Guardians wear an exact copy of the aforementioned suit, while the Arcwarder suit has been slightly redesigned.
--   Arcwarder was originally named _Arcshifter_.[\[1\]](#cite-note-1)
--   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
--   This would make Arc Suit the only mantra compatible with [Dye Packets](Dye_Packet.md)
--   As of May 1st. 2024, The Arcwarder suit’s main color and glow can now be dyed.
--   This Oath was created by Dexerius, along with [Visionshaper](Oath%253A_Visionshaper.md).[\[2\]](#cite-note-2)
+-   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Arcwarder had the Mystic line "The Union is absolute."
+-   Arcwarder was originally named _Arcshifter_.[\[2\]](#cite-note-2)
+-   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md), being the only Mantra in the game that can be directly dyed.
+-   As of May 1st. 2024, The Arcwarder suit's main color and glow can now be dyed.
 -   If you are wearing the Arc Suit while gliding and the Arc Suit breaks off, your glider will be forcibly put away.
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 -   By taking a helmet off via your inventory, hair will be visible even while Arcwarder is active.
--   This and [Saintsworn](Oath%253A_Saintsworn.md) are the only [Oaths](Oaths.md) to require any points invested in an [Attunement](Attunements.md)
--   This and [Oathless](Oath%253A_Oathless.md) are the only 2 Oaths that have no cosmetics as the Arc Suit is a mantra
--   Dexerius is planning to rework the Oath, adding a "defense mode" and a "attack mode" feature
+-   This and [Saintsworn](Oath%253A_Saintsworn.md) are the only [Oaths](Oaths.md) to require any points invested in an [Attunement](Attunements.md).
+-   This and [Oathless](Oath%253A_Oathless.md) are the only 2 Oaths that have no cosmetics as the Arc Suit is a Mantra.
+-   Dexerius is planning to rework the Oath, adding a "defense mode" and a "attack mode" feature.
 
 ## References
 
-1.  [↑](#cite-ref-1) Concept art file name
-2.  [↑](#cite-ref-2)
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) Concept art file name

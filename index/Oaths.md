@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 154146
+revid: 154628
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -20,14 +20,14 @@ _**"Oaths"** are viewpoints and beliefs that a character vows to live by until t
 
 Every character begins as a simple Pathfinder, meaning they are without an Oath, but not devoted to being Oathless. Being a Pathfinder offers no real advantages, but it _may_ protect you from others who need Oath Kills for their progression, such as Linkstriders or Contractors, however, don't rely on it.
 
-**Oath Damage** is an entirely separate type of damage that is only affected by Oathless or general defense modifiers, such as Reinforce or Ardour Scream.
+**Oath Damage** is an entirely separate type of damage that is only resisted by Oathless or general defense modifiers, such as Reinforce or To the Finish.
 
 ### Obtainable Oaths
 
 _Notes:_  
 _"comb." means a combined total across multiple listed stats_  
 _WEP = Any weapon stat (HVY, MED, LHT)_  
-Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarder.md) • [Bladeharper](Oath%253A_Bladeharper.md) • [Blindseer](Oath%253A_Blindseer.md) • [Contractor](Oath%253A_Contractor.md) • [Chainwarden](Oath%253A_Chainwarden.md) • [Dawnwalker](Oath%253A_Dawnwalker.md) • [Fadetrimmer](Oath%253A_Fadetrimmer.md) • [Jetstriker](Oath%253A_Jetstriker.md) • [Linkstrider](Oath%253A_Linkstrider.md) • [Saintsworn](Oath%253A_Saintsworn.md) • [Saltchemist](Oath%253A_Saltchemist.md) • [Silentheart](Oath%253A_Silentheart.md) • [Soulbreaker](Oath%253A_Soulbreaker.md) • [Starkindred](Oath%253A_Starkindred.md) • [Visionshaper](Oath%253A_Visionshaper.md)
+Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarder.md) • [Bladeharper](Oath%253A_Bladeharper.md) • [Blightsurger](Oath%253A_Blightsurger.md) • [Blindseer](Oath%253A_Blindseer.md) • [Contractor](Oath%253A_Contractor.md) • [Chainwarden](Oath%253A_Chainwarden.md) • [Dawnwalker](Oath%253A_Dawnwalker.md) • [Fadetrimmer](Oath%253A_Fadetrimmer.md) • [Jetstriker](Oath%253A_Jetstriker.md) • [Linkstrider](Oath%253A_Linkstrider.md) • [Saintsworn](Oath%253A_Saintsworn.md) • [Saltchemist](Oath%253A_Saltchemist.md) • [Silentheart](Oath%253A_Silentheart.md) • [Soulbreaker](Oath%253A_Soulbreaker.md) • [Starkindred](Oath%253A_Starkindred.md) • [Visionshaper](Oath%253A_Visionshaper.md)
 
 [Oathlessfinal](Oath%253A_Oathless.md)
 
@@ -46,6 +46,12 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 [Bladeharper](Oath%253A_Bladeharper.md)
 
 (75 MED or comb. 90 WEP + 25 STR or AGL)
+
+[Placeholder](Oath%253A_Blightsurger.md)
+
+[Blightsurger](Oath%253A_Blightsurger.md)
+
+(? BDY (? STR or FTD or AGI) + 40 WND or LTN)
 
 [Blindseerfinal](Oath%253A_Blindseer.md)
 
@@ -128,7 +134,6 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 ### Upcoming Oaths
 
 -   Warmaster
--   [Blightsurger](Oath%253A_Blightsurger.md)
 
 ## Oath Skipping
 

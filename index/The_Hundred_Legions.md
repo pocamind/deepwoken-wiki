@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 152397
+revid: 154568
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -51,6 +51,7 @@ Though another way to gain reputation with The Hundred Legions is also through h
 
 -   [Amara](Amara.md)
 -   [Brutus](Brutus.md)
+-   [Titus](Titus_Fulminus_Destellus.md)
 
 ## Trivia
 

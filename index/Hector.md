@@ -1,9 +1,11 @@
 ---
 title: Hector
-revid: 154252
+revid: 154684
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
+categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Hector
@@ -12,15 +14,15 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Lum
 |---|---|
 | name | Hector |
 | aspect | Adret |
-| location | Etris |
+| location | Merit Detainment Core |
 
 ## Description
 
-Hector is an Adret NPC who gives the player info on the Detainment Core and how to break [Titus](Titus_Fulminus_Destellus.md) free.
+Hector is an Adret NPC who gives the player info on the Merit Detainment Core's system and how to break [Titus](Titus_Fulminus_Destellus.md) free.
 
 ## Location
 
-Hector is located in the Detainment Core.
+Hector is located in the Merit Detainment Core.
 
 ## Dialogue
 

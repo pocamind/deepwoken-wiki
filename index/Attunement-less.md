@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 154542
+revid: 154626
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -92,6 +92,38 @@ Strength Mantras are mainly based on combat and slightly geared towards mobility
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Throw** (★★☆)
+
+_Grab and throw your enemies._
+
+ | 
+
+## Throw (★★☆)
+
+  
+_Grab and throw your enemies._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+5 Strength, defeated [Titus](Titus_Fulminus_Destellus.md)
+
+ |
+| 
+
+**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
+
+ |
 | 
 
 **Strong Left** (☆☆☆)
@@ -218,38 +250,6 @@ Blunt
 -   69.9 damage at 100 Strength level 5
 -   Victims crushed by the rock will be dazed and will be thrown away.
 -   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
-
- |
-| 
-
-**Throw** (★★☆)
-
-_Grab and throw your enemies._
-
- | 
-
-## Throw (★★☆)
-
-  
-_Grab and throw your enemies._
-
- |
-| 
-
-40 Ether
-
- | 
-
-Blunt
-
- | 
-
-≤40 Strength, defeated [Titus](Titus_Fulminus_Destellus.md)
-
- |
-| 
-
-**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
 
  |
 | 
@@ -1226,7 +1226,7 @@ N/A
 -   Affected entities become unable to jump.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
--   Using Taunt on any humanoid [boss](Bosses.md) will instantly start the fight without the dialogue.
+-   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
     -   Using this, it is possible to defeat Duke without completing his questline, even if you fight him solo.
 
  |

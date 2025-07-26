@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 154154
+revid: 154640
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -36,7 +36,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 ## Description
 
-**[Oath](Oaths.md): Saintsworn** is an Oath relating to the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of the Five Heroes and wield their abilities in combat with their souls watching over your strife.
+**[Oath](Oaths.md): Saintsworn** one of the 17 Oaths in _Deepwoken_, beinge centered around the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of the Five Heroes and wield their abilities in combat with their souls watching over your strife.
 
 “ Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night. ”
 
@@ -111,6 +111,7 @@ Each stance uses the critical of the matching hero blade.
 -   For each Stance, the Saintsblade has a unique Critical that it shares with the [Hero Blades](Hero_Blades.md), gives you access to element-specific passive abilities as given by Hero's Assist and Ether Proselyte, and modifies the Blade of Saints Mantra.
 -   The cycle order of stances is based off of your highest-invested attunements, with the stance when you first equip the Saintsblade being your highest one, the second one your second highest, and so on.
     -   Unequipping the Saintsblade will reset the cycle order.
+-   One of the [Chorus Divide](Chorus_Divide.md) Resonance's beams will change attunements to match your current Saint Stance.
 
 ### Modifiable Talents
 
@@ -227,7 +228,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 
 ## Trivia
 
--   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
+-   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Visionshaper](Oath%253A_Visionshaper.md).
 -   The 15 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 15 invest in some of your attunements.
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
 -   Saint's Synergy, Ether Proselyte('s Mantra level increasing effect), and Hero's Assist can all proc when not using the Saintsblade. The rest of the Saintsworn Oath does nothing while not using the weapon.

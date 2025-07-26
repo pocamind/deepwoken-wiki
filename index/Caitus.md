@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 153829
+revid: 154665
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -53,3 +53,4 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 ## Trivia
 
 -   The reputation needed for the High rep dialogue, is a bit more than just ally rep.
+-   as of currently he gives imperium kata without having the requirements. it may be bugged. (you do have to beat titus though)

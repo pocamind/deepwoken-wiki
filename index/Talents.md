@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 154521
+revid: 154620
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -587,7 +587,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
     -   Prerequisite: Equipping any Fist weapon excluding [Jus Karita](Jus_Karita.md) or [Anklets of Alsin](Anklets_of_Alsin.md). This can only be done if you have a [Fist Style](Fists.md). Also is granted when starting with [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), or [Fang and Coil](Fang_and_Coil.md) from the [character creation screen](Character_Creation.md).
-    -   To obtain a Fist Style, complete the [Navaen Tribe Rescue Quest](Way_of_Navae.md), [Legion Kata](Legion_Kata.md) Quest, or [Fang and Coil](Fang_and_Coil.md) obtainment Quest.
+    -   To obtain a Fist Style, complete the [Navaen Tribe Rescue Quest](Way_of_Navae.md), [Legion Kata](Legion_Kata.md) Quest, [Imperium Kata](Imperium_Kata.md) Quest, or the [Fang and Coil](Fang_and_Coil.md) obtainment Quest.
 
 ### Bruiser
 
@@ -1281,6 +1281,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Gale Kata
 
+-   Imperium Kata \[Common Talent\] - Wield an advanced form of the Legion's martial arts.
+    -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md).
+    -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)
+
 -   Legion Kata \[Common Talent\] - Gain the ability to use the Legion's martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
     -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Rec in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE REC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
@@ -1713,7 +1717,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
 -   Justicar's Prowess \[Common Talent\] - Jus Karita +30% posture damage against other fist styles.
-    -   Deal +30% posture damage against Way of Navae, Fang and Coil, and Legion Kata
+    -   Deal +30% posture damage against Way of Navae, Fang and Coil, Imperium Kata, and Legion Kata
     -   Prerequisite: Jus Karita
 
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
@@ -2309,7 +2313,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Explosive Efficiency \[Common Talent\] - Crafting a bomb will yield two bombs. Chance to make three.
     -   Prerequisite: Hot Potato
 
--   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+5 Health)
+-   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+1 Health, +5 Carry Load)
     -   Prerequisite: Family Recipe
     -   Drops two bombs from one bomb.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 153649
+revid: 154658
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Linkstrider** is one of the 16 obtainable Oaths in _Deepwoken. This Oath specializes entirely on support. Excels at controlling the battlefield by offering various buffs and granting heals to allies, while also inflicting debuffs and lifesteal for fighting enemies. Granted the power of this Oath is exceptional for fights in groups, having this Oath while alone will hardly give benefits, thus making it one of (if not) the worst Oath for solo players._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Linkstrider** is one of the 17 obtainable Oaths in _Deepwoken. This Oath specializes entirely on support. Excels at controlling the battlefield by offering various buffs and granting heals to allies, while also inflicting debuffs and lifesteal for fighting enemies. Granted the power of this Oath is exceptional for fights in groups, having this Oath while alone will hardly give benefits, thus making it one of (if not) the worst Oath for solo players._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ The world is broken, linked by fragile webs. ”
 
@@ -107,5 +107,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 
 -   You need a wallbreak mantra to access to Entropy Catalyst. However, you can clip through by running at full speed, rolling then jumping right after.
     -   You can also climb up the surrounding walls (often with clever Chime of Dwelling usage.)
--   [Scarlet Lotuses](https://deepwoken.fandom.com/wiki/Pristine_Lotus) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
+-   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Linkstrider had the Mystic line "I create bonds between others."
+-   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardless of who places them. \* If you have Pristine Lotuses and put a knocked player on the sacrifice ritual, you should get a Scarlet and a completed sacrifice crater.

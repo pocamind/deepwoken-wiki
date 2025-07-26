@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 154547
+revid: 154688
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -28,13 +28,14 @@ The wind up IS cancellable making it very easy to counter.
 
 Pressing C will activate the **Chorus Divide** Resonance.
 
-If Chorus Divide is corrupted, you explode. (currently has an unknown effect)
+If Chorus Divide is corrupted, its wind-up is significantly longer and deals increased damage.
 
 ### _Resonance Point usage_
 
 When obtained, Chorus Divide will spend its points on the following stats:
 
-Wind-up time:
+-   Wind-up time
+-   Rotation Speed
 
 #### _Attunements_
 
@@ -50,12 +51,4 @@ Chorus Divide will use the players highest invested attunement upon obtaining th
 
 If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will additionally be the attunement of their current **Saint Stance**.
 
-If the player is [Attunement-less](Attunement-less.md), the beam will randomly? choose an attunement. (was [Thundercall](Thundercall.md) in testing)
-
-  
-
-  
-
-## Trivia/Notes
-
--   You can movestack mantras like Blinding Dawn or Sightless Beam with this bell
+If the player is [Attunement-less](Attunement-less.md), the beam will Thundercall.

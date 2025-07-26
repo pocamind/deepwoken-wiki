@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 154476
+revid: 154657
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,7 @@ _For the version that existed prior to the March 29, 2024, see [here](Oath%253A_
 
 ## Description
 
-**[Oath](Oaths.md): Jetstriker** is one of the 16 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath. Jetstriker is infamous for being able to quickly escape any engagement at will if the user knows what they're doing.
+**[Oath](Oaths.md): Jetstriker** is one of the 17 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath. Jetstriker is infamous for being able to quickly escape any engagement at will if the user knows what they're doing.
 
 “ I can begrudgingly congratulate you! No more easy race wins for me, I suppose! ”
 
@@ -107,6 +107,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 ## Trivia
 
 -   The Knockdown for the since removed Vigil's Grace Talent didn't cancel heavy weapons' knockback, so the enemy would just slip away while on the floor.
+-   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Jetstriker had the Mystic line "Journey before destination."
 -   Vigil's Grace card had another Oath name instead of Jetstriker, this time being "Oath: Windrunner"
--   Jetstriker did not have mantras prior to March 29, 2024.
--   The old name and Mystic quote for Jetstriker are both references to _The Stormlight Archive_
+-   The old name and Mystic quote for Jetstriker are both references to _The Stormlight Archive_.
+-   Jetstriker did not have Mantras prior to March 29, 2024.
