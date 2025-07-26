@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 154248
+revid: 154769
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -496,6 +496,16 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   Songseeker Mistress[\[8\]](#cite-note-yama-8)
 -   A sort of teacher to the Songseekers. Encourages a level of freedom, so long as said freedom aligns with her beliefs.[\[8\]](#cite-note-yama-8)
+
+### Edenkite
+
+**Lore Sources:** _[Skyreap Blade](Skyreap_Blade.md) Description (Mentioned),_ _Books ([Lumen's Folklore: Volume 'North'](Books.md)), [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Description_
+
+-   Immortal beings of great intelligence
+-   People communed with them during the Canticlysm via a ritual called ‘The Wyrm's Communion'
+-   The Edenkite would only answer with anecdotes and hard to decipher riddles
+-   The Edenkite knew that communing with humans would be a risk to their species' existence
+-   There were Originally 9 Edenkite
 
 ## Locations
 

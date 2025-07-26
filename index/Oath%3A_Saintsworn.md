@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 154640
+revid: 154752
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -15,7 +15,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 | Saintsblade | |
 |---|---|
-| type | Oath Weapon |
+| type | Sword Oath Weapon |
 | requirements | Oath |
 | damage | 28 |
 | range | 8.5 |

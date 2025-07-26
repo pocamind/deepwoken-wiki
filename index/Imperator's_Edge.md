@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 153166
+revid: 154757
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Pages with broken file links, Weapons with Unique Critical
 
 The **Imperator's Edge** is a legendary [medium](Weapons.md#medium) [spear](Weapons.md#spears) weapon that is only obtainable from Primadon or from depths chests/fishing. It is a gargantuan spear with a glowing tip infused with the very essence of light itself.
 
-A weapon of the Hundred Legions, wielded in the frontlines to lead troops forward to "inevitable victory" with it's "blinding brilliance".
+A weapon of the Hundred Legions, wielded in the frontlines to lead troops forward to "inevitable victory" with its "blinding brilliance".
 
 It is decorated with symbols of the Legions.
 

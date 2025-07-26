@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 154711
+revid: 154778
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Oaths, The Hundred Legions]
@@ -12,7 +12,7 @@ notices:
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | 80 Body (80 Strength, Fortitude, or Agility)40 Galebreathe or Thundercall |
+| oath_req | 80 Strength40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
@@ -42,7 +42,7 @@ Requires Hero reputation with [The Hundred Legions](The_Hundred_Legions.md)
 
 ## Progression
 
-Activating **Sovereign State** will give you the talents and mantras.
+To progress Blightsurger, you will need to keep talking to Brutus.
 
 ## Abilities
 
@@ -88,6 +88,10 @@ Activating **Sovereign State** will give you the talents and mantras.
 
 -   **Anchor Shock - Talent**
     -   Your Blightshock prevents targets from using mobility mantras.
+
+-   **Blightlash - Talent**
+    -   Your swing range is enhanced during Sovereign State.
+    -   Increases the range of the Sovereign Bangle from 6 to ?.
 
   
 

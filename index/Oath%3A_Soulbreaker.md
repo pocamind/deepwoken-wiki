@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 154645
+revid: 154742
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -118,6 +118,7 @@ You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and t
     -   Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
         -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to your cursor's location. Cannot teleport yourself outside of the range of your Tacet bubble.
         -   Formless can only be used during Tacet and will end your Tacet upon successful teleport.
+            -   You can keep Tacet if you crouch **just after** teleporting.
         -   Formless costs ~50 Ether and has a 5 second cooldown. The Ether cost seems to be somewhat inconsistent.
         -   Because Formless' limit on teleportation distance is determined by the size of your Tacet bubble, having low or even negative [stealth](Stealth.md) is a viable option.
         -   The speed boost granted upon activating Tacet lasts 2.5 seconds and is retained upon exiting Tacet.

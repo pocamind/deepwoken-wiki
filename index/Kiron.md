@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 154718
+revid: 154764
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -84,3 +84,4 @@ Alternatively, you can choose no markings.
 ## Trivia
 
 -   Kiron is the latest Aspect added to _Deepwoken_, being added over 2 years since the _Layer 2_ ones were added ([Tiran](Tiran.md) and [Chrysid](Chrysid.md)).
+-   The surname Vaatu may be a nod to [Vaatu](https://avatar.fandom.com/wiki/Vaatu) from the _Avatar_ franchise.

@@ -1,6 +1,6 @@
 ---
 title: Baneful Syrinx
-revid: 147623
+revid: 154736
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -38,3 +38,4 @@ A teleportation circle will appear below the user's feet, and after a short dela
 -   Baneful Syrinx was added alongside [Reciprocal Bonecharm](Reciprocal_Bonecharm.md) and [Ouroboral Husk](Ouroboral_Husk.md), having the same function of teleporting the user to specific locations.
 -   Baneful Syrinx can be used **in combat**.
 -   Baneful Syrinx can be used in the Overworld to teleport yourself into The Depths, acting similarly to [Deepbound's](Origins.md#deepbound) Call of the Deep.
+-   Baneful Syrinx can be used to teleport out of layer 2
