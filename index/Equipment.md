@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 154971
+revid: 155003
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1614,7 +1614,7 @@ Found from:
 
  | 
 
-Set: Phalanx  
+Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
@@ -3852,7 +3852,7 @@ Found from:
 
  | 
 
-Set: Phalanx  
+Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
@@ -4199,11 +4199,9 @@ Arms: [Ranger's Brace](<Ranger's_Brace.md>)
 Legs: [Ranger's Boots](<Ranger's_Boots.md>)
 
  |
-| 
+|  | 
 
- | 
-
-[Redsteel Pauldrons](Redsteel_Pauldrons.md) <
+[Redsteel Pauldrons](Redsteel_Pauldrons.md)
 
 (**Set**)
 
@@ -4659,6 +4657,31 @@ N/A
  |
 |  | 
 
+[Titus's Cape](<Titus's_Cape.md>)
+
+ | 
+
+_+10% Lightning Armor_
+
++2 Rare Pips
+
++1 Legendary Pip
+
+**Requires Power 15**
+
+ | 
+
+Found from:
+
+-   [Titus](Titus_Fulminus_Destellus.md)
+
+ | 
+
+N/A
+
+ |
+|  | 
+
 [Tracker's Brace](<Tracker's_Brace.md>)
 
 (**Set**)
@@ -5065,6 +5088,8 @@ Variants/Set
 
 [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
 
+(**Set**)
+
 (**Legendary**)
 
  | 
@@ -5084,12 +5109,16 @@ Found from:
 
  | 
 
-N/A
+Set: Abyss Wanderer  
+Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
+Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
 
  |
 |  | 
 
 [Autumn Boots](Autumn_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5114,12 +5143,16 @@ Found from:
 
  | 
 
-N/A
+Set: Autumn  
+Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
+Legs: [Autumn Boots](Autumn_Boots.md)
 
  |
 | File:Static-assets-upload10948241571813513916.png | 
 
 [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5135,12 +5168,16 @@ Found from:
 
  | 
 
-N/A
+Set: Azure Royal Guard  
+Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
+Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
 
  |
 |  | 
 
 [Bluesteel Boots](Bluesteel_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5165,12 +5202,16 @@ Found from:
 
  | 
 
-N/A
+Set: Bluesteel  
+Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
+Legs: [Bluesteel Boots](Bluesteel_Boots.md)
 
  |
 | File:Brilliant Boots.png | 
 
 [Brilliant Boots](Brilliant_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5193,7 +5234,10 @@ Found from:
 
  | 
 
-N/A
+Set: Brilliant  
+Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+Legs: [Brilliant Boots](Brilliant_Boots.md)  
+Torso: [Brilliant Cape](Brilliant_Cape.md)
 
  |
 | 
@@ -5201,6 +5245,8 @@ N/A
  | 
 
 [Celtorian Sabatons](Celtorian_Sabatons.md)
+
+(**Set**)
 
  | 
 
@@ -5222,7 +5268,10 @@ Found from:
 
  | 
 
-N/A
+Set: Celtor Commander  
+Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
+Arms: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
+Legs: [Celtorian Sabatons](Celtorian_Sabatons.md)
 
  |
 |  | 
@@ -5281,6 +5330,8 @@ Legs: [Enforcer Boots](Enforcer_Boots.md)
 
 [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
 
+(**Set**)
+
  | 
 
 _+4 Health_
@@ -5304,12 +5355,16 @@ Found from:
 
  | 
 
-N/A
+Set: Etrean Siege  
+Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
+Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
 
  |
 |  | 
 
-\[\[Evanspear War Boots\]
+[Evanspear War Boots](Evanspear_War_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5327,12 +5382,17 @@ Found from:
 
  | 
 
-N/A
+Set: Evanspear War  
+Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
+Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 
  |
 | File:Flameguard Boots.png | 
 
 [Flameguard Boots](Flameguard_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5356,7 +5416,9 @@ Found from:
 
  | 
 
-N/A
+Set: Flameguard  
+Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
+Legs: [Flameguard Boots](Flameguard_Boots.md)
 
  |
 | File:White fur boots.png | 
@@ -5364,6 +5426,8 @@ N/A
 [Fur Boots](Fur_Boots.md)
 
 (**Series**)
+
+(**Set**)
 
  | 
 
@@ -5391,10 +5455,23 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [War Mode](War_Mode.md)
 
- | Black & White |
+ | 
+
+Variants:  
+Black & White
+
+  
+
+Set: Fur  
+Arms: [Fur Pauldrons](Fur_Pauldrons.md)  
+Legs: [Fur Boots](Fur_Boots.md)
+
+ |
 | File:Grand Authority Sabatons.png | 
 
 [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
+
+(**Set**)
 
  | 
 
@@ -5418,12 +5495,16 @@ Found from:
 
  | 
 
-N/A
+Set: Grand Authority  
+Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
+Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
 
  |
 | File:Grand Boots.png | 
 
 [Grand Boots](Grand_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5441,12 +5522,16 @@ Found from:
 
  | 
 
-N/A
+Set: Grand  
+Arms: [Grand Pauldrons](Grand_Pauldrons.md)  
+Legs: [Grand Boots](Grand_Boots.md)
 
  |
 | File:Imperial Boots.png | 
 
 [Imperial Boots](Imperial_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5469,12 +5554,16 @@ Found from:
 
  | 
 
-N/A
+Set: Imperial  
+Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
+Legs: [Imperial Boots](Imperial_Boots.md)
 
  |
 | File:Static-assets-upload12369006146430102616.png | 
 
 [Iron Boots](Iron_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5491,12 +5580,16 @@ Found from:
 
  | 
 
-N/A
+Set: Iron  
+Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
+Legs: [Iron Boots](Iron_Boots.md)
 
  |
 | File:Khan Boots1.png | 
 
 [Khan Boots](Legion_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5524,12 +5617,17 @@ Found from:
 
  | 
 
-N/A
+Set: Khan  
+Head: [Khan Helmet](Legion_Helmet.md)  
+Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
+Legs: [Khan Boots](Legion_Boots.md)
 
  |
 | File:Leather Boots NEW.png | 
 
 [Leather Boots](Leather_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5546,12 +5644,16 @@ Found from:
 
  | 
 
-N/A
+Set: Leather  
+Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
+Legs: [Leather Boots](Leather_Boots.md)
 
  |
 |  | 
 
 [Mercenary's Boots](<Mercenary's_Boots.md>)
+
+(**Set**)
 
  | 
 
@@ -5581,12 +5683,16 @@ Found from:
 
  | 
 
-N/A
+Set: Mercenary  
+Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
+Legs: [Mercenary's Boots](<Mercenary's_Boots.md>)
 
  |
 |  | 
 
 [Novice Boots](Novice_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5608,12 +5714,16 @@ Found from:
 
  | 
 
-N/A
+Set: Novice  
+Arms: [Novice Brace](Novice_Brace.md)  
+Legs: [Novice Boots](Novice_Boots.md)
 
  |
 |  | 
 
 [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5636,12 +5746,17 @@ Found from:
 
  | 
 
-N/A
+Set: Legion Phalanx  
+Head: [Phalanx Helmet](Phalanx_Helmet.md)  
+Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
+Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
 
  |
 | File:Ranger Boots.png | 
 
 [Ranger's Boots](<Ranger's_Boots.md>)
+
+(**Set**)
 
  |   
 
@@ -5662,12 +5777,16 @@ Found from:
 
  | 
 
-N/A
+Set: Ranger  
+Arms: [Ranger's Brace](<Ranger's_Brace.md>)  
+Legs: [Ranger's Boots](<Ranger's_Boots.md>)
 
  |
 |  | 
 
 [Redsteel Boots](Redsteel_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5690,12 +5809,16 @@ Found from:
 
  | 
 
-N/A
+Set: Redsteel  
+Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
+Legs: [Redsteel Boots](Redsteel_Boots.md)
 
  |
 |  | 
 
 [Shock Trooper Boots](Shock_Trooper_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5713,12 +5836,17 @@ Found from:
 
  | 
 
-N/A
+Set: Shock Trooper  
+Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
+Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
 
  |
 | File:Silver Sabatons.png | 
 
 [Silver Sabatons](Silver_Sabatons.md)
+
+(**Set**)
 
  | 
 
@@ -5741,12 +5869,17 @@ Found from:
 
  | 
 
-N/A
+Set: Silver Knight  
+Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
+Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
+Legs: [Silver Sabatons](Silver_Sabatons.md)
 
  |
 |  | 
 
 [Star Boots](Star_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5775,12 +5908,16 @@ Found from:
 
  | 
 
-N/A
+Set: Star  
+Arms: [Star Duster](Star_Duster.md)  
+Legs: [Star Boots](Star_Boots.md)
 
  |
 |  | 
 
 [Tracker's Boots](<Tracker's_Boots.md>)
+
+(**Set**)
 
  | 
 
@@ -5805,12 +5942,16 @@ Found from:
 
  | 
 
-N/A
+Set: Tracker  
+Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
+Legs: [Tracker's Boots](<Tracker's_Boots.md>)
 
  |
 |  | 
 
 [Vanguard Boots](Vanguard_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5833,7 +5974,9 @@ Found from:
 
  | 
 
-N/A
+Set: Vanguard  
+Arms: [Vanguard Brace](Vanguard_Brace.md)  
+Legs: [Vanguard Boots](Vanguard_Boots.md)
 
  |
 | File:Wartreads of Enmity.png | 
@@ -5874,6 +6017,8 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 
 [Western Outlaw Boots](Western_Outlaw_Boots.md)
 
+(**Set**)
+
  | 
 
 _+3% Lightning Armor_
@@ -5894,12 +6039,18 @@ Found from:
 
  | 
 
-N/A
+Set: Western Outlaw  
+Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
+Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
+Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
  |
 |  | 
 
 [Winter Corps Boots](Winter_Corps_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5925,12 +6076,16 @@ Found from:
 
  | 
 
-N/A
+Set: Winter Corps  
+Arms: [Winter Corps Parka](Winter_Corps_Parka.md)  
+Legs: [Winter Corps Boots](Winter_Corps_Boots.md)
 
  |
 |  | 
 
 [Woodland Boots](Woodland_Boots.md)
+
+(**Set**)
 
  | 
 
@@ -5954,7 +6109,9 @@ Found from:
 
  | 
 
-N/A
+Set: Woodland  
+Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
+Legs: [Woodland Boots](Woodland_Boots.md)
 
  |
 
@@ -6002,10 +6159,17 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
- | Black & Golden |
+ | 
+
+Variants:  
+Black & Golden
+
+ |
 | File:Brilliant Cape.png | 
 
 [Brilliant Cape](Brilliant_Cape.md)
+
+(**Set**)
 
  | 
 
@@ -6019,11 +6183,14 @@ _+3% Elemental Armor_
 
 Found from:
 
--   Mob Drop from [Dread Serpent](Dread_Serpent.md)
+-   [Dread Serpent](Dread_Serpent.md)
 
  | 
 
-N/A
+Set: Brilliant  
+Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+Legs: [Brilliant Boots](Brilliant_Boots.md)  
+Torso: [Brilliant Cape](Brilliant_Cape.md)
 
  |
 | File:Canticlysm Pendant.png | 
@@ -6124,6 +6291,8 @@ N/A
 
 [Dark Owl Cape](Dark_Owl_Cape.md)
 
+(**Set**)
+
  | 
 
 _+2% Stealth_
@@ -6151,7 +6320,10 @@ Found from:
 
  | 
 
-N/A
+Set: Dark Owl  
+Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
+Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
+Torso: [Dark Owl Cape](Dark_Owl_Cape.md)
 
  |
 |  | 
@@ -6210,7 +6382,12 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
+ | 
+
+Variants:  
+Emerald, Rose, Scarlet, Shade, Silver & Onyx
+
+ |
 | File:Golden Cape.png | 
 
 Golden Cape
@@ -6232,7 +6409,12 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
- | Black & Golden |
+ | 
+
+Variants:  
+Black & Golden
+
+ |
 |  | 
 
 [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)
@@ -6277,6 +6459,8 @@ File:Monastery Champion Beads NEW.png
 
 [Monastery Beads](Monastery_Beads.md)
 
+(**Set**)
+
 (**Legendary**)
 
  | 
@@ -6296,7 +6480,10 @@ Found from:
 
  | 
 
-N/A
+Set: Monastery Champion  
+Head: [Monastery Cowl](Monastery_Cowl.md)  
+Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
+Torso: [Monastery Beads](Monastery_Beads.md)
 
  |
 |  | 
@@ -6461,7 +6648,12 @@ Found from:
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
+ | 
+
+Variants:  
+Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White
+
+ |
 |  | 
 
 [Seafarer Pendant](Seafarer_Pendant.md)
@@ -6514,7 +6706,12 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
- | Red, Black, Midnight & White |
+ | 
+
+Variants:  
+Red, Black, Midnight & White
+
+ |
 | File:Threadwork Kilt.png | 
 
 [Threadwork Kilt](Threadwork_Kilt.md)
@@ -6864,6 +7061,8 @@ Variants/Set
 
 (**Series**)
 
+(**Set**)
+
  | 
 
 +1 Rare Pip
@@ -6882,7 +7081,19 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | Default (Black), Red & White |
+ | 
+
+Variants:  
+Default (Black), Red & White
+
+  
+
+Set: Aristocrat  
+Head: [Tophat](Tophat.md)  
+Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
+Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
+
+ |
 |  | 
 
 [Authority Prototype Mask](Authority_Prototype_Mask.md)
@@ -6945,7 +7156,12 @@ Found from:
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
- | Black & Crimson |
+ | 
+
+Variants:  
+Black & Crimson
+
+ |
 |  | 
 
 [Blindfold](Blindfold.md)
@@ -6973,6 +7189,8 @@ N/A
 
 [Bloodfeather Mask](Bloodfeather_Mask.md)
 
+(**Set**)
+
  | 
 
 _+5% Shadow Armor_
@@ -6995,7 +7213,9 @@ Found from:
 
  | 
 
-N/A
+Set: Bloodfeather  
+Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
+Face: [Bloodfeather Mask](Bloodfeather_Mask.md)
 
  |
 |  | 
@@ -7030,8 +7250,13 @@ Found from:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | Browline & Round  
-Regular, Amber, & Azure |
+ | 
+
+Variants:  
+Browline & Round  
+Regular, Amber, & Azure
+
+ |
 |  | 
 
 [Crimson Blindfold](Blindfold.md)
@@ -7052,7 +7277,12 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
- | Black & Crimson |
+ | 
+
+Variants:  
+Black & Crimson
+
+ |
 | File:Demon Mask1.png | 
 
 [Demon Mask](Demon_Mask.md)
@@ -7152,7 +7382,12 @@ Found from:
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | Black, Orange, Yellow, Red, Blue, Green, & White |
+ | 
+
+Variants:  
+Black, Orange, Yellow, Red, Blue, Green, & White
+
+ |
 |  | 
 
 [Hivelord Mask](Hivelord_Mask.md)
@@ -7194,7 +7429,12 @@ Found from:
 
 -   Mob Drop from [Hollow Angels](Hollow_Angel.md) (rare)
 
- | Hollow, Sworn |
+ | 
+
+Variants:  
+Hollow, Sworn
+
+ |
 |  | 
 
 [Iron Mask](Iron_Mask.md)
@@ -7237,7 +7477,12 @@ Source from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | Summer, Dusk & Seaglass |
+ | 
+
+Variants:  
+Summer, Dusk & Seaglass
+
+ |
 |  | 
 
 [Polarised Eyeglasses](Polarised_Eyeglasses.md)
@@ -7286,10 +7531,17 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | Blue, Green & Red |
+ | 
+
+Variants:  
+Blue, Green & Red
+
+ |
 | File:Smith's Goggles1.png | 
 
 [Smith's Goggles](<Smith's_Goggles.md>)
+
+(**Set**)
 
  | 
 
@@ -7309,7 +7561,10 @@ Found from:
 
  | 
 
-N/A
+Set: Smith's  
+Head: [Smith's Bandana](<Smith's_Bandana.md>)  
+Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
+Face: [Smith's Goggles](<Smith's_Goggles.md>)
 
  |
 | File:Sworn Angel Mask1.png | 
@@ -7328,7 +7583,12 @@ Found from:
 
 -   Mob Drop from [Sworn Angels](Sworn_Angel.md) (rare)
 
- | Hollow, Sworn |
+ | 
+
+Variants:  
+Hollow, Sworn
+
+ |
 | File:Rabel Bandana.png | 
 
 [Rebel's Bandana](<Rebel's_Bandana.md>)
@@ -7458,6 +7718,8 @@ N/A
 
 [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
+(**Set**)
+
  | 
 
 +1 Common Pip
@@ -7470,7 +7732,11 @@ Found from:
 
  | 
 
-N/A
+Set: Western Outlaw  
+Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
+Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
+Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
  |
 |  | 

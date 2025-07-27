@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 154023
+revid: 155012
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Items]
@@ -39,11 +39,11 @@ Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Er
 -   It can be dyed, changing the color of the light it produces, however it only gives a tint to the necklace itself, so the green stone stays green.
 -   In March 2024, developer Ragoozer, accidentally or intentionally, dropped it as loot in a [Chime of Conflict](Chime_of_Conflict.md) match.[\[1\]](#cite-note-1)
     -   It was formerly known as the Wind Amulet.
--   Whistleguard is a weaker variant of the [Duke of Erisia](Duke_Ishamon_Erisia.md)'s shield of Galebreathe he uses in the first phase of his fight.
+-   Whistleguard is a weaker variant of the [Duke Erisia](Duke_Ishamon_Erisia.md)'s shield of Galebreathe he uses in the first phase of his fight.
 -   This item is able to be passed down to another life and stored in the item bank.
 -   If smelted, cannot be banked.
--   Whistling Periapt cannot autoparry vents.
--   This is one of the droppable torso Relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Tiran Pendant](Tiran_Pendant.md).
+-   Whistling Periapt cannot autoparry Vents.
+-   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), [Imperator's Fury](<Imperator's_Fury.md>), and the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Upon equipping the Whistling Periapt it does NOT get soulbound and may be dropped once more.
 
 ## References

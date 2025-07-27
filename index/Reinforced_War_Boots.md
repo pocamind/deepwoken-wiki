@@ -1,9 +1,9 @@
 ---
 title: Reinforced War Boots
-revid: 154937
+revid: 154996
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Legs, Boots, Craftable]
+categories: [In progress without reason, InProgressPages, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

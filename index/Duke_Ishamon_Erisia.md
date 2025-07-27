@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 154192
+revid: 155016
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -260,6 +260,7 @@ Phases begin in sequence, depending on the Bosses' Max HP.
 Upon defeating Duke Ishamon Erisia, you are rewarded a colossal sized chest that contains:
 
 -   Rare Items & Equipment
+-   [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>), a crafting material for equipment.
 -   Relics ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), [Smith's Alloy](<Smith's_Alloy.md>), [Sinner's Ash](<Sinner's_Ash.md>), [Armorer's Needle](<Armorer's_Needle.md>))
 -   [Rare Weapons](Weapons.md)
 -   [Attunement Uncap](Attributes_Unbound.md) (If the requirements are met.)
@@ -282,6 +283,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
+    <li><a href="Items.md">Items</a>: <a href="Duke's_Coat_Fiber.md">Duke's Coat Fiber</a></li>
     <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
   </ul></td>
 </tr>

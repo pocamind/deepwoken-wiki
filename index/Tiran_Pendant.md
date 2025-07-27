@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 151829
+revid: 155009
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -34,4 +34,4 @@ Equipping it grants the [Featherfall](Talents.md#equipment-talents) Talent, whic
 
 -   The third (or second) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Used to have a bug which relogging while the passive was on cooldown would double the cooldown leading to massive cooldowns on the passive.
--   This is one of the droppable torso Relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).
+-   This is one of the droppable torso relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), [Imperator's Fury](<Imperator's_Fury.md>), and the [Whistling Periapt](Whistling_Periapt.md).

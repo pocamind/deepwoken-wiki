@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 154960
+revid: 154978
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Oaths, The Hundred Legions]
@@ -53,7 +53,7 @@ To progress Blightsurger, the player will need to keep talking to Brutus.
 
 -   **Sovereign State - Talent**
     -   Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
-    -   Blight Meter gain has no cooldown. Landing Blightsurge Mantras grants 15% Blight Meter. Landing M1 grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, [Galebreathe](Galebreathe.md) Mantras, or [Physical](Attunement-less.md) Mantras grants 5% Blight Meter.
+    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, [Galebreathe](Galebreathe.md) Mantras, or [Physical](Attunement-less.md) Mantras grants 5% Blight Meter.
     -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
         -   This keybind can be changed in settings.

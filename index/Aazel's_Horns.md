@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 154760
+revid: 154974
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Items]
@@ -30,5 +30,5 @@ The Aazel's Horns is an [Equipment](Equipment.md) item under the "Head" category
 
 ## Trivia
 
--   Ever since Traan Zakshun's release, developer Nuttoons had been hinting at an "it" item he could sell, as in "has Traan sold _it_ yet?". The Aazel's Horns are this item. The "it" was later revealed to be a head equipment, and eventually, over a month and a half after Traan's addition, he sold it during a black market rotation.
-    -   It hadn't been in his shop beforehand wholly due to bad RNG. There isn't and has never been specific weighting for items in either of his shops.
+-   On July 9th 2025, Nuttoons announced they had added a rare "drip" item to Traan's black market. This ended up being the Aazel's Horns.
+    -   It hadn't been documented in his shop until 7 days after its addition, wholly due to bad RNG. There isn't and has never been specific weighting for items in either of his shops.

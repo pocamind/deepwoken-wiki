@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat Cloth"
-revid: 154337
+revid: 155026
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat_Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -22,3 +22,7 @@ categories: [Items, Drops, Ingredients]
 ## Description
 
 The **Ferryman's Coat Cloth** is a direct and chest drop from [The Ferryman](The_Ferryman.md). It's a purple cloth emitting purple lightnings.
+
+## Uses
+
+-   Used for crafting the [Specialist Helmet](Specialist_Helmet.md)

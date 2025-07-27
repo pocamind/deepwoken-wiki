@@ -1,9 +1,9 @@
 ---
 title: Specialist Boots
-revid: 154934
+revid: 154993
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Legs, Boots, Craftable]
+categories: [In progress without reason, InProgressPages, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -48,6 +48,6 @@ Set Bonus: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Man
 
 This item is obtained by crafting the [Shock Trooper Boots](Shock_Trooper_Boots.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 2 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md).
-2.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + ?.
-3.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + ?.
+1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + ? + ?.
+2.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + ? + ?.
+3.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + ? + ?.

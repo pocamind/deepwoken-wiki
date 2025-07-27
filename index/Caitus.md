@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 154665
+revid: 154972
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -16,7 +16,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 
 ## Description
 
-Caitus is a Khan NPC, he is part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md)
+Caitus is a Khan NPC, a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md). He also teaches the fist style [Imperium Kata](Imperium_Kata.md) to the player.
 
 ## Location
 
@@ -53,4 +53,4 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 ## Trivia
 
 -   The reputation needed for the High rep dialogue, is a bit more than just ally rep.
--   as of currently he gives imperium kata without having the requirements. it may be bugged. (you do have to beat titus though)
+-   As of now, he gives [Imperium Kata](Imperium_Kata.md) without having the requirements. This may be due to a bug, but beating Titus is still required for obtainment.

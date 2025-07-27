@@ -1,9 +1,9 @@
 ---
 title: Specialist Helmet
-revid: 154936
+revid: 154995
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Craftable]
+categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 ---
 
 # Specialist Helmet
@@ -45,5 +45,5 @@ Set Bonus: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Man
 This item is obtained by crafting the [Shock Trooper Helmet](Shock_Trooper_Helmet.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
 1.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 2 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md).
-2.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + ?.
+2.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + ?.

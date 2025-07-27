@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 151773
+revid: 155008
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -37,4 +37,4 @@ Equipping it grants the [Actions Speak Louder](Talents.md#equipment-talents) Tal
     -   There are 3 Authority emblems outside of the attachment.
     -   The neon blades could represent the Circle of Honor, as it is surrounded by a circular border and is the source of the [Warmaster Oath](Oaths.md#warmaster) comes from.
 -   Has virtually no downside on slots with the Dissonant [echo modifier](Echoes.md).
--   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).
+-   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), [Imperator's Fury](<Imperator's_Fury.md>), and the [Whistling Periapt](Whistling_Periapt.md).

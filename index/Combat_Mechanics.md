@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 152937
+revid: 155028
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -363,10 +363,12 @@ Image
 | Yellow | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
 | White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ✗ |
 | Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
-| Green | File:Greentelegraph.png | ✗ | ✗ | ✗ | ◯ |
+| Green | File:Greentelegraph.png | ◯ | ✗ | ✗\* | ◯ |
 | Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |
 
 _Note: ✗ = only parryable with [Force Your Way](Ignition_Deepdelver.md), ◯ = with enough posture, usually quite high, ? = needs testing_
+
+\*Possibly a bug, but Titus's _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
 
 ## Status Effects
 

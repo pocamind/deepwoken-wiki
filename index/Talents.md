@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 154894
+revid: 155004
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3658,6 +3658,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Drain 5% of your opponent's armor after landing a Critical attack or Flourish. This has a 10 second cooldown and can only proc once per critical attack.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
     -   Grants 20% Mantra PEN.
+-   Crippling Impact: [Evanspear War Plate](Evanspear_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.
     -   Maximum of +130 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
@@ -3744,6 +3745,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
 -   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
+-   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
+    -   Storm strikes now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).

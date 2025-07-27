@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 154815
+revid: 154979
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -31,7 +31,7 @@ categories: [Items, Outfits, Master Outfits]
 
 ### _Requirements_
 
-This Outfit costs 2,500 and requires (5) [Cloth](Cloth.md), (3) [Might Gems](Might_Gem.md), (2) [Wrath Gems](Wrath_Gem.md), (1) [Titus' Armor Piece](<Titus'_Armor_Piece.md>), and (1) [Warden's Armor Piece](<Warden's_Armor_Piece.md>) to craft.
+This Outfit costs 2,500 and requires (5) [Cloth](Cloth.md), (3) [Might Gems](Might_Gem.md), (3) [Wrath Gems](Wrath_Gem.md), (1) [Titus' Armor Piece](<Titus'_Armor_Piece.md>), and (1) [Warden's Armor Piece](<Warden's_Armor_Piece.md>) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 30 [Strength](Attributes.md#str) to be crafted.
 

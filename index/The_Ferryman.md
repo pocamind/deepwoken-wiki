@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 154570
+revid: 155018
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -212,24 +212,15 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Master</b>: <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
-    <li><b>Unique</b>: <a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a>,<a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a></li>
+    <li><b>Unique</b>: <a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Books.md#the-ferrymans-lullaby">The Ferryman's Lullaby</a> (Book)</li>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li><a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
-    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-  </ul></li>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="Books.md#the-ferrymans-lullaby">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
   </ul></td>
 </tr>
 <tr>

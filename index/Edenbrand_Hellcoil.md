@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 154761
+revid: 155023
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -18,7 +18,7 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | chip damage | 20% |
-| special effect | Applies White Burn upon landing Critical. |
+| special effect | Critical applies White Burn |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Unique |
 | selling price | 100 |
@@ -32,12 +32,13 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 
 ## Description
 
-The Edenbrand Hellcoil is a very large cannon held with both hands. The cannon showcases a dragon motif, akin to ancient eastern cultures in the real world.
+The Edenbrand Hellcoil is a very large cannon held with both hands (though, it can still be wielded with an offhand). The cannon showcases a dragon motif, akin to ancient eastern cultures in the real world.
 
 ## Critical
 
-With a decent wind-up, fire your cannon towards your enemy, launching yourself back due to the sheer force of your weapon. This applies [White burn](Status_Effects.md#burn) on hit, similar to [Corrupt Shard Bow](Shard_Bow.md).
+With a decent wind-up, fire an unparryable cannon shot towards your enemy, launching yourself back from the sheer firepower. This applies [White burn](Status_Effects.md#burn) on hit, similar to [Corrupt Shard Bow](Shard_Bow.md).
 
 ## Trivia
 
--   The Edenbrand Hellcoil is the first Greatcannon to be added to deepwoken.
+-   The weapon has a "Unique" rarity, despite this it is droppable. It can also be banked.
+-   The Edenbrand Hellcoil was the first Greatcannon to be added to deepwoken.
