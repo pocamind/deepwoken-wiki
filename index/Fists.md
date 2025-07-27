@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 154464
+revid: 155029
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, Light Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Pages with broken file links, Fists, Light Weapons]
 | type | Light Weapon |
 | requirements | 0 LHT (WN/LK/IK) , 20 LHT (Needed to obtain FC, not needed if chosen in character creation) , 40 LHT (Needed to obtain JK, not needed if chosen in character creation) |
 | damage | 12 (WN/LK/FC/IK) , 14 (JK) |
-| scaling | LHT: 7 (WN/LK/FC) , LHT: 9 (JK) |
+| scaling | LHT: 7 (WN/LK/FC/IK) , LHT: 9 (JK) |
 | range | 6 (WN/LK/FC/IK)6.5 (JK) |
 | swing speed | 1.1x (WN/LK/FC) , 1.13x (IK) , 1.14x (JK) |
 | penetration | N/A (WN/LK/FC) , 20% (JK) |
@@ -27,7 +27,7 @@ categories: [Weapons, Pages with broken file links, Fists, Light Weapons]
 
 Fists are a unique type of [Light Weapon](Weapons.md) in _Deepwoken_.
 
-There are 5 different fist styles and 3 of them share the ability to be switched between at any time, even mid-combat, those being Fang & Coil, Legion Kata, and Way of Navae. (add pen, description and scaling information for imperium kata)
+There are 5 different fist styles and 3 of them share the ability to be switched between at any time, even mid-combat, those being Fang & Coil, Legion Kata, and Way of Navae. **(add PEN, description and photo for imperium kata)**
 
 ## Terminology
 
@@ -67,7 +67,7 @@ _Main Page: [Fang and Coil](Fang_and_Coil.md)_
 
 ### Imperium Kata
 
-add photo here
+**add photo here**
 
 _Main Page: [Imperium Kata](Imperium_Kata.md)_
 

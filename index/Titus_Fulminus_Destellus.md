@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 154932
+revid: 155049
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -342,7 +342,7 @@ Dodgeable:
 </tr>
 <tr>
   <td colspan="4">My conquests in the West resound like thunder. But here in the East is where I earned my name. With storm-like might and lightning, I vanquished innumerable foes in star-swept Aratel. For that, I am named <b>'Fulminus' </b>, and <b>'Destellus' </b>.</td>
-  <td colspan="4">[WIP]</td>
+  <td colspan="4">Fine. You've earned your leave. Be on your way.</td>
 </tr>
 <tr>
   <td colspan="2">You did this all on your own?</td>

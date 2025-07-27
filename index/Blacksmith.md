@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 154485
+revid: 155037
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -16,9 +16,9 @@ categories: [Vendors, NPCs]
 
 ## Description
 
-The Blacksmiths are stationary NPCs found in numerous towns across Lumen. They are the primary station used to craft and manage [Outfits](Outfits.md). They are also the leading source of [Cloth](Cloth.md) and [Fiber](Fiber.md), essential to craft Outfits, as well as selling utility tools. Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [Seasonal Medals](Seasonal_Medals.md), and exchanging [Pure Ores](Ores.md) for moderate-tier loot.
+The Blacksmiths are stationary NPCs found in numerous towns across Lumen. They are the primary station used to craft and manage [Outfits](Outfits.md). They are also the leading source of [Cloth](Cloth.md) and [Fiber](Fiber.md), essential to craft Outfits, as well as selling utility tools.
 
-Additionally, they sell:
+Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [Seasonal Medals](Seasonal_Medals.md), and exchanging [Pure Ores](Ores.md) for moderate-tier loot. Additionally, they sell:
 
 -   [Cloth](Cloth.md) for 6
 -   [Fiber](Fiber.md) for 3
@@ -54,7 +54,7 @@ _More info: [Transmogrification](Transmogrification.md)_
 
 ### Craft event items with Knowledge
 
--   You are able to craft limited-time items using [Knowledge](Knowledge.md) if you bought [Seasonal Medals](Seasonal_Medals.md) during a Deepwoken event, such as Hallowtide Medals 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. You can also craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
+-   You are able to craft limited-time items using [Knowledge](Knowledge.md) if you bought [Seasonal Medals](Seasonal_Medals.md) during a [Deepwoken event](Random_Encounters.md), such as Hallowtide Medals 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. You can also craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
     -   You can craft outfits, weapons, and even enchants and mantras that were from these events.
 
 ## Shop

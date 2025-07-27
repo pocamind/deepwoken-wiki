@@ -1,11 +1,9 @@
 ---
 title: Shadowcast
-revid: 152970
+revid: 155047
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
-notices:
-  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily."
 ---
 
 # Shadowcast
@@ -547,6 +545,7 @@ Blunt
 | 
 
 **Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._  
+**NOTE:** This Mantra has been "**vaulted**"; as of June 23rd, 2025 and until further notice, **Shadow Vortex is no longer obtainable.**
 
 -   Deals around 40 DMG (Does around 75.6 (39.72 explosion+ 35.88 shadow gun) DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
 -   With 6 songchant deals around 50 DMG (86.53 DMG (46.59 explosion +39.94 shadow gun) DMG if hit by shadow gun)
