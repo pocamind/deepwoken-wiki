@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 154780
+revid: 154947
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1099,7 +1099,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### Bandits
 
--   **Territory:** _Lower Erisia, Bandit Village_
+-   **Territory:** _Lower Erisia_
 -   **Encountered In:** _Erisia, Summer Isle, Etris, Isle of Vigils_
 -   **Attunements:** _None_
 -   **Lore Sources:** _Erisia_
@@ -1108,7 +1108,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   They appear to have some level of organization:
     -   They have a ranking system.
     -   They have a uniform, with different uniforms for different ranks.
-    -   They have a village in Lower Erisia.
+    -   They had a village in Lower Erisia, but was taken over by Pathfinders and were banished from there. The village is now known as Path's Respite.
     -   They organize large, though always unsuccessful, raids on bigger factions such as the Summer Company.
 
 ### The Old Stewards

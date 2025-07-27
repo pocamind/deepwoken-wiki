@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 154685
+revid: 154965
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -43,9 +43,9 @@ Dialogue: | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-t
 ### Korilfiend, the Inferno's Provenance
 
 -   A [Drowned God](#the-drowned-gods) said to preside over Heat.
--   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus Pleeksty, who later developed the art of [Flamecharming](#flamecharm).
+-   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus [Pleeksty](#amorus-pleeksty), who later developed the art of [Flamecharming](#flamecharm).
 
-Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [The Vents, the Third Layer](#the-vents-the-third-layer)
+Dialogue: | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [The Vents, the Third Layer](#the-vents-the-third-layer)
 
 ### The High Convocation
 
@@ -120,6 +120,13 @@ Dialogue: | Books: | Glossary Entries: [The Central Authority](#the-central-auth
 
 Dialogue: | Books: | Glossary Entries:
 
+### Amorus Pleeksty
+
+-   Known as the Pioneer of [Flamecharming](#flamecharm). Pleeksty developed the art of controlling flames through the [Song](#the-song) into an artform. Since then, [Flamecharm](#flamecharm) has become on of the primary attunements in use.
+-   Pleeksty is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance).
+
+Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+
 ### The Lady Confessor
 
 -   The mysterious leader of the Lullaby Isles, where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
@@ -131,9 +138,9 @@ Dialogue: [Liviu](Liviu.md) | Books: | Glossary Entries:
 ### Flamecharm
 
 -   The ability to conjure flames and heat through the [Song](#the-song).
--   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded to histories prior to Pleeksty's discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
+-   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded to histories prior to [Pleeksty's](#amorus-pleeksty) discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
 
-Dialogue: [Amashi](Amashi,_Master_of_Flame.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+Dialogue: [Amashi](Amashi,_Master_of_Flame.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
 ### Lightkeep
 
@@ -169,7 +176,7 @@ Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Journal of Warden Jeri
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kelsius](Kelsius.md), [Regek](Regek.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kelsius](Kelsius.md), [Regek](Regek.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods)
 
 ### Radiant Tones
 
@@ -362,7 +369,7 @@ Dialogue: | Books: | Glossary Entries: [The Heavens](#the-heavens)
 -   Said to be the inhospitable waste where the [Drowned God](#the-drowned-gods) [Korilfiend](#korilfiend-the-infernos-provenance) resides.
 -   Riddled with thermal [vents](#the-vents-the-third-layer) and geysers that exude extreme temperature. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
 
-Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
+Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance) [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
 
 ### Driftlands
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 154812
+revid: 154971
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -20,7 +20,9 @@ Equipment is a type of item usually found in chests, but can also be exchanged f
 
 There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, and Rings.
 
-Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be used to obtain the Talents for which they are required, and do not give stat bonuses). Only some Head, Legs, Arms and Relics Equipments have Talents. _Innate stats are displayed in grey__, and Talents are displayed in light blue._
+Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be to meet Talent requirements, and they do not grant the Talent's stat bonuses(e.g. you cannot use Mercenary's Boots' Endurance Runner to obtain Conditioned Runner, nor will this equipment grant any Passive Agility)). Only some Head, Legs, Arms and Relics Equipments have Talents. Talents granted by equipment do not stack with their regular variants. _Innate stats are displayed in grey__, and Talents are displayed in light blue._
+
+By wearing all equipment within a set, you may be eligible to obtain the equipment's set bonus, an additional Talent that is exclusive to that set. To make up for the set bonuses being exclusive and requiring you to wear equipment that otherwise might not be that good, the set bonus Talents are very powerful, but niche and specific. Not all equipment sets have a set bonus. _Set bonus Talents are displayed in turquoise._
 
 All equipment (with few exceptions), when obtained, will roll for random stats. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
@@ -28,7 +30,9 @@ All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and
 Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to equipment that has **2** or more pips.
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
-★ = +1 Rare Pips (Head, Arms, and Legs also get +1 HP) ★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP) ★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
+★ = +1 Rare Pips (Head, Arms, and Legs also get +1 HP)  
+★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP)  
+★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
 
 These pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).
 
@@ -52,8 +56,8 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td>3 4 4 5</td>
   <td>3 4 4 5</td>
   <td>3 4 5</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>2 3 4</td>
 </tr>
 <tr>
@@ -68,53 +72,53 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
 </tr>
 <tr>
   <td>Sanity (SAN) (also grants 2/4/6/8 Ether)</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>4 6</td>
   <td>6</td>
-  <td>4 6 8</td>
+  <td>2 4 6 8</td>
 </tr>
 <tr>
   <td>Posture</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>1 2</td>
 </tr>
 <tr>
   <td>%Physical Armor (PHY Armor)</td>
   <td>2 4</td>
   <td>2 4</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
 </tr>
 <tr>
   <td>%Elemental Armor (ELM Armor)</td>
   <td>3 4</td>
   <td>3 4</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
 </tr>
 <tr>
   <td>Anchor (+3 HP, +0.5 Pos, +10% KB Res)</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>1</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
 </tr>
 </tbody>
 </table>
@@ -142,7 +146,7 @@ Sources
 
  | 
 
-Variants
+Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
@@ -166,10 +170,16 @@ Found From:
 
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Aegis of Enmity2.png | 
 
 [Aegis of Enmity](Aegis_of_Enmity.md)
+
+(**Set**)
 
 (**Unique**)
 
@@ -189,7 +199,16 @@ Found From:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Enmity  
+Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
+Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
+Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+
+ |
 | File:Alchemist Hat.png | 
 
 [Alchemist's Hat](<Alchemist's_Hat.md>)
@@ -213,12 +232,19 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | Normal & Big |
+ | 
+
+Variants:  
+Normal & Big
+
+ |
 | File:VigilHood.png | 
 
 [Assassin's Hood](<Assassin's_Hood.md>)
 
 (**Series**)
+
+(**Set**)
 
  | 
 
@@ -241,7 +267,18 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Cloaked Assassin](Cloaked_Assassin.md)
 
- | Gold, Pale, Mist & Crimson |
+ | 
+
+Variants:  
+Gold, Pale, Mist & Crimson
+
+  
+
+Set: Assassin  
+Head: [Assassin's Hood](<Assassin's_Hood.md>)  
+Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
+
+ |
 | File:Authorityhelm.png | 
 
 [Authority Helm](Authority_Helm.md)
@@ -274,7 +311,11 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Barrel Helmet.png | 
 
 [Barrel Helm](Barrel_Helm.md)
@@ -299,7 +340,11 @@ Found from:
 
 -   [Artifact Turn-ins](Artifacts.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:AlchemistHat.png | 
 
 [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
@@ -322,7 +367,12 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
 
- | Normal & Big |
+ | 
+
+Variants:  
+Normal & Big
+
+ |
 | File:Big Herbalist's Hat.png | 
 
 [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
@@ -349,7 +399,12 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | Normal & Big |
+ | 
+
+Variants:  
+Normal & Big
+
+ |
 | File:Black Hood.png | 
 
 Black Hood
@@ -373,12 +428,19 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | Black & Brown |
+ | 
+
+Variants:  
+Black & Brown
+
+ |
 | 
 
  | 
 
 [Blackleaf Helm](Blackleaf_Helm.md)
+
+(**Series**)
 
  | 
 
@@ -404,7 +466,12 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+Variants:  
+Blackleaf & Goldleaf
+
+ |
 | 
 
 File:Blacksteel Helm(Better Lighting).png
@@ -412,6 +479,8 @@ File:Blacksteel Helm(Better Lighting).png
  | 
 
 [Blacksteel Helm](Blacksteel_Helm.md)
+
+(**Set**)
 
  | 
 
@@ -436,7 +505,13 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Blacksteel  
+Head: [Blacksteel Helm](Blacksteel_Helm.md)  
+Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+
+ |
 | File:Black Strapped Hat.png | 
 
 [Black Strapped Hat](Strapped_Hat.md)
@@ -463,10 +538,17 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | Black & Double |
+ | 
+
+Variants:  
+Black & Double
+
+ |
 |  | 
 
 [Bloodfeather Cowl](Bloodfeather_Cowl.md)
+
+(**Set**)
 
  | 
 
@@ -485,7 +567,13 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+Set: Bloodfeather  
+Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
+Face: [Bloodfeather Mask](Bloodfeather_Mask.md)
+
+ |
 |  | 
 
 [Bloodforged Crown](Bloodforged_Crown.md)
@@ -510,10 +598,16 @@ Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Static-assets-upload12843990363310254802.png | 
 
 [Brigand's Bicorn](<Brigand's_Bicorn.md>)
+
+(**Set**)
 
  | 
 
@@ -538,7 +632,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | N/A |
+ | 
+
+Set: Brigand  
+Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
+Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
+
+ |
 | File:Brown Hood.png | 
 
 Brown Hood
@@ -560,7 +660,12 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
- | Black & Brown |
+ | 
+
+Variants:  
+Black & Brown
+
+ |
 | File:Bulwark Helm.png | 
 
 [Bulwark Helm](Grand_Authority_Sallet.md)
@@ -588,7 +693,11 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Captainskabuto.png | 
 
 [Captain's Kabuto](<Captain's_Kabuto.md>)
@@ -614,10 +723,17 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | Guard's, Royal Guard's, Captain's |
+ | 
+
+Variants:  
+Guard's, Royal Guard's, Captain's
+
+ |
 |  | 
 
 [Celtor Commander Helm](Celtor_Commander_Helm.md)
+
+(**Set**)
 
  | 
 
@@ -642,7 +758,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Celtor Commander  
+Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
+Torso: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
+Legs: [Celtorian Sabatons](Celtorian_Sabatons.md)
+
+ |
 | 
 
  | 
@@ -669,7 +792,11 @@ Found from:
 
 -   [Chef Odiolavoro](Chef_Odiolavoro.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Static-assets-upload321884259233421803.png | 
 
 [Dark Cowl](Dark_Cowl.md)
@@ -691,10 +818,16 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Dark Owl Chapeau](Dark_Owl_Chapeau.md)
+
+(**Set**)
 
  | 
 
@@ -722,7 +855,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Dark Owl  
+Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
+Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
+Torso: [Dark Owl Cape](Dark_Owl_Cape.md)
+
+ |
 |  | 
 
 [Deepscorn Casque](Deepscorn_Casque.md)
@@ -748,10 +888,16 @@ Found from:
 -   [Silhuett](Silhuett.md)
 -   [The Understrand](The_Understrand.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Deepwoken Hood1.png | 
 
 [Deepwoken Hood](Deepwoken_Hood.md)
+
+(**Set**)
 
  | 
 
@@ -778,7 +924,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+Set: Deepwoken  
+Head: [Deepwoken Hood](Deepwoken_Hood.md)  
+Arms: [Deepwoken Cloak](Deepwoken_Cloak.md)
+
+ |
 | File:DoubleStrappedHat.png | 
 
 [Double Strapped Hat](Strapped_Hat.md)
@@ -803,7 +955,42 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | Black & Double |
+ | 
+
+Variants:  
+Black & Double
+
+ |
+|  | 
+
+[Evanspear War Helmet](Evanspear_War_Helmet.md)
+
+(**Set**)
+
+ | 
+
+_+4 Health_
+
+_+1 Posture_
+
++1 Uncommon Pip
+
+**Requires: Power 10, Strength 25**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Evanspear  
+Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
+Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+
+ |
 |  | 
 
 [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)
@@ -828,7 +1015,11 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)
@@ -853,7 +1044,11 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
@@ -878,7 +1073,11 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Feathertop Helm.png | 
 
 [Feathertop Helm](Feathertop_Helm.md)
@@ -902,10 +1101,16 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Gladiator Helmet.png | 
 
 Gladiator Helmet
+
+(**Set**)
 
  | 
 
@@ -929,10 +1134,18 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+Set: Gladiator  
+Head: Gladiator Helmet  
+Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md)
+
+ |
 |  | 
 
 [Goldleaf Helm](Goldleaf_Helm.md)
+
+(**Series**)
 
  | 
 
@@ -957,10 +1170,17 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | N/A |
+ | 
+
+Variants:  
+Blackleaf & Goldleaf
+
+ |
 |  | 
 
 [Grand Fisher Helm](Grand_Fisher_Helm.md)
+
+(**Set**)
 
 (**Mythical**)
 
@@ -982,7 +1202,13 @@ Found From:
 
 -   [The Fisherman](The_Fisherman.md)
 
- | N/A |
+ | 
+
+Set: Grand Fisher  
+Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
+Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md)
+
+ |
 | File:Guard's Kabuto.png | 
 
 [Guard's Kabuto](<Guard's_Kabuto.md>)
@@ -1008,10 +1234,17 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
- | Guard's, Royal Guard's, Captain's |
+ | 
+
+Variants:  
+Guard's, Royal Guard's, Captain's
+
+ |
 | File:Guardian helm.png | 
 
 [Guardian Helmet](Guardian_Helmet.md)
+
+(**Set**)
 
  | 
 
@@ -1030,10 +1263,18 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
- | N/A |
+ | 
+
+Set: Guardian  
+Head: [Guardian Helmet](Guardian_Helmet.md)  
+Arms: [Guardian Pauldrons](Guardian_Pauldrons.md)
+
+ |
 | File:Dark Gumshoe Hat1.png | 
 
 [Gumshoe Hat](Gumshoe_Hat.md)
+
+(**Set**)
 
 (**Series**)
 
@@ -1048,7 +1289,18 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
- | Dark, Grey, Ochre & White |
+ | 
+
+Variants:  
+Dark, Grey, Ochre & White
+
+  
+
+Set: Gumshoe  
+Head: [Gumshoe Hat](Gumshoe_Hat.md)  
+Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
+
+ |
 | File:Herbalist's Hat.png | 
 
 [Herbalist's Hat](<Herbalist's_Hat.md>)
@@ -1073,7 +1325,12 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
- | Normal & Big |
+ | 
+
+Variants:  
+Normal & Big
+
+ |
 | File:ImmortalHelm.png | 
 
 [Immortal Helm](Immortal_Helm.md)
@@ -1096,7 +1353,11 @@ Found from:
 
 -   Mob drop from [Immortal Guardian](Immortal_Guardian.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Investigator's Hat1.png | 
 
 [Investigator's Hat](<Investigator's_Hat.md>)
@@ -1125,7 +1386,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | 
 
 File:Khan Helmet.png
@@ -1133,6 +1398,8 @@ File:Khan Helmet.png
  | 
 
 [Khan Helmet](Legion_Helmet.md)
+
+(**Set**)
 
  | 
 
@@ -1154,7 +1421,14 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
- | N/A |
+ | 
+
+Set: Khan  
+Head: [Khan Helmet](Legion_Helmet.md)  
+Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
+Legs: [Khan Boots](Legion_Boots.md)
+
+ |
 |  | 
 
 [Kyrsmas Hat](Kyrsmas_Hat.md)
@@ -1177,7 +1451,11 @@ Found from:
 
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Legate Helm](Legate_Helm.md)
@@ -1200,7 +1478,11 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Jaleel miner hat.png | 
 
 [Miner's Hardhat](<Miner's_Hardhat.md>)
@@ -1219,7 +1501,11 @@ Found from:
 
 -   Mob drop from [Mineskippers](Mudskipper.md#mineskipper)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | 
 
 File:Monastery Champion Cowl NEW.png
@@ -1227,6 +1513,8 @@ File:Monastery Champion Cowl NEW.png
  | 
 
 [Monastery Cowl](Monastery_Cowl.md)
+
+(**Set**)
 
 (**Legendary**)
 
@@ -1245,7 +1533,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
- | N/A |
+ | 
+
+Set: Monastery Champion  
+Head: [Monastery Cowl](Monastery_Cowl.md)  
+Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
+Torso: [Monastery Beads](Monastery_Beads.md)
+
+ |
 |  | 
 
 [Mushroom Costume](Mushroom_Costume.md)
@@ -1283,10 +1578,16 @@ Found From:
 
 -   [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Phalanx Helmet](Phalanx_Helmet.md)
+
+(**Set**)
 
  | 
 
@@ -1311,7 +1612,14 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
- | N/A |
+ | 
+
+Set: Phalanx  
+Head: [Phalanx Helmet](Phalanx_Helmet.md)  
+Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
+Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+
+ |
 | File:Parasol Planter.png | 
 
 [Parasol Planter](Parasol_Planter.md)
@@ -1334,7 +1642,11 @@ Found from:
 
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Pumpkin Head](Pumpkin_Head.md)
@@ -1353,7 +1665,45 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
+|  | 
+
+[Reinforced War Helmet](Reinforced_War_Helmet.md)
+
+(**Set**)
+
+ | 
+
+_+4 Health_
+
+_+1 Posture_
+
++1 Uncommon Pip
+
+_+Talent: Fatal Strike_
+
+_+Set Bonus: Lasting Trauma_
+
+**Requires Power 10, Strength 25**
+
+ | 
+
+Found from:
+
+-   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Reinforced Evanspear  
+Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
+Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+
+ |
 | File:Royal Guard's Kabuto.png | 
 
 [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)
@@ -1376,7 +1726,12 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 
- | Guard's, Royal Guard's, Captain's |
+ | 
+
+Variants:  
+Guard's, Royal Guard's, Captain's
+
+ |
 |  | 
 
 [Seamaster's Cap](<Seamaster's_Cap.md>)
@@ -1396,10 +1751,44 @@ Found From:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Voidsea](Voidsea.md) events
 
- | N/A |
+ | 
+
+N/A
+
+ |
+|  | 
+
+[Shock Trooper Helmet](Shock_Trooper_Helmet.md)
+
+(**Set**)
+
+ | 
+
+_+8 Health_
+
++1 Uncommon Pip
+
+**Requires Power 10, Fortitude 20**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Shock Trooper  
+Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
+Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
+
+ |
 | File:KnightHelm.png | 
 
 [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
+
+(**Set**)
 
  | 
 
@@ -1425,7 +1814,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Silver Knight  
+Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
+Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
+Legs: [Silver Sabatons](Silver_Sabatons.md)
+
+ |
 |  | 
 
 [Simmerbloom Diadem](Simmerbloom_Diadem.md)
@@ -1450,10 +1846,16 @@ Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Smith's Bandana](<Smith's_Bandana.md>)
+
+(**Set**)
 
  | 
 
@@ -1474,10 +1876,51 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Smith's  
+Head: [Smith's Bandana](<Smith's_Bandana.md>)  
+Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
+Face: [Smith's Goggles](<Smith's_Goggles.md>)
+
+ |
+|  | 
+
+[Specialist Helmet](Specialist_Helmet.md)
+
+(**Set**)
+
+ | 
+
+_+8 Health_
+
++1 Uncommon Pip
+
+_+Talent: Volt Draft_
+
+_+Set Bonus: Shock Trooper Specialist_
+
+**Requires Power 10, Galebreathe 30, Thundercall 30**
+
+ | 
+
+Found from:
+
+-   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Specialist  
+Head: [Specialist Helmet](Specialist_Helmet.md)  
+Arms: [Specialist Plate](Specialist_Plate.md)  
+Legs: [Specialist Boots](Specialist_Boots.md)
+
+ |
 |  | 
 
 [Ten-Gallon Hat](Ten-Gallon_Hat.md)
+
+(**Set**)
 
  | 
 
@@ -1496,7 +1939,13 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Lodestar](Lodestar.md)
 
- | N/A |
+ | 
+
+Set: Ten-Gallon  
+Head: [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
+Face: [Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
+
+ |
 |  | 
 
 [Tillian's Beret](<Tillian's_Beret.md>)
@@ -1521,12 +1970,18 @@ Found from:
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Slate Tophat.png | 
 
 [Tophat](Tophat.md)
 
 (**Series**)
+
+(**Set**)
 
  | 
 
@@ -1544,7 +1999,19 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | Beige, Burgundy & Slate |
+ | 
+
+Variants:  
+Beige, Burgundy & Slate
+
+  
+
+Set: Aristocrat  
+Head: [Tophat](Tophat.md)  
+Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
+Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
+
+ |
 |  | 
 
 [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
@@ -1568,7 +2035,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Vigil Hood](Vigil_Hood.md)
@@ -1595,7 +2066,11 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Navy Warlock Brim.png | 
 
 [Warlock's Brim](<Warlock's_Brim.md>)
@@ -1603,6 +2078,8 @@ Found from:
 (**Unique**)
 
 (**Series**)
+
+(**Set**)
 
  | 
 
@@ -1618,10 +2095,23 @@ Found from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | Lilac, Navy, Sky, Verdant |
+ | 
+
+Variants:  
+Lilac, Navy, Sky, Verdant
+
+  
+
+Set: Warlock  
+Head: [Warlock's Brim](<Warlock's_Brim.md>)  
+Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
+
+ |
 |  | 
 
 [Western Outlaw Hat](Western_Outlaw_Hat.md)
+
+(**Set**)
 
  | 
 
@@ -1637,7 +2127,15 @@ Found from:
 
 -   [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | N/A |
+ | 
+
+Set: Western Outlaw  
+Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
+Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
+Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
+
+ |
 |  | 
 
 [A Lot of Hats](A_Lot_of_Hats.md)
@@ -1656,7 +2154,11 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>)
@@ -1676,7 +2178,11 @@ Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [MICROWAVETM](MICROWAVETM.md)
@@ -1695,7 +2201,11 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Moderator Cap](Moderator_Cap.md)
@@ -1714,7 +2224,11 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [THE MACHINE](THE_MACHINE.md)
@@ -1733,7 +2247,11 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Worldshaper's Laurel](<Worldshaper's_Laurel.md>)
@@ -1750,7 +2268,11 @@ Found from:
 
 -   Prize from winning a [Fanart Contest](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 
 **Arms:**
 
@@ -1771,13 +2293,15 @@ Sources
 
  | 
 
-Variants
+Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
 |  | 
 
 [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)
+
+(**Set**)
 
 (**Animated**)
 
@@ -1801,7 +2325,13 @@ Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | N/A |
+ | 
+
+Set: Abyss Wanderer  
+Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
+Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
+
+ |
 | File:Sable Adjudicator's.png | 
 
 [Adjudicator's Coat](<Adjudicator's_Coat.md>)
@@ -1826,7 +2356,12 @@ Found from:
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | Ash, Pink, Rural, Sable & Tawny |
+ | 
+
+Variants:  
+Ash, Pink, Rural, Sable & Tawny
+
+ |
 | 
 
  | 
@@ -1851,12 +2386,19 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
- | Black, Brown, Green, White |
+ | 
+
+Variants:  
+Black, Brown, Green, White
+
+ |
 | File:Slate Aristocrat Coat.png | 
 
 [Aristocrat Coat](Aristocrat_Coat.md)
 
 (**Series**)
+
+(**Set**)
 
  | 
 
@@ -1876,12 +2418,26 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | Beige, Burgundy & Slate |
+ | 
+
+Variants:  
+Beige, Burgundy & Slate
+
+  
+
+Set: Aristocrat  
+Head: [Tophat](Tophat.md)  
+Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
+Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
+
+ |
 | File:Pale Assassin Cloak.png | 
 
 [Assassin's Cloak](<Assassin's_Cloak.md>)
 
 (**Series**)
+
+(**Set**)
 
 (**Animated**)
 
@@ -1912,7 +2468,18 @@ Found from:
 -   [Cloaked Assassin](Cloaked_Assassin.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 
- | Crimson, Gold, Mist & Pale |
+ | 
+
+Variants:  
+Crimson, Gold, Mist & Pale
+
+  
+
+Set: Assassin  
+Head: [Assassin's Hood](<Assassin's_Hood.md>)  
+Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
+
+ |
 | File:Ruby Authority Commander Coat.png | 
 
 [Authority Commander Coat](Authority_Commander_Coat.md)
@@ -1935,10 +2502,17 @@ _+10 Health_
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
+ | 
+
+Variants:  
+Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant
+
+ |
 | File:Autumn pauldrons.png | 
 
 [Autumn Pauldrons](Autumn_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -1961,10 +2535,18 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Autumn  
+Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
+Legs: [Autumn Boots](Autumn_Boots.md)
+
+ |
 | File:Azure Royal Guard.png | 
 
 [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -1980,10 +2562,18 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~33%**)
 
- | N/A |
+ | 
+
+Set: Azure Royal Guard  
+Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
+Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
+
+ |
 |  | 
 
 [Bastions of Enmity](Bastions_of_Enmity.md)
+
+(**Set**)
 
 (**Unique**)
 
@@ -2003,7 +2593,16 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Enmity  
+Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
+Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
+Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+
+ |
 | File:Black Overcoat.png | 
 
 Black Overcoat
@@ -2030,7 +2629,12 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Lodestar](Lodestar.md)
 
- | Black, Brown, & White |
+ | 
+
+Variants:  
+Black, Brown, & White
+
+ |
 | File:Black Parka.png | 
 
 Black Parka
@@ -2064,10 +2668,17 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Mob drop from [Authority Captain](Authority_Captain.md) (**~15%**)
 
- | Black, Brown & White |
+ | 
+
+Variants:  
+Black, Brown & White
+
+ |
 | File:Blacksteel Pauldron.png | 
 
 [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2093,12 +2704,20 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | N/A |
+ | 
+
+Set: Blacksteel  
+Head: [Blacksteel Helm](Blacksteel_Helm.md)  
+Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+
+ |
 | 
 
  | 
 
 [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2118,10 +2737,18 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Lodestar](Lodestar.md)
 
- | N/A |
+ | 
+
+Set: Bluesteel  
+Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
+Legs: [Bluesteel Boots](Bluesteel_Boots.md)
+
+ |
 | File:Brigand's Cloak.png | 
 
 [Brigand's Cloak](<Brigand's_Cloak.md>)
+
+(_Set'_)
 
  | 
 
@@ -2146,10 +2773,18 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Brigand  
+Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
+Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
+
+ |
 | File:Brilliant Pauldrons.png | 
 
 [Brilliant Pauldron](Brilliant_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2175,7 +2810,14 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+Set: Brilliant  
+Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+Legs: [Brilliant Boots](Brilliant_Boots.md)  
+Torso: [Brilliant Cape](Brilliant_Cape.md)
+
+ |
 | File:Brown Overcoat.png | 
 
 Brown Overcoat
@@ -2202,7 +2844,12 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | Black, Brown, & White |
+ | 
+
+Variants:  
+Black, Brown, & White
+
+ |
 | File:Brown Parka.png | 
 
 Brown Parka
@@ -2233,10 +2880,17 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | Black, Brown & White |
+ | 
+
+Variants:  
+Black, Brown & White
+
+ |
 |  | 
 
 [Celtor Commander Plate](Celtor_Commander_Plate.md)
+
+(**Set**)
 
  | 
 
@@ -2264,10 +2918,19 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | N/A |
+ | 
+
+Set: Celtor Commander  
+Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
+Arms: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
+Legs: [Celtorian Sabatons](Celtorian_Sabatons.md)
+
+ |
 |  | 
 
 [Dark Owl Cloak](Dark_Owl_Cloak.md)
+
+(**Set**)
 
  | 
 
@@ -2296,12 +2959,21 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | N/A |
+ | 
+
+Set: Dark Owl  
+Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
+Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
+Torso: [Dark Owl Cape](Dark_Owl_Cape.md)
+
+ |
 | File:Black Deepwoken Cloak.png | 
 
 [Deepwoken Cloak](Deepwoken_Cloak.md)
 
 (**Series**)
+
+(**Set**)
 
 (**Legendary**)
 
@@ -2327,7 +2999,18 @@ Found from:
 -   [Starfield Veldt](Starfield_Veldt.md)
 -   [War Mode](War_Mode.md)
 
- | Black & White |
+ | 
+
+Variants:  
+Black & White
+
+  
+
+Set: Deepwoken  
+Head: [Deepwoken Hood](Deepwoken_Hood.md)  
+Arms: [Deepwoken Cloak](Deepwoken_Cloak.md)
+
+ |
 | File:DelvingDuster.png | 
 
 [Delver's Duster](<Delver's_Duster.md>)
@@ -2354,7 +3037,11 @@ Found from:
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Diver's Light Plate](<Diver's_Light_Plate.md>)
@@ -2379,10 +3066,16 @@ Found from:
 
 -   Automatically obtained when winning [Hell Mode](Hell_Mode.md) (Repeatable)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Enforcer Plate](Enforcer_Plate.md)
+
+(**Set**)
 
  | 
 
@@ -2394,6 +3087,8 @@ _+1 Posture_
 
 _+Talent: Berserker_
 
+_+Set Bonus: Enforcer's Pull_
+
 **Requires Power 8**
 
  | 
@@ -2401,11 +3096,18 @@ _+Talent: Berserker_
 Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
+-   [The Enforcer](Enforcer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Etrean Siege Cuirass.png | 
 
 [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
+
+(**Set**)
 
  | 
 
@@ -2435,7 +3137,43 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Etrean Siege  
+Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
+Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
+
+ |
+|  | 
+
+[Evanspear War Plate](Evanspear_War_Plate.md)
+
+(**Set**)
+
+ | 
+
+_+6 Health_
+
+_+2 Posture_
+
++2 Rare Pips
+
+**Requires Power 10, Strength 25**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Evanspear  
+Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
+Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+
+ |
 | File:Lavender First Ranger Duster.png | 
 
 [First Ranger Duster](First_Ranger_Duster.md)
@@ -2460,10 +3198,17 @@ Found from:
 
 -   Mob Drop from [King Thresher](King_Thresher.md) (**~3%**)
 
- | Azure, Cloud, Jade, Lavender & Umber |
+ | 
+
+Variants:  
+Azure, Cloud, Jade, Lavender & Umber
+
+ |
 | File:Flameguard.png | 
 
 [Flameguard Pauldrons](Flameguard_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2484,12 +3229,20 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+Set: Flameguard  
+Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
+Legs: [Flameguard Boots](Flameguard_Boots.md)
+
+ |
 | File:Black Fur Pauldrons.png | 
 
 [Fur Pauldrons](Fur_Pauldrons.md)
 
 (**Series**)
+
+(**Set**)
 
  | 
 
@@ -2515,10 +3268,23 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | Black & White |
+ | 
+
+Variants:  
+Black & White
+
+  
+
+Set: Fur  
+Arms: [Fur Pauldrons](Fur_Pauldrons.md)  
+Legs: [Fur Boots](Fur_Boots.md)
+
+ |
 |  | 
 
 [Gladiator Pauldrons](Gladiator_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2539,7 +3305,13 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
- | N/A |
+ | 
+
+Set: Gladiator  
+Head: Gladiator Helmet  
+Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md)
+
+ |
 | File:Glassdancer Wraps1.png | 
 
 [Glassdancer Wraps](Glassdancer_Wraps.md)
@@ -2564,7 +3336,11 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | 
 
 File:Gauthority.png
@@ -2572,6 +3348,8 @@ File:Gauthority.png
  | 
 
 [Grand Authority Plate](Grand_Authority_Plate.md)
+
+(**Set**)
 
  | 
 
@@ -2599,10 +3377,18 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Grand Authority  
+Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
+Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
+
+ |
 |  | 
 
 [Grand Fisher Plate](Grand_Fisher_Plate.md)
+
+(**Set**)
 
 (**Mythical**)
 
@@ -2624,10 +3410,18 @@ Found From:
 
 -   [The Fisherman](The_Fisherman.md)
 
- | N/A |
+ | 
+
+Set: Grand Fisher  
+Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
+Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md)
+
+ |
 | File:Grand Pauldrons.png | 
 
 [Grand Pauldrons](Grand_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2643,10 +3437,18 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
- | N/A |
+ | 
+
+Set: Grand  
+Arms: [Grand Pauldrons](Grand_Pauldrons.md)  
+Legs: [Grand Boots](Grand_Boots.md)
+
+ |
 |  | 
 
 [Guardian Pauldrons](Guardian_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2663,12 +3465,20 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
- | N/A |
+ | 
+
+Set: Guardian  
+Head: [Guardian Helmet](Guardian_Helmet.md)  
+Arms: [Guardian Pauldrons](Guardian_Pauldrons.md)
+
+ |
 | File:Gumshoe Long Coat.png | 
 
 [Gumshoe Longcoat](Gumshoe_Longcoat.md)
 
 (**Series**)
+
+(**Set**)
 
  | 
 
@@ -2685,7 +3495,18 @@ Found from:
 
 -   Drop from [Dread Serpent](Dread_Serpent.md)
 
- | Dark, Ochre, Grey & White |
+ | 
+
+Variants:  
+Dark, Ochre, Grey & White
+
+  
+
+Set: Gumshoe  
+Head: [Gumshoe Hat](Gumshoe_Hat.md)  
+Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
+
+ |
 |  | 
 
 [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
@@ -2719,7 +3540,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:IgnitionGauntlets.png | 
 
 [Ignition Gauntlets](Ignition_Gauntlets.md)
@@ -2747,10 +3572,16 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Imperial Pauldrons.png | 
 
 [Imperial Pauldrons](Imperial_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2773,7 +3604,13 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Imperial  
+Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
+Legs: [Imperial Boots](Imperial_Boots.md)
+
+ |
 |  | 
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>)
@@ -2794,10 +3631,17 @@ Found from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | Brown, Dark, Navy, Smoke & Titan |
+ | 
+
+Variants:  
+Brown, Dark, Navy, Smoke & Titan
+
+ |
 | File:Iron Pauldrons1.png | 
 
 [Iron Pauldrons](Iron_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2813,7 +3657,13 @@ Found from:
 -   [Isle of Vigils](Isle_of_Vigils.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
- | N/A |
+ | 
+
+Set: Iron  
+Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
+Legs: [Iron Boots](Iron_Boots.md)
+
+ |
 |  | 
 
 [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
@@ -2844,7 +3694,11 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Faded Justicar Coat.png | 
 
 Justicar Defender
@@ -2867,7 +3721,12 @@ Found from:
 -   [The Ferryman](The_Ferryman.md) (Winter) **(10%)**
 -   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (**~2%**)
 
- | Red, Black, Faded, Jet Black, Orange & Purple |
+ | 
+
+Variants:  
+Red, Black, Faded, Jet Black, Orange & Purple
+
+ |
 | File:Khan Pauldrons.png | 
 
 [Khan Pauldrons](Legion_Pauldrons.md)
@@ -2894,10 +3753,16 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Leather Gloves](Leather_Gloves.md)
+
+(**Set**)
 
  | 
 
@@ -2919,10 +3784,18 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
- | N/A |
+ | 
+
+Set: Leather  
+Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
+Legs: [Leather Boots](Leather_Boots.md)
+
+ |
 |  | 
 
 [Leather Pauldrons](Leather_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -2938,10 +3811,18 @@ Found from:
 -   [Brainsucker](Brainsucker.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
- | N/A |
+ | 
+
+Set: Leather  
+Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
+Legs: [Leather Boots](Leather_Boots.md)
+
+ |
 |  | 
 
 [Legion Phalanx Plate](Legion_Phalanx_Plate.md)
+
+(**Set**)
 
  | 
 
@@ -2969,7 +3850,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
- | N/A |
+ | 
+
+Set: Phalanx  
+Head: [Phalanx Helmet](Phalanx_Helmet.md)  
+Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
+Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+
+ |
 | File:Sharko coat.png | 
 
 [Megalodaunt Coat](Megalodaunt_Coat.md)
@@ -2992,10 +3880,17 @@ Found from:
 
 -   Mob Drop from [Megalodaunts](Megalodaunt.md) (**~3%**)
 
- | Red, Purple, Brown, Green, Blue & Peach |
+ | 
+
+Variants:  
+Red, Purple, Brown, Green, Blue & Peach
+
+ |
 |  | 
 
 [Mercenary's Garb](<Mercenary's_Garb.md>)
+
+(**Set**)
 
  | 
 
@@ -3022,7 +3917,13 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+Set: Mercenary  
+Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
+Legs: [Mercenary's Boots](<Mercenary's_Boots.md>)
+
+ |
 | File:Smoke ministry cloak.PNG | 
 
 [Ministry Cloak](Ministry_Cloak.md)
@@ -3049,7 +3950,12 @@ Found from:
 
 -   [Valley of Heroes, Hero Blade Event](Minityrsa.md) (~20%)
 
- | Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
+ | 
+
+Variants:  
+Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke
+
+ |
 |  | 
 
 [Ministry Operative Cloak](Ministry_Operative_Cloak.md)
@@ -3079,7 +3985,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | 
 
 File:Monastery Champion Robes NEW.png
@@ -3087,6 +3997,8 @@ File:Monastery Champion Robes NEW.png
  | 
 
 [Monastery Champion Robes](Monastery_Champion_Robes.md)
+
+(**Set**)
 
 (**Legendary**)
 
@@ -3111,7 +4023,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
- | N/A |
+ | 
+
+Set: Monastery Champion  
+Head: [Monastery Cowl](Monastery_Cowl.md)  
+Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
+Torso: [Monastery Beads](Monastery_Beads.md)
+
+ |
 |  | 
 
 [Moonseye Gauntlets](Moonseye_Gauntlets.md)
@@ -3139,10 +4058,16 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Novice Brace](Novice_Brace.md)
+
+(**Set**)
 
  | 
 
@@ -3169,7 +4094,13 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
 
- | N/A |
+ | 
+
+Set: Novice  
+Arms: [Novice Brace](Novice_Brace.md)  
+Legs: [Novice Boots](Novice_Boots.md)
+
+ |
 | File:Crimson elite pathfinder.png | 
 
 [Pathfinder Elite](Pathfinder_Elite.md)
@@ -3196,7 +4127,12 @@ Found from:
 
 -   Mob Drop from [Nautilodaunt](Nautilodaunt.md) (**~3%**)
 
- | Ash, Black, Crimson, Sage & Magenta |
+ | 
+
+Variants:  
+Ash, Black, Crimson, Sage & Magenta
+
+ |
 |  | 
 
 [Providence Coat](Providence_Coat.md)
@@ -3223,10 +4159,16 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Ranger's Brace](<Ranger's_Brace.md>)
+
+(**Set**)
 
  | 
 
@@ -3250,12 +4192,20 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Ranger  
+Arms: [Ranger's Brace](<Ranger's_Brace.md>)  
+Legs: [Ranger's Boots](<Ranger's_Boots.md>)
+
+ |
 | 
 
  | 
 
-[Redsteel Pauldrons](Redsteel_Pauldrons.md)
+[Redsteel Pauldrons](Redsteel_Pauldrons.md) <
+
+(**Set**)
 
  | 
 
@@ -3281,7 +4231,47 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Redsteel  
+Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
+Legs: [Redsteel Boots](Redsteel_Boots.md)
+
+ |
+|  | 
+
+[Reinforced War Plate](Reinforced_War_Plate.md)
+
+(**Set**)
+
+ | 
+
+_+6 Health_
+
+_+2 Posture_
+
++2 Rare Pips
+
+_+Talent Crippling Impact_
+
+_+Set Bonus: Lasting Trauma_
+
+**Requires Power 10, Strength 25**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Reinforced Evanspear  
+Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
+Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+
+ |
 | File:Faded Royal Duelist.png | 
 
 [Royal Duelist](Royal_Duelist.md)
@@ -3304,7 +4294,12 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
 
- | Dark, Faded, Purple, Red, Rose & Stained |
+ | 
+
+Variants:  
+Dark, Faded, Purple, Red, Rose & Stained
+
+ |
 |  | 
 
 [Royal Pathfinder](Royal_Pathfinder.md)
@@ -3333,7 +4328,11 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Sailor's Fleece.png | 
 
 [Sailor's Fleece](<Sailor's_Fleece.md>)
@@ -3355,10 +4354,17 @@ Found from:
 -   [Voidsea](Voidsea.md) Events
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | Default, Dark |
+ | 
+
+Variants:  
+Default, Dark
+
+ |
 |  | 
 
 [Sandrunner Wraps](Sandrunner_Wraps.md)
+
+(**Set**)
 
  | 
 
@@ -3387,7 +4393,13 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | N/A |
+ | 
+
+Set: Sandrunner  
+Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)  
+Torso: [Sandrunner Scarf](Sandrunner_Scarf.md)
+
+ |
 |  | 
 
 [Summer Scarf](Summer_Scarf.md)
@@ -3411,10 +4423,45 @@ Found from:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | Default, Threadwork |
+ | 
+
+Variants:  
+Default, Threadwork
+
+ |
+|  | 
+
+[Shock Trooper Plate](Shock_Trooper_Plate.md)
+
+(**Set**)
+
+ | 
+
+_+5 Health_
+
++2 Rare Pips
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Shock Trooper  
+Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
+Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
+
+ |
 | File:Static-assets-upload15149895911827136801.png | 
 
 [Silver Pauldrons](Silver_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -3439,7 +4486,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Silver Knight  
+Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
+Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
+Legs: [Silver Sabatons](Silver_Sabatons.md)
+
+ |
 | File:Simple Pauldrons.png | 
 
 [Simple Pauldrons](Simple_Pauldrons.md)
@@ -3460,10 +4514,16 @@ Found from:
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Summer Isle](Summer_Isle.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Smithgloves.png | 
 
 [Smith's Gloves](<Smith's_Gloves.md>)
+
+(**Set**)
 
  | 
 
@@ -3488,10 +4548,51 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Smith's  
+Head: [Smith's Bandana](<Smith's_Bandana.md>)  
+Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
+Face: [Smith's Goggles](<Smith's_Goggles.md>)
+
+ |
+|  | 
+
+[Specialist Plate](Specialist_Plate.md)
+
+(**Set**)
+
+ | 
+
+_+5 Health_
+
++2 Rare Pips
+
+_+Talent: Stormcall_
+
+_+Set Bonus: Shock Trooper Specialist_
+
+**Requires Power 10, Galebreathe 30, Thundercall 30**
+
+ | 
+
+Found from:
+
+-   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Specialist  
+Head: [Specialist Helmet](Specialist_Helmet.md)\]  
+Arms: [Specialist Plate](Specialist_Plate.md)  
+Legs [Specialist Boots](Specialist_Boots.md)
+
+ |
 |  | 
 
 [Star Duster](Star_Duster.md)
+
+(**Set**)
 
 (**Legendary**)
 
@@ -3519,7 +4620,13 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+Set: Star  
+Arms: [Star Duster](Star_Duster.md)  
+Legs: [Star Boots](Star_Boots.md)
+
+ |
 |  | 
 
 [Steel Pauldrons](Steel_Pauldrons.md)
@@ -3545,10 +4652,16 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Tracker's Brace](<Tracker's_Brace.md>)
+
+(**Set**)
 
  | 
 
@@ -3572,10 +4685,18 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Tracker  
+Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
+Legs: [Tracker's Boots](<Tracker's_Boots.md>)
+
+ |
 | File:Vanguardbrace.png | 
 
 [Vanguard Brace](Vanguard_Brace.md)
+
+(**Set**)
 
  | 
 
@@ -3600,7 +4721,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
 
- | N/A |
+ | 
+
+Set: Vanguard  
+Arms: [Vanguard Brace](Vanguard_Brace.md)  
+Legs: [Vanguard Boots](Vanguard_Boots.md)
+
+ |
 |  | 
 
 [Warden Pauldrons](Warden_Pauldrons.md)
@@ -3622,12 +4749,18 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Navy Warlock Mantle.png | 
 
 [Warlock's Mantle](<Warlock's_Mantle.md>)
 
 (**Series**)
+
+(**Set**)
 
 (**Animated**)
 
@@ -3653,10 +4786,23 @@ Found from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | Lilac, Navy, Sky, Verdant |
+ | 
+
+Variants:  
+Lilac, Navy, Sky, Verdant
+
+  
+
+Set: Warlock  
+Head: [Warlock's Brim](<Warlock's_Brim.md>)  
+Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
+
+ |
 |  | 
 
 [Western Outlaw Robes](Western_Outlaw_Robes.md)
+
+(**Set**)
 
  | 
 
@@ -3672,7 +4818,15 @@ Found from:
 
 -   [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | N/A |
+ | 
+
+Set: Western Outlaw  
+Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
+Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
+Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
+
+ |
 | File:White Overcoat.png | 
 
 White Overcoat
@@ -3697,7 +4851,12 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
- | Black, Brown, & White |
+ | 
+
+Variants:  
+Black, Brown, & White
+
+ |
 | File:White Parka.png | 
 
 White Parka
@@ -3730,10 +4889,17 @@ Found from:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | Black, Brown & White |
+ | 
+
+Variants:  
+Black, Brown & White
+
+ |
 |  | 
 
 [Winter Corps Parka](Winter_Corps_Parka.md)
+
+(**Set**)
 
  | 
 
@@ -3763,10 +4929,18 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 
- | N/A |
+ | 
+
+Set: Winter Corps  
+Arms: [Winter Corps Parka](Winter_Corps_Parka.md)  
+Legs: [Winter Corps Boots](Winter_Corps_Boots.md)
+
+ |
 |  | 
 
 [Woodland Pauldrons](Woodland_Pauldrons.md)
+
+(**Set**)
 
  | 
 
@@ -3788,7 +4962,13 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+Set: Woodland  
+Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
+Legs: [Woodland Boots](Woodland_Boots.md)
+
+ |
 |  | 
 
 [Eternal Restraints](Eternal_Restraints.md)
@@ -3810,7 +4990,11 @@ Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Stag Wraps](Stag_Wraps.md)
@@ -3827,7 +5011,11 @@ Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Phoenix Duster](Phoenix_Duster.md)
@@ -3844,7 +5032,11 @@ Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 
 **Legs:**
 
@@ -3865,7 +5057,7 @@ Sources
 
  | 
 
-Variants
+Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
@@ -3890,7 +5082,11 @@ Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Autumn Boots](Autumn_Boots.md)
@@ -3916,7 +5112,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Static-assets-upload10948241571813513916.png | 
 
 [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
@@ -3933,7 +5133,11 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Bluesteel Boots](Bluesteel_Boots.md)
@@ -3959,7 +5163,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Brilliant Boots.png | 
 
 [Brilliant Boots](Brilliant_Boots.md)
@@ -3983,7 +5191,11 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | 
 
  | 
@@ -4008,7 +5220,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Delver Boots](Delver_Boots.md)
@@ -4027,14 +5243,22 @@ Found from:
 
 -   [Crafting](Crafting_Station.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Enforcer Boots](Enforcer_Boots.md)
 
+(**Set**)
+
  | 
 
 +2 Rare Pips
+
+_+Set Bonus: Enforcer's Pull_
 
 **Requires Power 4**
 
@@ -4044,8 +5268,15 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [The Enforcer](Enforcer.md)
 
- | N/A |
+ | 
+
+Set: Enforcer  
+Arms: [Enforcer Plate](Enforcer_Plate.md)  
+Legs: [Enforcer Boots](Enforcer_Boots.md)
+
+ |
 | File:Etrean Siege Sabatons.png | 
 
 [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
@@ -4071,7 +5302,34 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
+|  | 
+
+\[\[Evanspear War Boots\]
+
+ | 
+
+_+3 Health_
+
++1 Uncommon Pip
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+N/A
+
+ |
 | File:Flameguard Boots.png | 
 
 [Flameguard Boots](Flameguard_Boots.md)
@@ -4096,7 +5354,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:White fur boots.png | 
 
 [Fur Boots](Fur_Boots.md)
@@ -4154,7 +5416,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Grand Boots.png | 
 
 [Grand Boots](Grand_Boots.md)
@@ -4173,7 +5439,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Imperial Boots.png | 
 
 [Imperial Boots](Imperial_Boots.md)
@@ -4197,7 +5467,11 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Static-assets-upload12369006146430102616.png | 
 
 [Iron Boots](Iron_Boots.md)
@@ -4215,7 +5489,11 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Khan Boots1.png | 
 
 [Khan Boots](Legion_Boots.md)
@@ -4244,7 +5522,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Leather Boots NEW.png | 
 
 [Leather Boots](Leather_Boots.md)
@@ -4262,7 +5544,11 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Mercenary's Boots](<Mercenary's_Boots.md>)
@@ -4293,7 +5579,11 @@ Found from:
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Novice Boots](Novice_Boots.md)
@@ -4316,7 +5606,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
@@ -4340,7 +5634,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Ranger Boots.png | 
 
 [Ranger's Boots](<Ranger's_Boots.md>)
@@ -4362,7 +5660,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Redsteel Boots](Redsteel_Boots.md)
@@ -4386,7 +5688,34 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
+|  | 
+
+[Shock Trooper Boots](Shock_Trooper_Boots.md)
+
+ | 
+
+_+1 Posture_
+
++1 Uncommon Pip
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+N/A
+
+ |
 | File:Silver Sabatons.png | 
 
 [Silver Sabatons](Silver_Sabatons.md)
@@ -4410,7 +5739,11 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Star Boots](Star_Boots.md)
@@ -4440,7 +5773,11 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Tracker's Boots](<Tracker's_Boots.md>)
@@ -4466,7 +5803,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Vanguard Boots](Vanguard_Boots.md)
@@ -4490,10 +5831,16 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Wartreads of Enmity.png | 
 
 [Wartreads of Enmity](Wartreads_of_Enmity.md)
+
+(**Set**)
 
 (**Unique**)
 
@@ -4513,7 +5860,16 @@ Found From:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Enmity  
+Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
+Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
+Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+
+ |
 |  | 
 
 [Western Outlaw Boots](Western_Outlaw_Boots.md)
@@ -4536,7 +5892,11 @@ Found from:
 
 -   [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Winter Corps Boots](Winter_Corps_Boots.md)
@@ -4563,7 +5923,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Woodland Boots](Woodland_Boots.md)
@@ -4588,7 +5952,11 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 
 **Torso:**
 
@@ -4609,7 +5977,7 @@ Sources
 
  | 
 
-Variants
+Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
@@ -4653,7 +6021,11 @@ Found from:
 
 -   Mob Drop from [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Canticlysm Pendant.png | 
 
 [Canticlysm Pendant](Canticlysm_Pendant.md)
@@ -4682,7 +6054,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Confessors Charm.png | 
 
 [Confessor's Charm](<Confessor's_Charm.md>)
@@ -4711,7 +6087,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Curseblood Pendant](Curseblood_Pendant.md)
@@ -4735,7 +6115,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Dark Owl Cape](Dark_Owl_Cape.md)
@@ -4765,10 +6149,16 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Fauld of Enmity](Fauld_of_Enmity.md)
+
+(**Set**)
 
 (**Unique**)
 
@@ -4786,7 +6176,16 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Enmity  
+Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
+Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
+Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+
+ |
 | File:Onyx Fleet Warden Cape.png | 
 
 [Fleet Warden Cape](Fleet_Warden_Cape.md)
@@ -4865,7 +6264,11 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | 
 
 File:Monastery Champion Beads NEW.png
@@ -4891,7 +6294,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Nomad Pendant](Nomad_Pendant.md)
@@ -4914,7 +6321,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Pathfinder lantern front.png | 
 
 [Pathfinder Lantern](Pathfinder_Lantern.md)
@@ -4934,7 +6345,11 @@ Found from:
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Crafting](Crafting_Station.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Pathfinder's Backpack](<Pathfinder's_Backpack.md>)
@@ -4956,7 +6371,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Red Eye Pendant](Red_Eye_Pendant.md)
@@ -4981,7 +6400,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Sandrunner Scarf](Sandrunner_Scarf.md)
@@ -5006,7 +6429,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Dawn Scarf.png | 
 
 Scarf
@@ -5056,7 +6483,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Static-assets-upload6078901116095484260.png | 
 
 Shrouded Capes
@@ -5104,7 +6535,11 @@ Found from:
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Varicosa Medallion.png | 
 
 [Varicosa Medallion](Varicosa_Medallion.md)
@@ -5128,7 +6563,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Whaler Scarf](Whaler_Scarf.md)
@@ -5147,7 +6586,11 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Old World Sun Pendant.png | 
 
 [Wheel Pendant](Wheel_Pendant.md)
@@ -5170,7 +6613,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Wormwarder Lantern.png | 
 
 [Wormwarder Lantern](Wormwarder_Lantern.md)
@@ -5189,7 +6636,11 @@ Found from:
 
 -   [Crafting](Crafting_Station.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Imperator's Fury](<Imperator's_Fury.md>)
@@ -5208,7 +6659,11 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
@@ -5231,10 +6686,16 @@ Found from:
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Mantle of Enmity](Mantle_of_Enmity.md)
+
+(**Set**)
 
 (**Relic**)
 
@@ -5252,7 +6713,16 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Enmity  
+Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
+Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
+Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+
+ |
 | File:Tiran Pendant Equipment.png | 
 
 [Tiran Pendant](Tiran_Pendant.md)
@@ -5278,7 +6748,11 @@ Found from:
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Warmaster's Medallion Equipment.png | 
 
 [Warmaster's Medallion](<Warmaster's_Medallion.md>)
@@ -5304,7 +6778,11 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Whistling Periapt](Whistling_Periapt.md)
@@ -5328,7 +6806,11 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Tied Tie](Tied_Tie.md)
@@ -5347,7 +6829,11 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 
 **Face:**
 
@@ -5368,7 +6854,7 @@ Sources
 
  | 
 
-Variants
+Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
@@ -5411,7 +6897,11 @@ Found from:
 
 -   [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Authority Voltspark Mask](Authority_Voltspark_Mask.md)
@@ -5430,7 +6920,11 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Black Blindfold](Blindfold.md)
@@ -5470,7 +6964,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Bloodfeather Mask](Bloodfeather_Mask.md)
@@ -5495,7 +6993,11 @@ Found from:
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Citadel Frames](Citadel_Frames.md)
@@ -5568,7 +7070,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 Duelist's Mask
@@ -5589,7 +7095,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Eyeglasses](Eyeglasses.md)
@@ -5606,7 +7116,11 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:BlackHeadband.png | 
 
 [Headband](Headband.md)
@@ -5659,7 +7173,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Hollow Angel Mask](Hollow_Angel_Mask.md)
@@ -5698,7 +7216,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Nauticals](Summer_Nauticals.md)
@@ -5735,7 +7257,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Blue.PNG | 
 
 [Royal Guard](Aspirant_Mask.md)
@@ -5781,7 +7307,11 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:Sworn Angel Mask1.png | 
 
 [Sworn Angel Mask](Sworn_Angel_Mask.md)
@@ -5819,7 +7349,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:TenGallonBandana.png | 
 
 [Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
@@ -5840,7 +7374,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [The Guy's Eyeglasses](Polarised_Eyeglasses.md)
@@ -5855,10 +7393,16 @@ Source from:
 
 -   [The Guy](The_Guy.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Thrall of Enmity](Thrall_of_Enmity.md)
+
+(**Set**)
 
 (**Unique**)
 
@@ -5874,7 +7418,16 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | N/A |
+ | 
+
+Set: Enmity  
+Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
+Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
+Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+
+ |
 |  | 
 
 [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
@@ -5896,7 +7449,11 @@ Found from:
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Western Outlaw Mask](Western_Outlaw_Mask.md)
@@ -5911,7 +7468,11 @@ Found from:
 
 -   [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Toon's Goggles](<Toon's_Goggles.md>)
@@ -5928,7 +7489,11 @@ Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 
 **Ears:**
 
@@ -5949,7 +7514,7 @@ Sources
 
  | 
 
-Variants
+Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
@@ -5975,7 +7540,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
@@ -5996,7 +7565,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Dew Drop Earrings](Dew_Drop_Earrings.md)
@@ -6020,7 +7593,11 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
@@ -6039,7 +7616,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 | File:MasterThief.png | 
 
 [Master Thief Earrings](Master_Thief_Earrings.md)
@@ -6060,7 +7641,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Moonlit Earrings](Crescent_Earrings.md)
@@ -6086,7 +7671,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Old Blood Earrings](Old_Blood_Earrings.md)
@@ -6116,7 +7705,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Pendant Earrings](Pendant_Earrings.md)
@@ -6132,7 +7725,11 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Practicioner's Earrings](<Practicioner's_Earrings.md>)
@@ -6152,7 +7749,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
@@ -6173,7 +7774,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
@@ -6194,7 +7799,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | N/A |
+ | 
+
+N/A
+
+ |
 
 **Rings:**
 

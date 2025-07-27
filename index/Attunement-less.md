@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 154626
+revid: 154902
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -92,38 +92,6 @@ Strength Mantras are mainly based on combat and slightly geared towards mobility
 
  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 
-
-**Throw** (★★☆)
-
-_Grab and throw your enemies._
-
- | 
-
-## Throw (★★☆)
-
-  
-_Grab and throw your enemies._
-
- |
-| 
-
-40 Ether
-
- | 
-
-Blunt
-
- | 
-
-5 Strength, defeated [Titus](Titus_Fulminus_Destellus.md)
-
- |
-| 
-
-**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
-
- |
 | 
 
 **Strong Left** (☆☆☆)
@@ -335,6 +303,38 @@ N/A
 -   Fall damage is taken if the user gets high enough.
 -   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
 -   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway).
+
+ |
+| 
+
+**Throw** (★★☆)
+
+_Grab and throw your enemies._
+
+ | 
+
+## Throw (★★☆)
+
+  
+_Grab and throw your enemies._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+5 Strength, Defeated [Titus](Titus_Fulminus_Destellus.md)
+
+ |
+| 
+
+**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
 
  |
 | 

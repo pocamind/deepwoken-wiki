@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 154794
+revid: 154960
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Oaths, The Hundred Legions]
@@ -12,7 +12,7 @@ notices:
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | 80 Strength40 Galebreathe or Thundercall |
+| oath_req | 80 Strength, 40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
@@ -36,13 +36,13 @@ notices:
 
 ## Obtainment
 
-To obtain Blightsurger, you first have to defeat [Titus](Titus_Fulminus_Destellus.md). Afterwards select his 2nd dialogue option and go and talk to [Brutus](Brutus.md). Go back to [Titus](Titus_Fulminus_Destellus.md) and he will give you the oath.
+To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Afterwards, approach Titus and select his second dialogue option. Finally, leave the [Merit Detainment Core](Merit_Detainment_Core.md) and speak to [Brutus](Brutus.md) to obtain the Oath.
 
 Requires a slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md)
 
 ## Progression
 
-To progress Blightsurger, you will need to keep talking to Brutus.
+To progress Blightsurger, the player will need to keep talking to Brutus.
 
 ## Abilities
 

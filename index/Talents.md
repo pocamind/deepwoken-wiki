@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 154781
+revid: 154894
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -703,7 +703,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Charms for 15s (7.5s against Disbelief Talent).
+    -   Charms for 15s and cannot be reduced by disbelief.
     -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional 10% damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
     -   Automatically procs narcissist
     -   This status effect only applies a 10% damage reduction effect, which stacks with Charm to grant a total of 19% damage reduction.
@@ -3645,6 +3645,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
+-   Brute Strength: [Imperator's Fury](<Imperator's_Fury.md>) - Your vent is replaced with a ground slam attack that knocks back enemies.
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
@@ -3669,6 +3670,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
     -   You can also obtain this Talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
+-   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates fall damage up until it reaches a cap for damage negated. Then, Featherfall will go on a 2 minute cooldown.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
@@ -3764,6 +3766,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
+-   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your m1s apply a storm strike. \[20 second CD\]
+-   Volt Reflex: [Authority Voltspark Mask](Authority_Voltspark_Mask.md) - Your dodge widow is icreased with the power of lightning, but also increase the cooldown of your dodges.
+    -   Increases the dodge window and cooldown of your dodges based on your [Thundercall](Thundercall.md) investment.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
@@ -3777,6 +3782,18 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Negates damage buffs from weather. This only applies to Stratoshock.
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
+
+## Set Talents
+
+Certain Talents are given when you equip a full equipment set, though not all equipment sets have unique Set Talents. These Talents are exclusive to that equipment set and are unobtainable by any other means. Set Talents are listed in alphabetical order:
+
+-   Enforcer's Pull: [Enforcer Set](Enforcer_Plate.md) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
+    -   Massively decreases the windup on Enforcer's Pull, especially after a flourish.
+    -   Set: [Enforcer Plate](Enforcer_Plate.md), [Enforcer Boots](Enforcer_Boots.md)
+-   Lasting Trauma: [Reinforced War Set](Reinforced_War_Helmet.md) - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+    -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Evanspear_War_Plate.md), [Reinforced War Boots](Evanspear_War_Boots.md)
+-   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
+    -   Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)
 
 ## Blacklisted Talents
 

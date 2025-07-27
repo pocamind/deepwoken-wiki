@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Plate
-revid: 154820
+revid: 154899
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -31,6 +31,6 @@ Variants: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)
 
 ## Description
 
-The Shock Trooper Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Plate is a black and gold coat with a full plate chest piece and fur shoulders, protecting the wearer's vital organs. When worn, this grants +5 Health and.
+The Shock Trooper Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Plate is a black and gold coat with a full plate chest piece and fur shoulders, protecting the wearer's vital organs. When worn, this grants +5 Health and +2 Rare Pips.
 
 This item is used to craft the [Specialist Plate](Specialist_Plate.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

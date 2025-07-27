@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 151328
+revid: 154944
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
@@ -32,7 +32,6 @@ This item provides the Talent Surestep, which makes you immune to the flinging o
 
 ## Trivia
 
--   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item within the Second Layer, the Talent Master Craftsman or the recently added crafting station inside the Union's base will do.
--   The stars for this equipment are created when crafted, and as such, the stars on the base Leather Boots are irrelevant, and you may receive more or less stars when crafting.
--   Despite the Recipe stating only a singular umbrite, you actually require 2 umbrites to craft these. This is most likely a bug.
--   Delver Boots are the only leg equipment in the game to have an uncommon pip.
+-   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item using the [Master Craftsman](Talents.md#artisan) [Talent](Talents.md) or the [Crafting Station](Crafting_Station.md) inside the the [Ignition Union](The_Ignition_Union.md) base.
+-   The stars on the Delver Boots are created when crafted, thus the stars on the base Leather Boots used to craft it are inconsequential.
+-   Despite the recipe stating the boots require one (1) [Umbrite](Ores.md#umbrite), it actually requires two (2) Umbrites to craft.

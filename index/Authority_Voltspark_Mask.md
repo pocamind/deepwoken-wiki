@@ -1,6 +1,6 @@
 ---
 title: Authority Voltspark Mask
-revid: 154830
+revid: 154883
 source: https://deepwoken.fandom.com/wiki/Authority_Voltspark_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Equipment, Face, Masks]
@@ -34,4 +34,4 @@ Volt Reflex increases your dodge window and dodge cooldown based on your [Thunde
 
 This item is obtained by crafting the [Authority Prototype Mask](Authority_Prototype_Mask.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-1.  1 [Authority Prototype Mask](Authority_Prototype_Mask.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md).
+1.  1 [Authority Prototype Mask](Authority_Prototype_Mask.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 3 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md).

@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 154861
+revid: 154932
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -112,10 +112,28 @@ Dodgeable:
  |
 | 
 
+Vengeful Rushdown  
+★★★
+
+ | Titus leaps towards their opponent, knocking them away when hit.
+
+-   This attack will briefly stun him when he bashes into a surface.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |
+| 
+
 Sovereign Drive  
-★
+★★
 
  | Titus dashes towards the opponent, leaving behind a destructive path of white lightning in his way.
+
+-   This move may be used twice or more.
 
 Parryable:
 
@@ -140,6 +158,22 @@ Dodgeable:
  |
 | 
 
+Wrathful Stomp  
+★★
+
+ | Titus slowly winds up before releasing a stomp that sends opponents into the air.
+
+-   Titus is most likely to follow up with Warp Kick if this move is used.
+
+Parryable:
+
+Blockable:
+
+Dodgeable:
+
+ |
+| 
+
 Warp Kick  
 ★★
 
@@ -152,6 +186,16 @@ Parryable:
 Blockable:
 
 Dodgeable:
+
+ |  |
+| 
+
+Blighted Sparks  
+★★
+
+ | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
+
+-   Titus will only use this move in his second phase.
 
  |  |
 | 
@@ -181,7 +225,23 @@ Dodgeable:
 
 ## Dialogue
 
-**Introduction:**
+**Cell Closed:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>You lost, sprout?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Cell Opened:**
 
 **Base Dialogue:**
 

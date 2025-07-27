@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 153719
+revid: 154948
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, Etrea]
@@ -20,7 +20,7 @@ File:Etrean wilds spring.jpg
 
 ## Overview
 
-Between the Etris Docks and Etris, there is a small forest, being the Etrean Wilds. It is relatively safe, but it is a popular location for players to hangout and spar with each other, so watch out for potential fights.
+Between the Etris Docks and Etris, there is a small forest, being the Etrean Wilds. It is relatively safe, but it is a popular location for players to hangout and spar with each other, so watch out for potential fights and potentially even ganks
 
 ## Points of Interest
 

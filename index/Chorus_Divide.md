@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 154768
+revid: 154915
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -10,9 +10,9 @@ categories: [Resonances]
 
 | Chorus Divide | |
 |---|---|
-| effect | ? |
-| appearance | ? |
-| cooldown | 40s |
+| effect | Winds up two beams of energy that deals immense damage to anyone hit by them |
+| appearance | Two big beams that go around the user in a 270° |
+| cooldown | 35s |
 
 > “ Using your bell to channel your energy into a high pressure beam ”
 > 
@@ -41,14 +41,16 @@ When obtained, Chorus Divide will spend its points on the following stats:
 
 Chorus Divide will use the players highest invested attunement upon obtaining the bell.
 
--   The [Flamecharm](Flamecharm.md) variant will burn players hit by the beams.
--   The [Frostdraw](Frostdraw.md) variant will (potentially) apply chilled or crystallisation to players hit by the beams.
--   The [Galebreathe](Galebreathe.md) variant will (potentially) apply suffocate or other gale talents to players hit by the beams.
--   The [Thundercall](Thundercall.md) variant will (shock?) players hit by the beams.
+-   The [Flamecharm](Flamecharm.md) variant will burn to players hit by the beams.
+-   The [Frostdraw](Frostdraw.md) variant will apply chilled or crystallization to players hit by the beams.
+-   The [Galebreathe](Galebreathe.md) variant will apply suffocate or other gale talents to players hit by the beams.
+-   The [Thundercall](Thundercall.md) variant will apply shock or apply surge to players hit by the beams.
 -   The [Shadowcast](Shadowcast.md) variant will (potentially) steal ether from, blind, and proc shadow talents to player hit by the beams.
 -   The [Ironsing](Ironsing.md) variant will proc metal rods to players hit by the beams.
 -   The [Bloodrend](Bloodrend.md) variant will proc blood talents and blood poison to the player hit by the beams.
 
 If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will additionally be the attunement of their current **Saint Stance**.
 
-If the player is [Attunement-less](Attunement-less.md), the beam will Thundercall.
+If the player is [Attunement-less](Attunement-less.md), the beam will appear as Thundercall.
+
+This bell will stack [Chain of Perfection](Talent_Quests.md) when it lands
