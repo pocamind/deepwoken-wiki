@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 151952
+revid: 154845
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -17,12 +17,18 @@ categories: [Items, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +5 Health+2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
+| set | Star Duster, Star Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Starswept Valley, The Depths, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Interluminary Parasol, Maestro Evengarde Rest, War Mode |
 | description | ... |
+
+Star Set
+
+Variants: [Star Duster](Star_Duster.md)
 
 ## Description
 

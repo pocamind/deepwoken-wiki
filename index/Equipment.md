@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 154209
+revid: 154812
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1621,6 +1621,25 @@ Found from:
  | Lilac, Navy, Sky, Verdant |
 |  | 
 
+[Western Outlaw Hat](Western_Outlaw_Hat.md)
+
+ | 
+
+_+2 Posture_
+
++1 Uncommon Pip
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | N/A |
+|  | 
+
 [A Lot of Hats](A_Lot_of_Hats.md)
 
 (**Unobtainable**)
@@ -1633,7 +1652,7 @@ _+5 Health_
 
  | 
 
-Sources:
+Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
@@ -1653,7 +1672,7 @@ _+Talent: Ashes on the Fire_
 
  | 
 
-Sources:
+Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
@@ -1672,7 +1691,7 @@ _+5 Health_
 
  | 
 
-Sources:
+Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
@@ -1691,7 +1710,7 @@ _+5 Health_
 
  | 
 
-Sources:
+Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
@@ -1710,7 +1729,7 @@ _+5 Health_
 
  | 
 
-Sources:
+Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
@@ -1727,7 +1746,7 @@ No Pips
 
  | 
 
-Sources:
+Found from:
 
 -   Prize from winning a [Fanart Contest](Developer_Specs.md)
 
@@ -2771,7 +2790,7 @@ Found from:
 
  | 
 
-Sources:
+Found from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
@@ -3635,6 +3654,25 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | Lilac, Navy, Sky, Verdant |
+|  | 
+
+[Western Outlaw Robes](Western_Outlaw_Robes.md)
+
+ | 
+
+_+3 Posture_
+
++2 Rare Pips
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | N/A |
 | File:White Overcoat.png | 
 
 White Overcoat
@@ -3768,7 +3806,7 @@ _+Talent: Cognito Hazard_
 
  | 
 
-Sources:
+Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
@@ -3785,7 +3823,7 @@ Confidential Information
 
  | 
 
-Sources:
+Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
@@ -3802,7 +3840,7 @@ Confidential Information
 
  | 
 
-Sources:
+Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
@@ -4478,6 +4516,29 @@ Found From:
  | N/A |
 |  | 
 
+[Western Outlaw Boots](Western_Outlaw_Boots.md)
+
+ | 
+
+_+3% Lightning Armor_
+
+_+3% Wind Armor_
+
++1 Uncommon Pip
+
++1 Rare Pip
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | N/A |
+|  | 
+
 [Winter Corps Boots](Winter_Corps_Boots.md)
 
  | 
@@ -5131,6 +5192,25 @@ Found from:
  | N/A |
 |  | 
 
+[Imperator's Fury](<Imperator's_Fury.md>)
+
+(**Relic**)
+
+ | 
+
+_+Talent: Brute Strength_
+
+**Requires Power 8**
+
+ | 
+
+Found from:
+
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
+
+ | N/A |
+|  | 
+
 [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
 
 (**Relic**)
@@ -5145,7 +5225,7 @@ _+Talent: Elegy of Light_
 
  | 
 
-Sources:
+Found from:
 
 -   [The Ferryman](The_Ferryman.md) **(~1%)**
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -5168,7 +5248,7 @@ _+Talent: Heartwing Beat_
 
  | 
 
-Sources:
+Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
@@ -5191,7 +5271,7 @@ _+Talent: Featherfall_
 
  | 
 
-Sources:
+Found from:
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Second Layer](Second_Layer.md)
@@ -5215,7 +5295,7 @@ _+Talent: Actions Speak Louder_
 
  | 
 
-Sources:
+Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -5243,7 +5323,7 @@ _+Talent: Whistleguard_
 
  | 
 
-Sources:
+Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -5263,7 +5343,7 @@ _+5 Health_
 
  | 
 
-Sources:
+Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
@@ -5317,6 +5397,40 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Default (Black), Red & White |
+|  | 
+
+[Authority Prototype Mask](Authority_Prototype_Mask.md)
+
+ | 
+
++1 Common Pip
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | N/A |
+|  | 
+
+[Authority Voltspark Mask](Authority_Voltspark_Mask.md)
+
+ | 
+
+_+3% Lightning Armor_
+
++1 Common Pip
+
+_+Talent: Volt Reflex_
+
+ | 
+
+Found from:
+
+-   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | N/A |
 |  | 
 
 [Black Blindfold](Blindfold.md)
@@ -5785,6 +5899,21 @@ Found from:
  | N/A |
 |  | 
 
+[Western Outlaw Mask](Western_Outlaw_Mask.md)
+
+ | 
+
++1 Common Pip
+
+ | 
+
+Found from:
+
+-   [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | N/A |
+|  | 
+
 [Toon's Goggles](<Toon's_Goggles.md>)
 
 (**Unobtainable**)
@@ -5795,7 +5924,7 @@ Confidential Information
 
  | 
 
-Sources:
+Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
@@ -6928,7 +7057,7 @@ Found from:
     -   Due to this, you'll have to take the following theoretical kits with a grain of salt, as this bug could result in higher maximums.
 -   Highest theoretical **stealth** kit in game is 30% stealth. (10% Dark Owl Chapeau, 6% Mercenary's Garb/Ministry Cloak/Dark Owl Cloak, 5% Shrouded Capes, 6% Duelist Mask, 3% Master Thief Earrings)
 -   Highest theoretical **ETH** kit in game is 397 ETH. (4x 30 ETH Moon and Waning Rings, 68 ETH (Drowned) Diver's Light Plate, 36 ETH Scarf, 54 ETH Hood, 54 ETH Boots, 30 ETH Hivelord Mask, 35 ETH Old Blood Earrings)
--   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Rings, 2 Posture Khan/Gladiator Helmet, 1 Threadwork Kilt, 3 Posture Glassdancer Wraps/Moonseye Gauntlets, 3.5 Posture Wartreads of Enmity with max Anchor pips)
+-   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Rings, 2 Posture Khan Helmet/Gladiator Helmet/Western Outlaw Hat, 1 Threadwork Kilt, 3 Posture Glassdancer Wraps/Moonseye Gauntlets/Weestern Outlaw Robes, 3.5 Posture Wartreads of Enmity with max Anchor pips)
 -   Highest theoretical **HP** kit in game is 172 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 18 Fauld of Emnity, 32 HP Parasol Planter, 32 HP Star Boots/Abyss Wanderer Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**
 -   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

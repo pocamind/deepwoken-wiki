@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 154769
+revid: 154780
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -309,10 +309,10 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### The Dreadstar
 
 -   Located in the [Beloved Zofia](Beloved_Zofia.md).
--   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, ~but there is no indication of it being related to the Drowned God.~ (well this is wrong as if you talk to the dreadstar after you either killed all the elemental trainers or spend 10 knowledge to instantly progress the Oath the dreadstar **CLEARLY** states, "You offer your heart to the **Keeper,** and lo, fate has claimed our enemies. In time, it will claim them all." The "Keeper," refers to yun'shul, the "keeper" of hearts.)
+-   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, ~but there is no indication of it being related to the Drowned God.~ (well this is wrong as if you talk to the Dreadstar after you either killed all the elemental trainers or spend 10 knowledge to instantly progress the Oath the Dreadstar **CLEARLY** states, "You offer your heart to the **Keeper,** and lo, fate has claimed our enemies. In time, it will claim them all." The "Keeper," refers to yun'shul, the "keeper" of hearts.)
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the Song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
--   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
+-   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesn't completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the Song and to the six Attunement trainers (not counting the Attunement-less and the bloodrend trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the Song by attunement users or by other means, but this is just a speculation.
@@ -499,13 +499,20 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 ### Edenkite
 
-**Lore Sources:** _[Skyreap Blade](Skyreap_Blade.md) Description (Mentioned),_ _Books ([Lumen's Folklore: Volume 'North'](Books.md)), [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Description_
+**Lore Sources:** _[Skyreap Blade](Skyreap_Blade.md) Description (Mentioned),_ _Books ([Lumen's Folklore: Volume 'North'](Books.md)), [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Description, [Drakkard](Drakkard.md) aspect,_
 
--   Immortal beings of great intelligence
--   People communed with them during the Canticlysm via a ritual called ‘The Wyrm's Communion'
--   The Edenkite would only answer with anecdotes and hard to decipher riddles
--   The Edenkite knew that communing with humans would be a risk to their species' existence
--   There were Originally 9 Edenkite
+-   Immortal beings of great intelligence.
+-   People communed with them during the Canticlysm via a ritual called ‘The Wyrm's Communion' and the Edenkite would only answer questions with anecdotes and hard to decipher riddles.
+-   The Edenkite knew that communing with humans would be a risk to their species' existence.
+-   There were Originally 9 Edenkite, It is currently confirmed that 2 Edenkite have been killed.
+-   The first Edenkite to be killed was decapitated by the Mad Steward using Ardour, and was stated to be the Edenkite's first loss.
+    -   After this Edenkite was killed they went into hiding and didn't respond to the ritual.
+-   The other Edenkite to be killed was slain by a Northern Tiran hunting party of considerable renown. Trapping the beast in a ravine, the band brought it low with an onslaught of cannonfire from the cliffs above. It's breath was imbued into the Edenbrand Hellcoil.
+    -   This implies that the Edenkite are now being hunted
+    -   Ardour is the only murmur capable of wounding an Edenkite
+-   Eating an Edenkite turns you into a Dread Serpent
+-   Drakkard worship the Edenkite and are implied to have been taught by them
+-   Due to the Edenkite going into hiding after one of them was killed it can be assumed that every other Edenkite to be killed is post-tidal
 
 ## Locations
 

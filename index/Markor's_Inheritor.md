@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 153097
+revid: 154783
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -45,4 +45,6 @@ It shares the same aerial animation and critical animation with the [Way of Nava
     -   Meeting the alloyed requirement, the damage is (34.8)
 -   At max HVY, the non-alloyed damage is (36.6)
     -   At max HVY, the alloyed damage is (38.4)
+
 -   The non-alloyed does (.5) more base dmg than the alloyed version.
+-   The Markor's Inheritor can NOT be extracted for its motif.

@@ -1,0 +1,50 @@
+---
+title: Reinforced War Helmet
+revid: 154837
+source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Head, Helmets]
+---
+
+# Reinforced War Helmet
+
+| Reinforced War Helmet | |
+|---|---|
+| type | Head |
+| rarity | Common |
+| selling price | 25 |
+| requirements | PWR 10, 25 STR |
+| weight | 1 |
+| innate stats | +4 Health, +1 Posture, +1 Uncommon Pip |
+| innate talent | Fatal Strike |
+| set | Reinforced War Helmet, Reinforced War Plate, Reinforced War Boots |
+| set talent | Lasting Trauma |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Crafting at the Merit Detainment Core |
+| description | Hell hath no fury like an Evanspear. |
+
+Reinforced War Set
+
+## Description
+
+The Reinforced War Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow Galea helmet, akin to Roman headgear. When worn, this grants +4 Health, +1 Posture, +1 Uncommon Pip, and the [Fatal Strike](Talents.md#equipment-talents) Talent.
+
+_Fatal Strike_ empowers your [Strength Mantra](Attunement-less.md) guardbreaks, dealing extra damage and applying a slow. This can only proc if the Mantra has a [Wrath Gem](Wrath_Gem.md) equipped. 10 second cooldown.
+
+## Set Bonus
+
+When wearing the full equipment set, you will gain the Set Talent.
+
+Set Bonus: [Lasting Trauma](Talents.md#set-talents) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+
+## Obtainment
+
+This item is obtained by crafting the [Evanspear War Helmet](Evanspear_War_Helmet.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
+
+1.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
+2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + ?.
+3.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + ?.
+4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) +?.

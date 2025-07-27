@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 154621
+revid: 154828
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
@@ -23,6 +23,10 @@ notices:
 ## Description
 
 **Warden's Armor Piece** is a direct drop from mobs in [Detainment Core](Merit_Detainment_Core.md)
+
+## Uses
+
+-   Used to craft the "[Titus's Raiment](<Titus's_Raiment.md>)" Master Armor.
 
 ## Trivia
 

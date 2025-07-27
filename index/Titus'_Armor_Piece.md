@@ -1,6 +1,6 @@
 ---
 title: "Titus' Armor Piece"
-revid: 154492
+revid: 154829
 source: https://deepwoken.fandom.com/wiki/Titus'_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
@@ -23,6 +23,10 @@ notices:
 ## Description
 
 **Titus' Armor Piece** is found from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) in his exclusive chest.
+
+## Uses
+
+-   Used to craft the "[Titus's Raiment](<Titus's_Raiment.md>)" Master Armor.
 
 ## Trivia
 

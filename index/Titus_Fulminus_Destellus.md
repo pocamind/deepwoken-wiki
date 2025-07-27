@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 154765
+revid: 154861
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -22,11 +22,11 @@ Template:Creature Infobox V3
 
 A Khan with great stature, he's around twice the height of the player. He has wrinkles on his face and greyed out dreads, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
-**To start the fight with Titus Fulminus Destellus:**
+### Starting the Fight with Titus
 
-1.  Get Hero reputation with [The Hundred Legions](The_Hundred_Legions.md) (you don't really need exactly Hero reputation, Ally+ works)
-2.  Talk to [Caitus](Caitus.md) at the Erisia legion camp to obtain [Legion intelligence](Legion_Intelligence.md)
-3.  Having the Legion intelligence will unlock new dialogue with Titus, selecting it will start the fight
+1.  Have Ally or above reputation with [The Hundred Legions](The_Hundred_Legions.md).
+2.  Talk to [Caitus](Caitus.md) at the Legion camp at Erisia to obtain the [Legion Intelligence](Legion_Intelligence.md) quest item.
+3.  Having the Legion Intelligence will unlock a unique set of dialogue with Titus. Selecting it will start the fight.
 
 ## Moves
 
@@ -175,8 +175,9 @@ Dodgeable:
 
 ### Passives
 
--   Quaking Presence - The rumbling presence of Titus will break nearby campfires and cause debris to fall into the prison, dealing damage to the player.
--   Thorn Guard - Titus is immune to Providence's Thorns.
+-   **Quaking Presence** - The rumbling presence of Titus will break nearby campfires and cause debris to fall into the prison, dealing damage to the player.
+-   **Thorn Guard** - Titus is immune to Providence's Thorns.
+-   **Unharvestable** - Healing from Bloodless Gems are less effective.
 
 ## Dialogue
 

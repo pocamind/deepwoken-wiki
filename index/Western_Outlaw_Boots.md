@@ -1,0 +1,34 @@
+---
+title: Western Outlaw Boots
+revid: 154808
+source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Boots
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Legs, Boots]
+---
+
+# Western Outlaw Boots
+
+| Western Outlaw Boots | |
+|---|---|
+| type | Legs |
+| rarity | Common |
+| selling price | N/A |
+| requirements | PWR 10 |
+| weight | 1 |
+| innate stats | +3% Lightning Armor, +3% Wind Armor, +1 Uncommon Pip, +1 Rare Pip |
+| set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
+| set talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Merit Detainment Core |
+| description | Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband. |
+
+Western Outlaw Set
+
+Variants: [Western Outlaw Hat](Western_Outlaw_Hat.md)
+
+## Description
+
+The Western Outlaw Robes is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Western Outlaw Set. The Western Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant. When worn, this grants +3% Thundercall and Galebreathe resistance, +1 Uncommon Pip, and +1 Rare Pip.

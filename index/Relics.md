@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 154042
+revid: 154814
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -292,6 +292,18 @@ Equipment that provides player with unique abilities in combat or exploration.
 | Image | Description | Obtainment |
 | --- | --- | --- |
 | 
+ | **[Imperator's Fury](<Imperator's_Fury.md>)** - A Medallion that grants the ability "Brute Strength". This ability transforms the user's [Vent](Combat_Mechanics.md) into a devastating stomp attack, knocking enemies away.
+
+  
+This increases your Vent cooldown.
+
+ | 
+
+-   [Titus](Titus_Fulminus_Destellus.md)
+
+ |
+| 
+
  | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the ability "Elegy of Light". When activated, you are immune to all Deep Gem effects from any opponent for 3 minutes.
 
   

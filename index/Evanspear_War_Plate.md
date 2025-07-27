@@ -1,0 +1,37 @@
+---
+title: Evanspear War Plate
+revid: 154842
+source: https://deepwoken.fandom.com/wiki/Evanspear_War_Plate
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Arms, Plates]
+---
+
+# Evanspear War Plate
+
+| Evanspear War Plate | |
+|---|---|
+| type | Head |
+| rarity | Common |
+| selling price | N/A |
+| requirements | PWR 10, 25 STR |
+| weight | 1 |
+| innate stats | +6 Health, +1 Posture, +2 Rare Pips |
+| innate talent | N/A |
+| set | Evanspear War Helmet, Evanspear War Plate, Evanspear War Boots |
+| set talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Merit Detainment Core |
+| description | Made light to protect only the essentials, Evanspear Centurions put all their strength into a single blow, believing the best defense is a brutal offense. |
+
+Evanspear War Set
+
+Variants: [Evanspear War Helmet](Evanspear_War_Helmet.md)
+
+## Description
+
+The Evanspear War Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Evanspear War Set. The Evanspear War Plate is a green and yellow chest plate with matching bracers. Due to the Evanspear Centurions not wanting to overburden themselves, this armor is missing arm protection. When worn, this grants +6 Health, +1 Posture, and +2 Rare Pips.
+
+This item is used to craft the [Reinforced War Plate](Reinforced_War_Plate.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

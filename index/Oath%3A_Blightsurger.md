@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 154778
+revid: 154794
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Oaths, The Hundred Legions]
@@ -38,7 +38,7 @@ notices:
 
 To obtain Blightsurger, you first have to defeat [Titus](Titus_Fulminus_Destellus.md). Afterwards select his 2nd dialogue option and go and talk to [Brutus](Brutus.md). Go back to [Titus](Titus_Fulminus_Destellus.md) and he will give you the oath.
 
-Requires Hero reputation with [The Hundred Legions](The_Hundred_Legions.md)
+Requires a slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md)
 
 ## Progression
 
@@ -46,25 +46,35 @@ To progress Blightsurger, you will need to keep talking to Brutus.
 
 ## Abilities
 
+-   **Blightshock - Status Effect**
+    -   Blightshock is applied through your Sovereign Bangle attacks and Blightsurge Mantras.
+    -   Blightshock applies 80% of your attack's **final damage** as Wither.
+    -   Blightshock can be further buffed with the Blight Pierce, Blighted Touch, and Anchor Shock Talents.
+
 -   **Sovereign State - Talent**
     -   Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
-    -   Landing attacks that deal physical damage, including your Oath abilities, builds up a meter similar to [Jetstriker's](Oath%253A_Jetstriker.md) Momentum meter.
-    -   You can press X at any point to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay.
+    -   Blight Meter gain has no cooldown. Landing Blightsurge Mantras grants 15% Blight Meter. Landing M1 grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, [Galebreathe](Galebreathe.md) Mantras, or [Physical](Attunement-less.md) Mantras grants 5% Blight Meter.
+    -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
+    -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
+        -   This keybind can be changed in settings.
     -   While in Sovereign State, your weapon will be replaced with the _Sovereign Bangle_, this is a Fist weapon with 32 base damage, no investment scaling, 5% PEN, 6 range, 8 weight, and a unique critical.
-        -   The critical is a leaping slam attack, applying knockdown and Blightshock.
+        -   The critical is a leaping slam attack, dealing 25 Oath damage, applying knockdown and Blightshock.
     -   Skycrash can be used twice in quick succession while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
+    -   The Blight Meter is similar to [Jetstriker's](Oath%253A_Jetstriker.md) Momentum gauge.
 
   
 
 -   **Sovereign Drive - Mantra**
     -   Lunge forward and strike with your fist.
-    -   Applies Daze, Wither, and Blightshock on hit.
+    -   Deals 12 Oath damage.
+    -   Applies Daze and Blightshock on hit.
 
   
 
 -   **Skycrash - Mantra**
     -   Leap forward and stomp with devastating force.
+    -   Deals 10 Oath damage, the followup strike deals 17.5 Oath damage.
     -   Ragdolls on hit.
     -   Can be used twice in quick succession if the user is in the Sovereign State.
 
@@ -72,6 +82,7 @@ To progress Blightsurger, you will need to keep talking to Brutus.
 
 -   **Warp Kick - Mantra**
     -   Reel back and perform a crushing kick.
+    -   Each hit deals 20 Oath damage.
     -   Teleports to opponents within range.
     -   Applies Wither and Blightshock on hit.
 
@@ -88,15 +99,18 @@ To progress Blightsurger, you will need to keep talking to Brutus.
 
 -   **Anchor Shock - Talent**
     -   Your Blightshock prevents targets from using mobility mantras.
+    -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
+    -   This does **not** proc on the Blightshock from Sovereign Bangle.
 
 -   **Blightlash - Talent**
     -   Your swing range is enhanced during Sovereign State.
-    -   Increases the range of the Sovereign Bangle from 6 to ?.
+    -   Increases the range of the Sovereign Bangle from 6 to 7.
 
   
 
 ## Trivia
 
 -   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).
+-   Sovereign Bangle has the full effectiveness of the [Darkened Bastion](Darkened_Bastion.md) outfit, allowing it to deal 105% of its damage as Wither.
 -   This Oath was accidentally released in Battle Royale, allowing players to play a very barebones version of the Oath.
 -   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
