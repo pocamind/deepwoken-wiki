@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 154710
+revid: 155136
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -386,11 +386,15 @@ Deal an additional 10% less damage to the player who Charmed you and 20% more da
 
 ### Blightshock
 
-[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Innately, this applies [Wither](#wither) on proc, but it can be enhanced further by Blightsurger Talents, gaining new effects such as: granting it hyperarmor bypass similar to regular Shock, increasing the Blightsurger user's PEN on their Blightsurger Mantras and [Sovereign Bangle](Oath%253A_Blightsurger.md) attacks, and putting affected players' mobility Mantras on cooldown. Blightshock is applied by Blightsuerger abilities and is signified by white and black lightning on proc.
+[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Innately, this deals 80% of your attack's damage as [Wither](#wither) on proc, but it can be enhanced further by Blightsurger Talents, gaining new effects such as: granting it hyperarmor bypass similar to regular Shock, increasing the Blightsurger user's PEN on their Blightsurger Mantras and [Sovereign Bangle](Oath%253A_Blightsurger.md) attacks, and putting affected players' mobility Mantras on cooldown. Blightshock is applied by [Blightsurger](Oath%253A_Blightsurger.md) abilities and is signified by white and black lightning on proc.
 
 ### Drained
 
 Takes a percentage of your maximum Ether and grants it to your Vow Master. Applied the [Vow of Mastery](Vow_of_Mastery.md) Command: Leech. Signified by a blue ball of ether leaving your body to go to your master.
+
+### Stormcall Shock
+
+Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whenever you cast a Mantra while affected by this status, you'll take damage. Signified by yellow and green lightning arcing out of your character.
 
 ### Bottom Freeze
 

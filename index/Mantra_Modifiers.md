@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 155007
+revid: 155157
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -219,7 +219,16 @@ Rush Shard
 
 Amnesic Driftwood
 
- | Removes all Modifiers on a Mantra. | Removes every single modifier previously added to the mantra, including Sparks. Used to revert a mantra to its clean, original state, in case you want to start over or accidentally added too many modifiers which pushed the ether cost past max ether. This also gives back the modifiers you used on the mantra, except for sparks. | 
+ | 
+
+-   Currently nothing.
+
+ | 
+
+-   Used to remove every single modifier previously added to the Mantra, including Sparks.
+-   Due to the Mantra modification rework, this Modifier was made irrelevant and it currently does nothing.
+
+ | 
 
 -   Bandits
 -   Bandit Leaders
@@ -387,7 +396,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wrath Gem</td>
-  <td>Allows your <a href="Attunement-less.md">Strength</a> Mantras to benefit from the <a href="Reinforced_War_Helmet.md">Reinforced War</a> Set Bonus, as well as the individual equipment Talents from the <a href="Reinforced_War_Helmet.md">Helmet</a>, <a href="Reinforced_War_Plate.md">Plate</a>, and <a href="Reinforced_War_Boots.md">Boots</a> of the aforementioned set. This has a 10 Second cooldwon.<br>
+  <td>Allows your Mantras to proc the <a href="Reinforced_War_Helmet.md">Reinforced War</a> Set Bonus, as well as the individual equipment Talents from the <a href="Reinforced_War_Helmet.md">Helmet</a>, <a href="Reinforced_War_Plate.md">Plate</a>, and <a href="Reinforced_War_Boots.md">Boots</a> of the aforementioned set. This has a 10 Second cooldown.<br>
   <b>Note: This Gem does nothing innately.</b></td>
 </tr>
 </tbody>

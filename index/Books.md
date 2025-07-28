@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 154411
+revid: 155147
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -27,9 +27,9 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
 -   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md)
 
-Some books are obtained as part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
+Some books are obntaas part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
 
--   Diver Journal I, II, III: [Second Layer](Second_Layer.md)
+-   Diver Journal, I/II/III: [Second Layer](Second_Layer.md)
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
 -   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md)
 -   Legion Intelligence: Talking to [Caitus](Caitus.md)
@@ -69,7 +69,7 @@ Some books are obtained as part of specific quests and cannot be found outside o
 > 
 > Today, the realization has hit that we lack additional food for our dear subjects.
 > 
-> Last night's meal for Subject C was the last body on-hand; unfortunately, it is winter. Pathfinders tend to be.. shakey, during this time of year. It's more difficult to find gullible, bright-eyed, hopeful ones.
+> Last night's meal for Subject C was the last body on-hand; unfortunately, it is winter. [Pathfinders](Glossary.md#pathfinders) tend to be.. shakey, during this time of year. It's more difficult to find gullible, bright-eyed, hopeful ones.
 > 
 > During last winter, we prepared a surplus of bodies in preparation for this. This winter, however, we became careless. Too much time spent on experimentation and studying, of course.
 > 
@@ -113,15 +113,15 @@ Some books are obtained as part of specific quests and cannot be found outside o
 > 
 >   
 > 
-> The world we live in - the world after the Canticlysm, the Tides, and the Drowning of Celtor, - is a world without harmony and peace, a place of great turmoil and unrest. For some, such as the tide-scattered Celtor, it is a place without a past and a home. The surface is slowly turning into a graveyard of once-great cultures, as the few surviving ones vie for supremacy in a sea-sundered land.
+> The world we live in - the world after the [Old World](Glossary.md#the-old-world), the [Canticlysm](Glossary.md#the-canticlysm), and the [Tides](Glossary.md#the-tides) - is a world without harmony and peace, a place of great turmoil and unrest. For some, such as the tide-scattered Celtor, it is a place without a past and a home. The surface is slowly turning into a graveyard of once-great cultures, as the few surviving ones vie for supremacy in a sea-sundered land.
 > 
-> I myself, Mira Sokolof, am a descendant of the Celtor who survived the Great Drowning by fortune of being away from the city during the catastrophe. Despite that, the loss of our heartland - its wholesale disappearance to the Depths below, - left a great wound in our collective psyche, and an astoundingly vast rift in our cultural memory. Our traditions hardly survive after several centuries of diaspora, but they cling on to dear life, thanks to the efforts of individual Celtor. My family tried - and still try - their hardest to keep the Celtorian ways alive, passing old stories and customs down the family line through spoken word and repetition.
+> I myself, Mira Sokolof, am a descendant of the Celtor who survived the [Submergence of Celtor](Glossary.md#the-submergence-of-celtor) by fortune of being away from the city during the catastrophe. Despite that, the loss of our heartland - its wholesale disappearance to the [Depths](Glossary.md#the-depths) below, - left a great wound in our collective psyche, and a rift in our cultural memory. Our traditions, once so accustomed to our former home, hardly survive after several centuries of diaspora, but they cling on to dear life, thanks to the efforts of individual Celtor. My family tried - and still try - their hardest to keep the Celtorian ways alive, passing old stories and customs down the family line through spoken word and repetition.
 > 
-> But this alone, and in such small numbers, cannot preserve the old culture of my kin. Slowly, as we are forced to seek other homes to settle in - homes other than our own, - our ways fade, and the past is forgotten. It is hard to accept it, but the Celtor culture is experiencing its final sunset. Not only did the archives and libraries of our once-great drowned city contain a wealth of texts about our culture, but the city itself once housed the culture’s living practitioners - the Celtorians themselves. But now, we are scattered, few and far inbetween, like chaff in the wind; and our wealth of culture is lost beneath the tide.
+> But this alone, and in such small numbers, cannot preserve the old culture of my kin. Slowly, as we are forced to seek other homes to settle in - homes other than our own, - our ways fade, and the past is forgotten. It is hard to accept it, but the Celtor culture is experiencing its final sunset. Not only did the archives and libraries of our once-great [drowned city](Glossary.md#the-drowned-city-of-celtor) contain a wealth of texts about our culture, but the city itself once housed the culture's living practitioners - the Celtorians themselves. But now, we are scattered, few and far inbetween, like chaff in the wind; and our wealth of culture is lost beneath the tide.
 > 
-> At present day, the surface world is still dotted with a variety of cultures, each at a different stage of vitality. For example, the island of Etrea, the last remaining shard of a once-great kingdom of the same name, maintains its distinct way of life in relative isolation. However, their culture is growing stagnant, ossified, and inflexible due to such policies, remaining relatively unchanged for the past several centuries - an unnatural amount of time for any civilisation’s lifestyle to stay so static.
+> At present day, the surface world is still dotted with a variety of cultures, each at a different stage of vitality. For example, the island of Etrea, the last remaining shard of a once-great kingdom of the same name, maintains its distinct way of life in relative isolation. However, their culture is growing stagnant, ossified, and inflexible due to such policies, remaining relatively unchanged for the past several centuries - an unnatural amount of time for any civilisation's lifestyle to stay so static.
 > 
-> As another example, The Navaean nomads’ ways are still going strong, flourishing in the face of great adversity - somewhat of a paradox considering their culture’s wandersome nature, their reliance on traditions of spoken word, and their consistent clashes with the encroaching imperial influence of the Central Authority. The Authority themselves, as yet another example, struggle to find any solid cultural ground to stand on, despite being made up of numerous varied groups of people, each with their own colourful histories and customs. Instead, they rely upon loyalty to hierarchy and on military tradition to keep their political ties from fraying.
+> As another example, The Navaean nomads' ways are still going strong, flourishing in the face of great adversity - somewhat of a paradox considering their culture's wandersome nature, their reliance on traditions of spoken word, and their consistent clashes with the encroaching imperial influence of the Central Authority. The Authority themselves, as yet another example, struggle to find any solid cultural ground to stand on, despite being made up of numerous varied groups of people, each with their own colourful histories and customs. Instead, they rely upon loyalty to hierarchy and on military tradition to keep their political ties from fraying.
 > 
 > And then, of course, there are new cultures still emerging in the long wake after the Tides, forming up in response to the changed ways of the people of the New World. Where there was a lack of rooted national history and shared past, a variety of stand-ins arose - companies, labour unions, and guilds of workers and adventurers alike. Within these non-societal units, unique traditions, hierarchies, and customs take shape. They fight for their place beneath the sun, like any other.
 > 

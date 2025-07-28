@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155049
+revid: 155159
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -33,8 +33,8 @@ A Khan with great stature, he's around twice the height of the player. He has wr
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-The Legion's Martial Arts  
-★
+**The Legion's Martial Arts  
+**★
 
  | Titus firmly swings his fists at his opponent with hyperarmor.
 
@@ -49,8 +49,8 @@ Dodgeable:
  |  |
 | 
 
-Worldpiercing Deluge  
-★
+**Worldpiercing Deluge  
+★**
 
  | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
 
@@ -65,8 +65,8 @@ Dodgeable:
  |  |
 | 
 
-Worldshattering Smackdown  
-★★
+**Worldshattering Smackdown  
+**★★
 
  | Titus winds up with both arms, grabbing the opponent before smacking them into the ground.
 
@@ -81,8 +81,8 @@ Dodgeable:
  |
 | 
 
-Commander's Rage  
-★★
+**Commander's Rage  
+**★★
 
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
 
@@ -95,8 +95,8 @@ Dodgeable:
  |
 | 
 
-Commander's Whirlthrow  
-★★★
+**Commander's Whirlthrow  
+**★★★
 
  | Titus firmly grabs his opponent, spins around, and sends them flying.
 
@@ -112,8 +112,8 @@ Dodgeable:
  |
 | 
 
-Vengeful Rushdown  
-★★★
+**Vengeful Rushdown  
+**★★★
 
  | Titus leaps towards their opponent, knocking them away when hit.
 
@@ -128,8 +128,8 @@ Dodgeable:
  |
 | 
 
-Sovereign Drive  
-★★
+**Sovereign Drive  
+**★★
 
  | Titus dashes towards the opponent, leaving behind a destructive path of white lightning in his way.
 
@@ -144,8 +144,8 @@ Dodgeable:
  |  |
 | 
 
-Skycrash  
-★★
+**Skycrash  
+**★★
 
  | Titus ascends into the air before crashing down into opponents.
 
@@ -158,7 +158,7 @@ Dodgeable:
  |
 | 
 
-Wrathful Stomp  
+**Wrathful Stomp**  
 ★★
 
  | Titus slowly winds up before releasing a stomp that sends opponents into the air.
@@ -174,8 +174,8 @@ Dodgeable:
  |
 | 
 
-Warp Kick  
-★★
+**Warp Kick  
+**★★
 
  | In a flash, Titus warps to a random opponent and kicking them away.
 
@@ -190,8 +190,8 @@ Dodgeable:
  |  |
 | 
 
-Blighted Sparks  
-★★
+**Blighted Sparks  
+**★★
 
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
@@ -200,8 +200,8 @@ Blighted Sparks
  |  |
 | 
 
-Chorus Divide: Shattering Crescendo  
-★★★★★
+**Chorus Divide: Shattering Crescendo  
+**★★★★★
 
  | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will also be knocked further back.
 
@@ -222,6 +222,66 @@ Dodgeable:
 -   **Quaking Presence** - The rumbling presence of Titus will break nearby campfires and cause debris to fall into the prison, dealing damage to the player.
 -   **Thorn Guard** - Titus is immune to Providence's Thorns.
 -   **Unharvestable** - Healing from Bloodless Gems are less effective.
+
+## Rewards
+
+Titus drops a variety of unique items that cannot be found elsewhere.
+
+### 
+
+Exhaustive Loot Table
+
+**Keep in mind that this list may be incomplete.**
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Titus's_Raiment.md">Titus's Raiment</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md">Titus' Armor Piece</a>, <a href="Wrath_Gem.md">Wrath Gem</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Storm.md">Storm</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Unique Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a>, <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a>.</li>
+    <li><b>Legendary Weapons</b>: N/A</li>
+    <li><b>Alloyed Weapons</b>: N/A</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: N/A</li>
+    <li><b>Medium Weapons</b>: N/A</li>
+    <li><b>Heavy Weapons</b>: N/A</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: N/A</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a>.</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+  <ol>
+    <li><b>Mythical Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
+    <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a>.</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Imperator's_Fury.md">Imperator's Fury</a>.</li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a>.</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: N/A</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: N/A</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
@@ -269,6 +329,8 @@ Dodgeable:
 
 **Unlockable Dialogue:**
 
+This dialogue is unlocked if the player does not have the [Legion Intelligence](Legion_Intelligence.md).
+
 <table>
 <tbody>
 <tr>
@@ -289,30 +351,57 @@ Dodgeable:
 </tbody>
 </table>
 
-**Initiating Fight:**
+**Fighting Titus:**
+
+**Initiation:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="8">...They'd delay it <i>again</i>?</td>
+  <td>...They'd delay it <i>again</i>?</td>
 </tr>
 <tr>
-  <td colspan="8">I lay down my life for them and <b><i>this</i> </b>is how I'm repaid?</td>
+  <td>I lay down my life for them and <b><i>this</i> </b>is how I'm repaid?</td>
 </tr>
 <tr>
-  <td colspan="4">To <i>hell</i> with these weakminded schemes. I'll carve out my glory <i>my way</i>.</td>
+  <td>To <i>hell</i> with these weakminded schemes. I'll carve out my glory <i>my way</i>.</td>
 </tr>
 <tr>
-  <td colspan="4">It's as I've said from the start...</td>
+  <td>It's as I've said from the start...</td>
 </tr>
 <tr>
-  <td colspan="4"><b>From shore to shore, void to void...</b></td>
+  <td><b>From shore to shore, void to void...</b></td>
 </tr>
 <tr>
-  <td colspan="4"><b><i>THE WEAK MUST FALL FOR THE STRONG TO PROSPER!</i></b></td>
+  <td><b><i>THE WEAK MUST FALL FOR THE STRONG TO PROSPER!</i></b></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Second Phase:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>You thought <i>that</i> was the end?</td>
+</tr>
+<tr>
+  <td><i>That was mercy.</i></td>
+</tr>
+<tr>
+  <td>And I've had <i>enough with mercy</i>. <b><i>Enough</i> </b>with restraint.</td>
+</tr>
+<tr>
+  <td><b>LET ME SHOW YOU HOW A WARRIOR EARNS THEIR NAME.</b></td>
 </tr>
 <tr>
   <td>End</td>
@@ -321,6 +410,8 @@ Dodgeable:
 </table>
 
 **Ending:**
+
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -367,6 +458,36 @@ Dodgeable:
 </tr>
 <tr>
   <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue appears when the player meets the requirements for [Oath: Blightsurger](Oath%253A_Blightsurger.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
+</tr>
+<tr>
+  <td>I didn't come here for your respect.</td>
+</tr>
+<tr>
+  <td>Good. Your valour is noted. Then take what you've earned. My respect isn't a prize - surviving me is. Though... If Brutus is alive... tell him I sent you. Tell him this: A withering storm gathers. <b>Lightning must strike the eye of the tempest.</b></td>
+</tr>
+<tr>
+  <td>What?</td>
+</tr>
+<tr>
+  <td>Just deliver the words exactly as I gave them. Brutus will understand. <i>*He snickers.*</i> ...Assuming he doesn't crush your ribs before you finish the sentence.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 155082
+revid: 155164
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Oaths, The Hundred Legions]
@@ -12,13 +12,13 @@ notices:
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | 80 Strength, 40 Galebreathe or Thundercall |
+| oath_req | High Ally rep with The Hundred Legions, 80 Strength, 40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
 |---|---|
 | type | Fists Oath Weapon |
-| requirements | Oath |
+| requirements | Oath: Blightsurger |
 | damage | 32 |
 | range | 6 |
 | swing speed | 0.98x |
@@ -117,3 +117,4 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 -   Sovereign Bangle has the full effectiveness of the [Darkened Bastion](Darkened_Bastion.md) outfit, allowing it to deal 105% of its damage as Wither.
 -   This Oath was accidentally released in Battle Royale, allowing players to play a very barebones version of the Oath.
 -   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
+-   This is the third Oath to not have an Oath visual, as Blightsurger only gains an Oath cosmetic while in Sovereign State. The other Oaths being [Arcwarder](Oath%253A_Arcwarder.md) and [Oathless](Oath%253A_Oathless.md).

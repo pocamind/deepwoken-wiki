@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 155048
+revid: 155163
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -64,7 +64,7 @@ There are certain Talents that you receive automatically upon meeting their requ
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
 
-_When it comes to mutually exclusive Talents, you can have either:_
+_When it comes to mutually exclusive Talents, you can have either (unexhaustive list):_
 
 -   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
 -   _Risky Moves_ **or** _Safety Dance/Observation;_
@@ -97,7 +97,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Draw.md). See [Mantras](Mantras.md).
 
 -   Mystery
-    -   Grants a random Mantra. See [Whisper Rolls](Whisper_Draw.md) and [Mantras](Mantras.md).
+    -   Grants a random Mantra, Roll 2, or Fold depending on the card type.
+        -   The random Mantra card will state the Mantra type and star value (e.g. "Random Thundercall Combat Mantra" with 2 stars on the card), though the outcome is still random within that range. These cards can only be chosen from [Whisper Rolls](Whisper_Draw.md) and are guaranteed in each one.
+        -   Roll 2 grants 2 random Talents, these Talents cannot be Rare Talents unless they have been [Frozen](Aces.md). These cards and can only be chosen from [Whisper Rolls](Whisper_Draw.md) and are guaranteed in each one.
+        -   Fold removes your current hand of cards; you'll obtain an additional, rerolled, Talent hand the next time you Power up instead. This should only be taken if you don't want any of the Talents in your current hand. These cards can only be chosen from Talent hands and are somewhat uncommon, only having a chance to show up.
 
 -   Trait
     -   Improves an ability or aspect of your character. See [Traits](Traits.md).
@@ -368,11 +371,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Crouching is now as fast as walking.
     -   Crouching already increases your stealth, but Lowstride amplifies this.
     -   Prerequisite: 20 Agility
+        -   The [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md) Outfits have this Talent.
 
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
-    -   Merged with the old Low Blow Talent.
     -   Prerequisite: 60 Agility, Deep Wound
+    -   Merged with the old Low Blow Talent.
 
 ### Athlete
 
@@ -3481,39 +3485,15 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
-    -   The arms equipment "[Enforcer Plate](Enforcer_Plate.md)" has this Talent.
     -   Prerequisites: 35 Fortitude, 30 Strength
-
--   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
-    -   Makes everything darker and creates fog at long distances
-    -   While the Blindseer Oath grants full vision even with a blindfold, the Talent still works.
-    -   The Talent grants immunity to the Flame Blind mantra.
-    -   The face equipment "[Blindfold](Blindfold.md)" grants access to this Talent.
-
--   Coldseep Reactor \[Common Talent, [Equipment](Equipment.md) Exclusive\] - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
-    -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
-    -   Obtained from [Grand Fisher Helm](Grand_Fisher_Helm.md)
-    -   Requirements for equipment: [Power](Power.md) 13
-
--   Diver's Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
-    -   10 second cooldown.
-    -   Allows you to parry most unparryable mob attacks at the cost of reducing your mobility.
-    -   Obtained from [Grand Fisher Plate](Grand_Fisher_Plate.md)
+        -   The arms equipment "[Enforcer Plate](Enforcer_Plate.md)" has this Talent.
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisites: [Power](Power.md) 16, Obtain resonance
 
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
     -   Prerequisite: [Power](Power.md) 5
-
--   Grotesque Resilience \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Reduces all damage from "Damage Over Time" effects.
-    -   Reduces Burn damage by 50%
-        -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
-    -   Reduces Bleed damage by 25%
-    -   Does not work on all Damage over Time effects.
-        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), Rush Hour from Bloodrend
-    -   Obtained from: [Parasol Planter](Parasol_Planter.md)
-    -   Requirements for Equipment: [Power](Power.md) 10
+        -   The head equipment "[Chef's Toque](<Chef's_Toque.md>)" has this Talent.
 
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower.
     -   Prerequisite: 15 Strength
@@ -3524,6 +3504,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: [Power](Power.md) 3
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
+    -   Stacks with the [Boon](Boons_and_Flaws.md#boons) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
     -   Prerequisite: 5 Fortitude
 
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
@@ -3544,22 +3525,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Works well with [Silentheart](Oath%253A_Silentheart.md).
     -   Prerequisite: [Power](Power.md) 10
     -   Mutual Exclusive: Everchanging Aegis
-
--   Star Duster \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take 30% less damage from airborne enemies.
-    -   Obtained from [Star Duster](Star_Duster.md)
-    -   Requirements for Equipment: [Power](Power.md) 10
-
--   Surestep \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
-    -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
-    -   Obtained from [Delver Boots](Delver_Boots.md)
-
--   Temple Guard \[Common Talent, [Equipment](Equipment.md) Exclusive\] - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
-    -   Obtained from [Monastery Champion Robes](Monastery_Champion_Robes.md)
-    -   Requirements for Equipment: [Power](Power.md) 13
-
--   Wormwarder \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
-    -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
-    -   Obtained from [Wormwarder Lantern](Wormwarder_Lantern.md)
 
 ## Other
 
@@ -3636,15 +3601,19 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
--   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed.
-    -   Also available as a common Talent.
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
+-   Blinded: [Blindfold](Blindfold.md) & Variants - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
+    -   Makes everything darker and creates fog at long distances
+    -   Even though the [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision even with a Blindfold, the Talent still works.
+    -   The Talent grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 -   Brute Strength: [Imperator's Fury](<Imperator's_Fury.md>) - Your vent is replaced with a ground slam attack that knocks back enemies.
+    -   Deals 45 Physical damage.
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+    -   Does **not** work on [Imperium Kata](Imperium_Kata.md).
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) basic attacks have 25% more PEN. This does **NOT** apply to criticals.
     -   This bypasses the PEN cap.
@@ -3702,10 +3671,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
         -   Handing in pure ore to a [Blacksmith](Blacksmith.md),
         -   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
--   Lowstride: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth and allows the player to unsheathe silently.
-    -   Also available as a common Talent.
 -   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
-    -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Origins.md#deepbound) or [Ignition Delver](Origins.md#ignition-delver).
+    -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Deepbound.md) or [Ignition Delver](Ignition_Delver.md).
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
     -   Grants a random buff or affliction whenever you spit.
     -   List of buffs being:
@@ -3717,7 +3684,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   A percentage of the damage you've taken recently will be turned into healing.
         -   Vent cooldown reset, allowing you to Vent again.
     -   List of afflictions being:
-        -   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s.
+        -   Grants a random spit cooldown. This can be anywhere between 5 and 20 seconds.
         -   Suffocation applied to self for a few seconds.
         -   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left), [Table Flip](Attunement-less.md#table-flip), and [Skyshatter Kick](Attunement-less.md#skyshatter-kick) now all guard break at level 5.
@@ -3743,11 +3710,12 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
 -   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
-    -   Storm strikes now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
+    -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.
+    -   Grants a 20% damage bonus to your Tempest Wind [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.

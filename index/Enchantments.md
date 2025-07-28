@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 155058
+revid: 155169
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -228,9 +228,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Applies <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Crit or Flourish.<br>
-  Solar Mark lasts 8s, and reduces tempo gain/ether regeneration.<br>
-  Venting steals a portion of marked enemies' tempo.</p></div></td>
+  <td><div><p>Applies <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Critical or Flourish.<br>
+  Solar Mark lasts 8 seconds, and reduces Tempo gain/Ether regeneration.<br>
+  If you hit a marked enemy with a <a href="Combat_Mechanics.md">Vent</a>, steal their Tempo to refund your Vent's Tempo cost, removing your Solar Mark. This effect also procs on <a href="Imperator's_Fury.md">Imperator's Fury</a>'s Vent.</p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
 </tr>
 <tr>
@@ -292,17 +292,18 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
-  <td><div><p>On proc, deal 85% of the weapon damage in an AoE. Does not hit the victim or allies.<br>
+  <td><div><p>When landing weapon attacks, deal 85% of your weapon damage in an AoE. This does not hit the initial victim.<br>
   The AoE has a radius of ~18.25 studs.<br>
   Only one AoE can proc at a time, two enemies can't be hit at once to proc two AoEs.<br>
-  M1s to allies deals 50% damage.<br>
-  <i>Note: This only means the damage is distributed in an area.</i></p></div></td>
+  If you hit two people with the same attack, one person will get hit with both Wild and your attack, dealing much more damage.<br>
+  Wild's damage is typeless.<br>
+  Allies only take 50% of your weapon's damage from the Wild procs instead of the full 85%.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Windswept<div></div></font></center></td>
-  <td><div><p>After landing enough stacks, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this winded effect scales on your weapon stat investment.</p></div></td>
+  <td><div><p>After landing enough stacks, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment.</p></div></td>
   <td><div>Weapon is covered in green swirling effects.</div></td>
 </tr>
 </tbody>
