@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 152657
+revid: 155061
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, Oaths, NPCs, NPCs located in the Etrean Luminant]
@@ -35,8 +35,7 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 -   _Suffocating Impact_ - If Friid flourishes an enemy into a wall they are 'Suffocated' and winded for a short duration.
 -   _Stifled Jump_ - Enemies who jump while 'Suffocated' by Friid are dazed.
 -   _Air Pressure_ - If Friid dodges an attack or hits an enemy's block, her next dash is transformed into a Gale Dash.
--   _Silencer's Edge_ - (got merged with silencer's blade)
--   _Silencer's Blade_ - If Friid hits an enemy with a basic attack while the enemy is 'Suffocated' the duration of the Suffocation is extended and grants a speed boost.
+-   _Silencer's Blade_ - If Friid hits an enemy with a basic attack while the enemy is 'Suffocated', the duration of the Suffocation is extended. Friid will also get a speed boost.
 -   _A World Without Song_ - If Friid Lands a wind mantra it will apply 'Suffocate'.
 
 ## Finisher

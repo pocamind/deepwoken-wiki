@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 146167
+revid: 155069
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -112,7 +112,7 @@ Vesperian has a few unique Oath cosmetic variations.
 -   Vesperians may be somewhat based off Bombardier Beetles. Their name however is based off of the Vespa (Hornets), the largest eusocial vespidae (Wasps).
 -   Vesperians were inspired by the game Hollow Knight.
 -   The old Blindseer mask may have been a reference to the Sheikah from the Legend of Zelda series.
--   There are 7 mask shapes and 22 ink variations, allowing for 154 unique mask combinations!
+-   There are 7 mask shapes and 23 ink variations, allowing for 161 unique mask combinations!
 -   The aspect variants for Vesperian are based on various armour pieces typically worn by knights. A sabaton is a shoe, a besague is a type of rondel that protects the shoulder, and a plackart is a type of torso armour/chestplate.
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
     -   Hallowtide Vesperians have the same purple eye color as Hallowtide Ganymede.

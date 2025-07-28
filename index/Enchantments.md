@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 154589
+revid: 155058
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -26,6 +26,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
         -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
         -   [Saramaed Hollow](Saramaed_Hollow.md)
         -   [War Mode](War_Mode.md)
+        -   [The Gaunt Man](The_Gaunt_Man.md)
 
 You cannot 'stack' enchantments. If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet.
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Intelligence
-revid: 154775
+revid: 155079
 source: https://deepwoken.fandom.com/wiki/Legion_Intelligence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item]

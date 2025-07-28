@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 154598
+revid: 155117
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Hundred Legions
 
 ## Description
 
-Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a Legion Captain with high positive reputation with the Hundred Legions in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). While sharing the same stats as [Way of Navae](Way_of_Navae.md) and [Fang and Coil](Fang_and_Coil.md), they differ in M1 animations, stances, and critical attacks.
+Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a Legion Captain with high positive reputation with the Hundred Legions in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). While sharing the same stats as [Way of Navae](Way_of_Navae.md), [Imperium Kata](Imperium_Kata.md), and [Fang and Coil](Fang_and_Coil.md), they differ in M1 animations, stances, and critical attacks.
 
 While Legion Kata has the same damage as **Way of Navae** and **Fang and Coil**, the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
 
@@ -51,8 +51,7 @@ Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw]
 ## Trivia
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) uses this fist style in his boss fight.
--   If you have [Way of Navae](Way_of_Navae.md) and/or [Fang and Coil](Fang_and_Coil.md) and Legion Kata you can switch between them quickly by pressing Y.
+-   If you have another 'Cestus Style' ([Way of Navae](Way_of_Navae.md), [Imperium Kata](Imperium_Kata.md), or [Fang and Coil](Fang_and_Coil.md)) and Legion Kata you can switch between them quickly by pressing Y. This has a 7 second cooldown.
 -   The Legion Kata critical attack is a grab, yet it doesn't bypass block. Guardbreaking someone will only daze them, and you won't actually grab them.
--   Weapons you can equip while using Legion Kata are the fists (default), [Iron Cestus](Iron_Cestus.md), [Legion Cestus](Legion_Cestus.md), [Flamekeeper Cestus](Flamekeeper_Cestus.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), [Coral Cestus](Coral_Cestus.md), [Wraithclaw](Wraithclaw.md) and [Light's Final Toll](<Light's_Final_Toll.md>). Same goes for [Way Of Navae.](Way_of_Navae.md)
 -   It takes roughly two authority grips at the Starswept Valley to obtain the recommendation, assuming you have not previously lost rep with the Legion and that you are not a Khan.
 -   With the job update you can get the required reputation for Legion Kata much faster.

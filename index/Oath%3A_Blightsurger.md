@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 155043
+revid: 155082
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Oaths, The Hundred Legions]
@@ -42,7 +42,7 @@ Requires a slightly higher than Ally reputation with [The Hundred Legions](The_H
 
 ## Progression
 
-To progress Blightsurger, the player will need to keep talking to Brutus.
+To progress Blightsurger, the player will need to continue talking to [Brutus](Brutus.md).
 
 ## Abilities
 
@@ -58,31 +58,33 @@ To progress Blightsurger, the player will need to keep talking to Brutus.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
         -   This keybind can be changed in settings.
     -   While in Sovereign State, your weapon will be replaced with the _Sovereign Bangle_, this is a Fist weapon with 32 base damage, no investment scaling, 5% PEN, 6 range, 8 weight, and a unique critical.
-        -   The critical is a leaping slam attack, dealing 25 Oath damage, applying knockdown and Blightshock.
+        -   The critical is a leaping slam attack, dealing 25 Blunt damage, applying knockdown and Blightshock.
     -   Skycrash can be used twice in quick succession while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
     -   The Blight Meter is similar to [Jetstriker's](Oath%253A_Jetstriker.md) Momentum gauge.
+    -   Has a 10 second cooldown.
 
   
 
 -   **Sovereign Drive - Mantra**
-    -   Lunge forward and strike with your fist.
-    -   Deals 12 Oath damage.
+    -   Dash forward in a blink, knocking down enemies in your path.
+    -   Deals 12 Blunt damage.
     -   Applies Daze and Blightshock on hit.
+    -   Knockdowns on hit.
 
   
 
 -   **Skycrash - Mantra**
-    -   Leap forward and stomp with devastating force.
-    -   Deals 10 Oath damage, the followup strike deals 17.5 Oath damage.
-    -   Ragdolls on hit.
+    -   Leap towards your enemies and stomp knocking up enemies caught.
+    -   Deals 10 Blunt damage, the followup strike deals 17.5 Oath damage.
+    -   Ragdolls on hit and flings opponents upwards.
     -   Can be used twice in quick succession if the user is in the Sovereign State.
 
   
 
 -   **Warp Kick - Mantra**
-    -   Reel back and perform a crushing kick.
-    -   Each hit deals 20 Oath damage.
+    -   Perform a kick, then warp to your enemies for a second followup kick.
+    -   Each hit deals 20 Blunt damage (hits twice).
     -   Teleports to opponents within range.
     -   Applies Wither and Blightshock on hit.
 
@@ -92,6 +94,7 @@ To progress Blightsurger, the player will need to keep talking to Brutus.
     -   Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
     -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
     -   Your Sovereign Bangle and Blightsurge Mantras gain +?% more PEN.
+    -   This Talent is bugged and currently does not work.
 
 -   **Blighted Touch - Talent**
     -   Landing M1's during Sovereign State now applies Blightshock.

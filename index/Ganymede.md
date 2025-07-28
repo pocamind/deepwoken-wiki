@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 154447
+revid: 155068
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -111,7 +111,7 @@ Ganymede has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindr
 -   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breathe and eat. It may also be possible that their mouth is simply the exact same darkness as the rest of their face.
 -   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration, especially due to Vesperians also being inspired by Hollow Knight series.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's aspect name was changed to Hatskipper.
--   Ganymede is part of the three aspects with lowest (2.2%) roll chance, with the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
+-   Ganymede is part of the three aspects with lowest (1.8%) roll chance, with the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
 -   Ganymedes make up the main population of [The Hive](The_Hive.md) along with [Vesperians](Vesperian.md) and [Chrysids](Chrysid.md).
     -   The mesh and texture for the old Ganymede hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).
 -   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing sanity multiplier.

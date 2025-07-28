@@ -1,6 +1,6 @@
 ---
 title: Private Kernel
-revid: 154689
+revid: 155087
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
@@ -10,9 +10,9 @@ notices:
 
 # Private Kernel
 
-| Struggling Guard | |
+| Private Kernel | |
 |---|---|
-| name | Struggling Guard |
+| name | Private Kernel |
 | aspect | ? |
 | location | Fort Merit |
 

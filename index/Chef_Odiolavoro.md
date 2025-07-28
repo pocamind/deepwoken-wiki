@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 138062
+revid: 155074
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -108,6 +108,121 @@ File:UllaFriedEgg.png
 | 
 
  | Kyrsdog | 1x Bread + 1x Frozen Membrane + 1x Ongo | ✗ |
+
+## Dialogue
+
+**First Encounter:**
+
+**Quest Start:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Ah! Hello, hello! The name is Odiolavoro and I seek to be the most brilliant chef this <a href="Glossary.md#the-luminants">Luminant</a> has ever seen! Only... Ah...</td>
+</tr>
+<tr>
+  <td colspan="2">Only...?</td>
+</tr>
+<tr>
+  <td colspan="2">I am having difficulty keeping up with the - ah... - <i>competition</i>... You know of the Leshi brothers yes? They never seem to run out of stock...</td>
+</tr>
+<tr>
+  <td colspan="2">Is there some way I can help?</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*He tugs at his moustache ends and looks you up and down.*</i> Hmm... Maybe maybe... Ah! Yes! You can be my sous-chef.</td>
+</tr>
+<tr>
+  <td colspan="2">Your sous-chef?</td>
+</tr>
+<tr>
+  <td colspan="2">Yes, yes! If you help me prepare some - ah.. - meals... I will pay you handsomely for your efforts. If they are up to my standards, of course...</td>
+</tr>
+<tr>
+  <td>Sounds good to me, when can I start?</td>
+  <td>Why work for you when I can just set up my own shop?</td>
+</tr>
+<tr>
+  <td>Now! I have received an order for one - ah... <b>Mushroom Bisque</b>... Think you can make that for me?</td>
+  <td>Ah... Well. The Leshi brothers are quite formidable. There are two of them. And there will be one of you. Yes? Very bad for business.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Ah! Hello! Did you get me the <b>[FOOD]</b>?</td>
+</tr>
+<tr>
+  <td colspan="4">Yes Chef.</td>
+</tr>
+<tr>
+  <td colspan="2">Player has the requested Food</td>
+  <td colspan="2">Player does not have the requested Food</td>
+</tr>
+<tr>
+  <td>Ah! Primo! Let me just get a taste... Not cooked long enough. I want to smell the ash. Still, you have done as I have asked! Payment!</td>
+  <td>Ah! Primo! Let me just get a taste... Ah. Needs less salt. Much less salt. Why so much salt? Still, you have done as I have asked! Payment!</td>
+  <td colspan="2">Ah! Non! This will not do. You have not brought me what I asked for.</td>
+</tr>
+<tr>
+  <td colspan="2">End, Player receives XP and Chest</td>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+**New Order:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah! My excellent apprentice! Hello! Another order came in. Think you can make <b>[FOOD]</b>?</td>
+</tr>
+<tr>
+  <td>Yeah, I reckon I can do that.</td>
+</tr>
+<tr>
+  <td>Ah! Excellent! I knew I could count on you... Do make sure the <b>[FOOD]</b> is to my liking though, yes?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**No New Orders:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah! My friend.. Business is slow! No new orders yet. I will have need of you soon, I am sure.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

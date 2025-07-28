@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 154965
+revid: 155108
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -29,7 +29,7 @@ The Glossary can be accessed by opening your Encyclopedia with the button on the
 -   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
 -   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
 
-Dialogue: | Books: | Glossary Entries: [The Heavens](#the-heavens)
+Dialogue: | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Heavens](#the-heavens)
 
 ### The Drowned Gods
 
@@ -76,7 +76,7 @@ Dialogue: [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
 -   In the year 904 CE, the Celtorian capital, the Great [City of Celtor](#the-drowned-city-of-celtor), was devastated and sunk by a colossal sea monster known only as the 'Celtorian Horror'.
 -   Following the submergence of Celtor, much of the rest of the [Southern Luminant](#the-southern-luminant) was pulled under the waves and consumed by the [Voidsea](#the-voidsea).
 
-Dialogue: | Books: | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Southern Luminant](#the-southern-luminant)
+Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Southern Luminant](#the-southern-luminant)
 
 ## Factions
 
@@ -98,7 +98,7 @@ Dialogue: [Hector](Hector.md), [Journal of Warden Jericho](Journal_of_Warden_Jer
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md) | Books: | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ## Notable Figures
 
@@ -129,9 +129,9 @@ Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Flamecharm](#flamechar
 
 ### The Lady Confessor
 
--   The mysterious leader of the Lullaby Isles, where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
+-   The mysterious leader of the [Lullaby Isles](#the-lullaby-isles), where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
 
-Dialogue: [Liviu](Liviu.md) | Books: | Glossary Entries:
+Dialogue: [Liviu](Liviu.md) | Books: [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries:
 
 ## Magic
 
@@ -140,7 +140,7 @@ Dialogue: [Liviu](Liviu.md) | Books: | Glossary Entries:
 -   The ability to conjure flames and heat through the [Song](#the-song).
 -   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded to histories prior to [Pleeksty's](#amorus-pleeksty) discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
 
-Dialogue: [Amashi](Amashi,_Master_of_Flame.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+Dialogue: [Amashi](Amashi,_Master_of_Flame.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
 ### Lightkeep
 
@@ -161,12 +161,19 @@ Dialogue: [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep)
 
 Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: | Glossary Entries: [Power](#power), [The Song](#the-song)
 
+### Soul Murmur
+
+-   One's Soul Murmur is broadly speaking, the 'signature' or characteristics of one's Soul.
+-   With training, one can alter the expression of their Murmur. These expressions of the Soul are often referred to as 'Murmurs'.
+
+Dialogue: | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
+
 ### Oaths
 
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) | Books: | Glossary Entries:
+Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Vow](#vows)
 
 ### The Song
 
@@ -176,7 +183,17 @@ Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Journal of Warden Jeri
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kelsius](Kelsius.md), [Regek](Regek.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kelsius](Kelsius.md), [Regek](Regek.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+
+### Vows
+
+-   Within [Lumen](#lumen), and indeed everywhere beyond it, it is a self-evident fact that words, oaths, and promises spoken from the heart hold within them a supernatural force.
+-   On their own, Vows can be used to enforce deals and promises, as breaking a Vow is incredibly difficult.
+-   Advanced usage of Vows can yield incredible effects, sometimes extending even beyond the limitations of the [Song](#the-song).
+-   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
+-   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
+
+Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
 
 ### Radiant Tones
 
@@ -186,16 +203,6 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kelsius](Kelsius.md), [Regek
 
 Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
 
-### Vows
-
--   Within Lumen, and indeed everywhere beyond it, it is a self-evident fact that words, oaths, and promises spoken from the heart hold within them a supernatural force.
--   On their own, Vows can be used to enforce deals and promises, as breaking a Vow is incredibly difficult.
--   Advanced usage of Vows can yield incredible effects, sometimes extending even beyond the limitations of the Song.
--   Vows are poorly understood by the people of the Resurgence, but are still a fundamental part of their daily lives.
--   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an Oath is facilitated by such a Vow.
-
-Dialogue: | Books: | Glossary Entries:
-
 ## Objects of Interest
 
 ### The Moonseye
@@ -204,7 +211,7 @@ Dialogue: | Books: | Glossary Entries:
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the Suncross.
 
-Dialogue: [Lake](Lake.md) | Books: | Glossary Entries: [The Lullaby Isles](#the-moonseye)
+Dialogue: [Lake](Lake.md) | Books: [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-moonseye)
 
 ### The Suncross
 
@@ -220,14 +227,27 @@ Dialogue: | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Night
 -   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the [Song](#the-song) within [Lumen](#lumen).
 -   A time of great expansion, discovery, and conflict.
 
-Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [The Song](#the-song), [The Tides](#the-tides)
+Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
+
+### The Shallows
+
+-   The period of history following the [Canticlysm](#the-canticlysm) in which technology and knowledge rapidly dwindled, ushering in a dark period of history in which little time is recorded.
+-   Pushed to the very peaks of the world, mankind died in its droves to famine, conflict, and the horrors of the [Dephts](#the-depths) that emerged with the [Tides](#the-tides).
+
+Dialogue: | Books: [Tales of the Storm](Books.md#tales-of-the-storm) | Glossary Entries:
+
+### The Resurgence
+
+-   The current period of history, usually dated around the fifth century BCE with mankind's adaptation to the new state of the world.
+
+Dialogue: | Books: | Glossary Entries: [Vows](#vows)
 
 ### The Old World
 
 -   The times before the [Tides](#the-tides) arrived.
 -   The Canticlysm is often thought of as the defining era of the Old World.
 
-Dialogue: [Regek](Regek.md) | Books: | Glossary Entries: [The Luminants](#the-luminants)
+Dialogue: [Regek](Regek.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Luminants](#the-luminants)
 
 ## Phenomena
 
@@ -242,7 +262,7 @@ Dialogue: [Regek](Regek.md) | Books: | Glossary Entries: [The Luminants](#the-lu
 -   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#the-depths) below.
 
-Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Song](#the-song), [The Voidsea](#the-voidsea)
+Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Tales of the Storm](Books.md#tales-of-the-storm), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
 
 ### The Drowning
 
@@ -270,7 +290,21 @@ Dialogue: [Kelsius](Kelsius.md) | Books: | Glossary Entries: [The Luminants](#th
 -   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the [Third Layer](#the-vents-the-third-layer) without ever passing through the First and [Second Layers](#the-eternal-gale-the-second-layer). This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the [Drowning](#the-drowning).
 
-Dialogue: | Books: | Glossary Entries: [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
+Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby) | Glossary Entries: [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
+
+### Driftlands
+
+-   Islands that have a tendency to 'drift' in and out of the Voidsea are known as Driftlands.
+-   Due to the anomalous metaphysics of the Voidsea, Driftlands often appear to be unscathed by the effects of time, almost as if their time in the Void was a frozen moment.
+
+Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Tales of the Storm](Books.md#tales-of-the-storm) | Glossary Entries:
+
+### The Etrean Luminant
+
+-   The so-called 'sub-luminant' of the [Eastern Luminant](#the-eastern-luminant) that is home to the Kingdom of Etrea and the Isle of Vigils
+-   In times past, the Kingdom of Etrea held claim over the vast majority of the [Eastern Luminant](#the-eastern-luminant), so the designation of the Etrean Luminant is a somewhat modern invention.
+
+Dialogue: | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries: [The Eastern Luminant](#the-eastern-luminant)
 
 ### The Heavens
 
@@ -285,7 +319,7 @@ Dialogue: | Books: | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-ce
 -   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
 -   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the [Moonseye](#the-moonseye).
 
-Dialogue: | Books: | Glossary Entries: [The Central Luminant](#the-central-luminant), [The Moonlit Dialect](#the-moonlit-dialect)
+Dialogue: | Books: | Glossary Entries: [The Central Luminant](#the-central-luminant), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
 
 ### The Luminants
 
@@ -294,7 +328,7 @@ Dialogue: | Books: | Glossary Entries: [The Central Luminant](#the-central-lumin
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The Southern Luminant
 
@@ -325,7 +359,7 @@ Dialogue: | Books: | Glossary Entries: [Lumen](#lumen), [The Nightsea](#the-nigh
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 
-Dialogue: [Alastir](Alastir.md), [Neero](Neero.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Neero](Neero.md) | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Tales of the Storm](Books.md#tales-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
 
 ### The Western Luminant
 
@@ -340,7 +374,7 @@ Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials)
 -   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
 -   The City of Celtor was dragged down from the Surface to the Depths in an event known as the [Submergence of Celtor](#the-submergence-of-celtor) in 904 CE.
 
-Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: | Glossary Entries: [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
+Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
 
 ### The Eternal Gale, the Second Layer
 
@@ -354,7 +388,7 @@ Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [
 -   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
 
-Dialogue: [Dust](Dust.md) | Books: | Glossary Entries: [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant)
+Dialogue: [Dust](Dust.md), MerryWeather | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
 
 ### The Nightsea
 
@@ -362,21 +396,14 @@ Dialogue: [Dust](Dust.md) | Books: | Glossary Entries: [The Canticlysm](#the-can
 -   When night falls and the [Suncross](#the-suncross) retreats into the [Voidfog](#the-voidfog), the Nightsea becomes visible from the [Surface](#the-surface) bellow.
 -   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
 
-Dialogue: | Books: | Glossary Entries: [The Heavens](#the-heavens)
+Dialogue: | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [The Heavens](#the-heavens)
 
 ### The Vents, the Third Layer
 
 -   Said to be the inhospitable waste where the [Drowned God](#the-drowned-gods) [Korilfiend](#korilfiend-the-infernos-provenance) resides.
 -   Riddled with thermal [vents](#the-vents-the-third-layer) and geysers that exude extreme temperature. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
 
-Dialogue: | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance) [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
-
-### Driftlands
-
--   Islands that have a tendency to 'drift' in and out of the Voidsea are known as Driftlands.
--   Due to the anomalous metaphysics of the Voidsea, Driftlands often appear to be unscathed by the effects of time, almost as if their time in the Void was a frozen moment.
-
-Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: | Glossary Entries:
+Dialogue: | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance) [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
 
 ### The Echelon
 
@@ -384,12 +411,11 @@ Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: | Glossary Entries:
 
 Dialogue: [Liviu](Liviu.md) | Books: | Glossary Entries:
 
-### The Etrean Luminant
+### The Eastern Luminant
 
--   The so-called 'sub-luminant' of the Eastern Luminant that is home to the Kingdom of Etrea and the Isle of Vigils
--   In times past, the Kingdom of Etrea held claim over the vast majority of the Eastern Luminant, so the designation of the Etrean Luminant is a somewhat modern invention.
+-   Often, due to the large mountain range that runs across the middle, the side that contains the Kingdom of Etrea is known as the [Etrean Luminant](#the-etrean-luminant).
 
-Dialogue: | Books: | Glossary Entries:
+Dialogue: [Hector](Hector.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Tales of the Storm](Books.md#tales-of-the-storm) | Glossary Entries: [The Etrean Luminant](#the-etrean-luminant)
 
 ## Terminology
 
@@ -405,14 +431,14 @@ Dialogue: | Books: | Glossary Entries:
 -   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: [Diver Journal I](Books.md#diver-journal-i) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### Pathfinders
 
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
-Dialogue: [Alastir](Alastir.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Teacher](Teacher.md) | Books: | Glossary Entries:
+Dialogue: [Alastir](Alastir.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](Books.md#archivist-journal-megalodaunt), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries:
 
 ### Power
 

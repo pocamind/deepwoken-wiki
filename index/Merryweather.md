@@ -1,6 +1,6 @@
 ---
 title: Merryweather
-revid: 153263
+revid: 155098
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -24,7 +24,7 @@ Merryweather is located at [The Chariot's Spire](<The_Chariot's_Spire.md>) stand
 
 ## Dialogue
 
-**Below Hero Rep:**
+**Below Hero Reputation:**
 
 <table>
 <tbody>
@@ -32,7 +32,7 @@ Merryweather is located at [The Chariot's Spire](<The_Chariot's_Spire.md>) stand
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The researcher is exaggeratedly gesturing at her work, clutching the bridge of her nose.*</i> Come on, you blasted things... I don't know what you all want anymore! I've changed your temperature, your food, for Lumen's sake, I've tried a bit of kelp interior decoration! Do you want sandy silt or silty sand, or some secret third thing?? it's been near six hours now, you've had more than enough time!! Why aren't you doing what you're meant to be doing!?</td>
+  <td><i>*The researcher is exaggeratedly gesturing at her work, clutching the bridge of her nose.*</i> Come on, you blasted things... I don't know what you all want anymore! I've changed your temperature, your food, for <a href="Glossary.md#lumen">Lumen's</a> sake, I've tried a bit of kelp interior decoration! Do you want sandy silt or silty sand, or some secret third thing?? it's been near six hours now, you've had more than enough time!! Why aren't you doing what you're meant to be doing!?</td>
 </tr>
 <tr>
   <td>Are you okay...?</td>
@@ -46,7 +46,7 @@ Merryweather is located at [The Chariot's Spire](<The_Chariot's_Spire.md>) stand
 </tbody>
 </table>
 
-**Hero Rep:**
+**Hero Reputation:**
 
 <table>
 <tbody>

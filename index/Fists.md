@@ -1,9 +1,9 @@
 ---
 title: Fists
-revid: 155029
+revid: 155120
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Fists, Light Weapons]
+categories: [Weapons, Fists, Light Weapons]
 ---
 
 # Fists
@@ -15,19 +15,19 @@ categories: [Weapons, Pages with broken file links, Fists, Light Weapons]
 | damage | 12 (WN/LK/FC/IK) , 14 (JK) |
 | scaling | LHT: 7 (WN/LK/FC/IK) , LHT: 9 (JK) |
 | range | 6 (WN/LK/FC/IK)6.5 (JK) |
-| swing speed | 1.1x (WN/LK/FC) , 1.13x (IK) , 1.14x (JK) |
-| penetration | N/A (WN/LK/FC) , 20% (JK) |
+| swing speed | 1.3x (WN/LK/FC/IK) , 1.14x (JK) |
+| penetration | N/A (WN/LK/FC/IK) , 20% (JK) |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Fang and Coil)Step 1: Have 20 LHT and Friend Etris Reputation. , Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest. , Step 3: Speak to Vesque. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. , (Imperium Kata)Step 1: Obtain the Legion Intelligence. , Step 2: Defeat Titus. , Step 3: Turn in the Intelligence to Caitus. |
-| description | * "Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "Adopt the path of the serpent." - Fang and Coil, "The traditional martial arts style of the Justicars." - Jus Karita, put imperium kata description here - Imperium Kata, "Your bare fists. Worth a shot, right?" - Starting Weapon Description |
+| description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "Adopt the path of the serpent." - Fang and Coil, "The traditional martial arts style of the Justicars." - Jus Karita, Wield an advanced form of the Legion's martial arts. - Imperium Kata, "Your bare fists. Worth a shot, right?" - Starting Weapon Description |
 
 Fists are a unique type of [Light Weapon](Weapons.md) in _Deepwoken_.
 
-There are 5 different fist styles and 3 of them share the ability to be switched between at any time, even mid-combat, those being Fang & Coil, Legion Kata, and Way of Navae. **(add PEN, description and photo for imperium kata)**
+There are 5 different fist styles and 3 of them share the ability to be switched between at any time, even mid-combat, those being Fang & Coil, Legion Kata, and Way of Navae.
 
 ## Terminology
 
@@ -43,31 +43,21 @@ Switching to fist stance while having a weapon is purely visual and does not rem
 
 ### Way of Navae
 
-File:Way Of Navae.png
-
 _Main Page: [Way of Navae](Way_of_Navae.md)_
 
 ### Legion Kata
-
-File:Legion fist.png
 
 _Main Page: [Legion Kata](Legion_Kata.md)_
 
 ### Jus Karita
 
-File:Jus Karita cropped new.png
-
 _Main Page: [Jus Karita](Jus_Karita.md)_
 
 ### Fang and Coil
 
-File:Fang and Coil stats.png
-
 _Main Page: [Fang and Coil](Fang_and_Coil.md)_
 
 ### Imperium Kata
-
-**add photo here**
 
 _Main Page: [Imperium Kata](Imperium_Kata.md)_
 
@@ -77,7 +67,8 @@ _Main Page: [Imperium Kata](Imperium_Kata.md)_
     -   Kind of makes sense as you're hitting metal with your bare fists.
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling up Light Weapon Scaling anyway.
 -   Fist's critical attacks are very good as they are unique. Using your critical attack in some situations can catch the enemies off guard giving free damage.
+-   Imperium Kata is the only fist style that needs to be obtained manually each time, as you are unable to choose it in character creation.
 -   Previously, _Captain Etrea_ did nothing and it's description said it would let you wield a shield while using a fist style, but the Talent has been reworked.
 -   Ragoozer has an exclusive fist style for his spec. This fist style is very similar to that of an advanced fist form in Rogue Lineage.
 -   When trying to alloy your fists with a [Pluripotent Alloy](Pluripotent_Alloy.md), you get special text - "A little voice in your head tells you that Alloying yourself would probably be a bad idea. Your blood needs iron to deliver oxygen to your organs. You need organs to live."
--   When possessing all cestus styles, style swapping using Y becomes unintuitive. Way of Navae → Legion kata 🗘 Fang and coil.
+-   When possessing all cestus styles, style swapping using Y becomes unintuitive. Way of Navae → Legion Kata 🗘 Fang and Coil.

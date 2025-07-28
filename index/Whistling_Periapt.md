@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 155012
+revid: 155097
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Items]
@@ -26,7 +26,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Items]
 
 ## Description
 
-The Whistling Periapt, or commonly called Duke Relic, is a [Relic](Relics.md) Torso [Equipment](Equipment.md).
+The Whistling Periapt, or commonly referred to as Duke Relic, is a [Relic](Relics.md) Torso [Equipment](Equipment.md).
 
 It comes with the [Whistleguard](Talents.md#equipment-talents) Talent. Upon inflicting continuous damage onto an enemy without getting parried or dodged, a whirling ball of wind coats your character. When hit, the shield parries any attack for free and dissolves into the air after. Shields cannot stack and disappear upon using any mantra, critical attack or feinting. Whistleguard has a 10s cd.
 

@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 152916
+revid: 155106
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -30,7 +30,7 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Hmm.. Oh, another one? We must be popular today, There's an awful lot of you Pathfinders trudging by here. What do you need?</td>
+  <td colspan="12">Hmm.. Oh, another one? We must be popular today, There's an awful lot of you <a href="Glossary.md#pathfinders">Pathfinders</a> trudging by here. What do you need?</td>
 </tr>
 <tr>
   <td colspan="6">Who are you?</td>

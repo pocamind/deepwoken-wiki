@@ -1,9 +1,9 @@
 ---
 title: Pori
-revid: 114706
+revid: 155062
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea]
 ---
 
 # Pori
@@ -16,30 +16,44 @@ Pori is a young [Etrean](Etrean.md) NPC in the blacksmith shop in [Etris](Etris.
 
 ## Dialogue
 
-<table><caption></caption>
+**First Encounter:**
+
+<table>
 <tbody>
 <tr>
-  <th colspan="2">Begin Dialogue (Never Selected Dialogue 1)</th>
-  <th>Begin Dialogue (Selected Option 1 Previously)</th>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him. *</i> Please don't say anything to my teacher, he'll remove me from his apprenticeship if he catches me slacking off.</td>
-  <td><i>* The youth looks at you surprised, having not expected anyone to find him but recognizes you. *</i> Hey friend! Don't worry I'll get back to work soon.</td>
+  <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him.*</i> Please don't say anything to my teacher, he'll remove me from his apprenticeship if he catches me slacking off.</td>
 </tr>
 <tr>
   <td>Don't worry, I won't rat you out.</td>
   <td>Yeahhh... I'm gonna tell him.</td>
-  <td></td>
 </tr>
 <tr>
-  <td><i>* The boy smiles. *</i> Thanks friend! I'll give a small discount on the materials.</td>
-  <td><i>* Tears start to well in the young boys eyes. *</i> Please don't, this is my last chance.</td>
-  <td></td>
+  <td><i>*The boy smiles.*</i> Thanks friend! I'll give you a small discount on the materials.</td>
+  <td><i>*Tears start to well in the young boys eyes.*</i> Please don't, this is my last chance.</td>
 </tr>
 <tr>
-  <td>{End Dialogue, Cloth is 50% off at Etris permanently}</td>
-  <td>{End Dialogue, nothing changes, you can retake dialogue}</td>
-  <td>{End Dialogue}</td>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+This dialogue appears only if the player has chosen **"Don't worry, I won't rat you out."**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
