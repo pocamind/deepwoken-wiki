@@ -1,6 +1,6 @@
 ---
 title: "Titus' Armor Piece"
-revid: 154829
+revid: 155183
 source: https://deepwoken.fandom.com/wiki/Titus'_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
@@ -26,7 +26,10 @@ notices:
 
 ## Uses
 
--   Used to craft the "[Titus's Raiment](<Titus's_Raiment.md>)" Master Armor.
+-   Used as a crafting material for the following items:
+    -   [Titus's Raiment](<Titus's_Raiment.md>) Master Armor
+    -   [Reinforced War Plate](Reinforced_War_Plate.md)
+    -   [Specialist Plate](Specialist_Plate.md)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 154504
+revid: 155187
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
@@ -23,6 +23,11 @@ notices:
 ## Description
 
 **Enmity's Armor Piece** is a direct drop from [Heart of Enmity](Heart_of_Enmity.md). Only one can drop per kill, making this item incredibly rare and sought after.
+
+## Uses
+
+-   Used as a crafting material for the following items:
+    -   [Specialist Plate](Specialist_Plate.md)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 155023
+revid: 155190
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -36,7 +36,7 @@ The Edenbrand Hellcoil is a very large cannon held with both hands (though, it c
 
 ## Critical
 
-With a decent wind-up, fire an unparryable cannon shot towards your enemy, launching yourself back from the sheer firepower. This applies [White burn](Status_Effects.md#burn) on hit, similar to [Corrupt Shard Bow](Shard_Bow.md).
+With a decent wind-up, fire an unparryable cannon shot towards your enemy, launching yourself back from the sheer firepower. This applies [White burn](Status_Effects.md#burn) on hit, similar to [Corrupt Shard Bow](Shard_Bow.md). Has a cooldown of 14 seconds. (Needs Testing)
 
 ## Trivia
 

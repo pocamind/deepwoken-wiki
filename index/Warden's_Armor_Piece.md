@@ -1,11 +1,9 @@
 ---
 title: "Warden's Armor Piece"
-revid: 154828
+revid: 155182
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Drops, Ingredients]
 ---
 
 # Warden's Armor Piece
@@ -26,7 +24,11 @@ notices:
 
 ## Uses
 
--   Used to craft the "[Titus's Raiment](<Titus's_Raiment.md>)" Master Armor.
+-   Used as a crafting material for the following items:
+    -   [Titus's Raiment](<Titus's_Raiment.md>) Master Armor
+    -   [Specialist Helmet](Specialist_Helmet.md)
+    -   [Reinforced War Helmet](Reinforced_War_Helmet.md)
+    -   [Authority Voltspark Mask](Authority_Voltspark_Mask.md)
 
 ## Trivia
 

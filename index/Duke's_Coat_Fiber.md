@@ -1,6 +1,6 @@
 ---
 title: "Duke's Coat Fiber"
-revid: 155015
+revid: 155184
 source: https://deepwoken.fandom.com/wiki/Duke's_Coat_Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Items, Ingredients]
@@ -25,4 +25,5 @@ categories: [Drops, Items, Ingredients]
 
 ## Uses
 
--   Used for crafting the [Specialist Helmet](Specialist_Helmet.md)
+-   Used as a crafting material for the following items:
+    -   [Specialist Helmet](Specialist_Helmet.md)
