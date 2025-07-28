@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 150127
+revid: 155199
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -71,4 +71,4 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
 
 ## Trivia
 
--   Currently is bugged and only spawns one enforcer, no matter how many players enter (needs further testing).
+-   Deepbounds who are power 9 and under still get an enforcer when using this shrine, effectively giving them the 15 free points without the need to do a harder trial.

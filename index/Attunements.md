@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 153459
+revid: 155202
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -156,7 +156,6 @@ All of the icons above are undoubtedly official representations of their base at
 
 -   Attunement-less, as the name suggests, isn't an Attunement, rather a lack thereof.
 -   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you either unlock more of them from their respective [trainers](Attunement_Trainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping.
--   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement- _whichever one has +6 points._ You can undo your selection by selecting Random or None.
 -   Selecting a new starting Attunement, you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
 -   **Water will never become an Attunement available to the public due to specific lore reasons-** only extremely powerful beings have the ability to manipulate water, as stated by Arch\_Mage.
