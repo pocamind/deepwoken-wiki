@@ -1,6 +1,6 @@
 ---
 title: Private Kernel
-revid: 155361
+revid: 155515
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
@@ -51,7 +51,7 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md).
   <td>End</td>
 </tr>
 <tr>
-  <td><b>SIR</b>, only the <i>worst</i> of the <b><i>worst</i> </b>, SIR! All hostile elements sworn to fight against the Central Authority, SIR! Criminals, pirates, and enemy combatants, SIR! ...and that one <i>unnverving</i> Legion commander.. SIR!</td>
+  <td><b>SIR</b>, only the <i>worst</i> of the <b><i>worst</i> </b>, SIR! All hostile elements sworn to fight against the Central Authority, SIR! Criminals, pirates, and enemy combatants, SIR! ...and that one <i>unnerving</i> Legion commander.. SIR!</td>
 </tr>
 <tr>
   <td>Unnerving Legion commander?</td>

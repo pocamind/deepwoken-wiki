@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 151641
+revid: 155514
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,76 +40,32 @@ Picture of a Crafting Bench
 
 ### _[Crafting Station](Crafting_Station.md) Recipes_
 
--   **[Canteen](Canteen.md)** - _1 Beeswax, 1 Calabash_
--   **[Gliders](Gliders.md)** - _2 Sticks, 2 Cloth_
--   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_
--   **[Lumber Axe](Lumber_Axe.md)** - 2 Wood, 2 Iron
--   **[Pickaxe](Pickaxe.md)** - 2 Wood, 2 Iron
--   **[Fishing Rod](Fishing_Rod.md)** - 2 Stick, 1 Fiber
--   **[Repair Kit](Repair_Kit.md)** - 3 Iron, 2 wood
--   **[Iron Bomb](Iron_Bomb.md)** - 2 Iron, 1 Coal **\-** (can be obtained through [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) _2 Iron, 1 Coal_
--   **Flask of Strength** - _2 Hellfire Lotus_
--   **Flask of Fortitude -** _2 Empyrean Lotus_
--   **Flask of Agility** - _2 Zephyr Lotus_
--   **Flask of Intelligence** - _2 Brilliant Lotus_
--   **Flask of Willpower** - _2 Skyvalor Lotus_
--   **Flask of Charisma** - _2 Miasmic Lotus_
--   **[Pathfinder Lantern](Pathfinder_Lantern.md)** - _1 Dying Embers, 1 Iron, 1 Fiber_
--   **[Delver Boots](Delver_Boots.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _Leather boots, 2 Galewax, 2 Umbrite_
--   **[Wormwarder Lantern](Wormwarder_Lantern.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 Galewax, 4 Irithine, 4 Spark Gland_
+-   **[Canteen](Canteen.md)** - _1 Beeswax, 1 Calabash_.
+-   **[Gliders](Gliders.md)** - _2 Sticks, 2 Cloth_.
+-   **Sharkscale Glider** - _2 Sticks, 2 Megalodaunt Hide_.
+-   **[Lumber Axe](Lumber_Axe.md)** - 2 Wood, 2 Iron.
+-   **[Pickaxe](Pickaxe.md)** - 2 Wood, 2 Iron.
+-   **[Fishing Rod](Fishing_Rod.md)** - 2 Stick, 1 Fiber.
+-   **[Repair Kit](Repair_Kit.md)** - 3 Iron, 2 wood.
+-   **[Iron Bomb](Iron_Bomb.md)** - 2 Iron, 1 Coal **\-** (can be obtained through [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) _2 Iron, 1 Coal_.
+-   **Flask of Strength** - _2 Hellfire Lotus_.
+-   **Flask of Fortitude -** _2 Empyrean Lotus_.
+-   **Flask of Agility** - _2 Zephyr Lotus_.
+-   **Flask of Intelligence** - _2 Brilliant Lotus_.
+-   **Flask of Willpower** - _2 Skyvalor Lotus_.
+-   **Flask of Charisma** - _2 Miasmic Lotus_.
+-   **[Pathfinder Lantern](Pathfinder_Lantern.md)** - _1 Dying Embers, 1 Iron, 1 Fiber_.
+-   **[Delver Boots](Delver_Boots.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _Leather boots, 2 Galewax, 2 Umbrite_.
+-   **[Wormwarder Lantern](Wormwarder_Lantern.md)** (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 Galewax, 4 Irithine, 4 Spark Gland_.
 -   [**Vortex Echo**](Vortex_Echo.md) - _[Kyrsan Schematic](Kyrsan_Schematic.md), [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md)_
+-   [**Candle**](Candle.md) - 1 [Fiber](Fiber.md) 1 [Beeswax](Beeswax.md).
+-   **[Umbral Candle](Candle.md)** - 1 [Candle](Candle.md), 1 [Umbral Obsidian](Umbral_Obsidian.md).
 
 ## Food Recipes
 
-**Main Article - [Food](Food.md)** Recipes that satiate _**Hunger**_ and _**Thirst**_ levels.
+Recipes that satiate _**Hunger**_ and _**Thirst**_ levels. Some also grant a buff upon being consumed.
 
-Certain foods grant a Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
-
-### Known Boosts
-
--   _"You feel your wounds closing up..." =_ This buff significantly increases the user's health regeneration speed in 17.5%
--   _"You feel as if you could go longer without food..." =_ This buff significantly decreases the user's starvation speed. (10% less natural hunger drain)
--   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage. (5% mantra and enchant damage buff)
--   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage. (5% weapon damage buff)
--   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed. (currently broken as of 2/26/25)
--   _**"You feel quicker on your feet..."** =_ This buff increase the user's movement speed (currently broken as of 2/26/25)
-
-Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both can eat) - **\[N\]** - Neither
-
-### _Non-Campfire Recipes_
-
--   **\[G\] [Noodles](Food.md)** - _1 Egg, 2 Gathered Wheat_
--   **\[G\] [Redd Juice](Food.md)** - _3 Redd_
--   **\[V\] [Fruit Salad](Food.md)** - _3 Unique fruits. (example: 1 Pomar, 1 Plumfruit, 1 Redd; increases health regen by 17.5%)_
--   **\[C\] [Sushi](Food.md)** - _1 Fish Meat, 1 Seaweed Bundle_
--   **\[G\] [Grilled Cheese](Food.md)** _\- 1 Cheese, 1 Bread_
--   **\[C\] [Crab Pizza](Food.md)** - _1 Crustacean Meat, 1 Bread, 1 Cheese_
--   **\[C\] [Kyrsdog](Food.md)** - _1 Bread, 1 Frozen Membrane, 1 Ongo_
-
-### _Campfire Recipes_
-
--   **\[V\] [Mushroom Soup](Food.md)** - _2 different mushrooms, 1 from each kind._ (example: 1 Gobletto, 1 Browncap)
--   **\[N\] [Mushroom Bisque](Food.md)** - _Any Mushroom + Crustacean Meat_
--   **\[G\] [Bread](Food.md)** - _3 Gathered Wheat_
--   **\[C\] [Omelette](Food.md)** - _2 Eggs_
--   **\[C\] [Cooked Egg](Food.md)** - _1 Egg_
--   **\[N\] [Mushroom Omelette](Food.md)** - _2 Eggs 1 Mushroom (Any)_ (Increases weapon damage by 5%)
--   **\[C\] [Fish Omelette](Food.md)** - _1 Fish Meat, 2 Eggs_ (Buffs Mantra damage by 5%)
--   **\[V\] [Sticky Bun](Food.md)** - 1 _Sap, 3 Gathered Wheat_ (Makes your ether regen faster. (currently doesn't work) )
--   **\[C\] [Cooked Fish Meat](Food.md)** - _1 Fish Meat_
--   **\[G\] [Plumfruit Muffin](Food.md)** - _1 Plumfruit, 1 Gathered Wheat_
--   **\[V\] [Fruit Cake](Food.md)** - _2 Unique Fruits, 1 Gathered Wheat_
--   **\[V\] [Dried Seaweed](Food.md)** - _1 Seaweed Bundle_
--   **\[V\] [Candied Fruit](Food.md)** - _1 Pomar/Calabash_ or _2 of any other fruit, 1 Sap_ (Buff: Enchant)
--   **\[C\] [Urchin Stew](Food.md)** - _3 Urchin_
--   **\[C\] [Seafood Surprise](Food.md)** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
--   **\[C\] [Seafood Boil](Food.md)** - _1 Squid, 1 Fish Meat, 1 Crustacean Meat_ (Reduces hunger loss by 10%)
--   **\[C\] [Fish Stew](Food.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
--   **\[C\] [Calamari](Food.md)** - _1 Squid, 1 Gathered Wheat_
--   **\[C\] [Glazed Fish](Food.md) -** _1 Fish Meat, 1 Sap_ (Increases weapon damage by 5%)
--   **\[C\] [Sauteed Scallops](Food.md)** - _2 Scallops_
--   **\[G\] [Cake](Food.md)** - _1 Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased speed. (currently doesn't work))
--   **\[C\] [Crab Stuffed Browncaps](Food.md)** - _2 Crustacean Meat, 3 Browncaps, 1 Cheese; ; increases health regen by 17.5%)_
+For a full list of all Food recipes, see [Food](Food.md).
 
 ## Alchemy
 

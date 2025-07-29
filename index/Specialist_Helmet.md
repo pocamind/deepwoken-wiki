@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 155422
+revid: 155525
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -39,6 +39,8 @@ _Volt Draft_ allows your Inhale-enhanced M1s to strike your opponent with lightn
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Bonus: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall Mantras.
+
+Additionally, this turns your [Thundercall](Thundercall.md) Mantras green and your [Galebreathe](Galebreathe.md) Mantras yellow.
 
 ## Obtainment
 

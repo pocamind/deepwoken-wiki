@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 155303
+revid: 155509
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -237,7 +237,7 @@ Sold Items
 -   Stated by Par that The Meat Lord can "low diff any Drowned God." [\[1\]](#cite-note-1)
 -   Agamatsu asked Ragoozer on who would win between Big Hoss or The Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
 -   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
-    -   -   Before the November 3rd, 2022 update, The Meat Lord would've been spooked like any other ordinary static NPC.
+    -   Before the November 3rd, 2022 update, The Meat Lord would've been spooked like any other ordinary static NPC.
 
 ## References
 

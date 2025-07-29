@@ -1,6 +1,6 @@
 ---
 title: Thresher Talon
-revid: 154501
+revid: 155506
 source: https://deepwoken.fandom.com/wiki/Thresher_Talon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -26,5 +26,5 @@ The **Thresher Talon** is used to gain the "[Beast Burrow](Monster_Mantras.md#be
 ## Trivia
 
 -   The item is actually the model used for the claws of a King Thresher, being noticeably darker in color compared to the regular Thresher's brown talons. Ironically, King Threshers do not drop a Thresher Talon.
--   Despite not being related to a bird in anyway their 'Claws' are referred to as 'Talons' which are typically found on birds of prey.
+-   Despite not being related to a bird in any way, their 'Claws' are referred to as 'Talons' which are typically found on birds of prey.
 -   Can be used to summon [Primadon](Primadon,_Titan_of_the_East.md).

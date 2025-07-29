@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 155404
+revid: 155535
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -39,6 +39,8 @@ _Fatal Strike_ empowers your [Strength Mantra](Attunement-less.md) guardbreaks, 
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Bonus: [Lasting Trauma](Talents.md#set-talents) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+
+The [Fearful](Status_Effects.md#fearful) status effect lasts for 9 seconds after landing a Mantra with a [Wrath Gem](Wrath_Gem.md) equipped.
 
 ## Obtainment
 

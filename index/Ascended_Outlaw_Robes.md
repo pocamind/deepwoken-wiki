@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 155486
+revid: 155527
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -42,7 +42,7 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Bonus: [Offensive Recovery](Talents.md#set-talents) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 
--   This clears your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md) equipped, but ONLY if it hits your opponent's block, and ONLY if all of your Mantras have [Might Gems](Might_Gem.md) equipped.
+-   This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md) equipped, but ONLY if it hits your opponent's block, and ONLY if all of your Mantras have [Might Gems](Might_Gem.md) equipped.
 
 ## Obtainment
 
