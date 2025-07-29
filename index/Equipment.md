@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 155444
+revid: 155490
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -22,7 +22,7 @@ There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, a
 
 Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be to meet Talent requirements, and they do not grant the Talent's stat bonuses(e.g. you cannot use Mercenary's Boots' Endurance Runner to obtain Conditioned Runner, nor will this equipment grant any Passive Agility)). Only some Head, Legs, Arms and Relics Equipments have Talents. Talents granted by equipment do not stack with their regular variants. _Innate stats are displayed in grey__, and Talents are displayed in light blue._
 
-By wearing all equipment within a set, you may be eligible to obtain the equipment's set bonus, an additional Talent that is exclusive to that set. To make up for the set bonuses being exclusive and requiring you to wear equipment that otherwise might not be that good, the set bonus Talents are very powerful, but niche and specific. Not all equipment sets have a set bonus. _Set bonus Talents are displayed in turquoise._
+By wearing all equipment within a Set, you may be eligible to obtain the equipment's Set Talent; an additional Talent that is exclusive to that Set. To make up for the Set Talents being exclusive and requiring you to wear equipment that otherwise might not be that good, the Set Talents are very powerful, but niche and specific. Not all equipment sets have a Set Talent. _Set Talents are displayed in turquoise._
 
 All equipment (with few exceptions), when obtained, will roll for random stats. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
@@ -236,6 +236,38 @@ Found from:
 
 Variants:  
 Normal & Big
+
+ |
+| File:WesternOutlawHat.png | 
+
+[Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
+
+(**Set**)
+
+ | 
+
+_+2 Posture_
+
++1 Uncommon Pip
+
+_+Talent: Mass Effect_
+
+_+Set Talent: Offensive Recovery_
+
+**Requires Power 15**
+
+ | 
+
+Found From:
+
+-   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Ascended Outlaw  
+Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
+Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
+Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 
  |
 | File:VigilHood.png | 
@@ -1686,7 +1718,7 @@ _+1 Posture_
 
 _+Talent: Fatal Strike_
 
-_+Set Bonus: Lasting Trauma_
+_+Set Talent: Lasting Trauma_
 
 **Requires Power 10, Strength 25**
 
@@ -1898,7 +1930,7 @@ _+8 Health_
 
 _+Talent: Volt Draft_
 
-_+Set Bonus: Shock Trooper Specialist_
+_+Set Talent: Shock Trooper Specialist_
 
 **Requires Power 10, Galebreathe 30, Thundercall 30**
 
@@ -2362,9 +2394,7 @@ Variants:
 Ash, Pink, Rural, Sable & Tawny
 
  |
-| 
-
- | 
+|  | 
 
 [Adventurer Coat](Adventurer_Coat.md)
 
@@ -2429,6 +2459,38 @@ Set: Aristocrat
 Head: [Tophat](Tophat.md)  
 Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
+
+ |
+| File:WesternOutlawRobes.png | 
+
+Ascended Outlaw Robbes
+
+(**Set**)
+
+ | 
+
+_+3 Posture_
+
++2 Rare Pips
+
+_+Talent: Ether Pinpoint_
+
+_+Set Talent: Offensive Recovery_
+
+**Requires Power 15**
+
+ | 
+
+Found From:
+
+-   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Ascended Outlaw  
+Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
+Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
+Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 
  |
 | File:Pale Assassin Cloak.png | 
@@ -3087,7 +3149,7 @@ _+1 Posture_
 
 _+Talent: Berserker_
 
-_+Set Bonus: Enforcer's Pull_
+_+Set Talent: Enforcer's Pull_
 
 **Requires Power 8**
 
@@ -4256,7 +4318,7 @@ _+2 Posture_
 
 _+Talent Crippling Impact_
 
-_+Set Bonus: Lasting Trauma_
+_+Set Talent: Lasting Trauma_
 
 **Requires Power 10, Strength 25**
 
@@ -4547,7 +4609,7 @@ _+5 Health_
 
 _+Talent: Stormcall_
 
-_+Set Bonus: Shock Trooper Specialist_
+_+Set Talent: Shock Trooper Specialist_
 
 **Requires Power 10, Galebreathe 30, Thundercall 30**
 
@@ -5319,7 +5381,7 @@ N/A
 
 +2 Rare Pips
 
-_+Set Bonus: Enforcer's Pull_
+_+Set Talent: Enforcer's Pull_
 
 **Requires Power 4**
 

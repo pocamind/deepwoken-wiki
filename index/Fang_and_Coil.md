@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 155119
+revid: 155492
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Weap
 | type | Fist |
 | requirements | 20 LHT |
 | damage | 12 |
-| scaling | 7 |
+| scaling | LHT: 7 |
 | range | 6 |
 | swing speed | 1.13x |
 | stances | 1 Handed |

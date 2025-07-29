@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 155364
+revid: 155495
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 | type | Fist |
 | requirements | 0 LHT |
 | damage | 12 |
-| scaling | 7 |
+| scaling | LHT: 7 |
 | range | 6 |
 | swing speed | 1.13x |
 | stances | 1 Handed |
@@ -39,9 +39,11 @@ Obtaining the fighting style requires above Ally reputation with [The Hundred Le
 
 ## Critical
 
-The user performs two swift side kicks and is slowed for the duration critical. They will gain a slight speed boost afterwards, benefitting from talents such as [Speed Demon](Talents.md#vigil-swordsman). The critical has 3 Strength scaling, which is used instead of scaling from Light Weapons as well as using the currently equipped weapon's base damage.
+The user performs two swift side kicks and is slowed for the duration critical. Imperium kata slows them for ~60% total when you use the critical up until the endlag finishes, Then they will gain a slight speed boost afterwards, benefiting from talents such as [Speed Demon](Talents.md#vigil-swordsman). The critical has 3 Strength scaling, which is used instead of scaling from Light Weapons as well as using the currently equipped weapon's base damage.
 
-The first hit deals your weapon's base damage with 3 Strength scaling, multiplied by 1.5x with 6.8 posture damage. The second hit deals your weapon's base damage with 3 Strength scaling, but multiplied by 2x instead with 10.2 posture damage.
+imperium kata's critical gains 5 Thundercall Scaling if you have static withdraw active.
+
+The first hit deals your weapon's base damage with 3 Strength scaling, multiplied by 1.5x with 6.8 posture damage. The second hit deals your weapon's base damage with 3 Strength scaling, but multiplied by 2x instead with 10.2 posture damage for 17 posture damage total, This isn't affected by the weapon used or weight stars
 
 This critical has a cooldown of 5 seconds.
 

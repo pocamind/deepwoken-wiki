@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 155475
+revid: 155487
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -15,7 +15,7 @@ notices:
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | PWR 15 |
 | weight | 1 |
 | innate stats | +3% Lightning Armor, +3% Wind Armor, +1 Uncommon Pip, +1 Rare Pip |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots |

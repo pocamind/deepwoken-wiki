@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 155276
+revid: 155488
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1981,7 +1981,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain.
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), and Static Withdraw (with child Talents).
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
@@ -3636,6 +3636,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
+-   Ether Pinpoint: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
+    -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
 -   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
     -   You can also obtain this Talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
@@ -3672,6 +3674,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
         -   Handing in pure ore to a [Blacksmith](Blacksmith.md),
         -   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
+-   Mass Effect: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - For every [Might Gem](Might_Gem.md) you have equipped on your mantras, slightly increase each Might Gem's power.
 -   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
     -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Deepbound.md) or [Ignition Delver](Ignition_Delver.md).
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
@@ -3760,7 +3763,11 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Massively decreases the windup on Enforcer's Pull, especially after a flourish.
     -   Set: [Enforcer Plate](Enforcer_Plate.md), [Enforcer Boots](Enforcer_Boots.md)
 -   Lasting Trauma: [Reinforced War Set](Reinforced_War_Helmet.md) - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
-    -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Evanspear_War_Plate.md), [Reinforced War Boots](Evanspear_War_Boots.md)
+    -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
+-   Offensive Recovery: [Ascended Outlaw Set](Ascended_Outlaw_Hat.md) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
+    -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will cause your posture to clear.
+    -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md) while in Arc suit.
+    -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 -   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
     -   Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)
 

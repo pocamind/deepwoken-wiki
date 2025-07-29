@@ -1,11 +1,9 @@
 ---
 title: Ascended Outlaw Hat
-revid: 155476
+revid: 155485
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
 ---
 
 # Ascended Outlaw Hat
@@ -15,10 +13,10 @@ notices:
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | PWR 15 |
 | weight | 1 |
 | innate stats | +2 Posture, +1 Uncommon Pip |
-| innate talent | ? |
+| innate talent | Mass Effect |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots |
 | set talent | Offensive Recovery |
 | bankable | Yes |
@@ -32,9 +30,9 @@ Ascended Outlaw Set
 
 ## Description
 
-The Western Outlaw Hat is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a green Kasa hat that originated in the Western Luminant; they say this item is perfect for the heat and disguising one's identity. When worn, this grants +2 Posture, +1 Uncommon Pip, and the [?](Talents.md#equipment-talents) Talent.
+The Western Outlaw Hat is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a green Kasa hat that originated in the Western Luminant; they say this item is perfect for the heat and disguising one's identity. When worn, this grants +2 Posture, +1 Uncommon Pip, and the [Mass Effect](Talents.md#equipment-talents) Talent.
 
-The _?_ Talent
+The _Mass Effect_ Talent increases the strength of your [Might Gems](Might_Gem.md) for every Might Gem you have equipped on your Mantras.
 
 ## Set Bonus
 
@@ -48,7 +46,7 @@ Set Bonus: [Offensive Recovery](Talents.md#set-talents) - If all your mantras ha
 
 This item is obtained by crafting the [Western Outlaw Hat](Western_Outlaw_Hat.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + ? + ?.
+1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
 2.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + ? + ?.
 3.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + ? + ?.
 4.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + ? + ?.
