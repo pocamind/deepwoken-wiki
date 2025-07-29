@@ -1,11 +1,9 @@
 ---
 title: Private Kernel
-revid: 155087
+revid: 155361
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
 ---
 
 # Private Kernel
@@ -71,7 +69,7 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md).
   <td>Why did he not try to break out, private?</td>
 </tr>
 <tr>
-  <td><i>*He appears stumped for a moment.*</i> ...<b>SIR</b>, PRIVATE KERNEL does not know, <b>SIR</b>! The man easily brushed off anyone wh otried to pick a fight with him, SIR! We interrogated the other prisoners, and they all said something about him 'biding his time' for something, and 'waiting for a message', SIR! PRIVATE KERNEL thinks that is why the prisoner will not fight, <b>SIR</b>!</td>
+  <td><i>*He appears stumped for a moment.*</i> ...<b>SIR</b>, PRIVATE KERNEL does not know, <b>SIR</b>! The man easily brushed off anyone who tried to pick a fight with him, SIR! We interrogated the other prisoners, and they all said something about him 'biding his time' for something, and 'waiting for a message', SIR! PRIVATE KERNEL thinks that is why the prisoner will not fight, <b>SIR</b>!</td>
 </tr>
 <tr>
   <td>Very good, private. Carry on.</td>

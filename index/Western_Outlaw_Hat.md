@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Hat
-revid: 154813
+revid: 155466
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -30,3 +30,5 @@ Western Outlaw Set
 ## Description
 
 The Western Outlaw Hat is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Western Outlaw Set. The Western Outlaw Hat is a green Kasa hat that originated in the Western Luminant; they say this item is perfect for the heat and disguising one's identity. When worn, this grants +2 Posture and +1 Uncommon Pip.
+
+This item is used to craft the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

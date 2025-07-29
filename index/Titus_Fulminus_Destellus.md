@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155286
+revid: 155447
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the 49th Legion before being captured by [The Central Authority](The_Central_Authority.md).
+**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the 49th Legion and inventor of [Oath: Blightsurger](Oath%253A_Blightsurger.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.
 
 A Khan with great stature, he's around twice the height of the player. He has wrinkles on his face and greyed out dreads, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
@@ -229,14 +229,12 @@ Titus drops a variety of unique items that cannot be found elsewhere.
 
 In addition to his unique chest (see below for the table), an additional chest is rewarded for each participating player, dropping at their feet. This chest can include:
 
--   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Smith's Alloys](<Smith's_Alloy.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
+-   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Moonseye Tomes](Moonseye_Tome.md), [Smith's Alloys](<Smith's_Alloy.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
 -   [Items](Items.md): [Deep Gems](Deep_Gems.md), [Gale Stones](Gale_Stone.md)
 
 ### 
 
 Unique Loot Table
-
-**Keep in mind that this list may be incomplete.**
 
 <table>
 <tbody>
@@ -275,7 +273,7 @@ Unique Loot Table
     <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a>.</li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
   <ol>
-    <li><b>Mythical Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
+    <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
     <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a>.</li>
@@ -501,4 +499,4 @@ This dialogue appears when the player meets the requirements for [Oath: Blightsu
 
 -   Titus' middle and last names, "Fulminus Destellus" means "Starlight Lightning" in Latin, mirroring the origins of where he earned his name.
 -   Titus uses a unique variant [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
--   When combat tagged by him his real name is shown as Franky Strabes.
+-   When combat tagged by him his real name is shown as Franky Strabes. (This was a place-holder name, confirmed by Dexerius.)

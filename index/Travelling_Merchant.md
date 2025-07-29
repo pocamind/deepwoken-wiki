@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 152693
+revid: 155309
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -80,7 +80,7 @@ The Travelling Merchant's Ship
 -   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from The Travelling Merchant.[\[1\]](#cite-note-1)
 -   The Travelling Merchant always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
 -   Decoy Ships which bare striking resemblance to The Travelling Merchant's ship may spawn around the map. Approaching these ships results in a large explosion, spawning 6 Cloaked Assassins.
-    -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have The Travelling Merchant present.
+    -   Because this interaction can be frustrating, a solution is to simply look inside the ship through the port side. A decoy ship will not have The Travelling Merchant present.
     -   Some of them spawn several undocumented enemies affiliated with the Knives of Eylis, but this is a lot rarer.
         
         A merchant ship being raided by Assassins.

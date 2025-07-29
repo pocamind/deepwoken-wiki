@@ -1,18 +1,16 @@
 ---
 title: "Oath: Blightsurger"
-revid: 155164
+revid: 155455
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Oaths, The Hundred Legions]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Oaths, The Hundred Legions]
 ---
 
 # Oath: Blightsurger
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | High Ally rep with The Hundred Legions, 80 Strength, 40 Galebreathe or Thundercall |
+| oath_req | High Ally rep with The Hundred Legions, 40 Body (40 STR, FTD, or AGI), 40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
@@ -30,15 +28,26 @@ notices:
 | pass down | Yes |
 | description | Cestus used by members of the Hundred Legions. |
 
+“ _From shore to shore, void to void..._ **THE WEAK MUST FALL FOR THE STRONG TO PROSPER!** _”_
+
+― [Titus, Fulminus Destellus](Titus_Fulminus_Destellus.md)
+
 ## Description
 
 **[Oath](Oaths.md): Blightsurger** is one of the 17 obtainable Oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
+
+“ History only remembers the general, and never the soldier. \[...\] Together, we were an unstoppable force. ”
+
+― Titus, Fulminus Destellus
+
+  
+Blightsurger draws most of it's power from Sacred Lightning, a result of [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) combining. [Titus](Titus_Fulminus_Destellus.md), the inventor and trainer of the power, used it alongside with the 49th Legion -which he was the leader of- conquered most of the Western Luminant in the name of The Empire. He was then forced to surrender himself to [The Central Authority](The_Central_Authority.md) for the sake of strategy. It has since been ages since he has been surrendered, and Titus himself has recently began showing doubt in the cause he worked oh-so-hard for.
 
 ## Obtainment
 
 To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Afterwards, approach Titus and select his second dialogue option. Finally, leave the [Merit Detainment Core](Merit_Detainment_Core.md) and speak to [Brutus](Brutus.md) to obtain the Oath.
 
-Requires a slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md)
+The player must have at least 40 Body (40 Strength, Fortitude, or Agility), 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
 ## Progression
 

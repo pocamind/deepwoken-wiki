@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Helmet
-revid: 155235
+revid: 155418
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 155250
+revid: 155404
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]

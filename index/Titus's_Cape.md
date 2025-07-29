@@ -1,6 +1,6 @@
 ---
 title: "Titus's Cape"
-revid: 155052
+revid: 155443
 source: https://deepwoken.fandom.com/wiki/Titus's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Arms]

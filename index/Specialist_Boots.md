@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 154993
+revid: 155420
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]

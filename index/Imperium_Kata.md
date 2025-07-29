@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 155114
+revid: 155364
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -22,8 +22,8 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Step 1: Obtain the Legion Intelligence., Step 2: Defeat Titus., Step 3: Turn in the Intelligence to Caitus. |
-| description | "Your bare fists. Worth a shot, right?" |
+| obtainment | Above Ally reputation with The Hundred Legions, Speaking to Caitus and obtaining the Legion Intelligence, Showing the Intelligence to Titus and defeating him with proper kill credit |
+| description | Wield an advanced form of the Legion's martial arts. |
 
 “ Wield an advanced form of the Legion's martial arts. ”
 
@@ -31,13 +31,15 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 
 ## Description
 
-**Imperium Kata** is a martial arts-based fighting style obtained by helping [Caitus](Caitus.md) break [Titus](Titus_Fulminus_Destellus.md) out of containment at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). After defeating Titus, return to [Caitus](Caitus.md) to obtain the style. This requires high Legion Reputation.
+Imperium Kata is an advanced form of the [Legion's martial arts](Legion_Kata.md) obtained by talking to [Caitus](Caitus.md) and defeating [Titus](Titus_Fulminus_Destellus.md) and having high reputation with [The Hundred Legions](The_Hundred_Legions.md). Its attacks consist mainly of vertical swings and swift kicks.
 
-### Critical
+## Obtainment
 
-Its attacks consist of a chain of punches before a kick, and a side kick into a rear-leg side kick. You are slowed for the duration of this critical, but gain a speed boost simultaneously, allowing you to benefit from Talents such as [Speed Demon](Talents.md#vigil-swordsman).
+Obtaining the fighting style requires above Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) and speaking to [Caitus](Caitus.md) about delivering [a message](Legion_Intelligence.md) to [Titus](Titus_Fulminus_Destellus.md). After gaining the [Legion Intelligence](Legion_Intelligence.md), you will have to progress through the [Merit Detainment Core](Merit_Detainment_Core.md) to reach Titus and deliver the message, starting the fight. After Titus is defeated, return to Caitus and obtain Imperium Kata.
 
-This critical has 3 Strength scaling instead of scaling on your weapon investment, using your weapon's base damage as its base damage. If [Static Withdraw](Talents.md#thundercaller) is active, it gains 5 Thundercall scaling, allowing it to deal VERY high damage.
+## Critical
+
+The user performs two swift side kicks and is slowed for the duration critical. They will gain a slight speed boost afterwards, benefitting from talents such as [Speed Demon](Talents.md#vigil-swordsman). The critical has 3 Strength scaling, which is used instead of scaling from Light Weapons as well as using the currently equipped weapon's base damage.
 
 The first hit deals your weapon's base damage with 3 Strength scaling, multiplied by 1.5x with 6.8 posture damage. The second hit deals your weapon's base damage with 3 Strength scaling, but multiplied by 2x instead with 10.2 posture damage.
 
@@ -51,4 +53,5 @@ This critical has a cooldown of 5 seconds.
 -   You cannot select **Imperium Kata** In character selection.
 -   The **Imperium Kata** Talent Card also gives +1 Passive Agility.
     -   When the style first released, it additionally granted +5 Health. This was patched shortly after.
--   While sharing the same stats as [Way of Navae](Way_of_Navae.md), [Fang and Coil](Fang_and_Coil.md) and [Legion Kata](Legion_Kata.md). They differ in M1 animations, stances, and critical attacks.
+-   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped.
+-   While its Talent description has a 20 LHT requirement, the fighting style can be obtained without it.

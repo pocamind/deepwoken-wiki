@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 152723
+revid: 155346
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Ministry Scouts are enemy NPCs that can be found in [Minityrsa](Minityrsa.md), patrolling Outpost Antumbra. There are about nine Ministry Scouts: four patrolling outside, five inside. Curiously, they also gather around Summer Isle, whether to murder members of [The Children of Navae](Eastern_Nomad_Leader.md) or massacre [bandits](Bandit.md).
+Ministry Scouts are enemy NPCs that can be found in [Minityrsa](Minityrsa.md), patrolling Outpost Antumbra. There are about nine Ministry Scouts: four patrolling outside, five inside. Curiously, they also gather around [Summer Isle](Summer_Isle.md), whether to murder members of [The Children of Navae](Eastern_Nomad_Leader.md) or massacre [bandits](Bandit.md).
 
 A Ministry Scout's appearance consists of a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit with their [aspect](Aspects.md) varying.
 

@@ -1,11 +1,9 @@
 ---
 title: Kana
-revid: 153330
+revid: 155343
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Cut Content, NPCs, The Central Authority, NPCs located in the Eastern Luminant]
-notices:
-  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
+categories: [Felinor NPCs, NPCs, Cut Content, The Central Authority, NPCs located in the Eastern Luminant]
 ---
 
 # Kana

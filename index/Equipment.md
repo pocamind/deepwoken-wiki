@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 155262
+revid: 155444
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -961,7 +961,7 @@ Variants:
 Black & Double
 
  |
-| File:Reinforced warrior helmet.png | 
+|  | 
 
 [Evanspear War Helmet](Evanspear_War_Helmet.md)
 
@@ -1670,7 +1670,7 @@ Found from:
 N/A
 
  |
-| File:Reinforced warrior helmet.png | 
+|  | 
 
 [Reinforced War Helmet](Reinforced_War_Helmet.md)
 
@@ -1756,7 +1756,7 @@ Found From:
 N/A
 
  |
-|  | 
+| File:ShockTrooperHelmet.png | 
 
 [Shock Trooper Helmet](Shock_Trooper_Helmet.md)
 
@@ -1884,7 +1884,7 @@ Arms: [Smith's Gloves](<Smith's_Gloves.md>)
 Face: [Smith's Goggles](<Smith's_Goggles.md>)
 
  |
-|  | 
+| File:ShockTrooperHelmet.png | 
 
 [Specialist Helmet](Specialist_Helmet.md)
 
@@ -2107,7 +2107,7 @@ Head: [Warlock's Brim](<Warlock's_Brim.md>)
 Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
-|  | 
+| File:WesternOutlawHat.png | 
 
 [Western Outlaw Hat](Western_Outlaw_Hat.md)
 
@@ -3149,6 +3149,8 @@ Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
 [Evanspear War Plate](Evanspear_War_Plate.md)
 
 (**Set**)
+
+(**Animated**)
 
  | 
 
@@ -4242,6 +4244,8 @@ Legs: [Redsteel Boots](Redsteel_Boots.md)
 
 (**Set**)
 
+(**Animated**)
+
  | 
 
 _+6 Health_
@@ -4398,11 +4402,13 @@ Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)
 Torso: [Sandrunner Scarf](Sandrunner_Scarf.md)
 
  |
-| File:Shocktrooperplate.png | 
+| File:ShockTrooperPlate.png | 
 
 [Shock Trooper Plate](Shock_Trooper_Plate.md)
 
 (**Set**)
+
+(**Animated**)
 
  | 
 
@@ -4525,11 +4531,13 @@ Arms: [Smith's Gloves](<Smith's_Gloves.md>)
 Face: [Smith's Goggles](<Smith's_Goggles.md>)
 
  |
-| File:Shocktrooperplate.png | 
+| File:ShockTrooperPlate.png | 
 
 [Specialist Plate](Specialist_Plate.md)
 
 (**Set**)
+
+(**Animated**)
 
  | 
 
@@ -4658,6 +4666,10 @@ Default, Threadwork
 |  | 
 
 [Titus's Cape](<Titus's_Cape.md>)
+
+(**Animated**)
+
+(**Unique**)
 
  | 
 
@@ -4821,7 +4833,7 @@ Head: [Warlock's Brim](<Warlock's_Brim.md>)
 Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
-|  | 
+| File:WesternOutlawRobes.png | 
 
 [Western Outlaw Robes](Western_Outlaw_Robes.md)
 
@@ -5360,7 +5372,7 @@ Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
 Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
 
  |
-| File:Evanspearwarboots.png | 
+|  | 
 
 [Evanspear War Boots](Evanspear_War_Boots.md)
 
@@ -5814,7 +5826,7 @@ Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)
 Legs: [Redsteel Boots](Redsteel_Boots.md)
 
  |
-|  | 
+| File:ShockTrooperBoots.png | 
 
 [Shock Trooper Boots](Shock_Trooper_Boots.md)
 
@@ -6013,7 +6025,7 @@ Face: [Thrall of Enmity](Thrall_of_Enmity.md)
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
 
  |
-|  | 
+| File:WesternOutlawBoots.png | 
 
 [Western Outlaw Boots](Western_Outlaw_Boots.md)
 
@@ -7714,7 +7726,7 @@ Found from:
 N/A
 
  |
-|  | 
+| File:Western Outlaw Mask.png | 
 
 [Western Outlaw Mask](Western_Outlaw_Mask.md)
 

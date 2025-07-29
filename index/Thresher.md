@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 152415
+revid: 155311
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,7 +17,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-A Thresher is a large crocodilian [monster](Monsters.md) that is commonly found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). They can frequently be found as lone threats on the surface or in trios when spawning as a part of a static event, and more rarely in duos with the [King Thresher](King_Thresher.md). In the depths they will always spawn in duos with another thresher.
+A Thresher is a large crocodilian [monster](Monsters.md) that is commonly found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). They can frequently be found as lone threats on the surface or in trios when spawning as a part of a static event, and more rarely in duos with the [King Thresher](King_Thresher.md). In the depths they will always spawn in duos with another thresher. There are other Thresher variants such as the Void Thresher, located in Voidsea Islands, and [Nightmare Thresher](Nightmare_Thresher.md), located in [Ancient Rotlands](Ancient_Rotlands.md).
 
 Appearing as a blind crocodilian with large teeth and green scales, they have an incredible sense of smell as well as possessing an arsenal of sharp claws that can easily hunt and kill their prey respectively. They are evidently social creatures as they tend to live in nests, though the density and size of their nests affect the behavior of male Threshers. This leads into a competition between the males, emerging a [King](King_Thresher.md) in their stead that leads the pack.
 
