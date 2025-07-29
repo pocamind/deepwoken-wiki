@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 155204
+revid: 155217
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -303,7 +303,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Windswept<div></div></font></center></td>
-  <td><div><p>After landing enough stacks, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment.</p></div></td>
+  <td><div><p>After landing (LHT: 5, MED: 4, HVY: 3) M1s, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment.<br>
+  This Enchant has a 5 second cooldown regardless of weapon investment, making it very weak on low invest.</p>
+  <p>Windswept has a minimum of 0.5s duration and a maximum of 5 seconds, gaining 0.05s duration per point into the stat your weapon scales on.<br>
+  When between 0 and 10 weapon investment, the duration will always be 0.5s, as the Enchant has a starting value of 0s, but the minimum duration this Enchant actually can be active is always 0.5s.</p>
+  <p>In the case of <a href="Wyrmtooth.md">Wyrmtooth</a>, your Medium investment will take priority over your Heavy investment.</p>
+  <p>Windswept's stacks do not decay over time.<br>
+  Criticals with the M1 tag will count each hit as 1 stack each, while all other criticals are entirely unable to proc this Enchant. Full list of what critical attacks have the M1 tag is listed <a href="https://docs.google.com/document/d/e/2PACX-1vSPmulQoA5H3OTyzC8SVCCy2kx6o97dlqCvkif7uR0ihoIBOWQ9Mv2OAyb0eMB-EU4CzPW8u1asvaIE/pub">here</a>.</p></div></td>
   <td><div>Weapon is covered in green swirling effects.</div></td>
 </tr>
 </tbody>

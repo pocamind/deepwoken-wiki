@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 153967
+revid: 155267
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Items, Torso]
@@ -17,11 +17,13 @@ categories: [Equipment, Items, Torso]
 | weight | 0.5 |
 | innate stats | 1 Rare Pip, 2 Legendary Pips |
 | innate talent | N/A |
+| set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:Void Walker Bounties.Heart of Enmity |
+| obtainment | Heart of Enmity |
 | description | The titanic fauld of Enmity, a grim relic said to be woven from human hair, like some kind of sick trophy, each strand steeped in the anguish and malice of its former owners. |
 
 ## Description
@@ -32,6 +34,5 @@ The **Fauld of Enmity** is a Unique [Equipment](Equipment.md) item under the "To
 
 -   It is a part of the Enmity set consisting of the [Bastions of Enmity](Bastions_of_Enmity.md) arms, the [Wartreads of Enmity](Wartreads_of_Enmity.md) boots, the [Aegis of Enmity](Aegis_of_Enmity.md) helmet, the **Fauld of Enmity** and [Mantle of Enmity](Mantle_of_Enmity.md) torsos, and the **Thrall of Enmity** face.
 -   This item, along with [Threadwork Kilt](Threadwork_Kilt.md) are the first "waist" equipment added to Deepwoken.
-
--   This piece of equipment currently grants the **MOST** HP out of all other torso equipment's. (Being 18 hp)
+-   This piece of equipment currently grants the most potential health out of all other torso equipment. (Being 18 HP)
 -   The Fauld Of Enmity is the only droppable item from the Enmity set.

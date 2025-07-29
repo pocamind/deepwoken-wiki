@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155159
+revid: 155286
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -227,9 +227,14 @@ Dodgeable:
 
 Titus drops a variety of unique items that cannot be found elsewhere.
 
+In addition to his unique chest (see below for the table), an additional chest is rewarded for each participating player, dropping at their feet. This chest can include:
+
+-   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Smith's Alloys](<Smith's_Alloy.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
+-   [Items](Items.md): [Deep Gems](Deep_Gems.md), [Gale Stones](Gale_Stone.md)
+
 ### 
 
-Exhaustive Loot Table
+Unique Loot Table
 
 **Keep in mind that this list may be incomplete.**
 
@@ -244,7 +249,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md">Titus' Armor Piece</a>, <a href="Wrath_Gem.md">Wrath Gem</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Storm.md">Storm</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
   </ul></td>
 </tr>
 <tr>

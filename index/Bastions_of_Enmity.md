@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 153932
+revid: 155264
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment, Items]
@@ -17,11 +17,13 @@ categories: [Arms, Equipment, Items]
 | weight | 2 |
 | innate stats | +10 Health, +2 Posture, +3 Legendary Pips |
 | innate talent | N/A |
+| set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Heart of Enmity |
+| obtainment | Heart of Enmity |
 | description | Holy Mackerel! That was a tough fight! |
 
 ## Description

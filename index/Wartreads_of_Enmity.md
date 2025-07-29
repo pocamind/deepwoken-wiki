@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 153963
+revid: 155265
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment, Items]
@@ -17,11 +17,13 @@ categories: [Pages with broken file links, Boots, Equipment, Items]
 | weight | 1 |
 | innate stats | 5 Health, +1 Posture, +2 Legendary Pips |
 | innate talent | N/A |
+| set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Heart of Enmity |
+| obtainment | Heart of Enmity |
 | description | Titanic boots, once forged to crush enemies into their graves, now anchor you firmly to the ground below. |
 
 ## Description

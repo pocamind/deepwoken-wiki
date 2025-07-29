@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 155084
+revid: 155281
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -19,10 +19,10 @@ categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
 | penetration | 15% |
 | stances | 1 Handed |
 | weight | 7 |
-| bankable | No |
+| bankable | Yes if Enchanted |
 | droppable | No |
 | enchantable | Yes |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Titus |
 | description | Brutal gauntlets wielded by those who break through defenses with unforgiving force. |
 
@@ -32,6 +32,7 @@ The Worldpiercer Gauntlets are a Fist Weapon obtained from [Titus Fulminus Deste
 
 ## Trivia
 
+-   Similar to starter weapons, these are bankable if [Enchanted](Enchantments.md). Though, this still means if you obtain them without meeting their requirements, you won't be able to bank them.
 -   Despite being unique rarity, these are enchantable, similar to the [Gaunts of Enmity](Gaunts_of_Enmity.md).
 -   These are used by [Titus](Titus_Fulminus_Destellus.md).
 -   During the 06/09/2025 update, the gauntlets were accidentally published into the game, likely being a remnant from testing, with the following properties:

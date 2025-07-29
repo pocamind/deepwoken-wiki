@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 153768
+revid: 155211
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -76,5 +76,5 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   There used to be a bug where buildings could be found in The Interstice.
 -   You cannot climb the structures in [The Interstice](The_Interstice.md).
 -   You can fish in the cracks of the floor.
--   While in [The Interstice](The_Interstice.md), any source of healing seems to be greatly reduced to not even be able to work, such as the talent Warrior's Respite (needs more testing such as Graceful Flames).
+-   All healing in [The Interstice](The_Interstice.md) is greatly hampered, similarly to [Voidzones](Voidzones.md)
 -   When trying to use Dimensional Travel in [The Interstice](The_Interstice.md), while in the [First Layer](First_Layer.md), if the location viewed is a kill brick, the message "You might suffocate in here" will be displayed.

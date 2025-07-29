@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 153156
+revid: 155289
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", Multiple Criticals, Heavy Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | endlag | 0.1s |
 | penetration | 15% |
 | chip damage | N/A |
-| special effect | Critical changes the model and criticals on use having 3 different stages of use. |
+| special effect | Critical changes the stage of the weapon, changing its model and critical. There are three stages in total. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 7.5 |
@@ -27,7 +27,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First LayerColdheart Fortinbras |
+| obtainment | Coldheart Fortinbras |
 | description | With the development of the Railblade, the Union had gained an edge over the Divers in their disputes over delving sites. In defiance of this, the mechanists of the Citadel changed their approach to equipment production and worked closely with Authority Weaponsmiths to design a cold-hearted blade capable of piercing through monster hide and freezing their innards solid. The end result was a weapon that not only excelled in missions, but also a in skirmishes against the more territorial squads of Union expeditioners. Sometimes spite works as the greatest motivator of change. |
 
 “ Sometimes spite works as the greatest motivator of change. ”
@@ -55,4 +55,4 @@ Pressing M2 during the windup of the critical will perform a feint that resets s
 ## Trivia
 
 -   Its model as of 11/16/2024 does not change if you have [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical however do change color.
--   In lore, mass-produced to rival the [Union's](The_Ignition_Union.md) [Railblade](Railblade.md).
+-   In lore, this weapon was mass-produced by [The Divers](The_Divers.md) and [The Authority](The_Central_Authority.md) to rival [The Union's](The_Ignition_Union.md) [Railblade](Railblade.md).

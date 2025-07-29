@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 155190
+revid: 155227
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -13,7 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 | type | Greatcannon |
 | requirements | 75 HVY, 30 STR |
 | damage | 27 |
-| scaling | 9.5 HVY |
+| scaling | 8.3 HVY |
 | range | 8.5 |
 | swing speed | 0.8x |
 | endlag | 0.1s |

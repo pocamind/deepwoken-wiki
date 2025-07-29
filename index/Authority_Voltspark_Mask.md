@@ -1,9 +1,9 @@
 ---
 title: Authority Voltspark Mask
-revid: 154883
+revid: 155241
 source: https://deepwoken.fandom.com/wiki/Authority_Voltspark_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Equipment, Face, Masks]
+categories: [Equipment, Face, Masks]
 ---
 
 # Authority Voltspark Mask

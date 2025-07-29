@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 154764
+revid: 155298
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -16,7 +16,7 @@ Chance of obtaining aspect: **4%**
 
 ## Description
 
-Kirons are an aspect similar to bats. Their Agility and Intelligence attributes are innately increased, as a result of years of spelunking experience.
+Kirons are an [aspect](Aspects.md) similar to bats. Their Agility and Intelligence attributes are innately increased, as a result of years of spelunking experience.
 
 ## Racial Traits
 
@@ -71,7 +71,7 @@ Kiron were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly 
 
 ## Racial Features
 
-Kiron has a very small range of ornament choice, with the only two options being fluff or no fluff, it does however have 3 unique mouth options, 6 different facial marking variants and four unique eyebrow options.
+Kiron has a very small range of ornament choice, with the only two options being fluff or no fluff, it does however have three unique mouth options, six different facial marking variants, and four unique eyebrow options.
 
 ### Ears
 

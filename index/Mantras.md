@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 153640
+revid: 155251
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -14,7 +14,7 @@ _**NOTE: You can search a Mantra's name using the search bar and it'll take you 
 
 Considered to be the root of Ether's usage - **Mantras**, sometimes referred to in lore as _words of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these are be the magic abilities that you use to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon powering up (Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20. A total of 12 mantras you will get by powering up), as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md) bringing that up to 13. If you are unsatisfied with a mantra you've chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines.md).
+Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon Powering up (Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20. A total of 12 mantras you will get by Powering up), as well as an additional Whisper Draw by completing one of a few tasks. These tasks vary from completing [Kelsius' Quest](Kelsius.md) or the [Tutorial](Tutorial.md) to defeating a [World Boss](Bosses.md) or escaping [The Depths](The_Depths.md); more info on the [Whisper Draw](Whisper_Draw.md) page. Only one additional Whisper Draw can be obtained this way, bringing the total Mantras up to 13. If you are unsatisfied with a mantra you've chosen, they can be rerolled via the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md) or turned into Talents with the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md).
 
 A player's Mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding Mantra. Similarly, to weapons and armor, Mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
 
@@ -27,7 +27,7 @@ Mantras are divided into various categories based on their general application. 
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 
-It is possible to have more Mantras than Mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or Mantra tables. Additional Mantra slots can be gained by obtaining an [Oath](Oaths.md), getting [Neuroplasticity](Talents.md) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra, or getting [Will O' Wisp](Talents.md) with 25 Element and its corresponding wisp.
+It is possible to have more Mantras than Mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or Mantra tables. Additional Mantra slots can be gained by obtaining an [Oath](Oaths.md), getting [Neuroplasticity](Talents.md#genius-intellect) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra, or getting [Will O' Wisp](Talents.md#sage-of-wisps) with 25 Element and its corresponding wisp.
 
 ## Combat Usage
 

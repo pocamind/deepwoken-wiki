@@ -1,6 +1,6 @@
 ---
 title: List of Grab Mantras
-revid: 143998
+revid: 155273
 source: https://deepwoken.fandom.com/wiki/List_of_Grab_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -20,3 +20,4 @@ These Mantras generally involve the user restraining the opponent while performi
 | [**Clutching Shadow**](Shadowcast.md#clutching-shadow) |  |
 | [**Iron Hug**](Ironsing.md#iron-hug) |  |
 | [**Dread Whisper**](Attunement-less.md#dread-whisper) |  |
+| [**Throw**](Attunement-less.md#throw) |  |

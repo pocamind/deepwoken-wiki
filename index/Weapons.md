@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 154737
+revid: 155279
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2009,7 +2009,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 
 **Swords:**
 
-Swords are weapons with a long metal blade and a hilt with a handguard used for striking opponents or creatures.
+Swords are weapons with a long metal blade and a hilt with a handguard used for cutting down opponents or creatures.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -2724,7 +2724,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 
 **Spears:**
 
-Spears are weapons with a long metal pole, with a blade at one end, used for attacking enemies at a safe distance.
+Spears are weapons with a long metal pole, with a sharp pointed end, used for attacking enemies at a safe distance.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -3055,7 +3055,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 
 **Clubs:**
 
-Clubs are weapons that as opposed to most other weapons in the game, deal blunt damage.
+Clubs are weapons that, as opposed to most other weapons in the game, deal blunt damage. In the real world, these weapons were used for breaking through armor with heavy strikes; in Deepwoken, this is no different, being excellent weapons for breaking through even the toughest of guards.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -3460,7 +3460,7 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Th
 
 **Bows:**
 
-Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options. Bows use ether to generate, and fire, arrows, however bows can still attack without ether at the cost of their damage output\*.
+Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options. Bows use Ether to generate, and fire, arrows, however bows can still attack without Ether at the cost of their damage output.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -5037,7 +5037,7 @@ All Heavy Weapons uniquely possess the "return swing" function, which allows the
 
 **Greataxes:**
 
-Greataxes are weapons with a long pole, with sharp edges protruding out at the end.
+Greataxes are large axe weapons, bearing an oversized axe head upon a long pole for increased reach. Characterized by their large stature and weight, these weapons are very capable fighting tools, ready to cleave through your enemies at any given moment.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -5350,7 +5350,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 
 **Greatswords:**
 
-Greatswords are bigger than normal swords, possessing a large grip for the wielder to increase leverage.
+Greatswords are bigger than normal swords, possessing a large grip for the wielder to increase leverage. These weapons are incredibly lethal on the battlefield with their high weight and range, often amputating limbs from the sheer force of their strikes.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -5808,7 +5808,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 
 **Greathammers:**
 
-Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle.
+Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle, used for pummeling your foes with weighted blows. These weapons, due to their very heavy hammer heads, are second to none for their high posture damage; crushing guards comes easy when you wield a Greathammer.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -6122,7 +6122,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 
 **Greatcannons:**
 
-Greatcannons are ???.
+Greatcannons are large cannon weapons, wielded with both hands. These weapons have indescribable firepower at the price of being incredibly heavy and cumbersome.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -7307,7 +7307,7 @@ Greatcannons are ???.
 
 **Hybrid:**
 
-Hybrid Weapons are weapons that require two different weapon stats, such as requiring Medium and Heavy stats.
+Hybrid Weapons are weapons that require two different weapon stats, such as requiring Medium and Heavy stats. This weapon class is too diverse to be explained simply, with each weapon being uniquely itself.
 
 | Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -7351,7 +7351,7 @@ ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 
 **Elemental:**
 
-Elemental weapons scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon.
+Elemental weapons scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon. Elemental weapons are unable to be [Enchanted](Enchantments.md).
 
 <table><caption><a href="Attunements.md">Elemental Weapons</a></caption>
 <tbody>

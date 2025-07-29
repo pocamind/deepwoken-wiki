@@ -1,6 +1,6 @@
 ---
 title: Authority Prototype Mask
-revid: 154789
+revid: 155246
 source: https://deepwoken.fandom.com/wiki/Authority_Prototype_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 153880
+revid: 155303
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -207,6 +207,7 @@ His item descriptions will be the same as what he's selling:
 -   _Everyone knows rice neutralizes food poisoning from raw fish._
 -   _Extra protein!_
 -   _Make sure to remove the beak first!_
+-   _Really spices up the dish!_
 -   _Wow! What a meal!_
 -   _..Should I really eat this? The smell is the most vile combination of stenches, ranging from megalodaunt meat to "kelp." Even the toughest, most strongheaded Authority soldier can not stand a chance against this.. monstrosity._
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 154929
+revid: 155277
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -761,7 +761,7 @@ Ice
 -   Has a base damage of 8/10/12/14/16 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 5 posture damage per hit (3).
 -   Has 9.178x PvE scaling (multiply scaled damage dealt by 9.178 for PvE damage).
--   Projectiles have are homing.
+-   Projectiles have homing.
 -   Does not inflict Chill.
 -   Has a good amount of range.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to cause the Mantra to send out each projectile individually.

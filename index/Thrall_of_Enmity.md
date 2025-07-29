@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 154007
+revid: 155266
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -17,11 +17,13 @@ categories: [Equipment, Face, Masks]
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
 | innate talent | Lose Your Mind |
+| set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:Heart of Enmity |
+| obtainment | Heart of Enmity |
 | description | The mask of the fabled Angels of Enmity, infamous for barring the unworthy from the trial, instills dread in the hearts of the drowned. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 155003
+revid: 155262
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -961,7 +961,7 @@ Variants:
 Black & Double
 
  |
-|  | 
+| File:Reinforced warrior helmet.png | 
 
 [Evanspear War Helmet](Evanspear_War_Helmet.md)
 
@@ -1670,7 +1670,7 @@ Found from:
 N/A
 
  |
-|  | 
+| File:Reinforced warrior helmet.png | 
 
 [Reinforced War Helmet](Reinforced_War_Helmet.md)
 
@@ -4398,36 +4398,7 @@ Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)
 Torso: [Sandrunner Scarf](Sandrunner_Scarf.md)
 
  |
-|  | 
-
-[Summer Scarf](Summer_Scarf.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+5 Health_
-
-+1 Legendary Pip
-
-**Requires Power 5**
-
- | 
-
-Found from:
-
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
-
- | 
-
-Variants:  
-Default, Threadwork
-
- |
-|  | 
+| File:Shocktrooperplate.png | 
 
 [Shock Trooper Plate](Shock_Trooper_Plate.md)
 
@@ -4554,7 +4525,7 @@ Arms: [Smith's Gloves](<Smith's_Gloves.md>)
 Face: [Smith's Goggles](<Smith's_Goggles.md>)
 
  |
-|  | 
+| File:Shocktrooperplate.png | 
 
 [Specialist Plate](Specialist_Plate.md)
 
@@ -4653,6 +4624,35 @@ Found from:
  | 
 
 N/A
+
+ |
+|  | 
+
+[Summer Scarf](Summer_Scarf.md)
+
+(**Series**)
+
+(**Animated**)
+
+ | 
+
+_+5 Health_
+
++1 Legendary Pip
+
+**Requires Power 5**
+
+ | 
+
+Found from:
+
+-   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+
+ | 
+
+Variants:  
+Default, Threadwork
 
  |
 |  | 
@@ -5360,7 +5360,7 @@ Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
 Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
 
  |
-|  | 
+| File:Evanspearwarboots.png | 
 
 [Evanspear War Boots](Evanspear_War_Boots.md)
 

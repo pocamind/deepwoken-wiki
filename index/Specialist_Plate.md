@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 155172
+revid: 155260
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -46,6 +46,6 @@ Set Bonus: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Man
 
 This item is obtained by crafting the [Shock Trooper Plate](Shock_Trooper_Plate.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md).
+1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md).
 2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + ?.
 3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + ?.

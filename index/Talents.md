@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 155163
+revid: 155276
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1048,9 +1048,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
     -   Prerequisite: 15 Intelligence
+    -   This talent is currently bugged and does nothing.
 
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
-    -   Gives ~3% ether per mantra parry. (this seems to scale with damage (?) multihits also give ether for each hit parried, for example caltrops gave back 8% ether meanwhile exhaustion strike gave back 3%)
+    -   Gives ether when parrying a mantra. Ether gained scales with damage of the mantra.
     -   Prerequisites: 20 Agility, 15 Intelligence
 
 -   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
@@ -3593,8 +3594,8 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 Certain Talents are given when a specific equipment or outfit is worn. Most of these Talents are exclusive to that equipment, though some are also available as cards from powering up. Multiple copies of the same Talent do not stack. Equipment Talents are listed in alphabetical order:
 
--   Actions Speak Louder: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is 1.5x as long. In areas where your Resonance is suppressed, reduce your cooldown by 5% instead.
-    -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 50% longer.
+-   Actions Speak Louder: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 5% instead.
+    -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 5% instead.
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.

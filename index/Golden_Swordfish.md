@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 153151
+revid: 155245
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals, Light Weapons, Fishing]
@@ -49,7 +49,7 @@ The critical has a cooldown of **5 seconds**.
 ## Trivia
 
 -   The stats are a copy of the [Crucible Rapier](Crucible_Rapier.md), but with exactly 0.1 more range
--   Most likely a reference to how many players suggested for the swordfish to be an equippable weapon.
+-   Most likely a reference to how many players suggested for the swordfish to be an equipable weapon.
 -   The critical to be a reference to the belief that swordfish hunt by "skewering."[\[1\]](#cite-note-1) However, this is a myth. Swordfish actually hunt by slashing and dismembering smaller fish with their bill. Ironically, it would be more accurate for this weapon to be a medium sword.
     -   The so-called "sword" bill of a typical swordfish is not particularly strong, but there is a historical precedent for it being used as a weapon.
     -   The critical itself is the same critical used by the [Trident Spear](Trident_Spear.md).

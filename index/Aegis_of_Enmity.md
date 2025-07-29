@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 154201
+revid: 155263
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -17,11 +17,13 @@ categories: [Equipment, Head, Helmets]
 | weight | 1 |
 | innate stats | +5 Health, +1 Posture+2 Legendary pips |
 | innate talent | N/A |
+| set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Heart of Enmity |
+| obtainment | Heart of Enmity |
 | description | The Voice of Enmity's helm, few have lived to know it well. Now donned by you, the new self proclaimed arbiter of judgement... |
 
 ## Description

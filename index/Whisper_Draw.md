@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 154730
+revid: 155280
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,7 +20,6 @@ Whisper Draws can also be obtained from specific methods. You can only gain **1*
 -   Completing the [Tutorial](Tutorial.md)
 -   Escaping [The Depths](The_Depths.md) for the first time
 -   Defeating any [World Boss](Bosses.md) for the first time
--   etc. (TBA)
 
 Every Whisper Draw obtained from leveling also provides you with an [Ace](Aces.md), allowing you to either burn or freeze Mantra and Talent cards.
 

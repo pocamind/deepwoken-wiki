@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 154755
+revid: 155301
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant, The Central Authority]
@@ -24,4 +24,4 @@ This dungeon is recommended for a party of people preferably [Power](Power.md) 2
 
 ## Trivia/Notes
 
--   After disabling the security system, your taunt gets replaced with a cannon whistle used by the guards. This allows the player to use the artillery to shoot cannonballs at their cursor.
+-   After disabling the security system, your taunt gets replaced with a cannon whistle used by the guards. This allows the player to use the artillery to shoot cannonballs at their cursors.

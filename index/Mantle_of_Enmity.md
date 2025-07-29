@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 154166
+revid: 155268
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -17,11 +17,13 @@ categories: [Equipment, Torso, Items, Relics]
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
 | innate talent | Heartwing Beat |
+| set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:Heart of Enmity |
+| obtainment | Heart of Enmity |
 | description | The wings of the Heart of Enmity. As you don them, a seething dark essence courses through you, whispering forbidden truths into your mind. The corruption is subtle at first... but with each beat of these cursed wings, you feel your will slipping, weighing you down, surrendering to something far more sinister. |
 
 ## Description
