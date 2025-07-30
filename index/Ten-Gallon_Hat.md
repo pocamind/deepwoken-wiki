@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 152770
+revid: 155658
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Hats, Items]
 | weight | 1 |
 | innate stats | +2 Posture , +1 Rare Pip |
 | innate talent | N/A |
+| set | Ten-Gallon Hat, Ten-Gallon Bandana |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 153539
+revid: 155691
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -17,11 +17,12 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | weight | 2 |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
+| set | Grand Pauldrons, Grand Boots |
+| set talent | N/Aobtainment=Chests From:*Duke Erisia, The Depths (First Layer) |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:Duke Erisia, The Depths (First Layer) |
 | description | ... |
 
 ## Description
@@ -30,5 +31,4 @@ The Grand Pauldrons is an [Equipment](Equipment.md) item under the "Arms" catego
 
 ## Trivia
 
--   The Grand Pauldrons are part of the “Grand” set; with the only other piece being the [Grand Boots](Grand_Boots.md).
--   Used by [The Meat Lord](The_Meat_Lord.md) together with the rest of the set.
+-   Used by [The Meat Lord](The_Meat_Lord.md) together with the rest of the Grand set.

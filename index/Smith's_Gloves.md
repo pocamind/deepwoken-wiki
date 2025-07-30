@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 151961
+revid: 155654
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Gloves]
 | weight | 2 |
 | innate stats | +5 Health, +2 Rare Pips |
 | innate talent | N/A |
+| set | Smith's Bandana, Smith's Gloves, Smith's Goggles |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,6 +32,5 @@ Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category. 
 
 ## Trivia
 
--   Smith's Gloves are part of the "Smith" set, along with the [Smith's Bandana](<Smith's_Bandana.md>) and [Smith's Goggles](<Smith's_Goggles.md>).
--   Worn by all [Blacksmith](Blacksmith.md) NPCs, alongside the rest of the set.
--   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Glassdancer Wraps](Glassdancer_Wraps.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), [Ignition Gauntlets](Ignition_Gauntlets.md).
+-   Worn by all [Blacksmith](Blacksmith.md) NPCs, alongside the rest of the Smith set, though the Blacksmith's variant of this item has leather hand protection on their left hand.
+-   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Glassdancer Wraps](Glassdancer_Wraps.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), and [Ignition Gauntlets](Ignition_Gauntlets.md).

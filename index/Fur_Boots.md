@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 153573
+revid: 155686
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
@@ -17,6 +17,8 @@ categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
+| set | Fur Pauldrons, Fur Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -32,5 +34,4 @@ Fur Boots are accessories under the "_Boots_" category. They can be found throug
 
 ## Trivia
 
--   Fur Boots are part of the "**Fur**" set; with the only other piece being the [Fur Pauldrons](Fur_Pauldrons.md)
 -   The only pair of boots that has variants.

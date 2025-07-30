@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 153533
+revid: 155633
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,10 +13,12 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | 10 Fortitude |
+| requirements | 10 FTD |
 | weight | 1 |
 | innate stats | +5 Health+1 Posture |
 | innate talent | N/A |
+| set | Guardian Helmet, Guardian Pauldrons |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,7 +29,3 @@ categories: [Equipment, Head, Helmets]
 ## Description
 
 The Guardian Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +5 health, And +1 Posture, as well as extra randomized stats based on the amount of pips.
-
-## Trivia
-
--   This is a part of the "Guardian" set, the only other piece being [Guardian Pauldrons](Guardian_Pauldrons.md)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 155488
+revid: 155728
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1815,6 +1815,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Legion Shock Trooper
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
+    -   The Flashwind Talent from the [Specialist Boots](Specialist_Boots.md) equipment allows you to activate multiple Gale dashes for a short duration instead of only one.
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
@@ -3052,6 +3053,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Any Medium Weapon (Cannot obtain with Rifle)
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning.
+    -   Lightning Dashes increase your dash i-frames and distance travelled, but will end early if you attack.
+    -   The Flashwind Talent from the [Specialist Boots](Specialist_Boots.md) equipment allows you to activate multiple Lightning dashes for a short duration instead of only one.
     -   Prerequisite: Gathering Electricity
 
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
@@ -3625,7 +3628,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Drain 5% of your opponent's armor after landing a Critical attack or Flourish. This has a 10 second cooldown and can only proc once per critical attack.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
     -   Grants 20% Mantra PEN.
--   Crippling Impact: [Evanspear War Plate](Evanspear_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
+-   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
+    -   This works similarly to Collapsed Lung.
+    -   Wrath Gems last 9 seconds with no visual indication.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.
     -   Maximum of +130 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
@@ -3646,6 +3651,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
     -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
+-   Flashwind: [Specialist Boots](Specialist_Boots.md) - Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.
+    -   Allows you to proc Gale and Thunder dashes multiple times for a few seconds instead of only once.
 -   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
 -   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 10% armor durability.
@@ -3674,7 +3681,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
         -   Handing in pure ore to a [Blacksmith](Blacksmith.md),
         -   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
--   Mass Effect: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - For every [Might Gem](Might_Gem.md) you have equipped on your mantras, slightly increase each Might Gem's power.
+-   Mass Effect: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) - For every [Might Gem](Might_Gem.md) you have equipped on your mantras, slightly increase each Might Gem's power.
+    -   Increases the posture damage bonus Might Gems innately grant, scaling on the amount of Might Gems you have equipped in your arsenal.
 -   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
     -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Deepbound.md) or [Ignition Delver](Ignition_Delver.md).
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
@@ -3701,6 +3709,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a 25% damage buff for the duration of the buff.
     -   The health highlight on hit effect is very similar to [Soulbreaker's](Oath%253A_Soulbreaker.md) Heart Reverb Talent.
 -   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.
+-   Repeated Blows: [Reinforced War Boots](Reinforced_War_Boots.md) - Any [strength](Attunement-less.md#strength) mantra that has a [Wrath Gem](Wrath_Gem.md) on it will reset its cooldown if you land a critical while a Wrath Gem is active.
+    -   Wrath Gems are active for 9 seconds with no visual indication.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.
     -   Combining this Talent with excavator gives you a chance to get 4 ores at a time.
@@ -3715,6 +3725,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
     -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
+-   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your strength mantras deal more posture damage the more you are combat tagged.
+    -   Increases the posture damage of your [Strength](Attunement-less.md#strength) Mantras, scaling on the amount of player combat tags you have.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
@@ -3763,12 +3775,17 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Massively decreases the windup on Enforcer's Pull, especially after a flourish.
     -   Set: [Enforcer Plate](Enforcer_Plate.md), [Enforcer Boots](Enforcer_Boots.md)
 -   Lasting Trauma: [Reinforced War Set](Reinforced_War_Helmet.md) - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+    -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 9 seconds.
+    -   Wrath gems have a 10 second cooldown, making this Talent only have a 1 second downtime.
     -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
 -   Offensive Recovery: [Ascended Outlaw Set](Ascended_Outlaw_Hat.md) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
-    -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will cause your posture to clear.
+    -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will restore your posture.
     -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md) while in Arc suit.
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 -   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
+    -   Additionally turns your [Thundercall](Thundercall.md) Mantras green and your [Galebreathe](Galebreathe.md) Mantras yellow.
+    -   Has no cooldown in PvE, making this very strong for high multihitting Mantras like [Electro](Thundercall.md#electro-carve)/[Wind Carve](Galebreathe.md#wind-carve) or [Tornado](Galebreathe.md#tornado).
+        -   This also has no PvE scaling, making it much weaker for lower hit count Mantras.
     -   Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)
 
 ## Blacklisted Talents

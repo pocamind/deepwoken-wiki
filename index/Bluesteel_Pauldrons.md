@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 152806
+revid: 155677
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | weight | 2 |
 | innate stats | +5 Health, +1 Rare Pip |
 | innate talent | N/A |
+| set | Bluesteel Pauldrons, Bluesteel Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -31,4 +33,3 @@ The Bluesteel Pauldrons are an [Equipment](Equipment.md) item under the item und
 ## Trivia
 
 -   The **Blue** counterpart to the [Redsteel Pauldrons](Redsteel_Pauldrons.md).
--   The Bluesteel Pauldrons are part of the "**Bluesteel**" set; with the only other piece being the [Bluesteel Boots](Bluesteel_Boots.md).

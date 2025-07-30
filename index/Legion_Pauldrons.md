@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 153323
+revid: 155638
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | weight | 2 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | Polite Awakening |
+| set | Khan Helmet, Khan Pauldrons, Khan Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,5 +32,4 @@ The Khan Pauldrons are an [Equipment](Equipment.md) item under the "Arms" catego
 
 ## Trivia
 
--   The Khan Pauldrons are part of the "Khan" set; together with the [Khan Boots](Legion_Boots.md) and [Khan Helmet](Legion_Helmet.md).
 -   Both the stats and Talent given by them are completely identical to those given by the [Woodland Pauldrons](Woodland_Pauldrons.md).

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 155454
+revid: 155538
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -47,8 +47,6 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 [Bladeharper](Oath%253A_Bladeharper.md)
 
 (75 MED or comb. 90 WEP + 25 STR or AGL)
-
-[Placeholder](Oath%253A_Blightsurger.md)
 
 [Blightsurger](Oath%253A_Blightsurger.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Guardian Pauldrons
-revid: 153532
+revid: 155634
 source: https://deepwoken.fandom.com/wiki/Guardian_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -17,17 +17,15 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | weight | 2 |
 | innate stats | +2 Health+1 Posture |
 | innate talent | N/A |
+| set | Guardian Helmet, Guardian Pauldrons |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:The Depths (First Layer), Primadon |
+| obtainment | Chests From:, The Depths (First Layer), Primadon |
 | description | Often found adorning the shoulders of those who guard villages close to the shores, where cost-effective equipment is prized. |
 
 ## Description
 
 The Guardian Pauldrons is an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not yet been documented. They are commonly found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md)) and [Primadon](Primadon,_Titan_of_the_East.md).
-
-## Trivia
-
--   The Guardian Pauldrons are part of the “Guardian” set; with the only other piece being the [Guardian Helmet](Guardian_Helmet.md).

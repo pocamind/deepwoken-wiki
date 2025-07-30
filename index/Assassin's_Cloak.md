@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 155291
+revid: 155590
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Cloaks]
 | weight | 2 |
 | innate stats | +6 Health, 3% Stealth, +2 Rare Pip, 1 Legendary Pip |
 | innate talent | Lowstride |
+| set | Assassin's Hood, Assassin's Cloak |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

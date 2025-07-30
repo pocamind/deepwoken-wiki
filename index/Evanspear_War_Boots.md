@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Boots
-revid: 155407
+revid: 155611
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -25,10 +25,6 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash. |
-
-Evanspear War Set
-
-Variants: [Evanspear War Helmet](Evanspear_War_Helmet.md)
 
 ## Description
 

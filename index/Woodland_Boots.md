@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 151254
+revid: 155722
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
+| set | Woodland Pauldrons, Woodland Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,9 +28,8 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-The Woodland Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. Equipping them grants you +3 Health. They are commonly found in chests from [Aratel Island](Aratel_Island.md).
+The Woodland Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. Equipping them grants you +3 Health and +2 Rare Pips. They are commonly found in chests from [Aratel Island](Aratel_Island.md).
 
 ## Trivia
 
--   The Woodland Boots and Woodland Pauldrons are worn by [Hive Guards](Hive_Guard.md).
--   Woodland Boots are part of the "**Woodland**" set; with the only other armor piece being the **[Woodland Pauldrons](Woodland_Pauldrons.md).**
+-   The Woodland Boots and Woodland Pauldrons are worn by [Hive Guards](Hive_Guard.md) and the [Mudskipper Knights](Mudskipper_Knight.md) at [Meteor Isle](Meteor_Isle.md).

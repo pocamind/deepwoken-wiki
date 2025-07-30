@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 153807
+revid: 155600
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, Lost Celtor]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Plates, Lost Celtor]
 | weight | 2 |
 | innate stats | 8 Health, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Breathing Exercise |
+| set | Celtor Commander Helm, Celtor Commander Plate, Celtorian Sabatons |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,5 +32,4 @@ The Celtor Commander Plate is an [Equipment](Equipment.md) item under the "Arms"
 
 ## Trivia
 
--   The Celtor Commander Plate is part of the “Celtor Commander” set; together with the [Celtorian Sabatons](Celtorian_Sabatons.md) and the [Celtor Commander Helm](Celtor_Commander_Helm.md).
 -   Worn by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>).

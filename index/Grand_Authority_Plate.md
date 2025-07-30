@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 153547
+revid: 155688
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Plates]
 | weight | 2 |
 | innate stats | +8 Health, +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Heavy Haul |
+| set | Grand Authority Plate, Grand Authority Sabatons |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,5 +32,4 @@ The Grand Authority Plate is an [Equipment](Equipment.md) item under the "Arms" 
 
 ## Trivia
 
--   The Grand Authority Plate is part of the “Grand Authority” set; with the only other piece being the [Grand Authority Sabatons](Grand_Authority_Sabatons.md).
 -   The Grand Authority Plate was originally designed as part of an Authority-themed set, the _Grand Authority Armament's_ \[_[sic](https://en.wikipedia.org/wiki/sic)_\] set, alongside the [Bulwark Helm](Grand_Authority_Sallet.md), which is why the latter provides the same Talent as the [Authority Helm](Authority_Helm.md). For some unknown reason, they were separated, with the Grand Authority Plate being recolored yellow.

@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Boots
-revid: 155467
+revid: 155622
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -24,10 +24,6 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband. |
-
-Western Outlaw Set
-
-Variants: [Western Outlaw Hat](Western_Outlaw_Hat.md)
 
 ## Description
 

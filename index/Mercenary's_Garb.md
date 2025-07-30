@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 153265
+revid: 155696
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Garbs]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Garbs]
 | weight | 2 |
 | innate stats | 6% Stealth, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Kick Off |
+| set | Mercenary's Garb, Mercenary's Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,6 +32,5 @@ The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" categ
 
 ## Trivia
 
--   The Mercenary's Garb is part of the "Mercenary's" set, the other piece being the [Mercenary's Boots](<Mercenary's_Boots.md>).
-    -   The Mercenary's Garb drops in bizarrely few places compared to the Boots.
+-   -   The Mercenary's Garb drops in bizarrely few places compared to the Boots.
 -   Has a cosmetic [Repeater](Repeater.md).

@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 152714
+revid: 155644
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Cowls]
 | weight | 1 |
 | innate stats | 5% Stealth, 2 Rare Pips |
 | innate talent | Blade Dancer |
+| set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,6 +32,5 @@ The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" categor
 
 ## Trivia
 
--   The Monastery Cowl is part of the "Monastery Champion" set, with the other pieces being the [Monastery Beads](Monastery_Beads.md) and [Monastery Champion Robes](Monastery_Champion_Robes.md).
-    -   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
+-   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
 -   Using a [Bomb](Iron_Bomb.md) build with this **may** get you banned. Refer to Rule 2.2 (It's about graphic content) (this needs confirmation)

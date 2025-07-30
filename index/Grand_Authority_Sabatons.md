@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 153545
+revid: 155690
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Legs, Sabatons]
 | weight | 1 |
 | innate stats | +4 Health, +2 Rare Pips |
 | innate talent | N/A |
+| set | Grand Authority Plate, Grand Authority Sabatons |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,8 +29,6 @@ categories: [Items, Equipment, Legs, Sabatons]
 ## Description
 
 Grand Authority Sabatons is a pair of heavy sabatons, used by the [The Central Authority](The_Central_Authority.md). These are in the "Legs" category of [Equipment](Equipment.md).
-
-Grand Authority Sabatons are part of the "**Grand Authority**" set; with the only other armor piece being the [Grand Authority Plate](Grand_Authority_Plate.md).
 
 ## Trivia
 

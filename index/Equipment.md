@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 155490
+revid: 155727
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2463,7 +2463,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
  |
 | File:WesternOutlawRobes.png | 
 
-Ascended Outlaw Robbes
+[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)
 
 (**Set**)
 
@@ -5188,6 +5188,42 @@ Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)
 Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
 
  |
+| File:WesternOutlawBoots.png | 
+
+[Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+
+(**Set**)
+
+ | 
+
+_+3% Lightning Armor_
+
+_+3% Wind Armor_
+
++1 Uncommon Pip
+
++1 Rare Pip
+
+_+Talent: Stronger Under Pressure_
+
+_+Set Talent: Offensive Recovery_
+
+**Requires Power 10**
+
+ | 
+
+Found From:
+
+-   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Ascended Outlaw  
+Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
+Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
+Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+
+ |
 |  | 
 
 [Autumn Boots](Autumn_Boots.md)
@@ -5888,6 +5924,38 @@ Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)
 Legs: [Redsteel Boots](Redsteel_Boots.md)
 
  |
+|  | 
+
+[Reinforced War Boots](Reinforced_War_Boots.md)
+
+(**Set**)
+
+ | 
+
+_+3 Health_
+
++1 Uncommon Pip
+
+_+Talent: Repeated Blows_
+
+_+Set Talent: Lasting Trauma_
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Reinforced Evanspear  
+Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
+Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+
+ |
 | File:ShockTrooperBoots.png | 
 
 [Shock Trooper Boots](Shock_Trooper_Boots.md)
@@ -5947,6 +6015,38 @@ Set: Silver Knight
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
 Legs: [Silver Sabatons](Silver_Sabatons.md)
+
+ |
+| File:ShockTrooperBoots.png | 
+
+[Specialist Boots](Specialist_Boots.md)
+
+(**Set**)
+
+ | 
+
+_+1 Posture_
+
++1 Uncommon Pip
+
+_+Talent: Flashwind_
+
+_+Set Talent: Shock Trooper Specialist_
+
+**Requires Power 10, Galebreathe 30, Thundercall 30**
+
+ | 
+
+Found from:
+
+-   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Specialist  
+Head: [Specialist Helmet](Specialist_Helmet.md)\]  
+Arms: [Specialist Plate](Specialist_Plate.md)  
+Legs [Specialist Boots](Specialist_Boots.md)
 
  |
 |  | 
@@ -7852,12 +7952,8 @@ Innate Effects
 
 Sources
 
- | 
-
-Variants/Set
-
  |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 |  | 
 
 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)
@@ -7880,10 +7976,6 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
  |
 |  | 
 
@@ -7904,10 +7996,6 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
-
- | 
-
-N/A
 
  |
 |  | 
@@ -7933,10 +8021,6 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
  |
 |  | 
 
@@ -7955,10 +8039,6 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- | 
-
-N/A
 
  |
 | File:MasterThief.png | 
@@ -7980,10 +8060,6 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- | 
-
-N/A
 
  |
 |  | 
@@ -8010,10 +8086,6 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
-
- | 
-
-N/A
 
  |
 |  | 
@@ -8045,10 +8117,6 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-N/A
-
  |
 |  | 
 
@@ -8064,10 +8132,6 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- | 
-
-N/A
 
  |
 |  | 
@@ -8088,10 +8152,6 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
-
- | 
-
-N/A
 
  |
 |  | 
@@ -8114,10 +8174,6 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | 
-
-N/A
-
  |
 |  | 
 
@@ -8138,10 +8194,6 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Lodestar](Lodestar.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- | 
-
-N/A
 
  |
 

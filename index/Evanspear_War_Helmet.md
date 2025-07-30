@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Helmet
-revid: 155405
+revid: 155610
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -25,8 +25,6 @@ categories: [Equipment, Head, Helmets]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | Hell hath no fury like an Evanspear. |
-
-Evanspear War Set
 
 ## Description
 

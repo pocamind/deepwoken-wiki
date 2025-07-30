@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Boots"
-revid: 152423
+revid: 155717
 source: https://deepwoken.fandom.com/wiki/Tracker's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
+| set | Tracker's Brace, Tracker's Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,6 +28,4 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Tracker's Boots are accessories under the "_Boots_" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
-
-Tracker's Boots are part of the "**Tracker's**" set; the only other armor piece being **[Tracker's Brace](<Tracker's_Brace.md>)**.
+Tracker's Boots are accessories under the "_Legs_" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).

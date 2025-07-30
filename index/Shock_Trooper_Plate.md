@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Plate
-revid: 155416
+revid: 155566
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -24,10 +24,6 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise. |
-
-Shock Trooper Set
-
-Variants: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)
 
 ## Description
 

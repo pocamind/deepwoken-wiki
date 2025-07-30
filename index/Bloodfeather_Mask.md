@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Mask
-revid: 152464
+revid: 155595
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Items]
@@ -17,6 +17,8 @@ categories: [Equipment, Face, Masks, Items]
 | weight | 0.5 |
 | innate stats | +5% Shadow Armor+1 Rare Pip |
 | innate talent | N/A |
+| set | Bloodfeather Cowl, Bloodfeather Mask |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -31,4 +33,3 @@ The Bloodfeather Mask is an [Equipment](Equipment.md) item under the "Face" cate
 ## Trivia
 
 -   May be a reference to the Beak Mask from the Crowfeather set from _Bloodborne_, due to the name Bloodfeather being a combination of the two names.
--   This is a part of the "Bloodfeather" set, the only other piece being [Bloodfeather Cowl](Bloodfeather_Cowl.md).

@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 151998
+revid: 155711
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Torso, Scarves]
 | weight | 0.5 |
 | innate stats | 1 Rare Pip , +1 Legendary Pip |
 | innate talent | N/A |
+| set | Sandrunner Wraps, Sandrunner Scarf |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -26,8 +28,4 @@ categories: [Items, Equipment, Torso, Scarves]
 
 ## Description
 
-The Sandrunner Scarf is an [Equipment](Equipment.md) item under the "Torso" category.
-
-## Trivia
-
--   Part of the "Sandrunner" set; with the only other piece being the [Sandrunner Wraps](Sandrunner_Wraps.md).
+The Sandrunner Scarf is an [Equipment](Equipment.md) item under the "Torso" category. It is a small scarf, used for protecting one's face against the sandstorms of Starswept.

@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 154833
+revid: 155573
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment, Arms, Plates, Equipment with Set Bonuses]

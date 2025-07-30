@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 151326
+revid: 155606
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Hoods]
 | weight | 1 |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
+| set | Deepwoken Hood, Deepwoken Cloak |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -31,5 +33,4 @@ A Deepwoken Hood is an [equipment](Equipment.md) under the "_Head_" category. Th
 ## Trivia
 
 -   Although not the best for HP, this is one of the 3 best equipment headears for resistance stats. Alternatives include the [Vigil Hood](Vigil_Hood.md) and the [Tillian's Beret](<Tillian's_Beret.md>). Highest Potential Stats - Phys & Elem Armor: 17% (w/ 10 health)
--   The Deepwoken Hood is part of the "Deepwoken" set, with the only other piece being the [Deepwoken Cloak](Deepwoken_Cloak.md).
 -   It seems equipment that requires stats to equip is bugged because it is possible to equip this on a build with 0 agility as long as you meet the level requirement.

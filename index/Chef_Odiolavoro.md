@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 155074
+revid: 155618
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -160,26 +160,31 @@ File:UllaFriedEgg.png
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">Ah! Hello! Did you get me the <b>[FOOD]</b>?</td>
+  <td colspan="8">Ah! Hello! Did you get me the <b>[FOOD]</b>?</td>
 </tr>
 <tr>
-  <td colspan="4">Yes Chef.</td>
+  <td colspan="8">Yes Chef.</td>
 </tr>
 <tr>
-  <td colspan="2">Player has the requested Food</td>
-  <td colspan="2">Player does not have the requested Food</td>
+  <td colspan="4">Player has the requested Food</td>
+  <td colspan="4">Player does not have the requested Food</td>
+</tr>
+<tr>
+  <td colspan="2">Base Dialogue</td>
+  <td colspan="2">Player has the <a href="Talents.md#tavernkeep">Artisan Chef</a> <a href="Talents.md">Talent</a></td>
+  <td colspan="4">Ah! Non! This will not do. You have not brought me what I asked for.</td>
 </tr>
 <tr>
   <td>Ah! Primo! Let me just get a taste... Not cooked long enough. I want to smell the ash. Still, you have done as I have asked! Payment!</td>
   <td>Ah! Primo! Let me just get a taste... Ah. Needs less salt. Much less salt. Why so much salt? Still, you have done as I have asked! Payment!</td>
-  <td colspan="2">Ah! Non! This will not do. You have not brought me what I asked for.</td>
+  <td colspan="2">Ah! Primo! Let me just get a taste... Ah! Primo, primo! Too good for my customers... I keep for me. Still, you have done as I have asked! Payment!</td>
+  <td colspan="4">End</td>
 </tr>
 <tr>
-  <td colspan="2">End, Player receives XP and Chest</td>
-  <td colspan="2">End</td>
+  <td colspan="4">End, Player receives XP and Chest</td>
 </tr>
 </tbody>
 </table>

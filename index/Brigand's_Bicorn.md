@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 155377
+revid: 155596
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Hats]
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | Spare Nails, Emergency Repairs |
+| set | Brigand's Bicorn, Brigand's Cloak |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

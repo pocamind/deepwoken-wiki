@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 155300
+revid: 155608
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -67,7 +67,7 @@ Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [
 -   Enigmatic beings thought to be envoys of the [Drowned Gods](#the-drowned-gods).
 -   The Ferryman referred to them as 'the closest bridge between the Gods below and your kind'.
 
-Dialogue: [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
+Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
 
 ## Historic Events
 

@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155447
+revid: 155605
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -332,7 +332,7 @@ Unique Loot Table
 
 **Unlockable Dialogue:**
 
-This dialogue is unlocked if the player does not have the [Legion Intelligence](Legion_Intelligence.md).
+This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Intelligence.md).
 
 <table>
 <tbody>
@@ -344,9 +344,6 @@ This dialogue is unlocked if the player does not have the [Legion Intelligence](
 </tr>
 <tr>
   <td>Uhh... I am to inform you that... there's been another delay. [Lie]</td>
-</tr>
-<tr>
-  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>
@@ -467,30 +464,37 @@ This dialogue is unlocked if the player does not have the [Legion Intelligence](
 
 **Unlockable Dialogue:**
 
-This dialogue appears when the player meets the requirements for [Oath: Blightsurger](Oath%253A_Blightsurger.md).
+This dialogue is unlocked if the player meets the requirements for [Oath: Blightsurger](Oath%253A_Blightsurger.md).
 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td>Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
+  <td colspan="2">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
 </tr>
 <tr>
-  <td>I didn't come here for your respect.</td>
+  <td colspan="2">I didn't come here for your respect.</td>
+</tr>
+<tr>
+  <td>Player does not have an Oath</td>
+  <td>Player already has an Oath</td>
 </tr>
 <tr>
   <td>Good. Your valour is noted. Then take what you've earned. My respect isn't a prize - surviving me is. Though... If Brutus is alive... tell him I sent you. Tell him this: A withering storm gathers. <b>Lightning must strike the eye of the tempest.</b></td>
+  <td>In another time, we might have walked the same path. But you've already made your choice. There's no room for divided conviction.</td>
 </tr>
 <tr>
   <td>What?</td>
+  <td>...</td>
 </tr>
 <tr>
   <td>Just deliver the words exactly as I gave them. Brutus will understand. <i>*He snickers.*</i> ...Assuming he doesn't crush your ribs before you finish the sentence.</td>
+  <td>[See previous instance]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

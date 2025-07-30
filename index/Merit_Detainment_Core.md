@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 155519
+revid: 155729
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant, The Central Authority]
@@ -35,7 +35,7 @@ Upon entering, you will need to defeat the guards that are laid out through the 
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md">Titus' Armour Piece</a>, <a href="Wrath_Gem.md">Wrath Gem</a>, <a href="Warden's_Armor_Piece.md">Wardens Armour Piece</a>, Master Key, Override Key, Release Key, <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Spark_Gland.md">Spark Gland</a>, <a href="Gale_Stone.md">Gale Stone</a>, <a href="Dying_Embers.md">Dying Embers</a>, Deep Gems.</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Armorer's_Needle.md">Armourers Needle</a>, <a href="Smith's_Alloy.md">Smith's Alloy,</a> <a href="Enchantments.md">Storm Enchant Stone</a>, <a href="Enchantments.md">Stone Enchant Stone</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Armorer's_Needle.md">Armourers Needle</a>, <a href="Smith's_Alloy.md">Smith's Alloy,</a> <a href="Enchantments.md">Storm Enchant Stone</a>, <a href="Enchantments.md">Stone Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
   </ul></td>
 </tr>
 <tr>

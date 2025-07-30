@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 152038
+revid: 155709
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -17,18 +17,19 @@ categories: [Items, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +3 Health |
 | innate talent | N/A |
+| set | Redsteel Pauldrons, Redsteel Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, The Depths, Arena, Knives of Eylis Events, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Fort Merit, The Depths, Chime of Conflict, Knives of Eylis Events, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description
 
-Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md), by winning matches in [Arena](Chime_of_Conflict.md) and Knives of Eylis Events.
+Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md), by winning matches in [Chime of Conflict](Chime_of_Conflict.md) and Knives of Eylis Events.
 
 ## Trivia
 
 -   The **Red** counterpart to [Bluesteel Boots](Bluesteel_Boots.md).
--   Redsteel Boots are part of the “**Redsteel**” set; with the only other piece being the **[Redsteel Pauldrons](Redsteel_Pauldrons.md)**.

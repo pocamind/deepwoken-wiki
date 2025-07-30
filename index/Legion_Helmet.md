@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 154186
+revid: 155637
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Helmets, Items]
 | weight | 1 |
 | innate stats | +10 HP, +2 Posture, +1 Uncommon Pips |
 | innate talent | N/A |
+| set | Khan Helmet, Khan Pauldrons, Khan Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -31,5 +33,4 @@ The Khan Helmet is an [Equipment](Equipment.md) item under the "Head" category. 
 ## Trivia
 
 -   It is considered to be one of the best Head [Equipment](Equipment.md) piece due to having innate +2 Posture & +5 more HP than Gladiator Helmet, minus the Concussive Force Talent. However, you can argue that the following Helmets: [Blacksteel Helm](Blacksteel_Helm.md), [Silver Knight's Helm](<Silver_Knight's_Helm.md>), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), and [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) are the best headpieces due to being the only ones that can reach 30 HP.
--   The Khan Helmet is a part of the "Khan" set; together with the [Khan Boots](Legion_Boots.md) and [Khan Pauldrons](Legion_Pauldrons.md).
 -   Worn by enemy NPCs affiliated with [the Hundred Legions](The_Hundred_Legions.md).

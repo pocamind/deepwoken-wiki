@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 154970
+revid: 155624
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Helmets]
 | weight | 1 |
 | innate stats | +5 Health, +2 Posture, +1 Rare Pip |
 | innate talent | Concussive Force |
+| set | Gladiator Helmet, Gladiator Pauldrons |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -36,5 +38,4 @@ It also grants the [Talent](Talents.md) Concussive Force: Enemies you knock rema
     -   [Khan Helmet](Legion_Helmet.md) is similar to Gladiator Helmet, but it sacrifices Concucssive Force for +5 HP.
 -   If you're looking for alternate options for Head [Equipment](Equipment.md), [Deepwoken Hood](Deepwoken_Hood.md) & [Vigil Hood](Vigil_Hood.md) both offer the best pips required to reach the highest amount of DVM/Phys Armor/Elem Armor/Mons Armor, but sacrifices any innate stats.
 -   Worn by one of the three [Sky Statues](Sky_Statue.md).
--   Part of the "Gladiator" set, the only other piece being [Gladiator Pauldrons](Gladiator_Pauldrons.md)
 -   October 25th, 2024, the helmet was nerfed down to 5 HP from 10 HP.

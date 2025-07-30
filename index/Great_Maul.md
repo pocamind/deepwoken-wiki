@@ -1,9 +1,11 @@
 ---
 title: Great Maul
-revid: 154381
+revid: 155689
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
+notices:
+  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily.Reason: Great Maul has become a placeholer item (unusable) and is no longer obtainable since July 24th, 2025."
 ---
 
 # Great Maul
@@ -45,4 +47,3 @@ If the first hit misses, or if the first or second hits get parried, the critica
 -   At max HVY, the damage is (40.6)
 -   Great Maul is the second fastest Greathammer tied with the [Alloyed Steel Maul](Steel_Maul.md), having a swing speed of 0.85x. It is succeeded by the [Boltcrusher](Boltcrusher.md) with a swing speed of 0.87x.
 -   Prior to the [update on March 31st 2025](Version_History/2025.md), the Great Maul requirements was 65 HVY, 30 STR
--   Great Maul being an unobtainable weapon at moment

@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Plate
-revid: 155406
+revid: 155609
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -25,10 +25,6 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | Made light to protect only the essentials, Evanspear Centurions put all their strength into a single blow, believing the best defense is a brutal offense. |
-
-Evanspear War Set
-
-Variants: [Evanspear War Helmet](Evanspear_War_Helmet.md)
 
 ## Description
 

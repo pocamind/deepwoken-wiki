@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cape
-revid: 153775
+revid: 155604
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Capes]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Torso, Capes]
 | weight | 0.5 |
 | innate stats | +2% Stealth, +5% Shadow Armor, +2% Elemental Armor, 1 Legendary Pip |
 | innate talent | N/A |
+| set | Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -30,9 +32,6 @@ The Dark Owl Cape is an [Equipment](Equipment.md) item under the "Torso" categor
 
 Due to resistances being combined multiplicatively rather than additively, this equipment grants 6.9% Shadowcast armor and 2% Elemental armor. That's pretty good for a torso equipment.
 
-  
-
 ## Trivia
 
--   The Dark Owl Cape is a part of the "**Dark Owl**" set, with the other armor pieces being the **[Dark Owl Chapeau](Dark_Owl_Chapeau.md)** and the **[Dark Owl Cloak](Dark_Owl_Cloak.md)**.
 -   You are unable to dye this equipment.

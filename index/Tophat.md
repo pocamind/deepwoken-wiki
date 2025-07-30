@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 152422
+revid: 155659
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Hats, Items]
 | weight | 1 |
 | innate stats | +4 Health, +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Give and Take |
+| set | Tophat, Aristocrat Coat, Aristocrat Eyeglasses |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

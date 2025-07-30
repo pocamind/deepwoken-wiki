@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Robes
-revid: 155457
+revid: 155621
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -24,10 +24,6 @@ categories: [Equipment, Arms]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | In the Hundred Legion's territory, stealing is considered worse than murder. To kill is to live by a code and fight with honor; but a thief has no place among soldiers. |
-
-Western Outlaw Set
-
-Variants: [Western Outlaw Hat](Western_Outlaw_Hat.md)
 
 ## Description
 

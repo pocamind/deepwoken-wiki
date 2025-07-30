@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 153544
+revid: 155692
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -16,6 +16,8 @@ categories: [Items, Equipment, Legs, Boots]
 | requirements | PWR 4 |
 | innate stats | +5 Health |
 | innate talent | N/A |
+| set | Grand Pauldrons, Grand Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,9 +29,6 @@ categories: [Items, Equipment, Legs, Boots]
 
 Grand Boots are accessories under the "_Boots_" category. They can only be found through chests in [The Depths](The_Depths.md).
 
-Grand Boots are part of the "**Grand**" set; with the only other armor piece being the **[Grand Pauldrons](Grand_Pauldrons.md)**.
-
 ## Trivia
 
--   Worn by [The Meat Lord](The_Meat_Lord.md).
--   Despite being common rarity, these boots are rather rare.
+-   Worn by [The Meat Lord](The_Meat_Lord.md) along with the rest of the Grand set.

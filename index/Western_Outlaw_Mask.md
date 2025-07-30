@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Mask
-revid: 155470
+revid: 155623
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -23,10 +23,6 @@ categories: [Equipment, Face, Masks]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | A mask to perfectly conceal one's entire face when paired with a hat, its also able to conceal one's true strength. |
-
-Western Outlaw Set
-
-Variants: [Western Outlaw Hat](Western_Outlaw_Hat.md)
 
 ## Description
 

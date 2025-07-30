@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 153266
+revid: 155695
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -15,20 +15,20 @@ categories: [Items, Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +2 Health +2 Rare Pips obtainment=* Miner's Landing, Second Layer, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
+| innate stats | +2 Health+2 Rare Pips |
+| innate talent | Endurance Runner |
+| set | Mercenary's Garb, Mercenary's Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
+| obtainment | Miner's Landing, Second Layer, Merchant Ships, Duke Ishamon Erisia, Heart of Enmity, Crypt of the Unbroken, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Saramaed Hollow |
 | description | ... |
-
-Variants: [Mercenary's Garb](<Mercenary's_Garb.md>)
 
 ## Description
 
 Mercenary Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. This equipment grants +2 health and a Talent named _[Endurance Runner](Talents.md#alley-cat)_, which negates the speed penalty of low health.
-
-The Mercenary's Boots are part of the **Mercenary's** set; with the only other armor piece being the **[Mercenary's Garb](<Mercenary's_Garb.md>)**.
 
 ## Trivia
 

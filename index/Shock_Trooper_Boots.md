@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Boots
-revid: 155419
+revid: 155568
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -24,10 +24,6 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | The only thing that surpasses a Shock Trooper's Brutality is their speed. |
-
-Shock Trooper Set
-
-Variants: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Boots
-revid: 154602
+revid: 155700
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -26,14 +26,6 @@ categories: [Items, Equipment, Legs, Boots]
 | obtainment | Chests from:, Miner's Landing, Second Layer, Crypt of the Unbroken, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
-Winter Corps Set
-
-Variants: [Winter Corps Parka](Winter_Corps_Parka.md)
-
 ## Description
 
 Winter Corps Boots is an [Equipment](Equipment.md) piece under the "**Legs**" category. They can be found through chests in [Miner's Landing](<Miner's_Landing.md>), the [Second Layer](Second_Layer.md) and the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
-
-## Trivia
-
--   The Winter Corps Boots is a part of the "**Winter Corps**" set; which currently only include the **[Winter Corps Parka](Winter_Corps_Parka.md)**.

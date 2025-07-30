@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 153542
+revid: 155630
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, The Divers]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Plates, The Divers]
 | weight | 2 |
 | innate stats | +10 Health, +1 Posture, +3 Legendary Pips |
 | innate talent | Diver's Resilience |
+| set | Grand Fisher Helm, Grand Fisher Plate |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

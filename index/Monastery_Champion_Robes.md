@@ -1,6 +1,6 @@
 ---
 title: Monastery Champion Robes
-revid: 152715
+revid: 155643
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms]
 | weight | 2 |
 | innate stats | +8 Health, +1 Posture, +2 Legendary Pips, +1 Rare Pip |
 | innate talent | Temple Guard |
+| set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -32,6 +34,5 @@ The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Ar
 
 ## Trivia
 
--   The Monastery Champion Robes are part of the "Monastery Champion" set, with the other pieces being the [Monastery Beads](Monastery_Beads.md) and [Monastery Cowl](Monastery_Cowl.md).
-    -   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
+-   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
 -   Owing to its high innate health, pips and unique talent, the Monastery Champion Robes are a very competent endgame Arms Equipment, coming close to the likes of the [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) and the [Diver's Light Plate](<Diver's_Light_Plate.md>).

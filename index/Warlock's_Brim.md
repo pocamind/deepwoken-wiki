@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Brim"
-revid: 153929
+revid: 155664
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hats, Items, Equipment, Head, World Event]
@@ -16,6 +16,8 @@ categories: [Hats, Items, Equipment, Head, World Event]
 | requirements | PWR 16 |
 | innate stats | +5 Health, +2 Legendary Pips |
 | innate talent | N/A |
+| set | Warlock's Brim, Warlock's Mantle |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,7 +28,3 @@ categories: [Hats, Items, Equipment, Head, World Event]
 ## Description
 
 The Warlock's Brim is a Unique tier [Equipment](Equipment.md) item under the "Hats" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md).
-
-## Trivia
-
--   It is a part of the Warlock set along with the [Warlock's Mantle](<Warlock's_Mantle.md>).

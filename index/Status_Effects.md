@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 155136
+revid: 155544
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -264,6 +264,10 @@ Gain 10% elemental resistance. Applied through the [Reclaimed Glass](Talents.md#
 
 Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
 
+### Bottom Freeze
+
+Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling](Chilling.md) enchantment and the [Bottom Freeze](Talents.md#ice-age) Talent. Signified by the legs of your character being frozen in ice.
+
 ### Shock
 
 Increases the hitstun of the attack that applied this status effect (0.9s to 1s). This does not affect your ability to parry. Shock's hitstun bypasses [hyperarmor](#hyperarmor), but not [true hyperarmor](#true-hyperarmor). Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
@@ -396,9 +400,17 @@ Takes a percentage of your maximum Ether and grants it to your Vow Master. Appli
 
 Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whenever you cast a Mantra while affected by this status, you'll take damage. Signified by yellow and green lightning arcing out of your character.
 
-### Bottom Freeze
+### Wrath
 
-Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling](Chilling.md) enchantment and the [Bottom Freeze](Talents.md#ice-age) Talent. Signified by the legs of your character being frozen in ice.
+This effect does not do anything innately, but allows you to proc the talents from the [Reinforced War Set](Reinforced_War_Helmet.md) for 9 seconds after landing a Mantra with a [Wrath Gem](Wrath_Gem.md) equipped. This effect has no visual indicator.
+
+### Fearful
+
+Applied through the [Reinforced War Set's](Reinforced_War_Helmet.md) Talent _Lasting Trauma_; be unable to use your weapon critical for **9 seconds** after being hit by a [Strength](Attunement-less.md#strength) Mantra that has a [Wrath Gem](Wrath_Gem.md) equipped. Note: you need to be wearing the **full** Reinforced War set for this to proc, this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) all need to be equipped. Indicated by pink shard effects rapidly escaping your character.
+
+### Ruptured Lungs
+
+Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though applied most notably through the Strength Talent, [Collapsed Lung](Talents.md#annihilator), this effect can also be applied through the [Reinforced War Plate's](Reinforced_War_Plate.md) Talent, _Crippling Impact_. This effect has no visual indicator.
 
 ### Harrowing
 

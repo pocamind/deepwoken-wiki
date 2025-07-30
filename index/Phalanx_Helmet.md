@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 152556
+revid: 155646
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Helmets, Items]
 | weight | 1 |
 | innate stats | +3 HP, +1 Rare Pip, +1 Legendary Pips |
 | innate talent | Precise Swing |
+| set | Phalanx Helmet, Legion Phalanx Plate, Phalanx Heavy Boots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,7 +29,3 @@ categories: [Equipment, Head, Helmets, Items]
 ## Description
 
 The Phalanx Helmet is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you randomized stats based on the amount of pips.
-
-## Trivia
-
--   This item is part of the "Phalanx" set, the other items being [Legion Phalanx Plate](Legion_Phalanx_Plate.md) & [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md).

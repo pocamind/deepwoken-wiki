@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 155534
+revid: 155614
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -18,7 +18,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 | innate stats | +6 Health, +1 Posture, +2 Rare Pips |
 | innate talent | Crippling Impact |
 | set | Reinforced War Helmet, Reinforced War Plate, Reinforced War Boots |
-| set talent | N/A |
+| set talent | Lasting Trauma |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

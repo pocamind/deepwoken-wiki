@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 153773
+revid: 155603
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Arms, Cloaks]
 | weight | 2 |
 | innate stats | +6% Stealth, +8% Shadow Armor, +1 Rare Pip, 1 Legendary Pip |
 | innate talent | Disbelief |
+| set | Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -30,9 +32,6 @@ The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" categor
 
   
 
-  
-
 ## Trivia
 
--   This item is part of the Dark Owl series consisting of the [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and the [Dark Owl Cape](Dark_Owl_Cape.md).
 -   You are unable to dye this equipment.

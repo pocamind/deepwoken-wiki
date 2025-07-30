@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 152625
+revid: 155702
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -17,6 +17,8 @@ categories: [Items, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
+| set | Novice Brace, Novice Booots |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,5 +29,3 @@ categories: [Items, Equipment, Legs, Boots]
 ## Description
 
 Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Summer Isle](Summer_Isle.md).
-
-Novice Boots are part of the "**Novice**" set; with the only other armor piece being the **[Novice Brace](Novice_Brace.md)**.

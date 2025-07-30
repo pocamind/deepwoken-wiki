@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 154130
+revid: 155649
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -17,6 +17,8 @@ categories: [Equipment, Head, Helmets, Items]
 | weight | 1 |
 | innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
+| set | Silver Knight's Helm, Silver Pauldrons, Silver Sabatons |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,7 +28,7 @@ categories: [Equipment, Head, Helmets, Items]
 
 ## Description
 
-The Knight's Helm is an Equipment in the "_Head_" category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of Pips. It is also worn by the [Upgraded Celtorian Guard](Celtorian_Guard.md) found in wave 46 of the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The Silver Knight's Helm, formerly known as the Knight's Helm, is an Equipment in the "_Head_" category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of Pips. It is also worn by the [Upgraded Celtorian Guard](Celtorian_Guard.md) found in wave 46 of the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
   
 

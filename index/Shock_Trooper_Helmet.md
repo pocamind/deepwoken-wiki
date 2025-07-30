@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Helmet
-revid: 155418
+revid: 155567
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -24,8 +24,6 @@ categories: [Equipment, Head, Helmets]
 | pass down | Yes |
 | obtainment | Merit Detainment Core |
 | description | The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story. |
-
-Shock Trooper Set
 
 ## Description
 
