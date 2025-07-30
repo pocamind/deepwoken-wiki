@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 155617
+revid: 155778
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -48,7 +48,7 @@ Set Bonus: [Offensive Recovery](Talents.md#set-talents) - If all your mantras ha
 
 This item is obtained by crafting the [Western Outlaw Robes](Western_Outlaw_Robes.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + ? + ?.
+1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md).
 2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + ? + ?.
 3.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + ? + ?.
 4.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + ? + ?.

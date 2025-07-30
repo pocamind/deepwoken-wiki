@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 155234
+revid: 155781
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -162,7 +162,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _It's not overpriced, I swear!_
 -   _Looks valuable, you should buy it!_
 -   _Now see, I would buy this. From myself._
--   _Oh haha, that's not dust that's uhm... and expensive finish, probably a fashion thing._
+-   _Oh haha, that's not dust that's uhm... an expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_

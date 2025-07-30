@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 149670
+revid: 155757
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -39,6 +39,7 @@ You can easily get canteen at power level 1 if you know where to look: [https://
 
 -   You can also use a well to drink or refill your canteen.
     -   As well as this, you can use the blood pool in the [Derelict Highchurch](Derelict_Highchurch.md), no [Starkindred](Oath%253A_Starkindred.md) included.
+    -   You could also use the "honey" pool in [Greathive Aratel](Greathive_Aratel.md)
 -   The canteen is known by many as the red calabash.
 -   Collecting water from the ocean or acid can cause you to vomit unless you have a purifying ring equipped.
 -   The [Old Stranger](Random_Encounters.md#old-stranger) asks for water. If you have a canteen full with freshwater and you speak to him, he will grant you [Ardour](Murmur%253A_Ardour.md). Therefore, for players who do not have a [Murmur](Murmur.md), it is recommended to keep a full canteen of freshwater on them at all times.

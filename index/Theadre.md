@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 152412
+revid: 155760
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -51,79 +51,76 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="3">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Oh King... Do you hear our calls? Do your hear our cries for help?</td>
+  <td colspan="3">Oh King... Do you hear our calls? Do your hear our cries for help?</td>
 </tr>
 <tr>
-  <td colspan="4">Who is this king you speak of?</td>
-  <td colspan="4">What do you think of The Lord Regent?</td>
-  <td colspan="4">This King - is he some kind of god?</td>
+  <td>Who is this king you speak of?</td>
+  <td colspan="2">This King - is he some kind of god?</td>
 </tr>
 <tr>
-  <td colspan="4">The King who will cast aside the aspersions fabricated by your kind...</td>
-  <td colspan="4">He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
-  <td colspan="4">A god? Amongst men, perhaps. The King shall be the vessel of Mur's light - he who once commanded the <font>Murmur</font> greater than any other. It is said that his <font>Ardour</font> could cut the seas themselves... But where are you now, oh King?...</td>
+  <td>The King who will cast aside the aspersions fabricated by your kind...</td>
+  <td colspan="2">A god? Amongst men, perhaps. The King shall be the vessel of <a href="Glossary.md#mur-of-light">Mur's</a> light - he who once commanded the <a href="Glossary.md#soul-murmur">Murmur</a> greater than any other. It is said that his <font>Ardour could cut the seas themselves... But where are you now, oh King?...</font></td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
-  <td colspan="4">End</td>
-  <td colspan="2">Mur?</td>
-  <td colspan="2">That's some impressive Ardour. Any clue how?</td>
+  <td>End</td>
+  <td>Mur?</td>
+  <td>That's some impressive Ardour. Any clue how?</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
-  <td colspan="2">Aye... Eldest mother of our people, Mur Of Light... She who descended from the Heavens and brought out the Light of our souls in our darkest days...</td>
-  <td colspan="2">Only through many battles and many voyages... Some say that the king struck a bet with Mur and won her heart, and all of us in this Kingdom her Light... Some day, we'll see it again. I'm sure of it...</td>
+  <td></td>
+  <td>Aye... Eldest mother of our people, <a href="Glossary.md#mur-of-light">Mur</a> Of Light... She who descended from the <a href="Glossary.md#the-heavens">Heavens</a> and brought out the Light of our souls in our darkest days...</td>
+  <td>Only through many battles and many voyages... Some say that the king struck a bet with <a href="Glossary.md#mur-of-light">Mur</a> and won her heart, and all of us in this Kingdom her Light... Some day, we'll see it again. I'm sure of it...</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
-  <td colspan="2">End</td>
+  <td></td>
   <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
 
-**Having Soulbreaker:**
+**Unlockable Dialogues:**
+
+**Soulbreaker:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Oh... The light of you... it's as if the King were standing before me... Truly, you are blessed by Mur's light...</td>
+  <td colspan="2">Oh... The light of you... it's as if the King were standing before me... Truly, you are blessed by Mur's light...</td>
 </tr>
 <tr>
-  <td colspan="4">Who is this king you speak of?</td>
-  <td colspan="4">What do you think of The Lord Regent?</td>
-  <td colspan="4">This King - is he some kind of god?</td>
+  <td>Who is this king you speak of?</td>
+  <td>This King - is he some kind of god?</td>
 </tr>
 <tr>
-  <td colspan="4">The King who will cast aside the aspersions fabricated by your kind...</td>
-  <td colspan="4">He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
-  <td colspan="4">A god? Amongst men, perhaps. The King shall be the vessel of Mur's light - he who once commanded the <font>Murmur</font> greater than any other. It is said that his <font>Ardour</font> could cut the seas themselves... But where are you now, oh King?...</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Duke Questline:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
-  <td colspan="4">End</td>
-  <td colspan="2">Mur?</td>
-  <td colspan="2">That's some impressive Ardour. Any clue how?</td>
+  <td>Oh King... Do you hear our calls? Do your hear our cries for help?</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
-  <td colspan="2">Aye... Eldest mother of our people, Mur Of Light... She who descended from the Heavens and brought out the Light of our souls in our darkest days...</td>
-  <td colspan="2">Only through many battles and many voyages... Some say that the king struck a bet with Mur and won her heart, and all of us in this Kingdom her Light... Some day, we'll see it again. I'm sure of it...</td>
+  <td>What do you think of The Lord Regent?</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
-  <td colspan="2">End</td>
-  <td colspan="2">End</td>
+  <td>He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>

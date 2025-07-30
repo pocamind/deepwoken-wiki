@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 153320
+revid: 155731
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer]
@@ -22,11 +22,11 @@ categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First La
 
 Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the end of [Castle Light](Castle_Light.md). She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
-She is a young Canor, who sports curly bangs that end onto her shoulders. Her pupils are much more pale as well as having unique facial markings down to her cheeks, and a floating orb that resembles the [Moonseye](Moonseye.md), as a result of being the inventor of Radiant Magic. She wears the standard [coat of the Black Divers](Black_Diver.md).
+She is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a "web" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the [Moonseye](Moonseye.md), as a result of being the inventor of Radiant Magic. She wears the standard [coat of the Black Divers](Black_Diver.md).
 
 Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
-She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md), for disagreeing with her and how she reacts to players under power 15 talking to her.[\[3\]](#cite-note-3)
+She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her and how she reacts to players under Power 15 talking to her.[\[3\]](#cite-note-3)
 
 ## Dialogue
 

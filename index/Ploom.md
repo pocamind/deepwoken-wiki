@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 154969
+revid: 155750
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -109,6 +109,12 @@ He wears the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 </tr>
 <tr>
   <td>Ah, hello friend! I hope you're finding use with what I taught you.</td>
+</tr>
+<tr>
+  <td colspan="4">What can you tell me about Pleeksty?</td>
+</tr>
+<tr>
+  <td>Oh, a few things, I hope! The man known as Amorus <a href="Glossary.md#amorus-pleeksty">Pleektsy</a> is thought to have been pre-tidal, born at the advent of the <a href="Glossary.md#the-canticlysm">Canticlysm</a>. We know that <a href="Glossary.md#amorus-pleeksty">Pleektsy</a> hailed from the Tiran homelands, and it's thought that the cave he descended into is somewhere in their vicinity. This cave, of course, is thought to lead directly to the <a href="Glossary.md#the-vents-the-third-layer">Third Layer</a> of the <a href="Glossary.md#the-depths">Depths</a>. It was there that <a href="Glossary.md#amorus-pleeksty">Pleeksty</a> laid claim to his prize - a flower of <a href="Glossary.md#korilfiend-the-infernos-provenance">Korilfiend</a>.</td>
 </tr>
 <tr>
   <td>End</td>

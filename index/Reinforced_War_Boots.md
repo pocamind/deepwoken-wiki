@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 155612
+revid: 155776
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -48,7 +48,4 @@ The [Fearful](Status_Effects.md#fearful) status effect lasts for 9 seconds after
 
 This item is obtained by crafting the [Evanspear War Boots](Evanspear_War_Boots.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-1.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + ? + ?.
-2.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + ? + ?.
-3.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + ? + ?.
-4.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + ? + ?.
+1.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + 5 [Forge Needles](Forge_Needle.md) + 3 [Wrath Gems](Wrath_Gem.md).

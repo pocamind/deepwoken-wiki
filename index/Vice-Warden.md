@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 155353
+revid: 155737
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,10 +25,10 @@ The Vice-Warden pins his opponent down and slits their throat with his blade.
 
 ## Tips
 
--   Assassinate them to deal major damage.
--   Avoid being hit by their M1s or Critical Attacks, as they will do major damage to even the tankiest of builds.
--   Their AI is extremely intelligent, however they cannot parry most mantras, use this to your advantage.
--   Their weapons can be enchanted with 3 separate enchantments.
+-   Assassinate him to deal major damage.
+-   Avoid being hit by his M1s or Critical Attacks, as they will do major damage to even the tankiest of builds.
+-   His AI is extremely intelligent, however he cannot parry most mantras, use this to your advantage.
+-   His weapon can be enchanted with 3 separate enchantments.
 
 ## Trivia
 

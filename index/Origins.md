@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 152583
+revid: 155755
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -42,7 +42,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One.
 -   **\[PRO\]** Spawns you directly inside the [Trial of One](Trial_of_One.md).
 -   **\[PRO\]** Allows use of the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md).
--   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the [Fragments of Self](Fragments_of_Self.md), however you must have defeated the [Megalodaunt](Megalodaunt.md) to have this option.
+-   **\[PRO\]** Dying in the Trial of One gives you an option to instantly send you to the [Fragments of Self](Fragments_of_Self.md).
 -   **\[CON\]** Your default spawn puts you extremely close to enemy territory, and there is no nearby town.
 
 ## Deepbound

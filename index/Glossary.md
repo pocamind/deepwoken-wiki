@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 155608
+revid: 155764
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -45,7 +45,7 @@ Dialogue: | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-t
 -   A [Drowned God](#the-drowned-gods) said to preside over Heat.
 -   A flower containing vestiges of Korilfiend's power is said to have been consumed by Amorus [Pleeksty](#amorus-pleeksty), who later developed the art of [Flamecharming](#flamecharm).
 
-Dialogue: | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [The Vents, the Third Layer](#the-vents-the-third-layer)
+Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [The Vents, the Third Layer](#the-vents-the-third-layer)
 
 ### The High Convocation
 
@@ -113,10 +113,10 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 
 ### Mur of Light
 
--   A Goddess worshipped by many in the Etrean Luminant.
--   Many believe that Mur was responsible for bringing about the knowledge that Murmurs to the Kingdom of Etrea.
--   As with many Gods, the contemporary understanding is that Mur may have been a Celestial.
--   Andros said they hadn't seen any accounts of Mur outside of the Etrean Luminant.
+-   A Goddess worshipped by many in the [Etrean Luminant](#the-etrean-luminant).
+-   Many believe that Mur was responsible for bringing about the knowledge that [Murmurs](#soul-murmur) to the Kingdom of Etrea.
+-   As with many Gods, the contemporary understanding is that Mur may have been a [Celestial](#the-celestials).
+-   Andros said they hadn't seen any accounts of Mur outside of the [Etrean Luminant](#the-etrean-luminant).
 
 Dialogue: [Theadre](Theadre.md) | Books: | Glossary Entries:
 
@@ -185,7 +185,7 @@ Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: 
 -   One's Soul Murmur is broadly speaking, the 'signature' or characteristics of one's Soul.
 -   With training, one can alter the expression of their Murmur. These expressions of the Soul are often referred to as 'Murmurs'.
 
-Dialogue: | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
+Dialogue: [Theadre](Theadre.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
 
 ### Oaths
 
@@ -246,7 +246,7 @@ Dialogue: | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Night
 -   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the [Song](#the-song) within [Lumen](#lumen).
 -   A time of great expansion, discovery, and conflict.
 
-Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
+Dialogue: [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
 
 ### The Shallows
 
@@ -339,7 +339,7 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 -   The waters of the Heavens are known as the [Nightsea](#the-nightsea).
 -   The former home of the [Celestials](#the-celestials).
 
-Dialogue: | Books: | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials)
+Dialogue: [Theadre](Theadre.md) | Books: | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials)
 
 ### The Lullaby Isles
 
@@ -437,7 +437,7 @@ Dialogue: | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary 
 -   Said to be the inhospitable waste where the [Drowned God](#the-drowned-gods) [Korilfiend](#korilfiend-the-infernos-provenance) resides.
 -   Riddled with thermal [vents](#the-vents-the-third-layer) and geysers that exude extreme temperature. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
 
-Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Scyphozia, The First Layer](#scyphozia-the-first-layer), [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
+Dialogue: [Ploom](Ploom.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Scyphozia, The First Layer](#scyphozia-the-first-layer), [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
 
 ### The Echelon
 

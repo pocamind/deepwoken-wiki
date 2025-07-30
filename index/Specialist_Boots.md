@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 155546
+revid: 155780
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -48,4 +48,4 @@ Additionally, this turns your [Thundercall](Thundercall.md) Mantras green and yo
 
 This item is obtained by crafting the [Shock Trooper Boots](Shock_Trooper_Boots.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 16 [Smith's Alloy](<Smith's_Alloy.md>) + [3 Windswept Enchant Stones](Enchant_Stone.md).
+1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).

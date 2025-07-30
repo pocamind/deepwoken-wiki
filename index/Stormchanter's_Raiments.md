@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 152330
+revid: 155753
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, World Event]
@@ -43,4 +43,4 @@ This Outfit has 2500 durability and grants +25% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Thundercall, and 30% Elemental.
 
-It gives the [Kickstart](Talents.md#kickstarter) and [Static Mastery](Talents.md#equipment-talents) Talents. **Static Mastery** removes the stun and health cost of using [Static Withdraw](Talents.md#thundercall). **Kickstart** revives knocked out players at the cost of putting yourself in a lengthy animation. (Currently bugged as it doesn't show up in your inventory.)
+It gives the [Kickstart](Talents.md#kickstarter) and [Static Mastery](Talents.md#equipment-talents) Talents. **Static Mastery** removes the stun and health cost of using [Static Withdraw](Talents.md#thundercall). **Kickstart** revives knocked out players at the cost of putting yourself in a lengthy animation.
