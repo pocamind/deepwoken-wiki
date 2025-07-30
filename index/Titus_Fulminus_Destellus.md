@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155806
+revid: 155830
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -227,7 +227,7 @@ Dodgeable:
 
 ### Tips and strategies.
 
--   The guards in the main cell block room can serve as a health pack, but Titus can one shot them before you deal enough damage to earn the heal as well as the don't respawn.
+-   The guards in the main cell block room can serve as a health pack, but Titus can one shot them before you deal enough damage to earn the heal as well as they don't respawn.
 -   During his second phase transition, there is a small window where you can place a campfire down during his dialogue and heal.
 -   Since [Vampirism](Enchantments.md) grants Temporary health and not outright bonus healing, it will bypass blightsurge wither.
 -   Chorus Divide can be easily avoided by climbing up to high ground like on the generator or on scaffolding near the walls.

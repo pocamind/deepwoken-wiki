@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 154655
+revid: 155823
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -128,7 +128,6 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   If you are wearing the Arc Suit while gliding and the Arc Suit breaks off, your glider will be forcibly put away.
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 -   By taking a helmet off via your inventory, hair will be visible even while Arcwarder is active.
--   This and [Saintsworn](Oath%253A_Saintsworn.md) are the only [Oaths](Oaths.md) to require any points invested in an [Attunement](Attunements.md).
 -   This and [Oathless](Oath%253A_Oathless.md) are the only 2 Oaths that have no cosmetics as the Arc Suit is a Mantra.
 -   Dexerius is planning to rework the Oath, adding a "defense mode" and a "attack mode" feature.
 

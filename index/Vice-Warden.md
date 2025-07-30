@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 155816
+revid: 155829
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,7 +17,18 @@ He can be a Capra with spiked hair, or a Celtor with short hair and a beard. He 
 
 ## Moveset
 
-?
+Their arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) aswell as the [Galebreathe](Galebreathe.md) and the [Thundercall](Thundercall.md) attunement:
+
+| Name | Desciption | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | The Vice-Warden swings their blade at their opponent 3 times and finishes with a kick. | ◯ | ◯ | (★★☆) |
+| Critical | The Vice-Warden spins around and then launches a blast of air. | ◯ | ◯ | (★★★) |
+| Wind Gun | The Vice-Warden points their arm at a target then launches a bullet of air. | ◯ | ✗ | (★★☆) |
+| Updraft | The Vice-Warden winds up and then spins around while creating a fierce upwards air current. | ◯ | ◯ | (★★☆) |
+| Twister Kicks | The Vice-Warden spins around, unleashing a flurry of 4 kicks infused with the wind. | ◯ | ◯ | (★☆☆) |
+| Windfall | The Vice-Warden unleashes a large downward blast of pressurised air, dealing huge amounts of damage. | ◯ | ✗ | (★★★) |
+| Lightning Cloak | The Vice-Warden cloaks themselves in lightning, increasing their swing speed. | ✗ | ✗ | (☆☆☆) |
+| Restrain | The Vice-Warden twists and then kicks, applying a chain to those hit. | ◯ | ◯ | (★☆☆) |
 
 ## Finisher
 

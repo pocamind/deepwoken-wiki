@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 154915
+revid: 155831
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -34,8 +34,8 @@ If Chorus Divide is corrupted, its wind-up is significantly longer and deals inc
 
 When obtained, Chorus Divide will spend its points on the following stats:
 
--   Wind-up time
--   Rotation Speed
+-   Wind-up speed
+-   Rotation speed
 
 #### _Attunements_
 

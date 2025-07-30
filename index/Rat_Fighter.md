@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 149018
+revid: 155833
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -28,6 +28,7 @@ Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Att
 | Critical | Raises axe upward before slamming it down to the ground. | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | Heavenly Wind | User leaps high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
+| Onslaught | User _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._ | ◯ | ◯ | (★★☆) |
 
 ## Finisher
 
