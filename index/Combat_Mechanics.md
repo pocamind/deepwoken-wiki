@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 155028
+revid: 155788
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -339,6 +339,16 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Taunt</th>
   <td>By pressing <kbd>T</kbd>, you can perform a taunt, colloquially refered to as a "spit" or "spitting". When taunting, the player character spits directly in-front of them. Whilst initially unassuming, the taunt has a special application in combat.<p>By spitting while your face is right up against another Humanoid's face (or perhaps spitting towards a Humanoid whilst they're facing the opposite direction you are when they're a few studs away from you), their vision will be briefly blurred (exact amount of time unconfirmed) and you will heal ~5% of your health and restore a large sum of your posture (exact amounts unconfirmed). This is a risky maneuver, though, as taunting has a considerable amount of startup and endlag, and you're usually better off just attacking your opponent. Due to this glaring flaw, the Taunt should only be used as a method of, well, taunting foes you deem inferior, or perhaps even as a risky mixup. <i>Based on the name, it's possible that more taunts were meant to be added, but this is not confirmed by any developers. It's very likely that the developers simply wanted the Taunt to be a spit, though.</i></p>
   <p>An example of effective usage of taunt in combat is spitting during <a href="Legion_Kata.md">Legion Kata</a>'s critical. The target will be stunlocked during the crit, but allows the user to spit during the animation, effectively healing your health and posture without any risk.</p></td>
+</tr>
+<tr>
+  <th>Chase Attack</th>
+  <td>By initiating a running attack while chasing an opponent, speed up to catch your opponent and attack them. This has a short cooldown and can close large distances.</td>
+</tr>
+<tr>
+  <th>Air Counter</th>
+  <td>When initiating an aerial attack while your opponent is performing an action to escape you, quickly close the distance and hit them. This deals 10% of your weapon's melee damage.<p><br>
+  </p>
+  <p>Air Counter can be initiated by aerial attacking when your opponent: climbs something, uses the Galebreathe Talent <a href="Galebreathe.md#legion-shock-trooper">Wind Step</a>, uses a <a href="Lifevents.md">Lifevent</a>, casts any of the following Mantras: <a href="Attunement-less.md#strong-leap">Strong Leap</a>, <a href="Flamecharm.md#flame-leap">Flame Leap</a>, or <a href="Bloodrend.md#vein-tendrils">Vein Tendrils</a>, or feints any of the following Mantras: <a href="Bloodrend.md#vicious-descent">Vicious Descent</a> or <a href="Galebreathe.md#heavenly-wind">Heavenly Wind</a>.</p></td>
 </tr>
 </tbody>
 </table>

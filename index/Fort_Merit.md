@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 155766
+revid: 155789
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -70,18 +70,6 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 -   With her assistance, you will have to fight 6 [Authority peacekeepers](Authority_Peacekeeper.md).
 -   Gripping at least five signifies that you have completed the quest.
 -   Return to Meteor Isle and gain 2 [knowledge](Knowledge.md).
-
-Evil Agamatsu questline
-
--   Watch 10 hours of Agamatsu
--   200 Strength
--   Go to the authority prison and beat titus with no damage
--   Under the bridge there is a secret door with a summoning ritual
--   It cost 16 sinners ash and two freshie souls
--   Using these will summon the Evil Agamatsu, Corrupted Freshie God bossfight
--   beating him drops 10 Emnity chest and 5 Titus Chest, along with his own chest that can drop a glock
--   It is HIGHLY recommended to bring 6 people since all his attack give 50% wither
--   all his attack are undodgable, unblockable and unparryable
 
 ## Rep Resets
 

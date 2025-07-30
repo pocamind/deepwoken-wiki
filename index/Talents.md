@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 155754
+revid: 155794
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3783,8 +3783,8 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md) while in Arc suit.
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 -   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
-    -   Additionally turns your [Thundercall](Thundercall.md) Mantras green and your [Galebreathe](Galebreathe.md) Mantras yellow.
-        -   The recolor only applies to [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), [Astral Wind](Galebreathe.md#astral-wind), and [Gale Lunge](Galebreathe.md#gale-lunge). Additionally, Surge Path completely overrides the recolor, turning your Thundercall Mantras blurple once again. Specter path does not have this issue, your Galebreathe Mantras will still be yellow.
+    -   Additionally, this turns your [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), and [Thunder Kick](Thundercall.md#thunder-kick) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will gain a damage buff as well.
+        -   Surge Path completely overrides the recolor, turning your Thundercall Mantras blurple once again. Specter path does not have this issue, your Galebreathe Mantras will still be yellow.
     -   Has no cooldown in PvE, making this very strong for high multihitting Mantras like [Electro](Thundercall.md#electro-carve)/[Wind Carve](Galebreathe.md#wind-carve) or [Tornado](Galebreathe.md#tornado).
         -   This also has no PvE scaling, making it much weaker for lower hit count Mantras.
     -   Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)

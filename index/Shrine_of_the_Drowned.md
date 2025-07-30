@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 149600
+revid: 155783
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Death]
@@ -22,58 +22,52 @@ The Shrine of the Drowned is an NPC located in the [Fragments of Self](Fragments
 
 ## Dialogue
 
-**Player is Power 2 or above:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">The shrine stands immaculate amongst the rubble.</td>
-</tr>
-<tr>
-  <td colspan="6">1. [Inspect]</td>
-  <td colspan="6">2. [End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="6">You know why it stands here-it offers an alternative. It beckons you to offer a part of who you are to the cold voice - a voice that’s always been at the back of your mind.</td>
-</tr>
-<tr>
-  <td colspan="3">1. [Make Offering] (R$1000)</td>
-  <td colspan="3">2. [End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="3”">(Player buys gamepass or wipes)</td>
-</tr>
-<tr>
-  <td colspan="2">End</td>
-</tr>
-</tbody>
-</table>
-
 **Player is below Power 2:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">The shrine blends into the rubble, just another discarded thing.</td>
+  <td>The shrine blends into the rubble, just another discarded thing.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is Power 2 or above:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>The shrine stands immaculate amongst the rubble.</td>
+</tr>
+<tr>
+  <td>[Inspect]</td>
+</tr>
+<tr>
+  <td>You know why it stands here - it offers an alternative. It beckons you to offer a part of who you are to the cold voice - a voice that’s always been at the back of your mind.</td>
+</tr>
+<tr>
+  <td>[Make Offering] (R$1000)</td>
+</tr>
+<tr>
+  <td>End, player respawns in the Etrean Luminant</td>
 </tr>
 </tbody>
 </table>
 
 ## Tips
 
--   It is recommended that you do not buy Drowned Favour on a low power slot, as it is most likely a waste and should be saved for when your slot is more valuable. Only purchase if you really need to.
-
--   If you pass down an item and then buy Drowned Favour, you will **not** get your item back and will be passed down to the next slot upon wiping as normal.
+-   It is recommended that you do not buy a Drowned Favour on a low power slot, as it is most likely a waste and should be saved for when your slot is more valuable.
+-   If you pass down an item and then buy Drowned Favour, you will **not** get your item back. Your item will be passed down to the next slot upon wiping as normal.
 
 ## Trivia
 
--   The Drowned Favour product used to cost 500 robux. It was changed at a later date to 1000.
+-   The Drowned Favour product used to cost 500 Robux. It was changed at a later date to 1,000.

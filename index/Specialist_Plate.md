@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 155779
+revid: 155790
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -42,7 +42,7 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Bonus: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
 
-Additionally, this turns your [Thundercall](Thundercall.md) Mantras green and your [Galebreathe](Galebreathe.md) Mantras yellow.
+This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal increased damage. Surge Path overrides the green Thundercall recolor.
 
 ## Obtainment
 

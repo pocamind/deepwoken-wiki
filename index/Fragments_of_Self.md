@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 148173
+revid: 155786
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -108,11 +108,9 @@ Clicking\[The End\] will wipe your character and show you the character's legacy
 
 The legacy menu upon wiping
 
-The Triumphs section shows the player's achievement across the progression, these will add points for echoes, a new starting mechanic added in verse 2 like boons and flaws but amplified to the extreme.
+The Triumphs section shows the player's achievement across the progression, these will add points for [Echoes](Echoes.md), a currency that purchases upgrades for their next and existing characters.
 
 The Echoes section shows how much echoes you earned, and the Rank Based on it. Rankings range from E-W, Rank S being extremely rare and Rank W even more so with the added requirement of having every Echo modifier active (except Vow of Thorns) while also meeting the requirements for S Rank.
-
-  
 
 ### Captain
 

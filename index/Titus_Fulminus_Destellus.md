@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155765
+revid: 155806
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -223,12 +223,23 @@ Dodgeable:
 -   **Thorn Guard** - Titus is immune to Providence's Thorns.
 -   **Unharvestable** - Healing from Bloodless Gems are less effective.
 
+## Battle
+
+### Tips and strategies.
+
+-   The guards in the main cell block room can serve as a health pack, but Titus can one shot them before you deal enough damage to earn the heal as well as the don't respawn.
+-   During his second phase transition, there is a small window where you can place a campfire down during his dialogue and heal.
+-   Since [Vampirism](Enchantments.md) grants Temporary health and not outright bonus healing, it will bypass blightsurge wither.
+-   Chorus Divide can be easily avoided by climbing up to high ground like on the generator or on scaffolding near the walls.
+-   His M1 string appears to be unparryable during his second phase.(needs confirmation)
+
 ## Rewards
 
 Titus drops a variety of unique items that cannot be found elsewhere.
 
 In addition to his unique chest (see below for the table), an additional chest is rewarded for each participating player, dropping at their feet. This chest can include:
 
+-   [Weapons](Weapons.md): [Imperial Staff](Imperial_Staff.md)
 -   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Moonseye Tomes](Moonseye_Tome.md), [Smith's Alloys](<Smith's_Alloy.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
 -   [Items](Items.md): [Deep Gems](Deep_Gems.md), [Gale Stones](Gale_Stone.md)
 

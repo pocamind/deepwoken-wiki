@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 155737
+revid: 155816
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

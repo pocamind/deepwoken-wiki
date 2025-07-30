@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 152684
+revid: 155802
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -37,7 +37,7 @@ Being a refined rapier made for royalty, its ornate design highlights its deadly
 
 The user winds up before stabbing the opponent 5 times before lunging forwards to unleash a sixth strike. Each hit applies Daze and has 35% chip damage. Upon critical activation, gain a 1 second long speed boost (this will last for the first four hits).
 
-The critical has the following stats and modifiers: 0.9x (first hit) + (0.5x \* 5 (last five hits)).
+The critical has the following stats and modifiers: 0.9x (first hit) + (0.5x \* 5 (last five hits)). The first five strikes deal 4 posture damage, the final one guard breaks.
 
 The critical has a cooldown of **5 seconds**.
 
