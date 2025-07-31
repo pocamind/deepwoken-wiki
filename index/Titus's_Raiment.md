@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 155180
+revid: 155921
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -12,7 +12,7 @@ categories: [Items, Outfits, Master Outfits]
 |---|---|
 | caption | WIP |
 | tier | Master |
-| crafting_req | x5 Cloth, x3 Might Gems, x2 Wrath Gems, x1 Titus' Armor Piece, x1 Warden's Armor Piece |
+| crafting_req | x5 Cloth, x3 Might Gems, x3 Wrath Gems, x1 Titus' Armor Piece, x1 Warden's Armor Piece |
 | price | 2500 |
 | stat_req | Power 1530 Strength |
 | bankable | Yes |

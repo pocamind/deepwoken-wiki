@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 154714
+revid: 155915
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -31,9 +31,9 @@ Gremors are a aspect similar to deer. They appear with greenish, blue or brown s
     <li>"<i>Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.</i>"
   <ul>
     <li>Gain a compass at the top of your screen that points East.</li>
-    <li>Right-clicking on the map creates a Waymarker or Waypoint. This Waymarker will be both visible on the map, and in the physical world as a beam of light. Your compass will point towards this Waymarker.</li>
+    <li>Right-clicking on the map creates a Waymarker or Waypoint. This Waymarker will be both visible on the map, and in the physical world as a beam of light.</li>
     <li>Reduced passive hunger loss.</li>
-    <li>If blind, gain a slight range of clear vision around you.<figure><figcaption></figcaption></figure></li>
+    <li>If blind, gain a slight range of clear vision around you.</li>
   </ul></li>
   </ul></td>
 </tr>

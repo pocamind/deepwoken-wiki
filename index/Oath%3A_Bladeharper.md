@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 154632
+revid: 155909
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -54,7 +54,9 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 
 ## Abilities
 
--   **True Strength - Passive**
+### Passives
+
+-   **True Strength**
     -   By proccing Untouchable or Reveal, enter the True Strength state.
         -   If procced from Untouchable, it lasts 15 seconds. If procced from Reveal, the set duration is removed, but you passively [Wither](Status_Effects.md#wither) your own health bar instead (lowers your maximum HP).
     -   Lowers Lithe Step's cooldown from 3s to 1s.
@@ -63,55 +65,54 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   Empowers your Bladeharper Mantras. True Strength's affects are listed under each Mantra.
     -   Grants a Speed Boost. This Speed Boost can be used to proc Talents (e.g. [Speed Demon](Talents.md#vigil-swordsman) or [Cheap Shot](Talents.md#trickster)) and lasts for the entire duration of True Strength.
 
--   **Lithe Step - Talent**
-    -   When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
-        -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md).
-        -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
-        -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
-    -   Obtainment: Obtained with the Oath, after the first Mind Reflection fight.
+### Talents
 
--   **Palm Strike - Combat Mantra**
-    -   Slice your opponent with your palm.
+-   **Lithe Step** - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
+    -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md).
+    -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
+    -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
+-   Obtainment: Obtained with the Oath, after the first Mind Reflection fight.
+
+-   **Soaring Storm** - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
+    -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
+    -   Proc condition is removed if in True Strength.
+        -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), [modified Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
+    -   Obtainment: Obtained after the second Mind Reflection fight.
+
+-   **Untouchable** - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
+    -   Upon proccing Untouchable, enter the True Strength state for 15 seconds where your uppercuts, air attack, and Oath mantras are empowered.
+    -   To proc the Talent you must build up 10 Untouchable stacks by landing your attacks.
+        -   Weapon attacks build up 2 stacks each, resulting in 5 hits for Untouchable to proc. You gain stacks for every hit on a multihitting critical, allowing you to instantly enter True Strength with some weapon criticals.
+        -   Non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
+-   Obtainment: Obtained after the second Mind Reflection fight.
+
+-   **Float Like a Butterfly** - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
+    -   It has a cooldown of 5 seconds.
+    -   Deals a total of 28 Oath & Slash damage (hits 4 times with each hit dealing 7 damage).
+    -   Only accessible when True Strength is active.
+    -   It is movestackeable with any Mantra that can be casted mid-air.
+    -   Obtainment: Obtained after the final Mind Reflection fight.
+
+-   **Reveal** - Pour your heart out, and reveal your true strength.
+    -   Toggle On and Off the True Strength state.
+    -   While Reveal's True Strength state, you passively build up [Wither](Status_Effects.md#wither) (reduced max HP) on yourself.
+    -   If you go below 10% HP, Reveal will automatically turn off.
+    -   This takes about **4 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
+    -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#immolator) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
+-   Obtainment: Obtained after the final Mind Reflection fight.
+
+### Mantras
+
+#### Combat Mantras
+
+-   **Palm Strike** - Slice your opponent with your palm.
     -   You are slowed down when using this mantra.
     -   Deals 31 Oath & Blunt damage.
     -   If True Strength is active, you'll uppercut your foe, ascending both you and your target in the air, dealing the base damage a second time and proccing a flurry of slashes which deal 16 damage total (4 slashes that deal 4 damage each).
         -   Deals a total of 78 Oath & Physical damage in True Strength (31 base hit + 31 uppercut + (4 \* 4 slashes)). The base hit and uppercut deal Oath & Blunt, while the slashes deal Oath & Slash.
     -   Obtainment: Obtained with the Oath, after the first Mind Reflection fight.
 
--   **Soaring Storm - Talent Ability**
-    -   Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
-    -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
-    -   Proc condition is removed if in True Strength.
-        -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), [modified Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
-    -   Obtainment: Obtained after the second Mind Reflection fight.
-
--   **Untouchable - Talent**
-    -   By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
-        -   Upon proccing Untouchable, enter the True Strength state for 15 seconds where your uppercuts, air attack, and Oath mantras are empowered.
-        -   To proc the Talent you must build up 10 Untouchable stacks by landing your attacks.
-            -   Weapon attacks build up 2 stacks each, resulting in 5 hits for Untouchable to proc. You gain stacks for every hit on a multihitting critical, allowing you to instantly enter True Strength with some weapon criticals.
-            -   Non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
-    -   Obtainment: Obtained after the second Mind Reflection fight.
-
--   **Reveal - Talent**
-    -   Pour your heart out, and reveal your true strength.
-        -   Toggle On and Off the True Strength state.
-        -   While Reveal's True Strength state, you passively build up [Wither](Status_Effects.md#wither) (reduced max HP) on yourself.
-        -   If you go below 10% HP, Reveal will automatically turn off.
-        -   This takes about **4 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
-        -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#immolator) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
-    -   Obtainment: Obtained after the final Mind Reflection fight.
-
--   **Float Like a Butterfly - Talent Ability**
-    -   While having True Strength active, cancel your air dash to enter a frenzy of slashes.
-    -   It is movestackeable with any mantra that can be casted mid-air.
-    -   It has a cooldown of 5 seconds.
-    -   Deals a total of 28 Oath & Slash damage (hits 4 times with each hit dealing 7 damage).
-    -   Only accessible when True Strength is active.
-    -   Obtainment: Obtained after the final Mind Reflection fight.
-
--   **Decimate - Combat Mantra**
-    -   Cut through your opponent.
+-   **Decimate** - Cut through your opponent.
     -   Deals 18.67 Oath & Slash damage twice (37.34 total damage).
     -   If True Strength is active, this attack will extend to nearby enemies. Once you teleport to a new enemy, hit them with a significantly weakened Decimate and proc a flurry of slashes. The weakened decimate deals 0.1 damage and the slashes deal 12 damage total (3 slashes that deal 4 damage each).
         -   Deals a total of 49.74 Oath & Slash damage in True Strength (18.67 \* 2 base hits + 0.1 teleport + (4 \* 3 slashes)).

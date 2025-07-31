@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 155894
+revid: 155905
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -87,14 +87,14 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Mantras
 
-#### Combat
+#### Combat Mantras
 
 -   **Fake Strike** - Trick your opponent and quickly go behind them.
     -   Deals 21.68 Oath damage per hit (3).
         -   Deals 65.04 Oath damage if all land.
     -   Deals 20% more damage at maximum Momentum.
 
-#### Mobility
+#### Mobility Mantras
 
 -   **Jet Kick** - Rush forward with a jet kick. Requires a target if you're in combat.
     -   Deals 38.25 Oath damage.

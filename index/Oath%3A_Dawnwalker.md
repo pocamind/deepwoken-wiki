@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 154636
+revid: 155907
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -47,43 +47,43 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
 
 ## Abilities
 
--   **Blinding Dawn - Combat Mantra**
-    -   _Spin rapidly to unleash powerful rays of light._
-        -   Has 1.2s windup, takes 2.1s to land all hits.
-        -   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
+### Talents
 
--   **Radiant Kick - Combat Mantra**
-    -   _Kick your foes at the speed of light._
-        -   Has 0.45s windup
-        -   Deals a base of 19.5 Oath damage twice.
+-   **Absolute Radiance** - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
+    -   Activates after doing any amount of damage with dawnwalker mantras, last 7 seconds with a 12 second cooldown on proc.
+    -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod, Saint Jay.
+    -   Does not clear any active elemental status effects, only prevents new ones from proccing.
 
--   **Radiant Dawn - Combat Mantra**
-    -   _Strike down your foes with your blinding light._
-        -   Deals 46.5 base Oath damage.
-        -   Takes 1.45s (to hit), 0.45s (to jump in air) + 1s to land.
-        -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
-        -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
-        -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
-            -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.
+-   **Luminous Flash** - After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
+    -   On proc, a basic attack will: Hit the maximum hard cap of damage (1.5x), dazes the target, and grants +45 tempo
+    -   CD of ~30–50 seconds.
+    -   Has a small aura on proc.
+    -   Despite having a definitive cooldown it is possible to activate multiple times in a row resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
+    -   Proccing luminous flash will proc it on all entities hit by that hit.
 
--   **Protagonist Syndrome - Talent:**
-    -   The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
-        -   Activates after taking any amount of shadow damage, it looks like Absolute Radiance and has a 9 second duration
-        -   Increases Dawnwalker Mantra damage by 30%
+-   **Protagonist Syndrome** - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
+    -   Activates after taking any amount of shadow damage, it looks like Absolute Radiance and has a 9 second duration
+    -   Increases Dawnwalker Mantra damage by 30%
 
--   **Luminous Flash - Talent:**
-    -   After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
-        -   On proc, a basic attack will: Hit the maximum hard cap of damage (1.5x), dazes the target, and grants +45 tempo
-        -   CD of ~30–50 seconds.
-        -   Has a small aura on proc.
-        -   Despite having a definitive cooldown it is possible to activate multiple times in a row resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
-        -   Proccing luminous flash will proc it on all entities hit by that hit.
+### Mantras
 
--   **Absolute Radiance - Talent:**
-    -   Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
-        -   Activates after doing any amount of damage with dawnwalker mantras, last 7 seconds with a 12 second cooldown on proc.
-        -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod, Saint Jay.
-        -   Does not clear any active elemental status effects, only prevents new ones from proccing.
+#### Combat Mantras
+
+-   **Blinding Dawn** - Spin rapidly to unleash powerful rays of light.
+    -   Has 1.2s windup, takes 2.1s to land all hits.
+    -   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
+
+-   **Radiant Kick** - Kick your foes at the speed of light.
+    -   Has 0.45s windup
+    -   Deals a base of 19.5 Oath damage twice.
+
+-   **Radiant Dawn** - Strike down your foes with your blinding light.
+    -   Deals 46.5 base Oath damage.
+    -   Takes 1.45s (to hit), 0.45s (to jump in air) + 1s to land.
+    -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
+    -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
+    -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
+        -   This means that in low-gravity environments such as [Scyphozia,](First_Layer.md) this mantra is very inconsistent in combat use.
 
 ## Trivia
 
@@ -97,7 +97,7 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities.
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tones.
 -   Originally, Blinding Dawn had this description: "Dance uncontrollably. No one can withstand the sheer groove of your spin routine."
--   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any Oath, at 237. For all intents and purposes, this information should not affect your average progression as it is a functionally costless Oath.
+-   This Oath has a requirement of Power 15, as you cannot turn in Kyrsan Medallions to Klaris without it. With this taken into account, while not having a direct stat requirement, Dawnwalker has the technical highest point requirement out of any Oath, at 237 or 192 points depending on if [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) is used. For all intents and purposes, this information should not affect your average progression as it is a functionally costless Oath.
 -   Dawnwalker was originally supposed to have a Talent that made the user immune to all fall damage, this was, however, scrapped.
 -   Dawnwalker originally also had a mode bar which, when active, would give the user instant tp dashes, this was also scrapped.
 -   Dawnwalker is the only Oath besides [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Soulbreaker](Oath%253A_Soulbreaker.md) that can be fully obtained and progressed without leaving the Depths.

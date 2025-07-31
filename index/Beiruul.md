@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 152480
+revid: 155920
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -130,7 +130,7 @@ Completing her sidequest will reward you with EXP, positive [The Children of Nav
 
 ## Moveset
 
-Beiruul's arsenal consists of [Way of Nave](Fists.md) and the [Frostdraw](Frostdraw.md) attunement:
+Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw](Frostdraw.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

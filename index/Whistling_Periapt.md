@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 155097
+revid: 155918
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Items]
@@ -41,7 +41,7 @@ Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Er
     -   It was formerly known as the Wind Amulet.
 -   Whistleguard is a weaker variant of the [Duke Erisia](Duke_Ishamon_Erisia.md)'s shield of Galebreathe he uses in the first phase of his fight.
 -   This item is able to be passed down to another life and stored in the item bank.
--   If smelted, cannot be banked.
+-   ~If smelted, cannot be banked.~ False.
 -   Whistling Periapt cannot autoparry Vents.
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), [Imperator's Fury](<Imperator's_Fury.md>), and the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Upon equipping the Whistling Periapt it does NOT get soulbound and may be dropped once more.

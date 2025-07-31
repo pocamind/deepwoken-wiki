@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 155864
+revid: 155919
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -425,7 +425,7 @@ Exhaustive Loot Table
 -   Duke Ishamon Erisia gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] The current dialogue states "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now" when you fight Duke Ishamon Erisia after your first encounter. This dialogue shows that Duke Ishamon Erisia does in fact, escape the Depths after you kill him.
 -   In older versions of _Deepwoken_, you would have to make sure your group catches up with you. If you entered first, they would've likely been locked out of the boss room. This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
--   This bosses attacks heavily resemble the interpretation of TOARU's Accelerator in Anime Battle Arena, a game that Par has worked on prior.
+-   This bosses attacks heavily resemble the interpretation of TOARU's [Accelerator](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in [Anime Battle Arena](https://www.roblox.com/games/1458767429/ABA)(more commonly known as ABA), a game that Par has worked on prior.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.

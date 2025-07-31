@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 153791
+revid: 155903
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, The Divers, Items]
@@ -15,7 +15,7 @@ categories: [Equipment, Face, Glasses, The Divers, Items]
 | selling price | 14 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +5 Health, -2 posture (default)/-1 Posture (coloured), +1 Rare Pip |
+| innate stats | +5 Health, -1 Posture/-2 Posture (default Round), +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,10 +26,10 @@ categories: [Equipment, Face, Glasses, The Divers, Items]
 
 ## Description
 
-**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. They can be obtained from various sources, such as [Saramaed Hollow](Saramaed_Hollow.md).
+**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. These Diver branded glasses are well sought after by the people of lumen purely for the status of owning a pair of glasses that were made for scholars. These glasses grant the user +5 Health and +1 Rare Pip when worn, but reduce your Posture by -1/-2 due to not being your prescription.
 
 ## Trivia
 
--   The only face equipment to have innate HP and negative stats.
+-   This is only face equipment to have innate HP, and the only equipment in general to grant negative stats.
+-   All Citadel Frames variants initially had -2 Posture, but were buffed afterwards to have -1 Posture instead. The default Round variant still having -2 Posture is probably an oversight.
 -   These glasses have a Diver faction emblem on their hinges.
--   The default pair (with no color) give -2 Posture instead of -1, probably because they aren't your prescription.
