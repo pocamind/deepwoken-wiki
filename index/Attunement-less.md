@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 155585
+revid: 155927
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -366,7 +366,7 @@ Blunt
 
  | 
 
-5 Strength/?? Strength (With Attunement), [Jus Karita](Jus_Karita.md), [Murmur: Tacet](Murmur%253A_Tacet.md)
+5 Strength/10 Strength (With Attunement), [Jus Karita](Jus_Karita.md), [Murmur: Tacet](Murmur%253A_Tacet.md)
 
  |
 | 

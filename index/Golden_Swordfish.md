@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 155393
+revid: 155930
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals, Light Weapons, Fishing]
@@ -29,7 +29,7 @@ categories: [Weapons, Rapiers, Weapons with Unique Criticals, Light Weapons, Fis
 
 ## Description
 
-The **Golden Swordfish** is a [Rapier](Weapons.md#types-of-weapons) that can be fished out of the sea with a 0.1%~ chance. It is a golden swordfish, with the bill being used as a blade to pierce foes.
+The **Golden Swordfish** is a [Rapier](Weapons.md#types-of-weapons) that can be fished out of the sea with a 0.05%~ chance without any modifiers. It is a golden swordfish, with the bill being used as a blade to pierce foes.
 
 This weapon cannot be dropped by any means, similar to a Soulbound item or the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 
@@ -38,7 +38,7 @@ Getting the **Golden Swordfish** implies successfully achieving two rare events 
 -   The fish caught must be a Swordfish (rare)
 -   It must be a golden fish (Very rare)
 
-The combination of these 2 factors makes the **Golden Swordfish** extraordinarily rare. Using bait, fishing Talents and fishing spots are recommended to improve your odds.
+The combination of these 2 factors makes the **Golden Swordfish** extraordinarily rare. Using fishing Talents and fishing spots are recommended to improve your odds.
 
 ## Critical
 
@@ -50,7 +50,7 @@ The critical has a cooldown of **5 seconds**.
 
 -   The stats are a copy of the [Crucible Rapier](Crucible_Rapier.md), but with exactly 0.1 more range
 -   Most likely a reference to how many players suggested for the swordfish to be an equipable weapon.
--   The critical to be a reference to the belief that swordfish hunt by "skewering."[\[1\]](#cite-note-1) However, this is a myth. Swordfish actually hunt by slashing and dismembering smaller fish with their bill. Ironically, it would be more accurate for this weapon to be a medium sword.
+-   The critical to be a reference to the belief that swordfish hunt by "skewering."[\[1\]](#cite-note-1) However, this is false. Swordfish mainly hunt by slashing and dismembering smaller fish with their bill. Ironically, it would be more accurate for this weapon to be a medium sword.
     -   The so-called "sword" bill of a typical swordfish is not particularly strong, but there is a historical precedent for it being used as a weapon.
     -   The critical itself is the same critical used by the [Trident Spear](Trident_Spear.md).
         -   This weapon's motif CANNOT be applied to other rapiers, despite it being a rapier itself. Using a smith alloy on it and extracting its motif will give you the Trident motif. (Basically don't extract the critical, you can get the same motif with a trident.)
