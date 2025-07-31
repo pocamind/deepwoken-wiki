@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 155794
+revid: 155893
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -98,8 +98,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Mystery
     -   Grants a random Mantra, Roll 2, or Fold depending on the card type.
-        -   The random Mantra card will state the Mantra type and star value (e.g. "Random Thundercall Combat Mantra" with 2 stars on the card), though the outcome is still random within that range. These cards can only be chosen from [Whisper Rolls](Whisper_Draw.md) and are guaranteed in each one.
-        -   Roll 2 grants 2 random Talents, these Talents cannot be Rare Talents unless they have been [Frozen](Aces.md). These cards and can only be chosen from [Whisper Rolls](Whisper_Draw.md) and are guaranteed in each one.
+        -   The random Mantra card will state the Mantra type and star value (e.g. "Random Thundercall Combat Mantra" with 2 stars on the card), though the outcome is still random within that range. These cards can only be chosen from [Whisper Draws](Whisper_Draw.md) and are guaranteed in each one.
+        -   Roll 2 grants 2 random Talents, these Talents cannot be Rare Talents unless they have been [Frozen](Aces.md). These cards and can only be chosen from [Whisper Draws](Whisper_Draw.md) and are guaranteed in each one.
         -   Fold removes your current hand of cards; you'll obtain an additional, rerolled, Talent hand the next time you Power up instead. This should only be taken if you don't want any of the Talents in your current hand. These cards can only be chosen from Talent hands and are somewhat uncommon, only having a chance to show up.
 
 -   Trait
@@ -451,18 +451,14 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Berserker
 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
-    -   While the Talent says criticals only gain 10% PEN, they will still gain the full armor bypass bonus just like m1s.
+    -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
+    -   Berserk can be deactivated after 10 seconds by using the Talent tool again. If you don't meet this Talent's requirements, you will not be able to deactivate it manually.
     -   Some weapon criticals are classified as basic attacks (e.g. [Shattered Katana](Shattered_Katana.md) and [Wraithclaw](Wraithclaw.md)), which means they benefit from the full armor nullification.
     -   When activated:
-        -   Your armor is immediately removed for 20 seconds. Includes Exoskeleton/Chitin.
-        -   You regain your armor immediately after the buff ends.
+        -   Eyes and hair turn red. Your eyes gain a red trail.
+        -   Your armor, including Natural Armor, is immediately removed for 20 seconds. These bars will be restored back to their previous values when Berserk ends.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your M1s activate your opponent's Padded Armor and Steel Scales.
         -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
-        -   Buff is granted for 20 seconds. Buff is granted only for 10 seconds if you don't meet the stat requirement.
-        -   Eyes turn red and gain a red trail for 20 seconds.
-        -   Hair turns red for 20 seconds.
-        -   **ONLY** affects your basic attacks, not mantras or anything else.
-        -   May visually bug your **Armor** bar if toggled on and off too quickly.
     -   Prerequisite: 80 Strength
 
 ### Bladeharper
@@ -499,6 +495,41 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Landing weapon attacks will build up 2 stacks each.
         -   Landing non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time.
+
+### Blightsurger
+
+-   [Oath: Blightsurger](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
+    -   Prerequisites: 40 Body (40 Strength, Fortitude, or Agility), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
+
+-   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your Blightshock prevents targets from using mobility mantras.
+    -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
+    -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+
+-   Blight Pierce \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
+    -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
+    -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
+    -   This Talent is bugged and currently does not work.
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+
+-   Blighted Touch \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing M1's during Sovereign State now applies Blightshock.
+    -   This allows your Sovereign Bangle to apply Wither on hit.
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+
+-   Blightlash \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your swing range is enhanced during Sovereign State.
+    -   Increases the range of the Sovereign Bangle from 6 to 7.
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+
+-   Sovereign State \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
+    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, [Galebreathe](Galebreathe.md) Mantras, or [Physical](Attunement-less.md) Mantras grants 5% Blight Meter.
+    -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
+    -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
+        -   This keybind can be changed in settings.
+    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md)_.
+    -   Skycrash can be used twice in quick succession while in this state.
+    -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
+    -   Has a 10 second cooldown.
+    -   Prerequisite: [Oath: Blightsurger](Oath%253A_Blightsurger.md)
 
 ### Bloodhound
 
@@ -781,7 +812,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Contractor
 
--   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot)
+-   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to [Lord Regent](The_Lord_Regent.md).
 
 -   Hidden Tendril \[Oath Talent, [Contractor](Oath%253A_Contractor.md) Exclusive\] - Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether)
@@ -907,7 +938,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Dawnwalker
 
--   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot)
+-   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 15, Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   Absolute Radiance \[Oath Talent,[Dawnwalker](Oath%253A_Dawnwalker.md) Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
@@ -1076,7 +1107,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Fadetrimmer
 
--   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
+-   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 12, Change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)
 
 -   Fadetrimmer's Skillset \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md) Exclusive\] - What type of look are we going for today?
@@ -1863,7 +1894,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Linkstrider
 
--   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slot)
+-   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 -   Entropy Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
@@ -2711,7 +2742,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Soulbreaker
 
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slot, +1 Mobility Mantra Slot.)
+-   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Combined 50 Charisma/Willpower total (CHA + WLL ≥ 50), and any [Murmur](Murmur.md). The rest of the requirements depends on the obtainment method.
         -   **Yunshul method**: Additional requirements: Hero/very high Ally reputation with [Etris](Etris.md), a [Resonance](Resonance.md), and have a Yun'shul Wish. **Obtainment method**: Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's Ardour. Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
@@ -2826,7 +2857,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Starkindred
 
--   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
+-   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
 -   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
@@ -3439,25 +3470,28 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
     -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
+-   [Oath: Blightsurger](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
+    -   Prerequisites: 40 Body (40 Strength, Fortitude, or Agility), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
+
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
--   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot)
+-   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slots, +1 Wildcard Mantra Slots)
     -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to [Lord Regent](The_Lord_Regent.md).
 
 -   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower (STR + FTD + WLL ≥ 40), Authority reputation, defeat [Emar Vend](Emar_Vend.md).
 
--   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot)
+-   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots)
     -   Prerequisites: Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 
--   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
+-   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 12, Change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)
 
 -   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
     -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
--   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slot)
+-   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 -   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Armor)
@@ -3473,13 +3507,13 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slot, +1 Mobility Mantra Slot.)
+-   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Combined 50 Charisma/Willpower total (CHA + WLL ≥ 50), and any [Murmur](Murmur.md). The rest of the requirements depends on the obtainment method.
         -   **Yunshul method**: Additional requirements: Hero/very high Ally reputation with [Etris](Etris.md), a [Resonance](Resonance.md), and have a Yun'shul Wish. **Obtainment method**: Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's Ardour. Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
     -   To progress the Oath, make a deal with any with any [deep shrine](Deep_Shrines.md) that costs Knowledge.
 
--   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
+-   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
 -   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)

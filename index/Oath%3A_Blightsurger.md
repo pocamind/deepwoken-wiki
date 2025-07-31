@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 155787
+revid: 155889
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -103,6 +103,8 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
     -   The Blightlash Talent grants Sovereign Bangle 1 additional range, going from 6 to 7.
 
 ### Mantras
+
+#### Combat
 
 -   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
     -   Deals 10 Blunt damage, the followup strike deals 17.5 Oath damage.

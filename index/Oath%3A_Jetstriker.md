@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 154657
+revid: 155894
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -59,42 +59,44 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ## Abilities
 
--   **Acceleration Points - Talent**
-    -   Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum. (+5 Passive Agility)
+### Passive
 
--   **Jetstream Pursuit - Talent**
-    -   Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
-        -   This works on humanoid mobs, Teleporting you to the middle of their hitbox.
-        -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
-        -   Works on talent-caused flourishes like [Emperor's Flame](<https://deepwoken.fandom.com/wiki/Flamecharm#The_Emperor's_Blade>).
-
--   **Momentum Bar - Passive**
+-   **Momentum Bar**
     -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player.
     -   When maxed-out, Jetstriker Mantras will deal 20% more damage and the color of Mantras will change according to the cosmetic of the Oath.
     -   Allows you to basically [Dye](Dye_Packet.md) your Jetstriker Mantras.
 
--   **Stratos Step - Talent**
-    -   While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
-        -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself. This also boosts players alongside you too.
-        -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
-        -   With slightly high agility, players are unable to follow you up Stratos Steps.
+### Talents
 
--   **Decisive Winds - Talent**
-    -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
+-   **Acceleration Points** - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum. (+5 Passive Agility)
 
--   **Rush of Ancients - Talent**
-    -   Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
-        -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
-        -   If you're using the Phantom Step Talent with Rush of Ancients, the dashes will stack, increasing your dash range. This, however, lacks visuals.
+-   **Decisive Winds** - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
 
--   **Fake Strike - Combat Mantra**
-    -   Trick your opponent and quickly go behind them.
+-   **Jetstream Pursuit** - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
+    -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
+    -   Works on Talent-caused flourishes like [Emperor's Flame](Flamecharm.md#the-emperors-blade).
+
+-   **Stratos Step** - While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
+    -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself. This also boosts players alongside you too.
+    -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
+    -   With slightly high agility, players are unable to follow you up Stratos Steps.
+
+-   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+    -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
+    -   If you're using the Phantom Step Talent with Rush of Ancients, the dashes will stack, increasing your dash range. This, however, lacks visuals.
+
+### Mantras
+
+#### Combat
+
+-   **Fake Strike** - Trick your opponent and quickly go behind them.
     -   Deals 21.68 Oath damage per hit (3).
         -   Deals 65.04 Oath damage if all land.
     -   Deals 20% more damage at maximum Momentum.
 
--   **Jet Kick - Mobility Mantra**
-    -   Rush forward with a jet kick. Requires a target if you're in combat.
+#### Mobility
+
+-   **Jet Kick** - Rush forward with a jet kick. Requires a target if you're in combat.
     -   Deals 38.25 Oath damage.
     -   Deals 20% more damage at maximum Momentum.
 

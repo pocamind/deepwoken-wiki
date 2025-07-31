@@ -1,6 +1,6 @@
 ---
 title: Okumay
-revid: 153876
+revid: 155881
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -26,7 +26,7 @@ Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Just.. what is this? Look at this machine, look at that design! The bright smooth metals, the mechanical apparatus, the style! Have you ever seen anything like this before?</td>
+  <td>Just.. what <i>is</i> this? Look at this machine, look at that design! The bright smooth metals, the mechanical apparatus, the <i>style</i>! Have you ever seen anything like this before?</td>
 </tr>
 <tr>
   <td>I'm afraid not.</td>
@@ -44,19 +44,19 @@ Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md
   <td>Your family knew about all of this?</td>
 </tr>
 <tr>
-  <td>Hah! They know about it just as much as you know about it. Little rumors, sweet nothings of a place we thought we'd never see. But its here, it's real. If Pa was still around, his eyes would pop out of his head to see this! If I can just figure out how even some of this works.. hm.</td>
+  <td>Hah! They know about it just as much as you know about it. Little rumors, sweet nothings of a place we thought we'd never see. But its here, it's <i>real</i>. If Pa was still around, his eyes would pop out of his head to see this! If I can just figure out how even some of this works.. hm.</td>
 </tr>
 <tr>
   <td>What do you plan to do with this?</td>
 </tr>
 <tr>
-  <td>I wanna take it apart. I wanna see how it works.. I wanna learn, dear! Imagine what the surface could be like with knowledge of this technology.. imagine how full my pockets would be if I were the one to make that 'discovery'!</td>
+  <td>I wanna take it apart. I wanna see how it works.. I wanna <i>learn</i>, dear! Imagine what the surface could be like with knowledge of this technology.. imagine how full my pockets would be if I were the one to make that 'discovery'!</td>
 </tr>
 <tr>
   <td>So you're just greedy.</td>
 </tr>
 <tr>
-  <td><b>HEY!</b> That's rude. Don't just assume things about people like that. I have many floaty desires, money just happens to be <i>one</i>of them! I do still want to change the world, at least a little bit. If this is the mark I could leave.. I'd be happy.</td>
+  <td><b>HEY!</b> That's rude. Don't just assume things about people like that. I have many floaty desires, money just happens to be <i>one</i> of them! I do still want to change the world, at least a little bit. If this is the mark I could leave.. I'd be happy.</td>
 </tr>
 <tr>
   <td>End</td>

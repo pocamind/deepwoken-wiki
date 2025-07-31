@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 155827
+revid: 155882
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -57,7 +57,6 @@ Or:
 
 -   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
--   Requires A [Murmur](Murmur.md)
 -   Also requires a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 
 Soulbreaker can be reobtained if you [Oath break](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.

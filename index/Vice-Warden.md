@@ -1,8 +1,9 @@
 ---
 title: "Vice-Warden"
-revid: 155829
+revid: 155871
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Enemies with Oaths, The Central Authority, Authority Enemies]
 ---
 
 # Vice-Warden
