@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 155825
+revid: 155857
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -76,7 +76,7 @@ The ice on the floor will deal damage.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/v-BLz4_jidU)._
 
--   Saintsworn **CANNOT** be obtained with 100 points in a singular attunement, you **need** at least 15 points in an attunement to resonate with their respective obelisk- in other words, you need 15 points in the 5 different attunements. It is **NOT** a combined requirement.
+-   Saintsworn **CANNOT** be obtained with 75 points in a singular attunement, you **need** at least 15 points in an attunement to resonate with their respective obelisk- in other words, you need 15 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
     -   This may be a bug but as of now you can get saintsworn without meeting the requirements for as long as you have spoken with the obelisk's beforehand (Example, you can talk with the obelisks and obtain the oath and then shrine down your attunement to below the requirement, so, 30 flame, get oath, shrine, 18 flame, and you still have the oath.) (Tested 5/31/25, confirmed to work but took an _aggravatedly_ long time...)
 

@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 155831
+revid: 155859
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,8 +49,12 @@ Chorus Divide will use the players highest invested attunement upon obtaining th
 -   The [Ironsing](Ironsing.md) variant will proc metal rods to players hit by the beams.
 -   The [Bloodrend](Bloodrend.md) variant will proc blood talents and blood poison to the player hit by the beams.
 
-If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will additionally be the attunement of their current **Saint Stance**.
+If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead.
 
 If the player is [Attunement-less](Attunement-less.md), the beam will appear as Thundercall.
 
-This bell will stack [Chain of Perfection](Talent_Quests.md) when it lands
+  
+
+## Trivia/Notes
+
+-   This bell will stack [Chain of Perfection](Talent_Quests.md) when it lands

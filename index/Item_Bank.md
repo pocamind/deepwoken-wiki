@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 155206
+revid: 155838
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -40,4 +40,4 @@ Along with this ability comes several limitations, being that certain items of s
 -   You cannot be attacked while in the GUI.
 -   Unlocking every slot in the Item Bank costs a total of 411,000 notes.
 -   You cannot store [Pleeksty's Inferno](<Pleeksty's_Inferno.md>).
--   You cannot store the Worldpiercer Gauntlets.
+-   You cannot store the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md).

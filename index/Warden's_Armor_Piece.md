@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 155182
+revid: 155842
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-**Warden's Armor Piece** is a direct drop from mobs in [Detainment Core](Merit_Detainment_Core.md)
+**Warden's Armor Piece** is a direct drop from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)'s chest.
 
 ## Uses
 

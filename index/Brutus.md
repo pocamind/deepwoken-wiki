@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 154415
+revid: 155867
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -54,10 +54,44 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Oh a treaty-breaker makes his way into my den... Your superiors will regret the day they broke our Pact.</td>
+  <td>Oh, a treaty-breaker makes his way into my den... Your superiors will regret the day they broke our Pact.</td>
 </tr>
 <tr>
   <td>End, you are beaten up.</td>
+</tr>
+</tbody>
+</table>
+
+**Blightsurger interaction:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>*Brutus tilts his head slowly, sizing you up with dull, sunken eyes.*</td>
+</tr>
+<tr>
+  <td>*Speak the Rite Titus gave you*</td>
+</tr>
+<tr>
+  <td>...So. Titus still moves pieces from his cell. If he sent you, then you've been marked, whether you like it or not.</td>
+</tr>
+<tr>
+  <td>...</td>
+</tr>
+<tr>
+  <td>Close your eyes...</td>
+</tr>
+<tr>
+  <td>You get beaten up</td>
+</tr>
+<tr>
+  <td>Don't crawl back to me for more scraps. If you seek to amplify that new power of yours, do it to them what I did to you. He gave the word that can change the path that you walk on.</td>
+</tr>
+<tr>
+  <td>End, you obtain Blightsurger.</td>
 </tr>
 </tbody>
 </table>

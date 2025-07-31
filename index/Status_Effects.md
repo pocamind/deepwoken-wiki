@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 155544
+revid: 155860
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -411,6 +411,10 @@ Applied through the [Reinforced War Set's](Reinforced_War_Helmet.md) Talent _Las
 ### Ruptured Lungs
 
 Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though applied most notably through the Strength Talent, [Collapsed Lung](Talents.md#annihilator), this effect can also be applied through the [Reinforced War Plate's](Reinforced_War_Plate.md) Talent, _Crippling Impact_. This effect has no visual indicator.
+
+### Bloodletting
+
+Upon being hit by the critical of the [Bloodbane](Bloodbane.md), gain a damage over time status effect. This effect can be applied even if you dodge the attack, and will deal 6 damage per tick. If you get knocked during the duration of this status, you will be autogripped and you'll instantly die. This effect has no visual indicator.
 
 ### Harrowing
 

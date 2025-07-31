@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155830
+revid: 155839
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, The Hundred Legions Enemies, The Hundred Legions]
@@ -513,5 +513,5 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 ## Trivia
 
 -   Titus' middle and last names, "Fulminus Destellus" means "Starlight Lightning" in Latin, mirroring the origins of where he earned his name.
--   Titus uses a unique variant [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
+-   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   When combat tagged by him his real name is shown as Franky Strabes. (This was a place-holder name, confirmed by Dexerius.)

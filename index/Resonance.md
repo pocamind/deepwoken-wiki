@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 154271
+revid: 155858
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -90,7 +90,7 @@ _(From data of 100 rerolls, the calculated chance of getting a **Corrupted Reson
 
 ### Legendary Resonances
 
-**Legendary Resonances** are a category of **Resonances** separate from **Normal Resonances** which are _also_ obtained identically to **Normal Resonances** and their **Corrupt Resonance** versions, albeit being exceedingly rarer than both **Normal** and **Corrupted Resonances**. The only **Legendary Resonances** in the game currently are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). **Legendary Resonances** also have a **Corrupt Resonance** counterpart, being _**Drowned Resonances**_, but these are incredibly difficult to obtain, naturally being extraordinarily rare due to their overlap between being a **Legendary** and **Corrupted** resonance at the same time. These resonances have a pity feature: if you don't get a legendary bell for 100 rerolls on your slot, you'll get it on the next reroll.
+**Legendary Resonances** are a category of **Resonances** separate from **Normal Resonances** which are _also_ obtained identically to **Normal Resonances** and their **Corrupt Resonance** versions, albeit being exceedingly rarer than both **Normal** and **Corrupted Resonances**. The only **Legendary Resonances** in the game currently are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). **Legendary Resonances** also have a **Corrupt Resonance** counterpart, being _**Drowned Resonances**_, but these are incredibly difficult to obtain, naturally being extraordinarily rare due to their overlap between being a **Legendary** and **Corrupted** resonance at the same time. These resonances have a pity feature: if you don't get a legendary bell for 100 rerolls on your slot, you'll get it on the next reroll. Because of how Resonance rerolling works, if you currently have a Legendary Resonance, it will be guaranteed to show up in every roll, but with different stats; **this will reset your Legendary pity with every reroll**.
 
 _(From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card))_
 

@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 152402
+revid: 155840
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -169,7 +169,7 @@ Lord Regent killing a player whom dared to step on his Coral Throne.
 -   His throne produces steam.
 -   Talking directly to the Lord Regent while standing on the coral throne (so that he glows white, like all other npcs while talking to them) will result in you being executed by his Judgement.
     -   This occurs even while the player has the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
-        -   Funnily enough, when they player does that, the Lord Regent says the default dialogue as if you talked to him indirectly.
+        -   Funnily enough, when the player does that, the Lord Regent says the default dialogue as if you talked to him indirectly.
 -   He was based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, both being villainous, though formerly in Zato's case, blindfolded men with long fair hair who have shadow powers.
 -   If you finish his quest and you defeat Duke Erisia, do not go back to him unless going for [Contractor](Oath%253A_Contractor.md) with the first step complete. He will end up killing you after confirming dialogue with him.
     -   Attunement uncaps will however be given immediately after killing [Duke Erisia](Duke_Ishamon_Erisia.md).

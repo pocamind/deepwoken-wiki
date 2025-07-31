@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 155764
+revid: 155855
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -29,7 +29,7 @@ The Glossary can be accessed by opening your Encyclopedia with the button on the
 -   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
 -   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
 
-Dialogue: | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Heavens](#the-heavens)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Heavens](#the-heavens)
 
 ### The Drowned Gods
 
@@ -118,7 +118,7 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 -   As with many Gods, the contemporary understanding is that Mur may have been a [Celestial](#the-celestials).
 -   Andros said they hadn't seen any accounts of Mur outside of the [Etrean Luminant](#the-etrean-luminant).
 
-Dialogue: [Theadre](Theadre.md) | Books: | Glossary Entries:
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
 
 ### Amorus Pleeksty
 
@@ -185,7 +185,7 @@ Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: 
 -   One's Soul Murmur is broadly speaking, the 'signature' or characteristics of one's Soul.
 -   With training, one can alter the expression of their Murmur. These expressions of the Soul are often referred to as 'Murmurs'.
 
-Dialogue: [Theadre](Theadre.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
 
 ### Oaths
 
@@ -230,14 +230,14 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the Suncross.
 
-Dialogue: [Lake](Lake.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-moonseye)
+Dialogue: [Lake](Lake.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-moonseye)
 
 ### The Suncross
 
 -   The bringer of life and warmth to [Lumen](#lumen).
 -   At night, the Suncross retreats into the [Voidfog](#the-voidfog) and its light dims, darkness falling over [Lumen](#lumen).
 
-Dialogue: | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
+Dialogue: [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
 
 ## Time Periods
 
@@ -259,14 +259,14 @@ Dialogue: | Books: [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary En
 
 -   The current period of history, usually dated around the fifth century BCE with mankind's adaptation to the new state of the world.
 
-Dialogue: | Books: | Glossary Entries: [Vows](#vows)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries: [Vows](#vows)
 
 ### The Old World
 
 -   The times before the [Tides](#the-tides) arrived.
 -   The Canticlysm is often thought of as the defining era of the Old World.
 
-Dialogue: [Regek](Regek.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Luminants](#the-luminants)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Luminants](#the-luminants)
 
 ## Phenomena
 
@@ -323,7 +323,7 @@ Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: [Lumen's Folklore: 'Volu
 -   The so-called 'sub-luminant' of the [Eastern Luminant](#the-eastern-luminant) that is home to the Kingdom of Etrea and the Isle of Vigils
 -   In times past, the Kingdom of Etrea held claim over the vast majority of the [Eastern Luminant](#the-eastern-luminant), so the designation of the Etrean Luminant is a somewhat modern invention.
 
-Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) | Glossary Entries: [The Eastern Luminant](#the-eastern-luminant)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) | Glossary Entries: [The Eastern Luminant](#the-eastern-luminant)
 
 ### Scyphozia, the First Layer
 
@@ -376,7 +376,7 @@ Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [
 -   Following the [Submergence of Celtor](#the-submergence-of-celtor), much of the Southern Luminant was pulled under the waves and consumed by the [Voidsea](#the-voidsea).
 -   The Southern [Luminant](#the-luminants) is by most accounts uninhabited, though some say that scattered remnants of the islanders who once lived there still haunt its ruins.
 
-Dialogue: | Books: | Glossary Entries: [The Submergence of Celtor](#the-submergence-of-celtor)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries: [The Submergence of Celtor](#the-submergence-of-celtor)
 
 ### The Surface
 
