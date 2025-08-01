@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155991
+revid: 156038
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -40,11 +40,9 @@ A Khan with great stature, he's around twice the height of the player. He has wr
 
 -   These moves are typically slow and can often lead to the player missing a parry.
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
 
  |  |
 | 
@@ -52,7 +50,13 @@ Dodgeable:
 **Imperator's Fury  
 ★**
 
- | Titus quickly slams down both arms into the ground, knocking players away. |  |
+ | Titus quickly slams down both arms into the ground, knocking players away.
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
 | 
 
 **Worldpiercing Deluge  
@@ -60,13 +64,11 @@ Dodgeable:
 
  | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
 
--   Titus is most likely to follow up with Warp Kick, which can be very problematic when they are ragdolled.
+-   Titus is most likely to follow up with Warp Kick, which can be very problematic if you're ragdolled.
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯
 
  |  |
 | 
@@ -139,11 +141,9 @@ Dodgeable:
 
 -   This move may be used twice or more.
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
 
  |  |
 | 
@@ -156,11 +156,9 @@ Dodgeable:
 -   This move may be used twice or more.
 -   This move will briefly stun him if he bashes into a surface.
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
+Parryable:✗  
+Blockable:✗  
+Dodgeable:◯
 
  |
 | 
@@ -189,11 +187,9 @@ Dodgeable:
 -   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
 -   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
 
-Parryable:
-
-Blockable:
-
-Dodgeable:
+Parryable:✗  
+Blockable:◯  
+Dodgeable:◯
 
  |  |
 | 

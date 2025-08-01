@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Ardour"
-revid: 150358
+revid: 156040
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Ardour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -14,7 +14,7 @@ categories: [Murmurs]
 
 ## Overview
 
-Template:ImageCaption Infobox **Murmur: Ardour** is one of the 3 [Murmurs](Murmur.md) that, when active, gives extra 20% posture damage on outgoing M1 posture damage, and reduces incoming posture damage by 15%, guardbreaking with an M1 while is Ardour active grants that attack an extra 15% damage multiplier. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum alongside whispers as long as it is active. It will also add a vibrato to the sound of your weapon's swings. Running out of ether at any point while using Ardour will cancel it.
+Template:ImageCaption Infobox **Murmur: Ardour** is one of the 3 [Murmurs](Murmur.md) that, when active, gives extra 20% posture damage on outgoing M1 posture damage, and reduces incoming posture damage by 15%, guardbreaking with an M1 while Ardour is active grants that attack an extra 15% damage multiplier. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum alongside whispers as long as it is active. It will also add a vibrato to the sound of your weapon's swings. Running out of ether at any point while using Ardour will cancel it.
 
 By default, it drains a large amount of [ether](Ether.md) when used; however, at Power 19 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your ether regen won't be affected.
 

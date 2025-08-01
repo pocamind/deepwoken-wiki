@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 153241
+revid: 156041
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -13,7 +13,7 @@ notices:
 | Worldpainter Brush | |
 |---|---|
 | type | Heavy |
-| requirements | Unknown |
+| requirements | None |
 | damage | 23 |
 | scaling | HVY: 7 |
 | range | 8.5 |

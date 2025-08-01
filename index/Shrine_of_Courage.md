@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 155199
+revid: 156034
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -50,6 +50,8 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
 
 ## Dialogue
 
+**Incompleted:**
+
 <table>
 <tbody>
 <tr>
@@ -65,6 +67,25 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
 <tr>
   <td colspan="4">End</td>
   <td colspan="4">YOU SHALL BE TESTED.</td>
+</tr>
+</tbody>
+</table>
+
+**Completed:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*The voice hums its approval... Of your proven strength...*</i></td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>

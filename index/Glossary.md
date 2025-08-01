@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 155990
+revid: 156043
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -419,7 +419,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftert
 ### Lumen
 
 -   The world you call home.
--   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above
+-   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
 
 Dialogue: [Dust](Dust.md), [Merryweather](Merryweather.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
@@ -427,7 +427,7 @@ Dialogue: [Dust](Dust.md), [Merryweather](Merryweather.md) | Books: [Lumen's Fol
 ### The Nightsea
 
 -   The inky black seas of the [Heavens](#the-heavens) above. Studded with twinkling points of light known as Stars.
--   When night falls and the [Suncross](#the-suncross) retreats into the [Voidfog](#the-voidfog), the Nightsea becomes visible from the [Surface](#the-surface) bellow.
+-   When night falls and the [Suncross](#the-suncross) retreats into the [Voidfog](#the-voidfog), the Nightsea becomes visible from the [Surface](#the-surface) below.
 -   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
 
 Dialogue: | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [The Heavens](#the-heavens)
