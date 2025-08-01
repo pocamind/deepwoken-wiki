@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 154644
+revid: 155972
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -78,76 +78,70 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 
 ## Abilities
 
--   **Ankle Cutter - Talent Ability**
-    -   You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-        -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1 and adding 30% as bleed dmg.
-        -   Can be used while sliding down slopes at no cost to your speed.
-        -   Flow State makes ankle cutter faster as well as increasing its damage. The damage buff depends on the base damage of the attack, scaling down the higher your damage is.
-        -   5 second cooldown.
+### Talents
 
--   **Dread Fighter - Talent**
-    -   Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
-        -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
-        -   Stacks up to 5 times and each stacks grant 5% mantra resistance leading to total 25% resistances.
+-   **Dread Fighter** - Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
+    -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
+    -   Stacks up to 5 times and each stacks grant 5% mantra resistance leading to total 25% resistances.
 
--   **Flow State - Talent Tool**
-    -   Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
-        -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
-        -   Given as a Talent tool.
-        -   Flow State changes the behavior of a move:
-            -   Increases the damage of some Silentheart abilities.
-                -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall).
-            -   Medium and heavy mayhem autogrip.
-            -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there.
-                -   You can reload during the second slash.
-            -   Changes windup of some Silentheart abilities.
-            -   _**Although it does provide buffs it adds a loud whooshing sound effect right before you do the move.**_
-        -   Active for 1 second. ~4s CD.
+-   **Merciless Blade** - You can now execute enemies much faster.
+    -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
+    -   Comes with the Oath.
 
--   **Mayhem - Talent Ability**
-    -   Initiate a special dash attack by pressing M1 during the start of your dodge.
-        -   11s CD per weapon type.
-        -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-        -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
-        -   Light - deals 25 Fixed Damage (26 in Flow State).
-        -   Medium - deals 20 Fixed Damage (35 in Flow State)
-        -   Heavy - deals 30 Fixed Damage
+-   **True Vantage** - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
+    -   This turns your Vents Red which is purely cosmetic.
+        -   If you have used Dyes, instead turns your vents to your tattoo colour.
 
--   **Merciless Blade - Talent**
-    -   You can now execute enemies much faster.
-        -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
-        -   Comes with the Oath.
+-   **Unmatched Dexterity** - Press X to Quick Swap between weapons within your toolbar.
+    -   Begins cycling from the latest weapon added to the toolbar. Once all weapons have been cycled through once, it cycles starting from the right side of the toolbar towards the left.
+    -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
 
--   **Relentless Hunt - Talent Ability**
-    -   M1 while doing an Aerial Attack to initiate a special gap closer attack.
-        -   Can be used at a great range.
-        -   11s CD per weapon type.
-        -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-        -   Has faster windup with Flow State active. The delay can trick opponents.
-        -   Light - 20 Fixed Damage (teleports back to the cast position in Flow State)
-        -   Medium - 30 Fixed Damage (15 each) (21 each in Flow State)
-        -   Heavy - 25 Fixed Damage
+#### Talent Abilities
 
--   **Rising Star - Talent Ability**
-    -   Press CTRL + M2 to activate a special uppercut attack
-        -   7.5s CD per weapon type.
-        -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-        -   Light - 40 Fixed Damage (20 + 20)
-        -   Medium - 30 Fixed Damage (40 in Flow State)
-        -   Heavy - 40 Fixed Damage (faster windup in Flow State)
+-   **Ankle Cutter** - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+    -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1 and adding 30% as bleed dmg.
+    -   Can be used while sliding down slopes at no cost to your speed.
+    -   Flow State makes ankle cutter faster as well as increasing its damage. The damage buff depends on the base damage of the attack, scaling down the higher your damage is.
+    -   5 second cooldown.
 
--   **True Vantage - Talent**
-    -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
-        -   This turns your Vents Red which is purely cosmetic.
-            -   If you have used Dyes, instead turns your vents to your tattoo colour.
+-   **Flow State** - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
+    -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
+    -   Given as a Talent tool.
+    -   Flow State changes the behavior of a move:
+        -   Increases the damage of some Silentheart abilities.
+            -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall).
+        -   Medium and heavy mayhem autogrip.
+        -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there.
+            -   You can reload during the second slash.
+        -   Changes windup of some Silentheart abilities.
+        -   _**Although it does provide buffs it adds a loud whooshing sound effect right before you do the move.**_
+    -   Active for 1 second. ~4s CD.
 
--   **Unmatched Dexterity - Talent**
-    -   Press X to Quick Swap between weapons within your toolbar.
-        -   Begins cycling from the latest weapon added to the toolbar. Once all weapons have been cycled through once, it cycles starting from the right side of the toolbar towards the left.
-        -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
+-   **Mayhem** - Initiate a special dash attack by pressing M1 during the start of your dodge.
+    -   11s CD per weapon type.
+    -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
+    -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
+    -   Light - deals 25 Fixed Damage (26 in Flow State).
+    -   Medium - deals 20 Fixed Damage (35 in Flow State)
+    -   Heavy - deals 30 Fixed Damage
 
--   **Vengeful Pursuit - Talent Ability**
-    -   Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
+-   **Relentless Hunt** - M1 while doing an Aerial Attack to initiate a special gap closer attack.
+    -   Can be used at a great range.
+    -   11s CD per weapon type.
+    -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
+    -   Has faster windup with Flow State active. The delay can trick opponents.
+    -   Light - 20 Fixed Damage (teleports back to the cast position in Flow State)
+    -   Medium - 30 Fixed Damage (15 each) (21 each in Flow State)
+    -   Heavy - 25 Fixed Damage
+
+-   **Rising Star** - Press CTRL + M2 to activate a special uppercut attack
+    -   7.5s CD per weapon type.
+    -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
+    -   Light - 40 Fixed Damage (20 + 20)
+    -   Medium - 30 Fixed Damage (40 in Flow State)
+    -   Heavy - 40 Fixed Damage (faster windup in Flow State)
+
+-   **Vengeful Pursuit** - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
     -   Deals fixed damage based on weapon type.
         -   Light: 18
         -   Medium: 21.6
@@ -158,9 +152,9 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 
 -   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
 -   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) **(ALL OF THESE ARE UNCOMFIRMED)**
--   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random Talents.
+-   While all Mantras are voided and the Mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random Talents.
     -   You're also still able to be given a whisper on level up.
-    -   The Mantra from [Kelsius](Kelsius.md) CAN be exchanged for Talents.
+-   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.
 -   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   [Vyrelda](Vyrelda,_Master_of_Blood.md) simply tells the player "I don't have time for this" and makes no other comment.

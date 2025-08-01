@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 154637
+revid: 155961
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,38 +47,40 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
 
 ## Abilities
 
--   **Precision Cuts - Combat Mantra**
-    -   _Snip forward 3 times with your scissors!_
-    -   Deals 60 Oath DMG with 0 songchant (20 per hit).
-    -   Deals 67.86 Oath DMG with 6 songchant (22.62 per hit)
+### Talents
 
--   **Close Shave - Combat Mantra**
-    -   _Close the distance and deliver a fast slash._
+-   **Fadetrimmer's Skillset** - What type of look are we going for today?
+    -   Grants a Talent tool that opens the old version of the Barber UI; only having 4 hair ID slots.
+    -   **Yourself**: Changes your own hair to the chosen hair IDs.
+    -   **Others**: Your Fadetrimmer Mantras have a chance to apply the chosen hair IDs to your opponent on hit. These last 10 minutes and can be reverted at any Barber or by respawning.
+        -   **DO NOT USE HAIR IDS THAT CAN BE SEEN AS OFFENSIVE. This is bannable. You are the one responsible for what hairs you give.**
+
+-   **Hair Products** - What's in these things?
+    -   Shows a popup menu that allows you to select either **Flammable**, **Charming**, or **Revitalizing** hair sprays.
+    -   Changes what effect your Hair Spray Talent tool applies.
+    -   The chosen Hair Spray variant does not save between game instances, and will need to be re-chosen every time you join the game or respawn.
+
+-   **Hair Spray** - Apply your Hair Products.
+    -   Applies the spray that was selected in the Hair Products' popup menu.
+    -   The sprays have no endlag, allowing you to use weapon attacks during their animations. This is very strong for burn synergies with the Flammable spray.
+    -   All three hair products have a 10 second cooldown.
+        -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). Parryable and blockable.
+        -   Charming Charms the opponent for 15 seconds. Parryable and blockable.
+        -   Revitalizing heals a flat 10% HP of the target. 10s cd. Can heal non-allies and even mobs. Unparryable and unblockable.
+
+### Mantras
+
+#### Combat Mantras
+
+-   **Close Shave** - Close the distance and deliver a fast slash.
     -   Aims in the direction of the cursor.
     -   Deals 50 Oath DMG with 0 songchant.
     -   Deals 56.56 Oath DMG with 6 songchant
     -   Can be used for movement.
 
--   **Fadetrimmer's Skillset - Talent Tool**
-    -   _What type of look are we going for today?_
-    -   Grants a Talent tool that opens the old version of the Barber UI.
-    -   If you click yourself, it'll change your own hair.
-    -   If you click others, it'll change the haircut your Fadetrimmer Mantras apply.
-    -   Due to it being an outdated version of the Barber UI, it only has 4 hair slots.
-    -   **DO NOT USE HAIR IDS THAT CAN BE SEEN AS OFFENSIVE. This is bannable. You are the one responsible for what hairs you give.**
-
--   **Hair Products - Talent Tool**
-    -   _What's in these things?_
-    -   Shows a popup menu that allows you to select either **Flammable**, **Charming**, or **Revitalizing** hair sprays.
-    -   Changes what effect your Hair Spray Talent tool applies.
-
--   **Hair Spray - Talent Tool**
-    -   _Apply your Hair Products._
-    -   Applies the spray that was selected in the Hair Products' popup menu.
-    -   All three hair products have a 10 second cooldown.
-        -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). 10s cd. Parryable and blockable.
-        -   Charming Charms the opponent for 15 seconds. 10s cd. Parryable and blockable.
-        -   Revitalizing heals a flat 10% HP of the target. 10s cd. Can heal non-allies and even mobs. Unparryable and unblockable.
+-   **Precision Cuts** - Snip forward 3 times with your scissors!
+    -   Deals 60 Oath DMG with 0 songchant (20 per hit).
+    -   Deals 67.86 Oath DMG with 6 songchant (22.62 per hit)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Karthal
-revid: 150762
+revid: 155947
 source: https://deepwoken.fandom.com/wiki/Karthal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs]
@@ -40,7 +40,7 @@ Karthal is located south of [Castle Light](Castle_Light.md) next to the [Hell Mo
   <td>Huh?</td>
 </tr>
 <tr>
-  <td>If you ring that bell, <b>all hell will break loose</b>. You'll need the combined effort of at least four allies to do it, but I don't know why you would... No one could survive if that bell were to ring.</td>
+  <td>If you ring that bell, <b>all hell will break loose</b>. You'll need the combined effort of at least <b>four</b> allies to do it, but I don't know why you would... No one could survive if that bell were to ring.</td>
 </tr>
 <tr>
   <td>End</td>

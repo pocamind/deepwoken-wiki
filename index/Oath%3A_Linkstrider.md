@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 155480
+revid: 155976
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -56,41 +56,45 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 
 ## Abilities
 
--   **Entropy Link - Talent**
-    -   _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
-        -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
-        -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
-        -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue, regular are red, and the seat in Voidheart causes it to be white.)
-        -   Limitations:
-            -   Does not work when in combat.
-            -   Cannot cross-luminant travel.
-            -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied. (Does not apply to guild base campfires)
-            -   You need to interact with the meteor before you can teleport to them.
-        -   Six meteorites can be located throughout the overworld:
-            -   _Etrean Luminant:_
-                -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
-                -   **Europa** (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
-                -   **Fortuna** (Above [Erisor's Church](<Erisor's_Church.md>))
-            -   _Eastern Luminant:_
-                -   **Hygiea** (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
-                -   **Eunomia** (Above [Sibex](Sibex.md))
-                -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
-    -   Obtained upon killing 1 player with an [Oath](Oaths.md)
+### Talents
 
--   **Symbiotic Link - Talent**
-    -   Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
-        -   -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
-            -   Red Cords (Enemies) gain a minor speed debuff.
-        -   Allows you to passively see the health bar of allies, even when not active.
-    -   Obtained upon killing 2 players with [Oaths](Oaths.md).
+-   **Entropy Link** - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
+    -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
+    -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
+    -   The color of the teleportation depends on the campfire color. (EX: Azure Flames lit campfires are blue, regular are red, and the seat in Voidheart causes it to be white.)
+    -   Limitations:
+        -   Does not work when in combat.
+        -   Cannot cross-luminant travel.
+        -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied. (Does not apply to guild base campfires)
+        -   You need to interact with the meteor before you can teleport to them.
+    -   Six meteorites can be located throughout the overworld:
+        -   _Etrean Luminant:_
+            -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
+            -   **Europa** (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
+            -   **Fortuna** (Above [Erisor's Church](<Erisor's_Church.md>))
+        -   _Eastern Luminant:_
+            -   **Hygiea** (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
+            -   **Eunomia** (Above [Sibex](Sibex.md))
+            -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
+-   Obtained upon killing 1 player with an [Oath](Oaths.md)
 
--   **Symbiotic Sustain - Support Mantra**
+-   **Symbiotic Link** - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
+    -   -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
+        -   Red Cords (Enemies) gain a minor speed debuff.
+    -   Allows you to passively see the health bar of allies, even when not active.
+-   Obtained upon killing 2 players with [Oaths](Oaths.md).
+
+### Mantras
+
+#### Support Mantras
+
+-   **Symbiotic Sustain** - Activate when linked to an ally to sacrifice your own health to them.
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to be turned into wither to restore 15% of the target's HP.
     -   It has a 17.5 second cooldown.
     -   Does **not** work with any deep gem besides Blue.
     -   Obtained upon killing 3 players with [Oaths](Oaths.md).
 
--   **Parasitic Leech - Support Mantra**
+-   **Parasitic Leech** - Activate when linked to an enemy to leech their own health for a short duration.
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
         -   Leeches 7% of an enemy's HP and gives you the flat amount of HP stolen back.
         -   For example, [Duke](Duke_Ishamon_Erisia.md) grants more HP than a [Mindless Servant](Mindless_Servant.md), since he has a significantly higher Health Pool.

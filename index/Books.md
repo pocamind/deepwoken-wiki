@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 155147
+revid: 155982
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -17,7 +17,7 @@ Books are items that are found in the world of Deepwoken and are a separate cate
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
--   The Gideshu March: [Fort Merit](Fort_Merit.md) or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant)[\[1\]](#cite-note-1)
+-   The Gideshu March: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant)[\[1\]](#cite-note-1)
 -   The Interrogation Of Ranger Santiago Talo: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md)
 -   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)

@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 155915
+revid: 155984
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -99,6 +99,5 @@ The deer folk of the land are among the few that still consider themselves free 
 -   The compass points East. This has been tested using the Map feature, sailing straight forward while the compass points "up."
 -   During 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor aspect name was changed to Hornskipper.
 -   When wearing a helmet/hat, it won't hide the horns.
--   One of the only 2 aspects that have Fortitude Stat Bonus, the other being [Vesperian](Vesperian.md).
-    -   2 as in available to the public.
+-   One of the only obtainable 2 aspects in the game that have the Fortitude Stat Bonus, with the other being [Vesperian](Vesperian.md).
 -   Combining the Reduced Hunger loss with Carnivore, you almost will never be below Half Hunger. (Unless you are trying to)

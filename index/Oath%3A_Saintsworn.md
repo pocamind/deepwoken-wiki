@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 155857
+revid: 155966
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -90,97 +90,94 @@ With the second completion, you will get Saint's Synergy and Saint's Overload.
 
 Alternatively you can use 10 knowledge to skip the progression if you've fully progressed this oath before.
 
-## Critical(s)
+## Abilities
 
-Each stance uses the critical of the matching hero blade.
+### Weapon
 
-## Effects
+-   **Saintsblade**
+    -   By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **28** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
+        -   The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects. It does, however, gain extra PEN from Proficiency.
+        -   The Saintsblade shares the star value from your normal weapon, but it won't carry over the Enchant due to effectively being a Legendary Weapon.
+            -   However, if you have an Enchantment that applies a status effect onto the enemy (e.g. Grim, Sear, or Solar), they will stay active upon switching back to the Saintsblade.
+    -   Criticals - The critical of your Saintsblade will match the corresponding [Hero Blade](Hero_Blades.md) for your current Saint Stance. Using your critical will cycle your Saint Stance.
 
-### Passives
+  
 
-**Saintsblade - Passive**
+-   **Saint Stances**
+    -   With the Saintsblade equipped, you are able to enter 5 different Saint Stances, corresponding to the 5 elements. Saint Stances are cycled through by using the Critical.
+    -   For each Stance, the Saintsblade has a unique Critical that it shares with the [Hero Blades](Hero_Blades.md), gives you access to element-specific passive abilities as given by Hero's Assist and Ether Proselyte, and modifies the Blade of Saints Mantra.
+    -   The cycle order of stances is based off of your highest-invested attunements, with the stance when you first equip the Saintsblade being your highest one, the second one your second highest, and so on.
+        -   Unequipping the Saintsblade will reset the cycle order.
+    -   One of the [Chorus Divide](Chorus_Divide.md) Resonance's beams will change attunements to match your current Saint Stance.
 
--   By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **28** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
-    -   The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects. It does, however, gain extra PEN from Proficiency.
-    -   The Saintsblade shares the star value from your normal weapon, but it won't carry over the Enchant due to effectively being a Legendary Weapon.
-    -   However, if you have an Enchantment that applies a status effect onto the enemy (e.g. Grim, Sear, or Solar), they will stay active upon switching back to the Saintsblade.
+### Talents
 
-**Saint Stances - Passive**
-
--   With the Saintsblade equipped, you are able to enter 5 different Saint Stances, corresponding to the 5 elements. Saint Stances are cycled through by using the Critical.
--   For each Stance, the Saintsblade has a unique Critical that it shares with the [Hero Blades](Hero_Blades.md), gives you access to element-specific passive abilities as given by Hero's Assist and Ether Proselyte, and modifies the Blade of Saints Mantra.
--   The cycle order of stances is based off of your highest-invested attunements, with the stance when you first equip the Saintsblade being your highest one, the second one your second highest, and so on.
-    -   Unequipping the Saintsblade will reset the cycle order.
--   One of the [Chorus Divide](Chorus_Divide.md) Resonance's beams will change attunements to match your current Saint Stance.
-
-### Modifiable Talents
+#### Saint Stance-Reliant Talents
 
 These Talents have modified effects based on your current Saint Stance. Due to the sheer amount of information, this segment will be very long.
 
-**Hero's Assist - Talent**
-
--   **Hero's Assist** is a passive ability that relies on the summoning of the past heroes of the attunements themselves to aid you in battle.
--   Which hero is summoned and their effect is dependent on the current Saint Stance.
--   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
-    -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**[The Floor is Lava](https://deepwoken.fandom.com/wiki/Talents#The_Floor_is_Lava)**_.
-    -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also suffocating and knocking them away.
-    -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
-    -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing [Chill](Status_Effects.md#chill) or applying [Crystals](Status_Effects.md#crystal).
-    -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra. The damage buff is currently bugged and does not work, meaning this does nothing but nerf your mantra.
+-   **Hero's Assist** - Heroes come to your aid based on your Saint Stance.
+    -   Hero's Assist is a passive ability that relies on the summoning of the past heroes of the attunements themselves to aid you in battle.
+    -   Which hero is summoned and their effect is dependent on the current Saint Stance.
+    -   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
+        -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**[The Floor is Lava](https://deepwoken.fandom.com/wiki/Talents#The_Floor_is_Lava)**_.
+        -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also suffocating and knocking them away.
+        -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
+        -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing [Chill](Status_Effects.md#chill) or applying [Crystals](Status_Effects.md#crystal).
+        -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra. The damage buff is currently bugged and does not work, meaning this does nothing but nerf your mantra.
 -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
-**Ether Proselyte - Talent**
-
--   Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talents of your currently equipped Saint Stance. This however does not work with all attuned Talents.
--   A google doc containing all Talents Ether Proselyte allows you to use can be found [here](https://docs.google.com/document/d/1xfNg3CLlZm5aSVfhThQ279o8RH7_-VmBisbyOlITXz4/edit?usp=sharing).
-    -   **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras are able to proc the following Talents:
-        -   **Dancing Steps** & **Graceful Steps**: Your attuned mantras will gain a lunge during their windup, closing distance.
-        -   **Hungry Flames**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.
-        -   **Immolation**: Your attuned Mantras will cost 70% less Ether if you're burning.
-        -   **Scorched** **Peak**: Guard breaking your opponent with any attuned Mantra will cause them to be struck by lightning. This can also be caused if you guard break them while they are burning, but that is not exclusive to this Saint Stance.
-        -   **The Final Act**: Landing an attuned Mantra after a flourish will cause an explosion.
-        -   **Warding Radiance**: Your attuned Mantras will build up halo stacks.
-    -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
-        -   **A World Without Song**: Your attuned Mantras will apply Suffocation.
-        -   **Haunted Gale**: Every third hit of a perfect-casted attuned Mantra will spawn a Haunted Gale Ghost. These can be turned into Specter Apparitions if you have the Specter Path. [Gale Wisp](Galebreathe.md#gale-wisp) lowers the amount of hits you need to land by 1, needing 2 hits instead of 3.
-        -   **Inhale**: You can inhale non-Galebreathe Mantras, however their modifiers/the inhale damage buff will not carry over to non-Galebreathe mantras.
-    -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
-        -   **Dark Hours**: Your attuned Mantras will gain a 15% damage buff during night or in the depths.
-        -   **Pressure** **Detonation**: Block breaking with any attuned mantra will suffocate your opponent and steal their tempo.
-    -   **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras are able to proc the following Talents:
-        -   **Cryonis**: Your attuned Mantras will have a reduced Ether cost while standing on ice.
-    -   **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras are able to proc the following Talents:
-        -   **Link Conduction**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
-        -   **Jolting Current**: Your attuned Mantras will strike nearby opponents with lightning while in water.
-        -   **Voltaic** **Conductor**: Your attuned Mantras will do 20% more chip damage to opponents affected by Conductor Rods.
-    -   **Ether Proseltyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
-        -   **Winter's Protection**: Effect _with Ether Proselyte_ is currently unknown.
-        -   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
+-   **Ether Proselyte** - All of your Elemental Mantras below Lv. 5 are 1 Mantra level higher. Your Mantras are converted to the element of your active stance.
+    -   The level change for attuned Mantras is not displayed on their tooltips.
+    -   Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talents of your currently equipped Saint Stance. This however does not work with all attuned Talents.
+    -   A google doc containing all Talents Ether Proselyte allows you to use can be found [here](https://docs.google.com/document/d/1xfNg3CLlZm5aSVfhThQ279o8RH7_-VmBisbyOlITXz4/edit?usp=sharing).
+        -   **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **Dancing Steps** & **Graceful Steps**: Your attuned mantras will gain a lunge during their windup, closing distance.
+            -   **Hungry Flames**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.
+            -   **Immolation**: Your attuned Mantras will cost 70% less Ether if you're burning.
+            -   **Scorched** **Peak**: Guard breaking your opponent with any attuned Mantra will cause them to be struck by lightning. This can also be caused if you guard break them while they are burning, but that is not exclusive to this Saint Stance.
+            -   **The Final Act**: Landing an attuned Mantra after a flourish will cause an explosion.
+            -   **Warding Radiance**: Your attuned Mantras will build up halo stacks.
+        -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **A World Without Song**: Your attuned Mantras will apply Suffocation.
+            -   **Haunted Gale**: Every third hit of a perfect-casted attuned Mantra will spawn a Haunted Gale Ghost. These can be turned into Specter Apparitions if you have the Specter Path. [Gale Wisp](Galebreathe.md#gale-wisp) lowers the amount of hits you need to land by 1, needing 2 hits instead of 3.
+            -   **Inhale**: You can inhale non-Galebreathe Mantras, however their modifiers/the inhale damage buff will not carry over to non-Galebreathe mantras.
+        -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **Dark Hours**: Your attuned Mantras will gain a 15% damage buff during night or in the depths.
+            -   **Pressure** **Detonation**: Block breaking with any attuned mantra will suffocate your opponent and steal their tempo.
+        -   **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **Cryonis**: Your attuned Mantras will have a reduced Ether cost while standing on ice.
+        -   **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **Link Conduction**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
+            -   **Jolting Current**: Your attuned Mantras will strike nearby opponents with lightning while in water.
+            -   **Voltaic** **Conductor**: Your attuned Mantras will do 20% more chip damage to opponents affected by Conductor Rods.
+        -   **Ether Proseltyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
+            -   **Winter's Protection**: Effect _with Ether Proselyte_ is currently unknown.
+            -   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
     -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
-### Other Talents
+#### Other Talents
 
 These Talents do not have modified effects depending on Saint Stance, and as such, they luckily won't have such a bloated Talent section.
 
--   **Saint's Negation - Talent**
-    -   Once per stance cycle you can fully block an attack that matches your Saint Stance.
-        -   Allows you to fully negate the damage of one attack that has a damage type that corresponds with your current Saint Stance.
-        -   Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc this effect again.
-    -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md).
+-   **Saint's Negation** - Once per stance cycle you can fully block an attack that matches your Saint Stance.
+    -   Allows you to fully negate the damage of one attack that has a damage type that corresponds with your current Saint Stance.
+    -   Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc this effect again.
+-   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md).
 
--   **Saint's Overload - Talent**
-    -   After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifier effects increased by 10% for 20 seconds.
-        -   Increases your Attunement investment scaling by 15% and the effects of your Mantra modifiers by 10% for a few seconds after preforming a full rotation of Saint stances.
-        -   Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc this effect again.
-        -   Turns your Saintsblade and the Saintsworn Oath cosmetic (the swords on your back) white on proc.
-    -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice.
+-   **Saint's Overload** - After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifier effects increased by 10% for 20 seconds.
+    -   Increases your Attunement investment scaling by 15% and the effects of your Mantra modifiers by 10% for a few seconds after preforming a full rotation of Saint stances.
+    -   Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc this effect again.
+    -   Turns your Saintsblade and the Saintsworn Oath cosmetic (the swords on your back) white on proc.
+-   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice.
 
--   **Saint's Synergy - Talent**
-    -   15% of your highest element scaling is applied to other elemental damage.
-        -   15% of the investment scaling from your highest Attuned stat is added to your other Attuned Mantras, granting them slight dual scaling.
-    -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice.
+-   **Saint's Synergy** - 15% of your highest element scaling is applied to other elemental damage.
+    -   15% of the investment scaling from your highest Attuned stat is added to your other Attuned Mantras, granting them slight dual scaling.
+-   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice.
 
-## Blade of Saints - Combat Mantra
+### Mantras
+
+#### Combat Mantras
 
 Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accordance to your current Saint Stance.
 

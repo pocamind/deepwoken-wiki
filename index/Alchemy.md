@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 153892
+revid: 155981
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -142,16 +142,16 @@ Note: Each potion effect needs to be calculated individually, as almost all ingr
 
 Examples:
 
--   Example 1: Instant Health - 3 Glumfig (n1, 2, 3 = 5) 2 Redds (n4, 5 = 4). Talents: Apothecary (A = 1.25), and Chain Reaction (v = 1.4). 100 Intelligence (p = 100/2). (a = 1, as Antithetic Salts where not used).
+-   Example 1: Instant Health - 3 Glumfig (n1, 2, 3 = 5) 2 Redds (n4, 5 = 4). Talents: Apothecary (A = 1.25), and Chain Reaction (t = 1.4). 100 Intelligence (p = 100/2). (a = 1, as Antithetic Salts where not used).
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = (((5 + 5 + 5 + 4 + 4) \* 1) \* ((1 + ((100/2)/100) + 1.25) \* 1.4)
     -   Potion = (15 + 8) \* ((1 + 50/100 + 1.25) \* 1.4)
-    -   Potion = 23 \* ((1 + .5 + 1.25) \* 1.4)
+    -   Potion = 23 \* ((1 + 0.5 + 1.25) \* 1.4)
     -   Potion = 23 \* (2.75 \* 1.4)
     -   Potion = 23 \* 3.85
     -   Potion = 88.55 healing. Because this potion was thrown and Potion Quaffer was not applied, this only grants 66.41 Health. This is reduced further to 22.14 health in combat.
         -   This potion would also grant -38.5% Ether regeneration, -7.7% damage, -50% posture resistance, and -0.825 sanity/s for 7.5 seconds. These downsides can be mitigated via the usage of the [Biotic Salts](Oath%253A_Saltchemist.md).
--   Example 2: Posture Resistance Buff - 3 Glumfig (n1, 2, 3 = -15) 2 Ongo (n4, 5 = -5) Antithetic Salts (a = -1). Talents: Apothecary (A = 1.25). 80 Intelligence (p = 80/2). (v = 1, as neither Potion Quaffer, nor Chain Reaction were used)
+-   Example 2: Posture Resistance Buff - 3 Glumfig (n1, 2, 3 = -15) 2 Ongo (n4, 5 = -5) Antithetic Salts (a = -1). Talents: Apothecary (A = 1.25). 80 Intelligence (p = 80/2). (t = 1, as neither Potion Quaffer, nor Chain Reaction were used)
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = ((-15 + -15 + -15 + -5 + -5) \* -1) \* ((1 + ((80/2)/100) + 1.25) \* 1)
     -   Potion = ((-45 + -10) \* -1) \* (1 + (40/100) + 1.25)
@@ -170,7 +170,7 @@ Instant Damage: It's the same formula as before, but the potion's overall damage
 
 Health Regeneration potions have a reduced effect in combat, giving +60% per ingredient instead of +85%. The formula is the same as before.
 
--   Example: Out of Combat - 3 Bamboo (n1, 2, 3 = 85) 2 Goblettos (n4, 5 = 85). Talents: Apothecary (A = 1.25), Potion Quaffer (v = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
+-   Example: Out of Combat - 3 Bamboo (n1, 2, 3 = 85) 2 Goblettos (n4, 5 = 85). Talents: Apothecary (A = 1.25), Potion Quaffer (t = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = ((85 + 85 + 85 + 85 + 85) \* 1) \* ((1 + ((75/2)/100) + 1.25) \* 1.15)
     -   Potion = (425 \* 1) \* ((1 + (37.5/100) + 1.25) \* 1.15)
@@ -179,7 +179,7 @@ Health Regeneration potions have a reduced effect in combat, giving +60% per ing
     -   Potion = 425 \* 3.02
     -   Potion = +1,282.97% health regeneration for 11.25 seconds out of combat.
         -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md).
--   Example: In Combat - 3 Bamboo (n1, 2, 3 = 60) 2 Goblettos (n4, 5 = 60). Talents: Apothecary (A = 1.25), Potion Quaffer (v = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
+-   Example: In Combat - 3 Bamboo (n1, 2, 3 = 60) 2 Goblettos (n4, 5 = 60). Talents: Apothecary (A = 1.25), Potion Quaffer (t = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = ((60 + 60 + 60 + 60 + 60) \* 1) \* ((1 + ((75/2)/100) + 1.25) \* 1.15)
     -   Potion = (300 \* 1) \* ((1 + (37.5/100) + 1.25) \* 1.15)
@@ -490,7 +490,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 -   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
     -   Keep in mind, instant damage potions deal 75% less damage if you don't directly land them.
 -   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
-    -   Almost a full Ether restore - deals 15 damage.
+    -   Almost a full Ether restore - deals damage on application.
 -   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle + 2 Marram Grass
     -   Instantly drains a very large amount of Ether.
 -   **Damage Buff Potion** (Strengthening) - 3 Plumfruit + 2 Browncaps
@@ -498,8 +498,8 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 -   **Damage Debuff Potion** (Dulling) - 3 Glumfig + 2 Crustacean Meat
     -   Alternatively, you can use Spider Eggs instead of Crustacean Meat for a longer duration potion, although this will come at the cost of effectiveness and won't be that much longer than the initial potion.
 -   **Greater Posture Damage Potion** (Staggering) - 3 Ongos + 2 Spider Eggs
-    -   This lowers your posture defense, though.
-    -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Alestrian Coral + 2 Redds + Antithetic salts. While less potent than the former, this avoids lowering your posture defense.
+    -   This also lowers your posture defense.
+    -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Alestrian Coral + 2 Redds + Antithetic salts. While less potent than the former, this avoids lowering your posture defense. Alternatively, you can use the original potion with Biotic Salts to mitigate the downside.
 -   **Weaker Posture Damage Potion** (Weakening) - 3 Alestrian Coral + 2 Spider Eggs
     -   Decreases your posture damage.
 -   **Posture Defense** (Steadfast) - 3 Marram Grass/Bamboo + 2 Spider Eggs

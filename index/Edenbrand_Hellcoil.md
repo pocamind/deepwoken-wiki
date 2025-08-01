@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 155917
+revid: 155969
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -34,11 +34,20 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 
 The Edenbrand Hellcoil is a very large cannon held with both hands (though, it can still be wielded with an offhand). The cannon showcases a dragon motif, akin to ancient eastern cultures in the real world.
 
+Unlike all other heavy weapons, the Edenbrand Hellcoil does not receive a penalty to its aerial attack damage.
+
 ## Critical
 
-With a decent wind-up, fire an unparryable cannon shot towards your enemy, launching yourself back from the sheer firepower. This applies [White burn](Status_Effects.md#burn) on hit, similar to [Corrupt Shard Bow](Shard_Bow.md). Has a cooldown of 14 seconds.
+With a decent wind-up, fire an unparryable cannon shot towards your enemy, launching yourself back from the sheer firepower. This applies [White burn](Status_Effects.md#burn) on hit, similar to [Corrupt Shard Bow](Shard_Bow.md). This attack has a windup of 2.05s and an endlag of 0.75s with 1.5s of hyperarmor on the later half of the critical's windup. You receive a 70% slow during the critical's windup.
+
+The critical deals 2x your weapon's scaled M1 damage, dealt as **true damage** in a range of about 20 studs.
+
+Has a cooldown of **14 seconds**.
+
+\- _Currently bugged(?)_ with the [Visionshaper](Oath%253A_Visionshaper.md) oath: You cannot make your [Visionshaper](Oath%253A_Visionshaper.md) clone mimic the crit of this weapon.
 
 ## Trivia
 
 -   The weapon has a "Unique" rarity, despite this it is droppable. It can also be banked.
 -   The Edenbrand Hellcoil was the first Greatcannon to be added to deepwoken.
+-   Edenbrand Hellcoil's critical is the only attack in the game that deals true damage, completely ignoring **all** resistances.

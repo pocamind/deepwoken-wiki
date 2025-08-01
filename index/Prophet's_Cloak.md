@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 152543
+revid: 155959
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Ministry]
@@ -21,7 +21,7 @@ categories: [Items, Outfits, Master Outfits, The Ministry]
 | resistances | +25% Physical Armor, +25% Elemental Armor, +20% Ice Armor, +20% Fire Armor |
 | buffs | +50% Ether Regen |
 | talents | Crippling Darkness |
-| obtainment | Sold by Nyanna and Traan Zakshun for 200 Chests from:, Starswept Valley, The Depths, Moon's Eyrie, Primadon, Fishing, Rogue Construct, Diver Journeyman Ambush |
+| obtainment | Sold by Nyanna and Traan Zakshun for 200 Chests from:, Saramaed Hollow, Starswept Valley, The Depths, Moon's Eyrie, Primadon, Fishing, Rogue Construct, Diver Journeyman Ambush |
 | selling_price | 10 |
 | weight | 1 |
 

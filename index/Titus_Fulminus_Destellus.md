@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 155932
+revid: 155991
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -47,6 +47,12 @@ Blockable:
 Dodgeable:
 
  |  |
+| 
+
+**Imperator's Fury  
+★**
+
+ | Titus quickly slams down both arms into the ground, knocking players away. |  |
 | 
 
 **Worldpiercing Deluge  
@@ -112,12 +118,10 @@ Dodgeable:
  |
 | 
 
-**Vengeful Rushdown  
+**Splitting Ascension  
 **★★★
 
- | Titus leaps towards their opponent, knocking them away when hit.
-
--   This attack will briefly stun him when he bashes into a surface.
+ | Titus ascends into the air, crashing into the ground and knocking down opponents.
 
 Parryable:
 
@@ -131,7 +135,7 @@ Dodgeable:
 **Sovereign Drive  
 **★★
 
- | Titus dashes towards the opponent, leaving behind a destructive path of white lightning in his way.
+ | Titus dashes forward in a blink, knocking down enemies in its path.
 
 -   This move may be used twice or more.
 
@@ -147,7 +151,10 @@ Dodgeable:
 **Skycrash  
 **★★
 
- | Titus ascends into the air before crashing down into opponents.
+ | Titus leaps towards their opponent, stomping and knocking them away when hit.
+
+-   This move may be used twice or more.
+-   This move will briefly stun him if he bashes into a surface.
 
 Parryable:
 
@@ -180,6 +187,7 @@ Dodgeable:
  | In a flash, Titus warps to a random opponent and kicking them away.
 
 -   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
+-   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
 
 Parryable:
 

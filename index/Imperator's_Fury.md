@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 155166
+revid: 155950
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
