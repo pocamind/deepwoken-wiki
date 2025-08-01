@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 152559
+revid: 156027
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -30,15 +30,11 @@ categories: [Weapons, Clubs, Medium Weapons]
 
 ## Description
 
-The **Pernach** is a medium blunt weapon found by fighting the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Chaser,](Chaser,_Scholar_of_the_Crimson_Contract.md) Scion of Ethiron, Diluvian Mechanism, and [Duke Erisia](Duke_Ishamon_Erisia.md) boss fights. It can also be found inside [chests](Chests_&_Sacks.md) from [Aratel Island](Aratel_Island.md) and rarely from the [First Layer](First_Layer.md).
-
-It can be considered the endgame version of the [Mace](Mace.md).
-
--   This weapon cannot be used with the [Pluripotent Alloy](Pluripotent_Alloy.md)
+The **Pernach** is a medium blunt weapon in the [Club](Weapons.md#clubs) category. This club weapon, considered to be the endgame version of the [Mace](Mace.md), is most known for its ability to deal irreparable damage to the defenses of any opponent, crushing their guards with a singular, weighted swing. Once it breaks through the opponent's defenses, its sharp protruding edges cause mass bleeding. Be wary of those who wield the Pernach.
 
 ## Trivia
 
 -   Meeting the requirement of MED, the weapon deals 24.7 damage, but it becomes 32.1 with bleed.
 -   At max MED, the weapon deals 26.8 damage, but it becomes 34.8 with bleed.
 -   This weapon can be used as a mid to endgame club.
--   Most likely based off the real life Pernach, a flanged mace
+-   Most likely based off the real life Pernach, a flanged mace.

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 150692
+revid: 155998
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -369,7 +369,7 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 
 Example of an Echo Talent unlocked
 
-Quickfang Echo Upgrade
+Quickfang Echo Unlock
 
 Other than replayability, Echoes can also be Talents and Items; all acquired under meeting requirements and completing quests.
 
@@ -407,24 +407,23 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Notes
 
--   Buying most echo upgrades will apply their effects to previously created slots. Any of the Starter Weapons Tools or Equipment, Starting Knowledge, and Starting Notes will **not** be applied to pre-existing slots.
+-   Buying most Echo Upgrades and some of the Unlocks will apply their effects to previously created slots. Any of the Starter/Starting: Weapon, Tools, Equipment, Knowledge, and Notes will **not** be applied to pre-existing slots however.
 -   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with Vow of Thorns AND Dealbreaker, it will still do this for unknown reasons.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
-    -   The [Boulder](Training_Gear.md)
-    -   [Starvation](Status_Effects.md#starvation)
--   [Kelsius'](Kelsius.md) Mantra hand and [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
+    -   The [Boulder](Training_Gear.md#attribute-training-gears) training gear
+    -   [Starvation](Status_Effects.md#parchedstarved)
+-   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[2\]](#cite-note-2) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
--   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward Echoes.
-    -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
-    -   The other [World Events](World_Events.md) do not grant Echoes.
+-   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Interluminary Parasol](Interluminary_Parasol.md), and [Parliament](Parliament.md) do not reward Echoes.
+    -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
--   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment echo unlock can have quality stars and [enchantments](Enchantments.md).
-    -   Considering that you can sell these items immediately on spawn, this echo unlock can give much more Notes than the Starting Notes echo upgrade does, depending on your luck. This paired with Starting Notes when fully upgraded costing over 4 times what Starting Equipment does makes Starting Notes just not worth the echoes (not that it ever was to begin with).
--   Not only does using the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the Fragments of Self. However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
+-   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock can have quality stars and [enchantments](Enchantments.md).
+    -   Considering that you can sell these items immediately on spawn, this Echo Unlock can give much more Notes than the Starting Notes Echo Upgrade does, depending on your luck. This, paired with Starting Notes when fully upgraded costing over 4 times what Starting Equipment does makes Starting Notes just not worth the Echoes (not that it ever was to begin with).
+-   Not only does using the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the [Fragments of Self](Fragments_of_Self.md). However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
     -   After purchasing Multifaceted, any pre-existing slot that didn't invest into stats that were increased by their Aspect will be able to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to reallocate them.
-    -   Unfortunately, after purchasing Multifaceted, any pre-existing slot that had above 100 in any stat will have all of their points above 100 uninvested. This also disallows you from going above 100 invest in any stat regardless of your aspect.
+    -   Unfortunately, after purchasing Multifaceted, any pre-existing slot that had above 100 in any attribute will have all of their points above 100 uninvested and refunded. This also **disallows you from going above 100 invest in any attribute** regardless of your aspect.
 -   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 Flame 2 Ice 3 Shadow and 2 Gale, or 9 Blood and 1 Thunder, etc. This will take points out of your starting points though.
 
 ## Trivia

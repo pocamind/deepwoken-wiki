@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 154077
+revid: 156020
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -18,7 +18,6 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, L
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 15% |
-| special effect | Has a unique critical attack consisting of a single forward slash with a red trail. |
 | stances | 1 Handed |
 | selling price | 25 / 50 |
 | weight | 4 |
@@ -31,7 +30,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, L
 
 ## Description
 
-The Whaling knife is a midgame dagger type weapon.
+The Whaling knife is a midgame dagger type weapon. This dagger is an assassin's best friend, being sharp enough to finish a job while being small enough to go unnoticed even under maximum security. In the hands of a weapon master, this weapon can more easily utilize the techniques of the infamous _Knife's Journey_, making it all the more lethal.
 
 This weapon can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requirements, turning the Whaling Knife into an endgame weapon. This also changes its appearance, granting it a green hue.
 

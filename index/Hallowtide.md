@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 153524
+revid: 156019
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -50,7 +50,7 @@ The second Hallowtide added...
 
 -   **New Features**
 -   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
--   [Harrowing Enchant](Enchantments.md)
+-   [Harrowing](Harrowing.md) Enchant
 -   [Pumpkin Pitch](Pumpkin_Pitch.md)
 
 -   **New Helmets**
@@ -61,6 +61,7 @@ The second Hallowtide added...
 -   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist)
 -   [Bloodtide Trident](Bloodtide_Trident.md) (Spear)
 -   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer)
+-   [Gourdguard](Gourdguard.md) (Shield)
 
 The third Hallowtide added...
 
@@ -103,6 +104,10 @@ Main article: [Joy](Joy.md)
 ### Aspect Variants
 
 -   The Hallowtide update added a special new variant for each aspect in the game. To unlock the Hallowtide aspect variants, you will have to turn in 70 "Joy" to [Lysander Spellhardt](Lysander_Spellhardt.md) who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their aspect variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by going to a [Barber](Barber.md) and asking them to change your variant, or by wiping and choosing your Hallowtide Variant in the character customization screen.
+
+  
+
+  
 
 ### Exclusive NPCs and Variants
 

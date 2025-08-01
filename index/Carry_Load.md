@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 155993
+revid: 155997
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -83,7 +83,7 @@ In order of carry load given:
 -   [Strength](Attributes.md#str) increases your carry load by 1 for every point of strength you get.
     -   [Canor](Canor.md) and [Khan](Khan.md) can get up to 103 strength due to their 3 starting strength, resulting in 103 extra carry load.
     -   [Gremor](Gremor.md) can get up to 102 strength due to its 2 starting strength, resulting in 102 extra carry load.
-    -   Anyone with the Multifaceted [echo unlock](https://deepwoken.fandom.com/wiki/Echoes#Unlocks) or any other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
+    -   Anyone with the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) or any other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
         -   Multifaceted permanently removes the ability to have more than 100 in an attribute for your account when you purchase it.
 
 All of these miscellaneous sources combined would theoretically provide 375 carry load.
@@ -94,7 +94,7 @@ Combining both Talents and other sources, the total amounts to **570**. However,
 
 Due to attribute limitations, the current best carry load build can only get 540/648 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
--   You are only able to perfectly create this build if your account does _not_ have the Multifaceted [echo unlock](https://deepwoken.fandom.com/wiki/Echoes#Unlocks), due to its previously mentioned quirk.
+-   You are only able to perfectly create this build if your account does _not_ have the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers), due to its previously mentioned quirk.
     -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 539/647.
 -   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to help calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 

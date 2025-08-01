@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 152700
+revid: 156009
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -106,4 +106,5 @@ File:Mudskipper Brute Roar.gif
 -   It will be killed instantly when attacked by a cannonball.
 -   It appears that Mudskipper Brutes can parry projectiles. This has no animation or particle effects but still inflicts parry stun if possible.
 -   Both it and the [Mudskipper Broodlord](Mudskipper_Broodlord.md) can sometimes noclip when using Lumbering Smash.
+-   In the caves of [Saramaed Hollow](Saramaed_Hollow.md), Mudskipper Brutes will start to fight their spawned Mudskippers and vice versa if they get hit by them too many times. Outside of being funny, this allows the player openings to escape without being chased.
 -   Initially it was thought the facial covering was inspired by [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga) from _Jujustu Kaisen._

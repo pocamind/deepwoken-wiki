@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 153350
+revid: 156025
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -129,7 +129,7 @@ Exhaustive Loot Table
 
 ## Tips & Tricks
 
--   As of now, an update made the Parasol take more damage from cannons, making it the most effective cheese method for the boss (takes around 15 minutes to kill it with the Schooner). It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
+-   As of now, an update made the Parasol take more damage from cannons, making it the most effective cheese method for the boss (takes around 4 minutes to kill it with the Schooner). It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
 -   Best method to kill it is to shoot with cannons when you're far away and have someone get close with a high HP ship so you can attack.
 
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
@@ -138,7 +138,7 @@ Exhaustive Loot Table
 -   Path 1: Near the [Monkey's](<The_Monkey's_Paw.md>) [paw](<The_Monkey's_Paw.md>) - [Ancient rotlands](Ancient_Rotlands.md) highway it will always go towards the [Summer isle](Summer_Isle.md) highway- then to [Miners landing](<Miner's_Landing.md>), Ending at the [Fort merit](Fort_Merit.md) highway.
 -   Path2: Near the [Songseeker](Songseeker_Wilds.md) - [Summer isle](Summer_Isle.md) highway it will always go towards the [Monkey's paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel.](Greathive_Aratel.md)
 
--   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit.
+-   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit. (parasol will get stuck on it's path around miner's landing)
 
 ## Trivia
 

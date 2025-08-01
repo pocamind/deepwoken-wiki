@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 154204
+revid: 156030
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -214,13 +214,6 @@ His moveset is quite extensive, but with some practice, becomes relatively easy 
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a>.</li>
     <li><b>Alloyed/War Weapons</b>: <a href="Bloodbane.md">Bloodbane</a>.</li>
-    <li><b>Generic Weapons</b>:
-  <ol>
-    <li><b>Light Weapons</b>:</li>
-    <li><b>Medium Weapons</b>:</li>
-    <li><b>Heavy Weapons</b>:</li>
-    <li><b>Offhand Weapons</b>:</li>
-  </ol></li>
   </ul></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 155956
+revid: 156023
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -11,7 +11,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | Specialist Helmet | |
 |---|---|
 | type | Head |
-| rarity | Common |
+| rarity | Rare |
 | selling price | 25 |
 | requirements | PWR 10, 30 WND, 30 LTN |
 | weight | 1 |

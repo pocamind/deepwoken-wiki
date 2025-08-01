@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 152701
+revid: 156010
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -112,7 +112,7 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 -   Be mindful of Broodrot Smash. This move allows the Broodlord to cover quite long distances with ease and catch up to you. Additionally, this move also allows them to easily board boats, especially larger ones.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with extreme caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
     -   Cannons on [boats](Ships_&_Sailing.md) are a good way to kill them when encountered at sea.
--   You _can_ use [Force Your Way](Talents.md) from [Ignition Deepdelver](Ignition_Deepdelver.md) or the [Ignition Gauntlets](Ignition_Gauntlets.md) to parry Broodrot Slam and/or Broodrot Thrust, but be advised that it is incredibly risky and requires noticeably precise timing to parry either attack.
+-   You _can_ use [Force Your Way](Talents.md#equipment-talents) from [Ignition Deepdelver](Ignition_Deepdelver.md) or the [Ignition Gauntlets](Ignition_Gauntlets.md) to parry Broodrot Slam and/or Broodrot Thrust, but be advised that it is incredibly risky and requires noticeably precise timing to parry either attack.
 -   The Broodlord is deceptively fast, even without using Broodrot Smash, typically able to catch up to the average player, especially on low health. If you're being chased, try to get to higher ground, as Mudskipper Broodlords are, for the most part, incapable of getting to higher elevations. Although, be incredibly mindful of their ability to phase through walls and ceilings with Broodrot Smash.
 -   When escaping from a Mudskipper Broodlord, pay close attention to it's attack audio. Broodrot Smash will knock you down, stunning you, allowing it to potentially get another hit in, dealing high damage. Dodge immediately if you hear it charging up its slam.
 -   Be mindful of their ability to parry mantras, as this can make them harder to deal with from long range
@@ -125,6 +125,7 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 -   They have 15,000 health when corrupted - the exact same amount of health Duke has.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.
 -   They used to deal more damage and used Broodrot Smash and Rotten Mudtoss more frequently being one of the, if not the hardest mob ever, they were nerfed at an unknown point during Late 2024/Early 2025 reducing the damage of its punch and left hook and only using Broodrot Smash to grip and stopped using Rotten Mudtoss.
+-   In the caves of [Saramaed Hollow](Saramaed_Hollow.md), Mudskipper Broodlords will start to fight their spawned Mudskippers and vice versa if they get hit by them too many times. Outside of being funny, this allows the player openings to escape without being chased.
 
 ## References
 
