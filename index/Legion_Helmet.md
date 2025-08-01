@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 155637
+revid: 155934
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets, Items]
 | selling price | 25 |
 | requirements | PWR 10, 10 FTD |
 | weight | 1 |
-| innate stats | +10 HP, +2 Posture, +1 Uncommon Pips |
+| innate stats | +10 HP, +2 Posture, +1 Uncommon Pip |
 | innate talent | N/A |
 | set | Khan Helmet, Khan Pauldrons, Khan Boots |
 | set talent | N/A |

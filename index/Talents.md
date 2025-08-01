@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 155893
+revid: 155937
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2514,12 +2514,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[5\]](#cite-note-5)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
-### Seeker of Sound
-
--   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
-    -   2s Cooldown.
-    -   Grants +20 Ether on proc.
-
 ### Self-Shocker
 
 -   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
@@ -3525,6 +3519,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
     -   Prerequisites: 35 Fortitude, 30 Strength
         -   The arms equipment "[Enforcer Plate](Enforcer_Plate.md)" has this Talent.
+
+-   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
+    -   2s Cooldown.
+    -   Grants +20 Ether on proc.
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisites: [Power](Power.md) 16, Obtain resonance

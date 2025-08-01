@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 139326
+revid: 155938
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -86,7 +86,7 @@ These two behaviors implies that, combined with his general knowledge of the wor
   <td colspan="6"><b>Reference</b></td>
 </tr>
 <tr>
-  <td colspan="6">Me? Drowned... Just like you. *He looks you dead in the eyes and gives you a wry smile.*</td>
+  <td colspan="6">Drowned... Just like you. *He looks you dead in the eyes and gives you a wry smile.*</td>
   <td colspan="6">Mentions the act of Drowning, being sent to <a href="The_Depths.md">The Depths</a>.</td>
 </tr>
 <tr>
@@ -134,11 +134,11 @@ These two behaviors implies that, combined with his general knowledge of the wor
 </tr>
 <tr>
   <td colspan="6">"A cryin' shame..."</td>
-  <td colspan="6">(When W:L ratio is lower than 60%)</td>
+  <td colspan="6">(When W:L ratio is lower than 50%)</td>
 </tr>
 <tr>
   <td colspan="6">"Respectable... at the very least."</td>
-  <td colspan="6">(When W:L ratio is between 60% and 80%)</td>
+  <td colspan="6">(When W:L ratio is between 50% and 80%)</td>
 </tr>
 <tr>
   <td colspan="6">"Not bad... Not bad at all."</td>
