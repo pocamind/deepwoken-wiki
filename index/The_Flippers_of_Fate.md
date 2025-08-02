@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 154133
+revid: 156118
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -35,7 +35,9 @@ The Flippers of Fate can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) 
 
 ## Critical
 
-The Unique Critical for this weapon is similar to the [Halberd](Halberd.md), being a forward dash that results in a 360 degree AoE hit. Landing the first part of the Critical will clear its cooldown. Using the Critical again shortly after the first part lands performs a 360 degree spinning radial slash that hits twice.
+The user dashes forward and performs a 360° horizontal slash. Landing the first part of the critical will clear its cooldown. Using the critical after the initial hit performs a second 360° horizontal slash that hits twice.
+
+The critical has a cooldown of **6 seconds**, even after the follow-up critical is landed.
 
 Notably, this attack is shared with the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
 

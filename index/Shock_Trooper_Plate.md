@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Plate
-revid: 155566
+revid: 156192
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -22,11 +22,11 @@ categories: [Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merit Detainment Core |
+| obtainment | Titus |
 | description | Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise. |
 
 ## Description
 
-The Shock Trooper Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Plate is a black and gold coat with a full plate chest piece and fur shoulders, protecting the wearer's vital organs. When worn, this grants +5 Health and +2 Rare Pips.
+The Shock Trooper Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Plate is a black and gold coat with a full plate chest piece and fur shoulders. When worn, this grants +5 Health and +2 Rare Pips.
 
 This item is used to craft the [Specialist Plate](Specialist_Plate.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

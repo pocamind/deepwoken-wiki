@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 152529
+revid: 156176
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Divers, Diver Enemies]
@@ -34,13 +34,7 @@ Assault
 
 Critical
 
- | \[[Razor Cutlass](Razor_Cutlass.md)\] Performs a windup before thrusting blade forward.
-
-\[[Iron Birch](Iron_Birch.md)\] Raises axe before slamming it down to the ground.
-
-\[[Silver Dagger](Silver_Dagger.md)\] Performs a short windup before unleashing a quick flurry of slashes.
-
- | ◯ | ✗ | (★★☆) |
+ | The Apprentice Diver uses the critical attack of their equipped weapon. | ◯ | ✗ | (★★☆) |
 | 
 
 Jolt Grab
@@ -54,7 +48,7 @@ Gale Lunge
 
 ### Boons
 
--   Mantra Modification - An Apprentice Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+-   Mantra Modification - An Apprentice Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md#sparks).
 
 ### Talents
 

@@ -1,9 +1,9 @@
 ---
 title: Sarkale
-revid: 156090
+revid: 156110
 source: https://deepwoken.fandom.com/wiki/Sarkale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, Layer 2, Floor 1]
+categories: [Khan NPCs, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Sarkale

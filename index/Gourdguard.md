@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 156018
+revid: 156142
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
@@ -24,7 +24,7 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 
 ## Description
 
-Requiring 50 Fortitude to equip, this Jack o' Lantern-themed [shield](Weapons.md#offhands) can shrug off heavy blows, granting the user 7 additional posture. They say you can hear the shield begin to cackle with a twisted sense of amusement on the night of Hallows Eve; oh, how it laughs..
+Requiring 50 Fortitude to equip, this Jack o' Lantern-themed [shield](Weapons.md#offhands) grants the user 7 additional posture.
 
 You can obtain this by buying this from [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have bought the "Hallowtide 2023 Medal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide) for 5 Knowledge anytime.
 

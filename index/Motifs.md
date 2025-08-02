@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 155936
+revid: 156115
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -224,7 +224,7 @@ Weapon criticals have their own stats, separate to the weapon they're on. This m
 
 As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
 
-For example, if you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Intelligence and Charisma scaling with 12 heavy weapon scaling from [Divine Greatsword](Crazy_Slots.md#weapons), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md)'s will scale on heavy weapon investment regardless of what weapon type you put it on.
+For example, if you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Mind scaling with 12 heavy weapon scaling from [Divine Greatsword](Crazy_Slots.md#weapons), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md)'s will scale on heavy weapon investment regardless of what weapon type you put it on.
 
 ## Trivia
 
@@ -236,3 +236,4 @@ For example, if you had Shotel Motif on Razor Cutlass, your critical would have 
 -   You can swap Motifs during combat to change up your critical for mixups, however you'll need a campfire or [Graceful Flame](Flamecharm.md#graceful-flame) to do this more than once.
 -   The 'Gun' Motif uniquely can be obtained from and can be applied to _both_ the Rifle and Pistol weapon classes despite it being a base weapon critical. With that being said, this Motif will do effectively nothing when applied since you're replacing a base weapon critical with the same base weapon critical.
     -   Using the 'Gun' Motif on the [Iron Blunderbuss](Iron_Blunderbuss.md) does nothing; the critical stays the same instead of becoming ranged.
+-   [Visionshaper](Oath%253A_Visionshaper.md) clones do not use your equipped Motif, instead they'll use the base critical of your weapon.

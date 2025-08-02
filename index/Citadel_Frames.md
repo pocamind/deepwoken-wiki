@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 156013
+revid: 156159
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, The Divers, Items]
@@ -26,10 +26,10 @@ categories: [Equipment, Face, Glasses, The Divers, Items]
 
 ## Description
 
-**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. These Diver-branded glasses are well sought after by the people of Lumen, purely for the status of owning a pair of glasses designed for scholars. These glasses grant the wearer +5 Health and +1 Rare Pip, but reduces their Posture by -1/-2 due to not being their prescription.
+**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. These Diver-branded glasses grant the wearer +5 Health and +1 Rare Pip, but reduces their Posture by -1/-2 due to not being their prescription.
 
 ## Trivia
 
 -   This is only face equipment to have innate HP, and the only equipment in general to grant negative stats.
--   All Citadel Frames variants initially had -2 Posture, but were buffed afterwards to have -1 Posture instead. The default Round variant still having -2 Posture is probably an oversight.
+-   All Citadel Frames variants initially had -2 Posture, but most were buffed afterwards to have -1 Posture instead. The default Round variant still having -2 Posture is probably an oversight.
 -   These glasses have a Diver faction emblem on their hinges.

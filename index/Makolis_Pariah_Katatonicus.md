@@ -1,9 +1,9 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 140287
+revid: 156125
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Layer 2, Floor 1]
+categories: [NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Makolis Pariah Katatonicus
@@ -34,6 +34,9 @@ They ask the player to rest with them, and to be friends during said time.
 <tr>
   <td colspan="12">Sit me for a while. We will be friends, for but a moment.</td>
 </tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
 </tbody>
 </table>
 
@@ -48,7 +51,7 @@ They ask the player to rest with them, and to be friends during said time.
   <td colspan="12">It's peaceful, isn't it?</td>
 </tr>
 <tr>
-  <td colspan="12">End Dialogue.</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

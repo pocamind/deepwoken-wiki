@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Boots
-revid: 155611
+revid: 156199
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,11 +23,11 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merit Detainment Core |
+| obtainment | Titus |
 | description | Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash. |
 
 ## Description
 
-The Evanspear War Plate is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots, made for high grip strength with the ground for pivoting. When worn, this grants +3 Health and +1 Uncommon Pip.
+The Evanspear War Plate is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots. When worn, this grants +3 Health and +1 Uncommon Pip.
 
 This item is used to craft the [Reinforced War Boots](Reinforced_War_Boots.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

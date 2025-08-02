@@ -1,9 +1,9 @@
 ---
 title: Rook Rethige
-revid: 152140
+revid: 156126
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, The Knives of Eylis]
 ---
 
 # Rook Rethige

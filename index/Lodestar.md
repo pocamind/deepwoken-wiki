@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 155231
+revid: 156156
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths]

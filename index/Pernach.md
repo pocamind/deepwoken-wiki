@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 156027
+revid: 156134
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -30,7 +30,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 
 ## Description
 
-The **Pernach** is a medium blunt weapon in the [Club](Weapons.md#clubs) category. This club weapon, considered to be the endgame version of the [Mace](Mace.md), is most known for its ability to deal irreparable damage to the defenses of any opponent, crushing their guards with a singular, weighted swing. Once it breaks through the opponent's defenses, its sharp protruding edges cause mass bleeding. Be wary of those who wield the Pernach.
+The **Pernach** is a medium blunt weapon in the [Club](Weapons.md#clubs) category. This flanged mace, considered to be the endgame version of the [Mace](Mace.md), has innate bleed and high armor penetration, making it one of the stronger weapons within its subclass.
 
 ## Trivia
 

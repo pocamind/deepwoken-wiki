@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 156096
+revid: 156116
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -32,7 +32,9 @@ The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained fro
 
 ## Critical
 
-The Unique Critical for this weapon is similar to the [Halberd](Halberd.md), being a forward dash that results in a 360 degree AoE hit. Landing the first part of the Critical will clear its cooldown. Using the Critical again shortly after the first part lands performs a 360 degree spinning radial slash that hits twice.
+The user dashes forward and performs a 360° horizontal slash. Landing the first part of the critical will clear its cooldown. Using the critical after the initial hit performs a second 360° horizontal slash that hits twice.
+
+The critical has a cooldown of **6 seconds**, even after the follow-up critical is landed.
 
 ## Trivia
 

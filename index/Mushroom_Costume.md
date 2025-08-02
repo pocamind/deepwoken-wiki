@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 152697
+revid: 156158
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Head, Helmets, Event Item, Items, Hallowtide]
@@ -45,8 +45,7 @@ Here are estimated chances for each shroom variant, after finding 100 shroom cos
 -   This was released during [Hallowtide](Hallowtide.md) 2023 as a head equipment
 -   This item costs 100 Joy in the Hallowtide Shop, but can be alternatively obtained through the Trial of Gourdskipper, which is much more preferable option.
 -   The Costumes are based on the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from Rogue Lineage.
--   The Glowshroom & Metalshroom variants are slightly more rarer than the normal Mushroom variant.
+-   The Glowshroom & Metalshroom variants are slightly more rarer than the normal Mushroom variant. Zapshroom seems to be the rarest variant, with the Charmshroom being the 2nd rarest.
 -   This [Equipment](Equipment.md) item is dyeable, but the white spots and skin will be unaffected.
 -   This item is undroppable.
 -   You cannot turn its vanity off. (Strangely, turning off its vanity makes the white spots disappear.)
--   Zapshroom seems to be the rarest variant, with the Charmshroom being the 2nd rarest.

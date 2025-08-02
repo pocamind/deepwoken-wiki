@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 153689
+revid: 156164
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -47,4 +47,5 @@ The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md)
 ## Trivia/Notes
 
 -   This outfit is based on Rogue Lineage's [Wraith Knight's](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor, the [Wraith Knight](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor.
+-   This outfit, along with its sister variant, [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), can be banked without spending any Knowledge. These are the only Hallowtide items to have this property.
 -   This outfit was bugged on release, voiding itself if you attempted to learn the schematic. This was fixed shortly after the item's addition.

@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 155955
+revid: 156195
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Specialist Helmet](Specialist_Helmet.md)
 
 ## Description
 
-The Specialist Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Specialist Set. The Specialist Plate is a black and gold coat with a full plate chest piece and fur shoulders, protecting the wearer's vital organs. When worn, this grants +5 Health, +2 Rare Pips, and the [Stormcall](Talents.md#equipmebnt-talents) Talent.
+The Specialist Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Specialist Set. The Specialist Plate is a black and gold coat with a full plate chest piece and fur shoulders. When worn, this grants +5 Health, +2 Rare Pips, and the [Stormcall](Talents.md#equipmebnt-talents) Talent.
 
 _Stormcall_ - Any time you land a Storm Strike on your opponent, apply Stormcall Shock, damaging them whenever they attempt to cast a Mantra. This applies the [Stormcall Shock](Status_Effects.md#stormcall-shock) Status Effect upon causing a Storm Strike from any of your other Specialist Equipment Talents.
 

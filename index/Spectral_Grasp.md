@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 156008
+revid: 156196
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Event Item, Weapons with Unique Criticals, Daggers, Hallowtide, Light Weapons]
@@ -30,9 +30,9 @@ categories: [Weapons, Event Item, Weapons with Unique Criticals, Daggers, Hallow
 
 ## Description
 
-**Spectral Grasp** is a light dagger Hallowtide exclusive weapon. Bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmith](Blacksmith.md) for 7 Knowledge if you have the [Hollowtide 2024 Medal](Seasonal_Medals.md), and can also be found in chests in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
+**Spectral Grasp** is a Hallowtide exclusive [Dagger](Weapons.md) in the Light Weapons category. This dagger appears as a hand of a humanoid, grown withered and decrepit through the passage of time.
 
-This hand appears ancient and decrepit, as though it had been lifeless for untold ages. Its cold, vile grasp withers the very soul of all those who fall victim to it.
+This item can be bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmith](Blacksmith.md) for 7 Knowledge if you have the [Hollowtide 2024 Medal](Seasonal_Medals.md), and can also be found in chests in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
 
 ## Critical
 

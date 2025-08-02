@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 155582
+revid: 156205
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -40,3 +40,4 @@ Additionally the wearer will gain an animated spinning ring on the back of their
 -   The halo will change colors according to the chosen [dye](Dye_Packet.md) on the face accessory.
 -   This equipment comes with a subtle light source.
 -   Before the [Angel](Hollow_Angel.md) redesign, this equipment shared a model with the mask they wore. Granted, the Angels did not have the floating halo.
+-   The mask is the same as the one that [Samael](Samael.md) wears, just without the floating halo

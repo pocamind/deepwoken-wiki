@@ -1,6 +1,6 @@
 ---
 title: Captain Marley
-revid: 156071
+revid: 156136
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Central Authority, Authority Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Captain Marley is a [Celtor](Celtor.md) miniboss NPC that spawns in the [Merit Detainment Core](Merit_Detainment_Core.md) Cell Control Room.
 
-Captain Marley wields a [Central Dirk](Central_Dirk.md) and wears an [Authority Helm](Authority_Helm.md) alongside a White Parka and an [Onyx Fleet Warden Cape](Fleet_Warden_Cape.md). They also wear the [Authority Captain Uniform](Authority_Captain_Uniform.md). Their attunement is [Crystal Frostdraw](Frostdraw.md).
+Captain Marley wields a [Central Dirk](Central_Dirk.md) and wears an [Authority Helm](Authority_Helm.md) alongside a White Overcoat and an [Onyx Fleet Warden Cape](Fleet_Warden_Cape.md). They also wear the [Authority Captain Uniform](Authority_Captain_Uniform.md). Their attunement is [Crystal Frostdraw](Frostdraw.md).
 
 ## Moveset
 

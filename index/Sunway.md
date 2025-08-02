@@ -1,6 +1,6 @@
 ---
 title: Sunway
-revid: 152344
+revid: 156104
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -30,7 +30,7 @@ To prevent the creation of more [Carbuncles](Carbuncle.md) it is implied that th
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Eh? You look, hm... *<i>He tilts his head to the side, puzzled.</i>* Unfamiliar. I'm guessing you're the one who turned on the generator?</td>
+  <td colspan="12">Eh? You look, hm... <i>*He tilts his head to the side, puzzled.*</i> Unfamiliar. I'm guessing you're the one who turned on the generator?</td>
 </tr>
 <tr>
   <td colspan="12">That's me.</td>
@@ -42,7 +42,7 @@ To prevent the creation of more [Carbuncles](Carbuncle.md) it is implied that th
   <td colspan="12">What is going on with the snow?</td>
 </tr>
 <tr>
-  <td colspan="12">*<i>The man presses his thumb against the bottom of his mask in thought for a moment.</i>* Well, despite describing it as 'snow', it is anything but that. Have you noticed how tricky it is to brush off yourself? Well, to be short... <i>it's alive</i>. Some form of parasitic organism, it seems.</td>
+  <td colspan="12"><i>*The man presses his thumb against the bottom of his mask in thought for a moment.*</i> Well, despite describing it as 'snow', it is anything but that. Have you noticed how tricky it is to brush off yourself? Well, to be short... <i>it's alive</i>. Some form of parasitic organism, it seems.</td>
 </tr>
 <tr>
   <td colspan="12">Parasitic?</td>
@@ -56,15 +56,15 @@ To prevent the creation of more [Carbuncles](Carbuncle.md) it is implied that th
 </tr>
 <tr>
   <td colspan="6">Once the host's body is dead, the parasites start taking control of the husk left behind. It grows additional limbs, contorting into an awful shape, and the face... <i>ugh</i>. It's not a pretty sight. Those husks slowly become <i>Carbuncles</i> over time, and the host's body is left a mere puppet.</td>
-  <td colspan="6">Ah, that is quite simple! These are no ordinary lamps! *<i>He taps on the side of the lamp's glass proudly.</i>* Think of it as... hm, blasting the eggs with an absurd level of heat enough to shock it, forcing it to let go of your body. The small sting of the lamp is worth it, better than the cruel fate that the parasite hosts go through...</td>
+  <td colspan="6">Ah, that is quite simple! These are no ordinary lamps! <i>*He taps on the side of the lamp's glass proudly.*</i> Think of it as... hm, blasting the eggs with an absurd level of heat enough to shock it, forcing it to let go of your body. The small sting of the lamp is worth it, better than the cruel fate that the parasite hosts go through...</td>
 </tr>
 <tr>
   <td colspan="6">How do you know so much about this?</td>
   <td colspan="6">What happens to the host?</td>
 </tr>
 <tr>
-  <td colspan="6">*<i>He looks down to the ground contemplatively for a moment, before returning his gaze to you.</i>* This base used to have a lot more people wandering these halls, friend...</td>
-  <td colspan="6">[See, "That sounds quite morbid."]</td>
+  <td colspan="6"><i>*He looks down to the ground contemplatively for a moment, before returning his gaze to you.*</i> This base used to have a lot more people wandering these halls, friend...</td>
+  <td colspan="6">[See "That sounds quite morbid."]</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156039
+revid: 156112
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3646,7 +3646,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 -   Brute Strength: [Imperator's Fury](<Imperator's_Fury.md>) - Your vent is replaced with a ground slam attack that knocks back enemies.
-    -   Deals 45 Physical damage.
+    -   Deals 45 Typeless damage with 20 Posture damage.
+    -   Increases your Vent's windup from 0.25s to 0.5s.
+    -   Procs all "on Vent" Talents and effects.
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
     -   Does **not** work on [Imperium Kata](Imperium_Kata.md).

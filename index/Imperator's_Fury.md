@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 155950
+revid: 156179
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -28,10 +28,11 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 
 The Imperator's Fury is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-Equipping it grants the [Brute Strength](Talents.md#equipment-talents) Talent, replacing your Vent with a slam attack that deals 45 Physical damage and knocks enemies back.
+Equipping it grants the [Brute Strength](Talents.md#equipment-talents) Talent, replacing your Vent with a slam attack that deals 45 Typeless damage and knocks enemies back. This attack deals 20 Posture damage and has double the windup of a regular Vent (0.25s -> 0.5s).
+
+This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md).
 
 ## Trivia
 
--   The Vent procs [Solar](Solar.md) and similar "on Vent" effects.
--   This has 6.48x PvE scaling (291.6 PvE damage without Perfection stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent and increases its hitbox.
+-   This has 6.48x PvE scaling (291.6 PvE damage without Perfection stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent.
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), [Warmaster's Medallion](<Warmaster's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).

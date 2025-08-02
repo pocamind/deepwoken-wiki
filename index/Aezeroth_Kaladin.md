@@ -1,6 +1,6 @@
 ---
 title: Aezeroth Kaladin
-revid: 153597
+revid: 156145
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Floor of the Second Layer]
@@ -18,7 +18,7 @@ categories: [NPCs, NPCs located in the First Floor of the Second Layer]
 
 ― Aesalath Kalafrid
 
-Aesalath Kalafrid is an NPC found standing before a mysterios device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.
+Aesalath Kalafrid is an NPC found standing before a mysterious device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.
 
 ## Dialouge
 

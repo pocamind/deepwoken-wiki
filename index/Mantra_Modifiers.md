@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 156085
+revid: 156108
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -381,7 +381,8 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Might Gem</td>
-  <td>Increases the applied Mantra's posture damage by 10%. This effect has no cooldown.<p>Allows your Mantras to proc the <a href="Ascended_Outlaw_Hat.md">Ascended Outlaw</a> Set Bonus, as well as the individual equipment Talents from the <a href="Ascended_Outlaw_Hat.md">Hat</a>, <a href="Ascended_Outlaw_Robes.md">Robes</a>, and <a href="Ascended_Outlaw_Boots.md">Boots</a> of the aforementioned set.</p></td>
+  <td>Increases the applied Mantra's posture damage by 10%. This effect has no cooldown.<p><br>
+  Allows your Mantras to proc the <a href="Ascended_Outlaw_Hat.md">Ascended Outlaw</a> Set Bonus, as well as the individual equipment Talents from the <a href="Ascended_Outlaw_Hat.md">Hat</a>, <a href="Ascended_Outlaw_Robes.md">Robes</a>, and <a href="Ascended_Outlaw_Boots.md">Boots</a> of the aforementioned set.</p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -396,8 +397,8 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wrath Gem</td>
-  <td>This Gem makes your criticals do more damage while it is active it has a 10 second cooldown<p><br>
-  Note: Allows your Mantras to proc the <a href="Reinforced_War_Helmet.md">Reinforced War</a> Set Bonus, as well as the individual equipment Talents from the <a href="Reinforced_War_Helmet.md">Helmet</a>, <a href="Reinforced_War_Plate.md">Plate</a>, and <a href="Reinforced_War_Boots.md">Boots</a> of the aforementioned set.</p></td>
+  <td>Applies the Wrath status effect on hit, increasing your critical damage (note: currently bugged and does nothing).<p><br>
+  Allows your Mantras to proc the <a href="Reinforced_War_Helmet.md">Reinforced War</a> Set Bonus, as well as the individual equipment Talents from the <a href="Reinforced_War_Helmet.md">Helmet</a>, <a href="Reinforced_War_Plate.md">Plate</a>, and <a href="Reinforced_War_Boots.md">Boots</a> of the aforementioned set.</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 156091
+revid: 156120
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -465,7 +465,7 @@ Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [
 -   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Sarkale](Sarkale.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### Pathfinders
 
