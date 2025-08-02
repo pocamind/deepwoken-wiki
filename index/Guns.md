@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 153155
+revid: 156092
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -52,7 +52,7 @@ The amount of bullets you can load into a gun depends on the gun you have equipp
 
 Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw)
 
-The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, [Iron Requiem](Iron_Requiem.md) and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
+The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and its alloyed variant, [Iron Requiem](Iron_Requiem.md) and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
 
 The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow your side gun to fire a projectile bullet as long as your main weapon is a medium or heavy weapon.
 

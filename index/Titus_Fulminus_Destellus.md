@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 156038
+revid: 156084
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -56,7 +56,9 @@ Parryable:◯
 Blockable:◯  
 Dodgeable:◯
 
- |  |
+ | 
+
+ |
 | 
 
 **Worldpiercing Deluge  
@@ -70,7 +72,9 @@ Parryable:✗
 Blockable:◯  
 Dodgeable:◯
 
- |  |
+ | 
+
+ |
 | 
 
 **Worldshattering Smackdown  
@@ -100,6 +104,8 @@ Blockable:
 
 Dodgeable:
 
+ | 
+
  |
 | 
 
@@ -117,6 +123,8 @@ Blockable:
 
 Dodgeable:
 
+ | 
+
  |
 | 
 
@@ -130,6 +138,8 @@ Parryable:
 Blockable:
 
 Dodgeable:
+
+ | 
 
  |
 | 
@@ -145,7 +155,9 @@ Parryable:✗
 Blockable:✗  
 Dodgeable:◯
 
- |  |
+ | 
+
+ |
 | 
 
 **Skycrash  
@@ -159,6 +171,8 @@ Dodgeable:◯
 Parryable:✗  
 Blockable:✗  
 Dodgeable:◯
+
+ | 
 
  |
 | 
@@ -176,6 +190,8 @@ Blockable:
 
 Dodgeable:
 
+ | 
+
  |
 | 
 
@@ -191,7 +207,9 @@ Parryable:✗
 Blockable:◯  
 Dodgeable:◯
 
- |  |
+ | 
+
+ |
 | 
 
 **Blighted Sparks  
@@ -201,7 +219,9 @@ Dodgeable:◯
 
 -   Titus will only use this move in his second phase.
 
- |  |
+ | 
+
+ |
 | 
 
 **Chorus Divide: Shattering Crescendo  
@@ -218,6 +238,8 @@ Parryable:
 Blockable:
 
 Dodgeable:
+
+ | 
 
  |
 

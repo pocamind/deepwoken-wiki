@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 155940
+revid: 156101
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant, The Central Authority]
@@ -24,7 +24,7 @@ This dungeon is recommended for a party of people preferably [Power](Power.md) 2
 
 ## Mission
 
-Upon entering, you will need to defeat the guards that are laid out through the dungeon. There are 3 keys that are able to be dropped. An override, a release, and a master key that are dropped from powerful enemies like [Captain Solaire](Captain_Solaire.md) and [Vice-Warden](Vice-Warden.md). You may disable the laser defense system by taking the override key or master key to room behind a breakable door that is located in the laser area. After securing at least the release key or master key, make your way through the laser defense system (if not deactivated) which then you will reach the control room. Use either the key to open the prisoner cells. The prisoners, when released, will turn **hostile**. This will also give you the option to talk to [Titus](Titus_Fulminus_Destellus.md) when his cell is open. You will **need** the Legion Intelligence obtained from [Caitus](Caitus.md) (new NPC) that is in the camp set up in the Viper's Jaw.
+Upon entering, you will need to defeat the guards that are laid out through the dungeon. There are 3 keys that are able to be dropped. An override, a release, and a master key that are dropped from powerful enemies like [Captain Solaire](Captain_Solaire.md) and [Vice-Warden](Vice-Warden.md). You may disable the laser defense system by taking the override key or master key to room that is blocked off by lasers that is in the corridor on the right, not to be confused with the room that is behind a breakable door. That room is to turn **off** the cannons. After securing at least the release key or master key, make your way through the laser defense system (if not deactivated) which then you will reach the control room. Use either the key to open the prisoner cells. The prisoners, when released, will turn **hostile**. This will also give you the option to talk to [Titus](Titus_Fulminus_Destellus.md) when his cell is open. You will **need** the Legion Intelligence obtained from [Caitus](Caitus.md) that is in the camp set up in the Viper's Jaw.
 
 _See [Legion Intelligence](Legion_Intelligence.md) on how to obtain the item._
 

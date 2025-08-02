@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 155871
+revid: 156068
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Central Authority, Authority Enemies]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Vice-Warden is a miniboss NPC in the [Merit Detainment Core](Merit_Detainment_Core.md). He wields an enchanted [Curved Blade of Winds](Curved_Blade_of_Winds.md), which can have up to 3 enchantments at one time. He has multiple spawn areas, being able to spawn in the main prisoner room by the large gate, overlooking the main prisoner room, overlooking the room between the prisoner room and generator room, in the cell control room or in the cannon control room.
+The Vice-Warden is a miniboss NPC in the [Merit Detainment Core](Merit_Detainment_Core.md). He wields an enchanted [Curved Blade of Winds](Curved_Blade_of_Winds.md), which can have up to 3 [Enchantments](Enchantments.md) at one time. He has multiple spawn areas, being able to spawn in the main prisoner room by the large gate, overlooking the main prisoner room, overlooking the room between the prisoner room and generator room, in the cell control room or in the cannon control room.
 
-He can be a Capra with spiked hair, or a Celtor with short hair and a beard. He wears the [Authority Commander](Authority_Commander.md) outfit, alongside [Warden Pauldrons](Warden_Pauldrons.md) and an [Emerald Fleet Warden Cape](Fleet_Warden_Cape.md).
+He can be a [Gremor](Gremor.md) with spiked hair, a [Capra](Capra.md) with spiked hair, or a [Celtor](Celtor.md) with short hair and a beard. He wears the [Authority Commander](Authority_Commander.md) outfit, alongside [Warden Pauldrons](Warden_Pauldrons.md) and an [Emerald Fleet Warden Cape](Fleet_Warden_Cape.md). He can also appear feminine in nature with any of these 3 variants.
 
 ## Moveset
 

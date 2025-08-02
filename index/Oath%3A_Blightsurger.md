@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156050
+revid: 156061
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -110,25 +110,16 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
     -   Deals 10 Blunt damage, the followup strike deals 17.5 Oath damage.
     -   Ragdolls on hit and flings opponents upwards. Activated a second Time while within Sovereign Stat
     -   Activated a second Time while within Sovereign State.
-        
 
 -   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.
     -   Deals 12 Blunt damage.
     -   Applies Daze and Blightshock on hit.
     -   Knockdowns on hit.
-        
 
 -   **Warp Kick** - Perform a kick, then warp to your enemies for a second followup kick.
     -   Each hit deals 20 Blunt damage (hits twice).
     -   Teleports to opponents within range.
     -   Applies Blightshock on hit.
-        
-
-  
-
-  
-
-  
 
 ## Trivia
 
@@ -137,3 +128,4 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 -   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
 -   This is the third Oath to not have an Oath visual, as Blightsurger only gains an Oath cosmetic while in Sovereign State. The other Oaths being [Arcwarder](Oath%253A_Arcwarder.md) and [Oathless](Oath%253A_Oathless.md).
 -   When it originally released, Blightsurger seemed to require 80 Strength; this was fixed in a stealth hotfix around the 28th of July, 2025 and was replaced with the now 40 Body.
+-   a bangle is a rigid bracelet or anklet

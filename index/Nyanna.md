@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 152623
+revid: 156095
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors, NPCs located in the First Layer]
@@ -35,35 +35,32 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">You down here to see the goods?</td>
+  <td colspan="2">You down here to see the goods?</td>
 </tr>
 <tr>
-  <td colspan="12">What?</td>
+  <td colspan="2">What?</td>
 </tr>
 <tr>
-  <td colspan="12">Oh, you must be new around here... I'm selling weapon and armor plans to anyone willing to pay premium notes.</td>
+  <td colspan="2">Oh, you must be new around here... I'm selling weapon and armor plans to anyone willing to pay premium notes.</td>
 </tr>
 <tr>
-  <td colspan="6">1. What are you selling?</td>
-  <td colspan="6">2. Premium notes?</td>
+  <td>1. What are you selling?</td>
+  <td>2. Premium notes?</td>
 </tr>
 <tr>
-  <td colspan="6">[Opens Shop UI]</td>
-  <td colspan="6">Are you slow? Yes, <i>premium notes</i>. I sell to the lazy and rich. If you don't like my prices, go try finding these schematics yourself.</td>
+  <td>[Opens Shop UI]</td>
+  <td>Are you slow? Yes, <i>premium notes</i>. I sell to the lazy and rich. If you don't like my prices, go try finding these schematics yourself.</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td colspan="6">What are you selling?</td>
+  <td>End</td>
+  <td>What are you selling?</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td colspan="6">[See first instance.]</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
+  <td></td>
+  <td>[See first instance.]</td>
 </tr>
 </tbody>
 </table>
@@ -73,19 +70,19 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Here to see the goods?</td>
+  <td>Here to see the goods?</td>
 </tr>
 <tr>
-  <td colspan="12">Yeah.</td>
+  <td>Yeah.</td>
 </tr>
 <tr>
-  <td colspan="12">[Opens Shop UI]</td>
+  <td>[Opens Shop UI]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -95,20 +92,17 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin</td>
+  <td colspan="3">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">When accessing the Shop</td>
-  <td colspan="6">After purchasing something</td>
-  <td colspan="6">If you can't afford the item you attempted to buy</td>
+  <td>When accessing the Shop</td>
+  <td>After purchasing something</td>
+  <td>If you can't afford the item you attempted to buy</td>
 </tr>
 <tr>
-  <td colspan="6">Here's what I'm offering at the moment.</td>
-  <td colspan="6">Alright now scram unless you've got something else you want. You'll scare off the other potential customers.</td>
-  <td colspan="6">You trying to scam me? You don't have enough money for this. Scram.</td>
-</tr>
-<tr>
-  <td colspan="18">End</td>
+  <td>Here's what I'm offering at the moment.</td>
+  <td>Alright now scram unless you've got something else you want. You'll scare off the other potential customers.</td>
+  <td>You trying to scam me? You don't have enough money for this. Scram.</td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +126,7 @@ Sold Items
   <ul>
     <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>.</li>
     <li><b><font>Adept</font></b>: <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a></li>
+    <li><b><font>Expert</font></b>: <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
     <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></td>
 </tr>
@@ -140,9 +134,9 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td><p><b>For 300 </b>:</p>
   <ul>
-    <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a></li>
-    <li><b><font>Medium Weapons</font></b>: <a href="Trident_Spear.md">Trident Spear</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
-    <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a></li>
+    <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b><font>Medium Weapons</font></b>: <a href="Trident_Spear.md">Trident Spear</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -151,5 +145,5 @@ Sold Items
 ## Trivia
 
 -   You can check her wares, log and wait an hour or more to try obtaining a specific weapon or outfit schematic.
--   Nyanna's name likely comes from the Japanese word for meow: '"Nyan"'.
+-   Nyanna's name likely comes from the Japanese word for meow: "Nyan."
 -   Nyanna's hair can be found here: [https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde](https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde)

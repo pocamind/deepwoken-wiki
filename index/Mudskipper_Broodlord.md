@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 156010
+revid: 156057
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -122,7 +122,6 @@ Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's
 -   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24
 -   They're based on the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from _The Last of Us_ series.
     -   Prior to the October 11th 2024 update, Mudskipper Broodlords could see through walls, as well as behind themselves. Clickers are known for their hearing.
--   They have 15,000 health when corrupted - the exact same amount of health Duke has.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.
 -   They used to deal more damage and used Broodrot Smash and Rotten Mudtoss more frequently being one of the, if not the hardest mob ever, they were nerfed at an unknown point during Late 2024/Early 2025 reducing the damage of its punch and left hook and only using Broodrot Smash to grip and stopped using Rotten Mudtoss.
 -   In the caves of [Saramaed Hollow](Saramaed_Hollow.md), Mudskipper Broodlords will start to fight their spawned Mudskippers and vice versa if they get hit by them too many times. Outside of being funny, this allows the player openings to escape without being chased.
