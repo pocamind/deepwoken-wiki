@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 154199
+revid: 156228
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -245,7 +245,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
     <li><b><a href="Equipment.md#arms">Arms Equipment</a></b>:<a href="Aristocrat_Coat.md">Aristocrat Coat</a></li>
     <li><b><a href="Equipment.md#legs">Leg Equipments</a></b>:<a href="Novice_Boots.md">Novice Boots</a></li>
     <li><b><a href="Equipment.md#torso">Torso Equipments</a></b>:<a href="Fleet_Warden_Cape.md">Fleet Warden Cape</a></li>
-    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:<a href="Rebel's_Bandana.md">Rebel's Bandana</a></li>
+    <li><b><a href="Equipment.md#face">Face Equipments</a></b>:<a href="Rebel's_Bandana.md">Rebel's Bandana</a> Summer nauticals</li>
     <li><b><a href="Equipment.md#ears">Ear Equipments</a></b>:<a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
     <li><b><a href="Equipment.md#rings">Rings</a></b>:</li>
   </ul></td>

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 155538
+revid: 156226
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -27,7 +27,7 @@ Every character begins as a simple Pathfinder, meaning they are without an Oath,
 _Notes:_  
 _"comb." means a combined total across multiple listed stats_  
 _WEP = Any weapon stat (HVY, MED, LHT)_  
-_BDY = Any [Body](Attributes.md#body-and-mind) stat (STR, FTD, AGL)_  
+  
 Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarder.md) • [Bladeharper](Oath%253A_Bladeharper.md) • [Blightsurger](Oath%253A_Blightsurger.md) • [Blindseer](Oath%253A_Blindseer.md) • [Contractor](Oath%253A_Contractor.md) • [Chainwarden](Oath%253A_Chainwarden.md) • [Dawnwalker](Oath%253A_Dawnwalker.md) • [Fadetrimmer](Oath%253A_Fadetrimmer.md) • [Jetstriker](Oath%253A_Jetstriker.md) • [Linkstrider](Oath%253A_Linkstrider.md) • [Saintsworn](Oath%253A_Saintsworn.md) • [Saltchemist](Oath%253A_Saltchemist.md) • [Silentheart](Oath%253A_Silentheart.md) • [Soulbreaker](Oath%253A_Soulbreaker.md) • [Starkindred](Oath%253A_Starkindred.md) • [Visionshaper](Oath%253A_Visionshaper.md)
 
 [Oathlessfinal](Oath%253A_Oathless.md)
@@ -50,7 +50,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 
 [Blightsurger](Oath%253A_Blightsurger.md)
 
-(40 BDY + 40 WND or LTN)
+(comb. 80 STR or FTD or AGL + 40 WND or LTN)
 
 [Blindseerfinal](Oath%253A_Blindseer.md)
 

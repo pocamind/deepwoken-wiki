@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156112
+revid: 156227
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -499,7 +499,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Blightsurger
 
 -   [Oath: Blightsurger](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
-    -   Prerequisites: 40 Body (40 Strength, Fortitude, or Agility), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
+    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
 
 -   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your Blightshock prevents targets from using mobility mantras.
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
@@ -3465,7 +3465,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   [Oath: Blightsurger](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
-    -   Prerequisites: 40 Body (40 Strength, Fortitude, or Agility), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
+    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
 
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).

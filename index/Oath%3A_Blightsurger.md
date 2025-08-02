@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156211
+revid: 156229
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -10,7 +10,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | High Ally rep with The Hundred Legions, ?, 40 Galebreathe or Thundercall |
+| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, 40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
@@ -47,7 +47,7 @@ Blightsurger draws most of it's power from Sacred Lightning, a result of [Galebr
 
 To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Afterwards, approach Titus and select his second dialogue option. Finally, leave the [Merit Detainment Core](Merit_Detainment_Core.md) and speak to [Brutus](Brutus.md) to obtain the Oath.
 
-The player must have at least ?, 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
+The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
 Blightsurger can be reobtained if you [Oath break](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
@@ -129,5 +129,5 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 -   This Oath was accidentally released in Battle Royale, allowing players to play a very barebones version of the Oath.
 -   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
 -   This is the third Oath to not have an Oath visual, as Blightsurger only gains an Oath cosmetic while in Sovereign State. The other Oaths being [Arcwarder](Oath%253A_Arcwarder.md) and [Oathless](Oath%253A_Oathless.md).
--   When it originally released, Blightsurger seemed to require 80 Strength; this was fixed in a stealth hotfix around the 28th of July, 2025 and was replaced with the now 40 Body.
+-   When it originally released, Blightsurger seemed to require 80 Strength; this was fixed in a stealth hotfix around the 28th of July, 2025 and was replaced with the 80 total across body.
 -   a bangle is a rigid bracelet or anklet
