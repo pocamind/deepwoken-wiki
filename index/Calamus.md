@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 153831
+revid: 156217
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, The Hive]
@@ -51,7 +51,7 @@ The chest is an ordinary Starswept Valley Chest, containing what you would usual
   <td colspan="3">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="3">I see, this must be news to you. Aratel has become a much more dangerous place as of late. New threats of hostile creatures are appearing at alarming rates as well as the looming fear of the Authority. While our standing with the Authority isn't war, tensions between us are high, to say the least. MY assignment is to slay these opponents to ensure the safe passage of our Hive operatives in this region, but.. it's beginning to become overwhelming. Each near death encounter brings more fatigue to myself than before, as if fate itself is telling me it's too late. I am their sole protector, yet.. I am facing a challenge like no other.</td>
+  <td colspan="3">I see, this must be news to you. Aratel has become a much more dangerous place as of late. New threats of hostile creatures are appearing at alarming rates as well as the looming fear of the <a href="Glossary.md#the-central-authority">Authority</a>. While our standing with the <a href="Glossary.md#the-central-authority">Authority</a> isn't war, tensions between us are high, to say the least. My assignment is to slay these opponents to ensure the safe passage of our Hive operatives in this region, but.. it's beginning to become overwhelming. Each near death encounter brings more fatigue to myself than before, as if fate itself is telling me it's too late. I am their sole protector, yet.. I am facing a challenge like no other.</td>
   <td colspan="3">My name is Calamus; I am a guardian of our Greathive, sworn to protect the lordsgrove as well as the Valley itself. In order to ensure our operatives can complete their tasks safely, I am brought here to protect them. When a large threat appears and hinders our progress, it is my sole duty to eliminate it. Despire how troubling recent matters are, I must stay dedicated to my cause. To my people.</td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ The chest is an ordinary Starswept Valley Chest, containing what you would usual
   <td colspan="3">What's the situation?</td>
 </tr>
 <tr>
-  <td colspan="3">I see. Please, do be aware this can be quite a dangerous task. These *beasts have grown smarter than before, creating ambushes to catch hunters off guard.</td>
+  <td colspan="3">I see. Please, do be aware this can be quite a dangerous task. These <i>beasts</i> have grown smarter than before, creating ambushes to catch hunters off guard.</td>
   <td colspan="3">[See first instance]</td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ The chest is an ordinary Starswept Valley Chest, containing what you would usual
   <td colspan="3">End</td>
 </tr>
 <tr>
-  <td colspan="3">Very well. Your task for now is to find and eliminate a (Target), lurking within this desert. When you've eliminated this threat, return to me and i shall reward you marvelously depending on the strength of this opponent, heh.</td>
+  <td colspan="3">Very well. Your task for now is to find and eliminate a [Target], lurking within this desert. When you've eliminated this threat, return to me and I shall reward you marvelously depending on the strength of this opponent, heh.</td>
   <td colspan="3"></td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ The chest is an ordinary Starswept Valley Chest, containing what you would usual
   <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Greetings, friend. Have you completed your task to eliminate a (Target)?</td>
+  <td colspan="6">Greetings, friend. Have you completed your task to eliminate a [Target]?</td>
 </tr>
 <tr>
   <td colspan="3">I have not yet.</td>

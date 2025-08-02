@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 156007
+revid: 156213
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -30,15 +30,13 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 
 ## Description
 
-The **Flareblood Kamas** is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. It has a unique critical that summons a blood explosion that appears at your cursor.
+The **Flareblood Kamas** are a pair of Legendary [Light Weapon](Weapons.md) Kamas that scale with both Light Weapon and Intelligence.
 
 It is only obtainable from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), and occasionally the [Weird Trader](Weird_Trader.md).
 
-While Kamas are traditionally farming tools, Chaser has twisted these into something far more sinister, requiring the wielder's intelligence to keep the dark magics within at bay. Resonating with Bloodrend energy, the tainted blood of these dual daggers viciously rends the flesh of those they consider foes.
-
 ## Critical
 
-The critical unleashes an explosion of blood on the surface or person aimed at, launching the target into the air and ragdolling them for a short duration.
+The critical unleashes an explosion of blood at your cursor, launching the target into the air and ragdolling them for a short duration.
 
 The critical has a cooldown of 8 seconds.
 

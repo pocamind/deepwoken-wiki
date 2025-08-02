@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Plate
-revid: 156197
+revid: 156209
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -28,7 +28,7 @@ categories: [Equipment, Arms, Plates]
 
 ## Description
 
-The Evanspear War Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Evanspear War Set. The Evanspear War Plate is a green and yellow chest plate with matching bracers and an animated dark green cape. Due to the Evanspear Centurions not wanting to overburden themselves, this armor is missing arm protection. When worn, this grants +6 Health, +1 Posture, and +2 Rare Pips.
+The Evanspear War Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Evanspear War Set. The Evanspear War Plate is a green and yellow chest plate with matching bracers and an animated dark green cape. When worn, this grants +6 Health, +1 Posture, and +2 Rare Pips.
 
 This item is used to craft the [Reinforced War Plate](Reinforced_War_Plate.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).
 

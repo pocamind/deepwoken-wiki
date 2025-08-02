@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 152536
+revid: 156220
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -100,7 +100,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
   <td colspan="12">I'll follow your oath, my dear rival. [Oath Given]</td>
 </tr>
 <tr>
-  <td colspan="12">This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. Ah, it's so freeing.</td>
+  <td colspan="12">This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the <a href="Glossary.md#the-song">Song's</a> flow itself.. Ah, it's so freeing.</td>
 </tr>
 <tr>
   <td colspan="12">How can I use Jetstriking to grow stronger?</td>
@@ -141,15 +141,17 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
   <td colspan="12">My despicable rival... it's a <i>DISPLEASURE</i> to see you again! In a friendly way though. Teehee.</td>
 </tr>
 <tr>
-  <td colspan="12">I'm looking to advance my Jetstriking.</td>
+  <td colspan="6">I'm looking to advance my Jetstriking.</td>
+  <td colspan="6">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
 </tr>
 <tr>
-  <td colspan="6">No orbs or 1-4 orbs obtained</td>
-  <td colspan="6">Quest finished</td>
+  <td colspan="3">No orbs or 1-4 orbs obtained</td>
+  <td colspan="3">Quest finished</td>
+  <td colspan="6">Huh! Where'd you learn something like that? You must be a natural!</td>
 </tr>
 <tr>
-  <td colspan="6">Ah, I see.. You have more to find out there in the world, my dear rival! Seek out the orbs of wind throughout this Luminant, and you'll maybe be able to catch up with me, hehe!</td>
-  <td colspan="6">Rival! You've done it! That's.. everything! I suppose I can.. begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done.</td>
+  <td colspan="3">Ah, I see.. You have more to find out there in the world, my dear rival! Seek out the orbs of wind throughout this <a href="Glossary.md#the-luminants">Luminant</a>, and you'll maybe be able to catch up with me, hehe!</td>
+  <td colspan="3">Rival! You've done it! That's.. everything! I suppose I can.. begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
