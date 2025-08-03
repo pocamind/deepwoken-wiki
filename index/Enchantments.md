@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 156183
+revid: 156382
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -861,7 +861,8 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   **February 1, 2025** - The weapon enchant Curse of Rhaemen's ember is added.
 -   **July 7, 2025** - The weapon enchants Curse of Void, Parasol's Blight and Nightbringer were added, the equipment enchantment Rain was also added.
--   **July 15, 2025 -** The weapon enchant Void was renamed to Curse of Void.
+-   **July 15, 2025** - The weapon enchant Void was renamed to Curse of Void.
+-   **July 25, 2025** - The weapon enchants Windswept, Curse of the Authoritative and Bluster were added
 
 ## Tips/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 151386
+revid: 156390
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -37,4 +37,4 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1200 durability, grants +12% Physical resistance, and +12% Elemental resistance. Additionally, it provides the [Apothecary](Talents.md#alchemist) Talent.
 
-The [Apothecary](Talents.md#alchemist) Talent causes potions that benefit the player have 125% increased potency. This potency is additive to potency from Intelligence investment.
+The [Apothecary](Talents.md#alchemist) Talent causes potions that benefit the player have +25% potency. This potency is additive to potency from Intelligence investment.
