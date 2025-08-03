@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 156201
+revid: 156321
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -44,7 +44,7 @@ The [Fearful](Status_Effects.md#fearful) status effect lasts for 9 seconds after
 
 ## Obtainment
 
-This item is obtained by crafting the [Evanspear War Helmet](Evanspear_War_Helmet.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
 2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + ?.

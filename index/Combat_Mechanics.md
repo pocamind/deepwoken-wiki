@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 155788
+revid: 156300
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -348,7 +348,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Air Counter</th>
   <td>When initiating an aerial attack while your opponent is performing an action to escape you, quickly close the distance and hit them. This deals 10% of your weapon's melee damage.<p><br>
   </p>
-  <p>Air Counter can be initiated by aerial attacking when your opponent: climbs something, uses the Galebreathe Talent <a href="Galebreathe.md#legion-shock-trooper">Wind Step</a>, uses a <a href="Lifevents.md">Lifevent</a>, casts any of the following Mantras: <a href="Attunement-less.md#strong-leap">Strong Leap</a>, <a href="Flamecharm.md#flame-leap">Flame Leap</a>, or <a href="Bloodrend.md#vein-tendrils">Vein Tendrils</a>, or feints any of the following Mantras: <a href="Bloodrend.md#vicious-descent">Vicious Descent</a> or <a href="Galebreathe.md#heavenly-wind">Heavenly Wind</a>.</p></td>
+  <p>Air Counter can be initiated by aerial attacking when your opponent: climbs something, uses the Galebreathe Talent <a href="Galebreathe.md#legion-shock-trooper">Wind Step</a>, or uses a <a href="Lifevents.md">Lifevent</a>.</p></td>
 </tr>
 </tbody>
 </table>

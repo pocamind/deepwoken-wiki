@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 155860
+revid: 156335
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -115,7 +115,7 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 
 ### Radiant
 
-[Dawnwalker](Oath%253A_Dawnwalker.md) exclusive. Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent from the [Dawnwalker](Oath%253A_Dawnwalker.md) oath.
+[Dawnwalker](Oath%253A_Dawnwalker.md) exclusive. Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent.
 
 ### True Strength
 
@@ -124,6 +124,10 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 ### Sovereign State
 
 [Blightsurger](Oath%253A_Blightsurger.md) exclusive. Enhance your Blightsurger abilities with better performance and equip the [Sovereign Bangle](Oath%253A_Blightsurger.md) weapon. This status effect is applied by maxing your Blight Meter or pressing X while having Blight Meter. While in this mode, your Blight Meter will slowly decay. Signified by white and black streams coming from your eyes and your current weapon being replaced with the Sovereign Bangle.
+
+### Sacred Field
+
+Applied by standing within an ally's [Sacred Field](Sacred_Field.md) [Resonance](Resonance.md) zone. Gain physical, elemental, and sanity resistance, with the amount of each being based on the Resonance points of the Sacred Field user. Signified by vibrant particles emanating off your character. The color of these particles is based on the color of the Sacred Field, which is also dependent on Resonance points.
 
 ### Tidal Shock
 
@@ -235,7 +239,7 @@ It has a few sub-variants:
 
 -   Azure Burning: Has higher burn damage. This burn type comes from [Azure Flames](Talents.md#flamecharmer).
 -   Black Flames: Consumes your Ether while you are burning and spawns Puppets if applied via a non-Shadowcast source. This burn type comes from [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets).
--   Lifelord's Blaze: [Pyrekeeper](<Ysley's_Pyre_Keeper.md>) exclusive, completely cosmetic and functions differently based on flamecharm attunement path. Is also applied with the [Curse of Rhaemen's Ember](Enchantments.md#curses) enchant.
+-   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
 -   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that scale on your Intelligence investment, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, it instead scales on your Flamecharm investment like all other burn types.)
 -   Flamewreathe Burn: [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
 -   Self Immolation: [Flame Within](Talents.md#amoran-seeker) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
@@ -342,7 +346,7 @@ A red highlight applied onto enemies, allowing you to see them through walls. Ap
 
 ### Tranquil
 
-[Blindseer](Oath%253A_Blindseer.md) exclusive. You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character, somewhat similar to [Obfuscation's](Enchantments.md#blessings) effect.
+[Blindseer](Oath%253A_Blindseer.md) exclusive. You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character while standing in the circle, somewhat similar to [Obfuscation's](Enchantments.md#blessings) effect.
 
 ### Blight
 
@@ -402,7 +406,7 @@ Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whene
 
 ### Wrath
 
-This effect does not do anything innately, but allows you to proc the talents from the [Reinforced War Set](Reinforced_War_Helmet.md) for 9 seconds after landing a Mantra with a [Wrath Gem](Wrath_Gem.md) equipped. This effect has no visual indicator.
+Increases weapon critical damage taken by ?% for 9 seconds, applied by landing a Mantra with a [Wrath Gem](Wrath_Gem.md) equipped. Additionally, this allows you to proc the Talents from the [Reinforced War Set](Reinforced_War_Helmet.md). This effect has no visual indicator.
 
 ### Fearful
 
@@ -450,7 +454,7 @@ Take 20% more damage and 50% more posture damage from all sources for 6 seconds.
 
 ### Parasol's Blight
 
-Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md). Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character. This effect has no visual indicator.
+Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md). This effect has no visual indicator.
 
 ### Potions: Debuffs
 
@@ -504,7 +508,7 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, or can be applied to self with [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal, using [Symbiotic Sustain](Oath%253A_Linkstrider.md)_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain\]\]_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ## Deadly Status Effects
 

@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 155509
+revid: 156336
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -12,7 +12,7 @@ categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the E
 |---|---|
 | name | The Meat Lord |
 | aspect | Adret |
-| location | The Garden Reservoir, The Hidden Village, Meteor Isle, Pathfinder's Respite, Songseeker Wilds, Starswept Valley, Summer Isle, Temple of the Forgotten Flame, Towerstruck Lands, Upper Erisia, Viper's Jaw |
+| location | The Garden Reservoir, The Hidden Village, Meteor Isle, Pathfinder's Respite, Saramaed Summit, Songseeker Wilds, Starswept Valley, Summer Isle, Temple of the Forgotten Flame, Towerstruck Lands, Upper Erisia, Viper's Jaw |
 
 “ Very well, you may rise. ”
 
@@ -28,6 +28,7 @@ The Meat Lord can be found at the following places:
 
 -   [Meteor Isle](Meteor_Isle.md)
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+-   [Saramaed Summit](Saramaed_Summit.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Summer Isle](Summer_Isle.md)

@@ -1,9 +1,9 @@
 ---
 title: Nanji
-revid: 152695
+revid: 156297
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Nanji
@@ -11,6 +11,7 @@ categories: [Pages with broken file links, NPCs, Quests, Etrea, NPCs located in 
 | Nanji | |
 |---|---|
 | name | Nanji |
+| aspect | Etrean |
 | location | Etris |
 
 “ Uh... Yeah, no. ”

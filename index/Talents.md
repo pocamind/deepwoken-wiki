@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156227
+revid: 156324
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -854,7 +854,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 30 Frostdraw
 
 -   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press F during the wind up of your [Ice Spikes](Frostdraw.md#ice-spikes) to create traps around you instead of spawning a spike in the normal spot.
-    -   Activated by holding your block key during the windup of Ice Spikes. It will not proc while holding F if you've changed your block/parry keybind.
+    -   Activated by holding your block key during the windup of Ice Spikes.
     -   Activates a spike upon being stepped on.
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Can stack multiple times, allowing for very high amounts of traps in one spot.
@@ -3333,8 +3333,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   The head equipment "[Monastery Cowl](Monastery_Cowl.md)" has this Talent.
 
 -   _Cut to the Chase_ \[Rare Talent\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. (+5 Passive Agility)
-    -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount up to 70% of your weapon's scaled damage.
-    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), uses a [Lifevent](Lifevents.md), casts [Strong Leap](Attunement-less.md#strong-leap), [Flame Leap](Flamecharm.md#flame-leap), or [Vein Tendrils](Bloodrend.md#vein-tendrils), or feints [Heavenly Wind](Galebreathe.md#heavenly-wind) or [Vicious Descent](Bloodrend.md#vicious-descent).
+    -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount to 70% of your weapon's scaled damage.
+    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
     -   Prerequisite: 60 Agility
         -   The old Air Counter Talent was made innate and then reworked into this.
 
@@ -3785,6 +3785,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
 -   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your m1s apply a storm strike. \[20 second CD\]
+    -   Storm Strikes from this Talent have slight Gale and Thunder scaling.
 -   Volt Reflex: [Authority Voltspark Mask](Authority_Voltspark_Mask.md) - Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges.
     -   Increases the dodge window and cooldown of your dodges based on your [Thundercall](Thundercall.md) investment.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
@@ -3817,6 +3818,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md) while in Arc suit.
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 -   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
+    -   Upon meeting a damage threshold with Galebreathe and Thundercall Mantras, summon a Storm Strike that deals 40 damage. This has no cooldown, meaning it always procs in PvE, but it has no PvE scaling.
     -   Additionally, this turns your [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), and [Thunder Kick](Thundercall.md#thunder-kick) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will gain a 15% damage buff as well.
         -   Surge Path completely overrides the recolor, turning your Thundercall Mantras blurple once again. Specter path does not have this issue, your Galebreathe Mantras will still be yellow.
     -   Has no cooldown in PvE, making this very strong for high multihitting Mantras like [Electro](Thundercall.md#electro-carve)/[Wind Carve](Galebreathe.md#wind-carve) or [Tornado](Galebreathe.md#tornado).

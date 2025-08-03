@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 156246
+revid: 156315
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -46,6 +46,6 @@ Set Bonus: [Offensive Recovery](Talents.md#set-talents) - If all your mantras ha
 
 ## Obtainment
 
-This item is obtained by crafting the [Western Outlaw Boots](Western_Outlaw_Boots.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).

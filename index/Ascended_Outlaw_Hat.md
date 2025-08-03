@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 156244
+revid: 156317
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -44,7 +44,7 @@ Set Bonus: [Offensive Recovery](Talents.md#set-talents) - If all your mantras ha
 
 ## Obtainment
 
-This item is obtained by crafting the [Western Outlaw Hat](Western_Outlaw_Hat.md) with other items in the [Merit Detainment Core](Merit_Detainment_Core.md).
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
 2.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + ? + ?.

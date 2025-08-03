@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156229
+revid: 156346
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -49,7 +49,7 @@ To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_
 
 The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
-Blightsurger can be reobtained if you [Oath break](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+Blightsurger can be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
 ## Progression
 
@@ -63,18 +63,32 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
     -   Blightshock is applied through your Sovereign Bangle attacks and Blightsurge Mantras.
     -   Blightshock can be further buffed with the Blight Pierce, Blighted Touch, and Anchor Shock Talents.
 
+### Weapon
+
+-   **Sovereign Bangle** - Cestus used by members of the Hundred Legions.
+    -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
+    -   The Sovereign Bangle has the following stats: 32 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
+    -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 25 Physical damage.
+    -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
+    -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
+    -   Sovereign Bange can be enhanced with Blightsurger Talents.
+        -   Blightlash grants Sovereign Bangle 1 additional range, going from 6 to 7.
+        -   Blighted Touch allows Sovereign Bangle to apply Blightshock (80% of its damage as Wither).
+        -   The Sovereign Bangle has the full effectiveness of the [Darkened Bastion](Darkened_Bastion.md) outfit, allowing it to deal 105% of its damage as Wither when combined with Blighted Touch.
+        -   Blighted Pierce grants Sovereign Bangle +?% PEN and hyperarmor nullification on hit.
+
 ### Talents
 
 -   **Sovereign State** - Landing physical, lightning, and wind hits builds your Blight Meter. At full gauge, enter a Blight State that replaced your weapon with the Sovereign Bangle and empowers Blightsurge abilities.
     -   The Blight Meter gain has no cooldown, and never decays. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
-    -   The Sovereign State lasts 12.5 seconds if activated at full Blight Meter,.
+    -   There is a 10 second cooldown on activating Sovereign State, started once it ends.
+    -   The Sovereign State lasts 12.5 seconds if activated at full Blight Meter.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated once active.
         -   This keybind can be changed in settings.
-    -   The mantra Skycrash activates a second time when landed while in this state.
+    -   Skycrash activates a second time when landed while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
     -   The Blight Meter is similar to [Jetstriker's](Oath%253A_Jetstriker.md) Momentum gauge.
-    -   There is a 10 second cooldown on activating Sovereign State, started once it ends.
-        -   The Blight Meter can be dyed, however this has no visual effect aside from coloring the bar.
+        -   The Blight Meter can be [dyed](Dye_Packet.md), however this has no visual effect aside from coloring the bar.
 
 -   **Anchor Shock** - Your Blightshock prevents targets from using mobility mantras.
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
@@ -89,20 +103,7 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
     -   This allows your Sovereign Bangle to apply Wither on hit.
 
 -   **Blightlash** - Your swing range is enhanced during Sovereign State.
-    -   Increases the range of the Sovereign Bangle from 6 to 7.
-
-### Weapon
-
--   **Sovereign Bangle** - Cestus used by members of the Hundred Legions.
-    -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
-    -   The Sovereign Bangle has the following stats: 32 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
-    -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 25 Physical damage.
-    -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
-    -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
-    -   The Sovereign Bangle has the full effectiveness of the [Darkened Bastion](Darkened_Bastion.md) outfit, allowing it to deal 105% of its damage as Wither with 80% of that being Blightshock.
-    -   The Talent Blighted Touch allows Sovereign Bangle to apply Blightshock, 80% of its damage as Wither.
-    -   The Talent Blighted Pierce grants Sovereign Bangle +?% PEN and hyperarmor nullification on hit.
-    -   The Talent Blightlash grants Sovereign Bangle 1 additional range, going from 6 to 7.
+    -   Increases the range of the Sovereign Bangle from 6 to 7. Signified by black and white puffs of lightning every M1.
 
 ### Mantras
 
@@ -110,8 +111,8 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 
 -   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
     -   Deals 10 Blunt damage, the followup strike deals 17.5 Oath damage.
-    -   Ragdolls on hit and flings opponents upwards. Activated a second Time while within Sovereign Stat
-    -   Activated a second Time while within Sovereign State.
+    -   Ragdolls and applies Daze on hit.
+    -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
 
 -   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.
     -   Deals 12 Blunt damage.
@@ -120,14 +121,13 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 
 -   **Warp Kick** - Perform a kick, then warp to your enemies for a second followup kick.
     -   Each hit deals 20 Blunt damage (hits twice).
+    -   Knocks the opponent back on the second hit, despite what is shown in the gif below.
     -   Teleports to opponents within range.
     -   Applies Blightshock on hit.
 
 ## Trivia
 
 -   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).
--   This Oath was accidentally released in Battle Royale, allowing players to play a very barebones version of the Oath.
+-   This Oath was accidentally released early in Battle Royale, allowing players to play a very barebones version of the Oath.
 -   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
--   This is the third Oath to not have an Oath visual, as Blightsurger only gains an Oath cosmetic while in Sovereign State. The other Oaths being [Arcwarder](Oath%253A_Arcwarder.md) and [Oathless](Oath%253A_Oathless.md).
--   When it originally released, Blightsurger seemed to require 80 Strength; this was fixed in a stealth hotfix around the 28th of July, 2025 and was replaced with the 80 total across body.
--   a bangle is a rigid bracelet or anklet
+-   Blightsurger's requirements have changed three times since it's addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.

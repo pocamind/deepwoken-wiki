@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 152317
+revid: 156298
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Medium Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Spears, Drops, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Corrupted King Thresher, Corrupted Thresher, Corrupted Void Thresher, Corrupted Nightmare Thresher |
+| obtainment | Corrupted King Thresher, Corrupted ThresherVoid ThresherNightmare Thresher |
 | description | ... |
 
 ## Description
