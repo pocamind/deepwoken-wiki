@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 155978
+revid: 156250
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1013,7 +1013,7 @@ _+1 Posture_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -1806,7 +1806,7 @@ _+8 Health_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -2157,7 +2157,7 @@ _+2 Posture_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -3228,7 +3228,7 @@ _+2 Posture_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -4326,7 +4326,7 @@ _+Set Talent: Lasting Trauma_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -4484,7 +4484,7 @@ _+5 Health_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -4913,7 +4913,7 @@ _+3 Posture_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -5488,7 +5488,7 @@ _+3 Health_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -5974,7 +5974,7 @@ _+1 Posture_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -6209,7 +6209,7 @@ _+3% Wind Armor_
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -7280,7 +7280,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -7888,7 +7888,7 @@ Found from:
 N/A
 
  |
-| File:Western Outlaw Mask.png | 
+| File:WesternOutlawMask | 
 
 [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
@@ -7902,7 +7902,7 @@ N/A
 
 Found from:
 
--   [Merit Detainment Core](Merit_Detainment_Core.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 

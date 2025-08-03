@@ -1,6 +1,6 @@
 ---
 title: Gild
-revid: 142543
+revid: 156288
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer]
@@ -20,7 +20,7 @@ Gild is an old [Celtor](Celtor.md) NPC, He wears Merchant Robes and has apparent
 
 ## Location
 
-Gild is located in the Depths in the [First Layer](First_Layer.md), inside of a building in [The City of the Drowned](The_City_of_the_Drowned.md) in the [Varicosa District](Varicosa_District.md).
+Jeremiah is located in the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), standing inside one of the buildings.
 
 ## Dialogue
 
@@ -53,8 +53,7 @@ Gild is located in the Depths in the [First Layer](First_Layer.md), inside of a 
   <td>It's been such a long time hasn't it? Nothing ages down here. It all just... fades into the background. We're just smudges on the glass, waiting to be cleaned off.</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
-  <td>[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

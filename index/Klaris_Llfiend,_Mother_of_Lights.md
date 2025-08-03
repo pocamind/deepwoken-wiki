@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 155731
+revid: 156270
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer]
@@ -43,49 +43,49 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Someone competent? That's rare.</td>
 </tr>
 <tr>
-  <td colspan="6">1. Why do you need competent people?</td>
-  <td colspan="6">2. Who are you?</td>
+  <td colspan="6">Why do you need competent people?</td>
+  <td colspan="6">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="6">We lost an expedition team heading into the Second Layer. We sent one of our Black Divers, Chaser, down with about 20 experienced Divers. Something seems to have gone wrong down there - it's not normal for him to not report back. We had reports from our scouts that Murmurs of the Song were coming from a passage within one of the Ethironal Sanctuaries. We think this might have clues to the resting place of Ethiron.</td>
-  <td colspan="6">Skip the honorifics and call me Klaris. I run things around here, and I guess you could say I'm credited with the discovery of the Radiant Tones, among other things.</td>
+  <td colspan="6">We lost an expedition team heading into the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. We sent one of our <a href="Glossary.md#black-divers">Black Divers</a>, Chaser, down with about 20 experienced <a href="Glossary.md#the-divers">Divers</a>. Something seems to have gone wrong down there - it's not normal for him to not report back. We had reports from our scouts that powerful reverberations of the <a href="Glossary.md#the-song">Song</a> were coming from a passage within one of the Ethironal Sanctuaries. We think this might have clues to the resting place of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>.</td>
+  <td colspan="6">Skip the honorifics and call me Klaris. I run things around here, and I guess you could say I'm credited with the discovery of the <a href="Glossary.md#radiant-tones">Radiant Tones</a>, among other things.</td>
 </tr>
 <tr>
-  <td colspan="3">1. So where does that leave me?</td>
-  <td colspan="3">2. Ethiron?</td>
-  <td colspan="6">1. Radiant Tones?</td>
+  <td colspan="3">So where does that leave me?</td>
+  <td colspan="3">Ethiron?</td>
+  <td colspan="6">Radiant Tones?</td>
 </tr>
 <tr>
-  <td colspan="3">We can't afford to keep sending more Divers down, we're thin on our numbers as it is. If you and a team are willing to go, I will bless you with a 'Light Hook' so you can make your way down. Also, if you can retrieve any of the Diver's we sent down we would really appreciate it.</td>
-  <td colspan="3">The Drowned God of the Eternal Gale. The one responsible for not only the harsh conditions of the Second Layer, but also possibly the key we need to further understand the Depths itself.</td>
-  <td colspan="6">The Radiant Tones are a Verse of the Song that can reproduce Light. According to our research, we believe Lightkeepers have used it latently for centuries to Illuminate pathways through the Voidsea, but I found a way to reproduce the Verse and wield it against the Depths itself.</td>
+  <td colspan="3">We can't afford to keep sending more <a href="Glossary.md#the-divers">Divers</a> down, we're thin on our numbers as it is. If you and a team are willing to go, I will bless you with a 'Light Hook' so you can make your way down. Also, if you can retrieve any of the <a href="Glossary.md#the-divers">Divers</a> we sent down we would really appreciate it.</td>
+  <td colspan="3">The Drowned God of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a>. The one responsible for not only the harsh conditions of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, but also possibly the key we need to further understand the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
+  <td colspan="6">The Radiant Tones are a Verse of the <a href="Glossary.md#the-song">Song</a> that can reproduce Light. According to our research, we believe <a href="Glossary.md#lightkeep">Lightkeepers</a> have used it latently for centuries to Illuminate pathways through the <a href="Glossary.md#the-voidsea">Voidsea</a>, but I found a way to reproduce the Verse and wield it against the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
 </tr>
 <tr>
-  <td colspan="2">1. Light Hook? What's that?</td>
-  <td>2. So, why send me down?</td>
-  <td colspan="3">1. So where does that leave me?</td>
-  <td colspan="3">1. You talk about the Depths like it's a living creature.</td>
-  <td colspan="3">2. You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+  <td colspan="2">Light Hook? What's that?</td>
+  <td>So, why send me down?</td>
+  <td colspan="3">So where does that leave me?</td>
+  <td colspan="3">You talk about the Depths like it's a living creature.</td>
+  <td colspan="3">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
 </tr>
 <tr>
-  <td colspan="2">The Light Hook is a special technique of the Radiant Tones. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no Light Hook will save you then.</td>
-  <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the First Layer are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the 'Light Hook' is ready.</td>
-  <td colspan="3">[See first instance.]</td>
+  <td colspan="2">The Light Hook is a special technique of the <a href="Glossary.md#radiant-tones">Radiant Tones</a>. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no <a href="Glossary.md#light-hook">Light Hook</a> will save you then.</td>
+  <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the <a href="Glossary.md#scyphozia-the-first-layer">First Layer</a> are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the 'Light Hook' is ready.</td>
+  <td colspan="3">[See first instance]</td>
   <td colspan="3">The landscape here... It <i>reacts</i>. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.</td>
   <td colspan="3">[See Unlockable Dialogues --&gt; Others]</td>
 </tr>
 <tr>
-  <td colspan="2">1. I'm ready.</td>
-  <td>1. Light Hook? What's that?</td>
+  <td colspan="2">I'm ready.</td>
+  <td>Light Hook? What's that?</td>
   <td colspan="3"></td>
-  <td colspan="3">1. Why do you need competent people?</td>
+  <td colspan="3">Why do you need competent people?</td>
   <td colspan="3"></td>
 </tr>
 <tr>
-  <td colspan="2">Alright. Bring 4 of you tops, we can't get any more down there right now. Stand in the circle with your team, and good luck out there.</td>
-  <td>[See first instance.]</td>
+  <td colspan="2">Alright. Bring 5 of you tops, we can't get any more down there right now. Stand in the circle with your team, and good luck out there.</td>
+  <td>[See first instance]</td>
   <td colspan="3"></td>
-  <td colspan="3">[See first instance.]</td>
+  <td colspan="3">[See first instance]</td>
   <td colspan="3"></td>
 </tr>
 <tr>
@@ -124,20 +124,14 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
 </tr>
 <tr>
-  <td colspan="3">1. Why do you need competent people?</td>
-  <td colspan="3">2. Who are you?</td>
-  <td colspan="3">3. I'm ready.</td>
+  <td colspan="3">Why do you need competent people?</td>
+  <td colspan="3">Who are you?</td>
+  <td colspan="3">I'm ready.</td>
   <td colspan="3">(Others)</td>
 </tr>
 <tr>
-  <td colspan="6">[See First Encounter]</td>
-  <td colspan="3">Alright. Bring 4 of you tops, we can't get any more down there right now. Stand in the circle with your team, and good luck out there.</td>
+  <td colspan="9">[See First Encounter]</td>
   <td colspan="3">[See Unlockable Dialogues]</td>
-</tr>
-<tr>
-  <td colspan="6">End</td>
-  <td colspan="3">End (Portal Opening)</td>
-  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
@@ -151,7 +145,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="4">Player returning to Klaris immediately after a Layer 2 run</td>
-  <td colspan="4">Player returning to Klaris after a layer 2 run and after leaving the depths and coming back</td>
+  <td colspan="4">Player returning to Klaris after going into Layer 2 with no Light Hook?</td>
   <td colspan="4">Player is in danger</td>
 </tr>
 <tr>
@@ -214,29 +208,29 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
 </tr>
 <tr>
-  <td colspan="4">Beat Chaser? Got beaten by Chaser? Saw Chaser?</td>
-  <td colspan="4">Chaser still alive???</td>
+  <td colspan="4">Kill Chaser</td>
+  <td colspan="4">Kill Chaser a second time</td>
   <td colspan="4">Talked to radio? Opened generator? Walked inside the base? Talked to the guy? Got union hook?</td>
 </tr>
 <tr>
-  <td colspan="4">4. Chaser betrayed you.</td>
-  <td colspan="4">5. Chaser was somehow alive again. It seems time behaves weirdly down there.</td>
-  <td colspan="4">6. The Ignition Union have set up a base down there.</td>
+  <td colspan="4">Chaser betrayed you.</td>
+  <td colspan="4">Chaser was somehow alive again. It seems time behaves weirdly down there.</td>
+  <td colspan="4">The Ignition Union have set up a base down there.</td>
 </tr>
 <tr>
-  <td colspan="4">*She sighs.* I knew sending him down there was a mistake. But for him to turn on us like this…</td>
-  <td colspan="4">Huh. You're sure? We've received some accounts of the time dilation in the Eternal Gale's area of effect, but this is something else entirely. More research is obviously required. It seems Chaser may remain a thorn in our side for a while yet...</td>
-  <td colspan="4">Ugh. How typical of them. They must have found some kind of grift down there. I'll tell the others to be wary of them on any expeditions. Still, I find it disturbing that they managed to establish a base there before us... We can't afford to underestimate those opportunists.</td>
+  <td colspan="4"><i>*She sighs.*</i> I knew sending him down there was a mistake. But for him to turn on us like this...</td>
+  <td colspan="4">Huh. You're sure? We've received some accounts of the time dilation in the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale's</a> area of effect, but this is something else entirely. More research is obviously required. It seems Chaser may remain a thorn in our side for a while yet...</td>
+  <td colspan="4">Ugh. How typical of them. They must have found <i>some</i> kind of grift down there. I'll tell the others to be wary of them on any expeditions. Still, I find it disturbing that they managed to establish a base there before us... We can't afford to underestimate those opportunists.</td>
 </tr>
 <tr>
   <td colspan="4">I thought you'd be more surprised.</td>
   <td colspan="8">End</td>
 </tr>
 <tr>
-  <td colspan="4">Black Divers are all driven by their ideals. For Akira and I, it's a desire to learn all we can about this place. For Chaser... It's clear he wants the spoils of whatever's down there all for himself. He's already got what he wanted from us, I suppose.</td>
+  <td colspan="4"><a href="Glossary.md#black-divers">Black Divers</a> are all driven by their ideals. For Akira and I, it's a desire to learn all we can about this place. For Chaser... It's clear he wants the spoils of whatever's down there all for himself. He's already got what he wanted from us, I suppose.</td>
 </tr>
 <tr>
   <td colspan="4">End</td>
@@ -252,21 +246,22 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
 </tr>
 <tr>
-  <td colspan="6">Completed Medancia's quest?</td>
-  <td colspan="6">Completed Deepshore Fossil quest?</td>
+  <td colspan="3">Completed Mendacia's Quest</td>
+  <td colspan="3">Spoken to Mendacia</td>
+  <td colspan="6">Meet Deepshore Fossil Requirements</td>
 </tr>
 <tr>
-  <td colspan="3">8. I met someone to be an 'Arch-Diver' down there. Any clue?</td>
-  <td colspan="3">7. Can you tell me about the Interstice of Skies?</td>
-  <td colspan="6">9. Here's all my findings within the Gale.</td>
+  <td colspan="3">I met someone to be an 'Arch-Diver' down there. Any clue?</td>
+  <td colspan="3">Can you tell me about the Interstice of Skies?</td>
+  <td colspan="6">Here's all my findings within the Gale.</td>
 </tr>
 <tr>
   <td colspan="3">An... Arch-Diver? Either you've come across a surviving diver with an inflated ego, or... <i>*She grimaces.*</i></td>
-  <td colspan="3">...Never heard that phrase before in my life. I can only assume you're talking about the Eternal Gale? It's relatively unexplored, we've had Black Divers make it far but never return.</td>
-  <td colspan="6">*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.* ...I see. You've done a great deal for us. This is the least I can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
+  <td colspan="3">...Never heard that phrase before in my life. I can only assume you're talking about the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a>? It's relatively unexplored, we've had <a href="Glossary.md#the-divers">Divers</a> make it far but never return.</td>
+  <td colspan="6"><i>*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.*</i> ...I see. You've done a great deal for us. This is the least I can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
 </tr>
 <tr>
   <td colspan="3">Or what?</td>
@@ -292,22 +287,22 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
 </tr>
 <tr>
-  <td colspan="3">Got Kyrsan Medallions?</td>
+  <td colspan="3">Obtain Kyrsan Medallions</td>
   <td colspan="3">Already showed Klaris Medallions?</td>
   <td colspan="6">Met Carrion? Saw Carrion? Talked to Carrion? Completed Carrion dialogue?</td>
 </tr>
 <tr>
-  <td colspan="3">12. Know anything about this? [Show Kyrsan Medallion]</td>
-  <td colspan="3">12. What do you have to offer?</td>
-  <td colspan="6">11. Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
+  <td colspan="3">Know anything about this? [Show Kyrsan Medallion]</td>
+  <td colspan="3">What do you have to offer?</td>
+  <td colspan="6">Uh, I met a strange man in Black Diver armor down in the Second Layer. He talked about monster parts. Called himself Dr. Diver.</td>
 </tr>
 <tr>
-  <td colspan="3">*Her eyes light up briefly* Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
+  <td colspan="3"><i>*Her eyes light up briefly*</i> Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
   <td colspan="3">Opens Shop UI</td>
   <td colspan="6">Her nose wrinkles in a look of disgust*. I can only assume you found Dr. Carrion. Pay him no mind, hes absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
 </tr>
 <tr>
-  <td colspan="3">What do you have to offer?</td>
+  <td colspan="3">What can you offer for Medallions?</td>
   <td colspan="9">End</td>
 </tr>
 <tr>
@@ -334,8 +329,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="6">Have Dawnwalker, and have it maxed out once already</td>
 </tr>
 <tr>
-  <td colspan="6">10. You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
-  <td colspan="6">13. I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
+  <td colspan="6">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+  <td colspan="6">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
 </tr>
 <tr>
   <td colspan="6">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>

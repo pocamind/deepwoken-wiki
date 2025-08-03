@@ -1,6 +1,6 @@
 ---
 title: Authority Prototype Mask
-revid: 155246
+revid: 156234
 source: https://deepwoken.fandom.com/wiki/Authority_Prototype_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Merit Detainment Core |
+| obtainment | Titus |
 | description | The latest innovation of the Citadel's top scientists, this mask can turn your reflexes into lightning; too bad its primitive state would turn your brain into paste. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Boots
-revid: 155622
+revid: 156240
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -22,7 +22,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merit Detainment Core |
+| obtainment | Titus |
 | description | Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband. |
 
 ## Description

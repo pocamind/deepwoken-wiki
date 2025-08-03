@@ -1,33 +1,107 @@
 ---
 title: Jeremiah
-revid: 135337
+revid: 156290
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, NPCs located in the First Layer]
+categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
 ---
 
 # Jeremiah
 
-Template:NPC name
+| Jeremiah | |
+|---|---|
+| name | Jeremiah |
+| aspect | Etrean |
+| location | The City of the Drowned |
 
 ## Description
 
-Jeremiah is an Etrean that can be found in [The City of the Drowned](The_City_of_the_Drowned.md), more specifically the Varicosa District. You can trade him a [Deep Gem](Deep_Gems.md) for a random item.
+Jeremiah is an [Etrean](Etrean.md) NPC that can exchange [Deep Gems](Deep_Gems.md) for a random item.
+
+He wears a [Vanguard Brace](Vanguard_Brace.md), [Vanguard Boots](Vanguard_Boots.md), and [Polarised Eyeglasses](Polarised_Eyeglasses.md) with the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) outfit.
+
+## Location
+
+Jeremiah is located in the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), standing beside some statues.
 
 ## Loot Pool
 
--   [Demon Mask](Demon_Mask.md)
--   [Eyeglasses](Eyeglasses.md)
--   [Star Boots](Star_Boots.md)
--   [Brilliant Pauldron](Brilliant_Pauldrons.md)
--   [Deepwoken Hood](Deepwoken_Hood.md)
--   [Star Duster](Star_Duster.md)
--   [Akira's Ring](<Akira's_Ring.md>) **(20%)**
--   [Maestro's Ring](<Maestro's_Ring.md>) **(20%)**
--   [Dawnfist's Ring](<Dawnfist's_Ring.md>) **(20%)**
--   [Prophet's Ring](<Prophet's_Ring.md>) **(20%)**
+### 
+
+Possible Items
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li>
+  <ul>
+    <li><b><font>Head</font></b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li>
+    <li><b><font>Arms</font></b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Star_Duster.md">Star Duster</a></li>
+    <li><b><font>Legs</font></b>: <a href="Star_Boots.md">Star Boots</a></li>
+    <li><b><font>Face</font></b>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a></li>
+    <li><b><font>Rings</font></b>: <a href="Akira's_Ring.md">Akira's Ring</a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Maestro's_Ring.md">Maestro's Ring</a>, <a href="Prophet's_Ring.md">Prophet's Ring</a></li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Player has Deep Gems</td>
+  <td colspan="2">Player does not have Deep Gems</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The man takes a deep breath in through his nose*</i>. I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
+  <td colspan="2"><i>*The man takes a deep breath in through his nose*</i>. You smell like empty pockets. Come back if you find something interesting.</td>
+</tr>
+<tr>
+  <td colspan="2">Gem?</td>
+  <td colspan="2">End</td>
+</tr>
+<tr>
+  <td colspan="2">Yes, yes, a gem. You <i>definitely</i> have one. They're really not all that.</td>
+</tr>
+<tr>
+  <td colspan="2">What do you have to trade?</td>
+</tr>
+<tr>
+  <td colspan="2">You think I'd tell you what you're gonna get? That would spoil the surprise. Now where's the gem?</td>
+</tr>
+<tr>
+  <td colspan="2">Here it is.</td>
+</tr>
+<tr>
+  <td>Player has Deep Gem in hand</td>
+  <td>Player does not have Deep Gem in hand</td>
+</tr>
+<tr>
+  <td><i>*He fidgets excitedly, tossing you your new [ITEM].*</i></td>
+  <td><i>*He twitches angrily.*</i> There's no gem in your hand...</td>
+</tr>
+<tr>
+  <td>End</td>
+  <td>Whoops, here you go.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>[See "Here it is."]</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -35,39 +109,23 @@ Jeremiah is an Etrean that can be found in [The City of the Drowned](The_City_of
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td>Talking to Jeremiah with a Deep gem in your inventory:</td>
-  <td>Talking to Jeremiah without a Deep gem in your inventory:</td>
+  <td>Player has Deep Gems</td>
+  <td>Player does not have Deep Gems</td>
 </tr>
 <tr>
-  <td>*The man takes a deep breath in through his nose*. I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
-  <td>*The man takes a deep breath in through his nose*. You smell like empty pockets. Come back if you find something interesting.</td>
+  <td><i>*The man takes a deep breath in through his nose*</i>. Ah, you're back, and you've got a GEM! Looking to trade?</td>
+  <td><i>*The man takes a deep breath in through his nose*</i>. You smell like empty pockets. Come back if you find something interesting.</td>
 </tr>
 <tr>
-  <td>Gem?</td>
+  <td>Yeah.</td>
   <td>End</td>
 </tr>
 <tr>
-  <td>Yes, yes, a gem. You definitely have one. They're really not all that.</td>
-</tr>
-<tr>
-  <td>What do you have to trade?</td>
-</tr>
-<tr>
-  <td>You think I'd tell you what you're gonna get? That would spoil the surprise. Now where's the gem?</td>
-</tr>
-<tr>
-  <td>Here it is.</td>
-</tr>
-<tr>
-  <td>*He fidgets excitedly, tossing you your new [item name].*</td>
-</tr>
-<tr>
-  <td>End</td>
+  <td colspan="2">[See "Here it is."]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Wears the "Vanguard set" ([Vanguard Brace](Vanguard_Brace.md) and [Vanguard Boots](Vanguard_Boots.md)), as well as [Polarized Glasses](Eyeglasses.md) and the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) outfit.
--   Yes, the devs forgot to add [Rosen's Ring](Equipment.md#rings) to the loot pool.
+-   Jeremiah is able to give the player all of the Attribute rings besides the [Rosen's Ring](Equipment.md#rings).

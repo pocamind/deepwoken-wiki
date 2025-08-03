@@ -1,6 +1,6 @@
 ---
 title: "Titus's Cape"
-revid: 155723
+revid: 156262
 source: https://deepwoken.fandom.com/wiki/Titus's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Capes]
@@ -16,6 +16,7 @@ categories: [Items, Equipment, Arms, Capes]
 | requirements | Power 15 |
 | weight | 2 |
 | innate stats | +10% Lightning Armor, +2 Rare Pips, +1 Legendary Pip |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

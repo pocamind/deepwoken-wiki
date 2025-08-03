@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 156221
+revid: 156271
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -21,6 +21,13 @@ The Glossary can be accessed by opening your Encyclopedia with the button on the
   
 
 ## Entities
+
+### Black Divers
+
+-   The highest-ranking field personnel of the [The Divers](#the-divers), granted oversight and authority second only to the Administrators of Operating Bases.
+-   Black Divers have all descended beyond the [First Layer](#scyphozia-the-first-layer) on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
+
+Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Song of Fathoms / Oscillation](Books.md#song-of-fathoms--oscillation) | Glossary Entries:
 
 ### The Celestials
 
@@ -161,13 +168,19 @@ Dialogue: | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-
 
 Dialogue: [Amashi](Amashi,_Master_of_Flame.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
+### Light Hook
+
+-   A special technique of the Radiant Tones that enables Klaris to retrieve Divers that expedition from Castle Light. Hopefully still in one piece.
+
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
+
 ### Lightkeep
 
 -   Stationed in Lighthouses at the edges of [Luminants](#the-luminants), these rare individuals are capable of Illuminating a path through the [Voidsea](#the-voidsea), forcing it to retreat.
 -   A scant few are born with the Gift of [Lightkeeping](#lightkeep), with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
 -   [Lightkeepers](#lightkeep) are afforded little freedom, when spending their lives wasting away in their Lighthouses guarded by a legion of soldiers
--   A nation's economy rests on its [Lightkeepers](#lightkeep), with passage between the [Luminants](#the-luminants) being strictly controlled and tariffed by the few that have [Lightkeepers](#lightkeep) in their retinue.
--   The Radiant Tones utilized by adherents of the Dawnwalker Oath are based on research into Lightkeeping, though are incapable of illuminating the Void.
+-   A nation's economy rests on its Lightkeepers, with passage between the [Luminants](#the-luminants) being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
+-   The Radiant Tones utilised by adherents of the Dawnwalker [Oath](#oaths) are based on research into [Lightkeeping](#lightkeep), though are incapable of Illuminating the Void.
 
 Dialogue: [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants)
 
@@ -194,6 +207,14 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 
 Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Vow](#vows)
 
+### Radiant Tones
+
+-   Discovered by Klaris, the Radiant Tones are the foundations behind the Dawnwalker Oath.
+-   The Radiant Tones are said to be a Verse of the [Song](#the-song) that can reproduce Light.
+-   According to research conducted by the [Divers](#the-divers), they believe that Lightkeepers use it latently for their abilities.
+
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
+
 ### The Song
 
 -   Thought to be the source of much of the 'magic' of [Lumen](#lumen), its wielders often invoke its magic through the use of [Mantras](#mantra).
@@ -213,14 +234,6 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), Kaide,
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
 Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
-
-### Radiant Tones
-
--   Discovered by Klaris, the Radiant Tones are the foundations behind the Dawnwalker Oath.
--   The Radiant Tones are said to be a Verse of the [Song](#the-song) that can reproduce Light.
--   According to research conducted by the [Divers](#the-divers), they believe that Lightkeepers use it latently for their abilities.
-
-Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
 
 ## Objects of Interest
 
@@ -248,18 +261,18 @@ Dialogue: [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye
 
 Dialogue: [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
 
+### The Resurgence
+
+-   The current period of history, usually dated around the fifth century BCE with mankind's adaptation to the new state of the world.
+
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries: [Vows](#vows)
+
 ### The Shallows
 
 -   The period of history following the [Canticlysm](#the-canticlysm) in which technology and knowledge rapidly dwindled, ushering in a dark period of history in which little time is recorded.
 -   Pushed to the very peaks of the world, mankind died in its droves to famine, conflict, and the horrors of the [Depths](#the-depths) that emerged with the [Tides](#the-tides).
 
 Dialogue: | Books: [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries:
-
-### The Resurgence
-
--   The current period of history, usually dated around the fifth century BCE with mankind's adaptation to the new state of the world.
-
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries: [Vows](#vows)
 
 ### The Old World
 
@@ -269,6 +282,16 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries:
 Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Luminants](#the-luminants)
 
 ## Phenomena
+
+### The Drowning
+
+-   Since the [Tides](#the-tides), a phenomenon known as 'the Drowning' occurs on death.
+-   As [Lumen](#lumen) was dragged further into the [Depths](#the-depths) by the [Tides](#the-tides), so too were the souls of the dead dragged further down.
+-   The souls of the deceased are dragged ruthlessly down, awakening to find themselves in the [Depths](#the-depths).
+-   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the [Depths](#the-depths) should they Drown.
+-   No one who has perished in the [Depths](#the-depths) has ever returned.
+
+Dialogue: | Books: [Coldheart's Journal](Books.md#coldhearts-journal) | Glossary Entries: [The Tides](#the-tides)
 
 ### The Tides
 
@@ -282,16 +305,6 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: 
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#the-depths) below.
 
 Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
-
-### The Drowning
-
--   Since the [Tides](#the-tides), a phenomenon known as 'the Drowning' occurs on death.
--   As [Lumen](#lumen) was dragged further into the [Depths](#the-depths) by the [Tides](#the-tides), so too were the souls of the dead dragged further down.
--   The souls of the deceased are dragged ruthlessly down, awakening to find themselves in the [Depths](#the-depths).
--   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the [Depths](#the-depths) should they Drown.
--   No one who has perished in the [Depths](#the-depths) has ever returned.
-
-Dialogue: | Books: [Coldheart's Journal](Books.md#coldhearts-journal) | Glossary Entries: [The Tides](#the-tides)
 
 ## Places
 
@@ -317,6 +330,12 @@ Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their 
 -   Due to the anomalous metaphysics of the Voidsea, Driftlands often appear to be unscathed by the effects of time, almost as if their time in the Void was a frozen moment.
 
 Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries:
+
+### The Echelon
+
+-   A sprawling metropolis upon a central island in the Lullaby Isles archipelago. The center of activity for scholars, religious figureheads, and the Counsell. A bustling complex of archives and residences for those who live within. Notable for its pristine sandstone architecture, punctuated by elegant frescoes.
+
+Dialogue: [Liviu](Liviu.md) | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries: [The Counsell](#the-counsell)
 
 ### The Etrean Luminant
 
@@ -385,6 +404,13 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries:
 
 Dialogue: [C'lantaa](<C'lantaa.md>), Kaide, The Drowned Light | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), [The Nightsea](#the-nightsea)
 
+### The Vents, the Third Layer
+
+-   Said to be the inhospitable waste where the [Drowned God](#the-drowned-gods) [Korilfiend](#korilfiend-the-infernos-provenance) resides.
+-   Riddled with thermal [vents](#the-vents-the-third-layer) and geysers that exude extreme temperature. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
+
+Dialogue: [Ploom](Ploom.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Scyphozia, The First Layer](#scyphozia-the-first-layer), [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
+
 ### The Voidfog
 
 -   The impenetrable mists that surround and obscure [Lumen's](#lumen) skies.
@@ -432,19 +458,6 @@ Dialogue: [Dust](Dust.md), [Merryweather](Merryweather.md) | Books: [Lumen's Fol
 
 Dialogue: | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [The Heavens](#the-heavens)
 
-### The Vents, the Third Layer
-
--   Said to be the inhospitable waste where the [Drowned God](#the-drowned-gods) [Korilfiend](#korilfiend-the-infernos-provenance) resides.
--   Riddled with thermal [vents](#the-vents-the-third-layer) and geysers that exude extreme temperature. \[_[sic](https://en.wikipedia.org/wiki/sic)_\]
-
-Dialogue: [Ploom](Ploom.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Scyphozia, The First Layer](#scyphozia-the-first-layer), [The Depths](#the-depths), [The Vents, the Third layer](#the-vents-the-third-layer)
-
-### The Echelon
-
--   A sprawling metropolis upon a central island in the Lullaby Isles archipelago. The center of activity for scholars, religious figureheads, and the Counsell. A bustling complex of archives and residences for those who live within. Notable for its pristine sandstone architecture, punctuated by elegant frescoes.
-
-Dialogue: [Liviu](Liviu.md) | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries: [The Counsell](#the-counsell)
-
 ### The Eastern Luminant
 
 -   Often, due to the large mountain range that runs across the middle, the side that contains the Kingdom of Etrea is known as the [Etrean Luminant](#the-etrean-luminant).
@@ -452,13 +465,6 @@ Dialogue: [Liviu](Liviu.md) | Books: [Strange Missives](Books.md#strange-missive
 Dialogue: [Hector](Hector.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Tale of the Storm](Books.md#tale-of-the-storm), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Etrean Luminant](#the-etrean-luminant)
 
 ## Terminology
-
-### Black Divers
-
--   The highest-ranking field personnel of the Divers, granted oversight and authority second only to the Administrators of Operating Bases.
--   Black Divers have all descended beyond the First Layer on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
-
-Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Song of Fathoms / Oscillation](Books.md#song-of-fathoms--oscillation) | Glossary Entries:
 
 ### The Divers
 

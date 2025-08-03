@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 142928
+revid: 156273
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer]
@@ -30,13 +30,13 @@ He resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*What you thought was a clump of coral begins to move.* Gh... Hail there... come now... Won't you speak wi'h me...?</td>
+  <td colspan="12"><i>*What you thought was a clump of coral begins to move.*</i> Gh... Hail there... come now... Won't you speak wi'h me...?</td>
 </tr>
 <tr>
   <td colspan="12">Gah! What are you?</td>
 </tr>
 <tr>
-  <td colspan="12">Grgh... Just a talkative stranger, that's all... It's so... Tranquil here... *The creature wheezes as it takes in another breath.* Just watchin' it all go by...</td>
+  <td colspan="12">Grgh... Just a talkative stranger, that's all... It's so... Tranquil here... <i>*The creature wheezes as it takes in another breath.*</i> Just watchin' it all go by...</td>
 </tr>
 <tr>
   <td colspan="12">This is a nightmare.</td>

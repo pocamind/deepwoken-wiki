@@ -1,9 +1,9 @@
 ---
 title: Silhuett
-revid: 137952
+revid: 156274
 source: https://deepwoken.fandom.com/wiki/Silhuett
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, Random Encounters]
+categories: [Capra NPCs, NPCs, Random Encounters, NPCs located in the First Layer]
 ---
 
 # Silhuett
