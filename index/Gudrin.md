@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 153531
+revid: 156372
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the First Layer, The Divers, The Depths, Reputation]
@@ -73,23 +73,18 @@ File:Gudrin map.png
 <tr>
   <td colspan="3">Here.</td>
   <td colspan="3">Nah, not interested.</td>
-  <td colspan="6"></td>
 </tr>
 <tr>
   <td>Requirements Met</td>
   <td colspan="2">Not Enough Notes</td>
   <td colspan="3">[See first instance.]</td>
-  <td colspan="6"></td>
 </tr>
 <tr>
   <td>Bravo! And what good training you've been for our recruits, eh?</td>
   <td>Nothing to spare? You really didn't even pilfer a single Note from all the divers you killed? Sheesh!</td>
-  <td colspan="5"></td>
-  <td colspan="5"></td>
 </tr>
 <tr>
   <td colspan="2">End</td>
-  <td colspan="10"></td>
 </tr>
 </tbody>
 </table>

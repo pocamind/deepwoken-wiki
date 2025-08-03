@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 155916
+revid: 156374
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -45,7 +45,7 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 | 
 
 **Pressure Eruption**  
-★
+★★
 
  | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
 
@@ -57,13 +57,13 @@ Dodgeable:◯
 | 
 
 **Sudden Ambush**  
-★
+★★★
 
  | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity, instantly killing them. Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this. Auto-grips.
 
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 
-Parryable:◯  
+Parryable:✗  
 Blockable:✗  
 Dodgeable:✗  
 
@@ -72,7 +72,8 @@ Dodgeable:✗
  |
 | 
 
-**Barrel Roll**
+**Barrel Roll**  
+★
 
  | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage
 
@@ -100,7 +101,7 @@ Dodgeable:✗
 | 
 
 **Whirlpool**  
-★
+★★
 
  | The Doom starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
 
@@ -112,7 +113,7 @@ Dodgeable:✗
 | 
 
 **Luminant Beam**  
-★
+★★★
 
  | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips. Appears to only do it if it is infront of etris docks and aims near the well near the dock.
 
@@ -131,7 +132,7 @@ Dodgeable:✗
 
 -   The Doom has a very large hitbox, therefore swinging where its submerged tail is or doing so atop a boat can still damage it. Avoid being too close to the center so you can react to the Tidal Roar and Whirlpool attacks, preferably avoiding them altogether. You can hit it during the spin if you're right outside the Whirlpool's range, but it is extremely inconsistent and not recommended.
 -   Be cautious when using boats to attack the Doom; when it dives, it will Sudden Ambush on the closest area with a large player count. If none are found it will instead strike the closest boat. The move can also target NPCs. Staying on top of where Caeranthil's submerged itself often leads it to reemerge on other players or use Pressure Eruption instead.
--   When doing this with other players, it might be helpful to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be. If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. **However** **this will cause the Caeranthil to use it's Dive move often**, use this strategy only if other players are already doing so.
+-   When doing this with other players, it might be helpful to keep a couple of boats manned so you can hop on and chase it or get some speed to avoid its Sudden Ambush or Pressure Eruptions. Take turns piloting the boat if need be. If you do not have an Ironclad, immediately turn to the wind direction and/or angle your sails to match the wind. **However this will cause the Caeranthil to use it's Dive move often**, use this strategy only if other players are already doing so.
 -   Have some mobility mantras on hand, and max their range with modifiers if you can afford the ether cost. [Ice skates](Frostdraw.md) is an excellent mantra to have for this fight, being able to save losing hunger from swimming for extended periods of time. Keep in mind that sometimes [Jet Kick](Oath%253A_Jetstriker.md) might not work, and you'll likely hit the Caeranthil's hitbox instead of moving forward.
 -   Sudden Ambush and Luminant Beam are one-shot moves. Keep a close eye for when it dives and do everything to avoid the ambush. The [Payback](Payback.md) resonance can tank the Sudden ambush move, but it’s unable to hit the serpent with it. Although the [Tidekeeper](Celtorian_Tideknight.md) can't, Mythic stability can save you from the one-shot moves.
     -   While you _can_ parry Sudden Ambush, you would need Force Your Way from [Ignition Deepdelver](Ignition_Deepdelver.md) (or alternatively, Diver's Resilience from [Grand Fisher Plate](Grand_Fisher_Plate.md)) or [Ignition Gauntlets](Ignition_Gauntlets.md), as well as the parry timing being very strict. Piloting the boat away from Sudden Ambush is an easier way to avoid the attack.

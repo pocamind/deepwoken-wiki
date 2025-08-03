@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156324
+revid: 156364
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -521,14 +521,14 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
 -   Sovereign State \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
-    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, [Galebreathe](Galebreathe.md) Mantras, or [Physical](Attunement-less.md) Mantras grants 5% Blight Meter.
+    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
+    -   Sovereign State has a 10 second activation cooldown once the duration runs out.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
         -   This keybind can be changed in settings.
-    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md)_.
-    -   Skycrash can be used twice in quick succession while in this state.
+    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#weapon)_.
+    -   Skycrash will be automatically used twice in quick succession while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
-    -   Has a 10 second cooldown.
     -   Prerequisite: [Oath: Blightsurger](Oath%253A_Blightsurger.md)
 
 ### Bloodhound

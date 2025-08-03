@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 151984
+revid: 156350
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Medium Weapons]
@@ -33,7 +33,7 @@ The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), kno
 
 ## Critical
 
-Has a unique critical attack consisting of three one-handed heavy slashes, each coming out a little less than a second from the last. Propels the user forward with every slash, making it difficult to land all three slashes.
+Has a unique critical attack consisting of three one-handed heavy slashes, each coming out a little less than a second from the last. The critical propels the user forward with every slash, making it difficult to land all three slashes.
 
 You can aim each slash by turning your camera.
 

@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 151068
+revid: 156349
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -70,6 +70,9 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 
 -   **Thresher Regicide**
     -   Tasks the player with defeating one [King Thresher](King_Thresher.md).
+
+-   **Lodestar Bounty**
+    -   Tasks the player with defeating [Lodestar](Lodestar.md).
         
 
 ## The Depths

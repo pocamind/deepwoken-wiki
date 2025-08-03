@@ -1,6 +1,6 @@
 ---
 title: Ezra
-revid: 146061
+revid: 156376
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Quests]

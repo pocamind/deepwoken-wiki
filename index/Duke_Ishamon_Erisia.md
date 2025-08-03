@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 155919
+revid: 156359
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -282,7 +282,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Duke's_Coat_Fiber.md">Duke's Coat Fiber</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Duke's_Coat_Fiber.md"><font>Duke's Coat Fiber</font></a>, <a href="Gale_Stone.md">Gale Stone</a>.</li>
     <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
   </ul></td>
 </tr>
