@@ -1,6 +1,6 @@
 ---
 title: Lucy
-revid: 146196
+revid: 156413
 source: https://deepwoken.fandom.com/wiki/Lucy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the First Layer]
@@ -17,6 +17,10 @@ categories: [Canor NPCs, NPCs, NPCs located in the First Layer]
 ## Description
 
 Lucy is a Canor NPC that appears sprawled out on the floor in [The City of the Drowned](The_City_of_the_Drowned.md). She appears to have a grudge against [The Divers](The_Divers.md) and she might be slightly insane as she hears voices talking to her.
+
+## Location
+
+Lucy is located in [The City of the Drowned](The_City_of_the_Drowned.md), hiding between a few buildings.
 
 ## Dialogue
 

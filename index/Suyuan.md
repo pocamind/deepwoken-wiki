@@ -1,6 +1,6 @@
 ---
 title: Suyuan
-revid: 155989
+revid: 156407
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -31,34 +31,40 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Hey, you! Ever seen a ghost? Or perhaps.. a ghost ship?</td>
+  <td colspan="4">Hey, you! Ever seen a ghost? Or perhaps.. a ghost ship?</td>
 </tr>
 <tr>
+  <td>Player has already interacted with a Ghost</td>
+  <td>Player hasn't interacted with a Ghost</td>
+  <td colspan="2">Ship?</td>
+</tr>
+<tr>
+  <td>Yeah.</td>
   <td>No.</td>
-  <td>Ship?</td>
+  <td colspan="2">You haven't heard the rumors? They say there's an abandoned, haunted ship off in the <a href="Glossary.md#the-voidsea">The Voidsea</a>, not far from here... with a <i>Depths-sent</i> spirit corrupting it.</td>
 </tr>
 <tr>
+  <td>Wow, really? What was it like?</td>
   <td>That's disappointing... If you can tell me what they're like, I'll give you a gift!</td>
-  <td>You haven't heard the rumors? They say there's an abandoned, haunted ship off in the <a href="Glossary.md#the-voidsea">The Voidsea</a>, not far from here... with a <i>Depths-sent</i> spirit corrupting it.</td>
+  <td colspan="2">That sounds interesting.</td>
 </tr>
 <tr>
+  <td>It's not fresh on my mind...</td>
   <td>I'll let you know if I see a ghost.</td>
-  <td>That sounds interesting.</td>
+  <td colspan="2">Honestly, it scares me. A few Vigil initiates here went to investigate, but each one had a different story. One said to have seen the spirit, while the others saw nothing. They said it only appeared to those who <i>believed</i> in it.. I'd never go! But.. if you do go, can you tell me if you see any ghosts there?</td>
 </tr>
 <tr>
+  <td>[See "No."]</td>
   <td>Really? Thanks! I'll be waiting right here. Get searching!</td>
-  <td>Honestly, it scares me. A few Vigil initiates here went to investigate, but each one had a different story. One said to have seen the spirit, while the others saw nothing. They said it only appeared to those who <i>believed</i> in it.. I'd never go! But.. if you do go, can you tell me if you see any ghosts there?</td>
-</tr>
-<tr>
-  <td>End</td>
-  <td>I'll let you know if I see a ghost.</td>
+  <td colspan="2">I'll let you know if I see a ghost.</td>
 </tr>
 <tr>
   <td></td>
-  <td>[See first instance]</td>
+  <td>End</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -68,30 +74,36 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Have you found a ghost ship yet? Or perhaps.. a ghost ship?</td>
+  <td colspan="4">Have you found a ghost ship yet? Or perhaps.. a ghost ship?</td>
 </tr>
 <tr>
-  <td>Player has found Ghosts</td>
-  <td>Player has not found Ghosts</td>
+  <td colspan="2">Player has found Ghosts</td>
+  <td colspan="2">Player has not found Ghosts</td>
 </tr>
 <tr>
-  <td>Yeah. I saw one.</td>
-  <td>Ship?</td>
+  <td colspan="2">Yeah. I saw one.</td>
+  <td colspan="2">Ship?</td>
 </tr>
 <tr>
-  <td>You saw one? What was it like?</td>
+  <td colspan="2">You saw one? What was it like?</td>
+  <td colspan="2">[See Quest Start]</td>
+</tr>
+<tr>
+  <td>Ghosts attacked the player</td>
+  <td>Ghosts didn't attack the player</td>
 </tr>
 <tr>
   <td>There were more than just one - they stabbed me!</td>
+  <td>It smiled, and asked me to remember the dead.</td>
 </tr>
 <tr>
-  <td>That's quite the experience... Thanks for sharing! In return, here's somethin' small.</td>
+  <td colspan="2">That's quite the experience... Thanks for sharing! In return, here's somethin' small.</td>
 </tr>
 <tr>
-  <td>End, Player gains XP and Compassion</td>
+  <td colspan="2">End, Player gains XP and Compassion</td>
 </tr>
 </tbody>
 </table>

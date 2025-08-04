@@ -1,6 +1,6 @@
 ---
 title: Gild
-revid: 156294
+revid: 156408
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer]
@@ -53,7 +53,7 @@ Gild is located in the [Varicosa District](Varicosa_District.md) of [The City of
   <td>It's been such a long time hasn't it? Nothing ages down here. It all just... fades into the background. We're just smudges on the glass, waiting to be cleaned off.</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

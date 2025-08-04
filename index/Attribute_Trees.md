@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 156395
+revid: 156400
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -30,6 +30,12 @@ Each Tab is designed to show Talents that involve the searched Attribute from Le
     -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't take up Talent slots.
 
 Pulled from [Talents](Talents.md) for immediate reference.
+
+root {
+
+\--Duelist: "4.48"; } .test::before { content="Hello"; }
+
+Test
 
 **Body and Mind:**
 
@@ -719,7 +725,7 @@ Empath;4.51c | 90CHA
 
 **Weapon (WEP):**
 
-**Heavy (HVY):**
+{{#tag:tabber| Heavy (HVY) =
 
 1.  [Exclusive](#exclusive-310)
 2.  [Body and Mind](#body-and-mind-hybrids-311)
@@ -766,7 +772,8 @@ Colossus;4.34c | 40HVY
 Unwavering Resolve  
 Greathammer | \[Greathammer\] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load) |
 
-**Medium (MED):**
+  
+|-| Medium (MED) =
 
 1.  [Body and Mind](#body-and-mind-hybrids-320)
     1.  [Strength (STR)](#strength-hybrids-321)
@@ -812,7 +819,7 @@ Bladeharper;4.21e | Oath: Bladeharper;4.21a
 Bladeharper;4.21f | Oath: Bladeharper;4.21a  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
-**Light (LHT):**
+|-| Light (LHT) =
 
 1.  [Exclusive](#exclusive-330)
 2.  [Body and Mind](#body-and-mind-hybrids-331)

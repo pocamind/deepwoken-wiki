@@ -1,9 +1,9 @@
 ---
 title: Rook Rethige
-revid: 156126
+revid: 156411
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Knives of Eylis]
+categories: [NPCs, The Knives of Eylis, Vendors]
 ---
 
 # Rook Rethige
@@ -18,3 +18,33 @@ categories: [NPCs, The Knives of Eylis]
 Root Rethige is an NPC in the [Voidheart](Voidheart.md). He seemingly gives lore about his character, which is based on a tester.
 
 After you say "I see. Can you help me with affording equipment?" to [Raen](Raen.md) you will unlock a new dialogue with This npc allowing you to buy [Whailing Knife](Whaling_Knife.md) for 300 notes
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Ain't no way bro...</td>
+</tr>
+<tr>
+  <td colspan="2">What's up?</td>
+</tr>
+<tr>
+  <td colspan="2">They really done put me here in this blasted nightmarescape of a place! What am I meant to do here? I can't even kill the lowliest of bandits...</td>
+</tr>
+<tr>
+  <td>I get you.</td>
+  <td>...That's rather embarassing.</td>
+</tr>
+<tr>
+  <td>At least you're a real one.</td>
+  <td>Man. Shut up.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>

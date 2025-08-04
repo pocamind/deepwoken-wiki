@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 155975
+revid: 156399
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -83,7 +83,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Pressing J or utilizing the Reality Shift tool will make your clones use their stored ability.
     -   Clones created from Mirror Illusion will copy your opponent's last used critical or mantra instead.
     -   If the clone is too far away from your opponent upon using Reality Shift, they will teleport to them.
-    -   Clones will copy your attunement path and mantra modifiers when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
+    -   Clones will copy your attunement path and mantra modifiers (currently bugged) when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
     -   Reality Shift cannot be activated if no targets are nearby.
     -   Clones will only copy the standing critical or aerial of weapons and cannot trigger any other alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md).
 

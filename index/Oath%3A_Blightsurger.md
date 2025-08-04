@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156351
+revid: 156405
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -71,7 +71,7 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
     -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 25 Physical damage.
     -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
     -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
-    -   Sovereign Bange can be enhanced with Blightsurger Talents.
+    -   Sovereign Bangle can be enhanced with Blightsurger Talents.
         -   Blightlash grants Sovereign Bangle 1 additional range, going from 6 to 7.
         -   Blighted Touch allows Sovereign Bangle to apply Blightshock (80% of its damage as Wither).
         -   The Sovereign Bangle has the full effectiveness of the [Darkened Bastion](Darkened_Bastion.md) outfit, allowing it to deal 105% of its damage as Wither when combined with Blighted Touch.

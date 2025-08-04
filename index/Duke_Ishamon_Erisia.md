@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 156359
+revid: 156409
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -407,7 +407,7 @@ Exhaustive Loot Table
   <td colspan="6"><b><a href="Oath%253A_Contractor.md">Contractor</a></b></td>
 </tr>
 <tr>
-  <td colspan="6">You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for the fools who would deny it.<br>
+  <td colspan="6">You're right. I'm wasting valuable time on you. <a href="Glossary.md#lumen">Lumen's</a> salvation will not wait for the fools who would deny it.<br>
   </td>
   <td colspan="6">You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
   </td>

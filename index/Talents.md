@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156393
+revid: 156397
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3402,7 +3402,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Warrior
 
--   _Chronostasis_ \[Rare Talent\] - Landing an M1 or Critical Strike puts target [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] - Landing an M1 or Critical Strike puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisites: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
