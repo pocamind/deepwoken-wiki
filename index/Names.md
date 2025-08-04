@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 145880
+revid: 156632
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1410,6 +1410,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   Solanum
 -   Soot
 -   Sorin
+-   Soy
 -   Sparrow
 -   Spike
 -   Starling

@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 153356
+revid: 156628
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -38,7 +38,7 @@ Immortal Guardians seem to wear what resembles [Arcwarder](Oath%253A_Arcwarder.m
 
 ## Moves
 
-An Immortal Guardian's arsenal consists of a [Divine Greatsword](Crazy_Slots.md) or a [Divine Battleaxe](Crazy_Slots.md).
+An Immortal Guardian's arsenal consists of a [Soulwrought Greatsword](Crazy_Slots.md) or a [Soulwrought Axe](Crazy_Slots.md).
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ An Immortal Guardian executes the player after knocking them.
 
 | Name | Description |
 | --- | --- |
-| Execute | Splits the enemy's head in two with their Divine Weapon. |
+| Execute | Splits the enemy's head in two with their Soulwrought Weapon. |
 
 ## Tips
 

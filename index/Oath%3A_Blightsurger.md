@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156558
+revid: 156650
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -59,8 +59,9 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 
 ### Status Effect
 
--   **Blightshock** - Apply 80% of damage dealt as Wither.
+-   **Blightshock** - Apply 70% of damage dealt as Wither.
     -   Blightshock is applied through your Sovereign Bangle attacks and Blightsurge Mantras.
+    -   Blightshock from Sovereign Bangle deals 80% of its damage as Wither instead.
     -   Blightshock can be further buffed with the Blight Pierce, Blighted Touch, and Anchor Shock Talents.
 
 ### Weapon
@@ -68,7 +69,7 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 -   **Sovereign Bangle** - Cestus used by members of the Hundred Legions. Sovereign State does not automatically activate at 100% Blight Meter anymore
     -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
     -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
-    -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 25 Physical damage and scales on Strength.
+    -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 25 Physical damage with 3 Strength scaling.
     -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
     -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
     -   Sovereign Bangle can be enhanced with Blightsurger Talents.
@@ -111,22 +112,22 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 #### Combat Mantras
 
 -   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
-    -   Deals 10 Blunt damage, the followup strike deals 17.5 Oath damage.
-    -   Scales on Strength.
+    -   Deals 10 Blunt damage, the followup strike deals 17.5 Oath damage. Both hits have 1.65 Strength scaling.
     -   Ragdolls and applies Daze on hit.
     -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
 
 -   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.
-    -   Deals 12 Blunt damage.
-    -   Scales on Strength.
+    -   Deals 18 Blunt & Oath damage with 1.65 Strength scaling.
     -   Applies Daze and Blightshock on hit.
     -   Knockdowns on hit.
 
 -   **Warp Kick** - Perform a kick, then warp to your enemies for a second followup kick.
-    -   Each hit deals 20 Blunt damage (hits twice).
+    -   Each hit deals 20 Blunt & Oath damage (hits twice). The second kick has 1.65 Strength scaling.
     -   Knocks the opponent back on the second hit, despite what is shown in the gif below.
     -   Teleports to opponents within range.
     -   Applies Blightshock on hit.
+
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, most of Blightsurger's attacks deal Oath and Blunt damage. This means they will be resisted by your Blunt resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Blunt resistance.
 
 ## Trivia
 

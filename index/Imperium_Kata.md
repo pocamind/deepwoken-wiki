@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 156552
+revid: 156642
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -50,7 +50,7 @@ This critical has a cooldown of 5 seconds.
 ## Trivia
 
 -   Added on the July 25th, 2025 Weekly update.
--   **Imperium Kata** does benefit from [Legion Centurion](Legion_Centurion.md).
+-   **Imperium Kata** did not benefit from [Legion Centurion](Legion_Centurion.md) when it was first added, this was changed in the update on August 4th, 2025.
 -   **Imperium Kata** Is also obtainable by defeating [Titus](Titus_Fulminus_Destellus.md), then speaking with [Caitus](Caitus.md).
 -   You cannot select **Imperium Kata** In character selection.
 -   The **Imperium Kata** Talent Card also gives +1 Passive Agility.

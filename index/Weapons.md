@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 156536
+revid: 156610
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -12763,11 +12763,11 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
     -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
     -   Penetration: [Shattered Katana](Shattered_Katana.md), [Nemit's Sickle](<Nemit's_Sickle.md>), [Kyrsedge](Kyrsedge.md), [Kyrstreza](Kyrstreza.md), [Flareblood Kamas](Flareblood_Kamas.md), [Pernach](Pernach.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
-    -   Scaling: [Divine Flintlock](Crazy_Slots.md) (16)
+    -   Scaling: [Soulwrought Gun](Crazy_Slots.md) (16)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
-    -   Range: [Repeater](Repeater.md), [Divine Flintlock](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
-    -   Swing Speed: [Divine Flintlock](Crazy_Slots.md) (1.33x)
-    -   Highest DPS: [Divine Greatsword](Crazy_Slots.md) (110 DPS)
+    -   Range: [Repeater](Repeater.md), [Soulwrought Flintlock](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
+    -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md) (1.33x)
+    -   Highest DPS: [Soulwrought Greatsword](Crazy_Slots.md) (110 DPS)
     -   Unique Crits: [Ysley's Pyre keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).

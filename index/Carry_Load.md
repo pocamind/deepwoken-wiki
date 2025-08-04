@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 156548
+revid: 156656
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -91,7 +91,7 @@ All of these miscellaneous sources combined would theoretically provide 380 carr
 
 Combining both Talents and other sources, the total amounts to **563**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **676**.
 
-Due to attribute limitations, the current best carry load build can only get 533/640 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
+Due to attribute limitations, the current best carry load build can only get 533/640 carry load, found [here](https://deepwoken.co/builder?id=Db429pN6).
 
 -   You are only able to perfectly create this build if your account does _not_ have the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers), due to its previously mentioned quirk.
     -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 532/639.

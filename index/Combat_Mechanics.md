@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 156550
+revid: 156605
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -426,7 +426,7 @@ Image
 -   [King Thresher](King_Thresher.md): Body Slam
 -   [Bounder](Bounder.md): Leap
 -   [Bonekeeper](Bone_Keeper.md): Bone Spikes(?)
--   TBA
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |
 

@@ -1,11 +1,9 @@
 ---
 title: Great Maul
-revid: 155689
+revid: 156607
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
-notices:
-  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily.Reason: Great Maul has become a placeholer item (unusable) and is no longer obtainable since July 24th, 2025."
 ---
 
 # Great Maul

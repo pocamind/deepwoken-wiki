@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 155298
+revid: 156699
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -77,11 +77,8 @@ Kiron has a very small range of ornament choice, with the only two options being
 
 The color of the ear fluff is based on your first hair slot's color.
 
-### Markings
-
-Alternatively, you can choose no markings.
-
 ## Trivia
 
 -   Kiron is the latest Aspect added to _Deepwoken_, being added over 2 years since the _Layer 2_ ones were added ([Tiran](Tiran.md) and [Chrysid](Chrysid.md)).
 -   The surname Vaatu may be a nod to [Vaatu](https://avatar.fandom.com/wiki/Vaatu) from the _Avatar_ franchise.
+-   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both are vampires.

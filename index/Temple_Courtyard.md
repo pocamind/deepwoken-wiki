@@ -1,9 +1,9 @@
 ---
 title: Temple Courtyard
-revid: 149769
+revid: 156643
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Etrean Luminant, Erisia]
+categories: [Locations, Etrean Luminant, Erisia]
 ---
 
 # Temple Courtyard
@@ -13,18 +13,13 @@ LocationL Temple Courtyard LocationR
   
   
 
-_A high up picture of the Temple Courtyard_
-
 **Temple Courtyard** is a location in _Deepwoken._ It is a sub-location of the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) found in [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 
-File:Temple Courtyard.jpg
+The Temple Courtyard is a small courtyard that leads up to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). It is located above [Path's Respite](<Path's_Respite.md>). The area is similar to that of ruins.
 
-_**Temple Courtyard guarded by an ever so vigilant watcher.**_
-
-The Temple Courtyard is a small courtyard that leads up to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). It is located above the Bandit Camp. The area is similar to that of the ruins.  
-In order to open the door to the temple courtyard you have to press a button located in the center of the garden behind an archway.
+In order to open the door to the Temple Courtyard, a button must be pressed located in the center of the garden behind an archway.
 
 ## Potential Enemies
 
@@ -35,11 +30,11 @@ In order to open the door to the temple courtyard you have to press a button loc
 
 ## Maps
 
-A map can be found at [Maps#Surface](Maps.md#surface)
+A map can be found here: [Surface Maps](Maps.md#surface)
 
 ## Trivia/Notes
 
--   The door can be opened by using a move like Strong Left.
--   There is a Watcher that is always watching the area, be careful.
--   Bandit events spawn here often, meaning if you are somehow struggling against the Angels, you can make them aggro the bandits instead.
--   The courtyard leads up to the Temple of the Forgotten Flame, a place where you can unlock the [Blindseer Oath](Oath%253A_Blindseer.md).
+-   Bandit events spawn here often.
+-   The door can be destroyed by using mantras like Strong Left or Shoulder Bash.
+-   There is a Watcher that is always watching the area, upon detection it will spawn one (1) [Hollow Angel](Hollow_Angel.md) on the player.
+-   The Courtyard leads up to the Temple of the Forgotten Flame, a place where you can unlock the [Blindseer Oath](Oath%253A_Blindseer.md).

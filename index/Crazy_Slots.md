@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 153784
+revid: 156609
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -26,7 +26,7 @@ categories: [Resonances]
 
 ### _Appearance_
 
-Once used, the user extends their right arm (and left arm if Divine Flintlock), summoning a weapon from thin air.
+Once used, the user extends their right arm (and left arm if Soulwrought Gun, summoning a weapon from thin air.
 
 ## Usage
 
@@ -34,14 +34,14 @@ Pressing C will activate the **Crazy Slots** Resonance and its unique special sk
 
 **Crazy Slots** calls forth a randomly chosen weapon each time it is used, with [Enchantments](Enchantments.md) and stars being copied from your main weapon onto the summoned weapon. Each weapon scales with its respective stat and has a unique skill that can be used by re-activating the bell.
 
-If Crazy Slots is corrupted, its cooldown is halved, rolls are further weighted towards your highest stat investment and the durations of the summons are increased. Additionally, your Divine Weapons will be colored purple instead of gold.
+If Crazy Slots is corrupted, its cooldown is halved, rolls are further weighted towards your highest stat investment and the durations of the summons are increased. Additionally, your Soulwrought Weapons will be colored purple instead of gold.
 
 ### _Resonance Point usage_
 
 When obtained, Crazy Slots will spend its points on the following stats:
 
--   **Weapon Weight:** Increases the likelihood of an individual Divine weapon being summoned relative to its counterparts.
--   **Time:** Increases the time for which an individual Divine weapon lasts before dematerializing.
+-   **Weapon Weight:** Increases the likelihood of an individual Soulwrought weapon being summoned relative to its counterparts.
+-   **Time:** Increases the time for which an individual Soulwrought weapon lasts before dematerializing.
     -   Varies between 30 seconds to 150 seconds, in 15-second intervals (30s, 45s, 60s, 75s, etc.).
     -   Corrupted rolls may have a higher maximum durations (requires more testing)
 
@@ -51,7 +51,7 @@ Crazy Slots will favor its point distribution towards weapons aligned with your 
 
 These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notably, they have very high base stats, which helps to alleviate the potential loss of damage from using weapons outside of your main attribute. This also enables them to be viable even for builds which have no weapon investment (e.g. [Hero Blades](Hero_Blades.md)).
 
-### Divine Weapon Stats
+### Soulwrought Weapon Stats
 
 <table><caption><strong>Crazy Slots</strong></caption>
 <tbody>
@@ -144,47 +144,47 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 
 ## Special Abilities
 
-Upon reactivating your Resonance while your Crazy Slots weapon is active, perform a special attack. The special attack varies depending on your currently equipped Divine weapon. Using this ends your resonance early, returning you back to your original weapon.
+Upon reactivating your Resonance while your Crazy Slots weapon is active, perform a special attack. The special attack varies depending on your currently equipped Soulwrought weapon. Using this ends your resonance early, returning you back to your original weapon.
 
-### Divine Dagger
+### Soulwrought Dagger
 
-Rush forward with flurry of divine slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
+Rush forward with flurry of Soulwrought slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
 
-### Divine Flintlock
+### Soulwrought Gun
 
 Flip upside down and rapidly shoot your target five to six times, finishing with a shot that propels you backwards.
 
-### Divine Longsword
+### Soulwrought Longsword
 
-Strike forward with your elbow, following up with three divine slashes. The initial strike is unparryable. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+Strike forward with your elbow, following up with three Soulwrought slashes. The initial strike is unparryable. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
 
-### Divine Spear
+### Soulwrought Spear
 
-Jump up and fire three divine beams. Also used by [Angels](Hollow_Angel.md). Deals **typeless** damage.
+Jump up and fire three Soulwrought beams. Also used by [Angels](Hollow_Angel.md). Deals **typeless** damage.
 
-### Divine Greataxe
+### Soulwrought Greataxe
 
 Jump into the air and plummet towards your cursor.
 
-### Divine Greatsword
+### Soulwrought Greatsword
 
 Gain a speed boost before leaping into the air and crashing down at your cursor.
 
 ## Trivia/Notes
 
--   The Divine weapons carry over the weapon quality bonus and [enchant](Enchantments.md) from your main weapon.
+-   The Soulwrought weapons carry over the weapon quality bonus and [enchant](Enchantments.md) from your main weapon.
     -   They can carry over other effects as well such as [Pleeksty's Inferno's](<Pleeksty's_Inferno.md>) burn on M1 if you have the [Simmerbloom Diadem](Simmerbloom_Diadem.md) equipped.
 -   The exceptionally high base damage for each weapon makes them especially powerful in PvE; it is a tried-and-true choice for M1 builds.
--   The designs of the Divine weapons were inspired by weapons from other media:
-    -   The Divine Longsword resembles the _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_ from the [_Fate_](https://typemoon.fandom.com/wiki/Fate_series) series.
-    -   The Divine Spear resembles the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
-    -   The Divine Greatsword resembles both the _[Clarent](https://typemoon.fandom.com/wiki/Clarent)_ and the _[Arondight](https://typemoon.fandom.com/wiki/Arondight)_ from the _Fate_ series.
-    -   The Divine Greataxe seems to be derived from the weapon used by [_Lestin Serra Alma_](https://shining.fandom.com/wiki/Lestin_Serra_Alma) from [_Shining Resonance Refrain_](https://en.wikipedia.org/wiki/Shining_Resonance_Refrain).
-    -   The Divine Dagger resembles one of Victor Swords from [_Immortals: Fenyx Rising_](https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/).
+-   The designs of the Soulwrought weapons were inspired by weapons from other media:
+    -   The Soulwrought Longsword resembles the _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_ from the [_Fate_](https://typemoon.fandom.com/wiki/Fate_series) series.
+    -   The Soulwrought Spear resembles the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
+    -   The Soulwrought Greatsword resembles both the _[Clarent](https://typemoon.fandom.com/wiki/Clarent)_ and the _[Arondight](https://typemoon.fandom.com/wiki/Arondight)_ from the _Fate_ series.
+    -   The Soulwrought Greataxe seems to be derived from the weapon used by [_Lestin Serra Alma_](https://shining.fandom.com/wiki/Lestin_Serra_Alma) from [_Shining Resonance Refrain_](https://en.wikipedia.org/wiki/Shining_Resonance_Refrain).
+    -   The Soulwrought Dagger resembles one of Victor Swords from [_Immortals: Fenyx Rising_](https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/).
 -   This Resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
 -   This Resonance may also be inspired by the "_Shardblades"_ from _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, which are powerful summonable weapons that produce white mist when materialized.
--   The Divine Flintlock is one of the only three pistols in the game to play a unique sound on M1/crit, alongside the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>).
--   The Divine weapons can actually be wielded without the Resonance, though whether or not there is a reason for this has yet to be explained.
-    -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Divine Greataxes.
-    -   The [Greater Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.
-    -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterparts, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Divine Greatsword or Divine Greataxe.
+-   The Soulwrought Flintlock is one of the only three pistols in the game to play a unique sound on M1/crit, alongside the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>).
+-   The Soulwrought weapons can actually be wielded without the Resonance, though whether or not there is a reason for this has yet to be explained.
+    -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Soulwrought Greataxes.
+    -   The [Greater Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Soulwrought Spears.
+    -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterparts, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Soulwrought Greatsword or Soulwrought Greataxe.
