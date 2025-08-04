@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 156399
+revid: 156462
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,18 +32,18 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 ## Obtainment
 
 -   Meet the following requirements:
-    -   50 [Charisma](Attributes.md)
+    -   50 [Charisma](Attributes.md#cha)
     -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 6 [Blizzard Knights](Stone_Knight.md) will spawn instead.)
     -   Have a [Dark Feather](Dark_Feather.md) in your possession
--   Find Surge, located inside the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
+-   Find Surge, located inside the [Deep Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
     
     Location of Widow's Cave
     
 -   Give him a Dark Feather. [Surge](Surge.md) will become OwlSurge and the area will seamlessly transition.
 -   When you go to leave Surge's room, you will find yourself within [A Conscious Intersection](A_Conscious_Intersection.md).
     -   **Do not fall into the void**, doing so will send you down into [Layer 2](Second_Layer.md) without a lighthook.
-    -   Talk to the [Nestmind](The_Nestmind.md), ensuring you select the first options. Once the Nestmind mentions food select "I accept" to take the Oath.
-    -   Refusing to become the [Nestmind](The_Nestmind.md)'s food will steal your dark feather and teleport you back to reality.
+    -   Talk to [The Nestmind](The_Nestmind.md), ensuring you select **only the first options**. Once the Nestmind mentions food select "I accept" to take the Oath.
+    -   Refusing to become [The Nestmind's](The_Nestmind.md) food will steal your dark feather and teleport you back to reality.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/CU80syZAJmY)._
 
@@ -51,7 +51,7 @@ Visionshaper **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keepe
 
 ## Progression
 
-To progress Visionshaper, [Void Feathers](Dark_Feather.md) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the Oath, taking 16 Dark Feathers to if only crafting Void Feathers.
+To progress Visionshaper, [Void Feathers](Dark_Feather.md#void-feather) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the Oath, taking 16 Dark Feathers to if only crafting Void Feathers.
 
 -   Void Feathers can be crafted using 3 [Dark Feathers](Dark_Feather.md) and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop Void Feathers.
 -   Alternatively you may spend 10 knowledge to immediately max out the Oath (Only if you logged in on a slot with maxed out Visionshaper after the 26/04/2024 update).

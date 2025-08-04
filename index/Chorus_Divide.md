@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 156381
+revid: 156423
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -59,3 +59,4 @@ If the player is [Attunement-less](Attunement-less.md), the beam will appear as 
 
 -   Due to how weak its Corrupted variant is, its recommended to not have your Chorus Divide bell corrupted at all, as it deals no damage and is harder to land, essentially making it a direct downgrade.
 -   This bell will stack [Chain of Perfection](Talent_Quests.md) when it lands
+-   [Titus](Titus_Fulminus_Destellus.md) uses an empowered version of this Resonance.

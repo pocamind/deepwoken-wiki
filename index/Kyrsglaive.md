@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 153226
+revid: 156505
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Medium Weapons]

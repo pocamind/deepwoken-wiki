@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 155944
+revid: 156486
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,6 +43,8 @@ Blindseer **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_o
 ## Progression
 
 To progress the Oath and obtain the Blindseer Mantras, you need to help pathfinders, or players who lack an Oath in the Depths Trial. The first mantra is unlocked after the first successful trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking). Do note that helping people who have Oathless will not grant progression.
+
+Blindseer will only progress if you are faced with a trial. If both the Blindseer and the pathfinder are low enough level to not receive a trial, you will not gain Blindseer progression.
 
 Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
@@ -124,6 +126,6 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   If you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
 -   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the Trophy Room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
--   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
--   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer.
+-   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo Modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
+-   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the old [Vesperian](Vesperian.md) variation of Blindseer.
 -   A red Blindseer eye was used as the visual warning for unparryable attacks before being replaced with the dynamic Telegraphing system which shows a variety of glyphs instead. (Changed in the May 24, 2025 update)

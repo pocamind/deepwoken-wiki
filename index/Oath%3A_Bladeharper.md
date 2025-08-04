@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 156121
+revid: 156433
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,7 +76,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 -   **Soaring Storm** - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
     -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
     -   Proc condition is removed if in True Strength.
-        -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), [modified Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
+        -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
     -   Obtainment: Obtained after the second Mind Reflection fight.
 
 -   **Untouchable** - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.

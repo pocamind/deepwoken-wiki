@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 155922
+revid: 156481
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths, The Ministry]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
+| oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained a Resonance |
 | effects | +2 Combat Mantra, +1 Wildcard Mantra, +10 Ether |
 
 “ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
@@ -30,13 +30,13 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 ## Obtainment
 
 1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire. Go more towards positive to be safe. - This can be done after killing [Duke Erisia](Duke_Ishamon_Erisia.md).
-    -   You can either get this through [Emel](Emel.md), [Imel](Imel.md), and [Rimil's](Rimil.md) bounties if you choose, but you can also help the [Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry](Ministry_Scout.md) [Scout](Ministry_Scout.md), waiting for the nomads to kill the other, and then assassinate them. This is far less efficient than doing bounties, only giving around half the reputation each completion.
-    -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer](Summer_Isle.md) [Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
-    -   The Bounty version of the [Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
-    -   You can also get this by trading knowledge with [Soothsayer](Soothsayer.md) (require atleast 10 knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
+    -   You can either get this through [Emel](Emel.md), [Imel](Imel.md), and [Rimil's](Rimil.md) bounties if you choose, but you can also help the [Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry Scout](Ministry_Scout.md), waiting for the nomads to kill the other, and then assassinate them. This is far less efficient than doing bounties, only giving around half the reputation each completion.
+    -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
+    -   The Bounty version of [The Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
+    -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
     -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest locks you out of contractor \[needs more testing) (Second dialogue is **NOT** required for the Duke Erisia questline)
-3.  Go to the [Lord Regent](The_Lord_Regent.md) and choose the special dialogue “Bite your tongue". (Optional)
+3.  Go to [The Lord Regent](The_Lord_Regent.md) and choose the special dialogue “Bite your tongue". (Optional)
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md)(Make sure to speak with [The Lord Regent](The_Lord_Regent.md) first or the shrines won't count.) Any Shrine except the **Shrine of Solitude,** **Shrine of Mastery and Shrine of Order (stat allocation)** works, including those in the [Temple of Hearts](Temple_of_Hearts.md). (As of right now using the Shrine of Mastery to re-evaluate your stats doesn't work.)
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?" (NOTE THAT THIS REQUIRES THE 4 DEEP SHRINE DEALS FIRST)
@@ -70,7 +70,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 
 -   **String Trick** - Pulls together any two opponents you've attached Hidden Tendril to.
     -   Deals 4.8 Oath DMG twice.
-    -   Obtained after killing 3 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md).
+    -   Obtained after killing 3 players with [Oaths](Oaths.md) in [The Depths](The_Depths.md).
         -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 ### Mantras
@@ -83,14 +83,14 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.
     -   Can be vented out of, and can also parried as soon as you hear the 'snap' sound.
     -   Deals 59.93 (6.38+53.55) Oath DMG
--   Obtained after killing 3 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md).
+-   Obtained after killing 3 players with [Oaths](Oaths.md) in [The Depths](The_Depths.md).
     -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 -   **Lords Slice** - The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions. The target takes more damage and blood loss after the pull.
     -   Can slam people into walls.
     -   Only usable if Hidden Tendril is applied to the target.
     -   Deals 44 Oath DMG
--   Obtained after killing 1 player with an [Oath](Oaths.md) in the [Depths](First_Layer.md).
+-   Obtained after killing 1 player with an [Oath](Oaths.md) in [The Depths](The_Depths.md).
     -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 
 -   **Equalizer** - Whip forward with Tendril and gain a blue aura. If it connects, it deals damage to the target, and gives the user a blue aura.

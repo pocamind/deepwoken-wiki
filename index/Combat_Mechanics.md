@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 156375
+revid: 156490
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -359,18 +359,24 @@ _On paper, this looks like a lot to memorize, but do not worry. These things wil
 
 _Some attacks will be accompanied with a colored glyph and a sound cue. These attacks mostly require specific action to avoid and are usually associated with a certain level of threat._
 
-| Color | Image | Parryable? | Blockable? | Dodgeable? | Ventable? |
+| Color | 
+Image
+
+ | Parryable? | Blockable? | Dodgeable? | Ventable? |
 | --- | --- | --- | --- | --- | --- |
 | Red | File:Redtelegraph.png | ✗ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
+
 -   [Rock Golem](Rock_Golem.md): Scream, Laser
 -   [Golem Prime](Golem_Prime.md): Scream, Laser Barrage
+-   [King Thresher](King_Thresher.md): Royal Breath
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
 
  |
 | Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
 | All attacks that have this attribute:
 
--   someone do this
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 -   TBA
 
  |
@@ -387,6 +393,7 @@ _Some attacks will be accompanied with a colored glyph and a sound cue. These at
 | All attacks that have this attribute:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
+-   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 
  |
 | Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
@@ -396,26 +403,35 @@ _Some attacks will be accompanied with a colored glyph and a sound cue. These at
 -   [Rock Golem](Rock_Golem.md): Uppercut
 -   [Stone Knight](Stone_Knight.md): Kick, Terra Eruption
 -   [Megalodaunt](Megalodaunt.md): Kick, Bite
+-   [Thresher](Thresher.md): Burrow
+-   [King Thresher](King_Thresher.md): Burrow
+-   [Deep Owl](Deep_Owl.md): Overhead Grab
+-   [Gigamed](Gigamed.md): Electric Stun Pulse
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 
  |
 | Green | File:Greentelegraph.png | ◯ | ✗ | ✗\*\* | ◯ |
 | All attacks that have this attribute:
 
 -   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
+-   Judgement ([Contractor](Oath%253A_Contractor.md) Mantra) suspended hit
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown
 -   TBA
 
  |
 | Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |
 | All attacks that have this attribute:
 
--   someone do this
+-   [King Thresher](King_Thresher.md): Body Slam
+-   [Bounder](Bounder.md): Leap
+-   [Bonekeeper](Bone_Keeper.md): Bone Spikes(?)
 -   TBA
 
  |
 
 _Note: ✗ = only parryable with [Force Your Way](Ignition_Deepdelver.md), ◯ = with enough posture, usually quite high, ? = needs testing_
 
-  
 \*The Circle indicator changes color depending on the attack. The color is based off the [Attunement](Attunements.md) the attack came from; being White if the attack is [Attunement-less](Attunement-less.md) or is unaligned with any Attunement, Red if [Bloodrend](Bloodrend.md), light Orange if [Flamecharm](Flamecharm.md), light Blue if [Frostdraw](Frostdraw.md), Green if [Galebreathe](Galebreathe.md), light Grey if [Ironsing](Ironsing.md), Purple if [Shadowcast](Shadowcast.md), or Yellow if [Thundercall](Thundercall.md).
 
 \*\*Possibly a bug, but Titus's _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).

@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 154099
+revid: 156416
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Divers, NPCs located in the First Layer]
@@ -29,19 +29,39 @@ He is able to replace the [Deepbound](Boons_and_Flaws.md) flaw for a flaw/flaws 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td><i>*The Adretian man before you speaks without meeting your gaze.*</i> Another one wandered in? What a pain...</td>
+  <td colspan="4"><i>*The Adretian man before you speaks without meeting your gaze.*</i> Another one wandered in? What a pain...</td>
 </tr>
 <tr>
-  <td>You really aren't as hospitable as Roy made you out to be.</td>
+  <td colspan="2">Player is Deepbound Origin</td>
+  <td colspan="2">Player isn't Deepbound Origin</td>
 </tr>
 <tr>
-  <td><i>*He smirks, and meets your gaze earnestly.*</i> A new recruit eh? Forgive my initial rudeness, I'm Mark Adaset, Castle Light's Quartermaster.</td>
+  <td colspan="2">You really aren't as hospitable as Roy made you out to be.</td>
+  <td colspan="2">Am I not meant to be here?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="2"><i>*He smirks, and meets your gaze earnestly.*</i> A new recruit eh? Forgive my initial rudeness, I'm Mark Adaset, Castle Light's Quartermaster.</td>
+  <td colspan="2"><i>*He suddenly stares through you analytically,*</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh, it seems you speak. Forgive my initial rudeness, we get a lot of groaners wandering about looking for some pit to fall into.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+  <td colspan="2">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">My name is Mark Adaset, I'm the Quartermaster of this operating base. If you find anything interesting in this layer, I can check it out for you.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>Isn't this place dangerous?</td>
+  <td>How go your efforts here?</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2">[See Subsequent Encounters]</td>
 </tr>
 </tbody>
 </table>
@@ -61,8 +81,8 @@ He is able to replace the [Deepbound](Boons_and_Flaws.md) flaw for a flaw/flaws 
   <td colspan="6">How go your efforts here?</td>
 </tr>
 <tr>
-  <td colspan="2">Player is power 1-(?)</td>
-  <td colspan="2">Player is power (?)-(?)</td>
+  <td colspan="2">Player is power 1-9</td>
+  <td colspan="2">Player is power 10-(?)</td>
   <td colspan="2">Player is power (?)-20</td>
   <td colspan="6"><i>*He grimaces.*</i> Slowly. It's been a while since we've made any real headway here. As I'm sure you already know, the turnover rate of new recruits is pretty abysmal. Here's hoping you stick around long enough to help the effort, friend.</td>
 </tr>

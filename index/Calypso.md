@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 153832
+revid: 156419
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -67,7 +67,7 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
   <td colspan="12"></td>
 </tr>
 <tr>
-  <td colspan="6">It's kind of complicated, haha. It felt.. more like the real me, I guess. My parents never understood, but the Union accepted me with open arms. Family isn't always the one you're born into, y'know? The Ignition Union has supported and accepted me throughout everything, and i'm forever grateful for that.</td>
+  <td colspan="6">It's kind of complicated, haha. It felt.. more like the real me, I guess. My parents never understood, but the Union accepted me with open arms. Family isn't always the one you're born into, y'know? The Ignition Union has supported and accepted me throughout everything, and I'm forever grateful for that.</td>
   <td colspan="6"></td>
   <td colspan="12"></td>
 </tr>

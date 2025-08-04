@@ -1,11 +1,9 @@
 ---
 title: "Titus' Armor Piece"
-revid: 155208
+revid: 156517
 source: https://deepwoken.fandom.com/wiki/Titus'_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Drops, Ingredients]
 ---
 
 # Titus' Armor Piece

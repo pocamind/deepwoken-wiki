@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 156298
+revid: 156503
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Medium Weapons]

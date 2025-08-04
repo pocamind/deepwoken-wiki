@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 153123
+revid: 156527
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
@@ -64,5 +64,5 @@ The running critical will put the player in the [Dark Rift](Talents.md) state af
 -   Meeting the requirement of LHT and SDW, the damage is (23.19)
 -   At max LHT and SDW, the damage is (27.65)
 -   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
--   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once (when sent via Silhuette).
+-   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once (when sent via Silhuett).
 -   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).

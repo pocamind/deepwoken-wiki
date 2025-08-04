@@ -1,9 +1,9 @@
 ---
 title: Kressa
-revid: 150518
+revid: 156483
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant]
+categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
 ---
 
 # Kressa

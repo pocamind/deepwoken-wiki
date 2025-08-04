@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 155837
+revid: 156491
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Reputation, NPCs, The Ministry]
@@ -20,11 +20,7 @@ categories: [Celtor NPCs, Reputation, NPCs, The Ministry]
 
 ## Description
 
-The Soothsayer is an NPC wearing a [Prophet's cloak](<Prophet's_Cloak.md>), located in the [Starfield Tundra](Starfield_Tundra.md). He lets you exchange [Knowledge](Knowledge.md) for notes and [Ministry](The_Ministry.md) reputation at a rate of 300 [notes](Notes.md) per knowledge. This NPC is very useful for gaining positive reputation with The Ministry, in order to meet the requisites for obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
-
-Note: It takes 45 knowledge from enemy rank to become hero rank.
-
-Note: It would take 334 knowledge to get 0-100,000 notes.
+The Soothsayer is an NPC wearing a [Prophet's Cloak](<Prophet's_Cloak.md>), located in the [Starfield Tundra](Starfield_Tundra.md). He lets you exchange [Knowledge](Knowledge.md) for [Notes](Notes.md) and [Ministry](The_Ministry.md) reputation at a rate of 300 per 1. This NPC is very useful for gaining positive reputation with The Ministry, in order to meet the requisites for obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
 ## Dialogue
 
@@ -68,3 +64,8 @@ Note: It would take 334 knowledge to get 0-100,000 notes.
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   It takes 45 Knowledge from enemy rank to become hero rank.
+-   It would take 334 knowledge to get 0-100,000 notes.

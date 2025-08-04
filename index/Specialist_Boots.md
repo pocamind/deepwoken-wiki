@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 156320
+revid: 156469
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -34,7 +34,7 @@ Variants: [Specialist Helmet](Specialist_Helmet.md)
 
 The Specialist Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Specialist Set. The Specialist Boots are a pair of black plate leggings. When worn, this grants +1 Posture, +1 Uncommon Pips, and the [Flashwind](Talents.md#equipment-talents) Talent.
 
-The _Flashwind_ Talent allows you to re-enhance your dashes with gale/thunder dashes after proccing Air Pressure or Overcharge. This lasts for 5 seconds, allowing you to use Gale/Thunder dashes back to back.
+The _Flashwind_ Talent allows you to re-enhance your dashes for 3 seconds with Flashwind dashes after proccing Air Pressure or Overcharge. Flashwind dashes have the same effectiveness as Gale and Thunder dashes.
 
 ## Set Bonus
 
@@ -42,9 +42,9 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Bonus: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
 
-This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal 15% more damage. Surge Path overrides the green Thundercall recolor.
+This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal 15% more damage; this is not a damage modifier and is instead a base damage increase.
 
-Storm Strikes from the set bonus deal 40 damage with no scaling. To proc them, you must meet a damage threshold with your Galebreathe and Thundercall Mantras. This has no cooldown and procs on every hit in PvE due to PvE scaling. The Storm Strikes themselves do not have PvE scaling.
+Storm Strikes from the set bonus deal 40 damage with no scaling. To proc them, you must meet a 100 accumulative damage threshold with your Galebreathe and Thundercall Mantras. Damage modifiers do not count towards this threshold, but resistances do. This has no cooldown and procs on every hit in PvE due to PvE scaling. The Storm Strikes themselves only have 1.08x PvE scaling however.
 
 ## Obtainment
 

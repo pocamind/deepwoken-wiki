@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 155954
+revid: 156435
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -131,7 +131,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   **Chained variant** creates an AOE explosion centered at chained targets, launching them, and dealing 37 damage and 15 posture.
         -   Strongly launches enemies **away from your relative direction**, allowing for wallbangs off the environment.
             -   Jumping above targets while using the mantra will wallbang them off of the ground.
-        -   By adding a [reversal spark](Mantra_Modifiers.md), it will less dramatically send enemies _diagonally downwards_ in the **opposite direction of your camera**, but remove the ability to wallbang.
+        -   By adding a [Reversal Spark](Mantra_Modifiers.md#sparks), it will less dramatically send enemies _diagonally downwards_ in the **opposite direction of your camera**, but remove the ability to wallbang.
         -   Inflicts _**anti-roll**_ for 1.35 seconds similar to Frozen Legs, allowing for true combos with mantras such as ice eruption. (May require Chainlash to proc, needs testing)
         -   Cannot be sped up by insignia gem.
         -   If multiple targets are chained, Rupture will individually explode each target in order of distance one by one. (Bugged)

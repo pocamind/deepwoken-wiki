@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156397
+revid: 156464
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1846,7 +1846,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Legion Shock Trooper
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
-    -   The Flashwind Talent from the [Specialist Boots](Specialist_Boots.md) equipment allows you to activate multiple Gale dashes for a short duration instead of only one.
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
@@ -3079,7 +3078,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning.
     -   Lightning Dashes increase your dash i-frames and distance travelled, but will end early if you attack.
-    -   The Flashwind Talent from the [Specialist Boots](Specialist_Boots.md) equipment allows you to activate multiple Lightning dashes for a short duration instead of only one.
     -   Prerequisite: Gathering Electricity
 
 -   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
@@ -3686,7 +3684,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
     -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
 -   Flashwind: [Specialist Boots](Specialist_Boots.md) - Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.
-    -   Allows you to proc Gale and Thunder dashes multiple times for a few seconds instead of only once.
+    -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.
+    -   While similar to Lightning/Gale dashes, this is its own thing and ignores their cooldowns.
 -   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
 -   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 10% armor durability.
@@ -3759,6 +3758,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
     -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
+    -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
 -   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your strength mantras deal more posture damage the more you are combat tagged.
     -   Increases the posture damage of your [Strength](Attunement-less.md#strength) Mantras, scaling on the amount of player combat tags you have.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
@@ -3785,7 +3785,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
 -   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your m1s apply a storm strike. \[20 second CD\]
-    -   Storm Strikes from this Talent have slight Gale and Thunder scaling.
+    -   This procs on all basic attacks despite what the description states.
+    -   This has a proc window of 5 seconds after using Inhale.
+    -   Storm Strikes from this Talent deal 0.125 \* (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 points invested in both Attunements.
 -   Volt Reflex: [Authority Voltspark Mask](Authority_Voltspark_Mask.md) - Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges.
     -   Increases the dodge window and cooldown of your dodges based on your [Thundercall](Thundercall.md) investment.
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
@@ -3818,11 +3820,10 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md) while in Arc suit.
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 -   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
-    -   Upon meeting a damage threshold with Galebreathe and Thundercall Mantras, summon a Storm Strike that deals 40 damage. This has no cooldown, meaning it always procs in PvE, but it has no PvE scaling.
-    -   Additionally, this turns your [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), and [Thunder Kick](Thundercall.md#thunder-kick) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will gain a 15% damage buff as well.
-        -   Surge Path completely overrides the recolor, turning your Thundercall Mantras blurple once again. Specter path does not have this issue, your Galebreathe Mantras will still be yellow.
-    -   Has no cooldown in PvE, making this very strong for high multihitting Mantras like [Electro](Thundercall.md#electro-carve)/[Wind Carve](Galebreathe.md#wind-carve) or [Tornado](Galebreathe.md#tornado).
-        -   This also has no PvE scaling, making it much weaker for lower hit count Mantras.
+    -   Upon meeting a 100 damage threshold with Galebreathe and Thundercall Mantras, summon a Storm Strike that deals 40 Thundercall damage.
+    -   This has no cooldown, proccing on every hit in PvE due to the PvE damage multipliers. However, this only has 1.08x PvE scaling.
+    -   The damage threshold does not consider damage multipliers, but it _does_ consider resistances, making it harder to proc the higher Wind/Lightning res your opponent has.
+    -   Additionally, this turns your [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), and [Thunder Kick](Thundercall.md#thunder-kick) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will gain a 15% damage buff to their base damage (not a damage modifier) as well.
     -   Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)
 
 ## Blacklisted Talents

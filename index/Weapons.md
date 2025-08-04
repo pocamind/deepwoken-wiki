@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 155279
+revid: 156440
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -66,7 +66,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound.)
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
--   **Oath/Resonance Weapon:** Weapons exclusive to an [Oath](Oaths.md) or [Resonance](Resonance.md).
+-   **Ability-bound Weapons:** Weapons exclusive to an [Oath](Oaths.md) or [Resonance](Resonance.md).
 -   [**Exclusive Weapons/Skins:**](Status_Effects.md#bleed) Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons
@@ -5037,7 +5037,7 @@ All Heavy Weapons uniquely possess the "return swing" function, which allows the
 
 **Greataxes:**
 
-Greataxes are large axe weapons, bearing an oversized axe head upon a long pole for increased reach. Characterized by their large stature and weight, these weapons are very capable fighting tools, ready to cleave through your enemies at any given moment.
+Greataxes are large axe weapons, bearing an oversized axe head upon a long handle for increased reach.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -5350,7 +5350,7 @@ Greataxes are large axe weapons, bearing an oversized axe head upon a long pole 
 
 **Greatswords:**
 
-Greatswords are bigger than normal swords, possessing a large grip for the wielder to increase leverage. These weapons are incredibly lethal on the battlefield with their high weight and range, often amputating limbs from the sheer force of their strikes.
+Greatswords are bigger than normal swords, possessing a large grip for the wielder to increase leverage.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -5808,7 +5808,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 
 **Greathammers:**
 
-Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle, used for pummeling your foes with weighted blows. These weapons, due to their very heavy hammer heads, are second to none for their high posture damage; crushing guards comes easy when you wield a Greathammer.
+Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle. These weapons, due to their very heavy hammer heads, are second to none for their high posture damage; crushing guards comes easy when you wield a Greathammer.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>

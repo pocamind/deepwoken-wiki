@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 156151
+revid: 156504
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -12,7 +12,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowt
 |---|---|
 | type | Spear |
 | requirements | 75 MED |
-| damage | 18 + |
+| damage | 18 + 5.4 BLD |
 | scaling | MED: 6 |
 | range | 9 |
 | swing speed | 0.93x |

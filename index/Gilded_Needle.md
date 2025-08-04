@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 153563
+revid: 156514
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -19,7 +19,7 @@ categories: [Relics]
 
 ## Description
 
-**Gilded Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to transfer a single pip of their choice on a piece of equipment to a different chosen pip type before being consumed. It appears to be a needle in the shape of a musical treble clef.
+**Gilded Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to transfer a single pip of their choice on a piece of equipment to a different chosen pip type before being consumed. It appears to be a golden needle in the shape of a musical treble clef with a white threat running along the tip.
 
 This Item is a Advanced version of the Armorer's Needle, Instead of the pip you choose being randomized you can select which pip you want on your equipment (e.g., exchanging an Ether pip for a HP pip).
 
@@ -77,9 +77,9 @@ Unlike [Armorer's Needles](<Armorer's_Needle.md>), you can choose what the pip c
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>46</td>
+  <td>4 6</td>
   <td>6</td>
-  <td>46 8</td>
+  <td>2 4 6 8</td>
 </tr>
 <tr>
   <td>Posture</td>

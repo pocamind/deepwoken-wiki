@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 155972
+revid: 156444
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -180,7 +180,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
     -   Both [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) and [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) reference obtainable classes in different _Fire Emblem_ games.
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
--   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest.
+-   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Regek.md) and complete the Soulblooms quest.
 -   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any Oath, having a whopping 11 (Including the [Oath](Oaths.md) itself).
 -   If you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) Silentheart while having a weapon equipped that you would not meet the requirements for afterwards, the weapon will **not** be unequipped, but you'll receive a penalty of dealing 35% less melee damage for not meeting the requirements of your weapon.
 

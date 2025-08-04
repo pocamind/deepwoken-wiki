@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 153525
+revid: 156468
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Hallowtide]
@@ -88,18 +88,6 @@ This is used to scare any interactable NPC (guards do not count) throughout the 
 _NOTE: the Hallowtide aspect variant saves across all slots and aspects (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different aspects)._
 
 _(After the Event is over?) The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless._
-
-| Item | Joy |
-| --- | --- |
-| Void Feather | 15 Joy |
-| Deep Gem | 15 Joy |
-| Familiar Priest Helmet | 30 Joy |
-| Familiar Heretic Helmet | 35 Joy |
-| Familiar Knight Helmet | 50 Joy |
-| Skull Piercer | 70 Joy |
-| Skyreap Blade | 70 Joy |
-| Hallowscleave | 70 Joy |
-| Hallowtide Variant | 70 Joy |
 
 ## Trivia
 

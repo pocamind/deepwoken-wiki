@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 155966
+revid: 156442
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -72,7 +72,7 @@ The ice on the floor will deal damage.
 
 #### Shadowcast
 
--   For the final obelisk, Shadowcast, you need to sail to the [Moon’s Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
+-   For the final obelisk, Shadowcast, you need to sail to the [Moon's Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/v-BLz4_jidU)._
 
@@ -201,7 +201,7 @@ Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accorda
 **Saintsworn: Thundercall Saint Stance**
 
 -   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
--   Can be modified with [Stratus Stones](Mantra_Modifiers.md) and [Cloudstones](Mantra_Modifiers.md) to increase the amount of lightning strikes.
+-   Can be modified with [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Cloudstones](Mantra_Modifiers.md#regular-modifiers) to increase the amount of lightning strikes.
 
 ### Talent Cards:
 

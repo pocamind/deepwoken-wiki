@@ -1,6 +1,6 @@
 ---
 title: Maedhran
-revid: 153280
+revid: 156480
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -55,7 +55,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2">End</td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>They weren't actually lions. That's a metaphor. We skilled taleweavers use them to make you think things and then they're actually not those things... Cleaver I know.</td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>I have my eyes on the leader, by the name of Ironjaw. They called him that because of his jaw... Was made of iron.</td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>That's not a metaphor. His jaw was actually replaced by Iron. Crazy, right?...</td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>I reached into my <i>Bag of Tricks</i> to find something to use... And realized I had left them at my secret base...</td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>Where is my secret base, I hear you ask? Heh. If I told you, I'd have to kill you...</td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>So don't ask. Because you're a good listener. And I'd have to kill you if I told you.</td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>So... Where was I? Ah, of course. The story that made me, Maedhran, a legend. That's Maedhran pronounced MAY-THRAN, by the way.</td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>You probably already knew that, though. So anyway... I have my eye trained on their leader, Ironjaw, who we've already been over.</td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>I don't have my <i>Bag of Tricks</i>, so I have to use what my mama gave me. My fist. That's right, buddy. This is a martial arts story.</td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>I quickly run up the wall, and effortlessly deliver a quadruple backflip spin kick directly into Ironjaw's teeth.</td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>I hit the guy so hard in his face that old of the screws in his jaw came loose. It was awful. For him, that is. For me it was awesome.</td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>The rest of his warriors, seeing how many I destroyed him with a quadruple backflip spin kick to the jaw, all ran. Probably a good idea, because they didn't have an iron jaw to protect their faces.</td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>So there ends just one of the tales of Maedhran the Strong... How'd you like it?</td>
 </tr>
 <tr>

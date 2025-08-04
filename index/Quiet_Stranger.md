@@ -1,29 +1,26 @@
 ---
 title: Quiet Stranger
-revid: 152332
+revid: 156523
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Murmurs, The Ministry, NPCs located in the Etrean Luminant]
+categories: [NPCs, Murmurs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
 ---
 
 # Quiet Stranger
-
-| Stranger | |
-|---|---|
-| name | Stranger |
-| location | Random Encounter (Erisia) |
 
 “ It seems I have been spotted by a local.. ”
 
 ― Stranger
 
+Template:EnemyInfobox1.0
+
 ## Description
 
-The Stranger is an NPC that rarely spawns as one of the many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). He's a scout from [The Ministry](The_Ministry.md) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to him without the 50 [Charisma](Attributes.md) requirements, he will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md).
+The Quiet Stranger is an NPC that rarely spawns as one of the many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). He's a scout from [The Ministry](The_Ministry.md) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to him without the 50 [Charisma](Attributes.md#cha) requirements, he will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md).
 
 ## Tacet Obtainment
 
-Via having 50 [Charisma](Attributes.md), you will obtain [Murmur:Tacet](Murmur.md) without having to fulfill any kill requirements.
+Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Murmur%253A_Tacet.md) without having to fulfill any kill requirements.
 
 ## Dialogue
 
@@ -32,23 +29,40 @@ Via having 50 [Charisma](Attributes.md), you will obtain [Murmur:Tacet](Murmur.m
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="3">...It seems I have been spotted by a local.</td>
+  <td colspan="12">...It seems I have been spotted by a local.</td>
 </tr>
 <tr>
-  <td>What are you doing here?</td>
-  <td>How did you just appear? [Charisma]</td>
-  <td>End</td>
+  <td colspan="6">What are you doing here?</td>
+  <td colspan="6">How did you just appear? [Charisma]</td>
 </tr>
 <tr>
-  <td>You really are interfering in something you have no business in... Did the Authority send you? The forge was missing from the temple... It must've been you!</td>
-  <td>Well, that would be Tacet.</td>
+  <td colspan="6">You really are interfering in something you have no business in... Did the Authority send you? The forge was missing from the temple... It must've been you!</td>
+  <td colspan="3">[Charisma Check Passed]</td>
+  <td colspan="3">[Charisma Check Failed]</td>
 </tr>
 <tr>
-  <td>End, he attacks you</td>
-  <td>End</td>
+  <td colspan="6">End, he attacks you</td>
+  <td colspan="3">Well, that would be <a href="Murmur%253A_Tacet.md">Tacet</a>.</td>
+  <td colspan="3">Inquisitive aren't we? Snooping around for the <a href="Glossary.md#the-central-authority">Authority</a>?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="3">End, Player obtains <a href="Murmur%253A_Tacet.md"><font>Tacet</font></a></td>
+  <td colspan="3">End, he attacks you</td>
 </tr>
 </tbody>
 </table>
+
+## Moveset
+
+The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), [Tacet](Murmur%253A_Tacet.md), and the [Contractor](Oath%253A_Contractor.md) Oath:
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
+| Tacet Dropkick | The Quiet Stranger briefly goes invisible before teleporting above the player and knocking them down with a kick. | ◯ | ◯ | (★★☆) |
+| Judgement | Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. The move will instantly execute if it brings HP to 0. | ◯ | ◯ | (★★☆) |

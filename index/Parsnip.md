@@ -1,9 +1,9 @@
 ---
 title: Parsnip
-revid: 150594
+revid: 156485
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant]
+categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
 ---
 
 # Parsnip
@@ -66,4 +66,4 @@ He is wearing the [Duelist's Attire](<Duelist's_Attire.md>) outfit.
 
 ## Trivia
 
--   When referring to something "familiar," Parsnip most likely is referencing the [Mechalodaunt](Mechalodaunt.md) to the [Megalodaunt](Megalodaunt.md). This is further proven given when Summer Company Goons [Mechalodaunts](Mechalodaunt.md) in [Saramaed Summit](Saramaed_Summit.md).
+-   When referring to something "familiar," Parsnip most likely is referencing the [Mechalodaunt](Mechalodaunt.md) to the [Megalodaunt](Megalodaunt.md). This is further proven by finding Summer Company Goons fighting [Mechalodaunts](Mechalodaunt.md) in [Saramaed Summit](Saramaed_Summit.md).

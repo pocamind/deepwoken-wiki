@@ -1,9 +1,9 @@
 ---
 title: Orion
-revid: 152582
+revid: 156467
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Quests, The Ignition Union, NPCs located in the Eastern Luminant, NPCs]
+categories: [NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests]
 ---
 
 # Orion
@@ -16,80 +16,82 @@ He will not tell you that you got the Origin if you are hive-kin or Khan, you wi
 
 ## Dialogue
 
-<table><caption>Dialogue</caption>
+**First Encounter:**
+
+**Quest Start:**
+
+<table>
 <tbody>
 <tr>
-  <th colspan="2">Begin (never completed quest)</th>
-  <th>Begin (Quest Ongoing)</th>
-  <th>Begin (Quest Completed)</th>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">A new face around here; we don't get many of those often. What brings you here?</td>
-  <td>Welcome back, friend. How goes the conflict?</td>
-  <td>Welcome back, friend. How goes the conflict?</td>
+  <td>Ah, I don't believe we've spoken before, friend. I'm afraid I must ask of you a favour...</td>
 </tr>
 <tr>
-  <td colspan="2">I'm just stopping by.</td>
-  <td>The battle rages on; I have yet to clear them out.</td>
-  <td></td>
+  <td>What's wrong?</td>
 </tr>
 <tr>
-  <td colspan="2">Adventuring, perhaps? Should you remain in good standing with us, this place is a home as to you as it is to the Ignition Union. Should you desire to rest here, please do so.</td>
-  <td>I understand, friend, Should you clear out our opposition in the upper levels of the Landing, I shall reward you. Return to me once you've finished.</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">I appreciate the gesture.</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">Ah, but if it isn't too much to ask.. since you'll be staying here, could you assist us with a dire matter? Not only will it help us, it will make your stay here.. more peaceful.</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">What's wrong?</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">Within the upper levels of the Landing, some.. unruly individuals have taken it upon themselves to disrupt our operations. They've overtaken my work facilities, and some even tampered with our.. experiments. My request is simple, traveller: would you be willing to help.. clean them up?</td>
-  <td></td>
-  <td></td>
+  <td>You might have heard rumours, but some members of the Summer Company have taken it upon themselves to disrupt our operations. They've overtaken our work facilities, and some even tampered with our.. experiments. My request is simple, friend: would you be willing to help.. clean them up?</td>
 </tr>
 <tr>
   <td>I'm happy to assist.</td>
-  <td>Unruly individuals?</td>
-  <td></td>
-  <td></td>
 </tr>
 <tr>
-  <td></td>
-  <td>You see, we're not exactly in.. friendly standing with Summer Company. Quite poor, to be honest. They've engaged in combat with many of our members, and they continuously return here to interrupt and sabotage our operations.</td>
-  <td></td>
-  <td></td>
+  <td>Thank you, friend. Seek the upper levels of the Landing, and you'll come across the danger to be cleared, specifically within our Reactor Room. Return to me once you're done, and I'll reward you.</td>
 </tr>
 <tr>
-  <td></td>
-  <td>I'm happy to assist.</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td>Thank you friend. Seek the upper levels of the Landing, and you'll come across the danger to be cleared, specifically within our Reactor Room. Return to me once you're done, and I'll reward you.</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">End, quest started.</td>
-  <td>End, quest ongoing.</td>
-  <td></td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
-## Trivia
+**Quest Completed:**
 
--   Orion is named after a legendary demigod and hunter in Greek Mythology, tying in with characters affiliated with the Union having names of Greek origin.
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Welcome back, friend. How goes the conflict?</td>
+</tr>
+<tr>
+  <td>Player has cleared out the Summer Goons</td>
+  <td>Player hasn't cleared out the Summer Goons</td>
+</tr>
+<tr>
+  <td>The threat has been eliminated.</td>
+  <td>The battle rages on; I have yet to clear them out.</td>
+</tr>
+<tr>
+  <td>Miner's Landing shall once again be peaceful.. for a moment. Thank you for your efforts, friend. Return here if you'd like to assist us once more; they're more persistent than you think.</td>
+  <td>I understand, friend. Should you clear out our opposition in the upper levels of the Landing, I shall reward you. Return to me once you're finished.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Welcome back, friend. Would you be interested in assisting us in our conflict once more?</td>
+</tr>
+<tr>
+  <td>I'm happy to assist.</td>
+</tr>
+<tr>
+  <td>Thank you, friend. Seek the upper levels of the Landing, and you'll come across the danger to be cleared, specifically within our Reactor Room. Return to me once you're done, and I'll reward you.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>

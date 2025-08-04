@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 155953
+revid: 156445
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -58,7 +58,7 @@ Or:
 -   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
 
-Soulbreaker can be reobtained if you [Oath break](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+Soulbreaker can be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
 
 ## Progression
 
@@ -125,7 +125,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
     -   You automatically use Ardour Scream for free upon finishing an execution.
     -   Massively increase the range of Ardour Scream. Great for combat tagging multiple people at once.
     -   Purple lightning particles are left on knocked players after the secondary effect of this Talent procs.
-    -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Reaper](Blood_Scourge.md).
+    -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Blood Scourge](Blood_Scourge.md).
 
 -   **Formless** - Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
     -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to your cursor's location. Cannot teleport yourself outside of the range of your Tacet bubble.
@@ -193,5 +193,5 @@ File:Incompetent tester.png
     -   If the knowledge progression skip were to be added it would be potentially more expensive than progressing the oath normally.
 -   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.
 -   Rhythm Advance might be a reference to Killua's "Rhythm Echo" from HXH
--   If you have at least 40 Charisma, getting the talent '[Celebrity](Talents.md)' makes farming reputation for [Etrea](Etrea.md) a bit easier.
+-   If you have at least 40 Charisma, getting the talent '[Celebrity](Talents.md#public-figure)' makes farming reputation for [Etrea](Etrea.md) a bit easier.
 -   There is a bug where Ardour Slicer hits through the player who parries causing unfair punishes even though they properly parried it.

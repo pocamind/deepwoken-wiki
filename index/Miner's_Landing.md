@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 154187
+revid: 156420
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, The Ignition Union]
@@ -106,6 +106,7 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 | [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
 | --- | --- | --- | --- |
 | 
+-   [Ignition Welder](Ignition_Welder.md)
 -   [Summer Dragoon](Summer_Dragoon.md)
 
  | 

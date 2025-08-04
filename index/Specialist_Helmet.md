@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 156319
+revid: 156455
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,9 @@ Specialist Set
 
 The Specialist Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet. When worn, this grants +8 Health, +1 Uncommon Pip, and the [Volt Draft](Talents.md#equipment-talents) Talent.
 
-_Volt Draft_ allows your Inhale-enhanced M1s to strike your opponent with a Storm Strike. 20 Second cooldown. Storm Strikes from this Talent has very slight Galebreathe and Thundercall scaling, but they deal much less damage than the set bonus' Storm Strikes.
+_Volt Draft_ allows your Inhale-enhanced basic attacks to strike your opponent with a Storm Strike. This has a 5 second duration after using Inhale with a 20 Second cooldown.
+
+These Storm Strikes deal 0.125 \* (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 in each Attunement. This Talent procs through parry, block, and dodge.
 
 ## Set Bonus
 
@@ -40,9 +42,9 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Bonus: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall Mantras.
 
-This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal 15% more damage. Surge Path overrides most of the green Thundercall recolor.
+This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal 15% more damage; this is not a damage modifier and is instead a base damage increase.
 
-Storm Strikes from the set bonus deal 40 damage with no scaling. To proc them, you must meet a damage threshold with your Galebreathe and Thundercall Mantras. This has no cooldown and procs on every hit in PvE due to PvE scaling. The Storm Strikes themselves do not have PvE scaling.
+Storm Strikes from the set bonus deal 40 damage with no scaling. To proc them, you must meet a 100 accumulative damage threshold with your Galebreathe and Thundercall Mantras. Damage modifiers do not count towards this threshold, but resistances do. This has no cooldown and procs on every hit in PvE due to PvE scaling. The Storm Strikes themselves only have 1.08x PvE scaling however.
 
 ## Obtainment
 

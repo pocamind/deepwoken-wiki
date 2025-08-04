@@ -1,12 +1,16 @@
 ---
 title: Bestiary
-revid: 154441
+revid: 156516
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
 ---
 
 # Bestiary
+
+Bestiary window
+
+Megalodaunt's Bestiary entry with all challenges completed
 
 ## Description
 
@@ -71,15 +75,20 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   </ul></td>
 </tr>
 <tr>
-  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div><p><b>Beakbuster</b>:</p>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div>
+  <ul>
+    <li><b>Beakbuster</b>:
   <ul>
     <li>'<i>Brainsuckers', better known in the academic world as 'Cephalorins', are beaked flying creatures which earned their moniker thanks to their tendency to latch onto the heads of fallen prey in order to feed on their brains.</i></li>
-  </ul><p><b>Cephalorin Champion</b>:</p>
+  </ul></li>
+    <li><b>Cephalorin Champion</b>:
   <ul>
     <li><i>Curiously, a Cephalorin will never feed on the brains of living prey. Latching onto their prey's head leaves the naturally-fragile Cephalorin vulnerable - and the change to be injured by dead prey is close to zero.</i></li>
-  </ul><p><b>Chiropterous Conqueror</b>:</p>
+  </ul></li>
+    <li><b>Chiropterous Conqueror</b>:
   <ul>
     <li><i>Cephalorins were some of the first monsters to be noted in historic records, though they were initially described as small bat-like creatures that predated on rodents and poultry. It seems that they've since grown up somewhat, and moved on to larger prey.</i></li>
+  </ul></li>
   </ul></div></td>
 </tr>
 <tr>
@@ -182,15 +191,20 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
   </ul></td>
 </tr>
 <tr>
-  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div><p><b>Dawn of the Drowned</b>:</p>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div>
+  <ul>
+    <li><b>Dawn of the Drowned</b>:
   <ul>
     <li><i>Mudskippers are not created by one specific organism, but by a wide variety of parasitic corals that originate from the Depths.</i></li>
-  </ul><p><b>25 Drowns Later</b>:</p>
+  </ul></li>
+    <li><b>25 Drowns Later</b>:
   <ul>
     <li><i>Mudskipper corals will typically remain parasitic for up to a year before their host decomposes fully and they regress into larvae once more, ready to find new hosts.</i></li>
-  </ul><p><b>Night of the Living Drowned</b>:</p>
+  </ul></li>
+    <li><b>Night of the Living Drowned</b>:
   <ul>
     <li><i>Some reports speak of Mudskippers capable of speech, eerily croaking out phrases they knew in life with no apparent thought behind them.</i></li>
+  </ul></li>
   </ul></div></td>
 </tr>
 <tr>
