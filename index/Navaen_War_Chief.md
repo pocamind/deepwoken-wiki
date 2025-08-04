@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 152686
+revid: 156542
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Children of Navae]
@@ -40,7 +40,7 @@ This Outfit has 3000 durability and grants +30% Physical Armor, 50% [Stealth](St
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 37% Frostdraw, 33.5% Shadowcast, and 30% Elemental.
 
-This Outfit also grants the [Chief's Will](Talents.md#equipment-talents) Talent, which grants a 25% penetration buff on the [Way of Navae](Way_of_Navae.md) light attacks. This bypasses the PEN cap, but does not apply to weapon criticals.
+This Outfit also grants the [Chief's Will](Talents.md#equipment-talents) Talent, which grants a 10% penetration buff on the [Way of Navae](Way_of_Navae.md) light attacks. This bypasses the PEN cap, but does not apply to weapon criticals.
 
 -   Due to them having the 'M1 tag,' [Wraithclaw's](Wraithclaw.md) criticals benefit from Chief's Will.
 

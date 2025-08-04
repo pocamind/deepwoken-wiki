@@ -1,6 +1,6 @@
 ---
 title: "Titus' Armor Piece"
-revid: 156517
+revid: 156559
 source: https://deepwoken.fandom.com/wiki/Titus'_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -16,7 +16,8 @@ categories: [Items, Drops, Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A much-prized trophy you prised off the beast. |
+| desc | Ripped from the larger-than-life commander of the 49th legion. |
+| obtainment | Titus |
 
 ## Description
 

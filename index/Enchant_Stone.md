@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 154984
+revid: 156561
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -41,12 +41,12 @@ Most of the game's Enchant Stones have non-exclusive obtainment locations, meani
 
 ### Exclusive Enchants
 
-These Enchant Stones can only be obtained through certain methods. These are: Astral, Bluster, Curse of Rhaemen's Ember, Curse of The Authoritative, Curse of Void, Nightbringer, Parasol's Blight, and Windswept.
+These Enchant Stones can only be obtained through certain methods. These are: Astral, Bluster, Curse of Ysley's Ember, Curse of The Authoritative, Curse of Void, Nightbringer, Parasol's Blight, and Windswept.
 
 -   _**[Astral](Astral.md)**_ can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 20 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Bluster](Bluster.md)**_, _**[Curse of the Authoritative](Curse_of_the_Authoritative.md)**_, and _**[Windswept](Windswept.md)**_ can only be obtained from [Merit Detainment Core](Merit_Detainment_Core.md).
--   _**[Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Rhaemen's Ember can also be sold for 10 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Curse of Void](Curse_of_Void.md)**_ can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and 10.
+-   _**[Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Rhaemen's Ember can also be sold for 10 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Nightbringer](Nightbringer.md)**_ drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md).
 -   _**[Parasol's Blight](<Parasol's_Blight.md>)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
 

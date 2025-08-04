@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 156321
+revid: 156588
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -30,7 +30,7 @@ Reinforced War Set
 
 ## Description
 
-The Reinforced War Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow Galea helmet, similar to Roman headgear. When worn, this grants +4 Health, +1 Posture, +1 Uncommon Pip, and the [Fatal Strike](Talents.md#equipment-talents) Talent.
+The Reinforced War Helmet is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow Galea helmet, similar to Roman headgear. When worn, this grants +4 Health, +1 Posture, +1 Uncommon Pip, and the [Fatal Strike](Talents.md#equipment-talents) Talent.
 
 _Fatal Strike_ empowers your [Strength Mantra](Attunement-less.md) guardbreaks, dealing extra damage and applying a slow. This can only proc if the Mantra has a [Wrath Gem](Wrath_Gem.md) equipped. 10 second cooldown.
 

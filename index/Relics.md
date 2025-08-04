@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 156053
+revid: 156562
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -469,7 +469,7 @@ Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weap
     <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
     <li><a href="War_Mode.md">War Mode</a></li>
     <li><a href="Hell_Mode.md">Hell Mode</a></li>
-  </ul><p>Exclusive Enchant Stones (<a href="Astral.md">Astral</a>/<a href="Curse_of_Ysley's_Ember.md">Curse of Rhaemen's Ember</a>/<a href="Curse_of_Void.md">Curse of Void</a>/<a href="Nightbringer.md">Nightbringer</a>/<a href="Parasol's_Blight.md">Parasol's Blight</a>):</p>
+  </ul><p>Exclusive Enchant Stones (<a href="Astral.md">Astral</a>/<a href="Bluster.md">Bluster</a>/<a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a>/<a href="Curse_of_Void.md">Curse of Void</a>/<a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>/<a href="Nightbringer.md">Nightbringer</a>/<a href="Parasol's_Blight.md">Parasol's Blight</a>/<a href="Windswept.md">Windswept</a>):</p>
   <ul>
     <li>The obtainment for these items are listed on the <a href="Enchant_Stone.md#exclusive-enchants">Enchant Stone</a> page.</li>
   </ul></td>

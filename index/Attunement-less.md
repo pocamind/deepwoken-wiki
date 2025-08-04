@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 155996
+revid: 156543
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1149,6 +1149,7 @@ N/A
 -   Upgrading this Mantra extends the duration.
     -   At level 5 it lasts 12 seconds.
 -   Deals 3 damage per tick with no posture damage.
+-   **Cannot proc [Deep Gems](Deep_Gems.md)**
 -   Can be countered by holding block, wearing a [Blindfold](Blindfold.md), or having a higher Willpower attribute than the caster.
 
  |
@@ -1653,52 +1654,6 @@ Slash
  |
 | 
 
-**Slice 'n' Dice** (☆☆☆)
-
-**Combat Mantra**
-
-_Step forward and slice through your enemies. Ability can be activated again on a successful hit._
-
- | 
-
-## Slice 'n' Dice (☆☆☆)
-
-  
-**Combat Mantra**  
-_Step forward and slice through your enemies. Ability can be activated again on a successful hit._
-
- |
-| 
-
-60 Ether
-
- | 
-
-Slash
-
- | 
-
-30 Medium Weapon
-
- |
-| 
-
-**Effect:** _User dashes towards the camera and unleashes a wide slash. Can be performed again if the first slash lands._
-
--   Deals 19/26.5/34/41.5/49 base damage per hit with 1.25 Medium Weapon scaling.
--   Deals 16 posture damage and is 360 blockable.
--   Has a 25 second cooldown.
--   Has a 0.55s wind-up.
--   Landing the first slash refreshes the Mantra, allowing it to be used again at any time.
-    -   If used again within 15 seconds, the Mantra will go on cooldown.
--   Even if blocked, the cooldown of this Mantra will still reset. This is incredibly useful for block pressure.
--   Due to it being aimed with the camera, it can be a very useful tool for aerial mobility.
--   Does not register hits until the end of the move's animation, meaning you can phase through opponents without damaging them if used at close range.
-    -   Because of this, it is recommended to use this Mantra after uppercuts or while looking at the floor to land it in CQC.
-
- |
-| 
-
 **Prominence Draw** (☆☆☆)
 
 **Combat Mantra**
@@ -1778,6 +1733,52 @@ Slash
 -   Initial hit has a wind-up of 0.5s, with the follow-up attack having a 0.4s wind-up.
 -   Twincleave has an endlag of 0.4s.
 -   Can change the direction you launch backwards by turning your camera.
+
+ |
+| 
+
+**Slice 'n' Dice** (☆☆☆)
+
+**Combat Mantra**
+
+_Step forward and slice through your enemies. Ability can be activated again on a successful hit._
+
+ | 
+
+## Slice 'n' Dice (☆☆☆)
+
+  
+**Combat Mantra**  
+_Step forward and slice through your enemies. Ability can be activated again on a successful hit._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Slash
+
+ | 
+
+60 Medium Weapon
+
+ |
+| 
+
+**Effect:** _User dashes towards the camera and unleashes a wide slash. Can be performed again if the first slash lands._
+
+-   Deals 19/26.5/34/41.5/49 base damage per hit with 1.25 Medium Weapon scaling.
+-   Deals 16 posture damage and is 360 blockable.
+-   Has a 25 second cooldown.
+-   Has a 0.55s wind-up.
+-   Landing the first slash refreshes the Mantra, allowing it to be used again at any time.
+    -   If used again within 15 seconds, the Mantra will go on cooldown.
+-   Even if blocked, the cooldown of this Mantra will still reset. This is incredibly useful for block pressure.
+-   Due to it being aimed with the camera, it can be a very useful tool for aerial mobility.
+-   Does not register hits until the end of the move's animation, meaning you can phase through opponents without damaging them if used at close range.
+    -   Because of this, it is recommended to use this Mantra after uppercuts or while looking at the floor to land it in CQC.
 
  |
 | 

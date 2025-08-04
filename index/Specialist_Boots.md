@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 156469
+revid: 156587
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Specialist Helmet](Specialist_Helmet.md)
 
 ## Description
 
-The Specialist Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Specialist Set. The Specialist Boots are a pair of black plate leggings. When worn, this grants +1 Posture, +1 Uncommon Pips, and the [Flashwind](Talents.md#equipment-talents) Talent.
+The Specialist Boots are an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Specialist Set. The Specialist Boots are a pair of black plate leggings. When worn, this grants +1 Posture, +1 Uncommon Pips, and the [Flashwind](Talents.md#equipment-talents) Talent.
 
 The _Flashwind_ Talent allows you to re-enhance your dashes for 3 seconds with Flashwind dashes after proccing Air Pressure or Overcharge. Flashwind dashes have the same effectiveness as Gale and Thunder dashes.
 

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 156383
+revid: 156594
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
 
 ## Description
 
-The Ascended Outlaw Robes is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Robes are green and yellow wristbands that originated from the Western Luminant. When worn, this grants +3 Posture, +2 Rare Pips, and the [Ether Pinpoint](Talents.md#equipment-talents) Talent.
+The Ascended Outlaw Robes is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Robes are green and yellow wristbands that originated from the Western Luminant. When worn, this grants +3 Posture, +2 Rare Pips, and the [Ether Pinpoint](Talents.md#equipment-talents) Talent.
 
 The _Ether Pinpoint_ Talent allows your Mantras with the [Might Gem](Might_Gem.md) equipped to fully ignore shield posture bonuses. This is very similar to the [Shield Breaker](Talents.md#rampaging-bull) Talent, granted this is not exclusive to Blunt Mantras.
 

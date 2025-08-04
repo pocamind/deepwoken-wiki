@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 155997
+revid: 156548
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,7 +37,6 @@ In order of carry load given:
 -   _Turning of the Wheel_ gives 6 carry load.
 -   _Ether Absorption_ gives 7 carry load.
 -   _Everchanging Aegis_ gives 7 carry load.
--   _Ether Conduit_ gives 7 carry load.
 -   _Eureka_ gives 7 carry load.
 -   _Rain of Static_ gives 7 carry load.
 -   _Steady Nerves_ gives 7 carry load.
@@ -54,7 +53,7 @@ In order of carry load given:
 -   _Berserker_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 194 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 183 carry load.
 
 ### Other Sources
 
@@ -83,22 +82,26 @@ In order of carry load given:
 -   [Strength](Attributes.md#str) increases your carry load by 1 for every point of strength you get.
     -   [Canor](Canor.md) and [Khan](Khan.md) can get up to 103 strength due to their 3 starting strength, resulting in 103 extra carry load.
     -   [Gremor](Gremor.md) can get up to 102 strength due to its 2 starting strength, resulting in 102 extra carry load.
-    -   Anyone with the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) or any other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
+    -   Anyone with the Multifaceted [echo unlock](Echoes.md#upgrades-unlocks-and-modifiers) or any other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
         -   Multifaceted permanently removes the ability to have more than 100 in an attribute for your account when you purchase it.
 
-All of these miscellaneous sources combined would theoretically provide 375 carry load.
+All of these miscellaneous sources combined would theoretically provide 380 carry load.
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **570**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **684**.
+Combining both Talents and other sources, the total amounts to **563**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **676**.
 
-Due to attribute limitations, the current best carry load build can only get 540/648 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
+Due to attribute limitations, the current best carry load build can only get 533/640 carry load, found [here](https://deepwoken.co/builder?id=6Os9gI2s).
 
 -   You are only able to perfectly create this build if your account does _not_ have the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers), due to its previously mentioned quirk.
-    -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 539/647.
+    -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 532/639.
 -   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to help calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 
 ## Trivia
 
 -   Interestingly, if you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
--   Four Talents that granted carry load were removed from the game. These Talents are: _Volt Kick_, _Pitcher_, _Duelist's Dance_, and _Lootskipper_. Volt Kick granted 7 carry load, but was removed from the game on August 30th, 2024. Pitcher and Duelist's Dance used to give 3 and 4 carry load respectively, but were removed on April 15th, 2025. Lootskipper granted 4 carry load, but was removed on July 15th, 2025.
+-   Five Talents that granted carry load have been removed from the game.
+    -   _Volt Kick_ granted 7 carry load, but was removed on August 30th, 2024.
+    -   _Pitcher_ and _Duelist's Dance_ granted 3 and 4 carry load respectively, but were removed on April 15th, 2025.
+    -   _Lootskipper_ granted 4 carry load, but was removed on July 15th, 2025.
+    -   _Ether Conduit_ granted 7 carry load, but was removed on August 4th, 2025.

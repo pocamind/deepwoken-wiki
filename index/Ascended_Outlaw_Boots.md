@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 156315
+revid: 156593
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
 
 ## Description
 
-The Western Outlaw Robes is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant. When worn, this grants +3% Thundercall and Galebreathe resistance, +1 Uncommon Pip, +1 Rare Pip, and the [Stronger Under Pressure](Talents.md#equipment-talents) Talent.
+The Ascended Outlaw Boots is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant. When worn, this grants +3% Thundercall and Galebreathe resistance, +1 Uncommon Pip, +1 Rare Pip, and the [Stronger Under Pressure](Talents.md#equipment-talents) Talent.
 
 The _Stronger Under Pressure_ Talent allows your [Strength](Attunement-less.md#strength) Mantras with [Might Gems](Might_Gem.md) equipped to deal increased posture damage, scaling on the amount of players who have combat tagged you.
 

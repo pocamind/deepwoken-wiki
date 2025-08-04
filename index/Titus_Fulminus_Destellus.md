@@ -1,11 +1,9 @@
 ---
 title: Titus Fulminus Destellus
-revid: 156396
+revid: 156560
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
 ---
 
 # Titus Fulminus Destellus

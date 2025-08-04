@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 156382
+revid: 156603
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -83,6 +83,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure>File:Bluster.gif<figcaption></figcaption></figure><center><br>
   <font>Bluster<div></div></font></center></td>
   <td><div><p>After landing (LHT: 5, MED: 4, HVY: 3) hits, a 10 second countdown will start, ticking down to an explosion. Land additional weapon attacks during the countdown to lower the delay.</p>
+  <p>This explosion is parriable and blockable, Dealing 10 posture on block.</p>
   <p>This explosion deals your <b>scaled M1 damage</b> with a <b>5%</b> damage buff, dealt as typeless damage, meaning it bypasses armor resistances.</p></div></td>
   <td><div>Weapon is a light-grey color with smoke effects emanating from it.</div></td>
 </tr>
@@ -137,7 +138,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Harrowing<div></div></font></center></td>
   <td><div><p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
-  This effect lasts for 8 seconds.<br>
+  This effect lasts for 12 seconds.<br>
   Can only be obtained from the Hallowtide event.</p></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
 </tr>
@@ -190,8 +191,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
-  <td><div><p>Landing close range hits give a speed boost for 2 seconds.<br>
-  Gain chip damage, with the chip amount depending on weapon type. (LHT: 2.5%, MED: 5%, HVY: 7.5%)</p></div></td>
+  <td><div><p>Gain chip damage, with the chip amount depending on weapon type. (LHT:&nbsp;?%, MED:&nbsp;?%, HVY:&nbsp;?%)</p></div></td>
   <td><div>The weapon turns gains a white outline and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
@@ -368,19 +368,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div>Weapon is colored blue and has VENT like electricity particles on</div></td>
 </tr>
 <tr>
-  <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
-  <font>Curse of Rhaemen's Ember<div></div></font></center></td>
-  <td><div><p>Similar to <font>Detonation</font> and <font>Blazing</font>,<br>
-  After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode,<br>
-  Apply <font>Flames of Life</font> and Temporary Health to them and others around beside the user.<br>
-  The damage of explosion and amount of Temporary Health given are randomized. <b>Damage:</b> 5.5-33, averaging 18.7 out of 100 procs. <b>Temporary Health:</b> 0-50, averaging 25.77 out of 100 procs.<br>
-  <b>Explosions cannot execute</b>, cannot be buffed, and <b>bypass armor resistances</b>.<br>
-  <br>
-  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, <a href="Cloaked_Assassin.md">Cloaked Assassin</a> chests, <a href="Calamus.md">Calamus</a> job chests and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a> and <a href="Fishing.md">Fishing</a> chests. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
-  Explosion has 7.56X PVE scale and Green Fire PVE scale is 6.66x. Temporary Health doesn't scale with PVE.</p></div></td>
-  <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
-</tr>
-<tr>
   <td><figure>File:COA.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Authoritative<div></div></font></center></td>
   <td><div><p>You take 50% more damage when being guard broken.<br>
@@ -402,13 +389,26 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Void<div></div></font></center></td>
-  <td><div><p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 15 seconds.</p>
-  <p>For the duration of the status effect, the target is under an Anti-Heal effect. Additionally, if they die while affected by Void, they will instantly drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
+  <td><div><p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 30 seconds.</p>
+  <p>For the duration of the status effect, the target is under a 30% Anti-Heal effect. Additionally, if they die while affected by Void, they will instantly drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
   <p>Permanently stained health bar while the enchant is equipped.</p>
   <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p>
   <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
   <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 25 <a href="Void_Spire.md">Void Spires</a> and 10 .</p></div></td>
   <td><div>Weapon has a stone texture and is covered in a white mist.</div></td>
+</tr>
+<tr>
+  <td><figure>File:Rhaemens ember.gif<figcaption></figcaption></figure><center><br>
+  <font>Curse of Ysley's Ember<div></div></font></center></td>
+  <td><div><p>Similar to <font>Detonation</font> and <font>Blazing</font>,<br>
+  After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode,<br>
+  Apply <font>Flames of Life</font> and Temporary Health to them and others around beside the user.<br>
+  The damage of explosion and amount of Temporary Health given are randomized. <b>Damage:</b> 5.5-33, averaging 18.7 out of 100 procs. <b>Temporary Health:</b> 0-50, averaging 25.77 out of 100 procs.<br>
+  <b>Explosions cannot execute</b>, cannot be buffed, and <b>bypass armor resistances</b>.<br>
+  <br>
+  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, <a href="Cloaked_Assassin.md">Cloaked Assassin</a> chests, <a href="Calamus.md">Calamus</a> job chests and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a> and <a href="Fishing.md">Fishing</a> chests. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
+  Explosion has 7.56X PVE scale and Green Fire PVE scale is 6.66x. Temporary Health doesn't scale with PVE.</p></div></td>
+  <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -859,10 +859,11 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **November 10, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
 -   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
 -   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
--   **February 1, 2025** - The weapon enchant Curse of Rhaemen's ember is added.
+-   **February 1, 2025** - The weapon enchant Curse of Rhaemen's Ember is added.
 -   **July 7, 2025** - The weapon enchants Curse of Void, Parasol's Blight and Nightbringer were added, the equipment enchantment Rain was also added.
 -   **July 15, 2025** - The weapon enchant Void was renamed to Curse of Void.
 -   **July 25, 2025** - The weapon enchants Windswept, Curse of the Authoritative and Bluster were added
+-   **August 4, 2025** - Curse of Rhaemen's Ember was renamed to Curse of Ysley's Ember
 
 ## Tips/Trivia
 

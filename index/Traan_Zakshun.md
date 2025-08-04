@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 155781
+revid: 156563
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -326,7 +326,7 @@ Sold Items
     <li><b>For 5 </b>: <a href="Forge_Needle.md">Forge Needle</a>.</li>
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 8 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
-    <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Rhaemen's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a> .</li>
+    <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a> .</li>
     <li><b>For 20 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a>.</li>
   </ul></td>

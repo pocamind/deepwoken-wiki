@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156434
+revid: 156558
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -17,7 +17,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 |---|---|
 | type | Fists Oath Weapon |
 | requirements | Oath: Blightsurger |
-| damage | 32 |
+| damage | 30 |
 | range | 6 |
 | swing speed | 0.98x |
 | penetration | 5% |
@@ -65,10 +65,10 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 
 ### Weapon
 
--   **Sovereign Bangle** - Cestus used by members of the Hundred Legions.
+-   **Sovereign Bangle** - Cestus used by members of the Hundred Legions. Sovereign State does not automatically activate at 100% Blight Meter anymore
     -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
-    -   The Sovereign Bangle has the following stats: 32 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
-    -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 25 Physical damage.
+    -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
+    -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 25 Physical damage and scales on Strength.
     -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
     -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
     -   Sovereign Bangle can be enhanced with Blightsurger Talents.
@@ -80,6 +80,7 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 ### Talents
 
 -   **Sovereign State** - Landing physical, lightning, and wind hits builds your Blight Meter. At full gauge, enter a Blight State that replaced your weapon with the Sovereign Bangle and empowers Blightsurge abilities.
+    -   Sovereign State does not automatically activate at 100% Blight Meter
     -   The Blight Meter gain has no cooldown, and never decays. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   There is a 10 second cooldown on activating Sovereign State, started once it ends.
     -   The Sovereign State lasts 12.5 seconds if activated at full Blight Meter.
@@ -111,11 +112,13 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 
 -   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
     -   Deals 10 Blunt damage, the followup strike deals 17.5 Oath damage.
+    -   Scales on Strength.
     -   Ragdolls and applies Daze on hit.
     -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
 
 -   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.
     -   Deals 12 Blunt damage.
+    -   Scales on Strength.
     -   Applies Daze and Blightshock on hit.
     -   Knockdowns on hit.
 

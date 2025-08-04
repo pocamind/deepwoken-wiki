@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 156481
+revid: 156533
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -70,6 +70,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 
 -   **String Trick** - Pulls together any two opponents you've attached Hidden Tendril to.
     -   Deals 4.8 Oath DMG twice.
+    -   Cannot be used on non-humanoids.
     -   Obtained after killing 3 players with [Oaths](Oaths.md) in [The Depths](The_Depths.md).
         -   It will send them to [Layer 2](Second_Layer.md) instead of wiping them.
 

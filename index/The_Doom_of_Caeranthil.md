@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 156374
+revid: 156578
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -195,12 +195,9 @@ Exhaustive Loot Table
     <li><b>Mythical Arms</b>: <a href="Warlock's_Mantle.md"><font>Warlock's Mantle</font></a> (All Variants).</li>
     <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a> (All Variants), <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>:
-  <ol>
-    <li><b>Generic Legs</b>: <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
-  </ol></li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>: N/A</li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>:<a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Headband.md">Headband</a> (Green), <a href="Aspirant_Mask.md">Royal Guard</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Headband.md">Headband</a> (Green), <a href="Aspirant_Mask.md">Royal Guard</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a>, <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Essentially all Legendary Rings.</li>
   </ul></td>

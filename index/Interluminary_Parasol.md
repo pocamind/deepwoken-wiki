@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 156025
+revid: 156579
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -117,7 +117,7 @@ Exhaustive Loot Table
     <li><b>Unique Arms</b>: <a href="Summer_Scarf.md"><font>Summer Scarf</font></a> (All Variants).</li>
     <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parka (White), <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Star_Boots.md">Star Boots</a>.</li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: N/A</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a>.</li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (Red), <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Iron_Mask.md">Iron Mask</a>.</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a>.</li>

@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 153074
+revid: 156540
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Weapons, Weapons with Unique Critical
 | type | Fist |
 | requirements | 50 LHT / 85 LHT |
 | damage | 14 / 15.5 |
-| scaling | LHT: 9.5 |
+| scaling | LHT: 9.5 / 9 |
 | range | 6 |
 | swing speed | 1.10x |
 | penetration | 10% / 20% |
@@ -42,8 +42,8 @@ The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of LHT, the damage is (19 / 24.9)
--   At max LHT, the damage is (24 / 26.5)
+-   Meeting the requirement of LHT, the damage is (19 / 24.4)
+-   At max LHT, the damage is (24 / 26)
 -   Coral Cestus originally had higher stats and a light weapon requirement of 75, the stats and requirements were reduced when it received an alloy.
 -   The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.
 -   Each gauntlet has a colored gradient under the "coral" texture, making it the first weapon to have gradient enchant textures. This allows us to see the primary colors associated with each enchant.

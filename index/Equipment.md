@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 156363
+revid: 156600
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -3149,8 +3149,6 @@ _+1 Posture_
 
 _+Talent: Berserker_
 
-_+Set Talent: Enforcer's Pull_
-
 **Requires Power 8**
 
  | 
@@ -5419,8 +5417,6 @@ N/A
 
 +2 Rare Pips
 
-_+Set Talent: Enforcer's Pull_
-
 **Requires Power 4**
 
  | 
@@ -6053,44 +6049,6 @@ Legs [Specialist Boots](Specialist_Boots.md)
  |
 |  | 
 
-[Star Boots](Star_Boots.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-**Requires Power 10**
-
- | 
-
-Found from:
-
--   [Deep Widow](Deep_Widow.md) (The Depths)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Lodestar](Lodestar.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- | 
-
-Set: Star  
-Arms: [Star Duster](Star_Duster.md)  
-Legs: [Star Boots](Star_Boots.md)
-
- |
-|  | 
-
 [Tracker's Boots](<Tracker's_Boots.md>)
 
 (**Set**)
@@ -6288,6 +6246,37 @@ Found from:
 Set: Woodland  
 Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
 Legs: [Woodland Boots](Woodland_Boots.md)
+
+ |
+|  | 
+
+[Star Boots](Star_Boots.md)
+
+(**Unobtainable**)
+
+(**Set**)
+
+ | 
+
+_+5 Health_
+
++2 Rare Pips
+
++1 Legendary Pip
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   Vaulted
+
+ | 
+
+Set: Star  
+Arms: [Star Duster](Star_Duster.md)  
+Legs: [Star Boots](Star_Boots.md)
 
  |
 

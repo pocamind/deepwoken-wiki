@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 155281
+revid: 156553
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -15,12 +15,12 @@ categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
 | damage | 18 |
 | scaling | LHT: 6 |
 | range | 6 |
-| swing speed | 1.15 |
+| swing speed | 1.08x |
 | penetration | 15% |
 | stances | 1 Handed |
-| weight | 7 |
-| bankable | Yes if Enchanted |
-| droppable | No |
+| weight | 6 |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Titus |

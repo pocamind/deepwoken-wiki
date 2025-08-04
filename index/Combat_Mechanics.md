@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 156490
+revid: 156550
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -384,8 +384,8 @@ Image
 | All attacks that have this attribute:
 
 -   Any guard-breaking [Weapon](Weapons.md) critical (White)
--   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
--   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
+-   [Fire Blade](Flamecharm.md#fire-blade) ([Flamecharm](Flamecharm.md) Mantra) at level 5 (Orange)
+-   [Ice Smash](Frostdraw.md#ice-smash) ([Frostdraw](Frostdraw.md) Mantra) at level 5 (Light Blue)
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
 
  |
@@ -394,6 +394,7 @@ Image
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
+-   Judgement ([Contractor](Oath%253A_Contractor.md) Mantra) suspended hit
 
  |
 | Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
@@ -415,7 +416,6 @@ Image
 | All attacks that have this attribute:
 
 -   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
--   Judgement ([Contractor](Oath%253A_Contractor.md) Mantra) suspended hit
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown
 -   TBA
 

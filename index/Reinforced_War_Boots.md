@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 156323
+revid: 156590
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Reinforced War Helmet](Reinforced_War_Helmet.md)
 
 ## Description
 
-The Evanspear War Plate is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots. When worn, this grants +3 Health, +1 Uncommon Pip, and the [Repeated Blows](Talents.md#equipment-talents) Talent.
+The Evanspear War Plate is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots. When worn, this grants +3 Health, +1 Uncommon Pip, and the [Repeated Blows](Talents.md#equipment-talents) Talent.
 
 The _Repeated Blows_ Talent will reset the cooldown of [Strength](Attunement-less.md#strength) Mantras when you land your weapon's critical if a [Wrath Gem](Wrath_Gem.md) is in effect. Wrath Gems last for 9s with a 10s CD. This Talent has no cooldown.
 

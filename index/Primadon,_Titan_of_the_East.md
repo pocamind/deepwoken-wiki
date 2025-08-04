@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 154182
+revid: 156572
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -236,7 +236,7 @@ Exhaustive Loot Table
     <li><b>Legendary Arms</b>: <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a>.</li>
     <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale).</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Star_Boots.md">Star Boots</a>.</li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>.</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
   <ol>
     <li><b>Relic Torso</b>: [[Tiran Pendant|Template:RelicColor]].</li>

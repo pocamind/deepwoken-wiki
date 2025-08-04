@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 150272
+revid: 156574
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Depths]
@@ -80,7 +80,6 @@ Below is a list of potential items that can spawn in chests in Celtor Wastes.
 -   [Hivelord mask](Hivelord_Mask.md)
 -   Windmill Ring
 -   Light Eater Ring
--   [Star Boots](Star_Boots.md)
 
  | 
 

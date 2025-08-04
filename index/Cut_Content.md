@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 153094
+revid: 156545
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -120,8 +120,6 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 6th, 2022 update, Command: Locate became a base Vow of Mastery command.
 -   **Command: Return \[Rare Talent, Charisma\] -**
     -   In the August 30th, 2024 update, Command: Return became a base Vow of Mastery command.
--   **The Cold Forge \[Common Talent, Frostdraw\] -** You forge more shurikens when casting on ice. (+5 Elemental Intensity)
-    -   In the May 15th, 2023 update, Cold Forge became base behavior for Ice Forge.
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
     -   In the October 24nd, 2022 update, Concentrated Reload and Ether Bullets were removed due to their functionality being irrelevant.
 -   **Cryostasis \[Common Talent, Frostdraw\] -** When block broken, freeze yourself, reducing incoming damage by 50% and dealing frost damage to attackers.
@@ -140,8 +138,12 @@ This page is about content that has either been removed or changed drastically i
     -   In the March 8th, 2024 update, Elemental Rebound was made innate and was changed so that all mantras grant Tempo, not just elemental ones.
 -   **Encouraging Presence \[Common Talent, Willpower\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the January 3rd, 2023 update, Encouraging Presence was merged into Conquer Your Fears.
+-   **Ether Blade \[Common Talent, Intelligence\] -** Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
+    -   In the August 4th, 2025 update, Ether Blade was made innate.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this Talent effectively useless.
+-   **Ether Conduit \[Common Talent, Intelligence\] -** Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
+    -   In the August 4th, 2025 update, Ether Conduit was merged into Eureka.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Ether Kit \[Common Talent\] -** It's extra ether, do you need anything else? (+20 Ether)
     -   In the January 19th, 2024 update, Ether Kit was made innate, increasing the base ether of all players by 20.
@@ -243,15 +245,21 @@ This page is about content that has either been removed or changed drastically i
     -   In the January 19th, 2024 update, Stormcaller Slash was made base behavior for Lightning Blade.
 -   **Subsistence \[Rare talent, Intelligence\] -** As a skilled apothecarian, you are more accustomed to potions and gain graeter benefits from ingesting potions that affect your regeneration. (+3 Health)
     -   In the December 1st, 2023 update, Subsistence was merged into Potion Quaffer.
+-   **The Cold Forge \[Common Talent, Frostdraw\] -** You forge more shurikens when casting on ice. (+5 Elemental Intensity)
+    -   In the May 15th, 2023 update, Cold Forge became base behavior for Ice Forge.
 -   **The Old Wind \[Common Talent, Galebreathe\] -** Glide straight with the power of Gales. (+4 Elemental Intensity)
     -   With this talent, your glider would travel almost entirely horizontally instead of at a diagonal.
     -   In the December 1st, 2023 update, The Old Wind was merged with Aerogliding.
+-   **The Sound from Below \[Character Exclusive\] -** You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
+    -   In the August 4th, 2025 update, The Sound from Below was removed due to being irrelevant.
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   Was removed with Verse 2 update.
 -   **Third Interrogation \[Common Talent, Thundercall\] -** Electrified attacks do 50% less damage to you.
     -   In the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
 -   **Thorns of Fire \[Common Talent, Flamecharm\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
     -   In the October 6th, 2023 update, Thorns of Fire was removed from the game as it became a base behavior for Flame Repulsion.
+-   **Trained Fist \[Common Talent\] -** You can now equip Cestus.
+    -   In the August 4th, 2025 update, Trained Fist was removed due to being irrelevant.
 -   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
     -   In the December 15th, 2023 update, True Pain was removed due to Knife's Journey rework.
 -   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.

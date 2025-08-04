@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 154183
+revid: 156573
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -91,7 +91,6 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   [Flameguard Boots](Flameguard_Boots.md)
 -   [Imperial Boots](Imperial_Boots.md)
 -   [Khan Boots](Legion_Boots.md)
--   [Star Boots](Star_Boots.md)
 -   [Tracker's Boots](<Tracker's_Boots.md>)
 -   [Vanguard Boots](Vanguard_Boots.md)
 -   [Woodland Boots](Woodland_Boots.md)

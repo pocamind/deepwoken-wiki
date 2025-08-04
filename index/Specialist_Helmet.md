@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 156455
+revid: 156586
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -30,7 +30,7 @@ Specialist Set
 
 ## Description
 
-The Specialist Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet. When worn, this grants +8 Health, +1 Uncommon Pip, and the [Volt Draft](Talents.md#equipment-talents) Talent.
+The Specialist Helmet is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet. When worn, this grants +8 Health, +1 Uncommon Pip, and the [Volt Draft](Talents.md#equipment-talents) Talent.
 
 _Volt Draft_ allows your Inhale-enhanced basic attacks to strike your opponent with a Storm Strike. This has a 5 second duration after using Inhale with a 20 Second cooldown.
 

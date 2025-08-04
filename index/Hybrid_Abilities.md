@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 154422
+revid: 156529
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -140,7 +140,7 @@ Ice + Shadow
  |
 | 
 
-**Flashfire Sweep** (★★★)
+**Flashfire Sweep** (★★☆)
 
 **Combat Mantra**
 
@@ -148,7 +148,7 @@ _Sweep with flames and lightning before following into a devastating uppercut._
 
  | 
 
-## Flashfire Sweep (★★★)
+## Flashfire Sweep (★★☆)
 
   
 **Combat Mantra**  
@@ -165,7 +165,7 @@ Lightning (Leg Sweep), Fire + Blunt (Uppercut)
 
  | 
 
-50 Flamecharm, 50 Thundercall
+30 Flamecharm, 30 Thundercall
 
  |
 | 

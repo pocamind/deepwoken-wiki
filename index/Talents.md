@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156464
+revid: 156598
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -132,10 +132,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also affect players with no outfit (Stranded Outfit)
-    -   Procs on your basic attacks while you have Berserk active.
+    -   Procs on your Basic Attacks while you have Berserk active.
     -   Prerequisite: 60 Ironsing
 
--   _Phantom Edge_ \[Rare Talent, Ironsing Exclusive\] - Your weapon M1's have +0.25 range.
+-   _Phantom Edge_ \[Rare Talent, Ironsing Exclusive\] - Your weapon Basic Attacks have +0.25 range.
     -   Prerequisite: 75 Ironsing
 
 ### Adept Caster
@@ -450,14 +450,14 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Berserker
 
--   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your M1's. Grants your Criticals +10% PEN while active.
+-   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your Basic Attacks. Grants your Criticals +10% PEN while active.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again. If you don't meet this Talent's requirements, you will not be able to deactivate it manually.
-    -   Some weapon criticals are classified as basic attacks (e.g. [Shattered Katana](Shattered_Katana.md) and [Wraithclaw](Wraithclaw.md)), which means they benefit from the full armor nullification.
+    -   Some weapon criticals are classified as Basic Attacks (e.g. [Shattered Katana](Shattered_Katana.md) and [Wraithclaw](Wraithclaw.md)), which means they benefit from the full armor nullification.
     -   When activated:
         -   Eyes and hair turn red. Your eyes gain a red trail.
         -   Your armor, including Natural Armor, is immediately removed for 20 seconds. These bars will be restored back to their previous values when Berserk ends.
-        -   Padded Armor, Steel Scales, and Lightweight are activated. However, your M1s activate your opponent's Padded Armor and Steel Scales.
+        -   Padded Armor, Steel Scales, and Lightweight are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
         -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
     -   Prerequisite: 80 Strength
 
@@ -512,7 +512,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   This Talent is bugged and currently does not work.
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
--   Blighted Touch \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing M1's during Sovereign State now applies Blightshock.
+-   Blighted Touch \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing Basic Attacks during Sovereign State now applies Blightshock.
     -   This allows your Sovereign Bangle to apply Wither on hit.
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
@@ -521,7 +521,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
 -   Sovereign State \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
-    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
+    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
     -   Sovereign State has a 10 second activation cooldown once the duration runs out.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
@@ -607,23 +607,16 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Deals 16.5 damage in an AoE on proc
     -   Prerequisite: 40 Bloodrend, 40 Flamecharm
 
-  
-
 ### Brawler
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
     -   Procs by pressing Y (Works even if you only have one Fist Style)
     -   8 Second cooldown between style change.
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
-    -   Prerequisite: Trained Fist
-
--   Trained Fist \[Common Talent\] - You can now equip Cestus.
-    -   Prerequisite: Equipping any Fist weapon excluding [Jus Karita](Jus_Karita.md) or [Anklets of Alsin](Anklets_of_Alsin.md). This can only be done if you have a [Fist Style](Fists.md). Also is granted when starting with [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), or [Fang and Coil](Fang_and_Coil.md) from the [character creation screen](Character_Creation.md).
-    -   To obtain a Fist Style, complete the [Navaen Tribe Rescue Quest](Way_of_Navae.md), [Legion Kata](Legion_Kata.md) Quest, [Imperium Kata](Imperium_Kata.md) Quest, or the [Fang and Coil](Fang_and_Coil.md) obtainment Quest.
 
 ### Bruiser
 
--   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
+-   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown)
@@ -645,7 +638,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s.
     -   Prerequisities: 55 Fortitude
 
--   Down to your Level \[Common Talent\] - While you have a speed debuff, your M1s slow your enemies for 2s.
+-   Down to your Level \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 2s.
     -   Procs from Entaglement, Daze, Chill and most other things that slow you down.
     -   Does not proc from Grand Fisher Plate or Wormwarder Lantern despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
@@ -834,7 +827,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
 
--   _Knife's Journey_ \[Rare Talent, Light\] - \[Daggers\] Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage
+-   _Knife's Journey_ \[Rare Talent, Light\] - \[Daggers\] Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
     -   Prerequisite: 30 Light Weapon
 
 -   Decisive Blow \[Common Talent, Light\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
@@ -976,9 +969,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
     -   Prerequisite: Obtaining the Talent from [Valikor](Valikor.md)
 
--   The Sound from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
-    -   Prerequisite: [Power](Power.md) 2 (obtained automatically)
-
 ### Doomsday Engine
 
 -   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
@@ -1072,7 +1062,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Ether Adept
 
--   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 10% more damage.
+-   Charged Return \[Common Talent\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
     -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
         -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
     -   Prerequisites: 20 Willpower, 15 Strength
@@ -1081,26 +1071,18 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 15 Intelligence
     -   This talent is currently bugged and does nothing.
 
--   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
-    -   Gives ether when parrying a mantra. Ether gained scales with damage of the mantra.
-    -   Prerequisites: 20 Agility, 15 Intelligence
-
--   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
-    -   5 second Cooldown.
-    -   Stacks of Inspiration last 3 seconds. New stacks do not refresh the duration.
-    -   Contrary to the in-game talent description, the damage buff ("Inspired" status) lasts 5s instead of 3s.
+-   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
+    -   Perfect-casting Mantras grants Inspiration stacks, regardless if the attack was whiffed or landed.
+    -   Inspiration Stacks do not decay, even if you normal cast.
+    -   Eureka has a **6 second** cooldown on stack gain.
+    -   Inspiration lasts 3 seconds.
     -   Prerequisite: 30 Intelligence
-
--   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load)
-    -   Refunds the ether cost of a mantra proportionate to your INT.
-    -   Refunds 20% at 30 Intelligence, scaling up to 25% refunded at 100 Intelligence.
-    -   Has a **6 second** cooldown.
-    -   Prerequisite: 30 Intelligence
+    -   This Talent was merged with the old Ether Conduit Talent.
 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisite: 20 Intelligence
 
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects)
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your Basic Attacks, but the effect is removed on impact. (Works only with elemental status effects)
     -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
     -   Does not work with Critical Attacks
     -   Prerequisites: 15 Strength, 5 Intelligence
@@ -1459,8 +1441,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Heretic
 
--   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal for 8s. (+7 Sanity)
-    -   Whenever you land an M1 or Critical, the target has most healing forms reduced/disabled for 8 seconds.
+-   _All the Dead Gods_ \[Rare Talent\] - Your Basic Attacks now apply anti-heal for 8s. (+7 Sanity)
+    -   Whenever you land a Basic Attack, the target has most healing forms reduced/disabled for 8 seconds.
         -   Anti-heal percentage from a non-passive source scales with the total numerical investment of Willpower + Intelligence. Scales up to 100% with 105 points in both stats collectively. (Ex. Still has 100% antiheal at \[60 Willpower + 45 Intelligence\] OR \[60 Intelligence + 45 Willpower\]). Relevant for [Shrine of Order](Deep_Shrines.md).
         -   Anti-heal percentage can be calculated by dividing your points in INT + WLP by 105. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 76.2% Anti-heal)
     -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
@@ -1581,8 +1563,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: "Flamecharmer Ploom" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
 
--   Simmerbloom \[Common Talent\] - M1's on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
-    -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) M1s now apply burn/eruptions. This has no cooldown.
+-   Simmerbloom \[Common Talent\] - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
+    -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
     -   Obtained from [Simmerbloom Diadem](Simmerbloom_Diadem.md)
     -   Requirements for Equipment: [Power](Power.md) 10, 80 Flamecharm
@@ -1724,7 +1706,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
     -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
--   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum.
+-   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Decisive Winds \[Unlockable Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
@@ -1758,7 +1740,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Despite the card saying "hitting", you do not need to damage someone to reset the cooldown (if it gets blocked, parried or dodged, it also resets it)
         -   Prerequisite: Jus Karita
 
--   Swiftkick Prodigy \[Common Talent\] - Hitting successive basic attacks with Jus Karita will give a temporary speed buff.
+-   Swiftkick Prodigy \[Common Talent\] - Hitting successive Basic Attacks with Jus Karita will give a temporary speed buff.
     -   Hitting your opponent with the M1s 3 times will grant you a speed boost.
     -   Prerequisite: Jus Karita
 
@@ -1925,7 +1907,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
     -   Prerequisite: 20 Willpower
 
--   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your M1's and critical attacks have an additional +5% PEN on top.
+-   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.
     -   Prerequisite: [Power](Power.md) 13
 
 -   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
@@ -1965,7 +1947,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Unnecessary Theatrics: 7s -> 3.5s
         -   [Dread Whisper](Attunement-less.md#dread-whisper): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
-        -   Overcharm's basic attacks: 5s -> 2.5s
+        -   Overcharm's Basic Attacks: 5s -> 2.5s
     -   Prerequisite: 25 Willpower
 
 ### Merchant
@@ -2017,7 +1999,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
--   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
+-   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
     -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
 
@@ -2036,8 +2018,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Scales on your current sanity percentage, similar to Lose Your Mind.
     -   Prerequisite: 80 Willpower
 
--   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
-    -   Whenever you have less than 100% sanity or are actively losing sanity all basic attacks will remove 3% of the targets maximum sanity.
+-   Shared Misery \[Common Talent\] - Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
+    -   Whenever you have less than 100% sanity or are actively losing sanity all Basic Attacks will remove 3% of the targets maximum sanity.
     -   Prerequisites: 85 Willpower
 
 ### Mr Charm
@@ -2104,11 +2086,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
     -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
     -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
-    -   Prerequisites: Trained Fist, Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
+    -   Prerequisites: Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
     -   Only procs on M1s with the exceptions of a few weapons.
-        -   Can proc on [Wraithclaw](Wraithclaw.md)'s and [Legion Kata](Legion_Kata.md)'s criticals due to them being classified as basic attacks, with Wraithclaw's neutral critical proccing it almost instantly due to being a multihit.
+        -   Can proc on [Wraithclaw](Wraithclaw.md)'s and [Legion Kata](Legion_Kata.md)'s criticals due to them being classified as Basic Attacks, with Wraithclaw's neutral critical proccing it almost instantly due to being a multihit.
     -   This Talent also **works** with [Jus Karita](Jus_Karita.md), but won't come out on your Talent hands unless you have any **Fist Style** equipped.
     -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
     -   Mutual Exclusive: Orbital Ice
@@ -2120,13 +2102,13 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Needle
 
--   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] running M1's deal increased posture damage. Upon landing your Critical, your next running M1 will have increased range.
+-   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
     -   Prerequisites: Using Rapier, 30 Light Weapon
 
 -   Frenzied Dance \[Common Talent, Rapier Exclusive\] - \[Rapier\] When your posture is about to collapse, you deal greater chip and posture damage.
     -   Prerequisites: Using Rapier, 50 Light Weapon
 
--   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your M1's to deal additional blood loss until you take damage.
+-   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.
     -   While active, also grants +25% chip damage.
     -   Prerequisites: Using Rapier, 40 Light Weapon
 
@@ -2475,7 +2457,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
-    -   Prerequisites: Trained Fist, 35 Light Weapon, 20 Strength
+    -   Prerequisites: 35 Light Weapon, 20 Strength
 
 ### Scrapsinger
 
@@ -2698,7 +2680,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
+-   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
     -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
@@ -2956,7 +2938,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
     -   Prerequisite: 20 Intelligence
 
--   _Punishing Blow_ \[Rare Talent\] - You now daze swinging opponents when hitting them with an M1 with a heavy weapon.
+-   _Punishing Blow_ \[Rare Talent\] - \[Heavy Weapons\] Daze opponents for 1s when you interrupt their Basic Attack with your own.
+-   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
     -   Prerequisite: 20 Heavy Weapon
 
 -   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
@@ -3326,7 +3309,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Upon being applied to an opponent, they gain 6s worth of bear trap immunity.
     -   Prerequisites: 20 Strength, 20 Agility
 
--   Blade Dancer \[Common Talent\] - Landing an M1 removes your roll cooldown. (+1 Passive Agility)
+-   Blade Dancer \[Common Talent\] - Landing a Basic Attack removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
     -   The head equipment "[Monastery Cowl](Monastery_Cowl.md)" has this Talent.
 
@@ -3377,7 +3360,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Doesn't affect allies.
     -   Prerequisites: 40 Charisma, [Sing](Attunement-less.md#sing) (Mantra)
 
--   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.
+-   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with Basic Attacks.
     -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents. This bonus does not stack with Tough Love.
     -   Prerequisites: 75 Charisma, [Sing](Attunement-less.md#sing) (Mantra)
 
@@ -3400,13 +3383,13 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Warrior
 
--   _Chronostasis_ \[Rare Talent\] - Landing an M1 or Critical Strike puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisites: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
--   Engage \[Common Talent\] \[Quest Talent\] - Landing an M1 slightly restores some of your Ether. (+1 Posture)
+-   Engage \[Common Talent\] \[Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
 ### Waterborne
@@ -3647,18 +3630,17 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Deals 45 Typeless damage with 20 Posture damage.
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 4% more damage.
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) and [Imperium Kata](Imperium_Kata.md) attacks now deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
-    -   Does **not** work on [Imperium Kata](Imperium_Kata.md).
--   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 25% additional penetration.
-    -   Gives [Way of Navae](Way_of_Navae.md) basic attacks have 25% more PEN. This does **NOT** apply to criticals.
+-   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 10% additional penetration.
+    -   Gives [Way of Navae](Way_of_Navae.md) Basic Attacks have 25% more PEN. This does **NOT** apply to criticals.
     -   This bypasses the PEN cap.
-    -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as basic attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
+    -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as Basic Attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
 -   Corrosive Touch: [Arachnid's Weave](<Arachnid's_Weave.md>) - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
     -   Drain 5% of your opponent's armor after landing a Critical attack or Flourish. This has a 10 second cooldown and can only proc once per critical attack.
--   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
+-   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-Basic Attacks have 20% PEN.
     -   Grants 20% Mantra PEN.
 -   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
     -   This works similarly to Collapsed Lung.
@@ -3751,8 +3733,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Your boat will take 25% less damage if the person piloting it has this Talent.
 -   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
     -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
--   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - M1's on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
-    -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) M1s now apply burn/eruptions. This has no cooldown.
+-   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
+    -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
 -   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
@@ -3784,18 +3766,18 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
--   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your m1s apply a storm strike. \[20 second CD\]
-    -   This procs on all basic attacks despite what the description states.
+-   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your Basic Attacks apply a storm strike. \[20 second CD\]
+    -   This procs on all Basic Attacks despite what the description states.
     -   This has a proc window of 5 seconds after using Inhale.
     -   Storm Strikes from this Talent deal 0.125 \* (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 points invested in both Attunements.
 -   Volt Reflex: [Authority Voltspark Mask](Authority_Voltspark_Mask.md) - Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges.
     -   Increases the dodge window and cooldown of your dodges based on your [Thundercall](Thundercall.md) investment.
--   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
+-   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.
     -   The wind shield lasts a few seconds or until you get hit (in which case, it will automatically parry the attack), cast any mantra, feint any attack, or use your critical attack.
-    -   Some mantras, like [Mecha Gatling](Monster_Mantras.md), can build up stacks for this.
+    -   Some mantras, like [Mecha Gatling](Monster_Mantras.md#mecha-gatling), can build up stacks for this.
     -   If you have the wind shield active and a Talent that allows you to parry unparryable monster attacks, such as Force Your Way or Diver's Resilience, you will autoparry them.
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
 -   Winter's Protection [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
@@ -3808,9 +3790,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 Certain Talents are given when you equip a full equipment set, though not all equipment sets have unique Set Talents. These Talents are exclusive to that equipment set and are unobtainable by any other means. Set Talents are listed in alphabetical order:
 
--   Enforcer's Pull: [Enforcer Set](Enforcer_Plate.md) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
-    -   Massively decreases the windup on Enforcer's Pull, especially after a flourish.
-    -   Set: [Enforcer Plate](Enforcer_Plate.md), [Enforcer Boots](Enforcer_Boots.md)
 -   Lasting Trauma: [Reinforced War Set](Reinforced_War_Helmet.md) - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
     -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 9 seconds.
     -   Wrath gems have a 10 second cooldown, making this Talent only have a 1 second downtime.
@@ -3834,7 +3813,7 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing mantra damage is reduced by 20%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn.
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit.
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them.
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
