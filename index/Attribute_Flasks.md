@@ -1,6 +1,6 @@
 ---
 title: Attribute Flasks
-revid: 139058
+revid: 156749
 source: https://deepwoken.fandom.com/wiki/Attribute_Flasks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Ingredients, Items]
@@ -97,3 +97,11 @@ File:☢️BIOHAZARD☢️ ahh lotus.png
 Zephyr Lotus
 
 Gives Agility
+
+  
+
+  
+
+## Trivia
+
+-   Does not give any stats if there are no available points.

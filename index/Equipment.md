@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 156713
+revid: 156799
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -166,7 +166,7 @@ _+8% Fire Armor_
 
  | 
 
-Found From:
+Found from:
 
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
@@ -195,7 +195,7 @@ _+1 Posture_
 
  | 
 
-Found From:
+Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
@@ -258,7 +258,7 @@ _+Set Talent: Offensive Recovery_
 
  | 
 
-Found From:
+Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
@@ -267,7 +267,8 @@ Found From:
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
-Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
 | File:VigilHood.png | 
@@ -1230,7 +1231,7 @@ _+Talent: Coldseep Reactor_
 
  | 
 
-Found From:
+Found from:
 
 -   [The Fisherman](The_Fisherman.md)
 
@@ -1606,7 +1607,7 @@ No Pips
 
  | 
 
-Found From:
+Found from:
 
 -   [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md)
 
@@ -1778,7 +1779,7 @@ _+Talent: Seamaster's Guile_
 
  | 
 
-Found From:
+Found from:
 
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Voidsea](Voidsea.md) events
@@ -2481,7 +2482,7 @@ _+Set Talent: Offensive Recovery_
 
  | 
 
-Found From:
+Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
@@ -2490,7 +2491,8 @@ Found From:
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
-Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
 | File:Pale Assassin Cloak.png | 
@@ -3468,7 +3470,7 @@ _+Talent: Diver's Resilience_
 
  | 
 
-Found From:
+Found from:
 
 -   [The Fisherman](The_Fisherman.md)
 
@@ -5212,7 +5214,7 @@ _+Set Talent: Offensive Recovery_
 
  | 
 
-Found From:
+Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
@@ -5221,7 +5223,8 @@ Found From:
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
-Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
 |  | 
@@ -6133,7 +6136,7 @@ _+1 Posture_
 
  | 
 
-Found From:
+Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
@@ -7257,6 +7260,33 @@ Set: Aristocrat
 Head: [Tophat](Tophat.md)  
 Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
+
+ |
+| File:WesternOutlawMask.png | 
+
+[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
+
+(**Set**)
+
+ | 
+
++1 Common Pip
+
+_+Talent: Destructive Yell_
+
+ | 
+
+Found from:
+
+-   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+Set: Ascended Outlaw  
+Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
+Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
+Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
 |  | 

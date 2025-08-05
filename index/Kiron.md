@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 156734
+revid: 156818
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -89,5 +89,6 @@ The color of the markings is based on your variant. These markings can also by [
 
 -   Kiron has the most variants out of all aspects, having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
 -   The surname Vaatu may be a nod to [Vaatu](https://avatar.fandom.com/wiki/Vaatu) from the _Avatar_ franchise.
--   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both are vampires.
--   The surname Draatu may be a nod to Dracula
+-   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both characters are vampires.
+-   The surname Draatu may be a nod to Dracula.
+-   You can combine the names ‘Nosfer’ and either ‘Ratu’ or ‘Aatu’ to get a name that sounds similar to ‘Nosferatu’, the original vampire horror movie from 1922.

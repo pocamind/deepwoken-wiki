@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 156594
+revid: 156807
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -17,7 +17,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
 | weight | 2 |
 | innate stats | +3 Posture, +2 Rare Pips |
 | innate talent | Ether Pinpoint |
-| set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots |
+| set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
@@ -36,13 +36,14 @@ The Ascended Outlaw Robes is an **unenchantable** [Equipment](Equipment.md) item
 
 The _Ether Pinpoint_ Talent allows your Mantras with the [Might Gem](Might_Gem.md) equipped to fully ignore shield posture bonuses. This is very similar to the [Shield Breaker](Talents.md#rampaging-bull) Talent, granted this is not exclusive to Blunt Mantras.
 
-## Set Bonus
+## Set Talent
 
-When wearing the full equipment set, you will gain the Set Talent.
+When wearing the full equipment set (excluding the [Mask](Ascended_Outlaw_Mask.md)), you will gain the Set Talent.  
+This requires the [Hat](Ascended_Outlaw_Hat.md), **Robes**, and [Boots](Ascended_Outlaw_Boots.md) of the set; the [Mask](Ascended_Outlaw_Mask.md) does not contribute to, nor is required for the Set Talent.
 
-Set Bonus: [Offensive Recovery](Talents.md#set-talents) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
+Set Talent: [Offensive Recovery](Talents.md#set-talents) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 
--   This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md) equipped, but ONLY if it hits your opponent's block, and ONLY if all of your Mantras have [Might Gems](Might_Gem.md) equipped.
+This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md) equipped, but ONLY if it hits your opponent's block, and ONLY if all of your Mantras have [Might Gems](Might_Gem.md) equipped.
 
 ## Obtainment
 

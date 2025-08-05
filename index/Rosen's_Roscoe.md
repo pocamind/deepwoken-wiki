@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 153054
+revid: 156795
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand Guns, Light Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Pistols, The Summer Company, Offhand Guns, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, The Depths, Dread Serpent, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Lodestar, Deep Widow (Chest), Interluminary Parasol, Diluvian Mechanism, Voidsea event chests |
+| obtainment | Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, The Depths, Summer Isle, Dread Serpent, The Doom of Caeranthil, Scion of Ethiron, Heart of Enmity, Lodestar, Deep Widow (Chest), Interluminary Parasol, Diluvian Mechanism, Voidsea event chests |
 | description | A sleek hand cannon, wrought from meticulous ironsmithing. The Roscoe marks Lumen's First generation of true cylindrical barrel revolvers. Though slower than the Company's repeater models, it delivers unmatched power and precision, earning Rosen's student a well deserved payday for their innovation |
 
 ## Description
@@ -40,4 +40,3 @@ In comparison to most other light guns, it has a (Comparatively) low scaling of 
 -   Second fastest pistol in the game in terms of swing speed.
 -   The weapon is also called 'big iron' in the campfire menu.
 -   Along with the [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.
--   There's a bugged version of this weapon that has the Common Rarity and is Unsellable.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156598
+revid: 156774
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3645,6 +3645,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
     -   This works similarly to Collapsed Lung.
     -   Wrath Gems last 9 seconds with no visual indication.
+-   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your ardour screams now break campfires around you.
+    -   Your Ardour Scream now destroys all campfires within its range.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.
     -   Maximum of +130 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
@@ -3741,8 +3743,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
     -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
     -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
--   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your strength mantras deal more posture damage the more you are combat tagged.
-    -   Increases the posture damage of your [Strength](Attunement-less.md#strength) Mantras, scaling on the amount of player combat tags you have.
+-   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your mantras with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).

@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 155861
+revid: 156784
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, War Weapons, Heavy Weapons]
@@ -34,11 +34,13 @@ Variants: [Zweihander](Zweihander.md)
 
 The **Bloodbane** is a Heavy Greatsword, an enhanced variant of the [Zweihander](Zweihander.md) with higher requirements. This weapon bears a red appearance, has blood particles emanating from it, and has a red swing trail, drastically differing its appearance from the base Zweihander.
 
-Dying with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Zweihander**. Bloodbane cannot be enchanted.
+Dying in the Overworld/[Depths](The_Depths.md) with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Zweihander**. Dying within [Chime of Conflict](Chime_of_Conflict.md) will not deteriorate the Bloodbane. Bloodbane **cannot** be enchanted.
 
-On M1, restore health. This can also proc even if the attack is blocked, parried, or dodged. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
+### Passive: Bloodthirsty
 
-On critical, **Bloodbane** applies a Damage over Time status effect. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this.
+On M1, restore 2% of your maximum health. This can also proc even if the attack is blocked, parried, or dodged. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
+
+On critical, apply a Damage over Time status effect that deals 6 damage per tick 5 times for a maximum of 30 damage. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this. This effect has no cooldown and can be stacked multiple times, so pairing this with the [Crescent Cleaver](Crescent_Cleaver.md) [Motif](Motifs.md) can lead to very high damage output.
 
 ## Trivia
 

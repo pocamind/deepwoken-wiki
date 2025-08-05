@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 156746
+revid: 156785
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -40,8 +40,8 @@ Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 
 You can complete either of these methods a combined total of two times to max progression:
 
-1.  Executing _**chained**_ players who [The Central Authority](The_Central_Authority.md) are enemies with. (Hunted or below reputation)
-2.  Executing _**chained**_ humanoid bosses who [The Central Authority](The_Central_Authority.md) are enemies with.
+1.  Executing _**Enchained**_ players who [The Central Authority](The_Central_Authority.md) are enemies with. ([Hunted or below reputation](https://deepwoken.fandom.com/wiki/Reputation#Reputation_Status))
+2.  Executing _**Enchained**_ humanoid bosses who [The Central Authority](The_Central_Authority.md) are enemies with.
 
 Known humanoids bosses are:
 
@@ -49,7 +49,7 @@ Known humanoids bosses are:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [The Ferryman](The_Ferryman.md) (Auto-executes when defeated)
 
-> (Note: If the chain's duration runs out or snaps before the target is executed, it will not count for progression, the target must be chained while executed)
+> (Note: If Enchained duration runs out or snaps before the target is executed, it will not count for progression, the target must be Enchained while executed)
 
 ## Effects
 
@@ -62,83 +62,79 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 ### Status Effect
 
 -   **Enchained** - Restrict your opponent's movement.
-    -   Procced by Restrain or Chainlash.
+    -   Procced by Restrain or Chainlash, 30 second duration.
     -   Every 0.5 seconds, targets more than 20 studs away are slowed for 1.5 seconds, this effect stacks up to 3 times.
-    -   Grants user chain variant Restrain.
+    -   Grants user Enchained Restrain variant.
     -   Automatically provides unchained targets with +1 Perpetual Wrath stack.
-    -   Chained will clear once the opponent is over 40 studs away, Rupture is used, or once the duration finishes, resetting all Perpetual Wrath stacks.
-        -   -   Chained duration is forcibly set to 30 seconds when first applied, and won't reset regardless of if the chain was removed, reapplied, or Restrain lands. (Bug)
+    -   Enchained clears once either, the opponent is over 40 studs away, Rupture is used/interrupted, or the 30 second duration expires, resetting Perpetual Wrath stacks.
 
 ### Talents
 
 -   **Perpetual Wrath** - Unleash the true power of Restrain. Each successive hit will increase its damage.
-    -   Hitting Chained targets with Restrain will add 1 stack of Perpetual Wrath.
-    -   Chain counts as 1 stack, Proccing Perpetual Wrath increases Restrain damage.
-    -   Proccing Perpetual Wrath
-    -   Stacks only reset when the chain breaks.
-    -   At 4 stacks Restrain will have a special SFX and won't increase in damage any further.
--   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
+    -   Inflicting Enchained _**or**_ hitting Enchained targets with Restrain will add 1 stack of Perpetual Wrath.
+    -   Stacks reset if Enchained ends.
+    -   At 4 stacks Restrain procs new VFX/SFX and won't increase in damage any further.
+-   Obtainment: Obtained after the first E_nchained_ [Hunted Player](https://deepwoken.fandom.com/wiki/Reputation#Reputation_Status)/Humanoid Boss grip.
 
 -   **Chainlash** - On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
-    -   **The Pull** is procced when landing flourishes, or through Impel, having a windup of 0.5 seconds, dealing no hitstun or damage.
-        -   2 seconds endlag once procced, prevents sprinting after windup.
-        -   Drags the targets back to the location of the user 0.4 seconds after proccing, using it airborne can drag targets upwards.
-        -   Prevents targets from moving after pulling.
-        -   Also procs off of Emperor Flame and [Razor Blitz](https://deepwoken.fandom.com/wiki/Bloodrend#Razor_Blitz), alongside [Kyrswynter](Kyrswynter.md) and uppercut flourishes.
+    -   "**The Pull**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
+        -   2 seconds true endlag on flourish.
+        -   Also procs off of Emperor Flame and [Razor Blitz](https://deepwoken.fandom.com/wiki/Bloodrend#Razor_Blitz), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.
         -   Benefits off Dazing Finisher and Bulldozer.
-        -   Using a mantra in the first 0.1 seconds after a flourish/proc allows you to movestack it.
-    -   **The Crushing Kick** can be activated during The Pull's self-stun, by M1ing dealing 46 Oath damage and 25 posture.
-        -   Has [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking but cannot wallbang.
-            -   Has a 360° hitbox, meaning it can't be whiffed by turning around, but allows you to aim where the target is flung.
+        -   Prevents targets from moving after flourish.
+        -   Forces targets back to the user on flourish, holding them in place for a duration.
+            -   Game determines user's location 0.4 seconds late, using it airborne can drag targets upwards.
+        -   **Movestack**: Using a mantra at the _very first moment_ after a flourish let's you movestack it.
+    -   "**Crushing Kick**" is activated after pulling targets by M1ing dealing 46 Oath damage and 25 posture.
+        -   0.45s windup, [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
+            -   Has a 360° hitbox, can't be whiffed by turning around, but you can kick targets back to you.
+        -   Using the kick too quickly will have increased endlag, due to the Pull's endlag. (Bug)
         -   Not treated as a mantra or an M1, bypassing Return to the Dark Ages and ignoring Champion's Regalia.
-        -   Using the kick too quickly will have increased endlag, due to the Pull's endlag.
-        -   The kick itself has no endlag, using it at the _very last moment_ lets you movestack it with mantras or attacks. (Previous movestacks patched)
--   Obtainment: Obtained after the second _chained_ Hunted Player/Humanoid Boss grip.
+        -   **Movestack**: Using The Kick at the _very last moment_ provides a small movestack with mantras/attacks.
+-   Obtainment: Obtained after the second E_nchained_ [Hunted Player](https://deepwoken.fandom.com/wiki/Reputation#Reputation_Status)/Humanoid Boss grip.
 
 ### Mantras
 
 #### Combat Mantras
 
 -   **Restrain** - Deliver a powerful kick that binds your opponent's soul to yours.
-    -   Deals 10 posture, and 31 Oath damage, increasing by +8 with each Perpetual Wrath stack. (Max of 55 damage)
-    -   Dazes for 0.5 seconds on direct hit.
-    -   Will inflict Enchained (Single target), Perpetual Wrath, and lowers in cooldown when landed on direct hit _**and**_ block.
-    -   Applies charm before damaging targets, proccing Tough Love on uncharmed targets.
-    -   Bypasses Return to the Dark Ages, but not any other damage reduction talents.
-    -   Bloodless gem has zero effect, not lowering damage or providing healing, however other gems still proc correctly, including blessed.
-    -   Doesn't cancel block when hitting from behind, despite applying hitstun. (Bug)
-    -   AOE explosion on direct hit, applying Perpetual Wrath stacks and daze to nearby targets, however this is inconsistently broken and needs testing. (Bug)
-    -   1 second cooldown when landed, including if it gets blocked. 10 second cooldown when whiffed/interrupted.
--   Obtained with the Oath
+    -   Deals 10 posture, and 31 Oath damage, increasing damage by +8 with each Perpetual Wrath stack. (Max of 55)
+    -   Will inflict Enchained (Single target), Perpetual Wrath, and lowers in cooldown when landed, including on block.
+    -   Ignores [Return to the Dark Ages](https://deepwoken.fandom.com/wiki/Talents#Miscellaneous) and [Bloodless Gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems).
+    -   Dazes for 0.5 seconds.
+    -   Procs Tough Love on uncharmed targets.
+    -   1 second cooldown when landed, including on block.
+    -   10 second cooldown when whiffed/interrupted.
+-   Obtainment: Obtained with the Oath.
 
 -   **Impel** - Blast through your opponent's guard and pull them towards you.
     -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
-    -   Procs Chained and Chainlash on the _**first**_ target hit past 15 studs. (Procs through block)
-        -   Innately has Chainlash, does not require the card to use.
-        -   **The Pull** of this Chainlash can be movestacked with mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
-    -   Has a maximum range of 50 studs, however over past 40 studs chains will disconnect and Chain Lash will cancel.
+    -   Procs Chainlash on _**first**_ hit past 15 studs. (Procs through block)
+        -   Innately has Chainlash, does not require the card to proc.
+        -   Impel's Chainlash can be movestacked with mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
+    -   Max range of 45 studs, however over past 40 studs Enchained is cleared, cancelling Chainlash.
     -   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock. (Aim is slightly delayed)
     -   Doesn't cancel on parry nor has auto parry frames forcing opponents to parry each projectile individually.
     -   No endlag on whiff or hit, unless Chainlash procs.
     -   Has a cooldown of 15 seconds.
--   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
+-   Obtainment: Obtained after the first Enc_hained_ [Hunted Player](https://deepwoken.fandom.com/wiki/Reputation#Reputation_Status)/Humanoid Boss grip.
 
 -   **Rupture** - Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.
     -   **Base variant** will do 2 melee punches, dealing 36 damage (20.6 + 15.4) and 30 posture (15 + 15).
         -   Each punch dazes targets for 0.5 seconds.
-        -   The second punch will only commence if the first one lands or hits block.
-        -   Windup of _first_ punch can be sped up by insignia gem.
-    -   **Chained variant** creates an AOE explosion centered at chained targets, launching them, and dealing 37 damage and 15 posture.
-        -   Strongly launches enemies **away from your relative direction**, allowing for wallbangs off the environment.
-            -   Jumping above targets while using the mantra will wallbang them off of the ground.
-        -   By adding a [Reversal Spark](Mantra_Modifiers.md#sparks), it will less dramatically send enemies _diagonally downwards_ in the **opposite direction of your camera**, but remove the ability to wallbang.
-        -   Inflicts _**anti-roll**_ for 1.35 seconds similar to Frozen Legs, allowing for true combos with mantras such as ice eruption. (May require Chainlash to proc, needs testing)
-        -   Cannot be sped up by insignia gem.
-        -   If multiple targets are chained, Rupture will individually explode each target in order of distance one by one. (Bugged)
-            -   Currently bugged, hitbox is randomly removed on the 3rd target, order/timing of explosions is inconsistent/targeted? (Needs testing)
+        -   The second punch will only commence if the first one lands/hits block.
+        -   Windup of _first_ punch is sped up by [Insignia Gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems).
+    -   **Enchained variant** creates AOE explosions centered at _all_ Enchained targets, ragdolling/flinging them, and dealing 37 damage and 15 posture.
+        -   Inflicts _**anti-roll**_ for 1.35 seconds similar to [Frozen Legs](https://deepwoken.fandom.com/wiki/Talents#Frozen_Warrior), allowing for true combos with mantras such as [Ice Eruption](https://deepwoken.fandom.com/wiki/Frostdraw#Ice_Eruption).
+        -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
+            -   You can [wallbang](https://deepwoken.fandom.com/wiki/Status_Effects#True_Daze) off the environment, jumping above targets while using the mantra can [wallbang](https://deepwoken.fandom.com/wiki/Status_Effects#True_Daze) off the ground.
+        -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](https://deepwoken.fandom.com/wiki/Status_Effects#True_Daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
+        -   Not sped up by [Insignia Gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems).
         -   The _**anti-roll**_ effect currently procs through block. (Bug)
+        -   ~Has some form of hyperarmor.~ (Bugged)
+            -   "Rupture now only has hyperarmor on its second chained hit, as opposed to all of its hit types." -(1/11/25) patch notes
     -   Has a cooldown of 15 seconds.
-    -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.
+    -   Obtainment: Obtained after the first Enc_hained_ [Hunted Player](https://deepwoken.fandom.com/wiki/Reputation#Reputation_Status)/Humanoid Boss grip.
 
 ## Trivia
 
@@ -146,13 +142,15 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   "..." - If you have an Oath, or if you already rescued the NPC and rejoined.
     -   "Send help, your will alone won't be enough to break these chains." - If you don't meet the stat requirements.
     -   "_The captive stays silent, staring at you with wild eyes wrought with concern._" - If you no longer meet the reputation requirement. (Takes priority if both requirements aren't present)
--   Using a wish to break your Oath at [Yun'Shul](https://deepwoken.fandom.com/wiki/Shrine_of_Yun%27Shul,_Keeper_of_Hearts), will cause [Vice Warden Morredh](Vice_Warden_Morredh.md) to say: "Another deserter? You're pathetic."
-    -   Talking with [Vice Warden Morredh](Vice_Warden_Morredh.md) after Oath breaking Chainwarden will bring up the dialogue: "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath
+-   Using a wish to break your Oath at [Yun'Shul](https://deepwoken.fandom.com/wiki/Shrine_of_Yun%27Shul,_Keeper_of_Hearts), will provide the following dialogue from [Vice Warden Morredh](Vice_Warden_Morredh.md):
+    -   "Another deserter? You're pathetic."
+-   Talking with [Vice Warden Morredh](Vice_Warden_Morredh.md) after Oath breaking Chainwarden will provide the following dialogue:
+    -   "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath
 -   This is one of the three Oaths where you cannot skip progression with knowledge. (Others being [Bladeharper](Oath%253A_Bladeharper.md) and [Soulbreaker](Oath%253A_Soulbreaker.md))
     -   This will most likely change in the future similar to Oaths such as [Saintsworn](Oath%253A_Saintsworn.md) which had their skip added late, although the developers most likely forgot.
 -   On release, despite Chainwarden only having 2 Mantras and no talents, Melonbeard stated the Oath was finished (In response to Arch (Arch\_Mage) calling it unfinished[\[1\]](#cite-note-1))
-    -   Afterwards, Arch\_Mage updated the Oath adding Impel and Chainlash, along with converting Perpetual Wrath to a talent.
--   Previously the left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
+    -   Afterwards, Arch\_Mage updated the Oath adding Impel and Chainlash, along with reworking Perpetual Wrath to a talent.
+-   Previously left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
 
 ## References
 

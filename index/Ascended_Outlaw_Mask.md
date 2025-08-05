@@ -1,0 +1,42 @@
+---
+title: Ascended Outlaw Mask
+revid: 156800
+source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Face, Masks, Craftable]
+---
+
+# Ascended Outlaw Mask
+
+| Ascended Outlaw Mask | |
+|---|---|
+| type | Face |
+| rarity | Common |
+| selling price | N/A |
+| weight | 0.5 |
+| innate stats | +1 Common Pip |
+| innate talent | Destructive Yell |
+| set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
+| set talent | Offensive Recovery |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Crafting in the Merit Detainment Core |
+| description | A mask to perfectly conceal one's entire face when paired with a hat, its also able to conceal one's true strength. |
+
+Ascended Outlaw Set
+
+Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
+
+## Description
+
+The Ascended Outlaw Mask is an [Equipment](Equipment.md) item under the "Face" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Mask is a green mask with upwards facing triangles, almost mimicking the mouth of a beast. This item originated from the Western Luminant. When worn, this grants +1 Common pip and the [Destructive Yell](Talents.md#equipment-talents).
+
+The _Destructive Yell_ Talent breaks campfires around the player when they use Ardour Scream.
+
+## Obtainment
+
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+
+1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md).

@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 156642
+revid: 156790
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -39,11 +39,11 @@ Obtaining the fighting style requires above Ally reputation with [The Hundred Le
 
 ## Critical
 
-The user performs two swift side kicks and is slowed for the duration critical. Imperium kata slows them for ~60% total when you use the critical up until the endlag finishes, Then they will gain a slight speed boost afterwards, benefiting from talents such as [Speed Demon](Talents.md#vigil-swordsman). The critical has 3 Strength scaling, which is used instead of scaling from Light Weapons as well as using the currently equipped weapon's base damage.
+The user performs two swift side kicks and is slowed by 60% for the duration critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds, allowing you to benefit from Talents such as [Speed Demon](Talents.md#vigil-swordsman) even after the critical ends.
 
-imperium kata's critical gains 5 Thundercall Scaling if you have static withdraw active.
+Imperium Kata's critical gains 5 Thundercall Scaling if you have [Static Withdraw](Talents.md#thundercaller) active.
 
-The first hit deals your weapon's base damage with 3 Strength scaling, multiplied by 1.5x with 6.8 posture damage. The second hit deals your weapon's base damage with 3 Strength scaling, but multiplied by 2x instead with 10.2 posture damage for 17 posture damage total, This isn't affected by the weapon used or weight stars
+The first hit deals 1.2x your weapon's scaled damage, the second hit deals 2x your weapon's scaled damage. This critical isn't affected by your weapon's weight stat or weight stars, dealing 6.8 posture damage on the first hit and 10.2 on the second regardless of weapon choice.
 
 This critical has a cooldown of 5 seconds.
 
@@ -52,7 +52,6 @@ This critical has a cooldown of 5 seconds.
 -   Added on the July 25th, 2025 Weekly update.
 -   **Imperium Kata** did not benefit from [Legion Centurion](Legion_Centurion.md) when it was first added, this was changed in the update on August 4th, 2025.
 -   **Imperium Kata** Is also obtainable by defeating [Titus](Titus_Fulminus_Destellus.md), then speaking with [Caitus](Caitus.md).
--   You cannot select **Imperium Kata** In character selection.
 -   The **Imperium Kata** Talent Card also gives +1 Passive Agility.
     -   When the style first released, it additionally granted +5 Health. This was patched shortly after.
 -   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped.

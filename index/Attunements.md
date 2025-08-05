@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 155202
+revid: 156796
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -136,9 +136,9 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-[Flamecharm](Flamecharm.md)
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
 
-[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 
