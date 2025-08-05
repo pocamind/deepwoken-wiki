@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 156437
+revid: 156740
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -77,10 +77,12 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
     -   Deals 50 Oath DMG with 0 songchant.
     -   Deals 56.56 Oath DMG with 6 songchant
     -   Can be used for movement.
+    -   Has a cooldown of 20 seconds.
 
 -   **Precision Cuts** - Snip forward 3 times with your scissors!
     -   Deals 60 Oath DMG with 0 songchant (20 per hit).
     -   Deals 67.86 Oath DMG with 6 songchant (22.62 per hit)
+    -   Has a cooldown of 15 seconds.
 
 ## Trivia
 

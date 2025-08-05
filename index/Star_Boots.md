@@ -1,9 +1,9 @@
 ---
 title: Star Boots
-revid: 156575
+revid: 156745
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Items, Equipment, Legs, Boots]
+categories: [Items, Equipment, Legs, Boots]
 notices:
   - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily."
 ---
@@ -35,4 +35,4 @@ Star Boots are an [Equipment](Equipment.md) item under the "Legs" category. They
 ## Trivia
 
 -   Considered to be one of the best boots in the game due to its Pips and innate +5 HP, though it has identical innate stats to the [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) and the [Imperial Boots](Imperial_Boots.md).
--   This item was vaulted on the date 8/4/2025
+-   This item was vaulted on the date 8/4/2025.

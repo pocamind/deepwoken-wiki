@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 155284
+revid: 156739
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -49,7 +49,8 @@ The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) 
 4.  When you go through the opening, you'll see a path going to the left. Do not follow the path. Instead, go forward and jump down to the ledge beneath.
 5.  When you jump down, walk forward following the path. (Be careful, don't fall down, there's a hole in the middle of the path) Eventually, you'll reach three Orange Resonance Doors that require a [Resonance](Resonance.md), and 75 Flamecharm. You can still clip through these doors, though.
 6.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will be killed immediately through burning and wipe.
-    -   Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
+
+Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
 
 ## Critical
 
@@ -61,8 +62,6 @@ For the **running** critical, the user imbues the club with flame, slashing in f
 
 Both criticals share a cooldown of **10 seconds**.
 
-As of 2/22/2025, criticals now share the color of the path the player is using.
-
 ## Trivia
 
 -   Elaborated in the description, a [macuahuitl](https://en.wikipedia.org/wiki/Macuahuitl) is from the Aztec culture.
@@ -73,3 +72,5 @@ As of 2/22/2025, criticals now share the color of the path the player is using.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
 -   This weapon cannot be banked, or dropped.
+-   As of 2/22/2025, criticals now share the color of the path the player is using.
+-   As of 8/4/2025, the weapon was given unique basic attack animations.

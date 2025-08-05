@@ -1,9 +1,9 @@
 ---
 title: Star Duster
-revid: 155715
+revid: 156742
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Items, Equipment, Arms, Dusters]
+categories: [Items, Equipment, Arms, Dusters]
 ---
 
 # Star Duster

@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 156699
+revid: 156734
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -75,10 +75,19 @@ Kiron has a very small range of ornament choice, with the only two options being
 
 ### Ears
 
-The color of the ear fluff is based on your first hair slot's color.
+The color of the ear fluff is based on your first hair slot's color, though they can be [dyed](Dye_Packet.md) separately. The ears themselves can be [dyed](Dye_Packet.md) as well.
+
+### Mouth
+
+While Kiron loses access to most universally accessible mouths, they gain these three unique ones.
+
+### Markings
+
+The color of the markings is based on your variant. These markings can also by [dyed](Dye_Packet.md).
 
 ## Trivia
 
--   Kiron is the latest Aspect added to _Deepwoken_, being added over 2 years since the _Layer 2_ ones were added ([Tiran](Tiran.md) and [Chrysid](Chrysid.md)).
+-   Kiron has the most variants out of all aspects, having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
 -   The surname Vaatu may be a nod to [Vaatu](https://avatar.fandom.com/wiki/Vaatu) from the _Avatar_ franchise.
 -   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both are vampires.
+-   The surname Draatu may be a nod to Dracula

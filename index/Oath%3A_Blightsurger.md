@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156650
+revid: 156744
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -34,7 +34,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 ## Description
 
-**[Oath](Oaths.md): Blightsurger** is one of the 17 obtainable Oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
+**[Oath](Oaths.md): Blightsurger** is one of the most shit oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
 
 “ History only remembers the general, and never the soldier. \[...\] Together, we were an unstoppable force. ”
 

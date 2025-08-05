@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 156435
+revid: 156746
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -62,19 +62,19 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 ### Status Effect
 
 -   **Enchained** - Restrict your opponent's movement.
-    -   Procced by Restrain and Chainlash.
+    -   Procced by Restrain or Chainlash.
     -   Every 0.5 seconds, targets more than 20 studs away are slowed for 1.5 seconds, this effect stacks up to 3 times.
     -   Grants user chain variant Restrain.
     -   Automatically provides unchained targets with +1 Perpetual Wrath stack.
     -   Chained will clear once the opponent is over 40 studs away, Rupture is used, or once the duration finishes, resetting all Perpetual Wrath stacks.
-        -   Chained duration is forcibly set to 30 seconds when first applied, and won't reset regardless of if the chain was removed, reapplied, or Restrain lands. (Bug)
+        -   -   Chained duration is forcibly set to 30 seconds when first applied, and won't reset regardless of if the chain was removed, reapplied, or Restrain lands. (Bug)
 
 ### Talents
 
 -   **Perpetual Wrath** - Unleash the true power of Restrain. Each successive hit will increase its damage.
-    -   Each target's stacks are individual.
-    -   Chained targets automatically gain 1 stack.
     -   Hitting Chained targets with Restrain will add 1 stack of Perpetual Wrath.
+    -   Chain counts as 1 stack, Proccing Perpetual Wrath increases Restrain damage.
+    -   Proccing Perpetual Wrath
     -   Stacks only reset when the chain breaks.
     -   At 4 stacks Restrain will have a special SFX and won't increase in damage any further.
 -   Obtainment: Obtained after the first _chained_ Hunted Player/Humanoid Boss grip.

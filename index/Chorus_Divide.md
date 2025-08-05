@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 156423
+revid: 156721
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -28,7 +28,7 @@ The wind up IS cancellable making it very easy to counter.
 
 Pressing C will activate the **Chorus Divide** Resonance.
 
-If Chorus Divide is corrupted, its wind-up is significantly longer, spins 180° instead of 270°, but spins slower.
+If Chorus Divide is corrupted, its spins 180° instead of 270°, and becomes unblockable, but at the cost of it's wind-up being significantly longer, and the beams spins slower.
 
 ### _Resonance Point usage_
 
@@ -57,6 +57,6 @@ If the player is [Attunement-less](Attunement-less.md), the beam will appear as 
 
 ## Trivia/Notes
 
--   Due to how weak its Corrupted variant is, its recommended to not have your Chorus Divide bell corrupted at all, as it deals no damage and is harder to land, essentially making it a direct downgrade.
+-   Before August 4th, 2025, Chorus Divide was unparryable, this was changed as a bug fix, as well as fixing being able to block the corrupt variant.
 -   This bell will stack [Chain of Perfection](Talent_Quests.md) when it lands
 -   [Titus](Titus_Fulminus_Destellus.md) uses an empowered version of this Resonance.

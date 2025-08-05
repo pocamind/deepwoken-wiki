@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 156605
+revid: 156730
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -371,6 +371,11 @@ Image
 -   [Golem Prime](Golem_Prime.md): Scream, Laser Barrage
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
+-   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
+-   Ascension ([Starkindred](Oath%253A_Starkindred.md) Mantra)
+-   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
+-   [Stoneheart](Stoneheart.md) critical
+-   [Ice Eruption](Frostdraw.md#ice-eruption)
 
  |
 | Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
@@ -384,8 +389,11 @@ Image
 | All attacks that have this attribute:
 
 -   Any guard-breaking [Weapon](Weapons.md) critical (White)
--   [Fire Blade](Flamecharm.md#fire-blade) ([Flamecharm](Flamecharm.md) Mantra) at level 5 (Orange)
--   [Ice Smash](Frostdraw.md#ice-smash) ([Frostdraw](Frostdraw.md) Mantra) at level 5 (Light Blue)
+-   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
+-   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
+-   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
+-   [Kanabo](Kanabo.md) running critical (White)
+-   [Kanabo](Kanabo.md) standing critical intended, as it's parryable and dodgable but guardbreaks
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
 
  |
@@ -395,6 +403,7 @@ Image
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   Judgement ([Contractor](Oath%253A_Contractor.md) Mantra) suspended hit
+-   [Kanabo](Kanabo.md) critical\* (is parryable and dodgable despite having this indicator)
 
  |
 | Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
@@ -410,6 +419,14 @@ Image
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
+-   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
+-   Sightless Beam ([Blindseer](Oath%253A_Blindseer.md) Mantra)
+-   [Throw](Attunement-less.md#throw) grab
+-   [Kyrsieger](Kyrsieger.md) critical
+-   [Relic Axe](Relic_Axe.md) critical
+-   [Emotion Wave](Thundercall.md#emotion-wave) (First hit and outward lightning)
+-   [Deepspindle](Deepspindle.md) standing critical multihits
+-   [Kyrswynter](Kyrswynter.md) running critical
 
  |
 | Green | File:Greentelegraph.png | ◯ | ✗ | ✗\*\* | ◯ |
@@ -417,7 +434,6 @@ Image
 
 -   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown
--   TBA
 
  |
 | Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |

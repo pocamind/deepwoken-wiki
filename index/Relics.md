@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 156562
+revid: 156716
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -366,12 +366,7 @@ hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and
  |
 | 
 
- | **[Imperator's Fury](<Imperator's_Fury.md>)** - A Medallion that grants the ability "Brute Strength". This ability transforms the user's [Vent](Combat_Mechanics.md) into a devastating stomp attack, knocking enemies away.
-
-  
-This increases your Vent cooldown.
-
- | 
+ | **[Imperator's Fury](<Imperator's_Fury.md>)** - A Medallion that grants the ability "Brute Strength". This ability transforms the user's [Vent](Combat_Mechanics.md) into a devastating stomp attack, knocking enemies away. | 
 
 -   [Titus](Titus_Fulminus_Destellus.md)
 

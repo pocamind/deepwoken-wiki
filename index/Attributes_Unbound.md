@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 149362
+revid: 156722
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -78,15 +78,16 @@ _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)
 
 ## Weapon Proficiency Unbound
 
-1.  Reach 75 Heavy/Medium/Light
-2.  Start the [A Lost Sibling](Temple_of_the_Blade.md) quest by talking to Apprentice Kj. (You can find the brother without starting the quest)
-3.  Obtain a [Gale Stone](Gale_Stone.md).
-4.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
-5.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))
-6.  Hold the [Gale Stone](Gale_Stone.md) and talk to the NPC bleeding all over.
-7.  Return to Apprentice Kj to finish the quest.
-8.  Head on to the Sparring Arena and talk to [Maestro](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
-9.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
+1.  Kill a boss OR
+2.  Reach 75 Heavy/Medium/Light
+3.  Start the [A Lost Sibling](Temple_of_the_Blade.md) quest by talking to Apprentice Kj. (You can find the brother without starting the quest)
+4.  Obtain a [Gale Stone](Gale_Stone.md).
+5.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
+6.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))
+7.  Hold the [Gale Stone](Gale_Stone.md) and talk to the NPC bleeding all over.
+8.  Return to Apprentice Kj to finish the quest.
+9.  Head on to the Sparring Arena and talk to [Maestro](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
+10.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
 
 **In-game map location of the wooden cabin:**
 
