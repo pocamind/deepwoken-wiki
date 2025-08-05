@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 156810
+revid: 156844
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | type | Head |
 | rarity | Common |
 | selling price | 25 |
-| requirements | PWR 10, 25 STR |
+| requirements | PWR 20, 25 STR |
 | weight | 1 |
 | innate stats | +4 Health, +1 Posture, +1 Uncommon Pip |
 | innate talent | Fatal Strike |

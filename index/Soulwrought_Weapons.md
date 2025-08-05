@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Weapons
-revid: 156611
+revid: 156838
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Crazy Slots](Crazy_Slots.md)
+-   [Crazy Slots#Weapons](Crazy_Slots.md#weapons)

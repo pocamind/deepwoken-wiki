@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 156816
+revid: 156833
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10, 30 WND, 30 LTN |
+| requirements | PWR 20, 30 WND, 30 LTN |
 | weight | 1 |
 | innate stats | +1 Posture, +1 Uncommon Pip |
 | innate talent | Flashwind |

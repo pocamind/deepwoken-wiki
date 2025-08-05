@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156774
+revid: 156836
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1028,6 +1028,18 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   People blinded by Flame Blind are Dazed for 2 seconds.
     -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 30 Flamecharm, 25 Strength
 
+### Elemental Rebound
+
+-   Charged Return \[Common Talent\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
+        -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
+    -   Prerequisites: 20 Willpower, 15 Strength
+
+-   Nullifying Clarity \[Common Talent\] - Deal 10% more damage to enemies with status effects on them with your Basic Attacks, but the effect is removed on impact. (Works only with elemental status effects)
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
+    -   Does not work with Critical Attacks
+    -   Prerequisites: 15 Strength, 5 Intelligence
+
 ### Elementalist
 
 -   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
@@ -1060,12 +1072,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: None
     -   The "[Pathfinder's Backpack](<Pathfinder's_Backpack.md>)" and "[Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)" Equipment have this Talent.
 
-### Ether Adept
-
--   Charged Return \[Common Talent\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
-        -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
-    -   Prerequisites: 20 Willpower, 15 Strength
+### Ether Conduit
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
     -   Prerequisite: 15 Intelligence
@@ -1075,17 +1082,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Perfect-casting Mantras grants Inspiration stacks, regardless if the attack was whiffed or landed.
     -   Inspiration Stacks do not decay, even if you normal cast.
     -   Eureka has a **6 second** cooldown on stack gain.
-    -   Inspiration lasts 3 seconds.
+    -   After proccing Eureka three times, you gain the Inspired status effect, buffing your Mantra damage by 10% for the next three seconds.
     -   Prerequisite: 30 Intelligence
     -   This Talent was merged with the old Ether Conduit Talent.
 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisite: 20 Intelligence
-
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your Basic Attacks, but the effect is removed on impact. (Works only with elemental status effects)
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
-    -   Does not work with Critical Attacks
-    -   Prerequisites: 15 Strength, 5 Intelligence
 
 ### Fadetrimmer
 
@@ -2182,6 +2184,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Excavator \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
     -   Prerequisite: Turn in 5 pure ores at a [Blacksmith](Blacksmith.md).
+    -   The [Miner's Hardhat](<Miner's_Hardhat.md>) has this Talent.
 
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
 -   Prerequisite: Complete [Ciea](Ciea.md)'s Quest 3 times.
@@ -3659,8 +3662,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Ether Pinpoint: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
     -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
--   Excavator: [Miner's Hardhat](<Miner's_Hardhat.md>) - Chance to receive two sets of ore when mining You mine things more quickly.
-    -   You can also obtain this Talent by turning in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates fall damage up until it reaches a cap for damage negated. Then, Featherfall will go on a 2 minute cooldown.

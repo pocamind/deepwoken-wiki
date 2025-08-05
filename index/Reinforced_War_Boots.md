@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 156812
+revid: 156843
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | PWR 20 |
 | weight | 1 |
 | innate stats | +3 Health, +1 Uncommon Pip |
 | innate talent | Repeated Blows |

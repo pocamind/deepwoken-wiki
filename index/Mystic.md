@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 152766
+revid: 156831
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -45,6 +45,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Annihilator_ (Collapsed Lung)
 -   _Berserker_ (Berserk)
 -   _Colossus_ (Heavy Hitter) **(Note; Cannot give Destructive Recovery, Unstoppable Force)**
+-   _Elemental Rebound_ (Charged Return, Nullifying Clarity)
 -   _Rampaging Brute_ (Unwavering Resolve, Shield Breaker, Million Ton Piercer)
 -   _Raging Bull_ (Broken Ankles) **(Note; Cannot give Bulldozer, Piercing Blow)**
 
@@ -65,7 +66,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Nimble Blade_ (Fast Blade) **(Note; Cannot give Lightspeed Reflexes)**
 -   _Swiftshade_ (None Left Behind, Dustlunge)
 -   _Trickster_ (Down Comes the Claw, Pursuit, Crippling Comeuppance, Maiming Claws) **(Note; Cannot give Cheap Shot)**
--   _Vigil Swordsman_ (Bear Trap, Blade Dancer, Action Surge, Spinning Swordsman) **(Note; Cannot give Speed Demon, Air Counter)**
+-   _Vigil Swordsman_ (Bear Trap, Blade Dancer, Action Surge, Spinning Swordsman) **(Note; Cannot give Speed Demon, Cut to the Chase)**
 
 ### [Body](Attributes.md#body-and-mind)
 
@@ -78,7 +79,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _All-Knowing_ (Approaching Singularity)
 -   _Artisan_ (Master Craftsman)
 -   _Elementalist_ (Ether Overdrive)
--   _Ether Adept_ (Charged Return, Ether Absorption, Ether Blade, Ether Conduit, Magical Resolve, Mantra Permanence, Nullifying Clarity) **(Note; Cannot give Eureka)**
+-   _Ether Conduit_ (Ether Absorption, Mantra Permanence) **(Note; Cannot give Eureka)**
 -   _Omniscient_ (Successive Prediction, Twelve Steps Ahead) **(Note; Cannot give All Knowing)**
 -   _Tactician_ (Hard Read, Target Switch, Foolish Outburst, Water off a Duck's Back) **(Note; Cannot give Punishing Blow)**
 
@@ -90,7 +91,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Limitbreaker_ (Comeback Kid, Defiant until the End, Last Resort, The Eleventh Hour)
 -   _Mental Fortress_ (Breathing Exercise, Conquer Your Fears, Disbelief)
 -   _Mindbreaker_ (Shared Misery) **(Note; Cannot give Lose Your Mind, Piercing Will)**
--   _Sturdy Resolve_ (Grasp on Reality, Unfazed)
+-   _Sturdy Resolve_ (Grasp on Reality, Magical Resolve, Unfazed)
 
 ### [Charisma](Attributes.md#cha)
 

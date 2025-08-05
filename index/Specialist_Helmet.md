@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 156814
+revid: 156835
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 10, 30 WND, 30 LTN |
+| requirements | PWR 20, 30 WND, 30 LTN |
 | weight | 1 |
 | innate stats | +8 Health, +1 Uncommon Pip |
 | innate talent | Volt Draft |

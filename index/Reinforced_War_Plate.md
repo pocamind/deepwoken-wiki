@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 156811
+revid: 156842
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10, 25 STR |
+| requirements | PWR 20, 25 STR |
 | weight | 2 |
 | innate stats | +6 Health, +1 Posture, +2 Rare Pips |
 | innate talent | Crippling Impact |

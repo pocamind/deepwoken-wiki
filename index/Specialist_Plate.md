@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 156815
+revid: 156834
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10, 30 WND, 30 LTN |
+| requirements | PWR 20, 30 WND, 30 LTN |
 | weight | 2 |
 | innate stats | +5 Health, +2 Rare Pips |
 | innate talent | Stormcall |

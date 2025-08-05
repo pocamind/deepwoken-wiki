@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 156213
+revid: 156837
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | type | Dagger |
 | requirements | 60 LHT, 30 INT |
 | damage | 13 + 3.9 BLD |
-| scaling | LHT: 8, INT: 2 |
+| scaling | LHT: 8, INT: 2.5 |
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 30% |
@@ -48,5 +48,5 @@ The critical has a cooldown of 8 seconds.
 -   While its damage is high, it is only rivaled by the [Alloyed Whaling Knife](Whaling_Knife.md) and the [Alloyed Tanto](Tanto.md). The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blades](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken [Battle Royale](Battle_Royale.md) tournament.
--   If you have 100 attribute points invested into LHT,INT and having 6 proficiency you will achieve a total damage of 27.9 + [**8.4 BLD**](Status_Effects.md#bleed)
--   Meeting the requirement of LHT and INT, the weapon deals 18.3 damage, but it becomes 23.7 damage with bleed. At max LHT and INT the weapon deals 22.8 damage, but it becomes 29.6 damage with bleed, making it one of the best daggers in the game.
+-   Meeting the requirement of LHT and INT, the weapon deals 18.4 damage, but it becomes 23.9 damage with bleed. At max LHT and INT the weapon deals 23.3 damage, but it becomes 30.3 damage with bleed, making it one of the best daggers in the game.
+    -   If you have 100 attribute points invested into LHT,INT and having 6 proficiency you will achieve a total damage of 27.3 + [**8.2 BLD**](Status_Effects.md#bleed) for 35.5 total damage.
