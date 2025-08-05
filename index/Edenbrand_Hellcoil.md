@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 156824
+revid: 156906
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -19,6 +19,8 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 | endlag | 0.1s |
 | chip damage | 20% |
 | special effect | Critical applies White Burn |
+| m.equip | Yes |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Unique |
 | selling price | 100 |

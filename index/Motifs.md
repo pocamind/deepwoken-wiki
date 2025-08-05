@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 156115
+revid: 156884
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -210,7 +210,7 @@ Dagger: [Stiletto](Stiletto.md), Fists: N/A, Gun: [Dawnshot](Dawnshot.md), Rapie
 Sword: [Sword](<Sword_(weapon).md>), Spear: [Iron Spear](Iron_Spear.md), Club: [Mace](Mace.md), Gun: [Dawnshot](Dawnshot.md), Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A
 
 **Heavy Weapons**:  
-Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Divine Greatsword](Crazy_Slots.md#weapons), Greathammer: [Pale Morning](Pale_Morning.md), Greatcannon: N/A
+Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Soulwrought Greatsword](Crazy_Slots.md#weapons), Greathammer: [Pale Morning](Pale_Morning.md), Greatcannon: N/A
 
  | 
 

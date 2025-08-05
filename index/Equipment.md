@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 156799
+revid: 156849
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -254,7 +254,7 @@ _+Talent: Mass Effect_
 
 _+Set Talent: Offensive Recovery_
 
-**Requires Power 15**
+**Requires Power 20**
 
  | 
 
@@ -1721,7 +1721,7 @@ _+Talent: Fatal Strike_
 
 _+Set Talent: Lasting Trauma_
 
-**Requires Power 10, Strength 25**
+**Requires Power 20, Strength 25**
 
  | 
 
@@ -1933,7 +1933,7 @@ _+Talent: Volt Draft_
 
 _+Set Talent: Shock Trooper Specialist_
 
-**Requires Power 10, Galebreathe 30, Thundercall 30**
+**Requires Power 20, Galebreathe 30, Thundercall 30**
 
  | 
 
@@ -2478,7 +2478,7 @@ _+Talent: Ether Pinpoint_
 
 _+Set Talent: Offensive Recovery_
 
-**Requires Power 15**
+**Requires Power 20**
 
  | 
 
@@ -4322,7 +4322,7 @@ _+Talent Crippling Impact_
 
 _+Set Talent: Lasting Trauma_
 
-**Requires Power 10, Strength 25**
+**Requires Power 20, Strength 25**
 
  | 
 
@@ -4613,7 +4613,7 @@ _+Talent: Stormcall_
 
 _+Set Talent: Shock Trooper Specialist_
 
-**Requires Power 10, Galebreathe 30, Thundercall 30**
+**Requires Power 20, Galebreathe 30, Thundercall 30**
 
  | 
 
@@ -5210,7 +5210,7 @@ _+Talent: Stronger Under Pressure_
 
 _+Set Talent: Offensive Recovery_
 
-**Requires Power 10**
+**Requires Power 20**
 
  | 
 
@@ -5941,7 +5941,7 @@ _+Talent: Repeated Blows_
 
 _+Set Talent: Lasting Trauma_
 
-**Requires Power 10**
+**Requires Power 20**
 
  | 
 
@@ -6034,7 +6034,7 @@ _+Talent: Flashwind_
 
 _+Set Talent: Shock Trooper Specialist_
 
-**Requires Power 10, Galebreathe 30, Thundercall 30**
+**Requires Power 20, Galebreathe 30, Thundercall 30**
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156836
+revid: 156885
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1915,13 +1915,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
     -   Prerequisite: [Power](Power.md) 10
 
-### Master Survivalists
+### Master Survivalist
 
 -   Survival Kit \[Common Talent, Charisma, Willpower, Intelligence\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
     -   Obtainment: Wipe with Iron Gut and Termite.
     -   Prerequisite: 20 Mind (20 Intelligence OR 20 Willpower OR 20 Charisma).
-    -   NOTE: As of 4/15/25, Survival Kit is unobtainable due to a bug.
 
 ### Meditative Trance
 

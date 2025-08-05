@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 156808
+revid: 156858
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | PWR 20 |
 | weight | 1 |
 | innate stats | +3% Lightning Armor, +3% Wind Armor, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Stronger Under Pressure |
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crafting at the Merit Detainment Core |
+| obtainment | Crafting:, Prison Crafting Station + Western Outlaw Boots + 3x Gilded Needle + 3x Might Gem |
 | description | Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband. |
 
 Ascended Outlaw Set

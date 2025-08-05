@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 154944
+revid: 156855
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
@@ -26,12 +26,15 @@ categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
 
 ## Description
 
-A set of boots that prevents you from being knocked off your feet by the harsh winds of the Eternal Gale. To craft this item, you can obtain the recipe from [Alpha](Alpha.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), and then crafting the item at the Ignition Base with [Leather Boots](Leather_Boots.md), two [Galewax](Galewax.md), and two [Umbrite](Ores.md#umbrite).
+A set of boots that prevents you from being knocked off your feet by the harsh winds of the Eternal Gale.
 
-This item provides the Talent Surestep, which makes you immune to the flinging of the winds of the Second Layer. You are still affected by the harsh winds' movement debuff, however.
+This item provides the [Surestep](Talents.md#equipment-talents) Talent, which makes you immune to the flinging of the winds of the Second Layer. You are still affected by the harsh winds' movement debuff, however.
+
+## Obtainment
+
+To craft this item, you can obtain the recipe from [Alpha](Alpha.md). Then, you need 2 [Galewax](Galewax.md), 2 [Umbrite](Ores.md#umbrite), and a pair of [Leather Boots](Leather_Boots.md). Because you cannot bring Galewax out of the Second Layer, you have to use [Master Craftsman](Talents.md#artisan) or the crafting table at [The Frontier Furnace](The_Frontier_Furnace.md).
 
 ## Trivia
 
 -   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item using the [Master Craftsman](Talents.md#artisan) [Talent](Talents.md) or the [Crafting Station](Crafting_Station.md) inside the the [Ignition Union](The_Ignition_Union.md) base.
 -   The stars on the Delver Boots are created when crafted, thus the stars on the base Leather Boots used to craft it are inconsequential.
--   Despite the recipe stating the boots require one (1) [Umbrite](Ores.md#umbrite), it actually requires two (2) Umbrites to craft.

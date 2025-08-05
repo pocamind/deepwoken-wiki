@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 154757
+revid: 156864
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Weapons with Unique Critical
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Sold in Traan Zakshun's black market for 6 |
+| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Titus Fulminus Destellus, Sold in Traan Zakshun's black market for 6 |
 | description | A gargantuan greatspear, its tip infused with the very essence of light, shines like a beacon of unyielding strength and fortitude. Carried at the forefront of the Hundred Legions, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory. |
 
 ## Description

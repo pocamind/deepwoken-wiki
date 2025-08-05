@@ -1,6 +1,6 @@
 ---
 title: Krile
-revid: 156719
+revid: 156897
 source: https://deepwoken.fandom.com/wiki/Krile
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, The Knives of Eylis]

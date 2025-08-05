@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 156730
+revid: 156893
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -417,6 +417,7 @@ Image
 -   [King Thresher](King_Thresher.md): Burrow
 -   [Deep Owl](Deep_Owl.md): Overhead Grab
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
+-   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
@@ -441,7 +442,7 @@ Image
 
 -   [King Thresher](King_Thresher.md): Body Slam
 -   [Bounder](Bounder.md): Leap
--   [Bonekeeper](Bone_Keeper.md): Bone Spikes(?)
+-   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |

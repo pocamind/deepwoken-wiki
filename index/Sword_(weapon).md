@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 152349
+revid: 156900
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons]
@@ -16,6 +16,10 @@ categories: [Weapons, Swords, Medium Weapons]
 | scaling | MED: 2.5 |
 | range | 8 |
 | swing speed | 1x |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Sword |
+| m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
 | selling price | 10 |
 | weight | 5 |
@@ -23,7 +27,7 @@ categories: [Weapons, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Main Menu Selection, Etris |
+| obtainment | Character Creation, Etris |
 | description | A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains. |
 
 ## Description

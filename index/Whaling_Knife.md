@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 156224
+revid: 156913
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, L
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 15% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | [[Whaling Knife]] |
+| m.compatible | Daggers |
 | stances | 1 Handed |
 | selling price | 25 / 50 |
 | weight | 4 |

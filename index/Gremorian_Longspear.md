@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 153078
+revid: 156904
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons]
@@ -19,6 +19,8 @@ categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, The
 | swing speed | 0.9x / 1.0x |
 | penetration | 10% |
 | special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
+| m.equip | Yes |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |

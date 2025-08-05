@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 156716
+revid: 156868
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -105,6 +105,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   8 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
@@ -176,6 +177,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -199,6 +201,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 -   [Hollow Forge](Hollow_Forge.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)

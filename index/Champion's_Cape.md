@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 156765
+revid: 156862
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Equipment, Arms, Capes, Craftable]
@@ -36,4 +36,4 @@ The ? Talent
 
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
-1.  1 [Titus's Cape](<Titus's_Cape.md>) + ? [Champion's Alloy](<Champion's_Alloy.md>) + ?.
+1.  1 [Titus's Cape](<Titus's_Cape.md>) + 1 [Champion's Alloy](<Champion's_Alloy.md>).

@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 154086
+revid: 156908
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons]
@@ -16,6 +16,10 @@ categories: [Weapons, Daggers, Light Weapons]
 | scaling | LHT: 3 |
 | range | 6 |
 | swing speed | 1.25x |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Stiletto |
+| m.compatible | Daggers |
 | stances | 1 Handed |
 | selling price | 7 |
 | weight | 2 |

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 156807
+revid: 156847
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 15 |
+| requirements | PWR 20 |
 | weight | 2 |
 | innate stats | +3 Posture, +2 Rare Pips |
 | innate talent | Ether Pinpoint |

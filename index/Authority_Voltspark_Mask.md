@@ -1,6 +1,6 @@
 ---
 title: Authority Voltspark Mask
-revid: 156424
+revid: 156857
 source: https://deepwoken.fandom.com/wiki/Authority_Voltspark_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crafting in the Merit Detainment Core Dungeon |
+| obtainment | Crafting:, Prison Crafting Station + Authority Prototype Mask + 1x Warden's Armor Piece + 3x Curse of the Authoritative Enchant Stones |
 | description | Originally a dangerous prototype that turned soldiers into lightning-fast lunatics. You think you managed to work out the kinks. Maybe. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 155145
+revid: 156874
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | range | 8 |
 | swing speed | 1x |
 | penetration | 10% |
-| special effect | Ranged Critical (ragdolls), Aerial Critical (slam, instant guard break), Running Critical (multi-hit) |
+| special effect | Ranged Critical (ragdolls), Aerial Critical (slam, high posture, lifts target into air), Running Critical (multi-hit) |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 6 |
@@ -25,7 +25,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Detainment Core |
+| obtainment | Maestro Evengarde Rest, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Titus Fulminus Destellus, Fishing, Detainment Core |
 | description | Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation. |
 
 ## Description
@@ -38,7 +38,7 @@ Meeting the requirement of MED and STR, the weapon deals 23.8 damage. At max MED
 
 The regular critical is a long-ranged one where the user stabs their staff forward and extends it. It ragdolls opponents on hit.
 
-The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor and block-breaks the opponent.
+The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor dealing high posture.
 
 The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking.
 

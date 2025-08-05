@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 154081
+revid: 156914
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Daggers, Light Weapons]
 | range | 6 |
 | swing speed | 1.25x |
 | chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Stiletto |
+| m.compatible | Daggers |
 | stances | 1 Handed |
 | selling price | 25 |
 | weight | 4 |

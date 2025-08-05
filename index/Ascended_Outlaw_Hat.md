@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 156809
+revid: 156848
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 15 |
+| requirements | PWR 20 |
 | weight | 1 |
 | innate stats | +2 Posture, +1 Uncommon Pip |
 | innate talent | Mass Effect |

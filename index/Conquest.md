@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 138387
+revid: 156899
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game]
@@ -17,7 +17,6 @@ Conquest is an upcoming game mode in which multiple teams take battle against ea
 The Confirmed Conquest Rewards are:
 
 -   [Bloodsworn Effigy](Bloodsworn_Effigy.md)
--   [Inquisitor's Duster](<Inquisitor's_Duster.md>)
 
 The official Conquest release date is unknown, with Conquest Testing being a couple weeks before the official Conquest release. Conquest Testing would be a public test that would be open for some time that would allow the general community to play a more rough, unfinished version of conquest to prepare it for the official release, though it is unknown if this is still going to happen.
 
@@ -30,6 +29,7 @@ The official Conquest release date is unknown, with Conquest Testing being a cou
 -   Conquest was planned to be released in December 2023, but had to be delayed to January 2024 due to some map changes, and has now been further delayed to release at an unknown date.
 -   [Jack's](Jack.md) appearance will be a live event during conquest, as stated by Arch\_Mage.
 -   According to the twitter post showing map sneaks, there is no smooth terrain on the Conquest map, but as seen in other images, there might still be.
+-   [Inquisitor's Duster](<Inquisitor's_Duster.md>) similar to [Saintsworn](Oath%253A_Saintsworn.md) was planned to be a conquest but released with World Events instead
 
 UI found inside conquest from one of Agamatsu's Streams
 

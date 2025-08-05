@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 156793
+revid: 156882
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -184,7 +184,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Procs on Critical Attack<br>
   Additionally, your weapon attacks can proc certain <a href="Shadowcast.md">Shadowcast</a> Talents, such as Twisted Puppets' shadow burn or Sightless Still.</p>
   <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
-  <p>Directly dropped from <a href="Parliament.md">Parliament</a> and <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a> (uncommon).</p></div></td>
+  <p>Directly dropped from <a href="Parliament.md">Parliament</a> and <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a> (estimated to be around a 5% drop change from each).</p></div></td>
   <td><div>The weapon turns black with black shadow effects enveloping it.</div></td>
 </tr>
 <tr>

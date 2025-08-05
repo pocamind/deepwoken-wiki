@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 154082
+revid: 156912
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
@@ -17,6 +17,8 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Ite
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 5% |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 5 |
@@ -41,8 +43,8 @@ The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
--   Despite the name, it's not actually made from a Canor's fang. though the fangs on the hilt may be
--   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md) (Unless you want the crit)
+-   Despite the name, it's not actually made from a Canor's fangs.
+-   It's recommended to use a [Whaling Knife](Whaling_Knife.md) or [Gilded Knife](Gilded_Knife.md) instead of the Canor Fang due to their statistical superiority. That being said, the Canor Fang critical is very good and warrants using this weapon.
 -   At max LHT, the damage is (19.3)
 -   Meeting the requirement of LHT, damage is (14.3)
 -   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 22.5

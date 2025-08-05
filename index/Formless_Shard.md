@@ -1,6 +1,6 @@
 ---
 title: Formless Shard
-revid: 153147
+revid: 156907
 source: https://deepwoken.fandom.com/wiki/Formless_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Daggers, Light Weapons]
@@ -16,6 +16,8 @@ categories: [Weapons, Weapons with Unique Criticals, Daggers, Light Weapons]
 | scaling | N/A |
 | range | 8 |
 | swing speed | 1x |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | selling price | 7 |
 | weight | 2 |

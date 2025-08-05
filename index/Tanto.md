@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 154078
+revid: 156902
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -18,6 +18,8 @@ categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, L
 | range | 6.5 |
 | swing speed | 1.14x / 1.15x |
 | penetration | 5% |
+| m.equip | Yes |
+| m.extract | No |
 | stances | 1 Handed |
 | selling price | 14 / ?? |
 | weight | 3 |
