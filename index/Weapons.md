@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 157165
+revid: 157247
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -38,11 +38,11 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   All **Medium Weapons** except for Bows, Rifles, the [Imperial Staff](Imperial_Staff.md), the [Purple Cloud](Purple_Cloud.md), and the [Wyrmtooth](Wyrmtooth.md) can freely switch between One Handed and Two Handed stances.
 -   All **Heavy Weapons** except for [Gran Sudaruska](Gran_Sudaruska.md) and the [Railblade](Railblade.md) are locked to Two Handed stances; however, this can be changed through obtaining 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
 
-### One-Handed
+### One-Handed (1H)
 
 -   Can use offhand weapons such as shields, guns, or side daggers.
 
-### Two-Handed
+### Two-Handed (2H)
 
 -   Deal 10% more posture damage with M1s and Criticals.
 -   Cannot use offhand weapons.
@@ -59,6 +59,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x
 -   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
 -   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
+-   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) greatsword weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is (currently) exclusive to the [Fractine](Fractine.md) weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
 -   **War Weapon/War Stats:** Similar to Alloyed weapons, these weapons are enhanced variants of base weapons, though outside of having increased requirements and slightly different stats, it is unknown what secrets these items hold. Stats which remain white are the same as the non-war version.
 -   [**Bleed:**](Status_Effects.md#bleed) 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).

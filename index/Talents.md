@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157206
+revid: 157241
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -164,7 +164,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% ether to get the damage buff despite what the talent description says. The damage buff applies the moment you hit full ether.
-    -   Damage buff is lowered to 5% for [Silenthearts](Oath%253A_Silentheart.md).
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -1078,10 +1077,15 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   This talent is currently bugged and does nothing.
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
-    -   Perfect-casting Mantras grants Inspiration stacks, regardless if the attack was whiffed or landed.
-    -   Inspiration Stacks do not decay, even if you normal cast.
-    -   Eureka has a **6 second** cooldown on stack gain.
-    -   After proccing Eureka three times, you gain the Inspired status effect, buffing your Mantra damage by 10% for the next three seconds.
+    -   Perfect-casting and parrying Mantras grants Inspiration stacks.
+    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
+        -   If you gain Inspired by parrying Mantras or from feinting a Mantra that does not go on cooldown when feinted, you gain the Inspired status effect for 30 seconds.
+        -   If you gain Inspired by perfect-casting, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
+        -   If you gain Inspired by feinting a Mantra that does go on cooldown when feinted, Inspired will be consumed instantly and will do nothing.
+    -   Inspiration Stacks do not decay.
+    -   On perfect cast, restore a percentage of the casted Mantra's Ether cost. This percentage scales on your Intelligence investment.
+    -   Eureka has a **6 second** cooldown on stack gain from perfect-casting.
+    -   Parrying Mantras has no cooldown for stack gain. For multi-hitting Mantras, you do not gain stacks from autoparry frames.
     -   Prerequisite: 30 Intelligence
     -   This Talent was merged with the old Ether Conduit Talent.
 

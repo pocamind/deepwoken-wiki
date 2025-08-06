@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 157208
+revid: 157242
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -179,7 +179,7 @@ Apply charm every basic attack and Mantra landed, even without having the Charis
 
 ### Inspired
 
-Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through perfect-casting Mantras. Mantras deal 10% more damage for the duration of the status, which is always 3 seconds long. Signified by a light blue hue and outline surrounding your character.
+Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through perfect-casting and parrying Mantras. Casting any Mantra will consume this status effect and grant a 10% damage buff to said Mantra. Inspired lasts 30 seconds, but will be instantly consumed if the procced via perfect-casting. Signified by a light blue hue and outline surrounding your character on proc.
 
 ### Entangled Defence
 

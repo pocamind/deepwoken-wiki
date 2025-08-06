@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 152441
+revid: 157243
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, Etrea, World Event]
@@ -46,3 +46,4 @@ It gives the [Vigil's Grace](Talents.md#equipment-talents) and [Action Surge](Ta
 ## Trivia
 
 -   This is the only Master Outfit to have a Power requirement that's lower than 15.
+-   Due to how swing speed is calculated, the swingspeed buff is more impactful the slower your weapon is.
