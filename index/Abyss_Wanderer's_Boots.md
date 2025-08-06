@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 155666
+revid: 157169
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots, The Divers]
@@ -38,4 +38,3 @@ Abyss Wanderer's Boots are an [Equipment](Equipment.md) item under the "Legs" ca
 -   Oddly, these boots are of Legendary rarity while the plate of the same set is Mythical. If looking for the full set, make sure to check the Legendary items (Cyan) in the chest to not miss them.
 -   The Abyss Wanderer set was designed by IronKronoXD, being the second place entry of the "Black Divers Art Concept Contest", although not being planned to be added originally, the set was later added.
 -   Has identical innate stats to the [Imperial Boots](Imperial_Boots.md) and the [Star Boots](Star_Boots.md).
-    -   If looking for a strong set of boots, it's generally easier to farm for Star Boots since they drop frequently from a wide variety of sources.

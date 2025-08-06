@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 157052
+revid: 157198
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -148,15 +148,15 @@ Upon reactivating your Resonance while your Crazy Slots weapon is active, perfor
 
 ### Soulwrought Dagger
 
-Rush forward with flurry of Soulwrought slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
+Rush forward with flurry of Soulwrought slashes. These slashes deal [**Bleed**](Status_Effects.md#bleed) damage. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
 
 ### Soulwrought Gun
 
-Flip upside down and rapidly shoot your target five to six times, finishing with a shot that propels you backwards.
+Flip upside down and rapidly shoot your target five to six times, finishing with a ranged shot that propels you backwards.
 
 ### Soulwrought Longsword
 
-Strike forward with your elbow, following up with three Soulwrought slashes. The initial strike is unparryable. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+Strike forward with your elbow, following up with three Soulwrought slashes, the final slash ragdolling. The initial strike is unparryable. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
 
 ### Soulwrought Spear
 
@@ -169,6 +169,8 @@ Jump into the air and plummet towards your cursor.
 ### Soulwrought Greatsword
 
 Gain a speed boost before leaping into the air and crashing down at your cursor.
+
+  
 
 ## Trivia/Notes
 
@@ -186,5 +188,5 @@ Gain a speed boost before leaping into the air and crashing down at your cursor.
 -   The Soulwrought Flintlock is one of the only three pistols in the game to play a unique sound on M1/crit, alongside the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>).
 -   The Soulwrought weapons can actually be wielded without the Resonance, though whether or not there is a reason for this has yet to be explained.
     -   The [Golden Warriors](Golden_Warrior.md) found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Soulwrought Greataxes.
-    -   The [Greater Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Soulwrought Spears.
+    -   The [Sworn Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Soulwrought Spears.
     -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterparts, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Soulwrought Greatsword or Soulwrought Greataxe.

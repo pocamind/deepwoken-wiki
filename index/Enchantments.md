@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 156882
+revid: 157180
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -190,7 +190,12 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
-  <td><div><p>Gain chip damage, with the chip amount depending on weapon type. (LHT:&nbsp;?%, MED:&nbsp;?%, HVY:&nbsp;?%)</p></div></td>
+  <td><div><p>Gain chip damage, with the chip amount depending on weapon type and your weapon's innate chip amount.<br>
+  The formula is as follows: C<sub>innate</sub> + C<sub>obf</sub> * (1 - min (1, C<sub>innate</sub>/(2 * C<sub>obf</sub>))). Desmos calculator <a href="https://www.desmos.com/calculator/codwr8t9cy">here</a>.</p>
+  <p>Key:<br>
+  C<sub>innate</sub> = your weapon's innate chip damage.<br>
+  C<sub>obf</sub> = the amount of chip obfuscation would give you if your weapon has no innate chip (LHT: 5%, MED: 10%, HVY: 15% chip), however this number will be 0 if your weapon has twice that amount of innate chip.</p>
+  <p>Obfuscation will do <b>nothing</b> if your weapon's innate chip is at or over LHT: 10%, MED: 15%, HVY: 30%.</p></div></td>
   <td><div>The weapon turns gains a white outline and is enveloped in a white mist.</div></td>
 </tr>
 <tr>

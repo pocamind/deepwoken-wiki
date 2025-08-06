@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 155343
+revid: 157181
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Cut Content, The Central Authority, NPCs located in the Eastern Luminant]
@@ -16,15 +16,30 @@ categories: [Felinor NPCs, NPCs, Cut Content, The Central Authority, NPCs locate
 
 ## Description
 
-Kana is an interactable NPC located in [Fort Merit](Fort_Merit.md). She is standing by a balcony and using the [Thundercall](Thundercall.md) Attunement to make an iron ball float. Talking to her will prompt the following dialogue:
+Kana is a [Felinor](Felinor.md) NPC located at [Fort Merit](Fort_Merit.md). She is standing by a balcony and using the [Thundercall](Thundercall.md) Attunement to make an iron ball float.
 
-"If only my Thundercalling was more intense I could pull this off..."
+She wears the [Keeper](Keeper.md) [Outfit](Outfits.md) with the gold coloring being dark blue instead.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>If only my Thundercalling was more intense I could pull this off...</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
--   The armor she is wearing is the Keeper armor, but switched the gold color to a dark blue.
--   As she is at Fort Merit, it can be inferred she works for The Authority, making her the only non-Adret to use Thundercall in their ranks.
--   The Ball that Kana uses used to be blue, although it has been changed to become yellow to match the current [Thundercall](Thundercall.md).
--   It was confirmed by Arch\_Mage on 04/09/2022 that Kana is cut content.
+-   As she is at Fort Merit, it can be inferred she works for [The Central Authority](The_Central_Authority.md).
+-   The ball that Kana uses used to be blue, although it has been changed to become yellow to match the current [Thundercall](Thundercall.md).
+-   It was confirmed by Arch\_Mage on April 9th, 2022, that Kana is [Cut Content](Cut_Content.md).
     -   Despite this, she is still in the game unlike her colleagues: Kiternon, Gartoth and [Commander Rayner](Commander_Rayner.md).
--   Kana's hair can be found here: [https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns](https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns)
+-   Kana's hair can be found here: [https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns](https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns).
