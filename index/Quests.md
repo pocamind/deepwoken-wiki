@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 156887
+revid: 157231
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs]
@@ -194,19 +194,6 @@ These quests usually give EXP, Reputation and/or an item.
   <b>Guide</b>: Talk to <a href="Polis.md">Polis</a> standing under the tree in Etris.<br>
   <b>Reward/s</b>: Gold Ring</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Polis.md">Polis</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-**Etrean Guide:**
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a> / <a href="Isle_of_Vigils.md">Isle of Vigils</a><br>
-  <b>Guide</b>: Talk to an NPC in Etris / Vigils to get a short introduction to the game.<br>
-  <b>Reward/s</b>: Campfire &amp; Repair Kit recipe, EXP.</p></div></td>
-  <td></td>
 </tr>
 </tbody>
 </table>

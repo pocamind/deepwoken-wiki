@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 156565
+revid: 157208
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -171,11 +171,11 @@ At the cost of draining all of your armor, your M1s bypass your opponent's armor
 
 ### Champion's Regalia
 
-Gain +50% posture damage for 10 seconds to your M1's after successfully flourishing an opponent. This effect is applied from the [Champion's Regalia](Talents.md#champion) Talent and is signified by a gold outline on your character.
+Gain +50% posture damage for 10 seconds to your basic attacks after successfully flourishing an opponent. This effect is applied from the [Champion's Regalia](Talents.md#champion) Talent and is signified by a gold outline on your character.
 
 ### Overcharm
 
-Apply charm every M1 and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), thereby reducing your self-damage by 10%.
+Apply charm every basic attack and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), thereby reducing your self-damage by 10%.
 
 ### Inspired
 
@@ -278,7 +278,7 @@ Increases the hitstun of the attack that applied this status effect (0.9s to 1s)
 
 ### Electrified
 
-Deal 10% less damage and have your damage type on M1s transfer to Thundercall damage. Applied through being hit by 5 hits from any [Thundercall](Thundercall.md) Mantra with the [Resolve Crusher](Talents.md#authority-interrogator) Talent. Signified by a swirling lightning effect in the users torso.
+Deal 10% less damage and have your damage type on basic attacks transfer to Thundercall damage. Applied through being hit by 5 hits from any [Thundercall](Thundercall.md) Mantra with the [Resolve Crusher](Talents.md#authority-interrogator) Talent. Signified by a swirling lightning effect in the users torso.
 
 ### Sapped
 
@@ -298,7 +298,7 @@ If the caster has [Lord's Tithe](Talents.md#comrade) and buffs another player wi
 
 ### Metal Rods
 
-Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](Ironsing.md) Mantras and [Ignition Deepcrusher](Ignition_Deepcrusher.md) club M1s. Innately, rods don't do anything until Pulled (X), but various Talents can be used to grant your Rods various effects. Effect on pull varies depending on which path the Ironsinger uses:
+Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](Ironsing.md) Mantras and [Ignition Deepcrusher](Ignition_Deepcrusher.md) club basic attacks. Innately, rods don't do anything until Pulled (X), but various Talents can be used to grant your Rods various effects. Effect on pull varies depending on which path the Ironsinger uses:
 
 -   Normally: Press X to pull your opponent towards yourself. Pull effectiveness scales on the amount of rods applied.
 -   Conductor: When 5 rods are applied, create a Conductor Rod. If your opponent casts a Mantra while having a Conductor Rod, they'll lose 5% of their armor and will have the elemental effect of the Mantra reversed back upon them, causing the Conductor Rod to fall off. If the Mantra is an Attunement-less, Oath, Ironsing, or Bloodrend Mantra, they will not be afflicted with any status effect, preventing the Rod from falling off; they will still take armor damage however. Pressing X will preform base Ironsing Pull, but Conductor Rods cannot be Pulled.
@@ -354,15 +354,15 @@ You and the caster are unable to cast Mantras for a duration. Applied through th
 
 ### Void
 
-While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 15 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Curse of Void enchantment has no visual effect on proc.
+While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 30 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Curse of Void enchantment has no visual effect on proc.
 
 ### Anti-Heal
 
-Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by an M1 by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by the first hit of [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods scales on investment up to its combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
+Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by a basic attack by someone that has the Talent [All the Dead Gods](Talents.md#heretic) for 8 seconds, or when hit by the first hit of [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods scales on investment up to its combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
 ### Pestilence
 
-While active, suffer from 50% Anti-Heal for 5 seconds, halving all incoming healing. This effect can be applied through being hit by an M1 with someone who has a [Ring of Pestilence](Equipment.md#rings) equipped. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a light yellow smoke on your character.
+While active, suffer from 50% Anti-Heal for 5 seconds, halving all incoming healing. This effect can be applied through being hit by a basic attack with someone who has a [Ring of Pestilence](Equipment.md#rings) equipped. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a light yellow smoke on your character.
 
 ### Deep Wound
 
@@ -508,7 +508,7 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 ### Wither
 
-Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s M1s and Critical Attack, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain\]\]_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain\]\]_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ## Deadly Status Effects
 

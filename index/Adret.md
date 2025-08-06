@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 152822
+revid: 157232
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -99,6 +99,24 @@ The Adrets are a historically recently arrived aspect of spiritually adept indiv
     
 
   
+
+## Gallery
+
+### All variants markings and archived images (warning a lot of images)
+
+**Alder:**
+
+**Greymarch:**
+
+**Salt:**
+
+**Seeker:**
+
+**Boulder:**
+
+**Hallowtide:**
+
+**Archived:**
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 156885
+revid: 157206
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -691,10 +691,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Champion
 
--   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
+-   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.
-    -   Only works on m1's.
     -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
     -   Prerequisite: 25 Strength
 

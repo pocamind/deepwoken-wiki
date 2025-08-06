@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 156850
+revid: 157210
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -71,32 +71,81 @@ W Rank being obtained
 
 Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of echoes, and with a small number of exceptions, each Triumph can only be achieved once.
 
--   Gaining [Power](Power.md), awarding 0.75 Echoes (rounded) per Power level (15 Echoes at Power 20).
--   Crafting a [Food](Food.md) item, awarding 1 Echo.
--   Catching a [Fish](Fishing.md), awarding 1 Echo. (Doesn't actually need to be a Fish, you just have to catch something with a [Fishing Rod](Fishing_Rod.md))
--   Modifying a [Mantra](Mantras.md), awarding 1 Echo.
--   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
--   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
--   Drinking an [Attribute Flask](Ingredients.md#lotuses) (NOT an [Attunement Potion](Attunement_Potions.md)), awarding 2 Echoes. (Works even at max power with no attribute points left.)
--   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
--   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
--   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
--   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your [Resonance](Resonance.md)), awarding 2 Echoes. ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this.)
--   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
--   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
--   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a [Hero Blade of Frost](<Hero's_Blade_of_Frost.md>) or [Crypt Blade](Crypt_Blade.md), awarding 5 Echoes.
--   Using an [Enchant Stone](Enchant_Stone.md), awarding 5 Echoes.
--   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
--   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes. (You will need 75 weapon requirement for most weapons in order to alloy them)
--   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md) _OR_ [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) [\[1\]](#cite-note-1), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) _OR_ [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
--   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
--   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
--   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
--   Completing [Layer 2](Second_Layer.md) floor 1 without [Light Hook](Light_Hook.md), awarding 10 Echoes.
--   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes. (You have to CHOOSE it, not just have the Resonance roll) (WARNING: If, for whatever reason, you decide to reroll your Resonance in the Fragments of Self, it will count as not having chosen the Resonance and the task will be left INCOMPLETE, EVEN IF you managed to acquire a Resonance before dying.)
+| 
+ | Echo Reward | Task/Requirement |
+| --- | --- | --- |
+| 
 
-  
+ | 0.75 (per Power level) | Gaining [Power](Power.md), awarding 0.75 Echoes per Power level (15 Echoes at Power 20). |
+| 
+
+ | 1 | Crafting a [Food](Food.md) item. |
+| 
+
+ | 1 | Catching a [Fish](Fishing.md) (or anything using a [Fishing Rod](Fishing_Rod.md)). |
+| 
+
+ | 1 | Modifying a [Mantra](Mantras.md). |
+| 
+
+ | 1 | Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md). |
+| 
+
+ | 1 | Winning [Chime of Conflict](Chime_of_Conflict.md) match. |
+| 
+
+ | 2 | Drinking an [Attribute Flask](Ingredients.md#lotuses) (NOT an [Attunement Potion](Attunement_Potions.md)). |
+| 
+
+ | 2 | Crafting a [Master Armor](Outfits.md). |
+| 
+
+ | 2 | Using a [Deep Shrine](Deep_Shrines.md). |
+| 
+
+ | 2 | Making a deal with [Misérables](Misérables.md). |
+| 
+
+ | 2 | Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (e.g., rerolling [Resonance](Resonance.md)). ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts.) |
+| 
+
+ | 5 | Unbounding an [Attribute](Attributes.md). |
+| 
+
+ | 5 | Obtaining an [Oath](Oaths.md). |
+| 
+
+ | 5 | Soul-bounding an [enchanted](Enchantments.md) or legendary item (e.g., [Hero Blade of Frost](<Hero's_Blade_of_Frost.md>), [Crypt Blade](Crypt_Blade.md)). |
+| 
+
+ | 5 | Using an [Enchant Stone](Enchant_Stone.md). |
+| 
+
+ | 5 | Obtaining an enchant from [Laplace](Laplace.md). |
+| 
+
+ | 5 | Using [Pluripotent Alloy](Pluripotent_Alloy.md) (requires 75 weapon requirement for most weapons). |
+| 
+
+ | 5 | Obtaining a [Murmur](Murmur.md). |
+| 
+
+ | 5 | Defeating [Dread Serpent](Dread_Serpent.md) OR [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)[\[1\]](#cite-note-1), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) OR [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) — 5 Echoes each. |
+| 
+
+ | 5 | Obtaining the [Deepshore Fossil](Deepshore_Fossil.md). |
+| 
+
+ | 10 | Defeating [Scion of Ethiron](Scion_of_Ethiron.md). |
+| 
+
+ | 10 | Completing [Hell Mode](Hell_Mode.md). |
+| 
+
+ | 10 | Completing [Layer 2](Second_Layer.md) floor 1 without [Light Hook](Light_Hook.md). |
+| 
+
+ | 15 | Obtaining a [Resonance](Resonance.md). (You must CHOOSE it. If you reroll in Fragments of Self, it resets the task, even if you had one before.) |
 
 ## Upgrades, Unlocks, and Modifiers
 
@@ -434,5 +483,5 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## References
 
-1.  [↑](#cite-ref-1) Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting you the 5 Echoes you would've gotten if you had defeated the Dread Serpent. For obvious reasons, killing both will not award you with additional Echoes.
+1.  [↑](#cite-ref-1) Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting 5 Echoes. Killing both does not grant extra Echoes.
 2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)
