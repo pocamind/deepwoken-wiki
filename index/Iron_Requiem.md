@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 153173
+revid: 156962
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals, Light Weapons, The Ignition Union]
@@ -16,7 +16,8 @@ categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, 
 | scaling | 3 LHT, 4 MTL |
 | range | 10 |
 | swing speed | 1.17x |
-| special effect | Custom critical attacks that apply rods, with the base critical attack replenishing 2 ammo aswell. |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | offhand | Yes |
 | weight | 1 |

@@ -1,9 +1,9 @@
 ---
 title: Spectral Grasp
-revid: 156196
+revid: 157157
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Event Item, Weapons with Unique Criticals, Daggers, Hallowtide, Light Weapons]
+categories: [Weapons, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, Daggers, Hallowtide, Light Weapons]
 ---
 
 # Spectral Grasp
@@ -18,6 +18,8 @@ categories: [Weapons, Event Item, Weapons with Unique Criticals, Daggers, Hallow
 | swing speed | 1.20x |
 | penetration | 15% |
 | special effect | Unique swing trail and SFX |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 4 |

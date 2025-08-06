@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 153482
+revid: 157068
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -16,6 +16,8 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | scaling | 5.5 ELM |
 | range | 8 |
 | swing speed | 1x |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 5 |

@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 156844
+revid: 157136
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -47,6 +47,6 @@ The [Fearful](Status_Effects.md#fearful) status effect lasts for 9 seconds after
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
-2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + ?.
+2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 2 [Wrath Gems](Wrath_Gem.md).
 3.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 2 [Wrath Gems](Wrath_Gem.md).
-4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + ? + ?.
+4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).

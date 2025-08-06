@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 155289
+revid: 157077
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", Multiple Criticals, Heavy Weapons]
@@ -20,6 +20,8 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | penetration | 15% |
 | chip damage | N/A |
 | special effect | Critical changes the stage of the weapon, changing its model and critical. There are three stages in total. |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 7.5 |
@@ -51,6 +53,8 @@ This weapon can change forms with the use of its critical similarly to [Light's 
 All criticals have a cooldown of 10 seconds.
 
 Pressing M2 during the windup of the critical will perform a feint that resets stages and has a cooldown of 2 seconds. This does not change depending on the stage.
+
+At the end of each critical, ice explosions will happen around the user, dealing the same damage as each tick of the critical as pure Frostdraw damage. The position of these explosions are random, but they are telegraphed by a blue swirl vfx before they explode.
 
 ## Trivia
 

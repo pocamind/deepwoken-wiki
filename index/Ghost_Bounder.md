@@ -1,6 +1,6 @@
 ---
 title: Ghost Bounder
-revid: 153565
+revid: 156917
 source: https://deepwoken.fandom.com/wiki/Ghost_Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Layer 2, Floor 1, Monsters]
@@ -21,3 +21,4 @@ When the Ghost Bounder spawns in it seems to stay there for a while, but if the 
 ## Trivia
 
 -   The way it spawns is still unknown but there is speculation that it spawns set on a timer and that's why sometimes can spawn right in front of the player.
+-   In the game files the model's name is "bounder spoo"

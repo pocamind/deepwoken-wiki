@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 154783
+revid: 157130
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -19,7 +19,9 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The
 | swing speed | 0.85x |
 | endlag | 0.1s / N/A |
 | penetration | 15% |
-| special effect | Has a Navae fist style critical. |
+| special effect | Inherits the critical of your last used Fist Style. |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 14 |
 | weight | 8 |
@@ -34,17 +36,14 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The
 
 Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 10 STR.
 
-It shares the same aerial animation and critical animation with the [Way of Navae](Way_of_Navae.md) fighting style, causing it to stand out from the other heavy weapons. The fighting style of the critical cannot be changed. Additionally, the Way of Navae critical and aerial attacks are 10% faster than normal.
+Markor's Inheritor will inherit the critical attack of your last used [Fist Style](Fists.md), allowing for a large amount of build diversity. Additionally, Markor's Inheritor can use the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) [Fang and Coil](Fang_and_Coil.md) critical, which is uncommon even amongst fist weapons.
 
 ## Trivia
 
 -   Markor's Inheritor is the only Heavy weapon that has an aerial kick as an aerial attack. Heavies used to have fist-style aerial attacks, until a unique heavy aerial was added.
 -   Markor's Inheritor can also be obtained as a mob drop through the [Lost Divers](Lost_Diver.md) of [Layer 2, Floor 2](Second_Layer.md). Since it is a mob drop, it can be equipped without needing to escape.
--   Might be based of Igris's weapon from the anime and Manhwa Solo Leveling
+-   Might be based of Igris's weapon from the anime and Manhwa Solo Leveling.
 -   Meeting the non-alloyed requirement of HVY, the damage is (27.8)
     -   Meeting the alloyed requirement, the damage is (34.8)
 -   At max HVY, the non-alloyed damage is (36.6)
     -   At max HVY, the alloyed damage is (38.4)
-
--   The non-alloyed does (.5) more base dmg than the alloyed version.
--   The Markor's Inheritor can NOT be extracted for its motif.

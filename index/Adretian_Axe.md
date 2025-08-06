@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 153092
+revid: 157097
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -18,6 +18,8 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | swing speed | 0.85x / 0.87x |
 | penetration | 10% |
 | chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
 | selling price | 25 |
 | weight | 5 / 7 |
 | bankable | Yes |

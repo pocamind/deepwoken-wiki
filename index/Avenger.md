@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 152490
+revid: 157096
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Creation, Greatswords, Echoes, Heavy Weapons]
@@ -11,13 +11,17 @@ categories: [Weapons, Creation, Greatswords, Echoes, Heavy Weapons]
 | Avenger | |
 |---|---|
 | type | Greatsword |
-| requirements | 0 HVY |
+| requirements | N/A |
 | damage | 21 |
 | scaling | HVY: 6.5 |
 | range | 8.5 |
 | swing speed | 0.83x |
 | endlag | 0.1s |
 | penetration | 0% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Soulwrought Greatsword |
+| m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |

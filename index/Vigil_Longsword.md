@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 154110
+revid: 157042
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -18,6 +18,8 @@ categories: [Pages with broken file links, Weapons, Swords, Etrea, Alloyed Weapo
 | range | 8 |
 | swing speed | 1x |
 | penetration | 20% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |

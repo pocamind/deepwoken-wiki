@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 156505
+revid: 157037
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Medium Weapons]
@@ -17,6 +17,8 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Medium Weapons]
 | range | 9 |
 | swing speed | 0.96x |
 | penetration | 20% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
 | weight | 5 |

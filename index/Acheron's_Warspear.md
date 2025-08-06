@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 156500
+revid: 157038
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Medium Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Spears, Drops, Medium Weapons]
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 15% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Iron Spear |
+| m.compatible | Spears |
 | stances | 2 Handed, 1 Handed |
 | selling price | ? |
 | weight | 5 |

@@ -1,9 +1,9 @@
 ---
 title: Eye of Malice
-revid: 153137
+revid: 157161
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Swords, World Event, Legendary Weapons, Medium Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
 ---
 
 # Eye of Malice
@@ -19,6 +19,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, World Event, Legend
 | penetration | 25% |
 | chip damage | 15% |
 | special effect | Applies an orange eye mark on M1s. |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |

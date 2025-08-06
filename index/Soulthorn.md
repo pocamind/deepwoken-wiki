@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 152487
+revid: 157056
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -19,6 +19,8 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | penetration | 0% |
 | chip damage | 30% |
 | special effect | Every M1 applies a soul stack to the target, capping at 3 stacks. |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | N/A |
 | weight | 5 |

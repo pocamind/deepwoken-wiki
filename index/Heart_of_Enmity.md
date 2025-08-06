@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 154493
+revid: 157140
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]

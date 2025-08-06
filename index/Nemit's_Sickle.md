@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 154088
+revid: 156941
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
@@ -17,6 +17,10 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Ite
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 30% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Nemit's Sickle |
+| m.compatible | Daggers |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 4 |

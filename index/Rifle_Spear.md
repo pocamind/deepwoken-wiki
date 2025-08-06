@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 152893
+revid: 157032
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -17,6 +17,8 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 25 |
 | weight | 5 |

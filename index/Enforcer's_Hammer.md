@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 156426
+revid: 157088
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, Weapons with Consecutive Criticals]
@@ -19,6 +19,8 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy 
 | endlag | 0.1s |
 | penetration | 10% |
 | chip damage | 20% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50 |
 | weight | 12 |

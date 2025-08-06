@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 155863
+revid: 157115
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | special effect | ? |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Pale Morning |
+| m.compatible | Greathammers |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 7 |

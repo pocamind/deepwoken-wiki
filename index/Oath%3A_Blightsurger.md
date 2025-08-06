@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 156762
+revid: 157123
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -21,6 +21,8 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | range | 6 |
 | swing speed | 0.98x |
 | penetration | 5% |
+| m.equip | No |
+| m.extract | No |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,13 +30,13 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | pass down | Yes |
 | description | Cestus used by members of the Hundred Legions. |
 
-“ _From shore to shore, void to void..._ **THE WEAK MUST FALL FOR THE STRONG TO PROSPER!** _”_
+“ _A withering storm gathers._ **Lightning must strike the eye of the tempest.** _”_
 
-― [Titus, Fulminus Destellus](Titus_Fulminus_Destellus.md)
+― [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
 ## Description
 
-**[Oath](Oaths.md): Blightsurger** is one of the most shit oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
+**[Oath](Oaths.md): Blightsurger** is one of the 17 obtainable Oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
 
 “ History only remembers the general, and never the soldier. \[...\] Together, we were an unstoppable force. ”
 
@@ -74,7 +76,7 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
     -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
     -   Sovereign Bangle can be enhanced with Blightsurger Talents.
         -   Blightlash grants Sovereign Bangle 1 additional range, going from 6 to 7.
-        -   Blighted Touch allows Sovereign Bangle to apply Blightshock (80% of its damage as Wither).
+        -   Blighted Touch allows Sovereign Bangle to apply Blightshock (70% of its damage as Wither).
         -   The Sovereign Bangle has the full effectiveness of the [Darkened Bastion](Darkened_Bastion.md) outfit, allowing it to deal 105% of its damage as Wither when combined with Blighted Touch.
         -   Blighted Pierce grants Sovereign Bangle +?% PEN and hyperarmor nullification on hit.
 

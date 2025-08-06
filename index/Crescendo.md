@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 153114
+revid: 156999
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium Weapons]
@@ -15,8 +15,10 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium W
 | damage | 22 |
 | scaling | MED: 6 |
 | range | 7.5 |
-| swing speed | 0.92 |
+| swing speed | 0.92x |
 | penetration | 5% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 70 |
 | weight | 6 |

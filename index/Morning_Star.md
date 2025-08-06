@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 156508
+revid: 157017
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Clubs, Medium Weapons]
 | swing speed | 0.98x |
 | penetration | 20% |
 | chip damage | 20% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Mace |
+| m.compatible | Clubs |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |
@@ -36,5 +40,4 @@ The **Morning Star** is a blunt club type medium weapon. It can be considered th
 
 -   Meeting the requirement of MED, the weapon deals 19.3 damage, but it becomes 25.9 with bleed.
 -   At max MED, the weapon deals 22.6 damage, but it becomes 29.4 with bleed.
--   This weapon can be used as a midgame club.
 -   Assumed to be based off of the real-life Morning Star weapon.

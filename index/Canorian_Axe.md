@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 153093
+revid: 157098
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -19,6 +19,10 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | swing speed | 0.83x |
 | penetration | 20% |
 | chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Battleaxe |
+| m.compatible | Greataxes |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 25 |
 | weight | 6 / 8 |

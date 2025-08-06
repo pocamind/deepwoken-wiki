@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 153116
+revid: 156984
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Rapiers, Light Weapons]
 | range | 8 |
 | swing speed | 1.1x |
 | penetration | 20% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Apprentice Rapier |
+| m.compatible | Rapiers |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 5 |
@@ -24,12 +28,12 @@ categories: [Weapons, Rapiers, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Megalodaunt Ship Event, Rogue/Hive Construct, Minityrsa, Saramaed Hollow |
+| obtainment | Starswept Valley, Megalodaunt Ship Event, Rogue Construct, Saramaed Hollow |
 | description | It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain. |
 
 ## Description
 
-The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference except for higher damage & scaling plus a 20% penetration stat. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) as well as the [Rogue Hive Constructs](Hive_Construct.md) at [Minitrysa](Minityrsa.md).
+The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference except for higher damage & scaling plus a 20% penetration stat. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) as well as the [Rogue Constructs](Rogue_Construct.md) at [Minityrsa](Minityrsa.md).
 
 ## Trivia
 

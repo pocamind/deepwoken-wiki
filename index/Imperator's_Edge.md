@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 156864
+revid: 157035
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons]
@@ -17,6 +17,8 @@ categories: [Weapons, Pages with broken file links, Weapons with Unique Critical
 | range | 11 |
 | swing speed | 0.93 |
 | penetration | 20% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 105 |
 | weight | 7 |

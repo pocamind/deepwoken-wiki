@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 153172
+revid: 156944
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -11,11 +11,13 @@ categories: [Weapons, Fists, Light Weapons]
 | Iron Cestus | |
 |---|---|
 | type | Light Weapon |
-| requirements | 0 LHT & Fist Style |
+| requirements | Fist Style |
 | damage | 13.5 |
 | scaling | LHT: 7.5 |
 | range | 6 |
 | swing speed | 1.11x |
+| m.equip | No |
+| m.extract | No |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |

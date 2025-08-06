@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 156504
+revid: 157031
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -18,6 +18,8 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowt
 | swing speed | 0.93x |
 | penetration | 25% |
 | chip damage | 10% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
 | weight | 5 |

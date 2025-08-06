@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 154429
+revid: 157116
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -16,6 +16,8 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapo
 | range | 9 |
 | swing speed | 0.8x / 0.81x |
 | endlag | 0.1s / N/A |
+| m.equip | No |
+| m.extract | No |
 | selling price | 14 |
 | weight | 9 / 9.5 |
 | bankable | Yes |

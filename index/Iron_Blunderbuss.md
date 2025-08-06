@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 153046
+revid: 157006
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -16,10 +16,9 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | scaling | MED: 7 |
 | range | 8 |
 | swing speed | 0.97x |
-| endlag | N/A |
 | penetration | 25% |
-| chip damage | N/A |
-| special effect | Behaves like a typical gun, then swings the weapon for a blunt attack. |
+| m.equip | Yes |
+| m.extract | Yes |
 | stances | 2 Handed |
 | selling price | 25 |
 | weight | 5 |
@@ -34,10 +33,12 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 
 The Iron Blunderbuss is a Medium Weapon that was added in the Verse 2 content update. It is among the first medium weapon guns, including the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>). The Iron Blunderbuss has 20 Base Damage and a scaling of 7 so it deals 27.9 damage at 75 MED, and 30.5 damage at 100 MED. The Iron Blunderbuss, like the Rosen's Peacemaker, has a blunt swinging attack and firing attack in its M1 string.
 
+Unlike other rifles, the Iron Blunderbuss does not have a projectile in its critical, instead it has a short hitbox in front of the weapon, similar to a regular blast shot in the M1 string.
+
 ## Trivia
 
 -   In PVP, if willing to account for the bullet requirement, the Iron Blunderbuss is a superior option due to having 25% penetration.
     -   Far superior than the [Stormseye](Stormseye.md), as despite being a legendary weapon it does not possess any penetration, and in damage.
     -   Crit has extra 1.35x dmg compared to m1 (aka from 34 per m1 will deal around **43** dmg, and also crit CD is 2s making it perfect to pressure style and inf posture due to "Critical Attack" talent)
 -   The critical's speed is very similar to the regular swingspeed, meaning it can cause some very interesting mixups when combined with the M1 bullet.
--   The maker of the **Iron Blunderbuss** and the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is [Gunsmith Rosen](Lore.md).
+-   The maker of the **Iron Blunderbuss** and the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is [Gunsmith Rosen](Gunsmith_Rosen.md).

@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 156786
+revid: 157099
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -18,6 +18,8 @@ categories: [Pages using duplicate arguments in template calls, Weapons, Greatax
 | swing speed | 0.83x |
 | penetration | 5% |
 | special effect | Rain down Ice Shards after 3 M1 hits, Talks when killing Ministry NPC's, Contractors or users of Prophet's Cloak, Critical uppercuts and freezes the enemy or plants crystals if the player has Glass Path: Crystallization |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 6 |
@@ -68,7 +70,7 @@ The critical freezes the opponent on successful hit, with Glass Path: Crystalliz
         -   "Broken easily."
         -   "Your own Depths shall take you."
         -   "Frail."
-        -   "Foolish pawns playing god."
+        -   "Foolish pawns playing God."
         -   "False strength."
         -   "Your cause is a poison to this world, pawn."
         -   "Death cannot contain me."

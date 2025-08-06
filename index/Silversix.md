@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 152131
+revid: 156957
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
@@ -16,6 +16,8 @@ categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
 | scaling | LHT: 13 |
 | range | 10 |
 | swing speed | 1.17x |
+| m.equip | Yes |
+| m.extract | Yes |
 | stances | 1 Handed |
 | offhand | Yes |
 | selling price | 7 |

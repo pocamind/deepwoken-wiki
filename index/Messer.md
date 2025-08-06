@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 153096
+revid: 157022
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
@@ -19,6 +19,10 @@ categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
 | swing speed | 0.93x |
 | penetration | 15% |
 | chip damage | 15% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Sword |
+| m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
 | selling price | 7 |
 | weight | 6 / 7 |

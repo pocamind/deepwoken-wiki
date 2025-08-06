@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 156913
+revid: 156939
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -20,7 +20,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, L
 | penetration | 15% |
 | m.equip | Yes |
 | m.extract | Yes |
-| m.crit | [[Whaling Knife]] |
+| m.crit | Whaling Knife |
 | m.compatible | Daggers |
 | stances | 1 Handed |
 | selling price | 25 / 50 |
@@ -40,7 +40,7 @@ This weapon can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and req
 
 ## Critical
 
-The user rushes forward while preforming a horizontal slash forward, the aforementioned slash having a red trail.
+The user rushes forward while performing a horizontal slash forward, the slash having a red trail.
 
 The critical has a cooldown of **3 seconds**.
 

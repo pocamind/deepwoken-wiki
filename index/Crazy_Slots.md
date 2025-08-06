@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 156609
+revid: 157052
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -185,6 +185,6 @@ Gain a speed boost before leaping into the air and crashing down at your cursor.
 -   This Resonance may also be inspired by the "_Shardblades"_ from _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, which are powerful summonable weapons that produce white mist when materialized.
 -   The Soulwrought Flintlock is one of the only three pistols in the game to play a unique sound on M1/crit, alongside the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>).
 -   The Soulwrought weapons can actually be wielded without the Resonance, though whether or not there is a reason for this has yet to be explained.
-    -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Soulwrought Greataxes.
+    -   The [Golden Warriors](Golden_Warrior.md) found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Soulwrought Greataxes.
     -   The [Greater Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Soulwrought Spears.
     -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterparts, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Soulwrought Greatsword or Soulwrought Greataxe.

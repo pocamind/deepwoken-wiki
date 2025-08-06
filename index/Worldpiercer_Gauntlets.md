@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 156553
+revid: 156953
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -17,6 +17,8 @@ categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
 | range | 6 |
 | swing speed | 1.08x |
 | penetration | 15% |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | weight | 6 |
 | bankable | Yes |

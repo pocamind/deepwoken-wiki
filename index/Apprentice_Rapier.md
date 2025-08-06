@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 152528
+revid: 156970
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons]
@@ -16,6 +16,10 @@ categories: [Weapons, Rapiers, Light Weapons]
 | scaling | LHT: 6.5 |
 | range | 8 |
 | swing speed | 1.06x |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Apprentice Rapier |
+| m.compatible | Rapiers |
 | stances | 1 Handed |
 | selling price | 14 |
 | weight | 4 |

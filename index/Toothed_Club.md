@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 156507
+revid: 157019
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Clubs, Medium Weapons]
 | swing speed | 0.98x |
 | penetration | 10% |
 | chip damage | 5% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Mace |
+| m.compatible | Clubs |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 6 |

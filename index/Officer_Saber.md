@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 153083
+revid: 156983
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Medium Weapons]
@@ -18,6 +18,10 @@ categories: [Pages with broken file links, Weapons, Swords, Weapons of The Centr
 | range | 8 |
 | swing speed | 1x |
 | chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Officer Saber |
+| m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 6 |

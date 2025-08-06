@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 153229
+revid: 156977
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Rapiers, Light Weapons]
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 30% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Apprentice Rapier |
+| m.compatible | Rapiers |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 4 |
@@ -30,10 +34,6 @@ categories: [Weapons, Rapiers, Light Weapons]
 ## Description
 
 The Kyrstreza is an endgame [Light Weapon](Weapons.md) under the Rapier category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the default Rapier Critical Attack, which consists of a short windup followed by multiple quick thrusts forward.
-
-  
-  
-  
 
 ## Tips/Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 153064
+revid: 157010
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -16,7 +16,8 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | scaling | MED: 6 |
 | range | 8 |
 | swing speed | 1x |
-| endlag | N/A |
+| m.equip | Yes |
+| m.extract | Yes |
 | stances | 2 Handed |
 | selling price | 14 |
 | weight | 4 |

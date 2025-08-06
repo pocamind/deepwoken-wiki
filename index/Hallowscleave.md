@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 156144
+revid: 157053
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Swords, Event Item, Hallowtide, Medium Weapons]
 | range | 8 |
 | swing speed | 1x |
 | penetration | 25% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Sword |
+| m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
 | weight | 6 |
@@ -36,5 +40,5 @@ The Hallowscleave is a MED weapon in the Swords category. It is obtained by gett
 -   Meeting the requirement of MED, the damage is (26.5)
 -   At max MED, the damage is (29)
 -   Cannot be dropped (same properties as a Soulbound weapon, but you can still pass it down).
--   Might be a refrence to Horseman's Blade from Terraria.
+-   Might be a reference to Horseman's Blade from Terraria.
     -   The blade part itself is a copy paste of the base Rogue Lineage [sword design](https://rogue-lineage.fandom.com/wiki/Swords).

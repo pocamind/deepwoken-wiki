@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 156350
+revid: 156942
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Medium Weapons]
@@ -16,7 +16,11 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Medium Weapons]
 | scaling | MED: 6 |
 | range | 8 |
 | swing speed | 0.97x |
-| penetration | 15 |
+| penetration | 15% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Serpent's Edge |
+| m.compatible | Swords, Spears |
 | stances | 2 Handed, 1 Handed |
 | selling price | 25 |
 | weight | 6 |

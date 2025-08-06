@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 153175
+revid: 157002
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Twinblades, Medium Weapons]
 | range | 7 |
 | swing speed | 1x |
 | chip damage | 30% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Scalesplitter |
+| m.compatible | Twinblades |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 4 |

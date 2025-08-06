@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 153610
+revid: 157050
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons]
@@ -18,6 +18,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | swing speed | 1x |
 | penetration | 5% |
 | special effect | The critical heals the user. The amount healed can be increased with the Tavernkeep Talents. |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |

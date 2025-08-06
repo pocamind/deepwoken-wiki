@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 156509
+revid: 156998
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -17,6 +17,8 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hal
 | range | 8 |
 | swing speed | 1.01x |
 | penetration | 15% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
 | weight | 7.5 |

@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 154087
+revid: 157021
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics]
@@ -17,6 +17,8 @@ categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, 
 | range | 8 |
 | swing speed | 0.9x |
 | penetration | 10% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 4 |

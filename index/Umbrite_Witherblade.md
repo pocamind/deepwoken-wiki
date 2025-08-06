@@ -1,9 +1,9 @@
 ---
 title: Umbrite Witherblade
-revid: 153239
+revid: 157160
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics]
+categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, Craftable, Medium Weapons, Relics]
 ---
 
 # Umbrite Witherblade
@@ -19,6 +19,8 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium W
 | penetration | N/A |
 | chip damage | 20% |
 | special effect | M1s apply 50% of scaled damage as Wither |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |

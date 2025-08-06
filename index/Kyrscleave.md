@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 156512
+revid: 157003
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
 | swing speed | 0.81x |
 | endlag | 0.1s |
 | chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Crescent Cleaver |
+| m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50 |
 | weight | 9 |

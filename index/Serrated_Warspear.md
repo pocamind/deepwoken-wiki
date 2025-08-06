@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 156503
+revid: 157030
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Medium Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Spears, Drops, Medium Weapons]
 | swing speed | 0.93x |
 | penetration | 20% |
 | chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Iron Spear |
+| m.compatible | Spears |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
 | weight | 5 |

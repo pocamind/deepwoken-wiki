@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 153170
+revid: 156971
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -17,6 +17,10 @@ categories: [Weapons, Rapiers, Light Weapons, Items]
 | range | 8 |
 | swing speed | 1.08x |
 | penetration | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Apprentice Rapier |
+| m.compatible | Rapiers |
 | stances | 1 Handed |
 | selling price | 14 |
 | weight | 4 |

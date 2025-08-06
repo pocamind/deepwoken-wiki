@@ -1,9 +1,9 @@
 ---
 title: Skyreap Blade
-revid: 153039
+revid: 157146
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Greataxes, Event Item, Hallowtide, Heavy Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Greataxes, Event Item, Hallowtide, Heavy Weapons]
 ---
 
 # Skyreap Blade
@@ -17,6 +17,8 @@ categories: [Weapons, Weapons with Unique Criticals, Greataxes, Event Item, Hall
 | range | 8.5 |
 | swing speed | 0.91x |
 | penetration | 25% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 7.5 |
 | bankable | Yes |

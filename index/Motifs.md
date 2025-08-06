@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 156884
+revid: 157070
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ Motifs can be unequipped at any time at a Campfire; the Motif will return to you
 
 ## Compatibility
 
-Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten (see below for more info). This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Divine Weapons](Crazy_Slots.md).
+Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten (see below for more info). This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Soulwrought Weapons](Crazy_Slots.md#weapons).
 
 Any weapon with a default critical (excluding Fist weapons) can be used to obtain a Motif. Base critical Motifs can only be equipped onto other weapons within that weapon class.
 
@@ -34,7 +34,7 @@ There are a few specific weapons that can equip Motifs despite them not being Mo
 
 -   Light Weapons: [Needle's Eye](<Needle's_Eye.md>) / [Tanto](Tanto.md) / [Alloyed Tanto](Tanto.md#alloyed)
 -   Medium Weapons: [Gremorian Longspear](Gremorian_Longspear.md) / [Alloyed Longspear](Gremorian_Longspear.md#alloyed) / True Seraph's Spear
--   Heavy Weapons: [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) (though strangely, this can only accept Greatcannon Motifs, and none of those exist currently)
+-   Heavy Weapons: [Edenbrand Hellcoil](Edenbrand_Hellcoil.md)
 
 ### 
 
@@ -74,19 +74,6 @@ Daggers
  | 
 
 [Whaling Knife](Whaling_Knife.md)
-
- | 
-
-Daggers
-
- |
-| 
-
-[Silver Dagger](Silver_Dagger.md)
-
- | 
-
-[Silver Dagger](Silver_Dagger.md)
 
  | 
 
@@ -237,3 +224,4 @@ For example, if you had Shotel Motif on Razor Cutlass, your critical would have 
 -   The 'Gun' Motif uniquely can be obtained from and can be applied to _both_ the Rifle and Pistol weapon classes despite it being a base weapon critical. With that being said, this Motif will do effectively nothing when applied since you're replacing a base weapon critical with the same base weapon critical.
     -   Using the 'Gun' Motif on the [Iron Blunderbuss](Iron_Blunderbuss.md) does nothing; the critical stays the same instead of becoming ranged.
 -   [Visionshaper](Oath%253A_Visionshaper.md) clones do not use your equipped Motif, instead they'll use the base critical of your weapon.
+-   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) has a Motif slot despite being a Legendary Weapon. Strangely though, it can only equip Greatcannon Motifs and none of those exist currently.

@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 153130
+revid: 157106
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, Items, Weapons with Consecutive Criticals]
@@ -17,6 +17,8 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Drops, Heavy Wea
 | range | 8.5 |
 | swing speed | 0.76x |
 | penetration | 10% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50 |
 | weight | 8 |

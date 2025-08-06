@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 153073
+revid: 156982
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, We
 | range | 8 |
 | swing speed | 1x |
 | penetration | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Officer Saber |
+| m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 / 6 |

@@ -1,9 +1,9 @@
 ---
 title: Purple Cloud
-revid: 152295
+revid: 157162
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons]
+categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
 ---
 
 # Purple Cloud
@@ -17,6 +17,8 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Medium Wea
 | range | 6.5 |
 | swing speed | 1.06x |
 | penetration | 15% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 5 |
@@ -49,6 +51,6 @@ The critical has a cooldown of **7 seconds**.
 -   Despite being a pseudo fist-type weapon, it does not proc/activate Talents related to fists.
 -   Its critical attack is based on the martial art "Iaido."
     -   This involves quickly drawing and sheathing the sword in order to attack or defend.
--   Currently bugged when enchanted with [Stormbreaker](Enchantments.md); upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
+-   Currently bugged when enchanted with [Stormbreaker](Stormbreaker.md); upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average damage, attack speed and slightly below average range as what you would expect from a medium weapon.
 -   It can only be used one-handed.

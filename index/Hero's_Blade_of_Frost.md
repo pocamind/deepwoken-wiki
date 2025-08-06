@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 153160
+revid: 157062
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -16,6 +16,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | scaling | ICE: 5.5 |
 | range | 8 |
 | swing speed | 1x |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 5 |

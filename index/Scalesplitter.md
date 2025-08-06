@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 153204
+revid: 157000
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
 | range | 8 |
 | swing speed | 0.9x / 1.0x |
 | penetration | 10% / 15% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Scalesplitter |
+| m.compatible | Twinblades |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
 | weight | 5 / 6 |

@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 151472
+revid: 157141
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -12,7 +12,7 @@ categories: [Items, Outfits, Adept Outfits]
 |---|---|
 | caption | A garb commonly worn by shadowy thieves and assassins, excellent for sneaking up on enemies. |
 | tier | Adept |
-| crafting_req | x5 Cloth, x5 Fiber, x2 Gold, x10 Iron |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Umbral Obsidian |
 | stat_req | 10 Agility |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 152035
+revid: 157103
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -18,6 +18,8 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | swing speed | 0.8x |
 | penetration | 25% |
 | chip damage | 10% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 25 |
 | weight | 10 |

@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 156894
+revid: 157060
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Medium Weapons]
@@ -17,6 +17,8 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapo
 | range | 7.5 |
 | swing speed | 1.02x |
 | penetration | 30% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | ? |
 | weight | 5 |
@@ -30,8 +32,6 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapo
 ## Description
 
 The **Nocturne** is a dual-wielded medium weapon found at the [Moon's Eyrie](<Moon's_Eyrie.md>), east of the compass in the Eastern Luminant, the [Dread Serpent](Dread_Serpent.md), or other Voidsea events. It is a common drop from a [Moon Knight](Moon_Knight.md)'s chest.
-
-This weapon deals 30.4 damage at 100 Medium and deals 34.8 damage with the added 6 proficiency meaning it deals 36.9 with three-star damage.
 
 ## Critical
 

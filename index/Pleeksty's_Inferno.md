@@ -1,9 +1,9 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 156739
+revid: 157153
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
+categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Medium Weapons]
 ---
 
 # Pleeksty's Inferno
@@ -18,6 +18,8 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weap
 | swing speed | 0.94x |
 | penetration | 30% |
 | chip damage | 10% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 8 |

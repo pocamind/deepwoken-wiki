@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 156510
+revid: 157001
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -10,6 +10,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 
 | Crescent Cleaver | |
 |---|---|
+| type | Greatsword |
 | requirements | 45 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 + 6.6 BLD |
 | scaling | HVY: 8 / HVY: 9.5 |
@@ -17,6 +18,11 @@ categories: [Pages with broken file links, Weapons, Greatswords, Weapons with Un
 | swing speed | 0.8x |
 | endlag | 0.1s |
 | chip damage | 20% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Crescent Cleaver |
+| m.compatible | Greatswords |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 25 |
 | weight | 9 |
 | bankable | Yes |

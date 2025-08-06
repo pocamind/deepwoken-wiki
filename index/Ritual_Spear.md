@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 152021
+revid: 156996
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Medium Weapons]
@@ -16,7 +16,11 @@ categories: [Weapons, Spears, Medium Weapons]
 | scaling | MED: 5 |
 | range | 9 |
 | swing speed | 0.9x |
-| penetration | 25 |
+| penetration | 25% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Iron Spear |
+| m.compatible | Spears |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
 | weight | 5 |

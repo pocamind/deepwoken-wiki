@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 156347
+revid: 157113
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons]
@@ -17,6 +17,8 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons]
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 9 |

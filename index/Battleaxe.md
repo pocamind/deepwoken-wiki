@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 152481
+revid: 157072
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -16,6 +16,10 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | scaling | HVY: 5 |
 | range | 8 |
 | swing speed | 0.83x |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Battleaxe |
+| m.compatible | Greataxes |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 7 |
 | weight | 6 |
@@ -23,7 +27,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Picking Heavy in Character Creation, Etris Weapons Shop, Rare drop in Erisia |
+| obtainment | Character Creation, Etris Weapons Shop, Rare drop in Erisia |
 | description | A sturdy axe perfect for splitting bone. |
 
 ## Description

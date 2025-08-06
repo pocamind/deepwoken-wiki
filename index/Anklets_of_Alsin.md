@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 152530
+revid: 156931
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -18,6 +18,8 @@ categories: [Weapons, Fists, Light Weapons]
 | swing speed | 1.14x |
 | penetration | 15% |
 | chip damage | 10% |
+| m.equip | No |
+| m.extract | No |
 | selling price | 25 |
 | weight | 3 |
 | bankable | Yes |

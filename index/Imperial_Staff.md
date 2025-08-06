@@ -1,9 +1,9 @@
 ---
 title: Imperial Staff
-revid: 156874
+revid: 157163
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
+categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Medium Weapons]
 ---
 
 # Imperial Staff
@@ -18,6 +18,8 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | swing speed | 1x |
 | penetration | 10% |
 | special effect | Ranged Critical (ragdolls), Aerial Critical (slam, high posture, lifts target into air), Running Critical (multi-hit) |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 6 |
@@ -25,7 +27,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Titus Fulminus Destellus, Fishing, Detainment Core |
+| obtainment | Maestro Evengarde Rest, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Titus Fulminus Destellus, Fishing |
 | description | Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation. |
 
 ## Description

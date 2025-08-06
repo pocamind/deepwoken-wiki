@@ -1,9 +1,9 @@
 ---
 title: Railblade
-revid: 152289
+revid: 157156
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatswords, The Ignition Union, Heavy Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Greatswords, The Ignition Union, Heavy Weapons]
 ---
 
 # Railblade
@@ -18,6 +18,8 @@ categories: [Weapons, Weapons with Unique Criticals, Multiple Criticals, Greatsw
 | swing speed | 0.88x |
 | penetration | 25% |
 | special effect | Sets enemies you hit with the critical on fire. |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 100 |
 | weight | 8 |

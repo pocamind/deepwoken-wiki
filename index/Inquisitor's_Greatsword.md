@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 153168
+revid: 157111
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Greatswords, Heavy Weapons]
 | range | 9 |
 | swing speed | 0.84x |
 | endlag | 0.1s |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Soulwrought Greatsword |
+| m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50 |
 | weight | 9 |

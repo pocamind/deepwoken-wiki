@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 154080
+revid: 156920
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Drops, Light Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Daggers, Drops, Light Weapons]
 | range | 6.5 |
 | swing speed | 1.23x |
 | penetration | 5% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Stiletto |
+| m.compatible | Daggers |
 | stances | 1 Handed |
 | selling price | 14 |
 | weight | 4 |

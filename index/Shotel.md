@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 156798
+revid: 157080
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons, Medium Weapons]
@@ -19,6 +19,10 @@ categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons, Med
 | swing speed | 0.97x |
 | penetration | 10% |
 | chip damage | 20% / 30% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Shotel |
+| m.compatible | Swords, Clubs, Twinblades, Spears, Bows |
 | stances | 2 Handed, 1 Handed |
 | selling price | 25 |
 | weight | 4 |

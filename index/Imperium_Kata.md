@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 156790
+revid: 156943
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -16,6 +16,8 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 | scaling | LHT: 7 |
 | range | 6 |
 | swing speed | 1.13x |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | weight | 3 |
 | bankable | Yes |

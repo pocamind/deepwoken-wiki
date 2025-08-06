@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 154140
+revid: 157012
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
@@ -16,6 +16,8 @@ categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
 | scaling | MED: 5, MND: 3 |
 | range | 7.5 |
 | swing speed | 1x |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | weight | 7 |
 | bankable | Yes |

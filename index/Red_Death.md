@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 156670
+revid: 157027
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple Criticals, "Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons]
@@ -17,6 +17,8 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple
 | range | 9.5 |
 | swing speed | 0.92x |
 | penetration | 25% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 100 |
 | weight | 6 |

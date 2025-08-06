@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 152323
+revid: 157090
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
@@ -18,6 +18,10 @@ categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weap
 | swing speed | 0.73x |
 | penetration | 20% |
 | chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Pale Morning |
+| m.compatible | Greathammers |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50 |
 | weight | 13 |

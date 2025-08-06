@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 156495
+revid: 156980
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Rapiers, Event Item, Hallowtide, Light Weapons]
 | range | 8.5 |
 | swing speed | 1.08x |
 | penetration | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Apprentice Rapier |
+| m.compatible | Rapiers |
 | stances | 1 Handed |
 | selling price | 50 |
 | weight | 4 |
@@ -29,7 +33,7 @@ categories: [Weapons, Rapiers, Event Item, Hallowtide, Light Weapons]
 
 ## Description
 
-The Skull Piercer is a [Light Weapon](Weapons.md) in the rapier category. It is obtained by getting [Hallowtide](Hallowtide.md) Joy and talking to [Glaive](Glaive_Spellhardt.md) or turning knowledge with Hallowtide Medals. Only obtainable second week of [Hallowtide.](Hallowtide.md) This is the only rapier that procs bleed and has 8.5 range, making it better than the [Crucible Rapier](Crucible_Rapier.md) and [Golden Swordfish](Golden_Swordfish.md)
+The Skull Piercer is a [Light Weapon](Weapons.md) in the rapier category. It is obtained by getting [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md) or turning knowledge with Hallowtide Medals. This is the only rapier that procs bleed and has 8.5 range, making it better than the [Crucible Rapier](Crucible_Rapier.md) and [Golden Swordfish](Golden_Swordfish.md)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 153098
+revid: 157039
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -19,6 +19,8 @@ categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons wit
 | swing speed | 1x |
 | penetration | 10% |
 | chip damage | 10% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |
 | bankable | Yes |

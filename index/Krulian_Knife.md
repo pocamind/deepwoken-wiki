@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 153182
+revid: 156927
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
@@ -17,6 +17,10 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 20% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | [[Krulian Knife]] |
+| m.compatible | Daggers |
 | stances | 1 Handed |
 | selling price | 100 |
 | weight | 4 |

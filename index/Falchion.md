@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 153099
+revid: 157023
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -18,6 +18,8 @@ categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords, Me
 | range | 7.5 |
 | swing speed | 1.06x |
 | penetration | 20% |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 10 |
 | weight | 4 / 5 |
