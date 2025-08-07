@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 155306
+revid: 157253
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -13,7 +13,7 @@ categories: [Monsters]
 ― Bestiary Entry
 
   
-Template:Creature Infobox V3_Also referred to as Harpy or Bat._
+Template:Creature Infobox V3_Also referred to as Bat._
 
 ## Description
 

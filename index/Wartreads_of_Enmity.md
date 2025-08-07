@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 155583
+revid: 157257
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment, Items]
@@ -40,5 +40,4 @@ File:Wartreadsplaceholder.png
 
 -   This equipment was secretly nerfed shortly after release. It previously granted the wearer +10 innate HP and two additional rare pips.
     -   Additionally, the Wartreads previously had the Perseverance talent and no innate Posture, but this was changed on the January 11th, 2025 update.
--   Notably has more DVM potential (and less hp) than other boots; fitting for how it is gained, and is this considered a PvE sidegrade.
 -   In an interview, Arch\_Mage mentioned that incentivizing new content, like Luminants and layers of the Depths, is tough without power-creeping current equipment. Because of this, it's likely that the Enmity set was initially given superior stats to test the player base's reaction to a shake up of the equipment metagame.
