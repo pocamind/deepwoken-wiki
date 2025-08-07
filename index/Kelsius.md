@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 155587
+revid: 157272
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in the Etrean Luminant]
@@ -137,7 +137,7 @@ Kelsius is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
   <td colspan="2">Alright.</td>
 </tr>
 <tr>
-  <td>[See previous instance.]</td>
+  <td>[See previous instance]</td>
 </tr>
 <tr>
   <td>End</td>
@@ -160,7 +160,7 @@ Kelsius is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
   <td>Tell me about yourself.</td>
 </tr>
 <tr>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
   <td>Myself? What an interesting question to ask a librarian... <i>*Ahem.*</i> Well, before I came here to the Temple I was an officer in the <a href="Glossary.md#the-central-authority">Central Authority</a>. Specifically, I worked in the Shock Corps as a Thundercaller.</td>
 </tr>
 <tr>

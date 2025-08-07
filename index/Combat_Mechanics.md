@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 157071
+revid: 157282
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -385,7 +385,7 @@ Image
 -   TBA
 
  |
-| Circle\*\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
+| Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
 
 -   Any guard-breaking [Weapon](Weapons.md) critical (White)

@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 156974
+revid: 157277
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -51,7 +51,7 @@ The critical has a cooldown of **14 seconds**.
 ## Trivia
 
 -   The weapon has a "Unique" rarity, despite this it is droppable. It can also be banked.
--   The Edenbrand Hellcoil was the first Greatcannon to be added to deepwoken.
+-   The Edenbrand Hellcoil is the first Greatcannon to be added to Deepwoken.
 -   Edenbrand Hellcoil's critical is the only attack in the game that deals true damage, completely ignoring **all** resistances.
 -   Edenbrand Hellcoil's critical bypasses and deals damage through [Duke's](Duke_Ishamon_Erisia.md) phase 1 shield.
 -   Edenbrand Hellcoil's critical cannot be used by [Visionshaper](Oath%253A_Visionshaper.md) clones. When attempting to make your Visionshaper clones use the Hellcoil critical, they'll perform the windup and then return to their idle state without ever firing the cannon.

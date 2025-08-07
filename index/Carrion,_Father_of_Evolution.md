@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 154108
+revid: 157273
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1]
@@ -60,7 +60,7 @@ His wild white hair and unique green eyes are side effects of a Moonseye Vigour 
 </tr>
 <tr>
   <td colspan="4">Don't you care the world is ending?</td>
-  <td>End</td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
   <td colspan="4"><i>*He looks at you with a puzzled expression.*</i> No? Should I be? That's what you're here for after all, correct? <i>*His mouth twitches into a smile momentarily and just as soon back to a puzzling frown. You can sense that man is cackling internally, laughing at your expense.*</i></td>

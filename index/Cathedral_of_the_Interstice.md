@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 150126
+revid: 157283
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,7 +31,7 @@ Once the trial is completed, players are also granted total immunity to damage u
 
 Some things can add extra Difficulty Score:
 
--   The [echo modifier](Echoes.md) **Vow Of Thorns** adds 30 Difficulty Score
+-   The [Echo Modifier](Echoes.md) **Vow Of Thorns** adds 30 Difficulty Score
 -   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score
 -   The **Deepbound** [Origin](Origins.md#deepbound) has an innate 50 Difficulty Score induced by Power (they count as being at least Power 17). They normally gain Difficulty Score when above that.
 
@@ -39,7 +39,7 @@ Some things can add extra Difficulty Score:
 | --- | --- |
 | 1-14 (est. [Power](Power.md) 1-4)\* | Nothing (you are sent up without a fight) |
 | 15-19 (est. [Power](Power.md) 5-6)\* | [Mudskipper Knight](Mudskipper_Knight.md) |
-| 20-29 (est. [Power](Power.md) 7-9)\* | [Lesser Angel](Hollow_Angel.md) |
+| 20-29 (est. [Power](Power.md) 7-9)\* | [Hollow Angel](Hollow_Angel.md) |
 | 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be Template:CorruptedColor) |
 | 50-79 (est. [Power](Power.md) 17-20)\* | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (The [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in Template:CorruptedColor, but a [Fury Nautilodaunt](Fury_Nautilodaunt.md) can only spawn Template:CorruptedColor if you have the echo modifier [Deep Champion](Echoes.md).) |

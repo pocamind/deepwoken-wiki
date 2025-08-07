@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 157160
+revid: 157286
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, Craftable, Medium Weapons, Relics]
@@ -54,7 +54,7 @@ The user gains a purple sigil on their head and aura around them with brief hype
 
 The first hit has 0.2s of hyper armor and deals **0.35x** of your weapon's scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
 
-The second slash deals **0.45x** of your weapon's scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage with no chip, and **autogrips** any knocked player or those hit and knocked by it.
+The second slash deals **0.45x** of your weapon's scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage with no chip and knocks the opponent away. The second slash will also **autogrip** any knocked player or those hit and knocked by it.
 
 The cooldown for this critical is **8** seconds.
 

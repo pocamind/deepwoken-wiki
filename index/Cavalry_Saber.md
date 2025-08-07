@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 156982
+revid: 157292
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons]
@@ -38,7 +38,9 @@ The Cavalry Saber is a midgame weapon obtained from the [Depths](The_Depths.md) 
 
 ## Critical
 
-Perform a flurry of quick slashes without losing momentum. Hits 4 times.
+The user performs a flurry of slashes, hitting up to 4 times. The first hit will deal 0.63x of scaled damage, followed by the last three hits dealing 0.525x scaled damage.
+
+The critical has a cooldown of **5** seconds.
 
 ## Trivia
 

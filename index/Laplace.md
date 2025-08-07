@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 153305
+revid: 157274
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Hive]
@@ -88,7 +88,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td colspan="15">[See first instance.]</td>
+  <td colspan="15">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -214,7 +214,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
   <td colspan="3">[See any previous instances.]</td>
 </tr>
 <tr>
-  <td colspan="6">[See previous instance.]</td>
+  <td colspan="6">[See previous instance]</td>
   <td colspan="3">End</td>
   <td colspan="3"></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157241
+revid: 157276
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3635,10 +3635,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Deals 45 Typeless damage with 20 Posture damage.
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) and [Imperium Kata](Imperium_Kata.md) attacks now deal 4% more damage.
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 10% additional penetration.
-    -   Gives [Way of Navae](Way_of_Navae.md) Basic Attacks have 25% more PEN. This does **NOT** apply to criticals.
+    -   Gives [Way of Navae](Way_of_Navae.md) basic attacks 10% more PEN. This does **NOT** apply to criticals.
     -   This bypasses the PEN cap.
     -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as Basic Attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 156868
+revid: 157275
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -361,7 +361,7 @@ This has a 6 second cooldown and charges cannot be stacked.
  |
 | 
 
- | [Mantle Of Enmity](Mantle_of_Enmity.md) - A set of wing resembling those of [The Heart Of Enmity](Heart_of_Enmity.md), Grants the talent "Heartwing Beat" which transforms your aerial attack to a double hit  
+ | [**Mantle Of Enmity**](Mantle_of_Enmity.md) - A set of wing resembling those of [The Heart Of Enmity](Heart_of_Enmity.md), Grants the Talent "Heartwing Beat" which transforms your aerial attack to a double hit  
 hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and will scale according to your currently held weapon. | 
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -369,7 +369,7 @@ hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and
  |
 | 
 
- | **[Imperator's Fury](<Imperator's_Fury.md>)** - A Medallion that grants the ability "Brute Strength". This ability transforms the user's [Vent](Combat_Mechanics.md) into a devastating stomp attack, knocking enemies away. | 
+ | **[Imperator's Fury](<Imperator's_Fury.md>)** - A Medallion that grants the Talent "Brute Strength" which transforms the user's [Vent](Combat_Mechanics.md) into a devastating slam attack that deals 45 damage and knocks enemies back. | 
 
 -   [Titus](Titus_Fulminus_Destellus.md)
 
