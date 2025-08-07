@@ -1,11 +1,9 @@
 ---
 title: Star Boots
-revid: 156745
+revid: 157322
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
-notices:
-  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily."
 ---
 
 # Star Boots
@@ -25,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | This item is currently unobtainable due to being Vaulted. |
+| obtainment | This item is currently EXTREMELY hard to obtain through the methods below.Chests from:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Starswept Valley, The Depths, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Interluminary Parasol, Maestro Evengarde Rest, War Mode |
 | description | Formerly mass produced by the cobblers of Celtor, these boots have become quite the collector's item in recent years. |
 
 ## Description
@@ -35,4 +33,4 @@ Star Boots are an [Equipment](Equipment.md) item under the "Legs" category. They
 ## Trivia
 
 -   Considered to be one of the best boots in the game due to its Pips and innate +5 HP, though it has identical innate stats to the [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) and the [Imperial Boots](Imperial_Boots.md).
--   This item was vaulted on the date 8/4/2025.
+-   This item was made a lot harder to obtain through normal methods due to it being a "scarce resource" 8/4/2025.
