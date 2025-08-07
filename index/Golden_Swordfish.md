@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 156987
+revid: 157311
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Weapons with Unique Criticals, Light Weapons, Fishing]
@@ -58,7 +58,7 @@ The critical has a cooldown of **5 seconds**.
     -   The so-called "sword" bill of a typical swordfish is not particularly strong, but there is a historical precedent for it being used as a weapon.
     -   The critical itself is the same critical used by the [Trident Spear](Trident_Spear.md).
         -   This weapon's motif CANNOT be applied to other rapiers, despite it being a rapier itself. Using a smith alloy on it and extracting its motif will give you the Trident motif. (Basically don't extract the critical, you can get the same motif with a trident.)
--   Meeting the requirement of LHT, the damage is (21.8) Meeting the requirement of LHT, the damage is (21.8)
+-   Meeting the requirement of LHT, the damage is (21.8)
 -   At max LHT, the damage is (24)
 
 -   Despite acting like a Soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing knowledge, provided it is not [Enchanted](Enchantments.md).

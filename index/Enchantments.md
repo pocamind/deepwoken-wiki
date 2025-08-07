@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 157180
+revid: 157299
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -190,12 +190,12 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
-  <td><div><p>Gain chip damage, with the chip amount depending on weapon type and your weapon's innate chip amount.<br>
+  <td><div><p>Gain LHT: 5%, MED: 10%, HVY: 15% chip damage. The chip obfuscation grants <b>heavily</b> diminishes based on the amount of innate chip your weapon has.<br>
   The formula is as follows: C<sub>innate</sub> + C<sub>obf</sub> * (1 - min (1, C<sub>innate</sub>/(2 * C<sub>obf</sub>))). Desmos calculator <a href="https://www.desmos.com/calculator/codwr8t9cy">here</a>.</p>
   <p>Key:<br>
   C<sub>innate</sub> = your weapon's innate chip damage.<br>
   C<sub>obf</sub> = the amount of chip obfuscation would give you if your weapon has no innate chip (LHT: 5%, MED: 10%, HVY: 15% chip), however this number will be 0 if your weapon has twice that amount of innate chip.</p>
-  <p>Obfuscation will do <b>nothing</b> if your weapon's innate chip is at or over LHT: 10%, MED: 15%, HVY: 30%.</p></div></td>
+  <p><b>Obfuscation will do nothing if your weapon's innate chip is at or over LHT: 10%, MED: 15%, HVY: 30%.</b></p></div></td>
   <td><div>The weapon turns gains a white outline and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
@@ -215,7 +215,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Deal 4% HP damage, ignores all resistances.<br>
   PVE Scale: 35% from parried damage x ()userpower in PVE.<br>
   Damage capped at <b>500</b><br>
-  Effect is parriable.</p></div></td>
+  Effect is parriable.</p>
+  <p>Certain bosses are <b>entirely immune</b> to Providence Thorns. These are: <a href="Maestro_Evengarde_Rest.md">Maestro Evangarde Rest</a> and <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.</p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>
 <tr>
@@ -369,7 +370,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse Of Repulsion<div></div></font></center></td>
   <td><div><p>While blocking, take 30% chip DMG only if the enchant procs.<br>
   Successful proc will push attacker backwards and put the enchant on 2.5 second cooldown. <b>NO RANGE LIMIT, AFFECTED BY ANY ATTACK</b></p></div></td>
-  <td><div>Weapon is colored blue and has VENT like electricity particles on</div></td>
+  <td><div>Weapon is colored blue and has Vent-like electricity particles.</div></td>
 </tr>
 <tr>
   <td><figure>File:COA.gif<figcaption></figcaption></figure><center><br>
@@ -386,7 +387,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <u><b>ETHER DRAIN DEPENDS ON SCALED DMG (no dmg mods)</b></u><br>
   Critical attack is replaced with a counter that, upon use, takes away 25% ether. (if available). Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture and refunding 15% ether.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
-  Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
+  Check <a href="#trivia">Trivia</a> for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
   When sheathed, the weapon model is completely invisible.</div></td>
 </tr>
@@ -410,7 +411,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   The damage of explosion and amount of Temporary Health given are randomized. <b>Damage:</b> 5.5-33, averaging 18.7 out of 100 procs. <b>Temporary Health:</b> 0-50, averaging 25.77 out of 100 procs.<br>
   <b>Explosions cannot execute</b>, cannot be buffed, and <b>bypass armor resistances</b>.<br>
   <br>
-  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a>, <a href="Rogue_Construct.md">Rogue Construct</a> chests, <a href="Cloaked_Assassin.md">Cloaked Assassin</a> chests, <a href="Calamus.md">Calamus</a> job chests and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>. Can also be obtained as a direct drop from <a href="Hive_Construct.md">Hive Constructs</a> and <a href="Fishing.md">Fishing</a> chests. Small chance to drop from chests in the <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a><br>
+  Can be obtained via an Enchant Stone that is exclusively obtained from <a href="Primadon,_Titan_of_the_East.md">Primadon's</a> &amp; <a href="Elder_Primadon,_The_Titan_Warlord.md">Elder Primadon's</a> chests, <a href="The_Starswept_Valley.md">Starswept Valley</a> chests, <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a> chests, <a href="Fishing.md">Fishing</a> chests, directly dropped from <a href="Hive_Construct.md">Hive/Rogue Constructs</a>, and turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>.<br>
   Explosion has 7.56X PVE scale and Green Fire PVE scale is 6.66x. Temporary Health doesn't scale with PVE.</p></div></td>
   <td><div>Weapon is bright green, surrounded by a green lightning-like aura.</div></td>
 </tr>

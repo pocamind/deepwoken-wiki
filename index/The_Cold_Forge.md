@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 152386
+revid: 157302
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Divers]
@@ -22,7 +22,7 @@ The Cold Forge is a laboratory hidden within [Scyphozia](The_Depths.md). It is l
 
 A Laboratory used by [Coldheart Fortinbras](Coldheart_Fortinbras.md). This location seems to be a somewhat small laboratory partially covered in ice due to the freezing temperature, housing an assortment of bookshelves, pipes and glass tubes. In the center of the room is a pit full of a black, foggy unknown substance. This room also has lights similar to what can be found in [Castle Light](Castle_Light.md), but instead of glowing yellow, these glow blue. Two sets of lockers can be found at the entrance.
 
-A lore book called "[Coldheart's Journal](Books.md)" when equipped, can be found in one of the corners on a table that may contain possible lore about the near future attunement; [Lifeweave](Lifeweave.md).
+A lore book called "[Coldheart's Journal](<Coldheart's_Journal.md>)" when equipped, can be found in one of the corners on a table that may contain possible lore about the near future attunement; [Lifeweave](Lifeweave.md).
 
 ## Location
 
@@ -31,7 +31,6 @@ The Cold Forge is located inside the broken building that's used as a bridge by 
 ## Craftable Weapons
 
 -   [Fondant Splitter](Fondant_Splitter.md)
-
 -   [Umbrite Witherblade](Umbrite_Witherblade.md)
 
 ## Trivia

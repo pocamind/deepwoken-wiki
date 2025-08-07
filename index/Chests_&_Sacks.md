@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 140252
+revid: 157310
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,8 +29,9 @@ The color of a chest depends on where you got it from, consisting of four variat
 
 -   A brown chest with silver metal parts, found commonly in the Etrean Luminant.
 -   A gold chest with gold metal parts, found commonly in the East or from turning in [pure ores](Ores.md).
--   A cyan chest with green-white metal parts, found commonly in the [Depths](The_Depths.md)/Boss Fights.
+-   A cyan chest with green-white metal parts, found commonly in the [Depths](The_Depths.md)
     -   This chest, along with the gold chest, can also be found through [fishing](Fishing.md).
+-   A black chest with gold metal parts, found commonly after [bossfights](Bosses.md).
 -   A big neon pink chest, found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
 **Chest mimics** (more commonly known as **mimics** or **trick chests**) can spawn around the [Eastern Luminant](Luminants.md), and releasing beasts that were even thought to just stay around [the Depths](The_Depths.md). These include:

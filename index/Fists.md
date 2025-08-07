@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 156932
+revid: 157320
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -66,10 +66,9 @@ _Main Page: [Imperium Kata](Imperium_Kata.md)_
 ## Trivia
 
 -   Unlike all other weapons, fist styles make white particles instead of yellow when they hit a blocking enemy.
-    -   Kind of makes sense as you're hitting metal with your bare fists.
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling up Light Weapon Scaling anyway.
 -   Fist's critical attacks are very good as they are unique. Using your critical attack in some situations can catch the enemies off guard giving free damage.
--   Previously, _Captain Etrea_ did nothing and it's description said it would let you wield a shield while using a fist style, but the Talent has been reworked.
+-   Previously, _Captain Etrea_ did nothing and its description said it would let you wield a shield while using a fist style, but the Talent has been reworked.
 -   Ragoozer has an exclusive fist style for his spec. This fist style is very similar to that of an advanced fist form in Rogue Lineage.
 -   When trying to alloy your fists with a [Pluripotent Alloy](Pluripotent_Alloy.md), you get special text - "A little voice in your head tells you that Alloying yourself would probably be a bad idea. Your blood needs iron to deliver oxygen to your organs. You need organs to live."
 -   When possessing all cestus styles, style swapping using Y becomes unintuitive. Way of Navae → Legion Kata 🗘 Fang and Coil.

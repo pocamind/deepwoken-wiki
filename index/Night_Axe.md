@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 157107
+revid: 157298
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -48,7 +48,6 @@ The critical has a cooldown of **3 seconds**.
 -   At max HVY, the damage is (36.8)
 -   Has the highest amount of Chip Damage of any weapon in the entire game.
     -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
-        -   If you are using the Obfuscation [Enchant](Enchantments.md) with Night Axe, your Chip Damage will total to 90% due to chip being combined multiplicatively.
 -   The Night Axe was given a unique critical on the January 25, 2025 update.
 -   The Twisted Puppets: Path makes the Night Axe create black flames on critical.
 -   The description mentions a weapon called the Daycleave, as of now its not in the game
