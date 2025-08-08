@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 149761
+revid: 157340
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -26,13 +26,12 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
     -   [Temple Courtyard](Temple_Courtyard.md)
-
 -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
 -   [The Birdcage](The_Birdcage.md)
--   [The Rat's Den](<Rat's_Den.md>)
+-   [Rat's Den](<Rat's_Den.md>)
 
 ## Missions
 
@@ -87,7 +86,7 @@ _This list is incomplete, please contribute **correct** information._
 -   [Black Headband](Headband.md)
 -   [Orange Headband](Headband.md)
 -   [Yellow Headband](Headband.md)
--   Iron Mask
+-   [Iron Mask](Iron_Mask.md)
 -   [Smith's Goggles](<Smith's_Goggles.md>)
 -   [Blindfold](Blindfold.md)
 -   [Autumn Boots](Autumn_Boots.md)
@@ -121,7 +120,7 @@ _This list is incomplete, please contribute **correct** information._
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## **Trivia**
+## Trivia
 
 -   Connected to [Lower Erisia](Lower_Erisia.md) by the [Burning Stone Gardens](Burning_Stone_Gardens.md).
 -   Not recommended to grind here after level 12, as the XP is minimal and the loot is mediocre.

@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 156737
+revid: 157359
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant, The Central Authority]
@@ -74,4 +74,5 @@ _See [Legion Intelligence](Legion_Intelligence.md) on how to obtain the item._
 
 ## Trivia/Notes
 
--   After disabling the security system, your taunt gets replaced with a cannon whistle used by the guards. This allows the player to use the artillery to shoot cannonballs at their cursors.
+-   After disabling the security system, taunt is replaced with a cannon whistle used by the guards. This allows the player to use the artillery to shoot cannonballs at their cursors.
+-   After defeating [Titus](Titus_Fulminus_Destellus.md), a special crafting bench can be accessed to create exclusive items such as the [Specialist Plate](Specialist_Plate.md) and [Reinforced War Helmet](Reinforced_War_Helmet.md).

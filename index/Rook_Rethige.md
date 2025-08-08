@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 156649
+revid: 157350
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, The Knives of Eylis, Vendors]
@@ -54,7 +54,7 @@ Rook Rethige is a [Felinor](Felinor.md) NPC in the [Voidheart](Voidheart.md). He
 
 **First Encounter:**
 
-This dialogue is unlocked if the player has Ally Reputation or higher with [The Knives of Eylis](The_Knives_of_Eylis.md) and has asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
+This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
 
 <table>
 <tbody>
@@ -99,7 +99,7 @@ This dialogue is unlocked if the player has Ally Reputation or higher with [The 
 
 **Subsequent Encounters:**
 
-This dialogue is unlocked if the player has Ally Reputation or higher with [The Knives of Eylis](The_Knives_of_Eylis.md) and has asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
+This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
 
 <table>
 <tbody>

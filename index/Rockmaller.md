@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 157117
+revid: 157360
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Multiple Criticals, Heavy Weapons]
@@ -44,5 +44,5 @@ The aerial critical dashes towards the cursor's position and slams into the grou
 ## Trivia
 
 -   The grounded critical covers a moderate distance, making it a viable option for horizontal movement.
--   The aerial critical has a maximum airtime of 1 second before forcing the critical.
+-   The aerial critical has a maximum airtime of 1 second before forcing the critical to end.
 -   Before November 23rd 2024, this weapon had more base damage than the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 29.

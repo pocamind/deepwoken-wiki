@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 157322
+revid: 157351
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]

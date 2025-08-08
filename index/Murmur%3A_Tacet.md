@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Tacet"
-revid: 150768
+revid: 157348
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -46,11 +46,11 @@ Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests, he will give yo
 
 By completing 5 Bounty Hunting Contracts from any [Bounty Board](Bounty_Hunting.md), [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method. (Bounty Assists do not count)
 
-A screenshot of the Stranger NPC, found by Restative.
+A screenshot of the Quiet Stranger NPC, found by Restative.
 
-#### Method Three - The Stranger NPC
+#### Method Three - The Quiet Stranger NPC
 
-Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: [The Stranger](Quiet_Stranger.md) NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
+Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The [Quiet Stranger](Quiet_Stranger.md) NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
 
 #### Method Four - Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 

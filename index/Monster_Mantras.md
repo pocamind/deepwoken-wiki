@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 154548
+revid: 157357
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -184,7 +184,7 @@ Ice
  |
 | 
 
-**Effect:** _The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent's](Dread_Serpent.md) **Ice Beam**. This move stuns and procs ice, slowing enemies._
+**Effect:** _The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent](Dread_Serpent.md)'s **Ice Beam**. This move stuns and procs ice, slowing enemies._
 
 -   Inflicts Chill.
 -   It will proc crystals if the user has **Glass Path: Crystallization**.

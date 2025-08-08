@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 157179
+revid: 157342
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -103,7 +103,7 @@ Dialogue: [Calamus](Calamus.md), [Hector](Hector.md), [Journal of Warden Jericho
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ## Notable Figures
 
@@ -320,7 +320,7 @@ Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Book
 -   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the [Third Layer](#the-vents-the-third-layer) without ever passing through the First and [Second Layers](#the-eternal-gale-the-second-layer). This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the [Drowning](#the-drowning).
 
-Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), Kaide, The Drowned Light, [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
+Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), Kaide, The Drowned Light, [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
 
 ### Driftlands
 
@@ -469,7 +469,7 @@ Dialogue: [Hector](Hector.md) | Books: [Lumen's Folklore: Volume 'Attunement'](B
 -   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### Pathfinders
 

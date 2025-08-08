@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 152519
+revid: 157356
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -39,25 +39,31 @@ Completing his quest rewards you with EXP, positive [The Hundred Legions](The_Hu
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah. Have you spoken to Gaius?</td>
+  <td>Ah. Have you spoke to Gaius?</td>
 </tr>
 <tr>
-  <td colspan="6">Nope</td>
+  <td>Nope.</td>
 </tr>
 <tr>
-  <td colspan="6">He's a good guy, really. I'm afraid his attitude is going to get him killed some day. I don't know how i'd explain <i>that</i> to his family... He's been quite the troublemaker since we were young.</td>
+  <td>He's a good guy, really. I'm afraid his attitude is going to get him killed some day. I don't know how I'd explain <i>that</i> to his family... He's been quite the troublemaker since we were young.</td>
 </tr>
 <tr>
-  <td colspan="12">...</td>
+  <td>...</td>
 </tr>
 <tr>
-  <td colspan="12">Also, a scout of ours headed out recently, name of Lars. If you see him, tell him to return to the camp please... He and Gaius got into a big argument and he stormed off.</td>
+  <td>Also, a scout of ours headed out recently, name of Lars. If you see him, tell him to return to the camp please... He and Gaius got into a big argument and he stormed off.</td>
 </tr>
 <tr>
-  <td colspan="6">End, Quest Accepted</td>
+  <td>An argument, what happened?</td>
+</tr>
+<tr>
+  <td>It's a long story... Let's just say Lars isn't much of a fighter but, growing up with Gaius and I, he felt obligated to serve on the battlefield. Gaius never lets him hear the end of it.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -67,37 +73,53 @@ Completing his quest rewards you with EXP, positive [The Hundred Legions](The_Hu
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">I see... I'll let my comrades know, We'll hold a ceremony in his honor.</td>
+  <td>I see... I'll let my comrades know. We'll hold a ceremony in his honor.</td>
 </tr>
 <tr>
-  <td colspan="6">End, Quest Complete</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
 **Subsequent Encounters:**
 
-## Navigation
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah. Have you spoke to Gaius?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has spoken to [Gaius](Gaius.md) at least once.
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah. Have you spoken to Gaius?</td>
+  <td>Ah. Have you spoke to Gaius?</td>
 </tr>
 <tr>
-  <td colspan="6">Nope</td>
+  <td>Yeah...</td>
 </tr>
 <tr>
-  <td colspan="6">He's a good guy, really. I'm afraid his attitude is going to get him killed some day. I don't know how i'd explain <i>that</i> to his family... He's been quite the troublemaker since we were young.</td>
+  <td>Ah. Then you're probably aware he's a bit of a handful. <i>*She sighs.*</i> He has our Legion's best interest at heart though, trust me on that.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Avian
-revid: 135404
+revid: 157346
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -16,23 +16,15 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Avian is a young [Etrean](Etrean.md) NPC that thinks [the guy on the opposite side](Evengarde_Rest.md) is a fraud, he has a [quest](Quests.md) where he asks you to bring him a Weapon Manual so that he can become stronger and defeat [him](Evengarde_Rest.md).
+Avian is a young [Etrean](Etrean.md) NPC who believes [Evengarde Rest](Evengarde_Rest.md) is a fraud. He will ask the player bring him a Weapon Manual so that he can become stronger in order to defeat [Evengarde Rest](Evengarde_Rest.md).
 
 ## Location
 
-Avian is located in [Isle of Vigils](Isle_of_Vigils.md) in the [Temple of the Blade](Temple_of_the_Blade.md) sitting to the right of [Das](Das.md).
-
-## Quest details
-
-Completing Avian's quest rewards you with very small EXP.
-
--   Talk to Avian
--   Get a Weapon Manual
--   Go back to him and "give him" the Weapon Manual
-
-His quest will not remove your Weapon Manual, only deduct one usage from it.
+Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Dialogue
+
+**First Encounter:**
 
 **Quest Start:**
 
@@ -61,16 +53,9 @@ His quest will not remove your Weapon Manual, only deduct one usage from it.
   <td colspan="2">Anything I can do to help?</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
+  <td colspan="8"></td>
   <td colspan="2">[See first instance]</td>
   <td colspan="2">[See first instance]</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="4"></td>
-  <td colspan="2">End</td>
-  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
@@ -80,22 +65,43 @@ His quest will not remove your Weapon Manual, only deduct one usage from it.
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">You get your hands on a one [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] of those Manuals?</td>
+  <td colspan="8">You get your hands on a one [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] of those Manuals?</td>
 </tr>
 <tr>
-  <td colspan="3">I got one.</td>
-  <td colspan="3">Nope.</td>
+  <td colspan="4">I got one.</td>
+  <td colspan="4">Nope.</td>
 </tr>
 <tr>
-  <td colspan="3">Thanks to your help I'll be able to surpass him once and for all, just you watch.</td>
-  <td colspan="3">Dont [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] tell me... He sent you to set me up?!</td>
+  <td colspan="2">Player has Weapon Manual</td>
+  <td colspan="2">Player does not have Weapon Manual</td>
+  <td colspan="4">Dont [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] tell me... He sent you to set me up?!</td>
 </tr>
 <tr>
-  <td colspan="3">End, Quest completed</td>
-  <td colspan="3">End</td>
+  <td colspan="2">Thanks to your help I'll be able to surpass him once and for all, just you watch.</td>
+  <td colspan="2">[See "Nope."]</td>
+  <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="2">End, small amount of XP gained, deducts one usage from Weapon Manual</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Thanks to your help I'll be able to surpass him once and for all, just you watch.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -103,4 +109,4 @@ His quest will not remove your Weapon Manual, only deduct one usage from it.
 ## Trivia
 
 -   The person Avian speaks about beating, is in fact, [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), considered one of the most powerful mortals in Deepwoken. Needless to say, no matter how much training he puts in, it is unlikely he can actually beat [Maestro](Maestro_Evengarde_Rest.md).
--   This npc has a whopping 4 spelling mistakes
+-   This NPC has a whopping 4 spelling mistakes.
