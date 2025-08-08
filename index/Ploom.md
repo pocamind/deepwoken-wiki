@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 155750
+revid: 157388
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -84,6 +84,9 @@ He wears the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 </tr>
 <tr>
   <td colspan="2">Ah, hello friend! Do you have those embers?</td>
+</tr>
+<tr>
+  <td colspan="2">Yep.</td>
 </tr>
 <tr>
   <td>Player has 3 Dying Embers</td>

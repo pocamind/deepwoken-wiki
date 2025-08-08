@@ -1,6 +1,6 @@
 ---
 title: Raw Parasol Brain
-revid: 151822
+revid: 157382
 source: https://deepwoken.fandom.com/wiki/Raw_Parasol_Brain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]
@@ -20,9 +20,9 @@ categories: [Ingredients, Items]
 
 ## Description
 
-**Raw Parasol Brain** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md). Only one can drop per kill, making this item rare and sought after.
+**Raw Parasol Brain** is a giant [Food](Food.md) item in the shape of a gross, bubbly brain. It's a direct drop from [Interluminary Parasol](Interluminary_Parasol.md), and the drop chance is an assumed estimate of ~20%.
 
-If eaten raw, you will throw up, losing **ALL** of your hunger and thirst. You will also be knocked and will promptly bleed out and inevitably die. **Do not eat this raw**.
+If eaten raw, you will throw up, losing **ALL** of your hunger and thirst. You will also be knocked and will promptly bleed out and inevitably die. **Do not eat this raw**. But, if you are so interested on feeding this to others, you may be interested in [Pufferfish](Fishing.md), as they also cause the same effect when consumed.
 
 ## Uses
 

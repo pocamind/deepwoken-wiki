@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 157299
+revid: 157401
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -244,11 +244,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>Grants increased posture damage to M1s. Your M1 guard breaks deal additional damage.<br>
   Stone doesn't give extra chip damage despite what the ingame description states.</p>
   <p><br>
-  Stone's posture calculation is 1 + (scaled damage/9.5), capping at 6 additional posture. This is additive to your weapon's base posture.<br>
+  Stone's posture calculation is 3.5 * (weapon investment/100), capping at 3.5 additional posture with 100 weapon investment. This is additive to your weapon's base posture.<br>
   Stone's additional damage on guard break is 25% of your weapon's weight stat (with Stone's posture damage included) before modifiers added to your guard break. Because this is effectively an increase to your weapon's scaled damage on guard break, damage modifiers will be based off the posture break damage with Stone included.</p>
-  <p><small>For example, let's say you have a 40 scaled damage Sovereign's Punishment. As a reminder, this weapon has 13 Weight.</small><br>
-  <small>The increased posture damage would look like this: 1 + (40/9.5) = 1 + 4.21 = 5.21 additional posture damage on M1s, bringing your total posture damage to 18.21.</small><br>
-  <small>The additional guard break damage would look like this: (13 + 5.21) x 0.25 = 4.55 additional guard break damage on M1s.</small></p>
+  <p><br>
+  <small>The additional guard break damage would look like this: scenario: 100 heavy investment Sovereign's Punishment = 13 innate Weight + 3.5 from Stone. (13 + 3.5) * 0.25 = 4.55 additional guard break damage on M1s.</small></p>
   <p><br>
   <b>Stone only works on M1s</b></p></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>

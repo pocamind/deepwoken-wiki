@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 156092
+revid: 157406
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
@@ -38,7 +38,7 @@ Note that if your 1H gun is unloaded, pressing your crit button will just do a l
 
 Using your gun as a side-weapon will **not** gain you the ammo counter, as it will no longer have the innate ability to fire bullets or reload. Pressing M2 will make you extend your arm and shoot, creating the usual blast you'd see in other guns with no bullet coming out. The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow it to fire a projectile bullet with a 5s CD as long as your main weapon is a medium or heavy weapon.
 
-This attack **cannot** be used in your M1 combo like mantras and acts as a standalone hit. The Talent [Quick Draw](Talents.md) from the [Gunslinger](Talents.md) Talent tree will make such possible, although **you need to wait for the full endlag of your M1 and then use M2** otherwise the attack wont happen, which may cost you a hit during an intense fight.
+This attack **cannot** be used in your M1 combo like mantras and acts as a standalone hit. The Talent [Quick Draw](Talents.md#gunslinger) from the [Gunslinger](Talents.md#gunslinger) Talent tree will make such possible, although **you need to wait for the full endlag of your M1 and then use M2** otherwise the attack wont happen, which may cost you a hit during an intense fight.
 
 The blast **will** inherit [Enchant](Enchantments.md) effects such as Storm or Obfuscation, however the damage of the gun will be 80% of the equipped pistol's scaled damage, with it's original posture damage (which is exactly **1** for all pistols except Roscoe) and all other effects like chip from the [Alloyed Dawnshot](Dawnshot.md) or [Rosen's Roscoe](<Rosen's_Roscoe.md>).
 
@@ -46,45 +46,27 @@ Furthermore, using a side gun with a non-light main weapon will increase the win
 
 #### Reloading
 
-The amount of bullets you can load into a gun depends on the gun you have equipped. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md) and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md) and [Silversix](Silversix.md) can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) an empty gun, and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
+The amount of bullets you can load into a gun depends on the gun you have equipped. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md) and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md), [Iron Requiem](Iron_Requiem.md), and [Silversix](Silversix.md) can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) an empty gun, and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
 
 ### Talents
 
 Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw)
 
-The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and its alloyed variant, [Iron Requiem](Iron_Requiem.md) and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
+The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and its alloyed variant, [Rosen's Roscoe](<Rosen's_Roscoe.md>), [Iron Requiem](Iron_Requiem.md) and the [Soulwrought Gun](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
 
 The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow your side gun to fire a projectile bullet as long as your main weapon is a medium or heavy weapon.
 
 There is a gun Talent you can learn from a quest giver named Trig outside the inn on Summer Isle. The man you need to find is on the shore to the left of the inn. If you decide to collect the man's debt you can return to Trig and give him the papers which will give you a large amount of reputation with the [Summer Company](The_Summer_Company.md) and opens up the possibility of obtaining [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up (requires 30 MED or LHT). However, if you decide to try to help the man by leaving without collecting the debt and try to confront Trig you will only get bad reputation with the [Summer Company](The_Summer_Company.md) while two summer gunmen will appear to kill you, this option opens the possibility of obtaining [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) (requires 20 MED or LTH or Fortitude), in case you were confused you can apologize to Trig and talk to the man again to collect his debt.
 
-Despite having the highest range of all the weapons, utilizing the range can often be difficult. The hitboxes for guns are much like a pencil in the sense that it's not very wide or tall compared to other weapons meaning most people will easily jump over your shots.
-
 File:Flintlockbullets.png
 
-Flintlock user using the guns critical attack
+Pistol user using the guns critical attack
 
-**Flintlocks _Stats:_**
+Despite having the highest range of all the weapons, utilizing the range can often be difficult. The hitboxes for guns are much like a pencil in the sense that it's not very wide or tall compared to other weapons meaning most people will easily jump over your shots.
 
-**[Silversix](Silversix.md): 10,** damage, **10** range, **13** LHT scaling, **1.17x** attack speed, 75 echoes. (0 LHT req)
+### Pistol Stats
 
-**[Flintlock](Flintlock.md):** **11** damage, **10** range, **12** LHT scaling, **1.17x** attack speed, sold for **100** notes in summer isle. (20 LHT req)
-
-**[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, **12** LHT scaling, **1.17x** attack speed. Dropped by enemies. (40 LHT req)
-
--   When alloyed, deals **2** extra damage, gains **10%** chip, **5%** pen, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
-
-**[Repeater](Repeater.md):** **14** damage, **12** range, **15** LHT scaling, **1.25x** attack speed, sold for **200** notes in summer isle. (65 LHT req)
-
-**[Dragoon](Dragoon.md):** **16** damage, **11** range, **12** LHT scaling, **1.17x** attack speed, sold for **500** notes in summer isle. (65 LHT req)
-
-[**Rosen's Roscoe**](<Rosen's_Roscoe.md>): **16** damage, **11** range, **11** LHT scaling, **1.2x** attack speed, **20%** chip damage. (75 LHT req)
-
-**[Iron Requiem](Iron_Requiem.md):** **21** damage, **10** range**, 3** LHT scaling + 4 Ironsing scaling, **1.17x** attack speed. Dropped by [Finnegan The Lost](Finnegan_The_Lost.md) or found in [Saramaed Hollow](Saramaed_Hollow.md). (40 LHT, 75 Ironsing req)
-
-**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.33x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
-
-**Note: All Flintlocks excluding the Rosen's Roscoe deal 1 posture damage, with the Rosen's Roscoe dealing 3.5 posture damage.**
+Template:AllFlintlockWeapons
 
 ## Rifles
 
@@ -96,24 +78,145 @@ There are currently no Talents exclusive towards the rifle.
 
 The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), the [Stormseye](Stormseye.md) and the [Rosen's Hellflame](<Rosen's_Hellflame.md>).
 
-_**Stats:**_
+### Rifle Stats
 
-[**Summer Rifle:**](Summer_Rifle.md) **17** damage, **4** posture damage, **8** range, **6** MED scaling, **1x** attack speed, (1). (40 MED req)
-
-**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 4 posture damage, **8** range, **8** MED scaling, **1x** attack speed. (75 MED req)
-
-**[Iron Blunderbuss](Iron_Blunderbuss.md): 20** damage, **5** posture damage, **8** range, **7** MED scaling, **0.97x** attack speed, **25%** base pen. (75 MED req)
-
-**[Stormseye:](Stormseye.md) 19.5** damage, **5** posture damage, **8** range, **3** MED scaling + **6** Thunder scaling, **1x** attack speed, (40 MED, 75 Thundercall req)
-
-**[Rosen's Hellflame:](<Rosen's_Hellflame.md>) 18** damage, **3** posture damage, **7** range, **3** MED scaling + **4** flamecharm scaling, **0.93x** attack speed. (40 MED, 75 Flamecharm req)
+<table><caption>Medium Weapons</caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Requirements</th>
+  <th>Base Damage</th>
+  <th>Scaling</th>
+  <th>Armor Penetration</th>
+  <th>Chip Damage</th>
+  <th>Posture Damage</th>
+  <th>Range</th>
+  <th>Swing Speed</th>
+  <th>Endlag</th>
+  <th>Scaled Damage</th>
+</tr>
+<tr>
+  <td><b><a href="Summer_Rifle.md">Summer Rifle</a></b></td>
+  <td>40 MED</td>
+  <td>17</td>
+  <td>MED: 6</td>
+  <td>-</td>
+  <td>-</td>
+  <td>4</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>24.7</td>
+</tr>
+<tr>
+  <td><b><a href="Winter_Rifle.md">Winter Rifle</a></b></td>
+  <td>40 MED</td>
+  <td>16</td>
+  <td>MED: 5</td>
+  <td>-</td>
+  <td>-</td>
+  <td>4</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>22</td>
+</tr>
+<tr>
+  <td><b><a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></b></td>
+  <td>75 FIR<br>
+  40 MED</td>
+  <td>19</td>
+  <td>FIR: 4<br>
+  MED: 3</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>7</td>
+  <td>0.93x</td>
+  <td>-</td>
+  <td>29</td>
+</tr>
+<tr>
+  <td><b><a href="Stormseye.md"><font>Stormseye</font></a></b></td>
+  <td>75 LTN<br>
+  40 MED</td>
+  <td>19.5</td>
+  <td>LTN: 6<br>
+  MED: 3</td>
+  <td>-</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>32.7</td>
+</tr>
+<tr>
+  <td><b><a href="Rifle_Spear.md">Rifle Spear</a></b></td>
+  <td>75 MED<br>
+  OR <a href="Authority_Ensign.md">Authority Ensign</a></td>
+  <td>21</td>
+  <td>MED: 7</td>
+  <td>25%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.9x</td>
+  <td>-</td>
+  <td>32</td>
+</tr>
+<tr>
+  <td><b><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></b></td>
+  <td>75 MED</td>
+  <td>18</td>
+  <td>MED: 8</td>
+  <td>-</td>
+  <td>-</td>
+  <td>4</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>28.8</td>
+</tr>
+<tr>
+  <td><b><a href="Iron_Blunderbuss.md">Iron Blunderbuss</a></b></td>
+  <td>75 MED</td>
+  <td>20</td>
+  <td>MED: 7</td>
+  <td>10%</td>
+  <td>-</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.97x</td>
+  <td>-</td>
+  <td>30.5</td>
+</tr>
+<tr>
+  <td><b><a href="Vapormaw_Carbine.md">Vapormaw Carbine</a><abbr></abbr></b></td>
+  <td>50 MED<br>
+  30 FIR<br>
+  30 ICE</td>
+  <td>17</td>
+  <td>MED: 4<br>
+  FIR: 3<br>
+  ICE: 3</td>
+  <td>-</td>
+  <td>-</td>
+  <td>4</td>
+  <td>8</td>
+  <td>1x</td>
+  <td>-</td>
+  <td>29.8</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
--   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem.](Iron_Requiem.md) (two rifles and one Flintlock)
+-   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md). (two rifles and one Pistol)
 -   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits, both being legendary weapons.
 -   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.

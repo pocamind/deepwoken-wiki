@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 156943
+revid: 157411
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -45,7 +45,7 @@ The user performs two swift side kicks and is slowed by 60% for the duration cri
 
 Imperium Kata's critical gains 5 Thundercall Scaling if you have [Static Withdraw](Talents.md#thundercaller) active.
 
-The first hit deals 1.2x your weapon's scaled damage, the second hit deals 2x your weapon's scaled damage. This critical isn't affected by your weapon's weight stat or weight stars, dealing 6.8 posture damage on the first hit and 10.2 on the second regardless of weapon choice.
+The first hit deals 1.2x your weapon's base damage, the second hit deals 2x your weapon's base damage. This critical isn't affected by your weapon's weight stat or weight stars, dealing 6.8 posture damage on the first hit and 10.2 on the second regardless of weapon choice.
 
 This critical has a cooldown of 5 seconds.
 

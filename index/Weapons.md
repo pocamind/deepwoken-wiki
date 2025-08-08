@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 157247
+revid: 157407
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2725,7 +2725,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 
 **Spears:**
 
-Spears are weapons with a long metal pole, with a sharp pointed end, used for attacking enemies at a safe distance.
+Spears are weapons with a long pole, with a sharp pointed end, used for attacking enemies at a safe distance.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -3210,7 +3210,7 @@ Clubs are weapons that, as opposed to most other weapons in the game, deal blunt
 
 **Rifles:**
 
-Rifles are two-handed guns that use melee attacks and incorporate the firing of the rifle itself. It is able to be able to both be fired and used as a pole-arm. Loading Bullets or Bullet Casings into the Rifles will cause them to have a different effect on their Blast shots, but no projectiles will be fired.
+Rifles are two-handed guns that use blunt melee attacks and incorporate the firing of the rifle itself. Loading Bullets or Bullet Casings into the Rifles will cause them to have a different effect on their Blast shots, but no projectiles will be fired.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -3345,7 +3345,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
 
 **Twinblades:**
 
-Twinblades are medium weapons with a blade at either side of their main hilt. They possess unique animations for almost everything - 1 and 2 handed, aerial attacks, running attacks and even blocking. When 2 handed, they also do not perform flourish attacks.
+Twinblades are medium weapons with a blade at either side of their main hilt. Uniquely, running attacks with these weapons will followup with another attack. When 2 handed, they do not perform flourish attacks.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -12769,7 +12769,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
     -   Range: [Repeater](Repeater.md), [Soulwrought Flintlock](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
     -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md) (1.33x)
     -   Highest DPS: [Soulwrought Greatsword](Crazy_Slots.md) (110 DPS)
-    -   Unique Crits: [Ysley's Pyre keeper](<Ysley's_Pyre_Keeper.md>) (5)
+    -   Unique Crits: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).
 -   Rifles are the only weapon type that have four basic m1s before a flourish.

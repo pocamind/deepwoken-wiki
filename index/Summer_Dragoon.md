@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 153060
+revid: 157400
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Summer Company]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Master Outfits, The Summer Company]
 | resistances | +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +15% Ironsing Armor |
 | buffs | +20% Ether Regen |
 | talents | Sunset Ricochet |
-| obtainment | Chests from:, Miner's Landing, Saramaed Summit, Starfield Veldt |
+| obtainment | Chests from:, Miner's Landing, Saramaed Summit, Starfield Veldt, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
 

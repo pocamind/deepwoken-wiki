@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 157002
+revid: 157404
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons]
@@ -33,15 +33,7 @@ categories: [Weapons, Twinblades, Medium Weapons]
 
 ## Description
 
-The Iron Twinblade is a medium weapon that has requirement of 15 and has 4 scaling. It is currently not yet compatible with the [Pluripotent Alloy](Pluripotent_Alloy.md)
-
-## M1s and Aerial
-
-Like all twinblades, you do not flourish opponents when 2-handing this weapon.
-
-As a twinblade, the running M1s are slightly delayed and perform two slashes, allowing you to hit twice.
-
-The aerial attack consists of a unique animation which causes the user to spin upon landing.
+The Iron Twinblade is a medium weapon that has requirement of 15 and has 4 scaling.
 
 ## Critical
 

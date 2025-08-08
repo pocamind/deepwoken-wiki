@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 157000
+revid: 157403
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -35,14 +35,6 @@ categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
 ## Description
 
 The **Scalesplitter** is a medium twinblade weapon that is currently known to be obtainable from fishing, Chime of Conflict, the Etris Raid event, Sea events, and/or [Deep Widow](Deep_Widow.md) chests.
-
-## M1s and Aerial/Running
-
-The running M1 on this weapon actually has two hits, the first being a normal running attack timing, and the second coming out slightly later. The second can be parried after being hit and if the first hit is parried, the second hit does not come out.
-
-When 2 handed, the weapon has no flourish, which can be used for even more mix up potential.
-
-The weapon has custom M1 (for both one and two handed) and Aerial animations, although unlike the running M1 and 2 handing the weapon, there doesn't seem to be anything too special about these.
 
 At requirements, the normal damage (at 40) is 20.1 and the alloyed damage (at 65) is 25.9 damage.
 

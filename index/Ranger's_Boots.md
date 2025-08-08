@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 155704
+revid: 157399
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -28,4 +28,4 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Ranger's Boots are an [Equipment](Equipment.md) piece under the "**Legs**" category. They can be found through chests in Song Seeker Wilds. and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).
+Ranger's Boots are an [Equipment](Equipment.md) piece under the "**Legs**" category. They can be found through chests in [Songseeker Wilds](Songseeker_Wilds.md). and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).

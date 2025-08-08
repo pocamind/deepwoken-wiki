@@ -1,6 +1,6 @@
 ---
 title: Raw Heavy Meat
-revid: 151124
+revid: 157389
 source: https://deepwoken.fandom.com/wiki/Raw_Heavy_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]
@@ -20,7 +20,7 @@ categories: [Ingredients, Items]
 
 ## Description
 
-**Raw Heavy Meat** is a direct drop from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Only one can drop per kill, making this item rare and sought after.
+**Raw Heavy Meat** is a giant slab of meat. It's a [Food](Food.md) Item that directly drop from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), and its drop chance is an assumed estimate of ~20%.
 
 ## Uses
 

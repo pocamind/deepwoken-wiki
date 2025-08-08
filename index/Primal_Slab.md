@@ -1,6 +1,6 @@
 ---
 title: Primal Slab
-revid: 152787
+revid: 157378
 source: https://deepwoken.fandom.com/wiki/Primal_Slab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]
@@ -21,7 +21,7 @@ categories: [Ingredients, Items]
 
 ## Description
 
-**Primal Slab** is a direct drop from [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md). Only one can drop per kill, making this item rare and sought after.
+**Primal Slab** is a giant [Food](Food.md) item in the shape of a slab with the fur of Primadon. It's a direct drop from [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md), and the drop chance is an assumed estimate of ~20%.
 
 ## Uses
 
