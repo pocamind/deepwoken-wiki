@@ -1,6 +1,6 @@
 ---
 title: "Metallica x Deepwoken '72 Seasons' Listening Party"
-revid: 152737
+revid: 157554
 source: https://deepwoken.fandom.com/wiki/Metallica_x_Deepwoken_'72_Seasons'_Listening_Party
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Deepwoken, Events]
@@ -46,6 +46,6 @@ The "Metalhead" badge
 
 ## Trivia
 
--   The "Metal Lord" and [Yamaketzal](Yamaketzal.md) can be found inside (The Metal Lord can be found selling drinks and meat. Yamaketzal can be found at the place where you can buy the Roblox items.)
+-   The "[Metal Lord](The_Meat_Lord.md)" and [Yamaketzal](Yamaketzal.md) can be found inside (The Metal Lord can be found selling drinks and meat. Yamaketzal can be found at the place where you can buy the Roblox items.)
 -   The four Metallica members seen ingame are shown as entirely normal humans, possessing none of the characteristics of any of the races seen ingame.
 -   If you use "Headbang" emote with your weapon equipped,, it turns your blade/weapon upside down pointing downwards

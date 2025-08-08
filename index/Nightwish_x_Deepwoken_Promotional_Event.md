@@ -1,6 +1,6 @@
 ---
 title: Nightwish x Deepwoken Promotional Event
-revid: 153258
+revid: 157562
 source: https://deepwoken.fandom.com/wiki/Nightwish_x_Deepwoken_Promotional_Event
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Events]
@@ -9,6 +9,13 @@ notices:
 ---
 
 # Nightwish x Deepwoken Promotional Event
+
+| Nightwish x Deepwoken Promotional Event | |
+|---|---|
+| date1 | 1522 |
+| date2 | 9/20/2024 |
+| items | Gilded Instrument Skins |
+| type | Promotional Event |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 156962
+revid: 157543
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Multiple Criticals, Light Weapons, The Ignition Union]
@@ -40,7 +40,7 @@ Critical has 42 base dmg with 5 ironsing scale, 0.4s windup, 14 posture per hit.
 
 Running critical has 12 base dmg per hit, 5 ironsing scale, 0.55s windup, 1.5 posture per hit.
 
-M1s without bullets apply Bleed dmg. M1s with bullets proc Talents and have better range
+M1s without bullets apply rods, adds up extra posture. M1s with bullets proc 1H related Talents and have better range.
 
 ## Critical
 

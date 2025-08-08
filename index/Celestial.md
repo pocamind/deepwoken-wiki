@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 149728
+revid: 157556
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -25,7 +25,7 @@ The People of the Stars, so to speak. They are not to be confused with [Lightbor
 -   Celestials are referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
 -   The crucified celestial may be a reference to Lilith from Evangelion; both are large crucified beings, their blood being collected and used.
 -   Additionally a "Celestial Race" was planned, however it never made it out of the testing phase of deepwoken.
--   ragoozer has stated that the Celestials resemble both eldritch beings AND normal human beings. [\[1\]](#cite-note-0-1)
+-   Ragoozer has stated that the Celestials resemble both eldritch beings AND normal human beings. [\[1\]](#cite-note-0-1)
 
 ## References
 

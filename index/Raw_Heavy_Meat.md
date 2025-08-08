@@ -1,6 +1,6 @@
 ---
 title: Raw Heavy Meat
-revid: 157389
+revid: 157525
 source: https://deepwoken.fandom.com/wiki/Raw_Heavy_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]

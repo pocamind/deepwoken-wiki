@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 155981
+revid: 157541
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -111,7 +111,7 @@ Eating an ingredient will give you a weaker version of the effects it would norm
 
 ### Salts
 
-The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion. Any potion created with these salts no longer be droppable and cannot be banked, meaning they will become locked to your [Saltchemist](Oath%253A_Saltchemist.md) character, if you wish to create potions for a friend or different character, avoid using these.
+The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion. Any potion created with these salts are no longer droppable and cannot be banked, meaning they will become locked to your [Saltchemist](Oath%253A_Saltchemist.md) character, if you wish to create potions for a friend or different character, avoid using these.
 
 **Biotic Salts** alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive and should be added to all potions, unless you plan to give them to a friend.
 

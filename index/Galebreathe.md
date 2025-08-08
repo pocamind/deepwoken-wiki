@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 153569
+revid: 157534
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -705,7 +705,7 @@ Wind + Slash
 
 -   Deals 51.85 (10.37\*5) DMG, 13.6 posture, 0.45s windup, has 15s CD at 5 lvl
 -   With 6 songchant deals 57.7 (11.54\*5) DMG at 5 lvl
--   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
+-   When at level 3 or higher, the last hit of Astral Wind sends the opponent upwards, sometimes even when parried.
 -   Can be modified with Cloud/Stratus Stones to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 
  |

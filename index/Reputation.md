@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 149724
+revid: 157551
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 # Reputation
 
-“ The guard gives you a crooked smile. 'Have a nice day, friend. If you ever get into trouble, you know who to look for... ”
+“ In trouble with the law? Some less scrupulous individuals may be willing to take a bribe to fix your reputation... ”
 
-― Nerin
+― Game Tip
 
   
 
@@ -70,9 +70,9 @@ The player can lose reputation with a faction by:
 
 Players can bribe specific NPCs up to ~1200 notes (depending on how much reputation below 0 they have) to set their reputations back at their starting amounts, usually neutral, at 0.
 
-This starting amount can vary depending on your [origin](Origins.md), so bribing will not always grant you protection from a specific faction.
+This starting amount can vary depending on your [Origin](Origins.md), so bribing will not always grant you protection from a specific faction.
 
-Note that only 6 of the 11 factions have an NPC that offer this service.
+NOTE: Only 7 of the 11 factions have an NPC that offer this service.
 
 | Image | Faction | Name | Location |
 | --- | --- | --- | --- |
@@ -141,6 +141,15 @@ File:Ignition Union.png
 [The Ignition Union](The_Ignition_Union.md)
 
  | [Maura](Maura.md) | Standing inside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
+| 
+
+File:Soothsayer.png
+
+ | 
+
+[The Ministry](The_Ministry.md)
+
+ | [Soothsayer](Soothsayer.md) | Sitting in a corner on the way to [Starfield Tundra](Starfield_Tundra.md). |
 
 ## Factions/Entities
 
@@ -174,3 +183,4 @@ File:Ignition Union.png
 -   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
     -   This is negated if you have 51 charisma or more, as they will instead thank you.
 -   Most of downsides to bad reputation can be lessened or weakened by [Charisma](Attributes.md) Talents.
+-   Ringing the bells in [The City of the Drowned](The_City_of_the_Drowned.md) will give you positive reputation with [Lost Celtor](Lost_Celtor.md).

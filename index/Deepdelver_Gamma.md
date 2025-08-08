@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 155106
+revid: 157544
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -24,6 +24,8 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -37,7 +39,7 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
   <td colspan="6">What do you do here?</td>
 </tr>
 <tr>
-  <td colspan="6">Well.. Gods, what a question! Did you know you're the first passerby here today to actually ask me such a thing? My name is Gamma, I'm a <font>Deepdelver</font> of the Ignition Union. I've been workin' here for.. well, my whole life!</td>
+  <td colspan="6">Well.. Gods, what a question! Did you know you're the first passerby here today to actually ask me such a thing? My name is Gamma, I'm a Deepdelver of the Ignition Union. I've been workin' here for.. well, my whole life!</td>
   <td colspan="6">Enough to keep my hands full all of the time. Here at the Union, camaraderie is our number one principle, so we all try to help eachother. Whether I'm working with supplies, or fetching a wandering member from the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, I'm always busy.</td>
 </tr>
 <tr>
@@ -58,17 +60,36 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 <tr>
   <td colspan="3"></td>
   <td colspan="3">[See first instance]</td>
-  <td colspan="6"></td>
 </tr>
 <tr>
   <td colspan="3"></td>
   <td colspan="3">End</td>
-  <td colspan="6"></td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is the [Ignition Delver](Origins.md#ignition-delver) [Origin](Origins.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>How's work treatin' ya, recruit?</td>
+</tr>
+<tr>
+  <td>Who are you?</td>
+</tr>
+<tr>
+  <td>[See Base Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Gamma's racial variant appears to be Capuchin.
--   Gamma also mentions the other entry for play 2 in the second layer and the relationship that [The Ignition Union](The_Ignition_Union.md) has with [The Divers](The_Divers.md).
+-   Gamma's racial variant is Capuchin.
+-   Gamma also mentions the other entry to enter the Second Layer and the relationship that [The Ignition Union](The_Ignition_Union.md) has with [The Divers](The_Divers.md).

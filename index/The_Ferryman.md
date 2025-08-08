@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 155018
+revid: 157564
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**The Ferryman** is an instanced [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the Eastern Luminant's [Void Sea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
+**The Ferryman** is an instanced [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the Eastern Luminant's [Voidsea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
 
 According to the stories of old, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though most fail to mention that these gifts aren't earned without a fight. The Ferryman actively despises the mortals who dwell on the surface, offering up unfair wagers, with the mortal betting their life, and him only betting a "Relic."
 
@@ -377,7 +377,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 
 ## Trivia
 
--   The [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase.
+-   The [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase. The music is modified in-game and cannot be heard the exact same way it is heard here.
     -   If the Ferryman is in phase 1, "A Sarabande of Thunder" will play in the background.
         -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
@@ -391,8 +391,8 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you would get 1 knowledge, instead of a Krulian Knife.
 -   The Ferryman's clones can drop [Soul Orbs](Soul_Orb.md) which give you an investment point.
--   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
--   The Ferryman has also hosted the [Yesterwynde Tavern](Yesterwynde_Tavern.md) in the Nightwave event where you can obtain a quest to obtain three vinyls for unique instrument skins. He also gives Redd Juice for free.
+-   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the [Metallica promotional event](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) to see the appeal of it.
+    -   The Ferryman has also hosted the [Yesterwynde Tavern](Yesterwynde_Tavern.md) in the [Nightwish promotional event](Nightwish_x_Deepwoken_Promotional_Event.md), where a quest could be done to obtain exclusive instrument skins.
 -   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
 -   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that the fight music is infact, diegetic.
 -   If you take too long to initiate the fight with The Ferryman, he will leave after a certain amount of time, and leave you with nothing but a portal to leave.

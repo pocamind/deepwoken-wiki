@@ -1,6 +1,6 @@
 ---
 title: Petris
-revid: 130963
+revid: 157558
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the First Layer]
@@ -23,8 +23,6 @@ Due to his wrinkles next to his eyes, you can concur that he is in Stage 1 of [A
 He appears to have summoned the Ferryman in hopes of getting gifts, but instead the Ferryman killed him and sent him to the Depths.
 
 ## Dialogue
-
-**Initial Encounter:**
 
 <table>
 <tbody>
