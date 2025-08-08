@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 157017
+revid: 157475
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -35,6 +35,10 @@ categories: [Weapons, Clubs, Medium Weapons]
 ## Description
 
 The **Morning Star** is a blunt club type medium weapon. It can be considered the midgame version of the [Mace](Mace.md).
+
+## Critical
+
+Morning Star uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Trivia
 

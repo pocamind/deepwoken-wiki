@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 157100
+revid: 157484
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -34,9 +34,12 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 
 The Iron Birch is a [Heavy](Weapons.md) axe. This weapon is considered one of the best heavy weapons due to it's unusually high swing speed, lack of endlag, and overall good damage.
 
-Meeting the requirement of HVY, the damage is (**33.1**)  
-At max HVY, the damage is (**38.4**)
+## Critical
+
+Iron Birch uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 
+-   Meeting the requirement of HVY, the damage is (**33.1**)
+-   At max HVY, the damage is (**38.4**)
 -   The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2).

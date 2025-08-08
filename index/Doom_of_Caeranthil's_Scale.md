@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 155189
+revid: 157515
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,8 +25,9 @@ categories: [Items, Drops, Ingredients]
 ## Uses
 
 -   Trading with [The Gaunt Man](The_Gaunt_Man.md) for an [Aegis Gem](Aegis_Gem.md).
--   Used as a crafting material for the following items:
+-   Used as a crafting component for the following items:
     -   [Reinforced War Helmet](Reinforced_War_Helmet.md)
+    -   [Reinforced War Plate](Reinforced_War_Plate.md)
     -   [Specialist Plate](Specialist_Plate.md)
 
 ## Trivia

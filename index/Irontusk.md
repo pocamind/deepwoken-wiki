@@ -1,9 +1,9 @@
 ---
 title: Irontusk
-revid: 156993
+revid: 157468
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
 ---
 
 # Irontusk
@@ -34,6 +34,14 @@ categories: [Weapons, Spears, Medium Weapons]
 ## Description
 
 The Irontusk is one of the four starter weapons obtained by spending Echoes. Irontusk is obtained by purchasing _Starter Weapon: Spear_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md).
+
+## Critical
+
+Irontusk uses the default Spear critical, a horizontal swing followed by a forward thrust. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. Both hits deal **5** posture damage.
+
+This critical will be canceled if the first hit is parried.  
+  
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

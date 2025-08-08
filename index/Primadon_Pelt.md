@@ -1,6 +1,6 @@
 ---
 title: Primadon Pelt
-revid: 149418
+revid: 157512
 source: https://deepwoken.fandom.com/wiki/Primadon_Pelt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -24,4 +24,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Uses
 
--   Crafting the [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) outfit.
+-   Used as a crafting component for the following items:
+    -   [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) Master Outfit
+    -   [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)
+    -   [Reinforced War Helmet](Reinforced_War_Helmet.md)

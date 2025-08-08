@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 157019
+revid: 157474
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -35,6 +35,10 @@ categories: [Weapons, Clubs, Medium Weapons]
 ## Description
 
 The **Toothed Club** is a medium blunt club type weapon. It is not recommended to use this weapon over the [Mace](Mace.md) due to it's low damage output and higher requirement.
+
+## Critical
+
+Toothed Club uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Trivia
 

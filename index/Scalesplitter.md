@@ -1,9 +1,9 @@
 ---
 title: Scalesplitter
-revid: 157403
+revid: 157481
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
 ---
 
 # Scalesplitter
@@ -36,7 +36,11 @@ categories: [Weapons, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
 
 The **Scalesplitter** is a medium twinblade weapon that is currently known to be obtainable from fishing, Chime of Conflict, the Etris Raid event, Sea events, and/or [Deep Widow](Deep_Widow.md) chests.
 
-At requirements, the normal damage (at 40) is 20.1 and the alloyed damage (at 65) is 25.9 damage.
+## Critical
+
+Scalesplitter uses the default Twinblade critical, a swift thrust with the back end of the twinblade. It has a scaled damage multiplier of **1.1x** and a cooldown of **4 seconds**. It deals **15** posture damage. On hit, it dazes opponents and innately procs [Bleed](Status_Effects.md#bleed), dealing an additional 15% of the weapon's scaled damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Critical
 

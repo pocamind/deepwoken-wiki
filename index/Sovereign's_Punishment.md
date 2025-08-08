@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 157090
+revid: 157496
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
@@ -36,7 +36,9 @@ categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weap
 
 The Sovereign's Punishment is a Greathammer that can be obtained at [Fort Merit](Fort_Merit.md), [Aratel Island](Aratel_Island.md), [The Lordsgrove](The_Lordsgrove.md) and [Upper Erisia](Upper_Erisia.md) aswell as [Lower Erisia](Lower_Erisia.md). It boasts exceptionally high posture damage and penetration, though with a slow swing speed and slightly lower scaled damage than other greathammers.
 
-Meeting the base HVY requirements, the Sovereign's Punishment will deal 39.2 damage. At 100 HVY, the damage would be 43.6.
+## Critical
+
+Sovereign's Punishment uses the default Greathammer critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 
@@ -47,3 +49,4 @@ Meeting the base HVY requirements, the Sovereign's Punishment will deal 39.2 dam
     -   With the base 13 weight, [Murmur: Ardour](Murmur%253A_Ardour.md), the talent "[Heavy Hitter](Talents.md#colossus)," the two-handed stance, a [Heavy Hands Ring](Equipment.md#rings), and the [Stone](Enchantments.md#list-of-enchantments) enchantment, you can do around 34 posture damage per M1.
     -   While using the previously stated modifiers along with Ardour Scream and a 3\* Weight version of the weapon, you are able to posture break [Maestro Evengarde Rest's](Maestro_Evengarde_Rest.md) posture with every m1, allowing for extremely quick runs.
 -   This item is found most commonly in Aratel Island Events with Starswept chests, less in Fort Merit chests, and the least in average Starswept chests, though due to Aratel Events being far and few in between, if you want to farm this weapon, consider cycling between Fort Merit and the Lightkeeper Temple while grabbing any events on the way while also making use of the Monster Hunter Quest to the left of the Lordsgrove Gate.
+-   Meeting the base HVY requirements, the Sovereign's Punishment will deal 39.2 damage. At 100 HVY, the damage would be 43.6.

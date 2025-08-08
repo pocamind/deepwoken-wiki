@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 157122
+revid: 157450
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand Guns, Light Weapons]
@@ -35,6 +35,10 @@ categories: [Weapons, Pistols, The Summer Company, Offhand Guns, Light Weapons]
 Rosen's Roscoe is a pistol type weapon that can be used both in both akimbo and single-handed styles. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of the [Summer Company](The_Summer_Company.md).
 
 In comparison to most other light guns, it has a (Comparatively) low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun users.
+
+## Critical
+
+Rosen's Roscoe uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
 
 ## Trivia
 

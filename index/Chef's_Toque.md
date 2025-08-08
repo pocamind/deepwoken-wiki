@@ -1,6 +1,6 @@
 ---
 title: "Chef's Toque"
-revid: 153794
+revid: 157517
 source: https://deepwoken.fandom.com/wiki/Chef's_Toque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Head]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Head]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Chef Odiolovaro |
+| obtainment | Chests from:Chef Odiolavoro |
 | description | It's not raw, you are. |
 
 ## Description

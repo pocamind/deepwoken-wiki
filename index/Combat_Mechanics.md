@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 157282
+revid: 157424
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -388,12 +388,11 @@ Image
 | Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
 
--   Any guard-breaking [Weapon](Weapons.md) critical (White)
+-   Default [Greatsword and Club](Weapons.md) criticals (White)
 -   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
 -   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
 -   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
 -   [Kanabo](Kanabo.md) running critical (White)
--   [Kanabo](Kanabo.md) standing critical intended, as it's parryable and dodgable but guardbreaks
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 157120
+revid: 157516
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -112,6 +112,8 @@ File:UllaFriedEgg.png
 
  | Primal Cutlet | 1x Primal Slab | ◯ |
 | 
+
+File:Dread Fillet Witherald.png
 
  | Dread Fillet | 1x Dread Flesh | ◯ |
 | 

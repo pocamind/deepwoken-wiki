@@ -1,11 +1,9 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 155187
+revid: 157507
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Drops, Ingredients]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Drops, Ingredients]
 ---
 
 # Enmity's Armor Piece
@@ -26,7 +24,8 @@ notices:
 
 ## Uses
 
--   Used as a crafting material for the following items:
+-   Used as a crafting component for the following items:
+    -   [Reinforced War Plate](Reinforced_War_Plate.md)
     -   [Specialist Plate](Specialist_Plate.md)
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 157016
+revid: 157476
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Items]
@@ -35,6 +35,10 @@ categories: [Weapons, Clubs, Medium Weapons, Items]
 ## Description
 
 The **Sacred Hammer** is a bulky medium blunt hammer. It can be considered the endgame version of the [Mace](Mace.md).
+
+## Critical
+
+Sacred Hammer uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Trivia
 

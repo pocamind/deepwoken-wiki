@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 156964
+revid: 157448
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns, The Summer Company, Light Weapons]
@@ -34,6 +34,10 @@ categories: [Weapons, Pistols, Offhand Guns, The Summer Company, Light Weapons]
 The Repeater is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
 
 The Repeater has a [Bullet](Bullet_Casings.md) capacity of 6, Meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
+
+## Critical
+
+Repeater uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
 
 ## Trivia
 

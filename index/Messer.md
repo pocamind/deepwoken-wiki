@@ -1,9 +1,9 @@
 ---
 title: Messer
-revid: 157022
+revid: 157459
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons]
 ---
 
 # Messer
@@ -37,7 +37,13 @@ categories: [Weapons, Swords, Alloyed Weapons, Medium Weapons]
 
 The Messer is an early-game sword that can be found in chests in [Lower Erisia](Lower_Erisia.md), as well as in the [Etris](Etris.md) weapon shop for 16 notes. Due to its nature as a very early game weapon, it is quickly overshadowed, even by weapons with the same requirements.
 
-The Messer is one of the weapons able to have a [Pluripotent Alloy](Pluripotent_Alloy.md) applied to it, boosting its stats to stay somewhat relevant later in the game.
+The Messer can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requirements to make it a viable lategame weapon. The Messer gains a purple hue to indicate this change.
+
+## Critical
+
+Messer uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

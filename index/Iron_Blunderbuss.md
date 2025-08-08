@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 157006
+revid: 157502
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -33,7 +33,9 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 
 The Iron Blunderbuss is a Medium Weapon that was added in the Verse 2 content update. It is among the first medium weapon guns, including the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>). The Iron Blunderbuss has 20 Base Damage and a scaling of 7 so it deals 27.9 damage at 75 MED, and 30.5 damage at 100 MED. The Iron Blunderbuss, like the Rosen's Peacemaker, has a blunt swinging attack and firing attack in its M1 string.
 
-Unlike other rifles, the Iron Blunderbuss does not have a projectile in its critical, instead it has a short hitbox in front of the weapon, similar to a regular blast shot in the M1 string.
+## Critical
+
+Iron Blunderbuss uses a modified version of the default Rifle critical, having a short hitbox in front of the weapon rather than a projectile. It has a scaled damage multiplier of **1.35x** and a cooldown of **3 seconds**.
 
 ## Trivia
 

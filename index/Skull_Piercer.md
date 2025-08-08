@@ -1,9 +1,9 @@
 ---
 title: Skull Piercer
-revid: 156980
+revid: 157455
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Event Item, Hallowtide, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
 ---
 
 # Skull Piercer
@@ -34,6 +34,12 @@ categories: [Weapons, Rapiers, Event Item, Hallowtide, Light Weapons]
 ## Description
 
 The Skull Piercer is a [Light Weapon](Weapons.md) in the rapier category. It is obtained by getting [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md) or turning knowledge with Hallowtide Medals. This is the only rapier that procs bleed and has 8.5 range, making it better than the [Crucible Rapier](Crucible_Rapier.md) and [Golden Swordfish](Golden_Swordfish.md)
+
+## Critical
+
+Skull Piercer uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

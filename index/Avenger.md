@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 157096
+revid: 157487
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Creation, Greatswords, Echoes, Heavy Weapons]
@@ -34,6 +34,10 @@ categories: [Weapons, Creation, Greatswords, Echoes, Heavy Weapons]
 ## Description
 
 The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by purchasing the _Starter Weapon: Greatsword_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md). Once you've bought it with echoes, you may choose it in the character creation screen.
+
+## Critical
+
+Avenger uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

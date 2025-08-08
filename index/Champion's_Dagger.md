@@ -1,9 +1,9 @@
 ---
 title: "Champion's Dagger"
-revid: 156914
+revid: 157442
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
 ---
 
 # Champion's Dagger
@@ -34,6 +34,10 @@ categories: [Weapons, Daggers, Light Weapons]
 ## Description
 
 The Champion's Dagger is a Dagger, and it is tied for the third highest tier dagger in the game before the [Nemit's Sickle](<Nemit's_Sickle.md>) and the [Krulian Knife](Krulian_Knife.md), it is found at [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md).
+
+## Critical
+
+Champion's Dagger uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**. It has a cooldown of **3 seconds**.
 
 ## Trivia
 

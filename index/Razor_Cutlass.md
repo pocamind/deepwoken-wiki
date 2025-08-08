@@ -1,9 +1,9 @@
 ---
 title: Razor Cutlass
-revid: 157047
+revid: 157464
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons, Ingredients]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
 ---
 
 # Razor Cutlass
@@ -38,11 +38,16 @@ The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily
 
 Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Weapons.md) effect and good PEN and boasts the highest weight of all medium weapons.
 
-This weapon is also notably one of the slowest available swords in the game, its swing speed only being .01 faster than the [Messer](Messer.md), and the starter-tier club, [Mace](Mace.md), which the [Messer](Messer.md) shares its swing speed stat with. The sheer power of the aforementioned stats make up for this weapon’s somewhat-slow swing speed quite a bit. As such, it's best used as a mid to endgame weapon.
-
 It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [Umbrite](Ores.md#umbrite), a [Dormant Splinter](Dormant_Splinter.md) and itself in [The Cold Forge](The_Cold_Forge.md).
+
+## Critical
+
+Razor Cutlass uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
+-   This weapon is notably one of the slowest available swords in the game, its swing speed only being .01 faster than the [Messer](Messer.md), and the starter-tier club, [Mace](Mace.md), which the [Messer](Messer.md) shares its swing speed stat with.
 -   Meeting the requirement of MED, the weapon deals 24.1 damage, but it becomes 31.3 with bleed.
 -   At max MED, the weapon deals 28.1 damage, but it becomes 36.6 with bleed.

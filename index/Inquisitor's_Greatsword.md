@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 157111
+revid: 157491
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons]
@@ -34,6 +34,10 @@ categories: [Weapons, Greatswords, Heavy Weapons]
 ## Description
 
 The Inquisitor's Greatsword is a [Greatsword](Weapons.md) with a black handle and center with a white edge.
+
+## Critical
+
+Inquisitor's Greatsword uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Notes & Trivia
 

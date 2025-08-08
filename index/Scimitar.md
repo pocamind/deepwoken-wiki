@@ -1,9 +1,9 @@
 ---
 title: Scimitar
-revid: 157024
+revid: 157460
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 ---
 
 # Scimitar
@@ -33,6 +33,12 @@ categories: [Weapons, Swords, Medium Weapons]
 ## Description
 
 The Scimitar is a Medium type weapon that can be obtained from chests found in [Erisia](Erisia.md). This weapon has no special effects or passives.
+
+## Critical
+
+Scimitar uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Gallery
 

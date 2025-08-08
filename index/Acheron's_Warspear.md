@@ -1,9 +1,9 @@
 ---
 title: "Acheron's Warspear"
-revid: 157038
+revid: 157471
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Drops, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
 ---
 
 # Acheron's Warspear
@@ -33,7 +33,15 @@ categories: [Weapons, Spears, Drops, Medium Weapons]
 
 ## Description
 
-**Acheron's Warspear** is a [Medium Weapon](Weapons.md) that can be obtained by defeating a [Corrupted King Thresher](King_Thresher.md) in [The Depths](The_Depths.md) and is found fairly commonly inside [Layer 2](Second_Layer.md) chests. Despite subpar stats, it deals bleed damage, which means that the spear does more than what's shown.
+**Acheron's Warspear** is a [Medium Weapon](Weapons.md) that can be obtained by defeating a [Corrupted King Thresher](King_Thresher.md) in [The Depths](The_Depths.md) and is found fairly commonly inside [Layer 2](Second_Layer.md) chests. Despite subpar stats, it deals bleed damage, boosting its performance immensely.
+
+## Critical
+
+Acheron's Warspear uses the default Spear critical, a horizontal swing followed by a forward thrust. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. Both hits deal **5** posture damage.
+
+This critical will be canceled if the first hit is parried.  
+  
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: "Champion's Sword"
-revid: 157043
+revid: 157463
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 ---
 
 # Champion's Sword
@@ -36,6 +36,12 @@ categories: [Weapons, Swords, Medium Weapons]
 The Champion's sword is a mid-game Sword obtained from [Starswept Valley](The_Starswept_Valley.md) chests, [Depths](The_Depths.md) chests and the Golden Rat.
 
 Can be easily obtained from Layer 2 Floor 1, not worth farming in the [Starswept Valley](The_Starswept_Valley.md).
+
+## Critical
+
+Champion's Sword uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

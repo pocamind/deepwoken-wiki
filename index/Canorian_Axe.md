@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 157098
+revid: 157483
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -36,6 +36,10 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 ## Description
 
 The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Merchant Ship](Travelling_Merchant.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It has lore connecting to the Authority as said Adretian Empire. It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+
+## Critical
+
+Canorian Axe uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

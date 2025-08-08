@@ -1,9 +1,9 @@
 ---
 title: Sword (weapon)
-revid: 156900
+revid: 157457
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 ---
 
 # Sword (weapon)
@@ -33,6 +33,12 @@ categories: [Weapons, Swords, Medium Weapons]
 ## Description
 
 The Sword is the default medium weapon users start with beginning the game with a base damage of 18. This weapon can be obtained by starting with it by either choosing medium weapon during [Character Creation](Character_Creation.md#weapon-classes) or buying it in the [Etris](Etris.md) weapon shop.
+
+## Critical
+
+Sword (weapon) uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

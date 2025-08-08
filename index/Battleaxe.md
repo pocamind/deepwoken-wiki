@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 157072
+revid: 157435
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -33,6 +33,10 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 ## Description
 
 The Battleaxe is a Greataxe that [Heavy Weapon](Weapons.md) users start with when beginning the game. The weapon has a base damage of 20, and a scaling of 5.
+
+## Critical
+
+Battleaxe uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

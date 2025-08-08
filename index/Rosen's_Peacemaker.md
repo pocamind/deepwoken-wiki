@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 157007
+revid: 157499
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -34,6 +34,10 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 Rosen's Peacemaker is a Medium Weapon and was released in the Verse 2 content update. It is among the first medium weapon [rifles](Guns.md) along with it's brutal brother the [Iron Blunderbuss](Iron_Blunderbuss.md).
 
 Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing attack and a longer-range firing attack during its M1 combo. The critical of Rosen's Peacemaker is a slightly slower version of its M1 firing cycle, but it shoots a projectile in the direction the wielder faces. The bullets do not incur parry stun on the attacker if they get parried at far range.
+
+## Critical
+
+Rosen's Peacemaker uses a modified variant of the default Rifle critical, dealing increased damage. It has a scaled damage multiplier of **1.5x** compared to the default critical's 1.35x. This critical has a cooldown of **3 seconds**.
 
   
 

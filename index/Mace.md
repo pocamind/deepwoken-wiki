@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 157020
+revid: 157473
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -34,6 +34,10 @@ categories: [Weapons, Clubs, Medium Weapons]
 ## Description
 
 The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at [Etris](Etris.md) for 16 notes. It's an early-game Medium Weapon and somewhat common to find.
+
+## Critical
+
+Mace uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
 
 ## Trivia
 

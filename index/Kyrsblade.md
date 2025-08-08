@@ -1,9 +1,9 @@
 ---
 title: Kyrsblade
-revid: 157054
+revid: 157467
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 ---
 
 # Kyrsblade
@@ -35,6 +35,12 @@ categories: [Weapons, Swords, Medium Weapons]
 ## Description
 
 The Kyrsblade is an Endgame [Medium Weapon](Weapons.md) under the Sword category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the default Sword Critical Attack, winding up a powerful thrust which does a decent amount of posture damage.
+
+## Critical
+
+Kyrsblade uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

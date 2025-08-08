@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 157114
+revid: 157492
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons]
@@ -38,6 +38,10 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 The Steel Maul is a standard Heavy Greathammer that acts as the entry point to the Greathammer weapon class. The Steel Maul has two upgraded variants, the Alloyed Steel Maul and the [Warmonger](Warmonger.md).
 
 The [Alloyed](Pluripotent_Alloy.md) variant of the Steel Maul boasts increased stats and a higher requirement, allowing for lategame viability. The alloyed version of the Steel Maul also has a demascus steel-type texture to indicate its change.
+
+## Critical
+
+Steel Maul uses the default Greathammer critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

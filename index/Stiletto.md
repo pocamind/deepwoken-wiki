@@ -1,9 +1,9 @@
 ---
 title: Stiletto
-revid: 156908
+revid: 157437
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
 ---
 
 # Stiletto
@@ -33,6 +33,10 @@ categories: [Weapons, Daggers, Light Weapons]
 ## Description
 
 The Stiletto is a dagger. It is the starting light weapon (not counting advanced weapons.) The weapon has a base damage of 11. It can be obtained by choosing Light Weapon during [Character Creation](Character_Creation.md), buying it at [Etris](Etris.md#weaponry), or getting it from a drop at [Erisia](Erisia.md).
+
+## Critical
+
+Stiletto uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**. It has a cooldown of **3 seconds**.
 
 ## Trivia
 

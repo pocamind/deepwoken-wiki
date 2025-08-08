@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat Cloth"
-revid: 156384
+revid: 157510
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat_Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,6 +25,6 @@ The **Ferryman's Coat Cloth** is a direct and chest drop from [The Ferryman](The
 
 ## Uses
 
--   Used as a crafting material for the following items:
+-   Used as a crafting component for the following items:
     -   [Specialist Helmet](Specialist_Helmet.md)
     -   [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)

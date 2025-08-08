@@ -1,9 +1,9 @@
 ---
 title: Kyrsedge
-revid: 156929
+revid: 157444
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
 ---
 
 # Kyrsedge
@@ -34,7 +34,11 @@ categories: [Weapons, Daggers, Light Weapons]
 
 ## Description
 
-The Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the regular Dagger Critical Attack, which consists of three quick slashes which move the user forward after a short windup.
+The Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md).
+
+## Critical
+
+Kyrsedge uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**. It has a cooldown of **3 seconds**.
 
 ## Trivia
 

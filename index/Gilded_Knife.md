@@ -1,9 +1,9 @@
 ---
 title: Gilded Knife
-revid: 156909
+revid: 157439
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
 ---
 
 # Gilded Knife
@@ -33,6 +33,10 @@ categories: [Weapons, Daggers, Light Weapons]
 ## Description
 
 The Gilded Knife is a rare LHT dagger weapon obtainable through [Erisia](Erisia.md) chests and [Chili](Travelling_Merchant.md). It is a very good weapon for early to mid game for its high base damage, low requirement and scaling.
+
+## Critical
+
+Gilded Knife uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**. It has a cooldown of **3 seconds**.
 
 ## Trivia
 

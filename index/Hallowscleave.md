@@ -1,9 +1,9 @@
 ---
 title: Hallowscleave
-revid: 157053
+revid: 157466
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Event Item, Hallowtide, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
 ---
 
 # Hallowscleave
@@ -33,7 +33,13 @@ categories: [Weapons, Swords, Event Item, Hallowtide, Medium Weapons]
 
 ## Description
 
-The Hallowscleave is a MED weapon in the Swords category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive](Glaive_Spellhardt.md). Only obtainable second week of [Hallowtide](Hallowtide.md) in 2022, or anytime in future Hollowtide events. After gripping an opponent with the Hallowscleave, a bell will play and a temporary, collideble gravestone will spawn.
+The Hallowscleave is a MED weapon in the Swords category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md). Only obtainable second week of [Hallowtide](Hallowtide.md) in 2022, or anytime in future Hollowtide events. After gripping an opponent with the Hallowscleave, a bell will play and a temporary, collideble gravestone will spawn.
+
+## Critical
+
+Hallowscleave uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

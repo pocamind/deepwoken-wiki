@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 157102
+revid: 157486
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -35,6 +35,10 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 ## Description
 
 Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. Obtainable in the [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 24, 0.8x Swing speed and 25% Chip damage.
+
+## Critical
+
+Master Hawk's Handaxe uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

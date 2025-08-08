@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 156957
+revid: 157445
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
@@ -32,6 +32,10 @@ categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
 ## Description
 
 The **Silversix** is a [gun](Guns.md) obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md). A character starting with the Silversix will dual wield them, one in the main hand and one in the off-hand. If you want to wield this gun single-handed, unequip one of them at a campfire.
+
+## Critical
+
+Silversix uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
 
 ## Trivia
 

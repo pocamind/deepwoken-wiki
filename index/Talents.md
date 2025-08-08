@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157276
+revid: 157521
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -795,7 +795,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
     -   Heal others by 3%.
-    -   Heal the user by 2% + 1% for every people healed.
+    -   Heal the user by 3% + 1% for every people healed.
     -   Hold your block key while casting Reinforce to apply reinforce to everyone, including non allies. (This is a default feature of Reinforce.)
     -   Only procs on allies.
     -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Fortitude
@@ -2288,7 +2288,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Frostdraw Mantra: Deals a very low amount of damage (Base path) / Apply Crystal on victim (Crystallization path)
         -   Galebreathe Mantra: Suffocate + Cancels mantra (Base path) / Spawn Apparition (Specter Path)
         -   Shadowcast Mantra: Doubles the Ether cost of the Mantra cast
-        -   Thundercall Mantra: Applies Shock + Cancels mantra (Base path) / Applies Surge stack + Cancels mantra (Surge path)
+        -   Thundercall Mantra: Applies Shock + Cancels mantra (Base path) / Applies Surge stack (Surge path)
         -   Attunement-less/Ironsing/Bloodrend/Oath Mantra: The rod does not fall off, but their armor is still drained till conductor rod expires.
     -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
     -   Conductor's rod on proc dont apply rod/pull immunity.

@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 157097
+revid: 157482
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -34,6 +34,10 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe category.
 
 This weapon can be [Alloyed](Pluripotent_Alloy.md), granting it increased stats, making this weapon viable for endgame content. Additionally, the alloy changes the weapon's appearance, granting it a purple hue.
+
+## Critical
+
+Adretian Axe uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

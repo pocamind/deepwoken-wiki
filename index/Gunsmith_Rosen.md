@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Rosen
-revid: 146207
+revid: 157501
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs]
+categories: [Vesperian NPCs, Lore figures, The Summer Company]
 ---
 
 # Gunsmith Rosen

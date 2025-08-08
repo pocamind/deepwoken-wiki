@@ -1,9 +1,9 @@
 ---
 title: Quickfang
-revid: 156968
+revid: 157451
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
 ---
 
 # Quickfang
@@ -34,6 +34,12 @@ categories: [Weapons, Rapiers, Light Weapons]
 ## Description
 
 The Quickfang is a LHT weapon in the Rapier category. It is obtained by spending 25 [Echoes](Echoes.md) on the "Starting Weapon: Rapier" [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers).
+
+## Critical
+
+Quickfang uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

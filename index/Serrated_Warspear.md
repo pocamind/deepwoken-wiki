@@ -1,9 +1,9 @@
 ---
 title: Serrated Warspear
-revid: 157030
+revid: 157472
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Drops, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
 ---
 
 # Serrated Warspear
@@ -35,6 +35,14 @@ categories: [Weapons, Spears, Drops, Medium Weapons]
 ## Description
 
 The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](Thresher.md), corrupted [Threshers](Thresher.md) and Void Threshers. It is on the rarer side of weapons due to being a direct drop from a mob, next to the True Seraph's Spear (from Corrupted King Threshers.)
+
+## Critical
+
+Serrated Warspear uses the default Spear critical, a horizontal swing followed by a forward thrust. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. Both hits deal **5** posture damage.
+
+This critical will be canceled if the first hit is parried.  
+  
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

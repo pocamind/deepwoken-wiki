@@ -1,9 +1,9 @@
 ---
 title: Forgotten Gladius
-revid: 157049
+revid: 157465
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 ---
 
 # Forgotten Gladius
@@ -35,9 +35,15 @@ categories: [Weapons, Swords, Medium Weapons]
 
 The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md), [Voidwalker](Origins.md) and [Fishing](Fishing.md) chests. This weapon has a base damage of 18 and has no special effect or passives.
 
+## Critical
+
+Forgotten Gladius uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
 ## Notes & Trivia
 
--   Formerly resembled the [Canor fang](Canor_Fang.md).
+-   Formerly resembled the [Canor Fang](Canor_Fang.md).
 -   After some previous nerfs, the Forgotten Gladius now has 0.02x slower swing speed than the [Falchion](Falchion.md) and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), but makes up for it with slightly more base damage.
 -   Meeting the requirement of MED, the damage is (24.6)
 -   At max MED, the damage is (28.1)

@@ -1,9 +1,9 @@
 ---
 title: Kyrstreza
-revid: 156977
+revid: 157456
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
 ---
 
 # Kyrstreza
@@ -34,6 +34,12 @@ categories: [Weapons, Rapiers, Light Weapons]
 ## Description
 
 The Kyrstreza is an endgame [Light Weapon](Weapons.md) under the Rapier category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the default Rapier Critical Attack, which consists of a short windup followed by multiple quick thrusts forward.
+
+## Critical
+
+Kyrstreza uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Tips/Trivia
 

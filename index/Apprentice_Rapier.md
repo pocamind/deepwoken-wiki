@@ -1,9 +1,9 @@
 ---
 title: Apprentice Rapier
-revid: 156970
+revid: 157452
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
 ---
 
 # Apprentice Rapier
@@ -33,6 +33,12 @@ categories: [Weapons, Rapiers, Light Weapons]
 ## Description
 
 The Apprentice Rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can be bought from [Etris Weaponry](Etris.md#weaponry) (25 ) and [The Floating Keep](The_Floating_Keep.md) (100 ).
+
+## Critical
+
+Apprentice Rapier uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

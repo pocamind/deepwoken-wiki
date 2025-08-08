@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 157075
+revid: 157490
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, War Weapons, Heavy Weapons]
@@ -45,6 +45,10 @@ Dying in the Overworld/[Depths](The_Depths.md) with this weapon equipped or in y
 On M1, restore 2% of your maximum health. This can also proc even if the attack is blocked, parried, or dodged. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 
 On critical, apply a Damage over Time status effect that deals 6 damage per tick 5 times for a maximum of 30 damage. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this. This effect has no cooldown and can be stacked multiple times, so pairing this with the [Crescent Cleaver](Crescent_Cleaver.md) [Motif](Motifs.md) can lead to very high damage output.
+
+## Critical
+
+Bloodbane uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

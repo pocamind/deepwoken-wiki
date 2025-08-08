@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 156462
+revid: 157519
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -122,6 +122,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift.
         -   Deals 30 (oath?) damage.
         -   Only works on humanoids.
+        -   If the enemy is using a [Worn songbook](Instruments.md) the clone will imitate it and use the same instrument and will be using the same [song](Books.md)
 
 ## Notes
 
