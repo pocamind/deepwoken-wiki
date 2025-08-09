@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157580
+revid: 157610
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3060,16 +3060,23 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Thunderblade
 
+-   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
+    -   Grants stacks when you **get parried**, not when you parry attacks. Also grants stacks when you hit blocks or block attacks.
+    -   Each stack lasts for 15 seconds and refresh upon gaining another, including when you're at max stacks. You can be at max stacks indefinitely.
+    -   Each stack grants an ~2.35% speed boost, totaling to ~11.75% speed at max stacks. The duration of this speed boost is effectively indefinite, as gaining stacks can be done very easily just by playing the game.
+        -   This speed boost can proc speed boost Talents, like Speed Demon or Cheap Shot.
+    -   Prerequisites: 40 Thundercall, 20 Medium Weapon
+
 -   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
+    -   Clears all Static Blade stacks on proc.
+    -   You can still gain Static Blade stacks while Gathering Electricity is active.
+    -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
+        -   +3 base damage might not seem like a large buff, but due to how Deepwoken's damage calculation works, this is very significant.
     -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Any Medium Weapon (Cannot obtain with Rifle)
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning.
-    -   Lightning Dashes increase your dash i-frames and distance travelled, but will end early if you attack.
+    -   Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.
     -   Prerequisite: Gathering Electricity
-
--   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
-    -   Prerequisites: 40 Thundercall, 20 Medium Weapon
-    -   Works with Hero Blades
 
 ### Thundercaller
 

@@ -1,9 +1,9 @@
 ---
 title: Bari
-revid: 135431
+revid: 157612
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Bari
@@ -30,34 +30,51 @@ Bari is located at the docks in [Isle of Vigils](Isle_of_Vigils.md) leaning agai
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Greetings, you don't look quite ready to fend for yourself yet, I can give you some survival tips if you'd like?</td>
+  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!</td>
 </tr>
 <tr>
-  <td>Sure.</td>
+  <td>[<font>Opens</font> <a href="#baris-bare-essentials"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+</tbody>
+</table>
+
+### Shop UI
+
+Bari's Bare Essentials
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>[Item price] <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>[Item name]</div><div><i></i></div></td>
+</tr>
+</tbody>
+</table>
+
+  
+
+## Shop
+
+### 
+
+Sold Items
+
+<table>
+<tbody>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><b>For 30 </b>: <a href="Fishing_Rod.md">Fishing Rod</a></li>
+    <li><b>For 3 </b>: <a href="Flint.md">Flint</a>,<a href="Pickaxe.md">Pickaxe</a>,<a href="Lumber_Axe.md">Lumber Axe</a>.</li>
+  </ul></td>
 </tr>
 <tr>
-  <td>First off, you're going to want a campfire to help recover from your wounds from battle. It's almost essential to be up and ready for those who want to get the drop on you.</td>
-</tr>
-<tr>
-  <td>A campfire?</td>
-</tr>
-<tr>
-  <td>You can make a campfire pit in two ways, 3 sticks, or 1 wood. Campfires don't light themselves, grab yourself some flint from the shop or create some yourself with coal and rocks. You're still here, so what I'm saying must be of interest. Care to hear more?</td>
-</tr>
-<tr>
-  <td>...</td>
-</tr>
-<tr>
-  <td>Ah, an essential tool. A glider helps you get around some difficult<p>places, but they aren't too intuitive to craft. You'll need a schematic and a blacksmith willing to explain it to you. Then you'll just need a crafting station, two sticks, and two cloth spare.</p></td>
-</tr>
-<tr>
-  <td>Thank you.</td>
-</tr>
-<tr>
-  <td>No problem traveller, come again if you need these explained again.</td>
-</tr>
-<tr>
-  <td>End</td>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b>For 30 </b>: <a href="Leather_Gloves.md">Leather Gloves</a>,<a href="Leather_Boots.md">Leather Boots</a>.</li>
+  </ul></td>
 </tr>
 </tbody>
 </table>
