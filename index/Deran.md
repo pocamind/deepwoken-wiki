@@ -1,9 +1,9 @@
 ---
 title: Deran
-revid: 157537
+revid: 157597
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs]
+categories: [Khan NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
 ---
 
 # Deran
@@ -22,6 +22,8 @@ He will only grant you access if you are an [Ignition Delver](Origins.md#igniton
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -32,6 +34,33 @@ He will only grant you access if you are an [Ignition Delver](Origins.md#igniton
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has escaped the First Floor of the Second Layer with the Deepdriller at least once.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah, you must be the one who saved our comrades. You're a real life-saver, buddy.</td>
+</tr>
+<tr>
+  <td>Can I go down again?</td>
+</tr>
+<tr>
+  <td>Hm. You've proven yourself, Delver. Though I must ask, you sure about this? You won't have any kind of protection out there like the <a href="Glossary.md#the-divers">Divers</a> do.</td>
+</tr>
+<tr>
+  <td>Send me down.</td>
+</tr>
+<tr>
+  <td>End, Player is sent down to The Frontier Furnace</td>
 </tr>
 </tbody>
 </table>

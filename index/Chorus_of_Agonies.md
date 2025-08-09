@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 157095
+revid: 157606
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -38,11 +38,12 @@ Similar to all other drops from the Heart of Enmity, it automatically Soulbounds
 
 ## Critical
 
-Stomp the ground and if landed follow up with an overhead strike with your axe.
+The user stomps the ground, applying Knockdown and Daze to those hit. If landed, the attack will follow up with an overhead strike that sends the opponent away.
+
+The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 
--   The weapon is named The Brutalizer when viewed at a campfire.
 -   The weapon had the highest weight of any weapon in the game at 15, beating the previous record holder, the [Sovereign's Punishment](<Sovereign's_Punishment.md>), before its nerf by 2.
 -   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
 -   At 100 Heavy and 6 Proficiency this weapon deal 58.2 damage.

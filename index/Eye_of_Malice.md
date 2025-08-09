@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 157161
+revid: 157593
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -32,13 +32,17 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 
 ## Description
 
-The Eye of Malice is a Legendary [Medium Sword](Weapons.md) that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several segments.
+The Eye of Malice is a Legendary [Medium Sword](Weapons.md) that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several bony segments, with a protrusion in one of the segments.
 
-The M1s proc an orange eye mark.
+Each basic attack will apply the Mark of Malice, which enhances the critical when landed.
 
 ## Critical
 
-The Eye of Malice's critical makes the user jump and thrust the weapon in front of them, piercing it through anyone in the way. Additionally, hitting the critical attack while the opponent is marked will teleport the user behind their target and backstab them. Procs Spine Cutter. Feinting during this critical will cancel momentum and allow you to more easily use this attack in close quarters combat.
+The user leaps and thrusts the whipblade into the opponent, applying knockdown before lashing out into the air again. If the critical is landed on an opponent with the Mark of Malice, the weapon will damage the opponent twice, proccing talents like Spine Cutter.
+
+Feinting during this critical will cancel momentum and allow you to more easily use this attack in close quarters combat.
+
+The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 

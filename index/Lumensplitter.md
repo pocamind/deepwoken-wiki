@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 157113
+revid: 157605
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons]
@@ -35,7 +35,9 @@ The Lumensplitter is a Legendary Greatsword; a large, serrated curved blade cons
 
 ## Critical
 
-The user leans back before unleashing three massive, devastating whirlwinds while moving forward. The third slash will grab opponents within its range and drag them with it before being thrown in the end. All hits are parryable and is not canceled on the initial hit. Has a cooldown of 10 seconds.
+The user leans back before unleashing three massive, devastating whirlwinds while moving forward. The third slash will grab opponents within its range and drag them with it before being thrown in the end. All hits are parryable and is not canceled on the initial hit. The user will gain hyperarmor for its full duration.
+
+The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 155920
+revid: 157595
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -160,3 +160,4 @@ Beiruul executes her opponent after knocking them:
 ## Trivia
 
 -   Gripping Beiruul will reduce your rep with the Children of Navae.
+-   Similar to Polis and Zana, when spawning as an NPC her Gremor variant, face and horns will change into a random variant.

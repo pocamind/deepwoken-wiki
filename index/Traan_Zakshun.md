@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 156563
+revid: 157601
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -294,6 +294,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
+-   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _You want it? It's yours my friend! So long as you have enough crowns._
 -   _You wouldn't believe how hard these were to find._
