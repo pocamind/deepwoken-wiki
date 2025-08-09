@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 149259
+revid: 157568
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -58,7 +58,7 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Ahh... You have taken an Oath I see.</td>
+  <td>Ahh... You have taken an <a href="Glossary.md#oaths">Oath</a> I see.</td>
 </tr>
 <tr>
   <td>Is there anything you can teach me?</td>

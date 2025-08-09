@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157521
+revid: 157580
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1448,13 +1448,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your Basic Attacks now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land a Basic Attack, the target has most healing forms reduced/disabled for 8 seconds.
-        -   Anti-heal percentage from a non-passive source scales with the total numerical investment of Willpower + Intelligence. Scales up to 100% with 105 points in both stats collectively. (Ex. Still has 100% antiheal at \[60 Willpower + 45 Intelligence\] OR \[60 Intelligence + 45 Willpower\]). Relevant for [Shrine of Order](Deep_Shrines.md).
-        -   Anti-heal percentage can be calculated by dividing your points in INT + WLP by 105. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 76.2% Anti-heal)
+        -   Anti-heal amount for any non-passive source of healing scales on your combined Willpower and Intelligence investment. Scales up to 100% with 105 points combined in both stats. (Ex. Still has 100% antiheal at 80 Willpower + 25 Intelligence OR 55 Willpower + 50 Intelligence). Relevant for [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+        -   Anti-heal percentage can be calculated by combining your INT and WLP invest, dividing by 105, then multiplying by 100. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 0.762) > (0.762 \* 100 = 76.2% Anti-heal)
     -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
-    -   The scaling from investment only affects spit healing, [Bloodless Gem](Deep_Gems.md) and [Blood Scourge](Blood_Scourge.md).
-        -   Passive health regeneration and campfire regeneration are FULLY blocked even if the full requirements are not met. (Ex. 30 INT + 60 WLP will still negate campfire & health regen entirely even though every other health source will only be reduced by 85.7%.)
+    -   The scaling from investment only affects spit healing, [Bloodless Gem](Bloodless_Gem.md) and [Blood Scourge](Blood_Scourge.md).
+    -   Passive health regeneration and campfire regeneration are FULLY blocked even if the full requirements are not met. (Ex. 30 INT + 60 WLP will still negate campfire & health regen entirely even though every other health source will only be reduced by 85.7%.)
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
-    -   Also applies on weapon criticals.
     -   Does not work on allies.
     -   Does not affect healthpacks.
     -   Prerequisites: 65 Willpower, 40 Intelligence
@@ -3637,7 +3636,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Procs all "on Vent" Talents and effects.
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
--   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks has 10% additional penetration.
+-   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks have 10% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) basic attacks 10% more PEN. This does **NOT** apply to criticals.
     -   This bypasses the PEN cap.
     -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as Basic Attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.

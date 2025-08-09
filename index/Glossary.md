@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 157342
+revid: 157569
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -203,7 +203,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Vow](#vows)
+Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Vow](#vows)
 
 ### Radiant Tones
 

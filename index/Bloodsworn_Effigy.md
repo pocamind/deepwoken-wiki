@@ -1,6 +1,6 @@
 ---
 title: Bloodsworn Effigy
-revid: 90383
+revid: 157587
 source: https://deepwoken.fandom.com/wiki/Bloodsworn_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -32,8 +32,13 @@ notices:
 
 ## Description
 
-The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the form of war banner, with decorations resembling [Deep Shrines](Deep_Shrines.md) and various iconography of Yun’Shul adorning it.
+The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the form of a war banner, with decorations resembling [Deep Shrines](Deep_Shrines.md) and various iconography of Yun’Shul adorning it.
 
 ## Trivia
 
 -   This weapon is the winner of Deepwoken's Third Official Art Contest, held from August 5th to August 7th, 2023.
+-   This weapon was never implemented ingame; even though it won the Official Art Competition in 2023. This was only revealed by **Agamatsu** on a podcast on June 23rd **2025**, nearly **2 years** after it's contest win.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://discord.com/channels/883838743172218891/888259230082146385/1397832862928998491](https://discord.com/channels/883838743172218891/888259230082146385/1397832862928998491)

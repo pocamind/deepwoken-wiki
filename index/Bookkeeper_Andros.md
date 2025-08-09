@@ -1,9 +1,9 @@
 ---
 title: Bookkeeper Andros
-revid: 155834
+revid: 157566
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Bookkeeper Andros
@@ -11,7 +11,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Etrean Luminant]
 | Bookkeeper Andros | |
 |---|---|
 | name | Bookkeeper Andros |
-| aspect | Celtor |
+| aspect | Generic |
 | location | Etris |
 
 ## Overview
@@ -208,4 +208,6 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 
 ## Trivia
 
--   Prior to the 31st of March 2025 update, Andros' aspect was unknown. It was theorised to be Celtor, but it was unconfirmed. After the update, he can be assumed with almost 100% accuracy to be a Celtor, as his skin color and eye color matches with a Celtor variant.
+-   Prior to the 31st of March 2025 update, Andros' aspect was unknown. It was theorised to be Celtor, but it was unconfirmed.
+-   Bookkeeper Andros is the only NPC with the 'Generic' aspect, which is used ingame when your aspect does not load properly, as of the 8th of June 2025 you can see 'Generic' in the actual game via having a Kiron in the title screen.
+-   Bookkeeper Andros was one of the first NPCs added to Deepwoken closed community testing.

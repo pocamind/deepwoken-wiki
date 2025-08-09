@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 155943
+revid: 157574
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -29,6 +29,8 @@ The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda,_Master_of_B
 After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition that the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [3 Heartstars](Heartstar.md) from their corpses.
 
 Walk out the building, and run around the village for a while. The blood-renders will notice you as a threat and begin to engage. Kill all the three cultists for 3 Heartstars, and return to Vyrelda to get the Curseblood potion. Upon usage, your body aches in pain for a split second. You have gained access to Bloodrend.
+
+You can also obtain Bloodrend by being in a bugged server that spawns Vyrelda in the Derelict Highchurch without killing Chaser in the first place.
 
 \***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [Light Hook](Light_Hook.md) to leave L2**
 

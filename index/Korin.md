@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 153585
+revid: 157567
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -202,3 +202,4 @@ This is the dialogue that plays if you talk to Korin without yet possessing a [L
 -   Has a near-identical appearance to [The Ferryman](The_Ferryman.md), the only difference being eye color.
 -   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions called [Drefa](Drefa.md).
 -   It is implied in one of his dialogue options that he formerly pursued a profession as a Vigil, but failed to meet the required sword expertise for the job.
+-   Korin was one of the first NPCs added to Deepwoken closed community testing.
