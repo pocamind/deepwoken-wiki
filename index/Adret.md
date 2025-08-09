@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 157232
+revid: 157639
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,9 +17,9 @@ Chance of obtaining aspect: **15%**
 
 ## Description
 
-Adrets are a common aspect that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up similar to the Autodidact boon. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new aspect and originate from the Central Luminant. Unlike other aspects, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
+Adrets are a common [aspect](Aspects.md) that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up similar to the Autodidact boon. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new aspect and originate from the Central Luminant. Unlike other aspects, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
 
-## Racial Traits
+## Aspect Traits
 
 <table>
 <tbody>
@@ -47,9 +47,9 @@ Adrets are a common aspect that have blue skin with orange eyes and face marking
 
 ## Family
 
--   Siblings - For Adrets, siblings have to be the same racial variant, have the same last name, and same tattoos, with the possibility of different genders. (Because of twins.)
+-   Siblings - For Adrets, siblings have to be the same racial variant, have the same last name, and same tattoos.
 -   Cousins - For Adrets, cousins have to be the same racial variant, have different last names, yet different tattoos.
--   Twins - For Adrets, twins have to be the same racial variant, have the same last name, the same gender, and possibly the same age. (The age part is not fully confirmed.)
+-   Twins - For Adrets, twins have to be the same racial variant, have the same last name, and possibly the same age. (The age part is not fully confirmed.)
 
 ## Miscellaneous
 
@@ -100,9 +100,9 @@ The Adrets are a historically recently arrived aspect of spiritually adept indiv
 
   
 
-## Gallery
+## Aspect Features
 
-### All variants markings and archived images (warning a lot of images)
+### Facial Markings
 
 **Alder:**
 
@@ -116,7 +116,9 @@ The Adrets are a historically recently arrived aspect of spiritually adept indiv
 
 **Hallowtide:**
 
-**Archived:**
+  
+
+  
 
 ## Trivia
 

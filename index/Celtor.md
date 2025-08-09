@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 153705
+revid: 157675
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -18,9 +18,9 @@ Chance of obtaining aspect: **15%**
 
 ## Description
 
-Celtors are a common aspect with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family, consisting of weasels, badgers, and otters, among others. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into [The Depths](First_Layer.md).
+Celtors are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family, consisting of weasels, badgers, and otters, among others. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into [The Depths](First_Layer.md).
 
-## Racial Traits
+## Aspect Traits
 
 <table>
 <tbody>
@@ -50,8 +50,6 @@ Celtors are a common aspect with a pale-ish green skin, grey hair and a racoon-l
 </tr>
 </tbody>
 </table>
-
-## Miscellaneous
 
 **Lore:**
 
@@ -96,6 +94,12 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
     
 
 * * *
+
+## Aspect Features
+
+### Facial Markings
+
+Celtors are most known for their unique racoon-like facial markings. These change color based on your variant, but they can also be [dyed](Dye_Packet.md). Optionally, the player can opt for no markings as well.
 
 ## Trivia
 

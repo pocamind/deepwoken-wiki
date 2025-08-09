@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 145868
+revid: 157637
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,9 +17,9 @@ Chance of obtaining aspect: **15%**
 
 ## Description
 
-Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common aspect, and can be found most commonly at [Etris](Etris.md). Etreans get an Agility and Intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and areas.
+Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common [aspect](Aspects.md), and can be found most commonly at [Etris](Etris.md). Etreans get an Agility and Intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and areas.
 
-## Racial Traits
+## Aspect Traits
 
 <table>
 <tbody>
@@ -83,10 +83,16 @@ A proud culture hailing from the [Etrean Luminant](Luminants.md). The people of 
 -   Wyneshi
     
 
+## Aspect Features
+
+### Scales
+
+The color of the scales are based on your skin color, though they can be [Dyed](Dye_Packet.md).
+
 ## Trivia
 
 -   It was stated pre-release that Etreans were Xenophobic and would discriminate against players based on their aspect. This was _mostly_ removed (or perhaps never existed at all) some time before the game came out, however the community's perception of Etreans has not changed.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
--   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md) boon is still a viable option.
+-   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md#boons) boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean aspect name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)

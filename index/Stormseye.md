@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 157008
+revid: 157690
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, The Summer Company, Medium Weapons]
@@ -38,7 +38,11 @@ The Stormseye comes with 2 passive abilities:
 -   **Medallion Shockwave** - Your flourish M1 now creates an explosion that knocks people away and applies [Electrified](Status_Effects.md#electrified). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
-    -   Oddly, this passive also applies to weapons pulled from [Crazy Slots](Crazy_Slots.md) or if forced by other means.
+    -   Due to how weapon passives work, this is one of few passives that can be transferred to another weapon equipped by abnormal means.
+    -   This includes but is not limited too-
+        -   All weapons from the [Crazy Slots](Crazy_Slots.md) Resonance;
+        -   The Sovereign Bangle from [Oath:BlightSurger](Oath%253A_Blightsurger.md);
+        -   The Saintsblade from [Oath:SaintSworn](Oath%253A_Saintsworn.md);
 
 This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, proccing Surge stacks, Static Blade, and the Stratoshock buffs.
 

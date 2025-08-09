@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 145913
+revid: 157667
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -19,7 +19,7 @@ Chance of obtaining aspect: **2%**
 
 Capras are an [aspect](Aspects.md) similar to goats, exhibiting various goat-like characteristics such as horns, rectangular pupils, and even masks shaped like a goat’s skull. Capra NPCs are rarely found in the Lumen of Deepwoken, and their characteristics are unspecified. Capras start with an intelligence and willpower bonus along with the ability to buff the regeneration of others at a campfire, with each buff having more potency dependent on the aspect variant.
 
-## Racial Traits
+## Aspect Traits
 
 <table>
 <tbody>
@@ -121,11 +121,25 @@ A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat th
 -   Yolad
     
 
+## Aspect Features
+
+### Adornments
+
+Capras have masks made of bone that closely resemble the skull structures of goats. These can be [dyed](Dye_Packet.md), though their color will match that of your Adornment.
+
+### Ornaments
+
+Capra horns come in many shapes and sizes. These can be [dyed](Dye_Packet.md), though their color will match that of your Adornment.
+
 ## Gallery
+
+Concept art, removed masks, and archived images.
 
 ### Removed Masks
 
 These are no longer in the game as of 1/22/2023.
+
+  
 
 ## Trivia
 

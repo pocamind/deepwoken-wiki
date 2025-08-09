@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 152905
+revid: 157635
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -45,8 +45,6 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
 </tbody>
 </table>
 
-## Miscellaneous
-
 **Lore:**
 
   
@@ -83,6 +81,12 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 -   Teko
 -   Velo
     
+
+## Aspect Features
+
+### Ears
+
+Felinors have cat ears with optional ear fluff. The color of the fluff, as well as the color of your ears is based on the color of Hair slot 1, though they can both be [dyed](Dye_Packet.md) individually.
 
 ## Trivia
 

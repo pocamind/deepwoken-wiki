@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 143065
+revid: 157665
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,9 +17,9 @@ Chance of obtaining aspect: **13%**
 
 ## Description
 
-Canor is an uncommon [Aspect](Aspects.md) considered to have the characteristics of a canine but the attributes and features of a lion and dog. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
+Canor is an uncommon [aspect](Aspects.md) considered to have the characteristics of a canine but the attributes and features of a lion and dog. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
 
-## Racial Traits
+## Aspect Traits
 
 <table>
 <tbody>
@@ -43,8 +43,6 @@ Canor is an uncommon [Aspect](Aspects.md) considered to have the characteristics
 </tr>
 </tbody>
 </table>
-
-## Miscellaneous
 
 **Lore:**
 
@@ -87,6 +85,28 @@ Canor share a strong bond with the Adret aspect, staying true to the relationshi
 -   Ysselden
 -   Zolfen
     
+
+## Aspect Features
+
+### Facial Markings
+
+Canor has optional face markings that vary in appearance on each variant. These markings can also be [dyed](Dye_Packet.md) to any color you desire.
+
+**River:**
+
+**Red:**
+
+**Lion:**
+
+**Interior:**
+
+**Steppe:**
+
+**Hallowtide:**
+
+  
+
+  
 
 ## Trivia
 
