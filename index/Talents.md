@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157715
+revid: 157756
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -867,11 +867,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   You can spam F to get out of Freeze faster.
     -   Prerequisite: 60 Frostdraw.
 
-### Cryonic
-
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen.
-    -   Prerequisites: [Ice Beam](Frostdraw.md#ice-beam) (Mantra), 60 Frostdraw.
     -   If the user has Crystallization, this Talent no longer freezes but instead causes crystals to explode.
+    -   Prerequisites: [Ice Beam](Frostdraw.md#ice-beam) (Mantra), 60 Frostdraw.
 
 ### Cutthroat
 
@@ -2589,7 +2587,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Shieldmaster
 
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
-    -   When holding out a shield (One-Handed Stance), being hit will inflict ~10% less "shaky block", allowing the user to escape combos much easier with their block.
+    -   When holding out a shield (One-Handed Stance), being hit will inflict ~5% less "shaky block", allowing the user to escape combos much easier with their block.
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.

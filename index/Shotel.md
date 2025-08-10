@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 157080
+revid: 157754
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons, Medium Weapons]
@@ -35,7 +35,7 @@ categories: [Pages with broken file links, Weapons, Swords, Alloyed Weapons, Med
 
 ## Description
 
-The Shotel is a Medium Weapon. It can be found through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [The Depths](The_Depths.md). This weapon can be alloyed, giving it a damascus steel-type texture and raising the stats to match late game tier weaponry.
+The Shotel is a Medium Weapon. It can be found through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [The Depths](The_Depths.md). This weapon can be alloyed, giving it a damascus steel-type texture with light purple tint and raising the stats to match late game tier weaponry.
 
 ## Critical
 
