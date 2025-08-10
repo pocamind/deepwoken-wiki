@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 153328
+revid: 157736
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Adept Outfits]
 | durability | 1000 |
 | resistances | +5% Physical Armor, +5% Elemental Armor, +10% Ice Armor, +10% Wind Armor |
 | buffs | +20% Ether Regen |
-| obtainment | Sold by Nyanna and Traan Zakshun, Fishing, Lodestar, The Depths |
+| obtainment | Sold by Nyanna and Traan Zakshun, Fishing, Erisia/General Sea Event Loot, Lodestar, The Depths |
 | selling_price | 10 |
 | weight | 1 |
 

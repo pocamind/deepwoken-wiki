@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 157028
+revid: 157709
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -59,7 +59,7 @@ For the standing critical, the user pokes the spear forward, ragdolling enemies 
 -   20 posture (Stab/Blast)
 -   0.65s windup (Stab)/1.3s after Stab (Blast)
 
-For the running critical, the user winds up before leaping forward with the weapon, finishing with an explosive ice blast. Right clicking while still in the air will allow you to cancel your forward momentum. Its stats are:
+For the running critical, the user winds up with a [purple telegraph](Combat_Mechanics.md#purple) before leaping forward with the weapon, finishing with an explosive ice blast. Right clicking while still in the air will allow you to cancel your forward momentum. Its stats are:
 
 -   1.1x of M1 DMG + 1.25x of M1 DMG + 30% BLEED on each individual crit hit, leading to 2.95x of M1 DMG total.
 -   20+12 posture

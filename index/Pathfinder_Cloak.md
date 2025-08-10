@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 152567
+revid: 157738
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Adept Outfits]
 | durability | 1200 |
 | resistances | +18% Physical Armor, +8% Elemental Armor |
 | talents | Environmentalist |
-| obtainment | Sold by Nyanna, Sold near FriidChests from:, Lower Erisia, Moon's Eyrie, Primadon, Titan of the East |
+| obtainment | Sold by Nyanna, Sold near FriidChests from:, Erisia/General Sea Event Loot, Moon's Eyrie, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
 

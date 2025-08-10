@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 153777
+revid: 157728
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Adept Outfits]
 | durability | 1000 |
 | resistances | +10% Physical Armor, +10% Slash Armor |
 | talents | Hunter's Reflexes |
-| obtainment | Outside the Mantra shop on Isle of Vigils, Lower Erisia |
+| obtainment | Outside the Mantra shop on Isle of Vigils, Lower Erisia, Erisia/General Sea Event Loot |
 | selling_price | 10 |
 | weight | 1 |
 

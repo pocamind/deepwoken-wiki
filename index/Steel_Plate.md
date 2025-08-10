@@ -1,6 +1,6 @@
 ---
 title: Steel Plate
-revid: 151470
+revid: 157741
 source: https://deepwoken.fandom.com/wiki/Steel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Adept Outfits]
 | durability | 1000 Durability |
 | resistances | +5% Physical Armor, +20% Slash Armor, +25% Flamecharm Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Sea Events, Erisia |
+| obtainment | Chests from:, Sea Events, Erisia/General Sea Event Loot |
 | selling_price | 10 |
 | weight | 1 |
 

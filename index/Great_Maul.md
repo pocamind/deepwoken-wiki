@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 157119
+revid: 157697
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -37,9 +37,11 @@ The Great Maul is a Greathammer that can be dropped from [Rock Golems](Rock_Gole
 
 ## Critical
 
-The user performs three consecutive swings with the hammer: two fast-moving swings, followed up by slamming into the ground, creating a small shockwave around them. The first hit grants a speed boost on hit and has hyperarmor that follows into the second hit. The third hit has innate bleed, autogrips and applies 0.65 second knockdown effect. This critical has a **9 second cooldown.**
+The user performs three consecutive swings with the hammer: two fast-moving swings, followed up by slamming into the ground, creating a small shockwave around them. The first hit grants a speed boost on hit and has hyperarmor that follows into the second hit. The third hit has innate bleed, autogrips and applies 0.65 second knockdown effect. All hits apply Dazed.
 
 If the first hit misses, or if the first or second hits get parried, the critical attack will abruptly end without continuing into the remaining hits.
+
+This critical has a cooldown of **9 seconds**.
 
 ## Trivia
 

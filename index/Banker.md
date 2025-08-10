@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 150465
+revid: 157746
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -32,7 +32,18 @@ They can be found in:
 
 Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player takes it out.
 
-Players start with six free slots, each holding one item, almost all items can be put inside the bank slots, including Soulbound/Relic Items for a fee of 1 knowledge.
+The following item types are sorted as followed:
+
+-   [Weapons](Weapons.md)
+-   [Equipment](Equipment.md)
+-   [Treasures](Treasures.md), [Relics](Relics.md)
+-   [Ingredients](Ingredients.md)
+-   [Mantra Modifiers](Mantra_Modifiers.md)
+-   [Schematics](Outfits.md), [Enchant Stones](Enchant_Stone.md), [Enchant Greases](Enchant_Grease.md), [Food](Food.md)
+
+[Enchanted](Enchantments.md) items are prioritized first in their respective category.
+
+Players start with six free slots, each holding one item, almost all items can be put inside the bank slots. Soulbound and Relic items will have to go through a **Vow of Safekeeping,** where 1 is spent to create the vow.
 
 File:BANK.png
 
@@ -70,6 +81,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Manor Key
 -   [Orlandeau's Pity Emerald](<Orlandeau's_Emerald.md>)
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)
+-   [Mantle of Enmity](Mantle_of_Enmity.md)
 
 ### Account
 

@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 153692
+revid: 157733
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Adept Outfits]
 | durability | 1000 |
 | resistances | +10% Physical Armor, +10% Blunt Armor |
 | talents | Looter |
-| obtainment | Etris, Chests from:, Lower Erisia |
+| obtainment | Etris, Erisia/General Sea Event Loot |
 | selling_price | 10 |
 | weight | 1 |
 

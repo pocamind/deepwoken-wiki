@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter
-revid: 153820
+revid: 157726
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, Bandits]
@@ -18,7 +18,7 @@ categories: [Items, Outfits, Adept Outfits, Bandits]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +20% Physical Armor, +10% Elemental Armor |
-| obtainment | Erisia, Sea Events |
+| obtainment | Erisia/General Sea Event Loot |
 | selling_price | 10 |
 | weight | 1 |
 

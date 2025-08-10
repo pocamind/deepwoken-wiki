@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157610
+revid: 157715
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -14,7 +14,7 @@ File:DeepwokenThumbnail.png
 
 ## Foreword
 
-**Here's an explanation on how to use \[_CTRL + F\] or \[F3\]_ for this page. (You can also do this on mobile! Press the 3 dots on the mobile Google browser and tap on "Find in page"!)**
+**Here's an explanation on how to use _\[CTRL + F\]_ or _\[F3\]_ for this page. (You can also do this on mobile! Press the 3 dots on the mobile Google browser and tap on "Find in page"!)**
 
 -   FIND A SPECIFIC TALENT: Input the Talent name to find the specific Talent and its requirements.
     -   _(i.e "Orbital lce" to find the description, requirements, and effect for Orbital lce)_
@@ -1263,9 +1263,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Frozen Lightning
 
--   Fulgurite Formation \[Common Talent, Dual Attunement\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s
-    -   The lightning strike only deals 5 true damage on explosion without applying surge.
-    -   Does not stack.
+-   Fulgurite Formation \[Common Talent, Dual Attunement\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
+    -   The lightning strikes deal 5 typeless damage without applying Surge stacks.
+    -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
     -   Prerequisites: Glass Path: Crystallization, Surge Path: Unstable Capacitor, 50 Frostdraw, 50 Thundercall
 
 ### Frostthorn

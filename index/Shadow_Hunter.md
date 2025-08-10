@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 157167
+revid: 157740
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -19,7 +19,7 @@ categories: [Items, Outfits, Adept Outfits]
 | durability | 1500 |
 | resistances | +10% Physical Armor, +5% Elemental Armor, +10% Shadow Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Lower ErisiaSold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
+| obtainment | Chests from:, Erisia/General Sea Event LootSold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
 | selling_price | 10 |
 | weight | 1 |
 

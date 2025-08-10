@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 157155
+revid: 157706
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Light Weapons]
@@ -43,11 +43,15 @@ White: Default (#1) | Blue: 1st Leap (#2) | Red: 2nd Leap (#2) | Purple: Final (
 
 ## Critical
 
-Light's Final Toll has 4 different criticals. The Critical starts off with the Default punch Critical or the Legion Kata Grab depending on your current stance. After landing it, your next critical will be a jumping slam. To reach the final Critical, you must land 2 jumping criticals. Upon using the Final Critical both players are sent upwards as the user punches the target away. It also functions as a counter: If hit during the windup before the punch, incoming damage is nullified. The user then kicks the target into the air while backflipping before punching them, dealing extra damage. Missing the Final critical resets the cycle to White. All Stages can be held for an infinite amount of time or until you unequip the weapon (needs testing).
+Light's Final Toll has 4 different criticals. When a critical is landed, it will advance to the next phase.
 
-**All Criticals have a 5s Cooldown.**
+For the first critical, the user smacks the opponent with the lantern ([Way of Navae](Way_of_Navae.md) equipped) or grabs the opponent with the lantern ([Legion Kata](Legion_Kata.md) equipped).
 
-**The Green Emblem (previously a blue eye) that pops up from the Final Critical signifies that it is undodgeable.**
+For the second and third critical, the user jumps into the air and slams the lantern down into the ground. This must be landed twice to advance to the final phase.
+
+For the final critical, the user raises into the air with a [green telegraph](Combat_Mechanics.md#green), unleashing a heavy smack with the lantern and knocking and ragdolling the opponent. If missed, the critical will reset to its first phase.
+
+All criticals have a cooldown of **5 seconds**.
 
 ## Trivia
 
@@ -56,6 +60,7 @@ Light's Final Toll has 4 different criticals. The Critical starts off with the D
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   One of the few weapons that can gain scaling past 100, as with +2/3 WLL races, you can get to a "weapon stat" of 202/203.
+-   The fourth critical previously had a blue eye, having the same functionality of being undodgeable and unblockable.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Before October 20th, 2023, the weapon used the base critical for the active fist style.
 -   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).

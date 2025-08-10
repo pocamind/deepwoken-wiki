@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 157358
+revid: 157712
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Legs, Boots, Items, Equipment, Craftable]
@@ -35,3 +35,7 @@ Celestial Boots is a craftable [Equipment](Equipment.md) item under the "Legs" c
 Celestial Boots are obtained by crafting the following items together:
 
 1.  TBA
+
+## Trivia
+
+-   Summer Company may have some involvement in its making.

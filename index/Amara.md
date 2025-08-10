@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 152533
+revid: 157745
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Etrean Luminant]
@@ -42,13 +42,15 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 </tr>
 <tr>
   <td colspan="4">We're here to collect intel regarding the Authority, they've stopped honoring our treaty. If you find out anything be sure to let us know, I'm sure the empire will reward you accordingly.</td>
-  <td colspan="2">[Not having Captain's Rec]</td>
-  <td colspan="2">[Having Captain's Rec]</td>
+  <td colspan="2">[Not having Captain's Recc]</td>
+  <td>[Having Captain's Recc, player has Galebreathe]</td>
+  <td>[Having Captain's Recc, player does not have Galebreathe]</td>
 </tr>
 <tr>
   <td colspan="4">End</td>
   <td colspan="2">Help out the Centurions in Aratel, though be careful, not all of them may be friendly. Once you've got their approval, return to me with a recommendation and i'll teach you.</td>
-  <td colspan="2">I see, Captain Abydos/Acheron/Acnes/Xavos/Zash really admires your efforts. You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time. I wish you the best of luck, comrade(Friend Rep)/[player name](Ally Rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet</td>
+  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Xavos/Zash really admires your efforts. You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time. I wish you the best of luck, comrade (Friend rep)/[player name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
+  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Xavos/Zash really admires your efforts. It doesn't seem you're that familiar with Galebreathing at all... You won't be able to reach it's full potential just yet. I wish you the best of luck, comrade (Friend rep)/[player name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
 </tr>
 <tr>
   <td colspan="4"></td>

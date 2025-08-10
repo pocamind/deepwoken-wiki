@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 151555
+revid: 157724
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, The Hundred Legions]
@@ -19,7 +19,7 @@ categories: [Items, Outfits, Adept Outfits, The Hundred Legions]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +10% Physical Armor, +30% Blunt Armor |
-| obtainment | Sold by Traan Zakshun for 200 Chests from:, Erisia, Starswept Valley, The Depths, Moon's Eyrie, Deep Widow, Primadon |
+| obtainment | Sold by Traan Zakshun for 200 Chests from:, Erisia/General Sea Event Loot, Starswept Valley, The Depths, Moon's Eyrie, Deep Widow, Primadon |
 | selling_price | 10 |
 | weight | 1 |
 

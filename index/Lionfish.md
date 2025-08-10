@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 153289
+revid: 157721
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -120,4 +120,9 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
 -   The Cero attack is inspired by the [attack of the same name](https://bleach.fandom.com/wiki/Cero) from the _Bleach_ franchise, using the same sound effect and a pose that resembles the [Menos Grande](https://bleach.fandom.com/wiki/Hollow%23Gillian) that introduced the technique.
     -   The Cero is Galebreathe based, which is hinted through the visual effect of the Everchanging Aegis talent.\[citation needed\]
 -   If you use a sea highway, even a dinghy can outrun them.
+-   The reworked Lionfish mouths were inspired by the Whales from the Dishonored franchise.[\[1\]](#cite-note-1)
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.\[citation needed\]
+
+## References
+
+1.  [↑](#cite-ref-1) ["the way they have kinda interlocking bone plates by the mouth was inspired by the 'whales' from dishonored"](https://x.com/ArchRBX/status/1824148994907574568) @ArchRBX on X, August 15, 2024.

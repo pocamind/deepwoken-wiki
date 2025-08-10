@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 153757
+revid: 157730
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -18,7 +18,7 @@ categories: [Items, Outfits, Adept Outfits]
 | droppable | Yes |
 | durability | 1200 |
 | resistances | +20% Physical Armor, +10% Slash Armor |
-| obtainment | Sold by Nyanna, Chests from:, Lower Erisia |
+| obtainment | Sold by Nyanna, Chests from:, Lower Erisia, Erisia/General Sea Event Loot |
 | selling_price | 10 |
 | weight | 1 |
 

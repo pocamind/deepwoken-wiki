@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 153059
+revid: 157742
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, The Summer Company]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Adept Outfits, The Summer Company]
 | durability | 1500 |
 | resistances | +10% Physical Armor, +5% Elemental Armor, +10% Slash Armor, +25% Shadow Armor |
 | talents | Armor Piercing |
-| obtainment | Summer Isle (inside the gun store), Sold by Traan Zakshun for 200 Chests from:, Summer Isle, Moon's Eyrie, First Layer, Primadon |
+| obtainment | Summer Isle (inside the gun store), Sold by Traan Zakshun for 200 Chests from:, Summer Isle, Moon's Eyrie, First Layer, Erisia/General Sea Event Loot, Primadon |
 | selling_price | 10 |
 | weight | 1 |
 

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 154507
+revid: 157731
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -174,6 +174,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
 -   The Knives of Eylis and The Hive are the only two reputable factions to not have a Master tier outfit
 -   The Expert Veteran Adventurer outfit's design was based off of [Sol Badguy](https://guiltygear.fandom.com/wiki/Sol_Badguy), specifically his design from _Guilty Gear -Strive-_.
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based on the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).
+-   Every Adept tier outfit drops from Lower Erisia chests, which is also the lootpool for general sea event chests and Upper Erisia chests.
 
 ## References
 

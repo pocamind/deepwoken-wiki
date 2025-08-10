@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 152494
+revid: 157725
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, The Central Authority]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Adept Outfits, The Central Authority]
 | durability | 1600 |
 | resistances | +15% Physical Armor, +10% Elemental Armor, +10% Slash Armor , +15% Fire Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna and Traan Zakshun for 80 Chests From:, The Depths, Primadon, Lodestar |
+| obtainment | Sold by Nyanna and Traan Zakshun for 80 Chests From:, The Depths, Primadon, Lodestar, Erisia/General Sea Event Loot |
 | selling_price | 10 |
 | weight | 1 |
 
