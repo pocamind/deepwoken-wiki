@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 157434
+revid: 157763
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -250,17 +250,17 @@ Metal + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Deals 10.94 + 3.3 [Bleed](Status_Effects.md#bleed) DMG per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
--   With 6 songchant deal 12.02 + 3.6 [Bleed](Status_Effects.md#bleed) DMG per flying caltrop.
--   Has 9.17x PVE Scale (10.94 DMG + 3.3 [Bleed](Status_Effects.md#bleed) PVP, 100.38 DMG + 30.12 [Bleed](Status_Effects.md#bleed) PVE)
+-   Deals 5.47 + 1.65 [Bleed](Status_Effects.md#bleed) DMG per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
+-   With 6 songchant deal 6.01 + 1.8 [Bleed](Status_Effects.md#bleed) DMG per flying caltrop.
+-   Has 9.17x PVE Scale (5.47 DMG + 1.65 [Bleed](Status_Effects.md#bleed) PVP, 50.16 DMG + 16.5 [Bleed](Status_Effects.md#bleed) PVE)
 -   Functions similar to Galebreathe's [Galetrap](Galebreathe.md#galetrap) Mantra.
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   May be blocked or even parried off the ground.
 -   With the '**Laced Traps'** Talent, makes the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the caltrops.
--   Applies Metal Rods on every 2 hits. Caltrops that are laying down applying 1 metal rod per caltrop.
--   Adds 1 caltrop per level up of the Mantra, up to 8.
+-   Applies Metal Rods on every 2 hits, that means if you land full 5 lvl caltrops you'll apply only 4 rods. Caltrops that are laying down applying 1 metal rod per caltrop.
+-   Adds 1 caltrop per level up of the Mantra, up to 7.
 
  |
 | 

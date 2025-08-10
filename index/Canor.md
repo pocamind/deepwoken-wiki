@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 157665
+revid: 157797
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -87,6 +87,22 @@ Canor share a strong bond with the Adret aspect, staying true to the relationshi
     
 
 ## Aspect Features
+
+### Sideburns
+
+Canor has a set of optional sideburns that change color based on your first hair slot. These can also be [dyed](Dye_Packet.md).
+
+**River:**
+
+**Red:**
+
+**Lion:**
+
+**Interior:**
+
+**Steppe:**
+
+**Hallowtide:**
 
 ### Facial Markings
 

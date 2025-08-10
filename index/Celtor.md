@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 157675
+revid: 157786
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -100,6 +100,16 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 ### Facial Markings
 
 Celtors are most known for their unique racoon-like facial markings. These change color based on your variant, but they can also be [dyed](Dye_Packet.md). Optionally, the player can opt for no markings as well.
+
+**Marten:**
+
+**Otter:**
+
+**Badger:**
+
+**Weasel:**
+
+**Hallowtide:**
 
 ## Trivia
 
