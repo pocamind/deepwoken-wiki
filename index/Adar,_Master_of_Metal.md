@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 152654
+revid: 157810
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, Ignition Union Enemies, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -206,7 +206,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 </tr>
 <tr>
   <td colspan="6">Yes, I have. (Mantras Available)</td>
-  <td colspan="6">Yes, I have. (Mantras Unavailable or all Frostdraw Mantras maxed)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Ironsing Mantras maxed)</td>
 </tr>
 <tr>
   <td colspan="6">What did you wanna focus on?</td>

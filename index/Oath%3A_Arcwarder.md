@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 157803
+revid: 157811
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -107,7 +107,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 
 -   **Arc Suit** - Conjure and equip your Arcwarder suit.
     -   Encases the user in durable armor for 15 seconds.
-    -   Can be modified with up to 3 Aeon/Eternal Logstones to a maximum duration of 1 minute. This however also scales up its cooldown.
+    -   Can be modified with Aeon/Eternal Logstones to a maximum duration of 1 minute. This however also scales up its cooldown.
     -   Can be modified with up to 3 Vibrant Gems to increase damage reduction up to 10%.
     -   Has i-Frames on the second half of its windup.
     -   Orbital Ice is less effective when used alongside the Arc Suit.
