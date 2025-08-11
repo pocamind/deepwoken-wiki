@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 157996
+revid: 158026
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
@@ -49,8 +49,9 @@ Despite what is shown in the gif, this critical does **not** apply Daze.
 ## Trivia
 
 -   The design of the blade is a mild homage to the _[Soulcalibur](https://en.wikipedia.org/wiki/Soulcalibur)_ series, specifically to [Soul Edge](https://soulcalibur.fandom.com/wiki/Soul_Edge) during his appearances in _[Soulcalibur II](https://en.wikipedia.org/wiki/Soulcalibur_II)_ and _[Soulcalibur III](https://en.wikipedia.org/wiki/Soulcalibur_III)_.[\[1\]](#cite-note-1)
--   Rephika is a [Chrysid](Chrysid.md) surname, while Narsus is a [Khan](Khan.md) surname.
--   Shortly after release, this weapon became infamous for doing hilariously high amounts of damage with its Critical Attack when Guard Breaking another player if enchanted with the Stone enchantment, enough to one shot players. This was confirmed to be a bug, and was promptly fixed in a [hotfix on the 9th of November 2024](Version_History/2024.md).
+-   The Wretched Mawblades are referred to as "Canary Rephika & Grimlock Narsus" in the campfire menu. These are very likely the names of the people who were turned into this abomination of a weapon.
+    -   Rephika is a [Chrysid](Chrysid.md) surname, while Narsus is a [Khan](Khan.md) surname.
+-   Shortly after release, this weapon became infamous for doing hilariously high amounts of damage with its Critical Attack when Guard Breaking another player if enchanted with the [Stone](Stone.md) enchantment, enough to one shot players. This was confirmed to be a bug, and was promptly fixed in a [hotfix on the 9th of November 2024](Version_History/2024.md).
 
 ## References
 

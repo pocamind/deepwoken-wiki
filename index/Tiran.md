@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 157988
+revid: 158025
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Character]
@@ -94,22 +94,27 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 ### Facial Markings
 
-Tiran has 4 optional face marking variants.
+Tiran has 4 unique, [dyable](Dye_Packet.md) face marking variants. Optionally, you can choose to have none.
+
+### Eyebrows
+
+Tiran has 5 unique eyebrow variants.
+
+### Feathers
+
+The color of the feathers innately align with your first hair slot's color, though they can be [dyed](Dye_Packet.md) separately.
+
+### Feathered Glider
+
+The color of your glider is based by your first hair slot. If you do not have hair, your glider will be brown.
 
 ## Trivia
 
 -   Tirans are inspired by people of South and Central American descent.[\[1\]](#cite-note-1)
 -   The word "Tiran" originates from Ancient Greek, it means absolute ruler of an ancient polis. It is also the name of an island off the coasts of Egypt and Saudi Arabia.
--   Similar to [Canor](Canor.md), not having hair on your character will preset you with hair.
-    -   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
-
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the aspect at all.
-
 -   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw Man", having a very similar eye pattern.
 -   The Jay variant shares many similarities (hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or ~[Felinor](Felinor.md)~ and having slightly darker eyes.
-
--   The color of the glider will depend on the aspect variant you choose, crow being black/purple, cardinal being red and so on, matching their hair color with their glider.
-    -   This presents the disturbing possibility of Tiran's gliders being made from their own hair.
 
 ## References
 
