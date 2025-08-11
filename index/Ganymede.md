@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 157998
+revid: 158131
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -92,21 +92,41 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
 
 ## Features
 
-### Ganymede Hats
+### Hats
 
-Ganymede begins with an innate hat by default that has no stats. It will be removed upon wearing any other headgear (unequipping the current headgear will re-equip the Ganymede hat). Like any other equipment, you can toggle its vanity by holding P and clicking the headgear icon.
+Ganymede begins with an innate hat by default that has no stats. These hats are brown snail shell-shaped hats, resembling that of a wizard's in fantasy settings. The underside of these hats are colored based on your variant. Ganymede hats will be removed upon wearing any other headgear (unequipping the current headgear will re-equip the Ganymede hat). Like any other equipment, you can toggle its vanity.
 
 Ganymede hats are [transmoggable](Transmogrification.md) onto any other headgear. To perform this, turn in the headgear you want to use for stats and the option to style it after your Ganymede hat will appear. Attempting to equip a Ganymede hat smelt on a non Ganymede character will result in the headgear reverting back to its base appearance.
 
 Ganymede hats also have full [dye](Dye_Packet.md) compatibility, allowing you to dye the outside and the underside of the hat separately. After dying the outside of the hat, the option to dye the underside will appear. You can press submit without changing anything to keep the base appearance of the hat and move on to the underside dye without spending dye packets.
 
-### Ganymede Faces
+### Eyes
 
-Ganymedes have a unique set of eyes with no visible mouth.
+Ganymedes have a unique set of eyes with no visible mouth. The eyes are [dyable](Dye_Packet.md).
 
-### Ganymede Markings
+**Enceladus:**
 
-Ganymedes have a set of optional markings.
+**Hyperion:**
+
+**Tethys:**
+
+**Titan:**
+
+**Hallowtide:**
+
+### Facial Markings
+
+Ganymedes have a set of optional markings. These markings are [dyable](Dye_Packet.md).
+
+**Enceladus:**
+
+**Hyperion:**
+
+**Tethys:**
+
+**Titan:**
+
+**Hallowtide:**
 
 ### Alternate Oath Cosmetics
 
@@ -116,6 +136,9 @@ Ganymede has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindr
 
 -   Despite having no apparent mouth on their faces, this has seemingly no impact on them other than visual difference. They still talk, breathe and eat. It may also be possible that their mouth is simply the exact same darkness as the rest of their face.
 -   Their appearance bears a resemblance to the black mages from the _[Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy)_ series and the [Snail Shaman](https://hollowknight.wiki.fextralife.com/Snail+Shaman) from _[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight)_. As the Ganymede are meant to represent snails, it is possible the latter is a direct inspiration, especially due to Vesperians also being inspired by Hollow Knight series.
+-   Ganymedes and Vesperians are very connected within the lore and even visually ingame. Vesperians and Ganymedes share: the same [Starkindred](Oath%253A_Starkindred.md) Oath cosmetic, the same eyes and markings (they are underneath the Vesperian Mask though), very similar surnames, and they can even be [related](Family.md) to each other.
+-   The Ganymede smelt on the equipment tooltip is noted as "Smelt: GANYMEDE\_HAT", this is likely the internal name for the item.
+    -   Additionally, when holding a smelted Ganymede hat, it will always take the appearance of the ["Ganymede Hat#2"](#hats) hat, having a slight curl at the end. This will happen regardless of which hat variant it actually is.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's aspect name was changed to Hatskipper.
 -   Ganymede is part of the three aspects with lowest (1.8%) roll chance, with the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
 -   Ganymedes make up the main population of [The Hive](The_Hive.md) along with [Vesperians](Vesperian.md) and [Chrysids](Chrysid.md).
@@ -126,5 +149,5 @@ Ganymede has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindr
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
     -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.
     -   Speculated appearance related to [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil), an 8 year old game arch-mage created. [See relation.](https://imgur.com/ae7oCU8)
--   Everyone used to believe that ganymede have less insanity gain as passive aspect buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) busted the myth, instead Ganymede has 1.2x sanity gain multiplier, boosting sanity healing rather than weakening insanity gain.
+-   Everyone used to believe that Ganymede have less insanity gain as passive aspect buff, but this video [Ganymede Testing](https://www.youtube.com/watch?v=VUsgKKvy1Jo) busted the myth, instead Ganymede has 1.2x sanity gain multiplier, boosting sanity healing rather than weakening insanity gain.
 -   On April 7th, 2025, Ganymede's were updated with new aspect markings, making them the second aspect to receive new customization after the character customization update on March 31st, 2025.

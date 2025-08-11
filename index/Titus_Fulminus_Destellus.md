@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 157951
+revid: 158033
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -22,7 +22,7 @@ A Khan with great stature, he's around twice the height of the player. He has wr
 
 ### Starting the Fight with Titus
 
-1.  Have Ally or above reputation with [The Hundred Legions](The_Hundred_Legions.md).
+1.  Have high 'Ally' or above reputation with [The Hundred Legions](The_Hundred_Legions.md).
 2.  Talk to [Caitus](Caitus.md) at the Legion camp at Erisia to obtain the [Legion Intelligence](Legion_Intelligence.md) quest item.
 3.  Having the Legion Intelligence will unlock a unique set of dialogue with Titus. Selecting it will start the fight.
 

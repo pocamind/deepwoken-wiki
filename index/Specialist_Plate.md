@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 156834
+revid: 158030
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -53,5 +53,5 @@ Storm Strikes from the Set Talent deal 40 damage with no scaling. To proc them, 
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md).
-2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + ?.
+2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
