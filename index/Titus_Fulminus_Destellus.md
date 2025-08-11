@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 157079
+revid: 157951
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -48,7 +48,7 @@ Dodgeable:◯
 **Imperator's Fury  
 ★**
 
- | Titus quickly slams down both arms into the ground, knocking players away.
+ | Titus quickly slams down both arms into the ground, knocking players away with a powerful vent.
 
 Parryable:◯  
 Blockable:◯  

@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 157078
+revid: 157996
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
@@ -54,4 +54,4 @@ Despite what is shown in the gif, this critical does **not** apply Daze.
 
 ## References
 
-1.  [↑](#cite-ref-1)
+1.  [↑](#cite-ref-1) "if anything i had soul calibur in mind" Nuttoons on Discord, November 9, 2024.

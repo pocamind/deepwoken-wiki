@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 145914
+revid: 157993
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -12,13 +12,13 @@ Template:Races-Main
 
 _Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over._
 
-Chance of obtaining aspect: 7.5**%**
+Chance of obtaining aspect: **7.5%**
 
 ## Description
 
-Khans are a rare aspect with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, the ability to use equipment 3 points earlier as well as having increased reputation with [The Hundred Legions](The_Hundred_Legions.md).
+Khans are a rare [aspect](Aspects.md) with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, the ability to use equipment 3 points earlier as well as having increased reputation with [The Hundred Legions](The_Hundred_Legions.md).
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>
@@ -43,8 +43,6 @@ Khans are a rare aspect with light skin, and a monkey-like appearance. Khans hav
 </tr>
 </tbody>
 </table>
-
-## Miscellaneous
 
 **Lore:**
 
@@ -82,6 +80,36 @@ They hail from the Western Luminant and are the most prominent aspect in [The Hu
 -   Theus
 -   Vales
     
+
+## Features
+
+### Sideburns
+
+Khan has optional sideburns that change color based on your first hair slot. They can be [dyed](Dye_Packet.md) separately. Additionally, the player can opt to not have sideburns.
+
+**Tamarin:**
+
+**Capuchin:**
+
+**Albino:**
+
+**Silverback:**
+
+**Hallowtide:**
+
+### Circlet
+
+Khans have crown-like circlets that change color based on your variant. The circlets can be [dyed](Dye_Packet.md), but cannot be opted out of.
+
+**Tamarin:**
+
+**Capuchin:**
+
+**Albino:**
+
+**Silverback:**
+
+**Hallowtide:**
 
 ## Trivia
 

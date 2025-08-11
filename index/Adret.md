@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 157639
+revid: 157975
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -19,7 +19,7 @@ Chance of obtaining aspect: **15%**
 
 Adrets are a common [aspect](Aspects.md) that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up similar to the Autodidact boon. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new aspect and originate from the Central Luminant. Unlike other aspects, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
 
-## Aspect Traits
+## Traits
 
 <table>
 <tbody>
@@ -44,14 +44,6 @@ Adrets are a common [aspect](Aspects.md) that have blue skin with orange eyes an
 </tr>
 </tbody>
 </table>
-
-## Family
-
--   Siblings - For Adrets, siblings have to be the same racial variant, have the same last name, and same tattoos.
--   Cousins - For Adrets, cousins have to be the same racial variant, have different last names, yet different tattoos.
--   Twins - For Adrets, twins have to be the same racial variant, have the same last name, and possibly the same age. (The age part is not fully confirmed.)
-
-## Miscellaneous
 
 **Lore:**
 
@@ -98,11 +90,17 @@ The Adrets are a historically recently arrived aspect of spiritually adept indiv
 -   Yuset
     
 
-  
+## Family
 
-## Aspect Features
+-   Siblings - For Adrets, siblings have to be the same racial variant, have the same last name, and same tattoos.
+-   Cousins - For Adrets, cousins have to be the same racial variant, have different last names, yet different tattoos.
+-   Twins - For Adrets, twins have to be the same racial variant, have the same last name, and possibly the same age. (The age part is not fully confirmed.)
+
+## Features
 
 ### Facial Markings
+
+Adret has a set of optional face markings that come in a variety of colors depending on Aspect variant. These markings can be [dyed](Dye_Packet.md).
 
 **Alder:**
 

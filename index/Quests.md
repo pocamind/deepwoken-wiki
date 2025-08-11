@@ -1,11 +1,11 @@
 ---
 title: Quests
-revid: 157531
+revid: 157937
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Quests, NPCs]
+categories: [SpoilerPages, Pages with broken file links, Quests, NPCs]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
 
 # Quests
@@ -324,6 +324,25 @@ The following quests grant the _Curiosity_ Talent hand on top of their other rew
 ### Miscellaneous
 
 The following quests do not grant Bravery, Compassion, nor Curiosity, but often grant more tangible rewards, such as EXP, items, or Talents.
+
+#### Duke of Sin
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest location</b>: <a href="Etris.md">Etris</a>, <a href="Etris_Palace.md">Etris Palace</a>, <a href="Duke_Erisia's_Manor.md">Duke Erisia's Manor</a>, <a href="Duke_Erisia's_Laboratory.md">Duke Erisia's Laboratory</a><br>
+  </p>
+  <p><br>
+  <b>Guide</b>: Speak to <a href="Kennith.md">Kennith</a> while having "Friend" or higher <a href="Etrea.md">Etrea</a> reputation, then speak to <a href="Bookkeeper_Andros.md">Bookkeeper Andros</a>, choosing the first dialogue line. Speak to Andros again, going down the first dialogue line a second time.</p>
+  <p>From here, head to the Navaen Nomad camp at the <a href="Etrean_Wilds.md">Etrean Wilds</a>, there will be trails in the dirt on the outskirts, leading to where Kennith's body will be found. Speak to the <a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a> and make your way to the <a href="Etris_Palace.md">Etris Palace</a>. You may need ally <a href="Etrea.md">Etrea</a> reputation to get in without the guards attacking you.</p>
+  <ul>
+    <li>If you have completed this quest before, you can skip this step, instead speaking to any of the <a href="Royal_Etrean_Guard.md">Royal Etrean Guards</a> at the Palace.</li>
+  </ul><p>Speak to <a href="The_Lord_Regent.md">The Lord Regent</a> and accept his quest, tasking you with taking on <a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a>. After this, you'll need to make your way over to <a href="Duke_Erisia's_Manor.md">Duke Erisia's Manor</a>, encounter, and defeat the Duke. <b>Do not return to Regent after completing this quest unless you have neutral or higher <a href="The_Ministry.md">Ministry</a> reputation; Regent WILL kill you.</b></p>
+  <p><b>Reward(s)</b>: <a href="Manor_Key.md">Manor Key</a>, a key that allows you to access the <a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a> boss fight.</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Kennith.md">Kennith</a></div><p></p></figcaption></figure><figure><figcaption><p></p><div><a href="Bookkeeper_Andros.md">Bookkeeper Andros</a></div><p></p></figcaption></figure><figure><figcaption><p></p><div><a href="The_Lord_Regent.md">The Lord Regent</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 #### Food delivery
 

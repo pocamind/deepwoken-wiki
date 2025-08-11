@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 155068
+revid: 157998
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,9 +17,9 @@ Chance of obtaining aspect: **2%**
 
 ## Description
 
-Ganymedes are a snail-based aspect in Deepwoken that appear with dark skin, abnormal eye figurations, and sometimes wearing their signature hat. Albeit being few in numbers and considered outcasts by other races, they are gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +3 Willpower.
+Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with dark skin, abnormal eye figurations, and sometimes wearing their signature hat. Albeit being few in numbers and considered outcasts by other races, they are gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +3 Willpower.
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>
@@ -45,8 +45,6 @@ Ganymedes are a snail-based aspect in Deepwoken that appear with dark skin, abno
 </tbody>
 </table>
 
-## Miscellaneous
-
 **Lore:**
 
   
@@ -61,7 +59,7 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
 
   
 
--   More Sanity helps against the effects of The Depths and other insanity sources
+-   More Sanity helps against the effects of The Depths and other insanity sources.
 -   Deep Shrines are cheaper for you, meaning that you have less of a need to gain Knowledge.
     
 
@@ -92,7 +90,7 @@ Ganymedes are the antithesis to [Vesperians](Vesperian.md). While the [Vesperian
 -   Zeneke
     
 
-## Gallery
+## Features
 
 ### Ganymede Hats
 
@@ -101,6 +99,14 @@ Ganymede begins with an innate hat by default that has no stats. It will be remo
 Ganymede hats are [transmoggable](Transmogrification.md) onto any other headgear. To perform this, turn in the headgear you want to use for stats and the option to style it after your Ganymede hat will appear. Attempting to equip a Ganymede hat smelt on a non Ganymede character will result in the headgear reverting back to its base appearance.
 
 Ganymede hats also have full [dye](Dye_Packet.md) compatibility, allowing you to dye the outside and the underside of the hat separately. After dying the outside of the hat, the option to dye the underside will appear. You can press submit without changing anything to keep the base appearance of the hat and move on to the underside dye without spending dye packets.
+
+### Ganymede Faces
+
+Ganymedes have a unique set of eyes with no visible mouth.
+
+### Ganymede Markings
+
+Ganymedes have a set of optional markings.
 
 ### Alternate Oath Cosmetics
 

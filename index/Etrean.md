@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 157637
+revid: 157982
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -19,7 +19,7 @@ Chance of obtaining aspect: **15%**
 
 Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common [aspect](Aspects.md), and can be found most commonly at [Etris](Etris.md). Etreans get an Agility and Intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and areas.
 
-## Aspect Traits
+## Traits
 
 <table>
 <tbody>
@@ -83,7 +83,7 @@ A proud culture hailing from the [Etrean Luminant](Luminants.md). The people of 
 -   Wyneshi
     
 
-## Aspect Features
+## Features
 
 ### Scales
 

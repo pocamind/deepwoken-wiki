@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 157242
+revid: 157945
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,6 +17,14 @@ These status effects can be beneficial to the player.
 ### Resting
 
 This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md#graceful-flame), or the Stove.
+
+### Speed Boost
+
+Speed boosts are one of Deepwoken's core status effects, being responsible for a lot of Talent effects and being very important for the core combat loop, especially in PvP. Speed boosts are simply a movement speed multiplier, with the effectiveness and duration of the speed boost depending on the source. Speed boosts are distinctly different from mobility buffs, as the former allows you to proc certain Talents while the latter does not. Speed boosts do not have a visual indicator, and are applied from a multitude of sources such as: [parrying and dodging attacks](Combat_Mechanics.md), [Wind Gem](Wind_Gem.md), certain [Talents](Talents.md), some [Weapon](Weapons.md) criticals, other Status Effects, etc.
+
+### Mobility Buff
+
+Mobility buffs are very similar to speed boosts, being a movement speed multiplier with the effectiveness and duration depending on the source, though they are distinctly different from speed boosts, as they cannot proc speed boost-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#amoran-seeker), [Lightweight](Talents.md#natural-armor), other Status Effects, etc.
 
 ### Food Buffs
 
@@ -35,7 +43,7 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
 
 ### Bloodlusted
 
-A speed boost triggered by executing someone while you have [Time to Go](Talents.md#acrobat). Signified by red glowing eyes.
+A [speed boost](#speed-boost) triggered by executing someone while you have [Time to Go](Talents.md#acrobat). Signified by red glowing eyes.
 
 ### Reinforced
 
@@ -63,7 +71,7 @@ Restore your health to maximum and get up if you are unconscious. Applied throug
 
 ### Run
 
-Gain a speed boost, and an unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of line trails surrounding your character.
+Gain a [speed boost](#speed-boost), and an unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of line trails surrounding your character.
 
 ### Rallied
 
@@ -107,7 +115,7 @@ Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your
 
 ### Ghastly Mobility
 
-Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a speed boost for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
+Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a [speed boost](#speed-boost) for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
 
 ### Adrenaline Surge
 
@@ -119,7 +127,7 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 
 ### True Strength
 
-[Bladeharper](Oath%253A_Bladeharper.md) exclusive. Gain a speed boost and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
+[Bladeharper](Oath%253A_Bladeharper.md) exclusive. Gain a [speed boost](#speed-boost) and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
 
 ### Sovereign State
 
@@ -155,7 +163,7 @@ Grants immunity to enemy [Deep Gems](Deep_Gems.md) for 3 minutes. Once this dura
 
 ### Positive Link
 
-[Linkstrider](Oath%253A_Linkstrider.md) exclusive. Gain 20% damage resistance, 5% dmg boost and constant speed boost that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
+[Linkstrider](Oath%253A_Linkstrider.md) exclusive. Gain 20% damage resistance, 5% dmg boost and constant [speed boost](#speed-boost) that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
 
 ### Last Resort
 
@@ -209,7 +217,7 @@ Special brews created by Alchemists. Potion effects vary heavily based on the in
 -   **Posture Buff** - Increases your maximum posture by a percentage. Applied through Steadfast Tinctures/Potions/Elixirs/Salves.
 -   **Posture Damage Buff** - Increases your posture damage by a percentage. Applied through Staggering Salves.
 -   **Sanity Restoration** - Quickly restore Sanity. Applied through Heartening Remedies/Potions/Salves/Tinctures/Elixirs.
--   **Speed Boost** - Grants a speed boost. Applied through Hastening Potions/Elixirs/Salves/Tinctures.
+-   **Speed Boost** - Grants a [speed boost](#speed-boost). Applied through Hastening Potions/Elixirs/Salves/Tinctures.
 
 ### Mocking Favor: Boons
 
@@ -307,7 +315,7 @@ Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](I
 
 ### Shackled
 
-While afflicted with this status effect, you cannot gain speed boosts. Applied by being block broken by a player who has the [Metal Shackles](Talents.md#ironsinger) Talent. Signified by metal shackles on your legs, this effect lasts 5 seconds.
+While afflicted with this status effect, you cannot gain [speed boosts](#speed-boost). Applied by being block broken by a player who has the [Metal Shackles](Talents.md#ironsinger) Talent. Signified by metal shackles on your legs, this effect lasts 5 seconds.
 
 ### Laced Traps
 

@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 157359
+revid: 157938
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant, The Central Authority]
@@ -27,6 +27,46 @@ This dungeon is recommended for a party of people preferably [Power](Power.md) 2
 Upon entering, you will need to defeat the guards that are laid out through the dungeon. There are 3 keys that are able to be dropped. An override, a release, and a master key that are dropped from powerful enemies like [Captain Solaire](Captain_Solaire.md) and [Vice-Warden](Vice-Warden.md). You may disable the laser defense system by taking the override key or master key to room that is blocked off by lasers that is in the corridor on the right, not to be confused with the room that is behind a breakable door. That room is to turn **off** the cannons. After securing at least the release key or master key, make your way through the laser defense system (if not deactivated) which then you will reach the control room. Use either the key to open the prisoner cells. The prisoners, when released, will turn **hostile**. This will also give you the option to talk to [Titus](Titus_Fulminus_Destellus.md) when his cell is open. You will **need** the Legion Intelligence obtained from [Caitus](Caitus.md) that is in the camp set up in the Viper's Jaw.
 
 _See [Legion Intelligence](Legion_Intelligence.md) on how to obtain the item._
+
+## Points of Interest
+
+### Cell Block
+
+-   A large cell block filled with Authority guards is the first room the player will encounter.
+-   These cells hold [Prisoners](Prisoner.md), including [Titus](Titus_Fulminus_Destellus.md), who is contained in a larger cell than the rest.
+-   A ventilation shaft is located on the top floor of the cell block, which can be broken to enter the library.
+
+### Library
+
+-   The library hosts around 5 Authority guards, including [Captain Solaire](Captain_Solaire.md)'s Warden Ceremonial Sword variant, as well as a [disinterested guard](Hector.md) polishing his own blade.
+-   Uniquely, each bookshelf can be searched up to 5 times.
+-   The large doors on each side can be broken, leading to the laser corridor.
+-   There is a breakable door that will lead to an L-shaped hallway containing 3 [Authority Chainwardens](Authority_Chainwarden.md), which serves as an alternative route rather than navigating through the laser corridor.
+
+### Laser Corridor
+
+-   A large hallway that leads to each system, and is heavily filled to the brim with lasers.
+-   Standing in a certain spot will trigger a large metal ball to fall down onto the player, dealing **great damage** if they are struck by it.
+-   A single laser can deal **high enough damage to knock you instantly** while standing over one.
+-   If the player is above the laser corridor, they will be targetted by the cannons, additionally dealing **high enough damage to knock you instantly** on top of **autogripping** as well.
+
+### Laser Control System
+
+-   Located near the library is a small platform guarded by lasers that leads into a small room hosting one of the generators.
+-   This room contains 3 Authority Chainwardens.
+-   A generator where the Override Key can be used disables the laser grid system.
+
+### Cannon Control System
+
+-   Atop the platform is a large hallway that leads to a breakable door. Captain Solaire's Sovereign's Punishment variant can be found in this room, as well as hosting a generator.
+-   The generator where the Master Key can be used replaces the player's taunt with a whistle blow, causing the cannons to lock onto a nearby target. This disables the cannons located around the prison.
+-   Below the grated floor is a lava pit filled with spikes.
+
+### Cell Control System
+
+-   After navigating through the laser corridor, there is a bridge that leads to a wide room guarded by [Captain Marley](Captain_Marley.md) and Captain Solaire's Adretian Axe variant.
+-   A panel can be interacted with using the Release Key to open every cell.
+-   The Prison Crafting Station can be found here, which is unlocked after defeating Titus.
 
 ## Loot Table
 

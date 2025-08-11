@@ -1,6 +1,6 @@
 ---
 title: "Titus's Cape"
-revid: 156767
+revid: 157950
 source: https://deepwoken.fandom.com/wiki/Titus's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Capes]
@@ -32,4 +32,4 @@ This item is used to craft the [Champion's Cape](<Champion's_Cape.md>) at the [M
 
 ## Trivia
 
--   This, and it's craftable variant, the [Champion's Cape](<Champion's_Cape.md>), are the only cape accessories to belong in the "Arms" category.
+-   Titus's cape can be used to craft the [Champion's Cape](<Champion's_Cape.md>) and is the only cape accessories to belong in the "Arms" category, other than the [Champion's Cape](<Champion's_Cape.md>)

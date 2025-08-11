@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 157802
+revid: 157990
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -18,7 +18,7 @@ Chance of obtaining aspect: **4%**
 
 Kirons are a rare [aspect](Aspects.md) with bat-like features. Their Agility and Intelligence attributes are innately increased, as a result of years of spelunking experience.
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>
@@ -52,7 +52,10 @@ Kiron were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly 
 
 -   Can see better in the dark.
 -   Can more easily sense potential threats.
-    
+-   Assuming you don't have [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers):
+    -   +6% [Stealth](Stealth.md) (+3 Agility)
+    -   +4 Ether (+2 Intelligence)
+        
 
 **Surnames:**
 
@@ -69,21 +72,41 @@ Kiron were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly 
 -   Ventu
     
 
-## Racial Features
+## Features
 
 Kiron has a very small range of ornament choice, with the only two options being fluff or no fluff, it does however have three unique mouth options, six different facial marking variants, and four unique eyebrow options.
 
 ### Ears
 
-The color of the ear fluff is based on your first hair slot's color, though they can be [dyed](Dye_Packet.md) separately. The ears themselves can be [dyed](Dye_Packet.md) as well.
+Kirons have large bat ears with their color being based on your skin color. Additionally, the player has the option to have or not to have ear fluff, with the color of the fluff being based on your first hair slot. The ears and ear fluff can be [dyed](Dye_Packet.md) individually.
 
 ### Mouth
 
 While Kiron loses access to most universally accessible mouths, they gain these three unique ones.
 
+### Eyebrows
+
+Kiron has 4 exclusive eyebrow options.
+
 ### Markings
 
-The color of the markings is based on your variant. These markings can also by [dyed](Dye_Packet.md).
+Kiron have optional face markings. The color of these markings is based on your variant, but they can also be [dyed](Dye_Packet.md).
+
+**Kerivoula:**
+
+**Hypsignathus:**
+
+**Ectophylla:**
+
+**Pipistrelle:**
+
+**Megaderma:**
+
+**Macroderma:**
+
+**Lasiurus:**
+
+**Hallowtide:**
 
 ## Trivia
 

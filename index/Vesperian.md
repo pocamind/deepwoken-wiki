@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 155941
+revid: 157989
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -19,7 +19,7 @@ Chance of obtaining aspect: **6%**
 
 Vesperians are described as a beetle themed aspect with organically grown masks and very dark skin. They are most commonly seen at [Greathive Aratel](Greathive_Aratel.md) along with ganymedes. Vesperians always start off with +3 Fortitude and +2 Willpower as well as natural armor that regenerates when you rest.
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>
@@ -46,8 +46,6 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
 </tr>
 </tbody>
 </table>
-
-## Miscellaneous
 
 **Lore:**
 
@@ -94,7 +92,7 @@ This fits with our current understanding of the lore and would explain why they 
 -   Bagini
     
 
-## Gallery
+## Features
 
 ### Vesperian Masks
 
@@ -103,6 +101,10 @@ Vesperian Masks have full [dye](Dye_Packet.md) compatibility, as you can dye the
 **Normal:**
 
 **Hallowtide:**
+
+### Vesperian Faces
+
+Vesperians share the [Ganymede](Ganymede.md) eyes and markings underneath their masks. These cannot be changed at a barber nor can they be removed. These are chosen at random on character creation.
 
 ### Alternate Oath Cosmetics
 

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 155046
+revid: 157939
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -777,13 +777,16 @@ N/A
 
 **Effect:** _Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges)._
 
--   A combative action, such as blocking, parrying, or attacking, must be used within **6.5 seconds** or the mantra is deactivated and goes on cooldown.
--   Lasts a duration of 6.5 – 60 seconds.
--   Cannot last longer than 60 seconds.
--   If the caster's ether goes to 0, lightning cloak will immediately end.
--   Slower ether regen while active.
--   Counts as a speed boost, meaning it can proc all related talents (including "**Speed Demon**").
--   Disables talent "Dazing Finisher" for its full duration.
+-   Has a base duration of 8/8.5/9/9.5/10 seconds per level.
+-   To increase the duration, you must parry, get parried, block, or attack, refreshing the duration entirely.
+    -   Lightning cloak has a maximum duration of 60 seconds.
+-   Increases your swing speed by 10% for its full duration. This is applied after [Vigil's Grace](Vigil_Sentinel.md) and [Action Surge](Talents.md#vigil-swordsman), allowing you to reach very high swingspeed on certain weapons.
+-   Grants a 35% speed boost for its full duration, proccing speed boost-reliant Talents (such as "**Speed Demon**").
+-   Turns all dashes into lightning dashes for its full duration, increasing their distance travelled and i-frames duration.
+-   If you have no Tempo, the duration as well as the refreshing duration will be halved, applied retroactively.
+-   If the caster's Ether goes to 0, Lightning Cloak will immediately end.
+-   All **base** Ether regeneration is disabled during Lightning Cloak. Ether regeneration from sources like [Talents](Talents.md) or [Outfits](Outfits.md) will still work however.
+-   Disables the "Dazing Finisher" Talent for its full duration.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157809
+revid: 157947
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1072,7 +1072,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
     -   Prerequisite: 15 Intelligence
-    -   This talent is currently bugged and does nothing.
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
     -   Perfect-casting and parrying Mantras grants Inspiration stacks.
@@ -2522,6 +2521,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Septicemia
 
 -   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
+    -   Has 2 seconds of cooldown between activation to prevent multi-hits give you insane amounts of temporary health.
     -   Prerequisite: 85 Bloodrend
 
 -   Hemolysis \[Common Talent\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.

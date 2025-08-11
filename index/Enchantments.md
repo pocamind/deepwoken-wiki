@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 157401
+revid: 157980
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -305,7 +305,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
+  <td><figure>File:Windsweptenchant.gif<figcaption></figcaption></figure><center><br>
   <font>Windswept<div></div></font></center></td>
   <td><div><p>After landing (LHT: 5, MED: 4, HVY: 3) M1s, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment.<br>
   This Enchant has a 5 second cooldown regardless of weapon investment, making it very weak on low invest.</p>

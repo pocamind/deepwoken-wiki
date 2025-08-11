@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 156208
+revid: 157986
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -18,9 +18,9 @@ Chance of obtaining aspect: **11%**
 
 ## Description
 
-Gremors are a aspect similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they possess an internal compass and a lower starvation rate, as well as boosted reputation with [The Children of Navae](The_Children_of_Navae.md).
+Gremors are an [aspect](Aspects.md) similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they possess an internal compass and a lower starvation rate, as well as boosted reputation with [The Children of Navae](The_Children_of_Navae.md).
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>

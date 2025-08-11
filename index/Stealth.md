@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 152903
+revid: 157932
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -23,11 +23,11 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 **Stealth** can be improved in several ways.
 
 -   Crouching.
--   Improving your [Agility](Attributes.md) will improve your Stealth.
-    -   Every point of [Agility](Attributes.md) grants +0.2% Stealth.
-    -   Passive Agility does NOT grant Stealth.
+-   Improving your [Agility](Attributes.md#agl) will improve your Stealth.
+    -   Every point of [Agility](Attributes.md#agl) grants +0.2% Stealth.
+    -   Passive Agility does **not** grant Stealth.
 -   The [Felinor](Felinor.md) aspect starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
--   The [Talent Card](Talents.md) _Lowstride_ improves Stealth while crouched. The following outfits have the _Lowstride_ Talent:
+-   The _[Lowstride](Talents.md#assassin)_ Talent improves Stealth while crouched. The following outfits have the _Lowstride_ Talent:
     -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md).
 -   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
@@ -46,17 +46,17 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md) (3%).
     -   Rings: **None :(**
 
-On the other hand, the [Obvious Flaw](Boons_and_Flaws.md) grants you -20% base Stealth and does not impact Stealth gain.
+On the other hand, the [Obvious Flaw](Boons_and_Flaws.md#flaws) grants you -20% base Stealth and does not impact Stealth gain.
 
 The current maximum Stealth possible, not counting crouching/Lowstride, is:
 
 -   [Felinor](Felinor.md) - **140.72%**.
 -   [Felinor](Felinor.md) with [Multifaceted](Echoes.md#upgrades-and-modifiers) - **140%**.
--   Any +3 Agility Aspect ([Tiran](Tiran.md)) - **100.6%**.
+-   Any +3 Agility Aspect ([Kiron](Kiron.md)/[Tiran](Tiran.md)) - **100.6%**.
 -   Any +2 Agility Aspect ([Etrean](Etrean.md)/[Chrysid](Chrysid.md)/[Khan](Khan.md)/[Lightborn](Lightborn.md)/[Drakkard](Drakkard.md)) - **100.4%**.
 -   Any other Aspect or any Aspect (excluding [Felinor](Felinor.md)) with the [Multifaceted](Echoes.md#upgrades-and-modifiers) Echo Upgrade - **100%**.
 
-All of these of course use the best equipment with 100 or more Agility. If you have Obvious, subtract 20 from the above scores or 24 if [Felinor](Felinor.md).
+All of these of course use the best equipment with 100 or more Agility. If you have [Obvious](Boons_and_Flaws.md#flaws), subtract 20 from the above scores or 24 if [Felinor](Felinor.md).
 
 ## Usage
 
@@ -64,23 +64,17 @@ All of these of course use the best equipment with 100 or more Agility. If you h
 
 When crouching:
 
--   Players can Assassinate other humanoids by pressing M1 behind them. You must be out of combat to assassinate.
--   Players can activate [Murmur: Tacet](Murmur%253A_Tacet.md), a Murmur [Talent Card](Talents.md) that turns the player invisible in Stealth.
+-   Players can assassinate other humanoids by pressing M1 behind them. You must be out of combat to assassinate unless you have the [Dustlunge](Talents.md#swiftshade) Talent.
+-   Players can activate [Murmur: Tacet](Murmur%253A_Tacet.md), a Murmur that turns the player invisible in Stealth.
+    -   [Tacet's](Murmur%253A_Tacet.md) range scales inversely with both [Power](Power.md) and Stealth. The size of the Tacet bubble caps at 100% Stealth; going above 100% Stealth causes the size to increase instead, due to a bug.
 -   Players can activate [Murmur: Rhythm](Murmur%253A_Rhythm.md), a Murmur that points out nearby entities by making them "pulse".
 -   Parkour is restricted.
 -   Increased stealth.
--   Cancels the Obvious [flaw](Boons_and_Flaws.md).
 
-Against [humanoid monsters](Monsters.md) or [enemies](Enemies.md), Assassinations deal large damage.
+Against humanoid targets, assassinations deal large damage. Some enemies such as the [Songseekers](Songseeker_Flamecharmer.md) at [Songseeker Wilds](Songseeker_Wilds.md) or the [Ministry Necromancers](Ministry_Necromancer.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid Monsters like [Megalodaunts](Megalodaunt.md), etc.
 
-Some enemies such as the Monks at [Songseeker Wilds](Songseeker_Wilds.md) or the [Necromancers](Ministry_Scout.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid monsters like [Megalodaunts](Megalodaunt.md), etc.
-
-Against players, Stealth is suboptimal if your opponent has a functional monitor. Assassinations deal flat percentages of damage to players, up to 25%.Initially starting at 15%, you gain 1% assassination damage per 10 points in Agility.
+Against players, Stealth is suboptimal if your opponent has a functional monitor. Assassinations deal flat percentages of damage to players, up to 25%. Initially starting at 15%, you gain 0.1% assassination damage per point in [Agility](Attributes.md#agl).
 
 An alert bandit.
 
 When a humanoid enemy detects you, a dark yellow **"!"** will appear above their head. Enemies who are alert are unable to be assassinated.
-
-[Murmur: Tacet](Murmur%253A_Tacet.md)'s range scales with both Power and Stealth.
-
-The highest possible stealth obtainable from armor alone is 80%, however this can be increased further with the [Felinor](Felinor.md) racial passive Nightchild, the Talent Lowstride, and Agility.

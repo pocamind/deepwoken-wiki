@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 157515
+revid: 157969
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -21,6 +21,8 @@ categories: [Items, Drops, Ingredients]
 ## Description
 
 **Doom of Caeranthil's Scale** is a direct drop from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Only one can drop per kill, making this item incredibly rare and sought after.
+
+it has an estimated drop chance of 1/100~
 
 ## Uses
 

@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 157635
+revid: 157983
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,9 +17,9 @@ Chance of obtaining aspect: 7.5**%**
 
 ## Description
 
-One of the most distinct aspects in Lumen for their infamous cat ears, Felinor garner the most attention of all aspects in Deepwoken. They are a rare aspect with little social or political influence to their aspect, mainly varying with the individual themselves. The bonus stats for Felinor are 2 Charisma and 3 Agility, with improved stealth as well as multiplied climbing height.
+One of the most distinct aspects in Lumen for their infamous cat ears, Felinor garner the most attention of all [aspects](Aspects.md) in Deepwoken. They are a rare aspect with little social or political influence to their aspect, mainly varying with the individual themselves. The bonus stats for Felinor are 2 Charisma and 3 Agility, with improved stealth as well as multiplied climbing height.
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>
@@ -82,7 +82,7 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 -   Velo
     
 
-## Aspect Features
+## Features
 
 ### Ears
 
