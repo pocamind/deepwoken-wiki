@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 157037
+revid: 158159
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Medium Weapons]
@@ -40,7 +40,7 @@ The Kyrsglaive is an Endgame [Medium Weapon](Weapons.md) under the Spear categor
 
 The Kyrsglaive has two criticals.
 
-For the standing critical, the user raises the spear before slamming it into the ground to burst forth an eruption of bones, guardbreaking and applying Daze to the affected opponent.
+For the standing critical, the user raises the spear before slamming it into the ground to burst forth an eruption of bones, applying Daze to the affected opponent.
 
 For the aerial critical, the base spear critical is used instead.
 

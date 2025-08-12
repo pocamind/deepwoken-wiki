@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 157709
+revid: 158158
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -12,8 +12,8 @@ categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Wea
 |---|---|
 | type | Spear |
 | requirements | 50 MED, 75 ICE |
-| damage | 16.5 + 5 BLD |
-| scaling | MED: 5, ICE: 5 |
+| damage | 16 + 5 BLD |
+| scaling | MED: 5, ICE: 3 |
 | range | 9 |
 | swing speed | 0.96x |
 | penetration | 20% |
@@ -36,7 +36,7 @@ The **Kyrswynter** is a Legendary Spear; an intricate curved and wrapped white p
 
 The Kyrswynter comes with a single passive ability:
 
--   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. ([Dazing Finisher](Talents.md#charm-caster)/[Bulldozer](Talents.md#raging-bull) do not proc)
+-   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#charm-caster)/[Bulldozer](Talents.md#raging-bull) do not proc)
 
 ## Obtainment
 

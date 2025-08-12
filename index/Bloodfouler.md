@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 157159
+revid: 158155
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -12,8 +12,8 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 |---|---|
 | type | Greatsword |
 | requirements | 50 HVY, LVL 10, 75 BLD |
-| damage | 20 + 6 BLD |
-| scaling | HVY: 6, BLD: 4 |
+| damage | 19 + 6 BLD |
+| scaling | HVY: 5, BLD: 4 |
 | range | 9.5 |
 | swing speed | 0.86x |
 | special effect | Restores a percentage of the users blood upon landing m1 |
@@ -44,7 +44,7 @@ It can also be obtained as a direct drop from Chaser, as well as [The Diluvian M
 
 ## Critical
 
-For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep, striking the opponent and applying Blood Poisoning and briefly ragdolling them. This attack guardbreaks. The standing critical has the following stats: 140% of scaled damage, inflicts 25% Blood Poisoning, and has a 1 second windup.
+For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep, striking the opponent and applying Blood Poisoning and briefly ragdolling them. The standing critical has the following stats: 140% of scaled damage, inflicts 25% Blood Poisoning, and has a 1 second windup.
 
 For the running critical, the user rushes forward and performs a much quicker sweep before striking the opponent, applying Blood Poisoning. The running critical has the following stats: 115% of scaled damage, inflicts 20% Blood Poisoning, has a 0.75 second windup, and deals 35+ posture.
 

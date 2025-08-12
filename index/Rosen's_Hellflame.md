@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 157427
+revid: 158154
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 |---|---|
 | type | Rifle |
 | requirements | 75 FIR, 40 MED |
-| damage | 18 |
+| damage | 19 |
 | scaling | FIR: 4, MED: 3 |
 | range | 7 |
 | swing speed | 0.93x |

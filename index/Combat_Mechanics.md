@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 158145
+revid: 158162
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -98,6 +98,8 @@ If you have [Dimensional Travel/Kamui](Dimensional_Travel.md) in your possession
 Upon pressing the settings button, you can find a keybinds section next to the settings page. Keybinds will allow you to have two different keys for an action, with the first one already being there when you start. To revert something, all you would need to do is press the reset button next to the action you're changing.
 
 Certain actions such as [Ironsing](Ironsing.md)'s pull and [Murmurs](Murmur.md) require you to have access to them on the slot you're currently using in order to change their Keybinds. Currently, you are unable to change Keybinds for sailing & ritual casting.
+
+Most keybinds are not present in the new keybinds menu as of now, so for example, if you had ardour on P you won't be able to revert it.
 
 ## Survival Basics
 
@@ -285,7 +287,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <td>Right-clicking- or otherwise using <kbd>M2</kbd>- during the moment your character pulls their weapon/arm back for a swing will allow you to fake-out the opponent with a <i>Feint</i>. You can also hold the button down which will feint your M1 as soon as possible and allows you to attack again even sooner more easily.
   <ul>
     <li>You may feint <i>Running Attacks</i> and <i>Uppercuts</i> (see below) by using a Mantra just before you strike.</li>
-    <li>You may feint Mantras by doing <kbd>M1</kbd>+ <kbd>M2</kbd> during a cast.</li>
+    <li>You may feint Mantras by using <kbd>M2</kbd> during a cast.</li>
     <li>You may feint a swing into a Mantra by casting a Mantra during the moment your character pulls their weapon/arm back.</li>
   </ul><p>This allows you to play mind games with your adversary, and is very essential for mid-high level combat. For example, feinting can bait them to block- disabling their ability to parry and instead forcing them to roll. When they roll, you can follow through their roll and attack them through it.</p>
   <p><br>
@@ -563,22 +565,6 @@ Main article: [Status Effects](Status_Effects.md)
   <th>Spell Feinting</th>
   <td>Similar to the feinting system within the melee weapons, you are able to fake a spell and then quickly select another one for example, going for a fire grab and then quickly cancelling it to a fire AoE attack. You can also feint rituals however you need all the items for the ritual in order to start and stop it. It could be possible that there are consequences for cancelling ritual tier magic, so be careful. You may only cancel a few Mantras in the game during their attack like Rapid Punches.<p>Spell feinting is performed by pressing M1 and then <kbd>M2</kbd>. Spell feinting will <b>not</b> refund the Ether cost.</p>
   <p>It's possible to feint and feint your spell at the same time. Double feinting like this will often draw out your opponent's parry and roll. It's still fairly possible to retaliate against but dealing with this technique is tricky, especially when used with very quick Mantras, which easily overwhelms most unexperienced players.</p></td>
-</tr>
-<tr>
-  <th>Perfect Casting</th>
-  <td>Clicking M1 immediately after your Mantra cast will <i><b>Perfect Cast</b></i> it. There's no indication of whether the perfect cast was successful. The only use of this feature is to interact with some abilities. Though it might sound useless, certain Talents can give massive bonuses. All Talents that use perfect casting are listed here:
-  <ul>
-    <li><i>Eureka</i> - Receive Ether back on every successful <b>perfect cast</b>. (essentially useless as it has a 6 second cooldown)</li>
-    <li>Jolt Cast - Every <b>perfect casted</b> Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast.</li>
-    <li>Haunted Gale - Every 3 hits landed by <b>perfectly casted</b> Galebreathe Mantras will cause the target to be quickly struck by a phantom of wind.
-  <ul>
-    <li>This Talent is needed for Haunted Path: Specter, and is needed to activate the Apparitions Talent.</li>
-  </ul></li>
-  </ul><p>Perfect casting also interacts with certain Mantras. Below is a list of all of them:</p>
-  <ul>
-    <li>Flame Grab - Shortens the range of the grab. This is often seen as a disadvantage.</li>
-    <li>Jolt Grab - Shortens the range of the grab. This is often seen as a disadvantage.</li>
-  </ul><p>Outside of these abilities, perfect casting is effectively useless.</p></td>
 </tr>
 </tbody>
 </table>

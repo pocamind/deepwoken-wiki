@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 156545
+revid: 158153
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -40,6 +40,8 @@ This page is about content that has either been removed or changed drastically i
     -   Replaced with Advanced Cards in the December 23rd, 2022 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
 -   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
     -   Was removed on the December 23rd, 2022 Verse 2 Update.
+-   **Perfect Casting -** Clicking M1 immediately after your Mantra cast will Perfect Cast it. The only use of this feature is to interact with some abilities.
+    -   Was removed on the August 11th, 2025 update as it didn't actually require any additional skill, it was basically just a knowledge gap. All mechanics/abilities that relied on Perfect Casts were reworked or made default behavior.
 
 ## Oaths
 
@@ -100,6 +102,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the October 6, 2023 update, Agitating Static was merged into Discovery of Fire.
 -   **Aggressive Posture \[Common Talent\] -** Hitting your opponent with a basic attack causes them to slow down while walking backwards. Parrying an opponent causes them to slow down slightly when walking backwards. (+1 Passive Agility)
     -   In the January 31st, 2025 update, Aggressive Posture has been removed due to clashing with a new mechanic called Backstepping.
+-   **Anxious Guard \[Common Talent\] -** Hitting an enemies block causes their parry window to be lowered for 5s. 15s CD
+    -   In the August 11th, 2025 update, Anxious Guard was removed as it didn't have any effect.
 -   **Black Out \[Common Talent, Shadowcast\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the August 15th, 2023 update, Black Out was merged into Sightless Still.
 -   **Blood Shadow \[Rare Talent, Fortitude, Shadowcast\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
@@ -290,12 +294,12 @@ This page is about content that has either been removed or changed drastically i
 -   **Elemental Intensity** as a Talent stat - Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
 -   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
--   **Locked Chest -** Limited to [The Depths](The_Depths.md), chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
+-   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
 -   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis was later added as well. Known inaccessible Lore guilds include The Hive.
 -   **Original Guild Housing -** A cut feature that allowed guilds to have bases on set plots on islands.
     -   Added in the 12/23/22 Verse 2 Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
 -   **Officer's Note -** An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
--   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 cloths and would let the player carry chests by stuffing them inside. This was likely used in conjunction with the Locked Chest system.
+-   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 pieces of cloth and would let the player carry chests by stuffing them inside. This was used in conjunction with the Locked Chest system.
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
 -   **[Serena](Serena.md)** **\-** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[3\]](#cite-note-3)

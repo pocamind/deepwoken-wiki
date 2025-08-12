@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 156656
+revid: 158149
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,7 +40,7 @@ In order of carry load given:
 -   _Eureka_ gives 7 carry load.
 -   _Rain of Static_ gives 7 carry load.
 -   _Steady Nerves_ gives 7 carry load.
--   _Jolt Cast_ gives 7 carry load.
+-   _Windup Battery_ gives 7 carry load.
 -   _Discharge_ gives 7 carry load.
 -   _Concussion_ gives 8 carry load.
 -   _Pressure Break_ gives 8 carry load.
