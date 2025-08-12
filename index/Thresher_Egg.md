@@ -1,11 +1,9 @@
 ---
 title: Thresher Egg
-revid: 153633
+revid: 158139
 source: https://deepwoken.fandom.com/wiki/Thresher_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Alchemy]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Items, Ingredients]
 ---
 
 # Thresher Egg
@@ -19,20 +17,19 @@ notices:
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | "Full of delightful crocodilian nutrition" |
-
-“ Full of delightful crocodilian nutrition ”
-
-― In-game Description
-
-  
+| desc | Full of delightful crocodilian nutrition |
 
 ## Description
 
-Thresher Egg is an [ingredient](Ingredients.md) what is used in [Sordino's](Sordino.md) quest, which requires 3 of them. Probably contains the unborn offspring of Threshers.
+Thresher Egg is an [ingredient](Ingredients.md) what is used in [Sordino's](Sordino.md) quest, which requires 3 of them. Contains the unborn offspring of Threshers.
 
-It cannot be used as an alternative to [eggs](Egg.md) when it comes to making food.
+Thresher Eggs **cannot** be used as an alternative to [eggs](Egg.md) when it comes to making food.
 
 ## Obtainment
 
-Thresher Egg can be obtained from [Deep Thresher Nest](Deep_Thresher_Nest.md).
+Thresher Eggs can be obtained from [Deep Thresher Nest](Deep_Thresher_Nest.md) by interacting with the egg clutches.
+
+## Usage
+
+-   Used in [Alchemy](Alchemy.md) for Mindbreak potions.
+-   Used in [Sordino's](Sordino.md) quest to obtain a [Thresher Mount](Mounts.md). If you have completed this quest once before on your account, you will not need to reobtain the Thresher Eggs.

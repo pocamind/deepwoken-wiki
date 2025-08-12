@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 153799
+revid: 158136
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -18,7 +18,7 @@ The world of Deepwoken presents many [aspects](Aspects.md), with each one of the
 
 Unlike in other games, aspects do not give a player major advantage over other players. However, some aspects do have special abilities related to the lore of the specific aspect. For instance, [Boats](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) aspect gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
 
-Currently the game contains a total of **twelve** obtainable aspects, with their own special abilities, cosmetics, appearance and accessories that can change depending on the aspect. Scars, eyes and face design is mostly the same for each aspect, with some exceptions.
+Currently the game contains a total of **thirteen** obtainable aspects, with their own special abilities, cosmetics, appearance and accessories that can change depending on the aspect. Scars, eyes and face design is mostly the same for each aspect, with some exceptions.
 
 ### Obtainable Aspects
 
@@ -54,7 +54,7 @@ To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Irons
 
 [Galebreathe](Galebreathe.md) 
 
-ㅤ
+  
 
 ## Obtainable Attunements
 
@@ -80,8 +80,8 @@ _\[More information about [attunements](Attunements.md) can be found on their co
 When customizing your character, there are a total of three [Weapon Classes](Weapons.md) you can choose from:
 
 -   **[Heavy Weapons](Weapons.md#heavy-weapons):** _[Battleaxe](Battleaxe.md) (Greataxe), [Avenger](Avenger.md) (Greatsword)_
--   **[Medium Weapons](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons):** _[Sword](<Sword_(weapon).md>) (Sword), [Irontusk](Irontusk.md) (Spear)_
--   **[Light Weapons](https://deepwoken.fandom.com/wiki/Weapons#Light_Weapons):** _[Stiletto](Stiletto.md) (Dagger), [Quickfang](Quickfang.md) (Rapier), [Silversix](Silversix.md) (Flintlock), along with [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Jus Karita](Jus_Karita.md), and [Fang & Coil](Fang_and_Coil.md) if formerly unlocked, these being Fist class weapons_.
+-   **[Medium Weapons](Weapons.md#medium-weapons):** _[Sword](<Sword_(weapon).md>) (Sword), [Irontusk](Irontusk.md) (Spear)_
+-   **[Light Weapons](Weapons.md#light-weapons):** _[Stiletto](Stiletto.md) (Dagger), [Quickfang](Quickfang.md) (Rapier), [Silversix](Silversix.md) (Flintlock), along with [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Imperium Kata](Imperium_Kata.md), [Jus Karita](Jus_Karita.md), and [Fang and Coil](Fang_and_Coil.md) if formerly unlocked, these being Fist class weapons_.
 
 _(The [Weapon Manual](Weapon_Manual.md) does not teach you new weapon classes, but it allows you to train the [Attribute](Attributes.md) for the class of weapon you are currently using. To change your weapon class or train a separate weapon class, you need to equip a specific weapon subclass corresponding to your desired class)_
 
@@ -133,6 +133,10 @@ Legion Kata
 
 Legion Kata 
 
+Imperium Kata
+
+Imperium Kata 
+
 Fang and Coil
 
 Fang and Coil 
@@ -152,7 +156,7 @@ At minimum, you must have one Boon, and one Flaw to make a character, and at max
 
 There are four total [Origins](Origins.md) you can decide between. **These can be very important.**
 
-### [Castaway](Origins.md#castaway)
+### [Castaway](Castaway.md)
 
 Castaway is an Origin granted by joining Deepwoken for the first time, and gives a blank slate for starting your character; no pros or cons.
 
@@ -180,9 +184,9 @@ Here is what makes the Isle of Vigils unique:
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
 -   More dense in food materials, however has less overall.
 
-### [Lone Warrior](Origins.md#lone-warrior)
+### [Lone Warrior](Lone_Warrior.md)
 
-The Lone Warrior [Origin](Origins.md) is unlocked on all slots upon wiping a character at least once or reaching the halfway point in the [Trial of One](Trial_of_One.md), that being the [Thresher](Thresher.md).
+The Lone Warrior [Origin](Origins.md) is unlocked on all slots upon wiping a character at least once or reaching the halfway point in the [Trial of One](Trial_of_One.md), that being the [Thresher](Thresher.md). Alternatively, wiping for the first time will also unlock this origin.
 
 Here is what makes the Lone Warrior [Origin](Origins.md) unique:
 
@@ -190,39 +194,40 @@ Here is what makes the Lone Warrior [Origin](Origins.md) unique:
 -   The [Trial of One](Trial_of_One.md) greatly speeds up progression, allowing players to reach [Power](Power.md) 6 in ~20 minutes or less.
 -   For more information, visit the [Trial of One](Trial_of_One.md) page.
 
-### [Deepbound](Origins.md#deepbound)
+### [Deepbound](Deepbound.md)
 
 The Deepbound [Origin](Origins.md) is unlocked on all slots after talking to [Akira](Akira.md) about joining [The Divers](The_Divers.md) in [Castle Light](Castle_Light.md).
 
 Here is what makes the [Deepbound Origin](Origins.md#deepbound) unique:
 
-1.  Gain innate [Talent](Talents.md) 'Deepbound Contract' upon spawning in.
+-   You can spawn in the following locations:
+    -   [Castle Light](Castle_Light.md)
+    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   Gain innate [Talent](Talents.md) 'Deepbound Contract' upon spawning in.
     -   Said [Talent](Talents.md) gives increased EXP gain [The Depths](The_Depths.md), but heavily reduced in The Etrean Luminant.
     -   You also have a positive sanity aura at Castle Light, allowing one to regenerate their sanity without going to the surface.
-2.  You spawn in [The Depths](The_Depths.md) at [Castle Light](Castle_Light.md).
-3.  You spawn with the [Diver Apprentice](Diver_Apprentice_Robes.md) [Outfit](Outfits.md), starting training gear, 25 notes, and increased reputation with [The Divers](The_Divers.md).
-4.  You are able to use an Antiquarian and purchase training gear at [Castle Light](Castle_Light.md).
-5.  The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md). If you want to escape the depths at low levels, you may fight the enforcer for up to 10 minutes.
-6.  You cannot do the [Trial of One](Trial_of_One.md).
+-   You spawn in [The Depths](The_Depths.md) at [Castle Light](Castle_Light.md).
+-   You spawn with the [Diver Apprentice](Diver_Apprentice_Robes.md) [Outfit](Outfits.md), starting training gear, 25 notes, and increased reputation with [The Divers](The_Divers.md).
+-   You are able to use an Antiquarian and purchase training gear at [Castle Light](Castle_Light.md).
+-   The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md). If you want to escape the depths at low levels, you may fight the enforcer for up to 10 minutes.
+-   You cannot do the [Trial of One](Trial_of_One.md).
 
-Alternatively, you can now choose to spawn at [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as a Deepbound.
-
-### [Voidwalker](Origins.md#voidwalker)
+### [Voidwalker](Voidwalker.md)
 
 The [Voidwalker Origin](Origins.md#voidwalker) is unlocked on all slots upon getting 5 player grips, and talking to Eylis using the second dialogue option in the cargo hold of a ship in the [Etrean Soldiers](Etrean_Soldier.md) versus [Knives of Eylis](The_Knives_of_Eylis.md) [event](The_Aratel_Sea.md#enemies-and-encounters) in either [Luminants](Luminants.md). After using the second dialogue option with Eylis, run through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
 
 Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
 
--   Your starting Island is the [Voidheart](Voidheart.md), an Island only accessible through being a [Voidwalker](Origins.md#voidwalker).
--   Gain innate [Talent](Talents.md) 'Voidwalker Contract'
+-   Your starting location is the [Voidheart](Voidheart.md), a location only accessible through being a [Voidwalker](Voidwalker.md).
+-   Gain innate [Talent](Talents.md) 'Voidwalker Contract'.
     -   Increased EXP gain from Bounties, but reduced EXP gain from Events.
     -   You start with negative reputation towards most factions.
--   Gain innate [Talent](Talents.md) 'Grasp of Eylis' with two Options to hunt your prey. With Ferocity or with Stealth
--   With Ferocity you see your bounty through walls and your arrival is evidenced with a sound cue.
--   With Stealth you spawn but you cant your see your bounty through walls,but your arrival is silent. This is meant to sneak up to your prey.
-    -   Using the Talent allows you to teleport to a [bounty target](Bounty_Hunting.md) you have claimed.
-    -   If they flee too far from you, or they log, you are sent back to the [Voidheart](Voidheart.md).
-    -   You gain the ability to see your target through walls momentarily.
+-   Gain innate [Talent](Talents.md) 'Grasp of Eylis' with two Options to hunt your prey. With Ferocity or with Stealth.
+    -   With Ferocity you see your bounty through walls and your arrival is evidenced with a sound cue.
+    -   With Stealth you spawn but you cant your see your bounty through walls,but your arrival is silent. This is meant to sneak up to your prey.
+        -   Using the Talent allows you to teleport to a [bounty target](Bounty_Hunting.md) you have claimed.
+        -   If they flee too far from you, or they log, you are sent back to the [Voidheart](Voidheart.md).
+        -   You gain the ability to see your target through walls momentarily.
 -   Spawn with the Void Eye, which teleports you back to the [Voidheart](Voidheart.md).
     -   Said item has a ten minute cooldown, which is removed upon eliminating a [bounty target](Bounty_Hunting.md) or using it in the voidsea.
 -   You will spawn with the [Whaler Initiate](Whaler_Coat.md) [Outfit](Outfits.md) upon spawning in with this [Origin](Origins.md).
@@ -230,25 +235,25 @@ Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
 -   [Voidwalkers](Origins.md) can access the [Bounty Board](Bounty_Hunting.md) for [The Knives of Eylis](The_Knives_of_Eylis.md), which is usually full.
 -   [Knives of Eylis](The_Knives_of_Eylis.md) will not attack you.
 
-### [Ignition Delver](Origins.md#ignition-delver)
+### [Ignition Delver](Ignition_Delver.md)
 
-The Ignition Delver Origin is unlocked on all slots upon saving Epsi in Layer 2, returning to Alpha in the Ignition Union base, The Frontier Furnace, or completing Orion's quest at Miner's Landing; tasking you to fight [Summer Goons](Summer_Goon.md) in the boiler room.
+The Ignition Delver Origin is unlocked on all slots upon saving [Epsi](Epsi.md) in [Layer 2](Second_Layer.md), returning to [Alpha](Alpha.md) in the Ignition Union base, [The Frontier Furnace](The_Frontier_Furnace.md), or completing [Orion's](Orion.md) quest at [Miner's Landing](<Miner's_Landing.md>); tasking you to fight [Summer Goons](Summer_Goon.md) in the boiler room.
 
 Here's what makes the Ignition Delver Origin unique:
 
 -   You can spawn in the following locations:
     -   [Miner's Landing](<Miner's_Landing.md>)
     -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
--   Gain innate Talent 'Union Card'
+-   Gain innate Talent 'Union Card'.
     -   Increased EXP gain from dungeons (Layer 2, Saramaed Hollow, bosses such as the Ferryman, the Duke) and jobs.
-    -   Reduced EXP gain from any other sources
--   Gain innate Talent 'Union Pager'
+    -   Reduced EXP gain from any other sources.
+-   Gain innate Talent 'Union Pager'.
     -   A communication device that can take jobs remotely.
--   Gain bonus EXP until you reach Power 10
--   Gain ability to use the [Hollow Forge](Hollow_Forge.md), which inputs Pluripotent Alloys for Smith's Alloys or Armorer's Needles.
--   Currently unfinished, however.
-
-  
+-   Passive Sanity regeneration at [The Chariot's Spire](<The_Chariot's_Spire.md>).
+-   Starts with the 'Union Hook' Talent.
+-   Starts with 50 [Notes](Notes.md), positive [Ignition Union](The_Ignition_Union.md) reputation, and negative [Summer Company](The_Summer_Company.md) reputation.
+-   Gain bonus EXP until you reach Power 10.
+-   Gain ability to use the [Hollow Forge](Hollow_Forge.md), which inputs Pluripotent Alloys for Smith's Alloys or Armorer's Needles or Smith's Alloys for Armorer's Needles and vice versa.
 
 ## Character Ages
 
@@ -258,7 +263,7 @@ Age may affect your character's entire appearance, such as wrinkles and a change
 
 You do not die of old age, nor do you receive any debuffs, as the age system is purely cosmetic.
 
-The [Moon Ring](Equipment.md) is a legendary ring accessory which halts, or at the very least hides your wrinkles. Its counterpart is the Waning Ring, which sets your character's age to tier 4.
+The [Moon Ring](Moon_Ring.md) is a legendary ring accessory which halts aging, or at the very least hides your wrinkles. Its counterpart is the [Waning Ring](Waning_Ring.md), which sets your character's age to tier 4.
 
 There may be some changes to dialogue with NPCs depending on what 'tier' of age your character is, listed below:
 

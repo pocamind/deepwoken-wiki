@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 157411
+revid: 158142
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
