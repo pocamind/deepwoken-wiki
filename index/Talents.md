@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 157947
+revid: 158207
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -163,7 +163,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 85 Intelligence
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
-    -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% ether to get the damage buff despite what the talent description says. The damage buff applies the moment you hit full ether.
+    -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% Ether to get the damage buff despite what the Talent description says. The damage buff applies the moment you hit full Ether.
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -276,7 +276,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
         -   Because Flame Within's mobility buff is a flat increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#abilities) or [Iron Skin](Ironsing.md#iron-skin).
     -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
-    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will lower the strength of Phoenix Flames down to 25% healing.
+    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
     -   Grotesque Resilience reduces the damage taken from Flame Within's burn DoT by 25%.
     -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
@@ -663,7 +663,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Mutual Exclusives: Observation, Safety Dance
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility)
-    -   Provides I-frames for the duration of the invisibility (2 seconds).
+    -   Provides I-frames for the duration of the invisibility.
+    -   The invisibility and I-frame duration is 2 seconds, but it will be reduced if you have under 40 Agility.
     -   Will also proc from dodging bleed, occurs when dodging a m1 late in high ping.
     -   Has a 20 second cooldown.
     -   You cannot parry attacks during the invisibility.
@@ -728,9 +729,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
     -   Charms for 15s and cannot be reduced by disbelief.
-    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional 10% damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   The additional damage reduction from Chaotic Charm scales on your Charisma investment.
     -   Automatically procs narcissist
-    -   This status effect only applies a 10% damage reduction effect, which stacks with Charm to grant a total of 19% damage reduction.
     -   Deals 0.1 typeless damage whenever it procs.
     -   Can be blocked, preventing damage and Charm proc.
     -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
@@ -753,6 +754,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Mutual Exclusives: Narcissist
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
+    -   Daze duration from Dazing Finisher scales on your Charisma investment, capping at ?s with 55 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
     -   Prerequisites: 1 Charisma, All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
@@ -989,7 +991,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 15 Strength
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
 
--   Precise Swing \[Common Talent\] - After landing a critical your next light attack will gain 5% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
+-   Precise Swing \[Common Talent\] - After landing a critical your next light attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical hits a block, this Talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
@@ -1039,7 +1041,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Elementalist
 
 -   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Like Million Ton Piercer, removes 50% mantra and physical PEN cap.
+    -   Does not grant the additional 5% PEN if you have under 90 Intelligence.
+    -   Like Million Ton Piercer, this removes the 50% Mantra and Weapon PEN cap.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
 
@@ -1074,15 +1077,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 15 Intelligence
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
-    -   Perfect-casting and parrying Mantras grants Inspiration stacks.
+    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras or from feinting a Mantra that does not go on cooldown when feinted, you gain the Inspired status effect for 30 seconds.
-        -   If you gain Inspired by perfect-casting, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
+        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
         -   If you gain Inspired by feinting a Mantra that does go on cooldown when feinted, Inspired will be consumed instantly and will do nothing.
-    -   Inspiration Stacks do not decay.
-    -   On perfect cast, restore a percentage of the casted Mantra's Ether cost. This percentage scales on your Intelligence investment.
-    -   Eureka has a **6 second** cooldown on stack gain from perfect-casting.
-    -   Parrying Mantras has no cooldown for stack gain. For multi-hitting Mantras, you do not gain stacks from autoparry frames.
+    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
     -   Prerequisite: 30 Intelligence
     -   This Talent was merged with the old Ether Conduit Talent.
 
@@ -1472,7 +1472,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   **Cap Artist** is disabled with this Talent.
-    -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...) and the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md).
+    -   Gain total immunity to knockdowns, but only if you meet Brick Wall's requirements (Heavy critical, Starkindred's Ascension etc...) and the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md).
+        -   If you have less than 100 Willpower and Fortitude, you will not gain knockdown immunity.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.
@@ -1481,6 +1482,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
+    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being hit. Purely visual.
     -   Spotter (for your opponent's allies) / Rhythm no longer shows how much health your character has.
     -   Prerequisites: 20 Fortitude, 100 Willpower
 
@@ -1503,11 +1505,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Even though it's not mentioned, some Greataxes also work with this Talent.
     -   Ice patches created by this talent last 1 minute 30 seconds.
-    -   Frost Buster works on the following weapons:
-        -   Any weapon with the basic heavy weapon critical (including greataxes, despite what the description states).
-        -   [Night Axe](Night_Axe.md)
-        -   [Crescent Cleaver](Crescent_Cleaver.md) and all weapons that share its critical, but **only if you land it**.
-        -   The Enforcer weapons ([Enforcer's Blade](<Enforcer's_Blade.md>), [Enforcer's Hammer](<Enforcer's_Hammer.md>), [Enforcer's Axe](<Enforcer's_Axe.md>)).
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill.
@@ -1525,6 +1522,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: Frostbite
 
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
+    -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
     -   Does not proc Frozen Legs.
     -   Prerequisite: 100 Frostdraw
     -   Mutual Exclusive: Glass Path: Crystallization
@@ -1544,7 +1542,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-    -   If burn was procced by the Flame Within Talent while knocked, the healing is reduced to 25%.
+    -   Healing scales on your Flamecharm investment; heals 25% health at 0 Flamecharm and scales up to 50% health at 75 Flamecharm, gaining 0.33% healing per point in Flamecharm.
+    -   If burn was procced by the Flame Within Talent while knocked, the healing is halved.
         -   If you get knocked while already on fire from Flame Within and do not get interrupted, you get the full 50% heal.
     -   Prerequisites: All Immolator Talents
 
@@ -1796,7 +1795,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
     
-    -   Has scaling, but it barely exists.[\[3\]](#cite-note-3)
+    -   Has slight Flamecharm scaling for its damage.[\[3\]](#cite-note-3)
+    -   Duration of the lava pools scales on your Flamecharm investment.
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
         
 
@@ -1849,6 +1849,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Savior \[Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
     -   "Saved" being interrupting a grip attempt.
+    -   The speed boost lasts 15 seconds.
     -   Prerequisite: 15 Willpower
 
 ### Lichtenberg
@@ -1872,6 +1873,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 35 Willpower
 
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 11 seconds. (60 Second Cooldown) (+10 Sanity)
+    -   Lasts 30 seconds with a 90 second cooldown, the Talent description was never updated.
     -   Prerequisite: 35 Willpower
 
 ### Linkstrider
@@ -2256,10 +2258,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
+    -   The posture reduction effect scales down if you do not have 40 Strength.
     -   Prerequisite: 40 Strength
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Like Ether Overdrive, removes 50% mantra and physical PEN cap.
+    -   Does not grant the additional 5% PEN if you have under 90 Strength.
+    -   Like Ether Overdrive, this removes the 50% Mantra and Weapon PEN cap.
     -   Prerequisites: 90 Strength, All Rampaging Brute Talents
     -   Mutual Exclusive: Ether Overdrive
 
@@ -2491,6 +2495,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
     -   Gives 25% armor **DRAIN** bonus, basically each rod **DRAIN** 2.5% instead of 2%.
     -   You **STEAL** same amount of armor as if you used a iron pull.
+    -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
     -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
     -   5% DMG bonus currently bugged. (Since Summer 2023)
     -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[5\]](#cite-note-5)
@@ -2617,6 +2622,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate.
+    -   Requires 5 stacks to proc if you have less than 75 Galebreathe.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   If used with Haunted Path: Specter, every 3 hits will make an Apparition appear, proccing [Winded](Status_Effects.md).
     -   Prerequisites: 75 Galebreathe, Silencer's Blade
@@ -2821,6 +2827,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: Phantom Step, 60 Galebreathe
 
 -   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
+    -   The posture damage and chip damage buffs have reduced effects if you have under 75 Galebreathe.
     -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](<Hero's_Blade_of_Wind.md>) (only critical) you don't have to inhale a mantra for it to take effect.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
@@ -2877,8 +2884,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
     -   Prerequisites: 25 Fortitude, 5 Willpower
     -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" has this Talent.
--   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration. (+7 Sanity)
-    -   On hit, gain 300% ether regeneration for 1 second.
+
+-   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration. Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
     -   Prerequisites: 40 Willpower, Battle Tendency
 
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
@@ -2917,6 +2924,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**Dustlunge**_ \[Advanced Talent, Agility Exclusive\] - You can now assassinate your enemies from much farther, shadestepping to their location if they're too far. Assassinating an enemy will automatically assassinate other nearby enemies. (+1 Passive Agility)
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range. (The teleport near for assassination is disabled when in combat)
+    -   Has reduced range if you have under 90 Agility.
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab Talents.
     -   Also grants the ability to assassinate players who are in combat.
     -   Prerequisites: All Assassin Talents, 90 Agility
@@ -2946,6 +2954,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
     -   This effect is signalled by a yellow halo.
+    -   Has a 4 second activation window with a 10 second duration.
     -   This talent will still proc if you hit a knocked enemy.
     -   Prerequisite: 20 Intelligence
 
@@ -3049,12 +3058,13 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Thunder Caster
 
--   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every Perfect Casted Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast. (+7 Carry Load)
-    -   Requirement: 30 Thundercall, 30 Intelligence
-
 -   Rain of Static \[Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load)
     -   When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.
     -   Prerequisite: [Lightning Impact](Thundercall.md#lightning-impact) (Mantra)
+
+-   Windup Battery \[Common Talent, Thundercall Exclusive\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
+    -   Applies this bonus to non-Thundercall Mantras.
+    -   Requirement: 30 Thundercall, 30 Intelligence
 
 ### Thunderblade
 
@@ -3383,7 +3393,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Command: Live \[Common Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
     -   Prerequisites: 75 Charisma, Vow of Mastery
     -   Effect: Will fully heal your servant if they have lower than 40% hp
-    -   10 Minutes for Master and 40 Minutes for Subject cooldown. 60 if less than 75 Сharisma
+    -   Cooldown scales off the caster's current Charisma investment.
 
 -   _**Command: Summon**_ \[Advanced Talent\] - Command your servant to obey your summons and appear before you no matter the distance.
     -   Prerequisites: 80 Charisma, Vow of Mastery
@@ -3435,9 +3445,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Whisper
 
--   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind.
-    -   3 hits landed is reduced to 2 if [Gale Wisp](Galebreathe.md#gale-wisp) is active.
-    -   There is a cap of 2 strikes per Mantra, per enemy.
+-   Haunted Gale \[Common Talent\] - Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
+    -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the damage of Haunted Gale by 3 seconds.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Windrunner
@@ -3707,6 +3716,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
 -   Mass Effect: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) - For every [Might Gem](Might_Gem.md) you have equipped on your mantras, slightly increase each Might Gem's power.
     -   Increases the posture damage bonus Might Gems innately grant, scaling on the amount of Might Gems you have equipped in your arsenal.
+    -   Grants your Might Gems an additional 2.25% posture damage multiplier per Mantra with a Might Gem equipped. This caps at +39.25% posture damage dealt on a Might Gem-equipped Mantra, assuming you have [Saintsworn](Oath%253A_Saintsworn.md), Neuroplasticity, and Will o' Wisp with all 13 of your equipped Mantras using a Might Gem.
 -   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
     -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Deepbound.md) or [Ignition Delver](Ignition_Delver.md).
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)

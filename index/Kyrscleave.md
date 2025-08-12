@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 158160
+revid: 158190
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
 |---|---|
 | type | Greatsword |
 | requirements | 75 HVY |
-| damage | 23 +7.2 BLD |
+| damage | 23 + 6.9 BLD |
 | scaling | HVY: 8.5 |
 | range | 9 |
 | swing speed | 0.81x |
@@ -47,5 +47,5 @@ This critical is shared with the [Crescent Cleaver](Crescent_Cleaver.md) and [Th
 Template:Header2
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), **Kyrscleave**, [Kyrswynter](Kyrswynter.md))
--   Deals roughly 39.4 + [**11.8 (BLEED)**](Status_Effects.md#bleed) (For a total of 51.1) Damage at 100 Heavy.
+-   Deals roughly 39.6 + [**11.8 (BLEED)**](Status_Effects.md#bleed) (For a total of 51.5) Damage at 100 Heavy.
 -   Its critical attack, as well as the Crescent Cleaver, is probably a reference to Shadow Fight 3's Shadow Ability; "Vane" as both share similar animations.

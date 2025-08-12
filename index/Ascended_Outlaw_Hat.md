@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 156848
+revid: 158206
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -42,6 +42,8 @@ This requires the **Hat**, [Robes](Ascended_Outlaw_Robes.md), and [Boots](Ascend
 Set Talent: [Offensive Recovery](Talents.md#set-talents) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
 
 This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md) equipped, but ONLY if it hits your opponent's block, and ONLY if all of your Mantras have [Might Gems](Might_Gem.md) equipped.
+
+Increases the effectiveness of your Might Gems by 2.25% per Might Gem equipped. This can increase the posture damage effect from your Might Gems from +10% to a maximum of +39.25% on the right setup.
 
 ## Obtainment
 

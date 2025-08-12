@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 155277
+revid: 158203
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -556,6 +556,7 @@ Ice
 -   10 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Does not inflict Chill.
+-   Ends instantly if parried.
 -   Spawns an ice patch on use. [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch.
 -   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
 -   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.

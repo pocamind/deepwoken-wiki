@@ -1,11 +1,9 @@
 ---
 title: Celestial Boots
-revid: 158177
+revid: 158201
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Legs, Boots, Items, Equipment, Craftable]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Legs, Boots, Items, Equipment, Craftable]
 ---
 
 # Celestial Boots
@@ -28,11 +26,17 @@ notices:
 
 ## Description
 
-Celestial Boots is a craftable [Equipment](Equipment.md) item under the "Legs" category. Celestial Boots also grants the _Cosmic Connection_ Talent which boosts Astral and Celestial related abilities by an unknown amount.
+Celestial Boots is a craftable [Equipment](Equipment.md) item under the "Legs" category. Celestial Boots also grants the _Cosmic Connection_ Talent which boosts Astral and Celestial related abilities.
+
+Cosmic Connection gives roughly a 4% increase to damage on [Astral](Astral.md) weapon m1s, but has no effect on the critical attack of the weapon.
+
+Cosmic Connection currently reduces damage of all 3 [Starkindred](Oath%253A_Starkindred.md) mantras, but does change the damage, so it could be a bug as of now (8/12/2025)
 
 ## Obtainment
 
-Celestial Boots are obtained by crafting the following items together at the Cold Forge:
+You can obtain the recipe of the Celestial boots from killing [Moon Knights](Moon_Knight.md)
+
+Celestial Boots are obtained by crafting the following items together at [The Cold Forge](The_Cold_Forge.md):
 
 1.  1 [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
 
@@ -40,3 +44,4 @@ Celestial Boots are obtained by crafting the following items together at the Col
 
 -   Visually identical to [Star Boots](Star_Boots.md), but lacking the innate +5 health.
 -   Cannot be enchanted, but can be dropped and banked.
+-   According to testers there is a small chance of you crafting it with it having the ability to be enchanted
