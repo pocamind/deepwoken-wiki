@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 156632
+revid: 158223
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1883,7 +1883,6 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
 -   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus.
 -   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).
--   The name "Alyx" is a reference to [Alyx Vance](https://half-life.fandom.com/wiki/Alyx_Vance) from the Half-life series
 -   The names "Teshin", "Incarnon", and "Lotus" are references to [Warframe](https://www.warframe.com).
 -   The name "Ohma" might be a reference to Ohma Tokita from Kengan Asura.
 -   The name "Gaius" might be a reference to one of the colossi from [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus).

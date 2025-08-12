@@ -1,9 +1,9 @@
 ---
 title: Celestial Boots
-revid: 158201
+revid: 158227
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Legs, Boots, Items, Equipment, Craftable]
+categories: [Pages with broken file links, Legs, Boots, Items, Equipment, Craftable]
 ---
 
 # Celestial Boots
@@ -45,3 +45,7 @@ Celestial Boots are obtained by crafting the following items together at [The Co
 -   Visually identical to [Star Boots](Star_Boots.md), but lacking the innate +5 health.
 -   Cannot be enchanted, but can be dropped and banked.
 -   According to testers there is a small chance of you crafting it with it having the ability to be enchanted
+
+## References
+
+File:CosmicConfirmingWeCanSomehowEnchantCelestialBoots.png

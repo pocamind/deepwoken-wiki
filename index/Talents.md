@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158207
+revid: 158236
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1904,9 +1904,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Marauder
 
--   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for 5s (15s cooldown).
-    -   Prerequisite: [Power](Power.md) 10
-
 -   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
     -   Prerequisite: 20 Willpower
 
@@ -2805,10 +2802,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Specter
 
 -   Haunted Path: Specter \[Common Talent, Galebreathe Exclusive\] - Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.
-    -   Despite the Talent description, perfect casting Galebreathe mantras still causes phantom winds to appear.
     -   Prerequisites: Haunted Gale, 50 Galebreathe
 
--   Apparitions \[Common Talent, Galebreathe Exclusive\] - Instead of Haunted Gale Phantoms and Suffocation, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'.
+-   Apparitions \[Common Talent, Galebreathe Exclusive\] - Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.
     -   Apparitions can be parried in "Phantom step" (Possibly a bug)
     -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
 

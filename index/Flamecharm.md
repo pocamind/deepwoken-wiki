@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 156840
+revid: 158235
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1902,6 +1902,8 @@ Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to deto
 -   Before its release, **Flaming Scourge** was a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Similar to [Shade Wisp](Shadowcast.md#shade-wisp), this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it. A similar controversy was the addition of [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), which was also hidden from testers and led to an overpowered, albeit less buggy, release.
 -   Flamecharm was invented by [Amorus Pleeksty](Amorus_Pleeksty.md), a Tiran who later went on to become a Deepwoken
 -   The **Fire Gun** Mantra gives the player fingers, similar to when casting a Wisp Mantra. Its there, but it's difficult to see due to particles
+-   Before the Perfect Cast mechanic was removed, **Flame Grab** and [Jolt Grab](Thundercall.md#jolt-grab) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, **Flame Grab**'s length would be shortened and it had an "extinguish"-like VFX unique from the regular version. This shortened variant was unaffected by duration modifiers.
+    -   A video summarizing this effect can be found [here](https://youtu.be/o3AJne5Y04U?si=Jzim_sMEg3q-qTkX).
 
 ## References
 

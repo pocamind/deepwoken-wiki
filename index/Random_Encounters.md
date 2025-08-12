@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 149726
+revid: 158217
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -29,10 +29,10 @@ These events occur randomly in the world or within a location.
 
 Groups of NPCs from different factions will spawn in Etrean Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Erisia](Erisia.md))
--   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs Authority Officers [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
--   [Legion Soldiers](Legion_Soldier.md) vs Authority Officers [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md))
--   [Legion Captain](Legion_Captain.md) + Legion Soldier vs Authority Officers [Authorityiconfaction](The_Central_Authority.md) ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Erisia](Erisia.md)) Named "The Eastern Conflict"
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md)) Named "The Eastern Conflict"
+-   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md)) Named "Clash of Empires"
+-   [Legion Captain](Legion_Captain.md) + [Legion Soldier](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md)) Named "Clash of Empires"
 
 A Bandit Camp in Erisia
 
@@ -50,9 +50,9 @@ While in Erisia, there is a chance that three bandits will fall from the sky and
 
 A group of three [thieves](Thief.md), recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug any downed non bandit or thief for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at Erisia. They are the only non-faction hostile NPCs to spare the player intentionally.
 
-#### Knives of Eylis
+#### Knife to Antler
 
-Three to four [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) [Navaeiconfaction](The_Children_of_Navae.md) in [Upper Erisia](Upper_Erisia.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at Upper Erisia. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
+Three to four [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) hired by the Authority are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) [Navaeiconfaction](The_Children_of_Navae.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at [Upper Erisia](Upper_Erisia.md). Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
 
 The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Cheral.md).
 
@@ -60,7 +60,7 @@ An Authority footsoldier
 
 #### Authority Scouts
 
-In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be [Authority Officers](Authority_Officer.md) and the other two will be [Authority Soldiers](Authority_Soldier.md). Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Soldiers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
+In [Upper Erisia](Upper_Erisia.md), you may see four Authority members marching back and forth in unison. Two of them will be [Authority Officers](Authority_Officer.md) and the other two will be [Authority Soldiers](Authority_Soldier.md). Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Soldiers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
 
 Lost villagers
 
