@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 156529
+revid: 158336
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -175,7 +175,7 @@ Lightning (Leg Sweep), Fire + Blunt (Uppercut)
 -   Deals moderate damage.
 -   Can apply both Shock and Burning.
 -   Compatible with Surge Path, Eruption Path, Wraith Path, and Azure Flames.
--   Does **not** proc Meteor Impact.
+-   Procs Meteor Impact.
 
  |
 | 
@@ -1079,9 +1079,38 @@ Wind + Lightning + Slash
 </tbody>
 </table>
 
+## Equipment
+
+Rarely, equipment will require the usage of two or more attunements to be used. Currently, there is only one equipment set that requires this.
+
+### Specialist Set
+
+The [Specialist Set](Specialist_Helmet.md) is a Thundercall Galebreathe hybrid equipment set, increasing the user's mobility and damage output through Stormcall Strikes. Upon equipping all items within this set, you will gain the Set Talent, _Shock Trooper Specialist_.
+
+  
+
+#### [Specialist Helmet](Specialist_Helmet.md)
+
+A black and gold plated helmet with the _Volt Draft_ Talent. Volt Draft strengthens your Inhale, allowing you to proc Storm Strikes with your basic attacks. Storm Strikes from this Talent scale their damage off your Galebreathe and Thundercall investment. This has a 20 second cooldown.
+
+#### [Specialist Plate](Specialist_Plate.md)
+
+A black and gold plated chest plate with the _Stormcall_ Talent. Stormcall applies the [Stormcall Shock](Status_Effects.md#stormcall-shock) status effect whenever a Storm Strike procs from one of your other Specialist Talents. Stormcall Shock deals damage to and applies Shock and Winded to anyone who attempts to cast a Mantra while affected by it.
+
+#### [Specialist Boots](Specialist_Boots.md)
+
+A pair of black plated boots with gold highlights with the _Flashwind_ Talent. Flashwind allows you to re-empower your dashes after using a gale or thunder dash.
+
+#### Set Bonus: \[Shock Trooper Specialist\]
+
+When wearing all equipment in the set, you gain the Shock Trooper Specialist Talent. Upon meeting a 100 accumulative damage threshold with Galebreathe and Thundercall Mantras, strike your opponents with a Stormcall Strike, dealing 40 damage with no scaling. This has no cooldown. [Grand Javelin](Thundercall.md#grand-javelin), [Electro Carve](Thundercall.md#electro-carve), and [Thunder Kick](Thundercall.md#thunder-kick) turn green, gaining a 15% increase to their base damage. [Astral Wind](Galebreathe.md#astral-wind), [Gale Lunge](Galebreathe.md#gale-lunge), and [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow) turn yellow, gaining a 15% increase to their base damage.
+
+  
+
 ## Trivia
 
--   Tempest Blitz was the first hybrid mantra introduced into the game on 12/19/2023.
--   Upon its release, Permafrost Prison was incredibly powerful and had to be quickly nerfed, causing it to be one of the quickest and harshest nerfs towards any mantra.
+-   Tempest Blitz was the first Hybrid Mantra introduced into the game on 12/19/2023.
+-   The Specialist Set were the first equipment items to require hybrid attunements to be used.
+-   Upon its release, Permafrost Prison was incredibly powerful and had to be quickly nerfed, causing it to be one of the quickest and harshest nerfs towards any Mantra in Deepwoken history.
 -   [Thundercall](Thundercall.md) has the most Hybrid Mantras, with 3 out of the 4 scaling off of it
--   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
+-   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend Mantras to a blue-ish grey.

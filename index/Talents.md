@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158299
+revid: 158348
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -757,7 +757,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Daze duration from Dazing Finisher scales on your Charisma investment, capping at ?s with 55 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
-    -   Prerequisites: 1 Charisma, All Charm Caster Talents
+    -   Prerequisites: 55 Charisma, All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
 
 ### Christmas Miracle
@@ -1416,7 +1416,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
-    -   Adds 1.2 Intelligence scaling to your Pistols. For reference this is the same as the [Rosen's Ring](<Rosen's_Ring.md>).
+    -   Adds 1.2 Intelligence scaling to your Pistols. This will be disabled if you have less than 60 Intelligence.
+        -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
     -   Exclusive to Dual Guns.
 
@@ -1483,7 +1484,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
-    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being hit. Purely visual.
+    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being hit. Purely visual.[\[3\]](#cite-note-3)
     -   Spotter (for your opponent's allies) / Rhythm no longer shows how much health your character has.
     -   Prerequisites: 20 Fortitude, 100 Willpower
 
@@ -1592,6 +1593,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the Aspect variant.
 
 -   Echolocator \[[Kiron](Kiron.md) Exclusive\] - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
+    -   Pings the location of nearby players who unsheathe their weapons (even through [Tacet](Murmur%253A_Tacet.md) and Lowstride) and event spawns.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the Give and Take Talent, totaling to 48% damage reduction.
@@ -1799,7 +1801,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
     
-    -   Has slight Flamecharm scaling for its damage.[\[3\]](#cite-note-3)
+    -   Has slight Flamecharm scaling for its damage.[\[4\]](#cite-note-4)
     -   Duration of the lava pools scales on your Flamecharm investment.
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
         
@@ -1986,7 +1988,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage boost.[\[4\]](#cite-note-4)
+    -   Can stack up to 20 times, for a 100% damage boost.[\[5\]](#cite-note-5)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -2499,7 +2501,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
     -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
     -   5% DMG bonus currently bugged. (Since Summer 2023)
-    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[5\]](#cite-note-5)
+    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[6\]](#cite-note-6)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Self-Shocker
@@ -3860,6 +3862,7 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2) File:Neuro.png
-3.  [↑](#cite-ref-3)
-4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
-5.  [↑](#cite-ref-5)
+3.  [↑](#cite-ref-3) File:NaS with less than 100 WILL.png
+4.  [↑](#cite-ref-4)
+5.  [↑](#cite-ref-5) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
+6.  [↑](#cite-ref-6)
