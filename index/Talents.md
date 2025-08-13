@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158289
+revid: 158299
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1503,9 +1503,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 40 Frostdraw
 
 -   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
-    -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
-    -   Even though it's not mentioned, some Greataxes also work with this Talent.
-    -   Ice patches created by this talent last 1 minute 30 seconds.
+    -   On critical, create three moderately large ice patches in a linear path in front of yourself. These patches last 1 minute 30 seconds.
+    -   Despite what the Talent description states, Greathammers do not proc Frost Buster but Greataxes do. Greatcannons do not proc Frost Buster either.
+    -   Frost Buster can only proc once per critical.
+    -   Also grants the ability to freeze and damage boats with Greatsword and Greataxe criticals.
+    -   Frost Buster procs on **any** critical when used on a Greatsword or Greataxe including some strange cases such as critical-replacing Enchantments ([Curse of the Unbidden](Curse_of_the_Unbidden.md), [Nemesis](Nemesis.md), and [Stormbreaker](Stormbreaker.md)) and all fist style criticals on [Markor's Inheritor](<Markor's_Inheritor.md>).
+    -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill.
@@ -2256,7 +2259,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
-    -   The posture reduction effect scales down if you do not have 40 Strength.
+    -   The posture reduction effect is halved to 16.5% if you do not have 40 Strength.
     -   Prerequisite: 40 Strength
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 158162
+revid: 158321
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -374,7 +374,7 @@ Image
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
 -   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
--   Ascension ([Starkindred](Oath%253A_Starkindred.md) Mantra)
+-   [Ascension](Oath%253A_Starkindred.md#ascension)
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
 -   [Stoneheart](Stoneheart.md) critical
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
@@ -403,7 +403,7 @@ Image
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
--   Judgement ([Contractor](Oath%253A_Contractor.md) Mantra) suspended hit
+-   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
 -   [Kanabo](Kanabo.md) critical\* (is parryable and dodgable despite having this indicator)
 
  |
@@ -422,7 +422,7 @@ Image
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
--   Sightless Beam ([Blindseer](Oath%253A_Blindseer.md) Mantra)
+-   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
 -   [Throw](Attunement-less.md#throw) grab
 -   [Kyrsieger](Kyrsieger.md) critical
 -   [Relic Axe](Relic_Axe.md) critical (Pillars)

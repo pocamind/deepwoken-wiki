@@ -1,6 +1,6 @@
 ---
 title: Tranquil Circle
-revid: 139604
+revid: 158319
 source: https://deepwoken.fandom.com/wiki/Tranquil_Circle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oath: Blindseer](Oath%253A_Blindseer.md)
+-   [Oath: Blindseer#Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle)

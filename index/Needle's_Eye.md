@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 157723
+revid: 158320
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -13,7 +13,7 @@ categories: [Weapons, Rapiers, Light Weapons, Items]
 | type | Rapier |
 | requirements | 75 LHT |
 | damage | 16.5 |
-| scaling | LHT: 7 |
+| scaling | LHT: 8.5 |
 | range | 8 |
 | swing speed | 1.05x |
 | penetration | 15% |
@@ -45,8 +45,8 @@ The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of LHT, the damage is (23)
--   At max LHT, the damage is (25.2)
+-   Meeting the requirement of LHT, the damage is (24.4)
+-   At max LHT, the damage is (27)
 -   The Needle's Eye is the slowest rapier ever, having a swingspeed of 1.05x.
 -   Needle's Eye and the [Golden Swordfish](Golden_Swordfish.md) are the only two non-legendary rapiers to have a unique critical attack.
 -   Elaborated from its description, the rapier was part of the former Duchess Thera Erisia's rapiers who bore the title of the Needle's Eye as seen in her statue in Erisia.

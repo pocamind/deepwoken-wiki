@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 152708
+revid: 158301
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Spec/Mod Outfits]
@@ -40,4 +40,4 @@ The [Crippling Darkness](Talents.md#equipment-talents) Talent grants grants 20% 
 
 -   Worn by melonbeard
 -   Current Moonseye is the following outfit by **SirAndrove2**:
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6444393749/Eyes-of-the-Corruptor-Armor) / [Pants](https://www.roblox.com/catalog/6444391630/Eyes-of-the-Corruptor-Armor)
+    -   [Shirt](https://www.roblox.com/catalog/6444393749/Eyes-of-the-Corruptor-Armor) / [Pants](https://www.roblox.com/catalog/6444391630/Eyes-of-the-Corruptor-Armor)

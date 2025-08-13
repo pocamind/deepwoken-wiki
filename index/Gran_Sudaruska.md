@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 157099
+revid: 158291
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -65,15 +65,17 @@ The critical freezes the opponent on successful hit, with Glass Path: Crystalliz
         -   "The sun will set only for your soul, pawn."
         -   "A repeat of the pain you caused, now for yourself."
         -   "You will not take my home."
-        -   "As I thought... Weak."
+        -   "As I thought.. Weak."
         -   "Break, fragile pawn."
         -   "Broken easily."
         -   "Your own Depths shall take you."
         -   "Frail."
-        -   "Foolish pawns playing God."
+        -   "Foolish pawns playing God..."
         -   "False strength."
         -   "Your cause is a poison to this world, pawn."
         -   "Death cannot contain me."
+    -   Killing 2 or more enemies that would trigger Gran Sudaruska's voice lines at once will only make her say one voice line instead of stacking both ontop of each other.
+    -   All Gran Sudaruska dialogues last for 5 seconds.
     -   Some of her lines are very similar (likely as a result of inspiration) to the dialogue of _[Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix)_, the final boss of [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2).
         -   "False strength." is one of Mithrix's quotes.
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.

@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 158033
+revid: 158300
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -64,7 +64,8 @@ Dodgeable:◯
 
  | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
 
--   Titus is most likely to follow up with Warp Kick, which can be very problematic if you're ragdolled.
+-   This attack can easily be avoided by jumping.
+-   Titus is most likely to follow up with Warp Kick if landed, which can be very problematic if you're ragdolled.
 
 Parryable:✗  
 Blockable:◯  
@@ -174,6 +175,7 @@ Dodgeable:◯
 
  | Titus slowly winds up before releasing a stomp that sends opponents into the air.
 
+-   This move can be easily avoided by jumping.
 -   Titus is most likely to follow up with Warp Kick if this move is used.
 
 Parryable:✗  
