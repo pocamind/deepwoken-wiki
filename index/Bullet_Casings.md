@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 147589
+revid: 158283
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -36,7 +36,7 @@ The Bullet will apply a 50% anti-heal on hit, however at a downside of the damag
 
 **Irithine:**
 
-The Bullet will apply poison(?) on hit (Currently bugged), however at a downside of the damage being reduced by 20% (Still applies).
+The Bullet will apply poison on hit, however at a downside of the damage being reduced by 20%.
 
 ## Trivia
 

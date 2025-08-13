@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 157977
+revid: 158282
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -123,13 +123,29 @@ A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat th
 
 ## Features
 
-### Adornments
+### Masks
 
-Capras have masks made of bone that closely resemble the skull structures of goats. These can be [dyed](Dye_Packet.md), though their color will match that of your Adornment.
+Capras have masks made of bone that closely resemble the skull structures of goats. These can be [dyed](Dye_Packet.md), though their color will match that of your horns.
 
-### Ornaments
+**Jurik:**
 
-Capra horns come in many shapes and sizes. These can be [dyed](Dye_Packet.md), though their color will match that of your Adornment.
+**Nemit:**
+
+**Ku:**
+
+**Hallowtide:**
+
+### Horns
+
+Capra horns come in many shapes and sizes. These can be [dyed](Dye_Packet.md), though their color will match that of your mask.
+
+**Jurik:**
+
+**Nemit:**
+
+**Ku:**
+
+**Hallowtide:**
 
 ## Gallery
 

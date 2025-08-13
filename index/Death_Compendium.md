@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 130043
+revid: 158287
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken, Vows, The Depths]
@@ -45,13 +45,16 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
 -   Be detected by the anti-cheat, typically without actually cheating and without being banned. Also known as _being AA-gunned_.
     -   **Note:** You will not be auto-banned for being AA-gunned, but a log of it will be made. If you die too many times via being AA-gunned, you _will_ be at a higher risk for being banned. Have a clipping software open at all times in case this happens.
--   Mistake the parasite eggs growing on your body for clumps of snow in [Layer 2](Second_Layer.md).
--   Realize that Floor 2's escape sequence is one big Risk of Rain reference just a bit too late, or get too greedy with the Kyrsan Medallion chests during the sequence.
--   Be torn from eternity by the instakill orbs during said escape sequence.
+-   Mistake the parasite eggs growing on your body for clumps of snow in [Layer 2](Second_Layer.md) (You will die a few minutes after 5 parasites have accumulated).
+-   Be erased from existence by the Layer 2 Floor 2 space-time collapse. (Realize that Floor 2's escape sequence is one big Risk of Rain reference just a bit too late), or get too greedy with the Kyrsan Medallion chests during the sequence.
+-   Be torn from existence by the unstable bursts (insta kill orbs) during said escape sequence.
 -   Find a way to escape the reset timer before it hits zero seconds, _without_ using a combat tag.
--   Be executed in Layer 2 by hitting the wall of the bridge by being blown into it by the wind while knocked.
+-   Be executed in Layer 2 by hitting the wall of the bridge by being blown into it by the wind while knocked. Being blown into the side of a bridge by the wind in Layer 2 while knocked.
 -   Spit on [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and be instantly executed for your despicable behavior.
 -   Getting knocked by a player, then getting flug into a different universe, then die to fall damage.
+-   Falling into the void in layer 1 of the Depths without meeting the layer descent health requirement. (Above 75%-50%)
+-   Falling into the void in layer 2 of the Depths.
+-   Attempting to enter the Hall of Shattered Wills without being an Administrator, Moderator, Developer, or Tester.
 
 Death Causes listed by the game:
 

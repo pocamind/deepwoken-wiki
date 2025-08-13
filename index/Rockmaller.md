@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 158150
+revid: 158288
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Multiple Criticals, Heavy Weapons]
@@ -32,6 +32,8 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Multiple Crit
 ## Description
 
 The Rockmaller is a mid-late game Greathammer with a unique critical, found in Miner's Landing. It appears to be a piece of rock roughly tied to a handle with fiber.
+
+It can be found by completing the [Security Detail job](Job_Boards.md) at [Summer Isle](Summer_Isle.md) and finding it in the chest that spawns upon completion
 
 ## Critical
 

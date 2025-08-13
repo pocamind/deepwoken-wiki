@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158236
+revid: 158289
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -664,7 +664,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility.
-    -   The invisibility and I-frame duration is 2 seconds, but it will be reduced if you have under 40 Agility.
+    -   The invisibility and I-frame duration is 1.2 seconds if you have 40 or higher Agility.
+    -   Ghost's duration will scale down if you have less than 40 Agility. Every point under 40 Agility reduces the duration of Ghost by 0.016 seconds, lasting 0.8 seconds at 15 Agility.
     -   Will also proc from dodging bleed, occurs when dodging a m1 late in high ping.
     -   Has a 20 second cooldown.
     -   You cannot parry attacks during the invisibility.

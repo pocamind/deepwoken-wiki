@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 157980
+revid: 158284
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -882,7 +882,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
         Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
         
        .
-        -   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
+-   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **December 26/27, 2021**.
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true though and has been confirmed by Yayafino to be a big lie._
