@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 157945
+revid: 158396
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -116,6 +116,10 @@ Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your
 ### Ghastly Mobility
 
 Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a [speed boost](#speed-boost) for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
+
+### Haunted
+
+Upon landing any Mantra while the Haunted is in effect, your opponent will be struck by a ghost, dealing additional Galebreathe damage. Haunted is applied through the [Haunted Gale](Talents.md#whisper) Talent. Haunted has an 8 second duration, this can be increased with [Gale Wisp](Galebreathe.md#gale-wisp), adding 3 seconds for a total of 11 seconds. Signified by a green ghost levitating above your head.
 
 ### Adrenaline Surge
 
@@ -386,7 +390,7 @@ Deal 10% less damage to the player who charmed you. If the charmer has the Talen
 
 ### Chaotic Charm
 
-Deal an additional 10% less damage to the player who Charmed you and 20% more damage to all other players. This status effect is entirely separate from Charm itself and thus will be entirely unaffected by the Disbelief Talent. No visual effect. Procced when hitting a player who has [Chaotic Charm](Talents.md#charm-caster) while they are under 25% HP.
+Deal less damage to the player who Charmed you and deal 20% more damage to all other players. The effectiveness of this Talent scales on the user's Charisma investment, gaining 0.15% damage reduction per point in Charisma. This status effect is entirely separate from Charm itself and thus will be entirely unaffected by the Disbelief Talent. No visual effect. Procced when hitting a player who has [Chaotic Charm](Talents.md#charm-caster) while they are under 25% HP.
 
 ### Hidden Tendril
 

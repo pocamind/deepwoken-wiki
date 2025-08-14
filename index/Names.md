@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 158223
+revid: 158395
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1749,6 +1749,22 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   Tarsus
 -   Theus
 -   Vales
+
+**Kiron:**
+
+  
+
+-   Aatu
+-   Alukaatu
+-   Draatu
+-   Metu
+-   Mihaatu
+-   Netu
+-   Noctu
+-   Petu
+-   Ratu
+-   Vaatu
+-   Ventu
 
 **Lightborn:**
 

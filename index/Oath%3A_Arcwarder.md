@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 157811
+revid: 158388
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -101,6 +101,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   The aerial variant deals Oath, Flame, and Thunder damage compared to grounded Arc Beam which doesn't deal Oath damage. The damage this deals is the same as grounded Arc Beam though.
         -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
     -   Instantly grips low health players if the attack were to knock them.
+    -   Can be cancelled early, letting it explode before hitting a target.
     -   Has 17x PVE scale.
 
 #### Support Mantras

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158352
+revid: 158398
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -323,7 +323,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Arcwarder
 
--   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
+-   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
 -   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
@@ -437,7 +437,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Blindseer
 
--   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
+-   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 -   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md) Exclusive\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
@@ -452,17 +452,16 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your Basic Attacks. Grants your Criticals +10% PEN while active.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again. If you don't meet this Talent's requirements, you will not be able to deactivate it manually.
-    -   Some weapon criticals are classified as Basic Attacks (e.g. [Shattered Katana](Shattered_Katana.md) and [Wraithclaw](Wraithclaw.md)), which means they benefit from the full armor nullification.
     -   When activated:
-        -   Eyes and hair turn red. Your eyes gain a red trail.
-        -   Your armor, including Natural Armor, is immediately removed for 20 seconds. These bars will be restored back to their previous values when Berserk ends.
+        -   Your eyes and hair turn red with your eyes gaining a red trail.
+        -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
         -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
     -   Prerequisite: 80 Strength
 
 ### Bladeharper
 
--   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
+-   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
     -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
@@ -497,7 +496,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Blightsurger
 
--   [Oath: Blightsurger](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
+-   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
     -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
 
 -   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your Blightshock prevents targets from using mobility mantras.
@@ -534,6 +533,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Bloodwarden's Sense \[Common Talent\] - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
     -   Prerequisite: 30 Bloodrend
+
 -   _Smell of Blood_ \[Rare Talent\] - When people touch a blood pool, briefly see their blood and blood poison.
     -   Prerequisite: 65 Bloodrend
 
@@ -569,7 +569,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Drains 4.5 HP per second and 2% Blood per second. The damage taken from this **cannot** be reduced by any source.
     -   Grants a 15% damage buff to all sources of DMG. This is affected by the damage multiplier cap.
     -   Increases blood bar damage by +35% (additive).
-    -   Grants a 30% active speed boost. This counts for talents such as Speed Demon and Cheap Shot.
+    -   Grants a 30% active speed boost. This counts for Talents such as Speed Demon and Cheap Shot.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
     -   Prerequisite: 50 Bloodrend
 
@@ -673,7 +673,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Chainwarden
 
--   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
+-   [**Oath: Chainwarden**](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower (STR + FTD + WLL ≥ 40), Authority reputation, defeat [Emar Vend](Emar_Vend.md).
 
 -   Perpetual Wrath \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md) Exclusive\] - Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
@@ -727,11 +727,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   Prerequisite: 25 Charisma
 
--   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
-    -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
-    -   Charms for 15s and cannot be reduced by disbelief.
+-   Chaotic Charm \[Common Talent, Charisma\] - Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
     -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
-    -   The additional damage reduction from Chaotic Charm scales on your Charisma investment.
+    -   The additional damage reduction from Chaotic Charm scales on your Charisma investment, gaining 0.15% damage reduction per point in Charisma.
+        -   This damage reduction is combined multiplicatively with Charm due to them being separate status effects.
     -   Automatically procs narcissist
     -   Deals 0.1 typeless damage whenever it procs.
     -   Can be blocked, preventing damage and Charm proc.
@@ -797,16 +796,15 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   **(Note that Reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
-    -   Heal others by 3%.
-    -   Heal the user by 3% + 1% for every people healed.
-    -   Hold your block key while casting Reinforce to apply reinforce to everyone, including non allies. (This is a default feature of Reinforce.)
+    -   Heals others by 3% of their maximum health.
+    -   Heals the user by 3% of their maximum health + an additional 1% for every person healed.
     -   Only procs on allies.
     -   Prerequisites: [Reinforce](Attunement-less.md#reinforce) (Mantra), 40 Fortitude
         -   **(Note that Reinforce requires 50 fortitude despite the requirement for the Talent being 40)**
 
 ### Contractor
 
--   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
+-   [**Oath: Contractor**](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to [Lord Regent](The_Lord_Regent.md).
 
 -   Hidden Tendril \[Oath Talent, [Contractor](Oath%253A_Contractor.md) Exclusive\] - Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether)
@@ -930,7 +928,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Dawnwalker
 
--   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots)
+-   [**Oath: Dawnwalker**](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 15, Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   Absolute Radiance \[Oath Talent,[Dawnwalker](Oath%253A_Dawnwalker.md) Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
@@ -1080,9 +1078,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
     -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
-        -   If you gain Inspired by parrying Mantras or from feinting a Mantra that does not go on cooldown when feinted, you gain the Inspired status effect for 30 seconds.
+        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
-        -   If you gain Inspired by feinting a Mantra that does go on cooldown when feinted, Inspired will be consumed instantly and will do nothing.
     -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
     -   Prerequisite: 30 Intelligence
     -   This Talent was merged with the old Ether Conduit Talent.
@@ -1092,7 +1089,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Fadetrimmer
 
--   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
+-   [**Oath: Fadetrimmer**](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 12, Change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)
 
 -   Fadetrimmer's Skillset \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md) Exclusive\] - What type of look are we going for today?
@@ -1171,7 +1168,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Flame Warden
 
--   Cauterized Wounds\[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility)
+-   Cauterized Wounds \[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility)
     -   Effectiveness of this Talent reduced with No Life King enchant.
     -   Stacks with Alloyblood.
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
@@ -1709,7 +1706,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Jetstriker
 
--   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
+-   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
     -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
 -   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.
@@ -1884,10 +1881,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Linkstrider
 
--   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
+-   [**Oath: Linkstrider**](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
--   Entropy Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
+-   **Entropy Link** \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
     -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   Six meteorites can be located throughout the overworld:
@@ -1901,7 +1898,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
     -   Prerequisites: [Oath: Linkstrider](Oath%253A_Linkstrider.md), Kill 1 player with an [Oath](Oaths.md) OR speak to [The Entropy Catalyst](The_Entropy_Catalyst.md) and spend 10 to instantly progress your Oath (requires you to have fully progressed Linkstrider previously).
 
--   Symbiotic Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
+-   **Symbiotic Link** \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
     -   Blue Cords (Allies) gain a speed boost, 20% damage resistance, and a 5% damage increase.
     -   Red Cords (Enemies) gain a minor speed debuff.
     -   This ability only can be used to a humanoid npcs and players.
@@ -2131,7 +2128,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Oathless
 
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Armor)
+-   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Armor)
     -   Prerequisites: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks, 10 minutes of playtime
 
 ### Omniscient
@@ -2277,11 +2274,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Rending Needle
 
--   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
-    -   Steals 10% of your enemy's armor durability on proc
-    -   Doesn't make mobs stagger faster.
-    -   Prerequisite: Rending Needle: Conductor
-
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Works as default path with exception of applying a Conductor rod after 5 normal metal rods are applied.
     -   Conductor rods last 30 seconds or until an elemental mantra is used.
@@ -2294,23 +2286,27 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Thundercall Mantra: Applies Shock + Cancels mantra (Base path) / Applies Surge stack (Surge path)
         -   Attunement-less/Ironsing/Bloodrend/Oath Mantra: The rod does not fall off, but their armor is still drained till conductor rod expires.
     -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
-    -   Conductor's rod on proc dont apply rod/pull immunity.
-    -   **NEVER TAKE THIS PATH FOR PVE UNLESS YOU WANT KEEP UP YOUR ARMOR ALWAYS 100%.** It makes staggering mobs way more harder than with impaler.
+    -   Conductor's rod on proc doesn't apply pull immunity.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
+-   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
+    -   Steals 10% of your enemy's armor durability on proc
+    -   Doesn't make mobs stagger faster.
+    -   Prerequisite: Rending Needle: Conductor
+
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
-    -   Increases the amount of iron rods you can apply from 5 to 10.
+    -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
     -   Scaling: 4 + Ironsing\*0.02
-        -   Deals 5.5 physical damage per rod when meeting requirements.
+        -   Deals 5.5 physical damage per rod at 75 Ironsing.
     -   Not affected by "Return To The Dark Ages" Talent
-    -   Best PVE path due to 10 rod limit and DMG by pulling rods.
+    -   Best PvE Rending Needle path due to its damage output.
     -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
-    -   Increases the amount of iron rods you can apply from 5 to 10.
+    -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
     -   When restrained, victim will have 6 second rod and pull immunity, upon jailer expire immunity will be set to 1s.
@@ -2358,7 +2354,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Saintsworn
 
--   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
+-   [**Oath: Saintsworn**](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 15 Flamecharm, 15 Galebreathe, 15 Shadowcast, 15 Frostdraw, 15 Thundercall, resonate with all of the Attunement obelisks in any order.
         -   The Flamecharm obelisk is at [Saramaed Summit](Saramaed_Summit.md), the Galebreathe obelisk is at [The Garden Reservoir](The_Garden_Reservoir.md), the Shadowcast obelisk is at [Moon's Eyrie](<Moon's_Eyrie.md>), the Frostdraw obelisk is atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), and the Thundercall obelisk is at [Boatman's Watch](<Boatman's_Watch.md>). See the [Saintsworn](Oath%253A_Saintsworn.md) page for more info.
 
@@ -2396,7 +2392,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Saltchemist
 
--   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
+-   [**Oath: Saltchemist**](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
     -   Prerequisites: 75 Intelligence, complete [Ciea](Ciea.md)'s quest once.
 
 -   Perpetual Distillery \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
@@ -2632,7 +2628,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Silentheart
 
--   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
+-   [**Oath: Silentheart**](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
     -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan's](Khan.md) Versatile Talent.
         -   Similarly to [Khan's Versatile](Khan.md), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 45 MED.
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
@@ -2728,7 +2724,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Soulbreaker
 
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
+-   [**Oath: Soulbreaker**](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Combined 50 Charisma/Willpower total (CHA + WLL ≥ 50), and any [Murmur](Murmur.md). The rest of the requirements depends on the obtainment method.
         -   **Yunshul method**: Additional requirements: Hero/very high Ally reputation with [Etris](Etris.md), a [Resonance](Resonance.md), and have a Yun'shul Wish. **Obtainment method**: Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's Ardour. Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
@@ -2843,10 +2839,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Starkindred
 
--   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
+-   [**Oath: Starkindred**](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
--   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
+-   **Death From Above** \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
     -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
     -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals moderate Slash damage and posture damage per hit.
@@ -3219,7 +3215,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks, a damage boost per puppet, and a slight speed boost.
     -   Gives you a Talent tool that must be actively used to proc this Talent.
-    -   Grants +4% M1 damage and a speed boost per Puppet for 6s. Caps off at +12% Damage.
+    -   Grants +4% basic attack damage and a speed boost per Puppet for 6s. Caps off at +12% damage.
     -   Puppets turn purple after being alive for 15 seconds.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 
@@ -3352,7 +3348,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Visionshaper
 
--   [Oath: Visionshaper](Oath%253A_Visionshaper.md) \[Oath Talent\] - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
+-   [**Oath: Visionshaper**](Oath%253A_Visionshaper.md) \[Oath Talent\] - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: 50 Charisma, complete [Aelita's Encounter](Aelita.md) or [Carnival of Hearts](Carnival_of_Hearts.md), bring a [Dark Feather](Dark_Feather.md) to [Surge](Surge.md)
 
 -   Cheap Trick \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
@@ -3448,7 +3444,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Whisper
 
 -   Haunted Gale \[Common Talent\] - Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
-    -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the damage of Haunted Gale by 3 seconds.
+    -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra.
+        -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
+        -   Haunted Gale is capped at 1 ghost per Mantra.
+    -   If you cast a non-Galebraethe Mantra, land a Mantra that does not have hitstun (e.g. [Galetrap](Galebreathe.md#galetrap)), miss your Mantra, or if your Mantra is blocked, parried, or dodged, it will be _**whiffed**_, resetting all stacks of Haunted Gale.
+        -   You need to **land** three Galebreathe Mantras in a row without them being defended against in any way in order to proc Haunted Gale.
+    -   Haunted Gale stacks are counted **per person**, not globally.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Windrunner
