@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 156580
+revid: 158399
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -204,7 +204,6 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 ### Passives
 
 -   Thorn Guard - Maestro Evengarde Rest is immune to [Providence Thorns](<Providence's_Thorns.md>).
--   Adept Fighter - Maestro Evengarde Rest is prone to movestack his attacks, especially with Vents.
 -   Disengage - Whenever Maestro Evengarde Rest loses roughly 1/4th of his maximum health, he will Vent and teleport to a random location in the arena. This is often followed up with an _Mortal Draw: Pressure_ to close the distance.
 -   Guardbreak Resist - Maestro Evengarde Rest is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this effect procs.
 

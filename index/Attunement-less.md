@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 158027
+revid: 158402
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -865,7 +865,7 @@ Blunt
 -   10s cooldown.
 -   When close enough to the enemy, the orbs will autotrack.
     -   Crystal/Perfect Lenses increase how far you can be for it to autotrack.
--   Can be used from any height, and you will float.
+-   Can be used from any height.
     -   Does not negate fall damage.
 
  |
