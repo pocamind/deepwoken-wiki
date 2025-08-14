@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 148343
+revid: 158355
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -35,7 +35,7 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 ### Main Questline
 
 1.  Open the starting door via a glowing orb on the cliffs of the outskirts (alternatively use the resonance door).
-2.  Turn on the Generator at the top of the tower near Pilgrim's Respite, this requires you to kill a weakened [Bone Keeper](../Bone_Keeper.md).
+2.  Turn on the Generator at the top of the tower near Pilgrim's Respite, this requires you to kill a weakened [Bone Keeper](../Bone_Keeper.md). If you're not able to or scared to fight the [Bone Keeper](../Bone_Keeper.md), there is a way to skip him by dropping down at the end of the bridge, traversing trough the snow until you reach [The Frontier Furnace](../The_Frontier_Furnace.md) to remove Parasites and regenerate. The barrier will despawn after some minutes, though the Bone Keeper wont. You will still be able to activate the generator.
     1.  **(OPTIONAL)** Gain the Union Hook Talent by traversing the snow in Layer Two until you reach the [Frontier Furnace](../The_Frontier_Furnace.md) and talk to [Alpha](../Alpha.md). You may also talk to [Llevyn](../Llevyn.md) to activate the Deepdrill.
 3.  Retrieve the Blue Spear within the depths of [Firfire Caverns](../Firfire_Caverns.md) (OPTIONAL AFTER THE FIRST RUN), and go to [Firfire](../Firfire.md)
 4.  Talk to Leader Erosius Amaltus Urivortus Alistus Casius Walistoshus, where he will then open the door to the [Nest Corridor](../Nest_Corridor.md). If you have a form of wall-clipping, you may skip talking to him.

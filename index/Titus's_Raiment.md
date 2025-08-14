@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 158157
+revid: 158359
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -39,6 +39,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 This Outfit has 3,000 durability, grants +25% Physical Armor, +35% Elemental Armor, +10% Lightning Armor, +10% Wind Armor, and +30% Ether Regeneration. Additionally, it provides the [Overwhelming Might](Talents.md#equipment-talents) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 41.5% Thundercall, 41.5% Galebreathe, and 35% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 41.5% Thundercall, 41.5% Galebreathe, and 35% Elemental.
 
 The [Overwhelming Might](Talents.md#equipment-talents) Talent makes [Strong Left](Attunement-less.md#strong-left), [Table Flip](Attunement-less.md#table-flip), and [Skyshatter Kick](Attunement-less.md#skyshatter-kick) all guardbreak at Level 5. Overwhelming Might has an independent 60 second cooldown for each of the aforementioned Mantras.

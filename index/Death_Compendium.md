@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 158287
+revid: 158371
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken, Vows, The Depths]
@@ -27,6 +27,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   [Wind-Up](Wind-Up.md) removing your presence from the light of Lumen.
 -   Log while in [combat](Combat_Tag.md). (Internet disconnection, being kicked, being banned, etc.)
 -   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md) (Results in a Insta-grip)
+-   Lie to [Misérables](Misérables.md) about how many medallions you have on your person.
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell, turning your body into a shriveled husk.
 -   Die to [Jar of Souls](Jar_of_Souls.md) or Corrupted [Shard Bow](Shard_Bow.md) bell, disintegrating your body with white flames.
 -   Enter the Lord Regent's Throne Room without an audience. This includes talking to him after completing - or failing - the quest.
@@ -46,14 +47,14 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Be detected by the anti-cheat, typically without actually cheating and without being banned. Also known as _being AA-gunned_.
     -   **Note:** You will not be auto-banned for being AA-gunned, but a log of it will be made. If you die too many times via being AA-gunned, you _will_ be at a higher risk for being banned. Have a clipping software open at all times in case this happens.
 -   Mistake the parasite eggs growing on your body for clumps of snow in [Layer 2](Second_Layer.md) (You will die a few minutes after 5 parasites have accumulated).
--   Be erased from existence by the Layer 2 Floor 2 space-time collapse. (Realize that Floor 2's escape sequence is one big Risk of Rain reference just a bit too late), or get too greedy with the Kyrsan Medallion chests during the sequence.
--   Be torn from existence by the unstable bursts (insta kill orbs) during said escape sequence.
+-   Be erased from existence by the Layer 2 Floor 2 space-time collapse. (Realize that Floor 2's escape sequence is one big Risk of Rain reference just a bit too late).
+-   Be torn from existence by the unstable bursts (instant-kill orbs) during said escape sequence.
 -   Find a way to escape the reset timer before it hits zero seconds, _without_ using a combat tag.
--   Be executed in Layer 2 by hitting the wall of the bridge by being blown into it by the wind while knocked. Being blown into the side of a bridge by the wind in Layer 2 while knocked.
+-   Being blown into the side of a bridge by the wind in the Eternal Gale while knocked.
 -   Spit on [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and be instantly executed for your despicable behavior.
--   Getting knocked by a player, then getting flug into a different universe, then die to fall damage.
--   Falling into the void in layer 1 of the Depths without meeting the layer descent health requirement. (Above 75%-50%)
--   Falling into the void in layer 2 of the Depths.
+-   Getting knocked by a player, then getting flug into a different universe due to a bug, then dying to fall damage.
+-   Falling into the void in Scyphozia (first layer of the Depths) without meeting the layer descent health requirement. (Above 75%-50%)
+-   Falling into the void in The Eternal Gale.
 -   Attempting to enter the Hall of Shattered Wills without being an Administrator, Moderator, Developer, or Tester.
 
 Death Causes listed by the game:

@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 158227
+revid: 158353
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Legs, Boots, Items, Equipment, Craftable]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Legs, Boots, Items, Equipment, Crafta
 
 ## Description
 
-Celestial Boots is a craftable [Equipment](Equipment.md) item under the "Legs" category. Celestial Boots also grants the _Cosmic Connection_ Talent which boosts Astral and Celestial related abilities.
+Celestial Boots is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. Celestial Boots also grants the _Cosmic Connection_ Talent which boosts Astral and Celestial related abilities.
 
 Cosmic Connection gives roughly a 4% increase to damage on [Astral](Astral.md) weapon m1s, but has no effect on the critical attack of the weapon.
 
@@ -42,9 +42,9 @@ Celestial Boots are obtained by crafting the following items together at [The Co
 
 ## Trivia
 
--   Visually identical to [Star Boots](Star_Boots.md), but lacking the innate +5 health.
+-   Visually and statistically identical to [Star Boots](Star_Boots.md), but lacking the innate +5 health.
 -   Cannot be enchanted, but can be dropped and banked.
--   According to testers there is a small chance of you crafting it with it having the ability to be enchanted
+-   According to testers there is a small chance of it being enchanted when crafted.
 
 ## References
 

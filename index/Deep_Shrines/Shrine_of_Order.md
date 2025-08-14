@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 152610
+revid: 158356
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -44,6 +44,7 @@ For 10, balance your stats (up to a limit\*), but gain a random base [Flaw](../B
 -   \*A singular stat cannot lose more than 25 points, with the exception of Attunement stats. which can lose more than 25 points.
 -   Does not progress towards [Contractor Oath](../Oath%253A_Contractor.md).
 -   Shrine of Order cannot grant the Simple or Vegetarian [Flaws](../Boons_and_Flaws.md#flaws), any unlockable Flaw (Blind or Fugitive), or any special flaw (e.g. Tarnished or Disgraced).
+-   The effectiveness of some talents is reduced when shrining your stats down.
 
 ## Navigation
 

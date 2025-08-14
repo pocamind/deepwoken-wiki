@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 156849
+revid: 158351
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -5351,6 +5351,31 @@ Set: Brilliant
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
 Torso: [Brilliant Cape](Brilliant_Cape.md)
+
+ |
+|  | 
+
+[Celestial Boots](Celestial_Boots.md)
+
+ | 
+
++2 Rare Pips
+
++1 Legendary Pip
+
+_+Talent: Cosmic Connection_
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   Crafting at [The Cold Forge](The_Cold_Forge.md)
+
+ | 
+
+N/A
 
  |
 | 

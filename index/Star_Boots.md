@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 158226
+revid: 158354
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -30,8 +30,9 @@ categories: [Items, Equipment, Legs, Boots]
 
 Star Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through a variety of (primarily) endgame sources; refer to the "Obtainment" section of the infobox on the right for an exhaustive list.
 
+Can be used to craft the [Celestial Boots](Celestial_Boots.md).
+
 ## Trivia
 
 -   Considered to be one of the best boots in the game due to its Pips and innate +5 HP, though it has identical innate stats to the [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) and the [Imperial Boots](Imperial_Boots.md).
 -   This item was made a lot harder to obtain through normal methods due to it being a "scarce resource" 8/4/2025.
--   Star Boots can be used to craft [Celestial Boots](Celestial_Boots.md).

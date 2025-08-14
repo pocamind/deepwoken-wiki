@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 157509
+revid: 158375
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,6 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 6,000 |
 | weight | None |
+| stack | x5 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
