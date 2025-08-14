@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 158321
+revid: 158419
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -429,6 +429,7 @@ Image
 -   [Emotion Wave](Thundercall.md#emotion-wave) (First hit and outward lightning)
 -   [Deepspindle](Deepspindle.md) standing critical multihits
 -   [Kyrswynter](Kyrswynter.md) running critical
+-   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
 
  |
 | Green | File:Greentelegraph.png | ◯ | ✗ | ✗\*\* | ◯ |

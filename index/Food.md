@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 157518
+revid: 158424
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -44,7 +44,7 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 
 ### Buffs
 
--   _"A hearty meal that'll empower your melee strikes!"_ The Power buff increases the user's melee damage. (5% weapon damage buff)
+-   _"A hearty meal that'll empower your melee strikes!"_ The Power buff increases the user's melee damage. (5% M1 damage buff)
 -   _"An energising meal that'll empower your mantras!"_ The Enchant buff increases the user's mantra damage. (5% mantra damage buff)
 -   _"A complex meal that'll get you moving!"_ The Speed buff increases your sprinting speed. (5% running speed buff)
 -   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)

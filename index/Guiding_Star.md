@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 156997
+revid: 158407
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", The Children of Navae, Bows]
@@ -49,7 +49,7 @@ The user slightly lowers down and fires three explosive Ether arrows in quick su
 
 ## Trivia
 
--   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had an absurd and impossible requirement of 200 Light weapons, rendering it unusable for normal players.
+-   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had an absurd and impossible requirement of 200 Light Weapons, rendering it unusable for normal players.
     -   Both bows featured the same model & appearance, but only the arrow is missing.
 -   This is one of the only weapons that scales off Mind, the other being the [Red Death](Red_Death.md). This is also one of the only two to have a Mind requirement.
     -   The description on the Guiding Star claims that previous users of the weapon had 'talked', and were guided through their trail, with the bow, hinting at it potentially having some power with soul 'magic'.

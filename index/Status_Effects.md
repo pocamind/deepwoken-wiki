@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 158396
+revid: 158425
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,7 +30,7 @@ Mobility buffs are very similar to speed boosts, being a movement speed multipli
 
 Eating certain [food](Food.md) items can provide the user with useful buffs. The food buff you have as well as its duration can be viewed on your hunger bar, with a colored section at the top displaying the duration. The duration of food buffs are tied to the food eaten and your hunger bar as a whole, meaning if you are losing hunger from doing something like swimming, the buff will drain faster.
 
--   Power: +5% Weapon damage; _"A hearty meal that'll empower your melee strikes!"_ Applied by consuming the [Glazed Fish](Glazed_Fish.md), [Megurger](Megurger.md), or [Mushroom Omelette](Mushroom_Omelette.md).
+-   Power: +5% M1 damage; _"A hearty meal that'll empower your melee strikes!"_ Applied by consuming the [Glazed Fish](Glazed_Fish.md), [Megurger](Megurger.md), or [Mushroom Omelette](Mushroom_Omelette.md).
 -   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
 -   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
 -   Ether: Increases Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
@@ -560,11 +560,11 @@ Applied by standing in the time stasis bubble made by the [Knives of Eylis Capta
 
 ### Magma Flow
 
-Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Flow, this chance increases the lower floor you go. When a Magma Flow-affected Monster hits you or another Monster with any attack, they'll apply Magma Flow, weakening your armor resistances and nullifying all Monster Armor temporarily. Monsters can spawn in with Magma Flow, Magma Guard, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. Signified by a dripping lava effect on your character and the Monster who has this effect.
+Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Flow, this chance increases the deeper you go. When a Magma Flow-affected Monster hits you or another Monster with any attack, they'll apply Magma Flow, weakening your armor resistances and nullifying all Monster Armor temporarily. Monsters can spawn in with Magma Flow, Magma Guard, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. Signified by a dripping lava effect on your character and the Monster who has this effect.
 
 ### Magma Guard
 
-Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Guard, this chance increases the lower floor you go. Magma Guarded Monsters are immune to any Damage vs Monsters effect. Monsters can spawn in with Magma Guard, Magma Flow, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. These monsters have exteriors encrusted with magma and rock.
+Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Guard, this chance increases the deeper you go. Magma Guarded Monsters are immune to any Damage vs Monsters effect. Monsters can spawn in with Magma Guard, Magma Flow, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. These monsters have exteriors encrusted with magma and rock.
 
 ### Attuned
 

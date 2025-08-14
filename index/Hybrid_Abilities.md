@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 158336
+revid: 158416
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -392,7 +392,7 @@ Wind + Lightning + Slash
   <td><center>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</center></td>
 </tr>
 <tr>
-  <td><center><font>Volcanic Glass</font><br>
+  <td><center>Volcanic Glass<br>
   <sup>[Pyroclast]</sup></center></td>
   <td><center>Glass Path: Crystallization<br>
   Eruption Path: Lava Serpent</center></td>
@@ -561,7 +561,7 @@ Wind + Lightning + Slash
   <td><center>Landing a Flamecharm mantra will detonate all stacked Crystals. This includes mantras such as <a href="Monster_Mantras.md">Mecha Gatling</a>.</center></td>
 </tr>
 <tr>
-  <td><center><font>Volcanic Glass</font><br>
+  <td><center>Volcanic Glass<br>
   <sup>[Pyroclast]</sup></center></td>
   <td><center>Glass Path: Crystallization<br>
   Eruption Path: Lava Serpent</center></td>
