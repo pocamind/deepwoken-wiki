@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 149412
+revid: 158526
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -164,7 +164,7 @@ _verb, adjective_
 _verb, noun_
 
 1.  Abilities/moves that allow the user to negate an attack and automatically retaliate, without the use of blocking, parrying or dodging.
-    1.  Ex. the following Mantras: [Prediction](Attunement-less.md#prediction), [Punishment](Attunement-less.md#punishment), and [Equalizer](Oath%253A_Contractor.md) are all **Counters**.
+    1.  Ex. the following Mantras: [Prediction](Attunement-less.md#prediction), [Punishment](Attunement-less.md#punishment), and [Equalizer](Oath%253A_Contractor.md#equalizer) are all **Counters**.
 2.  (Counterplay) To be an effective strategy against something in combat.
     1.  Ex. "What counters Jetstrikers?"
 

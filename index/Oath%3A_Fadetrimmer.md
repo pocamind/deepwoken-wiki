@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 156740
+revid: 158525
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,7 +89,7 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
 -   The Fadetrimmer Oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The Oath was added to the game on the July 24, 2023, almost a year later.
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
 -   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server. They can also go to a [Barber](Barber.md) and say _"Help me, barber. A most wretched cut has befallen me."_ to undo the haircut.
-    -   It also bears similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash, and Precision Cuts is very similar to Exhaustion Strike, but with more hits.
+-   Fadetrimmer moves bear similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to [Prominence Draw](Attunement-less.md#prominence-draw), as they both lunge and deliver a fast slash, and Precision Cuts is very similar to [Exhaustion Strike](Attunement-less.md#exhaustion-strike), but with more hits.
 -   The description of this Oath is a reference to the "Ginger Fringe Incident" meme.
 -   The hitbox on the Hair Products _is_ the spray visual effect, and due to this, it is nearly impossible to land in combat without setup.
     -   The spray itself does not move far from the point of use and doesn't carry the player's momentum, which makes attempting to land it while moving substantially more difficult.

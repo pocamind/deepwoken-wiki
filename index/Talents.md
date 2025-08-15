@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158503
+revid: 158528
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1472,7 +1472,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   **Cap Artist** is disabled with this Talent.
-    -   Gain total immunity to knockdowns, but only if you meet Brick Wall's requirements (Heavy critical, Starkindred's Ascension etc...) and the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md).
+    -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension, the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md), etc.), but only if you meet Brick Wall's requirements.
         -   If you have less than 100 Willpower and Fortitude, you will not gain knockdown immunity.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 

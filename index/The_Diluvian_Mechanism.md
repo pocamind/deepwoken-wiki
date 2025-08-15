@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 148539
+revid: 158533
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -71,7 +71,7 @@ While not required, things listed below can prove to make your experience much e
 -   _**[Force Your Way](Ignition_Deepdelver.md):**_ In Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
 -   _**[Tidekeeper](Celtorian_Tideknight.md):**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
 -   _**[Ardour Scream](Murmur%253A_Ardour.md):**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
--   _**[Evanspear Hand Axe](Evanspear_Greataxe.md):**_ Evanspear Hand Axe is one of the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration.
+-   _**[Evanspear Hand Axe](Evanspear_Greataxe.md):**_ Evanspear Hand Axe is one of the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed.
 -   _**[Enforcer's Axe/Hammer](<Enforcer's_Axe.md>):**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 -   [_**Pale Briar**_](Pale_Briar.md): Out of all the weapons The Pale Briar is the best choice for Diluvian, the critical being an AoE attack can deal with crowds of mobs, easily out damage Enforcer Axe and Evanspear Hand Axe.
 -   [_**Wild Enchant**_](Enchantments.md): The Wild enchant gives the weapon an AoE on basic and critical attack when it hits an enemy, best paired with The Pale Briar.
@@ -121,7 +121,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupt Owl |  |
 | 14 (CAW-CAWWW)
 
-**\*TIMEBOMB MODIFER\***
+**\*TIMEBOMB MODIFIER\***
 
  | 2 Corrupt Owls |  |
 | 15 (Mutant Galore) | 1 Corrupt Crimson Megalodaunt, 2 Corrupt Crimson Terrapods, 2 Corrupt Nightmare Threshers |  |
@@ -140,7 +140,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 24 (The Less Great Sharko Rumbling) | 1 Corrupt Megalodaunt, 1 Crimson Megalodaunt, 1 Corrupt Alpha Megalodaunt, and 1 Mechalodaunt |  |
 | 25 ("They Don't Bite" The Dogs in question:)
 
-**\*CORPSE EXPLOSION MODIFER\***
+**\*TIMEBOMB MODIFIER\***
 
  | 2 Corrupt Bounders | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
 | 26 ("The Kick Duo") | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts | Best to position yourself in a corner to reduce the constant knockback. |
@@ -153,7 +153,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Flamewreathed Mechalodaunt, 1 Corrupt Rogue Construct | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
 | 34 (Gale Fiesta)
 
-**\*TIMEBOMB MODIFER\***
+**\*TIMEBOMB MODIFIER\***
 
  | 3 Galeforce Enforcer, 1 Corrupt Galeforce Kyrsgarde-Sniper. |  |
 | 35 (Shadow Rave) | 1 Corrupt Shadowmeld Golem Prime, 1 Corrupt Shadowmeld King Thresher, 1 Corrupt Shadowmeld Owl, 3 Shadowmeld Enforcers | If you're using Corrupt Payback, make sure to watch and avoid getting hit into the air by the King Thresher and the Golem Prime. |
@@ -162,7 +162,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 38 (Burning Alaska) | 1 Corrupt Frostmantle Lionfish, 1 Corrupt Frostmantle Deep Owl, 3 Corrupt Frostmantle Kyrsgarde Snipers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Frostmantle Glacial Lionfish |  |
 | 39 (Health Pack Hell Featuring Bruce Lee)
 
-**\*HOLLOW MODIFER\***
+**\*HOLLOW MODIFIER\***
 
  | 5 Gigameds, 5 Corrupt Thunderstruck Brainsuckers, 4 Corrupt Crabs, 5 Corrupt Greater Angels, 1 Nautilodaunt | It's best to stall with one mob, such as a Gigamed, where you run around with it following you, while your teammates heal either using respite or graceful. This round can easily be one of the hardest because of the stun of multiple mobs hitting you.
 
@@ -179,7 +179,7 @@ Alternatively, if you're using Corrupt Payback, you can get rid of most of the m
 | 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Minos, Sinner of Flame, 1 Corrupt Tideknight Flamewreathed Abbadon, Sinner of Ice, 1 Corrupt Tideknight Flamewreathed Astaroth, Sinner of Wind | The Starkindred Angels can use the Starkindred mantras, so its best advised to avoid the Flame Blade Starkindred combo and the annoying ascensions and sinister halo. |
 | 44 (Starkindred's Return)
 
-**\*GHOSTLY REMINISICENCE MODIFER\***
+**\*GHOSTLY REMINISICENCE MODIFIER\***
 
  | 1 Corrupt Attuned Tideknight, Iblis The Fallen Angel | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
 | 45 (Masters on all Hands)

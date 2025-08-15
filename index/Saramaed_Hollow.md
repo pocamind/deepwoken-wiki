@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 158510
+revid: 158513
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -97,7 +97,7 @@ Exhaustive Loot Table
     <li><a href="Mantra_Modifiers.md#regular">Mantra Modifiers</a></li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
-    <li>Most <a href="Enchant_Stone.md">Enchant Stone</a> (including Astral might be bug)</li>
+    <li>Every <a href="Enchant_Stone.md">Enchant Stone</a> (excluding Astral)</li>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
     <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
     <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
