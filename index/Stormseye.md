@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 157690
+revid: 158501
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, The Summer Company, Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Description
 
-The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medallion](Kyrsan_Medallions.md) that sits in the center of the Stormseye. This invention functions by utilizing the power of Thundercall to better hit foes with charged ammunition and sharp, sudden strikes, fitting of its deliberately deadly design. It scales from Medium Weapons and the [Thundercall](Thundercall.md) Attunement
+The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medallion](Kyrsan_Medallions.md) that sits in the center of the Stormseye. This invention functions by utilizing the power of Thundercall to better hit foes with charged ammunition and sharp, sudden strikes, fitting of its deliberately deadly design. It scales from Medium Weapons and the [Thundercall](Thundercall.md) Attunement.
 
 The Stormseye comes with 2 passive abilities:
 
@@ -39,15 +39,9 @@ The Stormseye comes with 2 passive abilities:
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
     -   Due to how weapon passives work, this is one of few passives that can be transferred to another weapon equipped by abnormal means.
-    -   This includes but is not limited too-
-        -   All weapons from the [Crazy Slots](Crazy_Slots.md) Resonance;
-        -   The Sovereign Bangle from [Oath:BlightSurger](Oath%253A_Blightsurger.md);
-        -   The Saintsblade from [Oath:SaintSworn](Oath%253A_Saintsworn.md);
+        -   This includes all Soulwrought weapons from the [Crazy Slots](Crazy_Slots.md) Resonance, the Sovereign Bangle from [Blightsurger](Oath%253A_Blightsurger.md), and the Saintsblade from [Saintsworn](Oath%253A_Saintsworn.md).
 
 This weapon procs all static and electrified Talents as well as all [Thundercall](Thundercall.md) status effects, including Interrogator, proccing Surge stacks, Static Blade, and the Stratoshock buffs.
-
--   Meeting the requirement of LTN and MED, the weapon deals 26.4 damage.
--   At max LTN and MED, the weapon deals 31 damage.
 
 ## Critical
 
@@ -57,14 +51,14 @@ The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   The Stormseye is capable of using [iron bullets and other minerals.](Bullet_Casings.md)
+-   Meeting the requirement of LTN and MED, the weapon deals 26.4 damage.
+-   At max LTN and MED, the weapon deals 31 damage.
 -   The Stormseye was inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from the _Destiny_ franchise and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from the _Call of Duty_ franchise.[\[1\]](#cite-note-1)
 -   Elaborated on in its description, the Stormseye is the combination of the technology of guns and the energy of [Kyrsan Medallions](Kyrsan_Medallions.md) stolen from the Ignition Union, channeled using Thundercall.
     -   The object in the middle of the gun has a [Kyrsan Medallion](Kyrsan_Medallions.md), furthering its connection to Layer 2.
 -   Landing an aerial attack with the rifle teleporting you behind the enemy is similar to the behavior of the Static Fakeout Talent.
 -   Originally, [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) did not use this weapon and instead used the [Hero Blade of Lightning](Hero_Blades.md).
     -   According to Arch\_Mage, NPCs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[2\]](#cite-note-2)
--   The special aerial attack effect will also apply to your [Crazy Slots](Crazy_Slots.md) weapon.
 -   Contributor HorrorTM uses this weapon as an offhand.
     -   Considering the nature that the average player cannot use rifles as an offhand, it is simply known that whatever twisted hubris's man has wrought may be belonging to Witchcraft.
 

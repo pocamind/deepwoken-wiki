@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 158404
+revid: 158499
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1891,7 +1891,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[2\]](#cite-note-2)
 -   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
 -   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
--   The name Corvo is a reference to Corvo Attano, the protagonist of Dishonored.
+-   The name Corvo could be a reference to Corvo Attano, the protagonist of Dishonored.
 -   The name Dogbert is a reference to [a megalomaniacal dog](https://dilbert.fandom.com/wiki/Dogbert)
 -   The names Phos, Cinnabar, Rutile, Antarc, and Padparadscha are references to the anime and manga series, [Land of the Lustrous](https://en.wikipedia.org/wiki/Land_of_the_Lustrous).
 -   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.

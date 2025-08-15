@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 154625
+revid: 158498
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,6 +49,8 @@ If Teleportation is Drowned, you'll receive preset waypoints depending on the Lu
 
 Normal Waypoints will be colored yellow as usual. Preset waypoints will not cut into your own custom waypoint capacity, allowing you to have # number of custom waypoints coexisting with the preset waypoints of your Luminant. If you're next to a preset, holding C will allow you to go to a point you made.
 
+  
+
 In the Etrean Luminant, you are given permanent preset waypoints at the following locations:
 
 -   [Lower Erisia](Lower_Erisia.md), at the main entrance
@@ -77,6 +79,8 @@ When obtained, Teleportation will invest it's Resonance points on the following 
 -   **Charge Speed:** The more points that are invested in this stat, the faster the teleport charges.
 
 If Teleportation is Drowned, in addition to the extra Resonance points to spend, the maximum amount of points that can be invested into the Max Markers stat is increased to 7.
+
+If Teleportation is used in combat, it's cooldown is doubled upon usage.
 
 ## Trivia
 

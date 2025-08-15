@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 157594
+revid: 158482
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -190,7 +190,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
     -   If you attempt to regain the Oath, [The Dreadstar](The_Dreadstar.md) will not spawn after you survive the Ghosts on the [Beloved Zofia](Beloved_Zofia.md).
-    -   Silentheart can be reobtained if broken.
+    -   Silentheart **cannot** be reobtained if broken.
 
 -   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."

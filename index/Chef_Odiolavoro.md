@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 157516
+revid: 158426
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -18,7 +18,7 @@ Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on 
 
 ## Description
 
-Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests give you various ingredients, the new chef weapons, and the new chef hat. [Artisan](Talents.md#tavernkeep) food rewards are currently unknown. After a few orders there is a very short cooldown.
+Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests give you various ingredients, the chef weapons, and the [Chef's Toque](<Chef's_Toque.md>). [Artisan](Talents.md#tavernkeep) food rewards are currently unknown. After a few orders there is a very short cooldown.
 
 The orders are as follows:
 
