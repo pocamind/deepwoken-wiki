@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158421
+revid: 158503
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1160,8 +1160,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _The Final Act_ \[Rare Talent, Flamecharm Exclusive\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
     -   Does not have a cooldown.
+    -   Deals 5 Flamecharm damage.
     -   Will not proc on knocked NPCs/players and mobs.
-    -   Can proc with Mecha Gatling.
+    -   Can proc with [Mecha Gatling](Monster_Mantras.md#mecha-gatling).
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 13
     -   Mutual Exclusive: Eruption Path: Lava Serpent
 
@@ -2104,7 +2105,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Needle
 
--   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
+-   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
     -   Prerequisites: Using Rapier, 30 Light Weapon
 
 -   Frenzied Dance \[Common Talent, Rapier Exclusive\] - \[Rapier\] When your posture is about to collapse, you deal greater chip and posture damage.
@@ -2992,6 +2993,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### The Demon Blade
 
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast.
+    -   Deals 5 Flamecharm damage.
     -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
     -   Prerequisite: 45 Flamecharm
 

@@ -1,6 +1,6 @@
 ---
 title: Sarkale
-revid: 156110
+revid: 158511
 source: https://deepwoken.fandom.com/wiki/Sarkale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
@@ -16,7 +16,7 @@ categories: [Khan NPCs, NPCs, Layer 2, Floor 1, NPCs located in the First Floor 
 
 ## Description
 
-A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Caverns](Firfire_Caverns.md). Wearing a [Darksteel Plate](Darksteel_Plate.md) outfit, a scavenger as he so claims to be. Speaking of the caverns and advising the player to follow the various blue cubes scattered in the caves.
+A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Caverns](Firfire_Caverns.md). Wearing the [Darksteel Plate](Darksteel_Plate.md) outfit, a scavenger as he so claims to be. Speaking of the caverns and advising the player to follow the various blue cubes scattered in the caves.
 
 ## Dialogue
 
@@ -59,4 +59,4 @@ A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Cav
 
 ## Trivia
 
--   Racial variant of Sarkale is Silverback
+-   The Aspect variant of Sarkale is Silverback
