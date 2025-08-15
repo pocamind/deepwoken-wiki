@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158528
+revid: 158539
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3666,7 +3666,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Cosmic Connection: [Celestial Boots](Celestial_Boots.md) - All celestial and astral related abilities are buffed.
     -   Increases your [Astral](Astral.md) enchant damage bonus on basic attacks from +25% to +29%.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-Basic Attacks have 20% PEN.
-    -   Grants 20% Mantra PEN.
+    -   Grants +20% PEN to anything that is not a weapon attack.
+        -   Primarily, this is just 20% Mantra PEN, however this will also affect non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
+        -   [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which bypass armor, deal more damage against Reinforce than they would otherwise.
 -   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
     -   This works similarly to Collapsed Lung.
     -   Wrath Gems last 9 seconds with no visual indication.

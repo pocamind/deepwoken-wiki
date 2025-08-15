@@ -1,6 +1,6 @@
 ---
 title: Whisper Draw
-revid: 155280
+revid: 158542
 source: https://deepwoken.fandom.com/wiki/Whisper_Draw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -19,7 +19,8 @@ Whisper Draws can also be obtained from specific methods. You can only gain **1*
 -   [Kelsius](Kelsius.md)' quest
 -   Completing the [Tutorial](Tutorial.md)
 -   Escaping [The Depths](The_Depths.md) for the first time
--   Defeating any [World Boss](Bosses.md) for the first time
+-   Defeating any [World Boss](Bosses.md) for the first time (Note: this requires you to deal a considerable amount of damage)
+-   Completing [The Gaunt Man's](The_Gaunt_Man.md) experiments in [The Vat](The_Vat.md) for the first time
 
 Every Whisper Draw obtained from leveling also provides you with an [Ace](Aces.md), allowing you to either burn or freeze Mantra and Talent cards.
 

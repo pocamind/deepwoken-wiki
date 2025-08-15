@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 156879
+revid: 158545
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -1239,7 +1239,7 @@ Cryomancer
 4-CR2-5 | 60ICE | Your Light Attacks and Critical will now freeze chilled opponents on guardbreak. |
 | File:TalentCardImage2.png | Preceding Chill  
 Cryonic  
-4-CR3-1 | 60ICE  
+4-CR2-6 | 60ICE  
 [Ice Beam](Frostdraw.md#ice-beam)(☆☆☆) | Enemies hit during the last moments of your ice beam are frozen. |
 
 ## Body and Mind Hybrids 4.2.1

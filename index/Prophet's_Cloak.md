@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 155959
+revid: 158541
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Ministry]
@@ -41,7 +41,7 @@ This Outfit has 2600 durability and grants +25% Physical resistance, +25% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 40% Flamecharm, 40% Frostdraw, and 25% Elemental.
 
-This Outfit also grants the [Crippling Darkness](Talents.md#equipment-talents), grants 20% Mantra armor penetration (PEN).
+This Outfit also grants the [Crippling Darkness](Talents.md#equipment-talents) Talent, giving the user 20% PEN to any non-weapon attack, such as Mantras and Talent abilities. Additionally, because [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, Crippling darkness allows your typeless damage attacks (e.g. [Bleed](Status_Effects.md#bleed)) to deal more damage against Reinforce users than you would otherwise.
 
 ## Trivia
 

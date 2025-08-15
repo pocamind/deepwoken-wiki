@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 158353
+revid: 158544
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Legs, Boots, Items, Equipment, Craftable]
@@ -26,15 +26,15 @@ categories: [Pages with broken file links, Legs, Boots, Items, Equipment, Crafta
 
 ## Description
 
-Celestial Boots is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. Celestial Boots also grants the _Cosmic Connection_ Talent which boosts Astral and Celestial related abilities.
+Celestial Boots is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. These white plated boots are identical in appearance to the [Star Boots](Star_Boots.md) but lack Star Boots' 5 innate health. Celestial Boots also grants the [Cosmic Connection](Talents.md#equipment-talents) Talent, buffing Astral and celestial-related abilities.
 
-Cosmic Connection gives roughly a 4% increase to damage on [Astral](Astral.md) weapon m1s, but has no effect on the critical attack of the weapon.
+_Cosmic Connection_ increases [Astral](Astral.md)'s PvE damage buff by 4%, from 25% to 29%, for M1s. It has no effect on critical damage dealt however.
 
-Cosmic Connection currently reduces damage of all 3 [Starkindred](Oath%253A_Starkindred.md) mantras, but does change the damage, so it could be a bug as of now (8/12/2025)
+Cosmic Connection currently reduces the damage of all 3 [Starkindred](Oath%253A_Starkindred.md) Mantras, this could be a bug.
 
 ## Obtainment
 
-You can obtain the recipe of the Celestial boots from killing [Moon Knights](Moon_Knight.md)
+You can obtain the recipe of the Celestial boots from killing [Moon Knights](Moon_Knight.md).
 
 Celestial Boots are obtained by crafting the following items together at [The Cold Forge](The_Cold_Forge.md):
 
@@ -42,7 +42,6 @@ Celestial Boots are obtained by crafting the following items together at [The Co
 
 ## Trivia
 
--   Visually and statistically identical to [Star Boots](Star_Boots.md), but lacking the innate +5 health.
 -   Cannot be enchanted, but can be dropped and banked.
 -   According to testers there is a small chance of it being enchanted when crafted.
 

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 155967
+revid: 158534
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -46,6 +46,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
 -   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge after taking the exit portal.
+    -   Killing [The Ferryman](The_Ferryman.md) rewards you 1 Knowledge and can be repeated.
     -   Talking to [The Ferryman](The_Ferryman.md) in Spring after killing him. This rewards 1 Knowledge and can be repeated.
 -   Killing [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
     -   Killing [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 35% of his HP. This rewards 1 Knowledge and can be repeated.

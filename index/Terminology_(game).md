@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 158526
+revid: 158538
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -889,6 +889,7 @@ _verb_
 
 1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase mostly indicates friendly spars.
     1.  Ex. "Yo bro can we run 1s?"
+    2.  "run 1's rn"
 
 ### SK
 
