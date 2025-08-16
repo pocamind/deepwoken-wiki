@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 157104
+revid: 158582
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -37,9 +37,9 @@ The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a
 
 The Quartztone Pickaxe has two critical attacks. Using both criticals require Ether.
 
-For the standing critical, the user shines the pickaxe and spins it, then causing a blast in the ground that ragdolls and sends the opponents backwards.
+For the standing critical, the user shines the pickaxe and spins it, then causing a blast in the ground that ragdolls and sends the opponents backwards. Deals 1.15x your weapon's scaled damage.
 
-For the aerial critical, the user shines the pickaxe, performing a slash in the air followed by two larger slashes on the ground.
+For the aerial critical, the user shines the pickaxe, performing a slash in the air followed by two larger slashes on the ground. The first slash deals 0.33x your weapon's scaled damage, the second deals 0.3x your weapon's scaled damage, and the last slash deals 1.2x your weapon's scaled damage.
 
 Both criticals have a cooldown of **6 seconds**. Both cooldowns will count down when the user is done performing the critical.
 

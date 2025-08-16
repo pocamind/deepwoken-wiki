@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 158288
+revid: 158581
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Multiple Criticals, Heavy Weapons]
@@ -37,14 +37,14 @@ It can be found by completing the [Security Detail job](Job_Boards.md) at [Summe
 
 ## Critical
 
-The grounded critical mimics a shoulder-bash and applies knock-down.
+For the standard critical, the user rushes forward, bashing the opponent with their shoulder, knocking opponents down.
 
-The aerial critical dashes towards the cursor's position and slams into the ground, pushing targets back.
+For the aerial critical, the user leaps into the air towards the direction of the cursor, unleashing a lengthy shockwave that pushes opponents back.
 
-**The cooldown for both criticals are 10 seconds**
+Both criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 
--   The grounded critical covers a moderate distance, making it a viable option for horizontal movement.
+-   Both criticals are able to cover a moderate distance, making it viable for mobility.
 -   The aerial critical has a maximum airtime of 1 second before forcing the critical to end.
 -   Before November 23rd 2024, this weapon had more base damage than the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 29.
