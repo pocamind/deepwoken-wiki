@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 158425
+revid: 158601
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -47,7 +47,7 @@ A [speed boost](#speed-boost) triggered by executing someone while you have [Tim
 
 ### Reinforced
 
-Applied after being hit by the Mantra [Reinforce](Attunement-less.md#reinforce), do 5% more damage and get 10% defense. Allies near you will automatically gain the same effect. When buffing other people with Reinforce, the damage buff increases to 10%. You can hold your block key during Reinforce's windup to apply Reinforce to non-allies. Signified by pale yellow/lime green particles surrounding the body.
+Applied from the [Reinforce](Attunement-less.md#reinforce) Mantra and [Golden Tongue](Talents.md#silvertongue) Talent, gain 10% general damage reduction. If applied from [Reinforce](Attunement-less.md#reinforce), you will also deal 5% more damage, buffing other players will increase this damage buff to +10%. Allies near you will automatically gain the same effect. You can hold your block key during Reinforce's windup to apply Reinforce to non-allies. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Hyperarmor
 
@@ -72,6 +72,10 @@ Restore your health to maximum and get up if you are unconscious. Applied throug
 ### Run
 
 Gain a [speed boost](#speed-boost), and an unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of line trails surrounding your character.
+
+### Target Switch
+
+Your next Mantra cast is free. Procced by the [Target Switch](Talents.md#tactician) Talent. Signified by a yellow halo above the player's head.
 
 ### Rallied
 
@@ -109,9 +113,17 @@ Applied by using the [Static Withdraw](Talents.md#thundercall) Talent tool with 
 
 Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have your swing speed by 10% and movement speed increased while active. Signified by pulsating electricity around your character.
 
-### Engulfed by Shadows
+### Static Blade
 
-Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
+Applied from landing basic attacks, blocking attacks, and having your attacks parried with the [Static Blade](Talents.md#thunderblade) Talent. Gain an electric charge on your weapon, granting you a ramping speed boost. This effect has no visual indicator.
+
+### Gathering Electricity
+
+When you reach 5 Static Blade stacks, clear all stacks and gain the Gathering Electricity status effect. This increases your weapon's base damage by 3 for 15 seconds. Applied by the [Gathering Electricity](Talents.md#thunderblade) Talent.
+
+### Enhanced Dashes
+
+Your dashes are enhanced by the winds or thunder, increasing their distance travelled and i-frames granted. Applied through the [Flashwind](Specialist_Boots.md), [Overcharge](Talents.md#thunderblade), [Phantom Step](Talents.md#specter), and [Air Pressure](Talents.md#legion-shock-trooper) Talents as well as the [Lightning Cloak](Thundercall.md#lightning-cloak) Mantra. Signified by your blade being enveloped in wind or thunder particles.
 
 ### Ghastly Mobility
 
@@ -120,6 +132,10 @@ Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform
 ### Haunted
 
 Upon landing any Mantra while the Haunted is in effect, your opponent will be struck by a ghost, dealing additional Galebreathe damage. Haunted is applied through the [Haunted Gale](Talents.md#whisper) Talent. Haunted has an 8 second duration, this can be increased with [Gale Wisp](Galebreathe.md#gale-wisp), adding 3 seconds for a total of 11 seconds. Signified by a green ghost levitating above your head.
+
+### Engulfed by Shadows
+
+Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
 
 ### Adrenaline Surge
 
@@ -191,7 +207,7 @@ Apply charm every basic attack and Mantra landed, even without having the Charis
 
 ### Inspired
 
-Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through perfect-casting and parrying Mantras. Casting any Mantra will consume this status effect and grant a 10% damage buff to said Mantra. Inspired lasts 30 seconds, but will be instantly consumed if the procced via perfect-casting. Signified by a light blue hue and outline surrounding your character on proc.
+Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through landing and parrying Mantras. Casting any Mantra will consume this status effect and grant a 10% damage buff to said Mantra. Inspired lasts 30 seconds, but will be instantly consumed if the procced via landing Mantras. Signified by a light blue hue and outline surrounding your character on proc.
 
 ### Entangled Defence
 
@@ -231,9 +247,17 @@ Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [T
 -   **Now You See Me...** - A very short duration invisibility. Signified by the same visual effect that [Visionshaper's Cheap Trick](Oath%253A_Visionshaper.md#abilities) has and Aelita/Tillian saying "Woah, neat trick! Do it again!".
 -   **Tempo Gain** - Grants ~18% Tempo. Signified by a light blue [Reinforce](Attunement-less.md#reinforce)\-like effect and Aelita/Tillian saying "On your toes, dummy!".
 -   **Posture Clear** - Restores 30% of your current Posture. Signified by [Rally's](Attunement-less.md#rally) shield clanging sound effect and Aelita/Tillian saying "Hit 'em while they're open!".
--   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#racial-traits) and Aelita/Tillian saying "First one's always free!".
+-   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#traits) and Aelita/Tillian saying "First one's always free!".
 -   **Vent Reset** - Resets your Vent cooldown, allowing you to use it again. No visual effect, instead signified by Aelita/Tillian saying "Need a Break? I've got you!".
 -   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you. This has a short activation window of only a few seconds. No visual effect, instead signified by Aelita/Tillian saying "Tsk, barely a flesh wound!".
+
+### Krulian Charge
+
+Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a [speed boost](#speed-boost) for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
+
+### Enlightened
+
+Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with extended hyperarmor and gain hyperarmor for the running critical. This status effect is applied by landing hits with the tip of the Imperator's Edge and is signified by a yellow halo above the character's head.
 
 ## Harmful Status Effects
 

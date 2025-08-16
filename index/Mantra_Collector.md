@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 149812
+revid: 158609
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, Vendors]
@@ -69,7 +69,7 @@ Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for 
 
 ## Trivia
 
--   As of the July 7th, 2025 update, Croissant was unfortunately removed from the [Voidheart](Voidheart.md).
+-   In the July 7th, 2025 update, Croissant was removed from the [Voidheart](Voidheart.md).
 -   Most of them are named after German meat dishes.
     -   Schnitzel is a thin slice of meat, which is usually breaded then fried.
     -   Hotdog refers to a sausage in a bun.

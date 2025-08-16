@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 157455
+revid: 158589
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hollowtide Medal [7 Knowledge], Trial of The Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper |
 | description | Upon holding the blade, it feels as if the skulls adorning it are warm, somehow. What is this, truly? |
 
 ## Description

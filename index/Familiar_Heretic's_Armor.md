@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 156164
+revid: 158594
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
 | durability | 1300 |
 | resistances | +15% Physical Armor, +10% Slash, +25% Fire Armor |
 | talents | Lowstride |
-| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hollowtide '24 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
+| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '24 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
 | selling_price | 10 |
 | weight | 1 |
 

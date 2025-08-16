@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 157301
+revid: 158604
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -174,8 +174,9 @@ Gain a speed boost before leaping into the air and crashing down at your cursor.
 
 ## Trivia/Notes
 
--   The Soulwrought weapons carry over the weapon quality bonus and [enchant](Enchantments.md) from your main weapon.
-    -   They can carry over other effects as well such as [Pleeksty's Inferno's](<Pleeksty's_Inferno.md>) burn on M1 if you have the [Simmerbloom Diadem](Simmerbloom_Diadem.md) equipped.
+-   The Soulwrought weapons carry over the weapon quality bonus (stars) and [enchant](Enchantments.md) from your main weapon.
+    -   They can carry over legendary weapon unique effects as well such as [Pleeksty's Inferno's](<Pleeksty's_Inferno.md>) burn on M1 if you have the [Simmerbloom Diadem](Simmerbloom_Diadem.md) equipped, [Stormseye's](Stormseye.md) aerial attack effect, [Imperator's Edge's](<Imperator's_Edge.md>) Enlightenment stacks, etc.
+-   Soulwrought weapons **cannot** use [Motifs](Motifs.md)
 -   The exceptionally high base damage for each weapon makes them especially powerful in PvE; it is a tried-and-true choice for M1 builds.
 -   The designs of the Soulwrought weapons were inspired by weapons from other media:
     -   The Soulwrought Longsword resembles the _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_ from the [_Fate_](https://typemoon.fandom.com/wiki/Fate_series) series.
@@ -185,7 +186,7 @@ Gain a speed boost before leaping into the air and crashing down at your cursor.
     -   The Soulwrought Dagger resembles one of Victor Swords from [_Immortals: Fenyx Rising_](https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/).
 -   This Resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
 -   This Resonance may also be inspired by the "_Shardblades"_ from _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, which are powerful summonable weapons that produce white mist when materialized.
--   The Soulwrought Flintlock is one of the only three pistols in the game to play a unique sound on M1/crit, alongside the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>).
+-   The Soulwrought Gun is one of the only three pistols in the game to play a unique sound on M1/crit, alongside the [Iron Requiem](Iron_Requiem.md) and [Rosen's Roscoe](<Rosen's_Roscoe.md>).
 -   The Soulwrought weapons can actually be wielded without the Resonance, though whether or not there is a reason for this has yet to be explained.
     -   The [Golden Warriors](Golden_Warrior.md) found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Soulwrought Greataxes.
     -   The [Sworn Angels](Sworn_Angel.md) found in the [Trial of One](Trial_of_One.md) both wield Soulwrought Spears.

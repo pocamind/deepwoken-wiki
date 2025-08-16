@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 153351
+revid: 158593
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Event Only Content, Hallowtide]
@@ -55,4 +55,4 @@ Clicking on the ability to select it and then clicking anywhere on the screen wi
 
 ### Spectral Instruments
 
-**During the [Hallowtide](Hallowtide.md) event, the Spectral Instruments can be bought from [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) for 200 Joy. They can also be bought at any time from any [Blacksmith](Blacksmith.md) if you have the [Hollowtide 2024 Medal](Seasonal_Medals.md) for 10 Knowledge.**
+**During the [Hallowtide](Hallowtide.md) event, the Spectral Instruments can be bought from [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) for 200 Joy. They can also be bought at any time from any [Blacksmith](Blacksmith.md) if you have the [Hallowtide 2024 Medal](Seasonal_Medals.md) for 10 Knowledge.**

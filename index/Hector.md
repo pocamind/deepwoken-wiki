@@ -1,11 +1,9 @@
 ---
 title: Hector
-revid: 154684
+revid: 158608
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
 ---
 
 # Hector
@@ -22,7 +20,7 @@ Hector is an Adret NPC who gives the player info on the Merit Detainment Core's 
 
 ## Location
 
-Hector is located in the Merit Detainment Core.
+Hector is located in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Dialogue
 

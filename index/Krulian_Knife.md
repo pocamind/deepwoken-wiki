@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 157205
+revid: 158597
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
@@ -37,11 +37,15 @@ The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defea
 
 ## Critical
 
-The user raises the knife into the sky, causing pink lightning to strike the weapon and giving the user the Krulian Charge effect, causing their weapon to be electrified with pink lightning.
+The user raises the knife into the sky, causing pink lightning to strike the weapon and giving the user the Krulian Charge effect, causing their weapon to be electrified with pink lightning for 10 seconds.
 
-While under the Krulian Charge effect, using basic attacks applies [Shocked](Status_Effects.md#shock) as well as the critical causing the user to rush forward with lightning similar to the [Lightning Assault](Thundercall.md#lightning-assault-) mantra.
+While under the Krulian Charge effect, using basic attacks applies a purple [Shocked](Status_Effects.md#shock) and you gain a speed boost for the full duration of this effect. Additionally, this replaces your critical with a Thundercall rush-down attack, similar to [Lightning Assault](Thundercall.md#lightning-assault).
 
 This attack has 30 base damage with **5 Thundercall** scaling, increasing by 0.15 per point in Thundercall.
+
+Using your critical attack while Krulian Charge is on cooldown will use the default Dagger critical.
+
+Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assault critical has a 5 second cooldown. The default dagger critical has a 3 second cooldown.
 
 ## Trivia
 

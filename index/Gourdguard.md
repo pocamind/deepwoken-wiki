@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 156142
+revid: 158591
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
@@ -19,7 +19,7 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hollowtide Medal [5 Knowledge] |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [5 Knowledge] |
 | description | ... |
 
 ## Description
