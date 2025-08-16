@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 158284
+revid: 158554
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -98,7 +98,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
   <td><div><p>Weapon deals 1.07x damage and inflicts <a href="Status_Effects.md#deferred">Deferred</a>, which deals damage overtime.<br>
-  Damage is dealt over 2.5 seconds in 10% increments. The damage overtime cannot be avoided once applied.</p></div></td>
+  Damage is dealt over 2.5 seconds in 10% increments. The damage overtime cannot be avoided once applied.<br>
+  Nullifies your weapon's innate bleed damage, making it do less overall damage even with the 7% buff.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -136,9 +137,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Harrowing<div></div></font></center></td>
-  <td><div><p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
-  This effect lasts for 12 seconds.<br>
-  Can only be obtained from the Hallowtide event.</p></div></td>
+  <td><div><p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, which hides how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.<br>
+  This effect lasts for 12 seconds.</p>
+  <p>Bought from <a href="Glaive_Spellhardt.md">Glaive Spellhardt</a> for 100 Joy during <a href="Hallowtide.md">Hallowtide</a> or from any <a href="Blacksmith.md">Blacksmith</a> for 10 if you have the <a href="Seasonal_Medals.md">Hallowtide '23 Medallion</a>.</p></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
 </tr>
 <tr>
@@ -296,12 +297,12 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
-  <td><div><p>When landing weapon attacks, deal 85% of your weapon damage in an AoE. This does not hit the initial victim.<br>
+  <td><div><p>When landing weapon attacks, deal 85% of your scaled damage in an AoE. This does not hit the initial victim.<br>
   The AoE has a radius of ~18.25 studs.<br>
   Only one AoE can proc at a time, two enemies can't be hit at once to proc two AoEs.<br>
   If you hit two people with the same attack, one person will get hit with both Wild and your attack, dealing much more damage.<br>
   Wild's damage is typeless.<br>
-  Allies only take 50% of your weapon's damage from the Wild procs instead of the full 85%.</p></div></td>
+  Allies only take 50% of your scaled damage from the Wild procs instead of the full 85%.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
 <tr>

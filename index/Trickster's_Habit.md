@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 151528
+revid: 158564
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | durability | 2500 |
 | resistances | +20% Physical Armor, +15% Blunt Armor, +35% Elemental Armor |
 | buffs | +50% Ether Regen |
-| talents | Mocking Favor |
+| talents | Mocking FavorNot A Scratch |
 | obtainment | Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
@@ -43,7 +43,8 @@ This Outfit has 2500 durability and grants +20% Physical resistance, +15% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32% Blunt, 20% Slash, and 35% Elemental.
 
-This Outfit also grants the [Mocking Favor](Talents.md#equipment-talents) Talent, causing Aelita to appear when you taunt (spit) or emote. She'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.
+This Outfit also grants the [Mocking Favor](Talents.md#equipment-talents) Talent, causing Aelita to appear when you taunt (spit) or emote. She'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.  
+It also grants the [Not A Scratch](Talents.md#human-architecture) talent, causing you to no longer show any signs of damage no matter how low your HP is. No cuts, no scratches, no torn clothing, rhythm ping always white, etc.
 
 List of buffs being:
 
@@ -68,3 +69,4 @@ List of afflictions being:
 -   This Outfit shares identical stats with [Jester's Garb](<Jester's_Garb.md>), the outfit worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
 -   The ''Black cross'' effect, procs the [talent](Talents.md) ''Charged return'' granting 10% increased DMG while under its effect.
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
+-   This outfit's "Not A Scratch" functions as normal even if your willpower is below 100.

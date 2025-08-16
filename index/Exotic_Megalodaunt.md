@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 153694
+revid: 158551
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -14,7 +14,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid shark [monster](Monsters.md). This [Megalodaunt](Megalodaunt.md) variant is said to be really rare to spawn and it is unknown where it spawns no one has seen it spawn naturally all sightings of this mob were by developers spawning them in
+The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid shark [monster](Monsters.md). This [Megalodaunt](Megalodaunt.md) variant is a rare spawn and it spawns in the [First Layer](First_Layer.md). It is unknown where else it may spawn.
 
 ## Attacks
 
@@ -134,6 +134,7 @@ Dodgeable: ◯
 -   Their thousand needles (either variant) can be parried by simply tapping F once due to Autoparry frames, and allows you to get as many hits in as a Kick would.
 -   Do not try to stat check this mob because it will most likely kill you faster than you can kill it
 -   Try to get help in killing it as in one person can parry it and the others can deal damage
+-   [Run It Back](Run_It_Back.md) makes it way easier.
 
 ## Passives
 

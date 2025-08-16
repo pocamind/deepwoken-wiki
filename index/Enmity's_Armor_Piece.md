@@ -1,6 +1,6 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 157507
+revid: 158567
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158539
+revid: 158563
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -989,7 +989,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 15 Strength
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
 
--   Precise Swing \[Common Talent\] - After landing a critical your next light attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
+-   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical hits a block, this Talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
@@ -3065,6 +3065,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Windup Battery \[Common Talent, Thundercall Exclusive\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
     -   Applies this bonus to non-Thundercall Mantras.
     -   Requirement: 30 Thundercall, 30 Intelligence
+    -   The old Jolt Cast Talent was reworked into this.
 
 ### Thunderblade
 

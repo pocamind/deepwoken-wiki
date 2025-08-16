@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 152961
+revid: 158549
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -44,7 +44,7 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
     -   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) \[7 Knowledge\]
     -   [Gourdguard](Gourdguard.md) \[5 Knowledge\]
     -   [Pumpkin Pitch](Pumpkin_Pitch.md) \[10 Knowledge\]
-    -   [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) \[10 Knowledge\]
+    -   [Harrowing](Harrowing.md) [Enchant Stone](Enchant_Stone.md) \[10 Knowledge\]
 
 -   **Hallowtide '24 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2024.
     -   [Spectral Grasp](Spectral_Grasp.md) \[7 Knowledge\]

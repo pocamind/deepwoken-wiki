@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 158545
+revid: 158569
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Attribute Trees
 
-Talent Trees documented so far in [Talents](Talents.md): 60/195  
+Talent Trees documented so far in [Talents](Talents.md): 64/195  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
 Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[15 Fortitude OR 15 Willpower, 30 intelligence, Other\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Invalid "Hyperlink".
@@ -286,11 +286,12 @@ Chainwarden
     3.  [Intelligence (INT)](#intelligence-hybrids-224)
     4.  [Willpower (WIL)](#willpower-hybrids-225)
 3.  [Attunement (ELM)](#attunement-hybrids-226)
-    1.  [Shadowcast (SDW)](#shadowcast-hybrids-227)
-4.  [Oaths](#oaths-228)
-    1.  [Arcwarder](#arcwarder-229)
-    2.  [Blightsurger](#blightsurger-2210)
-    3.  [Chainwarden](#chainwarden-2210)
+    1.  [Flamecharm (FIR)](#flamecharm-hybrids-227)
+    2.  [Shadowcast (SDW)](#shadowcast-hybrids-228)
+4.  [Oaths](#oaths-229)
+    1.  [Arcwarder](#arcwarder-2210)
+    2.  [Blightsurger](#blightsurger-2211)
+    3.  [Chainwarden](#chainwarden-2212)
 
 ## Exclusive 2.2.0
 
@@ -307,6 +308,12 @@ Bastion
 Comrade  
 4-CO3-2 | 40FTD  
 [Reinforce](Attunement-less.md#reinforce)(☆☆☆) | Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others. |
+| File:TalentCardImage2.png | Exoskeleton  
+Freak of Nature  
+4-FR1-1 | 40FTD | You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health) |
+| File:TalentCardImage2.png | To the Finish  
+Freak of Nature  
+4-FR1-2 | 50FTD | You take 10% less damage when below 30% health. (+5 Health) |
 | File:TalentCardImage2.png | Dancing Guard  
 Bulwark  
 4-BU1-2 | 55FTD | Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s. |
@@ -380,7 +387,16 @@ Bastion
 
 ## Attunement Hybrids 2.2.6
 
-### Shadowcast Hybrids 2.2.7
+### Flamecharm Hybrids 2.2.7
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Cauterized Wounds  
+Flame Warden  
+4-FL2-1 | 5FTD  
+40FIR | Blood loss from all sources is lowered. (+1 Passive Agility) |
+
+### Shadowcast Hybrids 2.2.8
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -394,9 +410,9 @@ Comrade
 40SDW  
 [Reinforce](Attunement-less.md#reinforce)(☆☆☆)) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
 
-## Oaths 2.2.8
+## Oaths 2.2.9
 
-### Arcwarder 2.2.9
+### Arcwarder 2.2.10
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -427,7 +443,7 @@ Arcwarder
 4-AR1-6 | Arcwarder  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
-### Blightsurger 2.2.10
+### Blightsurger 2.2.11
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -457,7 +473,7 @@ Blightsurger
 4-BL3-6 | Blightsurger  
 [Other](Talents.md#blightsurger) | Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities. |
 
-### Chainwarden 2.2.11
+### Chainwarden 2.2.12
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -484,10 +500,12 @@ Chainwarden
 3.  [Weapon (WEP)](#weapon-hybrids-235)
     1.  [Light (LHT)](#light-hybrids-236)
 4.  [Attunement (ELM)](#attunement-hybrids-237)
-    1.  [Galebreathe (WND)](#galebreathe-hybrids-238)
-5.  [Oaths](#oaths-239)
-    1.  [Bladeharper](#bladeharper-2310)
-    2.  [Blightsurger](#blightsurger-2311)
+    1.  [Flamecharm (FIR)](#flamecharm-hybrids-238)
+    2.  [Frostdraw (ICE)](#frostdraw-hybrids-239)
+    3.  [Galebreathe (WND)](#galebreathe-hybrids-2310)
+5.  [Oaths](#oaths-2311)
+    1.  [Bladeharper](#bladeharper-2312)
+    2.  [Blightsurger](#blightsurger-2313)
 
 ## Exclusive 2.3.0
 
@@ -601,7 +619,31 @@ Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack 
 
 ## Attunement Hybrids 2.3.7
 
-### Galebreathe Hybrids 2.3.8
+### Flamecharm Hybrids 2.3.8
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Warding Radiance  
+Flame Warden  
+4-FL2-2 | 20AGL  
+30FIR | Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility) |
+| File:TalentCardImage2.png | Flamewalker  
+Flame Warden  
+4-FL2-3 | 25AGL  
+40FIR  
+Warding Radiance | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) |
+
+### Frostdraw Hybrids 2.3.9
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Glacial Mobility  
+Frost Forger  
+4-FR2-1 | 20AGL  
+20ICE  
+[Ice Blade](Frostdraw.md#ice-blade)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
+
+### Galebreathe Hybrids 2.3.10
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -610,9 +652,9 @@ Aeromancer
 4-AE2-1 | 30AGL  
 35WND | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility) |
 
-## Oaths 2.3.9
+## Oaths 2.3.11
 
-### Bladeharper 2.3.10
+### Bladeharper 2.3.12
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -640,7 +682,7 @@ Bladeharper
 4-BL1-6 | Oath: Bladeharper  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
-### Blightsurger 2.3.11
+### Blightsurger 2.3.13
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -807,9 +849,11 @@ Dark God | Knocking out an enemy in combat restores a portion of your ether. |
     1.  [Strength (STR)](#strength-hybrids-252)
     2.  [Fortitude (FTD)](#fortitude-hybrids-253)
     3.  [Intelligence (INT)](#intelligence-hybrids-254)
-3.  [Oaths](#oaths-255)
-    1.  [Blindseer](#blindseer-256)
-    2.  [Chainwarden](#chainwarden-257)
+3.  [Attunement (ELM)](#attunement-hybrids-255)
+    1.  [Flamecharm (FIR)](#flamecharm-hybrids-256)
+4.  [Oaths](#oaths-257)
+    1.  [Blindseer](#blindseer-258)
+    2.  [Chainwarden](#chainwarden-259)
 
 ## Exclusive 2.5.0
 
@@ -866,9 +910,20 @@ Alchemist
 30INT  
 [Other](Talents.md#alchemist) | You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you. |
 
-## Oaths 2.5.5
+## Attunement Hybrids 2.5.5
 
-### Blindseer 2.5.6
+### Flamecharm Hybrids 2.5.6
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Azure Flames  
+Flamecharmer  
+4-FL3-5 | 40WIL  
+70FIR | Many of your flames turn blue, signifying their increased intensity. |
+
+## Oaths 2.5.7
+
+### Blindseer 2.5.8
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -882,7 +937,7 @@ Blindseer
 4-BL2-2 | Oath: Blindseer  
 [Other](Talents.md#blindseer) | The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted. |
 
-### Chainwarden 2.5.7
+### Chainwarden 2.5.9
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1107,16 +1162,30 @@ Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack 
 1.  [Exclusive](#exclusive-410)
 2.  [Body and Mind](#body-and-mind-hybrids-411)
     1.  [Strength (STR)](#strength-hybrids-412)
-    2.  [Intelligence (INT)](#intelligence-hybrids-413)
-3.  [Attunement (ELM)](#attunement-hybrids-414)
-    1.  [Bloodrend (BLD)](#bloodrend-hybrids-415)
-4.  [Oaths](#oaths-416)
-    1.  [Arcwarder](#arcwarder-417)
+    2.  [Fortitude (FTD)](#fortitude-hybrids-413)
+    3.  [Agility (AGL)](#agility-hybrids-414)
+    4.  [Intelligence (INT)](#intelligence-hybrids-415)
+    5.  [Willpower (WIL)](#willpower-hybrids-416)
+3.  [Attunement (ELM)](#attunement-hybrids-417)
+    1.  [Frostdraw (ICE)](#frostdraw-hybrids-418)
+    2.  [Bloodrend (BLD)](#bloodrend-hybrids-419)
+4.  [Oaths](#oaths-4110)
+    1.  [Arcwarder](#arcwarder-4111)
 
 ## Exclusive 4.1.0
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Flamecharmer  
+Flamecharmer  
+4-FL3-1 | 1FIR  
+[Trainer](Amashi,_Master_of_Flame.md) | Grants you the ability to command Fire as a Flamecharmer. |
+| File:TalentCardImage2.png | Adept Flamecharmer  
+Flamecharmer  
+4-FL3-2 | 20FIR | You can now obtain 1-Star Leveled Flamecharmer Mantras. |
+| File:TalentCardImage2.png | Produce Spark  
+Flamecharmer  
+4-FL3-6 | 20FIR | A simple production of Flame for the use of making Campfires. |
 |  | Flame Within  
 Amoran Seeker  
 4-AM1-1 | 25FIR | An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage. |
@@ -1124,13 +1193,25 @@ Amoran Seeker
 Falling Star Guard  
 4-FA2-1 | 25FIR  
 ["Rising" Mantra](Talents.md#falling-star-guard) | Aerial moves will follow up into a devastating slam. |
+| File:TalentCardImage2.png | Expert Flamecharmer  
+Flamecharmer  
+4-FL3-3 | 30FIR | You can now obtain 2-Star Leveled Flamecharmer Mantras. |
 | File:TalentCardImage2.png | Dancing Steps  
 Flame Dancer  
 4-FL1-1 | 35FIR  
 Power 8 | Fire mantras now move you in the direction you're facing. |
+| File:TalentCardImage2.png | Hell's Partisan  
+Flame Warden  
+4-FL2-4 | 35FIR  
+[Fire Forge](Flamecharm.md#fire-forge)(★☆☆)/Warding Radiance | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) |
+| File:TalentCardImage2.png | Unyielding Inferno  
+4-FL3-7 | 35FIR | Your flames burn just as strong even in the fiercest of storms. |
 | File:TalentCardImage2.png | Phoenix Impact  
 4-FA2-2 | 40FIR  
 Meteor Impact | If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. |
+| File:TalentCardImage2.png | Master Flamecharmer  
+Flamecharmer  
+4-FL3-4 | 50FIR | You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health) |
 | File:TalentCardImage2.png | The Final Act  
 Flame Dancer  
 4-FL1-3 | 60FIR  
@@ -1153,7 +1234,30 @@ Duelist Flame
 25STR  
 Flame Bind(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
 
-### Intelligence Hybrids 4.1.3
+### Fortitude Hybrids 4.1.3
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Cauterized Wounds  
+Flame Warden  
+4-FL2-1 | 40FIR  
+5FTD | Blood loss from all sources is lowered. (+1 Passive Agility) |
+
+### Agility Hybrids 4.1.4
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Warding Radiance  
+Flame Warden  
+4-FL2-2 | 30FIR  
+20AGL | Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility) |
+| File:TalentCardImage2.png | Flamewalker  
+Flame Warden  
+4-FL2-3 | 40FIR  
+25AGL  
+Warding Radiance | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) |
+
+### Intelligence Hybrids 4.1.5
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1162,9 +1266,27 @@ Elementalist
 4-EL1-1 | 20ELM  
 90INT | Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. |
 
-## Attunement Hybrids 4.1.4
+### Willpower Hybrids 4.1.6
 
-### Bloodrend Hybrids 4.1.5
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Azure Flames  
+4-FL3-5 | 70FIR  
+40WIL | Many of your flames turn blue, signifying their increased intensity. |
+
+## Attunement Hybrids 4.1.7
+
+### Frostdraw Hybrids 4.1.8
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Temperature Shock  
+Flashfreeze  
+4-FL4-1 | 40FIR  
+40ICE  
+Glass Path: Crystallization | Your fire mantras now detonate any stacked crystals. |
+
+### Bloodrend Hybrids 4.1.9
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1173,9 +1295,9 @@ Bloodsong
 4-BL6-6 | 40FIR  
 40BLD | Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood. |
 
-## Oaths 4.1.6
+## Oaths 4.1.10
 
-### Arcwarder 4.1.7
+### Arcwarder 4.1.11
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1210,10 +1332,12 @@ Arcwarder
 
 1.  [Exclusive](#exclusive-420)
 2.  [Body and Mind](#body-and-mind-hybrids-421)
-    1.  [Intelligence (INT)](#intelligence-hybrids-422)
-3.  [Attunement (ELM)](#attunement-hybrids-423)
-    1.  [Thundercall (LTN)](#thundercall-hybrids-424)
-    2.  [Bloodrend (BLD)](#bloodrend-hybrids-425)
+    1.  [Agility (AGL)](#agility-hybrids-422)
+    2.  [Intelligence (INT)](#intelligence-hybrids-423)
+3.  [Attunement (ELM)](#attunement-hybrids-424)
+    1.  [Flamecharm (FIR)](#flamecharm-hybrids-425)
+    2.  [Thundercall (LTN)](#thundercall-hybrids-426)
+    3.  [Bloodrend (BLD)](#bloodrend-hybrids-427)
 
 ## Exclusive 4.2.0
 
@@ -1238,13 +1362,23 @@ Haunted Gale
 Cryomancer  
 4-CR2-5 | 60ICE | Your Light Attacks and Critical will now freeze chilled opponents on guardbreak. |
 | File:TalentCardImage2.png | Preceding Chill  
-Cryonic  
+Cryomancer  
 4-CR2-6 | 60ICE  
 [Ice Beam](Frostdraw.md#ice-beam)(☆☆☆) | Enemies hit during the last moments of your ice beam are frozen. |
 
 ## Body and Mind Hybrids 4.2.1
 
-### Intelligence Hybrids 4.2.2
+### Agility Hybrids 4.2.2
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Glacial Mobility  
+Frost Forger  
+4-FR2-1 | 20ICE  
+20AGL  
+[Ice Blade](Frostdraw.md#ice-blade)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
+
+### Intelligence Hybrids 4.2.3
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1257,9 +1391,19 @@ Elementalist
 4-EL1-1 | 20ELM  
 90INT | Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. |
 
-## Attunement Hybrids 4.2.3
+## Attunement Hybrids 4.2.4
 
-### Thundercall Hybrids 4.2.4
+### Flamecharm Hybrids 4.2.5
+
+| Media | Talent | Prerequisites | Card Description |
+| --- | --- | --- | --- |
+| File:TalentCardImage2.png | Temperature Shock  
+Flashfreeze  
+4-FL4-1 | 40ICE  
+40FIR  
+Glass Path: Crystallization | Your fire mantras now detonate any stacked crystals. |
+
+### Thundercall Hybrids 4.2.6
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1269,7 +1413,7 @@ Doomsday Engine
 40LTN  
 Static Link | Landing a critical with a Static Link on your opponent applies Chilled. |
 
-### Bloodrend Hybrids 4.2.5
+### Bloodrend Hybrids 4.2.7
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
@@ -1677,7 +1821,8 @@ Bloodsong
 | --- | --- | --- | --- |
 | File:TalentCardImage2.png | Bloodrender  
 Bloodrender  
-4-BL5-1 | 1BLD | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. |
+4-BL5-1 | 1BLD  
+[Trainer](Vyrelda,_Master_of_Blood.md) | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. |
 | File:TalentCardImage2.png | First Blood  
 Bloodrender  
 4-BL5-6 | 10BLD | Your first blood mantra you use in combat has no blood cost. |
