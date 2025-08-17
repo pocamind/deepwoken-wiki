@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 158617
+revid: 158671
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -389,7 +389,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   Check <a href="#trivia">Trivia</a> for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
-  When sheathed, the weapon model is completely invisible.</div></td>
+  When sheathed, the weapon model is completely invisible (currently bugged(?)).</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -424,7 +424,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Can autogrip if it procs self damage at low enough health.<br>
   These effects are mutually exclusive and share a cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
-  When sheathed, the weapon is completely invisible.</div></td>
+  When sheathed, the weapon is completely invisible (currently bugged)</div></td>
 </tr>
 </tbody>
 </table>

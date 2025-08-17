@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 157601
+revid: 158665
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -96,14 +96,17 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
   <td colspan="3">If you attempt to buy something at max carry capacity</td>
 </tr>
 <tr>
-  <td colspan="3">(Shop UI can be seen below)<br>
-  Here's the current lineup. Try not to drool.</td>
+  <td colspan="3">Here's the current lineup. Try not to drool.</td>
   <td colspan="3">Done deal! Come back in a lil' bit when I haul some new goodies up here, yeh?</td>
   <td colspan="3">You're short now, pal. Come back when you're not drowned broke, yeah?</td>
   <td colspan="3">Ugh you're carrying way too much. Come back when you're not a walking junk pile.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="3"><font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
+  <td colspan="9">End</td>
+</tr>
+<tr>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
@@ -116,19 +119,21 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">When accessing the Black market</td>
-  <td colspan="6">Speaking to him after purchasing something</td>
+  <td colspan="4">When accessing the Black market</td>
+  <td colspan="4">After purchasing something</td>
+  <td colspan="4">Speaking to him after purchasing something</td>
 </tr>
 <tr>
-  <td colspan="6">Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td>
-  <td colspan="6">Y'already bought from me tonight. Don't get greedy, I've got other folks to barter with.</td>
+  <td colspan="4">Keep your voice down... here's tonight's haul. Purchase limit of one item each, this stock's very limited.</td>
+  <td colspan="4">Thanks for the sale. Come back later for my usual wares. I'll always have things in stock.</td>
+  <td colspan="4">Y'already bought from me tonight. Don't get greedy, I've got other folks to barter with.</td>
 </tr>
 <tr>
-  <td colspan="6">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td>
-  <td colspan="6">End</td>
+  <td colspan="4">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td>
+  <td colspan="8">End</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 154198
+revid: 158663
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics, Quests, Vendors]
