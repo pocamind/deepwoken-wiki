@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 157938
+revid: 158660
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Eastern Luminant, The Central Authority]
@@ -81,7 +81,7 @@ _See [Legion Intelligence](Legion_Intelligence.md) on how to obtain the item._
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a> (particularly <a href="Might_Gem.md">Might</a> and <a href="Wrath_Gem.md">Wrath Gems</a>), <a href="Dying_Embers.md">Dying Embers</a>, <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, Master Key, Override Key, Release Key, <a href="Spark_Gland.md">Spark Gland</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Wardens Armor Piece</font></a>.</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorers Needle</a>, <a href="Bluster.md">Bluster Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Stone.md">Stone Enchant Stone</a>, <a href="Storm.md">Storm Enchant Stone</a>, <a href="Windswept.md">Windswept Enchant Stone</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorers Needle</a>, <a href="Bluster.md">Bluster Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Stone.md">Stone Enchant Stone</a>, <a href="Storm.md">Storm Enchant Stone</a>, <a href="Windswept.md">Windswept Enchant Stone</a>.</li>
   </ul></td>
 </tr>
 <tr>

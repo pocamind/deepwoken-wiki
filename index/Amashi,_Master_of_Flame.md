@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 152655
+revid: 158650
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -69,25 +69,30 @@ Amashi executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Passion. It beams out from your eyes like torchlight. But with no medium to wield it, it leaves only cinders.</td>
+  <td colspan="2">Passion. It beams out from your eyes like torchlight. But with no medium to wield it, it leaves only cinders.</td>
 </tr>
 <tr>
-  <td colspan="12">What do you mean?</td>
+  <td colspan="2">What do you mean?</td>
 </tr>
 <tr>
-  <td colspan="12">Fire is the heat of rage, but also the warmth of compassion. Do you wish to tame it as a <a href="Glossary.md#flamecharm">Flamecharmer</a>?</td>
+  <td colspan="2">Fire is the heat of rage, but also the warmth of compassion. Do you wish to tame it as a <a href="Glossary.md#flamecharm">Flamecharmer</a>?</td>
 </tr>
 <tr>
-  <td colspan="12">Yes, what would you have me do?</td>
+  <td colspan="2">Yes, what would you have me do?</td>
 </tr>
 <tr>
-  <td colspan="12">Bring me 5 Dying Embers, Then we can continue</td>
+  <td>Player has unlocked Flamecharm before</td>
+  <td>Player has not unlocked Flamecharm before</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>Bring me <b>2 Dying Embers</b>, Then we can continue</td>
+  <td>Bring me <b>5 Dying Embers</b>, Then we can continue</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
@@ -97,56 +102,74 @@ Amashi executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Have you done what I asked?</td>
+  <td colspan="4">Have you done what I asked?</td>
 </tr>
 <tr>
-  <td colspan="6">Here. (Sufficient Dying Embers)</td>
-  <td colspan="6">Here. (No Dying Embers)</td>
+  <td colspan="4">Here.</td>
 </tr>
 <tr>
-  <td colspan="6">*They take the embers and crush each of them into a glass vial, ash falling in.*</td>
-  <td colspan="6">Hm. You have not brought me the 5 Dying Embers I require to assist you...</td>
+  <td colspan="2">Player has Dying Embers</td>
+  <td colspan="2">Player does not have Dying Embers</td>
 </tr>
 <tr>
-  <td colspan="6">What is that you're doing?</td>
-  <td colspan="6">End</td>
+  <td colspan="2"><i>*They take the embers and crush each of them into a glass vial, ash falling in.*</i></td>
+  <td>Player has unlocked Flamecharm before</td>
+  <td>Player has not unlocked Flamecharm before</td>
 </tr>
 <tr>
-  <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
+  <td colspan="2">What is that you're doing?</td>
+  <td>Hm. You have not brought me the <b>2 Dying Embers</b> I require to assist you.</td>
+  <td>Hm. You have not brought me the <b>5 Dying Embers</b> I require to assist you.</td>
 </tr>
 <tr>
-  <td colspan="6">The vial I gave you. You must drink it.</td>
+  <td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you.*</i></td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="2">End, Player obtains Hearthblood</td>
 </tr>
 </tbody>
 </table>
 
 **Subsequent Encounters:**
 
+**Player has Flamecharm:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">The inferno burns even brighter. Have you come to fuel it?</td>
+  <td>The inferno burns even brighter. Have you come to fuel it?</td>
 </tr>
 <tr>
-  <td colspan="6">Yes, I have. (Mantras Available)</td>
-  <td colspan="6">Yes, I have. (Mantras Unavailable or all Flamecharm Mantras maxed)</td>
+  <td>Yes, I have.</td>
 </tr>
 <tr>
-  <td colspan="6">(The Mantra leveling UI appears)</td>
-  <td colspan="6">The fire spits embers, content to burn...</td>
+  <td>[Opens Mantra Upgrade UI]</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td colspan="6">End</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player has not drunk Hearthblood:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>The vial I gave you. You must drink it.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

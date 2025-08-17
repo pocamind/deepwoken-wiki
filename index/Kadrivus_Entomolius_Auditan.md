@@ -1,6 +1,6 @@
 ---
 title: Kadrivus Entomolius Auditan
-revid: 158620
+revid: 158655
 source: https://deepwoken.fandom.com/wiki/Kadrivus_Entomolius_Auditan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, In progress without reason, InProgressPages, NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
@@ -101,7 +101,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">WIP</td>
+  <td colspan="12">The stones. They continue to chant in Harmony.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

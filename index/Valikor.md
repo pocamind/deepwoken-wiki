@@ -1,9 +1,9 @@
 ---
 title: Valikor
-revid: 158628
+revid: 158643
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Luminant, Isle of Vigil]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea, Isle of Vigil]
 ---
 
 # Valikor
@@ -49,16 +49,26 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
   <td colspan="4">You've got enough money to retire already, old man. Hit me for free. [Charisma]</td>
 </tr>
 <tr>
-  <td colspan="4">THIS IS HOW WE DO IT!!</td>
+  <td colspan="2">Player has 50 Notes</td>
+  <td colspan="2">Player does not have 50 Notes</td>
   <td colspan="4">Do you FEAR learning through VOCAL EXERCISE? The only way you're gonna learn this technique is by having it <i>SCREAMED</i> into your <i>SKULL</i>.</td>
-  <td colspan="4"><b>There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine.</b> <i>*He clears his throat, coughing briefly.*</i> Ah, where are my manners? You wouldn't stand a chance. Pay up or get LOST, kid.</td>
-  <td colspan="4">STOP REMINDING ME!</td>
+  <td colspan="4"><b>There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine.</b> <i>*He clears his throat, coughing</i><p>briefly.*<i> Ah, where are my manners? You wouldn't stand a chance. Pay up or get LOST, kid.</i></p></td>
+  <td colspan="2">Player meets Charisma requirement</td>
+  <td colspan="2">Player does not meet Charisma requirement</td>
 </tr>
 <tr>
-  <td colspan="4">End, obtain Spell Shout (-50 )</td>
-  <td colspan="4">End</td>
-  <td colspan="4">End, impossible to pass</td>
-  <td colspan="4">End, obtain Spell Shout (8 Charisma)</td>
+  <td colspan="2">THIS IS HOW WE DO IT!!</td>
+  <td colspan="2">Oh, young'in can't afford it? Go find some bandits or something. Just.. take their belongings, no one will mind. Pawn it off at the Antiquarian. Come back when you're ready for <i>KNOWLEDGE</i>!</td>
+  <td colspan="8">End</td>
+  <td colspan="2">STOP REMINDING ME!</td>
+  <td colspan="2">What? You think the guards get paid enough to retire? <i>*He stifles a laugh.*</i> Ah.. you really are naive! Come back with money.</td>
+</tr>
+<tr>
+  <td colspan="2">End, obtain Spell Shout, -50</td>
+  <td colspan="2">End</td>
+  <td colspan="8"></td>
+  <td colspan="2">End, obtain Spell Shout</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
@@ -74,12 +84,11 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
   <td colspan="16">IN DUE TIME, EVERY SHOP WILL BAN YOU FROM ENTRY TOO! 'DISRUPTIVE BEHAVIOR,' THEY SAY!</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="16">End</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Spell Shout does not work with Golden Tongue.
--   If you talk to him again after getting Spell Shout he says "IN DUE TIME EVERY SHOP WILL BAN YOU FROM ENTRY TOO! 'DISRUPTIVE BEHAVIOR', THEY SAY!".
+-   Spell Shout does not work with [Golden Tongue](Talents.md#silvertongue)

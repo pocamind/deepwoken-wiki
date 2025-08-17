@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 152659
+revid: 158649
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, Oaths, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -119,25 +119,30 @@ Nell executes her opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Can you really protect anything that you hold dear as you are now?</td>
+  <td colspan="2">Can you really protect anything that you hold dear as you are now?</td>
 </tr>
 <tr>
-  <td colspan="12">What do you mean?</td>
+  <td colspan="2">What do you mean?</td>
 </tr>
 <tr>
-  <td colspan="12">You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?</td>
+  <td colspan="2">You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?</td>
 </tr>
 <tr>
-  <td colspan="12">Yes, what would you have me do?</td>
+  <td colspan="2">Yes, what would you have me do?</td>
 </tr>
 <tr>
-  <td colspan="12">Bring me 5 Frigid Prisms, Then we can continue</td>
+  <td>Player has unlocked Frostdraw before</td>
+  <td>Player has not unlocked Frostdraw before</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>Bring me <b>2 Frigid Prisms</b>, Then we can continue</td>
+  <td>Bring me <b>5 Frigid Prisms</b>, Then we can continue</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
@@ -147,70 +152,74 @@ Nell executes her opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Have you done what I asked?</td>
+  <td colspan="4">Have you done what I asked?</td>
 </tr>
 <tr>
-  <td colspan="6">Here. (Sufficient Frigid Prisms)</td>
-  <td colspan="6">Here. (No Frigid Prisms)</td>
+  <td colspan="4">Here.</td>
 </tr>
 <tr>
-  <td colspan="6">*They take the crystals and crush each of them into a glass vial, glittering dust falling in.*</td>
-  <td colspan="6">Hm. You have not brought me the 5 Frigid Prisms I require to assist you...</td>
+  <td colspan="2">Player has Frigid Prisms</td>
+  <td colspan="2">Player does not have Frigid Prisms</td>
 </tr>
 <tr>
-  <td colspan="6">What is that you're doing?</td>
-  <td colspan="6">End</td>
+  <td colspan="2"><i>*They take the crystals and crush each of them into a glass vial, glittering dust falling in.*</i></td>
+  <td>Player has unlocked Frostdraw before</td>
+  <td>Player has not unlocked Frostdraw before</td>
 </tr>
 <tr>
-  <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
+  <td colspan="2">What is that you're doing?</td>
+  <td>Hm. You have not brought me the <b>2 Frigid Prisms</b> I require to assist you...</td>
+  <td>Hm. You have not brought me the <b>5 Frigid Prisms</b> I require to assist you...</td>
 </tr>
 <tr>
-  <td colspan="6">The vial I gave you. You must drink it.</td>
+  <td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</i></td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="2">End, Player obtains Glassblood</td>
 </tr>
 </tbody>
 </table>
 
 **Subsequent Encounters:**
 
+**Player has Frostdraw:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td>
+  <td>Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td>
 </tr>
 <tr>
-  <td colspan="6">Yes, I have. (Mantras Available)</td>
-  <td colspan="6">Yes, I have. (Mantras Unavailable or all Frostdraw Mantras maxed)</td>
+  <td>Yes, I have.</td>
 </tr>
 <tr>
-  <td colspan="6">What is it you wish to focus on?</td>
-  <td colspan="6">Only a subtle chill, not enough to freeze...</td>
+  <td>[Opens Mantra Upgrade UI]</td>
 </tr>
 <tr>
-  <td colspan="6">(A selection of available Mantras shows up as dialogue options)</td>
-  <td colspan="6">End</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player has not drunk Glassblood:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="6">A heart of crystal beats, layered sheets of ice protecting it. I can reinforce it for 100 Notes. (Price increases by 100 for every 1 level)</td>
+  <td>The vial I gave you. You must drink it.</td>
 </tr>
 <tr>
-  <td colspan="3">Draw it out. (Enough Notes)</td>
-  <td colspan="3">Draw it out. (Insufficient Notes)</td>
-</tr>
-<tr>
-  <td colspan="3">It is done. The heartbeat grows even duller</td>
-  <td colspan="3">It appears you lack the sufficient funds...</td>
-</tr>
-<tr>
-  <td colspan="6">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
