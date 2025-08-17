@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 158482
+revid: 158634
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -133,6 +133,7 @@ Navigation: [Oathless](Oath%253A_Oathless.md) • [Arcwarder](Oath%253A_Arcwarde
 ### Upcoming Oaths
 
 -   Warmaster
+-   Chef
 
 ## Oath Skipping
 

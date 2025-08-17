@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 152434
+revid: 158628
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Luminant, Isle of Vigil]
@@ -16,7 +16,7 @@ categories: [Etrean NPCs, NPCs, Talents, Etrea, NPCs located in the Etrean Lumin
 
 “ There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine. ”
 
-― ???
+― Valikor
 
 ## Description
 
@@ -31,6 +31,8 @@ Keep in mind that spells can only be named for up to 23 symbols and shouldn't ha
 Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in the [Temple of the Blade](Temple_of_the_Blade.md) where you can also find [Kelsius](Kelsius.md) and [Suyuan](Suyuan.md).
 
 ## Dialogue
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -48,7 +50,7 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
 </tr>
 <tr>
   <td colspan="4">THIS IS HOW WE DO IT!!</td>
-  <td colspan="4">Do you FEAR learning through VOCAL EXERCISE? The only way you're gonna learn this technique is by having it SCREAMED into your skull.</td>
+  <td colspan="4">Do you FEAR learning through VOCAL EXERCISE? The only way you're gonna learn this technique is by having it <i>SCREAMED</i> into your <i>SKULL</i>.</td>
   <td colspan="4"><b>There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine.</b> <i>*He clears his throat, coughing briefly.*</i> Ah, where are my manners? You wouldn't stand a chance. Pay up or get LOST, kid.</td>
   <td colspan="4">STOP REMINDING ME!</td>
 </tr>
@@ -57,6 +59,22 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
   <td colspan="4">End</td>
   <td colspan="4">End, impossible to pass</td>
   <td colspan="4">End, obtain Spell Shout (8 Charisma)</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="16">Begin</td>
+</tr>
+<tr>
+  <td colspan="16">IN DUE TIME, EVERY SHOP WILL BAN YOU FROM ENTRY TOO! 'DISRUPTIVE BEHAVIOR,' THEY SAY!</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 157569
+revid: 158635
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -107,6 +107,18 @@ Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md) | Bo
 
 ## Notable Figures
 
+### The Lady Confessor
+
+-   The mysterious leader of the [Lullaby Isles](#the-lullaby-isles), where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
+
+Dialogue: [Liviu](Liviu.md) | Books: [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Ossuary Maintenance](Books.md#ossuary-maintenance) | Glossary Entries: [The Counsell](#the-counsell)
+
+### The Counsell
+
+-   The highest form of government within the [Lullaby Isles](#the-lullaby-isles), consisting of a handful of the philosophical, theological, and academic members of the [Lullaby Isles](#the-lullaby-isles). Their purpose is to put the [Lady Confessor's](#the-lady-confessor) decrees into action and ensure the operations within the [Echelon](#the-echelon) and wider archipelago run smoothly.
+
+Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries:
+
 ### The Sovereign Drallis Ehr
 
 -   An ageless Adretian man, the [Sovereign](#the-sovereign-drallish-ehr) has been the supreme ruler of the [Central Authority](#the-central-authority) since its inception.
@@ -132,24 +144,12 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 
 Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
-### The Acolyte
+### Thalassis
 
--   [The Acolyte](#the-acolyte) is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
+-   The Acolyte is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
 -   This post is currently held by Thal'assis Linnaes.
 
-Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries: [The Acolyte](#the-acolyte)
-
-### The Counsell
-
--   The highest form of government within the [Lullaby Isles](#the-lullaby-isles), consisting of a handful of the philosophical, theological, and academic members of the [Lullaby Isles](#the-lullaby-isles). Their purpose is to put the [Lady Confessor's](#the-lady-confessor) decrees into action and ensure the operations within the [Echelon](#the-echelon) and wider archipelago run smoothly.
-
 Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries:
-
-### The Lady Confessor
-
--   The mysterious leader of the [Lullaby Isles](#the-lullaby-isles), where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
-
-Dialogue: [Liviu](Liviu.md) | Books: [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Ossuary Maintenance](Books.md#ossuary-maintenance) | Glossary Entries: [The Counsell](#the-counsell)
 
 ### The King of Etrea
 
@@ -246,7 +246,9 @@ Dialogue: [Lake](Lake.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's
 ### The Suncross
 
 -   The bringer of life and warmth to [Lumen](#lumen).
--   At night, the Suncross retreats into the [Voidfog](#the-voidfog) and its light dims, darkness falling over [Lumen](#lumen).
+-   At night, the Suncross retreats into the [Voidfog](#the-voidfog) and its light dims, darkness falling over [Lumen](#lumen). At midday, the Suncross is at its least obscured by [Voidfog](#the-voidfog).
+-   The Suncross follows a elliptical path over [Lumen](#lumen), with the ventre of its orbit seemingly beyond the [Voidfog](#the-voidfog).
+-   It's orbit is roughly equidistant between the [Surface](#the-surface) and the [Heavens](#the-heavens), though it oscillates on its lateral axis yearly, pitching towards the [Surface](#the-surface) in summer, and the [Heavens](#the-heavens) in winter. As a matter of course, the climate is typically colder and more changeable in Northern Lumen, and a more consistently warm temperature in Southern Lumen.
 
 Dialogue: [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
 
@@ -289,7 +291,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: 
 -   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the [Depths](#the-depths) should they Drown.
 -   No one who has perished in the [Depths](#the-depths) has ever returned.
 
-Dialogue: | Books: [Coldheart's Journal](Books.md#coldhearts-journal) | Glossary Entries: [The Tides](#the-tides)
+Dialogue: | Books: | Glossary Entries: [The Tides](#the-tides)
 
 ### The Tides
 
@@ -302,7 +304,7 @@ Dialogue: | Books: [Coldheart's Journal](Books.md#coldhearts-journal) | Glossary
 -   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#the-depths) below.
 
-Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
+Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
 
 ## Places
 
@@ -363,7 +365,7 @@ Dialogue: Kaide, The Drowned Light, [Theadre](Theadre.md) | Books: | Glossary En
 -   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
 -   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the [Moonseye](#the-moonseye).
 
-Dialogue: | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [The Acolyte](#the-acolyte), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
+Dialogue: | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [Thalassis](#thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
 
 ### The Luminants
 
@@ -413,6 +415,7 @@ Dialogue: [Ploom](Ploom.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Boo
 
 -   The impenetrable mists that surround and obscure [Lumen's](#lumen) skies.
 -   At a passing glance, they resemble clouds.
+-   On a closer observation, one can tell them apart by the way that light passes through them. Voidfog has subtle shimmering iridescence due to its distortion of light.
 
 Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Lumen](#lumen), [The Nightsea](#the-nightsea), [The Suncross](#the-suncross)
 
@@ -503,3 +506,4 @@ Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) player name
 ## Trivia
 
 -   In many cases, the word "city" links to _The Drowned City of Celtor_ even if the city the dialogue was referring to wasn't Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.
+-   In a shadow update, the glossary entry "The Acolyte" was renamed to "Thalassis."

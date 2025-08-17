@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 158587
+revid: 158617
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -64,10 +64,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 20% more weapon damage in PvE.<br>
-  This damage bonus bypasses both the soft and hard damage multiplier caps (can reach 1.95x damage).<br>
-  Critical attack or parrying 3 times in a row, shoots down a star that explodes and does 100 PvE AoE damage, 3% in PvP.<br>
-  Can be obtained via an enchant stone dropped by a <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, or through the <a href="Weird_Trader.md">Weird Trader</a>. It can also be obtained from the <a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest and <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 20 .</p></div></td>
+  <td><div><p>Deal 20% more M1 damage in PvE.<br>
+  This damage bonus bypasses both the soft and hard damage multiplier caps.<br>
+  Upon landing your critical attack or parrying 3 times in a row, a star will rain down and explode, dealing 3% health damage in PvP or 100 PvE damage in a small AoE.</p>
+  <p>Astral can be obtained via an <a href="Enchant_Stone.md">Enchant Stone</a> dropped by a <a href="Star_Knight.md">Star Knight</a> or <a href="Moon_Knight.md">Moon Knight</a>, making a wish with a developer, through the <a href="Weird_Trader.md">Weird Trader</a>, or dropped in the <a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest. It can also be sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 20 .</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>

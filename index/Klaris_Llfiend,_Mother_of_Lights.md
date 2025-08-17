@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 156270
+revid: 158624
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer]
@@ -121,7 +121,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
 </tr>
 <tr>
   <td colspan="3">Why do you need competent people?</td>
@@ -149,7 +149,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="4">Player is in danger</td>
 </tr>
 <tr>
-  <td colspan="4">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+  <td colspan="4">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a></td>
   <td colspan="4">Wait. You're back? After pulling you out of that pit, I figured you'd be out the door and on to somewhere else. So what brings you back, what did you find down there?</td>
   <td colspan="4">Gods Below, dont bring your troubles to me.</td>
 </tr>
@@ -261,7 +261,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 <tr>
   <td colspan="3">An... Arch-Diver? Either you've come across a surviving diver with an inflated ego, or... <i>*She grimaces.*</i></td>
   <td colspan="3">...Never heard that phrase before in my life. I can only assume you're talking about the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a>? It's relatively unexplored, we've had <a href="Glossary.md#the-divers">Divers</a> make it far but never return.</td>
-  <td colspan="6"><i>*You hand her your findings and stories from the Gale, ranging from the lost Diver journals to the secrets of the layer itself.*</i> ...I see. You've done a great deal for us. This is the least I can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
+  <td colspan="6"><i>*You hand her your findings and stories from the Gale, ranging from the lost <a href="Glossary.md#the-divers">Diver</a> journals to the secrets of the layer itself.*</i> ...I see. You've done a great deal for us. This is the least I can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
 </tr>
 <tr>
   <td colspan="3">Or what?</td>
