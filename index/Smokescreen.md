@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 151959
+revid: 158720
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -35,7 +35,7 @@ Pressing C will activate **Smokescreen**.
 
 The invisibility is cancelled when using an attack.
 
-If Smokescreen is corrupted, it can be activated again by pressing C, which teleports the user backwards and places another smoke on the teleport location. Video: [https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA](https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA))
+If Smokescreen is corrupted, it can be activated again by pressing C, which teleports the user backwards and places another smoke on the teleport location.
 
 ## Point Usage
 
@@ -43,8 +43,8 @@ When obtained, Smokescreen will spend its points on the following stats:
 
 -   **Smoke Duration**
 -   **Smoke Size**
--   Amount of clouds**? (Corrupted)**
--   Teleport distance**?** **(Corrupted)**
+-   **Amount of clouds (Corrupted)**
+-   **Teleport distance (Corrupted)**
 
 ## Trivia
 

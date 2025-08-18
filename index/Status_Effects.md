@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 158601
+revid: 158712
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,9 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
 -   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
 -   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
 -   Ether: Increases Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
--   Health: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) or the [Fruit Salad](Fruit_Salad.md).
+    
+    Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) or the [Fruit Salad](Fruit_Salad.md).
+    
 -   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Seafood Boil](Seafood_Boil.md).
 -   Brain: Effect currently unknown; _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
 -   Scale: Effect currently unknown; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).

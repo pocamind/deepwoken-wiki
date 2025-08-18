@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 152320
+revid: 158715
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,7 +36,7 @@ Pressing C will activate the **Skeleton Key** Resonance.
 
 Skeleton key will summon a wall, up to five if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
 
-If Skeleton Key is corrupted, [wall size is increased](https://www.youtube.com/clip/UgkxASRtKcxLyuHy-ki_xxVnXe5lJZ6wIey_?si=mA9Fe1rAoDep_27U) by over 500%.
+If Skeleton Key is corrupted, the wall size is increased by over 500%.[\[1\]](#cite-note-1)
 
 ### Resonance Point Usage
 
@@ -61,3 +61,7 @@ When obtained, Skeleton Key will spend its points on the following stats:
 -   The walls can block ships from sailing, and also are invulnerable to their cannonballs, making them great for shielding your ship as you sail.
 -   Make sure to remember that the walls will quickly despawn prematurely if the owner is far away.
 -   You can somewhat consistently get pushed/push yourself through walls with the Skeleton Key's activated push, provided the wall you're trying to pass through is thin enough. A good example of this is the Mineskipper cave next to the small house by the side of the windmill in Songseeker.
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/clip/UgkxASRtKcxLyuHy-ki\_xxVnXe5lJZ6wIey\_?si=mA9Fe1rAoDep\_27U](https://www.youtube.com/clip/UgkxASRtKcxLyuHy-ki_xxVnXe5lJZ6wIey_?si=mA9Fe1rAoDep_27U)

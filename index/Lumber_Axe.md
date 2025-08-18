@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 152668
+revid: 158740
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -90,14 +90,7 @@ The Lumber Axe in a [Merchant Ship](Random_Encounters.md#sea-events) is located 
 -   Costs varying [Robux](https://roblox.fandom.com/wiki/Robux).
 -   Merchant Ships can be found in both the Etrean and Eastern [Luminants](Luminants.md) by sailing through the Etrean and Aratel Sea.
 
-(The ships the Lumber Axe is located on.)
-
-**Voidheart:**
-
-The Lumber Axe in the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
-
--   Costs 3.
--   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
+(The ships Lumber Axes can be purchased from)
 
 **Eastern Luminant:**
 
@@ -119,7 +112,14 @@ The Lumber Axe at [Miner's Landing](<Miner's_Landing.md>) is located leaning aga
 
 -   Costs 3.
 
-(The building the Lumber Axe is located in.)
+(The building the Lumber Axe is located in)
+
+**Both Luminants:**
+
+The Lumber Axe in the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
+
+-   Costs 3.
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
 
 ## Trivia
 

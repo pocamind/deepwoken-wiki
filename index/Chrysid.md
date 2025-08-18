@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 158484
+revid: 158687
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -16,7 +16,7 @@ Chance of rolling: **4%**
 
 ## Description
 
-The Chrysid people are an aspect related to moths, inheriting their compound eyes and feathery antennae. They are a rare [aspect](Aspects.md) to see, and they carry close ties with the other aspects of Greathive despite their conflicting view on technology. They have a stat bonus of 2 Agility and 3 Charisma, as well as the ability to track attacking foes through terrain by automatically shedding "Mothwing Dust" onto them.
+The Chrysid people are an aspect that resemble moths, bearing their compound eyes and feathery antennae. They are a rare [aspect](Aspects.md) to see, and they carry close ties with the other aspects of Greathive despite their conflicting view on technology. They have a stat bonus of 2 Agility and 3 Charisma, as well as the ability to track attacking foes through terrain by automatically shedding "Mothwing Dust" onto them.
 
 ## Traits
 

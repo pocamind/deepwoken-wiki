@@ -1,9 +1,9 @@
 ---
 title: Private Kernel
-revid: 155515
+revid: 158744
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
+categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
 ---
 
 # Private Kernel
@@ -11,16 +11,18 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The C
 | Private Kernel | |
 |---|---|
 | name | Private Kernel |
-| aspect | ? |
+| aspect | Celtor |
 | location | Fort Merit |
 
 ## Description
 
 Private Kernel is an NPC who gives the player a explanation of who [The Central Authority](The_Central_Authority.md) contains in [Merit Detainment Core](Merit_Detainment_Core.md).
 
+He is equipped with an [Authority Helm](Authority_Helm.md), a green-dyed cape, [Leather Boots](Leather_Boots.md), and the [Authority Peacekeeper](Authority_Peacekeeper.md) [Outfit](Outfits.md). On his back, he wields an [Adretian Axe](Adretian_Axe.md).
+
 ## Location
 
-Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md).
+Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md), standing in front of the gate to the [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Dialogue
 
@@ -82,3 +84,7 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md).
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Before the player chooses the dialogue option "Why does he scare you, private?", Private Kernel is named as "Struggling Guard."

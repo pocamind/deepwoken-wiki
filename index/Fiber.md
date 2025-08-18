@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 153679
+revid: 158743
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -63,13 +63,6 @@ The fiber at the [Isle of Vigils](Isle_of_Vigils.md) is located on a table near 
 
 -   Costs 3.
 
-**Voidheart:**
-
-The fiber at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
-
--   Costs 3.
--   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
-
 **Eastern Luminant:**
 
 **Fort Merit:**
@@ -78,7 +71,7 @@ The fiber at [Fort Merit](Fort_Merit.md) is located on a crate in the same build
 
 -   Costs 3.
 
-(The building the fiber is located in.)
+(The building the Fiber is located in)
 
 **Greathive Aratel:**
 
@@ -97,6 +90,15 @@ The fiber at [Miner's Landing](<Miner's_Landing.md>) is located on top of a crat
 The fiber at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's Pawn.
 
 -   Costs 3.
+
+**Both Luminants:**
+
+The fiber at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
+
+-   Costs 3.
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
+
+}}
 
 **First Layer:**
 

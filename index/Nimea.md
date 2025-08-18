@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 150271
+revid: 158733
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs]
@@ -14,15 +14,19 @@ categories: [Etrean NPCs, NPCs]
 | aspect | Etrean |
 | location | The Hidden Village |
 
-“ Light is to Void as Paint is to a Canvas- it draws out substance. ”
+“ Light is to Void as paint is to a canvas - it draws out substance. ”
 
 ― Nimea
 
 ## Description
 
-Nimea is an NPC located inside a house in [The Hidden Village](The_Hidden_Village.md). She shares information about [Lightkeepers](Lightkeep.md), as well as a backstory on the situation of the Hidden Village, on the status of the civilians and what may have happened to them. She also talks about her relationship with the Lightkeeper of the Eastern Lighthouse, Viqh.
+Nimea is an [Etrean](Etrean.md) NPC who provides insight into the [Lightkeepers](Lightkeepers.md), offering background on the situation in the Hidden Village, the condition of its civilians, and possible explanations for their fate. She also discusses her personal connection with Viqh, the Lightkeeper of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 
-She is a File [Etrean](Etrean.md) that wears the [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit. Looking at her wrinkles, it could be concluded that she is in Stage 2 of [Aging](Age.md), making her possibly 50–59 years old.
+Nimea is a File Etrean dressed in the [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit. Based on her visible wrinkles, she appears to be in Stage 2 of [Aging](Age.md), likely placing her between 50 and 59 years old.
+
+## Location
+
+Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 
 ## Dialogue
 

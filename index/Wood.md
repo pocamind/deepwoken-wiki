@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 151216
+revid: 158741
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -74,13 +74,6 @@ The wood at the [Isle of Vigils](Isle_of_Vigils.md) is located outside of the In
 
 -   Costs 5.
 
-**Voidheart:**
-
-The wood at the [Voidheart](Voidheart.md) is located on a table next to the [Antiquarian](Antiquarian.md).
-
--   Costs 5.
--   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
-
 **Eastern Luminant:**
 
 **Greathive Aratel:**
@@ -100,6 +93,13 @@ The wood at [Miner's Landing](<Miner's_Landing.md>) is located on top of a barre
 The wood at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's Pawn.
 
 -   Costs 5.
+
+**Both Luminants:**
+
+The wood at the [Voidheart](Voidheart.md) is located on a table next to the [Antiquarian](Antiquarian.md).
+
+-   Costs 5.
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 158661
+revid: 158697
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -22,11 +22,9 @@ categories: [Resonances]
 
 **Chorus Divide** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
-The wind up IS cancellable making it very easy to counter.
-
 ## Usage
 
-Pressing C will activate the **Chorus Divide** Resonance.
+Pressing C will activate the **Chorus Divide** Resonance. The user begins to charge up the elements within their arms, before unleashing powerful beams of Attuned energy. The user will slowly spin during the duration of this Resonance, limiting the player's control over beam direction. The beams will be based off the user's highest invested Attunement, changing the visuals, status effect, and damage type to match.
 
 If Chorus Divide is corrupted, its spins 180° instead of 270°, and becomes unblockable, but at the cost of it's wind-up being significantly longer, and the beams spins slower.
 
@@ -39,19 +37,19 @@ When obtained, Chorus Divide will spend its points on the following stats:
 
 #### _Attunements_
 
-Chorus Divide will use the players highest invested attunement upon obtaining the bell.
+Chorus Divide will use the players highest invested attunement upon obtaining the Resonance.
 
--   The [Flamecharm](Flamecharm.md) variant will burn to players hit by the beams.
--   The [Frostdraw](Frostdraw.md) variant will apply chilled or crystallization to players hit by the beams.
--   The [Galebreathe](Galebreathe.md) variant will apply suffocate or other gale talents to players hit by the beams.
--   The [Thundercall](Thundercall.md) variant will apply shock or apply surge to players hit by the beams.
--   The [Shadowcast](Shadowcast.md) variant will (potentially) steal ether from, blind, and proc shadow talents to player hit by the beams.
--   The [Ironsing](Ironsing.md) variant will proc metal rods to players hit by the beams.
--   The [Bloodrend](Bloodrend.md) variant will proc blood talents and blood poison to the player hit by the beams.
+-   The [Flamecharm](Flamecharm.md) variant will burn to players hit by the beams, turning the beams orange.
+-   The [Frostdraw](Frostdraw.md) variant will apply chilled or crystallization to players hit by the beams, turning the beams blue.
+-   The [Galebreathe](Galebreathe.md) variant will apply suffocate or other gale talents to players hit by the beams, turning the beams green.
+-   The [Thundercall](Thundercall.md) variant will apply shock or apply surge to players hit by the beams, turning the beams yellow.
+-   The [Shadowcast](Shadowcast.md) variant will (potentially) steal ether from, blind, and proc shadow talents to player hit by the beams, turning the beams black.
+-   The [Ironsing](Ironsing.md) variant will proc metal rods to players hit by the beams, turning the beams grey.
+-   The [Bloodrend](Bloodrend.md) variant will proc blood talents and blood poison to the player hit by the beams, turning the beams red.
 
 If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead.
 
-If the player is [Attunement-less](Attunement-less.md), the beam will appear as the Thundercall variant
+If the player is [Attunement-less](Attunement-less.md), the beams will be the Thundercall variant.
 
   
 

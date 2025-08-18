@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 157722
+revid: 158677
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1359,3 +1359,4 @@ N/A
 -   **Bloodcurdle** is likely a reference to bloodbending from Avatar: The Last Airbender
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.
+-   Vein Tendrils could be a reference to Spider-Man, from Marvel Comics.

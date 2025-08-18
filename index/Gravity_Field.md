@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 153538
+revid: 158700
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

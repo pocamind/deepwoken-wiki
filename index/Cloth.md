@@ -1,6 +1,6 @@
 ---
 title: Cloth
-revid: 153789
+revid: 158742
 source: https://deepwoken.fandom.com/wiki/Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -55,13 +55,6 @@ The cloth at the [Isle of Vigils](Isle_of_Vigils.md) is located on a table near 
 
 -   Costs 6.
 
-**Voidheart:**
-
-The cloth at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
-
--   Costs 6.
--   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
-
 **Eastern Luminant:**
 
 **Fort Merit:**
@@ -89,6 +82,15 @@ The cloth at [Miner's Landing](<Miner's_Landing.md>) is located on top of a crat
 The cloth at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's Pawn.
 
 -   Costs 6.
+
+**Both Luminants:**
+
+The cloth at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
+
+-   Costs 6.
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
+
+}}
 
 **First Layer:**
 

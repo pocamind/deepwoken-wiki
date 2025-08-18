@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 157188
+revid: 158739
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -120,6 +120,32 @@ Dodgeable:**\-**
 ## Passives
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Deep Owls.
+
+## Dialogue
+
+Note: The player can only speak to a Deep Owl if they are the one to spawn in it or have [Mute](Regalia.md#mute).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity.</td>
+</tr>
+<tr>
+  <td colspan="6">I'm just passing through.</td>
+  <td colspan="6">What the.. Why can you talk?!</td>
+</tr>
+<tr>
+  <td colspan="6">Ah. Carry on then, little mouse. I'm sure you have places to be.</td>
+  <td colspan="6">My, my... Such impertinent squeaking. The mice of this land never fail to amaze me.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Strategy
 

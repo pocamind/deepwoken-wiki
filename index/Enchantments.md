@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 158671
+revid: 158676
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -345,8 +345,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Blood DMG not affected by DMG modifiers and blood DMG multipliers (such as alloyblood, cauterized wounds, haemophilia), BUT affected by damage reduction and armor resistances<br>
   When missing an light attack (dodge, parry, crit and block are not a miss), lose 2% of total blood.<br>
   Source: <sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
-  <td><div>Weapon is completely red, surrounded by a red aura.<br>
-  When sheathed, the weapon keeps their base color.</div></td>
+  <td><div>Weapon is completely red, surrounded by a red aura.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
@@ -388,8 +387,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Critical attack is replaced with a counter that, upon use, takes away 25% ether. (if available). Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture and refunding 15% ether.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   Check <a href="#trivia">Trivia</a> for an explanation of its bugginess in PvE.</p></div></td>
-  <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
-  When sheathed, the weapon model is completely invisible (currently bugged(?)).</div></td>
+  <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -423,8 +421,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   Rarely, you lose 7% of your max health as downside during the proc<br>
   Can autogrip if it procs self damage at low enough health.<br>
   These effects are mutually exclusive and share a cooldown.</p></div></td>
-  <td><div>Weapon is completely black and slightly transparent.<br>
-  When sheathed, the weapon is completely invisible (currently bugged)</div></td>
+  <td><div>Weapon is completely black and slightly transparent.</div></td>
 </tr>
 </tbody>
 </table>

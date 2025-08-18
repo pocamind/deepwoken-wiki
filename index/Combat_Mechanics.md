@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 158419
+revid: 158703
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -378,6 +378,8 @@ Image
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
 -   [Stoneheart](Stoneheart.md) critical
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
+-   [Lionfish](Lionfish.md): Cero, No Trace Left Behind
+-   [Nautilodaunt](Nautilodaunt.md): Grand Stomp
 
  |
 | Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
@@ -430,6 +432,7 @@ Image
 -   [Deepspindle](Deepspindle.md) standing critical multihits
 -   [Kyrswynter](Kyrswynter.md) running critical
 -   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
+-   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
 
  |
 | Green | File:Greentelegraph.png | ◯ | ✗ | ✗\*\* | ◯ |

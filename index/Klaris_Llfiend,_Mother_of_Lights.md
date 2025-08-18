@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 158624
+revid: 158731
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer]
@@ -170,7 +170,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
 </tr>
 <tr>
   <td colspan="3">Regarding Layer 2 Floor 1's<br>
@@ -186,7 +186,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   Kyrsan Medallions</td>
   <td colspan="3">Others<br>
   A Lightkeeper<br>
-  Dawnwalker Skip</td>
+  Dawnwalker Skip<br>
+  Defeating Chaser/Ethiron in while in the Second Layer</td>
 </tr>
 <tr>
   <td colspan="3">[See Floor 1 Standard]</td>
@@ -284,7 +285,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
 </tr>
 <tr>
   <td colspan="3">Obtain Kyrsan Medallions</td>
@@ -319,42 +320,43 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="16">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
+  <td colspan="4">Talked to Nimea?</td>
+  <td colspan="4">Have Dawnwalker, and have it maxed out once already</td>
+  <td colspan="4">Defeated Chaser</td>
+  <td colspan="4">Defeated Ethiron</td>
 </tr>
 <tr>
-  <td colspan="6">Talked to Nimea?</td>
-  <td colspan="6">Have Dawnwalker, and have it maxed out once already</td>
+  <td colspan="4">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+  <td colspan="4">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
+  <td colspan="4">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
+  <td colspan="4">Whatever you've done has caused the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a> to destabilize! You need to get out before it's too late. I managed to call forth a <a href="Glossary.md#light-hook">Light Hook</a>, but only at the front of the City! Get to it quickly before that place is torn from eternity!</td>
 </tr>
 <tr>
-  <td colspan="6">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
-  <td colspan="6">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
+  <td colspan="4">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
+  <td colspan="2">Requirements Met</td>
+  <td colspan="2">Not Enough Knowledge</td>
 </tr>
 <tr>
-  <td colspan="6">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
-  <td colspan="3">Requirements Met</td>
-  <td colspan="3">Not Enough Knowledge</td>
+  <td colspan="4">...How is she?</td>
+  <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this Oath with you.</td>
+  <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
 </tr>
 <tr>
-  <td colspan="6">...How is she?</td>
-  <td colspan="3">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this Oath with you.</td>
-  <td colspan="3">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
+  <td colspan="4">Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding. * She is... preoccupied. Lightkeepers do not get a great deal of rest, and what time she had spare she often spent writing.</td>
+  <td colspan="2">End, Maxed out Dawnwalker</td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
-  <td colspan="6">Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding. * She is... preoccupied. Lightkeepers do not get a great deal of rest, and what time she had spare she often spent writing.</td>
-  <td colspan="3">End, Maxed out Dawnwalker</td>
-  <td colspan="3">End</td>
+  <td colspan="4">Writing?</td>
 </tr>
 <tr>
-  <td colspan="6">Writing?</td>
+  <td colspan="4">*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
 </tr>
 <tr>
-  <td colspan="6">*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
-</tr>
-<tr>
-  <td colspan="6">End</td>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>
