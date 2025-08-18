@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Myra
-revid: 158766
+revid: 158778
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -57,7 +57,7 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 <tr>
   <td colspan="4"></td>
   <td colspan="2">Mhm.</td>
-  <td colspan="2">Yeah it's not sweat, really.</td>
+  <td colspan="2">Yeah it's no sweat, really.</td>
   <td colspan="8">End</td>
 </tr>
 <tr>

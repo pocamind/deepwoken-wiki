@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 154974
+revid: 158792
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Items]
@@ -32,3 +32,4 @@ The Aazel's Horns is an [Equipment](Equipment.md) item under the "Head" category
 
 -   On July 9th 2025, Nuttoons announced they had added a rare "drip" item to Traan's black market. This ended up being the Aazel's Horns.
     -   It hadn't been documented in his shop until 7 days after its addition, wholly due to bad RNG. There isn't and has never been specific weighting for items in either of his shops.
+-   This seems to be a blatant reference to an older **Monad Studios** game, being _Rogue Lineage_ where Azael Horns would be a coveted item from the Collector. Who was a timed spawn merchant with a random item rotation per spawn not to dissimilar to Traan's Black Market.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158563
+revid: 158776
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1131,7 +1131,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
-    -   It heals 4% max HP and restores ~15% max ether.
+    -   It heals 4% max HP and restores 20 ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm
 
 ### Fang and Coil
@@ -2546,6 +2546,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Vasculitis \[Common Talent\] - Your opponent cannot proc deep gems if they have over 30% blood poisoning for a brief duration (Must hit them while they are over 30% BP.)
     -   Prerequisite: 40 Bloodrend, 35 Intelligence
+    -   The opponent is unable to use deep gems for 8 seconds after proccing.
 
 ### Shadowcast Master
 
