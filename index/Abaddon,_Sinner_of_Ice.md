@@ -1,6 +1,6 @@
 ---
 title: "Abaddon, Sinner of Ice"
-revid: 94729
+revid: 158800
 source: https://deepwoken.fandom.com/wiki/Abaddon%2C_Sinner_of_Ice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Oaths, Quests]
@@ -12,7 +12,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Abadonn, Sinner of Ice, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Starfield Veldt](Starfield_Veldt.md) [Voidzone](Voidzones.md). He must be defeated to obtain a [Starkindred](Oath%253A_Starkindred.md) mantra, he uses an alternate [Divine Longspear](Crazy_Slots.md), and is a [Frostdrawer](Frostdraw.md); he uses [Starkindred](Oath%253A_Starkindred.md) mantras alongside his [Frostdraw](Frostdraw.md) ones and quickly become overwhelming for unprepared players attempting to kill him solo. He bears a blue [Hivelord Mask](Hivelord_Mask.md).
+Abadonn, Sinner of Ice, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Starfield Veldt](Starfield_Veldt.md). He must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression, he uses a [True Seraph Spear](True_Seraph_Spear.md), and is a [Frostdrawer](Frostdraw.md). He uses [Starkindred](Oath%253A_Starkindred.md) mantras alongside his [Frostdraw](Frostdraw.md) ones and quickly become overwhelming for unprepared players attempting to kill him solo.
 
 ## Moveset
 
