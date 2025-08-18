@@ -1,6 +1,6 @@
 ---
 title: Private Kernel
-revid: 158744
+revid: 158745
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
@@ -16,7 +16,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Lu
 
 ## Description
 
-Private Kernel is an NPC who gives the player a explanation of who [The Central Authority](The_Central_Authority.md) contains in [Merit Detainment Core](Merit_Detainment_Core.md).
+Private Kernel is an NPC who gives the player an explanation of who [The Central Authority](The_Central_Authority.md) contains in [Merit Detainment Core](Merit_Detainment_Core.md).
 
 He is equipped with an [Authority Helm](Authority_Helm.md), a green-dyed cape, [Leather Boots](Leather_Boots.md), and the [Authority Peacekeeper](Authority_Peacekeeper.md) [Outfit](Outfits.md). On his back, he wields an [Adretian Axe](Adretian_Axe.md).
 

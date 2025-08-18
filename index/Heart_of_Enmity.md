@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 158722
+revid: 158746
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -95,7 +95,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>One <a href="Crowns.md">Crown</a></li>
+    <li>One-Two <a href="Crowns.md">Crowns</a> (depending on damage dealt)</li>
     <li>Some <a href="Relics.md">Relics</a>:
   <ul>
     <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
