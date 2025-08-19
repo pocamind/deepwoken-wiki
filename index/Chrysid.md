@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 158687
+revid: 158881
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -24,11 +24,12 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
 <tbody>
 <tr>
   <td>File:Seaborne.png</td>
-  <td>Mothwing Dust
+  <td><b>Mothwing Dust</b>
   <ul>
-    <li>Being attacked causes you to release Mothwing Dust, granting you vision of your attacker.
+    <li>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
   <ul>
     <li>People who attack you are highlighted red for you to see. Useful to find people with long ranged attacks or in dark areas.</li>
+    <li>The angles at which you can be assassinated or backstabbed are reduced.</li>
   </ul></li>
   </ul></td>
 </tr>

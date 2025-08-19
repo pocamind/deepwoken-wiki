@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 152662
+revid: 158944
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant]
@@ -189,4 +189,3 @@ After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highc
     -   Straight Hair - `13154889638`
     -   Loose Straight Hair - `13083247867`
     -   Accessories - `86873452756994`
--   She does not attack the player if they're a [Silentheart](Oath%253A_Silentheart.md), instead just ignoring them.

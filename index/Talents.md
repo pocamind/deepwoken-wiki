@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158854
+revid: 158896
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -105,6 +105,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Improves an ability or aspect of your character. See [Traits](Traits.md).
 
 ## Talents
+
+### Absolute Focus
+
+-   Against All Odds \[Common Talent, Willpower Exclusive\] - For each combat tag you have on your character, increase your damage by 1% (max of 7%).
+    -   Prerequisite: 65 Willpower
+
+-   Emergency Reserves \[Common Talent, Willpower Exclusive\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
+    -   Prerequisite: 80 Willpower
+
+-   Unswayed \[Common Talent, Willpower Exclusive\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
+    -   Prerequisite: 75 Willpower
 
 ### Acrobat
 
@@ -1093,6 +1104,20 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisite: 20 Intelligence
 
+### Ether Endeavors
+
+-   Keen Recovery \[Common Talent, Intelligence Exclusive\] - Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
+    -   Prerequisites: 55 Intelligence
+
+-   Behind You \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.
+    -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence
+
+### Evil Endeavors
+
+-   Revese Leech \[Common Talent, Shadowast Exclusive\] - Anytime you proc Behind You, steal ether from your opponent too.
+    -   Behind You is procced by landing a basic attack behind your enemy after feinting a Mantra.
+    -   Prerequisites: 60 Shadowcast, Behind You
+
 ### Fadetrimmer
 
 -   [**Oath: Fadetrimmer**](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
@@ -1290,7 +1315,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling.
     -   Does not work with Crystallization.
-    -   Lasts the first 1.5 seconds after chill/freeze procs.
+    -   Lasts the first 0.75 seconds after chill/freeze procs.
     -   Only procs off mantras.
     -   Prerequisite: 60 Frostdraw.
 
@@ -1464,6 +1489,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Does not affect healthpacks.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
+-   _**All Above, Gods Below**_ \[Advanced Talent, Willpower Exclusive\] - Any healing your opponent were to recieve while All The Dead Gods is active on them is stolen and given to you. (+20 Sanity)
+    -   Similar to Sain't Jay's effect, healing will be redirected from opponents under the effect of your anti-heal.
+    -   This does not stack with Saint Jay.
+    -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
+
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
     -   Gives a burst of insanity to yourself.
         -   Immediately lose 15% sanity on use.
@@ -1474,6 +1504,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Namely Shared Misery and _Piercing Will_.
         -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your current sanity percentage. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
+
+-   _Sin Stacker_ \[Rare Talent, Willpower Exclusive\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.
+    -   By landing additional basic attacks on an Anti-Healed target, you can increase the duration of your Anti-Heal.
+    -   Prerequisites: All the Dead Gods, 90 Willpower
 
 ### Human Architecture
 
@@ -1629,8 +1663,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Status effects, good or bad, have a shorter duration.
     -   Only works on Chilled, Potions, and Suffocation.
 
--   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name.
+-   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
+    -   The angle at which you can be backstabbed is reduced heavily.
 
 -   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen, which points East.
@@ -1927,6 +1962,19 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
     -   Prerequisite: [Power](Power.md) 10
 
+### Marksman
+
+-   _Leg Shot_ \[Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
+    -   Prerequisites: 80 Medium Weapon, Rifle Equipped
+
+-   Stock Bash \[Common Talent\] - \[Rifles\] Your running attacks now apply a brief amount of daze.
+    -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
+
+-   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
+    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds.
+    -   Note that you need physical bullets in your inventory for this Talent to work.
+    -   Prerequisites: 95 Medium Weapon, Rifle Equipped
+
 ### Master Survivalist
 
 -   Survival Kit \[Common Talent, Charisma, Willpower, Intelligence\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
@@ -2017,6 +2065,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
 
 ### Mindbreaker
+
+-   Echoing Lunatic \[Common Talent, Willpower Exclusive\] - Your Ardour Scream now applies a bit of insanity.
+    -   Your Ardour Scream now drains ? sanity.
+    -   Prerequisites: 55 Willpower, Ardour Scream
 
 -   _Lose Your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
@@ -2692,6 +2744,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
+-   Silent Cascade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released wtih CTRL + M2.
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
+
 -   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
     -   Changes your Vent color to align with your Oath Cosmetic color. Can be [dyed](Dye_Packet.md).
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
@@ -2733,6 +2788,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   The Charm duration from Unnecessary Theatrics will be reduced if you have less than 75 Charisma.
     -   Does not proc "Golden Tongue" Talent
     -   Prerequisites: Charismatic Cast, 75 Charisma
+
+### Songmaster
+
+-   _**Absolute Pitch**_ \[Advanced Talent, Intelligence Exclusive\] - You can cast Ritual Mantras instantly.
+    -   Removes the ritual cast on all ritual cast Mantras.
+    -   Prerequisite: 100 Intelligence
 
 ### Soul Converter
 
@@ -3045,10 +3106,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Thief
 
--   Cap Artist \[Common Talent, Agility\] - Pressing R while crouching allows you to fake being dead. (+2 Passive Agility)
+-   Cap Artist \[Common Talent, Agility\] - Pressing, while crouching allows you to fake being dead. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cap Artist's activation keybind can be configured in settings.
-    -   Default key is, despite what the Talent description states.
     -   Cancelled by pressing the activation key again.
     -   Using Cap artist in the depths makes you have normal gravity.
     -   **Disabled with Brick Wall.**
