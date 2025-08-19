@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158776
+revid: 158838
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2911,7 +2911,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible. (+3 Health)
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
-    -   Note: Allows user to eat sticks, bamboo, wax, coral, spider eggs, all lotuses, and every ore.
+    -   Note: Allows user to eat [Sticks](Stick.md), [Bamboo](Bamboo_Bundle.md), [Beeswax](Beeswax.md), [Coral](Alestrian_Coral.md), [Spider Eggs](Spider_Egg.md), all [Lotuses](Primordial_Lotuses.md), and every [Ore](Ores.md).
 
 ### Survivor
 

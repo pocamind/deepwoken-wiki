@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 158703
+revid: 158821
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -424,6 +424,7 @@ Image
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
+-   Corrupted [Chorus Divide](Chorus_Divide.md)
 -   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
 -   [Throw](Attunement-less.md#throw) grab
 -   [Kyrsieger](Kyrsieger.md) critical
@@ -435,7 +436,7 @@ Image
 -   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
 
  |
-| Green | File:Greentelegraph.png | ◯ | ✗ | ✗\*\* | ◯ |
+| Green | File:Greentelegraph.png | ◯ | ✗ | ✗ | ◯ |
 | All attacks that have this attribute:
 
 -   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical

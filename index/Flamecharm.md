@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 158423
+revid: 158823
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -372,7 +372,7 @@ Fire
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
 -   Can be upgraded with the "**Hell's Partisan**" Talent, allowing it to inflict Burn and making the next hit you land after landing a flame dagger summon a spear from above to impale them.
 -   Can be modified with Crystal/Perfect lens to make the daggers move faster
--   Can be modified with a Tornado Spark to make it throw 5 daggers in a straight line
+-   Can be modified with a Tornado Spark to make it throw 5 unparryable daggers in a straight line
 
  |
 | 

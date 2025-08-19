@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 158606
+revid: 158839
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -60,7 +60,7 @@ Saintsworn **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keep
 
 #### Galebreathe
 
--   For the Galebreathe obelisk, you need to tread carefully towards the [Garden's Reservoir](The_Garden_Reservoir.md), **at Upper Erisia in the Acid Pool Area, and talk to Trinity Galenwarde.**
+-   For the Galebreathe obelisk, you need to tread carefully towards [The Garden Reservoir](The_Garden_Reservoir.md), **at Upper Erisia in the Acid Pool Area, and talk to Trinity Galenwarde.**
 
 #### Flamecharm
 
@@ -80,7 +80,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   Saintsworn **CANNOT** be obtained with 75 points in a singular attunement, you **need** at least 15 points in an attunement to resonate with their respective obelisk- in other words, you need 15 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
-    -   This may be a bug but as of now you can get saintsworn without meeting the requirements for as long as you have spoken with the obelisk's beforehand (Example, you can talk with the obelisks and obtain the oath and then shrine down your attunement to below the requirement, so, 30 flame, get oath, shrine, 18 flame, and you still have the oath.) (Tested 5/31/25, confirmed to work but took an _aggravatedly_ long time...)
+    -   This may be a bug but as of now you can get saintsworn without meeting the requirements for as long as you have spoken with the obelisk's beforehand (Example, you can talk with the obelisks and obtain the oath and then shrine down your attunement to below the requirement, so, 30 flame, get oath, shrine, 18 flame, and you still have the oath.) (Tested 5/31/25, confirmed to work but took an _aggravatingly_ long time...)
 
 ## Progression
 
@@ -102,8 +102,6 @@ Alternatively you can use 10 knowledge to skip the progression if you've fully p
         -   The Saintsblade shares the star value from your normal weapon, but it won't carry over the Enchant due to effectively being a Legendary Weapon.
             -   However, if you have an Enchantment that applies a status effect onto the enemy (e.g. Grim, Sear, or Solar), they will stay active upon switching back to the Saintsblade.
     -   Criticals - The critical of your Saintsblade will match the corresponding [Hero Blade](Hero_Blades.md) for your current Saint Stance. Using your critical will cycle your Saint Stance.
-
-  
 
 -   **Saint Stances**
     -   With the Saintsblade equipped, you are able to enter 5 different Saint Stances, corresponding to the 5 elements. Saint Stances are cycled through by using the Critical.
@@ -183,27 +181,22 @@ These Talents do not have modified effects depending on Saint Stance, and as suc
 
 Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accordance to your current Saint Stance.
 
-**Saintsworn: Flamecharm Saint Stance**
+-   **Blade of Saints: Flamecharm Saint Stance**
+    -   Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.
 
--   Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.
+-   **Blade of Saints: Galebreathe Saint Stance**
+    -   You propel yourself forwards with the winds, uppercutting anyone in your wake.
+    -   Procs [Meteor Impact](Talents.md#falling-star-guard).
 
-**Saintsworn: Galebreathe Saint Stance**
+-   **Blade of Saints: Shadowcast Saint Stance**
+    -   The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path.
 
--   You propel yourself forwards with the winds, uppercutting anyone in your wake.
--   Procs [Meteor Impact](Talents.md#falling-star-guard).
+-   **Blade of Saints: Frostdraw Saint Stance**
+    -   Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback.
 
-**Saintsworn: Shadowcast Saint Stance**
-
--   The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path.
-
-**Saintsworn: Frostdraw Saint Stance**
-
--   Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback.
-
-**Saintsworn: Thundercall Saint Stance**
-
--   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
--   Can be modified with [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Cloudstones](Mantra_Modifiers.md#regular-modifiers) to increase the amount of lightning strikes.
+-   **Blade of Saints: Thundercall Saint Stance**
+    -   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
+    -   Can be modified with [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Cloudstones](Mantra_Modifiers.md#regular-modifiers) to increase the amount of lightning strikes.
 
 ### Talent Cards:
 

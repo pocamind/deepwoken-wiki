@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 158697
+revid: 158820
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
