@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158838
+revid: 158854
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -66,7 +66,6 @@ Some Talents are **mutually exclusive** with other Talents, meaning picking one 
 
 _When it comes to mutually exclusive Talents, you can have either (unexhaustive list):_
 
--   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
 -   _Risky Moves_ **or** _Safety Dance/Observation;_
 -   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
@@ -153,7 +152,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Bloodrend: Red
     -   Does not effect Oath, Attunement-less, or Monster mantras.
     -   Prerequisite: 25 Intelligence
-    -   Mutual Exclusive: Return to the Dark Ages
 
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
     -   The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
@@ -163,6 +161,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% Ether to get the damage buff despite what the Talent description says. The damage buff applies the moment you hit full Ether.
+    -   Overflowing Dam's damage bonus will be lessened if you do not meet its Intelligence requirement.
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -298,8 +297,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Annihilator
 
--   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
-    -   Duration scales with investment up to its requirement. With 75 Strength, Collapsed Lung will last 2 seconds. Every point in Strength above 75 will add 0.04 seconds to the duration, capping at the full 3 seconds with 100 Strength.
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 7s.
+    -   Duration scales with investment up to its requirement, being much weaker if you have less than 100 Strength.
     -   Prerequisite: 100 Strength
 
 ### Apex Predator
@@ -630,18 +629,22 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Bulwark
 
--   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 5s.
+-   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 20s.
+    -   Defensive Reprisal's duration will be reduced if you do not meet its 65 Fortitude requirement.
     -   Prerequisities: 65 Fortitude
 
--   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 3s.
+-   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
+    -   Dancing Guard's duration will be reduced if you do not meet its 55 Fortitude requirement.
     -   Prerequisities: 55 Fortitude
 
--   Down to your Level \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 2s.
+-   Down to your Level \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 5s.
+    -   Down to your Level's effectiveness will be reduced if you do not meet its 60 Fortitude requirement
     -   Procs from Entaglement, Daze, Chill and most other things that slow you down.
     -   Does not proc from Grand Fisher Plate or Wormwarder Lantern despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
--   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 5s.
+-   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 15s.
+    -   Knuckle Guard's effectiveness will be reduced if you do not meet its requirements.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
 ### Butterfly
@@ -698,6 +701,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 25 Strength
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
+    -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Prerequisite: 70 Willpower
     -   Currently, the only things Defiance cuts in half are:
         -   Flamecharm's burn damage
@@ -714,6 +718,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Time knocked (cut by 50% multiplicatively after other modifiers)
 
 -   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes.
+    -   Underdog's damage bonus will be lessened if you do not meet its Willpower requirement.
     -   "Higher HP" refers to current HP.
     -   "Larger foes" refers to non-humanoid NPC. (Ex. Megalodaunts, Threshers, Deep Owls, Ethiron)
     -   Prerequisite: 40 Willpower
@@ -741,6 +746,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
     -   Increases the duration of **Charismatic Cast's** Charm from 10s to 15s (from 5s to 7.5s against Disbelief Talent).
+    -   The effectiveness of Lasting Charisma will be reduced if you do not meet its 55 Charisma requirement.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.
@@ -1048,6 +1054,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD.
     -   The Taunt damage buff is also applied to the attack that guard broke.
+    -   The Taunt duration will scale down if you have less than 85 Charisma.
     -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
@@ -1220,6 +1227,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Freak Of Nature
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
+    -   The damage reduction granted will be less effective if you do not meet Exoskeleton's Fortitude requirement.
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
     -   [Vesperian](Vesperian.md)'s Chitin stacks with Exoskeleton, totaling to 14.5% Physical damage reduction.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
@@ -1230,6 +1238,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 40 Fortitude.
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health. (+5 Health)
+    -   The damage reduction granted will be less effective if you do not meet To the Finish's Fortitude requirement.
     -   Prerequisite: 50 Fortitude
 
 ### Frost Forger
@@ -1458,7 +1467,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
     -   Gives a burst of insanity to yourself.
         -   Immediately lose 15% sanity on use.
-        -   If above 80% sanity, immediately lose sanity down to 65%
+        -   If above 80% sanity, immediately lose sanity down to 65%.
+    -   The effects of Heretic's Sutra will be reduced if you do not meet its willpower requirement.
     -   You start benefitting from Talents that require insanity to use (namely _Lose Your Mind_)
     -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds.
         -   Namely Shared Misery and _Piercing Will_.
@@ -1945,9 +1955,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
     -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
         -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
-        -   Lasting Charisma, Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Lasting Charisma (at reqs), Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
         -   Tough Love: 2s -> 1s
-        -   Unnecessary Theatrics: 7s -> 3.5s
+        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
         -   [Dread Whisper](Attunement-less.md#dread-whisper): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
         -   Overcharm's Basic Attacks: 5s -> 2.5s
@@ -2018,11 +2028,13 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
     -   The bonus PEN is applied starting from 35% Sanity.
+    -   The PEN bonus will be lessened if you do not have at least 80 Willpower.
     -   Scales on your current sanity percentage, similar to Lose Your Mind.
     -   Prerequisite: 80 Willpower
 
 -   Shared Misery \[Common Talent\] - Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
     -   Whenever you have less than 100% sanity or are actively losing sanity all Basic Attacks will remove 3% of the targets maximum sanity.
+    -   The amount of sanity damage per hit will scale down if you have less than 85 Willpower.
     -   Prerequisites: 85 Willpower
 
 ### Mr Charm
@@ -2145,6 +2157,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 -   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
+    -   The cooldown reduction effect of Twelve Steps Ahead will be less effective if you have under 80 Intelligence.
     -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 ### One Eyed King
@@ -2174,6 +2187,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Politician
 
 -   Cult of Personality \[Common Talent, Charisma Exclusive\] - You gain +3% PEN for each person Charmed, capping at +15% PEN.
+    -   The PEN gain per target will be reduced if you do not meet Cult of Personality's Charisma requirement.
     -   Prerequisite: 90 Charisma
 
 -   Pardon Me \[Common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
@@ -2202,6 +2216,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   You'll Need To Get Past Me \[Common Talent\] - When you're attacked, one of your many allies will leap into action to protect their boss.
     -   Spawns in an NPC to attack whoever hits you. The 3 known NPCs are [Bandits](Bandit.md), [Bandit Leaders](Bandit_Leader.md), or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
+    -   The effects of this Talent are reduced if you have under 75 Charisma. Whatever that means.
     -   The spawned NPC is considered your ally for proccing Talents.
     -   The spawned NPC applies a player combat tag on hit.
     -   Note that an ally appearing with the Talent only works with players and is scaled by the level of the attacking enemy.
@@ -2247,6 +2262,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Mutual Exclusives: Dazing Finisher
 
 -   Broken Ankles \[Common Talent\] - Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD
+    -   The duration of this effect will be reduced if you do not meet its 70 Strength rqeuirement.
     -   Prerequisite: 70 Strength
 
 -   _Piercing Blow_ \[Rare Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
@@ -2300,7 +2316,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
     -   Scaling: 4 + Ironsing\*0.02
         -   Deals 5.5 physical damage per rod at 75 Ironsing.
-    -   Not affected by "Return To The Dark Ages" Talent
     -   Best PvE Rending Needle path due to its damage output.
     -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
     -   Prerequisites: Master Ironsinger, 75 Ironsing
@@ -2474,7 +2489,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Has 6.47x PVE scale (10 DMG PVP, 64.70 PVE DMG)
     -   Artisan's blade have windup of 1.2s
     -   Artisan's Blades **ARE** **NOT AFFECTED** by DMG mods at **ALL**
-    -   Not affected by "Return To The Dark Ages"
     -   Parrying Artisan's blade gives brief Auto Parry frames.
     -   Also can proc by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (2 rods = 1 Artisan's)
     -   4.5 posture per blade.
@@ -2701,7 +2715,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 20 Charisma
 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
+    -   Sending a message in chat will proc this Talent.
     -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to reinforce (does not stack).
+    -   The buffs applied will have reduced effectiveness if you do not have at least 40 Charisma.
     -   The buff is random for each person affected.
     -   Prerequisite: 40 Charisma
 
@@ -2714,6 +2730,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
     -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
     -   Charms for 7 seconds (3.5s against Disbelief Talent)
+    -   The Charm duration from Unnecessary Theatrics will be reduced if you have less than 75 Charisma.
     -   Does not proc "Golden Tongue" Talent
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
@@ -2942,6 +2959,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Tactician
 
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
+    -   The amount of Tempo absorbed will be lessened if you have under 50 Intelligence.
     -   Prerequisite: 50 Intelligence
     -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this Talent.
 
@@ -3129,12 +3147,13 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   10 second cooldown.
+    -   Manipulator's damage modifier will be reduced if you do not meet its requirements.
     -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
     -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
     -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
         -   For example, a 5 hit multihit critical will only gain a 4% damage bonus from Manipulator as it only procs once and then goes on cooldown.
         -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
-        -   The following assumes your critical deals the same amount of damage per hit (10 damage per hit for the example calculations):
+        -   The following assumes your critical deals the same amount of damage per hit (10 damage per hit for the example calculations) and that you have 60 or higher Charisma:
             -   If it has **less than 3 hits**, Manipulator will be a **net gain** over Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 = 23 VS Tough Love: 11 + 11 = 22, and 23 > 22.)
             -   If it has **exactly 3 hits**, Manipulator will be a **net neutral** and will perform the same as Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 + 10 = 33 VS Tough Love: 11 + 11 + 11 = 33, and 33 = 33.)
             -   If it has **more than 3 hits**, Manipulator will be a **net loss** compared to Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 + 10 + 10 = 43 VS Tough Love: 11 + 11 + 11 + 11 = 44, and 43 < 44.)
@@ -3170,22 +3189,26 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
     -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN. This can bypass the 50% PEN cap.
+    -   Cheap Shot's PEN multiplier will be reduced if you do not have at least 65 Agility.
     -   Prerequisite: 65 Agility
 
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
+    -   Crippling Comeuppance's duration will be reduced if you have less than 100 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 100 Agility
 
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
     -   5s CD per target.
+    -   Down Comes the Claw's duration will be shortened if you do not meet its requirements.
     -   Prerequisite: 75 Agility
 
--   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 3s on proc. (+1 Passive Agility)
+-   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 6s on proc. (+1 Passive Agility)
     -   Applies to passive posture regeneration, Steady Nerves, and posture restoration from parrying. All other sources of posture restoration ignore Maiming Claws entirely.
-    -   In the 30/05/2024 update, the duration of Maiming Claws was increased to 4s, but the Talent description was never updated.
+    -   Maiming Claws' duration will be shortened if you do not meet its requirements.
     -   Prerequisites: 100 Agility, Down Comes the Claw
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Procs even if Revenge is blocked, parried, dodged, or vented.
+    -   Pursuit's cooldown will be increased if you do not have at least 90 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 90 Agility
 
 ### Twinblade
@@ -3240,6 +3263,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff (40s). (+1 Posture)
     -   25 second cooldown.
+    -   Audacity's effects will be reduced if you do not meet its stat requirements.
     -   You create an AoE stun and slow around you when you start gripping someone.
     -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
     -   The damage buff is indicated by a white glowing halo effect surrounding the affected player's head.
@@ -3336,6 +3360,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Cut to the Chase_ \[Rare Talent\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. (+5 Passive Agility)
     -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount to 70% of your weapon's scaled damage.
+        -   The damage bonus to your Air Counters will scale down if you have less than 60 Agility.
     -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
     -   Prerequisite: 60 Agility
         -   The old Air Counter Talent was made innate and then reworked into this.
@@ -3559,14 +3584,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
-
--   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 15%, but your incoming mantra damage is cut by 15% too. (+5 Health)
-    -   RTTDA doesn't stack if both players have it.
-    -   Also reduces burn dealt and received by 15%.
-        -   The only non-Mantra effect it reduces the damage of is burn, meaning things like Eruptions, Puppets, Apparitions/Ghosts, lightning strikes, Crystal/Surge detonations, etc. will be unaffected by RTTDA.
-    -   Works well with [Silentheart](Oath%253A_Silentheart.md).
-    -   Prerequisite: [Power](Power.md) 10
-    -   Mutual Exclusive: Everchanging Aegis
 
 ## Other
 
@@ -3794,7 +3811,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Acts similarly to and stacks additively with the Gluttony enchant.
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
--   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.03.
+-   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.02.
+    -   Stacks additively with Action Surge.
+    -   Both this and Action Surge are applied before [Lightning Cloak's](Thundercall.md#lightning-cloak) swing speed multiplier.
 -   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your Basic Attacks apply a storm strike. \[20 second CD\]
     -   This procs on all Basic Attacks despite what the description states.
     -   This has a proc window of 5 seconds after using Inhale.
@@ -3839,7 +3858,6 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 Certain Talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other Talents, or could otherwise break certain builds.
 
 -   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
--   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing mantra damage is reduced by 15%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn.
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.

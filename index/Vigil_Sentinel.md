@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 157243
+revid: 158855
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, Etrea, World Event]
@@ -41,9 +41,10 @@ This Outfit has 2500 durability and grants +30% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 47.5% Galebreathe, 37% Flamecharm, 37% Shadowcast, and 30% Elemental.
 
-It gives the [Vigil's Grace](Talents.md#equipment-talents) and [Action Surge](Talents.md#vigil-swordsman) Talents. **Vigil's Grace** grants 0.03x swingspeed while you have a speed boost. **Action Surge** grants 0.04x swingspeed while you're using the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. These effects stack, granting a maximum of +0.07x swingspeed.
+It gives the [Vigil's Grace](Talents.md#equipment-talents) and [Action Surge](Talents.md#vigil-swordsman) Talents. **Vigil's Grace** grants 0.02x swingspeed while you have a speed boost. **Action Surge** grants 0.04x swingspeed while you're using the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. These effects stack, granting a maximum of +0.06x swingspeed.
 
 ## Trivia
 
 -   This is the only Master Outfit to have a Power requirement that's lower than 15.
 -   Due to how swing speed is calculated, the swingspeed buff is more impactful the slower your weapon is.
+-   [Lightning Cloak's](Thundercall.md#lightning-cloak) swingspeed multiplier is applied **after** Action Surge and Vigil's Grace, allowing for a very high swingspeed increase when combiend.

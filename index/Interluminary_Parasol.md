@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 156579
+revid: 158853
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -21,8 +21,6 @@ The Interluminary Parasol (also referred to as Jellyfish/Big Jellyfish) is a gia
 According to the item description of it's exclusive drop, the Parasol emerges from the Depths, it's sole purpose being to spread the Depth's influence by bringing it's mobs up to the surface, disrupting the ecosystems on the surface.
 
 This boss is one of the [World Events](World_Events.md), spawning every odd hour of the day in the Eastern Luminant.
-
-Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md) progression and [Attribute](Attributes.md) XP upon defeat.
 
 ## Moveset
 
@@ -56,6 +54,8 @@ Dodgeable:◯
 
 ## Loot Table/Rewards
 
+The Parasol drops an assortment of late game items, such as [Relics](Relics.md) and the exclusive [Parasol Planter](Parasol_Planter.md).
+
 ### 
 
 Exhaustive Loot Table
@@ -74,18 +74,9 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Parasol_Part.md">Parasol Part</a> (direct drop)</li>
-    <li><a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop)</li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a> (direct drop), <a href="Parasol_Part.md">Parasol Part</a> (direct drop), <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop)</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li>
     <li>One or two <a href="Crowns.md">Crowns</a>, depending on how much damage you did to the Parasol</li>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
-  </ul></li>
   </ul></td>
 </tr>
 <tr>
@@ -129,16 +120,12 @@ Exhaustive Loot Table
 
 ## Tips & Tricks
 
--   As of now, an update made the Parasol take more damage from cannons, making it the most effective cheese method for the boss (takes around 4 minutes to kill it with the Schooner). It's far more effective to corner the Parasol with a group when it passes by land than it is to bombard it with your boat.
--   Best method to kill it is to shoot with cannons when you're far away and have someone get close with a high HP ship so you can attack.
-
+-   Ship cannons are the most effective cheese method for the boss, due to their respectable damage and long range, however dealing damage on land with a party of players will prove to be a much faster way to take out the boss.
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
-
--   It follows Two set paths depending on where it spawns. ;
--   Path 1: Near the [Monkey's](<The_Monkey's_Paw.md>) [paw](<The_Monkey's_Paw.md>) - [Ancient rotlands](Ancient_Rotlands.md) highway it will always go towards the [Summer isle](Summer_Isle.md) highway- then to [Miners landing](<Miner's_Landing.md>), Ending at the [Fort merit](Fort_Merit.md) highway.
--   Path2: Near the [Songseeker](Songseeker_Wilds.md) - [Summer isle](Summer_Isle.md) highway it will always go towards the [Monkey's paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel.](Greathive_Aratel.md)
-
--   Having a wall to protect you is almost 100% necessary, as it allows you to deal significant damage without getting hit. (parasol will get stuck on it's path around miner's landing)
+-   It follows Two set paths depending on where it spawns:
+    -   Path 1: Near [The Monkey's Paw](<The_Monkey's_Paw.md>) - [Ancient Rotlands](Ancient_Rotlands.md) highway it will always go towards the [Summer Isle](Summer_Isle.md) highway- then to [Miner's Landing](<Miner's_Landing.md>), Ending at the [Fort Merit](Fort_Merit.md) highway.
+    -   Path2: Near the [Songseeker Wilds](Songseeker_Wilds.md) - [Summer Isle](Summer_Isle.md) highway it will always go towards the [The Monkey's Paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel](Greathive_Aratel.md).
+-   Having a wall to protect you is almost entirely necessary, as it allows you to deal significant damage without getting hit.
 
 ## Trivia
 

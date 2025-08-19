@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 153780
+revid: 158845
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -60,7 +60,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 </tr>
 <tr>
   <td><b>Hack &amp; Slash</b></td>
-  <td>The Crustaceous Rex raises its <i><b>Right &amp; Left Arms</b></i>, swinging them downward at its opponent in rapid succession, dealing high damage should both hits connect.</td>
+  <td>The Crustaceous Rex raises its <i><b>Right &amp; Left Arms</b></i>, swinging them downward at its opponent in rapid succession, dealing high damage should both hits connect. Parrying the first swing will cancel the second.</td>
   <td></td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
