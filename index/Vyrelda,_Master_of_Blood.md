@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 158944
+revid: 158989
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant]
@@ -15,7 +15,7 @@ categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First F
 
 ## Description
 
-The [Bloodrend](Bloodrend.md) Trainer who was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in Layer 2. She is found treating a wounded Diver. The outfit she is wearing is [Sanguine Finery](Sanguine_Finery.md) obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
+Vyrelda is an NPC who acts as the [Bloodrend](Bloodrend.md) Trainer. She was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in Layer 2. She is found treating a wounded Diver. The outfit she is wearing is [Sanguine Finery](Sanguine_Finery.md) obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
 
 She appears to be friendly, albeit stern towards the player. She is seen healing a lost diver by clotting their wounds and restoring their blood through blood magic, despite not being affiliated with the Divers.
 

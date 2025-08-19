@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 152517
+revid: 158992
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attunement, Mantras, Enemies]
@@ -136,7 +136,7 @@ They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_
  | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
 | 
 
-[Vyrelda](Vyrelda,_Master_of_Blood.md)
+[Vyrelda, Master of Blood](Vyrelda,_Master_of_Blood.md)
 
  | [Bloodrend](Bloodrend.md) | Area: [Firfire](Firfire.md) or [Derelict Highchurch](Derelict_Highchurch.md)
 

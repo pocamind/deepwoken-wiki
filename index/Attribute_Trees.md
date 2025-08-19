@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 158569
+revid: 159001
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Attribute Trees
 
-Talent Trees documented so far in [Talents](Talents.md): 64/195  
+Talent Trees documented so far in [Talents](Talents.md): 71/200  
 This page is organized to see Talents generally, allowing you to pick them out with minimal details. [Talents](Talents.md) provides extended information on the topic of Talents.
 
 Each Tab is designed to show Talents that involve the searched Attribute from Least to Greatest Ex. Potion Quaffer has the Prerequisites \[15 Fortitude OR 15 Willpower, 30 intelligence, Other\], it will be in each of the Attribute Tabs and show up twice in the Intelligence Tab under both Hybrids. If a linked Talent is not on the Tab, it will redirect to Talent Tree as for Talents and Mantras that are not linked or made, they will show up as Invalid "Hyperlink".
@@ -604,6 +604,11 @@ Alley Cat
 Ether Conduit  
 4-ET1-3 | 20AGL  
 15INT | Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras. |
+| File:TalentCardImage2.png | Behind You  
+Ether Endeavors  
+4-ET2-2 | 40AGL  
+70INT  
+[Keen Recovery](Talents.md#ether-endeavors) | Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left. |
 
 ## Weapon Hybrids 2.3.5
 
@@ -642,6 +647,11 @@ Frost Forger
 4-FR2-1 | 20AGL  
 20ICE  
 [Ice Blade](Frostdraw.md#ice-blade)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
+| File:TalentCardImage2.png | Glacial Coasting  
+Frostthorn  
+4-FR4-2 | 25AGL  
+50ICE  
+[Orbital Ice](Talents.md#frostthorn) | Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility) |
 
 ### Galebreathe Hybrids 2.3.10
 
@@ -759,6 +769,9 @@ Adept Caster
 | File:TalentCardImage2.png | Master Craftsman  
 Artisan  
 4-AR2-1 | 45INT | Your skills alone substitute the need for a Craft Station. (+5 Health) |
+| File:TalentCardImage2.png | Keen Recovery  
+Ether Endeavors  
+4-ET2-1 | 55INT | Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load) |
 | File:TalentCardImage2.png | Placebo Effect  
 Alchemist  
 4-AL1-4 | 60INT | Drinking potions near allies will share the potion's effect with them. |
@@ -804,6 +817,11 @@ Alchemist
 Ether Conduit  
 4-ET1-3 | 15INT  
 20AGL | Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras. |
+| File:TalentCardImage2.png | Behind You  
+Ether Endeavors  
+4-ET2-2 | 70INT  
+40AGL  
+Keen Recovery | Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left. |
 
 ### Willpower Hybrids 2.4.5
 
@@ -862,9 +880,18 @@ Dark God | Knocking out an enemy in combat restores a portion of your ether. |
 | File:TalentCardImage2.png | Underdog  
 Champion  
 4-CH2-3 | 40WIL | You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes. |
+| File:TalentCardImage2.png | Against All Odds  
+Absolute Focus  
+4-AB1-1 | 65WIL | For each combat tag you have on your character, increase your damage by 1% (max of 7%). |
 | File:TalentCardImage2.png | Defiance  
 Champion  
 4-CH2-2 | 70WIL | Negative status effects are half as effective when you are below 35% HP. |
+| File:TalentCardImage2.png | Unswayed  
+Absolute Focus  
+4-AB1-3 | 75WIL | The effects of Taunt and Encore no longer work on you. (+20 Sanity) |
+| File:TalentCardImage2.png | Emergency Reserves  
+Absolute Focus  
+4-AB1-2 | 80WIL | When you get hit below 20% health, gain 20% tempo immediately (3 minute CD). |
 
 ## Body and Mind Hybrids 2.5.1
 
@@ -1343,6 +1370,17 @@ Arcwarder
 
 | Media | Talent | Prerequisites | Card Description |
 | --- | --- | --- | --- |
+| File:TalentCardImage2.png | Frostdrawer  
+Frostdrawer  
+4-FR3-1 | 1ICE  
+[Trainer](Nell,_Master_of_Frost.md) | Grants you the ability to command Ice as a Frostdrawer. |
+| File:TalentCardImage2.png | Adept Frostdrawer  
+Frostdrawer  
+4-FR3-2 | 20ICE | You can now obtain 1-Star Leveled Frostdrawer Mantras. |
+| File:TalentCardImage2.png | Cold Front  
+Frostdrawer  
+4-FR3-5 | 25ICE  
+Cryonis | Your vent is imbued with glacial frost. |
 | File:TalentCardImage2.png | Chilling Flourish  
 Cryomancer  
 4-CR2-1 | 30ICE | When flourishing an enemy, they leave behind a trail of ice in the direction you send them. |
@@ -1353,11 +1391,17 @@ Cryomancer
 | File:TalentCardImage2.png | Cool Head  
 Cryomancer  
 4-CR2-4 | 30ICE | If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown |
+| File:TalentCardImage2.png | Expert Frostdrawer  
+Frostdrawer  
+4-FR3-3 | 30ICE | You can now obtain 2-Star Leveled Frostdraw Mantras. |
 | File:TalentCardImage2.png | Freezing Wight  
 Cold Phantom  
 4-CO1-1 | 40ICE  
 Haunted Gale  
  | Your Haunted Gale now procs Chilled. |
+| File:TalentCardImage2.png | Master Frostdrawer  
+Frostdrawer  
+4-FR3-4 | 50ICE | You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health) |
 | File:TalentCardImage2.png | Fragile Freeze  
 Cryomancer  
 4-CR2-5 | 60ICE | Your Light Attacks and Critical will now freeze chilled opponents on guardbreak. |
@@ -1365,6 +1409,12 @@ Cryomancer
 Cryomancer  
 4-CR2-6 | 60ICE  
 [Ice Beam](Frostdraw.md#ice-beam)(☆☆☆) | Enemies hit during the last moments of your ice beam are frozen. |
+| File:TalentCardImage2.png | Frozen Legs  
+Frozen Warrior  
+4-FR6-1 | 60ICE | Your slow effect prevents your opponents from rolling. |
+| File:TalentCardImage2.png | Orbital Ice  
+Frostthorn  
+4-FR4-1 | 65ICE | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) |
 
 ## Body and Mind Hybrids 4.2.1
 
@@ -1377,6 +1427,11 @@ Frost Forger
 4-FR2-1 | 20ICE  
 20AGL  
 [Ice Blade](Frostdraw.md#ice-blade)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
+| File:TalentCardImage2.png | Glacial Coasting  
+Frostthorn  
+4-FR4-2 | 50ICE  
+25AGL  
+Orbital Ice | Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility) |
 
 ### Intelligence Hybrids 4.2.3
 
@@ -1412,6 +1467,12 @@ Doomsday Engine
 4-DO1-1 | 40ICE  
 40LTN  
 Static Link | Landing a critical with a Static Link on your opponent applies Chilled. |
+| File:TalentCardImage2.png | Fulgurite Formation  
+Frozen Lightning  
+4-FR5-1 | 50ICE  
+50LTN  
+Glass Path: Crystallization  
+Surge Path: Unstable Capacitor | When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s. |
 
 ### Bloodrend Hybrids 4.2.7
 
@@ -1476,6 +1537,12 @@ Doomsday Engine
 4-DO1-1 | 40LTN  
 40ICE  
 Static Link | Landing a critical with a Static Link on your opponent applies Chilled. |
+| File:TalentCardImage2.png | Fulgurite Formation  
+Frozen Lightning  
+4-FR5-1 | 50LTN  
+50ICE  
+Glass Path: Crystallization  
+Surge Path: Unstable Capacitor | When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s. |
 
 ### Bloodrend Hybrids 4.3.5
 
@@ -1708,6 +1775,10 @@ Singularity | Your singularity pulls everyone nearby in. |
 Death Speaker  
 4-DE1-2 | 60SDW  
 Singularity | Your singularity now pulls ether from the extra players affected. |
+| File:TalentCardImage2.png | Reverse Leech  
+Evil Endeavors  
+4-EV1-1 | 60SDW  
+[Behind You](Talents.md#ether-endeavors) | Anytime you proc Behind You, steal ether from your opponent too. |
 
 ## Body and Mind Hybrids 4.5.1
 

@@ -1,6 +1,6 @@
 ---
 title: The Barrel
-revid: 158895
+revid: 158987
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -28,9 +28,21 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 | droppable | yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer IsleSongseeker Wilds |
+| obtainment | Summer Isle, Songseeker Wilds, Fishing, Minityrsa |
 | description | Once mounted on a royal Etrean galleon, this bulky cannon was salvaged from a wreck by the Summer Company and addapted into a handheld design; still cumbersome, according to those who used it before its eventual retirement. |
 
 ## Description
 
 A cannon salvaged from a royal Etrean galleon by the Summer Company and molded into a more handheld design, The Barrel is a very large Greatcannon [Weapon](Weapons.md) held with both hands.
+
+## Critical
+
+The Barrel's critical has a 7 second cooldown.
+
+  
+
+## Trivia
+
+-   Was supposed to be added in the same update as [Titus](Titus_Fulminus_Destellus.md) as well as the [Summer Hullwrecker](Summer_Hullwrecker.md).
+-   Shares the same critical with [Summer Hullwrecker](Summer_Hullwrecker.md)
+-   The critical attacks hitbox is very weird, sometimes not even hitting your enemy at all even though you blatantly hit them. \[Hopefully gets fixed soon\]

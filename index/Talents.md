@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158896
+revid: 158963
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -756,8 +756,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
-    -   Increases the duration of **Charismatic Cast's** Charm from 10s to 15s (from 5s to 7.5s against Disbelief Talent).
-    -   The effectiveness of Lasting Charisma will be reduced if you do not meet its 55 Charisma requirement.
+    -   Lasting Charisma increases the duration of **Charismatic Cast's** Charm from 10s to 15s (from 5s to 7.5s against Disbelief Talent).
+    -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.275 seconds per investment point under 55, capping at 10s duration with 37 Charisma.
+        -   Lasting Charisma is effectively useless if you have less than 37 Charisma.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.
@@ -1052,14 +1053,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
     -   Does not work with Critical Attacks
     -   Prerequisites: 15 Strength, 5 Intelligence
-
-### Elementalist
-
--   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Does not grant the additional 5% PEN if you have under 90 Intelligence.
-    -   Like Million Ton Piercer, this removes the 50% Mantra and Weapon PEN cap.
-    -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
-    -   Mutual Exclusive: Million Ton Piercer
 
 ### Empath
 
@@ -2794,6 +2787,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _**Absolute Pitch**_ \[Advanced Talent, Intelligence Exclusive\] - You can cast Ritual Mantras instantly.
     -   Removes the ritual cast on all ritual cast Mantras.
     -   Prerequisite: 100 Intelligence
+-   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+    -   Does not grant the additional 5% PEN if you have under 90 Intelligence.
+    -   Like Million Ton Piercer, this removes the 50% Mantra and Weapon PEN cap.
+    -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
+    -   Mutual Exclusive: Million Ton Piercer
 
 ### Soul Converter
 

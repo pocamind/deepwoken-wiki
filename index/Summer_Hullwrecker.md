@@ -1,6 +1,6 @@
 ---
 title: Summer Hullwrecker
-revid: 158894
+revid: 158994
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -28,13 +28,15 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 | droppable | yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle |
+| obtainment | Summer IsleDread Serpent |
 | description | An antique creation from the Summer Company, built to place battleship-level firepower in the palms of your hands. Once hailled a masterpiece, it was soon overshadowed by the lighter rifles, yet in the hands of someone strong enough to wield it, it can still unleash devastation unmatched by newer models. |
 
 ## Description
 
-A cannon engeneered by the Summer Company, The Summer Hullwrecker is a very large Greatcannon [Weapon](Weapons.md) held with both hands.
+A cannon engineered by the Summer Company. The Summer Hullwrecker is a very large [Greatcannon](Weapons.md#greatcannons) held with both hands.
 
 ## Critical
 
-The Hullwrecker's critical has a cooldown of 7.6s
+The Hullwrecker's critical bears similarity to the [Edenbrand Hellcoil's](Edenbrand_Hellcoil.md) critical, having a similar animation, while also having hyperarmor frames at the very end of the crit and flames, which changes color to reflect the user's fire path, if they have one. However, the Hullwrecker's critical has a much shorter wind up compared to the Edenbrand Hellcoil, making it easier to land.
+
+Cooldown of 7.6s.

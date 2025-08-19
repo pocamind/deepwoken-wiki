@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 158881
+revid: 158956
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -101,11 +101,13 @@ Chrysid antennae are [dyable](Dye_Packet.md) ornaments.
 
 **Adept:**
 
+**Sage:**
+
 **Hallowtide:**
 
-### Eyes
+### Ruff
 
-Chrysid has two options for their compound eyes, round or slanted.
+Chrysid has a unique shoulder ruff. The color of this Ruff is dependent on your variant, though it can be [dyed](Dye_Packet.md).
 
 **Hierophant:**
 
@@ -114,6 +116,24 @@ Chrysid has two options for their compound eyes, round or slanted.
 **Seer:**
 
 **Adept:**
+
+**Sage:**
+
+**Hallowtide:**
+
+### Eyes
+
+Chrysid has four options for their compound eyes: round, down slant, up slant, or squint.
+
+**Hierophant:**
+
+**Devout:**
+
+**Seer:**
+
+**Adept:**
+
+**Sage:**
 
 **Hallowtide:**
 
@@ -128,6 +148,8 @@ Chrysid has a set of optional eyebrows.
 **Seer:**
 
 **Adept:**
+
+**Sage:**
 
 **Hallowtide:**
 
