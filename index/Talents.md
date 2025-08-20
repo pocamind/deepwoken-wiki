@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159069
+revid: 159076
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3163,7 +3163,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   You can still gain Static Blade stacks while Gathering Electricity is active.
     -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
         -   +3 base damage might not seem like a large buff, but due to how Deepwoken's damage calculation works, this is very significant.
-    -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Any Medium Weapon (Cannot obtain with Rifle)
+    -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Any Medium Weapon
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning.
     -   Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.
