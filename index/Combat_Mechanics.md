@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 158965
+revid: 159032
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -429,12 +429,13 @@ Image
 -   Corrupted [Chorus Divide](Chorus_Divide.md)
 -   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
 -   [Throw](Attunement-less.md#throw) grab
+-   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
+-   Default Greatcannon critical (Shockwave)
 -   [Kyrsieger](Kyrsieger.md) critical
 -   [Relic Axe](Relic_Axe.md) critical (Pillars)
 -   [Emotion Wave](Thundercall.md#emotion-wave) (First hit and outward lightning)
 -   [Deepspindle](Deepspindle.md) standing critical multihits
 -   [Kyrswynter](Kyrswynter.md) running critical
--   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
 
  |
 | Green | File:Greentelegraph.png | ◯ | ✗ | ✗ | ◯ |

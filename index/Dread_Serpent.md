@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 154181
+revid: 159068
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -75,15 +75,8 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
-    <li><a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, used for the Dread Breath <a href="Monster_Mantras.md">Monster Mantras</a>. Note that this drops from his main body.</li>
-    <li><a href="Dread_Flesh.md">Dread Flesh</a> (direct drop)</li>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li>All <a href="Enchant_Stone.md">Enchant Stones</a></li>
-    <li><a href="Ardour_Manifestation.md">Ardour Manifestation</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li><a href="Dormant_Splinter.md">Dormant Splinter</a></li>
-  </ul></li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Dread_Flesh.md">Dread Flesh</a> (direct drop), <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a> (direct drop)</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, Non-Exclusive <a href="Enchant_Stone.md">Enchant Stones</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -97,7 +90,7 @@ Exhaustive Loot Table
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Central_Dirk.md">Central Dirk</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Flintlock.md">Flintlock</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Tanto.md">Tanto</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Falchion.md">Falchion</a>, <a href="Gremorian_Longspear.md">Gremorian Longspear</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Katana.md">Katana</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Nocturne.md">Nocturne</a>, <a href="Officer_Saber.md">Officer Saber</a>, <a href="Pernach.md">Pernach</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Ritual_Spear.md">Ritual Spear</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scalesplitter.md">Scalesplitter</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a> <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Worshipper_Longsword.md">Worshipper Longsword</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>.</li>
-    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Petra's_Anchor.md">Petra's Anchor</a>, <a href="Zweihander.md">Zweihander</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Petra's_Anchor.md">Petra's Anchor</a>, <a href="Summer_Hullwrecker.md">Summer Hullwrecker</a>, <a href="Zweihander.md">Zweihander</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a>, <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Worshipper's_Shield.md">Worshipper's Shield</a>.</li>
   </ul></td>

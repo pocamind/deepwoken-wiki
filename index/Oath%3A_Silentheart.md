@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 157200
+revid: 159004
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -53,9 +53,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-This Oath is progressed via the killing of [Attunement Trainers](Attunement_Trainers.md) (excluding [Regek](Regek.md), [Beatra](Beatra.md) and [Vyrelda](Vyrelda,_Master_of_Blood.md)).
+This Oath is progressed via the killing of [Attunement Trainers](Attunement_Trainers.md) (excluding [Regek](Regek.md), and [Beatra](Beatra.md) ).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
 Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
 
@@ -146,7 +146,10 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   Light: 18
         -   Medium: 21.6
         -   Heavy: 32.76
-    -   8 second cooldown.
+
+8 second cooldown.
+
+-   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.
 
 ## Notes
 

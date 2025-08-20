@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 158827
+revid: 159072
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -434,6 +434,17 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><center><b>Name</b></center></td>
   <td><center><b>Description</b></center></td>
   <td><center><b>Visual Effect</b></center></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Curse of Romanian</font></center></td>
+  <td><div><p>Your weapon's base damage is tied to your current <a href="Notes.md">Notes</a>.<br>
+  While at 0 Notes, lose 15% of your weapon's base damage. If your Notes are above 0, increase your weapon's base damage instead, capping at +15% base damage with 15k Notes.</p>
+  <p>Upon taking damage, lose 100 Notes. Upon dealing damage, steal 50 of your opponent's Notes.<br>
+  You do not lose nor gain Notes from non-player enemies.</p>
+  <p><br>
+  <b>Unobtainable</b></p></div></td>
+  <td><div>Weapon exudes gold particles.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>

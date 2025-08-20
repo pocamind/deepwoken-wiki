@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 158853
+revid: 159061
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -89,7 +89,7 @@ Exhaustive Loot Table
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
     <li><b>Medium Weapons</b>: <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>.</li>
-    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Kanabo.md">Kanabo</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="The_Barrel.md">The Barrel</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>
   </ul></td>

@@ -1,9 +1,9 @@
 ---
 title: Greatcannons
-revid: 158893
+revid: 159035
 source: https://deepwoken.fandom.com/wiki/Greatcannons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Heavy Weapons]
+categories: [Weapons, Heavy Weapons, Weapons by Class]
 ---
 
 # Greatcannons

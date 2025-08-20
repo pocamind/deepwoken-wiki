@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 157209
+revid: 159064
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ Motifs can be unequipped at any time at a Campfire; the Motif will return to you
 
 Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten (see below for more info). This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Soulwrought Weapons](Crazy_Slots.md#weapons).
 
-Any weapon with a default critical (excluding Fist weapons) can be used to obtain a Motif. Base critical Motifs can only be equipped onto other weapons within that weapon class.
+Any weapon with a default critical (excluding Fist and Greatcannon weapons) can be used to obtain a Motif. Base critical Motifs can only be equipped onto other weapons within that weapon class.
 
 ### Overridable Weapons
 
@@ -186,7 +186,7 @@ Greataxes, Spears
  |
 | 
 
-Any weapon in the respective weapon class (excluding fists) with a default critical attack
+Any weapon in the respective weapon class (excluding Fists and Greatcannons) with a default critical attack
 
  | 
 

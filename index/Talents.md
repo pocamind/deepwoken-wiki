@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 158963
+revid: 159069
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -171,8 +171,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 85 Intelligence
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
+    -   If you have less than 40 Intelligence, Overflowing Dam's damage bonus will be halved to +5% damage.
     -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% Ether to get the damage buff despite what the Talent description says. The damage buff applies the moment you hit full Ether.
-    -   Overflowing Dam's damage bonus will be lessened if you do not meet its Intelligence requirement.
     -   Prerequisite: 40 Intelligence
     -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
@@ -729,10 +729,13 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Time knocked (cut by 50% multiplicatively after other modifiers)
 
 -   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes.
-    -   Underdog's damage bonus will be lessened if you do not meet its Willpower requirement.
+    -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
+    -   The damage bonus starts at +2% damage with 20 Willpower and scales up to +4% damage at 60 Willpower, gaining +0.05% damage per point in Willpower, but capping at 4%.
+        -   Having less than 20 Willpower will not cause the Talent to get any weaker.
+        -   At requirements, Underdog will provide a 2.5% damage bonus.
     -   "Higher HP" refers to current HP.
-    -   "Larger foes" refers to non-humanoid NPC. (Ex. Megalodaunts, Threshers, Deep Owls, Ethiron)
-    -   Prerequisite: 40 Willpower
+    -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
+    -   Prerequisite: 30 Willpower
     -   This was merged with the old Giantslayer Talent.
 
 ### Charm Caster
@@ -2786,7 +2789,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**Absolute Pitch**_ \[Advanced Talent, Intelligence Exclusive\] - You can cast Ritual Mantras instantly.
     -   Removes the ritual cast on all ritual cast Mantras.
+    -   If you have less than 100 Intelligence, it will greatly reduce the number of ritual keys instead of fully removing them.
     -   Prerequisite: 100 Intelligence
+
 -   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Does not grant the additional 5% PEN if you have under 90 Intelligence.
     -   Like Million Ton Piercer, this removes the 50% Mantra and Weapon PEN cap.

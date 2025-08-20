@@ -1,9 +1,9 @@
 ---
 title: The Barrel
-revid: 158987
+revid: 159060
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
 ---
 
 # The Barrel
@@ -18,18 +18,20 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 15% |
-| m.equip | Yes |
+| m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Common |
 | selling price | N/A |
 | weight | 10.3 |
-| bankable | yes |
-| droppable | yes |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, Songseeker Wilds, Fishing, Minityrsa |
+| obtainment | Summer Isle, Songseeker Wilds, Fishing, Minityrsa, Interluminary Parasol |
 | description | Once mounted on a royal Etrean galleon, this bulky cannon was salvaged from a wreck by the Summer Company and addapted into a handheld design; still cumbersome, according to those who used it before its eventual retirement. |
+
+_Not to be confused with [Barrels](Barrel.md)._
 
 ## Description
 
@@ -37,9 +39,7 @@ A cannon salvaged from a royal Etrean galleon by the Summer Company and molded i
 
 ## Critical
 
-The Barrel's critical has a 7 second cooldown.
-
-  
+The Barrel uses the default Greatcannon critical, firing the cannon and dealing damage in a large unparryable shockwave in front of the user before firing a projectile. The shockwave applies daze and has a scaled damage multiplier of **0.75x**. The projectile is mouse aim-able and explodes on contact, applying [Burn](Status_Effects.md#burn) with a scaled damage multiplier of **1x**. This critical has a cooldown of **7 seconds**. The projectile's damage will lessen the farther the projectile travels.
 
 ## Trivia
 

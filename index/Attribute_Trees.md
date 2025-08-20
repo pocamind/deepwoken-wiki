@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 159001
+revid: 159016
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -130,7 +130,7 @@ Apex Predator
 5WIL | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
 Apex Predator  
-4-AP1-2 | Carnivore | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
+4-AP1-2 | [Carnivore](#4-ap1-1str) | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 | File:TalentCardImage2.png | Charged Return  
 Ether Conduit  
 4-ET1-1 | 15STR  
@@ -198,7 +198,7 @@ Aeromancer
 35WND | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |
 |  | Stifled Jump  
 Aeromancer  
-4-AE2-5 | Suffocating Impact | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
+4-AE2-5 | [Suffocating Impact](#4-ae2-4str) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
 
 ## Oaths 2.1.12
 
@@ -213,21 +213,21 @@ Bladeharper
 [Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
 | Bladeharper.png | Float Like a Butterfly  
 Bladeharper  
-4-BL1-2 | Oath:Bladeharper | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+4-BL1-2 | [Oath:Bladeharper](#4-bl1-1str) | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
 | Bladeharper.png | Lithe Step  
 Bladeharper  
-4-BL1-3 | Oath: Bladeharper | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+4-BL1-3 | [Oath: Bladeharper](#4-bl1-1str) | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
 | Bladeharper.png | Reveal  
 Bladeharper  
-4-BL1-4 | Oath: Bladeharper  
+4-BL1-4 | [Oath: Bladeharper](#4-bl1-1str)  
 [Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
 | Bladeharper.png | Soaring Storm  
 Bladeharper  
-4-BL1-5 | Oath: Bladeharper  
+4-BL1-5 | [Oath: Bladeharper](#4-bl1-1str)  
 [Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
 | Bladeharper.png | Untouchable  
 Bladeharper  
-4-BL1-6 | Oath: Bladeharper  
+4-BL1-6 | [Oath: Bladeharper](#4-bl1-1str)  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
 ### Blightsurger 2.1.14
@@ -241,23 +241,23 @@ Blightsurger
 [Other](Talents.md#blightsurger) | Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot) |
 | Blightsurger.png | Anchor Shock  
 Blightsurger  
-4-BL3-2 | Blightsurger  
+4-BL3-2 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock prevents targets from using mobility mantras. |
 | Blightsurger.png | Blight Pierce  
 Blightsurger  
-4-BL3-3 | Blightsurger  
+4-BL3-3 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration. |
 | Blightsurger.png | Blighted Touch  
 Blightsurger  
-4-BL3-4 | Blightsurger  
+4-BL3-4 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing M1's during Sovereign State now applies Blightshock. |
 | Blightsurger.png | Blightlash  
 Blightsurger  
-4-BL3-5 | Blightsurger  
+4-BL3-5 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your swing range is enhanced during Sovereign State. |
 | Blightsurger.png | Sovereign State  
 Blightsurger  
-4-BL3-6 | Blightsurger  
+4-BL3-6 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities. |
 
 ### Chainwarden 2.1.15
@@ -270,11 +270,11 @@ Chainwarden
 [Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Chainwarden.png | Perpetual Wrath  
 Chainwarden  
-4-CH1-2 | Oath: Chainwarden  
+4-CH1-2 | [Oath: Chainwarden](#4-ch1-1str)  
 [Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
 | Chainwarden.png | Chainlash  
 Chainwarden  
-4-CH1-3 | Oath: Chainwarden  
+4-CH1-3 | [Oath: Chainwarden](#4-ch1-1str)  
 [Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
 
 **Fortitude (FTD):**
@@ -359,7 +359,7 @@ Alley Cat
 [Mercenary's Boots](<Mercenary's_Boots.md>) | Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility) |
 | File:TalentCardImage2.png | Conditioned Runner  
 Alley Cat  
-4-AL2-3 | Endurance Runner, [Scaredy Cat](Talents.md#alley-cat) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
+4-AL2-3 | [Endurance Runner](#4-al2-1ftd), [Scaredy Cat](Talents.md#alley-cat) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
 ### Intelligence Hybrids 2.2.4
 
@@ -424,23 +424,23 @@ Arcwarder
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
 Arcwarder  
-4-AR1-2 | Arcwarder  
+4-AR1-2 | [Arcwarder](#4-ar1-1ftd)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
 Arcwarder  
-4-AR1-3 | Arcwarder  
+4-AR1-3 | [Arcwarder](#4-ar1-1ftd)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
 Arcwarder  
-4-AR1-4 | Arcwarder  
+4-AR1-4 | [Arcwarder](#4-ar1-1ftd)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
 Arcwarder  
-4-AR1-5 | Arcwarder  
+4-AR1-5 | [Arcwarder](#4-ar1-1ftd)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
 Arcwarder  
-4-AR1-6 | Arcwarder  
+4-AR1-6 | [Arcwarder](#4-ar1-1ftd)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 ### Blightsurger 2.2.11
@@ -454,23 +454,23 @@ Blightsurger
 [Other](Talents.md#blightsurger) | Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot) |
 | Blightsurger.png | Anchor Shock  
 Blightsurger  
-4-BL3-2 | Blightsurger  
+4-BL3-2 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock prevents targets from using mobility mantras. |
 | Blightsurger.png | Blight Pierce  
 Blightsurger  
-4-BL3-3 | Blightsurger  
+4-BL3-3 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration. |
 | Blightsurger.png | Blighted Touch  
 Blightsurger  
-4-BL3-4 | Blightsurger  
+4-BL3-4 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing M1's during Sovereign State now applies Blightshock. |
 | Blightsurger.png | Blightlash  
 Blightsurger  
-4-BL3-5 | Blightsurger  
+4-BL3-5 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your swing range is enhanced during Sovereign State. |
 | Blightsurger.png | Sovereign State  
 Blightsurger  
-4-BL3-6 | Blightsurger  
+4-BL3-6 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities. |
 
 ### Chainwarden 2.2.12
@@ -483,11 +483,11 @@ Chainwarden
 [Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Chainwarden.png | Perpetual Wrath  
 Chainwarden  
-4-CH1-2 | Oath: Chainwarden  
+4-CH1-2 | [Oath: Chainwarden](#4-ch1-1ftd)  
 [Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
 | Chainwarden.png | Chainlash  
 Chainwarden  
-4-CH1-3 | Oath: Chainwarden  
+4-CH1-3 | [Oath: Chainwarden](#4-ch1-1ftd)  
 [Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
 
 **Agility (AGL):**
@@ -523,7 +523,7 @@ Butterfly
 | File:TalentCardImage2.png | Evasive Expert  
 Butterfly  
 4-BU2-2 | 15AGL  
-Swift Rebound | Your speed boost granted from dodging is increased. (+1 Passive Agility) |
+[Swift Rebound](#4-bu2-1agl) | Your speed boost granted from dodging is increased. (+1 Passive Agility) |
 | File:TalentCardImage2.png | Kick Off  
 Acrobat  
 4-AC1-1 | 20AGL | You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility) |
@@ -555,7 +555,7 @@ Assassin
 | File:TalentCardImage2.png | Unseen Threat  
 Assassin  
 4-AS1-4 | 60AGL  
-Deep Wound | You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s. |
+[Deep Wound](#4-as1-1agl) | You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s. |
 | File:TalentCardImage2.png | Tap Dancer  
 Duelist  
 4-DU1-8 | 60AGL | Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility) |
@@ -594,7 +594,7 @@ Alley Cat
 [Mercenary's Boots](<Mercenary's_Boots.md>) | Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility) |
 | File:TalentCardImage2.png | Conditioned Runner  
 Alley Cat  
-4-AL2-3 | Endurance Runner, Scaredy Cat | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
+4-AL2-3 | [Endurance Runner](#4-al2-1agl), [Scaredy Cat](#4-al2-2agl) | You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility) |
 
 ### Intelligence Hybrids 2.3.4
 
@@ -636,7 +636,7 @@ Flame Warden
 Flame Warden  
 4-FL2-3 | 25AGL  
 40FIR  
-Warding Radiance | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) |
+[Warding Radiance](#4-fl2-2agl) | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) |
 
 ### Frostdraw Hybrids 2.3.9
 
@@ -675,21 +675,21 @@ Bladeharper
 [Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
 | Bladeharper.png | Float Like a Butterfly  
 Bladeharper  
-4-BL1-2 | Oath:Bladeharper | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+4-BL1-2 | [Oath:Bladeharper](#4-bl1-1agl) | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
 | Bladeharper.png | Lithe Step  
 Bladeharper  
-4-BL1-3 | Oath: Bladeharper | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+4-BL1-3 | [Oath: Bladeharper](#4-bl1-1agl) | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
 | Bladeharper.png | Reveal  
 Bladeharper  
-4-BL1-4 | Oath: Bladeharper  
+4-BL1-4 | [Oath: Bladeharper](#4-bl1-1agl)  
 [Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
 | Bladeharper.png | Soaring Storm  
 Bladeharper  
-4-BL1-5 | Oath: Bladeharper  
+4-BL1-5 | [Oath: Bladeharper](#4-bl1-1agl)  
 [Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
 | Bladeharper.png | Untouchable  
 Bladeharper  
-4-BL1-6 | Oath: Bladeharper  
+4-BL1-6 | [Oath: Bladeharper](#4-bl1-1agl)  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
 ### Blightsurger 2.3.13
@@ -703,23 +703,23 @@ Blightsurger
 [Other](Talents.md#blightsurger) | Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot) |
 | Blightsurger.png | Anchor Shock  
 Blightsurger  
-4-BL3-2 | Blightsurger  
+4-BL3-2 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock prevents targets from using mobility mantras. |
 | Blightsurger.png | Blight Pierce  
 Blightsurger  
-4-BL3-3 | Blightsurger  
+4-BL3-3 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration. |
 | Blightsurger.png | Blighted Touch  
 Blightsurger  
-4-BL3-4 | Blightsurger  
+4-BL3-4 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing M1's during Sovereign State now applies Blightshock. |
 | Blightsurger.png | Blightlash  
 Blightsurger  
-4-BL3-5 | Blightsurger  
+4-BL3-5 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your swing range is enhanced during Sovereign State. |
 | Blightsurger.png | Sovereign State  
 Blightsurger  
-4-BL3-6 | Blightsurger  
+4-BL3-6 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities. |
 
 **Intelligence (INT):**
@@ -821,7 +821,7 @@ Ether Conduit
 Ether Endeavors  
 4-ET2-2 | 70INT  
 40AGL  
-Keen Recovery | Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left. |
+[Keen Recovery](#4-et2-1int) | Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left. |
 
 ### Willpower Hybrids 2.4.5
 
@@ -858,7 +858,7 @@ Cryomancer
 | File:TalentCardImage2.png | Dark Replenishment  
 4-DA1-3 | 25INT  
 50SDW  
-Dark God | Knocking out an enemy in combat restores a portion of your ether. |
+[Dark God](#4-da1-2sdw) | Knocking out an enemy in combat restores a portion of your ether. |
 
 **Willpower (WIL):**
 
@@ -907,7 +907,7 @@ Apex Predator
 5STR | In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike. |
 | File:TalentCardImage2.png | Grand Feast  
 Apex Predator  
-4-AP1-2 | Carnivore | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
+4-AP1-2 | [Carnivore](#4-ap1-1wil) | Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility) |
 | File:TalentCardImage2.png | Charged Return  
 Ether Conduit  
 4-ET1-1 | 20WIL  
@@ -961,7 +961,7 @@ Mental Fortress
 [Other](Talents.md#blindseer) | You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot) |
 | Blindseer.png | All-Seeing Eye  
 Blindseer  
-4-BL2-2 | Oath: Blindseer  
+4-BL2-2 | [Oath: Blindseer](#4-bl2-1wil)  
 [Other](Talents.md#blindseer) | The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted. |
 
 ### Chainwarden 2.5.9
@@ -974,11 +974,11 @@ Chainwarden
 [Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Chainwarden.png | Perpetual Wrath  
 Chainwarden  
-4-CH1-2 | Oath: Chainwarden  
+4-CH1-2 | [Oath: Chainwarden](#4-ch1-1wil)  
 [Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
 | Chainwarden.png | Chainlash  
 Chainwarden  
-4-CH1-3 | Oath: Chainwarden  
+4-CH1-3 | [Oath: Chainwarden](#4-ch1-1wil)  
 [Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
 
 **Charisma (CHA):**
@@ -995,7 +995,7 @@ Charm Caster
 | File:TalentCardImage2.png | Tough Love  
 Charm Caster  
 4-CH3-4 | 25CHA  
-Charmismatic Cast | Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly. |
+[Charmismatic Cast](#4-ch3-1cha) | Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly. |
 | File:TalentCardImage2.png | Give and Take  
 Empath  
 4-EM1-2 | 35CHA  
@@ -1003,11 +1003,11 @@ Empath
 | File:TalentCardImage2.png | Chaotic Charm  
 Charm Caster  
 4-CH3-2 | 55CHA  
-Charmismatic Cast | When attacked at low health enemies deal less damage to you and more to anyone else. |
+[Charmismatic Cast](#4-ch3-1cha) | When attacked at low health enemies deal less damage to you and more to anyone else. |
 | File:TalentCardImage2.png | Lasting Charisma  
 Charm Caster  
 4-CH3-3 | 55CHA  
-Charmismatic Cast | Enemies charmed by your mantras are charmed longer. |
+[Charmismatic Cast](#4-ch3-1cha) | Enemies charmed by your mantras are charmed longer. |
 | File:TalentCardImage2.png | Dazing Finisher  
 Charm Caster  
 4-CH3-5 | [Charm Caster](Talents.md#charm-caster) (Talents) | Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead. |
@@ -1039,12 +1039,12 @@ Bruiser
 | File:TalentCardImage2.png | Brazen Blow  
 Bruiser  
 4-BR2-2 | 30HVY  
-Impairing Blow  
+[Impairing Blow](#426hvy)  
 [Greataxe](Greataxes.md) | Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown) |
 | File:TalentCardImage2.png | Heavy Fatigue  
 Bruiser  
 4-BR2-3 | 40HVY  
-Impairing Blow  
+[Impairing Blow](#426hvy)  
 [Greataxe](Greataxes.md) | \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. |
 | File:TalentCardImage2.png | Rending Impact  
 Bruiser  
@@ -1114,21 +1114,21 @@ Bladeharper
 [Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
 | Bladeharper.png | Float Like a Butterfly  
 Bladeharper  
-4-BL1-2 | Oath:Bladeharper | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+4-BL1-2 | [Oath:Bladeharper](#4-bl1-1med) | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
 | Bladeharper.png | Lithe Step  
 Bladeharper  
-4-BL1-3 | Oath: Bladeharper | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+4-BL1-3 | [Oath: Bladeharper](#4-bl1-1med) | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
 | Bladeharper.png | Reveal  
 Bladeharper  
-4-BL1-4 | Oath: Bladeharper  
+4-BL1-4 | [Oath: Bladeharper](#4-bl1-1med)  
 [Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
 | Bladeharper.png | Soaring Storm  
 Bladeharper  
-4-BL1-5 | Oath: Bladeharper  
+4-BL1-5 | [Oath: Bladeharper](#4-bl1-1med)  
 [Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
 | Bladeharper.png | Untouchable  
 Bladeharper  
-4-BL1-6 | Oath: Bladeharper  
+4-BL1-6 | [Oath: Bladeharper](#4-bl1-1med)  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
 **Light (LHT):**
@@ -1147,7 +1147,7 @@ Brawler
 4-BR1-2 | [Other](Talents.md#brawler) | You can now equip Cestus. |
 | File:TalentCardImage2.png | Bruiser's Mixup  
 Brawler  
-4-BR1-1 | Trained Fist | Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. |
+4-BR1-1 | [Trained Fist](#4-br1-2lht) | Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily. |
 | File:TalentCardImage2.png | Fang and Coil  
 4-FA3 | 20LHT  
 [Other](Talents.md#fang-and-coil) | Adopt the path of the serpent. |
@@ -1156,7 +1156,7 @@ Critical Specialist
 4-CR1-2 | 30LHT | \[Daggers\] Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage |
 | File:TalentCardImage2.png | Decisive Blow  
 Critical Specialist  
-4-CR1-3 | Knife's Journey | Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage |
+4-CR1-3 | [Knife's Journey](#4-cr1-2lht) | Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage |
 | File:TalentCardImage2.png | Successive Throw  
 Critical Specialist  
 4-CR1-4 | 35LHT | \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards |
@@ -1230,12 +1230,12 @@ Power 8 | Fire mantras now move you in the direction you're facing. |
 | File:TalentCardImage2.png | Hell's Partisan  
 Flame Warden  
 4-FL2-4 | 35FIR  
-[Fire Forge](Flamecharm.md#fire-forge)(★☆☆)/Warding Radiance | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) |
+[Fire Forge](Flamecharm.md#fire-forge)(★☆☆)/[Warding Radiance](#4-fl2-2fir) | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) |
 | File:TalentCardImage2.png | Unyielding Inferno  
 4-FL3-7 | 35FIR | Your flames burn just as strong even in the fiercest of storms. |
 | File:TalentCardImage2.png | Phoenix Impact  
 4-FA2-2 | 40FIR  
-Meteor Impact | If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. |
+[Meteor Impact](#4-fa2-1fir) | If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. |
 | File:TalentCardImage2.png | Master Flamecharmer  
 Flamecharmer  
 4-FL3-4 | 50FIR | You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health) |
@@ -1247,7 +1247,7 @@ Power 13 | Landing a fire mantra immediately after flourishing an opponent will 
 Flame Dancer  
 4-FL1-2 | 80FIR  
 Power 13  
-Dancing Steps | Your dancing steps now gives a faster speed boost. |
+[Dancing Steps](#4-fl1-1fir) | Your dancing steps now gives a faster speed boost. |
 
 ## Body and Mind Hybrids 4.1.1
 
@@ -1282,7 +1282,7 @@ Flame Warden
 Flame Warden  
 4-FL2-3 | 40FIR  
 25AGL  
-Warding Radiance | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) |
+[Warding Radiance](#4-fl2-2fir) | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) |
 
 ### Intelligence Hybrids 4.1.5
 
@@ -1336,23 +1336,23 @@ Arcwarder
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
 Arcwarder  
-4-AR1-2 | Arcwarder  
+4-AR1-2 | [Arcwarder](#4-ar1-1fir)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
 Arcwarder  
-4-AR1-3 | Arcwarder  
+4-AR1-3 | [Arcwarder](#4-ar1-1fir)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
 Arcwarder  
-4-AR1-4 | Arcwarder  
+4-AR1-4 | [Arcwarder](#4-ar1-1fir)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
 Arcwarder  
-4-AR1-5 | Arcwarder  
+4-AR1-5 | [Arcwarder](#4-ar1-1fir)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
 Arcwarder  
-4-AR1-6 | Arcwarder  
+4-AR1-6 | [Arcwarder](#4-ar1-1fir)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 **Frostdraw (ICE):**
@@ -1431,7 +1431,7 @@ Frost Forger
 Frostthorn  
 4-FR4-2 | 50ICE  
 25AGL  
-Orbital Ice | Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility) |
+[Orbital Ice](#4-fr4-1ice) | Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility) |
 
 ### Intelligence Hybrids 4.2.3
 
@@ -1509,11 +1509,11 @@ Authority Interrogator
 | File:TalentCardImage2.png | First Interrogation  
 Authority Interrogator  
 4-AU1-3 | 65LTN  
-Resolve Crusher | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. |
+[Resolve Crusher](#4-au1-2ltn) | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. |
 | File:TalentCardImage2.png | Second Interrogation  
 Authority Interrogator  
 4-AU1-4 | 65LTN  
-First Interrogation | Electrified attacks do 50% less damage and posture damage to you. |
+[First Interrogation](#4-au1-3ltn) | Electrified attacks do 50% less damage and posture damage to you. |
 
 ## Body and Mind Hybrids 4.3.1
 
@@ -1567,23 +1567,23 @@ Arcwarder
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
 Arcwarder  
-4-AR1-2 | Arcwarder  
+4-AR1-2 | [Arcwarder](#4-ar1-1ltn)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
 Arcwarder  
-4-AR1-3 | Arcwarder  
+4-AR1-3 | [Arcwarder](#4-ar1-1ltn)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
 Arcwarder  
-4-AR1-4 | Arcwarder  
+4-AR1-4 | [Arcwarder](#4-ar1-1ltn)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
 Arcwarder  
-4-AR1-5 | Arcwarder  
+4-AR1-5 | [Arcwarder](#4-ar1-1ltn)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
 Arcwarder  
-4-AR1-6 | Arcwarder  
+4-AR1-6 | [Arcwarder](#4-ar1-1ltn)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 ### Blightsurger 4.3.8
@@ -1597,23 +1597,23 @@ Blightsurger
 [Other](Talents.md#blightsurger) | Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot) |
 | Blightsurger.png | Anchor Shock  
 Blightsurger  
-4-BL3-2 | Blightsurger  
+4-BL3-2 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock prevents targets from using mobility mantras. |
 | Blightsurger.png | Blight Pierce  
 Blightsurger  
-4-BL3-3 | Blightsurger  
+4-BL3-3 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration. |
 | Blightsurger.png | Blighted Touch  
 Blightsurger  
-4-BL3-4 | Blightsurger  
+4-BL3-4 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing M1's during Sovereign State now applies Blightshock. |
 | Blightsurger.png | Blightlash  
 Blightsurger  
-4-BL3-5 | Blightsurger  
+4-BL3-5 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your swing range is enhanced during Sovereign State. |
 | Blightsurger.png | Sovereign State  
 Blightsurger  
-4-BL3-6 | Blightsurger  
+4-BL3-6 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities. |
 
 **Galebreathe (WND):**
@@ -1658,7 +1658,7 @@ Aeromancer
 15STR | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |
 |  | Stifled Jump  
 Aeromancer  
-4-AE2-5 | Suffocating Impact | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
+4-AE2-5 | [Suffocating Impact](#4-ae2-4wnd) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) |
 
 ### Agility Hybrids 4.4.3
 
@@ -1711,23 +1711,23 @@ Blightsurger
 [Other](Talents.md#blightsurger) | Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot) |
 | Blightsurger.png | Anchor Shock  
 Blightsurger  
-4-BL3-2 | Blightsurger  
+4-BL3-2 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock prevents targets from using mobility mantras. |
 | Blightsurger.png | Blight Pierce  
 Blightsurger  
-4-BL3-3 | Blightsurger  
+4-BL3-3 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration. |
 | Blightsurger.png | Blighted Touch  
 Blightsurger  
-4-BL3-4 | Blightsurger  
+4-BL3-4 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing M1's during Sovereign State now applies Blightshock. |
 | Blightsurger.png | Blightlash  
 Blightsurger  
-4-BL3-5 | Blightsurger  
+4-BL3-5 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your swing range is enhanced during Sovereign State. |
 | Blightsurger.png | Sovereign State  
 Blightsurger  
-4-BL3-6 | Blightsurger  
+4-BL3-6 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities. |
 
 **Shadowcast (SDW):**
@@ -1756,16 +1756,16 @@ Darksiphon
 | File:TalentCardImage2.png | Dark Synergy  
 Darksiphon  
 4-DA1-4 | 45SDW  
-Dark God | Engulf your enemy in shadows when flourishing them. |
+[Dark God](#4-da1-2sdw) | Engulf your enemy in shadows when flourishing them. |
 | File:TalentCardImage2.png | Shadow Overflow  
 Darksiphon  
 4-DA1-5 | 55SDW  
-Dark God | Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. |
+[Dark God](#4-da1-2sdw) | Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. |
 | File:TalentCardImage2.png | Dark Rift  
 Darksiphon  
 4-DA1-7 | 60SDW  
-Dark Hours  
-4-DA1-6SDW | Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. |
+[Dark Hours  
+4-DA1-6SDW](#4-da1-6sdw) | Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. |
 | File:TalentCardImage2.png | Blackhole  
 Death Speaker  
 4-DE1-1 | 60SDW  
@@ -1807,7 +1807,7 @@ Elementalist
 | File:TalentCardImage2.png | Dark Replenishment  
 4-DA1-3 | 50SDW  
 25INT  
-Dark God | Knocking out an enemy in combat restores a portion of your ether. |
+[Dark God](#4-da1-2sdw) | Knocking out an enemy in combat restores a portion of your ether. |
 
 ## Attunement Hybrids 4.5.4
 
@@ -1927,7 +1927,7 @@ Bloodhound
 | File:TalentCardImage2.png | Hemorrhaging Blow  
 Bloodrender  
 4-BL5-7 | 95BLD  
-Master Bloodrender | Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD) |
+[Master Bloodrender](#4-bl5-1bld) | Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds (55 second CD) |
 
 ## Body and Mind Hybrids 4.7.1
 
@@ -2069,7 +2069,7 @@ Apex Predator
 Flame Dancer  
 4-FL1-2 | Power 13  
 80FIR  
-Dancing Steps | Your dancing steps now gives a faster speed boost. |
+[Dancing Steps](#4-fl1-1fir) | Your dancing steps now gives a faster speed boost. |
 | File:TalentCardImage2.png | The Final Act  
 Flame Dancer  
 4-FL1-3 | Power 13  
@@ -2101,15 +2101,15 @@ Dawnwalker
 [Other](Talents.md#dawnwalker) | You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot) |
 | File:TalentCardImage2.png | Absolute Radiance  
 Dawnwalker  
-4-DA2-2 | Oath: Dawnwalker  
+4-DA2-2 | [Oath: Dawnwalker](#4-da2-1p)  
 [Other](Talents.md#dawnwalker) | Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. |
 | File:TalentCardImage2.png | Protagonist Syndrome  
 Dawnwalker  
-4-DA2-3 | Oath: Dawnwalker  
+4-DA2-3 | [Oath: Dawnwalker](#4-da2-1p)  
 [Other](Talents.md#dawnwalker) | The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast. |
 | File:TalentCardImage2.png | Luminous Flash  
 Dawnwalker  
-4-DA2-4 | Oath: Dawnwalker  
+4-DA2-4 | [Oath: Dawnwalker](#4-da2-1p)  
 [Other](Talents.md#dawnwalker) | After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light. |
 
 ### Fadetrimmer X.2.4
@@ -2121,11 +2121,11 @@ Fadetrimmer
 4-FA1-1 | Power 12  
 [Other](Talents.md#fadetrimmer) | You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots) |
 | File:TalentCardImage2.png | Fadetrimmer's Skillset  
-4-FA1-2 | Other | What type of look are we going for today? |
+4-FA1-2 | [Other](#4-fa1-1p) | What type of look are we going for today? |
 | File:TalentCardImage2.png | Hair Products  
-4-FA1-3 | Other | What's in these things? |
+4-FA1-3 | [Other](#4-fa1-1p) | What's in these things? |
 | File:TalentCardImage2.png | Hair Spray  
-4-FA1-4 | Other | Apply your Hair Products. |
+4-FA1-4 | [Other](#4-fa1-1p) | Apply your Hair Products. |
 
 **Oaths:**
 
@@ -2150,23 +2150,23 @@ Arcwarder
 [Quest](Alpha.md) | You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Arcwarder.png | Arc Module: Dash  
 Arcwarder  
-4-AR1-2 | Arcwarder  
+4-AR1-2 | [Arcwarder](#4-ar1-1o)  
 [Other](Talents.md#arcwarder) | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. |
 | Arcwarder.png | Arc Module: Eject  
 Arcwarder  
-4-AR1-3 | Arcwarder  
+4-AR1-3 | [Arcwarder](#4-ar1-1o)  
 [Other](Talents.md#arcwarder) | When blockbroken with Arc Suit active, eject from the armor. |
 | Arcwarder.png | Arc Module: Guard  
 Arcwarder  
-4-AR1-4 | Arcwarder  
+4-AR1-4 | [Arcwarder](#4-ar1-1o)  
 [Other](Talents.md#arcwarder) | Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind. |
 | Arcwarder.png | Arc Module: Leap  
 Arcwarder  
-4-AR1-5 | Arcwarder  
+4-AR1-5 | [Arcwarder](#4-ar1-1o)  
 [Other](Talents.md#arcwarder) | Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration. |
 | Arcwarder.png | Arc Module: Null  
 Arcwarder  
-4-AR1-6 | Arcwarder  
+4-AR1-6 | [Arcwarder](#4-ar1-1o)  
 [Other](Talents.md#arcwarder) | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. |
 
 ## Bladeharper X.3.1
@@ -2180,21 +2180,21 @@ Bladeharper
 [Other](Talents.md#bladeharper) | You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot) |
 | Bladeharper.png | Float Like a Butterfly  
 Bladeharper  
-4-BL1-2 | Oath:Bladeharper | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
+4-BL1-2 | [Oath:Bladeharper](#4-bl1-1o) | While having True Strength active, cancel your air dash to enter a frenzy of slashes. |
 | Bladeharper.png | Lithe Step  
 Bladeharper  
-4-BL1-3 | Oath: Bladeharper | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
+4-BL1-3 | [Oath: Bladeharper](#4-bl1-1o) | When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed |
 | Bladeharper.png | Reveal  
 Bladeharper  
-4-BL1-4 | Oath: Bladeharper  
+4-BL1-4 | [Oath: Bladeharper](#4-bl1-1o)  
 [Other](Talents.md#bladeharper) | Pour your heart out, and reveal your true strength. |
 | Bladeharper.png | Soaring Storm  
 Bladeharper  
-4-BL1-5 | Oath: Bladeharper  
+4-BL1-5 | [Oath: Bladeharper](#4-bl1-1o)  
 [Other](Talents.md#bladeharper) | Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability. |
 | Bladeharper.png | Untouchable  
 Bladeharper  
-4-BL1-6 | Oath: Bladeharper  
+4-BL1-6 | [Oath: Bladeharper](#4-bl1-1o)  
 [Other](Talents.md#bladeharper) | By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration. |
 
 ## Blightsurger X.3.2
@@ -2208,23 +2208,23 @@ Blightsurger
 [Other](Talents.md#blightsurger) | Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot) |
 | Blightsurger.png | Anchor Shock  
 Blightsurger  
-4-BL3-2 | Blightsurger  
+4-BL3-2 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock prevents targets from using mobility mantras. |
 | Blightsurger.png | Blight Pierce  
 Blightsurger  
-4-BL3-3 | Blightsurger  
+4-BL3-3 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration. |
 | Blightsurger.png | Blighted Touch  
 Blightsurger  
-4-BL3-4 | Blightsurger  
+4-BL3-4 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing M1's during Sovereign State now applies Blightshock. |
 | Blightsurger.png | Blightlash  
 Blightsurger  
-4-BL3-5 | Blightsurger  
+4-BL3-5 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Your swing range is enhanced during Sovereign State. |
 | Blightsurger.png | Sovereign State  
 Blightsurger  
-4-BL3-6 | Blightsurger  
+4-BL3-6 | [Blightsurger](#4-bl3-1)  
 [Other](Talents.md#blightsurger) | Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities. |
 
 ## Blindseer X.3.3
@@ -2238,7 +2238,7 @@ Mental Fortress
 [Other](Talents.md#blindseer) | You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot) |
 | Blindseer.png | All-Seeing Eye  
 Blindseer  
-4-BL2-2 | Oath:Blindseer  
+4-BL2-2 | [Oath:Blindseer](#4-bl2-1o)  
 [Other](Talents.md#blindseer) | The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted. |
 
 ## Chainwarden X.3.4
@@ -2251,11 +2251,11 @@ Chainwarden
 [Other](Talents.md#chainwarden) | You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot) |
 | Chainwarden.png | Perpetual Wrath  
 Chainwarden  
-4-CH1-2 | Oath: Chainwarden  
+4-CH1-2 | [Oath: Chainwarden](#4-ch1-1o)  
 [Other](Talents.md#chainwarden) | Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage. |
 | Chainwarden.png | Chainlash  
 Chainwarden  
-4-CH1-3 | Oath: Chainwarden  
+4-CH1-3 | [Oath: Chainwarden](#4-ch1-1o)  
 [Other](Talents.md#chainwarden) | On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick. |
 
 ## Contractor X.3.5
@@ -2267,11 +2267,11 @@ Contractor
 4-CO4-1 | [Other](Talents.md#contractor) | Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slot) |
 | Contractor.png | Hidden Tendril  
 Contractor  
-4-CO4-2 | Oath: Contractor  
+4-CO4-2 | [Oath: Contractor](#4-co4-1o)  
 [Other](Talents.md#contractor) | Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether) |
 | Contractor.png | String Trick  
 Contractor  
-4-CO4-3 | Oath: Contractor  
+4-CO4-3 | [Oath: Contractor](#4-co4-1o)  
 [Other](Talents.md#contractor) | Pulls together any two opponents you've attached Hidden Tendril to. |
 
 ## Dawnwalker X.3.6
@@ -2284,15 +2284,15 @@ Dawnwalker
 [Other](Talents.md#dawnwalker) | You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+2 Combat Mantra Slot) |
 | File:TalentCardImage2.png | Absolute Radiance  
 Dawnwalker  
-4-DA2-2 | Oath: Dawnwalker  
+4-DA2-2 | [Oath: Dawnwalker](#4-da2-1o)  
 [Other](Talents.md#dawnwalker) | Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period. |
 | File:TalentCardImage2.png | Protagonist Syndrome  
 Dawnwalker  
-4-DA2-3 | Oath: Dawnwalker  
+4-DA2-3 | [Oath: Dawnwalker](#4-da2-1o)  
 [Other](Talents.md#dawnwalker) | The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast. |
 | File:TalentCardImage2.png | Luminous Flash  
 Dawnwalker  
-4-DA2-4 | Oath: Dawnwalker  
+4-DA2-4 | [Oath: Dawnwalker](#4-da2-1o)  
 [Other](Talents.md#dawnwalker) | After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light. |
 
 ## Fadetrimmer X.3.7
@@ -2304,11 +2304,11 @@ Fadetrimmer
 4-FA1-1 | Power 12  
 [Other](Talents.md#fadetrimmer) | You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots) |
 | File:TalentCardImage2.png | Fadetrimmer's Skillset  
-4-FA1-2 | Other | What type of look are we going for today? |
+4-FA1-2 | [Other](#4-fa1-1o) | What type of look are we going for today? |
 | File:TalentCardImage2.png | Hair Products  
-4-FA1-3 | Other | What's in these things? |
+4-FA1-3 | [Other](#4-fa1-1o) | What's in these things? |
 | File:TalentCardImage2.png | Hair Spray  
-4-FA1-4 | Other | Apply your Hair Products. |
+4-FA1-4 | [Other](#4-fa1-1o) | Apply your Hair Products. |
 
 **Unobtainable:**
 

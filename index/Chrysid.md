@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 158956
+revid: 159055
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -87,21 +87,21 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
 
 ## Features
 
-Chrysids have a unique facial structure with unique eye types. Additionally, they have unique (optional) eyebrows and moth-like antennae ornaments.
+Chrysids have a unique facial structure with unique eye types. Additionally, they have unique (optional) eyebrows, (optional) shoulder ruffs, and moth-like antennae ornaments.
 
 ### Antennae
 
 Chrysid antennae are [dyable](Dye_Packet.md) ornaments.
 
-**Hierophant:**
+**Adept:**
 
 **Devout:**
 
-**Seer:**
-
-**Adept:**
+**Hierophant:**
 
 **Sage:**
+
+**Seer:**
 
 **Hallowtide:**
 
@@ -109,15 +109,15 @@ Chrysid antennae are [dyable](Dye_Packet.md) ornaments.
 
 Chrysid has a unique shoulder ruff. The color of this Ruff is dependent on your variant, though it can be [dyed](Dye_Packet.md).
 
-**Hierophant:**
+**Adept:**
 
 **Devout:**
 
-**Seer:**
-
-**Adept:**
+**Hierophant:**
 
 **Sage:**
+
+**Seer:**
 
 **Hallowtide:**
 
@@ -125,15 +125,15 @@ Chrysid has a unique shoulder ruff. The color of this Ruff is dependent on your 
 
 Chrysid has four options for their compound eyes: round, down slant, up slant, or squint.
 
-**Hierophant:**
+**Adept:**
 
 **Devout:**
 
-**Seer:**
-
-**Adept:**
+**Hierophant:**
 
 **Sage:**
+
+**Seer:**
 
 **Hallowtide:**
 
@@ -141,15 +141,15 @@ Chrysid has four options for their compound eyes: round, down slant, up slant, o
 
 Chrysid has a set of optional eyebrows.
 
-**Hierophant:**
+**Adept:**
 
 **Devout:**
 
-**Seer:**
-
-**Adept:**
+**Hierophant:**
 
 **Sage:**
+
+**Seer:**
 
 **Hallowtide:**
 
