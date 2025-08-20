@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 157541
+revid: 159081
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -528,7 +528,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 -   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
     -   Also deals a small amount of damage and instantly restores Ether.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops with an Antithetic salt.
--   **Insanity** (Mindbreaker) - 3 of any Sanity loss ingredient + 2 Spider Egg
+-   **Insanity** (Mind-breaker) - 3 of any Sanity loss ingredient + 2 Spider Egg
     -   With the Apothecary Talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
     -   Alternatively, you could add 2 more of any different Sanity loss ingredient, but duration might prove more effective.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Bluecaps + 2 Redds + Antithetic Salts, applying a much more potent sanity loss over time effect. This will also deal a small amount of damage on contact.

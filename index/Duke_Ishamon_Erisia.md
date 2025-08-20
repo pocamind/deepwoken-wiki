@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 157749
+revid: 159089
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -231,18 +231,31 @@ Duke Ishamon Erisia executes his opponent after knocking them:
 
 ## Combat
 
-**Do not attempt to vent when he has a shield on otherwise it'll be parried.** Only poses a big threat to solo players during the 1st phase. He's far more aggressive and dangerous in the first phase.
+* * *
 
-In terms of strategy to avoid his attacks as much as possible;
+### Duke Erisia: Combat Strategy
 
--   If he isn't moving or doing anything, he's preparing for a mantra. You can get three safe hits in with a heavy or medium weapon, at which point you should stop attacking and prepare for his attack. Reading his mantras is very difficult, due to the fact that many of them have a low windup or are hard to read.
--   If the Duke does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
--   After dealing enough damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
--   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
--   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Astral to focus on high damage, but Vampirism makes it safer.
--   If you attempt to assassinate him, the fight will automatically start.
--   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
--   As the Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
+#### General Combat & Offense
+
+It's crucial to understand the Duke's behavior during his initial phase, where he is at his most aggressive and poses a significant threat, especially to solo players. Avoid attempting to use a **Venting** ability while his shield is active, as he will parry it.
+
+If the Duke is standing still, he is preparing to cast a mantra. This provides a brief window for you to land up to three safe hits with a heavy or medium weapon. After this, you should stop attacking and brace for his move, as his mantras have a low wind-up and are difficult to read.
+
+During his "Strong Left" attack, he will follow up with a series of punches and criticals. This is the optimal time to engage in a parry trade. The Duke rarely feints and will parry every attack you make, making it predictable and a prime opportunity for you to deal significant damage. Stick to standard M1 attacks during this sequence to maintain consistency.
+
+Once you have dealt enough damage, his shield will deactivate. While this allows you to hit him normally, you must remain cautious, as many of his mantras can instantly grip you. The best strategy is to corner him and focus on breaking his posture. Be aware, however, that the Duke has a high **Tempo** and will vent every time you flourish him into a wall.
+
+#### Survivability & Special Abilities
+
+The appearance of his servants signals that you are close to victory, as you can use them to regenerate to full health. Maintain pressure by keeping him cornered and attacking relentlessly until he is defeated.
+
+For enchanted weapons, **[Vampirism](Enchantments.md)** is the most recommended option, as it allows you to heal off the Duke in the second phase. This is particularly useful if he doesn't summon his servants, which can happen. Alternatively, you can opt for high-damage enchants like **Detonation** or **Astral**, but Vampirism provides a much safer approach.
+
+The fight will automatically begin if you attempt to assassinate him.
+
+Because the **Mindless Servants** can interfere with your attacks, **Mercy Kill** is a highly effective ability against them, as it can instantly eliminate low-health enemies. If you do not have this ability, you can bait the Duke's auto-gripping attacks to quickly deal with them.
+
+In the second phase, the Duke becomes very defensive and blocks frequently. The **[Enforcer Axe](<Enforcer's_Axe.md>)** and **[Hammer](<Enforcer's_Hammer.md>)** are excellent choices for heavy weapons, as they can quickly break through his posture.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 156576
+revid: 159084
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -186,11 +186,15 @@ Unlike [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), Elder prim
 
 ## Strategy
 
-Note: This section will not include how to deal with players, as this is _technically_ unrelated to the actual boss. Going in a server early in the morning helps, but doesn't always guarantee safety from other players.
+This guide focuses solely on the mechanics and strategies for defeating the Elder Primadon boss. It does not include information on player-versus-player (PvP) encounters.
 
-Elder Primadon allows much less room for attacks in between his own, unlike his easier counterpart, Primadon, Titan of the East. This is especially true in his enraged state, and is why it's recommended to only hit once or twice after his actions, depending on the swing-speed of your weapon, as to avoid his own very lethal attacks. A move you shouldn't attack after right away is his single stomp, given how he might do a combo where he kicks you right after, dealing critically high fall damage to you in most cases if landed. The recommended mindset to have when fighting this boss is to stay calm and don't be too greedy with hits. If you aren't sure if you can attack twice or at all, don't. His moves come out fast and likewise, are fast themselves. The boss might be easier with a faster swinging weapon like medium or light, as you might be allowed multiple hits more often than with slower swinging weapons like heavy.
+The Elder Primadon is a far more challenging opponent than its counterpart, [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), due to the limited windows for attack. This is particularly true during its enraged state. It is recommended to limit your attacks to one or two strikes after the boss's actions, depending on your weapon's swing speed. This cautious approach is crucial for avoiding its highly lethal counterattacks.
 
-His moveset is quite extensive, but with some practice, becomes relatively easy to understand. His new moves in contrast to his easier counterpart, Primadon, Titan of the East, are: Heavy stomp, stomp blitz, ground slam. He can also feint both his regular stomp and triple stomp, delaying his regular stomp and feinting soon after, or hitting the first stomp from triple stomp, then feinting the second. After feinting, it will proceed to punch and likely kick right after as well, meaning if you don't have enough posture to block the kick, or you didn't roll cancel the punch ... _you're getting kicked_. Elder Primadon can also initiate a combo, where he will always do a stomp, kick and a triple stomp. There is no way to know if Elder Primadon will continue a combo after a stomp, so it is advised to not attack twice or even at all if it does a regular stomp.
+A key principle is to maintain a **calm and patient mindset**. Avoid being overly aggressive with your attacks. When in doubt, it is safer not to attack at all. Elder Primadon's moves are both fast to initiate and quick to execute. Using a faster-swinging weapon (medium or light) may be more forgiving, as it allows for more frequent attack opportunities compared to slower, heavy weapons.
+
+Elder Primadon has an extensive moveset that can be learned with practice. In addition to the standard attacks from its easier counterpart, its new moves include: **Heavy Stomp**, **Stomp Blitz**, and **Ground Slam**. The boss is also capable of **feinting** its regular and triple stomps. It may delay a regular stomp or feint the second stomp of a triple stomp combo. After a feint, the boss will often follow up with a punch and a kick. If you lack the posture to block the kick or fail to properly roll-cancel the punch, the kick will likely connect.
+
+Elder Primadon can also initiate a **combo** that always consists of a stomp, a kick, and a triple stomp. Because there is no clear indicator that the boss will continue a combo after a regular stomp, it's advised to avoid a double or even single attack after this move.
 
 ## Drops
 

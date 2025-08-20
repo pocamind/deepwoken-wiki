@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 152796
+revid: 159090
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -161,17 +161,17 @@ File:Bonestream.gif
 
 ## Beating the Scion
 
-While the Scion may look incredibly daunting to fight, it is regarded as one of the easiest bosses ingame by the wider community, having **no threatening moves** aside from the ultimate. But make sure to **calm down** before fighting the Scion, as panic will lead to you being hit by it's ultimate.
+While the Scion of Ethira may appear intimidating, it is widely considered one of the easier bosses in the game. Aside from its ultimate ability, none of its attacks pose a significant threat. It is crucial to maintain a calm and composed mindset, as panicking is the most common reason players are hit by its ultimate.
 
-_**Note that many forms of on-demand Invincibility are disabled, and as such should not be relied on to dodge it's Ultimate.**_
+Note that many on-demand invincibility abilities are disabled during this fight and should not be relied upon to avoid the ultimate.
 
-In order to beat the Scion, you have to place down Bones thrown by it's Bone throw move into their shrines, which then stuns it and allows you to deal heavy damage. And to accomplish this, simply block or parry the bonestaves and run over to a shrine while carrying them. Note that **while carrying**, you are **unable** to do Q dodges or Slides, so if the Ultimate targets you, either drop it to run or learn to parry the ultimate.
+The primary strategy for defeating the Scion is to use the bones it throws during its **Bone Throw** move. You must place these bones into their corresponding shrines. This will stun the boss, creating a window for you to deal heavy damage. To accomplish this, simply block or parry the bonestaves and then run to a shrine while carrying them.
 
-A secondary win-condition is to simply ignore the gimmick and allow the scion to use it's punch on you a multitude of time, which is far slower and will usually not spawn Kyrsgarde snipers for health packs.
+A secondary, albeit much slower, win condition is to simply ignore the bone mechanic. If you allow the Scion to hit you with its punch multiple times, it will eventually die without summoning the [Kyrsgarde snipers](Kyrsgarde_Sniper.md) for health packs.
 
-In order for the health packs to spawn, you must have **used all 9 shrines** to anchor the Scion **atleast once**, in which multiple Kyrsgarde snipers will spawn per cycle.
+For health packs to spawn, you must have anchored the Scion using all nine shrines at least once. After this, multiple [Kyrsgarde snipers](Kyrsgarde_Sniper.md) will spawn during each cycle.
 
-To avoid the ultimate, slide, wait for the sound cue of the Scion firing it's orb, and then jump and air-dash in order to avoid it. If you wish to parry it, instead wait for the same sound cue, but start parrying directly before it hits you. While either of these may seem hard at first, they will become muscle memory, however the easier one to do with no experience is to simply avoid the ultimate via air-dashing.
+To avoid the ultimate, you can either parry or dodge it. The dodging method involves sliding, waiting for the audio cue of the Scion firing its orb, and then jumping and air-dashing to evade the attack. To parry the ultimate, wait for the same audio cue, but begin your parry just before the orb makes contact. While these maneuvers may seem difficult initially, they will become muscle memory with practice. For players without experience, air-dashing is generally the easier method to learn.
 
 ## Loot Table
 

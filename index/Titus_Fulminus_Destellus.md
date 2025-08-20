@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 158506
+revid: 159091
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -244,15 +244,14 @@ Dodgeable:✗
 -   **Thorn Guard** - Titus is immune to Providence's Thorns.
 -   **Unharvestable** - Healing from Bloodless Gems are less effective.
 
-## Battle
+## Tips and Strategies
 
-### Tips and strategies.
-
--   The guards in the main cell block room can serve as a health pack, but Titus can one shot them before you deal enough damage to earn the heal as well as they don't respawn.
--   During his second phase transition, there is a small window where you can place a campfire down during his dialogue and heal.
--   Since [Vampirism](Enchantments.md) grants Temporary health and not outright bonus healing, it will bypass blightsurge wither.
--   Chorus Divide can be easily avoided by climbing up to high ground like on the generator or on scaffolding near the walls.
--   His M1 string appears to be unparryable during his second phase.(needs confirmation)
+-   -   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before you have a chance to deal enough damage to receive a healing orb. They also do not respawn, so this is a one-time opportunity.
+    -   **Second Phase Transition Healing**: During the brief dialogue sequence as Titus transitions into his second phase, there is a small window where you can place a campfire to recover health.
+    -   **Vampirism Enchantment**: An enchanted weapon with **Vampirism** is highly effective in this fight. This is because it grants temporary health rather than an outright heal, which allows you to bypass the effects of **Blightsurge Wither**.
+    -   **Evading Chorus Divide**: His **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
+    -   **Second Phase M1 Attack**: It is important to note that his standard M1 attack string appears to be unparryable during his second phase, though this requires further confirmation. Therefore, it is safer to focus on dodging this attack rather than attempting to parry.
+    -   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining your defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use your mantras for ranged damage when necessary.
 
 ## Rewards
 

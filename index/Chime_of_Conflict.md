@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 149528
+revid: 159086
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents, Items, Game]
@@ -87,6 +87,10 @@ Master **(Top 51-100)**
 Ranked **(Top 101-250)**
 
 -   Silver Usernames
+
+Ranked **(Top 1000-251)**
+
+-   Bronze Usernames
 
 ## Trivia/Notes
 
