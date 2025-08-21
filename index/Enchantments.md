@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 159105
+revid: 159234
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -267,7 +267,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Stormbreaker<div></div></font></center></td>
   <td><div><p>On M1, Stormbreaker deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it's raining. On proc, this also applies <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a>. This effect has a 5 second cooldown.</p>
   <p>The damage this deals is based off your weapon's damage, and <b>it cannot be enhanced with damage modifiers</b>. Stormbreaker's damage can be resisted by Thundercall resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.</p>
-  <p>Stormbreaker replaces your weapon critical with a new one that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 25 <b>flat</b> Thundercall damage on throw and then 18.75 <b>flat</b> Thundercall damage on return. Stormbreaker can hit the same target twice on throw or recall. You are unable to attack until your weapon returns. Completely halts the user's movement while the weapon is being recalled.</p></div></td>
+  <p>Stormbreaker replaces your weapon critical with a new one that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 25 <b>flat</b> Thundercall damage on throw and then 18.75 <b>flat</b> Thundercall damage on return. Stormbreaker can hit the same target twice on throw or recall and it deals less than 1 posture damage per hit. You are unable to attack until your weapon returns. Completely halts the user's movement while the weapon is being recalled.</p></div></td>
   <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
@@ -901,6 +901,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
        .
 -   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
+-   Stormbreaker used to be able to movestack mantras and parry during its critical.
 -   Umbral Knight lost its curse in a shadow update on **December 26/27, 2021**.
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true though and has been confirmed by Yayafino to be a big lie._
         

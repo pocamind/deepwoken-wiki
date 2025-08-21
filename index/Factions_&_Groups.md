@@ -1,6 +1,6 @@
 ---
 title: "Factions & Groups"
-revid: 153859
+revid: 159243
 source: https://deepwoken.fandom.com/wiki/Factions_%26_Groups
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -8,4 +8,6 @@ categories: [Factions]
 
 # Factions & Groups
 
-Factions are driving forces with territories scattered across Lumen. There are currently 11 factions, with their own motives and goals.
+## Description
+
+The world of Deepwoken features 11 diverse factions, each with their own narratives, objectives, characters, and territories scattered across Lumen, serving as key driving forces within the game.

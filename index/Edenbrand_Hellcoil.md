@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 158330
+revid: 159238
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -34,9 +34,7 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 
 ## Description
 
-The Edenbrand Hellcoil is a very large cannon [Weapon](Weapons.md) held with both hands. The cannon showcases a dragon motif, akin to ancient eastern cultures in the real world.
-
-Unlike all other heavy weapons, the Edenbrand Hellcoil does not receive a penalty to its aerial attack damage.
+The Edenbrand Hellcoil is a very large [cannon Weapon](Weapons.md#greatcannons) held with both hands. The cannon showcases a dragon motif, akin to ancient eastern cultures in the real world.
 
 ## Critical
 
@@ -54,4 +52,3 @@ The critical has a cooldown of **14 seconds**.
 -   The Edenbrand Hellcoil is the first Greatcannon to be added to Deepwoken.
 -   Edenbrand Hellcoil's critical is the only attack in the game that deals true damage, completely ignoring **all** resistances.
 -   Edenbrand Hellcoil's critical bypasses and deals damage through [Duke's](Duke_Ishamon_Erisia.md) phase 1 shield.
--   Edenbrand Hellcoil's critical cannot be used by [Visionshaper](Oath%253A_Visionshaper.md) clones. When attempting to make your Visionshaper clones use the Hellcoil critical, they'll perform the windup and then return to their idle state without ever firing the cannon.

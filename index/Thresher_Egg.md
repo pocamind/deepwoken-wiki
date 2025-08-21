@@ -1,6 +1,6 @@
 ---
 title: Thresher Egg
-revid: 158139
+revid: 159217
 source: https://deepwoken.fandom.com/wiki/Thresher_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -10,9 +10,8 @@ categories: [Items, Ingredients]
 
 | Thresher Egg | |
 |---|---|
-| value | - |
+| value | N/A |
 | weight | 1 |
-| stack | x(?) |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
@@ -23,7 +22,7 @@ categories: [Items, Ingredients]
 
 Thresher Egg is an [ingredient](Ingredients.md) what is used in [Sordino's](Sordino.md) quest, which requires 3 of them. Contains the unborn offspring of Threshers.
 
-Thresher Eggs **cannot** be used as an alternative to [eggs](Egg.md) when it comes to making food.
+Thresher Eggs **cannot** be used as an alternative to [Eggs](Egg.md) when it comes to making [food](Food.md).
 
 ## Obtainment
 
@@ -32,4 +31,4 @@ Thresher Eggs can be obtained from [Deep Thresher Nest](Deep_Thresher_Nest.md) b
 ## Usage
 
 -   Used in [Alchemy](Alchemy.md) for Mindbreak potions.
--   Used in [Sordino's](Sordino.md) quest to obtain a [Thresher Mount](Mounts.md). If you have completed this quest once before on your account, you will not need to reobtain the Thresher Eggs.
+-   Used in [Sordino](Sordino.md)'s quest to obtain a [Thresher Mount](Mounts.md). If you have completed this quest once before on your account, you will not need to reobtain the Thresher Eggs.

@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 153518
+revid: 159233
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
@@ -14,11 +14,11 @@ Template:EnemyInfobox1.0
 
 A Hive Adjudicator is a NPC that can be found in [Greathive Aratel](Greathive_Aratel.md) hunting players with low reputation with the Hive. In addition to that, [Hive Constructs](Hive_Construct.md) will also spawn along with Hive Adjudicators and Hive Arbiters to eradicate the enemy. They can also be found in a [Hive](The_Hive.md) vs [Etrea](Etrea.md) event on [Aratel Island](Aratel_Island.md).
 
-A Hive Adjudicator dons the [Hive Adjudicator](Hive_Adjudicator.md) outfit, a pair of [Dewdrop Earrings](Dew_Drop_Earrings.md), [Tracker's Boots](<Tracker's_Boots.md>) and [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) with their aspect either being [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
+A Hive Adjudicator dons the unobtainable [Hive Adjudicator](Hive_Adjudicator.md) outfit, a pair of [Dewdrop Earrings](Dew_Drop_Earrings.md), [Tracker's Boots](<Tracker's_Boots.md>) and [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) with their aspect varying between [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
 
 ## Moveset
 
-A Hive Adjudicator's arsenal only consists of a [Katana](Katana.md) and an [Iron Birch](Iron_Birch.md).
+A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [Iron Birch](Iron_Birch.md).
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

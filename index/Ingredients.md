@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 152246
+revid: 159229
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -75,6 +75,11 @@ Ores come from mining ore deposits found across various locations, or can be bou
 
 Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance of dropping exclusive items, often used in crafting and for various [quests](Quests.md).
 
+### Enemies
+
+-   [Authority Chainwarden](Authority_Chainwarden.md)
+    -   [Warden's Armor Piece](<Warden's_Armor_Piece.md>)
+
 #### Monsters
 
 -   [Megalodaunt](Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Crimson Megalodaunt](Crimson_Megalodaunt.md) and [Prime Megalodaunt](Prime_Megalodaunt.md)
@@ -116,10 +121,17 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 
 #### Bosses
 
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+    -   [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) and [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
     -   [Primadon Pelt](Primadon_Pelt.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md) only
     -   [Primal Slab](Primal_Slab.md)
+-   [The Ferryman](The_Ferryman.md)
+    -   [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
+    -   [Titus' Armor Piece](<Titus'_Armor_Piece.md>)
+    -   [Warden's Armor Piece](<Warden's_Armor_Piece.md>)
 -   [Dread Serpent](Dread_Serpent.md)
     -   [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>)
     -   [Dread Flesh](Dread_Flesh.md)
@@ -129,6 +141,8 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 -   [Interluminary Parasol](Interluminary_Parasol.md)
     -   [Parasol Part](Parasol_Part.md)
     -   [Raw Parasol Brain](Raw_Parasol_Brain.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+    -   [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
     -   [Weathered Timepiece](Weathered_Timepiece.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)

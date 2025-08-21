@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159151
+revid: 159249
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -246,7 +246,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
     -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
-    -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
+    -   Prerequisites: Drank potion (Can obtain if someone uses placebo effect next to you), 15 Fortitude OR 15 Willpower, 30 intelligence
         -   This Talent was merged with the old Subsistence Talent.
 
 -   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
@@ -2780,10 +2780,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Showboater
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
+    -   Charms for 0.0933 seconds per point in Charisma, having 7 seconds at 75 Charisma and 9.33 seconds at 100 Charisma.
+    -   Does not proc "Golden Tongue" Talent.
     -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
-    -   Charms for 7 seconds (3.5s against Disbelief Talent)
-    -   The Charm duration from Unnecessary Theatrics will be reduced if you have less than 75 Charisma.
-    -   Does not proc "Golden Tongue" Talent
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Songmaster
@@ -2988,7 +2987,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
     -   Prerequisites: 20 Fortitude or 20 Willpower, vomit once
     -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
-    -   Does not work when eating Pufferfish (gamebreaking).
+    -   Does not work when eating [Pufferfish](Pufferfish.md) (gamebreaking).
 
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible. (+3 Health)
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)

@@ -1,6 +1,6 @@
 ---
 title: Summer Hullwrecker
-revid: 159130
+revid: 159246
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -29,7 +29,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Cr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, Dread Serpent |
+| obtainment | Summer Isle, Dread Serpent, Interluminary Parasol |
 | description | An antique creation from the Summer Company, built to place battleship-level firepower in the palms of your hands. Once hailled a masterpiece, it was soon overshadowed by the lighter rifles, yet in the hands of someone strong enough to wield it, it can still unleash devastation unmatched by newer models. |
 
 ## Description

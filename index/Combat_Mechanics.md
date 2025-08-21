@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159135
+revid: 159247
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -385,6 +385,7 @@ Image
 | Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
 | All attacks that have this attribute:
 
+-   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
  |
@@ -442,7 +443,6 @@ Image
 | Green | File:Greentelegraph.png | ◯ | ✗ | ✗ | ◯ |
 | All attacks that have this attribute:
 
--   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
 
  |
