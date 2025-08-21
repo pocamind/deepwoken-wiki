@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 153703
+revid: 159250
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant]
@@ -51,7 +51,7 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 <tr>
   <td colspan="4">Now that's a good dog, loyal to <b>The Guy</b>. You see, we need to test our new springlock mechanisms with the silk of spider eggs. Ah, but why can't I do it myself, you may wonder? You see, <b>The Guy</b> is just sooo busy. I'm simply loaded with work! I cannot be bothered to enter a terrify-... <i>simple</i> spider cave. My workload simply won't allow it, I am above <i>meager</i> tasks such as that.</td>
   <td colspan="2">[Passing the charisma check (40 Charisma) gives you The Guy's Eyeglasses and access to the cannon at Summer Isle.]</td>
-  <td colspan="2">[Failing the charisma check makes him roast you.]</td>
+  <td colspan="2">[Failing the charisma check makes him tell you the plain, hard truth.]</td>
 </tr>
 <tr>
   <td colspan="4">I'll bear through it to enter through Summer Isle.</td>
@@ -128,3 +128,4 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 -   The Guy's hair ID is 4735347390, combined with his Canor sideburns.
 -   Apparently is good friends with Destroyman III. But the way Destroyman III mentions it makes it look like a lie to make the player jealous. After all, who wouldn't be jealous of someone that is friends with The Guy?
 -   After taking his sunglasses, his name changes from "The Guy," who was simply The Guy, to simply "Guy," who is simply, a Guy. Also his voice becomes high-pitched, as if he lost all of his testosterone upon losing his glasses.
+-   The Guy would never stoop as low to give his glasses to some lowly Erisia-level beggar.

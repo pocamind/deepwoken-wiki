@@ -1,6 +1,6 @@
 ---
 title: Rogue Mech
-revid: 97044
+revid: 159254
 source: https://deepwoken.fandom.com/wiki/Rogue_Mech
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Golem Constructs#Rogue Construct](Golem_Constructs%253Fredirect=no.md#rogue-construct)
+-   [Rogue Construct](Rogue_Construct.md)
