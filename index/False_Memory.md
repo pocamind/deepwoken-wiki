@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 157458
+revid: 159132
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -36,7 +36,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 
 ## Description
 
-The False Memory is a near exact replica of the basic [Sword](<Sword_(weapon).md>), but with slightly higher medium weapon scaling. It is obtained by going to the Hippocampal pool and selecting the "False Memory" option.
+The False Memory is a near exact replica of the basic [Sword](<Sword_(weapon).md>), but with slightly higher Medium Weapon scaling. It is obtained by interacting with the [Hippocampal Pool](Hippocampal_Pool.md) in [Fragments of Self](Fragments_of_Self.md) and selecting the "False Memory" option.
 
 ## Critical
 

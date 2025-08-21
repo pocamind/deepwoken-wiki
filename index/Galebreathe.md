@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 158205
+revid: 159134
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -956,18 +956,17 @@ Master Galebreather
 
  | 
 
-You can now obtain 3-star Galebreathe mantras.
+You can now obtain 3-star Galebreathe mantras. (+5 Health)
 
  | 
 
-+5 Health
+N/A
 
  |
 
 **Aeromancer:**
 
-These Talents are found in the _Aeromancer_ category.  
-_**"I am a master of the winds."**_
+These Talents are found in the _Aeromancer_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -977,26 +976,25 @@ Aerogliding
 
  | 
 
-When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders.
+When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders. (+2 Passive Agility)
 
  | 
 
-+2 Passive Agility  
-(The Old Wind has been merged into Aerogliding)
+Aerogliding slows your falls, preventing fall damage in some cases. Your gliders move almost horizontally, allowing for much greater travel distance.
 
  |
 |  | 
 
 Aeronade  
-(40 Galebreathe, Gale Trap (Mantra))
+(40 Galebreathe, Galetrap (Mantra))
 
  | 
 
-Your trap automatically detonates on contact with an object.
+Your trap automatically detonates on contact with an object. (+2 Passive Agility)
 
  | 
 
-+2 Passive Agility
+N/A
 
  |
 |  | 
@@ -1006,11 +1004,11 @@ Stifled Jump
 
  | 
 
-Enemies who jump while suffocated by you are dazed.
+Enemies who jump while suffocated by you are dazed. (+2 Passive Agility)
 
  | 
 
-+2 Passive Agility
+N/A
 
  |
 |  | 
@@ -1020,11 +1018,11 @@ Suffocating Impact
 
  | 
 
-When flourishing enemies into walls they are suffocated and winded for a short duration.
+When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility)
 
  | 
 
-+2 Passive Agility
+N/A
 
  |
 |  | 
@@ -1072,7 +1070,7 @@ Cast Wind Blade while sliding to unleash a quick whirlwind attack.
 
  | 
 
-Sends user and opponent into the air.
+Sends user and opponent into the air. Has much higher base damage than base Wind Blade.
 
  |
 
@@ -1136,11 +1134,11 @@ Air Pressure
 
  | 
 
-Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack.
+Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
 
  | 
 
-+1 Passive Agility
+N/A
 
  |
 |  | 
@@ -1150,11 +1148,11 @@ Cyclone Blade
 
  | 
 
-After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage.
+After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
 
  | 
 
-+2 Passive Agility
+Despite what the Talent description states, the bleed will also be applied to non-basic attacks, such as Mantras or weapon criticals. Also procs on Phantom Step dashes.
 
  |
 |  | 
@@ -1164,12 +1162,11 @@ Pressure Break
 
  | 
 
-Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by 25% and flinging the enemy backwards.
+Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by 25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)
 
  | 
 
-+8 Carry Load  
-+2 Passive Agility
+N/A
 
  |
 |  | 
@@ -1189,8 +1186,7 @@ N/A
 
 **Scholar of the Cloud:**
 
-These Talents are found in the _Scholar of the Cloud_ category.  
-_**"I seek the qualities of Scholar of the Cloud."**_
+These Talents are found in the _Scholar of the Cloud_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1224,7 +1220,7 @@ Every 3 hits with a Wind Mantra now procs Suffocate.
 
  | 
 
-Specter Path replaces Suffocation procs with an apparition spawn, making this Talent great for that path.
+Procs on every 5 hits if you have less than 75 Galebreathe.
 
  |
 |  | 
@@ -1238,14 +1234,13 @@ Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
 
  | 
 
-N/A
+Grants a speed boost on proc.
 
  |
 
 **Specter:**
 
-These Talents are found in the _Specter_ category.  
-_**"I seek the qualities of Specter."**_
+These Talents are found in the _Specter_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
@@ -1259,7 +1254,7 @@ Build up spectral energy by performing successful dodges and landing Wind mantra
 
  | 
 
-N/A
+Turns your Galebreathe white.
 
  |
 |  | 
@@ -1287,7 +1282,7 @@ Press X to begin running at high speeds and your regular dashes transform into g
 
  | 
 
-N/A
+Grants a speed boost for the full duration of this effect.
 
  |
 |  | 
@@ -1315,7 +1310,7 @@ After an apparition hits an enemy, receive 15% posture damage on all Galebreathe
 
  | 
 
-N/A
+These bonuses will be lessened if you have less than 75 Galebreathe.
 
  |
 
@@ -1331,11 +1326,14 @@ Haunted Gale
 
  | 
 
-Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (2 if done with Gale Wisp). 2 second cooldown.
+Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
 
  | 
 
-N/A
+On proc, gain the Haunted status effect; all Mantras will spawn a Haunted Gale ghost that will attack your target, dealing Galebreathe damage. The ghost will only attack once per Mantra cast. Having your Mantra blocked, dodged, or parried will count as it being "whiffed," resetting all Haunted Gale stacks. Casting a non-Galebreathe Mantra will also count as a "whiff".
+
+  
+Gale Wisp will extend the duration of Haunted by 3 seconds.
 
  |
 

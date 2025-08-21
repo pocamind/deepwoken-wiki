@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 158823
+revid: 159123
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1334,7 +1334,7 @@ Landing a fire Mantra immediately after flourishing an opponent will cause them 
 
  | 
 
-N/A
+Deals 5 Flamecharm damage.
 
  |
 
@@ -1444,7 +1444,7 @@ Any time you would burn to death, you instead rise again with 50% of your health
 
  | 
 
-If you were to burn to death, restore 50% of your maximum health and get back up. If you used Flame Within while knocked to proc this effect, only restore 25% of your maximum health instead.
+If you were to burn to death, restore a percentage of your maximum health and get back up. This percentage scales on your Flamecharm investment, being 25% at 0 Flamecharm and scaling up to 50% at 75 Flamecharm. If you were to use Flame Within while knocked to proc this effect, the healing will be halved.
 
  |
 | 
@@ -1586,7 +1586,7 @@ Your eruptions leave lethal pools of lava beneath them.
 
  | 
 
-On Eruption, leave a pool of lava that deals Flamecharm damage over time. Damage dealt scales on your Flamecharm investment.
+On Eruption, leave a pool of lava that deals Flamecharm damage over time. Damage dealt and duration scales on your Flamecharm investment.
 
  |
 
@@ -1652,7 +1652,7 @@ If an enemy is on fire when you flourish, blast them away with a fire blast.
 
  | 
 
-Causes an explosion, dealing damage.
+Causes an explosion, dealing 5 Flamecharm damage.
 
  |
 | 

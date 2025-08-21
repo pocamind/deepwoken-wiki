@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 159090
+revid: 159109
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -161,7 +161,7 @@ File:Bonestream.gif
 
 ## Beating the Scion
 
-While the Scion of Ethira may appear intimidating, it is widely considered one of the easier bosses in the game. Aside from its ultimate ability, none of its attacks pose a significant threat. It is crucial to maintain a calm and composed mindset, as panicking is the most common reason players are hit by its ultimate.
+While the Scion of Ethiron may appear intimidating, it is widely considered one of the easier bosses in the game. Aside from its ultimate ability, none of its attacks pose a significant threat. It is crucial to maintain a calm and composed mindset, as panicking is the most common reason players are hit by its ultimate.
 
 Note that many on-demand invincibility abilities are disabled during this fight and should not be relied upon to avoid the ultimate.
 

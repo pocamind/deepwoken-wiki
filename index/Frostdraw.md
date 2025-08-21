@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 158328
+revid: 159136
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1238,7 +1238,7 @@ Adept Frostdrawer
 
  | 
 
-You can now obtain 1-Star Leveled Frostdrawer Mantras.
+You can now obtain 1-Star Frostdraw Mantras.
 
  | 
 
@@ -1254,7 +1254,7 @@ Expert Frostdrawer
 
  | 
 
-You can now obtain 2-Star Leveled Frostdrawer Mantras.
+You can now obtain 2-Star Frostdraw Mantras.
 
  | 
 
@@ -1270,7 +1270,7 @@ Master Frostdrawer
 
  | 
 
-You can now obtain 3-Star Leveled Frostdrawer Mantras.
+You can now obtain 3-Star Frostdraw Mantras.
 
  | 
 
@@ -1374,7 +1374,7 @@ Spike Traps
 
  | 
 
-Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
+Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
 
  | 
 
@@ -1480,7 +1480,7 @@ Your slow effect prevents your opponents from rolling.
 
  | 
 
-Only procs on Mantras. Lasts for the first 1.5s of Chill duration. Does **not** work with Crystallization Path.
+Only procs on Mantras. Lasts for the first 0.75s of Chill duration. Does **not** work with Crystallization Path.
 
  |
 
@@ -1661,7 +1661,7 @@ Your Chill can proc through block, with blocked Chilling proc lasting 80% of the
 
  | 
 
-N/A
+If you have less than 100 Frostdraw, your chill duration (when applied through block) will be reduced further to only 25% of its original duration.
 
  |
 

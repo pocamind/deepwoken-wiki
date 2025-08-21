@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 157551
+revid: 159183
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -81,8 +81,6 @@ File:Nerin NPC.png
 
  | 
 
-File:EtreaSymbol.png
-
 [The Kingdom of Etrea](Etrea.md)
 
  | [Nerin](Nerin.md) | Outside a house in the area above the Etris Antiquarian and near The Barber. |
@@ -91,8 +89,6 @@ File:EtreaSymbol.png
 File:Nepotism.png
 
  | 
-
-File:SummerCompanySymbol.png
 
 [Summer Company](The_Summer_Company.md)
 
@@ -103,8 +99,6 @@ File:Zirik.png
 
  | 
 
-File:HiveSymbol.png
-
 [The Hive](The_Hive.md)
 
  | [Zirik](Zirik.md) | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
@@ -113,8 +107,6 @@ File:HiveSymbol.png
 File:Rashet.png
 
  | 
-
-File:AuthoritySymbol.png
 
 [The Central Authority](The_Central_Authority.md)
 
@@ -125,8 +117,6 @@ File:NewGudrin.png
 
  | 
 
-File:DiversSymbol.png
-
 [The Divers](The_Divers.md)
 
  | [Gudrin](Gudrin.md) | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
@@ -135,8 +125,6 @@ File:DiversSymbol.png
 File:IgnitionUnionRepReset.png
 
  | 
-
-File:Ignition Union.png
 
 [The Ignition Union](The_Ignition_Union.md)
 

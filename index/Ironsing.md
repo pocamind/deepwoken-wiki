@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 159037
+revid: 159124
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -968,8 +968,7 @@ Below is a list of all Ironsing exclusive Talents. Hybrid Talents are listed [he
 
 **Ironsinger:**
 
-These are Talents found in "_Ironsinger_" Category.  
-_**"I obtained the lost art of Ironsinging."**_
+These are Talents found in "_Ironsinger_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1151,8 +1150,7 @@ Apply rods on your attacker when **you** are flourished.
 
 **Adaptive Arsenal:**
 
-These are Talents found in "_Adaptive Arsenal_" Category.  
-_**"I seek the qualities of Adaptive Arsenal."**_
+These are Talents found in "_Adaptive Arsenal_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1206,8 +1204,7 @@ Increased weapon range.
 
 **Metallurgist:**
 
-These are Talents found in "_Metallurgist_" Category.  
-_**"Metal itself is my shield, whichever form it may take."**_
+These are Talents found in "_Metallurgist_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1309,8 +1306,7 @@ Damage reduction starts at 5% damage reduction and gains 0.05% per point in Iron
 
 **Rending Needle:**
 
-These are Talents found in "_Rending Needle_" Category. (You can only have one of these Talents, taking one prevents the others from appearing.)  
-_**"I seek the qualities of Rending Needle."**_
+These are Talents found in "_Rending Needle_" Category. (You can only have one of the Rare Talents, taking one prevents the others from appearing.)
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1326,8 +1322,6 @@ Applying Conductor rods on opponents steals 10% of their current armor durabilit
 
  | 
 
-FROM: Ironsinger
-
  |
 | 
 
@@ -1342,7 +1336,7 @@ Rending Needle: Conductor
 
  | 
 
-FROM: Ironsinger
+Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
 
  |
 | 
@@ -1358,7 +1352,7 @@ If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pull
 
  | 
 
-FROM: Ironsinger
+Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 
  |
 | 
@@ -1374,14 +1368,13 @@ If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of
 
  | 
 
-FROM: Ironsinger
+Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler
 
  |
 
 **Scrapsinger:**
 
-These are Talents found in "_Scrapsinger_" Category.  
-_**"I seek the qualities of the Scrapsinger."**_
+These are Talents found in "_Scrapsinger_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1429,8 +1422,6 @@ Successful hits from Artisan's Blades will proc metal rods and deal 50% more dam
 
  | 
 
-Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
-
  |
 | 
 
@@ -1461,7 +1452,7 @@ Your weapon criticals will now activate scrapsinger.
 
  | 
 
-Your weapon's critical attack activates scrapsinger abilities.
+Your weapon's critical attack activates Scrapsinger, stealing armor and consuming Rods.
 
  |
 | 
@@ -1499,7 +1490,7 @@ On successful proc of Scrapsinger gain 25% extra armor drain multiplier. After r
 -   **Metal Gatling** could be a reference to [Katakuri's](https://onepiece.fandom.com/wiki/Charlotte_Katakuri) move called "Mochi Gatling" from the anime _One Piece_.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon, with the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
 -   Ironsing is one of two Attunements that does not have a [Hero Blade](Hero_Blades.md), with the only other being [Bloodrend](Bloodrend.md).
--   Alloyblood turns your [Bloodrend](Bloodrend.md) mantras blue-ish grey.
+-   **Alloyblood** turns your [Bloodrend](Bloodrend.md) mantras blue-ish grey.
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect. This is a holdover from Ironsings development time as an Oath, being initially heavily inspired by "Allomancy" a magic system based on ingesting metals from Brandon Sandersons "Mistborn" Series of books.
     -   Gold gives a 5% damage buff and a gold particle effect. DMG buff applies only to m1, not to any of mantras (Lasts 25 sec)
     -   Using Irithine gives a green particle effect. Effects unknown.

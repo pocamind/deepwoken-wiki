@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 158422
+revid: 159128
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -948,8 +948,7 @@ Below is a list of all Thundercall exclusive talents. Hybrid talents are listed 
 
 **Thundercaller:**
 
-These Talents are found in the _Thundercaller_ category.  
-_**"I speak to lightning."**_
+These Talents are found in the _Thundercaller_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1029,7 +1028,7 @@ Flints and Flamecharm are for simpletons.
 
  | 
 
-Grants the utility "Discovery of Fire". Using Discovery of Fire lights all nearby campfires, and burns people close by.
+Grants the "Discovery of Fire" Talent tool. Using Discovery of Fire lights all nearby campfires, and burns people close by.
 
  |
 | 
@@ -1045,7 +1044,7 @@ Play the resurrector. Use your lightning to defibrillate your allies on the batt
 
  | 
 
-Grants the utility "Kickstart". Using Kickstart near a knocked player allows you to resuscitate them early.
+Grants the "Kickstart" Talent tool. Using Kickstart near a knocked player allows you to resuscitate them early, restoring 10% of their maximum health.
 
  |
 | 
@@ -1061,7 +1060,7 @@ Following a flourish up with a lightning beam causes it to be casted instantly.
 
  | 
 
-N/A
+This works on Talents that force a flourish such as Emperor Flame.
 
  |
 | 
@@ -1115,8 +1114,7 @@ N/A
 
 **Authority Interrogator:**
 
-These Talents are found in the _Authority Interrogator_ category.  
-_**"I work for the Authority."**_
+These Talents are found in the _Authority Interrogator_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1186,8 +1184,7 @@ N/A
 
 **Javelin Lord:**
 
-These Talents are found in the _Javelin Lord_ category.  
-_**"I seek the qualities of Javelin Lord."**_
+These Talents are found in the _Javelin Lord_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1209,8 +1206,7 @@ Pressing F during the windup for Grand Javelin changes it to carry those it hits
 
 **Rampant Static:**
 
-These Talents are found in the _Rampant Static_ category.  
-_**"My static is uncontrollable."**_
+These Talents are found in the _Rampant Static_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1232,8 +1228,7 @@ Grants +4 Ether.
 
 **Self-Shocker:**
 
-These Talents are found in the _Self-Shocker_ category.  
-_**"I am a self-starter."**_
+These Talents are found in the _Self-Shocker_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1287,8 +1282,7 @@ Grants +4 Ether. Removes the speed buffs from Jumpstart, but reduces the self da
 
 **Static Weaver:**
 
-These Talents are found in the _Static Weaver_ category._  
-**"I weave webs of lightning."**_
+These Talents are found in the _Static Weaver_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1374,8 +1368,7 @@ N/A
 
 **Thunderblade:**
 
-These Talents are found in the _Thunderblade_ category.  
-_**"My blade conducts the skies wrath."**_
+These Talents are found in the _Thunderblade_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1387,11 +1380,11 @@ Gathering Electricity
 
  | 
 
-\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown.
+\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (+10 Carry Load)
 
  | 
 
-Grants +10 Carry Load.
+Increases the base damage of all weapons and criticals by 3 for the duration of its effect. You can gain Static Blade charges while this effect is active or on cooldown.
 
  |
 | 
@@ -1407,7 +1400,7 @@ Your next dash after activating Static Blade is enhanced by lightning.
 
  | 
 
-N/A
+Lightning dashes go much further and have increased i-frames. Your lightning dash will end early should you attempt to attack.
 
  |
 | 
@@ -1423,14 +1416,13 @@ Static Blade
 
  | 
 
-N/A
+Stacks are gained from being parried, not from parrying. Each stack grants an ~2.5% speed boost and lasts 15 seconds.
 
  |
 
 **Thunder Brawler:**
 
-These Talents are found in the _Thunder Brawler_ category.  
-_**"My fists are imbued with lighting."**_
+These Talents are found in the _Thunder Brawler_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1442,38 +1434,21 @@ Discharge
 
  | 
 
-\[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby.
+\[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
 
  | 
 
-Grants +7 Carry Load.
+Deals Thundercall damage and applies 1 Surge Rod or Shock on proc.
 
  |
 
 **Thunder Caster:**
 
-These Talents are found in the _Thunder Caster_ category.  
-_**"I electrocute my foes from afar."**_
+These Talents are found in the _Thunder Caster_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | 
-
-Jolt Cast  
-(30 Thundercall, 30 Intelligence)
-
- | 
-
-Every 3 perfect casted lightning mantra builds a stack at 3 stacks your next lightning mantra will take less time to cast.
-
- | 
-
-Grants +7 Carry Load.
-
- |
-| 
-
  | 
 
 Rain of Static  
@@ -1488,11 +1463,26 @@ After successfully casting lightning impact, strike down countless thunder at th
 Grants +7 Carry Load. Modifies the mantra Lightning Impact, increasing it's duration but grants it a ranged attack.
 
  |
+| 
+
+ | 
+
+Windup Battery  
+(30 Thundercall, 30 Intelligence)
+
+ | 
+
+Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
+
+ | 
+
+The windup reduction effect can be applied to non-Thundercall Mantras.
+
+ |
 
 **Unstable Capacitor:**
 
-These Talents are found in the _Surge Path: Unstable Capacitor_ category.  
-_**"I seek to embrace the instability of lightning as a source of power."**_
+These Talents are found in the _Surge Path: Unstable Capacitor_ category.
 
 | Media | Talents | Card Description | Effect |
 | --- | --- | --- | --- |

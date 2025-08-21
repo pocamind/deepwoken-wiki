@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 158677
+revid: 159125
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,13 +20,13 @@ Bloodrend Icon
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
-It's extremely effective at long to mid range. To counter this attunement, prioritize staying up close and applying constant pressure, as bloodrend lacks close range low windup mantras. Keep in mind that any mistake is likely to lead to you getting severely punished by the bloodrend user, even at close range from mantras like Bloodcurdle
+It's extremely effective at long to mid range. To counter this attunement, prioritize staying up close and applying constant pressure, as Bloodrend lacks close range low windup mantras. Keep in mind that any mistake is likely to lead to you getting severely punished by the Bloodrend user, even at close range from Mantras like Bloodcurdle
 
 ## Obtainment
 
 The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in an igloo on the east side of Firfire Village, caring for an injured diver. She is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once. After killing Chaser, re-enter Layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry's goons for so long, who are aching for her. She mentions "Bloodrend" and how she only wished to be taught under the Second for purely the attunement - no ties, no relationships…
 
-After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition that the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [3 Heartstars](Heartstar.md) from their corpses.
+After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition that the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [Heartstars](Heartstar.md) from their corpses.
 
 Walk out the building, and run around the village for a while. The blood-renders will notice you as a threat and begin to engage. Kill all the three cultists for 3 Heartstars, and return to Vyrelda to get the Curseblood potion. Upon usage, your body aches in pain for a split second. You have gained access to Bloodrend.
 
@@ -1337,14 +1337,14 @@ N/A
 -   **WARNING** ONCE 6 BLOOD POOLS ARE PLACED THEY WILL QUICKLY DISSAPATE
 -   Blood Poison is a stacking effect that is applied on the blood bar. **It does not replace blood**, simply overlay itself on top of it.
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
-    -   25% - _Hemolysis_ Talent is Activatable
-        -   Hemolysis - Deal 20% more critical attack damage.
-    -   30% - _Vasculitis_ Talent is Activatable
-        -   Vasculitis - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 30% BP.)
+    -   25% - Hemolysis Talent is Activatable
+        -   _Hemolysis_ - Deal 20% more critical attack damage.
+    -   30% - Vasculitis Talent is Activatable
+        -   _Vasculitis_ - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 30% BP.)
     -   40% - Enemies are under an Anti-Heal effect
     -   50% - Enemies have their damage reduced
-    -   60% - _Bloodwarden's Sense_ Talent is Activatable
-        -   Bloodwarden's Sense - Enemies you attack with a mantra are highlighted red briefly.
+    -   60% - Bloodwarden's Sense Talent is Activatable
+        -   _Bloodwarden's Sense_ - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _Gruesome Harvest_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you slight temporary health.
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.

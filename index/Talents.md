@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159076
+revid: 159151
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -308,8 +308,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Annihilator
 
--   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 7s.
-    -   Duration scales with investment up to its requirement, being much weaker if you have less than 100 Strength.
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
+    -   Duration scales with investment up to its requirement, this effect lasts 7 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
+        -   Collapsed Lung will have a 6 second duration at 75 Strength.
     -   Prerequisite: 100 Strength
 
 ### Apex Predator
@@ -1110,7 +1111,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Evil Endeavors
 
--   Revese Leech \[Common Talent, Shadowast Exclusive\] - Anytime you proc Behind You, steal ether from your opponent too.
+-   Reverse Leech \[Common Talent, Shadowast Exclusive\] - Anytime you proc Behind You, steal ether from your opponent too.
     -   Behind You is procced by landing a basic attack behind your enemy after feinting a Mantra.
     -   Prerequisites: 60 Shadowcast, Behind You
 
@@ -1248,9 +1249,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Freak Of Nature
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
-    -   The damage reduction granted will be less effective if you do not meet Exoskeleton's Fortitude requirement.
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.25% resistance for every point under 40 Fortitude.
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
-    -   [Vesperian](Vesperian.md)'s Chitin stacks with Exoskeleton, totaling to 14.5% Physical damage reduction.
+    -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
@@ -1617,7 +1618,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
     -   Grants 5% damage reduction in the form of Natural Armor.
     -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
-    -   Chitin stacks with the Exoskeleton Talent, totaling to 14.5% Physical damage reduction.
+    -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)

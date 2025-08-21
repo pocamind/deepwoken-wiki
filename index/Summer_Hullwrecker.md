@@ -1,6 +1,6 @@
 ---
 title: Summer Hullwrecker
-revid: 159065
+revid: 159130
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -13,6 +13,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Cr
 | type | Greatcannon |
 | requirements | 55 HVY, 25 STR |
 | damage | 24.5 |
+| scaling | HVY: 8.2 |
 | range | 8.5 |
 | swing speed | 0.81x |
 | endlag | 0.1s |
@@ -33,7 +34,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Cr
 
 ## Description
 
-A cannon engineered by the Summer Company. The Summer Hullwrecker is a very large [Greatcannon](Weapons.md#greatcannons) held with both hands.
+A cannon engineered by the Summer Company. This weapon is seen as the entry point to the [Greatcannon](Weapons.md#greatacannons) weapon class, boasting the lowest requirements out of all of the cannons.
 
 ## Critical
 

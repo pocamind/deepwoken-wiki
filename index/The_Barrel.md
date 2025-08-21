@@ -1,6 +1,6 @@
 ---
 title: The Barrel
-revid: 159082
+revid: 159112
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -13,6 +13,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Cr
 | type | Greatcannon |
 | requirements | 75 HVY, 30 STR |
 | damage | 25.5 |
+| scaling | HVY: 8.5 |
 | range | 8 |
 | swing speed | 0.82x |
 | endlag | 0.1s |

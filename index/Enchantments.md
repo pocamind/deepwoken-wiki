@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 159075
+revid: 159105
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -445,6 +445,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><br>
   <b>Unobtainable</b></p></div></td>
   <td><div>Weapon is covered in a golden hue and exudes golden particles.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
+  <font>JOE's</font></center></td>
+  <td><div><p>Standing for Judicator's Original Enchantment, the effects are currently unknown. JOE's likely has some benefit in PvE however, as referenced by the Enchant description stating, "An enchant that was supposed to be only for the strongest of monster slayers..."</p>
+  <p><br>
+  <b>Unobtainable</b></p></div></td>
+  <td><div>Enchant visual is unknown, although the Enchant Stone is glowing red, similar to Curse of Bloodthirsty.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 155047
+revid: 159131
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -860,8 +860,7 @@ Below is a list of all Shadowcast exclusive Talents and the Twisted Puppets path
 
 **Shadowcaster:**
 
-These are Talents found in the **Shadowcaster** category.  
-_**"I speak to the shadows."**_
+These are Talents found in the **Shadowcaster** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1027,8 +1026,7 @@ N/A
 
 **Darksiphon:**
 
-These are Talents found in the **Darksiphon** category.  
-_**"I feed on the souls of my enemies."**_
+These are Talents found in the **Darksiphon** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1146,8 +1144,7 @@ N/A
 
 **Death Speaker:**
 
-These are Talents found in the **Death Speaker** category.  
-_**"I am the one who speaks to death."**_
+These are Talents found in the **Death Speaker** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
@@ -1183,10 +1180,31 @@ N/A
 
  |
 
+**Evil Endeavors:**
+
+These are Talents found in the **Evil Endeavors** category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Reverse Leech  
+(60 Shadowcast, Behind You)
+
+ | 
+
+Anytime you proc Behind You, steal ether from your opponent too.
+
+ | 
+
+Behind You is procced by feinting a Mantra then hitting your opponent's back with a basic attack.
+
+ |
+
 **Twisted Puppets:**
 
-These Talents are found in the _Twisted Puppets_ category.  
-_**"I seek the qualities of twisted puppets."**_
+These Talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |

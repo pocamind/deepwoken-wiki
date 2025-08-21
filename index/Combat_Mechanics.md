@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159032
+revid: 159135
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -414,14 +414,15 @@ Image
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
 -   [Rock Golem](Rock_Golem.md): Uppercut
--   [Stone Knight](Stone_Knight.md): Kick, Terra Eruption
--   [Megalodaunt](Megalodaunt.md): Kick, Bite
--   [Thresher](Thresher.md): Burrow
+-   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
+-   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
+-   [Thresher](Thresher.md) (all variants): Burrow
 -   [King Thresher](King_Thresher.md): Burrow
 -   [Deep Owl](Deep_Owl.md): Overhead Grab
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
+-   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow

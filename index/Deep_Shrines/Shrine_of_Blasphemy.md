@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 152613
+revid: 159116
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -16,7 +16,7 @@ categories: [NPCs, Mechanics]
 
 ― Shrine of Blasphemy
 
-**If your looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
+**If you're looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
 ## Description
 

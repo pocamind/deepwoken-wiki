@@ -1,9 +1,9 @@
 ---
 title: "Warlock's Mantle"
-revid: 159020
+revid: 159206
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Mantles, World Event]
+categories: [Items, Equipment, Arms, World Event]
 ---
 
 # Warlock's Mantle
@@ -28,12 +28,10 @@ categories: [Items, Equipment, Arms, Mantles, World Event]
 
 ## Description
 
-The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It has the innate talent [Overflowing Dam](Talents.md#adept-caster), causing all your attacks to deal 10% more damage while your ether bar is full.
+The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It has the innate talent [Overflowing Dam](Talents.md#adept-caster), causing all your attacks to deal 10% more damage while your ether bar is full. If you have less than 40 Intelligence, Overflowing Dam's damage bonus will be halved to 5%.
 
 ## Trivia
 
 -   The Talent [Overflowing Dam](Talents.md#adept-caster) would usually require 40 Intelligence, and this equipment only requires 5 Intelligence, enabling you to potentially save 35 investment points.
-
--   Do note that the equipment talent and the 40 Intelligence talent are not the same, and that the equipment does not scale with Intelligence and will instead always give the 10% damage buff.
-
--   There _used_ to be a bug where you be able to equip The Warlock's Mantle without the 5 intelligence requirement, this of course was patched.
+    -   However, due to Overflowing Dam having half its effectiveness if you don't meet its Intelligence requirement, this equipment Talent is overall lackluster outside of saving a Talent slot.
+-   There _used_ to be a bug where you be able to equip The Warlock's Mantle without the 5 Intelligence requirement, this of course was patched.
