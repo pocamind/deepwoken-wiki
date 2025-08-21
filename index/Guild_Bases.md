@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 153530
+revid: 159276
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -10,9 +10,11 @@ notices:
 
 # Guild Bases
 
+Template:Areainfobox
+
 ## Overview
 
-Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader, Lieutenant, or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases for 80 Notes, and Guild Offices in towns for 50 Notes, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader, Lieutenant, or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases for 80 Notes, and Guild Offices in towns for 50 Notes, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
 Entering the Guild Base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for 500 Notes.
 
@@ -74,7 +76,7 @@ Mess Hall
  | 
 
 A large cafeteria with 2 long tables. This is a room that allows the hiring of a chef that will make food.  
-They sell: Fish Stew, Mushroom Omelettes, Cheese and Glazed Fish for 20 notes each, and sell Mushroom Bisques for 25 notes each.
+They sell: [Fish Stew](Fish_Stew.md), [Mushroom Omelettes](Mushroom_Omelette.md), [Cheese](Cheese.md) and [Glazed Fish](Glazed_Fish.md) for 20 each, and sell [Mushroom Bisques](Mushroom_Bisque.md) for 25 each.
 
  |
 | 

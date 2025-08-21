@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Schematic
-revid: 147171
+revid: 159282
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Drops]
@@ -12,7 +12,8 @@ categories: [Items, Ingredients, Drops]
 |---|---|
 | value | 5 |
 | weight | None |
-| type | Monster Material |
+| stack | x6 |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -25,8 +26,3 @@ The **Kyrsan Schematic** is a direct drop from [Kyrsgardes](Kyrsgarde.md).
 ## Uses
 
 -   Used to craft the [Vortex Echo](Vortex_Echo.md) relic fist weapon.
-
-## Trivia
-
--   Shows a schematic as the item and is not a blank blue brick.
--   The max amount able to be held is 6.

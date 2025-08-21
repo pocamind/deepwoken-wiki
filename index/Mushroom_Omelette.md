@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 159200
+revid: 159270
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -21,10 +21,12 @@ categories: [Food, Items]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | Savory and... Savory. |
+| obtainment | Lance Leshi (15 }, Lance's Brother (15 }, Mess Chef (20 }, Chef Odiolavoro |
 
 ## Description
 
-**Mushroom Omelette** is a craftable [Food](Food.md) item. It is also purchased from food vendors for 25.
+**Mushroom Omelette** is a craftable [Food](Food.md) item. It is also purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 15, [Mess Chef](Guild_Bases.md) for 20, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward..
 
 It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
 
@@ -35,5 +37,7 @@ When consumed, it replenishes 35% Stomach and 10% Water.
 Additionally, it grants the Power buff, affecting 20% of the Stomach bar. The buff increases M1 damage by 5%.
 
 ## Crafting
+
+### Recipe
 
 -   2 [Eggs](Egg.md) and 1 of any [Mushroom](Ingredients.md#mushrooms) at a [Campfire](Campfire_Pit.md).

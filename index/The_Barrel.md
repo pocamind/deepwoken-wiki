@@ -1,6 +1,6 @@
 ---
 title: The Barrel
-revid: 159245
+revid: 159294
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -36,7 +36,7 @@ _Not to be confused with [Barrels](Barrel.md)._
 
 ## Description
 
-A cannon salvaged from a royal Etrean galleon by the Summer Company and molded into a more handheld design, The Barrel is a very large Greatcannon [Weapon](Weapons.md) held with both hands.
+A cannon salvaged from a royal Etrean galleon by the Summer Company and molded into a more handheld design, The Barrel is a very large [Greatcannon](Weapons.md#greatacannons) held with both hands.
 
 ## Critical
 

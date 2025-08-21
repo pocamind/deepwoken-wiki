@@ -1,9 +1,9 @@
 ---
 title: Shrine of the Drowned
-revid: 155783
+revid: 159257
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Death]
+categories: [NPCs, Mechanics, Death]
 ---
 
 # Shrine of the Drowned

@@ -1,9 +1,9 @@
 ---
 title: "Lance's Brother"
-revid: 153306
+revid: 159261
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [NPCs, Vendors, Food Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Lance's Brother
@@ -14,11 +14,11 @@ Template:NPC name
 
 **Lance's Brother**, also known as **(?),** is an [Etrean](Etrean.md) NPC, located in at the [Isle of Vigils](Isle_of_Vigils.md), inside of a food stand near the docks. He sells various [food](Food.md) items.
 
-## Prices
+## Wares
 
--   Cheese - 15
--   Mushroom Omelette - 15
--   Mushroom Bisque - 20
+-   [Cheese](Cheese.md) - 15
+-   [Mushroom Omelette](Mushroom_Omelette.md) - 15
+-   [Mushroom Bisque](Mushroom_Bisque.md) - 20
 
 ## Crate Delivery Quest
 

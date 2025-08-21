@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 152637
+revid: 159256
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -8,7 +8,7 @@ categories: [NPCs, Mechanics]
 
 # Deep Shrines
 
-**Not to be confused with [Shrine of Courage](Shrine_of_Courage.md) and [Shrines](Fountain_Gates.md) (aka Fountain Gates).**
+_Not to be confused with [Shrine of Courage](Shrine_of_Courage.md), [Shrine of the Drowned](Shrine_of_the_Drowned.md), [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
 
 ## Description
 

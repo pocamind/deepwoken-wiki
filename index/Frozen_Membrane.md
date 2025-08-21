@@ -1,6 +1,6 @@
 ---
 title: Frozen Membrane
-revid: 149729
+revid: 159280
 source: https://deepwoken.fandom.com/wiki/Frozen_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,7 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 35 |
 | weight | None |
-| type | Monster Material |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

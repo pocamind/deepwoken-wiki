@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 159084
+revid: 159274
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -243,7 +243,3 @@ Elder Primadon can also initiate a **combo** that always consists of a stomp, a 
 </tr>
 </tbody>
 </table>
-
-## Gallery
-
-Elder Primadon

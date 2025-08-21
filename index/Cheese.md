@@ -1,6 +1,6 @@
 ---
 title: Cheese
-revid: 151179
+revid: 159292
 source: https://deepwoken.fandom.com/wiki/Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Food, Items]
@@ -10,23 +10,27 @@ categories: [Ingredients, Food, Items]
 
 | Cheese | |
 |---|---|
-| value | Unknown |
 | weight | None |
 | stack | x20 |
 | type | Ingredient & Food |
+| food type | Generic |
+| stomach | 15% |
+| water | 1% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | There's cows, you just aren't looking hard enough. |
-| obtainment | Lance's Brother, Chef Odiolavoro, Mess Chef (Guild Base Chef) |
+| obtainment | Lance Leshi (15 }, Lance's Brother (15 }, Mess Chef (20 }, Chef Odiolavoro |
 
 ## Description
 
-**Cheese** is a food item sold by food vendors exclusively.
+**Cheese** is a [Food](Food.md) item. It is exclusively purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 15, [Mess Chef](Guild_Bases.md) for 20, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward..
 
-It fills 15 Hunger and 1 Thirst.
+It is a type of **Generic** food.
 
-Its Food Type is Generic.
+### Effect
+
+When consumed, it replenishes 15% Stomach and 1% Water.
 
 ## Uses
 

@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 127929
+revid: 159283
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -50,7 +50,7 @@ While inside a Voidzone:
 ― Ancient Rotland's Flavour Text
 
   
-**Location:** [Songseeker Wilds](Songseeker_Wilds.md), East Luminant
+**Location:** [Songseeker Wilds](Songseeker_Wilds.md), Eastern Luminant
 
 **Dangers:** Insanity-inflicting Environment, [Nightmare Threshers](Nightmare_Thresher.md), [Deep Angels](Deep_Angel.md)
 

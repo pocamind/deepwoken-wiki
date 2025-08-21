@@ -1,6 +1,6 @@
 ---
 title: Primadon Pelt
-revid: 157512
+revid: 159288
 source: https://deepwoken.fandom.com/wiki/Primadon_Pelt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,7 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 1,500 |
 | weight | None |
-| type | Monster Material |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

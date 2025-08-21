@@ -1,6 +1,6 @@
 ---
 title: Strange Claw
-revid: 154272
+revid: 159286
 source: https://deepwoken.fandom.com/wiki/Strange_Claw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,7 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 15 |
 | weight | None |
-| type | Monster Material |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

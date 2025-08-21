@@ -1,6 +1,6 @@
 ---
 title: Exotic Hide
-revid: 158642
+revid: 159285
 source: https://deepwoken.fandom.com/wiki/Exotic_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,7 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | N/A |
 | weight | None |
-| type | Monster Material |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
