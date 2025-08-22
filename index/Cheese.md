@@ -1,6 +1,6 @@
 ---
 title: Cheese
-revid: 159292
+revid: 159322
 source: https://deepwoken.fandom.com/wiki/Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Food, Items]
@@ -24,7 +24,7 @@ categories: [Ingredients, Food, Items]
 
 ## Description
 
-**Cheese** is a [Food](Food.md) item. It is exclusively purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 15, [Mess Chef](Guild_Bases.md) for 20, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward..
+**Cheese** is a [Food](Food.md) item. It is exclusively purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 15, [Mess Chef](Guild_Bases.md) for 20, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward.
 
 It is a type of **Generic** food.
 
@@ -34,6 +34,6 @@ When consumed, it replenishes 15% Stomach and 1% Water.
 
 ## Uses
 
--   Cooked into Grilled Cheese.
--   Cooked into Crab Pizza.
--   Cooked into Crab Stuffed Browncaps.
+-   Cooked into [Grilled Cheese](Grilled_Cheese.md).
+-   Cooked into [Crab Pizza](Crab_Pizza.md).
+-   Cooked into [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md).

@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 158705
+revid: 159321
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -8,15 +8,15 @@ categories: [Quests]
 
 # Job Boards
 
-Job Board at Etris docks
+J\*b Board at Etris docks
 
 ## Description
 
-**Jobs** are repeatable quests provided by various factions, accessible through Job Boards located in populated territories. Completing a Job grants rewards such as [Event EXP](Power.md), a [Chest](Chests_&_Sacks.md), and a significant boost to your [Reputation](Reputation.md) with the corresponding faction.
+**J\*bs _(J\*bs have been censored for your safety and others)_** are repeatable quests provided by various factions, accessible through J\*b Boards located in populated territories. Completing a J\*b grants rewards such as [Event EXP](Power.md), a [Chest](Chests_&_Sacks.md), and a significant boost to your [Reputation](Reputation.md) with the corresponding faction.
 
-The core of a Job usually involves traveling to a designated area and fulfilling a specific objective. These objectives can range from transporting goods to eliminating enemy patrols. When interacting with a Job, right-clicking will present two options: "Forfeit Task" to abandon the quest, or "View on Map" to display the Job's location on the players map.
+The core of a J\*b usually involves traveling to a designated area and fulfilling a specific objective. These objectives can range from transporting goods to eliminating enemy patrols. When interacting with a J\*b, right-clicking will present two options: "Forfeit Task" to abandon the quest, or "View on Map" to display the J\*b's location on the players map.
 
-Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs from their ruling faction. However, Job Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) provide Jobs from any faction that can generate in that area. Players with the [Ignition Delver](Origins.md#ignition-delver) origin can utilize the [Union Pager](Ignition_Delver.md) tool to accept jobs remotely.
+Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs from their ruling faction. However, J\*b Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) provide J\*bs from any faction that can generate in that area. Players with the [Ignition Delver](Origins.md#ignition-delver) origin can utilize the [Union Pager](Ignition_Delver.md) tool to accept j\*bs remotely.
 
 ## Etrean Luminant
 

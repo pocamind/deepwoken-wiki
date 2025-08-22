@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 159188
+revid: 159323
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -27,7 +27,7 @@ Shoulder to shoulder, together, tall! ”
 
 ## Description
 
-**The Ignition Union** is a faction found primarily throughout the Eastern Luminant and [The Depths](The_Depths.md). They are a renowned freelancer company and labor union that specializes in trade, technology, R&D, and Depths exploration.
+**The Ignition Union** is a faction found primarily throughout the [Eastern Luminant](Luminants.md) and [The Depths](The_Depths.md). They are a renowned freelancer company and labor union that specializes in trade, technology, R&D, and Depths exploration.
 
 Their main base of operations is the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 

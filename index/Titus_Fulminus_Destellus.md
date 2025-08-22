@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 159091
+revid: 159325
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -260,7 +260,7 @@ Titus drops a variety of unique items that cannot be found elsewhere.
 In addition to his unique chest (see below for the table), an additional chest is rewarded for each participating player, dropping at their feet. This chest can include:
 
 -   [Weapons](Weapons.md): [Imperator's Edge](<Imperator's_Edge.md>), [Imperial Staff](Imperial_Staff.md)
--   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Moonseye Tomes](Moonseye_Tome.md), [Smith's Alloys](<Smith's_Alloy.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
+-   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Moonseye Tomes](Moonseye_Tome.md), [Smith's Alloys](<Smith's_Alloy.md>), [Idol of Yunshul](<Idol_of_Yun'Shul.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
 -   [Items](Items.md): [Deep Gems](Deep_Gems.md), [Gale Stones](Gale_Stone.md)
 
 ### 

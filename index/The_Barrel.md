@@ -1,9 +1,9 @@
 ---
 title: The Barrel
-revid: 159306
+revid: 159312
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons]
 ---
 
 # The Barrel
@@ -44,7 +44,6 @@ The Barrel uses the default Greatcannon critical, firing the cannon and dealing 
 
 ## Trivia
 
--   Was supposed to be added in the same update as [Titus](Titus_Fulminus_Destellus.md) as well as the [Summer Hullwrecker](Summer_Hullwrecker.md).
--   Shares the same critical with [Summer Hullwrecker](Summer_Hullwrecker.md)
--   The critical attacks hitbox is very weird, sometimes not even hitting your enemy at all even though you blatantly hit them. \[Hopefully gets fixed soon\]
--   Unlike bullets from guns and rifles, this weapon's cannonball crit can proc [Elastic](Enchantments.md).
+-   The Barrel was supposed to be added in the Detainment Core update.
+-   The critical attack's hitbox is very weird, sometimes not even hitting your enemy at all even though you blatantly hit them.
+-   Unlike all other projectile attacks, this weapon's critical can proc [Elastic](Elastic.md).
