@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159249
+revid: 159309
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -152,6 +152,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
+        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Orange
@@ -1107,6 +1108,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 55 Intelligence
 
 -   Behind You \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.
+    -   This deals a separate instance of physical damage, scaling on your weapon's damage and your current Ether%.
+    -   Unlike Spine Cutter, this has no cooldown.
+    -   You can proc Behind you and Spine Cutter at the same time, but the proc window is very tight.
     -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence
 
 ### Evil Endeavors
@@ -1260,7 +1264,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 40 Fortitude.
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health. (+5 Health)
-    -   The damage reduction granted will be less effective if you do not meet To the Finish's Fortitude requirement.
+    -   To the Finish gains 0.2% damage reduction per point in Fortitude, capping at 10% damage reduction with 50 Fortitude.
+        -   At 25 Fortitude, To the Finish will grant 5% damage reduction.
     -   Prerequisite: 50 Fortitude
 
 ### Frost Forger
@@ -1428,7 +1433,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
 
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
-    -   Prerequisites: 30 Intelligence and 20 Light Weapon/Medium Weapon, Using a Gun/Rifle
+    -   Prerequisites: 30 Intelligence and 20 Light Weapon/Medium Weapon, Using a Pistol/Rifle
         -   Landing 2 shots will make the 3rd shot deal elemental damage.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
@@ -3031,7 +3036,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 20 Intelligence
 
 -   _Punishing Blow_ \[Rare Talent\] - \[Heavy Weapons\] Daze opponents for 1s when you interrupt their Basic Attack with your own.
--   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
+    -   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
     -   Prerequisite: 20 Heavy Weapon
 
 -   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
@@ -3210,7 +3215,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   10 second cooldown.
-    -   Manipulator's damage modifier will be reduced if you do not meet its requirements.
     -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
     -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
     -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.

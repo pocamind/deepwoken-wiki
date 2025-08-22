@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 159253
+revid: 159301
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,7 +42,3 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 ### Finishers
 
 -   Executing Punch - The construct walks up to its opponent and punches them, immediately killing them.
-
-## Gallery
-
-\==Navigation

@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 149756
+revid: 159298
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -58,7 +58,7 @@ A list of named locations that can be found in Deepwoken's world "Lumen".
     -   [The Birdcage](The_Birdcage.md)
     -   [Towerstruck Lands](Towerstruck_Lands.md)
     -   [The Hidden Village](The_Hidden_Village.md)
-    -   Temple of The Forgotten Flame
+    -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
         -   [Temple Courtyard](Temple_Courtyard.md)
     -   [The Garden Reservoir](The_Garden_Reservoir.md)
     -   [Burning Stone Gardens](Burning_Stone_Gardens.md)

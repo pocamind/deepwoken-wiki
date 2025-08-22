@@ -1,6 +1,6 @@
 ---
 title: The Barrel
-revid: 159294
+revid: 159306
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -29,7 +29,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Cr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, Songseeker Wilds, Fishing, Minityrsa, Interluminary Parasol |
+| obtainment | Summer Isle, Erisia, Songseeker Wilds, Fishing, Minityrsa, Interluminary Parasol, Dread Serpent |
 | description | Once mounted on a royal Etrean galleon, this bulky cannon was salvaged from a wreck by the Summer Company and addapted into a handheld design; still cumbersome, according to those who used it before its eventual retirement. |
 
 _Not to be confused with [Barrels](Barrel.md)._
