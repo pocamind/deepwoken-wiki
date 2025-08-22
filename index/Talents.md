@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159329
+revid: 159351
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1208,6 +1208,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
     -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
+    -   This can be easily procced by landing a multi-hit fire mantra.
+    -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.
     -   Prerequisites: 20 Agility, 30 Flamecharm
 
 -   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
@@ -3431,6 +3433,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount to 70% of your weapon's scaled damage.
         -   The damage bonus to your Air Counters will scale down if you have less than 60 Agility.
     -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
+    -   Can be synergized with uppercut-based Talents, such as Flaming Flourish.
     -   Prerequisite: 60 Agility
         -   The old Air Counter Talent was made innate and then reworked into this.
 

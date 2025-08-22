@@ -1,16 +1,16 @@
 ---
 title: Aelita
-revid: 150333
+revid: 159342
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Aelita
 
 | Aelita | |
 |---|---|
-| name | Aelita |
+| name | Aelita Arlekino[1] |
 | aspect | Felinor |
 | location | Valley of Heroes (During Spring, Summer and Autumn) |
 
@@ -65,7 +65,7 @@ She is the twin sister of [Tillian](Tillian.md).
 
 -   When talking to Aelita, the song [Catwhisker](Deepwoken_OST.md#catwhisker) by Naktigonis starts playing
 -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when Arch\_Mage announced that Krulians do not take [Oaths](Oaths.md), as well as the theory overall lacking any real evidence for it.\[citation needed\]
--   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
+-   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[2\]](#cite-note-2)
 -   Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the Oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
     
@@ -83,4 +83,5 @@ She is the twin sister of [Tillian](Tillian.md).
 
 ## References
 
-1.  [↑](#cite-ref-1)
+1.  [↑](#cite-ref-1) File:Aelitaarlekino.png
+2.  [↑](#cite-ref-2)
