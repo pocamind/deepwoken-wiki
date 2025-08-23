@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 158809
+revid: 159373
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -150,6 +150,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 -   **Ardour Slicer** - Close the distance and deliver a fast slash using your Ardour.
     -   User launches a projectile similar to Wind Blade.
     -   Deals 28 Oath damage.
+    -   Deals 10%(?) chip damage
     -   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
     -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.

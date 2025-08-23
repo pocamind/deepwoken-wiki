@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 156866
+revid: 159375
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -31,9 +31,9 @@ It can also be crafted into the [Gilded Needle](Gilded_Needle.md) with 3 **Armor
 
 ## Farming
 
-Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), the [Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
+Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), \[Primadon\]\], [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
 
-They can also be found less consistently from completing [Voidwalker](Origins.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
+They can also be found less consistently from completing [Voidwalker](Voidwalker.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
 
 If you are in dire need of many **Armorer's Needles**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md). If you are quick or have a group to help, you can kill 2-3 Parasols across different servers before they escape. Once you have done that, you can head to Ferryman and farm him until the next Parasol event.
 
@@ -43,7 +43,7 @@ Use text: "_With a deft hand, you transmute the property of \[lost property\] in
 
 Upon usage, a window will appear showing the equipment your character is currently wearing. When selecting an equipment piece to modify, you will be given a list of the item's current pips.
 
-When changing a pip, they will turn into any of the relevant, available pip for that piece following this table. It is important to remember that equipment with more than 3 pips (Head/Arms/Legs) or 2 pips (Torso/Face/Ears/Rings) **CANNOT** have all their pips be the same.
+When changing a pip, they will turn into any of the relevant, available pip for that piece following this table. It is important to remember that equipment with **3** or more pips **CANNOT** have all their pips be the same type.
 
 <table><caption>Pips Info</caption>
 <tbody>

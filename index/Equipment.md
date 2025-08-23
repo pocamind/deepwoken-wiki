@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 158351
+revid: 159374
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -27,7 +27,7 @@ By wearing all equipment within a Set, you may be eligible to obtain the equipme
 All equipment (with few exceptions), when obtained, will roll for random stats. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
 
-Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to equipment that has **2** or more pips.
+Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to equipment that has **3** or more pips.
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pips (Head, Arms, and Legs also get +1 HP)  
@@ -78,7 +78,7 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td><center>N/A</center></td>
   <td>4 6</td>
   <td>6</td>
-  <td>2 4 6 8</td>
+  <td>4 6 8</td>
 </tr>
 <tr>
   <td>Posture</td>

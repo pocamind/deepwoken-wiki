@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159370
+revid: 159372
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -30,7 +30,7 @@ File:DeepwokenThumbnail.png
 
 ## Overview
 
-**Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained through the same means. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md). Additionally, some powerful Talents like [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time.
+**Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained through the same means. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md) and [Weapons](Weapons.md). Additionally, some powerful Talents like [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time.
 
 All Talents belong to a Talent category. A majority of Talents, including Mantras from Whisper Draws, can be given a higher chance to appear by talking to a [Mystic](Mystic.md) and selecting a quote corresponding to the Talent's category, which will only appear if you meet the requirements for a Talent from that category. **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
 
@@ -3729,7 +3729,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recovery health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
     -   Restores 4% of the user's maximum health upon landing M1 attacks.
-    -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick and ticks 5 times regardless of the hit's initial damage. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.
+        -   This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
+    -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick regardless of the initial hit's damage, and it ticks 5 times over 5 seconds instead of 3 ticks immediately. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
 
 ## Equipment Talents
