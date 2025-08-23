@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159351
+revid: 159370
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1583,7 +1583,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Immolator
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-    -   Has a 1s cd. Under unknown circumstances, it will have a 3s cd.
+    -   This Talent can be procced if a non-burning person were set aflame, most likely a bug since it also doesn't go on cd.
+    -   Has a 1s cd.
     -   Can spread to allies.
     -   Controlled Combustion will prevent this Talent from burning you and your allies.
     -   Prerequisite: 40 Flamecharm
@@ -2778,8 +2779,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
     -   Sending a message in chat will proc this Talent.
     -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to reinforce (does not stack).
-    -   The buffs applied will have reduced effectiveness if you do not have at least 40 Charisma.
     -   The buff is random for each person affected.
+    -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.
+    -   For every point in Charisma below 40, the cooldown will be increased by 0.25 seconds, having a 1 minute 6.25 second cooldown at 15 Charisma.
     -   Prerequisite: 40 Charisma
 
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent \[_[sic](https://en.wikipedia.org/wiki/sic)_\] description, I can't stop you.
@@ -3097,11 +3099,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
     -   Does not proc the Talent "Dazing Finisher".
-    -   Lasts for ~11s, and has a 30s cd.
+    -   Deals 15 damage, 25 Wither, and sets the victim and anyone nearby on fire.
+    -   Lasts for ~11s, and has a 30s cd. You must wait 2s (the duration of Burn Immunity) before being able to gain another stack.
+    -   To clear up confusion, you can only extinguish (consume) self-inflicted flames.
     -   If this Talent is on cd, you will not consume flames, and proc burn on yourself normally.
     -   Will not proc on knocked NPCs/players, but can gain stacks from them.
-    -   Using Flame Within will grant a stack. If your Flame Within were to burn someone on use, receive an additional stack, totalling 2 simultaneous stacks.
-    -   While under Flame Within with Immolation, gain a stack upon hitting a non-burning person, despite Agitating Spark stating that it will only proc if you hit someone whilst they're on fire (it does not go under cd in this case as well).
+    -   Due to a bug (most likely) with Agitating Spark, you can gain a stack by setting a non-burning person aflame (even yourself by using Flame Within). Because of this, if your next M1/critical attack were to burn on hit or hit someone who is already burning, you could immediately proc the explosion with only 4 stacks (Agitating Spark seems to proc itself twice before damage is dealt (?) (trying to burn someone who is already on fire with a mantra or using Flame Within next to someone apparently gives double the stacks).
     -   Prerequisites: Agitating Spark, 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
@@ -3279,7 +3282,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Procs even if Revenge is blocked, parried, dodged, or vented.
-    -   Pursuit's cooldown will be increased if you do not have at least 90 Agility.
+    -   Pursuit's cooldown will be increased to 40 seconds if you do not have at least 90 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 90 Agility
 
 ### Twinblade
@@ -3720,6 +3723,15 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
     -   Also obtained when defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time regardless of your stats.
 -   This Talent lets you instagrip enemies weaker than you with a swing, or flourish. If they are low enough you will also bash their skull or penetrate their chest with your weapon.
 
+## Weapon Talents
+
+Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md). These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
+
+-   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recovery health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
+    -   Restores 4% of the user's maximum health upon landing M1 attacks.
+    -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick and ticks 5 times regardless of the hit's initial damage. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.
+    -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
+
 ## Equipment Talents
 
 Certain Talents are given when a specific equipment or outfit is worn. Most of these Talents are exclusive to that equipment, though some are also available as cards from powering up. Multiple copies of the same Talent do not stack. Equipment Talents are listed in alphabetical order:
@@ -3929,13 +3941,11 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 
 Certain Talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other Talents, or could otherwise break certain builds.
 
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
--   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
--   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn.
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.
--   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
--   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them.
--   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
+-   Any **Rare** Talent unless it has been [frozen](Aces.md).
+-   Any attunement path's starting Talent (e.g. Wraith Path: Twisted Puppets, Eruption Path: Lava Serpent, or Glass Path: Crystallization)
+-   Dancing Steps - Fire mantras now move you forward slightly.
+-   Nullifying Clarity - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.
+-   Agitating Spark - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 
 ## Trivia
 

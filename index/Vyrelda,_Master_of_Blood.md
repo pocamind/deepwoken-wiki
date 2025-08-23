@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 158989
+revid: 159363
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant]
@@ -15,11 +15,13 @@ categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First F
 
 ## Description
 
-Vyrelda is an NPC who acts as the [Bloodrend](Bloodrend.md) Trainer. She was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in Layer 2. She is found treating a wounded Diver. The outfit she is wearing is [Sanguine Finery](Sanguine_Finery.md) obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
+Vyrelda is an NPC who acts as the [Bloodrend](Bloodrend.md) [Trainer](Attunement_Trainers.md). She was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in the Second Layer. She is found treating a wounded Diver. The outfit she is wearing is [Sanguine Finery](Sanguine_Finery.md) obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
 
 She appears to be friendly, albeit stern towards the player. She is seen healing a lost diver by clotting their wounds and restoring their blood through blood magic, despite not being affiliated with the Divers.
 
-After getting Bloodrend she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide. You can attain [Bloodrend](Bloodrend.md) on any slot without going to the [Second Layer](Second_Layer.md) by talking to her in the [Derelict Highchurch](Derelict_Highchurch.md).
+After obtaining [Bloodrend](Bloodrend.md) she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide. You can attain Bloodrend on any slot without going to the [Second Layer](Second_Layer.md) by talking to her in the [Derelict Highchurch](Derelict_Highchurch.md).
+
+Vyrelda is one of the Attunement Trainers fought to progress the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md). When fought, she wields the [Red Death](Red_Death.md).
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159247
+revid: 159369
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -369,8 +369,8 @@ Image
 | Red | File:Redtelegraph.png | ✗ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
 
--   [Rock Golem](Rock_Golem.md): Scream, Laser
--   [Golem Prime](Golem_Prime.md): Scream, Laser Barrage
+-   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
+-   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
 -   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
@@ -378,8 +378,8 @@ Image
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
 -   [Stoneheart](Stoneheart.md) critical
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
--   [Lionfish](Lionfish.md): Cero, No Trace Left Behind
--   [Nautilodaunt](Nautilodaunt.md): Grand Stomp
+-   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
+-   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
 
  |
 | Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
@@ -392,7 +392,7 @@ Image
 | Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
 
--   Default [Greatsword and Club](Weapons.md) criticals (White)
+-   Default [Greatsword](Greatswords.md) and Club criticals (White)
 -   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
 -   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
 -   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
@@ -418,7 +418,6 @@ Image
 -   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
 -   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
 -   [Thresher](Thresher.md) (all variants): Burrow
--   [King Thresher](King_Thresher.md): Burrow
 -   [Deep Owl](Deep_Owl.md): Overhead Grab
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
 -   [Gigamed](Gigamed.md): Electric Stun Pulse

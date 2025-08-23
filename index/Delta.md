@@ -1,6 +1,6 @@
 ---
 title: Delta
-revid: 151327
+revid: 159359
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oaths, Oath Trainer]
@@ -65,6 +65,34 @@ You are required to speak with him to obtain and progress the [Arcwarder](Oath%2
 </tr>
 <tr>
   <td colspan="6">Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite <i>attuned</i> to you yet. Nothing you can't figure out, I'm sure.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Already Oathsworn, Requirements met.:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6">Hm? Sorry traveller, you aren't quite who I am looking for. I'll be...</td>
+</tr>
+<tr>
+  <td colspan="6">Alpha sent me.</td>
+</tr>
+<tr>
+  <td colspan="6">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted...</td>
+</tr>
+<tr>
+  <td colspan="6">Alright.</td>
+</tr>
+<tr>
+  <td colspan="6">Hm. Sorry pal, even with Alpha's advocacy it doesn't seem like I can do much for you. You already got some sort of Vow, or somethin' like that. He doesn't tell me much.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

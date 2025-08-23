@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 157810
+revid: 159360
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, Ignition Union Enemies, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -240,3 +240,4 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
 -   Formerly, Adar could not be killed for Silentheart progression and when talking to him while being one would prompt a message of him saying: "Huh? Why are you giving me those looks for?" The 11/10/23 update finally allowed him to be fought and killed.
 -   He does not use the [legendary weapon](Ignition_Deepcrusher.md) of his respective Attunement unlike other trainers, due to him having a [weapon](Darksteel_Greatsword.md) already on his back.
+-   His eyes are a whiteish color, this could imply he is blind, but is most likely due to his attunment being a greyish white color. Alternitavely, him being blind could be a reference to the character, Toph Beifong, from Avatar: The last airbender, who uses similar magic of manipulateing Iron, and is blind.

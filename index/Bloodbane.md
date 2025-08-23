@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 159326
+revid: 159367
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, War Weapons, Heavy Weapons]
@@ -40,7 +40,9 @@ The **Bloodbane** is a Heavy Greatsword, an enhanced variant of the [Zweihander]
 
 Dying in the Overworld/[Depths](The_Depths.md) with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Zweihander**. Dying within [Chime of Conflict](Chime_of_Conflict.md) will not deteriorate the Bloodbane. Bloodbane **cannot** be enchanted.
 
-### Passive: Bloodthirsty
+### Talent: Bloodthirsty
+
+Equipping the Bloodbane grants the unique Talent [Bloodthirsty](Talents.md#weapon-talents), applying the weapon's unique traits. This Talent will be lost upon equipping any other weapon, including ability-bound weapons like the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 On M1, restore 4% of your maximum health. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 
