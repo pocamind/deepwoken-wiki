@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 157729
+revid: 159383
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, The Divers]
@@ -42,5 +42,5 @@ This Outfit has 1000 durability, grants +10% Physical resistance, +15% Elemental
 
 ## Trivia
 
--   Karliah can be seen wearing this outfit in [Etris](Etris.md) before finishing her quest.
+-   [Karliah](Karliah.md) can be seen wearing this outfit in [Etris](Etris.md) before finishing her quest.
 -   It is worn by Diver NPCs.

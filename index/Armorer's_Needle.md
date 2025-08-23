@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 159375
+revid: 159380
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -61,7 +61,7 @@ When changing a pip, they will turn into any of the relevant, available pip for 
   <td>Health (HP)</td>
   <td>4 4 5</td>
   <td>4 4 5</td>
-  <td>3 4 5</td>
+  <td>3 4 4 5</td>
   <td>3 4 5</td>
   <td>N/A</td>
   <td>N/A</td>
@@ -71,7 +71,7 @@ When changing a pip, they will turn into any of the relevant, available pip for 
   <td>Ether (ETH)</td>
   <td>8 10 12</td>
   <td>8 10 12</td>
-  <td>10 12</td>
+  <td>8 10 12</td>
   <td>8 10 12</td>
   <td>4 6 8</td>
   <td>4 8</td>

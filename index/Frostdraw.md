@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 159136
+revid: 159381
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -512,7 +512,7 @@ Ice
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
--   Inflicts Chill. 5 seconds of Chill. This can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts Chill for 5 seconds. This can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Slightly knocks back target(s).
 -   Can break objects.
 -   Press block during Ice Smash's windup to initiate a second hit dealing 80% of the damage of the first hit.

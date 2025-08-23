@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 159376
+revid: 159379
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -55,7 +55,7 @@ Unlike [Armorer's Needles](<Armorer's_Needle.md>), you can choose what the pip c
   <td>Health (HP)</td>
   <td>4 4 5</td>
   <td>4 4 5</td>
-  <td>3 4 5</td>
+  <td>3 4 4 5</td>
   <td>3 4 5</td>
   <td>N/A</td>
   <td>N/A</td>
@@ -65,7 +65,7 @@ Unlike [Armorer's Needles](<Armorer's_Needle.md>), you can choose what the pip c
   <td>Ether (ETH)</td>
   <td>8 10 12</td>
   <td>8 10 12</td>
-  <td>10 12</td>
+  <td>8 10 12</td>
   <td>8 10 12</td>
   <td>4 6 8</td>
   <td>4 8</td>
