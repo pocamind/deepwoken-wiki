@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 158862
+revid: 159408
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -46,7 +46,7 @@ This page is about content that has either been removed or changed drastically i
 ## Oaths
 
 -   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in the game, it was reworked, removing certain aspects of the previous version.
-    -   The active passive **Mani Katti** was removed alongside this rework.
+    -   The active passive **Mani Katti** was removed on 13.09.2024, which was then brought back, reworked and renamed into **Silent Cascade** on 19.08.2025.
     -   This was reworked on the 13th, August 2024.
 -   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
     -   The Oath mantra **Illusory Realm** was removed alongside this rework.

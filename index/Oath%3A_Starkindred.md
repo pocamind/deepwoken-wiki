@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 158815
+revid: 159399
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -87,7 +87,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 
 -   **Ascension** - Take to the skies for a devastating strike.
     -   The user rises into the air before swooping in.
-    -   Deals 37 Oath damage.
+    -   Deals 37 Oath damage with 1.65 Strength scaling.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
     -   Applies hard knockdown on hit.
     -   [Wayward Gem](Wayward_Gem.md) will not proc on this Mantra.
@@ -96,35 +96,34 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 
 -   **Celestial Assault** - Use your wings and deliver two critical blows.
     -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
-    -   Deals 40 (20\*2) Oath damage.
+    -   Deals 40 (20\*2) Oath damage with 1.65 Strength scaling.
 -   Obtained after the third Sinner kill.
 
 -   **Sinister Halo** - Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
     -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
-    -   Deals 32 (3.2\*10) Oath damage.
+    -   Deals 32 (3.2\*10) Oath damage with 1.65 Strength scaling.
 -   Obtained after the second Sinner kill.
+
+## Notes
+
+-   All of Starkindred's Mantras have Strength scaling.
+-   The optimal Oath progression is to kill [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) first, [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) second, and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md) last, due to their spawn locations.
+-   The best way to kill the [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and the Sinners is to parry trade until you flourish them.
+-   Death from Above cancels Shadow Meteors if it's active.
+-   Death from Above counts as weapon damage for certain effects such as [Whistling Periapt's](Whistling_Periapt.md) Whistleguard.
 
 ## Trivia
 
--   It is recommended to kill [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) first, [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) second, and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md) last, due to their locations.
--   The best way to kill the [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and the Sinners is to parry trade until you flourish them.
--   Starkindred's mantras scale with Strength.
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Starkindred had the Mystic line "I speak for my masters above."
 -   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain; they also have a long history of bloodshed in the name of their faith.
     -   This "history of bloodshed" is elaborated on by the existence of the [Pale Briar](Pale_Briar.md).
 -   This Oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The Oath's icon resembles the Suncross (also known as the Sun, as opposed to the Moonseye being the Moon)
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.
--   Stratus Stones and Cloudstones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
--   The Halo, upper, and lower feathers are all dye-able.
--   You can Dye the Upper Feathers by dyeing your Primary Hair, If you want to have your wings as a different color from the hairs you have on, make this your Hair 1. (First Hair slot at the Barber) (14022927544) It is a Buzz Cut that can hide underneath most hairs.
--   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md). However, drinking it will simply make you vomit.
--   Updated on 25th August 2024 to be affected by Ganymede, Vesperian, and Chrysid.
+-   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md), drinking it however will simply make you vomit.
 -   The color of the Hivekin wings do not change based on its variant, Instead you will have to dye your hair.
 -   Typing "I will never be a memory." or anything containing the phrase toggles your right wing off/on, this is an easter egg referencing [Sephiroth](https://finalfantasy.fandom.com/wiki/Sephiroth).
-    -   This does not work with the Hivekin aspects
+    -   This does not work with the alternative Oath cosmetics.
 -   The Talent "Death from Above" is a reference to the skill [Sakura Dance](https://sekiro-shadows-die-twice.fandom.com/Sakura_Dance) from _Sekiro: Shadows Die Twice_.
--   Even after fully progressing the oath using 10 Knowledge, the three sinners will still spawn in their respective locations.
--   Death from Above cancels Shadow Meteors if it's active.
--   Death from Above counts as weapon damage as it can proc the [Whistleguard](Whistling_Periapt.md) Talent if used after 0/1/2 M1s depending on weapon type. Using Death from Above will not cancel the shield of wind as well.
+-   If you skip the Oath's progression with Knowledge, the sinners will still spawn in their respective locations.

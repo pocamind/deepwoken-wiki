@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 158402
+revid: 159392
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -307,40 +307,6 @@ N/A
  |
 | 
 
-**Throw** (★★☆)
-
-_Grab and throw your enemies._
-
- | 
-
-## Throw (★★☆)
-
-  
-_Grab and throw your enemies._
-
- |
-| 
-
-40 Ether
-
- | 
-
-Blunt
-
- | 
-
-5 Strength, Defeated [Titus](Titus_Fulminus_Destellus.md)
-
- |
-| 
-
-**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
-
--   Shares a cooldown with [Grab Mantras](List_of_Grab_Mantras.md).
-
- |
-| 
-
 **Tacet Drop Kick** (☆☆☆)
 
 **Combat Mantra**
@@ -377,6 +343,43 @@ Blunt
 -   Lands 15% faster when casted while wielding Jus Karita.
 -   Requirements are increased if you have an Attunement.
 -   Can still be used after removing [Tacet](Murmur%253A_Tacet.md).
+
+ |
+| 
+
+**Throw** (★★☆)
+
+**Combat Mantra**
+
+_Grab and throw your enemies._
+
+ | 
+
+## Throw (★★☆)
+
+  
+**Combat Mantra**  
+_Grab and throw your enemies._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Blunt
+
+ | 
+
+35 Strength, Defeated [Titus](Titus_Fulminus_Destellus.md)
+
+ |
+| 
+
+**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
+
+-   Shares a cooldown with [Grab Mantras](List_of_Grab_Mantras.md).
 
  |
 

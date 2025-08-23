@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 159389
+revid: 159402
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -53,7 +53,7 @@ Make your attacks uninterruptible and become immune to most forms of stun; Vents
 
 ### True Hyperarmor
 
-Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword's](Darksteel_Greatsword.md) Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and the [Iron Hug](Ironsing.md#iron-hug) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
+Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword](Darksteel_Greatsword.md)'s Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and the [Iron Hug](Ironsing.md#iron-hug) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
 
 ### Dazed
 
@@ -262,7 +262,7 @@ These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and at
 
 ## Enchantment Applied
 
-These status effects are applied upon landing enough attacks with an [Enchanted](Enchantments.md) weapon.
+These status effects are applied through [Enchantments](Enchantments.md) on [equipment](Equipment.md) or [weapons](Weapons.md).
 
 ### Entangled Defence
 
@@ -298,7 +298,7 @@ Applied by being flourished or hit by critical attacks from weapons with the [So
 
 ### Grim
 
-Take 20% more damage and 50% more posture damage from all sources for 6 seconds. Applied by being hit by the [Grim](Grim.md) enchant. Signified by red bubbles on your torso.
+Grants a +20% damage and +50% posture damage modifier to any player attacking you for 6 seconds. Applied by being hit by the [Grim](Grim.md) enchant. Signified by red bubbles on your torso.
 
 ### Parasol's Blight
 
@@ -338,7 +338,7 @@ All posture damage given to you will instead be sent to the person who used [Ral
 
 ### Angry/Enraged
 
-Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Receive 20% more damage but deal 10% more damage to the player who Taunted you. Also disables the ability to jump for the duration. Signified by red particles.
+Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Opponents who attack you receive a +20% damage modifier on their attacks, but in your rage you deal 10% more damage to the player who Taunted you. Also disables the ability to jump for the duration. Signified by red particles.
 
 ### Blight
 

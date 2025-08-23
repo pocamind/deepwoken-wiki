@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 159380
+revid: 159396
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -31,7 +31,7 @@ It can also be crafted into the [Gilded Needle](Gilded_Needle.md) with 3 **Armor
 
 ## Farming
 
-Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), \[Primadon\]\], [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
+Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
 
 They can also be found less consistently from completing [Voidwalker](Voidwalker.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
 
