@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 159363
+revid: 159429
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant]
@@ -21,7 +21,7 @@ She appears to be friendly, albeit stern towards the player. She is seen healing
 
 After obtaining [Bloodrend](Bloodrend.md) she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide. You can attain Bloodrend on any slot without going to the [Second Layer](Second_Layer.md) by talking to her in the [Derelict Highchurch](Derelict_Highchurch.md).
 
-Vyrelda is one of the Attunement Trainers fought to progress the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md). When fought, she wields the [Red Death](Red_Death.md).
+If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md). When fought, she wields the [Red Death](Red_Death.md).
 
 ## Dialogue
 

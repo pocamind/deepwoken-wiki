@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 158209
+revid: 159448
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,8 +67,8 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 ### Passives
 
 -   **Shaper Swap** - Press X to swap position with your clones.
-    -   Swaps your position with your clone, teleporting you to their current position and them to yours, range of \_. (Range needs testing)
-    -   You can use Shaper Swap either during the first 0.2 seconds of the windup of an attack (This includes M1s, allowing players to instantly targets at range)
+    -   Swaps your position with your clone, teleporting you to their current position and them to yours, very large range of ~250 studs.
+    -   You can use Shaper Swap within up to 0.2 seconds after using a move.
         -   You can also use Shaper Swap during the middle of an attack with negative endlag. (Ex. before the second slash of [Umbrite Witherblade](Umbrite_Witherblade.md)'s crit)
     -   The keybind for Shaper Swap can be configured in settings.
         -   Sharing certain keybinds allows the user to do both actions at once, such as teleporting while [executing](https://deepwoken.fandom.com/wiki/Controls) players. (Executes also have no range limit)
@@ -76,7 +76,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 ### Talents
 
--   **Cheap Trick** - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
+-   **Cheap Trick** - When hit below half health, briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
     -   This talent has two abilities, activating under certain criteria listed below:
     -   _**Upon landing the final hit on a target:**_
         -   The user will become invisible for exactly 2 seconds.
@@ -84,7 +84,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
             -   While the user _will_ be hidden, wisps and any lighting VFX (Ex. [enchantment](Enchantments.md) glows), will _not_ be hidden.
         -   Will not spawn in a clone.
         -   Works in PvE however has no real benefit. (Mobs/NPCS will still see you)
-        -   Has 2 second cooldown, as it cannot be re-activated during it's duration.
+        -   Has 2 second cooldown, as it cannot be re-activated during its duration.
     -   _**Upon being hit below 50% health:**_
         -   The user will clear hitstun, shortly turn invisible, get pushed back, and spawn in a clone. (In that order)
             -   The clone lasts 15 seconds, and cannot be [modified](Mantra_Modifiers.md). (7.5 seconds on targets with disbelief)
@@ -102,14 +102,14 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   If the clone is too far away from your opponent upon using Reality Shift, they will teleport to them.
     -   Clones will copy your attunement path and mantra modifiers (currently bugged) when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
     -   Reality Shift cannot be activated if no targets are nearby.
-    -   Clones will only copy the standing critical or aerial of weapons and cannot trigger any other alternate criticals of weapons like [Boltcrusher](Boltcrusher.md) or [Deepspindle](Deepspindle.md).
+    -   Clones will only copy the standing critical or aerial of weapons and cannot trigger any other alternate criticals. (Ex. running/sliding/crouch exclusive crits)
     -   Has a cooldown of 7 seconds.
 
 -   **Shaper Mimicry** - The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
     -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying.
     -   By jumping, you allow your clones to use the aerial variant of attacks with Reality Shift.
-    -   Despite block/parry/dodge sfx/vfx appearing, vents will still delete clones that successfully defend them. (You can still move them with Shaper Swap)
-    -   Your clones will also vent when you vent, even if you don't have enough Tempo, are on vent cd, or are stunned in a animation. (Intentional)
+    -   Despite block/parry/dodge sfx/vfx appearing, vents will still delete clones that successfully defend them. (Outranging vents however, works)
+    -   Your clones will also vent when you vent, even if you don't have enough Tempo, are on vent cd, or are stunned in an animation. (Intentional)
 
 ### Mantras
 
@@ -126,14 +126,13 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Clones cannot copy enchantments/talents.
     -   If the targeted player has the Disbelief Talent, clone duration is halved.
     -   The damage of the clones its 50% of the unscaled and unleveled damage of your basic attack, crit, or mantra.
-    -   ~Duration scales with your progress of the Visionshaper Oath.~ **\[test needed to see if this is true\]**
     -   Can be modified with Aeon Logstones and Eternal Logstones, which increase the duration and cooldown proportionately. It's generally better to leave this mantra unmodified for a shorter cooldown.
     -   Cooldown scales with modifiers.
 
 -   **Illusory Counter** - Fool others into striking and retaliate.
-    -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone in place of the previous location.
+    -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone in place of your previous location.
     -   Can be modified with a Reversal Spark which spawns a clone of your opponent, similar to Mirror Illusion.
-    -   Does not restrict movement like most mantra casts.
+    -   User can move while using Illusory Counter.
 
 #### Support Mantras
 

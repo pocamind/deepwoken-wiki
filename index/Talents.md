@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159372
+revid: 159428
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3533,7 +3533,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 20 Strength, 5 Agility
 
 -   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or the Agility stat for the first time ever.
+    -   Prerequisite: [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or the Agility stat for the first time ever. Alternatively, defeat any boss with 75 WPN stat.
         -   Mercy Kill is also obtained when killing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) regardless of your stats.
 
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.

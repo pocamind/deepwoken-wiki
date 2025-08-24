@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 159402
+revid: 159423
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -452,10 +452,6 @@ Gain brief invincibility frames after dodging an attack. Applied through the [Ri
 
 A [speed boost](#speed-boost) triggered by executing someone while you have [Time to Go](Talents.md#acrobat). Signified by red glowing eyes.
 
-### Mythic Stability
-
-Gain immunity to most auto-grip effects for a short duration. Procced by being hit by an attack that auto-grips while being eligible to be auto-gripped (low enough health for the attack to kill you or if you're already knocked). This effect comes from the [Mythic Stability](Talents.md#human-architecture) Talent. Signified by a white shield on your character.
-
 ### Last Resort
 
 Gain +10% damage when your health is below 25%. This effect is applied through the [Last Resort](Talents.md#limitbreaker) Talent and is signified by orange and red swirling particles on your character's arms.
@@ -476,6 +472,14 @@ Gain +50% posture damage for 10 seconds to your basic attacks after successfully
 
 Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through landing and parrying Mantras. Casting any Mantra will consume this status effect and grant a 10% damage buff to said Mantra. Inspired lasts 30 seconds, but will be instantly consumed if the procced via landing Mantras. Signified by a light blue hue and outline surrounding your character on proc.
 
+### Mythic Stability
+
+Gain immunity to most auto-grip effects for a short duration. Procced by being hit by an attack that auto-grips while being eligible to be auto-gripped (low enough health for the attack to kill you or if you're already knocked). This effect comes from the [Mythic Stability](Talents.md#human-architecture) Talent. Signified by a white shield on your character.
+
+### Target Switch
+
+Your next Mantra cast is free. Procced by the [Target Switch](Talents.md#tactician) Talent. Signified by a yellow halo above the player's head.
+
 ### Hamstrung
 
 Can be applied by being hit by a critical attack if the user has [Bear Trap](Talents.md#vigil-swordsman). Become slowed and lose the ability to jump. Signified by one of the users legs bleeding.
@@ -483,10 +487,6 @@ Can be applied by being hit by a critical attack if the user has [Bear Trap](Tal
 ### Audacity
 
 Applied by being near someone with the [Audacity](Talents.md#tyrant) Talent when they execute someone, which inflicts a stun AOE that greatly slows movement speed and disallows attacking for 5 seconds. Also grants nearby allies a 10% damage buff. Signified by white eyes in the moment of the execution.
-
-### Target Switch
-
-Your next Mantra cast is free. Procced by the [Target Switch](Talents.md#tactician) Talent. Signified by a yellow halo above the player's head.
 
 ### Ruptured Lungs
 
@@ -516,13 +516,13 @@ These status effects are applied as the effect of certain [Talents](Talents.md) 
 
 Slide further, applied with the [Warding Radiance](Talents.md#flame-warden) Talent. Allows you to proc [Hell's Partisan](Talents.md#flame-warden) on all Flamecharm Mantras. Signified by an orange halo above your character's head. This effect can be upgraded with the Flamewalker Talent, creating stationary flames on the path you slide. These flames apply burn on contact.
 
-### Ghastly Mobility
-
-Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a [speed boost](#speed-boost) for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
-
 ### Haunted
 
 Upon landing any Mantra while the Haunted is in effect, your opponent will be struck by a ghost, dealing additional Galebreathe damage. Haunted is applied through the [Haunted Gale](Talents.md#whisper) Talent. Haunted has an 8 second duration, this can be increased with [Gale Wisp](Galebreathe.md#gale-wisp), adding 3 seconds for a total of 11 seconds. Signified by a green ghost levitating above your head.
+
+### Ghastly Mobility
+
+Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a [speed boost](#speed-boost) for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
 
 ### Orbital Ice
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 159079
+revid: 159431
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -55,7 +55,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 This Oath is progressed via the killing of [Attunement Trainers](Attunement_Trainers.md) (excluding [Regek](Regek.md), and [Beatra](Beatra.md) ).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions. [Vyrelda](Vyrelda,_Master_of_Blood.md) can only spawn if you've unlocked [Bloodrend](Bloodrend.md), but can also be spawned by another player who has Bloodrend unlocked.
 
 Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
 
@@ -70,7 +70,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 ## Effects
 
 -   Ability to wield weapons with 25 investment points lower than its weapon stat requirement (this will not work on core attribute requirements).
--   **Entirely lose access to cast mantras**, including learned (or future) Mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had Mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
+-   **Entirely lose access to cast mantras**, including learned (or future) Mantras, [Attunement-less](Attunement-less.md) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had Mantras, or learnt will **not show in the inventory but can still be used at [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
@@ -154,9 +154,9 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 ## Notes
 
 -   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
--   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) **(ALL OF THESE ARE UNCOMFIRMED)**
--   While all Mantras are voided and the Mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random Talents.
-    -   You're also still able to be given a whisper on level up.
+-   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCOMFIRMED)**
+-   While all Mantras are voided and the Mantra tab becomes unavailable, the character will still have them within their character data. Consult the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) to convert them into 2 random Talents.
+    -   You're also still able to be given a [Whisper Draw](Whisper_Draw.md) on level up.
 -   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.
 -   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.

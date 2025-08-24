@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 158416
+revid: 159447
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -12,15 +12,7 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 
 ## Overview
 
-**Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunements.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). **Hybrid Mantras scale off of both of their attunement stats.**
-
-## Oaths
-
-Very few [Oaths](Oaths.md) require the combination of several Attunements to be used. These Oaths are often powerful within their niche, but uncommonly used due to having fairly restrictive requirements.
-
-[Arcwarder](Oath%253A_Arcwarder.md) - A [Flamecharm](Flamecharm.md)/[Thundercall](Thundercall.md) Hybrid Oath that harnesses these Attunements' defensive and offensive capabilities. Requirements: 20 Flamecharm, 20 Thundercall, 20 Fortitude.
-
-[Saintsworn](Oath%253A_Saintsworn.md) - An Hybrid Oath that is comprised of the 5 base Attunements, specializing in elemental combination through various methods. Requirements: 15 [Flamecharm](Flamecharm.md), 15 [Frostdraw](Frostdraw.md), 15 [Galebreathe](Galebreathe.md), 15 [Shadowcast](Shadowcast.md), 15 [Thundercall](Thundercall.md).
+**Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunements.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). **Hybrid Mantras scale off of both of their attunement stats, but only require one to be invested to level up.** For example, you can have level 5 Permafrost Prison with 80 Shadowcast OR 80 Frostdraw.
 
 ## Mantras
 
@@ -88,11 +80,12 @@ Lightning + Metal
 
 **Effect:** User creates a tripwire using their Thundercall and Ironsing.
 
--   Deals light damage.
+-   Has a base damage of 6.08/6.65/7.22/7.79/8.36 per level, per hit (2) with 2.75 Thundercall and Ironsing scaling.
+-   The damage will ramp up the longer the Tether has been on the field, having a maximum base damage of 16/17.5/19/20.5/22 per level, per hit (2) with 2.75 Thundercall and Ironsing scaling.
 -   Can apply Electrified.
 -   Compatible with Surge Path and Gilded Path.
 -   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.
--   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to summon 3.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to summon 3, but dividing the damage dealt per Tether into thirds.
 -   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md#sparks) allowing it to move.
 
  |
@@ -132,10 +125,10 @@ Ice + Shadow
 
 -   Deals moderate damage.
 -   Inflicts Chill.
--   Works with [Twisted Puppets](Talents.md#wraith-path-twisted-puppets) applying Shadow Burn (it won't spawn puppets).
--   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md) to make the AoE larger.
--   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md) but does not seem to do any effect. (Currently bugged, Aeon Logstones work but Eternal Logstones appear to shorten the amount of hits)
--   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
+-   Works with Twisted Puppets, applying Shadow Burn (it won't spawn puppets) and Crystal Path.
+-   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the AoE larger.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) but does not seem to do any effect.
+-   Can be modified with [Magnet Spark](Mantra_Modifiers.md#sparks) allowing it to follow the user.
 
  |
 | 
@@ -212,12 +205,20 @@ Wind + Lightning + Slash
 
 **Effect:** Backstep and hop on the air, quickly closing the distance. When you reach your opponent, perform a powerful radial attack.
 
--   Deals light damage.
+-   Has a base damage of 10/18/26/34/42 per level with 2.75 Galebreathe and Thundercall scaling.
 -   Can be feinted to end early.
 -   Inflicts Shock and Winded.
 -   Compatible with Surge Path and Specter Path.
 
  |
+
+## Oaths
+
+Very few [Oaths](Oaths.md) require the combination of several Attunements to be used. These Oaths are often powerful within their niche, but are uncommonly used due to having fairly restrictive requirements.
+
+[Arcwarder](Oath%253A_Arcwarder.md) - A [Flamecharm](Flamecharm.md)/[Thundercall](Thundercall.md) Hybrid Oath that harnesses these Attunements' defensive and offensive capabilities. Requirements: 20 Flamecharm, 20 Thundercall, 20 Fortitude.
+
+[Saintsworn](Oath%253A_Saintsworn.md) - An Hybrid Oath that is comprised of the 5 base Attunements, specializing in elemental combination through various methods. Requirements: 15 [Flamecharm](Flamecharm.md), 15 [Frostdraw](Frostdraw.md), 15 [Galebreathe](Galebreathe.md), 15 [Shadowcast](Shadowcast.md), 15 [Thundercall](Thundercall.md).
 
 ## Talents
 

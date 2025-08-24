@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 157485
+revid: 159445
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from Legion Captain, Crimson and Corrupt Terrapod, Second Layer chests, Derelict Highchurch chests (from Ministry Bloodrenders), Bought from Traan Zakshun for 1,250 |
+| obtainment | Rare Drop from Legion Captain, Crimson Terrapod, Second Layer chests, Derelict Highchurch chests (from Ministry Bloodrenders), Bought from Traan Zakshun for 1,250 |
 | description | ... |
 
 ## Description

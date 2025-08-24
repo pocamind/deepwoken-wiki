@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 159287
+revid: 159416
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -647,6 +647,8 @@ Equipment is covered in white electricity.
  |
 | 
 
+File:DWRainEnchant.gif
+
   
 Rain
 
@@ -666,7 +668,7 @@ Obtained from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Rain Spires](Rain_Spire.
 
  | 
 
-Equipment is covered in rain. (No demo yet)
+Equipment is covered in rain.
 
  |
 | 
