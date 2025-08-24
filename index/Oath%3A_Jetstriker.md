@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 156438
+revid: 159462
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -62,54 +62,85 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 ### Passive
 
 -   **Momentum Bar**
-    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player.
-    -   When maxed-out, Jetstriker Mantras will deal 20% more damage and the color of Mantras will change according to the cosmetic of the Oath.
-    -   Allows you to basically [Dye](Dye_Packet.md) your Jetstriker Mantras.
+    -   Momentum will drain very rapidly, emptying from 100% to 0% in 0.5 seconds when you stop sprinting, and clearing when doing any action.
+    -   Successfully landing a parry, dodge, crit, or basic attack will now provide 50% momentum.
+    -   At 100% momentum, Jetstriker Mantras deal 20% more damage and are recolored to the dye of the Oath. (Bugged)
+        -   Sliding at 100% momentum will reenable this behavior for the duration of the sprint.
+        -   Climbing, reaching max sprint momentum from an completely empty bar, and vaulting terrain will provide a small 0.5 second window where you can activate this behavior.
+    -   Momentum is tracked as a bar UI indicated next to the player, this is recolored to the dye of the oath at 100% momentum.
 
 ### Talents
 
 -   **Acceleration Points** - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum. (+5 Passive Agility)
+    -   Provides a slow effect on the opponent for 2.5 seconds, seemingly also preventing momentum gain.
+    -   Activated by landing any basic attack, uppercut, flourish, or critical attack behind an opponent.
+        -   While critical attacks do proc Acceleration Points, they will not benefit from any additional momentum gain to the user. (Other than the pre-existing 50%)
+    -   The slow effect has a cooldown of 2.5 seconds, however the self momentum gain has none.
 
--   **Decisive Winds** - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
+-   **Decisive Winds** - When damaged below 50% health, don an aura of Decisive Winds for 10s. While in Decisive Winds, you gain a speed boost for being nearby the enemy who initiated it. (+5 Ether)
+    -   Provides a 25% speed boost whenever you are within 20 studs of your opponent.
+    -   Contrary to the description, the duration is actually 11 seconds.
+    -   Procs through block/parry/dodge, despite the description stating otherwise.
+    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI).
+    -   Has a cooldown of 30 seconds.
 
 -   **Jetstream Pursuit** - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
-    -   This Talent is the same as the old legendary Talent named 'Vanishing Follow-Up,' which was removed due to changes in the flourish system after Layer 2 was dropped.
-    -   Works on Talent-caused flourishes like [Emperor's Flame](Flamecharm.md#the-emperors-blade).
+    -   Provides 85% momentum on successful teleport.
+        -   Activates early if target wallbangs.
+        -   Cancels either if the target is not touching the ground when flourish stun ends, or was an uppercut flourish.
+    -   Flourishes procced from specific talents such as [Emperor's Flame](Flamecharm.md#the-emperors-blade) can also activate this talent.
+    -   Has a cooldown of 15 seconds.
 
 -   **Stratos Step** - While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
-    -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself. This also boosts players alongside you too.
-    -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
-    -   With slightly high agility, players are unable to follow you up Stratos Steps.
+    -   Hold space while climbing to create up to two "steps" that boost you, and other players upwards.
+        -   In combat you are currently only limited to one "step". (Possibly a bug)
+    -   [Kick Off](https://deepwoken.fandom.com/wiki/Talents#Acrobat) is greatly recommended as you do not normally gain any fall damage resistance.
+    -   Costs 25 ether each step, cost cannot be reduced, will not activate at 0 ether.
+    -   In combat: has a cooldown of 6 seconds. (Bugged, should be 6-11 seconds, cf. 03/08/2025 patch notes)
+    -   Outside combat: has a cooldown of 5-10 seconds, scaling linearly by user's remaining HP.
 
 -   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
-    -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
+    -   Sprinting at maximum momentum, now buffs your rolls/air dashes, increasing distance by 75%, and briefly turning the user invisible.
+    -   Jumping the frame after rolling increases the distance by an additional 70%.
+    -   Other dash boosting talents such as [Phantom Step](https://deepwoken.fandom.com/wiki/Galebreathe#Specter) with Rush of Ancients will stack, further increasing the roll's distance.
+    -   Rollcasting with Rush of Ancients effectively hides your animations, causing uppercuts, quick mantras, and certain criticals to become completely unreactable.
     -   If you're using the Phantom Step Talent with Rush of Ancients, the dashes will stack, increasing your dash range. This, however, lacks visuals.
+    -   Outside combat: has a cooldown of 0 seconds.
+    -   In combat: has a cooldown of 8 seconds. (Has no [Cooldown Indicator](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI))
 
 ### Mantras
 
 #### Combat Mantras
 
 -   **Fake Strike** - Trick your opponent and quickly go behind them.
-    -   Deals 21.68 Oath damage per hit (3).
-        -   Deals 65.04 Oath damage if all land.
-    -   Deals 20% more damage at maximum Momentum.
+    -   Plays your current M1 animation as an "fake strike", then quickly teleports and strikes behind the target.
+    -   Deals 21.68 (26.02 charged) Oath damage 3 times, adding up to 65.04 Oath damage (78.05 charged), does not scale off agility.
+    -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
+    -   Slowly forces the user forwards, preventing user directional input. (Seen below)
+        -   However does not prevent user from sliding, allowing user to move much faster.
+    -   The "real strike" hitboxes are in front of the user, allowing the user to purposely rotate and miss to bait out parries.
+    -   Has a cooldown of 15 seconds once the move has ended. (Full cooldown on feint/whiff)
 
 #### Mobility Mantras
 
 -   **Jet Kick** - Rush forward with a jet kick. Requires a target if you're in combat.
-    -   Deals 38.25 Oath damage.
-    -   Deals 20% more damage at maximum Momentum.
+    -   A simple dash that damages targets it comes in contact with.
+    -   Deals 38.25 (45.9 charged) Oath damage, does not scale off agility.
+    -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
+    -   Out of combat, it simply targets in front of the player model, allowing free mobility.
+    -   In combat, becomes mouse aimed, can target enemies upwards as well.
+        -   Will also cancel your physical momentum on contact. (Seen below)
+    -   Has a cooldown of 13 seconds once the move has ended. (Full cooldown on whiff)
 
 ## Notes
 
--   **JETSTRIKER MANTRAS DON'T SCALE WITH AGILITY AT ALL.**
--   Aside from how useful it is for trackstar builds, it also has potential to become powerful in both PVE and PVP. This is because of the great offensive and defensive capabilities from the I-frame running m1s and dodges respectively. If this is combined with high Passive Agility Talents and ways to gain speed quickly, you don't have to worry about getting punished for using running m1s, not to mention the insane mobility options this provides. To help this even more you can fully ignore [Scion of Ethiron](Scion_of_Ethiron.md) ultimate by timing the boosted dodge without having to activate things like ghost/risky moves and others.
 -   Using a Dye Packet to dye the Jetstriker Anklets dyes the anklets as well as the Dash effect, Momentum bar, and Stratos Steps.
 
 ## Trivia
 
--   The Knockdown for the since removed Vigil's Grace Talent didn't cancel heavy weapons' knockback, so the enemy would just slip away while on the floor.
--   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Jetstriker had the Mystic line "Journey before destination."
--   Vigil's Grace card had another Oath name instead of Jetstriker, this time being "Oath: Windrunner"
--   The old name and Mystic quote for Jetstriker are both references to _The Stormlight Archive_.
--   Jetstriker did not have Mantras prior to March 29, 2024.
+-   Jetstream Pursuit was derived off the old Legendary Talent '[Vanishing Follow-Up](https://deepwoken.fandom.com/wiki/Legendary_Talents#Agility)', which was removed once Layer 2 was released over combat reworks.
+-   The old [Vigil's Grace](https://deepwoken.fandom.com/wiki/Oath:_Jetstriker/Old_Jetstriker#Abilities) Talent previously had 0 downtime with [Command: Run](https://deepwoken.fandom.com/wiki/Vow_of_Mastery#Commands), allowing players to infinitely true combo other players with knockdown, leading to the creation of knockdown immunity.
+-   When [Mystic](Mystic.md) previously had unique dialogue for every Talent category, Jetstriker had the Mystic line "Journey before destination."
+-   Vigil's Grace card had another Oath name instead of Jetstriker, being "Oath: Windrunner"
+-   The old name "Windrunner" and Mystic quote for Jetstriker are both references to _The Stormlight Archive_.
+-   Rush of Ancients does actually have a miniscule 0.07 second cooldown, this could be seen during the 08/18/2025 patch notes, when the devs accidentally removed the subsequent rolling cooldown.
