@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 159431
+revid: 159451
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -160,7 +160,6 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 -   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.
 -   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
--   [Vyrelda](Vyrelda,_Master_of_Blood.md) simply tells the player "I don't have time for this" and makes no other comment.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   You will be able to pass [Aelita](Aelita.md)'s game by using any of your Silentheart abilities.
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)

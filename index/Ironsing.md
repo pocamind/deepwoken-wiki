@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 159124
+revid: 159449
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -35,7 +35,7 @@ After you give him these ores, he will give you an Alloyed Elixir. Drink the Eli
 
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
 
-The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md), which can drop all the ores necessary or alternatively you can obtain them from the [Saramaed Hollow](Saramaed_Hollow.md) fairly easily.
+The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md#mineskipper), which can drop all the ores necessary or alternatively you can obtain them from the [Saramaed Hollow](Saramaed_Hollow.md) fairly easily.
 
 ## Training
 
@@ -128,9 +128,10 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Stomp the ground, causing a flurry of metal spikes to erupt forward._
 
--   Deals 38.87 (29.9 + 8.97 [Bleed](Status_Effects.md#bleed)) DMG at level 5, 14.5 posture, 0.5s windup and 15s CD. at 5 lvl
--   With 6 Songchant deals 43.27 (33.28 + 9.99 [Bleed](Status_Effects.md#bleed)) DMG
--   Has 9.17x PVE scale (29.9 DMG + 8.97 [Bleed](Status_Effects.md#bleed) PVP, 274.48 + 82.35 [Bleed](Status_Effects.md#bleed) PVE)
+-   Has a base damage of 25 with innate [Bleed](Status_Effects.md#bleed)) damage and 2.75 Ironsing scaling. The base damage does not increase with Mantra level.
+-   Deals 14 posture damage.
+-   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
+-   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   By rotating your view, you can reangle the Mantra to catch rolls.
 -   Heavily reminiscent of the legacy Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption, but reduces posture DMG.
@@ -169,15 +170,16 @@ Metal + Slash
 
 **Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
 
--   Deals total 24.6 (4.1\*6) DMG, 0.55s windup, 12s CD at 5 lvl.
--   With 6 songchant deals 27.36 (4.56\*6) DMG
--   Has 9.18x PVE Scale (24.6 DMG PVP, 225.84 DMG PVE)
+-   Has a base damage of 8.67/7.25/6.4/5.83/5.43 per level, per hit (level based) with 2.75 Ironsing scaling.
+-   Fires 3/4/5/6/7 needles per level.
+-   Deals 3 posture damage per needle.
+-   Has a windup of 0.55 seconds with a 12 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inconsistent tracking and wind up.
--   6 Needles at level 5.
 -   Applies Metal Rods on hit.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the Mantra increase amount of needles fired but removing the jump.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to cause the Mantra increase amount of needles fired but removing the jump.
     -   This variant keeps the user's momentum.
-    -   Somewhat similar to Flamecharm's [Fire Gun](Flamecharm.md) Mantra.
+    -   Somewhat similar to Flamecharm's [Fire Gun](Flamecharm.md#fire-gun) Mantra.
 
  |
 | 
@@ -200,7 +202,7 @@ _A powerful kick laced with metal._
 
  | 
 
-Metal + Slash + [Bleed](Status_Effects.md#bleed)
+Metal + Slash
 
  | 
 
@@ -211,12 +213,13 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit._
 
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
--   Both Versions of Metal kick deals 49.32 (37.32 + 12 [Bleed](Status_Effects.md#bleed)), 13s CD
--   With 6 songchant deals 53.98 (41.53 + 12.45 [Bleed](Status_Effects.md#bleed))
--   Has 9.2x PVE scale (37.32 + 12 PVP, 342.55 + 102.78 in PVE)
+-   Has a base damage of 7.2/13.2/19.2/25.2/31.2 per level with 2.75 Ironsing scaling.
+-   Deals 14 posture damage.
+-   Has a 13 second cooldown.
+-   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   Spring Spark has a wind up of 0.55 second and non spark a wind-up of 0.95s (0.65s to enter gain height and enter fall state + 0.4s or more seconds to land(depending on ur fall distance))
--   Your base Metal kick can't be Interrupted once you enter Fall state, but you still can get hitstun basically you will hit your enemy with metal kick but won't be able to attack after landing metal kick.
+-   Your base Metal Kick can't be Interrupted once you enter fall state, but you still can be hitstunned. Basically you will hit your enemy with Metal Kick but won't be able to attack after landing Metal Kick.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
 
  |
 | 
@@ -250,17 +253,16 @@ Metal + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Deals 5.47 + 1.65 [Bleed](Status_Effects.md#bleed) DMG per flying caltrop, deals extra dmg on floor. 0.75s wind up, 10s CD. Last 17s on ground.
--   With 6 songchant deal 6.01 + 1.8 [Bleed](Status_Effects.md#bleed) DMG per flying caltrop.
--   Has 9.17x PVE Scale (5.47 DMG + 1.65 [Bleed](Status_Effects.md#bleed) PVP, 50.16 DMG + 16.5 [Bleed](Status_Effects.md#bleed) PVE)
--   Functions similar to Galebreathe's [Galetrap](Galebreathe.md#galetrap) Mantra.
+-   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Throws 3/4/5/6/7 Caltrops per level.
+-   Has a windup of 0.75 seconds with a 10 second CD. Caltrops last 17 seconds on the ground before dissipating.
+-   Has 9.17x PVE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Goes through block (**and your character!**) if cast closely to the target.
--   May be blocked or even parried off the ground.
--   With the '**Laced Traps'** Talent, makes the opponent slowed down and unable to jump if hit.
--   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the caltrops.
--   Applies Metal Rods on every 2 hits, that means if you land full 5 lvl caltrops you'll apply only 4 rods. Caltrops that are laying down applying 1 metal rod per caltrop.
--   Adds 1 caltrop per level up of the Mantra, up to 7.
+-   Caltrops on the ground can still be parried and blocked.
+-   Caltrops can be destroyed by attacking them directly, though this usually isn't worth your time as they take 2 hits each to be broken.
+-   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the caltrops.
+-   While airborne, Caltrops only apply rods after 2 hits. While on the ground, Caltrops apply 1 rod every hit.
+-   Caltrops can be upgraded with the '**Laced Traps'** Talent, applying a slow and disallowing your opponent to jump on hit for a short duration.
 
  |
 | 
@@ -294,18 +296,15 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Deals 140.1 (7.18 + 2.16 [Bleed](Status_Effects.md#bleed) \* 15) DMG non spark
--   With 6 songchant non spark version deals 155.85 (7.99 + 2.4 [Bleed](Status_Effects.md#bleed) \* 15) DMG
--   Blast spark version deals 67.6 (26 + 7.8 [Bleed](Status_Effects.md#bleed) \* 2) DMG with Blast spark
--   Blast spark with 6 songchant deals 76.16 (29.29 + 8.79 [Bleed](Status_Effects.md#bleed) \* 2)
--   PVE scale broken right now. Deals same dmg as PVP in PVE
--   Blast spark has 0.55s windup, No Spark version 0.8s windup (0.55s for first shot but seems not doing any DMG)
--   The Blast Spark variant does not apply hitstun to the target.
+-   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   The base variant deals 5 posture damage per hit while the Blast Spark variant deals 15 posture damage per hit.
+-   The base variant has a windup of 0.8 seconds, while the Blast Spark variant has a windup of 0.55 seconds.
+-   Currently has no PvE scaling.
 -   Apply Metal Rods on hit.
--   You cannot use other Mantras or M1 while this is active.
+-   You cannot use other abilities or attack while this Mantra is active.
 -   Shares a cooldown with [Metal Turret](Ironsing.md#metal-turret).
--   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
--   Can be modified with a Blast Spark to cause the Mantra fire a salvo from two cannons.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack does not apply hitstun and has less windup than the base variant.
 
  |
 | 
@@ -339,11 +338,12 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Deals 43.54 (33.49 + 10.05 [Bleed](Status_Effects.md#bleed)) DMG, 0.45s wind up, 10s cd at 5 lvl.
--   With 6 songchant deals 48.46 (37.27 + 11.19 [Bleed](Status_Effects.md#bleed)) DMG
--   Has 9.18x PVE scale (33.49 DMG + 10.05 [Bleed](Status_Effects.md#bleed), 307.42 DMG + 92.22 [Bleed](Status_Effects.md#bleed) PVE)
--   Doesn't break your momentum, meaning you can run while using it or vice versa.
--   Despite blood particles appearing from your body, it doesn't actually deal damage to you when you use it.
+-   Has a base damage of 20/22/24/26/28 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 12.5 posture damage.
+-   Has a windup of 0.45 seconds with a 10 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   Casting Iron Quills doesn't break your momentum, allowing you to sprint at full speed during the casting animation.
+-   Despite blood particles appearing from your body on cast, it doesn't deal any self damage.
 
  |
 | 
@@ -377,10 +377,11 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Deals 58.5 (45 + 13.5 [Bleed](Status_Effects.md#bleed)) DMG, 12 posture, 0.65s wind up, 12s CD at 5 lvl.
--   With 6 songchant deals 65.77 (50.59+15.18 [Bleed](Status_Effects.md#bleed)) DMG
--   Has 9.27x PVE scale (45 DMG + 13.5 [Bleed](Status_Effects.md#bleed) in PVP, 417.21 + 125.16 [Bleed](Status_Effects.md#bleed) in PVE)
--   Applies Metal Rod on hit.
+-   Has a base damage of 16/21.5/27/32.5/38 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 8/9/10/11/12 posture damage per level.
+-   Has a windup of 0.65 seconds and a cooldown of 12 seconds.
+-   Has 9.27x PvE scaling (multiply damage dealt by 9.27 for PvE damage).
+-   Applies a Metal Rod on hit.
 
  |
 | 
@@ -414,15 +415,16 @@ Metal + Slash
 
 **Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
 
--   Deals 5.74 DMG + 1.71 [Bleed](Status_Effects.md#bleed) per hit at level 5, 3 posture per hit, 1.2s wind up, 20s CD.
--   With 6 songchant 6.39 + 1.92 per hit
--   Has 9.18x PVE scale (5.74 DMG + 1.71 [Bleed](Status_Effects.md#bleed) PVP, 52.7 DMG + 15.81 [Bleed](Status_Effects.md#bleed)
--   Does around 23 hits total.
+-   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 2 posture damage per hit.
+-   Has around 23 hits total.
+-   Has a windup of 1.2 seconds with a 20 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Doesn't apply parry stun to user.
 -   Applies Metal Rods on hit.
 -   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra, and shares a cooldown with it.
--   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
--   Can be modified with **Crystal/Pefect Lenses** to extend its range.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to extend its duration.
+-   Can be modified with [Crystal/Pefect Lenses](Mantra_Modifiers.md#regular-modifiers) to extend its range.
 
  |
 | 
@@ -456,10 +458,10 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
--   Rapid-hitting Mantra.
--   Deals 108.9 (8.37 + 2.52 [Bleed](Status_Effects.md#bleed) \* 10) DMG per hit, 10 posture total, 0.5s windup, 13s CD at 5 lvl
--   With 6 songchant deals 121.1 (9.32 + 2.79 [Bleed](Status_Effects.md#bleed) \* 10)
--   Has 9.18x PVE scale (8.37 DMG + 2.52 [Bleed](Status_Effects.md#bleed) PVP, 76.85 DMG + 23.07 [Bleed](Status_Effects.md#bleed) PVE)
+-   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 1 posture damage per hit (10).
+-   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Applies Metal Rods on hit.
 -   Sends you 5 studs forward on cast
 
@@ -495,13 +497,13 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   Deals 67 (9.57 + 2.88 [Bleed](Status_Effects.md#bleed) \* 4, at end of grab does 15.95 DMG + 4.77 [Bleed](Status_Effects.md#bleed)) DMG, 10 posture, 0.8s windup, 11s cd at 5 lvl
--   With 6 songchant deals 78.38 (10.65 + 3.18 [Bleed](Status_Effects.md#bleed) \* 4 + 17.75 + 5.31 [Bleed](Status_Effects.md#bleed)) DMG
--   Gives True Hyperarmor on use, also gives IFrames to victim and user if mantra lands.
--   Has 9.65x PVE scale (87.83 DMG + 26.34 [Bleed](Status_Effects.md#bleed) \* 4 and at end of grab 146.39 DMG + 43.92 [Bleed](Status_Effects.md#bleed), total DMG 647)
--   The spell locks on to targets within a close frontal radius. Applies 5 Metal Rods
--   With the '**Metal Absorption'** Talent, Iron Hug will absorb the opponents' armor.
--   The '**Matador'** Talent procs against Iron Hug's hyperarmor.
+-   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [bleed](Status_Effects.md#bleed) and 2.75 Ironsing scaling.
+-   Deals 10 posture damage, canceling entirely if blocked.
+-   Has a windup of 0.8 seconds and a cooldown of 11 seconds.
+-   Gives [True Hyperarmor](Status_Effects.md#true-hyperarmor) on use, also gives I-frames to victim and user during the grab animation.
+-   Has 9.65x PvE scaling (multiply damage dealt by 9.65 for PvE damage).
+-   Applies 1 Medal Rod per hit.
+-   Can be upgraded with the **Metal Absorption** Talent, stealing a percentage of your opponent's armor durability on hit.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 
  |
@@ -536,12 +538,11 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Deals 76.1 (58.6 + 17.5 [Bleed](Status_Effects.md#bleed)) at level 5, 0.73s windup, 18s cd.
--   With 6 Songchant deals 84.79 (65.23+19.56 [Bleed](Status_Effects.md#bleed)) DMG
--   Has 9.18X PVE scale (58.6 DMG + 17.5 [Bleed](Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](Status_Effects.md#bleed) PVE)
--   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
--   Block breaks at level 5.
--   EXTREMELY BUGGY HITBOX
+-   Has a base damage of 35/38.5/42/45.5/49 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 16.5 posture damage at levels 1-4, guard breaks at level 5.
+-   Has a windup of 0.73 seconds with a cooldown of 18 seconds.
+-   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](Status_Effects.md#bleed) PVE)
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to drastically increase the size of the rod.
 
  |
 | 
@@ -575,11 +576,14 @@ Metal + Slash
 
 **Effect:** _Coat the character's body and weapon in iron sparks. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds._
 
--   Deals 23.92 (26.62 with 6 songchant) DMG, posture 4 per hit, 0.6s wind up, lasts 20s, 30s cd at 5 lvl.
--   Has 5.15x PVE scale (23.92 DMG PVP, 122.71 PVE DMG)
+-   Has a base damage of 20, this does not increase with levels but has 2.75 Ironsing scaling.
+-   Deals 4 posture damage.
+-   Metal Armament lasts 20 seconds at level 5 with a 30 second cooldown.
+-   Has a 0.6 second windup on attack, massively delaying the armament hit.
+-   Has 5.15x PvE scaling (multiply damage dealt by 5.15 for PvE damage).
 -   Applies very brief parry stun to user and gives very brief auto parry frames to opponent if parried.
 -   Upgrading the level increases the duration of the Mantra.
--   Deep gems do not proc, except for Blue.
+-   Does not proc any "on hit" [Deep Gems](Deep_Gems.md).
 
  |
 | 
@@ -613,13 +617,12 @@ Metal + Slash
 
 **Effect:** _A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage._
 
--   Deals 79.52 (11.36\*7) DMG, 7.5 posture total, 7 total hits, 0.85s wind up, 14s cd at 5 lvl.
--   With 6 Songchant deals 88.55 (12.65\*7) DMG
--   Has 9.2x PVE scaling (11.36 in PVP, 104 in PVE per hit)
--   Doesn't apply parry stun to user.
--   Can be parried and blocked.
+-   Has a base damage of 5.5/6.5/7.5/8.5/9.5 per level, per hit (7) with 2.75 Ironsing scaling.
+-   Deals 10.5 posture damage.
+-   Has a windup of 0.85 seconds with a cooldown of 14 seconds.
+-   Has 9.2x PVE scaling (multiply damage dealt by 9.2 for PvE damage).
+-   If parried, this does not apply parry stun to the caster.
 -   Applies Metal Rods on hit.
--   Cannot be modified with any Mantra modifiers.
 
  |
 | 
@@ -653,9 +656,10 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Deals 73 DMG (56 DMG + 17) [Bleed](Status_Effects.md#bleed) at level 5, 10 posture, 0.5s windup, 13s cd
--   With 6 Songchant deals 81.35 (62.57 DMG + 18.78 [Bleed](Status_Effects.md#bleed)) DMG
--   Has 9.2x PVE scale (56 DMG + 17 [Bleed](Status_Effects.md#bleed) PVP, 516.03 + 154.8 in PVE)
+-   Has a base damage of 15/23/31/39/47 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 10 posture damage.
+-   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
+-   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](Frostdraw.md#ice-lance) Mantra.
 
  |
@@ -723,12 +727,15 @@ Metal + Blunt + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
--   Deals 41 (31 + 10 [Bleed](Status_Effects.md#bleed)) DMG, 0.5s windup to hit, 1.5s for full pillar, Lasts 9s. 13s CD, CD starts since windup.
--   With 6 Songchant deals 44.99 (34.61 + 10.38 [Bleed](Status_Effects.md#bleed)) DMG
--   Has 9.2x PVE scale (31 DMG + 10 [Bleed](Status_Effects.md#bleed) PVP, 285.46 + 85.65 [Bleed](Status_Effects.md#bleed) PVE)
+-   Deals damage on placedown with a very small AoE.
+-   Has a base damage of 10/14/18/22/26 with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 8 posture damage.
+-   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
+-   The pillar lasts 9 seconds at base with a 13 second cooldown.
+-   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   The height of the pillar will depend on what is above the user.
--   Can be modified with **Cloudstones/Stratus Stones** to extend its width.
--   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
+-   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to extend its width.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to extend its duration.
 
  |
 | 
@@ -762,14 +769,14 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
--   Deals 36.4 (28 + 8.4 [Bleed](Status_Effects.md#bleed)) DMG, 10 posture, 0.7s windup (0.5s to start moving + 0.2s to hit), 10.5s cd at 5 lvl
--   With 6 songchant deals 41.1 (31.62 + 9.48 [Bleed](Status_Effects.md#bleed)) DMG.
--   Has 9.3x PVE scale (28 DMG + 8.4 [Bleed](Status_Effects.md#bleed) in PVP, 260.76 + 78.24 [Bleed](Status_Effects.md#bleed) in PVE)
--   Covers 82 studs of distance.
+-   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 10 posture damage.
+-   Has a windup of 0.5 seconds before the ball is created, and a 0.2 seconds to hit. Has a cooldown of 10.5 seconds.
+-   Applies knockdown on hit for 0.5 seconds.
+-   Has 9.3x PvE scaling (multiply damage dealt by 9.3 for PvE damage).
+-   Covers 82 studs of distance, this can be increased with Aeon and Eternal Logstones.
 -   Applies Metal Rods on hit.
--   Doesn't apply hitstun but applies 0.5s knockdown on hit, has 0.2s endlag.
--   Can be modified with **Aeon/Eternal Logstones** to presumably extend its longevity.
-    -   Either straight-up does nothing or the change in duration is unnoticeably miniscule.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to presumably extend its duration. (The modified effect is very miniscule.)
 
  |
 
@@ -836,12 +843,14 @@ Metal + Blunt
 
 **Effect:** _Conjure a chain of metal from the right hand that pulls in any targets from the cursor._
 
--   Deals 33.5 (37.27 with 6 songchant) DMG, 5 posture, 0.55s windup, 13s cd. at 5 lvl
--   Has 9.2x PVE Scale (33.5 PVP DMG, 307.42 IN PVE)
+-   Has a base damage of 20/22/24/26/28 per level with 2.75 Ironsing scaling.
+-   Deals 5 posture damage.
+-   Has a windup of 0.55 seconds with a 13 second cooldown.
+-   Has 9.2x PVE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   Pulls opponents through invincibility frames.
--   Will not activate properly on certain mobs (namely [The Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
--   Can be modified with Crystal and Perfect Lenses to increase its range.
--   Can be modified with a Reversal Spark, making it knock enemies away.
+-   Will not activate properly on certain enemies (namely [The Ferryman](The_Ferryman.md)), consuming Ether but still dealing small damage and instantly restoring the cooldown, allowing for it to be spammed until you run out of Ether.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase its range.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), pushing your opponent away instead of pulling them.
 
  |
 | 
@@ -875,11 +884,11 @@ N/A
 
 **Effect:** _Taking stance, the player's body is hardened like metal, negating 90% of damage taken during the entirety of the Mantra's duration._
 
--   During usage, the user is unable to move nor act.
--   With the '**Intuitive Repairs'** Talent, Iron Skin will cause armor and natural armor to be restored during the Mantra's duration.
+-   The caster cannot move or act during the Mantra's duration.
 -   Can be upgraded with Aeon/Eternal Logstones for increased duration.
--   Does not negate damage from [Deferred](Deferred.md), [fire](Status_Effects.md#burn), or fall damage.
+-   Does not negate fall damage.
 -   Duration scales on level.
+-   Can be upgraded with the **Intuitive Repairs** Talent, causing you to regenerate your armor and natural armor for the Mantra's duration.
 
  |
 | 
@@ -913,16 +922,18 @@ Metal
 
 **Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight. Ritual Casted._
 
--   Deals 21 DMG per hit, 0.85s windup to cast, 0.55s delay between shots, lasts 20 seconds, 30s CD at 5 lvl
--   With 6 Songchant deals 23.96 DMG per hit
--   Has 9.4x PVE scale (21 DMG PVP, 197.63 IN PVE)
+-   Has a base damage of 10/12/14/16/18 per level, per hit with 2.75 Ironsing scaling.
+-   Deals 5 posture damage per hit.
+-   Has a windup on placedown of 0.85 seconds and lasts 20 seconds with a 30 second cooldown. There is a 0.55 second delay in between each shot.
+-   Has 9.4x PvE scaling (multiply damage dealt by 9.4 for PvE damage).
 -   Cannot stun players. This Mantra is heavily incentivized for use in PvE.
 -   Each shot applies a Metal Rod on hit
+-   Turrets can be destroyed if hit enough times by the caster or their opponents.
 -   Shares a cooldown with [Firing Line](Ironsing.md#firing-line).
--   Requires a ritual cast with two keys + adding modifiers increases the number of keys.
--   Can be modified with Aeon/Eternal Logstones to increase duration.
--   Can be modified with Drift/Rush Shards to make turret spin faster.
--   Can be modified with a Multiplying Spark to conjure two turrets instead of one
+-   Requires a ritual cast with two keys, adding duration modifiers increases the number of keys.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
+-   Can be modified with [Drift/Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make turret spin faster.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to conjure two turrets instead of one
 
  |
 | 
