@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 151994
+revid: 159463
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Scarves]
@@ -93,4 +93,4 @@ Scarves are an [Equipment](Equipment.md) item under the "Torso" category. They c
 
 ## Trivia
 
--   The scarves have the highest variety of any equipment.
+-   The scarves have the highest variety of any equipment, having a total of 8 variants.

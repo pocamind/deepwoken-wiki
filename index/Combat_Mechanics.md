@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159369
+revid: 159470
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -366,50 +366,6 @@ Image
 
  | Parryable? | Blockable? | Dodgeable? | Ventable? |
 | --- | --- | --- | --- | --- | --- |
-| Red | File:Redtelegraph.png | ✗ | ✗ | ◯ | ◯ |
-| All attacks that have this attribute:
-
--   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
--   [Golem Prime](Golem_Prime.md): Laser Barrage
--   [King Thresher](King_Thresher.md): Royal Breath
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
--   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
--   [Ascension](Oath%253A_Starkindred.md#ascension)
--   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
--   [Stoneheart](Stoneheart.md) critical
--   [Ice Eruption](Frostdraw.md#ice-eruption)
--   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
--   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
-
- |
-| Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
-| All attacks that have this attribute:
-
--   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
--   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
-
- |
-| Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
-| All attacks that have this attribute:
-
--   Default [Greatsword](Greatswords.md) and Club criticals (White)
--   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
--   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
--   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
--   [Kanabo](Kanabo.md) running critical (White)
--   [Stonespark](Stonespark.md): Heavy Punch (White)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
-
- |
-| White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ✗ |
-| All attacks that have this attribute:
-
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
--   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
--   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
--   [Kanabo](Kanabo.md) critical\* (is parryable and dodgable despite having this indicator)
-
- |
 | Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
 | All attacks that have this attribute:
 
@@ -439,10 +395,32 @@ Image
 -   [Kyrswynter](Kyrswynter.md) running critical
 
  |
-| Green | File:Greentelegraph.png | ◯ | ✗ | ✗ | ◯ |
+| Red | File:Redtelegraph.png | ✗ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
 
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
+-   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
+-   [Golem Prime](Golem_Prime.md): Laser Barrage
+-   [King Thresher](King_Thresher.md): Royal Breath
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
+-   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
+-   [Ascension](Oath%253A_Starkindred.md#ascension)
+-   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
+-   [Stoneheart](Stoneheart.md) critical
+-   [Ice Eruption](Frostdraw.md#ice-eruption)
+-   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
+-   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
+
+ |
+| Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
+| All attacks that have this attribute:
+
+-   Default [Greatsword](Greatswords.md) and Club criticals (White)
+-   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
+-   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
+-   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
+-   [Kanabo](Kanabo.md) running critical (White)
+-   [Stonespark](Stonespark.md): Heavy Punch (White)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
 
  |
 | Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |
@@ -452,6 +430,28 @@ Image
 -   [Bounder](Bounder.md): Leap
 -   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
+
+ |
+| Green | File:Greentelegraph.png | ◯ | ✗ | ✗ | ◯ |
+| All attacks that have this attribute:
+
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
+
+ |
+| White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ✗ |
+| All attacks that have this attribute:
+
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
+-   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
+-   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
+-   [Kanabo](Kanabo.md) critical\* (is parryable and dodgable despite having this indicator)
+
+ |
+| Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
+| All attacks that have this attribute:
+
+-   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
  |
 

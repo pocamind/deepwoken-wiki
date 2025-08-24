@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 159462
+revid: 159473
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,47 +21,86 @@ _For the version that existed prior to the March 29, 2024, see [here](Oath%253A_
 
 ## Description
 
-**[Oath](Oaths.md): Jetstriker** is one of the 17 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath. Jetstriker is infamous for being able to quickly escape any engagement at will if the user knows what they're doing.
+**[Oath](Oaths.md): Jetstriker** is one of the 17 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. Allowing users to quickly escape nearly any dangerous situation with correct usage of its tools. This Oath also greatly takes advantage of the momentum mechanic, with Jetstriker's Talents being the only existing method to quickly gain momentum in a combat scenario.
 
 “ I can begrudgingly congratulate you! No more easy race wins for me, I suppose! ”
 
 ― Alirian
 
-The Oath's powers are attained by Vowing to flow with the Song itself, going wherever it leads you. You are carefree of wherever you end up as long as the Song takes you there. Journey before destination.
+The Oath's powers are attained by vowing to literally flow alongside the Song itself, following wherever it leads you like a current. Detached on apprehension of where you find yourself, as long as the Song led you there. "Journey before destination".
 
 ## Obtainment
 
 1.  Have at least 50 Agility.
 2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Rogue_Construct.md) beyond the bridge and to the left ridge.
-3.  Beat Alirian in a race to a specific point that is marked with a yellow marker.
+3.  Beat [Alirian](Alirian.md) in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
-    -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
+    -   Wait below the yellow marker, being away from the yellow marker when [Alirian](Alirian.md) arrives will count as you losing.
+    -   Talk to [Alirian](Alirian.md) and complete the remaining dialogue. ([Dialogue linked here](https://deepwoken.fandom.com/wiki/Alirian#Dialogue))
 
-_This Oath does not become locked after breaking it at Yun'Shul._
+_Jetstriker reobtainment does **not** lock off after [Oathbreaking](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal) with [Yun'Shul](https://deepwoken.fandom.com/wiki/Shrine_of_Yun%27Shul,_Keeper_of_Hearts)._
 
-## Progression
+## Progression Guide
 
-Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You have to return to her to get the Talents. The location of these orbs are:
+[Alirian](Alirian.md) will ask of you to find 5 white glowing orbs scattered in the [Etrean Luminant](Luminants.md). Each orb will identically grant you one Talent worth of progression (In order of Oath progression). You have to return to [Alirian](Alirian.md) to submit the orbs and obtain the talents. "I feel the winds rush through my body..."
 
--   On top of [Lord Regent's palace](Etris_Palace.md) in Etris.
--   On the upper rim of [The Birdcage](The_Birdcage.md) in Erisia.
--   On top of one of the tallest intact Towers in [Towerstruck Lands](Towerstruck_Lands.md), close to [Burning Stone Gardens](Burning_Stone_Gardens.md)
--   In the [Isle of Vigils](Isle_of_Vigils.md) temple, in front of [Stratos](Stratos.md).
--   On an ice pillar at the top of [Minityrsa](Minityrsa.md)'s Frozen Pond, overlooking the coast.
+**NOTE**: You may have to utilize the map to track these locations, the input default is the M key, but you may have to find/rebind it in "Controls".
 
-Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
+The location of these orbs are:
+
+-   Top of the frozen [Hive Contruct](https://deepwoken.fandom.com/wiki/Golem_Constructs) (Hivelord's) ice pillar, west side of [Minityrsa](Minityrsa.md)'s Frozen Pond.
+    -   Step by step guide:
+        -   Take out your map, align yourself directly west after completing [Alirian](Alirian.md)'s race.
+        -   After crossing the lake, you'll see the [Hive Contruct](https://deepwoken.fandom.com/wiki/Golem_Constructs) marking the ice pillar near some water.
+        -   Orb is at the top of that pillar.
+    -   Map guide: Directly underneath the second "i" in Min\[i\]tyrsa (Zoom fully to align)
+-   Top of the rooftop of the large red [Etris Palace](https://deepwoken.fandom.com/wiki/The_King%27s_Garden).
+    -   Step by step guide:
+        -   Open your map, locate the [Palace](https://deepwoken.fandom.com/wiki/The_King%27s_Garden). (Do not enter the [Palace](Etris_Palace.md), you will most likely die unprepared)
+        -   Take the stairs up to the [\[1\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)[Palace](Etris_Palace.md), avoid the main gate to sneak past the guards.
+        -   Circle around the outside to the right, and climb onto the castle without falling inside.
+        -   Orb is at the very top of the [\[2\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)[Palace](Etris_Palace.md), in the center, easy to spot.
+    -   Map guide: Located on the far east point of [Etris](Etris.md), a large distinct orange building on the map.
+-   Right outside the very high up building, "[The Birdcage](The_Birdcage.md)".
+    -   Step by step guide: (**Recommended** done in succession with [Towerstruck Lands](Towerstruck_Lands.md))
+        -   Enter through [Lower Erisia](Lower_Erisia.md)'s main entrance, with the large north facing gate. ([Image on this page](https://deepwoken.fandom.com/wiki/Lower_Erisia))
+        -   Head deeper into the island, follow the main path with stairs. (You will not go through any caves throughout this guide)
+        -   Follow the rock path and go up the slope made of rock.
+        -   After the slope, to the left, there will be large [bamboo](https://deepwoken.fandom.com/wiki/Bamboo_Bundle) trees marking a upwards rocky staircase, climb the rocky staircase.
+        -   Take a hard right and follow straight south until you find a zipline (Ignore the zipline) a and cave on the other side.
+        -   The cave's entrance will have parkour upwards, climb up _until you're near the very **very** top_.
+        -   Follow the southward path with the bridge.
+        -   You should see the orb on the [large tower-like building](https://deepwoken.fandom.com/wiki/The_Birdcage). ([The Birdcage](The_Birdcage.md))
+    -   Map guide: The very southeast of corner of [Erisia](Erisia.md), labeled [The Birdcage](The_Birdcage.md). (Zoom in to see label)
+-   On the top of the most northwest tower in [Towerstruck Lands](Towerstruck_Lands.md), on the path to [Burning Stone Gardens](Burning_Stone_Gardens.md) from [Pathfinder's Respite](<Pathfinder's_Respite.md>).
+    -   Step by step shortcut guide: (**After** visiting [The Birdcage](The_Birdcage.md))
+        -   Behind [The Birdcage](The_Birdcage.md) you'll find a west facing zipline, ride it down.
+        -   Take a right, follow the cliffside, you'll reach the rock section of the cliffside.
+        -   Head through the rock section, you'll reach the [Towerstruck Lands](Towerstruck_Lands.md), follow the bridge.
+        -   Go behind the tower, use the protruding bricks the towers to parkour up.
+        -   Cross the bridges all the way to the back tower on the right.
+        -   Climb the top of that northwest-most tower, orb will be visible on the top.
+    -   Map guide: Top of the most northwest tower in [Towerstruck Lands](Towerstruck_Lands.md), directly above the "w" in "To\[w\]erstruck" (Zoom fully to align)
+-   In the [Temple of the Blade](Temple_of_the_Blade.md)'s main "garden" room, on the water in front of [Stratos](Stratos.md).
+    -   Step by step guide:
+        -   Go to [Isle of Vigils](Isle_of_Vigils.md), follow the map guide.
+        -   I mean there's lowkey nothing else to it...
+    -   Map guide: In the very middle of [Isle of Vigils](Isle_of_Vigils.md)' map view, there is water visible, orb is there.
+
+Alternatively, if you've ever fully progressed the Oath on your account, 10 [Knowledge](Knowledge.md) can be spent to progress through immediately.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/Re7kr7XqC6w)._
 
 ## Effects
 
-This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Passive Agility. Your eyes turn blue with a hint of white.
+On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, and +8 Passive Agility. You will gain a new GUI identical to [Oath: Blightsurger](https://deepwoken.fandom.com/wiki/Oath:_Blightsurger#Talents), this however represents your "momentum" (Reference [Abilities](https://deepwoken.fandom.com/wiki/Oath:_Jetstriker#Abilities)). You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
 
 ## Abilities
 
-### Passive
+### Passives
 
 -   **Momentum Bar**
+    -   Your basic momentum will now be visually displayed while sprinting, allowing you to see it build up when sprinting.
     -   Momentum will drain very rapidly, emptying from 100% to 0% in 0.5 seconds when you stop sprinting, and clearing when doing any action.
     -   Successfully landing a parry, dodge, crit, or basic attack will now provide 50% momentum.
     -   At 100% momentum, Jetstriker Mantras deal 20% more damage and are recolored to the dye of the Oath. (Bugged)

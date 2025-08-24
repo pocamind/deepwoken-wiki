@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 157050
+revid: 159476
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons]
@@ -41,7 +41,7 @@ The Fondant Splitter is obtained through the [Cold Forge](The_Cold_Forge.md) by 
 -   A [Cake](Cake.md)
 -   A [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Katana](Katana.md), or a [Scimitar](Scimitar.md), however crafting Fondant Splitter with a Scimitar will take three Cakes instead of one.
 
-The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 35% chance to drain to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc.
+The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 35% chance to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc.
 
 Additionally, the Fondant Splitter's critical is buffed when the player has all [Chef Talents](Talents.md#tavernkeep).
 

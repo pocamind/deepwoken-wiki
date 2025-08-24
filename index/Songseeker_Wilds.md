@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 148181
+revid: 159478
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, Locations in the Eastern Luminant]
@@ -61,11 +61,9 @@ Shrine of Order path
 
 ## Points of Interest
 
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Derelict Highchurch](Derelict_Highchurch.md)
 -   [Songkeeper Temple](Songseeker_Temple.md)
-
-## Potential Enemies
-
--   [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) (Only appears if you take the quest for the Starkindred Oath)
 
 ## Loot Table
 
