@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 159451
+revid: 159509
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -110,7 +110,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
     -   Flow State changes the behavior of a move:
         -   Increases the damage of some Silentheart abilities.
             -   e.g. medium mayhem damage (20 -> 35), medium rising star (30 -> 40), medium relentless hunt (30 damage overall -> 40 damage overall).
-        -   Medium and heavy mayhem autogrip.
+        -   Mayhem autogrips.
         -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there.
             -   You can reload during the second slash.
         -   Changes windup of some Silentheart abilities.
@@ -120,8 +120,8 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 -   **Mayhem** - Initiate a special dash attack by pressing M1 during the start of your dodge.
     -   11s CD per weapon type.
     -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-    -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
-    -   Light - deals 25 Fixed Damage (26 in Flow State).
+    -   Medium, Light, and Heavy variants are capable of auto-gripping with Flow State active.
+    -   Light - deals 25 Fixed Damage (32.5 in Flow State).
     -   Medium - deals 20 Fixed Damage (35 in Flow State)
     -   Heavy - deals 30 Fixed Damage
 
@@ -137,7 +137,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 -   **Rising Star** - Press CTRL + M2 to activate a special uppercut attack
     -   7.5s CD per weapon type.
     -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
-    -   Light - 40 Fixed Damage (20 + 20)
+    -   Light - 40 Fixed Damage (20 + 20) (52 in Flow State (26 + 26)
     -   Medium - 30 Fixed Damage (40 in Flow State)
     -   Heavy - 40 Fixed Damage (faster windup in Flow State)
 
@@ -150,6 +150,10 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 8 second cooldown.
 
 -   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.
+    -   This is bound to your feint key, not to M2.
+    -   Deals 20 + 20 + 20 + 22 + 22 Oath damage regardless of your equipped weapon.
+    -   Has autoparry frames.
+    -   This attack is identical to old Silentheart's Mani Katti.
 
 ## Notes
 

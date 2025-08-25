@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 159123
+revid: 159494
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -113,14 +113,13 @@ Fire
 
 **Effect:** User summons six blazing warriors armed with Halberds in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
--   Deals 40.02 (6.7 \* 6) + 33.49 DMG, 24 posture + 30 or more posture, 10s CD at 5 lvl
--   With 6 songchant 44.7 (7.45\*6) + 37.27 DMG
--   Has 9.17x PVE scale (40 + 33.49 PVP DMG, 368.88 + 307.4 PVE DMG)
+-   Has a base damage of 4/4.4/4.8/5.2/5.6 per level, per hit (6) with 2.75 Flamecharm scaling.
+-   Deals 4 posture damage per hit with an additional 20 posture damage on the final hit.
+-   Has a cooldown of 10 seconds.
+-   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn.
--   Does not share a cooldown with other "servants" mantras.
--   Can be modified with Cloudstones and Stratus stones to add more warriors. Max possible amount of warriors without talent "**Fan The Flames**" is 9 (2 Cloudstones).
--   modifying may reduce the damage of each separate warrior "stab" by a fixed amount or a percentage, needs more testing.
--   Can be modified with a Reversal Spark to have the warriors attack outwards and ragdoll.
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to add more warriors, capping at +9 Range.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to have the warriors attack outwards and ragdoll.
 
  |
 | 
@@ -154,15 +153,16 @@ Fire
 
 **Effect:** User forcefully slams down their blade coated in flames.
 
--   Deals 35.88 (39.94 with 6 songchant) DMG, 10s CD at lvl 5
--   Deals high posture damage.
--   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
--   Has 9.18x PVE scale (35.88 PVP, 329.38 PVE DMG)
+-   Has a base damage of 18/21/24/27/30 per level with 2.75 Flamecharm scaling.
+-   Deals 18 posture damage at levels 1-4, guard breaks at level 5.
+    -   At level 5, this Mantra takes 20 additional Ether on cast to retain its guard breaking property. This additional Ether cost cannot be reduced.
+-   Has a cooldown of 10 seconds.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
--   Can be modified with Vibrant Gems, causing the attack to destroy more environment.
+-   Breaks destructible objects on hit.
+-   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), causing the attack to destroy more environment.
 -   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
-    -   A Reversal Spark can be used to negate this variation, allowing you to use normal fire blade with wings.
+    -   A [Reversal Spark](Mantra_Modifiers.md#sparks) can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
 | 
@@ -196,17 +196,17 @@ Fire
 
 **Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location. Clicking again while firing will fire additional bullets, at the cost of more Ether.
 
--   Deals 17.34 damage per hit at 5 lvl, Blast Spark does 4.34 DMG + 17.5 explosion DMG. 1 posture per hit + 16 posture explosion, No cooldown.
--   With 6 songchant 18.92 DMG per hit, Blast spark 4.83 DMG +17.5 explosion DMG at 5 lvl
--   Has 5.13x PVE scale (17.34 PVP DMG, 88.96 PVE DMG), Blast Spark in PVE does 22.24+132.2 explosion
+-   Has a base damage of 6.5/8.5/10.5/12.5/14.5 per level, per hit with 2.75 Flamecharm scaling.
+-   Deals 1 posture damage per hit.
+-   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
 -   Inflicts Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
--   Lights campfire pits.
+-   Lights campfires.
 -   Propels the user backward if cast while jumping/walking backward or in water.
--   Can be modified with Drift/Rush Shards to make the bullets fly faster + farther.
--   Can be modified with a Round Spark, causing the bullets to split in 2 after being fired.
--   Can be modified with a Blast Spark, causing bullets to explode opponents after 6 hits, but reducing the base damage.
--   Can be cancelled with right click (not feint)
+-   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make the bullets fly faster + farther.
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks), causing the bullets to split into two, reducing the base damage by 45%.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), causing bullets to explode opponents after 6 hits, but reducing the base damage by 25%.
+-   Can be canceled early through right clicking.
 
  |
 | 
@@ -240,13 +240,14 @@ Fire
 
 **Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
--   Deals 53.82 (59.91 with 6 songchant) DMG, 6.5 posture at level 5. 10s cooldown.
--   Has 9.18x PVE scale (53.82 PVP, 494.07 PVE)
+-   Has a base damage of 25/30/35/40/45 per level with 2.75 Flamecharm scaling.
+-   Deals 6 posture damage.
+-   Has a 0.5 second windup with a 10 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   Has a 0.5 second windup.
 -   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
--   Crystal/Perfect Lens increase the duration, capping at 1.2s with a +3 range modifier.
+-   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration, capping at 1.2s with a +3 range modifier.
 
  |
 | 
@@ -280,14 +281,15 @@ Fire
 
 **Effect:** User charges up releases an explosion of flames around them.
 
--   Deals 30.6 (34.08 with 6 songchant) DMG, 15 posture, 0.7s windup, 15s CD.
--   Spring Spark deals 50.4 (20.05+28.35), 53.23 (22.63 + 30.67 with 6 songchant), 16 (6+10) posture.
--   If hit, reduces damage taken by 75% and reflects it back, increasing base mantra damage based on damage taken. Can reflect fall damage.
+-   Has a base damage of 16/18.4/20.8/23.2/25.6/28 with 2.75 Flamecharm scaling.
+-   The Spring Spark variant's projectile has a base damage of 14.4/16.56/18.72/20.88/23.04 per level, while the explosion always has a base damage of 17 regardless of Mantra level. Both hits have 2.75 Flamecharm scaling.
+-   The base variant deals 15 posture damage, while the Spring Spark variant deals 6 + 10 posture damage.
+-   The base variant has a windup of 0.7 seconds. Both variants have a 15 second cooldown.
+-   If your are hit near the end of the base variant's windup, you will absorb the damage with 75% damage reduction and reflect it back with in the form of increased base damage. You gain very brief [hyper-armor](Status_Effects.md#hyperarmor) to signify this effect.
+    -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
--   Inflicts Burn
--   Has a 0.5 second wind-up.
--   Grants the user brief hyper-armor near the end of the cast.
--   Can be modified with Cloud/Stratus Stones to increase the size.
+-   Inflicts Burn.
+-   Can be modified with Cloud/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size.
 -   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 
  |
@@ -322,16 +324,16 @@ Fire
 
 **Effect:** User slams weapon into the ground below that causes 2 consecutive explosions.
 
--   Deals 24/26.55/29/31.5/34 damage per explosion, and has 2.5 Flamecharm scaling, does 81.32 (40.66\*2), 90.52 (45.26\*2 with 6 songchant) DMG at 5 lvl 80 Flame. 10s cooldown.
--   The initial explosion does 5.5 posture, the second explosion does 38 posture.
--   Has 9.18x PVE scale (40.66 PVP DMG, 373.33 PVE DMG)
+-   Has a base damage of 24/26.5/29/30.5/32 per level, per hit (2) with 2.75 Flamecharm scaling.
+-   Deals 5 posture damage on the first hit and 35 posture damage on the second, usually guard breaking your opponents.
+-   Has a 0.5 second windup before the first hit with a 0.8 second delay between hits, and a 0.2 second endlag when the Mantra ends. Has a 10 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   The second explosion ragdolls enemies.
--   Has a windup of 0.5 seconds, 0.2 second endlag, and 0.8 second delay between explosions.
 -   Inflicts Burn.
--   Can be modified with Glass Stones and Magnifying Stones to increase the radius of the explosions (+9 AoE max).
--   Each mantra level increases the AoE of this mantra.
+-   Can be modified with [Glass Stones](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the radius of the explosions (+9 AoE max).
+    -   Size modification will drastically lower the damage of the Mantra however.
+-   Each mantra level increases the AoE of this Mantra.
     -   The actual hitbox of the explosion and visual size often do not match when modified.
-    -   Each modifier reduces damage.
 
  |
 | 
@@ -365,14 +367,16 @@ Fire
 
 **Effect:** User throws 3 quick burning daggers.
 
--   Deals 25 (8.5\*3) damage at 1 lvl, 44.25 (14.75\*3), 4 posture per hit at 5 lvl, Tornado spark deals 59.04 (7.38\*8) DMG, 2.6 posture per hit, 10s CD.
--   With 6 songchant 49.26 (16.42\*3), Tornado spark 65.68 (8.21\*8) DMG
--   Has 8.45x PVE scale (44.25 PVP, 374.34 PVE DMG)
--   Does not inflict Burn.
--   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
--   Can be upgraded with the "**Hell's Partisan**" Talent, allowing it to inflict Burn and making the next hit you land after landing a flame dagger summon a spear from above to impale them.
--   Can be modified with Crystal/Perfect lens to make the daggers move faster
--   Can be modified with a Tornado Spark to make it throw 5 unparryable daggers in a straight line
+-   Has a base damage of 8.33/9.33/10.33/11.33/12.33 per level, per hit (3) with 2.75 Flamecharm scaling.
+-   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 2.75 Flamecharm scaling.
+-   The base variant deals 4 posture damage per dagger, while the Tornado spark variant deals 3 posture damage per dagger with an additional 5 posture damage per tornado hit (2).
+-   Has a 10 second cooldown.
+-   Has 8.45x PvE scaling (multiply damage dealt by 8.45 for PvE damage).
+-   Does **not** inflict Burn.
+-   Breaks destructible terrain on hit.
+-   Can be upgraded with the "**Hell's Partisan**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) to make the daggers move faster.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to make it throw 5 unparryable daggers in a straight line. Each dagger hits twice.
 
  |
 | 
@@ -406,11 +410,13 @@ Fire
 
 **Effect:** User releases a burst of flame from their palm in a cone shape.
 
--   Deals 26/27.5/29/30.5/32 damage, 38.27 (42.6 with 6 songchant) DMG at 80 Flame, 5.5 posture, and has 2.5 Flamecharm scaling. 16s cooldown.
--   Has 9.14x PVE scale (38.27 PVP DMG, 349.88 PVE)
--   Has 0.7 seconds windup and 0.2 seconds of endlag
+-   Has a base damage of 26/27.5/29/30.5/32 with 2.75 Flamecharm scaling.
+-   Deals 5 posture damage.
+-   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second coolodwn.
+-   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with Cloud/Stratus Stones to increase size, every +1 in size makes it 10% bigger.
+-   Can be modified with Cloud/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
+    -   Size modifications will lower the damage, however.
 
  |
 | 
@@ -444,14 +450,13 @@ Fire
 
 **Effect:** Cast a circular area mark that follows your cursor. Cast again to create an eruption of flame at that location.
 
--   Upgrading the Mantra increases placement range.
--   Deals 47.84 (53.25 with 6 songchant) damage, 20 posture, 19.5s CD at 5 lvl
--   Cancels the eruption if hit mid-detonation.
--   You are in full control while in placement state. You can move normally, M1, use your Critical, and even use other Mantras.
--   You can be in placement state for an infinite amount of time.
--   **Fan The Flames** does **not** increase placement range.
--   Can be modified with Crystal/Perfect Lenses to increase the placement range.
--   Can be modified with a Spring Spark, causing it to ragdoll and launch away but makes it able to damage the user.
+-   Has a base damage of 20/25/30/35/40 per level with 2.75 Flamecharm scaling.
+-   Deals 18/20/22/24/26 posture damage per level.
+-   Has a cooldown of 19.5 seconds.
+-   The initial cast will take Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. the placement state lasts indefinitely until you cast Searing Snare again. Upon casting again, the Searing Snare will take more Ether and attack.
+-   Upgrading the Mantra will additionally increase the placement range.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away, but this also allows the Mantra to deal self damage, ragdolling the caster on hit.
 
  |
 | 
@@ -489,12 +494,11 @@ Fire
 -   Deals 14 posture damage per shot.
 -   Duration scales with level and cannot be modified otherwise. Duration impacts the number of shots fired, as they have a set cooldown.
 -   40 second cooldown.
--   Has 41.5x PVE scale (12 PVP, 503 PVE DMG)
+-   Has 41.5x PvE scaling (multiply damage dealt by 41.5 for PvE damage).
 -   This Mantra is heavily incentivized for use in PvE.
--   Cannot stun players.
--   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the sentinel is.
--   Can be grabbed by your Flame Grab (Bug).
--   Can be modified with a Magnet Spark, making the turret follow the user.
+-   Cannot hitstun players.
+-   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the Sentinel is.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), making the turret follow the user.
 
  |
 | 
@@ -528,11 +532,12 @@ Fire + Blunt
 
 **Effect:** User releases a small fireball projectile that flies forward in a straight path.
 
--   Deals 25.59 (28.49 with 6 songchant) DMG, 5 posture per hit, 12s CD (1s delay between each hit) at 5 lvl
--   Has 9.18x PVE scale (25.59 PVP DMG, 234.96 DMG)
+-   Has a base damage of 18/21/24/27/30 per level, per hit with 2.75 Flamecharm scaling.
+-   Deals 5 posture damage per hit.
+-   Has a 12 second cooldown with a 1 second delay between each hit.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   Cooldown resets when landed, allowing you to cast it up to three times.
--   Sometimes returns cooldown even when missed. Needs testing.
+-   Cooldown resets if it lands or hits terrain, allowing you to recast it up to three times.
 
  |
 | 
@@ -566,11 +571,17 @@ Fire
 
 **Effect:** User releases a flurry of seven slashes.
 
--   Deals 117 (33.5 + 33.5 + 23.4 + 13.4 + 6.7 + 6.7) total damage.
--   Has 17.2x PVE scaling(33.5 PVP DMG, 578.67 PVE DMG)
--   Deals high posture damage.
+-   The damage reduces with each successive hit.
+-   Each level increases the base damage by 10% of the level 1's base damage. Relentless Flames has 2.75 Flamecharm scaling.
+    -   At level 1, Relentless Flames has a base damage of 20 + 20 + 14 + 8 + 4 + 4 + 4.
+    -   At level 2, Relentless Flames has a base damage of 22 + 22 + 15.4 + 8.8 + 4.4 + 4.4 + 4.4.
+    -   At level 3, Relentless Flames has a base damage of 24 + 24 + 16.8 + 9.6 + 4.8 + 4.8 + 4.8.
+    -   At level 4, Relentless Flames has a base damage of 26 + 26 + 18.2 + 10.4 + 5.2 + 5.2 + 5.2.
+    -   At level 5, Relentless Flames has a base damage of 28 + 28 + 19.6 + 11.2 + 5.6 + 5.6 + 5.6.
+-   Deals 5/11/13/15/19 posture damage per level.
+-   Cancels if the first hit does not land. Additionally, if any hit is parried, even if it isn't the first one, the Mantra will also cancel.
+-   Has 17.2x PVE scaling (multiply damage dealt by 17.2 for PvE damage).
 -   Inflicts Burn.
--   Will not continue if the first slash misses.
 -   Can be cancelled midway by feinting.
 
  |
@@ -605,14 +616,14 @@ Fire
 
 **Effect:** User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Deals 38.27 (42.6 with 6 songchant) DMG, 11 posture, 10s CD at level 5.
--   Has 9.18x PVE scale (38.27 PVP, 351.34 PVE DMG)
+-   Has a base damage of 20/23/26/29/32 per level with 2.75 Flamecharm scaling.
+-   Deals 10 posture damage.
+-   Has a windup of 0.48 seconds with a 0.7 second endlag if whiffed. Has a 10 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   10 second cooldown.
--   Has a 0.48 second windup, and 0.7 second endlag if missed.
 -   Does not send the user into the air if missed.
--   Improved by Talents "**Meteor Impact**" and "**Phoenix Impact**".
--   Can be modified with Cloud/Stratus Stones to make the hitbox larger.
+-   Can be upgraded with the "**Meteor Impact**" and "**Phoenix Impact**" Talents, allowing you to follow up with a meteor strike.
+-   Can be modified with Cloud/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
 
  |
 | 
@@ -646,12 +657,12 @@ Fire + Blunt
 
 **Effect:** User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
 
--   Deals 31.1+18.86 damage at 5 lvl
--   Has 9.14x PVE scale (31.1+18.86 PVP, 285.46+171.28 PVE)
--   Deals low posture damage.
+-   The first hit has a base damage of 10/14/18/22/26 while the second hit has a base damage of 6/8.4/10.8/13.2/15.6 per level with 2.75 Flamecharm scaling.
+-   Deals 4 posture damage on the first hit and 2 on the second for a total of 6 posture damage.
+-   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Can be modified with Crystal/Perfect Lenses to make the hitbox bigger.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
 
  |
 | 
@@ -685,18 +696,20 @@ Fire
 
 **Effect:** User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
--   Deals 112 damage (FULL CHARGED), 64.13 dmg (NOT CHARGED), posture 14 both, 15s CD
--   With 6 songchant 61.86 (not charged), 124.76 DMG (Full charged)
--   Has 9.18x PVE scale (64.13 PVP DMG, 588.68 PVE DMG)
--   Deals low posture damage.
--   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage and posture damage increases with each charge.
+-   With no charge, Flame Ballista has a base damage of 33.5/37/40.5/44/47.5 per level with 2.75 Flamecharm scaling.
+-   At full charge, Flame Ballista has a base damage of 82/85.5/89/92.5/96 per level with 2.75 Flamecharm scaling.
+    -   This is slightly inconsistent due to how charging works, largely being affected by ping.
+-   Deals 14 posture damage.
+-   Has a 15 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   Can be charged up to 6 times, increasing the damage with each charge. On the sixth charge, the projectile is automatically fired.
     -   M1'ing whilst the Mantra is charging will shoot the projectile with the amount of charge it has at that point.
 -   Inflicts Burn.
--   Has a unique effect where it ricochets when blocked.
+-   Ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
--   Can be modified with Crystal/Perfect Lenses to increase speed and range.
--   Can be modified with Glass/Magnifying Stones to make the explosion larger.
--   Can be modified with a Spring Spark to make the user do a jump before shooting.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
+-   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to make the explosion larger.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to make the user do a jump before firing the arrow.
 
  |
 | 
@@ -730,17 +743,15 @@ Fire
 
 **Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
--   Deals 45 dmg total 44.74 (14+14+16.74) DMG at level 5, Reversal Spark 30.74 (14+16.74) at 5 lvl, 18 posture per sweep, 18s CD.
--   With 6 songchant (14+14+18.64), and reversal spark 32.64 (14+18.64)
+-   Has a base damage of 10/11/12/13/14 per level, per hit (3, 2 if Reversal Spark) with 2.75 Flamecharm scaling.
+-   Deals 14 posture damage per hit (3, 2 if Reversal Spark).
+-   Has a windup of 0.6 seconds (0.65 seconds if Reversal Spark) with 0.2 seconds of endlag. Has an 18 second cooldown.
 -   Inflicts burn.
--   Has 9.18x PVE scale
--   Has a 0.6 second windup and 0.2 seconds of endlag.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Mantra continues if the second hit isn't parried.
     -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
--   Can be modified with a Reversal spark, acting as a pull/grab, but dealing less damage.
-    -   The reversal spark variant deals ~30% less damage than the original.
-    -   The reversal spark variant has 0.65s windup.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), acting as a pull/grab, but dealing less damage.
 
  |
 
@@ -807,12 +818,14 @@ Fire
 
 **Effect:** User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
--   Deals 47.84 (53.25 with 6 song) damage at 5 lvl.
--   Has 9.17x PVE scale (47.84 DMG, 439.17 PVE DMG)
+-   Has a base damage of 8/16/24/32/40 per level with 2.75 Flamecharm scaling.
+-   Deals 1.5/3/4.5/6/7.5 posture damage per level.
+-   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn and Ragdolls.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with Crystal/Perfect Lenses to cause the Mantra to fly farther (at the same pace).
--   Can be modified with Glass/Magnifying Stones to increase the hitbox size.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to cause the Mantra to fly farther (at the same pace).
+-   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox size.
+    -   This reduces the damage dealt however.
 
  |
 | 
@@ -846,16 +859,16 @@ Fire
 
 **Effect:** User emits a blast under them that propels the caster and nearby opponents up in the air.
 
--   Deals 11.96 (13.31 with 6 songchant) DMG, 10 posture, 18s CD
--   Has 9.17x PVE scale (11.96 PVP, 109.79 PVE)
--   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
--   Is able to proc **Meteor Impact**, even without hitting an opponent.
+-   Has 10 base damage (5 if Reversal Spark) regardless of Mantra level with 2.75 Flamecharm scaling.
+-   Deals 10 posture damage.
+-   Has a cooldown of 18 seconds.
+-   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
+-   Flame Leap can proc **Meteor Impact**, even without hitting an opponent.
 -   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
--   The Mantra will not inflict Burn nor do damage if used in water.
+-   The Mantra will not deal damage if used in water.
 -   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway).
--   Can be modified with a Reversal Spark, delivering an explosive frontflip instead of a vertical leap.
-    -   This variant does not bring enemies up, and cannot proc **Meteor Impact**.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), delivering an explosive front flip instead of a vertical leap.
     -   This variant negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
     -   This variant gets replaced with it's base variant when used in water.
 
@@ -963,7 +976,7 @@ N/A
 **Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest. Ritual Casted.
 
 -   Prevents the user from being knocked for 25 seconds, increased to 32.5 seconds with Azure Flames, if damage isn't substantial.
-    -   Regenerates 12%/14%/16%/18%/20% of the users health per level, upon receiving lethal damage. This healing is further increased by 10% with Azure Flames.
+-   If Flame of Denial prevents lethal damage, you will restore 12%/14%/16%/18%/20% of your maximum health per level.
 -   Flame stays in chest for the duration of the Mantra.
 -   Freezes user in place for a brief moment after casting.
 -   Restores some of the user's Sanity.
@@ -1007,9 +1020,9 @@ N/A
 -   Can be upgraded with the **Undying Flame** Talent, allowing it to be cast in Layer 1 of the Depths. Lasts for a shorter duration in Depths. However you cannot use this in the Depths Trials.
     -   Cannot be used in Layer 2 of the Depths at all.
     -   **Azure Flames** increases **Undying Flame'**s passive healing by 20%.
--   Can be modified with Aeon/Eternal Logstones to increase duration.
--   Can be modified with Cloud/Stratus Stones to increase size.
--   Can be modified with Vibrant Gems causing the flame to passively heal nearby players. Stacks with its normal healing.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
+-   Can be modified with Cloud Stone/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size.
+-   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) causing the flame to passively heal nearby players. Stacks with its normal healing.
 -   Each modifier adds signs to the ritual cast.
 
  |
@@ -1044,13 +1057,11 @@ N/A
 
 **Effect:** The caster summons a wisp of magma. Ritual Casted.
 
--   Flame Wisp reduces the burn tick damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
-    -   **Lava Serpent** eruptions that hit enemies also have some of their damage converted into healing for you. (this is currently bugged and does not work)
+-   Flame Wisp reduces the burn damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
 -   Ignites nearby campfire pits if not currently healing you.
 -   Flame Wisp also seems to reduce [parasite](Second_Layer/The_Ethironal_Shrine.md#parasites) growth.
--   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras and Burning Puppets, but not by Flame Mantras.
-    -   The amount of healing will not be severely reduced (results were +1% (~5) hp per 5-6 burn ticks).
--   Converts about 25-30 burning damage total. Logstones increase the amount of burn it can convert.
+-   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
+-   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |

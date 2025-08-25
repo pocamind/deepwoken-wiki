@@ -1,12 +1,18 @@
 ---
 title: Carnival of Hearts
-revid: 151638
+revid: 159514
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
 ---
 
 # Carnival of Hearts
+
+LocationL Carnival of Hearts LocationR
+
+COME ONE, COME ALL! A BRUTAL SERIES OF TRIALS HOSTED BY AELITA AND TILLIAN AWAITS!
+
+  
 
 File:Circus.png
 
@@ -27,7 +33,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 ##### Bomb Ball
 
--   Everyone is given an infinite supply of Carnival Bombs, and must throw them at the other players to eliminate them.
+-   Everyone is given an infinite supply of Circus Bombs, and must throw them at the other players to eliminate them.
 -   Lasts 120 seconds, with a 10 second grace period at the start.
 
 ##### Beam Blitz
@@ -45,7 +51,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
     -   The chests may also contain [Tillian's Beret](<Tillian's_Beret.md>).
     -   Not yet known if all of these outfits are guaranteed drops.
     -   The chests may also contain Pre-dyed Vigil Hood (needs further testing)
--   The chests can drop [Relics](Relics.md) including [Moonseye Tomes](Moonseye_Tome.md), [Sinner's Ashes](<Sinner's_Ash.md>), [Armorer's Needles](<Armorer's_Needle.md>), [Gilded Needles](Gilded_Needle.md), [Smith's Alloys](<Smith's_Alloy.md>), [Dye Packets](Dye_Packet.md),Rain Spires ( Need Tests ), and possibly more.
+-   The chests can drop [Relics](Relics.md) including [Moonseye Tomes](Moonseye_Tome.md), [Sinner's Ashes](<Sinner's_Ash.md>), [Armorer's Needles](<Armorer's_Needle.md>), [Gilded Needles](Gilded_Needle.md), [Smith's Alloys](<Smith's_Alloy.md>), [Dye Packets](Dye_Packet.md), [Rain Spires](Rain_Spire.md), [Void Spires](Void_Spire.md), and possibly more.
 -   The chests can contain large amounts of items, [as seen in this video](https://www.youtube.com/watch?v=rwZ_5dDwGSE), where the chests drop 44 iron bombs and 16 cakes.
 -   The Carnival also gives XP based on the number of eliminated players.
 

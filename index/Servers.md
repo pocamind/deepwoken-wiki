@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 148555
+revid: 159488
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -22,7 +22,7 @@ Example hellmode server
 
 ## Server Locations
 
-There are currently 16 possible locations:
+There are currently 20 possible locations:
 
 -   NSW, AU (Australia)
 -   Hesse, DE (Germany)
@@ -33,8 +33,9 @@ There are currently 16 possible locations:
 -   Singapore, SG
 -   England, UK (United Kingdom)
 -   Maharashtra, IN (India)
+-   Leinster, IE (Ireland)
 
-USA has 8 different regions:
+USA has 9 different regions:
 
 -   California
 -   Florida
@@ -42,6 +43,7 @@ USA has 8 different regions:
 -   New Jersey
 -   New York
 -   Ohio
+-   Oregon
 -   Texas
 -   Virginia
 -   Washington

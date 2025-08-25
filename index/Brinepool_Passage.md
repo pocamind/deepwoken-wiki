@@ -1,22 +1,19 @@
 ---
 title: Brinepool Passage
-revid: 129551
+revid: 159493
 source: https://deepwoken.fandom.com/wiki/Brinepool_Passage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Layer 1]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Locations, Layer 1]
 ---
 
 # Brinepool Passage
 
 LocationL Brinepool Passage LocationR
 
-  
+Warmer waters brush past you with the current, a contrast to the bitter chill beneath your feet.
 
   
 
-  
 **Brinepool Passage**, formerly "Sub-Zero Passage" is a location that is accessible by breaking a wall of ice inside of a fallen tower that leads to [Castle Light](Castle_Light.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md).
 
 ## Overview

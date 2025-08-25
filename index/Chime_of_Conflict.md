@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 159086
+revid: 159548
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents, Items, Game]
@@ -22,11 +22,15 @@ The Chime of Conflict is unusable while in [The Depths](The_Depths.md).
 
 ## PvP Arena
 
-Players using the bell will be prompted to select a gamemode between 1v1, 2v2 and 3v3. Depending on their selection, 2 things can happen:
+Players using the Chime of Conflict tool will be prompted to select a gamemode:
 
--   **1v1 -** The player is instantly taken to the matchmaking queue. 1v1 arena maps are unique from 2v2 and 3v3 maps.
--   **2v2 -** A small area is created around the user to let 1 other user join their team before being transported to the matchmaking queue.
--   **3v3 -** A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.
+-   **Battle Royale (Solo)** -
+-   **Battle Royale (Solo)** -
+-   **Battle Royale (Solo)** -
+-   **Chime Solos (1v1)** - The player is instantly taken to the matchmaking queue. 1v1 arena maps are unique from 2v2 and 3v3 maps.
+-   **Chime Duos(2v2)** - A small area is created around the user to let 1 other user join their team before being transported to the matchmaking queue.
+-   **Chime Trios (3v3)** - A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.
+-   **Challenge: Gladiator** - The player uses a slider to select from 3-20 people to enter with. After which, the player must enter the User ID or Username of the player they wish to challenge.
 
 Afterwards, players will be waiting in the queue and be put in a match with their opponent. For matchmaking to start in 3v3s or 2v2s, all players need to be ready
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 159449
+revid: 159491
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -731,7 +731,7 @@ Metal + Blunt + [Bleed](Status_Effects.md#bleed)
 -   Has a base damage of 10/14/18/22/26 with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 8 posture damage.
 -   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
--   The pillar lasts 9 seconds at base with a 13 second cooldown.
+-   The pillar lasts 6 seconds at base with a 15 second cooldown. The duration increases by 1 second per upgrade, reaching a total maximum of 10s.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   The height of the pillar will depend on what is above the user.
 -   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to extend its width.

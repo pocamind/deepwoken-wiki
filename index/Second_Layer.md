@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 148149
+revid: 159542
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map, The Depths, Layer 2]
@@ -38,6 +38,6 @@ The Eternal Gale itself is a supernatural weather effect comprised not of snow b
   
 Along with this, heavy winds are admist throughout the area, blowing away any who are not aware of how to counteract it.
 
-## Space-time Dilation
+## New Kyrsa, The Sleeping City
 
-As the second layer is so close to the resting chamber of **Ethiron**, space and time work differently for people who are unable to escape it's grasp via methods such as a Lighthook. To them, they're stuck in a state of time permanently, looping with the city whenever it collapses, yet never killing them. Due to this, their memory never updates whenever they witness an event within the Sleeping City, as their mind is forced to rewind as seen by Kennith. For an unknown reason, the Player is seemingly resistant or immune to these effects.
+The Second Floor of the **Second Layer**, located directly atop [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, New Kyrsa, The Sleeping City is incredibly unstable, experiencing **space-time distortions** and frequent collapses. New Kyrsa is stuck in a time loop; **every 15 minutes, you are teleported back to the entrance.** Numerous hostile [Kyrsgarde](Kyrsgarde.md) inhabit the city, sworn to protect Ethiron at all costs. In order to ensure Ethiron's continued slumber, a 9-fold ritual is performed on his [puppet](Scion_of_Ethiron.md). Unfortunately, the last one failed.

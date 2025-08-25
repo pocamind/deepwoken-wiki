@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159428
+revid: 159507
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2719,8 +2719,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Flow State \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
     -   Grants a Talent tool that when used just before using a Silentheart move, it will modify the base behavior of the move.
-    -   Increases the damage of all Medium and Heavy Silentheart moves.
-    -   Medium and Heavy Mayhem autogrip when buffed with Flow State.
+    -   Increases the damage of most Silentheart moves.
+    -   Mayhem variants autogrip when buffed with Flow State.
     -   Often lowers the windup of your Silentheart abilities.
     -   Active for 1 second. ~4s CD.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
@@ -2728,7 +2728,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Mayhem \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Initiate a special dash attack by pressing M1 during the start of your dodge.
     -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
     -   11s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
-    -   Medium and Heavy variants are capable of auto-gripping with Flow State active.
+    -   Capable of auto-gripping with Flow State active.
     -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
@@ -3846,6 +3846,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Grants a random spit cooldown. This can be anywhere between 5 and 20 seconds.
         -   Suffocation applied to self for a few seconds.
         -   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
+-   No Interruptions: [Champion's Cape](<Champion's_Cape.md>) - When combat tagged by 2 or more players, render any ranged attack a lot less effective.
+    -   Heavily increases the range falloff of attacks, reducing their damage to 0 if far enough away.
+    -   Removes hitstun from attacks used from too far away.
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left), [Table Flip](Attunement-less.md#table-flip), and [Skyshatter Kick](Attunement-less.md#skyshatter-kick) now all guard break at level 5.
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Wielding a katana with this outfit grants extra damage.
     -   Increases _[Katana](Katana.md)_ damage by 25%.

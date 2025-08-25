@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 159381
+revid: 159558
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1506,7 +1506,7 @@ Your ice abilities no longer grant a slow effect or the ability to freeze and in
 
 Your Frostdraw Mantras, Chilling Enchant, and Legendary Weapons (like [Gran Sudaruska](Gran_Sudaruska.md)) are now a reddish pink.  
 
-Applying chill, freeze, or frost elemental damage applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking your opponent while they have crystals makes them explode. Crystals explosions deal 3 damage with 5 scaling (+0.015 damage per point in Frostdraw) per crystal.  
+Applying chill applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking your opponent while they have crystals makes them explode. Crystals explosions deal 3 damage with 5 scaling (+0.015 damage per point in Frostdraw) per crystal.  
 1 second cooldown on crystal explosions.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159470
+revid: 159485
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -369,66 +369,71 @@ Image
 | Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
 | All attacks that have this attribute:
 
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
--   [Rock Golem](Rock_Golem.md): Uppercut
--   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
--   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
--   [Thresher](Thresher.md) (all variants): Burrow
--   [Deep Owl](Deep_Owl.md): Overhead Grab
+-   [Bonekeeper](Bone_Keeper.md): Crushing Grab
+-   Corrupted [Chorus Divide](Chorus_Divide.md)
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
+-   [Deepspindle](Deepspindle.md) standing critical multihits
+-   [Deep Owl](Deep_Owl.md): Overhead Grab
+-   [Deep Widow](Deep_Widow.md): Venomous Bite
+-   Default Greatcannon critical (Shockwave)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
+-   [Emotion Wave](Thundercall.md#emotion-wave) (First hit and outward lightning)
+-   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
--   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
--   [Bonekeeper](Bone_Keeper.md): Crushing Grab
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
--   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
--   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
--   Corrupted [Chorus Divide](Chorus_Divide.md)
--   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
--   [Throw](Attunement-less.md#throw) grab
--   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
--   Default Greatcannon critical (Shockwave)
 -   [Kyrsieger](Kyrsieger.md) critical
--   [Relic Axe](Relic_Axe.md) critical (Pillars)
--   [Emotion Wave](Thundercall.md#emotion-wave) (First hit and outward lightning)
--   [Deepspindle](Deepspindle.md) standing critical multihits
 -   [Kyrswynter](Kyrswynter.md) running critical
+-   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
+-   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
+-   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
+-   [Relic Axe](Relic_Axe.md) critical (Pillars)
+-   [Rock Golem](Rock_Golem.md): Uppercut
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
+-   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
+-   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
+-   [Thresher](Thresher.md) (all variants): Burrow
+-   [Throw](Attunement-less.md#throw)
 
  |
 | Red | File:Redtelegraph.png | ✗ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
 
--   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
--   [Golem Prime](Golem_Prime.md): Laser Barrage
--   [King Thresher](King_Thresher.md): Royal Breath
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
--   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
+-   [Deep Widow](Deep_Widow.md): Deep Webbing
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
--   [Stoneheart](Stoneheart.md) critical
+-   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
+-   [King Thresher](King_Thresher.md): Royal Breath
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
+-   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
+-   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
+-   [Stoneheart](Stoneheart.md) critical
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
 
  |
 | Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
 | All attacks that have this attribute:
 
 -   Default [Greatsword](Greatswords.md) and Club criticals (White)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
 -   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
 -   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
--   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
 -   [Kanabo](Kanabo.md) running critical (White)
+-   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
 
  |
 | Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |
 | All attacks that have this attribute:
 
--   [King Thresher](King_Thresher.md): Body Slam
--   [Bounder](Bounder.md): Leap
 -   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
+-   [Bounder](Bounder.md): Leap
+-   [Gravity Field](Gravity_Field.md)
+-   [King Thresher](King_Thresher.md): Body Slam
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |
