@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 158291
+revid: 159630
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -59,7 +59,7 @@ The critical freezes the opponent on successful hit, with Glass Path: Crystalliz
 -   Gran Sudaruska M1s do not apply crystal or chill. This is intended.
     -   Prior to a patch, Gran Sudaruska used to convert **all** damage into Ice/Chill damage, leading to unintentional mechanics such as basic attacks, any mantras, and even **Venting** to apply crystals, this was patched and removed. However, the M1s used to apply Crystals prior to a later hotfix.
 -   Gran Sudaruska is the first and only weapon that currently has the ability to speak.
-    -   Some of her voice lines are:
+    -   All of Her voice lines are:
         -   "Fall beneath our frost, drowned pawn."
         -   "Become memories, pawn."
         -   "The sun will set only for your soul, pawn."
@@ -74,7 +74,7 @@ The critical freezes the opponent on successful hit, with Glass Path: Crystalliz
         -   "False strength."
         -   "Your cause is a poison to this world, pawn."
         -   "Death cannot contain me."
-    -   Killing 2 or more enemies that would trigger Gran Sudaruska's voice lines at once will only make her say one voice line instead of stacking both ontop of each other.
+    -   Killing 2 or more enemies that would trigger Gran Sudaruska's voice lines at once will only make her say one voice line instead of stacking both on top of each other.
     -   All Gran Sudaruska dialogues last for 5 seconds.
     -   Some of her lines are very similar (likely as a result of inspiration) to the dialogue of _[Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix)_, the final boss of [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2).
         -   "False strength." is one of Mithrix's quotes.

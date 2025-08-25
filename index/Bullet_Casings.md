@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 158283
+revid: 159627
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -40,9 +40,9 @@ The Bullet will apply poison on hit, however at a downside of the damage being r
 
 ## Trivia
 
--   Coal, rock, iron and astruline, these four minerals are not compatible with bullets and cannot be used to encase them.
+-   Coal, rock, iron (not the default bullets), and astruline, are minerals not compatible with bullets and therefore cannot be used to encase them.
 -   [Stormeye's](Stormseye.md) and [Rosen's Hellflames's](<Rosen's_Hellflame.md>) shots can use encased bullets.
--   Right now the only bullets that work are iron, erisore and umbrite.
--   Gold and irithine bullets are bugged and do not apply their supposed buff, however they still reduce the bullet's damage (In the case of gold bullets, the slower bullets are bugged and do not apply).
+-   Right now the bullets that work are iron (default), erisore, irithine, and umbrite.
+    -   Irithine bullets saw use in PvE due to massive damage; **HOWEVER,** this was significantly nerfed as of the updates on August 13th, 2025, and August 19th, 2025.
 -   Erisore's bullets seem to simply apply the same effect as the [Ring of Pestilence](https://deepwoken.fandom.com/wiki/Equipment#Rings), so it's more advisable to use the ring and avoid the damage reduction.
 -   The effects of minerals on bullets actually only apply to the "explosion" of the shot and not the projectile, this ironically makes using encased bullets more convenient in rifles and 2H pistols than 1H pistols...

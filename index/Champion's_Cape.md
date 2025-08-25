@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 159622
+revid: 159629
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Capes, Craftable]
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Arms, Capes, Craftable]
 
 ## Description
 
-Titus's Cape is an animated **unenchantable** [Equipment](Equipment.md) item under the "Arms" category. Worn by [Titus](Titus_Fulminus_Destellus.md), it is a dark cape with shoulder plates. Equipping it grants you +2 Rare Pips, +1 Legendary Pip, 10% Thundercall Resistance, and the [No Interruptions](Talents.md#equipment-talents) Talent.
+Champion's Cape is an animated **unenchantable** [Equipment](Equipment.md) item under the "Arms" category. It is a dark cape with shoulder plates, visually the same as [Titus's Cape](<Titus's_Cape.md>). Equipping it grants you +2 Rare Pips, +1 Legendary Pip, 10% Thundercall Resistance, and the [No Interruptions](Talents.md#equipment-talents) Talent.
 
 The _No Interuptions_ Talent reduces damage taken by ranged attacks while in combat from 2 or more players. This heavily increases the damage falloff with range from attacks and removes hitstun from attacks that are a certain distance away.
 
