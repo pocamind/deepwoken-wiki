@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 159416
+revid: 159625
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -223,12 +223,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
-  <td><div><p>Weapon gain +5% PEN and apply <a href="Status_Effects.md#cauterized">Cauterize</a> on hit. Cauterized targets:<br>
-  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.45%, MED: 8%, HVY: 10% per hit).<br>
-  The PEN it gives also counts for mantra damage and bypasses the 50% PEN cap.<sup><a href="#cite-note-1">[1]</a></sup><br>
-  Drain thirst equal to 20% of weapon scaled DMG, not affected by DMG mods. (As example 43.77/5 = 8.75 water drain)</p>
-  <p><br>
-  Sear stacks lasts 15 seconds, applying a stack wont refresh the timer.</p></div></td>
+  <td><div><p>Your weapon gains 5% PEN and applies <a href="Status_Effects.md#cauterized">Cauterize</a> on hit. Cauterized targets have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.45%, MED: 8%, HVY: 10% per hit). The PEN bonus is applied to all damage sources like Mantras. Additionally, Sear bypasses the 50% PEN cap.</p>
+  <p>Additionally, drain your opponent's thirst equal to 20% of your weapon's scaled damage.<br>
+  Sear stacks lasts 15 seconds each. Applying a new stack does not refresh this timer.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
@@ -344,7 +341,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   due to this, fighting low iron investment alloy blood leads to more blood DMG.<br>
   Blood DMG not affected by DMG modifiers and blood DMG multipliers (such as alloyblood, cauterized wounds, haemophilia), BUT affected by damage reduction and armor resistances<br>
   When missing an light attack (dodge, parry, crit and block are not a miss), lose 2% of total blood.<br>
-  Source: <sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
+  Source: <sup><a href="#cite-note-1">[1]</a></sup></p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.</div></td>
 </tr>
 <tr>
@@ -914,7 +911,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
         
         
         _
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[3\]](#cite-note-3) and still holds that sentiment to this day.
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[2\]](#cite-note-2) and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
@@ -933,11 +930,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 
 ## References
 
-1.  [↑](#cite-ref-1)
-    
-    File:Arch sear pen.png
-    
-2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=wX-crHmTLV8](https://www.youtube.com/watch?v=wX-crHmTLV8)
-3.  [↑](#cite-ref-3)
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=wX-crHmTLV8](https://www.youtube.com/watch?v=wX-crHmTLV8)
+2.  [↑](#cite-ref-2)
 
 File:StoneArchMage.png

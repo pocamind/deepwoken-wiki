@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 159595
+revid: 159623
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -68,10 +68,11 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent category that require Oathless to be obtained. These Talents focus on the usage of every [Attunement's](Attunements.md) Wisp Mantra. **These Talents are not given by the Oathless Oath directly, but instead require the Oath as a prerequisite.**
 
 -   **Chorus of Souls** - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
+    -   Grants heightened health regeneration while all Wisps are active.
     -   Prerequisites: Oathless, 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
 
 -   **Wisp Convergence** - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
-    -   Will not proc unless you have every Wisp Mantra equipped.
+    -   This will not proc unless you have every Wisp Mantra active. If one of your Wisps runs out, you will need to recast it to proc Wisp Convergence again.
     -   Your basic attacks will apply the following [status effects](Status_Effects.md): Burn, Shock, Chill, Winded, and Shadow.
     -   Prerequisites: Oathless, Chorus of Souls
 
