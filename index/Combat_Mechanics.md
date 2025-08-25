@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159485
+revid: 159606
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -384,6 +384,7 @@ Image
 -   [Kyrsieger](Kyrsieger.md) critical
 -   [Kyrswynter](Kyrswynter.md) running critical
 -   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
+-   [Mudskipper Broodlord](Mudskipper_Broodlord.md): Broodrot Thrust
 -   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero

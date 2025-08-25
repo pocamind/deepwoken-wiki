@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159507
+revid: 159608
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2412,9 +2412,17 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Sage of Wisps
 
+-   _**Chorus of Souls**_ \[Advanced Talent, [Oathless](Oath%253A_Oathless.md) Exclusive\] - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
+    -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
+
 -   _**Will o' Wisp**_ \[Advanced Talent, Attunement Exclusive\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
     -   Allows the player to summon one of each Wisp at the same time.
     -   Prerequisites: Attunement Wisp mantra, 25 Element
+
+-   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md) Exclusive\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
+    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
+    -   Your basic attacks will apply Burn, Shock, Chill, Winded, and Shadow.
+    -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
 
 ### Saint of Blades
 

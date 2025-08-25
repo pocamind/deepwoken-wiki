@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 156432
+revid: 159595
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,11 +48,32 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath armor. Oath Armor decreases the damage received from all Oath-related attacks,[\[1\]](#cite-note-1) including Mantras and [Silentheart](Oath%253A_Silentheart.md) abilities.
-
-Oathless' Oath resistance is actually Oath **armor** instead, which means it **is affected by PEN, is completely nullified if you have no armor durability, and is bypassed entirely by Oath abilities that have more than one damage typing**. This is because when an attack has more than one damage typing, you'll resist that damage based off your highest corresponding armor resistance; for example if you had 35% Blunt armor and 30% Thundercall armor, you'll resist 35% of Thunder Kick's damage. And so, because every Master [Outfit](Outfits.md#master) grants more than 20% Physical/Elemental armor, depending on what [Oath](Oaths.md) your opponent has, Oathless' 20% Oath armor may do absolutely nothing.
+This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath armor. Oath Armor decreases the damage received from the Oath damage type,[\[1\]](#cite-note-1).
 
 As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath. Unless seen in a [Bounty Board](Bounty_Hunting.md).
+
+## Abilities
+
+### Passive
+
+-   **Oath Armor** - Oathless grants 20% Oath armor.
+    -   This does not work on every Oath ability, as not all of them deal Oath damage in general.
+    -   Due to this being **armor** instead of **resistance**, PEN will affect it.
+    -   Oath attacks with multiple damage types will effectively bypass your Oath armor because the game will take your highest applicable armor resistance and apply that for damage calculation. For example, if you have over 20% Physical resistance, you'll resist [Bladeharper](Oath%253A_Bladeharper.md) attacks based on your Physical resistance rather than your Oath resistance.
+
+## Talents
+
+### Sage of Wisps
+
+There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent category that require Oathless to be obtained. These Talents focus on the usage of every [Attunement's](Attunements.md) Wisp Mantra. **These Talents are not given by the Oathless Oath directly, but instead require the Oath as a prerequisite.**
+
+-   **Chorus of Souls** - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
+    -   Prerequisites: Oathless, 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
+
+-   **Wisp Convergence** - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
+    -   Will not proc unless you have every Wisp Mantra equipped.
+    -   Your basic attacks will apply the following [status effects](Status_Effects.md): Burn, Shock, Chill, Winded, and Shadow.
+    -   Prerequisites: Oathless, Chorus of Souls
 
 ## Trivia
 

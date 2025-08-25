@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 155445
+revid: 159611
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -51,6 +51,36 @@ Shrine of Mastery has two different effects.
 -   If you no longer meet the requirements for a mantra or your mantra's levels after using Shrine of Mastery, you will keep it equipped with its previous level intact with **no** penalties.
 -   This shrine does not count for the "Bargained with Deep Shrines" echo.
 -   If you no longer meet the requirements for a outfit with stat requisites, you will keep the outfit with no penalties.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><b>PUPPET. STATE YOUR PURPOSE.</b></td>
+</tr>
+<tr>
+  <td>I wish to reevalute my Traits.</td>
+  <td>I wish to reevalute my Attributes.</td>
+</tr>
+<tr>
+  <td><b>CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH.</b></td>
+  <td><b>CHOOSE THE ATTRIBUTE OF YOUR SOUL TO DIMINISH.</b></td>
+</tr>
+<tr>
+  <td colspan="2">Player selects a Trait / Attribute</td>
+</tr>
+<tr>
+  <td colspan="2"><b>THE CONTRACT IS COMPLETE. WASTE.</b></td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Navigation
 

@@ -1,9 +1,9 @@
 ---
 title: Enforcer
-revid: 159520
+revid: 159590
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters, Enemies, The Depths]
+categories: [Monsters, Enemies, The Depths]
 ---
 
 # Enforcer
@@ -113,7 +113,7 @@ The Enforcer, however, is completely different from other [Enemies](Enemies.md) 
 
 Do not be deceived by these stats, though. The dangerous part of the Enforcer isn't its stats, but its complexity and how it uses them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy. It can chain together entire strings of parries, feints, basic attacks and special attacks. Even though the danger falls off in the far endgame, it can still kill any overconfident high level player. Ultimately, it's the definition of a skill check rather than a stat check.
 
-### In General
+### Tips
 
 -   Get familiar with the Enforcer. Watch videos, watch guides with it, watch streams, watch as much as you can about the fight, and what goes down. Fighting it blindly on your first attempt, let alone on a power 17+ character, will surely lead to death. Its design and role are an integral part of the fight, with you knowing that if you die, you'll get wiped. Keep calm and react accordingly.
 -   The biggest thing about the Enforcer is the feints; when it does this, dodge.
@@ -138,12 +138,6 @@ _**If you're a freshie reading this page and about to do the Enforcer trial for 
 -   **[Enforcer Eye](Enforcer_Eye.md):** A rare drop used to obtain the Enforcer Pull [Monster Mantra](Monster_Mantras.md).
 -   **[Enforcer Plate](Enforcer_Plate.md):** An equipment piece under the arms category. Enforcer Plate is a set of black plated shoulder guards.
 -   **[Enforcer Boots](Enforcer_Boots.md):** An equipment piece under the legs category. Enforcer Boots are a set of black plated boots.
-
-## Gallery
-
-Axe variant enforce idle
-
-Axe variant enforce idle
 
 ## Trivia
 

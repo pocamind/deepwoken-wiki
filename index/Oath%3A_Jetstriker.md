@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 159473
+revid: 159571
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -56,10 +56,10 @@ The location of these orbs are:
     -   Map guide: Directly underneath the second "i" in Min\[i\]tyrsa (Zoom fully to align)
 -   Top of the rooftop of the large red [Etris Palace](https://deepwoken.fandom.com/wiki/The_King%27s_Garden).
     -   Step by step guide:
-        -   Open your map, locate the [Palace](https://deepwoken.fandom.com/wiki/The_King%27s_Garden). (Do not enter the [Palace](Etris_Palace.md), you will most likely die unprepared)
-        -   Take the stairs up to the [\[1\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)[Palace](Etris_Palace.md), avoid the main gate to sneak past the guards.
+        -   Open your map, locate the [Palace Garden](https://deepwoken.fandom.com/wiki/The_King%27s_Garden). (Do not enter the [Palace](Etris_Palace.md), you will most likely die unprepared)
+        -   Take the stairs up to the [\[1\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)Palace, avoid the main gate to sneak past the guards.
         -   Circle around the outside to the right, and climb onto the castle without falling inside.
-        -   Orb is at the very top of the [\[2\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)[Palace](Etris_Palace.md), in the center, easy to spot.
+        -   Orb is at the very top of the [\[2\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)Palace, in the center, easy to spot.
     -   Map guide: Located on the far east point of [Etris](Etris.md), a large distinct orange building on the map.
 -   Right outside the very high up building, "[The Birdcage](The_Birdcage.md)".
     -   Step by step guide: (**Recommended** done in succession with [Towerstruck Lands](Towerstruck_Lands.md))

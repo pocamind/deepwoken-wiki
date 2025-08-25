@@ -1,6 +1,6 @@
 ---
 title: Reciprocal Bonecharm
-revid: 151699
+revid: 159581
 source: https://deepwoken.fandom.com/wiki/Reciprocal_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -30,7 +30,7 @@ Upon usage, the user will be prompted to select a location:
     1.  Sanctuary Outskirts ([Second Layer: Floor 1](Second_Layer.md))
 -   If using this Relic inside of the Second Layer:
     1.  Sanctuary Outskirts ([Second Layer: Floor 1](Second_Layer.md))
-    2.  Shrine of Arrival ([Second Layer: Floor 2](Second_Layer.md))
+    2.  Shrine of Arrival ([Second Layer: Floor 2](Second_Layer.md)) (currently bugged, only allowing you to teleport to Sanctuary Outskirts no matter where you are, including if you are already in Floor 2)
 
 A teleportation circle will appear below the user's feet, and after a short delay, you **and a maximum of 4 other players** will be teleported directly to your chosen location.
 

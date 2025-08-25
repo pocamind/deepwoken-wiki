@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 158961
+revid: 159560
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -41,5 +41,3 @@ Sometimes, when you are sailing through **Voidsea**, you may be teleported to a 
 -   You lose sanity here but it's so low that it won't be a problem
 -   Island events that spawn in the Voidsea take on a monochrome appearance.
 -   If you are playing on Low Graphics mode, sailing past 100k in an axis will remove the sea texture, causing you to sail above "the void." Note that it is safe to jump off your boat and swim, and turning off Low GFX will make the sea re-appear.
-    
-    A boat Floating over the Void.

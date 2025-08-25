@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 159509
+revid: 159566
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -93,7 +93,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
         -   If you have used Dyes, instead turns your vents to your tattoo colour.
 
 -   **Unmatched Dexterity** - Press X to Quick Swap between weapons within your toolbar.
-    -   ~Begins cycling from the latest weapon added to the toolbar. Once all weapons have been cycled through once, it cycles starting from the right side of the toolbar towards the left.~ This is false; the weapon cycling is **random**, you have no way to know which weapon you're going to get when you press the button.
+    -   Swaps your current weapon with a random one on your hotbar.
     -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
 
 #### Talent Abilities

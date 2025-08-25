@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 156577
+revid: 159603
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths]
@@ -83,13 +83,8 @@ This lootpool may still be incomplete, we'd appreciate it if you helped gather i
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Mantra_Modifiers.md">Vibrant Gems</a></li>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
-    <li>Some <a href="Relics.md">Relics</a>
-  <ul>
-    <li><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-  </ul></li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Void_Spire.md">Void Spire</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -97,7 +92,7 @@ This lootpool may still be incomplete, we'd appreciate it if you helped gather i
   <td>
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Guiding_Star.md"><font>Guiding Star</font></a> (Direct Drop, <b>Guaranteed</b>), <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed"><font>Alloyed Adretian Axe</font></a>, <a href="Cavalry_Saber.md#alloyed"><font>Alloyed Calvary Saber</font></a>, <a href="Dawnshot.md#alloyed"><font>Alloyed Dawnshot</font></a>, <a href="Markor's_Inheritor.md#alloyed"><font>Alloyed Inheritor</font></a>, <a href="Katana.md#alloyed"><font>Alloyed Katana</font></a>, <a href="Officer_Saber.md"><font>Alloyed Officer Saber</font></a>, <a href="Darksteel_Greatsword.md#alloyed"><font>Darkalloy Greatsword</font></a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Cavalry_Saber.md#alloyed">Alloyed Calvary Saber</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md#alloyed">Alloyed Inheritor</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Central_Dirk.md">Central Dirk</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Dragoon.md">Dragoon</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Flintlock.md">Flintlock</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Tanto.md">Tanto</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>

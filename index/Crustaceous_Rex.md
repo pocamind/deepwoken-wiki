@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 158845
+revid: 159586
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -79,9 +79,8 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 </tbody>
 </table>
 
-\*Requires you to block before being grabbed
-
-\*\*Attack can be evaded by moving out of the way, but ignores dodge frames
+-   Requires you to block before being grabbed
+    -   Attack can be evaded by moving out of the way, but ignores dodge frames
 
 ### **Passives**
 

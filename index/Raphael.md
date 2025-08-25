@@ -1,9 +1,9 @@
 ---
 title: Raphael
-revid: 137945
+revid: 159565
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the First Layer]
+categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, Quests]
 ---
 
 # Raphael
@@ -12,13 +12,15 @@ categories: [Celtor NPCs, NPCs, NPCs located in the First Layer]
 |---|---|
 | name | Raphael |
 | aspect | Celtor |
-| location | Lost Celtor, The Varicosa District; The First Layer of the Depths, Scyphozia |
+| location | Varicosa District |
 
-Raphael is a mysterious [Celtor](Aspects.md) located in the [First Layer of the Depths](First_Layer.md) (Scyphozia), in the [Varicosa District](Varicosa_District.md) of [Lost Celtor.](Lost_Celtor.md) Not much is known about him, but he offers the player a quest to find a person/thing named "Morning." "Morning" has never been found, and it will most likely only be complete-able in future updates, sadly.
+## Description
 
-Based on his dialogue after accepting the quest but not completing it, we can assume that he works for some kind of shadow organization, such as [The Ministry](The_Ministry.md). There is no way to tell, though.
+Raphael is a mysterious [Celtor](Aspects.md). He offers the player the unfinished quest to find 'Morning'. Based on his dialogue after accepting the quest but not completing it, it can be assumed that he works for some sort of shadow organization. It is hinted that he is a member of [The Ministry](The_Ministry.md) as he has different dialogue when you have neutral+ ministry rep.
 
-Raphael is possibly a [Ministry](The_Ministry.md) member as he has a diffrent dialouge with [contractors](Oath%253A_Contractor.md)
+## Location
+
+Raphael is located in [The Depths](The_Depths.md) within [The City of the Drowned](The_City_of_the_Drowned.md) in a house inside the [Varicosa District](Varicosa_District.md).
 
 ## Dialogue
 
