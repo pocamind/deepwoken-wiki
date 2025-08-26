@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 158343
+revid: 159873
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -115,7 +115,7 @@ Kiron have optional face markings. The color of these markings is based on your 
 
 ## Trivia
 
--   Kiron has the most variants out of all aspects, having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
+-   Kiron is tied with [Chrysid](Chrysid.md) for having the most variants out of all aspects, both having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
 -   The surname Vaatu may be a nod to [Vaatu](https://avatar.fandom.com/wiki/Vaatu) from the _Avatar_ franchise.
 -   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both characters are vampires.
 -   The surname Draatu may be a nod to Dracula.

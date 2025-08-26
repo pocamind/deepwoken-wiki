@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159769
+revid: 159899
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -601,7 +601,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 40 Bloodrend, 40 Galebreathe
 
 -   Cold Blooded \[Common Talent, Dual Attunement\] - Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)
-    -   The amount of blood poison applied is not very much, especially on Crystal Path where it'll be cleared almost immediately after being applied through passive blood poison decay.
+    -   The amount of blood poison applied is not very high, and it'll be cleared almost immediately after being applied through passive blood poison decay.
     -   Has a short cooldown for blood poison application.
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
@@ -893,6 +893,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen.
     -   If the user has Crystallization, this Talent no longer freezes but instead causes crystals to explode.
     -   Prerequisites: [Ice Beam](Frostdraw.md#ice-beam) (Mantra), 60 Frostdraw.
+
+### Crystalline Gold
+
+-   Golden Age \[Common Talent, Dual Attunement\] - Your Iron Pull now detonates Crystals and overloads Surges.
+    -   Prerequisites: Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor
 
 ### Cutthroat
 
@@ -1566,6 +1571,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
 
+-   Frozen Anchor \[Common Talent, Frostdraw Exclusive\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD
+    -   Prerequisites: 100 Frostdraw, 100 Weapon
+
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill.
     -   Works with Glass Path: Crystallization.
     -   Prerequisite: 25 Frostdraw
@@ -1579,6 +1587,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   The user doesn't steal healing from others if the user was the one that procced the healing (via [Revitalizing Hair Product](Oath%253A_Fadetrimmer.md), Grand Support Talent etc.).
     -   If using Glass Path: Crystallization then every hit with a frostdraw mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   Prerequisite: Frostbite
+
+-   Stasis Strike \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions deal more damage whenever your opponent is also bottom frozen.
+    -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon
 
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
@@ -1701,9 +1712,16 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Intellisense
 
 -   Critical Engine \[Common Talent, Intelligence Exclusive\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
-    -   [Insignia Gem](Insignia_Gem.md) will reduce the windup of your next Mantra cast, even if it is applied to your critical.
-    -   [Blue Gem](Blue_Gem.md) will grant you Ether back on successful critical hit.
-    -   [Blessed Gem](Blessed_Gem.md) will reduce your critical attack's cooldown on hit.
+    -   Proccing this Talent will put the respective Deep Gem on cooldown.
+    -   [Aegis Gem](Aegis_Gem.md) grants you 20% damage reduction for 10 seconds on hit.
+    -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
+    -   [Bloodless Gem](Bloodless_Gem.md) reduces your critical damage, but gives you healing based on damage dealt.
+    -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is based on damage dealt.
+    -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
+    -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%.
+    -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
+    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds.
+    -   [Wrath Gem](Wrath_Gem.md) does not work (in general).
     -   Prerequisites: 90 Intelligence, 30 Weapon
 
 ### Ironsinger
@@ -1971,6 +1989,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   This ability only can be used to a humanoid npcs and players.
     -   Allows you to passively see the health bar of allies, even when not active.
     -   Prerequisites: [Oath: Linkstrider](Oath%253A_Linkstrider.md), Kill 2 players with [Oaths](Oaths.md) OR speak to [The Entropy Catalyst](The_Entropy_Catalyst.md) and spend 10 to instantly progress your Oath (requires you to have fully progressed Linkstrider previously).
+
+### Maestro's Technique
+
+-   Silencer's Song \[Common Talent, Galebreathe Exclusive\] - Silencer's Blade now procs on your mantras.
+    -   Prerequisites: Silencer's Blade, 100 Galebreathe, 100 Weapon
 
 ### Marauder
 
@@ -2813,6 +2836,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
+### Shock Therapy
+
+-   Grounding Bolt \[Common Talent, Thundercall Exclusive\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
+    -   Prerequisites: 90 Thundercall, 90 Weapon
+
 ### Showboater
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
@@ -3592,7 +3620,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Ash Ember \[Common Talent, Flamecharm Exclusive\] - The more wither your opponent has, the more damage your burn deals.
     -   Prerequisites: 90 Flamecharm, 90 Weapon
 
--   Scorching Delay \[Common Talent, Flamecharm Exclusive\] - The wither dealt from your Emperor's Flame is massively increased.
+-   Scorching Decay \[Common Talent, Flamecharm Exclusive\] - The wither dealt from your Emperor's Flame is massively increased.
     -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon
 
 ### [Oath](Oaths.md)

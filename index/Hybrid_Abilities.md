@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 159447
+revid: 159776
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -609,6 +609,26 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
 </tbody>
 </table>
 
+**Ironsing:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Golden Age<br>
+  <sup>[Crystalline Gold]</sup></center></td>
+  <td><center>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</center></td>
+  <td><center>Your Iron Pull now detonates Crystals and overloads Surges.</center></td>
+  <td><center>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</center></td>
+</tr>
+</tbody>
+</table>
+
 **Thundercall:**
 
 <table>
@@ -772,6 +792,26 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
 </tbody>
 </table>
 
+**Frostdraw:**
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Golden Age<br>
+  <sup>[Crystalline Gold]</sup></center></td>
+  <td><center>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</center></td>
+  <td><center>Your Iron Pull now detonates Crystals and overloads Surges.</center></td>
+  <td><center>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</center></td>
+</tr>
+</tbody>
+</table>
+
 **Thundercall:**
 
 <table>
@@ -781,6 +821,13 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Golden Age<br>
+  <sup>[Crystalline Gold]</sup></center></td>
+  <td><center>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</center></td>
+  <td><center>Your Iron Pull now detonates Crystals and overloads Surges.</center></td>
+  <td><center>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</center></td>
 </tr>
 <tr>
   <td><center>Voltaic Conductor<br>
@@ -1001,6 +1048,13 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td><center>Landing a critical with a Static Link on your opponent applies Chilled.</center></td>
   <td><center>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. No synergy with Crystallization Path.</center></td>
 </tr>
+<tr>
+  <td><center>Golden Age<br>
+  <sup>[Crystalline Gold]</sup></center></td>
+  <td><center>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</center></td>
+  <td><center>Your Iron Pull now detonates Crystals and overloads Surges.</center></td>
+  <td><center>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</center></td>
+</tr>
 </tbody>
 </table>
 
@@ -1035,6 +1089,13 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td><center><b>Requirements</b></center></td>
   <td><center><b>Card Description</b></center></td>
   <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Golden Age<br>
+  <sup>[Crystalline Gold]</sup></center></td>
+  <td><center>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</center></td>
+  <td><center>Your Iron Pull now detonates Crystals and overloads Surges.</center></td>
+  <td><center>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</center></td>
 </tr>
 <tr>
   <td><center>Voltaic Conductor<br>
@@ -1076,6 +1137,35 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td><center>If your Human Battery targets have Ether, it will drain their Ether to help pay for your Mantras. 10s cooldown.</center></td>
   <td><center>When casting a Mantra, drain some of your Human Battery target's Ether to help pay for the Mantra. Unlike Human Battery, you do not need to be out of Ether for Battery Sapper to proc.<br>
   However, this talent is bugged and currently does nothing.</center></td>
+</tr>
+</tbody>
+</table>
+
+**All:**
+
+These Talents require the combination of all attunements to be obtained. Very few in number, these hybrid Talents are very niche and specialized, but powerful to make up for their high requirements.
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Requirements</b></center></td>
+  <td><center><b>Card Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+</tr>
+<tr>
+  <td><center>Chorus of Souls<br>
+  <sup>[Sage of Wisps]</sup></center></td>
+  <td><center><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, 30 in all Attunements</center></td>
+  <td><center>Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)</center></td>
+  <td><center>While all Attunement Wisp Mantras are active, gain massively increased healing. This effect will stop working if any Wisp is not present.</center></td>
+</tr>
+<tr>
+  <td><center>Wisp Convergence<br>
+  <sup>[Sage of Wisps]</sup></center></td>
+  <td><center><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, Chorus of Souls</center></td>
+  <td><center>When empowered by the Chorus, your Wisps now grant their elements to your strikes.</center></td>
+  <td><center>While all Attunement Wisp Mantras are active, your basic attacks will apply <a href="Status_Effects.md#burn">Burn</a>, <a href="Status_Effects.md#chill">Chill</a>, <a href="Status_Effects.md#shock">Shock</a>, <a href="Status_Effects.md">Shadow</a>, and <a href="Status_Effects.md#winded">Winded</a>. This has no cooldown, but will stop working if any Wisp is not present.</center></td>
 </tr>
 </tbody>
 </table>

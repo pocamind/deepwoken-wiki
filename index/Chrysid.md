@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 159055
+revid: 159874
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -28,7 +28,7 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
   <ul>
     <li>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
   <ul>
-    <li>People who attack you are highlighted red for you to see. Useful to find people with long ranged attacks or in dark areas.</li>
+    <li>Once per combat instance, the first person to attack you is highlighted red for 10 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li>
     <li>The angles at which you can be assassinated or backstabbed are reduced.</li>
   </ul></li>
   </ul></td>
@@ -95,9 +95,13 @@ Chrysid antennae are [dyable](Dye_Packet.md) ornaments.
 
 **Adept:**
 
+**Augur:**
+
 **Devout:**
 
 **Hierophant:**
+
+**Messenger:**
 
 **Sage:**
 
@@ -111,9 +115,13 @@ Chrysid has a unique shoulder ruff. The color of this Ruff is dependent on your 
 
 **Adept:**
 
+**Augur:**
+
 **Devout:**
 
 **Hierophant:**
+
+**Messenger:**
 
 **Sage:**
 
@@ -127,9 +135,13 @@ Chrysid has four options for their compound eyes: round, down slant, up slant, o
 
 **Adept:**
 
+**Augur:**
+
 **Devout:**
 
 **Hierophant:**
+
+**Messenger:**
 
 **Sage:**
 
@@ -143,9 +155,13 @@ Chrysid has a set of optional eyebrows.
 
 **Adept:**
 
+**Augur:**
+
 **Devout:**
 
 **Hierophant:**
+
+**Messenger:**
 
 **Sage:**
 
@@ -157,12 +173,9 @@ Chrysid has a set of optional eyebrows.
 
 The Chrysid aspect has an alternate variant of the [Starkindred Wings](Oath%253A_Starkindred.md).
 
-## Notes/Trivia
+## Trivia
 
--   Mothwing Dust lasts 10 seconds with no cooldown, but it will not activate if you are already in combat.
--   Mothwing Dust only procs against people who initiated combat with you **first**. If you instigated the fight, then you will not gain wall hacks.
+-   Chrysid is tied with [Kiron](Kiron.md) for having the most variants out of all aspects, both having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
 -   The Seer variant may be a direct reference to [The Seer](https://hollowknight.fandom.com/wiki/Seer) from _Hollow Knight_
 -   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
--   On March 31st, 2025, Chrysids were given unique eyebrows.
-    -   On April 7th, 2025, Chrysids could choose to remove the eyebrows.

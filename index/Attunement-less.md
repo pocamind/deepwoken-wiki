@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 159763
+revid: 159859
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -451,7 +451,7 @@ Blunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   Has a base damage of 9.89/13.04/16.19/19.34/22.49 per level with 1.65 Fortitude scaling.
+-   Has a base damage of 9.9/13.05/16.20/19.35/22.5 per level with 1.65 Fortitude scaling.
 -   Deals 8 posture damage.
 -   Has 0.5s wind-up.
 -   Has a 15 second cooldown.

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 159494
+revid: 159898
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1756,6 +1756,40 @@ Your Graceful Flame burns brightly even underwater. Those that gather around it 
  | 
 
 Your Graceful Flame can now be cast in the [First Layer](First_Layer.md), additionally people who stand near it passively regenerate sanity and health.
+
+ |
+
+**Withered Flame:**
+
+These Talents are found in the _Withered Flame_ category.
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Ash Flame  
+(90 Flamecharm, 90 Weapon)
+
+ | 
+
+The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Scorching Decay  
+(100 Flamecharm, 100 Weapon, Emperor Flame)
+
+ | 
+
+The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased.
 
  |
 
