@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 159125
+revid: 159718
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -699,6 +699,8 @@ Blood
 -   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool
 -   Shares a cooldown with similar Mantras [Beast Burrow](Monster_Mantras.md#beast-burrow) and [Shade Step](Shadowcast.md#shade-step)
+-   Functions similar to [Beast Burrow](Monster_Mantras.md#beast-burrow). After ~3 seconds, or if you are near someone, you will be forced to surface from the blood pool.
+-   This mantra can be ended early pressing M1.
 -   While this mantra is active, you can **reload** your gun (1H) inside of it
 -   Has a shorter windup if used while user is standing on a Blood Pool
 -   Feinting it still leaves a Blood Pool, allowing you to effectively place one for free. (Still costs Ether)

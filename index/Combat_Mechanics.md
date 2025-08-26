@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159606
+revid: 159772
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -381,6 +381,7 @@ Image
 -   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
+-   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
 -   [Kyrsieger](Kyrsieger.md) critical
 -   [Kyrswynter](Kyrswynter.md) running critical
 -   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite

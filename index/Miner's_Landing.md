@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 156420
+revid: 159714
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, The Ignition Union]
@@ -24,7 +24,9 @@ Miner's Landing is an [Ignition Union](The_Ignition_Union.md) island past the [S
 
 It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md). It also contains a dungeon, the [Saramaed Hollow](Saramaed_Hollow.md), which is the main way of progression for people with the Ignition Union orgin (who subsequently spawn here as well.)
 
-## Docks
+## Contents
+
+### Docks
 
 The Docks is what greets you after the highway. It has a guard and a shipwright.
 
@@ -38,7 +40,7 @@ File:Image 2023-01-12 223944902.png
 
 Mystic in Miner's Landing
 
-## Town
+### Town
 
 The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, Antiquarian, Inn, and an unnamed building containing a Celtor named Parsnip. A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town. There's a bank where you can turn in [artifacts](Artifacts.md) and buy the [Ignition Union Uniform](Ignition_Union_Uniform.md) for 50 notes.
 
@@ -48,17 +50,17 @@ In the same room as Delta, there is a NPC next to a large drill called Deepdelve
 
 You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy Cloth, Fiber, an Axe, and Pickaxe.
 
-## Upper Landing
+### Upper Landing
 
 High above the Town of Miner's Landing is the upper areas. Here, the entrance to the Boiler Room can be found. Past the Boiler Room's entrance, there is a long mountainous bridge that eventually leads to [Starfield Veldt](Starfield_Veldt.md). This mountainous bridge is littered with [Brainsuckers](Brainsucker.md) and one Mechalodaunt.
 
-## Boiler Room
+### Boiler Room
 
 The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting. There are two Mechalodaunts, one located to the right of the entrance, and the other located to the behind vault door, to the left and up the right slope.
 
 The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md), one of which is located to the right behind the vault door. The other entrance is located down the left hallway, up the left slope and in a room with an NPC.
 
-## Saramaed Summit
+### Saramaed Summit
 
 _Main page: [Saramaed Summit](Saramaed_Summit.md)_
 

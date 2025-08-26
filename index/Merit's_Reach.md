@@ -1,9 +1,9 @@
 ---
 title: "Merit's Reach"
-revid: 133789
+revid: 159709
 source: https://deepwoken.fandom.com/wiki/Merit's_Reach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
+categories: [Stub pages without reason, StubPages, Locations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -19,10 +19,10 @@ LocationL Merit's Reach LocationR
 
 ## Overview
 
-Merit's Reach
-
 Merit's Reach is a small, vegetated part of [Aratel Island](Aratel_Island.md) next to [Fort Merit](Fort_Merit.md). Beware of crossing the river, because the water can pull you away quite easily and send you out to sea. The river also directly connects to [Bluster Rift.](Bluster_Rift.md)
 
-There is an NPC called Rashet who resets reputation with the Authority for a certain amount of [Notes](Notes.md) depending on your standing with them.
+## Contents
 
-File:RobloxScreenShot20220702 180357640.png
+### [Rashet](Rashet.md)
+
+-   Offers the player to bribe their way from negative reputation.

@@ -1,6 +1,6 @@
 ---
 title: Raphael
-revid: 159565
+revid: 159726
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, Quests]
@@ -24,114 +24,92 @@ Raphael is located in [The Depths](The_Depths.md) within [The City of the Drowne
 
 ## Dialogue
 
-<table><caption>First Meeting/Haven't accepted his quest</caption>
+**First Encounter:**
+
+<table>
 <tbody>
 <tr>
-  <th colspan="4">You there! You bear a lifely complexion. Could you be recently departed?</th>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <th colspan="2"><i>(Player entered the Depths via Whirlpool or Call of the Deep)</i></th>
-  <th colspan="2"><i>(Player entered the Depths via death)</i></th>
+  <td colspan="12">You there! You bear a lifely complexion. Could you be recently departed?</td>
 </tr>
 <tr>
-  <td>
-  <ol>
-    <li>No, just visiting.</li>
-  </ol></td>
-  <td>2. [End Dialogue]</td>
-  <td>
-  <ol>
-    <li>Well, I did just die.</li>
-  </ol></td>
-  <td>2. [End Dialogue]</td>
+  <td colspan="6">Player entered the Depths via Whirlpool or Call of the Deep</td>
+  <td colspan="6">Player entered the Depths via death</td>
 </tr>
 <tr>
-  <th colspan="2">Ah. Even better. There might be something you can do for me.</th>
-  <th colspan="2">You might be of use to me then. My condolences of course...</th>
+  <td colspan="6">No, just visiting.</td>
+  <td colspan="6">Well, I did just die.</td>
 </tr>
 <tr>
-  <td>
-  <ol>
-    <li>Yeah?</li>
-  </ol></td>
-  <td>2. [End Dialogue]</td>
-  <td>
-  <ol>
-    <li>Yeah?</li>
-  </ol></td>
-  <td>2. [End Dialogue]</td>
+  <td colspan="6">Ah. Even better. There might be something you can do for me.</td>
+  <td colspan="6">You might be of use to me then. My condolences of course...</td>
 </tr>
 <tr>
-  <th colspan="4">I'm in correspondence with some folks on the surface. Only, the Divers turn up their nose up at playing messenger for a dead man.</th>
+  <td colspan="12">Yeah?</td>
 </tr>
 <tr>
-  <td colspan="2">
-  <ol>
-    <li>So you need a message delivered?</li>
-  </ol></td>
-  <td colspan="2">2. [End Dialogue]</td>
+  <td colspan="12">I'm in correspondence with some folks on the surface. Only, the <a href="Glossary.md#the-divers">Divers</a> turn up their nose up at playing messenger for a dead man.</td>
 </tr>
 <tr>
-  <th colspan="4">Indeed I do. If you should find yourself returned to the surface please seek out <b>Morning</b> and tell them that preparations are almost complete.</th>
+  <td colspan="12">So you need a message delivered?</td>
 </tr>
 <tr>
-  <td>
-  <ol>
-    <li>You expect me to find someone named Morning with no other clues?</li>
-  </ol></td>
-  <td>2. Preparations for what?</td>
-  <td>3. If I see Morning I'll let them know.</td>
-  <td>4. [End Dialogue]</td>
+  <td colspan="12">Indeed I do. If you should find yourself returned to the surface please seek out <b>Morning</b> and tell them that preparations are almost complete.</td>
 </tr>
 <tr>
-  <th>You expect a man hundreds of years dead to know what someone on the surface looks like? Will you deliver the message or not?</th>
-  <th>*<i>He taps the side of his nose.*</i> I'm afraid you'll have to ask Morning.</th>
-  <th>Excellent. No rush, of course. We have all the time in the world. *<i>He gives a knowing smirk.</i>*</th>
-  <td></td>
+  <td colspan="4">You expect me to find someone named Morning with no other clues?</td>
+  <td colspan="4">Preparations for what?</td>
+  <td colspan="4">If I see Morning I'll let them know.</td>
 </tr>
 <tr>
-  <td>
-  <ol>
-    <li>Preparations for what?</li>
-    <li>If I see Morning I'll let them know.</li>
-    <li>[End Dialogue]</li>
-  </ol></td>
-  <td>
-  <ol>
-    <li>You expect me to find someone named Morning with no other clues?</li>
-    <li>If I see Morning I'll let them know.</li>
-    <li>[End Dialogue]</li>
-  </ol></td>
-  <td>
-  <ol>
-    <li>[End Dialogue]</li>
-  </ol></td>
-  <td></td>
+  <td colspan="4">You expect a man hundreds of years dead to know what someone on the surface looks like? Will you deliver the message or not?</td>
+  <td colspan="4"><i>*He taps the side of his nose.*</i> I'm afraid you'll have to ask Morning.</td>
+  <td colspan="4">Excellent. No rush, of course. We have all the time in the world. <i>*He gives a knowing smirk.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">Preparations for what?</td>
+  <td colspan="2">If I see Morning I'll let them know.</td>
+  <td colspan="2">You expect me to find someone named Morning with no other clues?</td>
+  <td colspan="2">If I see Morning I'll let them know.</td>
+  <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="8">[See first instance]</td>
 </tr>
 </tbody>
 </table>
 
-<table><caption>Talking to Raphael again after accepting the quest, but not completing it</caption>
+**Subsequent Encounters:**
+
+<table>
 <tbody>
 <tr>
-  <th colspan="2">I take it you haven't found Morning yet? I can wait. Waiting's all I do these days, after all.</th>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>1. You've been down here for a hundred years?</td>
-  <td>2. [End Dialogue]</td>
+  <td colspan="12">I take it you haven't found Morning yet? I can wait. Waiting's all I do these days, after all.</td>
 </tr>
 <tr>
-  <th colspan="2">Give or take a few. The Tides truly were a miracle... Or, well, given the right connections...</th>
+  <td colspan="12">You've been down here for a hundred years?</td>
 </tr>
 <tr>
-  <td>1. What kind of connections?</td>
-  <td>2. [End Dialogue]</td>
+  <td colspan="12">Give or take a few. The Tides truly were a miracle... Or, well, given the right connections...</td>
 </tr>
 <tr>
-  <th colspan="2">No one you need worry about. But if you do this job for me, perhaps you might register on their radar?</th>
+  <td colspan="12">What kind of connections?</td>
 </tr>
 <tr>
-  <td colspan="2">1. [End Dialogue]</td>
+  <td colspan="6">Base dialogue</td>
+  <td colspan="6">Player has at least Ally Reputation with The Ministry</td>
+</tr>
+<tr>
+  <td colspan="6">No one you need worry about. But if you do this job for me, perhaps you might register on their radar?</td>
+  <td colspan="6"><i>*He narrows his eyes, then smirks.*</i> Connections I'm sure we have in common, friend. Should you need it, I'm sure you'll find that death can be made a stranger to you too.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

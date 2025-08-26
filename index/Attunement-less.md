@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 159392
+revid: 159763
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -421,7 +421,7 @@ Fortitude Mantras are mainly based on support during battle, enhancing defense a
 
 **Shoulder Bash** (☆☆☆)
 
-**Mobility Mantra**
+**Combat Mantra**
 
 _Rush at your enemies with your full physical force._
 
@@ -430,7 +430,7 @@ _Rush at your enemies with your full physical force._
 ## Shoulder Bash (☆☆☆)
 
   
-**Mobility Mantra**  
+**Combat Mantra**  
 _Rush at your enemies with your full physical force._
 
  |
@@ -451,15 +451,15 @@ Blunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   Has a base damage of 11.5/17.8/24.1/30.4/36.7 per level with 1.65 Fortitude scaling.
+-   Has a base damage of 9.89/13.04/16.19/19.34/22.49 per level with 1.65 Fortitude scaling.
 -   Deals 8 posture damage.
 -   Has 0.5s wind-up.
 -   Has a 15 second cooldown.
--   Shoulder Bash damage and duration scales with your Fortitude attribute.
+-   Shoulder Bash duration scales with your Fortitude attribute.
 -   Can collide with and break parts of the map.
 -   Rush shards have no effect.
--   Eternal/Aeon Logstones increase duration.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to make it apply knockback.
+-   [Eternal](Mantra_Modifiers.md#regular-modifiers)/[Aeon Logstones](Mantra_Modifiers.md#regular-modifiers) increase duration.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to make it apply knockback.
 
  |
 | 
@@ -1067,7 +1067,7 @@ Slash
 -   Has a base damage of 20/22/24/26/28 damage per level with 1.65 Willpower scaling.
 -   Transfers 20%/30%/40%/50%/60% of your current posture per level.
 -   The posture transfer cannot guardbreak.
--   Has 0.45s wind-up with 0.3s of endlag.
+-   Has 0.5s wind-up with 0.3s of endlag.
 
  |
 | 

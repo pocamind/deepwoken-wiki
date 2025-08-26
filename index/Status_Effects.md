@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 159423
+revid: 159720
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -278,7 +278,7 @@ This is applied by being hit by the [Deferred](Deferred.md) enchant. Take their 
 
 ### Tethered
 
-Become tethered to your attacker, being pulled towards them forcefully. Applied by being hit with the [Elastic](Elastic.md) enchant. Signified by a pink string between yourself and your attacker.
+Become tethered to your attacker, being pulled towards them forcefully. Applied by being hit with the [Elastic](Elastic.md) enchant. Signified by a pink string between yourself and your target, alongside a pink outline on your torso.
 
 ### Nemesis Mark
 

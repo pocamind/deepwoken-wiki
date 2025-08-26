@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Shrine of Arrival
-revid: 48966
+revid: 159694
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Shrine_of_Arrival
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -16,7 +16,7 @@ A brooding darkness welcomes those adventuring far below the Gale.
 
 File:Kyrsan shrine o arrival.png
 
-_The Kyrsan Shrine of Arrival_
+## Overview
 
 The Kyrsan Shrine of Arrival is the first thing adventurers will find upon entering the second floor of [Layer 2.](Second_Layer.md)
 

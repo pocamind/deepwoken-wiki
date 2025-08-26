@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 157210
+revid: 159736
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -118,7 +118,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
  | 5 | Soul-bounding an [enchanted](Enchantments.md) or legendary item (e.g., [Hero Blade of Frost](<Hero's_Blade_of_Frost.md>), [Crypt Blade](Crypt_Blade.md)). |
 | 
 
- | 5 | Using an [Enchant Stone](Enchant_Stone.md). |
+ | 5 | Enchanted an Item. |
 | 
 
  | 5 | Obtaining an enchant from [Laplace](Laplace.md). |
@@ -133,9 +133,6 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
  | 5 | Defeating [Dread Serpent](Dread_Serpent.md) OR [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)[\[1\]](#cite-note-1), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) OR [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) — 5 Echoes each. |
 | 
 
- | 5 | Obtaining the [Deepshore Fossil](Deepshore_Fossil.md). |
-| 
-
  | 10 | Defeating [Scion of Ethiron](Scion_of_Ethiron.md). |
 | 
 
@@ -146,6 +143,8 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 | 
 
  | 15 | Obtaining a [Resonance](Resonance.md). (You must CHOOSE it. If you reroll in Fragments of Self, it resets the task, even if you had one before.) |
+
+  
 
 ## Upgrades, Unlocks, and Modifiers
 

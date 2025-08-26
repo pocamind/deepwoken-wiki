@@ -1,6 +1,6 @@
 ---
 title: Firfire Caverns
-revid: 115273
+revid: 159704
 source: https://deepwoken.fandom.com/wiki/Firfire_Caverns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Locations]
@@ -13,7 +13,6 @@ LocationL Firfire Caverns LocationR
 Twisting turns and eternal darkness await those foolish enough to continue.
 
   
-Template:Areainfobox
 
 ## Overview
 

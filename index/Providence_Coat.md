@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 152541
+revid: 159762
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -31,4 +31,4 @@ The Providence Coat is an [Equipment](Equipment.md) item under the "Arms" catego
 ## Trivia
 
 -   Despite the rarity of the coat being Legendary, it is quite common.
--   A reference to Dante's outfit in _Devil May Cry 5_.
+-   The appearance of the item is a reference to Dante's outfit in _Devil May Cry 5_.

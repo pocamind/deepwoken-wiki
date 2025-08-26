@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159624
+revid: 159769
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -925,8 +925,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Dark Synergy \[Shadowcast Exclusive\] - Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God
     -   Deals 5 damage on proc. (only on flourish.)
-    -   Does not proc any shadow talents except shadow overflow.
+    -   Does not proc any shadow Talents except Shadow Overflow.
     -   Does not steal or halt any ether regen.
+
+-   Dark Waltz \[Common Talent, Shadowcast Exclusive\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.
+    -   Prerequisites: 90 Shadowcast, 90 Weapon
 
 -   Shadow Overflow \[Shadowcast Exclusive\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
     -   Has a 4s cooldown.
@@ -1050,12 +1053,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Elemental Rebound
 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, and Suffocation.
         -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
     -   Prerequisites: 20 Willpower, 15 Strength
 
 -   Nullifying Clarity \[Common Talent\] - Deal 10% more damage to enemies with status effects on them with your Basic Attacks, but the effect is removed on impact. (Works only with elemental status effects)
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear Talent), Winded, and Suffocation.
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, and Suffocation.
     -   Does not work with Critical Attacks
     -   Prerequisites: 15 Strength, 5 Intelligence
 
@@ -1112,6 +1115,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Unlike Spine Cutter, this has no cooldown.
     -   You can proc Behind you and Spine Cutter at the same time, but the proc window is very tight.
     -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence
+
+-   Unwavering Focus \[Common Talent\] - Recieve less posture when parrying a mantra (scales with intelligence).
+    -   Prerequisites: 60 Intelligence, 10 Strength
 
 ### Evil Endeavors
 
@@ -1691,6 +1697,14 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement. (This does not work on power requirements)
     -   This works for [Weapon](Weapons.md) requirements too. It also lowers all requirements on things with more than one, so a 72 Galebreathe 22 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
+
+### Intellisense
+
+-   Critical Engine \[Common Talent, Intelligence Exclusive\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+    -   [Insignia Gem](Insignia_Gem.md) will reduce the windup of your next Mantra cast, even if it is applied to your critical.
+    -   [Blue Gem](Blue_Gem.md) will grant you Ether back on successful critical hit.
+    -   [Blessed Gem](Blessed_Gem.md) will reduce your critical attack's cooldown on hit.
+    -   Prerequisites: 90 Intelligence, 30 Weapon
 
 ### Ironsinger
 
@@ -2653,7 +2667,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets.
     -   Prerequisite: [Shadow Roar](Shadowcast.md#shadow-roar) (Mantra)
 
--   Fear \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when they run from you.
+-   Fear the Dark \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when they run from you.
     -   Prerequisite: 50 Shadowcast
 
 -   Lasting Sorrow \[Common Talent, Shadowcast Exclusive\] - Shadows last longer on your opponent.
@@ -2778,6 +2792,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
     -   Deals fixed damage per weapon type.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
+-   Silent cascade \[Oath Talent, Silentheart Exclusive\] - can someone help with this part cuz i havent gotten the talent yet thx
 
 ### Silvertongue
 
@@ -3571,6 +3586,14 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest.
     -   Unlike all other core attribute unbounds, Agility Unbounded grants Mercy Kill upon rejoining.
     -   Prerequisite: 75 Agility
+
+### Withered Flame
+
+-   Ash Ember \[Common Talent, Flamecharm Exclusive\] - The more wither your opponent has, the more damage your burn deals.
+    -   Prerequisites: 90 Flamecharm, 90 Weapon
+
+-   Scorching Delay \[Common Talent, Flamecharm Exclusive\] - The wither dealt from your Emperor's Flame is massively increased.
+    -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon
 
 ### [Oath](Oaths.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 159131
+revid: 159719
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -663,8 +663,10 @@ Shadow
 -   Has 9.178x PVP scale (31.1 DMG PVP, 285.46 PVE)
 -   While submerged you have I-Frames.
 -   You can't block, parry, or jump while submerged.
+-   Pressing M1 sends you out early and pressing M2 causes you to walk and run normally for the rest of the mantra.
 -   NPCs can spot you underground.
 -   Shares a cooldown with [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow).
+-   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow) Shade step will not force the user out of the mantra if they're near someone.
 -   Can't be modified.
 
  |

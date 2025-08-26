@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 159625
+revid: 159775
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -232,8 +232,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
   <td><div><p>Applies <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Critical or Flourish.<br>
-  Solar Mark lasts 8 seconds, and reduces Tempo gain/Ether regeneration.<br>
-  If you hit a marked enemy with a <a href="Combat_Mechanics.md">Vent</a>, steal their Tempo to refund your Vent's Tempo cost, removing your Solar Mark. This effect also procs on <a href="Imperator's_Fury.md">Imperator's Fury</a>'s Vent.</p></div></td>
+  Solar Mark lasts 8 seconds and reduces Tempo gain/Ether regeneration.<br>
+  If you hit a marked enemy with a <a href="Combat_Mechanics.md#tempo">Vent</a>, steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo. This effect also procs on <a href="Imperator's_Fury.md">Imperator's Fury</a>'s Vent.</p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
 </tr>
 <tr>

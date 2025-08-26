@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 147751
+revid: 159716
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -15,8 +15,6 @@ A beacon calling out from the Void to the Last Dead above. Dreams are so frequen
   
 
 Moon's Eyrie is a non-static Drifting Island type Location in Deepwoken found in the [Voidsea](Voidsea.md), located in the Eastern Luminant approximately to the east of the map's compass.
-
-Center of the island
 
 ## Overview
 

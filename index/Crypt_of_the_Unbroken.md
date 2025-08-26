@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 149662
+revid: 159698
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -9,8 +9,6 @@ categories: [Locations, Voidzones]
 # Crypt of the Unbroken
 
 Template:Location2
-
-Template:Areainfobox
 
 The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found at the top of [Minityrsa](Minityrsa.md).
 

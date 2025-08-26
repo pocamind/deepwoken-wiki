@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Wilds
-revid: 144500
+revid: 159695
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, The Depths]
@@ -14,11 +14,6 @@ Deep cavern walls painted with the serene glow of starlight emanating from a cit
 
   
 
-## Points of Interest
-
--   Naerotiv
--   Plath
-
 ## Contents
 
 Kyrsan Wilds is a sub-location to [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), located in the Second Floor of the Second Layer. It's a small location with one of five obelisks, that are used to open gate and halt time in Second Floor. With a certain chance a pink chest with Kyrsan medallions spawns near to Naerotiv. Kyrsan Wilds is being defended by artillery. If you are spotted by it, you will be fired at for 20–30 seconds with ice spears.
@@ -31,7 +26,7 @@ Be warned that the wilds are above a dangerous void, and due to the usage of smo
 
 ## NPCs
 
--   Naerotiv
+-   [Naerotiv](Naerotiv.md)
 -   [Plath](Plath.md)
 -   [Kennith](Kennith.md)
 -   [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md)

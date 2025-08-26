@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 153343
+revid: 159693
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -33,17 +33,17 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 ## Points of Interest
 
-#### Camp
+### Camp
 
 -   Players can find [Friid](Friid,_Master_of_Gale.md), a Celtor [spelltrainer](Attunement_Trainers.md) who can upgrade your [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 -   Players can find a permanent [campfire](Campfire_Pit.md) here.
 -   Player can buy [Pathfinder Cloak](Pathfinder_Cloak.md) outfit inside the tent.
 
-#### Inn
+### Inn
 
 -   Players can spend 5 to change their spawn location.
 
-#### Mantra Shop
+### Mantra Shop
 
 -   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for 25 each.
 -   Players can find the [Barber](Barber.md), who can change your looks.
@@ -55,12 +55,12 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 The wall
 
-#### Bank & Antiquarian
+### Bank & Antiquarian
 
 -   Players can find a Banker who they can turn in [artifacts](Artifacts.md) to.
 -   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 
-#### [Mantra Collector](Mantra_Collector.md)
+### [Mantra Collector](Mantra_Collector.md)
 
 -   Players can find Cumberland, a [Canor](Canor.md) who will buy your [Mantra Modifiers](Mantra_Modifiers.md) and [Gems](Treasures.md).
 

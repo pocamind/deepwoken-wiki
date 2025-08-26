@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 159448
+revid: 159737
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -109,7 +109,6 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying.
     -   By jumping, you allow your clones to use the aerial variant of attacks with Reality Shift.
     -   Despite block/parry/dodge sfx/vfx appearing, vents will still delete clones that successfully defend them. (Outranging vents however, works)
-    -   Your clones will also vent when you vent, even if you don't have enough Tempo, are on vent cd, or are stunned in an animation. (Intentional)
 
 ### Mantras
 
