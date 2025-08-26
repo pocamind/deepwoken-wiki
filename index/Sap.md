@@ -1,6 +1,6 @@
 ---
 title: Sap
-revid: 147187
+revid: 159927
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy]
@@ -37,4 +37,4 @@ For more information, you can read [Food](Food.md).
 
 -   Sap cannot be found during the Winter.
 -   The model when you are holding sap is just a translucent, orange block.
--   Sap can be harvested on the main tree in [Greathive Aratel](Greathive_Aratel.md).
+-   Sap can be harvested on the main tree in [Greathive Aratel](Greathive_Aratel.md), trees around [Etris](Etris.md), trees in [Miner's Landing](<Miner's_Landing.md>), and many other areas. Basically, any area with trees has a chance for sap to spawn.

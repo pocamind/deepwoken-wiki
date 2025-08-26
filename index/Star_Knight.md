@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 152667
+revid: 159924
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through the [Resonant Dawn](Random_Encounters.md), guarding the celestial meteor it arrived from. The Star Knight will drop a single guaranteed Astral Enchant Stone upon death. This is one of the few ways to obtain them, alongside the Moon Knights at the Moon's Eyrie island, and the [Weird Trader](Weird_Trader.md). Similar to it's normal Stone Knight counter parts, the Star Knight can swim.
+Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knight.md), and are similar to [Moon Knights](Moon_Knight.md). Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through the [Resonant Dawn](https://deepwoken.fandom.com/wiki/Random_Encounters#Resonant_Dawn), guarding the celestial meteor it arrived from. The Star Knight will drop a single guaranteed Astral Enchant Stone upon death. This is one of the few ways to obtain them, alongside the Moon Knights at the Moon's Eyrie island, and the [Weird Trader](Weird_Trader.md). Similar to it's normal Stone Knight counter parts, the Star Knight can swim.
 
 ## **Moveset**
 
@@ -110,7 +110,10 @@ A Stone Knight executes the player:
 
 ## Trivia
 
--   Previously was called "Michael"
 -   Immortal Guardians will attack Star Knights.
--   Star Knights talk when they commence combat with a player. It will say "OUTSIDE INTERFERENCE PROBABLE." followed by "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT.", in a similar matter as a [Hive Construct](Hive_Construct.md) would.
+-   Star Knights talk when they commence combat with a player. It will say "OUTSIDE INTERFERENCE PROBABLE." followed by "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT.", in a similar matter as a [Hive Construct](Hive_Construct.md) would.[\[1\]](#cite-note-1)
 -   The [Moon Knight](Moon_Knight.md) appears to be a mirrored counterpart of the Star Knight.
+
+## Navigation
+
+1.  [↑](#cite-ref-1)

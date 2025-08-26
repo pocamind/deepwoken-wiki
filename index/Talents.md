@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159899
+revid: 159915
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -284,7 +284,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
     -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
-        -   Because Flame Within's mobility buff is a flat increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#abilities) or [Iron Skin](Ironsing.md#iron-skin).
+        -   Because Flame Within's mobility buff is a flat increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) or [Iron Skin](Ironsing.md#iron-skin).
     -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
     -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
@@ -338,25 +338,25 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
 -   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
-    -   Allows your Air Dash to go much farther while in [Arc Suit](Oath%253A_Arcwarder.md).
+    -   Allows your Air Dash to go much farther while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
     -   Allows the user to M1 while performing a dash, ending their dash early.
     -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
 
 -   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive - When blockbroken with Arc Suit active, eject from the armor.
-    -   When block broken you instantly eject from your [Arc Suit](Oath%253A_Arcwarder.md) preventing the guard break stun.
+    -   When block broken you instantly eject from your [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) preventing the guard break stun.
     -   Upon exiting the Arc Suit posture is set to 50%
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Guard - \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
-    -   While in [Arc Suit](Oath%253A_Arcwarder.md), blocking prevents Spine Cutter from proccing and grants 360 block to all attacks.
+    -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), blocking prevents Spine Cutter from proccing and grants 360 block to all attacks.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
-    -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md).
+    -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
-    -   Press N to toggle enchants for both yourself and your opponent while in [Arc Suit](Oath%253A_Arcwarder.md).
+    -   Press N to toggle enchants for both yourself and your opponent while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 ### Artisan
@@ -1969,7 +1969,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   [**Oath: Linkstrider**](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
--   **Entropy Link** \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
+-   Entropy Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
     -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   Six meteorites can be located throughout the overworld:
@@ -1983,7 +1983,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
     -   Prerequisites: [Oath: Linkstrider](Oath%253A_Linkstrider.md), Kill 1 player with an [Oath](Oaths.md) OR speak to [The Entropy Catalyst](The_Entropy_Catalyst.md) and spend 10 to instantly progress your Oath (requires you to have fully progressed Linkstrider previously).
 
--   **Symbiotic Link** \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
+-   Symbiotic Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
     -   Blue Cords (Allies) gain a speed boost, 20% damage resistance, and a 5% damage increase.
     -   Red Cords (Enemies) gain a minor speed debuff.
     -   This ability only can be used to a humanoid npcs and players.
@@ -2989,7 +2989,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   [**Oath: Starkindred**](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
--   **Death From Above** \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
+-   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
     -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
     -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals moderate Slash damage and posture damage per hit.
@@ -3151,13 +3151,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### The Emperor's Blade
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
-    -   Does not proc the Talent "Dazing Finisher".
-    -   Deals 15 damage, 25 Wither, and sets the victim and anyone nearby on fire.
-    -   Lasts for ~11s, and has a 30s cd. You must wait 2s (the duration of Burn Immunity) before being able to gain another stack.
-    -   To clear up confusion, you can only extinguish (consume) self-inflicted flames.
-    -   If this Talent is on cd, you will not consume flames, and proc burn on yourself normally.
-    -   Will not proc on knocked NPCs/players, but can gain stacks from them.
-    -   Due to a bug (most likely) with Agitating Spark, you can gain a stack by setting a non-burning person aflame (even yourself by using Flame Within). Because of this, if your next M1/critical attack were to burn on hit or hit someone who is already burning, you could immediately proc the explosion with only 4 stacks (Agitating Spark seems to proc itself twice before damage is dealt (?) (trying to burn someone who is already on fire with a mantra or using Flame Within next to someone apparently gives double the stacks).
+    -   Emperor flame **only** consumes (extinguishes) and gains stacks from burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, your self applied burn will not be consumed.
+    -   The Emperor Flame status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
+    -   Landing a basic attack while you have the Emperor Flame status effect will proc the flourish, dealing 15 Flamecharm damage, 25 Wither damage, and applying burn to the victim and anyone else nearby. This cannot proc on knocked enemies and does not proc Dazing Finisher.
+    -   There is a 2 second cooldown for stack gain.
+    -   You can gain stacks while you are on fire, making Emperor Flame incredibly beneficial to Flame Within builds.
     -   Prerequisites: Agitating Spark, 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
@@ -3280,11 +3278,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
         -   For example, a 5 hit multihit critical will only gain a 4% damage bonus from Manipulator as it only procs once and then goes on cooldown.
         -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
-        -   The following assumes your critical deals the same amount of damage per hit (10 damage per hit for the example calculations) and that you have 60 or higher Charisma:
-            -   If it has **less than 3 hits**, Manipulator will be a **net gain** over Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 = 23 VS Tough Love: 11 + 11 = 22, and 23 > 22.)
-            -   If it has **exactly 3 hits**, Manipulator will be a **net neutral** and will perform the same as Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 + 10 = 33 VS Tough Love: 11 + 11 + 11 = 33, and 33 = 33.)
-            -   If it has **more than 3 hits**, Manipulator will be a **net loss** compared to Tough Love by itself. (e.g. Manipulator + Tough Love: 13 + 10 + 10 + 10 = 43 VS Tough Love: 11 + 11 + 11 + 11 = 44, and 43 < 44.)
-        -   If the damage per hit isn't the same, it depends on how front loaded the critical is in specific.
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
@@ -3993,7 +3986,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
 -   Offensive Recovery: [Ascended Outlaw Set](Ascended_Outlaw_Hat.md) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
     -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will restore your posture.
-    -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md) while in Arc suit.
+    -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md#arc-wave) while in Arc suit.
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 -   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
     -   Upon meeting a 100 damage threshold with Galebreathe and Thundercall Mantras, summon a Storm Strike that deals 40 Thundercall damage.

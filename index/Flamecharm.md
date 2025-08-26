@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 159898
+revid: 159911
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1839,7 +1839,7 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
 
  | 
 
-Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. Causing all Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura.
+Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. All Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura on the Puppets.
 
 The damage buff currently does not work.
 
@@ -1855,7 +1855,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 
  | 
 
-Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet move speed when they get near a burning target.
+Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet movement speed when they get near a burning target.
 
  |
 |  | 

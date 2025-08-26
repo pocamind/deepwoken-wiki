@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 159128
+revid: 159905
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -118,15 +118,15 @@ Lightning
 **Effect:** _Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user._
 
 -   Deals 20/22/24/26/28 base damage per level with 2.75 Thundercall scaling.
--   [Magnet Spark](Mantra_Modifiers.md) variant deals 25/27/29/31/33 base damage per level with 2.75 Thundercall scaling.
+-   [Magnet Spark](Mantra_Modifiers.md#sparks) variant deals 25/27/29/31/33 base damage per level with 2.75 Thundercall scaling.
 -   Deals 5 posture damage regardless of spark variant.
 -   Magnet Spark variant has a windup of 0.5 seconds.
 -   Has a 10 second cooldown.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
     -   Magnet Spark variant activates only when the cursor is locked onto a target.
     -   Knockdown is removed from the Magnet variant.
--   Jolt Grab can be modified with [Crystal](Mantra_Modifiers.md)/[Perfect Lenses](Mantra_Modifiers.md) to increase the distance travelled/AoE hitbox.
+-   Jolt Grab can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the distance travelled/AoE hitbox.
 
  |
 | 
@@ -199,7 +199,7 @@ Lightning + Slash
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
 -   Initial hits deal 7/8/9/10/11 base damage per level, per hit (2) with 2.75 Thundercall scaling.
--   The [Magnet Spark](Mantra_Modifiers.md) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
+-   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
 -   Stormcaller Slash deals an additional 12.25/14/15.75/17.5/19.25 base damage per level with 5 Thundercall scaling.
 -   Deals 3 posture damage per initial hit (2), Stormcaller Slash adds an additional 5 posture damage.
 -   10 second cooldown.
@@ -208,7 +208,7 @@ Lightning + Slash
 -   Can be cancelled midway after the first 2 slashes by right-clicking.
 -   At end of Mantra, performs a "**Stormcaller Slash**", a former Talent which is now innate.
     -   Can be canceled by feinting right after the flash of lightning. This puts the Mantra on cooldown for 5 seconds.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
 
  |
 | 
@@ -251,8 +251,8 @@ Lightning + Slash
 -   Projectile moves along where the character is facing.
 -   Shocks opponents inside of it while dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the AoE. However, this will reduced the Mantra's damage.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to conjure up a shocking AoE around the user.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to conjure up a shocking AoE around the user.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
 
  |
 | 
@@ -291,8 +291,8 @@ Lightning + Slash
 -   14 second cooldown.
 -   Deals 38.31 (12.77\*3) DMG, 10 posture, 14s CD
 -   With 6 Songchant 43.2 (14.4\*3) DMG
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to double the amount of projectiles conjured, but halve the damage and posture damage per projectile.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) making the projectiles home towards the target and removing the beams of thunder.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to double the amount of projectiles conjured, but halve the damage and posture damage per projectile.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) making the projectiles home towards the target and removing the beams of thunder.
 
  |
 | 
@@ -337,8 +337,8 @@ Lightning
     -   The health modifications do not affect the second clone if a Multiplying Spark is used.
     -   With 3 Aeon & Eternal Longstones the clones will last for 80 seconds.
     -   The health modifiers are disabled if more than 2 clones are spawned.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the clone to detonate and shock upon hitting a target/death.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to summon an additional clone.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to cause the clone to detonate and shock upon hitting a target/death.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to summon an additional clone.
 
  |
 | 
@@ -381,7 +381,7 @@ Lightning
 -   Applies Knockdown.
 -   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
 -   Can proc _Meteor Impact_
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md), making you move forward a little before slamming down.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), making you move forward a little before slamming down.
 -   Can be easily used to glitch through thin or less than moderate sized walls.
 
  |
@@ -549,7 +549,7 @@ Lightning
 -   Has 0.5 seconds of endlag.
 -   Ragdolls and flings target(s).
 -   Can be given an effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the block while casting.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
 
  |
 | 
@@ -588,7 +588,7 @@ Lightning
 -   Has a cooldown of 12 seconds.
 -   Has a short delay before dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile, but reducing the Mantra's damage.
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
     -   **This increases its cooldown from 12 seconds to 20 seconds.**
     -   Good for isolating a target for a 1v1 situation.
 
@@ -858,8 +858,8 @@ Lightning
 -   Has a wind-up of 0.4 seconds.
 -   Has a cooldown of 14 seconds.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to pull **yourself** to your opponent.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to stun and damage the target instead of pulling them towards the user.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to pull **yourself** to your opponent.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to stun and damage the target instead of pulling them towards the user.
 
  |
 | 
@@ -938,7 +938,7 @@ N/A
 -   30 Second Cooldown.
 -   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
 -   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to speed up the casting and shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to speed up the casting and shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
 
  |
 
@@ -1277,6 +1277,26 @@ Your Jumpstart no longer gives you movement buffs, but your outgoing physical da
  | 
 
 Grants +4 Ether. Removes the speed buffs from Jumpstart, but reduces the self damage on use and increases the damage buffs in return.
+
+ |
+
+**Shock Therapy:**
+
+These Talents are found in the _Shock Therapy_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Grounding Bolt  
+(90 Thundercall, 90 Weapon)
+
+ | 
+
+Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
+
+ | 
 
  |
 

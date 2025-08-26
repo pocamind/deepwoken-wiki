@@ -1,6 +1,6 @@
 ---
 title: Exotic Hide
-revid: 159727
+revid: 159928
 source: https://deepwoken.fandom.com/wiki/Exotic_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,3 +25,4 @@ The **Exotic Hide** is an [Ingredient](Ingredients.md) that drops guaranteed fro
 ## Notes
 
 -   It cannot be sold, [banked](Item_Bank.md), or dropped.
+-   Used to craft champion's cape.

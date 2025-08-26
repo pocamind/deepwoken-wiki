@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 159558
+revid: 159900
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1620,6 +1620,22 @@ Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) cre
 
  | 
 
+Frozen Anchor  
+(100 Frostdraw, 100 Weapon)
+
+ | 
+
+Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
 Frozen Pin-Cushion  
 (60 Frostdraw, Ice Daggers)
 
@@ -1646,6 +1662,24 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
  | 
 
 Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack).
+
+ |
+| 
+
+File:Crystalicon2.png
+
+ | 
+
+Stasis Strike  
+(90 Frostdraw, 90 Weapon, Glass Path: Crystallization)
+
+ | 
+
+Your crystal explosions deal more damage whenever your opponent is also bottom frozen.
+
+ | 
+
+N/A
 
  |
 | 

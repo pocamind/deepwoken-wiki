@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 159895
+revid: 159908
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -119,7 +119,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 | 
 
 **Cyclone Bomb**  
-(★★**☆**)
+(★★☆)
 
  | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
 
@@ -141,7 +141,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  |  |
 | 
 
-**Mindless Servants** (★☆☆)  
+**Mindless Servants** **(★☆☆)**  
 
  | Duke Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
@@ -154,7 +154,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  |  |
 | 
 
-**Vent (★☆☆)**  
+**Vent**  
+**(★☆☆)**
 
  | An explosion of blue ether around the user that pushes opponents away.
 

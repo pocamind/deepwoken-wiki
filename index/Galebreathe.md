@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 159134
+revid: 159901
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1181,6 +1181,26 @@ Create a step of wind below you when jumping in the air. Jumping while sliding d
  | 
 
 N/A
+
+ |
+
+**Maestro's Technique:**
+
+These Talents are found in the _Maestro's Technique_ category.
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | 
+Silencer's Song  
+(100 Galebreathe, 100 Weapon, Silencer's Blade)
+
+ | 
+
+Silencer's Blade now procs on your mantras.
+
+ | 
+
+Landing a Mantra on a [Suffocated](Status_Effects.md#suffocate) opponent will proc Silencer's Blade, extending the duration of the suffocation and granting you a speed boost.
 
  |
 

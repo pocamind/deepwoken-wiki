@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 158585
+revid: 159925
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

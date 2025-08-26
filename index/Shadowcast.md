@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 159719
+revid: 159910
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -876,11 +876,7 @@ Shadowcaster
 
 Harnesss the power of Shadow in your Mantra crafting.
 
- | 
-
-N/A
-
- |
+ |  |
 | 
 
  | 
@@ -892,11 +888,7 @@ Adept Shadowcaster
 
 You can now obtain 1-Star Leveled Shadowcaster Mantras.
 
- | 
-
-N/A
-
- |
+ |  |
 | 
 
  | 
@@ -908,11 +900,7 @@ Expert Shadowcaster
 
 You can now obtain 2-Star Leveled Shadowcaster Mantras.
 
- | 
-
-N/A
-
- |
+ |  |
 | 
 
  | 
@@ -922,13 +910,9 @@ Master Shadowcaster
 
  | 
 
-You can now obtain 3-Star Leveled Shadowcaster Mantras.
+You can now obtain 3-Star Leveled Shadowcaster Mantras. (+5 Health)
 
- | 
-
-+5 Health
-
- |
+ |  |
 | 
 
  | 
@@ -942,7 +926,7 @@ Teleport to a location in exchange for Ether cost. Certain ranges will require a
 
  | 
 
-N/A
+Grants a Talent tool that allows the user to teleport to their cursor's location after a long windup. Takes Ether on teleport with the Ether cost being based on distance traveled, farther distances require a health cost instead. Windup scales on distance traveled.
 
  |
 | 
@@ -965,7 +949,7 @@ N/A
 
  | 
 
-Fear  
+Fear the Dark  
 (50 Shadowcast)
 
  | 
@@ -1060,7 +1044,7 @@ Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does
 
  | 
 
-N/A
+Shadowcast Mantras deal 15% more damage at night or in [The Depths](The_Depths.md).
 
  |
 | 
@@ -1108,7 +1092,23 @@ Enter a rifted state when you successfully dodge, where you can't be damaged unt
 
  | 
 
-N/A
+Lasts 1.8 seconds with a 20 second cooldown. Activates at the same time as [Risky Moves](Talents.md#butterfly) and [Ghost](Talents.md#butterfly).
+
+ |
+| 
+
+ | 
+
+Dark Waltz  
+(90 Shadowcast, 90 Weapon)
+
+ | 
+
+Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.
+
+ | 
+
+On weapon guardbreak, steal 50% of your opponent's current Tempo.
 
  |
 | 
@@ -1216,11 +1216,13 @@ Wraith Path: Twisted Puppets
 
  | 
 
-Your Flamecharm Mantras summon puppets of shadow and flame. Your flames are now black.
+Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
 
  | 
 
-N/A
+Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
+
+Puppets deal 20 _typeless_ damage with no innate investment scaling and 11 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
 
  |
 |  | 
@@ -1234,7 +1236,7 @@ Your puppets can now inflict burn and fire-based Talents when they explode.
 
  | 
 
-N/A
+Gives your Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm. Additionally, your Puppets apply Puppet Burn on hit, allowing them to spawn more Puppets.
 
  |
 |  | 
@@ -1248,7 +1250,9 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
 
  | 
 
-N/A
+Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. All Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura on the Puppets.
+
+The damage buff currently does not work.
 
  |
 |  | 
@@ -1262,13 +1266,13 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 
  | 
 
-N/A
+Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet movement speed when they get near a burning target.
 
  |
 |  | 
 
 Burning Sacrifice  
-(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast, Emperor Flame)
+(Wraith Path: Twisted Puppets, Emperor Flame)
 
  | 
 
@@ -1276,7 +1280,9 @@ Sacrifice puppets who have been alive for half of their lifetime and burn purple
 
  | 
 
-Gain +4% damage per puppet sacrificed for 6 seconds (caps at 12%), a speed boost for 6 seconds, and 1 Emperor Flame Stack per puppet sacrificed.
+Burning Sacrifice is an active ability in the form of a Talent tool. On use, you Gain +4% damage (caps at 12%), a speed boost, and 1 Emperor Flame Stack per Puppet sacrificed. These buffs last 6 seconds.
+
+Puppets turn purple if they've been alive for 15 seconds, signifying that they only have 10 seconds left to live.
 
  |
 
