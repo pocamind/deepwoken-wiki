@@ -1,9 +1,9 @@
 ---
 title: "Duke Erisia's Laboratory"
-revid: 157718
+revid: 159678
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Laboratory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Dungeons, Etrean Luminant]
+categories: [Stub pages without reason, StubPages, Locations, Dungeons, Etrean Luminant]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -16,7 +16,7 @@ What was stolen from below lies within.
 
   
 
-File:First room in Dungeon of Dukes Manor.png
+## Overview
 
 Duke Erisia's Laboratory consists of a small interlude hall where you fight [Golem Primes](Golem_Prime.md) and [Mindless Servants](Mindless_Servant.md), and the arena where the player fights [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). You can enter this area by going through [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and descending down through the elevator.
 

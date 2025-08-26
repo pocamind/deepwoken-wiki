@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 159623
+revid: 159641
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,9 +48,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath armor. Oath Armor decreases the damage received from the Oath damage type,[\[1\]](#cite-note-1).
+This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath armor. Oath Armor decreases the damage received from the Oath damage type[\[1\]](#cite-note-1).
 
-As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath. Unless seen in a [Bounty Board](Bounty_Hunting.md).
+As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath.
 
 ## Abilities
 
@@ -58,7 +58,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 
 -   **Oath Armor** - Oathless grants 20% Oath armor.
     -   This does not work on every Oath ability, as not all of them deal Oath damage in general.
-    -   Due to this being **armor** instead of **resistance**, PEN will affect it.
+    -   Due to this being "**armor**" instead of "**resistance**", PEN will affect it and it will be tied to your armor value, being deactivated if your armor is broken.
     -   Oath attacks with multiple damage types will effectively bypass your Oath armor because the game will take your highest applicable armor resistance and apply that for damage calculation. For example, if you have over 20% Physical resistance, you'll resist [Bladeharper](Oath%253A_Bladeharper.md) attacks based on your Physical resistance rather than your Oath resistance.
 
 ## Talents
@@ -76,6 +76,15 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
     -   Your basic attacks will apply the following [status effects](Status_Effects.md): Burn, Shock, Chill, Winded, and Shadow.
     -   Prerequisites: Oathless, Chorus of Souls
 
+## Mantras
+
+### Combat Mantras
+
+After obtaining both of the Oathless exclusive Talents from the Sage of Wisps Talent category and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to obtain the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.**
+
+-   **Soul Beam** - WIP
+    -   This Mantra is currently unobtainable due to a bug.
+
 ## Trivia
 
 -   The first Oath to be released in the game.
@@ -89,12 +98,13 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 -   Developer intentions behind the design of Oathless have historically been divisive.
     -   Prior to Verse 2, they stated that Oathless was canonically the strongest Oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.
     -   More recently, it was supposedly stated to be a "seatwarmer" with the justification being they would like to create enough Oaths such that Oathless becomes redundant—a comment that was received negatively by the community due to its quest being more tedious than other Oaths. Regardless of its intended obsolescence, it still receives balance and QoL changes.
--   It is one of the Oaths that can be resworn should you wish for [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) to remove it.
--   Oathless will give you echoes for an Oath upon wiping. (Which playered abused to farm echoes and even make macros to autofarm echoes which caused the devs to add a 10 minute requirement to the Oath)
+-   Oathless is the first, and currently only Oath that has non-Oath Talents and Mantras that stem off of it. Two Talents within the [Sage of Wisps](Talents.md#sage-of-wisps) Talent category as well as a combat Mantra that requires said Talents are entirely exclusive to the Oathless Oath despite not technically being Oath Talents/Mantras.
+-   Oathless counts for the "Obtained Oath" [Echo](Echoes.md) Triumph.
+    -   Because Oathless could be obtained so quickly with the [Ignition Delver](Ignition_Delver.md) Origin, this was a very good Echo farm method for a few months after it's discovery. This Echo farm was effectively removed however when someone made a macro to do it overnight, which forced the developers to step in and change Oathless' requirement to have 10 minutes of playtime. 10 minutes of playtime might not seem like that much of a nerf to the Echo farm as a whole, but this method was only good due to how quickly it could be performed as it did not give nearly as much Echoes as other, older methods.
+    -   Because the requirement is entirely playtime based, it is still possible to macro the Oath's obtainment for Echoes. And while the rates are much worse, the fact that you are still able to macro it has made the change have the reputation of no more than a band-aid fix within the community.
 -   A bit of an oxymoron, because by being Oathless, you therefore have an Oath.
 -   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.
     -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"
--   If you obtained Oathless on a past file, you can simply talk to [Cerulean](Cerulean.md) to obtain it, allowing you to skip the quest.
 
 ## References
 

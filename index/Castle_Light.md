@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 153838
+revid: 159665
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -16,11 +16,7 @@ A hidden operating base for the Divers of the First Layer, where many apprentice
 
   
 
-  
-
-**Castle Light** is a location belonging to [The Divers](The_Divers.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md).
-
-It is a starting location for those using the [Deepbound](Origins.md) origin.
+**Castle Light** is a location belonging to [The Divers](The_Divers.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md). It is a starting location for those using the [Deepbound](Origins.md) origin.
 
 ## Overview
 

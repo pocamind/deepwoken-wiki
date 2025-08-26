@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 155786
+revid: 159688
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -14,7 +14,6 @@ What will become of us?
 
   
 
-  
 **Fragments of Self** is a location in _Deepwoken_. It is a sub-location in [The Depths](The_Depths.md).
 
 ## Overview

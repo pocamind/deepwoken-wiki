@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 157357
+revid: 159667
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -330,6 +330,7 @@ Blunt
 
 -   Shares a cooldown with [Shade Step](Shadowcast.md#shade-step) and [Sanguine Dive](Bloodrend.md#sanguine-dive).
 -   Deals 39 damage with 2 songchant, probablly has a base unmodified damage of 35
+-   After ~3 seconds, or when you're near someone, burrow out of the ground.
 
  |
 

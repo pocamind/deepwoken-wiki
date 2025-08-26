@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 152350
+revid: 159631
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -22,7 +22,8 @@ Template:Creature Infobox V3
 | Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
 | Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
 | Glare | The Angel's eyes light up, stunning anyone facing them if it isn't parried/blocked. | ◯ | ◯ | (★☆☆) |
-| Dash | Quickly dashes a long distance, purely for mobility. | ✗ | ✗ | (☆☆☆) |
+| Gaze | A swirling symbol appears around the Angel's eyes, causing a insanity shiver effect while they look at you. | ✗ | ◯ | (★★☆) |
+| Dash | Quickly dashes a long distance, purely for mobility. | N/A | N/A | (☆☆☆) |
 | **Light Piercer** | Rises into the air and shoot 5 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
 
 ## Passive
@@ -32,3 +33,4 @@ Template:Creature Infobox V3
 ## Trivia
 
 -   Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.
+-   Gaze can effect the other Angel if they walk in front of the other while it's active, sometimes giving you a few free hits.

@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 155789
+revid: 159689
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -15,6 +15,7 @@ TERRITORY OF The Central Authority
 Once a prison at the edge of Etrean influence, now a forward base for the Authority.
 
   
+
 **Fort Merit** is a location in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
@@ -39,7 +40,7 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 -   The Etrean Guardsmaster can be found off the shore in a dinghy.
 -   Training gear can be found in the guild hall
 
-### Detainment Core
+### Merit Detainment Core
 
 -   Dungeon within the prison of Fort Merit
 -   Location for unlocking [Imperium Kata](Imperium_Kata.md)

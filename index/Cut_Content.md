@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 159408
+revid: 159649
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -79,7 +79,8 @@ This page is about content that has either been removed or changed drastically i
     -   They were however brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
 -   **[Isopods](Horseshoe_Crab.md) -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the June 9th, 2025 update due to lore reasons, in which they had no real reason to exist. Their enemy spawns were replaced with [Nightmare Threshers](Nightmare_Thresher.md).
--   **Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
+
+**Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
 
 ## Talents
 
@@ -313,6 +314,8 @@ This page is about content that has either been removed or changed drastically i
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
 -   **Stormcaller -** An NPC in earlier versions of the game would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
+
+-   **Broodlord's Muddtoss** - A move, used by [**Muddskipper Broodlord**](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
 
 ## Mystic
 

@@ -1,6 +1,6 @@
 ---
 title: Mushroom Bisque
-revid: 159313
+revid: 159638
 source: https://deepwoken.fandom.com/wiki/Mushroom_Bisque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -11,7 +11,7 @@ categories: [Food, Items]
 | Mushroom Bisque | |
 |---|---|
 | weight | 2 |
-| stack | x?? |
+| stack | x20 |
 | type | Food |
 | food type | Meat |
 | stomach | 30% |

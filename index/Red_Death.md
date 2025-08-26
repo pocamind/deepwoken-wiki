@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 157027
+revid: 159663
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple Criticals, "Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, Multiple
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ministry Heartspiller, Sold in Traan Zakshun's black market for 8 |
+| obtainment | Ministry Heartspiller, Sold in Traan Zakshun's black market for 6-8 |
 | description | Tool of the Ministry Heartbleeders, a covert cell under the 2nd Prophet's authority who gather information through ruthless interrogation tactics. Imbued with a hybrid meter of two separate verses of the Song, it utilises Bloodrend to remove all organic traces, and Shadowcast to remove all traces of ether. Even the metal itself is oleophobic, rejecting organic oils and fluids, so the spear itself carries no prints or traces. |
 
 ## Description

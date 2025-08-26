@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 158790
+revid: 159658
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant]
@@ -27,20 +27,12 @@ This island is recommended for those [Power Level](Power.md) 1 through 10 for gr
 ### Named
 
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
+-   [Path's Respite](<Path's_Respite.md>)
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 
 ### Unnamed
 
--   **Bandit Settlement**
-    -   A small village settled by [Bandit Captains](Bandit_Leader.md).
-    -   Has a free Pickaxe (it's not theft if you're stealing from thieves).
-    -   Has a Lumber Axe that costs 6.
-    -   Has a permanent campfire in the middle.
-    -   Two spider eggs, with set spawns inside the houses.
-    -   Nine Bandit Leaders within the Bandit Settlement: one on the guard tower, one inside the house, two facing the path, one facing the campfire, two on the bottom and upper layer of the rooms carved into the mountains, and another two on the opposite side. Killing all of them will reward you a chest.
-    -   Very good place to grind EXP, especially as a low level.
-    -   Recommended level: 1-6
--   **Ruins Camp**
+-   Ruins Camp
     -   A small, ruined Blackstone tower between the entrance and the Bandit Village, acts as a point for Bandit Camp events to take place and has a permanent campfire.
     -   Has a permanent campfire.
     -   Two Bandits and one Bandit Leader are always to spawn there as a event.

@@ -1,9 +1,9 @@
 ---
 title: Zephyr Lotus
-revid: 135774
+revid: 159653
 source: https://deepwoken.fandom.com/wiki/Zephyr_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients]
+categories: [Items, Ingredients, Harvestables]
 ---
 
 # Zephyr Lotus

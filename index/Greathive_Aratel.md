@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 153537
+revid: 159690
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -16,7 +16,6 @@ The stirring of life of all kinds fills the air as you enter the shade of the ca
 
   
 
-  
 **Greathive Aratel** is a location in _Deepwoken_. It is a settlement in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview

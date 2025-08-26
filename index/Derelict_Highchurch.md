@@ -1,6 +1,6 @@
 ---
 title: Derelict Highchurch
-revid: 148166
+revid: 159671
 source: https://deepwoken.fandom.com/wiki/Derelict_Highchurch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

@@ -1,9 +1,9 @@
 ---
 title: Miasmic Lotus
-revid: 135218
+revid: 159656
 source: https://deepwoken.fandom.com/wiki/Miasmic_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients]
+categories: [Items, Ingredients, Harvestables]
 ---
 
 # Miasmic Lotus

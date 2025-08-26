@@ -1,6 +1,6 @@
 ---
 title: Deep Thresher Nest
-revid: 138844
+revid: 159670
 source: https://deepwoken.fandom.com/wiki/Deep_Thresher_Nest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

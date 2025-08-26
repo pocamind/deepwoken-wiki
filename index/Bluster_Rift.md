@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 156573
+revid: 159661
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]

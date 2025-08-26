@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 159310
+revid: 159637
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -11,7 +11,7 @@ categories: [Food, Items]
 | Mushroom Omelette | |
 |---|---|
 | weight | 2 |
-| stack | x?? |
+| stack | x20 |
 | type | Food |
 | food type | Plant |
 | stomach | 35% |

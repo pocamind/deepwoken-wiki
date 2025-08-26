@@ -1,6 +1,6 @@
 ---
 title: Cathedral of Ethiron
-revid: 145264
+revid: 159666
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2]
