@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 159933
+revid: 160038
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1686,7 +1686,7 @@ Slash
  |
 | 
 
-**Effect:** _User locks onto all the closest targets that are in range then dashes forward and performing a large AoE slice._
+**Effect:** _User locks onto all the closest targets that are in range, then dashes forward and performs a large AoE slice._
 
 -   Deals 9/17/25/33/41 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 159974
+revid: 160037
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -88,7 +88,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
  | 1 | Modifying a [Mantra](Mantras.md). |
 | 
 
- | 1 | Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md). |
+ | 1 | Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md). (except for pure iron) |
 | 
 
  | 1 | Winning [Chime of Conflict](Chime_of_Conflict.md) match. |

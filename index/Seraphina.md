@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 160005
+revid: 160034
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -44,11 +44,6 @@ Seraphina's Serendipitous Wares
   <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Fishing Rod</div><div><i>A simple rod for reeling in fish to eat.</i></div></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Leather Boots</div><div><i>Sturdy leather boots to protect your feet.</i></div></td>

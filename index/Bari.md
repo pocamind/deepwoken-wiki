@@ -1,6 +1,6 @@
 ---
 title: Bari
-revid: 157612
+revid: 160043
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -38,43 +38,35 @@ Bari is located at the docks in [Isle of Vigils](Isle_of_Vigils.md) leaning agai
 </tbody>
 </table>
 
-### Shop UI
+## Shop
 
 Bari's Bare Essentials
 
 <table>
 <tbody>
 <tr>
-  <td><center><figure><figcaption></figcaption></figure>[Item price] <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>[Item name]</div><div><i></i></div></td>
-</tr>
-</tbody>
-</table>
-
-  
-
-## Shop
-
-### 
-
-Sold Items
-
-<table>
-<tbody>
-<tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><b>For 30 </b>: <a href="Fishing_Rod.md">Fishing Rod</a></li>
-    <li><b>For 3 </b>: <a href="Flint.md">Flint</a>,<a href="Pickaxe.md">Pickaxe</a>,<a href="Lumber_Axe.md">Lumber Axe</a>.</li>
-  </ul></td>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Lumber Axe</div><div><i>A sturdy axe for felling trees.</i></div></td>
 </tr>
 <tr>
-  <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td>
-  <ul>
-    <li><b>For 30 </b>: <a href="Leather_Gloves.md">Leather Gloves</a>,<a href="Leather_Boots.md">Leather Boots</a>.</li>
-  </ul></td>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Pickaxe</div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Fishing Rod</div><div><i>A simple rod for reeling in fish to eat.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Leather Boots</div><div><i>Sturdy leather boots to protect your feet.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Leather Gloves</div><div><i>Durable leather gloves to protect your hands.</i></div></td>
 </tr>
 </tbody>
 </table>

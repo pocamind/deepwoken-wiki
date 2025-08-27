@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 153284
+revid: 160041
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,7 +26,7 @@ A Lost Diver's arsenal consists of a [Markor's Inheritor](<Markor's_Inheritor.md
 Assault  
 (★☆☆)
 
- | Firmly swings blade at opponent before finishing up the combo by kicking them.  
+ | The Lost Diver firmly swings blade at opponent before finishing up the combo by kicking them.  
 
 Parryable:◯  
 Blockable:◯  
@@ -38,7 +38,7 @@ Dodgeable:◯
 Critical  
 (★★☆)
 
- | Raises right leg before firmly slamming it down into the ground below.  
+ | The Lost Diver raises right leg before firmly slamming it down into the ground below.  
 
 Parryable:◯  
 Blockable:✗  
@@ -50,7 +50,19 @@ Dodgeable:◯
 Gale Lunge  
 (★★☆)
 
- | Lost Diver lunges forward with their weapon coated in wind.  
+ | The Lost Diver lunges forward with their weapon coated in wind.  
+
+Parryable:◯  
+Blockable:◯  
+Dodgeable:◯
+
+ |  |
+| 
+
+Prominence Draw  
+(★★☆)
+
+ | The Lost Diver locks onto all the closest target that is in their range, then dashes forward and performs a large AoE slice.  
 
 Parryable:◯  
 Blockable:◯  
@@ -82,4 +94,5 @@ A Lost Diver executes it's opponent after knocking them:
     -   Help us. Please.
 -   They only use [Galebreathe](Galebreathe.md), fitting as they are trapped in the Layer 2, The Eternal Gale.
 -   As their outfit and name suggests, these were most likely Divers (specifically Black Divers) who got lost during an expedition into the Second Layer, and lost their sanity.
--   However, they still seem to have some humanity left in them, as they beg the player for help before attacking them.
+    -   However, they still seem to have some humanity left in them, as they beg the player for help before attacking them.
+-   Their death phrase, 'The Drowned shall never know peace.', likely refers to how a human's soul is never truly destroyed, instead shattering and being remolded into new beings such as [Krulians](Krulian.md).
