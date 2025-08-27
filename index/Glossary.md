@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 159989
+revid: 160011
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -192,7 +192,7 @@ Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)| Books: | Glos
 -   The ability to conjure flames and heat through the [Song](#the-song).
 -   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded to histories prior to [Pleeksty's](#amorus-pleeksty) discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
 
-Dialogue: [Amashi](Amashi,_Master_of_Flame.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+Dialogue: [Amashi](Amashi,_Master_of_Flame.md), [Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
 ### Light Hook
 
@@ -408,7 +408,7 @@ Dialogue: | Books: [Operation 'Distant Light' Report](Books.md#operation-distant
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Raen](Raen.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Raen](Raen.md), [Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The Northern Luminant
 

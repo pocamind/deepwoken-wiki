@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 159931
+revid: 160030
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -340,13 +340,13 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   [War Mode](War_Mode.md) (common)
 -   The Aegis Gem isn't obtained from any of the above sources, it's exclusively obtained through completing [The Vat](The_Vat.md)'s trial and then trading a [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) with [The Gaunt Man](The_Gaunt_Man.md).
 -   The Wrath and Might Gems aren't obtained from any other the above sources, it's exclusively obtained from the [Merit Detainment Core](Merit_Detainment_Core.md) dungeon.
--   The Warped Blue Gem is of Relic rarity and is obtained exclusively from [Fishing](Fishing.md).
+-   The Warped Blue Gem is of [Relic](Relics.md) rarity and is obtained exclusively from [Fishing](Fishing.md).
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
 To remove a Deep Gem from your mantra, you need to rest by a campfire, look for the mantra with the Deep Gem in Mantras, and simply press **Unequip**.
 
-<table><caption>There are seven type of Deep Gems, including:</caption>
+<table><caption>There are ten types of Deep Gems, including:</caption>
 <tbody>
 <tr>
   <th>Image</th>
@@ -356,28 +356,28 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Aegis Gem</td>
-  <td>Grants a 10% damage reduction for 10 seconds after landing your Mantra. This effect has a 10 second cooldown.<br>
-  <b>Note: if you have not beaten <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on the character you are using this Gem on, it will not work, this gem is also not bankable nor droppable.</b></td>
+  <td>On hit, Aegis Gem grants the <a href="Status_Effects.md#aegis">Aegis</a> status effect, a 10% damage reduction effect for 10 seconds. This effect has a 10 second cooldown.<p><br>
+  <b>Note: if you have not beaten <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on the character you are using this Gem on, it will not work. This gem is also not bankable nor droppable.</b></p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blessed Gem</td>
-  <td>On hit, reduces the cooldown of the mantra it's on by half. This gem has a cooldown of 5 seconds.</td>
+  <td>On hit, Blessed Gem reduces the cooldown of your Mantra by 50%. This effect has a 5 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Bloodless Gem</td>
-  <td>Damage reduced by 20%. Heal user for 30% of scaled mantra DMG. Has cap of 15 HP, going above that cap puts gem proc on cooldown. This gem has a cooldown of 2 seconds, during cooldown the 20% DMG reduction downside is removed.</td>
+  <td>On hit, heal for 30% of your Mantra's scaled damage, however your Mantra's damage will be reduced by 20%. This healing has a cap of 15 health, exceeding this cap will put the Gem on a 2 second cooldown. While Bloodless is on cooldown, your Mantras will revert back to their original damage.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blue Gem</td>
-  <td>50% ether reduction to the BASE cost of the mantra, 25% reduction to modifier ether costs.<p>This is the only gem that provides a tangible effect to mantras that do not hit enemies.</p></td>
+  <td>Reduces the <b>base</b> Ether cost of your Mantra by 50%. Reduces the Ether cost of Mantra modifiers by 25%.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Insignia Gem</td>
-  <td>The next Mantra you cast within a 3 second timeframe will have a 15% windup reduction. This effect has a 5 second cooldown.</td>
+  <td>On hit, Insignia Gem lowers the windup of the next Mantra you cast by 15%. The Mantra must be cast within a 3 second timeframe to recieve this bonus. This effect has a 5 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -388,22 +388,23 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Warped Blue Gem</td>
-  <td>Grants the <a href="Status_Effects.md#ether-guard">Ether Guard</a> Status Effect on proc. This effect has an 8 second cooldown.</td>
+  <td>On hit, Warped Blue Gem grants the <a href="Status_Effects.md#etherguard">Etherguard</a> Status Effect. This effect has an 8 second cooldown.<p><br>
+  Allows your Mantras to proc the <a href="Bluestone_Pauldrons.md">Bluestone</a> Set Bonus.</p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wayward Gem</td>
-  <td>Puts a mark on the opponent alerting them that they have been tagged by a Wayward Mantra, before teleporting you to them after a second has passed. This effect has an 8 second cooldown.</td>
+  <td>On hit, Wayward Gem applies a mark to your opponent and teleporting you directly to them after a 1 second delay. This effect has an 8 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wind Gem</td>
-  <td>Hitting an enemy with the mantra will increase your speed for 10 seconds, equivalent to the speed buff given after sliding down a slope.</td>
+  <td>On hit, Wind Gem grants a speed boost for 10 seconds. This speed boost is equivalent to that of sliding down a slope. This effect has a 10 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wrath Gem</td>
-  <td>Applies the Wrath status effect on hit, increasing your critical damage (note: currently bugged and does nothing).<p><br>
+  <td>Applies the <a href="Status_Effects.md#wrath">Wrath</a> status effect on hit, increasing your critical damage (note: currently bugged and does nothing).<p><br>
   Allows your Mantras to proc the <a href="Reinforced_War_Helmet.md">Reinforced War</a> Set Bonus, as well as the individual equipment Talents from the <a href="Reinforced_War_Helmet.md">Helmet</a>, <a href="Reinforced_War_Plate.md">Plate</a>, and <a href="Reinforced_War_Boots.md">Boots</a> of the aforementioned set.</p></td>
 </tr>
 </tbody>

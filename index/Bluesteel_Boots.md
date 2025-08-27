@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 155675
+revid: 160024
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -29,6 +29,8 @@ categories: [Items, Equipment, Legs, Boots]
 ## Description
 
 Bluesteel Boots are an [Equipment](Equipment.md) item under the "Boots" category. They can be found most commonly in [Starswept Valley](The_Starswept_Valley.md) chests.
+
+These are used to craft the [Bluestone Boots](Bluestone_Boots.md).
 
 ## Trivia
 

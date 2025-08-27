@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 159374
+revid: 160027
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2806,6 +2806,39 @@ Found from:
 Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
 Legs: [Bluesteel Boots](Bluesteel_Boots.md)
+
+ |
+| 
+
+ | 
+
+[Bluestone Pauldrons](Bluestone_Pauldrons.md)
+
+(**Set**)
+
+ | 
+
+_+5 Health_
+
++2 Rare Pips
+
+_+Talent: Ether Emergency_
+
+_+Set Talent: Etherguard_
+
+**Requires Power 5**
+
+ | 
+
+Found from:
+
+-   Crafting
+
+ | 
+
+Set: Bluestone  
+Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
+Legs: [Bluestone Boots](Bluestone_Boots.md)
 
  |
 | File:Brigand's Cloak.png | 

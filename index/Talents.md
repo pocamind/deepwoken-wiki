@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159963
+revid: 160021
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2817,8 +2817,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
     -   Deals fixed damage per weapon type.
-    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
--   Silent cascade \[Oath Talent, Silentheart Exclusive\] - can someone help with this part cuz i havent gotten the talent yet thx
+    -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once)
 
 ### Silvertongue
 
@@ -3845,6 +3844,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
+-   Ether Emergency: Bluestone Pauldons - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
+    -   Instantly restores a flat amount of health at the cost of all of your Ether, with the health gain scaling on your maximum Ether.
 -   Ether Pinpoint: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
     -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
@@ -3983,6 +3984,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 Certain Talents are given when you equip a full equipment set, though not all equipment sets have unique Set Talents. These Talents are exclusive to that equipment set and are unobtainable by any other means. Set Talents are listed in alphabetical order:
 
+-   Etherguard: [Blustone Set](Bluestone_Pauldrons.md) - Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
+    -   When landing a Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, gain the [Etherguard](Status_Effects.md#etherguard) status effect, granting you resistance to all Mantras. The amount of damage resisted is based on the Mantra's Ether cost.
+    -   Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
 -   Lasting Trauma: [Reinforced War Set](Reinforced_War_Helmet.md) - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
     -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 9 seconds.
     -   Wrath gems have a 10 second cooldown, making this Talent only have a 1 second downtime.
