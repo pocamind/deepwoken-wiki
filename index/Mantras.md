@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 155251
+revid: 159932
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -32,10 +32,6 @@ It is possible to have more Mantras than Mantra slots, but you will not be able 
 ## Combat Usage
 
 Mantras are a key aspect of combat, and it is incredibly important to master the usage of Mantras while fighting to get the edge over your opponent. You can't get very far with just a weapon and skill alone; Mantras can turn the tide of a battle easily and is what makes Deepwoken's combat very deep and engaging, with various mechanics to accompany them.
-
-### Perfect Casting
-
-To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various Talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
 
 ### Mantra Cancelling
 

@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 159109
+revid: 159946
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -35,15 +35,12 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 | --- | --- | --- |
 | 
 **Vehemens Ventus**  
-★
+(★★★)
 
  | The Scion holds its hands together and charges up a powerful attack for ~10 seconds. Once the attack is released, approximately 3 seconds after the charging sfx finishes, a large purple gale ball will be thrown in a player's direction with a loud sound cue. Upon impact, it deals insanely high posture and **Wind** damage. However, it can be easily avoided with an air-dash, **Ghost**/**Shadow Rift**, jumping down a floor, using a waypoint with [Run It Back](Run_It_Back.md) or using [Portals](Portals.md). [Payback](Payback.md), despite not being disabled like other invincibility moves, will not prevent damage from this attack.  
 
 This attack can be cancelled with a group by attacking three small gale balls at the first floor, but is un-recommended due to the time it takes, along with requiring 2 people.  
 This attack is able to be tanked but is not recommended.  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -53,12 +50,9 @@ File:Ethi ult.gif
 | 
 
 **Blinding Gale**  
+(★★☆)
 
  | The Scion charges up it's fist, then fires a blinding ball of gale towards the player. This animation is shared with Pressured Wind, however does a pitiful 1 damage.  
-
-Parryable:◯  
-Blockable:✗  
-Dodgeable:◯  
 
  | 
 
@@ -68,12 +62,9 @@ File:Blinding Gale.gif
 | 
 
 **Pressurized Wind**  
+(★★☆)
 
  | The Scion charges up its arm and releases a purple laser, locking onto a random player and forcing them to parry it. While the damage is punishing if you get hit by the full beam, you should parry it on reaction to taking damage rather than reacting to the animation, as the animation is shared with Blinding Gale.  
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -83,12 +74,9 @@ File:Ethi laser.gif
 | 
 
 **Whiplash**  
+(★★☆)
 
  | The Scion pulls its arm back, then swings at the player. The arm will remain for ~2 seconds after hitting the player, regardless of if it hit or not, leaving the Scion vulnerable for a few hits on parry.  
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:✗  
 
  | 
 
@@ -98,13 +86,11 @@ File:Big fist.gif
 | 
 
 **Bonestaves of Eld**  
+(★★☆)
 
  | The Scion launches three bones per player in a set order. These do medium posture damage per bone and can be blocked or parried. If blocked/parried, the bone will fall onto the floor to be picked up and put into a shrine. If the bone instead hits, does a low amount of damage and will not fall onto the floor. If colliding with a wall, it will instead fizzle.  
 
 This attack always targets the same players in the same order unless someone dies/leaves.  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:✗  
 
  | 
 
@@ -114,13 +100,11 @@ File:Bone Toss.gif
 | 
 
 **Bonegrow**  
+(★☆☆)
 
  | Bones will appear on the ground and grow upwards, this can be used in combination with any other move. If this hits, it will launch you into the air and do low damage, but makes the next hit guaranteed.  
 
 In order to avoid, jump or roll.  
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯  
 
  | 
 
@@ -130,14 +114,11 @@ File:Bone floor.gif
 | 
 
 **Bone Stream**  
-★
+(★★☆)
 
  | Bones will rise from the ground and circle around **a single floor**. Similar to Bonegrow in able to remain active during other attacks, but sends you further, is more constant, does more damage, and is completely unable to be blocked.
 
 To avoid this move, you must jump, or hold the Jump key and leave to another floor.  
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯  
 
  | 
 
@@ -147,8 +128,11 @@ File:Bonestream.gif
 | 
 
 **Debris**  
+(★☆☆)
 
- | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move. These only serve to heal you in the fight via killing them. | 
+ | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move. These only serve to heal you in the fight via killing them.
+
+ | 
 
  |
 

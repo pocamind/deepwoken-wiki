@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 159535
+revid: 159949
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -10,9 +10,9 @@ categories: [Sentient species]
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._
 
-“ I wish you good luck frinwalter.. Should you succeed in whatever it is that you're doing down here, for the sake of my people, set them free.. ”
+“ The strange inhabitants of the Eternal Gale. In contrast to the ferocious beasts that stalk its wastes, the Kyrsans dwell in small villages sheltered from the gale. ”
 
-― Naerotiv on his fellows
+― Glossary description
 
 Template:Creature Infobox V3
 

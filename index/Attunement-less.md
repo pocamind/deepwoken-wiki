@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 159859
+revid: 159933
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1491,7 +1491,7 @@ Slash
 -   M1 during this Mantra to perform the slashes. Performing slashes consumes Ether.
 -   You can right click to cancel the Mantra.
 -   Damage ramps up on each hit.
--   Deals 20/25/30/35/40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
+-   Deals 20 > 25 > 30 > 35 > 40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
 -   After each hit, three damage ticks will follow. These scale on your Mantra's level.
     -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.

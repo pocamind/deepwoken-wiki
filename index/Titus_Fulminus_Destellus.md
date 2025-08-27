@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 159325
+revid: 159951
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -32,27 +32,19 @@ A Khan with great stature, he's around twice the height of the player. He has wr
 | --- | --- | --- |
 | 
 **The Legion's Martial Arts  
-**★
+**(★☆☆)
 
  | Titus firmly swings his fists at his opponent with hyperarmor.
 
 -   These moves are typically slow and can often lead to the player missing a parry.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
-
  |  |
 | 
 
 **Imperator's Fury  
-★**
+**(★☆☆)
 
  | Titus quickly slams down both arms into the ground, knocking players away with a powerful vent.
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -60,16 +52,12 @@ Dodgeable:◯
 | 
 
 **Worldpiercing Deluge  
-★**
+**(★☆☆)
 
  | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
 
 -   This attack can easily be avoided by jumping.
 -   Titus is most likely to follow up with Warp Kick if landed, which can be very problematic if you're ragdolled.
-
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -77,15 +65,11 @@ Dodgeable:◯
 | 
 
 **Worldshattering Smackdown  
-**★★
+**(★★☆)
 
  | Titus winds up with both arms, grabbing the opponent before smacking them into the ground.
 
 -   This move is very similar to Worldpiercing Deluge, in which it shares the same animation.
-
-Parryable:◯  
-Blockable:✗  
-Dodgeable:✗  
 
  | 
 
@@ -93,13 +77,9 @@ Dodgeable:✗
 | 
 
 **Commander's Rage  
-**★★
+**(★★☆)
 
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
-
-Parryable:◯  
-Blockable:✗  
-Dodgeable:✗  
 
  | 
 
@@ -107,16 +87,12 @@ Dodgeable:✗
 | 
 
 **Commander's Whirlthrow  
-**★★★
+**(★★★)
 
  | Titus firmly grabs his opponent, spins around, and sends them flying.
 
 -   Almost always leads to Warp Kick if Titus lands this move.
 -   This attack will autogrip when the player is low.
-
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -124,13 +100,9 @@ Dodgeable:◯
 | 
 
 **Splitting Ascension  
-**★★★
+**(★★★)
 
  | Titus ascends into the air, crashing into the ground and knocking down opponents.
-
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯  
 
  | 
 
@@ -138,15 +110,11 @@ Dodgeable:◯
 | 
 
 **Sovereign Drive  
-**★★
+**(★★☆)
 
  | Titus dashes forward in a blink, knocking down enemies in its path.
 
 -   This move may be used twice or more.
-
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯  
 
  | 
 
@@ -154,16 +122,12 @@ Dodgeable:◯
 | 
 
 **Skycrash  
-**★★
+**(★★☆)
 
  | Titus leaps towards their opponent, stomping and knocking them away when hit.
 
 -   This move may be used twice or more.
 -   This move will briefly stun him if he bashes into a surface.
-
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯  
 
  | 
 
@@ -171,16 +135,12 @@ Dodgeable:◯
 | 
 
 **Wrathful Stomp**  
-★★
+(★★☆)
 
  | Titus slowly winds up before releasing a stomp that sends opponents into the air.
 
 -   This move can be easily avoided by jumping.
 -   Titus is most likely to follow up with Warp Kick if this move is used.
-
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -188,16 +148,12 @@ Dodgeable:◯
 | 
 
 **Warp Kick  
-**★★
+**(★★☆)
 
  | In a flash, Titus warps to a random opponent and kicking them away.
 
 -   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
 -   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
-
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -205,15 +161,11 @@ Dodgeable:◯
 | 
 
 **Blighted Sparks  
-**★★
+**(★★☆)
 
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
 -   Titus will only use this move in his second phase.
-
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
 
  | 
 
@@ -221,7 +173,7 @@ Dodgeable:◯
 | 
 
 **Chorus Divide: Shattering Crescendo  
-**★★★
+**(★★☆)
 
  | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will also be knocked further back.
 
@@ -229,10 +181,6 @@ Dodgeable:◯
 -   These beams are combined with the [Wind-Up](Wind-Up.md) Resonance, proccing every hit, making this move **very deadly**.
 -   While he is winding up, it is best to start running or getting to higher levels to avoid the beams.
 -   THIS WILL INSTANTLY KNOCK YOU IF YOU ARE AGAINST A WALL OR IN A CORNER.
-
-Parryable:✗  
-Blockable:✗  
-Dodgeable:✗  
 
  | 
 
@@ -252,6 +200,8 @@ Dodgeable:✗
     -   **Evading Chorus Divide**: His **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
     -   **Second Phase M1 Attack**: It is important to note that his standard M1 attack string appears to be unparryable during his second phase, though this requires further confirmation. Therefore, it is safer to focus on dodging this attack rather than attempting to parry.
     -   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining your defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use your mantras for ranged damage when necessary.
+    -   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximatly deal 15000 damage which helps out plenty when fighting him **This strategie needs a good understanding of the move's timing and if you fail to do it you will pay a hefty price**  
+        
 
 ## Rewards
 

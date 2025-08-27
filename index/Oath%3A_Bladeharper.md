@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 156433
+revid: 159952
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -97,7 +97,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   Toggle On and Off the True Strength state.
     -   While Reveal's True Strength state, you passively build up [Wither](Status_Effects.md#wither) (reduced max HP) on yourself.
     -   If you go below 10% HP, Reveal will automatically turn off.
-    -   This takes about **4 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
+    -   This takes about **2.5 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
     -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#immolator) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
 -   Obtainment: Obtained after the final Mind Reflection fight.
 
