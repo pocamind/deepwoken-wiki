@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 158840
+revid: 159983
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -323,7 +323,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
 -   Previous king of Constellia.
 -   Apparently he fought against the [Kyrsgarde](Kyrsgarde.md) alongside the [Celestials](Celestial.md) and other [Lightborn](Lightborn.md), but stopped fighting when the [Celestials](Celestial.md) fled, resulting in his capture and imprisonment in [New](Second_Layer/New_Kyrsa.md) [Kyrsa](Second_Layer/New_Kyrsa.md).
--   When the player asks Kaide about his aspect, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
+-   When the player asks [Kaide](Kaide,_the_Drowned_Light.md) about his aspect, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
 -   Apparently he despises the [Celestials](Celestial.md), stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
 -   Kaide has great knowledge of the Song as he knows how the Song manifests through humans and throughout New Kyrsa.
 

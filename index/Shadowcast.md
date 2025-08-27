@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 159910
+revid: 159960
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1109,6 +1109,20 @@ Anytime you guardbreak your opponent with a light attack or critical, steal half
  | 
 
 On weapon guardbreak, steal 50% of your opponent's current Tempo.
+
+ |
+| 
+
+ | 
+
+Night Terror  
+(100 Shadowcast, 100 Weapon, Fear the Dark)
+
+ | 
+
+Your light attacks now proc Fear the Dark.
+
+ | 
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 157145
+revid: 159972
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords, Heavy Weapons]
@@ -41,9 +41,9 @@ Do not be fooled by its visually massive appearance, since it boasts the same ra
 ## Critical
 
   
-For the **standing** critical, the user thrusts their weapon forwards, dealing damage and ragdolling enemies.
+For the **standing** critical, the user thrusts their weapon forwards, dealing damage and ragdolling enemies. Does 1.45x the damage of your M1.
 
-For the **sliding** critical, the user sweep their weapon in a circular motion, dealing area damage. The user can respond with a follow-up M1 while **casting** (and successfully landing) the sliding critical that will cause the user to perform the standard critical immediately afterwards. Do note that enemies will recover in time to parry the follow-up crit.
+For the **sliding** critical, the user sweep their weapon in a circular motion, dealing area damage. The user can respond with a follow-up M1 while **casting** (and successfully landing) the sliding critical that will cause the user to perform the standard critical immediately afterwards. Do note that enemies will recover in time to parry the follow-up crit. The sliding critical by itself does 1.25x more damage than an M1 follows up with an attack that is identical to the normal critical (1.45x more damage than an M1).
 
 The cooldown for the critical is **10 seconds**.
 

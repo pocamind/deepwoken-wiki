@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 159317
+revid: 159990
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -211,6 +211,8 @@ The weapon class the Motif-ed weapon belongs to
 ## Additional Notes
 
 Weapon criticals have their own stats, separate to the weapon they're on. This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
+
+Unique critical Motifs have an additional 0.15s windup before the attack is used. Default weapon type Motifs do not have this issue however.
 
 As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
 

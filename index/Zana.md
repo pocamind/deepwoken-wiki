@@ -1,9 +1,9 @@
 ---
 title: Zana
-revid: 149235
+revid: 160010
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies, Quests, Rings, NPCs located in the Etrean Luminant]
+categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests, Rings]
 ---
 
 # Zana
@@ -12,47 +12,114 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Zana is a Quest NPC that can be found leaning against a wall at the [Isle of Vigils](Isle_of_Vigils.md) docks. He wears a [Royal Pathfinder](Royal_Pathfinder.md) and a [Prophet's Cloak](<Prophet's_Cloak.md>).
+Zana is a [Vesperian](Vesperian.md) NPC who gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
 
-He rewards the player with a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing.
+He wears a [Royal Pathfinder](Royal_Pathfinder.md) and the [Prophet's Cloak](<Prophet's_Cloak.md>) [Outfit](Outfits.md).
 
-As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
+## Location
+
+Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning against a wall.
 
 ## Dialogue
+
+**First Encounter:**
+
+**Quest Start:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="5">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="5">Heh, fear not little adventurer. I'm not going to attack you with fire or anything like that.</td>
+  <td colspan="4">Heh, fear not little adventurer. I'm not going to attack you with fire or anything like that.</td>
 </tr>
 <tr>
   <td colspan="4">You look familiar.</td>
 </tr>
 <tr>
-  <td colspan="3">*They let out a hearty burst of laughter. * Oh, a fan? Good eye, I'm pretty famous up here on the surface. Everyone seems to think I'm an expert Flamecharmer, it scares novice adventurers to bits! But fret not, I recently learned people like you better when you give them things.</td>
+  <td colspan="4"><i>*They let out a hearty burst of laughter.*</i> Oh, a fan? Good eye, I'm pretty famous up here on the surface. Everyone seems to think I'm an expert <a href="Glossary.md#flamecharm">Flamecharmer</a>, it scares novice adventurers to bits! But fret not, I recently learned people like you better when you give them things.</td>
 </tr>
 <tr>
-  <td colspan="2">...</td>
+  <td colspan="4">...</td>
 </tr>
 <tr>
-  <td>Talking while a katana is equipped</td>
-  <td>Talking while a katana is not equipped</td>
+  <td colspan="2">Talking while a katana is equipped</td>
+  <td colspan="2">Talking while a katana is not equipped</td>
 </tr>
 <tr>
-  <td>Heh, as much as I respect your use of the Katana, I need to test you first. I'll be waiting for you in these three locations... if you can defeat me in my natural elements strictly with your blade, I'll reward you.</td>
-  <td>*A moment's pause passes, before they shake their head. * Doesn't seem like you'd benefit from it, though. A shame. If you know anyone with a weapon like mine, which is pretty rare, I might add, I got something that might interest them. Real expensive merchandise here, y'hear me?</td>
+  <td colspan="2">Heh, as much as I respect your use of the Katana, I need to test you first. I'll be waiting for you in these three locations... if you can defeat me in my natural elements strictly with your blade, I'll reward you.</td>
+  <td colspan="2"><i>*A moment's pause passes, before they shake their head.*</i> Doesn't seem like you'd benefit from it, though. A shame. If you know anyone with a weapon like mine, <i>which is pretty rare, I might add</i>, I got something that might interest them. Real expensive merchandise here, y'hear me?</td>
 </tr>
 <tr>
-  <td>Where?</td>
+  <td colspan="2">Where?</td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
-  <td>First, on the island of Etris, the most optimal island for all new adventurers who fear me! Although I'm still not sure why. The campfire there is eternally observed by those Nomads who are quite fond of me. Defeat me, and I'll tell you the next location.</td>
+  <td colspan="2">First, on the island of Etris, the most optimal island for all new adventurers who fear me! Although I'm still not sure why. The campfire there is eternally observed by those Nomads who are quite fond of me. Defeat me, and I'll tell you the next location.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest in Progress:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Player defeats Zana at Etrean Wilds</td>
+</tr>
+<tr>
+  <td colspan="4">Good work. The next location? My second favourite hotspot... The shores of Erisia.</td>
+</tr>
+<tr>
+  <td colspan="4">Player defeats Zana at Lower Erisia</td>
+</tr>
+<tr>
+  <td colspan="4">I'll be heating things up for our next fight. Meet me at the best stomping grounds in the <a href="Glossary.md#the-luminants">Luminant</a>, The Monkey's Paw.</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Player defeats Zana at Monkey's Paw</td>
+</tr>
+<tr>
+  <td colspan="4">Well done. As promised, here's one of the most stylish rings around.</td>
+</tr>
+<tr>
+  <td colspan="4">End, Player receives <a href="Poser's_Ring.md">Poser's Ring</a></td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Never forget the signature pose, my brethren.</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>

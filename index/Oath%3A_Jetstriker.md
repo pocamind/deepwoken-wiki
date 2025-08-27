@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 159571
+revid: 159958
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,7 +32,7 @@ The Oath's powers are attained by vowing to literally flow alongside the Song it
 ## Obtainment
 
 1.  Have at least 50 Agility.
-2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Rogue_Construct.md) beyond the bridge and to the left ridge.
+2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Hive Construct](https://deepwoken.fandom.com/wiki/Golem_Constructs) beyond the bridge and to the left ridge.
 3.  Beat [Alirian](Alirian.md) in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, being away from the yellow marker when [Alirian](Alirian.md) arrives will count as you losing.
@@ -48,19 +48,20 @@ _Jetstriker reobtainment does **not** lock off after [Oathbreaking](https://deep
 
 The location of these orbs are:
 
--   Top of the frozen [Hive Contruct](https://deepwoken.fandom.com/wiki/Golem_Constructs) (Hivelord's) ice pillar, west side of [Minityrsa](Minityrsa.md)'s Frozen Pond.
+-   Top of the frozen [Hive Construct](https://deepwoken.fandom.com/wiki/Golem_Constructs) (Hivelord's) ice pillar, west side of [Minityrsa](Minityrsa.md)'s Frozen Pond.
     -   Step by step guide:
-        -   Take out your map, align yourself directly west after completing [Alirian](Alirian.md)'s race.
-        -   After crossing the lake, you'll see the [Hive Contruct](https://deepwoken.fandom.com/wiki/Golem_Constructs) marking the ice pillar near some water.
+        -   Take out your map, align yourself directly west after completing [Alirian](Alirian.md)'s race, cross the lake.
+        -   After crossing the lake, near some water, you'll find a frozen [Hive Contruct](https://deepwoken.fandom.com/wiki/Golem_Constructs) marking the ice pillar.
         -   Orb is at the top of that pillar.
-    -   Map guide: Directly underneath the second "i" in Min\[i\]tyrsa (Zoom fully to align)
+    -   Map guide: Directly underneath the second "i" in the Min\[i\]tyrsa label (Zoom fully to align)
 -   Top of the rooftop of the large red [Etris Palace](https://deepwoken.fandom.com/wiki/The_King%27s_Garden).
     -   Step by step guide:
-        -   Open your map, locate the [Palace Garden](https://deepwoken.fandom.com/wiki/The_King%27s_Garden). (Do not enter the [Palace](Etris_Palace.md), you will most likely die unprepared)
+        -   Open your map, locate the [Palace Garden](https://deepwoken.fandom.com/wiki/The_King%27s_Garden). (Do not enter the [Palace](Etris_Palace.md), you will die unprepared)
         -   Take the stairs up to the [\[1\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)Palace, avoid the main gate to sneak past the guards.
-        -   Circle around the outside to the right, and climb onto the castle without falling inside.
-        -   Orb is at the very top of the [\[2\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)Palace, in the center, easy to spot.
-    -   Map guide: Located on the far east point of [Etris](Etris.md), a large distinct orange building on the map.
+        -   Outside of the garden to the right, circle around.
+        -   Climb onto the red Palace roof.
+        -   Orb is on the very top of the [\[2\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)Palace roof, in the center, easy to spot.
+    -   Map guide: Located on the far east point of [Etris](Etris.md), a large distinct orange building on the map named "The Etris Palace".
 -   Right outside the very high up building, "[The Birdcage](The_Birdcage.md)".
     -   Step by step guide: (**Recommended** done in succession with [Towerstruck Lands](Towerstruck_Lands.md))
         -   Enter through [Lower Erisia](Lower_Erisia.md)'s main entrance, with the large north facing gate. ([Image on this page](https://deepwoken.fandom.com/wiki/Lower_Erisia))
@@ -68,7 +69,7 @@ The location of these orbs are:
         -   Follow the rock path and go up the slope made of rock.
         -   After the slope, to the left, there will be large [bamboo](https://deepwoken.fandom.com/wiki/Bamboo_Bundle) trees marking a upwards rocky staircase, climb the rocky staircase.
         -   Take a hard right and follow straight south until you find a zipline (Ignore the zipline) a and cave on the other side.
-        -   The cave's entrance will have parkour upwards, climb up _until you're near the very **very** top_.
+        -   The cave's entrance will have parkour above it, climb up _until the very **very** top_.
         -   Follow the southward path with the bridge.
         -   You should see the orb on the [large tower-like building](https://deepwoken.fandom.com/wiki/The_Birdcage). ([The Birdcage](The_Birdcage.md))
     -   Map guide: The very southeast of corner of [Erisia](Erisia.md), labeled [The Birdcage](The_Birdcage.md). (Zoom in to see label)

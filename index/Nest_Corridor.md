@@ -1,6 +1,6 @@
 ---
 title: Nest Corridor
-revid: 138578
+revid: 159991
 source: https://deepwoken.fandom.com/wiki/Nest_Corridor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]

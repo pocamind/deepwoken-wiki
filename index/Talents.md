@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 159915
+revid: 159963
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -60,7 +60,6 @@ There are certain Talents that you receive automatically upon meeting their requ
 -   [Echo Talents](Echoes.md#echo-talentsitems)
 -   [Attunement](Attunements.md) obtainment and progression Talents
 -   [Oath](#oath) Talents
--   Any Talents received by drawing a card hand (e.g. - King Thresher spine quest after completing it for the second time)
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
 
@@ -792,7 +791,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled.
     -   Applies 7 seconds of chill or 1 Crystal.
     -   Also works with Specter Path's Apparitions.
-    -   Changes the damage type of Haunted Gale Ghosts/Specter Apparitions from pure Galebreathe to Galebreathe & Frostdraw, making them easier to resist and allowing them to proc things that require the Frostdraw damage type (e.g. Flashboil).
+    -   Changes the damage type of Haunted Gale Ghosts/Specter Apparitions from pure Galebreathe to Galebreathe & Frostdraw, making them easier to resist and allowing them to proc things that require the Frostdraw damage type (e.g. [Flashboil](https://deepwoken.fandom.com/wiki/Talents#Vaporborne)).
     -   Prerequisites: Haunted Gale, 40 Frostdraw
 
 ### Colossus
@@ -936,11 +935,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Dark Waltz \[Common Talent, Shadowcast Exclusive\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.
     -   Prerequisites: 90 Shadowcast, 90 Weapon
 
--   Shadow Overflow \[Shadowcast Exclusive\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
-    -   Has a 4s cooldown.
-    -   Deal 5 damage around you in a small aoe from the target you hit.
-    -   Prerequisites: 55 Shadowcast, Dark God
-
 -   Dark Hours \[Shadowcast Exclusive\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
     -   Night cycle is XX:50 to XX:10.
     -   Always active in the depths.
@@ -953,8 +947,16 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
     -   Prerequisites: 60 Shadowcast, Dark Hours
 
+-   Night Terror \[Shadowcast Exclusive\] - Your light attacks now proc Fear the Dark.
+    -   Prerequisites: 100 Shadowcast, 100 Weapon, Fear the Dark
+
 -   Overwhelming Drain \[Shadowcast Exclusive\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
     -   Prerequisite: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)
+
+-   Shadow Overflow \[Shadowcast Exclusive\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+    -   Has a 4s cooldown.
+    -   Deal 5 damage around you in a small aoe from the target you hit.
+    -   Prerequisites: 55 Shadowcast, Dark God
 
 ### Dawnwalker
 
@@ -1433,9 +1435,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
     -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
 
--   Bulletproof \[Common Talent\] - You take no armor damage from guns.
+-   Bulletproof \[Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
+    -   This has no effect on your natural armor.
+    -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](Summer_Isle.md#trig-quest). (helping Asius)
-    -   This Talent simply removes armor damage from bullets, it has no effect on PEN of bullets.
 
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand

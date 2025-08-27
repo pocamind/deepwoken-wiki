@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 157710
+revid: 159986
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -47,7 +47,7 @@ The critical has a cooldown of **15 seconds**.
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the [Scion of Ethiron](Scion_of_Ethiron.md) than the [Kyrsgarde](Kyrsgarde.md).
     -   It shares this property with the [Kyrswynter](Kyrswynter.md), being tied to the Kyrsgarde prior to New Kyrsa's fall.
     -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), **Kyrsieger**)
--   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.
+-   The Kyrsieger was used in an assault on Constellia, the city [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) ruled over.
 -   This critical will trigger a Nautilodaunt to vent. While charging the critical, it will be forced into blocking which will make it easier for other players to land hits on it from behind, or using an instant guardbreak attack on it.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.

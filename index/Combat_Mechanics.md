@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159772
+revid: 159975
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -442,6 +442,7 @@ Image
 | Green | File:Greentelegraph.png | ◯ | ✗ | ✗ | ◯ |
 | All attacks that have this attribute:
 
+-   [Aelita](Aelita.md) and [Tillian](Tillian.md): Beam Blitz Ice Beam
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
 
  |

@@ -1,9 +1,9 @@
 ---
 title: Seraphina
-revid: 147763
+revid: 160005
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [Capra NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Seraphina
@@ -16,51 +16,64 @@ categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Seraphina is a [Capra](Capra.md) at [Etris Docks](Etris_Docks.md) who teaches new players about the mechanics of the game. She is very similar to [Bari](Bari.md) in the sense that she does this, but she is slightly better than him due to the fact that she gives you the recipe for a repair kit and he does not.
+Seraphina is a [Capra](Capra.md) NPC at [Etris Docks](Etris_Docks.md) who sells starter equipment aimed towards new and early game players. She functions identically to [Bari](Bari.md).
 
 She will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the Etris Siege, she will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"
 
 She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
+
+## Shop
+
+Seraphina's Serendipitous Wares
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Lumber Axe</div><div><i>A sturdy axe for felling trees.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Pickaxe</div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Fishing Rod</div><div><i>A simple rod for reeling in fish to eat.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Leather Boots</div><div><i>Sturdy leather boots to protect your feet.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Leather Gloves</div><div><i>Durable leather gloves to protect your hands.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+  
 
 ## Dialogue
 
 <table>
 <tbody>
 <tr>
-  <td colspan="9">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="8">Ahoy traveler, are you new around these parts?</td>
+  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!</td>
 </tr>
 <tr>
-  <td colspan="7">Yeah.</td>
-</tr>
-<tr>
-  <td colspan="7">Alright, let me teach you some recipes you'll need to know when exploring. Firstly your campfires, you want to use them when you're trying to recover from battle.</td>
-</tr>
-<tr>
-  <td colspan="6">A campfire?</td>
-</tr>
-<tr>
-  <td colspan="6">You can make a campfire pit in two ways, 3 sticks or 1 wood. Also you're going to want to light it thats where the fire comes in you can pick up some flint from the shops nearby or make it yourself using coal and a rock. Don't leave yet I got another essential you might be interested in.</td>
-</tr>
-<tr>
-  <td colspan="5">...</td>
-</tr>
-<tr>
-  <td colspan="4">Gliders are also a very essential piece of exploring, but they aren't common knowledge like a campfire - you'll need a schematic and a blacksmith to explain it to you. When you get your hands on one, you'll need two cloth and two sticks, make sure you're near a craft station.</td>
-</tr>
-<tr>
-  <td colspan="2">I see</td>
-</tr>
-<tr>
-  <td colspan="2">Repair kits are also very handy - you can craft them with 3 Iron &amp; 2 Wood. A crafting station is required, similar to a Glider, and it can be used to repair your damaged clothes.</td>
-</tr>
-<tr>
-  <td>Thank you.</td>
-</tr>
-<tr>
-  <td>Any time traveler - I'd be willing to explain these again if you ever return!</td>
+  <td>[Opens Shop UI]</td>
 </tr>
 <tr>
   <td>End</td>

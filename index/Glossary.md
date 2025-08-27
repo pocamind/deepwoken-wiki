@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 158635
+revid: 159989
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -33,8 +33,9 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe'
 -   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
 -   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
 -   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
+-   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), Kaide, The Drowned Light | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Heavens](#the-heavens)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens)
 
 ### The Drowned Gods
 
@@ -43,7 +44,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), Kaide, The Drowned Light | 
 -   The names of Drowned Gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
 -   Worship of Drowned Gods is taboo across most of the [Lumen](#lumen), with their faithful being branded as cultists and heretics.
 
-Dialogue: Kaide, The Drowned Light | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer)
 
 ### Korilfiend, the Inferno's Provenance
 
@@ -65,7 +66,7 @@ Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [
 -   Their gales are said to drag even Time itself into their wake.
 -   Thought to preside over the Second Layer, granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), Kaide, The Drowned Light, [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### Krulians
 
@@ -73,6 +74,27 @@ Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [
 -   The Ferryman referred to them as 'the closest bridge between the Gods below and your kind'.
 
 Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
+
+### Kyrsan
+
+-   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the Kyrsans dwell in small villages sheltered from the gale.
+-   According to [Kaide](#kaide-the-drowned-light), the ruins within the Second Layer are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan).
+-   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
+-   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
+
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)| Books: | Glossary Entries: [Kyrsgarde](#kyrsgarde)
+
+### Kyrsgarde
+
+-   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan) dwell in small villages sheltered from the gale.
+
+Dialogue: | Books: | Glossary Entries:
+
+### Lightborn
+
+-   Current and former inhabitants of [Heavens](#the-heavens) that resemble humans but possess a considerably longer lifespan.
+
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Celestials](#the-celestials)
 
 ## Historic Events
 
@@ -157,6 +179,12 @@ Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entr
 
 Dialogue: | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
 
+### Kaide, the Drowned Light
+
+-   The last [Lightborn](#lightborn) king of Constellia before its fall.
+
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)| Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
+
 ## Magic
 
 ### Flamecharm
@@ -221,7 +249,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), Kaide, The Drowned Light, [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
 
 ### Vows
 
@@ -315,6 +343,12 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 
 Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Luminants](#the-luminants)
 
+### Constellia, the Guiding Star
+
+-   One of the largest [Celestial](#the-celestials) cities in the [Heavens](#the-heavens).
+
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)| Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan](#kyrsan)
+
 ### The Depths
 
 -   Beyond [Lumen](#lumen) there is only the Depths, a vast and inconceivable expanse of fractured and convoluted space.
@@ -322,7 +356,7 @@ Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Book
 -   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the [Third Layer](#the-vents-the-third-layer) without ever passing through the First and [Second Layers](#the-eternal-gale-the-second-layer). This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the [Drowning](#the-drowning).
 
-Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), Kaide, The Drowned Light, [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
+Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Kyrsan](#kyrsan), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
 
 ### Driftlands
 
@@ -358,7 +392,7 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 -   The waters of the Heavens are known as the [Nightsea](#the-nightsea).
 -   The former home of the [Celestials](#the-celestials).
 
-Dialogue: Kaide, The Drowned Light, [Theadre](Theadre.md) | Books: | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials)
 
 ### The Lullaby Isles
 
@@ -386,8 +420,11 @@ Dialogue: | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-v
 ### The Eternal Gale, the Second Layer
 
 -   Said to be a snow-torn hellscape buffeted by the Winds of [Ethiron](#ethiron-the-malestroms-eye), the Second Layer makes the First seem safe by comparison.
+-   According to [Kaide](#kaide-the-drowned-light), the ruins within the Second Layer are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan).
+-   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
+-   The Second Layer is home to the legendary city of New Kyrsa.
 
-Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [The Depths](#the-depths)
+Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsgarde](#kyrsgarde), [Kyrsan](#kyrsan), [The Depths](#the-depths)
 
 ### The Southern Luminant
 
@@ -402,7 +439,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries:
 -   The half of [Lumen](#lumen) in which you reside.
 -   The Surface is made up of the [Luminants](#the-luminants) and the [Voidsea](#the-voidsea) that surrounds them.
 
-Dialogue: [C'lantaa](<C'lantaa.md>), Kaide, The Drowned Light | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), [The Nightsea](#the-nightsea)
+Dialogue: [C'lantaa](<C'lantaa.md>), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), [The Nightsea](#the-nightsea)
 
 ### The Vents, the Third Layer
 
@@ -426,7 +463,7 @@ Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 
-Dialogue: [Alastir](Alastir.md), Kaide, The Drowned Light, [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
 
 ### The Western Luminant
 

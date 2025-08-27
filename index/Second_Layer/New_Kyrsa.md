@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 152316
+revid: 160002
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2, Dungeons]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, 
 
 # Second Layer/New Kyrsa
 
-Template:Location2  
+LocationL New Kyrsa, The Sleeping City LocationR
+
+Far below the Gale, a city of gleaming lights was rekindled by the flames of religious fervour into a grand temple.
+
+  
 
 File:Final.png
 
@@ -76,7 +80,7 @@ An activated Obelisk in the Kyrsan Shrine of Arrival
 
 1.  Within a building on the left in the center path to Ethiron, you may **Interact** with a panel in order to start a 3 Enemy wave, doing this rewards you with **5 Medallions**. This may be done **twice**.
 2.  If instead of jumping into the Library, you follow the glass, you will be greeted by a tower. Occasionally at the top of this tower there may be a Medallion Chest, however, the top is guarded by four Kyrsgarde Lancers and a Kyrsgarde Brute at the bottom.
-3.  On the top of a tall tower on the left side of the city, there are glowing white particles. Going in will lead you to Kaide, The Drowned Light, where you can then get lore.
+3.  On the top of a tall tower on the left side of the city, there are glowing white particles. Going in will lead you to [Kaide, the Drowned Light](../Kaide,_the_Drowned_Light.md), where you can then get lore.
 
 ### Standard Medallion Chests
 
@@ -94,7 +98,7 @@ Large radiant pink chests spawn around the City and the Wilds, interacting with 
 8.  At the edge of the city to the left near the Lost Divers.
 9.  Near [Misérables](../Misérables.md) on top of a rock.
 10.  On the top of a large tower near library.
-11.  Near Kaide, The Drowned Light.
+11.  Near [Kaide, the Drowned Light](../Kaide,_the_Drowned_Light.md).
 12.  Near the library incredibly high.
 
 ### Escaping Medallion Chests
@@ -114,7 +118,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 
 -   [Naerotiv](../Naerotiv.md)
 -   [Frosviernr Joraelnaero](../Frosviernr_Joraelnaero.md)
--   Kaide, The Drowned Light
+-   [Kaide, the Drowned Light](../Kaide,_the_Drowned_Light.md)
 -   [Cap'n Orlandeau](<../Cap'n_Orlandeau.md>)
 -   [Misérables](../Misérables.md) - **Grants Yun'shul Wishes and a temporary Strength Buff**
 -   [Kennith](../Kennith.md)
