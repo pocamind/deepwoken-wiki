@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 152385
+revid: 160154
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1, Lost Celtor]
@@ -32,10 +32,15 @@ The city is patrolled by watchers that summon pairs of [Lesser Angels](Hollow_An
 
 ### NPCs
 
--   Players can find Nostor, a spelltrainer who can help you acquire [Shadowcast](Shadowcast.md), or upgrade your existing Shadowcast Mantras.
+-   [Raphael](Raphael.md), a mysterious [Celtor](Celtor.md) offering the player the **unfinished quest** to find "Morning".
+-   [Lucy](Lucy.md), a [Gremor](Gremor.md) NPC sprawled on the ground who appears to have a grudge against [The Divers](The_Divers.md). She may be slightly insane as she mentions "voices" talking to her.
+-   [Petris](Petris.md), a middle-aged [Etrean](Etrean.md) in **The City of the Drowned**, right next to the Merchant Stalls where the static [Nautilodaunt](Nautilodaunt.md) spawns. Seemingly killed by [The Ferryman](The_Ferryman.md) after he thought the [Krulian](Krulian.md) would grant him gifts, free of charge. He also hints towards how to summon [The Ferryman](The_Ferryman.md).
+-   [Jeremiah](Jeremiah.md), an NPC that is located in the [Varicosa District](Varicosa_District.md), you can trade [Deep Gems](Mantra_Modifiers.md) with him for random items.
+-   Players can find [Nostor](Nostor,_Master_of_Shadow.md), a spelltrainer who can help you acquire [Shadowcast](Shadowcast.md), or upgrade your existing Shadowcast Mantras.
 
 ## Points of Interest
 
+-   [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)
 -   [District of Commerce](District_of_Commerce.md)
 -   [Varicosa District](Varicosa_District.md)
 -   [The Military District](The_Military_District.md)
@@ -52,6 +57,7 @@ The city is patrolled by watchers that summon pairs of [Lesser Angels](Hollow_An
 -   [Mudskipper Broodlord](Mudskipper_Broodlord.md)
 -   [The Fisherman](The_Fisherman.md)
 -   [Coldheart Fortinbras](Coldheart_Fortinbras.md)
+-   [Goesh and Draud](Goesh_and_Draud.md) (Summoned by using the [Umbral Candle](Candle.md) in a ritual circle within the city)
 
 ## Quests
 

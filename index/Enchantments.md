@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 160128
+revid: 160150
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -73,16 +73,17 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 2/3/4 hits, every hit for 5 seconds including the final hit will apply <a href="Status_Effects.md#burn">Burn</a> (Burn DMG scales from user flamecharm investment, minimal dmg 3.3). This can be used to trigger Flamecharm Talents.<br>
-  Lava Serpent will create an explosion instead of creating a fire.<br>
-  Twisted Puppets will apply Puppet Burn, summoning puppets.</p></div></td>
-  <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets. (This is currently bugged as of 26/05/2025)</div></td>
+  <td><div><p>After landing enough basic attacks (LHT: 4, MED: 3, HVY: 2), every hit for 5 seconds will apply <a href="Status_Effects.md#burn">Burn</a>. Burn damage scales on Flamecharm investment.<br>
+  Lava Serpent will create an eruption instead of applying burn.<br>
+  Twisted Puppets will apply Puppet Burn, summoning puppets.</p>
+  <p>Blazing also adds 1 (flat) Flamecharm damage to your attacks as hit registry for its burn. This will happen even if your opponent is currently burning, if burn immunity is active, or if your eruptions are on cooldown.</p></div></td>
+  <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames or black if you have Twisted Puppets.</div></td>
 </tr>
 <tr>
   <td><figure>File:Bluster.gif<figcaption></figcaption></figure><center><br>
   <font>Bluster<div></div></font></center></td>
   <td><div><p>After landing (LHT: 5, MED: 4, HVY: 3) hits, a 10 second countdown will start, ticking down to an explosion. Land additional weapon attacks during the countdown to lower the delay.</p>
-  <p>This explosion is parriable and blockable, Dealing 10 posture on block.</p>
+  <p>This explosion is parriable and blockable, dealing 10 posture damage on block.</p>
   <p>This explosion deals damage based of your weapon attribute investment, dealt as typeless damage, meaning it bypasses armor resistances.</p></div></td>
   <td><div>Weapon is a light-grey color with smoke effects emanating from it.</div></td>
 </tr>
@@ -92,7 +93,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
   After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). 7 second cooldown.</p>
   <p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p></div></td>
-  <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red. (This is currently bugged as of 26/05/2025)</div></td>
+  <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
