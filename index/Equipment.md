@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 160027
+revid: 160107
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -5327,7 +5327,7 @@ Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
 
  | 
 
-_+3 Health_  
+_+3 Health_
 
 +2 Rare Pips
 
@@ -5351,6 +5351,37 @@ Found from:
 Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
 Legs: [Bluesteel Boots](Bluesteel_Boots.md)
+
+ |
+|  | 
+
+[Bluestone Boots](Bluestone_Boots.md)
+
+(**Set**)
+
+ | 
+
+_+3 Health_
+
++2 Rare Pips
+
+_+Talent: I'm Blue_
+
+_+Set Talent: Etherguard_
+
+**Requires Power 6**
+
+ | 
+
+Found from:
+
+-   Crafting
+
+ | 
+
+Set: Bluesteel  
+Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
+Legs: [Bluestone Boots](Bluestone_Boots.md)
 
  |
 | File:Brilliant Boots.png | 

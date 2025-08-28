@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 160091
+revid: 160128
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -649,7 +649,7 @@ Rain
 
  | 
 
-On proc, create a rain cloud above your head. 60 second cooldown.
+On proc, create a rain cloud above your head. 45 second cooldown.
 
 This rain cloud functions as normal rain, debuffing [Flamecharm](Flamecharm.md) abilities by 10%, increasing [Thundercall](Thundercall.md) (if you have the [Stratoshock](Talents.md#thundercaller) Talent) and Storm Enchantment's damage, and increasing the damage of your [Frostdraw](Frostdraw.md) abilities if it's Winter.
 

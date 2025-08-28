@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 159975
+revid: 160130
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -393,6 +393,7 @@ Image
 -   [Rock Golem](Rock_Golem.md): Uppercut
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
+-   [Soul Beam](Oath%253A_Oathless.md#soul-beam)
 -   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 -   [Thresher](Thresher.md) (all variants): Burrow

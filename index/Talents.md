@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160095
+revid: 160127
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -308,9 +308,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Annihilator
 
--   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
-    -   Duration scales with investment up to its requirement, this effect lasts 7 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
-        -   Collapsed Lung will have a 6 second duration at 75 Strength.
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength.
+    -   Duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
+        -   Collapsed Lung will have a 7 second duration at 75 Strength.
     -   Prerequisite: 100 Strength
 
 ### Apex Predator
@@ -729,11 +729,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   The potency of potions
         -   Time knocked (cut by 50% multiplicatively after other modifiers)
 
--   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you. Additionally, you deal +10% more damage to physically larger foes.
+-   Underdog \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
     -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
     -   The damage bonus starts at +2% damage with 20 Willpower and scales up to +4% damage at 60 Willpower, gaining +0.05% damage per point in Willpower, but capping at 4%.
         -   Having less than 20 Willpower will not cause the Talent to get any weaker.
-        -   At requirements, Underdog will provide a 2.5% damage bonus.
     -   "Higher HP" refers to current HP.
     -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
     -   Prerequisite: 30 Willpower
@@ -1717,8 +1716,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Critical Engine \[Common Talent, Intelligence Exclusive\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Proccing this Talent will put the respective Deep Gem on cooldown.
+    -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown.
     -   [Aegis Gem](Aegis_Gem.md) grants you 20% damage reduction for 10 seconds on hit.
     -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
+        -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for incredibly short critical cooldowns.
     -   [Bloodless Gem](Bloodless_Gem.md) reduces your critical damage, but gives you healing based on damage dealt.
     -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is based on damage dealt.
     -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
@@ -2464,7 +2465,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md) Exclusive\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
-    -   Your basic attacks will apply Burn, Shock, Chill, Winded, and Shadow all at once.
+    -   Your basic attacks will apply Burn, Shock, Chill, Winded, Shadow, and Metal Rods all at once.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
 
 ### Saint of Blades
@@ -3795,9 +3796,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 Certain Talents are given when a specific equipment or outfit is worn. Most of these Talents are exclusive to that equipment, though some are also available as cards from powering up. Multiple copies of the same Talent do not stack. Equipment Talents are listed in alphabetical order:
 
--   Actions Speak Louder: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 5% instead.
+-   Actions Speak Louder: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 10% instead.
     -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
-    -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 5% instead.
+    -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
+    -   This effect is applied before Critical Engine Blessed Gem is applied, allowing for a very short critical cooldown.
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain.
@@ -3868,13 +3870,14 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
     -   Reduces Bleed damage by 25%
     -   Does not work on all Damage over Time effects.
-        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Enchantments.md#equipment), or Rush Hour from Bloodrend.
+        -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Viscosity.md), or Rush Hour from Bloodrend.
 -   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
     -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
     -   Heartwing Beat has a 6 second cooldown.
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
     -   Your dodge window is increased by 0.05s.
+-   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your Blue Gems. Blue are the gems you use.
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
     -   Halves the maximum duration of Burn.

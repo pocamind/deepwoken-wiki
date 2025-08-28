@@ -1,11 +1,9 @@
 ---
 title: Bluestone Boots
-revid: 160063
+revid: 160104
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots, Items]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots, Items]
 ---
 
 # Bluestone Boots
@@ -14,11 +12,11 @@ notices:
 |---|---|
 | type | Legs |
 | rarity | Common |
-| selling price | ? |
-| requirements | ? |
+| selling price | 25 |
+| requirements | Power 6 |
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
-| innate talent | ? |
+| innate talent | I'm Blue |
 | set | Bluestone Pauldrons, Bluestone Boots |
 | set talent | Etherguard |
 | bankable | Yes |
@@ -34,9 +32,9 @@ Variants: [Bluestone Pauldrons](Bluestone_Pauldrons.md)
 
 ## Description
 
-The Bluestone Boots are an **unenchantable** "legs" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a pair of black and blue plated boots. When worn, these grant +3 Health, +2 Rare Pips, and the [?](Talents.md#equipment-talents) Talent.
+The Bluestone Boots are an **unenchantable** "legs" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a pair of black and blue plated boots. When worn, these grant +3 Health, +2 Rare Pips, and the [I'm Blue](Talents.md#equipment-talents) Talent.
 
-The _?_ Talent
+The _I'm Blue_ Talent increases the effectiveness of your [Blue Gems](Blue_Gem.md).
 
 ## Set Talent
 
@@ -48,4 +46,4 @@ Set Talent: [Etherguard](Talents.md#set-talents) - [Warped Blue Gems](Warped_Blu
 
 This item is crafted using the following recipe:
 
-1.  1 [Bluesteel Boots](Bluesteel_Boots.md) + ?.
+1.  1 [Bluesteel Boots](Bluesteel_Boots.md) + 1 [Warped Blue Gem](Warped_Blue_Gem.md).

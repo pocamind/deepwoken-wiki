@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 160088
+revid: 160133
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,11 +80,18 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 
 ### Combat Mantras
 
-After obtaining both of the Oathless exclusive Talents from the Sage of Wisps Talent category and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to obtain the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.**
+After obtaining both of the Oathless exclusive Talents from the Sage of Wisps Talent category and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to obtain the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.** Can be only obtained from [Whisper Draw](Whisper_Draw.md).
 
 -   **Soul Beam** - Harness your Chorus of Wisps to unleash a devastating blast.
     -   Can only be used while all Wisps are active.
-    -   Fires a white beam out of your chest.
+    -   Fires a spectrum beam out of your chest.
+    -   An entire beam deals about 250 total damage (needs more calculations). Unparryable, blockable. Can be dodged by going far enough from caster.
+    -   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
+    -   Has an unimaginably huge 5 minutes cooldown.
+        -   Adding Blessed gem will greatly reduce cooldown.
+    -   Can be canceled manually by caster.
+        -   Getting hit by a Vent will also cancel it.
+    -   Somewhat similiar to [Sightless Beam](Oath%253A_Blindseer.md).
 
 ## Trivia
 

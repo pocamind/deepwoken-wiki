@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 159946
+revid: 160124
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -50,7 +50,7 @@ File:Ethi ult.gif
 | 
 
 **Blinding Gale**  
-(★★☆)
+(★☆☆)
 
  | The Scion charges up it's fist, then fires a blinding ball of gale towards the player. This animation is shared with Pressured Wind, however does a pitiful 1 damage.  
 

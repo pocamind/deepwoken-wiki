@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 159776
+revid: 160117
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -78,7 +78,7 @@ Lightning + Metal
  |
 | 
 
-**Effect:** User creates a tripwire using their Thundercall and Ironsing.
+**Effect:** _User creates a tripwire using their Thundercall and Ironsing._
 
 -   Has a base damage of 6.08/6.65/7.22/7.79/8.36 per level, per hit (2) with 2.75 Thundercall and Ironsing scaling.
 -   The damage will ramp up the longer the Tether has been on the field, having a maximum base damage of 16/17.5/19/20.5/22 per level, per hit (2) with 2.75 Thundercall and Ironsing scaling.
@@ -121,7 +121,7 @@ Ice + Shadow
  |
 | 
 
-**Effect:** Create a black area around your character. Anyone who stands in this AoE will be impaled by pillars from above.
+**Effect:** _Create a black area around your character. Anyone who stands in this AoE will be impaled by pillars from above._
 
 -   Deals moderate damage.
 -   Inflicts Chill.
@@ -163,7 +163,7 @@ Lightning (Leg Sweep), Fire + Blunt (Uppercut)
  |
 | 
 
-**Effect:** User leg sweeps their opponent and follows up with an uppercut.
+**Effect:** _User leg sweeps their opponent and follows up with an uppercut._
 
 -   Deals moderate damage.
 -   Can apply both Shock and Burning.
@@ -203,12 +203,47 @@ Wind + Lightning + Slash
  |
 | 
 
-**Effect:** Backstep and hop on the air, quickly closing the distance. When you reach your opponent, perform a powerful radial attack.
+**Effect:** _Backstep and hop on the air, quickly closing the distance. When you reach your opponent, perform a powerful radial attack._
 
 -   Has a base damage of 10/18/26/34/42 per level with 2.75 Galebreathe and Thundercall scaling.
 -   Can be feinted to end early.
 -   Inflicts Shock and Winded.
 -   Compatible with Surge Path and Specter Path.
+
+ |
+| 
+
+**Soul Beam** (☆☆☆)
+
+**Combat Mantra**
+
+_Harness your Chorus of Wisps to unleash a devastating blast._
+
+ | 
+
+## Soul Beam (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harness your Chorus of Wisps to unleash a devastating blast._
+
+ |
+| 
+
+?
+
+ | 
+
+?
+
+ | 
+
+Chorus of Souls, Wisp Convergence, Talk to [Sibex](Sibex.md)
+
+ |
+| 
+
+**Effect:** _Charge up for ~4 seconds before unleashing a devastating, [unparryable](Combat_Mechanics.md#telegraphed-attacks) elemental beam._
 
  |
 
@@ -698,7 +733,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td><center>Fan the Flames<br>
   <sup>[Heat Column]</sup></center></td>
   <td><center>Inhale<br>
-  40 Flamecharm=</center></td>
+  40 Flamecharm</center></td>
   <td><center>Your stored Wind mantras can now empower your Fire mantras.</center></td>
   <td><center>Inhaled wind mantras will now apply their modifiers to Flame mantras. Additionally, this will grant the Flamecharm mantra a damage buff. The damage buff is (Inhaled mantra level x 2)%.</center></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 157153
+revid: 160123
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Medium Weapons]
@@ -36,9 +36,9 @@ The **Pleeksty's Inferno** is a legendary Club; a knapped obsidian macuahuitl cr
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought [Aska](Aska.md) with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
-The weapon will proc Club Talents on hit and Flamecharm Talents on critical hits. The critical also instantly gives you maximum Emperor Flame Stacks if it lands (Even if you do not have the Talent).
+Pleeksty's Inferno will apply burn on hit if you are wearing the [Simmerbloom Diadem](Simmerbloom_Diadem.md).
 
-Pleeksty's Inferno can also proc burn on M1s (or eruptions, with Lava Serpent) if you're wearing the [Simmerbloom Diadem](Simmerbloom_Diadem.md).
+## Obtainment
 
 The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
@@ -46,10 +46,10 @@ The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) 
 2.  Fulfill one of the following criteria. Keep in mind you only need **one** of these three criterias to get confirmation to fight [Aska](Aska.md). For example, having Pleetsky's Will allows fighting Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.
     -   Wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
     -   Having the [Pleeksty's Will](Talent_Quests.md) Talent.
-    -   Having the [Pleeksty's Faith](Talents.md) Talent.
+    -   Having the [Pleeksty's Faith](Talents.md#inferno) Talent.
 3.  Head to [Firfire](Firfire.md) and approach the [head of the village](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md). To the right of him will be an opening in the wall.
 4.  When you go through the opening, you'll see a path going to the left. Do not follow the path. Instead, go forward and jump down to the ledge beneath.
-5.  When you jump down, walk forward following the path. (Be careful, don't fall down, there's a hole in the middle of the path) Eventually, you'll reach three Orange Resonance Doors that require a [Resonance](Resonance.md), and 75 Flamecharm. You can still clip through these doors, though.
+5.  When you jump down, walk forward following the path. (Be careful, don't fall down, there's a hole in the middle of the path) Eventually, you'll reach three Orange Resonance Doors that require a [Resonance](Resonance.md), and 75 Flamecharm to open. You can still clip through these doors, though.
 6.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will be killed immediately through burning and wipe.
 
 Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
@@ -62,7 +62,7 @@ For the **standing** critical, the user plunges their club into the ground, crea
 
 For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile, ragdolling enemies. The projectile is directional and will fly in the direction of your characters momentum.
 
-Both criticals share a cooldown of **10 seconds**.
+Both criticals will instantly max out your Emperor Flame stacks on hit, even if you do not have the Talent. Both criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 
@@ -74,5 +74,3 @@ Both criticals share a cooldown of **10 seconds**.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
 -   This weapon cannot be banked, or dropped.
--   As of 2/22/2025, criticals now share the color of the path the player is using.
--   As of 8/4/2025, the weapon was given unique basic attack animations.

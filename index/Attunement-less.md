@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 160038
+revid: 160103
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -256,10 +256,10 @@ Blunt
 
 -   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5, per kick.
--   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md) variant. Guard breaks at level 5 if you have the [Titus's Raiment](<Titus's_Raiment.md>) Outfit.
--   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md) variant.
+-   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md#sparks) variant. Guard breaks at level 5 if you have the [Titus's Raiment](<Titus's_Raiment.md>) Outfit.
+-   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
 -   Has a range of 20 studs.
--   Can be modified with a [Round Spark](Mantra_Modifiers.md) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks) to stomp directly into the ground. If a player is hit by this both the player and caster are flung into the air, however if more than 2 players are hit, one player will be flung up while the other two including the caster will remain on the ground (might be a bug)
     -   If Round Spark is used, the damage is always the same as landing only a single kick (e.g. 60 instead of 120)
 -   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
 
@@ -453,8 +453,7 @@ Blunt
 
 -   Has a base damage of 9.9/13.05/16.20/19.35/22.5 per level with 1.65 Fortitude scaling.
 -   Deals 8 posture damage.
--   Has 0.5s wind-up.
--   Has a 15 second cooldown.
+-   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Shoulder Bash duration scales with your Fortitude attribute.
 -   Can collide with and break parts of the map.
 -   Rush shards have no effect.
@@ -497,7 +496,7 @@ N/A
 **Effect:** _User drums their shield before lowering the posture of nearby allies and themselves. Applies Rally onto nearby allies which causes posture taken to be transferred to the Rally user._
 
 -   Restores 5/6/7/8/9 posture on cast, per level.
--   Rally has a 15 second duration. This duration can be increased further with [Logstones](Mantra_Modifiers.md).
+-   Rally has a 15 second duration. This duration can be increased further with [Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Rally cannot be casted if you don't have a shield equipped or if your shield is on your back. Attempting to cast Rally like this will consume your Ether and do nothing.
 -   If a Rally buffed ally parries, it restores the Rally caster's posture.
 -   If a Rally buffed ally takes blocks an attack, 50% of the posture damage will be taken by the Rally caster.
@@ -658,7 +657,7 @@ Slash +
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12+/13+/14+/15+/16+ per level with 1.65 Agility scaling.
+-   Has a base damage of 12/13/14/15/16 per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
@@ -706,7 +705,9 @@ Blunt
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
--   Has a base damage of 31.88+19.13/35.06+22.31/38.25+25.5/41.44+28.69/44.63+31.88 per level with no investment scaling.
+-   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63 per level with no investment scaling.
+-   The second hit has a base damage of 19.133/22.31/25.5/28.69/31.88 per level with no investment scaling.
+-   Feinting after the first attack will instantly use the second.
 -   Upgraded with Agility and not Strength.
 
  |
@@ -748,7 +749,7 @@ N/A
 -   Canceled by attacking.
 -   Upgrading makes the dash longer.
 -   Can be modified with Crystal/Perfect Lenses to make it slightly longer.
--   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2. (using the spring spark variant 2 times will use double amount of ether)
+-   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
 
  |
 | 
@@ -785,12 +786,11 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
--   Grants a speed boost for 10/12/14/16/18 seconds, depending on its level.
--   Has a cooldown of 60/55/50/45/40 seconds, depending on its level.
--   Counts as a speed boost, meaning it can proc all related talents (including "**Speed Demon**").
+-   Grants a speed boost for 10/12/14/16/18 seconds per level.
+-   Has a cooldown of 60/55/50/45/40 seconds per level.
+-   Counts as a speed boost, meaning it can proc all speed boost reliant Talents.
 -   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
--   Can be upgraded with the Talent "**[Action Surge](Talents.md#vigil-swordsman)**" which increases the swing speed of weapons by a extra 0.04 while the Mantra is active.
--   Mantra modifiers Blast Spark, Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
+-   Can be upgraded with the [Action Surge](Talents.md#vigil-swordsman) Talent, increasing the swing speed of all weapons by 0.04 while Action Surge is active.
 
  |
 
@@ -867,9 +867,7 @@ Blunt
 -   0.65s wind-up.
 -   10s cooldown.
 -   When close enough to the enemy, the orbs will autotrack.
-    -   Crystal/Perfect Lenses increase how far you can be for it to autotrack.
--   Can be used from any height.
-    -   Does not negate fall damage.
+    -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase how far you can be for it to autotrack.
 
  |
 | 
@@ -907,11 +905,11 @@ Enemy's Attack
 **Effect:** _User creates a white pattern on the floor while deflecting attacks they take during the duration._
 
 -   **Deflects** an attack back to the attacker.
+-   Has a 30 second cooldown.
 -   Upgrading this Mantra extends the 'prediction' frames (iframes).
 -   Can be upgraded with the **All Knowing** Talent, removing the range limit Prediction normally has.
 -   Can be upgraded with the **Successive Prediction** Talent, which allows you to predict multihits, as it grants a brief window of auto prediction.
 -   Can be upgraded with the **Twelve Steps Ahead** Talent, halving Prediction's cooldown on successful Prediction (minimum 2s) and doubling Prediction's cooldown if you whiff it (maximum 30s). Going 30s without using Prediction will reset this effect.
--   30s cooldown.
 
  |
 | 
@@ -952,7 +950,7 @@ N/A
     -   15/12.5/10/7.5/5 second cooldown per level.
 -   No endlag, great as a gap closer or as a back step to get into/out of close quarters combat.
 -   If not moving, you instead teleport towards the direction you're facing.
--   The distance teleported is based off of your current movement speed. Standing still teleports you the smallest distance, walking - a small distance, running - a greater distance, running w/ a speedboost - the greatest distance.
+-   The distance teleported will be reduced if you aren't moving when you cast the Mantra.
 -   For ~2.5s after teleporting, all fall damage is negated.
 -   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap) and [Strong Leap](Attunement-less.md#strong-leap).
 
@@ -1314,7 +1312,7 @@ Blunt
 -   Dread Whisper's damage will slightly scale on how insane your opponent is.
 -   Landing Dread Whisper multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain/retain the damage buff.
--   10 Second cooldown, shares a cooldown with all other [grab mantras](List_of_Grab_Mantras.md).
+-   10 Second cooldown, shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 -   Deals 6 posture damage.
 -   Has an wind-up of 0.4s, and an endlag of 1.95s (0.25s if whiffed).
 -   Inflicts Charm for 7.5s on hit.
@@ -1985,13 +1983,10 @@ Slash
 
 ## Tips
 
--   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly, a [Blue Gem](Deep_Gems.md) will help with this though.
--   **Although many Attunement-less Mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
--   You can't increase the duration of Charisma Mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); neither with some other Mantras like Adrenaline Rush, Brace or Reinforce.
+-   Although many Attunement-less Mantras have relatively low requirements, it’s highly recommended to spec into those stats.
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
 -   Charisma Mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit 'n run" playstyle in order to defeat you.
 -   Most Attunement-less Mantras serve as utility in order to assist you in either combat or general survival.
--   Although Reinforce is a little costly for a Mantra, a [Blue Gem](Deep_Gems.md) can reduce it to around 50 ether, which can help with ether cost.
 -   Strong Left is best used during a parry trade in order to be as close as possible to your opponent due to its lackluster range but incredibly high damage and short wind-up.
 -   Rapid Punches has a short dash and should be used when doing a combo. Keep in mind that if the punches are parried, they will not be cancelled, but the opponent is able to hit you while the barrage is still active. Highly suggested you cancel the Mantra after around 5 hits to avoid giving your opponent a free m1 on you.
 
@@ -2007,11 +2002,12 @@ Slash
 -   There was a bug with the campfire variant of **Disguise** that resulted in the fire particle block falling into the void. This gave the appearance of an unlit campfire and started a rumor that you could achieve this based off spark order. This however is not true, and the bug was seemingly patched, making the unlit variant of this Mantra entirely unobtainable.
 -   **Summon Cauldron** used to be one of the most powerful Mantras out there, being able to proc _Bulldozer_ for free if you movestacked it with flourish.
 -   **Exhaustion Strike** used to be able to guardbreak players and monsters by transferring posture, this of course is no longer the case.
--   **Tacet Drop Kick** used to require 20 strength, but was shadow changed to require 5 strength.
--   Strangely, **Prominence Draw** deals less damage if your weapon's sheathe location is at your hip or if your weapon isn't a medium weapon. This is the only weapon mantra to deal reduced damage if you aren't using the respective weapon type.
+-   **Tacet Drop Kick** used to require 20 Strength, but was shadow changed to require 5 Strength. Similarly, **Throw** used to require 5 Strength, but was shadow changed to require 35.
+-   Strangely, **Prominence Draw** deals less damage if used while your weapon is sheathed on cast or if your weapon isn't a medium weapon. This is the only weapon mantra to deal reduced damage if you aren't using the respective weapon type.
 -   You can obtain and use weapon mantras from other weapon classes as long as you meet their requirements.
 -   All weapon mantras used to have a requirement of 8 weapon investment.
--   **Ceaseless Slashes** was the only Attunement-less Mantras to be starred, being 3 stars. Currently, like all other Attunement-less Mantras, it has no star value.
+-   **Throw** is the only Attunement-less Mantra to have quality stars, being 2 stars.
+    -   **Ceaseless Slashes** used to have 3 stars, but was changed to 0.
     -   **Rapid Punches** used to be 1 star, but was changed to 0.
 -   **Strong Left** may have been inspired by [Franky's Strong Right from _One Piece_](https://onepiece.fandom.com/wiki/Franky/Abilities_and_Powers#BF-36/Cyborg_Tactics).
 -   **Strong Left** used to be notorious for having a large backwards hitbox that was bigger than the actual forwards hitbox, leading to clips such as turning around to make a Strong Left hit.
@@ -2020,5 +2016,4 @@ Slash
 -   Despite how it may seem, Attunement-less Mantras still utilise the Song to temporarily enhance ones body, which is why [Silenthearts](Oath%253A_Silentheart.md) are unable to use them. The reason they are not hunted by Silenthearts is probably due to the fact that it is not abuse of the song, it is merely an enhancement of your own physical attributes.
 -   For about a week before **Ether Barrage** was added, there was a bug where a duplicate of **Rapid Punches** would be available to pick as an Intelligence Combat Mantra. This of course was a placeholder, and was later replaced by **Ether Barrage** when it fully released.
 -   **Slice 'n' Dice** is likely a reference to Shiv's ability "[Slice and Dice](<https://deadlock.wiki/Shiv#(2)_Slice_and_Dice>)" from the game _Deadlock_, due to the 2nd cast mimicking Shiv's "max rage" Slice and Dice, which automatically retraces the attack path taken dealing damage a second time.
--   **Throw** is the only Attunement-less Mantra to currently have stars.
 -   **Ether Barrage** might have been inspired by Ki Blasts from the _Dragon Ball_ series.

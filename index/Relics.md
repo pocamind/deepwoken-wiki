@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 157275
+revid: 160112
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -312,10 +312,10 @@ The ability is one-time-use but is recharged by killing a boss or player of your
 
 File:Warmaster Medallion Relic.png
 
- | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the Talent "Actions Speak Louder", reducing Critical Attack cooldown by 20% but doubling Resonance cooldown.
+ | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the Talent "Actions Speak Louder", reducing Critical Attack cooldown by 20%, but increasing your [Resonance](Resonance.md) cooldown by 20%.
 
   
-In areas where your Resonance is suppressed, your critical cooldown is 5% shorter instead.
+In areas where your Resonance is suppressed, your critical cooldown is 10% shorter instead.
 
  | 
 

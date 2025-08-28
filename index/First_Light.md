@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 157154
+revid: 160111
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, Heavy Weapons]
@@ -38,10 +38,10 @@ The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare direct drop f
 
 The user plunges the greatsword into the ground, similar to Flame Eruption, causing everyone near the user to be burned briefly. This is followed up with flaming swords raining from the sky, similar to the Crimson Megalodaunt's Bombastic Roar. **Both** parts of this critical scale solely on your **Flamecharm investment**.
 
-The plunge deals 25 Flamecharm damage with 5 Flamecharm scaling (37.5 damage at 100 Flamecharm), 5 posture damage (5.5 if two handed), and **applies burn**. The critical will end early if this attack is parried.  
-The swords from the sword rain deal 14 Flamecharm damage with 5 Flamecharm scaling (21 damage at 100 Flamecharm) and 3.5 posture damage (3.85 if two handed). The swords **do not apply burn** and **cannot proc any enchant or "on critical" Talent effect** (like [Manipulator](Talents.md#toxic-personality)). The swords are also 360 blockable.
+The plunge deals 25 Flamecharm damage with 5 Flamecharm scaling (gains 0.125 damage per point in Flamecharm), 5 posture damage, and **applies burn**. The critical will end early if this attack is parried.  
+The swords from the sword rain deal 14 Flamecharm damage with 5 Flamecharm scaling (gains 0.07 damage per point in Flamecharm) and 3.5 posture damage. The swords **do not apply burn** and **cannot proc any enchant or "on critical" Talent effect** (like [Manipulator](Talents.md#toxic-personality)). The swords are also 360 blockable.
 
-This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. The weapon has a cooldown of **25 seconds**.
+This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. The critical has a cooldown of **25 seconds**.
 
 ## Trivia
 
@@ -63,5 +63,6 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 -   While it has good stats and has no endlag, it is severely held back by its okay-ish critical that has an unnecessarily high cooldown, making players opt to use [Nemesis](Enchantments.md#blessings) instead.
 -   During the Deepwoken Youtuber Battle Royale Tournament on 7/1/2023, Youtuber "Trunks" used this sword to clutch out a victory during the 4th Round of the Tournament against "Floppingman" and "nogo" during the final circle.
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
--   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s Talent, _Actions Speak Louder_, the critical cooldown is reduced to only 20 seconds. (If you couldn't use your Resonance anyways, like in 1v1 Chime matches, then it will be reduced to 23.75 seconds.) This is still longer than any other critical attack cooldown in the game.
+-   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s Talent, _Actions Speak Louder_, the critical cooldown is reduced to 20 seconds.
+    -   If you add the [Critical Engine](Talents.md#intellisense) Talent with [Blessed Gem](Blessed_Gem.md) to your [Warmaster's Medallion](<Warmaster's_Medallion.md>), you can bring the First Light critical down to 10 seconds, as the Blessed Gem effect that halves your cooldown is applied **after** Warmaster's Medallion.
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).
