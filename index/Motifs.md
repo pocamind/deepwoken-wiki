@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 160067
+revid: 160080
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -228,7 +228,7 @@ For example, if you had Shotel Motif on Razor Cutlass, your critical would have 
 -   Motifs themselves cannot be banked nor dropped.
     -   However, weapons with a Motif equipped can be banked, dropped, and [passed down](Hippocampal_Pool.md) without the equipped Motif being removed/voided.
 -   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons (excluding [Skyreap Blade](Skyreap_Blade.md)).
--   If a weapon has a Motif equipped, but then loses their Motif slot after an update, your Motif will stay equipped and you'll still be able to use it. This allows you to have certain weapons with unobtainable criticals.
+-   If a weapon has a Motif equipped, but then loses their Motif slot or compatibility with your equipped Motif after an update, your Motif will stay equipped and you'll still be able to use it. This allows you to have certain weapons with unobtainable criticals.
 -   You can swap Motifs during combat to change up your critical for mixups, however you'll need a campfire or [Graceful Flame](Flamecharm.md#graceful-flame) to do this more than once.
 -   Using the 'Gun' Motif on the [Iron Blunderbuss](Iron_Blunderbuss.md) does nothing; the critical stays the same instead of becoming ranged.
 -   [Visionshaper](Oath%253A_Visionshaper.md) clones do not use your equipped Motif, instead they'll use the base critical of your weapon.

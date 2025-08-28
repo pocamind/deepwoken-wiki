@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 159775
+revid: 160091
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -211,12 +211,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure>File:Enchant Providence Thorns.gif<figcaption></figcaption></figure><center><br>
   <font>Providence's Thorns<div></div></font></center></td>
-  <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
-  PVP: parrying 3 attacks within 7 seconds deals damage to the attacker after a delay.<br>
-  Deal 4% HP damage, ignores all resistances.<br>
-  PVE Scale: 35% from parried damage x ()userpower in PVE.<br>
-  Damage capped at <b>500</b><br>
-  Effect is parriable.</p>
+  <td><div><p>PVE: Parrying an attack deals damage to the attacker after a delay. This deals 35% of the attack's damage you parried * your Power level, capping at 500 damage per proc.<br>
+  PVP: Parrying 3 attacks within 7 seconds deals damage to the attacker after a delay. This deals 4% of their maximum hp as damage.<br>
+  Providence Thorns is parryable.</p>
+  <p><b>Providence Thorns does not proc on autoparry frames.</b></p>
   <p>Certain bosses are <b>entirely immune</b> to Providence Thorns. These are: <a href="Maestro_Evengarde_Rest.md">Maestro Evangarde Rest</a> and <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.</p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>

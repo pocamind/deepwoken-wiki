@@ -1,6 +1,6 @@
 ---
 title: The Hidden Grove
-revid: 159657
+revid: 160096
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map]
@@ -21,7 +21,7 @@ TERRITORY OF The Summer Company
 The Hidden Grove features a waterfall and flower fountain. To activate the fountain, players must interact with the shrine using a canteen filled with any liquid. This will cause 6 [Lotuses](Ingredients.md#lotuses) to spawn around the fountain. These Lotuses last for 45 seconds before vanishing and are randomized according to the current season in the game. Additionally, the fountain has a 60-minute cooldown per player across the server.
 
 -   Spring: [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus), [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus).
--   Summer: WIP
+-   Summer: [Empyrean Lotus](Primordial_Lotuses.md#empyrean-lotus), [Hellfire Lotus](Primordial_Lotuses.md#hellfire-lotus).
 -   Autumn: [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus), [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus).
 -   Winter: [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus), [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus).
 

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 155154
+revid: 160094
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Lore]
@@ -19,7 +19,7 @@ _Not to be confused with the name of the game, [Deepwoken](Deepwoken_Wiki.md)._
 There are two known Deepwoken. Owing to their immortality, both are likely well over a thousand years old.
 
 -   [Amorus Pleeksty](Amorus_Pleeksty.md)
-    -   Pleeksty ate a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of [Flamecharm](Flamecharm.md).
+    -   Pleeksty ate a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of the [Flamecharm](Flamecharm.md) Attunement.
 -   [The First Prophet](https://deepwoken.fandom.com/wiki/Lore#The_First_Prophet) of [The Ministry](The_Ministry.md)
     -   The Drowned God from which the First Prophet consumed a piece of is currently unnamed. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2)
 

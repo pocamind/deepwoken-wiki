@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160070
+revid: 160095
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1123,7 +1123,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   You can proc Behind you and Spine Cutter at the same time, but the proc window is very tight.
     -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence
 
--   Unwavering Focus \[Common Talent\] - Recieve less posture when parrying a mantra (scales with intelligence).
+-   Unwavering Focus \[Common Talent\] - When your mantras are parried, receive less posture (scales with intelligence).
     -   Prerequisites: 60 Intelligence, 10 Strength
 
 ### Evil Endeavors
@@ -1715,6 +1715,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Intellisense
 
 -   Critical Engine \[Common Talent, Intelligence Exclusive\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+    -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Proccing this Talent will put the respective Deep Gem on cooldown.
     -   [Aegis Gem](Aegis_Gem.md) grants you 20% damage reduction for 10 seconds on hit.
     -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
@@ -3616,6 +3617,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 90 Flamecharm, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
 -   Scorching Decay \[Common Talent, Flamecharm Exclusive\] - The wither dealt from your Emperor's Flame is massively increased.
+    -   Increases the Wither application from your Emperor Flame from 25 to 75.
     -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 ### [Oath](Oaths.md)

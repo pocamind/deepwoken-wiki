@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 159327
+revid: 160090
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -71,8 +71,14 @@ _Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Co
 
 _Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
 
+-   **Aratel's Blood**
+    -   Tasks the player with defeating three enemy soldiers, either three [Hive Scouts](Hive_Scout.md) or three [Vigil Swordsmans](Vigil_Swordsman.md).
+
 -   **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
     -   Tasks the player with defeating [Lodestar](Lodestar.md).
+
+-   **Restricted Technology**
+    -   Tasks the player with defeating either a [Authority Captain](Authority_Captain.md) or [Golem Construct](Hive_Construct.md).
 
 -   **Thresher Infestation** : _A price has been put on the head of a Thresher that displays the potential to become a greater threat._
     -   Tasks the player with slaying a [Thresher](Thresher.md).

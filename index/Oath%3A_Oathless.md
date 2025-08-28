@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 159641
+revid: 160088
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -72,7 +72,7 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
     -   Prerequisites: Oathless, 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
 
 -   **Wisp Convergence** - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
-    -   This will not proc unless you have every Wisp Mantra active. If one of your Wisps runs out, you will need to recast it to proc Wisp Convergence again.
+    -   This will not proc unless you have every Wisp Mantra active.
     -   Your basic attacks will apply the following [status effects](Status_Effects.md): Burn, Shock, Chill, Winded, and Shadow.
     -   Prerequisites: Oathless, Chorus of Souls
 
@@ -82,8 +82,9 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 
 After obtaining both of the Oathless exclusive Talents from the Sage of Wisps Talent category and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to obtain the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.**
 
--   **Soul Beam** - WIP
-    -   This Mantra is currently unobtainable due to a bug.
+-   **Soul Beam** - Harness your Chorus of Wisps to unleash a devastating blast.
+    -   Can only be used while all Wisps are active.
+    -   Fires a white beam out of your chest.
 
 ## Trivia
 
