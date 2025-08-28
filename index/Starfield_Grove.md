@@ -1,6 +1,6 @@
 ---
 title: Starfield Grove
-revid: 116128
+revid: 160073
 source: https://deepwoken.fandom.com/wiki/Starfield_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]

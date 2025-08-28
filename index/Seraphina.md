@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 160034
+revid: 160052
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -21,6 +21,25 @@ Seraphina is a [Capra](Capra.md) NPC at [Etris Docks](Etris_Docks.md) who sells 
 She will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the Etris Siege, she will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"
 
 She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!</td>
+</tr>
+<tr>
+  <td>[<font>Opens</font> <a href="#seraphinas-serendipitous-wares"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Shop
 
@@ -51,27 +70,6 @@ Seraphina's Serendipitous Wares
 <tr>
   <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Leather Gloves</div><div><i>Durable leather gloves to protect your hands.</i></div></td>
-</tr>
-</tbody>
-</table>
-
-  
-
-## Dialogue
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!</td>
-</tr>
-<tr>
-  <td>[Opens Shop UI]</td>
-</tr>
-<tr>
-  <td>End</td>
 </tr>
 </tbody>
 </table>

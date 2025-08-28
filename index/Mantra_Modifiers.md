@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 160030
+revid: 160068
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -357,7 +357,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
   <td><figure><figcaption></figcaption></figure></td>
   <td>Aegis Gem</td>
   <td>On hit, Aegis Gem grants the <a href="Status_Effects.md#aegis">Aegis</a> status effect, a 10% damage reduction effect for 10 seconds. This effect has a 10 second cooldown.<p><br>
-  <b>Note: if you have not beaten <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on the character you are using this Gem on, it will not work. This gem is also not bankable nor droppable.</b></p></td>
+  <b>Note: if you have not beaten <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on the character you are using this Gem on, it will not work. This gem is also not droppable, however it can be banked.</b></p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

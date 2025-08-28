@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160021
+revid: 160070
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -183,7 +183,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Synergizes well with air dashing or mantras that send the user and target in the air.
-    -   Prerequisites: 15 Strength, 25 on any weapon type. **NOT CUMULATIVE**
+    -   Prerequisites: 15 Strength, 25 Weapon (25 Light OR 25 Medium OR 25 Heavy)
 
 ### Aeromancer
 
@@ -796,7 +796,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Colossus
 
--   _Destructive Recovery_ \[Rare Talent\] - \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load)
+-   _Destructive Recovery_ \[Rare Talent\] - \[Greatsword\] Enemies recover 20% less Posture when parrying. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Use a Greatsword
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 10%.
@@ -933,7 +933,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Does not steal or halt any ether regen.
 
 -   Dark Waltz \[Common Talent, Shadowcast Exclusive\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.
-    -   Prerequisites: 90 Shadowcast, 90 Weapon
+    -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
 -   Dark Hours \[Shadowcast Exclusive\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
     -   Night cycle is XX:50 to XX:10.
@@ -948,7 +948,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 60 Shadowcast, Dark Hours
 
 -   Night Terror \[Shadowcast Exclusive\] - Your light attacks now proc Fear the Dark.
-    -   Prerequisites: 100 Shadowcast, 100 Weapon, Fear the Dark
+    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy), Fear the Dark
 
 -   Overwhelming Drain \[Shadowcast Exclusive\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
     -   Prerequisite: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)
@@ -1575,7 +1575,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
 
 -   Frozen Anchor \[Common Talent, Frostdraw Exclusive\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD
-    -   Prerequisites: 100 Frostdraw, 100 Weapon
+    -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill.
     -   Works with Glass Path: Crystallization.
@@ -1592,7 +1592,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: Frostbite
 
 -   Stasis Strike \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions deal more damage whenever your opponent is also bottom frozen.
-    -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon
+    -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
@@ -1725,7 +1725,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
     -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds.
     -   [Wrath Gem](Wrath_Gem.md) does not work (in general).
-    -   Prerequisites: 90 Intelligence, 30 Weapon
+    -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light OR 30 Medium OR 30 Heavy)
 
 ### Ironsinger
 
@@ -1996,7 +1996,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Maestro's Technique
 
 -   Silencer's Song \[Common Talent, Galebreathe Exclusive\] - Silencer's Blade now procs on your mantras.
-    -   Prerequisites: Silencer's Blade, 100 Galebreathe, 100 Weapon
+    -   Prerequisites: Silencer's Blade, 100 Galebreathe, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 ### Marauder
 
@@ -2841,7 +2841,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Shock Therapy
 
 -   Grounding Bolt \[Common Talent, Thundercall Exclusive\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
-    -   Prerequisites: 90 Thundercall, 90 Weapon
+    -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
 ### Showboater
 
@@ -3613,10 +3613,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Withered Flame
 
 -   Ash Ember \[Common Talent, Flamecharm Exclusive\] - The more wither your opponent has, the more damage your burn deals.
-    -   Prerequisites: 90 Flamecharm, 90 Weapon
+    -   Prerequisites: 90 Flamecharm, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
 -   Scorching Decay \[Common Talent, Flamecharm Exclusive\] - The wither dealt from your Emperor's Flame is massively increased.
-    -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon
+    -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 ### [Oath](Oaths.md)
 

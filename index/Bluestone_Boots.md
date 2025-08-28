@@ -1,9 +1,9 @@
 ---
 title: Bluestone Boots
-revid: 160023
+revid: 160063
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
+categories: [In progress without reason, InProgressPages, Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots, Items]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -34,7 +34,7 @@ Variants: [Bluestone Pauldrons](Bluestone_Pauldrons.md)
 
 ## Description
 
-The Bluestone Boots are a craftable "legs" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a pair of black and blue plated boots. When worn, these grant +3 Health, +2 Rare Pips, and the [?](Talents.md#equipment-talents) Talent.
+The Bluestone Boots are an **unenchantable** "legs" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a pair of black and blue plated boots. When worn, these grant +3 Health, +2 Rare Pips, and the [?](Talents.md#equipment-talents) Talent.
 
 The _?_ Talent
 

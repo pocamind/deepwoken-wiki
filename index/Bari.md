@@ -1,6 +1,6 @@
 ---
 title: Bari
-revid: 160043
+revid: 160053
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -16,7 +16,9 @@ categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Bari is an [Etrean](Etrean.md) that gives new players a rundown on some of the mechanics of the game. They inform the player on how campfires and gliders work. They are very similar to [Seraphina](Seraphina.md) at [Etris Docks](Etris_Docks.md) in the sense that they both teach the new players about the game, however, they are slightly worse than Seraphina since they do not give you the [Repair Kit](Repair_Kit.md) recipe.
+Bari is an [Etrean](Etrean.md) NPC at the [Isle of Vigils](Isle_of_Vigils.md) docks who sells starter equipment aimed towards new and early game players. He functions identically to [Seraphina](Seraphina.md).
+
+  
 
 ## Location
 
@@ -34,6 +36,9 @@ Bari is located at the docks in [Isle of Vigils](Isle_of_Vigils.md) leaning agai
 </tr>
 <tr>
   <td>[<font>Opens</font> <a href="#baris-bare-essentials"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

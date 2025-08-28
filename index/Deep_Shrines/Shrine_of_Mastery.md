@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 159611
+revid: 160072
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -40,17 +40,17 @@ Shrine of Mastery has two different effects.
 -   You cannot re-arrange stats if you have a Talent that requires a higher investment or equal investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and then either used the Shrine of Order to reduce your Strength or kept your Strength at 40, you wouldn't be able to remove points off Strength as long as you have Showstopper.
     -   This applies to the Attunement mastery Talents as well, such as Adept Flamecharmer; Shrine of Mastery will not allow you to go below the 1/20/30/50 Attunement investment milestones.
-    -   Talents with [Mind](../Attributes.md#body-and-mind) or [Body](../Attributes.md#body-and-mind) requirements as well as the [Attributes Unbound](../Attributes_Unbound.md) Talents are ignored by Shrine of Mastery, allowing you to reinvest freely.
+    -   Talents that require attribute category investment instead of a specific attribute such as [Mind](../Attributes.md#body-and-mind), [Body](../Attributes.md#body-and-mind), or Weapon as well as the [Attributes Unbound](../Attributes_Unbound.md) Talents are ignored by Shrine of Mastery, allowing you to reinvest freely.
 -   Despite popular belief, you can still change your attributes with this after Shrine of Order.
     -   This idea stemmed from the previously mentioned Talent investment exception.
 -   Unlike with Talents, you can re-arrange stats used to acquire almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat requirements while keeping your Oath.
-    -   The only exceptions to this are [Arcwarder](../Oath%253A_Arcwarder.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
+    -   The only exception to this is [Arcwarder](../Oath%253A_Arcwarder.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
-    -   When this was brought to the attention of Arch\_Mage, one of the main developers, he said "3 points aint the end of the world."
--   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty, lowering your weapon's base damage by **35%**.
--   If you no longer meet the requirements for a mantra or your mantra's levels after using Shrine of Mastery, you will keep it equipped with its previous level intact with **no** penalties.
--   This shrine does not count for the "Bargained with Deep Shrines" echo.
--   If you no longer meet the requirements for a outfit with stat requisites, you will keep the outfit with no penalties.
+    -   When this was brought to the attention of Arch\_Mage, one of Deepwoken's developers, he said "3 points aint the end of the world."
+-   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty, lowering your weapon's base damage. This debuff scales on how far below your weapon's requirements you are, up to a maximum of -25% base damage.
+-   If you no longer meet the requirements for a Mantra or your Mantra's levels after using Shrine of Mastery, you will keep it equipped with its previous level intact with **no** penalties.
+-   If you no longer meet the requirements for a Outfit with stat requisites, you will keep the Outfit with no penalties and you will be able to unequip and reequip it with no restrictions.
+-   This Shrine does not count for the "Bargained with Deep Shrines" [Echo Triumph](../Echoes.md).
 
 ## Dialogue
 
