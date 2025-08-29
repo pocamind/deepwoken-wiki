@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 149896
+revid: 160156
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -151,6 +151,37 @@ NOTE: Getting the high progress or Resonance imminent dialogues **could** mean t
 </tbody>
 </table>
 
+**Chorus of Souls:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Oh? What a symphony you bring to my ears! A resounding lead accompanied by a perfect chorus. You've mastered something I struggled with... Though, you're still missing the last piece.</td>
+</tr>
+<tr>
+  <td colspan="12">What am I missing?</td>
+</tr>
+<tr>
+  <td colspan="12">They chime along with the tune, but not in unison. You must conduct them - direct them.</td>
+</tr>
+<tr>
+  <td colspan="12">Huh. Any tips?</td>
+</tr>
+<tr>
+  <td colspan="12">Hah, tips! Yes. Fingertips will do. When their movement are in sync with one another, spread your fingertips and picture their strength surging in a harmonious stream.</td>
+</tr>
+<tr>
+  <td colspan="12">(you can now use soul beam.)</td>
+</tr>
+<tr>
+  <td colspan="9">End</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md#sibexs-gale-wisp-tune) will play.
@@ -161,3 +192,4 @@ NOTE: Getting the high progress or Resonance imminent dialogues **could** mean t
     -   It may have been because the outfit's design was lifted from [an outfit in Genshin Impact](References_and_Easter_Eggs.md), but this is speculation.
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue he would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
+-   To obtain chorus beam from Sibex you need to have the [Sage of Wisps](Talents.md#sage-of-wisps) talents from [Oathless](Oath%253A_Oathless.md) and a [resonance.](Resonance.md)

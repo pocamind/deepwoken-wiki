@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160127
+revid: 160167
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -894,7 +894,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Crystalline Gold
 
--   Golden Age \[Common Talent, Dual Attunement\] - Your Iron Pull now detonates Crystals and overloads Surges.
+-   Golden Age \[Common Talent, Dual Attunement\] - Your Iron Pull now detonates Crystals and overloads Surges. (Crystals don't always detonate)
     -   Prerequisites: Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor
 
 ### Cutthroat
@@ -2741,6 +2741,19 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
 
+### Shock Therapy
+
+-   Grounding Bolt \[Common Talent, Thundercall Exclusive\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
+    -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
+
+### Showboater
+
+-   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
+    -   Charms for 0.0933 seconds per point in Charisma, having 7 seconds at 75 Charisma and 9.33 seconds at 100 Charisma.
+    -   Does not proc "Golden Tongue" Talent.
+    -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
+    -   Prerequisites: Charismatic Cast, 75 Charisma
+
 ### Silencer
 
 -   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] - Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
@@ -2839,19 +2852,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent \[_[sic](https://en.wikipedia.org/wiki/sic)_\] description, I can't stop you.
     -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
-
-### Shock Therapy
-
--   Grounding Bolt \[Common Talent, Thundercall Exclusive\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
-    -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
-
-### Showboater
-
--   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
-    -   Charms for 0.0933 seconds per point in Charisma, having 7 seconds at 75 Charisma and 9.33 seconds at 100 Charisma.
-    -   Does not proc "Golden Tongue" Talent.
-    -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
-    -   Prerequisites: Charismatic Cast, 75 Charisma
 
 ### Songmaster
 

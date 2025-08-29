@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 160140
+revid: 160161
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,7 +80,7 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 
 ### Combat Mantras
 
-After obtaining both of the Oathless exclusive Talents from the Sage of Wisps Talent category and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to obtain the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.** Can be only obtained from [Whisper Draw](Whisper_Draw.md).
+After obtaining the [Chorus of Souls](Talents.md#sage-of-wisps) Talent and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to obtain the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.** Can be only obtained from [Whisper Draw](Whisper_Draw.md).
 
 -   **Soul Beam** - Harness your Chorus of Wisps to unleash a devastating blast.
     -   Can only be used while all Wisps are active.

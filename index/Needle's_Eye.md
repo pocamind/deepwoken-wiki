@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 158320
+revid: 160157
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -35,6 +35,8 @@ The Needle's Eye is an endgame [Rapier](Weapons.md) that requires 75 Light Weapo
 
 Being a refined rapier made for royalty, its ornate design highlights its deadly capabilities. Needle's Eye has a similar stat lineup to other endgame rapiers, albeit being on the lower end in terms of raw statistical values. While very powerful in the right hands, this weapon's strength lies in its unique critical.
 
+The rapier was part of the former Duchess Thera Erisia's rapiers who bore the title of the Needle's Eye, as seen in her statue in Erisia.
+
 ## Critical
 
 The user winds up before stabbing the opponent 5 times before lunging forwards to unleash a sixth strike. Each hit applies Daze and has 35% chip damage. Upon critical activation, gain a 1 second long speed boost (this will last for the first four hits).
@@ -49,5 +51,4 @@ The critical has a cooldown of **5 seconds**.
 -   At max LHT, the damage is (27)
 -   The Needle's Eye is the slowest rapier ever, having a swingspeed of 1.05x.
 -   Needle's Eye and the [Golden Swordfish](Golden_Swordfish.md) are the only two non-legendary rapiers to have a unique critical attack.
--   Elaborated from its description, the rapier was part of the former Duchess Thera Erisia's rapiers who bore the title of the Needle's Eye as seen in her statue in Erisia.
 -   This rapier has the same name as the [Whisperer's](https://rogue-lineage.fandom.com/wiki/Whisperer) skill from [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage).
