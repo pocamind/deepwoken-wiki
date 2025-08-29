@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160167
+revid: 160183
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -884,7 +884,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
     -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
-    -   If the guardbreaking attack were to do bleed damage (ex. Speed Demon) the freeze will end early.
+    -   Taking damage by any source (including damage over time effects) will end the freeze early.
     -   You can spam F to get out of Freeze faster.
     -   Prerequisite: 60 Frostdraw.
 
@@ -894,7 +894,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Crystalline Gold
 
--   Golden Age \[Common Talent, Dual Attunement\] - Your Iron Pull now detonates Crystals and overloads Surges. (Crystals don't always detonate)
+-   Golden Age \[Common Talent, Dual Attunement\] - Your Iron Pull now detonates Crystals and overloads Surges.
+    -   Crystals don't always detonate on pull.
     -   Prerequisites: Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor
 
 ### Cutthroat
@@ -1004,6 +1005,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Applies bottom freeze.
     -   Applies fragile freeze if the critical guardbreaks.
     -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
+    -   3 second cooldown.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
 
 ### Drowned Secret
@@ -1310,6 +1312,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Fulgurite Formation \[Common Talent, Dual Attunement\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
     -   The lightning strikes deal 5 typeless damage without applying Surge stacks.
+    -   The lightning strikes have a 1.08x PvE scaling, affected by Chain of Perfection.
     -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
     -   Prerequisites: Glass Path: Crystallization, Surge Path: Unstable Capacitor, 50 Frostdraw, 50 Thundercall
 
@@ -1602,10 +1605,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Immolator
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-    -   This Talent can be procced if a non-burning person were set aflame, most likely a bug since it also doesn't go on cd.
-    -   Has a 1s cd.
-    -   Can spread to allies.
-    -   Controlled Combustion will prevent this Talent from burning you and your allies.
+    -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
+        -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
+    -   Agitating Spark bypasses block and parry.
+    -   Has a 1 second cooldown.
+    -   Can spread to allies. The Controlled Combustion Talent will prevent Agitating Spark spreading burn to yourself and your allies.
     -   Prerequisite: 40 Flamecharm
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
@@ -1716,17 +1720,19 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Critical Engine \[Common Talent, Intelligence Exclusive\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Proccing this Talent will put the respective Deep Gem on cooldown.
-    -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown.
+    -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
     -   [Aegis Gem](Aegis_Gem.md) grants you 20% damage reduction for 10 seconds on hit.
     -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
-        -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for incredibly short critical cooldowns.
+        -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for a 60% (55% in [Chime of Conflict](Chime_of_Conflict.md)) reduction in critical cooldown overall.
     -   [Bloodless Gem](Bloodless_Gem.md) reduces your critical damage, but gives you healing based on damage dealt.
-    -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is based on damage dealt.
+    -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is 1:1 with scaled damage dealt; it cannot be increased nor decreased through modifiers or resistances.
     -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
     -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%.
+        -   The posture damage bonus can be increased with the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) Talent, scaling on how many Might Gems you have equipped on your Mantras.
+    -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit.
     -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
-    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds.
-    -   [Wrath Gem](Wrath_Gem.md) does not work (in general).
+    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on.
+    -   [Wrath Gem](Wrath_Gem.md) does not work (in general), though it can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
     -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light OR 30 Medium OR 30 Heavy)
 
 ### Ironsinger
@@ -2718,7 +2724,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Shieldmaster
 
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
-    -   When holding out a shield (One-Handed Stance), being hit will inflict ~5% less "shaky block", allowing the user to escape combos much easier with their block.
+    -   When holding out a shield (One-Handed Stance), being hit will inflict 5% less "shaky block", allowing the user to escape certain combos easier with their block.
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
@@ -3155,11 +3161,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### The Emperor's Blade
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
-    -   Emperor flame **only** consumes (extinguishes) and gains stacks from burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, your self applied burn will not be consumed.
-    -   The Emperor Flame status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
     -   Landing a basic attack while you have the Emperor Flame status effect will proc the flourish, dealing 15 Flamecharm damage, 25 Wither damage, and applying burn to the victim and anyone else nearby. This cannot proc on knocked enemies and does not proc Dazing Finisher.
-    -   There is a 2 second cooldown for stack gain.
-    -   You can gain stacks while you are on fire, making Emperor Flame incredibly beneficial to Flame Within builds.
+    -   The Emperor Flame status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
+    -   Hitting enemies with attacks that apply burn will grant Emperor Flame stacks. This will proc regardless of if the target is currently burning or not. There is a 2 second cooldown for stack gain.
+    -   Emperor Flame extinguishes burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, your self applied burn will not be extinguished.
     -   Prerequisites: Agitating Spark, 60 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
@@ -3848,7 +3853,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
--   Ether Emergency: Bluestone Pauldons - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
+-   Ether Emergency: [Bluestone Pauldrons](Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
     -   Instantly restores a flat amount of health at the cost of all of your Ether, with the health gain scaling on your maximum Ether.
 -   Ether Pinpoint: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
     -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
@@ -3878,6 +3883,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
     -   Your dodge window is increased by 0.05s.
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your Blue Gems. Blue are the gems you use.
+    -   This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
     -   Halves the maximum duration of Burn.

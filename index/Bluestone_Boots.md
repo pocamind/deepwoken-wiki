@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 160104
+revid: 160175
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots, Items]
@@ -34,7 +34,7 @@ Variants: [Bluestone Pauldrons](Bluestone_Pauldrons.md)
 
 The Bluestone Boots are an **unenchantable** "legs" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a pair of black and blue plated boots. When worn, these grant +3 Health, +2 Rare Pips, and the [I'm Blue](Talents.md#equipment-talents) Talent.
 
-The _I'm Blue_ Talent increases the effectiveness of your [Blue Gems](Blue_Gem.md).
+The _I'm Blue_ Talent increases the effectiveness of your [Blue Gems](Blue_Gem.md) by 10%. This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.
 
 ## Set Talent
 
