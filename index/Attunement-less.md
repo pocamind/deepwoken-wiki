@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 160103
+revid: 160189
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -645,7 +645,7 @@ _A vengeful rush. Deals additional damage the lower your health is below 50%._
 
  | 
 
-Slash +
+Slash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -661,7 +661,7 @@ Slash +
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
--   This Mantra has innate, meaning that it will deal an additional 30% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
+-   This Mantra has innate [Bleed](Status_Effects.md#bleed), meaning that it will deal an additional 30% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
 -   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
     -   This bonus damage scales up to 4 times damage at 5% health, but Revenge's health scaling will cap at Revenge dealing 50 damage regardless of level/Agility investment.
 -   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.

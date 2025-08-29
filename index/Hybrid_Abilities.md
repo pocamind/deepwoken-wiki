@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 160153
+revid: 160190
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -238,7 +238,7 @@ Oath
 
  | 
 
-Chorus of Souls, Wisp Convergence, Talk to [Sibex](Sibex.md)
+Chorus of Souls, have a [Resonance](Resonance.md), Talk to [Sibex](Sibex.md)
 
  |
 | 

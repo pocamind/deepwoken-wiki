@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160183
+revid: 160187
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1719,20 +1719,20 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Critical Engine \[Common Talent, Intelligence Exclusive\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
-    -   Proccing this Talent will put the respective Deep Gem on cooldown.
+    -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
     -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
     -   [Aegis Gem](Aegis_Gem.md) grants you 20% damage reduction for 10 seconds on hit.
     -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
         -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for a 60% (55% in [Chime of Conflict](Chime_of_Conflict.md)) reduction in critical cooldown overall.
     -   [Bloodless Gem](Bloodless_Gem.md) reduces your critical damage, but gives you healing based on damage dealt.
-    -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is 1:1 with scaled damage dealt; it cannot be increased nor decreased through modifiers or resistances.
+    -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is 1:1 with scaled damage dealt; it cannot be increased nor decreased through modifiers or resistances. This effect does not have PvE scaling.
     -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
     -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%.
         -   The posture damage bonus can be increased with the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) Talent, scaling on how many Might Gems you have equipped on your Mantras.
     -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit.
     -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
-    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on.
-    -   [Wrath Gem](Wrath_Gem.md) does not work (in general), though it can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
+    -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on hit.
+    -   [Wrath Gem](Wrath_Gem.md) does nothing due to being bugged, though it can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
     -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light OR 30 Medium OR 30 Heavy)
 
 ### Ironsinger
@@ -2471,7 +2471,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md) Exclusive\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
-    -   Your basic attacks will apply Burn, Shock, Chill, Winded, Shadow, and Metal Rods all at once.
+    -   Your basic attacks will apply Burn, Shock, Chill, Winded, Shadow, Metal Rods, and Blood Poison all at once.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
 
 ### Saint of Blades
@@ -2750,6 +2750,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Shock Therapy
 
 -   Grounding Bolt \[Common Talent, Thundercall Exclusive\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
+    -   Storm Strikes from the [Specialist Set](Specialist_Helmet.md) Talents, [Storm](Storm.md) Enchant during the rain, Scorched Peak, Fulgurite Formation's lightning strikes all proc this Talent.
+    -   Discovery of Fire does not proc this Talent.
     -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
 ### Showboater
@@ -3804,7 +3806,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Actions Speak Louder: [Warmaster's Medallion](<Warmaster's_Medallion.md>) - Your Critical Attack cooldown is 20% shorter, but your Resonance cooldown is 20% longer. In areas where your Resonance is suppressed, reduce your cooldown by 10% instead.
     -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
-    -   This effect is applied before Critical Engine Blessed Gem is applied, allowing for a very short critical cooldown.
+    -   This effect is applied before Critical Engine Blessed Gem is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain.

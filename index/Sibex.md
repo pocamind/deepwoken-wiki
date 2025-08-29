@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 160156
+revid: 160191
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -44,6 +44,11 @@ Where Sibex can be found
 -   **Resonance obtained:** “Well look at you, my friend! You're practically beaming with the Song!”
 
 NOTE: Getting the high progress or Resonance imminent dialogues **could** mean that you are ready to test for a Resonance, however neither of them guarantees a bell, but it is likely available for you if you get either of these dialogues.
+
+Sibex is also able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra upon meeting certain requirements:
+
+-   Have the [Chorus of Souls](Talents.md#sage-of-wisps) Talent.
+-   Have a [Resonance](Resonance.md).
 
 ## Dialogue
 
