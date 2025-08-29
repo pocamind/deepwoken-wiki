@@ -1,6 +1,6 @@
 ---
 title: Soul Beam
-revid: 160115
+revid: 160199
 source: https://deepwoken.fandom.com/wiki/Soul_Beam
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Hybrid Abilities#Soul Beam](Hybrid_Abilities.md#soul-beam)
+-   [Oath: Oathless#Soul Beam](Oath%253A_Oathless.md#soul-beam)

@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 160190
+revid: 160204
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -211,6 +211,39 @@ Wind + Lightning + Slash
 -   Compatible with Surge Path and Specter Path.
 
  |
+
+### _Requires [Oathless](Oath%253A_Oathless.md):_
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Soul Beam** (☆☆☆)
@@ -230,24 +263,30 @@ _Harness your Chorus of Wisps to unleash a devastating blast._
  |
 | 
 
-150 Ether
+150 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
-Chorus of Souls, have a [Resonance](Resonance.md), Talk to [Sibex](Sibex.md)
+[Chorus of Souls](Talents.md#chorus-of-souls), have a [Resonance](Resonance.md), Talk to [Sibex](Sibex.md)
 
  |
 | 
 
-**Effect:** _Charge up for ~4 seconds before unleashing a devastating, [unparryable](Combat_Mechanics.md#telegraphed-attacks) elemental beam._
+**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](Combat_Mechanics.md#telegraphed-attacks) elemental beam._
 
--   5 minute cooldown.
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
--   Soul Beam is listed as an "initiate level Physical Mantra" in Mystic dialogue.
+-   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
+-   5 minute cooldown.
+    -   Adding a [Blessed Gem](Blessed_Gem.md) will greatly reduce cooldown.
+        -   Note: it will proc ONLY if you hit someone with the last tick of the beam.
+-   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
+    -   Cannot be canceled manually by caster and unfeintable.
+    -   Getting hit by a Vent will cancel it.
+-   Can turn while shooting beam.
 
  |
 

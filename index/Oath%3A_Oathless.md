@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 160161
+revid: 160206
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,18 +80,83 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 
 ### Combat Mantras
 
-After obtaining the [Chorus of Souls](Talents.md#sage-of-wisps) Talent and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to obtain the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.** Can be only obtained from [Whisper Draw](Whisper_Draw.md).
+After obtaining the [Chorus of Souls](Talents.md#sage-of-wisps) Talent and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to unlock the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.** It is then obtained from a [Whisper Draw](Whisper_Draw.md).
 
--   **Soul Beam** - Harness your Chorus of Wisps to unleash a devastating blast.
-    -   Can only be used while all Wisps are active.
-    -   Fires a spectrum beam out of your chest.
-    -   An entire beam deals about 250 total damage (needs more calculations). Unparryable, blockable. Can be dodged by going far enough from caster.
-    -   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
-    -   Has an unimaginably huge 5 minutes cooldown.
-        -   Adding Blessed gem will greatly reduce cooldown.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Soul Beam** (☆☆☆)
+
+**Combat Mantra**
+
+_Harness your Chorus of Wisps to unleash a devastating blast._
+
+ | 
+
+## Soul Beam (☆☆☆)
+
+  
+**Combat Mantra**  
+_Harness your Chorus of Wisps to unleash a devastating blast._
+
+ |
+| 
+
+150 Ether
+
+ | 
+
+Oath
+
+ | 
+
+[Chorus of Souls](Talents.md#sage-of-wisps), have a [Resonance](Resonance.md), Talk to [Sibex](Sibex.md)
+
+ |
+| 
+
+**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](Combat_Mechanics.md#telegraphed-attacks) elemental beam._
+
+-   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
+-   An entire beam deals about 250 total damage (needs more calculations). Unparryable, blockable. Can be dodged by going far enough from caster.
+-   5 minute cooldown.
+    -   Adding a [Blessed Gem](Blessed_Gem.md) will greatly reduce cooldown.
+-   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
     -   Can be canceled manually by caster.
-        -   Getting hit by a Vent will also cancel it.
-    -   Somewhat similiar to [Sightless Beam](Oath%253A_Blindseer.md).
+    -   Getting hit by a Vent will also cancel it.
+-   Can turn while shooting beam.
+-   Soul Beam is listed as an "initiate level Physical Mantra" in Mystic dialogue.
+
+ |
 
 ## Trivia
 

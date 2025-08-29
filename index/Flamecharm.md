@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 159911
+revid: 160211
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -289,7 +289,7 @@ Fire
     -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
 -   Inflicts Burn.
--   Can be modified with Cloud/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size.
 -   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 
  |
@@ -415,7 +415,7 @@ Fire
 -   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second coolodwn.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with Cloud/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
 
  |
@@ -453,8 +453,8 @@ Fire
 -   Has a base damage of 20/25/30/35/40 per level with 2.75 Flamecharm scaling.
 -   Deals 18/20/22/24/26 posture damage per level.
 -   Has a cooldown of 19.5 seconds.
--   The initial cast will take Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. the placement state lasts indefinitely until you cast Searing Snare again. Upon casting again, the Searing Snare will take more Ether and attack.
--   Upgrading the Mantra will additionally increase the placement range.
+-   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack.
+-   Upgrading the Mantra will increase the placement range.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away, but this also allows the Mantra to deal self damage, ragdolling the caster on hit.
 
@@ -623,7 +623,7 @@ Fire
 -   Inflicts Burn.
 -   Does not send the user into the air if missed.
 -   Can be upgraded with the "**Meteor Impact**" and "**Phoenix Impact**" Talents, allowing you to follow up with a meteor strike.
--   Can be modified with Cloud/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
 
  |
 | 
@@ -1021,7 +1021,7 @@ N/A
     -   Cannot be used in Layer 2 of the Depths at all.
     -   **Azure Flames** increases **Undying Flame'**s passive healing by 20%.
 -   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
--   Can be modified with Cloud Stone/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size.
+-   Can be modified with [Cloudstone](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size.
 -   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) causing the flame to passively heal nearby players. Stacks with its normal healing.
 -   Each modifier adds signs to the ritual cast.
 

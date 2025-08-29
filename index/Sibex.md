@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 160191
+revid: 160209
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -26,6 +26,8 @@ Where Sibex can be found
 
 **Sibex** is capable of telling you your current **[Resonance progress](Resonance.md#bell-progress)**, and what gives you the most **Resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him, and in return he will tell you the details of your Resonance obtainment method. Sibex will not take your thresher spine, you just need it to talk to him.
 
+### Resonance Path
+
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
@@ -45,9 +47,11 @@ Where Sibex can be found
 
 NOTE: Getting the high progress or Resonance imminent dialogues **could** mean that you are ready to test for a Resonance, however neither of them guarantees a bell, but it is likely available for you if you get either of these dialogues.
 
-Sibex is also able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra upon meeting certain requirements:
+### Soul Beam
 
--   Have the [Chorus of Souls](Talents.md#sage-of-wisps) Talent.
+Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra when talked to upon meeting certain requirements:
+
+-   Have the [Chorus of Souls](Talents.md#sage-of-wisps) Talent, requiring [Oathless](Oath%253A_Oathless.md) and 30 points in every [Attunement](Attunements.md).
 -   Have a [Resonance](Resonance.md).
 
 ## Dialogue
@@ -197,4 +201,4 @@ Sibex is also able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Ma
     -   It may have been because the outfit's design was lifted from [an outfit in Genshin Impact](References_and_Easter_Eggs.md), but this is speculation.
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue he would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
--   To obtain chorus beam from Sibex you need to have the [Sage of Wisps](Talents.md#sage-of-wisps) talents from [Oathless](Oath%253A_Oathless.md) and a [resonance.](Resonance.md)
+-   In the August 18th, 2025 update, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.

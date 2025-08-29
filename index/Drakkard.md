@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 157685
+revid: 160213
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Exclusive Aspects, Aspects, Developer Spec]
@@ -16,7 +16,7 @@ _Hailing from the Northern Luminant, these worshippers of the Edenkite are auspi
 
 ## Description
 
-A aspect of nomadic dragons from the North.
+An aspect of nomadic dragons from the North.
 
 ## Racial Traits
 

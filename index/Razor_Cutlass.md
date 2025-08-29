@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 157464
+revid: 160194
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
@@ -34,9 +34,9 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 
 ## Description
 
-The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily found in the [Starswept Valley](The_Starswept_Valley.md), \[\[Songseeker Wilds\] and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md).
+The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md).
 
-Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Weapons.md) effect and good PEN and boasts the highest weight of all medium weapons.
+Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Status_Effects.md#bleed) effect and good PEN.
 
 It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [Umbrite](Ores.md#umbrite), a [Dormant Splinter](Dormant_Splinter.md) and itself in [The Cold Forge](The_Cold_Forge.md).
 
