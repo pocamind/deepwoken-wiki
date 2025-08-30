@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 160278
+revid: 160286
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -11,7 +11,7 @@ categories: [Vendors, NPCs]
 | Barber | |
 |---|---|
 | name | Barber |
-| aspect | Adret (Etris, Isle of Vigils, Summer Isle, Castle Light), Vesperian (Greathive Aratel), Randomized (Guild base) |
+| aspect | Adret, Randomized (Guild base) |
 | location | Near Nerin in Etris, Inside the castle on Summer Isle, At the archives room in the Greathive Aratel, At the mantra shop in Isle of Vigils, In a corner of the Guild base, Inside Castle Light |
 
 “ Hey friend, need a new style? ”
@@ -20,7 +20,7 @@ categories: [Vendors, NPCs]
 
 ## Description
 
-The **Barber** is an NPC that allows customization to your character. They can change your appearance, change your name for 100, change the model of your [Resonance](Resonance.md) with 1, or remove the dye from one of your dyed items for free. Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abilities similar to him.
+The **Barber** is an NPC that allows customization to your character. They can change your appearance, change your name for 100, change the model of your [Resonance](Resonance.md) with 1, or remove the dye from one of your dyed items for free. Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abilities similar to them.
 
 ## Dialogue
 
@@ -116,7 +116,8 @@ The Top Shelf
 ## Trivia
 
 -   The Barber's own hair ID is 4735346886.
+-   Strangely, all of the overworld barbers, excluding the one in the guild base, are completely identical in apperance. It is unknown what this implies about the barbers and the Fadetrimmer Oath as a whole.
 -   The Barber is the only NPC that can customize your character in any meaningful way.
 -   Around the beginning of their addition, there were bugs that allowed certain aspects ([Celtor](Celtor.md), [Adret](Adret.md) and [Khan](Khan.md)) to have otherwise inaccessible faces when asked to reroll their face, such as the dead face and the Mudskipper face from the [Mudwoken](Mudwoken.md) update.
-    -   Even though it was completely cosmetic and lasted only for the time you were in the server (and being generally funny to see an Adret walking around with the Mudskipper face,) it was quickly patched in a shadow-update a day later.
+    -   Even though it was completely cosmetic and lasted only for the time you were in the server (and being generally funny to see an Adret walking around with the Mudskipper face), it was quickly patched in a shadow-update a day later.
 -   Near the beginning, he also couldn't change the face/mask of a Vesperian, saying "Uh, you kinda got a mask on, bud."
