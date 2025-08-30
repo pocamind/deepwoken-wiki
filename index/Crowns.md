@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 155995
+revid: 160258
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -34,22 +34,43 @@ Crown can be obtained in 2 ways: [World Bosses](Bosses.md#world-bosses) or [War 
 
 Crowns are able to be exchanged for Knowledge or Notes by interacting with the icon, where the user can choose a desired currency to exchange with. The exchange rate scales with your current level.
 
--   At level 1:
-    -   250 or 1 per Crown.
+#### Exchange Rate
 
--   At level 20:
-    -   1,000 or 5 per Crown.
+| [Power](Power.md) | [Notes](Notes.md) | [Knowledge](Knowledge.md) |
+| --- | --- | --- |
+| 1 | 250 | 1 |
+| 2 | ? | 1 |
+| 3 | ? | 1 |
+| 4 | 368 | 1 |
+| 5 | ? | ? |
+| 6 | 447 | 2 |
+| 7 | 468 | 2 |
+| 8 | ? | ? |
+| 9 | ? | ? |
+| 10 | ? | ? |
+| 11 | ? | ? |
+| 12 | 684 | 3 |
+| 13 | 723 | 3 |
+| 14 | 763 | 3 |
+| 15 | 802 | 3 |
+| 16 | 842 | 4 |
+| 17 | 881 | 4 |
+| 18 | ? | ? |
+| 19 | ? | ? |
+| 20 | 1,000 | 5 |
+
+  
 
 Some NPCs only deals in Crowns, these are:
 
 -   [Sev](Sev.md), the Dye Vendor, exchanging [Dye Packets](Dye_Packet.md) for 1 Crown a piece.
--   [Sordino](Sordino.md) the Tamer of Beasts, exchanging varying Mounts for Crowns.
--   While [Trahne Zakshun](Traan_Zakshun.md) sells goods for Notes normally, his Black Market wares are sold exclusively for Crowns.
+-   [Sordino](Sordino.md) the Tamer of Beasts, exchanging the [Thresher Mount](Mounts.md) for 3 Crowns.
+-   While [Traan Zakshun](Traan_Zakshun.md) sells goods for Notes normally, his Black Market wares are sold exclusively for Crowns.
 
 Note that currently, the Crown system is being slowly rolled out, meaning more uses/trades for Crowns are to be expected.
 
 ## **Trivia**
 
--   Due to it's relatively low difficulty, fighting the [Scion of Ethiron](Scion_of_Ethiron.md) can be a great way to farm crowns for people who can't fight the [Heart of Enmity](Heart_of_Enmity.md).
--   Crown are one of two currencies that can be interacted with by clicking them, the other being [Notes](Notes.md).
+-   Due to it's relatively low difficulty, fighting the [Scion of Ethiron](Scion_of_Ethiron.md) can be a great way to farm Crowns for people who can't fight the [Heart of Enmity](Heart_of_Enmity.md) or don't want to wait for World Events.
+-   Crown are one of two currencies that can be interacted with by clicking their icons, the other being [Notes](Notes.md).
     -   Clicking Crowns allows you to exchange them for Notes/Knowledge, while clicking Notes allows you to drop up to 1000 Notes at a time.

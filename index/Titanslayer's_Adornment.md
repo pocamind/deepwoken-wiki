@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 157251
+revid: 160263
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]

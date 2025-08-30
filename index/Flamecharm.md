@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 160211
+revid: 160251
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -454,6 +454,7 @@ Fire
 -   Deals 18/20/22/24/26 posture damage per level.
 -   Has a cooldown of 19.5 seconds.
 -   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack.
+-   Parrying or getting hit during the attack windup will cancel the explosion.
 -   Upgrading the Mantra will increase the placement range.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away, but this also allows the Mantra to deal self damage, ragdolling the caster on hit.

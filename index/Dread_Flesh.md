@@ -1,6 +1,6 @@
 ---
 title: Dread Flesh
-revid: 157368
+revid: 160248
 source: https://deepwoken.fandom.com/wiki/Dread_Flesh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]
@@ -25,4 +25,4 @@ categories: [Ingredients, Items]
 ## Uses
 
 -   Cooked into [Dread Fillet](Food.md).
-    -   [Dread Fillet](Food.md) gives 50 Hunger, 20 Thirst, and 15 "Throat" buff. Throat increases your Taunt duration by 8 seconds, your Command: Fight duration by 7.5 seconds, and grants Sing a noticeable range increase.
+    -   [Dread Fillet](Food.md) gives 50 Hunger, 20 Thirst, and 15 "Vocal" buff. Throat increases your Taunt duration by 8 seconds, your Command: Fight duration by 7.5 seconds, and grants Sing a noticeable range increase.
