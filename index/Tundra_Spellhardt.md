@@ -1,6 +1,6 @@
 ---
 title: Tundra Spellhardt
-revid: 152430
+revid: 160223
 source: https://deepwoken.fandom.com/wiki/Tundra_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]
@@ -31,7 +31,6 @@ Tundra is female [Lightborn](Lightborn.md) located in [The Floating Keep](The_Fl
 <tr>
   <td>I guess so.</td>
   <td>Is it usually just Spellhardts here?</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>I hope the others haven't been giving you a hard time. They usually are only able to take out anger on eachother, so hopefully that hasn't extended to you.</td>

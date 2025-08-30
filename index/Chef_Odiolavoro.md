@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 159411
+revid: 160219
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -121,6 +121,11 @@ File:Dread Fillet Witherald.png
 | 
 
  | Heavy Steak | 1x Raw Heavy Meat | ◯ |
+| 
+
+File:Grilled Parasol Brain Witherald.png
+
+ | Grilled Parasol Brain | 1x Raw Parasol Brain | ◯ |
 
 ## Dialogue
 

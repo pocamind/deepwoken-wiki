@@ -1,6 +1,6 @@
 ---
 title: Empyrean Lotus
-revid: 147281
+revid: 160226
 source: https://deepwoken.fandom.com/wiki/Empyrean_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables, Ingredients]
@@ -8,7 +8,7 @@ categories: [Items, Harvestables, Ingredients]
 
 # Empyrean Lotus
 
-| Hellfire Lotus | |
+| Empyrean Lotus | |
 |---|---|
 | value | 15 |
 | weight | 1 |

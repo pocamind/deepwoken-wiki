@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 158663
+revid: 160228
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics, Quests, Vendors]
@@ -12,11 +12,11 @@ In various locations throughout both seas, certain NPCs can be spotted holding l
 
 Judging by their outfits and dialogue, these are [Bandit Leaders](Bandit_Leader.md) who figured out an easy method of making money - by scamming poor souls.
 
-Erisae.
-
 ## Erisae
 
 An NPC located inside [Erisor's Church](<Erisor's_Church.md>).
+
+Erisae.
 
 ### Lootpool
 
@@ -29,6 +29,8 @@ An NPC located inside [Erisor's Church](<Erisor's_Church.md>).
 ## Kujae
 
 An NPC located at [Summer Isle](Summer_Isle.md), outside the Inn.
+
+Kujae
 
 ### Lootpool
 
@@ -45,6 +47,8 @@ An NPC located at [Summer Isle](Summer_Isle.md), outside the Inn.
 
 An NPC located at [Songseeker Wilds](Songseeker_Wilds.md).
 
+Jeandae
+
 ### Lootpool
 
 -   Capes
@@ -59,6 +63,8 @@ An NPC located at [Songseeker Wilds](Songseeker_Wilds.md).
 ## Malisae
 
 An NPC located at [Miner's Landing](<Miner's_Landing.md>).
+
+Malisae
 
 ### Lootpool
 
@@ -75,6 +81,8 @@ An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 ## Marae
 
 An NPC located inside [The Lordsgrove](The_Lordsgrove.md).
+
+Marae
 
 ### Lootpool
 

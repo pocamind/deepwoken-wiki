@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 160179
+revid: 160220
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -194,14 +194,14 @@ A Khan with great stature, he's around twice the height of the player. He has wr
 
 ## Tips and Strategies
 
--   -   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before you have a chance to deal enough damage to receive a healing orb. They also do not respawn, so this is a one-time opportunity.
-    -   **Second Phase Transition Healing**: During the brief dialogue sequence as Titus transitions into his second phase, there is a small window where you can place a campfire to recover health.
-    -   **Vampirism Enchantment**: An enchanted weapon with **Vampirism** is highly effective in this fight. This is because it grants temporary health rather than an outright heal, which allows you to bypass the effects of **Blightsurge Wither**.
-    -   **Evading Chorus Divide**: His **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
-    -   **Second Phase M1 Attack**: It is important to note that his standard M1 attack string appears to be unparryable during his second phase, though this requires further confirmation. Therefore, it is safer to focus on dodging this attack rather than attempting to parry.
-    -   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining your defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use your mantras for ranged damage when necessary.
-    -   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximatly deal 15000 damage which helps out plenty when fighting him **This strategie needs a good understanding of the move's timing and if you fail to do it you will pay a hefty price**  
-        
+-   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before you have a chance to deal enough damage to receive a healing orb. They also do not respawn, so this is a one-time opportunity.
+-   **Second Phase Transition Healing**: During the brief dialogue sequence as Titus transitions into his second phase, there is a small window where you can place a campfire to recover health.
+-   **Vampirism Enchantment**: An enchanted weapon with **Vampirism** is highly effective in this fight. This is because it grants temporary health rather than an outright heal, which allows you to bypass the effects of **Blightsurge Wither**.
+-   **Evading Chorus Divide**: His **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
+-   **Second Phase M1 Attack**: It is important to note that his standard M1 attack string appears to be unparryable during his second phase, though this requires further confirmation. Therefore, it is safer to focus on dodging this attack rather than attempting to parry.
+-   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining your defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use your mantras for ranged damage when necessary.
+-   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximatly deal 15000 damage which helps out plenty when fighting him **This strategie needs a good understanding of the move's timing and if you fail to do it you will pay a hefty price**  
+    
 
 ## Rewards
 

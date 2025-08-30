@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 110748
+revid: 160222
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Luck, Mechanics]
@@ -16,7 +16,7 @@ As of the _**[Verse 2](Version_History/2026.md)**_ update, Luck has been removed
 
 ## Overview
 
-The new luck effect, emits a "shining" noise and has a oval-like shape which zooms in and out on the character.
+The luck effect, it emits a "shining" noise and has a oval-like shape which zooms in and out on the character.
 
 Luck was a feature shown on the bottom right of your screen. This value had a maximum of 45% and a minimum of 25%.
 
