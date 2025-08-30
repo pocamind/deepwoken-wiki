@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 160247
+revid: 160270
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -69,7 +69,7 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 
 -   **Chorus of Souls** - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
     -   Grants heightened health regeneration while all Wisps are active.
-    -   Prerequisites: Oathless, and every attunements wisp.
+    -   Prerequisites: Oathless, 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
 
 -   **Wisp Convergence** - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra active.

@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 160258
+revid: 160274
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -26,7 +26,7 @@ Crowns are an end-game currency that can be obtained from completing end game ac
 Crown can be obtained in 2 ways: [World Bosses](Bosses.md#world-bosses) or [War Mode](War_Mode.md).
 
 -   **World Bosses** (namely [Heart of Enmity](Heart_of_Enmity.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md)) will reward up to 2 Crowns (based on contribution) when defeated.
-    -   Scion of Ethiron however is exempt from that, being capped at 1 Crown.
+    -   [Scion of Ethiron](Scion_of_Ethiron.md) however is exempt from that, being capped at 1 Crown.
 -   **War Mode** will reward Crowns to the winning guild based on individual contribution and the Warchest score.
 -   **[Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md)** will also reward crowns on kill most likely capped at 1.
 
@@ -36,30 +36,115 @@ Crowns are able to be exchanged for Knowledge or Notes by interacting with the i
 
 #### Exchange Rate
 
-| [Power](Power.md) | [Notes](Notes.md) | [Knowledge](Knowledge.md) |
-| --- | --- | --- |
-| 1 | 250 | 1 |
-| 2 | ? | 1 |
-| 3 | ? | 1 |
-| 4 | 368 | 1 |
-| 5 | ? | ? |
-| 6 | 447 | 2 |
-| 7 | 468 | 2 |
-| 8 | ? | ? |
-| 9 | ? | ? |
-| 10 | ? | ? |
-| 11 | ? | ? |
-| 12 | 684 | 3 |
-| 13 | 723 | 3 |
-| 14 | 763 | 3 |
-| 15 | 802 | 3 |
-| 16 | 842 | 4 |
-| 17 | 881 | 4 |
-| 18 | ? | ? |
-| 19 | ? | ? |
-| 20 | 1,000 | 5 |
-
-  
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><a href="Power.md">Power</a></th>
+  <th><a href="Notes.md">Notes</a></th>
+  <th><a href="Knowledge.md">Knowledge</a></th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>250</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>?</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>?</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>368</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>447</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>468</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>684</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>723</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td>763</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>802</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>16</td>
+  <td>842</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td>881</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td>19</td>
+  <td>?</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td>1,000</td>
+  <td>5</td>
+</tr>
+</tbody>
+</table>
 
 Some NPCs only deals in Crowns, these are:
 

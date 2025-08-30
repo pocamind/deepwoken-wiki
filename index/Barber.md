@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 153602
+revid: 160278
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -77,7 +77,7 @@ The **Barber** is an NPC that allows customization to your character. They can c
 </tr>
 <tr>
   <td colspan="8"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">End, player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td>
   <td colspan="2"></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160187
+revid: 160272
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1510,9 +1510,11 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
 -   _**All Above, Gods Below**_ \[Advanced Talent, Willpower Exclusive\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you. (+20 Sanity)
-    -   Similar to Saint Jay's effect, healing will be redirected from opponents under the effect of your anti-heal.
-    -   This will not proc if you are the one who applied the healing, you cannot heal your opponent to have the heals redirected back towards you.
-    -   This only procs on non-passive healing; something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not, to name a few examples.
+    -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
+        -   Lasts 8 seconds after an All the Dead Gods proc at reqs.
+        -   The duration of All Above, Gods Below's is reduced if you do not meet its requirements, lasting a mere 4 seconds with 75 Willpower and 75 Intelligence.
+    -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
+    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   This does not stack with Saint Jay.
     -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
 

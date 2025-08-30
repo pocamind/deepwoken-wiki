@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 156207
+revid: 160273
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -16,7 +16,7 @@ categories: [The Depths, Layer 1]
 
 ## Description
 
-The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 free points when completed in exchange. If done with multiple players the reward is split between the people. **The Shrine of Courage can only be used once if you have completed it.**
+The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 full training points when completed in exchange. If done with multiple players the reward is split between the people. **The Shrine of Courage can only be used once if you have completed it.**
 
 ## Trial Information
 
@@ -35,12 +35,12 @@ The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cat
 <tr>
   <td>10 and Over</td>
   <td>2</td>
-  <td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="Thresher.md">King Thresher</a></td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Fury_Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="King_Thresher.md">King Thresher</a></td>
 </tr>
 <tr>
   <td>17 and Over</td>
   <td>2-3</td>
-  <td><b>Corrupted</b> <a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="Thresher.md">King Thresher</a></td>
+  <td><b>Corrupted</b> <a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Fury_Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="King_Thresher.md">King Thresher</a></td>
 </tr>
 </tbody>
 </table>

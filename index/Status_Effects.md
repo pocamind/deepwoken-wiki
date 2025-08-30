@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 159720
+revid: 160271
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -89,7 +89,7 @@ While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of 
 
 #### Void
 
-While under the effects of Void, you have [anti-heal](#anti-heal) and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 30 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Curse of Void enchantment has no visual effect on proc.
+While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 30 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Curse of Void enchantment has no visual effect on proc.
 
 ### Fear
 
@@ -392,6 +392,10 @@ Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whene
 
 Applied through the [Reinforced War Set's](Reinforced_War_Helmet.md) Talent _Lasting Trauma_; be unable to use your weapon critical for **9 seconds** after being hit by a [Strength](Attunement-less.md#strength) Mantra that has a [Wrath Gem](Wrath_Gem.md) equipped. Note: you need to be wearing the **full** Reinforced War set for this to proc, this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) all need to be equipped. Indicated by pink shard effects rapidly escaping your character.
 
+### Etherguard
+
+Applied through the [Bluestone Set's](Bluestone_Pauldrons.md) _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based off their Ether cost for a short duration.
+
 ### Embraced in Light
 
 Grants immunity to enemy [Deep Gems](Deep_Gems.md) for 3 minutes. Once this duration is over, you will need to defeat a [boss](Bosses.md) or a player of equal [power](Power.md) to recharge it ([Chime](Chime_of_Conflict.md) kills do not count). Applied through using the Elegy of Light Talent tool from the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) equipment. Signified by a white circling aura with white beams on your character.
@@ -451,6 +455,10 @@ Gain brief invincibility frames after dodging an attack. Applied through the [Ri
 ### Bloodlusted
 
 A [speed boost](#speed-boost) triggered by executing someone while you have [Time to Go](Talents.md#acrobat). Signified by red glowing eyes.
+
+### All Above, Gods Below
+
+While under the effects of All the Dead Gods' [anti-heal](#anti-heal), all non-passive healing you receive will be granted to the caster instead. The activation window for this effect will be reduced if you do not meet the requirements of this Talent. Signified by a much deeper blurple hue on your anti-heal.
 
 ### Last Resort
 
