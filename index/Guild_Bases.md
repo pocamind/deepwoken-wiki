@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 159706
+revid: 160296
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -9,6 +9,12 @@ notices:
 ---
 
 # Guild Bases
+
+LocationL \[Guild Name\]'s Base LocationR
+
+The headquarters of \[Guild Name\], and a testament to their achievements.
+
+  
 
 ## Overview
 

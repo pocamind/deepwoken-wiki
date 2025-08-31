@@ -1,6 +1,6 @@
 ---
 title: Songwright
-revid: 160291
+revid: 160295
 source: https://deepwoken.fandom.com/wiki/Songwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Attunement Trainers, Guilds]
@@ -16,6 +16,46 @@ categories: [Chrysid NPCs, NPCs, Attunement Trainers, Guilds]
 ## Description
 
 The Songwright is a Chrysid NPC found within the Guild Base Song Room. This NPC functions as a Mantra trainer for all [Attunements](Attunements.md), including [Attunement-less](Attunement-less.md), allowing you to comfortably level any Mantra on the fly. The Songwright's appearance varies from guild to guild, but they are always a [Chrysid](Chrysid.md) wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit.
+
+## Dialogue
+
+**Player is from Guild:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, one of my generous patrons! How may I assist you? Care for a lecture? A seminar?</td>
+</tr>
+<tr>
+  <td colspan="12">Can you help me grow stronger?</td>
+</tr>
+<tr>
+  <td colspan="12">[Opens Mantra Upgrade UI]</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is not from Guild:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hm? Do not bother me. This guild is at the forefront of my priorities. They alone have seen the virtues of funding my research...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Notes
 

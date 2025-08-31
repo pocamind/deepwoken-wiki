@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 160090
+revid: 160294
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -140,3 +140,8 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Divers
 
 -   **Thresher Rescue**
     -   Tasks the player with slaying a [King Thresher](King_Thresher.md). Three [Divers](Diver.md) will spawn to assist the player.
+        
+
+## Trivia
+
+-   Attempting to start another job while assigned too many in one area will prompt the text "I might have a few too many jobs in \[Area\] to take care of right now..."
