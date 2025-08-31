@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 159066
+revid: 160336
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -22,18 +22,15 @@ categories: [Items, Drops, Ingredients]
 
 **Doom of Caeranthil's Scale** is a direct drop from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). Only one of these drops out of at least a hundred or more kills, making this item immeasurably rare and very highly sought after.
 
-it has an estimated drop chance of 1/250~
-
 ## Uses
 
 -   Trading with [The Gaunt Man](The_Gaunt_Man.md) for an [Aegis Gem](Aegis_Gem.md).
 -   Used as a crafting component for the following items:
+    -   [Champion's Alloy](<Champion's_Alloy.md>)
     -   [Reinforced War Helmet](Reinforced_War_Helmet.md)
     -   [Reinforced War Plate](Reinforced_War_Plate.md)
     -   [Specialist Plate](Specialist_Plate.md)
 
 ## Trivia
 
--   This item and the [Parasol Part](Parasol_Part.md) have the third highest sell value out of all other items in the game, being 5,000.
-    -   With [Snake Oil](Talents.md#silvertongue), you can sell this for 7,000.
 -   This item's model is identical to the [Lionfish Scale](Lionfish_Scale.md) but upscaled.

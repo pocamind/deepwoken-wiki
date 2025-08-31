@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 158375
+revid: 160334
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -33,5 +33,5 @@ categories: [Items, Drops, Ingredients]
 
 ## Trivia
 
--   This item and the [Titus' Armor Piece](<Titus'_Armor_Piece.md>) have the second highest sell value out of all other items in the game, being 6,000.
+-   This item and the [Titus' Armor Piece](<Titus'_Armor_Piece.md>) have the third highest sell value out of all other items in the game, being 6,000.
     -   With [Snake Oil](Talents.md#silvertongue), you can sell this for 8,400.

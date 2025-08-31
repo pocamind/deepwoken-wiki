@@ -1,6 +1,6 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 158567
+revid: 160338
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,10 +25,11 @@ categories: [Items, Drops, Ingredients]
 ## Uses
 
 -   Used as a crafting component for the following items:
+    -   [Champion's Alloy](<Champion's_Alloy.md>)
     -   [Reinforced War Plate](Reinforced_War_Plate.md)
     -   [Specialist Plate](Specialist_Plate.md)
 
 ## Trivia
 
--   This item has the highest sell value out of all other items in the game, being 10,000.
+-   This item has the second highest sell value out of all other items in the game, being 10,000.
     -   With [Snake Oil](Talents.md#silvertongue), you can sell this for 14,000.

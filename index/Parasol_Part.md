@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 155188
+revid: 160337
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -29,6 +29,4 @@ categories: [Items, Drops, Ingredients]
 ## Trivia
 
 -   The item's description hints at being used for making armor, however there currently aren't any known [Outfits](Outfits.md) or [Equipment](Equipment.md) that utilize this item in their crafting recipe.
--   This item and the [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) have the third highest sell value out of all other items in the game, being 5,000.
-    -   With [Snake Oil](Talents.md#silvertongue), you can sell this for 7,000.
 -   This item's model is identical to the [Strange Claw](Strange_Claw.md).

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160293
+revid: 160329
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1723,7 +1723,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
     -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
-    -   [Aegis Gem](Aegis_Gem.md) grants you 20% damage reduction for 10 seconds on hit.
+    -   [Aegis Gem](Aegis_Gem.md) grants you 10% damage reduction for 10 seconds on hit.
     -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
         -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for a 60% (55% in [Chime of Conflict](Chime_of_Conflict.md)) reduction in critical cooldown overall.
     -   [Bloodless Gem](Bloodless_Gem.md) reduces your critical damage, but gives you healing based on damage dealt.

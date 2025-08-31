@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 160271
+revid: 160328
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -590,11 +590,11 @@ These status effects are applied when landing a Mantra with a certain [Deep Gem]
 
 ### Wrath
 
-Increases weapon critical damage taken by ?% for 9 seconds, applied by landing a Mantra with a [Wrath Gem](Wrath_Gem.md) equipped. Additionally, this allows you to proc the Talents from the [Reinforced War Set](Reinforced_War_Helmet.md). This effect has no visual indicator.
+This effect allows you to proc the Talents from the [Reinforced War Set](Reinforced_War_Helmet.md) and lasts 9 seconds after landing a Mantra with the [Wrath Gem](Wrath_Gem.md) equipped. This effect has no visual indicator.
 
 ### Aegis
 
-Gain 20% damage reduction for 10 seconds. This effect is activated by landing a Mantra that has the [Aegis Gem](Aegis_Gem.md) equipped onto it. Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character. Signified by a pink translucent, cylindrical dome on your character.
+Gain 10% damage reduction for 10 seconds, applied by landing a Mantra with the [Aegis Gem](Aegis_Gem.md) equipped. Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character. Signified by a pink translucent, cylindrical dome on your character.
 
 ## NPC Exclusive
 

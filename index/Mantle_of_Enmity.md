@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 155581
+revid: 160330
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -30,7 +30,7 @@ categories: [Equipment, Torso, Items, Relics]
 
 The **Mantle of Enmity** is a Unique [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
 
-This equipment grants the [Heartwing Beat](Talents.md#spoils-of-enmity) Talent, transforming your aerial attack into a quick slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 15 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash.
+This equipment grants the [Heartwing Beat](Talents.md#spoils-of-enmity) Talent, transforming your aerial attack into a quick slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 15 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash. This attack procs all "On Critical" Talents.
 
 This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred.md) Talent.
 
@@ -43,3 +43,4 @@ Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor
 -   When worn, the wings will flow behind you if you have the Cloth Physics setting enabled.
 -   This item is currently unable to be banked.
 -   The rates seem to have been shadow buffed during the 3/16/2025 update.
+-   Using the [Critical Engine](Talents.md#intellisense) Talent allows your Mantle of Enmity to proc [Deep Gems](Deep_Gems.md). [Blessed Gem](Blessed_Gem.md) on Mantle of Enmity does not reduce the cooldown of the Mantle, instead it halves the cooldown of your weapon critical.

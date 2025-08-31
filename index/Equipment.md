@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 160107
+revid: 160340
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -3025,6 +3025,37 @@ Legs: [Celtorian Sabatons](Celtorian_Sabatons.md)
  |
 |  | 
 
+[Champion's Cape](<Champion's_Cape.md>)
+
+(**Animated**)
+
+(**Unique**)
+
+ | 
+
+_+10% Lightning Armor_
+
++2 Rare Pips
+
++1 Legendary Pip
+
+_+Talent: No Interruptions_
+
+**Requires Power 20**
+
+ | 
+
+Found from:
+
+-   Crafting in the [Detainment Core](Merit_Detainment_Core.md)
+
+ | 
+
+N/A
+
+ |
+|  | 
+
 [Dark Owl Cloak](Dark_Owl_Cloak.md)
 
 (**Set**)
@@ -4782,7 +4813,7 @@ _+10% Lightning Armor_
 
 Found from:
 
--   [Titus](Titus_Fulminus_Destellus.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | 
 
@@ -5492,7 +5523,7 @@ _+Talent: Surestep_
 
 Found from:
 
--   [Crafting](Crafting_Station.md)
+-   [Crafting](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
 
  | 
 
@@ -7088,7 +7119,7 @@ _+Talent: Wormwarder_
 
 Found from:
 
--   [Crafting](Crafting_Station.md)
+-   [Crafting](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
 
  | 
 
