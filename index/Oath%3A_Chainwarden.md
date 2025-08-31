@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 156785
+revid: 160313
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -100,7 +100,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   **Restrain** - Deliver a powerful kick that binds your opponent's soul to yours.
     -   Deals 10 posture, and 31 Oath damage, increasing damage by +8 with each Perpetual Wrath stack. (Max of 55)
     -   Will inflict Enchained (Single target), Perpetual Wrath, and lowers in cooldown when landed, including on block.
-    -   Ignores [Return to the Dark Ages](https://deepwoken.fandom.com/wiki/Talents#Miscellaneous) and [Bloodless Gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems).
+    -   Ignores [Bloodless Gem](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Deep_Gems).
     -   Dazes for 0.5 seconds.
     -   Procs Tough Love on uncharmed targets.
     -   1 second cooldown when landed, including on block.
@@ -151,6 +151,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   On release, despite Chainwarden only having 2 Mantras and no talents, Melonbeard stated the Oath was finished (In response to Arch (Arch\_Mage) calling it unfinished[\[1\]](#cite-note-1))
     -   Afterwards, Arch\_Mage updated the Oath adding Impel and Chainlash, along with reworking Perpetual Wrath to a talent.
 -   Previously left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
+-   Restrain previously ignored Return to the Dark Ages, an old removed talent.
 
 ## References
 

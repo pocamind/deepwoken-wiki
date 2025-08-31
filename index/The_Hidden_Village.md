@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 129461
+revid: 160314
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations]
@@ -45,7 +45,7 @@ Events that spawn in The Hidden Village that involve combat. For more info, see 
 
 -   [Nimea](Nimea.md), an [Etrean](Etrean.md) who gives you insight about Lightkeepers and their place in the world.
 -   [Shrine of Blasphemy](Deep_Shrines.md), who allows you to take 3 power levels (45 attunement points), however you also get a random flaw you don't already own.
--   [Marcus](Marcus.md), a chill [Stone Golem](Rock_Golem.md) who loves sipping coffee. Gives good life advice in a few words.
+-   [Marcus](Marcus.md), a chill [Stonespark](Stonespark.md) who loves sipping coffee. Gives good life advice in a few words.
 
 ## Maps
 

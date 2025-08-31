@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 159922
+revid: 160318
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -47,7 +47,7 @@ Blizzard Knights are a far stronger version of the Stone Knight, spawning in a p
 
 **Wind Cutter**
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. |  | ◯ | ◯ | ◯ | (★★☆) |
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. Deals Galebreathe damage. |  | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 **Terra Eruption**

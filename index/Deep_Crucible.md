@@ -1,6 +1,6 @@
 ---
 title: Deep Crucible
-revid: 154612
+revid: 160316
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,4 +28,5 @@ So far, it has been seen to drop Erisia loot, Deep gems and Enchants
 
 ## Trivia
 
+-   If the player strays too far away from the Deep Crucible, the following text appears "You feel your connection to the Crucible sever..."
 -   Potentially bugged, if someone doing the challenge dies, that person's mobs will continue spawning on the person after they respawned.

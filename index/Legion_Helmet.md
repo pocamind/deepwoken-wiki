@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 160298
+revid: 160303
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -8,7 +8,7 @@ categories: [Equipment, Head, Helmets, Items]
 
 # Legion Helmet
 
-| Khan Helmet | |
+| Legion Helmet | |
 |---|---|
 | type | Head |
 | rarity | Rare |

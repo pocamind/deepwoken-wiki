@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 159566
+revid: 160306
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -188,7 +188,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Regek.md) and complete the Soulblooms quest.
 -   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any Oath, having a whopping 11 (Including the [Oath](Oaths.md) itself).
--   If you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) Silentheart while having a weapon equipped that you would not meet the requirements for afterwards, the weapon will **not** be unequipped, but you'll receive a penalty of dealing 35% less melee damage for not meeting the requirements of your weapon.
+-   ~If you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) Silentheart while having a weapon equipped that you would not meet the requirements for afterwards, the weapon will **not** be unequipped, but you'll receive a penalty of dealing 25% less melee damage for not meeting the requirements of your weapon.~ (This has been patched as of 8/18/2025)
 
 ## References
 

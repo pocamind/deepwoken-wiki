@@ -1,9 +1,9 @@
 ---
 title: The Birdcage
-revid: 149762
+revid: 160308
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Etrean Luminant]
+categories: [Locations, Etrean Luminant]
 ---
 
 # The Birdcage
@@ -13,13 +13,10 @@ LocationL The Birdcage LocationR
 Now abandoned, the floors still void of the ashes they so desparately crave.
 
   
+
 **The Birdcage** is a location found in _Deepwoken_. It is a landmark found in [Upper Erisia](Upper_Erisia.md) and is not owned by a faction.
 
 ## Overview
-
-File:In-game Birdcage Map Location.png
-
-The in-game map location
 
 The Birdcage resembles a lighthouse-like structure. It is on the furthest bottom right side the Erisia island, to the direct south south-east of the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 

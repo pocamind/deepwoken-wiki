@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 159958
+revid: 160305
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -183,4 +183,4 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 -   When [Mystic](Mystic.md) previously had unique dialogue for every Talent category, Jetstriker had the Mystic line "Journey before destination."
 -   Vigil's Grace card had another Oath name instead of Jetstriker, being "Oath: Windrunner"
 -   The old name "Windrunner" and Mystic quote for Jetstriker are both references to _The Stormlight Archive_.
--   Rush of Ancients does actually have a miniscule 0.07 second cooldown, this could be seen during the 08/18/2025 patch notes, when the devs accidentally removed the subsequent rolling cooldown.
+-   Rush of Ancients does actually have a miniscule 0.07 second cooldown, this is only viewable if the user clicked roll the frame after using Rush of Ancients.

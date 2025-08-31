@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 158199
+revid: 160325
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -26,14 +26,12 @@ A lore book called "[Coldheart's Journal](<Coldheart's_Journal.md>)" when equipp
 
 The Cold Forge is located inside the broken building that's used as a bridge by Light's Causeway and it is led up to by an obby and has ice blocking it's way.
 
-## Craftable Weapons
-
--   [Fondant Splitter](Fondant_Splitter.md)
--   [Umbrite Witherblade](Umbrite_Witherblade.md)
-
-## Craftable Equipment
+## Craftable Items
 
 -   [Celestial Boots](Celestial_Boots.md)
+-   [Champion's Alloy](<Champion's_Alloy.md>)
+-   [Fondant Splitter](Fondant_Splitter.md)
+-   [Umbrite Witherblade](Umbrite_Witherblade.md)
 
 ## Trivia
 
