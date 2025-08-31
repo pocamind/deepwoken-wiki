@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 160345
+revid: 160347
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -171,7 +171,7 @@ Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Kee
 -   Rising star is not used by pressing your Control + M2 keys, but by pressing your Crouch + Feint keybinds (whatever they are for you). For example, if you have Crouch on the C key and Feint on the F key, you need to press C + F to use Rising Star
 -   To make the Dreadstar appear, interact with one of the Ghosts on the ship and fight them.
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attachment)
--   **Silent Cascade, Rising Star,** and **normal uppercut** all share same keybinds, however there's a clear priority (the righter = the more prioritized)
+-   **Silent Cascade, Rising Star,** and **normal uppercut** all share same keybinds, however there's a clear priority (the left-er? = the more prioritized)
     -   **Silent Cascade > Rising Star > Uppercut**
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 160317
+revid: 160346
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
