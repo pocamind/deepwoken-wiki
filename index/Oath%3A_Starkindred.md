@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 159399
+revid: 160376
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -97,11 +97,13 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 -   **Celestial Assault** - Use your wings and deliver two critical blows.
     -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
     -   Deals 40 (20\*2) Oath damage with 1.65 Strength scaling.
+    -   Initial 0.5 second windup (with wings) and a 10 second cooldown.
 -   Obtained after the third Sinner kill.
 
 -   **Sinister Halo** - Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
     -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
     -   Deals 32 (3.2\*10) Oath damage with 1.65 Strength scaling.
+    -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
 -   Obtained after the second Sinner kill.
 
 ## Notes

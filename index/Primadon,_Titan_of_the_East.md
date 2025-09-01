@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 159490
+revid: 160383
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -80,54 +80,46 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 | 
 **Stomp**
 
- | Primadon raises its **right** foot and stomps once.
+(★☆☆)
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
+  
+
+ | Primadon raises its **right** foot and stomps once.
 
  |  |
 | 
 
 **Trample**
 
- | Primadon performs 3 quick stomps with its **left** foot.
+(★☆☆)
 
-Parryable:◯  
-Dodgeable:◯  
-Blockable:**\-**  
+  
+
+ | Primadon performs 3 quick stomps with its **left** foot.
 
  |  |
 | 
 
 **Punch**  
-★
+(★☆☆)
 
  | Primadon winds up its **left** arm to deliver a powerful punch. Only used against players that are in front of him but not near his legs.
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
 
  |  |
 | 
 
 **Kick**  
-★
+(★☆☆)
 
  | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting the player into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, Daze upon impact.
 
 If the enemy is above his waist, he will instead swat away the enemy, dealing an incredibly hard to react punch version of the kick.
 
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
-
  |  |
 | 
 
 **Grab**  
-★
+**(★★☆)**
 
  | Primadon crouches down, winds up its **right** arm, and grab a player in front of it to hurl it into the air. Deals 100~ damage.
 
@@ -135,37 +127,31 @@ Only used if the player is in front of Primadon and not near his legs.
 
 If you were holding block before getting grabbed and during it's full duration you will not get damaged, this is quite buggy however and might not work.
 
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
-
  |
 | 
 
 **Rock Throw**  
-★
+(★☆☆)
 
  | Primadon swipes the earth beneath him using his **right** arm, hurling 3 rocks at the player. Does massive amounts of damage and very difficult to parry.
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable◯  
 
  |
 | 
 
 **Disengage/Fade Away**
 
- | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two.
+(★☆☆)
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
+  
+
+ | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two.
 
  |
 | 
 
-**Enrage**
+**Enrage**(★★☆)
+
+  
 
  | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 160251
+revid: 160381
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -156,7 +156,7 @@ Fire
 -   Has a base damage of 18/21/24/27/30 per level with 2.75 Flamecharm scaling.
 -   Deals 18 posture damage at levels 1-4, guard breaks at level 5.
     -   At level 5, this Mantra takes 20 additional Ether on cast to retain its guard breaking property. This additional Ether cost cannot be reduced.
--   Has a cooldown of 10 seconds.
+-   Has a windup of 0.7 seconds and a cooldown of 10 seconds.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Breaks destructible objects on hit.
@@ -242,12 +242,13 @@ Fire
 
 -   Has a base damage of 25/30/35/40/45 per level with 2.75 Flamecharm scaling.
 -   Deals 6 posture damage.
--   Has a 0.5 second windup with a 10 second cooldown.
+-   Has a 0.6 second windup with a 10 second cooldown.
+-   Has a surprisingly large hitbox both horizontally and backwards.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
--   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration, capping at 1.2s with a +3 range modifier.
+-   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
 
  |
 | 
@@ -326,7 +327,7 @@ Fire
 
 -   Has a base damage of 24/26.5/29/30.5/32 per level, per hit (2) with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage on the first hit and 35 posture damage on the second, usually guard breaking your opponents.
--   Has a 0.5 second windup before the first hit with a 0.8 second delay between hits, and a 0.2 second endlag when the Mantra ends. Has a 10 second cooldown.
+-   Has a 0.6 second windup before the first hit with a 0.8 second delay between hits, and a 0.2 second endlag when the Mantra ends. Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   The second explosion ragdolls enemies.
 -   Inflicts Burn.
@@ -453,7 +454,7 @@ Fire
 -   Has a base damage of 20/25/30/35/40 per level with 2.75 Flamecharm scaling.
 -   Deals 18/20/22/24/26 posture damage per level.
 -   Has a cooldown of 19.5 seconds.
--   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack.
+-   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack after a 1 second windup.
 -   Parrying or getting hit during the attack windup will cancel the explosion.
 -   Upgrading the Mantra will increase the placement range.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
@@ -535,7 +536,7 @@ Fire + Blunt
 
 -   Has a base damage of 18/21/24/27/30 per level, per hit with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage per hit.
--   Has a 12 second cooldown with a 1 second delay between each hit.
+-   Has a windup of 0.45 seconds, a 12 second cooldown and a 1 second delay between each hit.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Cooldown resets if it lands or hits terrain, allowing you to recast it up to three times.
@@ -619,7 +620,7 @@ Fire
 
 -   Has a base damage of 20/23/26/29/32 per level with 2.75 Flamecharm scaling.
 -   Deals 10 posture damage.
--   Has a windup of 0.48 seconds with a 0.7 second endlag if whiffed. Has a 10 second cooldown.
+-   Has a windup of 0.55 seconds and a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Does not send the user into the air if missed.
@@ -659,6 +660,8 @@ Fire + Blunt
 **Effect:** User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
 
 -   The first hit has a base damage of 10/14/18/22/26 while the second hit has a base damage of 6/8.4/10.8/13.2/15.6 per level with 2.75 Flamecharm scaling.
+-   Has a windup of 0.65 seconds and a cooldown of 15 seconds.
+-   Has a very large circular hitbox that is comparable to venting.
 -   Deals 4 posture damage on the first hit and 2 on the second for a total of 6 posture damage.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
@@ -940,6 +943,7 @@ N/A
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Deals 1 damage.
+-   Has a windup of 0.9 seconds and a cooldown of 20 seconds.
 -   Will proc gems such as Wayward Gem.
 -   Can be upgraded by the **Concussive Flash** Talent, causing all blinded enemies to be dazed.
 -   Cannot be modified with Aeon/Eternal Logstones to blind for longer.

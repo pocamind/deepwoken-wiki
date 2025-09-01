@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 160348
+revid: 160379
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -434,7 +434,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Captain Greene</font></center></td>
-  <td><div><p>Your weapon's base damage is tied to your current <a href="Notes.md">Notes</a>.<br>
+  <td><div><p>Your weapon's base damage is tied to your current <a href="Notes.md">Notes</a>.</p>
+  <p><br>
+  Known thoughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed...</p>
+  <p><br>
   While at 0 Notes, lose 15% of your weapon's base damage. If your Notes are above 0, increase your weapon's base damage instead, capping at +15% base damage with 15k Notes.</p>
   <p>Upon taking damage, lose 100 Notes. Upon dealing damage, steal 50 of your opponent's Notes. Both of these effects are signified by a coin splash sound effect.<br>
   You do not lose nor gain Notes from non-player enemies.</p>
