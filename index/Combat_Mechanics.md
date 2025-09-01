@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 160130
+revid: 160417
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -450,6 +450,7 @@ Image
 | White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ✗ |
 | All attacks that have this attribute:
 
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit

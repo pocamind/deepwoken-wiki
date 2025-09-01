@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 156276
+revid: 160432
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -54,3 +54,4 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 ## Trivia
 
 -   The reputation needed for the High rep dialogue, is a bit more than just ally rep.
+-   The use of the latin terms _Salve_ and _teneō_ strongly points toward someone associated with **Ancient Rome** or at least a Roman-influenced culture

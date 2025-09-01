@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 160381
+revid: 160407
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -368,6 +368,7 @@ Fire
 
 **Effect:** User throws 3 quick burning daggers.
 
+-   Both variants are currently bugged with a very inconsistent hitbox. (September 2025)
 -   Has a base damage of 8.33/9.33/10.33/11.33/12.33 per level, per hit (3) with 2.75 Flamecharm scaling.
 -   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 2.75 Flamecharm scaling.
 -   The base variant deals 4 posture damage per dagger, while the Tornado spark variant deals 3 posture damage per dagger with an additional 5 posture damage per tornado hit (2).

@@ -1,6 +1,6 @@
 ---
 title: Bread
-revid: 159337
+revid: 160410
 source: https://deepwoken.fandom.com/wiki/Bread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Food Ingredient, Items]
@@ -10,7 +10,7 @@ categories: [Food, Food Ingredient, Items]
 
 | Bread | |
 |---|---|
-| weight | None |
+| weight | 1 |
 | stack | x?? |
 | type | Food |
 | food type | Generic |
@@ -19,7 +19,7 @@ categories: [Food, Food Ingredient, Items]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Grilled. Nice. |
+| desc | It's not sourdough, but it'll dough. |
 
 ## Description
 
@@ -37,7 +37,7 @@ When consumed, it replenishes 20% Stomach and 2% Water.
 
 -   3 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
 
-### Used In
+### Used in
 
 -   [Crab Pizza](Crab_Pizza.md) - 1 [Crustacean Meat](Crustacean_Meat.md), 1 Bread, 1 [Cheese](Cheese.md).
 -   [Grilled Cheese](Grilled_Cheese.md) - 1 [Cheese](Cheese.md), 1 Bread at a [Campfire](Campfire_Pit.md).
