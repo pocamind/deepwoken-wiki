@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 160219
+revid: 160355
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -87,7 +87,11 @@ File:YummerGrilledCheese.png
 File:Mushroom omlette.jpg
 
  | [Mushroom Omelette](Mushroom_Omelette.md) | 2x Egg + 1x Gobletto/1x Browncap/1x Dentifilo | ◯ |
-|  | Glazed Fish | 1x Fish Meat, 1x Sap | ◯ |
+| 
+
+File:UllaGlazedFish.png
+
+ | Glazed Fish | 1x Fish Meat, 1x Sap | ◯ |
 | 
 
 File:UllaOmlette.png
