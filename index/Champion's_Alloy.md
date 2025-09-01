@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 160324
+revid: 160351
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -24,7 +24,9 @@ categories: [Items, Craftable, Ingredients]
 
 ## Obtainment
 
-Crafting: 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) at the [Cold Forge](The_Cold_Forge.md).
+This item can be crafted at the [Cold Forge](The_Cold_Forge.md) With the materials:
+
+1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
 
 ## Uses
 

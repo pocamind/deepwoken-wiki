@@ -1,6 +1,6 @@
 ---
 title: Bari
-revid: 160053
+revid: 160352
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -35,7 +35,7 @@ Bari is located at the docks in [Isle of Vigils](Isle_of_Vigils.md) leaning agai
   <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!</td>
 </tr>
 <tr>
-  <td>[<font>Opens</font> <a href="#baris-bare-essentials"><u><font>Shop UI</font></u></a>]</td>
+  <td>[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td>End</td>
