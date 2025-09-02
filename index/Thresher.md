@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 159574
+revid: 160566
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,7 +31,7 @@ They are not all hostile though. [Sordino](Sordino.md), a man found at Starswept
 **Arm Swipe**  
 (★☆☆)
 
- | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage.
+ | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. Deals chip damage.
 
   
 Parryable:◯  
@@ -44,7 +44,7 @@ Dodgeable:◯
 **Bite**  
 (★☆☆)
 
- | The Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage.
+ | The Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. Deals chip damage.
 
   
 Parryable:◯  

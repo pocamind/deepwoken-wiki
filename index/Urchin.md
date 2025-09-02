@@ -1,9 +1,9 @@
 ---
 title: Urchin
-revid: 147696
+revid: 160571
 source: https://deepwoken.fandom.com/wiki/Urchin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Harvestables, Alchemy, Items]
+categories: [Ingredients, Harvestables, Alchemy, Items, Fish]
 ---
 
 # Urchin
@@ -26,8 +26,8 @@ For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.m
 
 ## Recipes
 
--   Urchin Stew - 3 Urchins at a Campfire
--   Seafood Surprise - 1 Squid, 1 Fish Meat, 1 Urchin/Crustacean Meat
+-   [Urchin Stew](Food.md) - 3 Urchins at a Campfire
+-   [Seafood Surprise](Food.md) - 1 Squid, 1 Fish Meat, 1 Urchin/Crustacean Meat
 
 For more information, you can read [Food](Food.md).
 

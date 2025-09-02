@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 160511
+revid: 160577
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -61,6 +61,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
+-   Can deflect [Providence's Thorns](Enchantments.md#providences-thorns).
 -   Only used once the posture shield is down. (Phase 2)  
     
 

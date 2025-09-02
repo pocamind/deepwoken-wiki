@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 158855
+revid: 160576
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, Etrea, World Event]
@@ -34,6 +34,8 @@ categories: [Items, Outfits, Master Outfits, Etrea, World Event]
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gale Stones](Gale_Stone.md), five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), five (5) [Irithine](Ores.md#irithine), one (1) [Wind Gem](Wind_Gem.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 5 [Willpower](Attributes.md#wll) to be crafted.
+
+This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 

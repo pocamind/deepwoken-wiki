@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 159901
+revid: 160573
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -117,14 +117,15 @@ Wind
 
 **Effect:** _Conjure a strong blast of air from your hands in the direction of your mouse that staggers your target._
 
--   Deals 37.79 DMG (42.07 DMG with 6 songchant), 6.8 posture, 0.75s windup, 14s cd.
--   Pushes people back and dazes them if they collide with something
+-   Has a base damage of 22/24.4/26.8/29.2/31.6 per level with 2.75 Galebreathe scaling.
+-   Deals 5.5/5.7/5.9/6.1/6.3 posture damage per level.
+-   Has a windup of 0.6 seconds with a 14 second cooldown.
+-   Pushes people back and dazes them if they collide with something.
 -   Does not apply hitstun from the blast.
 -   Can break objects.
--   Can be upgraded with Cloudstones, Stratus stones, Perfect lenses and Crystal Lenses to make it bigger and longer.
--   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
--   Doesn't proc Haunted Gale.
--   Can be modified with a Reversal Spark, making it pull your opponents instead of blasting them away.
+-   Can be upgraded with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make it wider. It can also be modified with [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) and [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to increase its range.
+-   Fires towards your cursor. If shift lock is activated, it fires in the direction your character is facing instead.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to pull in enemies instead of pushing them away.
 
  |
 | 
@@ -158,10 +159,11 @@ Wind
 
 **Effect:** _Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target._
 
--   Deals 133.96 (33.49\*4) DMG, 32.78 posture total (16.4 kick + 5.46\*3 hits), 0.65s windup, 0.25s delay between each kick, 8s CD at 5 lvl
--   With 6 songchant deals 149.08 (37.27\*4) DMG at 5 lvl
+-   Has a base damage of 18/20.5/23/25.5/28 per level, per hit (4) with 2.75 Galebreathe scaling.
+-   Deals 15 posture damage on the first hit with all subsequent hits (3) dealing 5 posture damage each.
+-   The first two hits have a windup of 0.55 seconds while the third and fourth have a windup of 0.5 seconds. Has a cooldown of 8 seconds
 -   Projectile is medium-ranged and explodes on impact.
--   Initial hit doesn't apply hit stun but pushes people away.
+-   Initial hit pushes people away without applying hitstun.
 
  |
 | 
@@ -195,10 +197,14 @@ Wind
 
 **Effect:** _Launch a wind projectile towards where you're facing._
 
--   Deals 33.07 (37.27 with 6 songchant) DMG, 13 posture cd, 0.65s windup, 8s CD at 5 lvl
--   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals 53.82 (59.91 with 6 songchant) DMG, 0.6s windup at 5 lvl
+-   Has a base damage of 18/20.5/23/25.5/28 per level with 2.75 Galebreathe scaling.
+-   The Tempest Wind variant has a base damage of 15/22.5/30/37.5/45 per level with 2.75 Galebreathe scaling.
+-   The default variant deals 12 posture damage regardless of level, while the Tempest Wind variant deals 4/5/6/7/8 posture damage per level.
+-   Both variants have a windup of 0.5 seconds.
 -   Projectile lasts about 3-5 seconds
--   Modifying with a drift/rush shard will increase projectile speed significantly
+-   Modifying with a [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) will increase projectile's speed significantly.
+-   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals much more damage.
+    -   This variant can be increased further with the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) Talent, increasing the damage of your Tempest Wind-Wind Blade by 20% and granting a 20% damage buff while midair after proccing it.
 
  |
 | 
@@ -232,13 +238,14 @@ Wind
 
 **Effect:** _Leap high into the air before diving down towards your cursor, striking any targeted opponent._
 
--   Deals 51.43 (57.24 with 6 songchant) DMG, 11 posture, minimal windup 0.8s, 15s cd at 5 lvl.
--   Highly recommended to turn off Shift-Lock to do this.
--   Good mobility.
--   Feinting it leaves the user unable to use Gale Lunge and Heavenly Wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
--   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
--   If missed, it results in endlag.
--   Can be used in combination with the **Cap Artist** Talent to ragdoll and fling yourself insanely far, but only in dungeons.
+-   Has a base damage of 15/22/29/36/43 per level with 2.75 Galebreathe scaling.
+-   Deals 10 posture damage.
+-   Has a windup of 0.65 seconds with a 15 second cooldown.
+-   Highly recommended that you turn off shift-lock on use.
+-   Has endlag when whiffed.
+-   Has great vertical mobility, almost acting like a double jump at times.
+-   Feinting it leaves the user unable to use certain Mantras like Gale Lunge or recasting Heavenly Wind.
+-   Can be used in combination with the [Cap Artist](Talents.md#thief) Talent to ragdoll and fling yourself insanely far, but only in dungeons.
 
  |
 | 
@@ -272,7 +279,9 @@ Wind + Slash
 
 **Effect:** _Lunge forward with your weapon coated in wind._
 
--   Deals 20.91 (23.3 with 6 songchant) DMG, 8.6 posture, 0.5s windup, 13s cd at 5 lvl.
+-   Has a base damage of 12.5/13.75/15/16.25/17.5 per level with 2.75 Galebreathe scaling.
+-   Deals 4/5/6/7/8 posture damage per level.
+-   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
 -   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance).
@@ -309,13 +318,13 @@ Wind + Slash
 
 **Effect:** _Conjure a wind AoE punch that deals damage and knocks targets away._
 
--   Deals 63.99 (20.93\*3+1.2) DMG, 27 (8.58\*3) posture, 0.55s windup, 9.5s cd at 5 lvl.
--   With 6 songchant deals 71.23 (23.3\*3 + 1.33)
--   Applies Hitstun.
--   Can break objects (must be at least second lvl).
--   Can be modified with Cloud/Stratus Stones and Perfect/Crystal Lenses to increase size.
--   Can be modified with Vibrant Gems to increase the speed of the push, or pull with **Vacuum Punch**.
--   Can be upgraded with the "**Vacuum Punch**" Talent.
+-   Has a base damage of 12.5/13.75/15/16.25/17.5 per level, per hit (3) with 2.75 Galebreathe scaling.
+-   Deals 8 posture damage per hit (3).
+-   Has a windup of 0.55 seconds with a 0.7 second windup in between each hit. Has a cooldown of 9.5 seconds.
+-   Can break objects at level 2+.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the size and distance respectively.
+-   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase the speed of the push, or pull with **Vacuum Punch**.
+-   Can be upgraded with the "**Vacuum Punch**" Talent, pulling in targets on hit at the cost of 0.1s extra windup.
 
  |
 | 
@@ -349,11 +358,14 @@ Wind
 
 **Effect:** _Deploy a small green landmine at your cursor's location, activating a small tornado when made contact with._
 
--   Deals 38.87 (2.99\*13) DMG, 5.5 posture if thrown trap blocked, 13.78 posture if blocked entire active trap, 0.65s windup, 10s cd at 5 lvl
--   With 6 songchant deals 43.29 (3.33\*13) DMG at 5 lvl
+-   Has a base damage of 2.25/2.31/2.38/2.44/2.5 per level, per hit (14) with 2.75 Galebreathe scaling.
+-   Deals 5 posture damage on the first hit and 1 posture damage on all subsequent hits (13).
+-   Hits 14 times over 2 seconds.
+-   Has a windup of 0.6 seconds with a cooldown of 10 seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
--   Applies the _"Suffocate"_ status effect.
+-   Applies the [Suffocation](Status_Effects.md#suffocate) status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
+-   Can be upgraded with the "**Aeronade**" Talent, causing the trap to detonate on contact with any object.
 
  |
 | 
@@ -387,13 +399,12 @@ Wind
 
 **Effect:** _Conjure a small vortex around yourself, M1 to cast it forward._
 
--   Moves forward on its own after 2 seconds.
--   Deals 223 ((17.7 + 0.89)\*12) DMG, tornado lasts for 4s, 1.3 posture per hit, 0.8s windup, 0.3s delay between hits 9s cd at 5 lvl.
--   With 6 Songchant deals 268.97 (19.7+0.99\*12) DMG at 5 lvl
+-   Has a base damage of 10/11.2/12.4/13.6/14.8 per level, per hit (12) with each hit having innate **After Cut** and 2.75 Galebreathe scaling.
+-   Deals 1.2 posture damage per hit (12).
+-   Has a windup of 0.9 seconds with a delay of 0.31 seconds between each hit. Has a cooldown of 9 seconds.
+-   Moves forward on its own after 2 seconds (9 ticks). The tornado lasts for 3.3 seconds total.
 -   Projectile is short-ranged.
--   Has Inniate Aftercut
--   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
--   Pulls people in if close to it (kinda buggy)
+-   Pulls people in if close to it.
 
  |
 | 
@@ -427,8 +438,9 @@ Wind + Slash
 
 **Effect:** _Dash forwards kicking with a rush of winds dealing damage._
 
--   Deals 58.36 (14.59\*4) DMG, 17.5 posture, 0.5s windup, 11s CD at 5 lvl.
--   With 6 songchant deals 64.96 (16.24\*4) DMG at 5 lvl
+-   Has a base damage of 7/8.3/9.6/10.9/12.2 per level, per hit (4) with 2.75 Galebreathe scaling.
+-   Deals 4 posture damage per hit (4).
+-   Has a windup of 0.5 seconds with 0.11 seconds between each hit. Has a cooldown of 11 seconds.
 -   Can break objects.
 
  |
@@ -463,8 +475,9 @@ Wind + Slash
 
 **Effect:** _Ready yourself and then spin, creating a vertical column of sharp winds._
 
--   Deals 52.84 (35.88+12.56+4.4) DMG, 23 posture, 0.45s windup, 13s CD at 5 lvl.
--   With 6 songchant deals 58.81 (39.94+13.98+4.89) DMG at 5 lvl
+-   Has a base damage of 22/24/26/28/30 per level, with successive each hit dealing 35% of the damage of the last (eg 22 -> 7.7 -> 2.7). Has 2.75 Galebreathe scaling.
+-   Deals 7 posture damage per hit (3).
+-   Has a windup of 0.45 seconds with a delay of 0.1 second in between each hit. Has a cooldown of 13 seconds.
 -   Sends opponents flying into the air.
 
  |
@@ -499,13 +512,14 @@ Wind + Slash
 
 **Effect:** _Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target._
 
--   Deals 43.04 (10.76\*4) DMG, 2.15 posture per projectile, 0.55s windup + 1s to hit, 10s CD at 5 lvl
--   With 6 songchant deals 47.84 (11.96\*4) DMG
--   Projectiles are homing.
+-   Has a base damage of 5/6/7/8/9 per level, per hit (4, 3 if Multiplying Spark) with 2.75 Galebreathe scaling.
+-   Deals 2 posture damage per hit (4). The Multiplying Spark variant deals 5 posture damage per hit (3).
+-   The base variant has a windup of 1.6 seconds, while the Multiplying Spark variant has a windup of 0.85 seconds with a 0.2 second delay between subsequent hits. Has a 10 second cooldown.
+-   On cast, your opponent will be forced to stop blocking if applicable and they will be slowed. The Multiplying Spark variant loses this feature however.
 -   Medium-far range.
--   Forces you to stand still when casted.
--   Can be modified with Perfect/Crystal Lenses to increase the range.
--   Can be modified with a Multiplying Spark, making the blades shoot out from different directions.
+-   Forces you to stand still on cast.
+-   Can be modified with [Perfect](Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), to individually fire the blades and grant them homing. This adds travel time to your Mantra and removes the force unblock and slow on cast.
 
  |
 | 
@@ -539,13 +553,13 @@ Wind + Blunt (Grab), Wind (Throw)
 
 **Effect:** _Grab your target before spinning them in 360 degrees and then tossing them._
 
--   Deals 60.02 (5+1.2+53.82) + 10 if against wall DMG, GB posture, windup ranges from 0.7 to 0.9s (buggy), 10s CD at 5 lvl
--   With 6 songchant deals 66.24 (5+1.33+59.91) + 10 DMG if against wall
+-   The first hit has a base damage of 26/31/36/41/46 per level, while the second hit deals 15 damage regardless of level. Champion's Whirlthrow has 2.75 Galebreathe scaling.
+-   Deals 20/22/24/26/GB posture damage per level, automatically guard breaking at level 5.
+-   The first hit deals pure blunt damage, the second hit deals pure Galebreathe damage.
+-   Has a windup of 0.7 seconds with a 0.7 second delay between hits and 0.3 seconds of endlag. Has a cooldown of 10 seconds.
 -   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
 -   Procs **Breathing Impact** if thrown at a wall.
 -   Applies knockback.
-    -   Requires more testing.
--   The old "**Skull Crusher**" Talent is now innate with this mantra.
 
  |
 | 
@@ -579,18 +593,14 @@ Wind + Blunt
 
 **Effect:** _Ascend while uppercutting your target, rapidly damaging them._
 
--   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
--   Deals 63.28 (13.44+13.44+13.44+11.48+11.48) DMG, 5.5 posture, 0.5s windup, 14s CD at 5 lvl
--   With 6 Songchant deals 65.88 (13.44+13.44+13.44+12.78+12.78) DMG at 5 lvl
--   Posture breaking with this mantra won't continue it on to the multihits.
--   Gems apply ONLY to the last hit, making bloodless' healing very low.
--   Missing will not send the user into the air.
--   Pressing F during the animation lets you kick them down into the ground which applies daze.
-    -   Applies Knockdown frames on proc.
--   Gives I-Frames throughout the duration of the mantra.
--   Can be vented to cancel it early (If you hold down F after use, it will automatically parry when venting)
--   Doesn't proc **Haunted Gale**
--   Can proc **Meteor Impact**
+-   Has a base damage of 6/6.9/7.8/8.7/9.6 per level, per hit (5). The first hit has 2.75 Galebreathe scaling while the last three have 5 Galebreathe scaling.
+-   Deals 5 posture damage and cancels when blocked (even if it guard breaks).
+-   Has a windup of 0.5 seconds with a 14 second cooldown.
+-   Gems apply ONLY to the last hit, making Bloodless' healing very low.
+-   Pressing F during the animation lets you kick your opponent down into the ground, applying daze and knockdown.
+-   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
+-   Can be vented to cancel it early.
+-   Can proc **Meteor Impact**.
 
  |
 | 
@@ -624,12 +634,13 @@ Wind + Slash
 
 **Effect:** _Empower your weapon before elegantly releasing a cut that forms a small controllable tempest._
 
--   Rapidly damages the opponent.
--   Deals 57.59 (4.43\*13), 13 posture total, 0.5s windup, 10s cd at 5 lvl.
--   With 6 songchant deals 64.09 (4.93\*13) DMG
--   Can be modified with Cloud/Stratus Stones to increase it's size. Puts the Carve ball further away with Perfect/Crystal Lenses.
--   Pushes opponents hit by the final slash away.
--   Can be canceled once the mantra initiates.
+-   Has a base damage of 1.7/2.2/2.7/3.2/3.7 per level, per hit (12) with 2.75 Galebreathe scaling.
+-   Deals 1 posture damage per hit (12).
+-   Has a windup of 0.55 seconds with a 0.11 second delay between each hit. Has a 10 second cooldown.
+-   Can be ended early by pressing your feint key.
+-   Pushes your opponent away on the final hit.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase it's size.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers), moving the carve further away from the caster on use.
 
  |
 | 
@@ -663,13 +674,17 @@ Wind
 
 **Effect:** _Fire a penetrating bullet of wind._
 
--   Deals 57.41 (63.9 with 6 songchant) DMG, 3.15 posture, 0.55s windup, 15s CD at 5 lvl
--   Blast spark version deals 59 DMG, With 6 songchant does 67 DMG. 15 against wall, 26 posture.
+-   Has a base damage of 32/36/40/44/48 per level with 2.75 Galebreathe scaling.
+-   The Blast Spark variant has a base damage of 6.4/7.2/8/8.8/9.6 per level, per hit (4) with 2.75 Galebreathe scaling. This deals 80% of the unmodified variant's damage if all hits land.
+-   The Multiplying Spark has a base damage of 4.08/4.59/5.1/5.61/6.12 per level, per hit (8) with 2.75 Galebreathe scaling. This deals 102% of the unmodified variant's damage if all hits land.
+-   Combining both sparks grants a base damage of 2.04/2.295/2.55/2.805/3.06 per level, per hit (24) with 2.75 Galebreathe scaling. This deals 153% of the unmodified variant's damage if all hits land.
+-   The base variant deals 10 posture damage. The Blast Spark variant deals 4 posture damage per hit (4), while the Multiplying Spark variant deals 0.8 posture damage per hit (8). Both sparks combined deals 3 posture damage per hit (24).
+-   Has a windup of 0.45 seconds. The Multiplying and both Spark variants has a windup of 0.55 seconds. Has a 15 second cooldown.
 -   Pushes and ragdolls opponent.
--   Applies the _"Suffocate"_ status effect.
--   Can be modified with a Multiplying Spark in order to shoot multiple bullets at once.
--   Can be modified with a Blast Spark to shoot a round of short ranged bullets.
--   Both Sparks can be combined, making three consecutive short-range bullet rounds. Additionally you can apply two of one spark.
+-   Applies the [Suffocate](Status_Effects.md#suffocate) status effect.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a vert tight cone AoE.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a wide cone AoE.
+-   Both Sparks can be combined, making three consecutive short-range bullet rounds.
 
  |
 | 
@@ -703,10 +718,11 @@ Wind + Slash
 
 **Effect:** _Cast several fast, wind-enhanced slashes that form a star._
 
--   Deals 51.85 (10.37\*5) DMG, 13.6 posture, 0.45s windup, has 15s CD at 5 lvl
--   With 6 songchant deals 57.7 (11.54\*5) DMG at 5 lvl
--   When at level 3 or higher, the last hit of Astral Wind sends the opponent upwards, sometimes even when parried.
--   Can be modified with Cloud/Stratus Stones to decrease the speed of the slashes but increase the AoE of the slashes slightly.
+-   Has a base damage of 4.25/5.35/6.45/7.55/8.65 per level, per hit (5) with 2.75 Galebreathe scaling.
+-   Deals 2.5 posture damage per hit (5).
+-   Has a windup of 0.45 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
+-   At level 3+, the last hit of Astral Wind sends the opponent upwards.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 
  |
 | 
@@ -740,11 +756,12 @@ Wind + Slash
 
 **Effect:** _Raise your right leg and stomp the ground, conjuring up a huge volley of wind._
 
--   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
--   Gives hyperarmor when casting
--   Deals possibly moderate-heavy damage.
--   Applies Ragdoll
--   Can be modified with Perfect/Crystal Lenses to make it reach further.
+-   Has a base damage of 35/38/41/44/47 per level with 2.75 Galebreathe scaling.
+-   Deals 7 posture damage.
+-   Has a windup of 0.8 seconds.
+-   Gives hyperarmor when casting.
+-   Applies ragdoll.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make it reach further.
 
  |
 
@@ -811,13 +828,13 @@ Wind + Slash
 
 **Effect:** _Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled._
 
--   Deals 65.18 (72.55 with 6 songchant) DMG, 16.5 posture, 0.95s windup (0.6s to teleport, 0.35s wait time to hit after teleport), 12s CD at 5 lvl.
+-   Has a base damage of 18.5/27.5/36.5/45.5/54.5 with 2.75 Galebreathe scaling.
+-   Deals 15 posture damage.
+-   Has a windup of 1 seconds with a 12 second cooldown.
 -   Decreases in range as your health gets lower.
--   Travels half as far if there's no enemy in its path.
--   Can be modified with Crystal/Perfect Lenses to increase the distance travelled, making it a very useful tool for horizontal mobility.
--   Can be used to clip through walls while in [The Second Layer](Second_Layer.md)
--   It's also compatible with Logstones, but the effect is minimal.
-    -   Requires more testing.
+-   Travel distance will be halved if there is no target in its path.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the distance travelled, making it a very useful tool for horizontal mobility.
+-   Can be used to clip through walls while in the [Second Layer](Second_Layer.md).
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Water Well
-revid: 139859
+revid: 160568
 source: https://deepwoken.fandom.com/wiki/Water_Well
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,9 +14,9 @@ categories: [Mechanics]
 
 ## Description
 
-Water Wells are a source of Drinkable Water for Players, usually located in major Cities or towns.
+Water Wells are a source of drinkable water for players, usually located in major cities or towns.
 
-Pressing E on them will give you ~50% of Thirst back, also [Canteens](Canteen.md) can collect Clean water here,
+Interacting (E) with a Well restores ~50% thirst. Clicking on a Well with a [Canteen](Canteen.md) can collect up to 5 uses of clean water.
 
 ## Locations
 

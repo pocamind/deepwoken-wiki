@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 160328
+revid: 160567
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,6 +33,14 @@ Speed boosts are one of Deepwoken's core status effects, being responsible for a
 ### Mobility Buff
 
 Mobility buffs are very similar to speed boosts, being a movement speed multiplier with the effectiveness and duration depending on the source, though they are distinctly different from speed boosts, as they cannot proc speed boost-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#amoran-seeker), [Lightweight](Talents.md#natural-armor), other Status Effects, etc.
+
+### Ragdoll
+
+While ragdolled, you gain slight damage reduction at the cost of losing control of your character entirely, though this status effect can be ended early by pressing Feint (M2). Ragdoll is applied through various sources and is signified by your character going limp.
+
+### Knockdown
+
+While affected by knockdowns, you cannot move or cast any abilities. Knockdowns are applied through various sources such as default heavy weapon criticals and certain [Mantras](Mantras.md). This effect is signified by your character being slammed into the ground briefly.
 
 ### Burn
 

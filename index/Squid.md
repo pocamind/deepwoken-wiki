@@ -1,9 +1,9 @@
 ---
 title: Squid
-revid: 152751
+revid: 160558
 source: https://deepwoken.fandom.com/wiki/Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients]
+categories: [Items, Ingredients, Fish]
 ---
 
 # Squid

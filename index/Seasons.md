@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 136019
+revid: 160554
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,7 @@ categories: [Mechanics]
 
 There are 4 seasons in Deepwoken that change in order from left to right: Spring, Summer, Autumn and Winter. Each season lasts 1 real life day and transition between one another at 12am GMT+0 (Midnight, 7PM EST). Note that the timezone used to determine seasons is based off of the timezone of the server you're in.
 
-The difference between seasons are the visuals and interactions relating to items that grow in the environment. Such examples are Wheat not growing in the Winter, certain fruits unable to grow from trees, and certain mobs spawning, such as the [Blizzard Knights](Stone_Knight.md) at Minityrsa only spawning during the winter (if it is not winter the [Aelita](Aelita.md) event will spawn), or [The Ferryman](The_Ferryman.md) dropping different season exclusive items.
+The difference between seasons are the visuals and interactions relating to items that grow in the environment. Such examples are Wheat not growing in the Winter, certain fruits unable to grow from trees, and certain mobs spawning, such as the [Blizzard Knights](Stone_Knight.md) at Minityrsa only spawning during the winter (if it is not winter the [Aelita](Aelita.md) event will spawn).
 
 -   If one year passes (4 real life days), your character will get one year older, unless it gets wiped.
     -   The year will also change, for example 1273 to 1274.
@@ -58,8 +58,7 @@ Examples of Winter.
 
 ## Notes
 
--   Ferryman may also drop special items depending on season. (Autumn: Ferryman's Coat, Winter: Krulian Knife, Spring: Knowledge (talk to Ferryman after beating him), Summer: Amethyst Pendant Earrings)
-    -   As of 1/10/2025, all of these items can drop during any season, but Knowledge is only in Spring.
+-   -   As of 1/10/2025, all of these items can drop during any season, but Knowledge is only in Spring.
 -   The Aelita event can spawn in Valley of Heroes if it is not winter. For more information, see [Aelita](Aelita.md).
 -   Aelita will still have a chance of spawning Snow Knights if it only recently turned to Spring in the server.
 -   The one and only moment in history where the time in Deepwoken will be the exact same as the time in real life, down to the tenth of a second, is projected to be 15:15:50.4 UTC (50.4 seconds after 3:15 PM UTC) on April 15, 2030. After this moment, Deepwoken will be permanently set in the future.
