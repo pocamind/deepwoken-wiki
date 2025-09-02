@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 156796
+revid: 160548
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics]
@@ -136,10 +136,6 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
-
-[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
   
 
   
@@ -149,6 +145,14 @@ All of the icons above are undoubtedly official representations of their base at
 [Flamecharm](Flamecharm.md)
 
 [Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+  
+
+### Hybrid Non-Path Talents
+
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
+
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
   
 

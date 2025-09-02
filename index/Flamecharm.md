@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 160545
+revid: 160546
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -287,7 +287,7 @@ Fire
 -   Has a base damage of 16/18.4/20.8/23.2/25.6/28 with 2.75 Flamecharm scaling.
 -   The Spring Spark variant's projectile has a base damage of 14.4/16.56/18.72/20.88/23.04 per level, while the explosion always has a base damage of 17 regardless of Mantra level. Both hits have 2.75 Flamecharm scaling.
 -   The base variant deals 15 posture damage, while the Spring Spark variant deals 6 + 10 posture damage.
--   The base variant has a windup of 0.7 seconds. Both variants have a 15 second cooldown.
+-   The base variant has a windup of 0.7 seconds. The Spring Spark variant is a projectile, with a point blank windup of 1 second. Both variants have a 15 second cooldown.
 -   If your are hit near the end of the base variant's windup, you will absorb the damage with 75% damage reduction and reflect it back with in the form of increased base damage. You gain very brief [hyper-armor](Status_Effects.md#hyperarmor) to signify this effect.
     -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
@@ -370,7 +370,7 @@ Fire
 
 **Effect:** User throws 3 quick burning daggers.
 
--   Both variants are currently bugged with a very inconsistent hitbox. (September 2025)
+-   Both variants are currently bugged to where their hitbox will almost always not be present. (1st September 2025)
 -   Has a base damage of 8.33/9.33/10.33/11.33/12.33 per level, per hit (3) with 2.75 Flamecharm scaling.
 -   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 2.75 Flamecharm scaling.
 -   The base variant deals 4 posture damage per dagger, while the Tornado spark variant deals 3 posture damage per dagger with an additional 5 posture damage per tornado hit (2).
@@ -461,7 +461,7 @@ Fire
 -   Parrying or getting hit during the attack windup will cancel the explosion.
 -   Upgrading the Mantra will increase the placement range.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away, but this also allows the Mantra to deal self damage, ragdolling the caster on hit.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away, but this also allows the Mantra to deal self damage, ragdolling the caster on hit. Additionally, its secondary casting time changes to 0.85 seconds.
 
  |
 | 
@@ -708,7 +708,7 @@ Fire
 -   At full charge, Flame Ballista has a base damage of 82/85.5/89/92.5/96 per level with 2.75 Flamecharm scaling.
     -   This is slightly inconsistent due to how charging works, largely being affected by ping.
 -   Deals 14 posture damage.
--   Has a 1.3 (minimum) 3.1 (maximum) second cast time and a 15 second cooldown.
+-   Has a 1.3 (minimum) second cast time and a 15 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Can be charged up to 6 times, increasing the damage with each charge. On the sixth charge, the projectile is automatically fired.
     -   M1'ing whilst the Mantra is charging will shoot the projectile with the amount of charge it has at that point.
