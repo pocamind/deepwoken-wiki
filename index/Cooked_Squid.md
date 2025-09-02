@@ -1,6 +1,6 @@
 ---
 title: Cooked Squid
-revid: 160498
+revid: 160530
 source: https://deepwoken.fandom.com/wiki/Cooked_Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -11,7 +11,7 @@ categories: [Food, Items]
 | Cooked Squid | |
 |---|---|
 | weight | 2 |
-| stack | x?? |
+| stack | x20 |
 | type | Food |
 | food type | Meat |
 | stomach | 15% |
@@ -20,6 +20,7 @@ categories: [Food, Items]
 | droppable | Yes |
 | pass down | No |
 | desc | Make sure to remove the beak first! |
+| obtainment | The Meat Lord (2 } |
 
 ## Description
 

@@ -1,12 +1,43 @@
 ---
 title: Fish Omelette
-revid: 150898
+revid: 160518
 source: https://deepwoken.fandom.com/wiki/Fish_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Food, Items]
 ---
 
 # Fish Omelette
 
-Redirect to:
+| Fish Omelette | |
+|---|---|
+| weight | 2 |
+| stack | x20 |
+| type | Food |
+| food type | Meat |
+| stomach | 35% |
+| water | 10% |
+| buff | Enchant (+5% Mantra damage) |
+| buff strength | 20% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Extra protein! |
+| obtainment | The Meat Lord (2 } |
 
--   [Food](Food.md)
+## Description
+
+**Fish Omelette** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
+
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+
+### Effect
+
+When consumed, it replenishes 35% Stomach and 10% Water.  
+  
+Additionally, it grants the Enchant buff, affecting 20% of the Stomach bar. The buff increases Mantra damage by 5%.
+
+## Crafting
+
+### Recipe
+
+-   2 [Eggs](Egg.md) and 1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md).

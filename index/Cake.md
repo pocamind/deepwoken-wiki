@@ -1,6 +1,6 @@
 ---
 title: Cake
-revid: 160411
+revid: 160507
 source: https://deepwoken.fandom.com/wiki/Cake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]

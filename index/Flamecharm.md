@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 160407
+revid: 160545
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -115,7 +115,8 @@ Fire
 
 -   Has a base damage of 4/4.4/4.8/5.2/5.6 per level, per hit (6) with 2.75 Flamecharm scaling.
 -   Deals 4 posture damage per hit with an additional 20 posture damage on the final hit.
--   Has a cooldown of 10 seconds.
+-   Has a windup of 0.45s and a cooldown of 10 seconds.
+-   The synchronous strike occurs 2.2 seconds after the mantra is cast.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn.
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to add more warriors, capping at +9 Range.
@@ -197,6 +198,7 @@ Fire
 **Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location. Clicking again while firing will fire additional bullets, at the cost of more Ether.
 
 -   Has a base damage of 6.5/8.5/10.5/12.5/14.5 per level, per hit with 2.75 Flamecharm scaling.
+-   Has a windup of 0.35 seconds and no cooldown.
 -   Deals 1 posture damage per hit.
 -   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
 -   Inflicts Burn.
@@ -496,7 +498,7 @@ Fire
 -   Has a base damage of 5/6/7/8/9 damage per level, per hit with 2.75 Flamecharm scaling.
 -   Deals 14 posture damage per shot.
 -   Duration scales with level and cannot be modified otherwise. Duration impacts the number of shots fired, as they have a set cooldown.
--   40 second cooldown.
+-   Has a 0.65 second cast time and a 40 second cooldown.
 -   Has 41.5x PvE scaling (multiply damage dealt by 41.5 for PvE damage).
 -   This Mantra is heavily incentivized for use in PvE.
 -   Cannot hitstun players.
@@ -582,6 +584,7 @@ Fire
     -   At level 4, Relentless Flames has a base damage of 26 + 26 + 18.2 + 10.4 + 5.2 + 5.2 + 5.2.
     -   At level 5, Relentless Flames has a base damage of 28 + 28 + 19.6 + 11.2 + 5.6 + 5.6 + 5.6.
 -   Deals 5/11/13/15/19 posture damage per level.
+-   Has a windup of 0.9 and 0.25 seconds between hits, and a 10 second cooldown.
 -   Cancels if the first hit does not land. Additionally, if any hit is parried, even if it isn't the first one, the Mantra will also cancel.
 -   Has 17.2x PVE scaling (multiply damage dealt by 17.2 for PvE damage).
 -   Inflicts Burn.
@@ -705,11 +708,12 @@ Fire
 -   At full charge, Flame Ballista has a base damage of 82/85.5/89/92.5/96 per level with 2.75 Flamecharm scaling.
     -   This is slightly inconsistent due to how charging works, largely being affected by ping.
 -   Deals 14 posture damage.
--   Has a 15 second cooldown.
+-   Has a 1.3 (minimum) 3.1 (maximum) second cast time and a 15 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Can be charged up to 6 times, increasing the damage with each charge. On the sixth charge, the projectile is automatically fired.
     -   M1'ing whilst the Mantra is charging will shoot the projectile with the amount of charge it has at that point.
 -   Inflicts Burn.
+-   Cannot be feinted.
 -   Ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
@@ -825,6 +829,7 @@ Fire
 
 -   Has a base damage of 8/16/24/32/40 per level with 2.75 Flamecharm scaling.
 -   Deals 1.5/3/4.5/6/7.5 posture damage per level.
+-   Has a windup of 0.5 and 0.2 seconds before it hits, and a 10 second cooldown.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn and Ragdolls.
 -   Its distance is reduced by 60% when used in water.
@@ -866,9 +871,10 @@ Fire
 
 -   Has 10 base damage (5 if Reversal Spark) regardless of Mantra level with 2.75 Flamecharm scaling.
 -   Deals 10 posture damage.
--   Has a cooldown of 18 seconds.
+-   Has a windup of 0.5 seconds and a cooldown of 18 seconds.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Flame Leap can proc **Meteor Impact**, even without hitting an opponent.
+-   Animation persists on feint.
 -   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   The Mantra will not deal damage if used in water.

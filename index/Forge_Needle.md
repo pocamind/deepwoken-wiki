@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 153668
+revid: 160543
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -19,7 +19,7 @@ categories: [Relics]
 
 ## Description
 
-This Item is an Advanced version of the Armorer's Needle. Instead of rolling a pip on an armor, the Forge Needle is a [Relic](Relics.md) that upgrades one of your equipment by one star. It basically does the same thing as the [Smith's Alloy](<Smith's_Alloy.md>), except for [Equipment](Equipment.md).
+The **Forge Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It is an advanced version of the [Armorer's Needle](<Armorer's_Needle.md>). Instead of rolling a pip on an armor, the Forge Needle upgrades one of your equipment by one star. It basically does the same thing as the [Smith's Alloy](<Smith's_Alloy.md>), except for [Equipment](Equipment.md) rather than weapons.
 
 This of course grants all of the benefits that come with having a higher star value, such as +1 Health to Arms, Head, and Legs equipment, and +1 Rare or Legendary Pip.
 

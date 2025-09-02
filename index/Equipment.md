@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 160340
+revid: 160540
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -54,7 +54,7 @@ Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
   <td>Health (HP)</td>
   <td>4 4 5</td>
   <td>3 4 4 5</td>
-  <td>3 4 4 5</td>
+  <td>4 4 5</td>
   <td>3 4 5</td>
   <td><center>N/A</center></td>
   <td><center>N/A</center></td>

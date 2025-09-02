@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 159379
+revid: 160542
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -54,11 +54,11 @@ Unlike [Armorer's Needles](<Armorer's_Needle.md>), you can choose what the pip c
 <tr>
   <td>Health (HP)</td>
   <td>4 4 5</td>
-  <td>4 4 5</td>
   <td>3 4 4 5</td>
+  <td>4 4 5</td>
   <td>3 4 5</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>2 3 4</td>
 </tr>
 <tr>
@@ -72,54 +72,54 @@ Unlike [Armorer's Needles](<Armorer's_Needle.md>), you can choose what the pip c
   <td>4 6 8 10</td>
 </tr>
 <tr>
-  <td>Sanity (SAN) (also gives 2/4/6/8 Ether)</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td>Sanity (SAN) (also grants 2/4/6/8 Ether)</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>4 6</td>
   <td>6</td>
   <td>4 6 8</td>
 </tr>
 <tr>
   <td>Posture</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>1 2</td>
 </tr>
 <tr>
   <td>%Physical Armor (PHY Armor)</td>
   <td>2 4</td>
   <td>2 4</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
 </tr>
 <tr>
   <td>%Elemental Armor (ELM Armor)</td>
   <td>3 4</td>
   <td>3 4</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
 </tr>
 <tr>
-  <td>Anchor (+3 HP, +0.5 Pos, +10% KB res)</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td>Anchor (+3 HP, +0.5 Pos, +10% KB Res)</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
   <td>1</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
-  <td>N/A</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
 </tr>
 </tbody>
 </table>

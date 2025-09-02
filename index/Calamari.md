@@ -1,6 +1,6 @@
 ---
 title: Calamari
-revid: 160497
+revid: 160519
 source: https://deepwoken.fandom.com/wiki/Calamari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -20,6 +20,7 @@ categories: [Food, Items]
 | droppable | Yes |
 | pass down | No |
 | desc | Deep fried squid tentacles! |
+| obtainment | The Meat Lord (2 } |
 
 ## Description
 

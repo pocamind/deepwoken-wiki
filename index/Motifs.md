@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 160080
+revid: 160512
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,9 +10,9 @@ categories: [Mechanics]
 
 ## Description
 
-Motifs are an obtainable tool added during the February 1st, 2025 update. Using a [Smith's Alloy](<Smith's_Alloy.md>) on certain weapons grants you a Motif, while destroying said weapon. You can use Motifs at a Campfire to give a compatible weapon the Critical attack of the Motif.
+Motifs are a tool used to replace your current weapon critical with the critical from another weapon, this has restrictions and limitations however. To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a Motif-able weapon and choose the "Extract Motif" option. This will **permanently** destroy the weapon in the process.
 
-Having a Motif on a weapon will make your weapon will go translucent on critical, showcasing a glowing version of the weapon you got the Motif from and **increasing the windup of your critical by 0.15s**.
+Having a Motif on a weapon will make your weapon will go translucent on critical, showcasing a glowing version of the weapon the Motif is based on and **increasing the windup of your critical by 0.15s**. Default critical Motifs do not increase your critical windup.
 
 ## Obtaining and using Motifs
 
@@ -20,13 +20,13 @@ To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible wea
 
 To equip a Motif, either use the item from your inventory or go to a Campfire and use it similarly to a Deep Gem on a Mantra; under your weapon, there's a Motif slot. This will **replace your critical attack** with the critical attack of the weapon your Motif came from. For example, if you have a Crescent Cleaver Motif on your [Zweihander](Zweihander.md), it will have [Crescent Cleaver](Crescent_Cleaver.md)'s critical instead of the base Greatsword one. There are limitations and not every weapon can equip Motifs. See below for more information.
 
-Motifs can be unequipped at any time at a Campfire; the Motif will return to your inventory.
+Motifs can be unequipped at any time at a Campfire; the Motif will return to your inventory on unequip.
 
 ## Compatibility
 
-Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten (see below for more info). This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Soulwrought Weapons](Crazy_Slots.md#weapons).
+Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten. This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Soulwrought Weapons](Crazy_Slots.md#weapons).
 
-Any weapon with a default critical (excluding Fist and Greatcannon weapons) can be used to obtain a Motif. Base critical Motifs can only be equipped onto other weapons within that weapon class, with the exception of Swords which can be equipped onto almost every medium weapon class.
+Any weapon with a default critical (excluding Fist and Greatcannon weapons) can be used to obtain a Motif. Base critical Motifs can **only** be equipped onto other weapons within that weapon class with two exceptions being the 'Sword' and 'Gun' Motifs.
 
 ### Overridable Weapons
 
@@ -217,7 +217,7 @@ Gun Motif: Rifles, Pistols
 
 Weapon criticals have their own stats, separate to the weapon they're on. This means that weapon criticals like [Shotel](Shotel.md)'s will **retain their unique properties** when put on another weapon; being Shotel critical's 100% chip damage in this case.
 
-Unique critical Motifs have an additional 0.15s windup before the attack is used. Default weapon type Motifs do not have this issue however.
+Unique critical Motifs have an additional 0.15s windup before the attack is used. Default weapon type Motifs do not have this downside however.
 
 As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
 

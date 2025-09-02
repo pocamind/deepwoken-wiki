@@ -1,6 +1,6 @@
 ---
 title: Cooked Fish
-revid: 160504
+revid: 160520
 source: https://deepwoken.fandom.com/wiki/Cooked_Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -20,6 +20,7 @@ categories: [Food, Items]
 | droppable | Yes |
 | pass down | No |
 | desc | And who said mercury wasn't delicious? |
+| obtainment | The Meat Lord (2 } |
 
 ## Description
 
