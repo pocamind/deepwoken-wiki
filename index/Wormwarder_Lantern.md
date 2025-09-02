@@ -1,6 +1,6 @@
 ---
 title: Wormwarder Lantern
-revid: 156854
+revid: 160434
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Backpack, Layer 2, Floor 1, Craftable]
@@ -15,7 +15,7 @@ categories: [Items, Equipment, Torso, Backpack, Layer 2, Floor 1, Craftable]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +10 Carry Load |
+| innate stats | +10 Carry Load+10 Sanity |
 | innate talent | Wormwarder |
 | bankable | Yes |
 | droppable | Yes |

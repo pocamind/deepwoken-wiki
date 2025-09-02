@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 160383
+revid: 160486
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -82,8 +82,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 (★☆☆)
 
-  
-
  | Primadon raises its **right** foot and stomps once.
 
  |  |
@@ -92,8 +90,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 **Trample**
 
 (★☆☆)
-
-  
 
  | Primadon performs 3 quick stomps with its **left** foot.
 
@@ -142,16 +138,12 @@ If you were holding block before getting grabbed and during it's full duration y
 
 (★☆☆)
 
-  
-
  | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two.
 
  |
 | 
 
 **Enrage**(★★☆)
-
-  
 
  | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
 

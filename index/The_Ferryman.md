@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 160268
+revid: 160495
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -41,8 +41,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**Displacement**  
-(☆☆☆)
+**Displacement**
 
  | The Ferryman teleports to one of 6 pre-determined spots within the battlefield, along with un-stunning him and allowing him to use another move. This move is only done if you choose to be close to him when your attack opportunity ends. He cannot teleport close to you, and if he does so, will teleport again.
 
@@ -51,8 +50,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
  |  |
 | 
 
-**Lightning Clones**  
-(☆☆☆)
+**Lightning Clones**
 
  | The Ferryman will spin around and summon two clones of himself, and does this twice, summmoning four clones in total. They run up to nearby players and slash at them before quickly disappearing.
 
@@ -65,7 +63,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 | 
 
 **Lightning Strike**  
-(★★☆)
+★
 
  | The Ferryman spins around, triggering a long attack opportunity while raining down multiple bolts of thunder from the skies upon the battlefield, dealing high damage and an incredibly long stun to anybody hit.
 
@@ -78,7 +76,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 | 
 
 **Lightning Assault**  
-(★★☆)
+★
 
  | The Ferryman teleports directly in front of the player, before using a stronger version of the Lightning Assault mantra. He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
 
@@ -91,7 +89,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 | 
 
 **Grand Volley**  
-(★★★)
+★★★
 
  | The most dangerous attack in the Ferryman's arsenal, he fires four, much slower, purple grand javelins at any player within the arena, a simple movement to any direction not directly towards the ferryman will result in a dodge. Each javelin hit does an estimated 150 damage, but is affected by mantra, monster, and thunder resistance.
 
@@ -99,12 +97,12 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
 -   Has insanely high posture damage, almost always resulting in an instant guard-break.
 -   In a similar manner to his Lightning Assault attack, the Ferryman will give a (although much briefer) attack opportunity should any of these javelins be parried following _four_ successful parries—this requires this attack to be chained more than once, an intentionally failed Lightning Assault for one to two recent parries, or multiple players parrying at once. Otherwise, gives no attack opportunity.
+-   Can be ragdoll-cancelled.
 
  |  |
 | 
 
-**Vent**  
-(★☆☆)
+**Vent**
 
  | An explosion of blue ether around the user that pushes opponents away.
 

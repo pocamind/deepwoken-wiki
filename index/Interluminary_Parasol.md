@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 159061
+revid: 160482
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -34,10 +34,6 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 
  | When close enough, the Parasol starts rapidly stabbing random targets with its arms, sometimes inflicting poison. Autogrips players if they are knocked.
 
-Parryable:◯  
-Blockable:✗  
-Dodgeable:◯
-
  |  |
 | 
 
@@ -45,10 +41,6 @@ Dodgeable:◯
 ★
 
  | The Parasol throws a boulder that deals damage on impact, summoning a Depths mob varied to a Alpha Megalodaunt, Broodlord, Voidsea Thresher, and Nautilodaunt.
-
-Parryable:◯  
-Blockable: ?  
-Dodgeable:◯
 
  |  |
 

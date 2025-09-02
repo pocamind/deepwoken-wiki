@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 160417
+revid: 160437
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -364,9 +364,9 @@ _Some attacks will be accompanied with a colored glyph and a sound cue. These at
 | Color | 
 Image
 
- | Parryable? | Blockable? | Dodgeable? | Ventable? |
-| --- | --- | --- | --- | --- | --- |
-| Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ | ? |
+ | Parryable? | Blockable? | Dodgeable? |
+| --- | --- | --- | --- | --- |
+| Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ |
 | All attacks that have this attribute:
 
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
@@ -400,7 +400,7 @@ Image
 -   [Throw](Attunement-less.md#throw)
 
  |
-| Red | File:Redtelegraph.png | ✗ | ✗ | ◯ | ◯ |
+| Red | File:Redtelegraph.png | ✗ | ✗ | ◯ |
 | All attacks that have this attribute:
 
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
@@ -418,7 +418,7 @@ Image
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
 
  |
-| Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ | ◯ |
+| Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ |
 | All attacks that have this attribute:
 
 -   Default [Greatsword](Greatswords.md) and Club criticals (White)
@@ -430,7 +430,7 @@ Image
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
 
  |
-| Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ | ? |
+| Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ |
 | All attacks that have this attribute:
 
 -   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
@@ -440,14 +440,14 @@ Image
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |
-| Green | File:Greentelegraph.png | ◯ | ✗ | ✗ | ◯ |
+| Green | File:Greentelegraph.png | ◯ | ✗ | ✗ |
 | All attacks that have this attribute:
 
--   [Aelita](Aelita.md) and [Tillian](Tillian.md): Beam Blitz Ice Beam
+-   [Carnival of Hearts](Carnival_of_Hearts.md): Beam Blitz Ice Beam
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
 
  |
-| White | File:Whitetelegraph.png | ✗ | ✗ | ✗ | ✗ |
+| White | File:Whitetelegraph.png | ✗ | ✗ | ✗ |
 | All attacks that have this attribute:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
@@ -457,7 +457,7 @@ Image
 -   [Kanabo](Kanabo.md) critical\* (is parryable and dodgable despite having this indicator)
 
  |
-| Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ | ? |
+| Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ |
 | All attacks that have this attribute:
 
 -   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 160382
+revid: 160491
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -72,8 +72,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
  | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final upwards swing afterwards which does increased damage.
 
 -   After doing this attack, he will be vulnerable and won't parry/dodge any attacks, but only for a short period
-
-  
+-   Blockable, but requires incredibly high posture. Not recommended.
 
  |  |
 | 

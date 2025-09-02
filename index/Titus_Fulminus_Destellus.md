@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 160220
+revid: 160485
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -180,6 +180,7 @@ A Khan with great stature, he's around twice the height of the player. He has wr
 -   Titus will only use this move in his second phase.
 -   These beams are combined with the [Wind-Up](Wind-Up.md) Resonance, proccing every hit, making this move **very deadly**.
 -   While he is winding up, it is best to start running or getting to higher levels to avoid the beams.
+-   You can easily counter this by using prediction or payback
 -   THIS WILL INSTANTLY KNOCK YOU IF YOU ARE AGAINST A WALL OR IN A CORNER.
 
  | 

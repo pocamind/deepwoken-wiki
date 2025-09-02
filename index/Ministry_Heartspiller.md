@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 147760
+revid: 160438
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -136,7 +136,8 @@ Block: ✗
 -   If you're having trouble with spawning the npc, using Ring of Curses is a good way to increase the chances of the event from spawning.
     -   Combining this along with Hell mode, you'll get an even more increased rate of the event from spawning (Risky).
 
-  
+-   Does not attack you if you have Neutral or Positive reputation with the Ministry but it can still spawn.  
+    
 
 ## Reference
 
