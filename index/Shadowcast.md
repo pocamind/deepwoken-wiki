@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 159960
+revid: 160581
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -273,6 +273,7 @@ Shadow
 **Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. Blockable._
 
 -   Deals 31.1 (34.61 With 6 songchant) DMG total, 5.5 posture, 11s CD at 5 lvl.
+-   0.55 second windup and 12 second cooldown.
 -   Has 9.178x PVE scale (31.1 DMG PVP, 285.46 PVE DMG)
 -   Unaffected by Glass & Magnifying Stones.
 -   Cloud and Stratus Stones increase the size of the eruption.

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 160546
+revid: 160579
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -245,7 +245,7 @@ Fire
 -   Has a base damage of 25/30/35/40/45 per level with 2.75 Flamecharm scaling.
 -   Deals 6 posture damage.
 -   Has a 0.6 second windup with a 10 second cooldown.
--   Has a surprisingly large hitbox both horizontally and backwards.
+-   Has a large hitbox both horizontally and backwards.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).

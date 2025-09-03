@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 159718
+revid: 160582
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -248,7 +248,7 @@ Blood
 
 **Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](Skyreap_Blade.md) in a blood red color and rush forward, hitting any target(s) in its way._
 
--   Deals 16/20/24/28/32 damage per level, 15 posture, 0.4s windup, has 10s CD at 5 lvl,
+-   Deals 16/20/24/28/32 damage per level, 15 posture, 0.5s windup, has 10s CD at 5 lvl,
 -   Has 9.18x PVE scaling
 
  |

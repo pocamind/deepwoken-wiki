@@ -1,6 +1,6 @@
 ---
 title: Urchin Stew
-revid: 160575
+revid: 160584
 source: https://deepwoken.fandom.com/wiki/Urchin_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -20,20 +20,19 @@ categories: [Food, Items]
 | droppable | Yes |
 | pass down | No |
 | desc | Make sure you pick out the spines before you eat it! |
-| obtainment | Mess Chef (20 } |
 
 ## Description
 
-**Fish Stew** is a craftable [Food](Food.md) item.
+**Urchin Stew** is a craftable [Food](Food.md) item.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
-## Effect
+### Effect
 
-When consumed, it replenishes 18% Stomach and 10% Water.
+When consumed, it replenishes 20% Stomach and 25% Water.
 
 ## Crafting
 
 ### Recipe
 
--   2 [Urchin](Urchin.md)
+-   3 [Urchins](Urchin.md) at a [Campfire](Campfire_Pit.md).
