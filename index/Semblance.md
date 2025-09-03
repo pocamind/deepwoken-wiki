@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 160580
+revid: 160585
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -142,4 +142,4 @@ The Semblance executes it's opponents after knocking them:
 -   They may be related to [The Knives of Eylis](The_Knives_of_Eylis.md) or the [Voidmother](The_Voidmother.md) due to being able to use the **Time-Slowing Orb**, or due to their name they may be [The Knives of Eylis](The_Knives_of_Eylis.md) from another reality, however this maybe unlikely due to their weaponry. Interestingly, one of their lines is "She...", which may be referring to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md), or the [Voidmother](The_Voidmother.md).
 -   The **Time-Slowing Orb** attack that the Semblance NPCS use can be used to obtain the [Voidwalker](Origins.md#voidwalker) Origin.
     -   Whether this is just an oversight due to it being the same attack as the one the [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) uses, or if there's some greater lore reason behind this, we may never know. However, it only goes to strengthen the idea of Semblance having some connection to [Eylis](Eylis,_the_Punished_Dreamer.md) and the [Knives](The_Knives_of_Eylis.md) faction, or perhaps the Void.
--   Hilariously, because Semblance aren't in the [Knives of Eylis](The_Knives_of_Eylis.md) faction, they get slowed by their own **Time-Slowing Orbs**.
+-   Hilariously, because Semblance aren't in [The Knives of Eylis](The_Knives_of_Eylis.md) faction, they get slowed by their own **Time-Slowing Orbs**.

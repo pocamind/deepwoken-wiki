@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 160351
+revid: 160649
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -22,16 +22,15 @@ categories: [Items, Craftable, Ingredients]
 
 **Champion's Alloy** is a craftable item that is used to craft the [Champion's Cape](<Champion's_Cape.md>). In appearance, it is a wide golden slab, not too dissimilar to the old [Gold](Ores.md#gold) model.
 
-## Obtainment
+## Crafting
 
-This item can be crafted at the [Cold Forge](The_Cold_Forge.md) With the materials:
+### Recipe
 
-1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
+-   1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>), 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>), 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) at [The Cold Forge](The_Cold_Forge.md).
 
-## Uses
+### Used in
 
--   Used as a crafting component for the following items:
-    -   [Champion's Cape](<Champion's_Cape.md>)
+-   **[Champion's Cape](<Champion's_Cape.md>)** - 1 Champion's Alloy, 1 [Titus's Cape](<Titus's_Cape.md>) at [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Trivia
 

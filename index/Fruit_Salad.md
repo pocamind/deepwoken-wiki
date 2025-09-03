@@ -1,6 +1,6 @@
 ---
 title: Fruit Salad
-revid: 160529
+revid: 160626
 source: https://deepwoken.fandom.com/wiki/Fruit_Salad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -22,10 +22,11 @@ categories: [Food, Items]
 | droppable | Yes |
 | pass down | No |
 | desc | Fruit tastes better when it's in little chunks! |
+| obtainment | Travelling Merchant |
 
 ## Description
 
-**Fruit Salad** is a craftable [Food](Food.md) item.
+**Fruit Salad** is a craftable [Food](Food.md) item. It is also purchased from the [Travelling Merchant](Travelling_Merchant.md), sold at random.
 
 It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
 
@@ -39,4 +40,4 @@ Additionally, it grants the Heal buff, affecting 10% of the Stomach bar. The buf
 
 ### Recipe
 
--   3 different [Fruits](Ingredients.md#fruits), [Campfire](Campfire_Pit.md) not required.
+-   3 different [Fruits](Ingredients.md#fruits), no [Campfire](Campfire_Pit.md) required.

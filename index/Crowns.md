@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 160346
+revid: 160599
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -148,7 +148,7 @@ Crowns are able to be exchanged for Knowledge or Notes by interacting with the i
 
 Some NPCs only deals in Crowns, these are:
 
--   [Sev](Sev.md), the Dye Vendor, exchanging [Dye Packets](Dye_Packet.md) for 1 Crown a piece.
+-   [Sev](Sev.md), the Dye Vendor, exchanging [Dye Packets](Dye_Packet.md) for 1 Crown per dye packet.
 -   [Sordino](Sordino.md) the Tamer of Beasts, exchanging the [Thresher Mount](Mounts.md) for 3 Crowns.
 -   While [Traan Zakshun](Traan_Zakshun.md) sells goods for Notes normally, his Black Market wares are sold exclusively for Crowns.
 

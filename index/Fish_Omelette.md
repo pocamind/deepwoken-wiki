@@ -1,6 +1,6 @@
 ---
 title: Fish Omelette
-revid: 160518
+revid: 160624
 source: https://deepwoken.fandom.com/wiki/Fish_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -22,11 +22,11 @@ categories: [Food, Items]
 | droppable | Yes |
 | pass down | No |
 | desc | Extra protein! |
-| obtainment | The Meat Lord (2 } |
+| obtainment | The Meat Lord (2 }, Travelling Merchant |
 
 ## Description
 
-**Fish Omelette** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
+**Fish Omelette** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2 and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

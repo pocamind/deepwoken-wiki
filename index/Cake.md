@@ -1,6 +1,6 @@
 ---
 title: Cake
-revid: 160507
+revid: 160631
 source: https://deepwoken.fandom.com/wiki/Cake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -22,11 +22,11 @@ categories: [Food, Items]
 | droppable | Yes |
 | pass down | No |
 | desc | Wow! A whole cake! |
-| obtainment | Carnival of Hearts |
+| obtainment | Travelling Merchant, Carnival of Hearts |
 
 ## Description
 
-**Cake** is a craftable [Food](Food.md) item. It is also obtained from [Carnival of Hearts](Carnival_of_Hearts.md) as a reward, in large quantity.
+**Cake** is a craftable [Food](Food.md) item. It is also purchased from the [Travelling Merchant](Travelling_Merchant.md), sold at random, and obtained from the [Carnival of Hearts](Carnival_of_Hearts.md) as a reward, in large quantity.
 
 It is a type of **Generic** food.
 

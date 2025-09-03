@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 160385
+revid: 160647
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,11 +25,13 @@ categories: [Items, Drops, Ingredients]
 ## Uses
 
 -   Trading with [The Gaunt Man](The_Gaunt_Man.md) for an [Aegis Gem](Aegis_Gem.md).
--   Used as a crafting component for the following items:
-    -   [Champion's Alloy](<Champion's_Alloy.md>)
-    -   [Reinforced War Helmet](Reinforced_War_Helmet.md)
-    -   [Reinforced War Plate](Reinforced_War_Plate.md)
-    -   [Specialist Plate](Specialist_Plate.md)
+
+### Crafting
+
+-   **[Champion's Alloy](<Champion's_Alloy.md>)** - 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>), 1 Doom of Caeranthil's Scale, 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) at [The Cold Forge](The_Cold_Forge.md).
+-   **[Reinforced War Helmet](Reinforced_War_Helmet.md)** - 1 [Evanspear War Helmet](Evanspear_War_Helmet.md), 1 Doom of Caeranthil's Scale, 2 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   **[Reinforced War Plate](Reinforced_War_Plate.md)** - 1 [Evanspear War Plate](Evanspear_War_Plate.md), 1 Doom of Caeranthil's Scale, 1 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   **[Specialist Plate](Specialist_Plate.md)** - 1 [Shock Trooper Plate](Shock_Trooper_Plate.md), 1 Doom of Caeranthil's Scale, 1 [Storm Enchant Stone](Enchant_Stone.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Trivia
 

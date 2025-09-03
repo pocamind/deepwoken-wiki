@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 160512
+revid: 160653
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -219,7 +219,7 @@ Weapon criticals have their own stats, separate to the weapon they're on. This m
 
 Unique critical Motifs have an additional 0.15s windup before the attack is used. Default weapon type Motifs do not have this downside however.
 
-As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
+As for the damage a Motifed critical will deal on another weapon; it's quite weird. For some reason, **it takes the scaling stat from the weapon visually shown** when you use your critical and **the base damage stat of your actual weapon** to make up its damage; this is then multiplied by the critical's scaled damage multiplier. This **overrides** your weapon's innate scaling, often removing additional innate scaling stats. For some Motifs like [Kanabo](Kanabo.md) and [Krulian Knife](Krulian_Knife.md), it can instead add core attribute/elemental scaling to the critical of the weapon you equipped the Motif on.
 
 For example, if you had Shotel Motif on Razor Cutlass, your critical would have less medium scaling than normal, making it deal less damage than a no-Motif critical without even taking into account scaled damage multipliers. Or if you put Greatsword Motif on [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), it'd replace the critical's innate Mind scaling with 12 heavy weapon scaling from [Soulwrought Greatsword](Crazy_Slots.md#weapons), dealing significantly more damage than it would've otherwise, while making your investment somewhat obsolete. This also means Motifs like [Halberd](Halberd.md)'s will scale on heavy weapon investment regardless of what weapon type you put it on.
 

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 158533
+revid: 160588
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -66,7 +66,8 @@ While not required, things listed below can prove to make your experience much e
 
 -   _**[Thresher Scales](Talents.md):**_ Regaining armor is nearly impossible without this Talent, unless you're Ironsing, have Bloodiron Spirit/Ring, or possess any Armor Repair Kits. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a Talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
 -   _**[Resonance](Resonance.md):**_ Having a good bell is the key to survival in Diluvian Mechanism as, if you have a bell that isn't good for Diluvian (for example: Smite, Smokescreen, etc.) you run a greater risk of wiping. The bells you should seek out for Diluvian are Sacred Field and Corrupted Payback (especially Laser variant). Sacred Field will provide a defensive buff, while Corrupted Payback will heal the caster.
--   _**Brick Wall:**_ You will find this talent very helpful, as so you won't get tossed around that much.
+-   _**Brick Wall:**_ You will find this talent very helpful, as so you won't get tossed around that much. Very highly recommended if you're planning on soloing Wave 50.
+-   _**[Water off a Duck's Back](Talents.md)/[Blood Transfusion](Talents.md):**_ These two talents are recommended for if you want solo wave 50 with low weapon investment. The reason for this is that there are mantra-less waves, and mantra-less counts as a status effect that can be removed by venting using Water off a Duck's Back or using your weapon's critical with Blood Transfusion. From going Water off a Duck's Back, you also get other intelligence talents and Prediction, which can be used to replace [Payback](Payback.md). From going Blood Transfusion, there's temporary health you can get from Sow and Mend as well as Rush Hour, which, while it is risky to use, provides a helpful buff in damage.
 -   _**[Graceful Flame](Flamecharm.md):**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame (with the Undying Flame talent), you can regenerate the armor and health of yourself and your allies.
 -   _**[Force Your Way](Ignition_Deepdelver.md):**_ In Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
 -   _**[Tidekeeper](Celtorian_Tideknight.md):**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
@@ -74,10 +75,10 @@ While not required, things listed below can prove to make your experience much e
 -   _**[Evanspear Hand Axe](Evanspear_Greataxe.md):**_ Evanspear Hand Axe is one of the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed.
 -   _**[Enforcer's Axe/Hammer](<Enforcer's_Axe.md>):**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 -   [_**Pale Briar**_](Pale_Briar.md): Out of all the weapons The Pale Briar is the best choice for Diluvian, the critical being an AoE attack can deal with crowds of mobs, easily out damage Enforcer Axe and Evanspear Hand Axe.
--   [_**Wild Enchant**_](Enchantments.md): The Wild enchant gives the weapon an AoE on basic and critical attack when it hits an enemy, best paired with The Pale Briar.
+-   [_**Wild Enchant**_](Enchantments.md): The Wild enchant gives the weapon deal 85% of your scaled damage in an AoE when you hit an enemy, best paired with The Pale Briar. The reason as to why this is recommended is that you essentially gain 85% more damage per extra enemy you're hitting, and in some places like the Diluvian Mechanism, where dozens of mobs can be grouped together, Wild with a Pale Briar critical will just do heavy damage. (185% if hitting 2 at same time, 270% if hitting 3 at same time, etc.)
 -   **_[Astral Enchant](Enchantments.md):_** The Astral enchant gives the player's weapon 20% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
--   _**[Providence's Thorns](Enchantments.md)**_: You'll be parrying a lot of enemies whilst inside of Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds.
--   _**[Teammates](Mudskipper.md):**_ Strength in numbers. If you can, always bring along a friend or two to help you. Having teammates allows you to kill enemies faster, heal and support each other, and progress together.
+-   _**[Providence's Thorns](Enchantments.md)**_: You'll be parrying a lot of enemies whilst inside of Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds. Recommended for mage builds with no weapon investment.
+-   _**Teammates:**_ Strength in numbers. If you can, always bring along a friend or two to help you. Having teammates allows you to kill enemies faster, heal and support each other, and progress together.
 
 ## Loot
 

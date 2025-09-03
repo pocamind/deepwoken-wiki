@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 160355
+revid: 160608
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -94,7 +94,7 @@ File:UllaGlazedFish.png
  | Glazed Fish | 1x Fish Meat, 1x Sap | ◯ |
 | 
 
-File:UllaOmlette.png
+File:UllaOmelette.png
 
  | Omelette | 2x Egg | ◯ |
 | 

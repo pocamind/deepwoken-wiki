@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 155309
+revid: 160619
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -52,8 +52,8 @@ Sold Items
   <td>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Dye_Packet.md">Dye Packet</a>.</li>
-    <li><b><a href="Food.md"><font>Books</font></a></b>: <a href="Books.md#archivist-journal-megalodaunt">Archivist Journal: 'Megalodaunt'</a>, <a href="Books.md#children-of-the-aftertide-i">Children of the Aftertide I</a>, <a href="Books.md#eggs-in-a-basket">Eggs In A Basket</a>, <a href="Books.md#tale-of-the-storm">Tale of the Storm</a>, <a href="Books.md#the-ferrymans-lullably">The Ferryman's Lullably</a>, <a href="Books.md#the-hammers-call">The Hammer's Call</a>, <a href="Books.md#the-gideshu-march">The Gideshu March</a>.</li>
-    <li><b><a href="Books.md"><font>Foods</font></a></b>: <a href="Food.md">Cake</a>, <a href="Food.md">Cooked Fish</a>, <a href="Food.md">Cooked Squid</a>, <a href="Food.md">Egg Omelette</a>, <a href="Food.md">Fish Omelette</a>, <a href="Food.md">Fruit Salad</a>, <a href="Food.md">Noodles</a>, <a href="Food.md">Mushroom Bisque</a>, <a href="Mushroom_Omelette.md">Mushroom Omelette</a>, <a href="Food.md">Seafood Boil</a>.</li>
+    <li><b><a href="Books.md"><font>Books</font></a></b>: <a href="Books.md#archivist-journal-megalodaunt">Archivist Journal: 'Megalodaunt'</a>, <a href="Books.md#children-of-the-aftertide-i">Children of the Aftertide I</a>, <a href="Books.md#eggs-in-a-basket">Eggs In A Basket</a>, <a href="Books.md#tale-of-the-storm">Tale of the Storm</a>, <a href="Books.md#the-ferrymans-lullably">The Ferryman's Lullably</a>, <a href="Books.md#the-hammers-call">The Hammer's Call</a>, <a href="Books.md#the-gideshu-march">The Gideshu March</a>.</li>
+    <li><b><font>Foods</font></b>: <a href="Cake.md">Cake</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Cooked_Squid.md">Cooked Squid</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Fruit_Salad.md">Fruit Salad</a>, <a href="Noodles.md">Noodles</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Mushroom_Omelette.md">Mushroom Omelette</a>, <a href="Omelette.md">Omelette</a>, <a href="Seafood_Boil.md">Seafood Boil</a>.</li>
     <li><b><font>Tools</font></b>: <a href="Canteen.md">Canteen</a>, <a href="Gliders.md">Glider</a>, <a href="Hunter's_Brace.md">Hunter's Brace</a>, <a href="Lumber_Axe.md">Lumber Axe</a>, <a href="Pickaxe.md">Pickaxe</a>, <a href="Repair_Kit.md">Repair Kit</a>, <a href="Flint.md">Umbral Flint</a>.</li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Silver Pauldrons
-revid: 155650
+revid: 160586
 source: https://deepwoken.fandom.com/wiki/Silver_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -23,9 +23,9 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Duke Erisia, The Depths (First Layer), Maestro Evengarde Rest, Starswept Valley, Dread Serpent, Lodestar |
+| obtainment | Chests from:, Aratel Island |
 | description | ... |
 
 ## Description
 
-The Silver Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you 3 Health and 2 Pips. They are commonly found in chests from [Aratel Island](Aratel_Island.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
+The Silver Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you 3 Health and 2 Pips.

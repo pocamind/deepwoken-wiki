@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 160334
+revid: 160645
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,11 +25,13 @@ categories: [Items, Drops, Ingredients]
 
 ## Uses
 
--   Used as a crafting component for the following items:
-    -   [Titus's Raiment](<Titus's_Raiment.md>) Master Armor
-    -   [Specialist Helmet](Specialist_Helmet.md)
-    -   [Reinforced War Helmet](Reinforced_War_Helmet.md)
-    -   [Authority Voltspark Mask](Authority_Voltspark_Mask.md)
+-   Used to craft the [Titus's Raiment](<Titus's_Raiment.md>) [Master Armor](Outfits.md)
+
+### Crafting
+
+-   **[Specialist Helmet](Specialist_Helmet.md)** - 1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md), 2 Warden's Armor Piece, 2 [Storm Enchant Stones](Enchant_Stone.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   **[Reinforced War Helmet](Reinforced_War_Helmet.md)** - 1 [Evanspear War Helmet](Evanspear_War_Helmet.md), 1 Warden's Armor Piece, 2 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   **[Authority Voltspark Mask](Authority_Voltspark_Mask.md)** - 1 [Authority Prototype Mask](Authority_Prototype_Mask.md), 1 Warden's Armor Piece, 3 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Trivia
 

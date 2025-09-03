@@ -1,6 +1,6 @@
 ---
 title: "Titus' Armor Piece"
-revid: 160333
+revid: 160642
 source: https://deepwoken.fandom.com/wiki/Titus'_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,11 +25,14 @@ categories: [Items, Drops, Ingredients]
 
 ## Uses
 
--   Used as a crafting component for the following items:
-    -   [Titus's Raiment](<Titus's_Raiment.md>) Master Armor
-    -   [Champion's Alloy](<Champion's_Alloy.md>)
-    -   [Reinforced War Plate](Reinforced_War_Plate.md)
-    -   [Specialist Plate](Specialist_Plate.md)
+-   Used to craft the [Titus's Raiment](<Titus's_Raiment.md>) [Master Armor](Outfits.md).
+
+### Crafting
+
+-   **[Champion's Alloy](<Champion's_Alloy.md>)** - 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>), 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>), 1 Titus' Armor Piece at [The Cold Forge](The_Cold_Forge.md).
+-   **[Reinforced War Helmet](Reinforced_War_Helmet.md)** - 1 [Evanspear War Plate](Evanspear_War_Plate.md), 1 Titus' Armor Piece, 2 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   **[Reinforced War Plate](Reinforced_War_Plate.md)** - 1 [Evanspear War Plate](Evanspear_War_Plate.md), 1 Titus' Armor Piece, 3 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   **[Specialist Plate](Specialist_Plate.md)** - 1 [Shock Trooper Plate](Shock_Trooper_Plate.md), 1 Titus' Armor Piece, 3 [Storm Enchant Stones](Enchant_Stone.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Trivia
 
