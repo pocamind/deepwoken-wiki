@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 154101
+revid: 160663
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, NPCs, Vendors]
@@ -26,56 +26,64 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="160">Begin</td>
 </tr>
 <tr>
-  <td colspan="16">Mmmrmgh. Hrmrmfmh? Hmmrmmhmhmmm.</td>
+  <td colspan="160">Mmmrmgh. Hrmrmfmh? Hmmrmmhmhmmm.</td>
 </tr>
 <tr>
-  <td colspan="16">Huh?</td>
+  <td colspan="160">Huh?</td>
 </tr>
 <tr>
-  <td colspan="16">Mmrgh! Ah. My apologies. I had my lips closed. I am still learning the interplay of muscle groups required for speech.</td>
+  <td colspan="160">Mmrgh! Ah. My apologies. I had my lips closed. I am still learning the interplay of muscle groups required for speech.</td>
 </tr>
 <tr>
-  <td colspan="8">Uh, yeah. Anyway...</td>
-  <td colspan="8">Don't worry, we've all been there.</td>
+  <td colspan="80">Uh, yeah. Anyway...</td>
+  <td colspan="80">Don't worry, we've all been there.</td>
 </tr>
 <tr>
-  <td colspan="8">Yes. Let me reiterate. Would you assist me in an experiment?</td>
-  <td colspan="8">You are too kind does your kindness extend far? As far as being a willing assistant in an experiment?</td>
+  <td colspan="80">Yes. Let me reiterate. Would you assist me in an experiment?</td>
+  <td colspan="80">You are too kind does your kindness extend far? As far as being a willing assistant in an experiment?</td>
 </tr>
 <tr>
-  <td colspan="4">Sure, I love experiments. What do I need to do?</td>
-  <td colspan="4">I'll pass.</td>
-  <td colspan="4">Sure, I love experiments. What do I need to do?</td>
-  <td colspan="4">I don't think that has anything to do with kindness.</td>
+  <td colspan="40">Sure, I love experiments. What do I need to do?</td>
+  <td colspan="40">I'll pass.</td>
+  <td colspan="40">Sure, I love experiments. What do I need to do?</td>
+  <td colspan="40">I don't think that has anything to do with kindness.</td>
 </tr>
 <tr>
-  <td colspan="4">I would like to test the lethality of the various forms of wildlife of this region.</td>
-  <td colspan="4">Yes. You all do. It is good to be acquainted with one's nature.</td>
-  <td colspan="4">[See first instance]</td>
-  <td colspan="4">Oh. I see. I am learning much. Thank you.</td>
+  <td colspan="40">I would like to test the lethality of the various forms of wildlife of this region.</td>
+  <td colspan="40">Yes. You all do. It is good to be acquainted with one's nature.</td>
+  <td colspan="40">[See first instance]</td>
+  <td colspan="40">Oh. I see. I am learning much. Thank you.</td>
 </tr>
 <tr>
-  <td colspan="2">So, you want me to fight some monsters?</td>
-  <td colspan="2">On second thought, I'm okay.</td>
-  <td colspan="4">End.</td>
-  <td colspan="4"></td>
-  <td colspan="4">End.</td>
+  <td colspan="20">So, you want me to fight some monsters?</td>
+  <td colspan="20">On second thought, I'm okay.</td>
+  <td colspan="40">End.</td>
+  <td colspan="40"></td>
+  <td colspan="40">End.</td>
 </tr>
 <tr>
-  <td colspan="2">Monsters? I suppose that is one description. Will you assist me?</td>
-  <td colspan="2">Yes. I was thinking you were average enough to make for a good assistant in this.</td>
+  <td colspan="20">Monsters? I suppose that is one description. Will you assist me?</td>
+  <td colspan="20">Yes. I was thinking you were average enough to make for a good assistant in this.</td>
 </tr>
 <tr>
-  <td>Of course.</td>
-  <td>I'll pass.</td>
-  <td colspan="2">End.</td>
+  <td colspan="10">Of course.</td>
+  <td colspan="10">I'll pass.</td>
+  <td colspan="20">End.</td>
 </tr>
 <tr>
-  <td>[Enter Dungeon]</td>
-  <td>[See first instance]</td>
+  <td colspan="5">[The player is out of combat]</td>
+  <td colspan="5">[The player is in combat]</td>
+  <td colspan="10">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="5">[Enter Dungeon]</td>
+  <td colspan="5">Ah, there are outliers currently.</td>
+</tr>
+<tr>
+  <td colspan="10">End.</td>
 </tr>
 </tbody>
 </table>
@@ -85,36 +93,44 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="80">Begin</td>
 </tr>
 <tr>
-  <td colspan="16">You return. Have you come to assist me with my experiment?</td>
+  <td colspan="80">You return. Have you come to assist me with my experiment?</td>
 </tr>
 <tr>
-  <td colspan="8">Sure, I love experiments. What do I need to do?</td>
-  <td colspan="8">I'll pass.</td>
+  <td colspan="40">Sure, I love experiments. What do I need to do?</td>
+  <td colspan="40">I'll pass.</td>
 </tr>
 <tr>
-  <td colspan="8">I would like to test the lethality of the various forms of wildlife of this region.</td>
-  <td colspan="8">Yes. You all do. It is good to be acquainted with one's nature.</td>
+  <td colspan="40">I would like to test the lethality of the various forms of wildlife of this region.</td>
+  <td colspan="40">Yes. You all do. It is good to be acquainted with one's nature.</td>
 </tr>
 <tr>
-  <td colspan="4">So, you want me to fight some monsters?</td>
-  <td colspan="4">On second thought, I'm okay.</td>
-  <td colspan="8">End.</td>
+  <td colspan="20">So, you want me to fight some monsters?</td>
+  <td colspan="20">On second thought, I'm okay.</td>
+  <td colspan="40">End.</td>
 </tr>
 <tr>
-  <td colspan="4">Monsters? I suppose that is one description. Will you assist me?</td>
-  <td colspan="4">Yes. I was thinking you were average enough to make for a good assistant in this.</td>
+  <td colspan="20">Monsters? I suppose that is one description. Will you assist me?</td>
+  <td colspan="20">Yes. I was thinking you were average enough to make for a good assistant in this.</td>
 </tr>
 <tr>
-  <td colspan="2">Of course.</td>
-  <td colspan="2">I'll pass.</td>
-  <td colspan="4">End.</td>
+  <td colspan="10">Of course.</td>
+  <td colspan="10">I'll pass.</td>
+  <td colspan="20">End.</td>
 </tr>
 <tr>
-  <td colspan="2">[Enter Dungeon]</td>
-  <td colspan="2">[See first instance]</td>
+  <td colspan="5">[The player is out of combat]</td>
+  <td colspan="5">[The player is in combat]</td>
+  <td colspan="10">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="5">[Enter Dungeon]</td>
+  <td colspan="5">Ah, there are outliers currently.</td>
+</tr>
+<tr>
+  <td colspan="10">End.</td>
 </tr>
 </tbody>
 </table>
