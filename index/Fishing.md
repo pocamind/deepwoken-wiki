@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 157199
+revid: 160683
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -26,7 +26,7 @@ The frequency and quality of loot from fishing is also heavily based on the loca
 
 ## Loot From Fishing
 
-Many varieties of fish can be obtained from fishing, as well as some loot. **Fished up objects can very rarely be _golden._** The bigger the fish, the better the loot. The loot you can get from fishing is:
+Many varieties of fish can be obtained from fishing, as well as some loot. **Fished up objects can very rarely be _golden._** Golden loot will not be deposited into your inventory as an item, instead granting you 1 [Knowledge](Knowledge.md). The bigger the fish, the better the loot. The loot you can get from fishing is:
 
 -   Sea Bass
 -   Red Snapper

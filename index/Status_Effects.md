@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 160567
+revid: 160682
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -262,7 +262,7 @@ These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and at
 
 ### Blightshock
 
-[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Innately, this deals 80% of your attack's damage as [Wither](#wither) on proc, but it can be enhanced further by Blightsurger Talents, gaining new effects such as: granting it hyperarmor bypass similar to regular Shock, increasing the Blightsurger user's PEN on their Blightsurger Mantras and [Sovereign Bangle](Oath%253A_Blightsurger.md) attacks, and putting affected players' mobility Mantras on cooldown. Blightshock is applied by [Blightsurger](Oath%253A_Blightsurger.md) abilities and is signified by white and black lightning on proc.
+[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Innately, this deals 70% of your attack's damage as [Wither](#wither) on proc, but it can be enhanced further by Blightsurger Talents, gaining new effects such as: granting it hyperarmor bypass similar to regular Shock, increasing the Blightsurger user's PEN on their Blightsurger Mantras and [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) attacks, and putting affected players' mobility Mantras on cooldown. Blightshock applied by Sovereign Bangle attacks deals 80% of damage as Wither instead. Blightshock is applied by [Blightsurger](Oath%253A_Blightsurger.md) abilities and is signified by white and black lightning on proc.
 
 ### Sovereign State
 
@@ -410,7 +410,7 @@ Grants immunity to enemy [Deep Gems](Deep_Gems.md) for 3 minutes. Once this dura
 
 ### Mocking Favor: Boons
 
-Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the afflictions side of this Talent [here](#mocking-favor-afflictions).
+Mocking Favor is the Outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the afflictions side of this Talent [here](#mocking-favor-afflictions).
 
 -   **Again!** - Rerolls the effect given to you at no extra cost, granting an entirely different effect. No visual effect, instead signified by Aelita/Tillian saying "Again! Again!".
 -   **Now You See Me...** - A very short duration invisibility. Signified by the same visual effect that [Visionshaper's Cheap Trick](Oath%253A_Visionshaper.md#abilities) has and Aelita/Tillian saying "Woah, neat trick! Do it again!".
@@ -422,7 +422,7 @@ Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [T
 
 ### Mocking Favor: Afflictions
 
-Mocking favor is the outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the boons side of this Talent [here](#mocking-favor-boons).
+Mocking Favor is the Outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together. See the boons side of this Talent [here](#mocking-favor-boons).
 
 -   **Take a Break** - Randomizes your spit cooldown, between 5 and 20 seconds. No visual effect, instead signified by Aelita/Tillian saying "Heh, cat got your tongue!".
 -   **Silence** - Suffocation is applied to yourself, removing your ability to cast Mantras for a short duration. Signified by the Suffocation effect and Aelita/Tillian saying "Yikes! You're out of breath.". If you have Suffocation Path, you will instead be hit with an apparition and winded.

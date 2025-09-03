@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 157932
+revid: 160678
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -78,3 +78,7 @@ Against players, Stealth is suboptimal if your opponent has a functional monitor
 An alert bandit.
 
 When a humanoid enemy detects you, a dark yellow **"!"** will appear above their head. Enemies who are alert are unable to be assassinated.
+
+## Trivia
+
+-   There's a very small chance the Metal Gear Solid alert sound will play when enemies notice you.
