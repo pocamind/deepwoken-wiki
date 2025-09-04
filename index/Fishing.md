@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 160683
+revid: 160766
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -183,16 +183,25 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 -   Browncap: Average bite times. Results from **10 Browncaps**: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 -   Chum: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails. (All fishing Talents used)
 -   Calabash: Not Properly Documented.
--   Fish Meat:Slow bait speed. Can be used for tunas.
+-   Fish Meat: Slow bait speed. Can be used for tunas.
 -   Redd: Slightly lower than average bites. Results from **?? Redd**: 2 miss, 2 sea bass, 1 squid, 1 red snapper.
 -   Pufferfish: Not Properly Documented. (Possibly better chance of catching Mudskippers?)
 -   Sap: Not Properly Documented.
 
 | Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 100 No Bait Lucky Spot
+for control measurement
+
+ | 4 | 73 | labelled all as common, did not
+
+see a reason to categorize fish.
+
+ | 2 | 13 | 8 |  |
 | 100 Pomars | 0 | 76 | 0 | 1 | 12 | 0 | 11 |
 | 100 Chum
-No lucky spot
+
+No Lucky Spot
 
  | 0 | 69 | 7 | 0 | 9 | 15 | 0 |
 | 100 Chum
@@ -202,6 +211,15 @@ Lucky Spot
  | 0 | 55 | 17 | 2 | 16 | 10 | 0 |
 | 100 Urchin | 0 | 56 | 10 | 1 | 17 | 16 | 0 |
 | 100 Fish Meat | 0 | 60 | 19 | 0 | 9 | 12 | 0 |
+| 100 Fish Meat
+
+Lucky Spot
+
+ | 2 | 77 | labelled all as common, did not
+
+see a reason to categorize fish.
+
+ | 1 | 15 | 5 | 0 |
 | 100 Seaweed | 0 | 62 | 10 | 0 | 11 | 17 | 0 |
 
 ## Trivia

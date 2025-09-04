@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160329
+revid: 160759
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3287,9 +3287,10 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   10 second cooldown.
     -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
+        -   Will not allow you to proc Manipulator twice as it has a cooldown.
     -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
     -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
-        -   For example, a 5 hit multihit critical will only gain a 4% damage bonus from Manipulator as it only procs once and then goes on cooldown.
+        -   For example, a 5 hit multihit critical will only gain the 20% damage bonus from Manipulator on the first hit as it only procs once and then goes on cooldown.
         -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
     -   Prerequisites: Charismatic Cast, 60 Charisma
 

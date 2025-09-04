@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 160758
+revid: 160765
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -21,7 +21,7 @@ An esoteric place even the most pious of men are known to seek out, though all t
 The Temple of Hearts can be entered in two ways:
 
 -   Opening the Resonance doors, which requires a [Resonance](Resonance.md).
--   Having the Deepbound [Origin,](Origins.md) which grant access to an alternative entrance that only they can interact with.
+-   Having the Deepbound [Origin](Origins.md), which grant access to an alternative entrance that only they can interact with.
 
 It's also possible to glitch in by sprinting, jumping and dashing into the resonance door at the same time.
 
@@ -34,7 +34,7 @@ At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keepe
 #### [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 
 -   A shrine to Yun’Shul. Those wielding a [Resonance](Resonance.md) are able to commune with the shrine, which grants one wish from one of five preset options.
--   **Do not attempt to speak to the shrine if you glitched into the Temple, as Yun'Shul will simply kill and wipe you immediately if you are not a [Deepbound](Deepbound.md).**
+-   **Do not attempt to speak to the shrine if you glitched into the Temple, as Yun'Shul will simply kill and wipe you immediately if you are not [Deepbound](Deepbound.md).**
 
 #### [Deep Shrines](Deep_Shrines.md)
 
