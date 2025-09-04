@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160759
+revid: 160768
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2442,23 +2442,36 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Saboteur
 
 -   Family Recipe \[Unlockable Talent\] - You can now craft bombs at a crafting bench.
+    -   [Iron Bombs](Iron_Bomb.md) are crafted with 2 [Iron](Ores.md#iron) and 1 [Coal](Ores.md#coal) at any crafting bench.
+    -   Bombs deal 10 typeless damage with 35 [Intelligence](Attributes.md#int) scaling, having 45 damage with 100 Intelligence.
+        -   Because bombs deal typeless damage, they ignore physical and elemental resistances.
+    -   Press E while holding a bomb to throw it. Press M1 while holding a bomb to drop it at your feet.
+    -   Bombs do not deal self damage.
+    -   BOmbs have a 5 second cooldown on throw.
+    -   It is highly recommended that you use the [Miner's Hardhat](<Miner's_Hardhat.md>) when farming for the crafting materials, as it doubles your mining output with a chance to quadruple it.
     -   Prerequisite: Complete [Lucien](Lucien.md)'s quest.
 
--   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal increased damage to burning enemies
+-   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.
+    -   Bombs apply [burn](Status_Effects.md#burn) on hit. This burn, like all other burn scales on your [Flamecharm](Flamecharm.md) investment and can be improved through the usage of Flamecharm Talents.
+    -   Your bombs go further when thrown.
     -   Prerequisite: Family Recipe
 
 -   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
+    -   Reduces the bomb throw cooldown from 5 seconds to 4 seconds. This only applies to the bomb thrown directly after this Talent procs, not on the bomb that procced this Talent.
+    -   20 second cooldown.
     -   Prerequisite: Incendiary Formula
 
 -   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)
+    -   This speed boost lasts 2 seconds.
     -   Prerequisite: Family Recipe
 
 -   Explosive Efficiency \[Common Talent\] - Crafting a bomb will yield two bombs. Chance to make three.
     -   Prerequisite: Hot Potato
 
 -   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+1 Health, +5 Carry Load)
+    -   On proc, this consumes 1 Iron Bomb to drop 2 bombs at your feet.
+    -   Has a 1 second cooldown that will activate upon taking damage, even if the Talent does not proc and even if you do not have Iron Bombs in your inventory.
     -   Prerequisite: Family Recipe
-    -   Drops two bombs from one bomb.
 
 ### Sage of Wisps
 

@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 159240
+revid: 160804
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Character, Mechanics, Items]
+categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
 ---
 
 # Weapons
@@ -12726,34 +12726,30 @@ Every weapon.
 </tbody>
 </table>
 
-## Calculating Damage and Attack Speed
+## Calculating Damage
 
-This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers).
+This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers). _[Damage calculator (Single, Dual, Tertiary, and Quaternary Attribute Scaling \[Scaling rings included\])](https://www.desmos.com/calculator/ukb3vjlbwc)_
 
--   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.065)\]} + BaseDamage
+D a m a g e \= B a s e D a m a g e + 0.75 × B a s e D a m a g e × ( S 1 + S 2 + S 3 + S 4 ) × ( 1 + ( P r o f i c i e n c y × 0.065 ) 1000 {\\displaystyle Damage=BaseDamage+0.75\\times {\\frac {BaseDamage\\times (S\_{1}+S\_{2}+S\_{3}+S\_{4})\\times (1+(Proficiency\\times 0.065)}{1000}}} {\\displaystyle Damage=BaseDamage+0.75\\times {\\frac {BaseDamage\\times (S\_{1}+S\_{2}+S\_{3}+S\_{4})\\times (1+(Proficiency\\times 0.065)}{1000}}}
 
-_[Damage calculator (Single, Dual, Tertiary, and Quaternary Attribute Scaling \[Scaling rings included\])](https://www.desmos.com/calculator/ukb3vjlbwc)_
+Key:
+
+-   S1-4 = Attribute Level x Attribute Scaling
 
 The formula to calculate the damage with damage multipliers taken into account is:
 
--   MultipliedDamage = WeaponDamage x (1 + DamageModifiers%/100)
+M u l t i p l i e d D a m a g e \= W e a p o n D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) {\\displaystyle MultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})} {\\displaystyle MultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})}
 
 The formula to calculate the damage of a weapon including bleed is
 
--   BleedDamage = WeaponDamage x 1.3 or BleedMultipliedDamage = WeaponDamage x (1 + \[DamageModifiers% + 30%\]/100)
+B l e e d D a m a g e \= W e a p o n D a m a g e × 1.3 {\\displaystyle BleedDamage=WeaponDamage\\times 1.3} {\\displaystyle BleedDamage=WeaponDamage\\times 1.3} **or** B l e e d M u l t i p l i e d D a m a g e \= W e a p o n D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) + ( W e a p o n D a m a g e × 0.3 ) {\\displaystyle BleedMultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(WeaponDamage\\times 0.3)} {\\displaystyle BleedMultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(WeaponDamage\\times 0.3)}
 
-  
-
-The time it takes for your weapon to swing in seconds is approximately half the inverse of its swing speed (the higher the swing speed, the quicker the weapon swings). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, while a weapon with 1.0x swing speed would take close to 0.5 seconds to swing.
-
-The formula below can be used to find a weapon's DPS (damage per second) without factoring in bleed, endlag, or client delay (ping).
-
-D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displaystyle DPS=WeaponDamage\\times {Swingspeed}\\div 1.3\\times 2} {\\displaystyle DPS=WeaponDamage\\times {Swingspeed}\\div 1.3\\times 2}
+-   Replace the 1.3 or 0.3 in the above equation with 1.15 or 0.15 respectively for [Speed Demon](Talents.md#vigil-swordsman).
 
 ## Trivia
 
 -   You can pass down soulbound weapons for 40 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character.
--   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
+-   Changing stances, contrary to popular belief, does NOT affect swing speed.
 -   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
     -   Base Damage: [Sovereign Bangle](Oath%253A_Blightsurger.md) (30)
@@ -12775,8 +12771,6 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d ÷ 1.3 × 2 {\\displayst
 -   Rifles are the only weapon type that have four basic m1s before a flourish.
 -   Twinblades lack a flourish when two handed, making them the only weapon class to lack a flourish... sometimes.
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to scale on alternating weapon stats.
+-   [Flareblood Kamas](Flareblood_Kamas.md) is the only weapon to scale on a stat it does not require.
+-   [First Light](First_Light.md) and [Krulian Knife](Krulian_Knife.md) are the only weapons to have pure elemental scaling on their criticals. Despite this, neither of these weapons require any attunement investment to be used.
 -   The [Saintsblade](Oath%253A_Saintsworn.md), [Sovereign Bangle](Oath%253A_Blightsurger.md), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
-
-## References
-
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=VyqkdcwrjH4](https://www.youtube.com/watch?v=VyqkdcwrjH4)

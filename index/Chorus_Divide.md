@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 158820
+revid: 160797
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -26,7 +26,7 @@ categories: [Resonances]
 
 Pressing C will activate the **Chorus Divide** Resonance. The user begins to charge up the elements within their arms, before unleashing powerful beams of Attuned energy. The user will slowly spin during the duration of this Resonance, limiting the player's control over beam direction. The beams will be based off the user's highest invested Attunement, changing the visuals, status effect, and damage type to match.
 
-If Chorus Divide is corrupted, its spins 180° instead of 270°, and becomes unblockable, but at the cost of it's wind-up being significantly longer, and the beams spins slower.
+If Chorus Divide is corrupted, its spins 180° instead of 270°, and becomes unblockable, but at the cost of it's wind-up being significantly longer, and the beams spinning slower.
 
 ### _Resonance Point usage_
 
@@ -39,7 +39,7 @@ When obtained, Chorus Divide will spend its points on the following stats:
 
 Chorus Divide will use the players highest invested attunement upon obtaining the Resonance.
 
--   The [Flamecharm](Flamecharm.md) variant will burn to players hit by the beams, turning the beams orange.
+-   The [Flamecharm](Flamecharm.md) variant will apply burn to players hit by the beams, turning the beams orange.
 -   The [Frostdraw](Frostdraw.md) variant will apply chilled or crystallization to players hit by the beams, turning the beams blue.
 -   The [Galebreathe](Galebreathe.md) variant will apply suffocate or other gale talents to players hit by the beams, turning the beams green.
 -   The [Thundercall](Thundercall.md) variant will apply shock or apply surge to players hit by the beams, turning the beams yellow.

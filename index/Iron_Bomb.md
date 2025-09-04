@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 160764
+revid: 160773
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -29,6 +29,7 @@ The iron bomb is a great damaging tool for those who wish to put time and effort
 -   Pressing M1 or your left mouse button lets you place your bomb down, it detonates after 3 seconds of being placed down.
 -   Pressing E on your keyboard allows you to throw your bomb in the direction of your cursor.
     -   You cannot use bombs mid-animation and vice versa.
+    -   These keybinds cannot be changed.
 
 ### Movement
 
@@ -47,7 +48,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
     -   Lowers the cooldown of your **next** bomb throw by 1 second (from 5 seconds to 4).
     -   Has a 20 second cooldown.
 -   **Hot Potato** - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)
-    -   Thus speed boost lasts around 3 seconds.
+    -   Thus speed boost lasts 2 seconds.
 -   **Explosive Efficiency** - Crafting a bomb will yield two bombs. Chance to make three.
     -   This Talent is a must take as it will greatly increase the efficiency of your bomb crafting.
     -   Requires Hot Potato.
