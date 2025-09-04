@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 160664
+revid: 160720
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -48,7 +48,7 @@ Arcwarder is **not** reobtainable if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper
 
 ## Progression
 
-Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) AND taking Klaris' light hook a total of 4 times (Killing the bosses does not grant progression, taking the light hook Klaris' spawns after killing them (not the one in your inventory) does. So killing chaser, going to floor 2, and using inventory light hook will not grant prgression) granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are received every 2 kills in addition to the talents. If you have progressed Arcwarder before, you can skip Arcwarder's progression with 10 knowledge by speaking to Delta again after obtaining the oath.
+Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) AND taking Klaris' light hook a total of 4 times (Killing the bosses does not grant progression, taking the light hook Klaris' spawns after killing them (not the one in your inventory) does. So killing chaser, going to floor 2, and using inventory light hook will not grant progression) granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are received every 2 kills in addition to the talents. If you have progressed Arcwarder before, you can skip Arcwarder's progression with 10 knowledge by speaking to Delta again after obtaining the oath.
 
 ## Effects
 

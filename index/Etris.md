@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 159681
+revid: 160713
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -179,7 +179,7 @@ Warning: This quest is exceptionally difficult. Recommended for high-level and p
 -   To begin this quest, you must have around Ally [reputation](Reputation.md) with Etrea. This can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) event or the [Etrean Guards vs Pirates event](Random_Encounters.md). If you have a lot of notes, you can simply buy wood and hand it to the lumberjack. Similarly, you can chop trees and sell their wood to the lumberjack.
 -   Once you've become popular with the residence of Etrea (Etrean guards call you friend of Etrea/your name when you interact with them), talk to [Kennith](Kennith.md). Kennith is an Etrean Guard and is located next to a bridge near the [Palace](Etris_Palace.md).
 -   [Kennith](Kennith.md) will ask you to talk to the locals of Etris about the [Lord Regent's](The_Lord_Regent.md) reputation as a ruler.
--   Talk to Bookkeeper [Andros](Bookkeeper_Andros.md) in the library.
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) in the library.
 
 -   After talking to [Andros](Bookkeeper_Andros.md), head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of [Kennith](Kennith.md). A Royal Guard will send you to the Lord Regent as an audience. (Additionally, you are able to skip this stage by talking to any [Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) as opposed to the one at the death scene of [Kennith](Kennith.md) you must sneak up on them or they will aggro on you)
 
@@ -199,7 +199,7 @@ Warning: This quest is exceptionally difficult. Recommended for high-level and p
 
 To begin this quest, talk to [Karliah](Karliah.md), an [Adret](Adret.md) Diver. She is located in a house near the signs, next to the General store.
 
--   Accepting to escort her activates the quest. Meet her at the Erisian Mines, located in Erisia. (She is located near the zip line placement near the ruins, on top of the cave deposit in Pathfinder's Respite.
+-   Accepting to escort her activates the quest. Meet her at the [The Viper's Jaw](<The_Viper's_Jaw.md>), located in Erisia. (She is located near the zip line placement near the ruins, on top of the cave deposit in Pathfinder's Respite.
     -   You must have Charisma ~10 to charge Karliah 20.
 -   Save her from the [Mudskipper](Mudskipper.md) that is attacking her.
 -   Interact with her.

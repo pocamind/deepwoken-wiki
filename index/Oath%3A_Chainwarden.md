@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 160313
+revid: 160711
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -43,7 +43,7 @@ You can complete either of these methods a combined total of two times to max pr
 1.  Executing _**Enchained**_ players who [The Central Authority](The_Central_Authority.md) are enemies with. ([Hunted or below reputation](https://deepwoken.fandom.com/wiki/Reputation#Reputation_Status))
 2.  Executing _**Enchained**_ humanoid bosses who [The Central Authority](The_Central_Authority.md) are enemies with.
 
-Known humanoids bosses are:
+Known humanoid bosses are:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)

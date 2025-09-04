@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 160097
+revid: 160700
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,6 +23,8 @@ categories: [Oaths]
 
 ## Obtainment
 
+Blindseer glyphs at Temple of the Forgotten Flame
+
 -   Meet the following requirements:
     -   Have 40 Willpower
     -   Have the 3 Talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment. (You can reroll these into different talents at the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) once you obtain the oath)
@@ -42,9 +44,9 @@ Blindseer **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_o
 
 ## Progression
 
-To progress the Oath and obtain the Blindseer Mantras, you need to help pathfinders, or players who lack an Oath in the Depths Trial. The first mantra is unlocked after the first successful trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking). Do note that helping people who have Oathless will not grant progression.
+To progress the Oath and obtain the Blindseer Mantras, you need to help Pathfinders, players who lack an Oath, in the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation). The first Mantra is unlocked after the first successful trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking). Do note that helping people who have [Oathless](Oath%253A_Oathless.md) will not grant progression.
 
-Blindseer will only progress if you are faced with a trial. If both the Blindseer and the pathfinder are low enough level to not receive a trial, you will not gain Blindseer progression.
+Blindseer will only progress if you are faced with a trial. If both the Blindseer and the Pathfinder are low enough level to not receive a trial, you will not gain Blindseer progression.
 
 Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
@@ -121,9 +123,9 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 ## Trivia
 
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
--   The glyph on the wall also can be found the room with the [King Thresher](King_Thresher.md) in [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
--   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
--   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have blue three dimensional markings on the outside of their mask, with an eye-like shape formed at the top. However, they used to be seen with a gold and black mask similiar to the mask on the statue in the [Lordsgrove](The_Lordsgrove.md)
+    -   The glyph on the wall also can be found the room with the [King Thresher](King_Thresher.md) in [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
+    -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
+-   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have blue three dimensional markings on the outside of their mask, with an eye-like shape formed at the top. However, they used to be seen with a gold and black mask similiar to the mask on the statue in [The Lordsgrove](The_Lordsgrove.md).
 -   If you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
 -   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the Trophy Room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.

@@ -1,6 +1,6 @@
 ---
 title: Sovereign Bangle
-revid: 156401
+revid: 160690
 source: https://deepwoken.fandom.com/wiki/Sovereign_Bangle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oath: Blightsurger](Oath%253A_Blightsurger.md)
+-   [Oath: Blightsurger#Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle)
