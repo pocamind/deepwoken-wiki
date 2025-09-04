@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 160649
+revid: 160756
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -35,3 +35,4 @@ categories: [Items, Craftable, Ingredients]
 ## Trivia
 
 -   This item has the highest sell price in the game. It is so high in fact, that the [Snake Oil](Talents.md#silvertongue) Talent will not increase the sell price further, as the base value is already the Note cap.
+-   The Champion's Alloy is droppable and bankable.

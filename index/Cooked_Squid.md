@@ -1,9 +1,9 @@
 ---
 title: Cooked Squid
-revid: 160623
+revid: 160745
 source: https://deepwoken.fandom.com/wiki/Cooked_Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Cooked Squid

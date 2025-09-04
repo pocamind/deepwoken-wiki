@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 156841
+revid: 160758
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -34,7 +34,7 @@ At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keepe
 #### [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 
 -   A shrine to Yun’Shul. Those wielding a [Resonance](Resonance.md) are able to commune with the shrine, which grants one wish from one of five preset options.
--   **Do not attempt to speak to the shrine if you glitched into the Temple, as Yun'Shul will simply kill and wipe you immediately.**
+-   **Do not attempt to speak to the shrine if you glitched into the Temple, as Yun'Shul will simply kill and wipe you immediately if you are not a [Deepbound](Deepbound.md).**
 
 #### [Deep Shrines](Deep_Shrines.md)
 
@@ -45,4 +45,4 @@ At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keepe
 
 ## Trivia
 
--   Attempting to commune with the Shrine of Yun'Shul without a Resonance or the Deepbound Origin will cause the player's head to explode, killing them instantly.
+-   Attempting to commune with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without a [Resonance](Resonance.md) or the [Deepbound](Deepbound.md) Origin will cause the player's head to explode, killing them instantly.

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 160521
+revid: 160750
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -160,8 +160,7 @@ OR
 
 ## Notes
 
--   Alternatively, you can regain your Food, Thirst and Blood bars by gaining a Power Level or getting your [Resonance](Resonance.md).
--   The 'Candied Fruit' only requires 1 of any fruit.
+-   Alternatively, you can regain your Food, Thirst and Blood bars by gaining a [Power](Power.md), obtaining your [Resonance](Resonance.md), or having the [Carnivore](Talents.md#apex-predator) [Talent](Talents.md).
 
 ## Trivia
 

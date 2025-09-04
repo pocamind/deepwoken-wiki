@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 160189
+revid: 160726
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1231,6 +1231,7 @@ N/A
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
 -   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
+-   Does \*not\* proc Deep Gems on hit.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 160437
+revid: 160723
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -369,6 +369,7 @@ Image
 | Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ |
 | All attacks that have this attribute:
 
+-   [Alpha Megalodaunt](Alpha_Megalodaunt.md): Tacet Hug
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   Corrupted [Chorus Divide](Chorus_Divide.md)
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash

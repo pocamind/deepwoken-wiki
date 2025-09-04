@@ -1,9 +1,9 @@
 ---
 title: Candied Fruit
-revid: 160366
+revid: 160741
 source: https://deepwoken.fandom.com/wiki/Candied_Fruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Candied Fruit
@@ -39,4 +39,4 @@ Additionally, it grants the Enchant buff, affecting 10% of the Stomach bar. The 
 
 ### Recipe
 
-1 or 2 of any [Fruit](Ingredients.md#fruits) and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
+-   1 ([Calabash](Calabash.md) and [Pomar](Pomar.md)) or 2 ([Plumfruit](Plumfruit.md), [Ongo](Ongo.md), or [Redd](Redd.md)) [Fruit](Ingredients.md#fruits) and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
