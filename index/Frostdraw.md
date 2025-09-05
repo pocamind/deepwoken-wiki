@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 159900
+revid: 160861
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -117,18 +117,19 @@ Ice
  |
 | 
 
-**Effect:** _Conjure a surrounding ring of 4 to 5 frozen servants that emit two blasts of frosty mist to the center._
+**Effect:** _Conjure a surrounding ring of 6 frozen servants that emit two blasts of frosty mist towards the center._
 
 -   Has a base damage of 6/8/10/12/14 per level, per hit (2) with 2.75 Frostdraw scaling.
 -   The [Blast Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 10/12/14/16/18 per level, per hit (4) with 2.75 Frostdraw scaling.
--   Deals 5 posture damage per hit (2, 4 if Blast Spark).
--   Has a windup of 0.4 seconds and a cooldown of 10 seconds.
+-   Deals 5 posture damage per hit. (Total of 10 posture or 20 with Blast Spark)
+-   Has a windup of 0.4 seconds and a cooldown of 10 seconds. (18 second cooldown with blast spark)
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
--   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified.
--   Leaves ice where the Mantra is casted.
+-   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified. (Each also applies crystals when used with crystallization.)
+-   Leaves an ice patch on the ground the Mantra is casted. (Size scaling up with level/Modifiers)
+-   Can be modified with Vibrant Gems to greatly increase the size of the ice patches.
 -   Can be modified with Stratus Stones to increase the size of the Mantra.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), making the servants attack outwards, pushing opponents back and ragdolling them.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to create one single giant ice soldier that sends a chilling breeze, hitting four times instead of the usual two and dealing more damage.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to create one single giant ice servant, with increased windup, sending a singular blast of frost, but instead four times in a row, dealing twice the damage.
 -   The Frostdraw counterpart to Flamecharm's [Burning Servants](Flamecharm.md#burning-servants).
 
  |
