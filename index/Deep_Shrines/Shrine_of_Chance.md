@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 152616
+revid: 160862
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -32,7 +32,7 @@ Trade a Talent of your choice and 5 to perform a Talent Draw with 3 cards.
 
 ### Details
 
--   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md).
+-   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md), but has been moved to Meteor Isle
 -   One of the most valuable Deep Shrines, this lets you obtain Talents you might have missed.
 -   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
 -   To get a Rare Talent, you must trade in a Rare Talent.

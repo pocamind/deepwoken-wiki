@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 156855
+revid: 160863
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]
@@ -36,5 +36,5 @@ To craft this item, you can obtain the recipe from [Alpha](Alpha.md). Then, you 
 
 ## Trivia
 
--   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item using the [Master Craftsman](Talents.md#artisan) [Talent](Talents.md) or the [Crafting Station](Crafting_Station.md) inside the the [Ignition Union](The_Ignition_Union.md) base.
+-   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item using the [Master Craftsman](Talents.md#artisan) [Talent](Talents.md) or the [Crafting Station](Crafting_Station.md) inside the [Ignition Union](The_Ignition_Union.md) base.
 -   The stars on the Delver Boots are created when crafted, thus the stars on the base Leather Boots used to craft it are inconsequential.

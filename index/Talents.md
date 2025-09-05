@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160813
+revid: 160865
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2425,6 +2425,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
     -   Scaling: 4 + Ironsing\*0.02
         -   Deals 5.5 physical damage per rod at 75 Ironsing.
+    -   Affected by most DMG modifiers.
+    -   Innately has 0% PEN, making PHYS armor good defense option against Impaler.
     -   Best PvE Rending Needle path due to its damage output.
     -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
     -   Prerequisites: Master Ironsinger, 75 Ironsing
