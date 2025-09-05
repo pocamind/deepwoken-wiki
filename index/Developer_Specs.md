@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 157679
+revid: 160938
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Spec]
@@ -77,7 +77,7 @@ Not much is known of Iltria's spec as of now, however we have a general idea. Up
 2.  Power - reach maximum [Power](Power.md) (needs confirming)
 3.  Enhancement - a unique enchant called "Astral" (see [Enchantments](Enchantments.md)) on your chosen weapon
 
-When your wish is granted you will find that you have a newly acquired [flaw](Boons_and_Flaws.md) known as "Wishbound". This [flaw](Boons_and_Flaws.md) causes the player to accumulate [insanity](Insanity.md) when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess [insanity](Insanity.md) should be aware at all times.
+When your wish is granted you will find that you have a newly acquired Flaw known as "[Wishbound](Boons_and_Flaws.md#flaws)". This Flaw causes the player to accumulate [insanity](Insanity.md) when it is night time (needs confirming), too slow to kill a player outright, but users with No Life King enchant or anybody gaining excess [insanity](Insanity.md) should be aware at all times.
 
 Wishmaker granting a wish (3rd option)
 

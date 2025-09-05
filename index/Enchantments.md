@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 160379
+revid: 160924
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -123,7 +123,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
   The formula is as follows: 0.15 * weapon scaled damage + 2.</p>
-  <p><b>(Gluttony's sustenance steal is NOT AFFECTED by <a href="Boons_and_Flaws.md#flaws">Gluttony Flaw</a> or damage modifiers, but it IS affected by damage resistances.)</b></p></div></td>
+  <p><b>(Gluttony's sustenance steal is NOT AFFECTED by <a href="Gluttony.md">Gluttony</a> Flaw or damage modifiers, but it IS affected by damage resistances.)</b></p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
 <tr>
@@ -659,7 +659,7 @@ This rain cloud functions as normal rain, debuffing [Flamecharm](Flamecharm.md) 
 
 If you have the **Chilling** Enchantment on your weapon, or if it's [Winter](Seasons.md), create snow instead.
 
-If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Boons_and_Flaws.md#boons) Boon.
+If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Boons_and_Flaws.md#survivalist) Boon.
 
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 

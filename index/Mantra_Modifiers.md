@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 160867
+revid: 160871
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -388,8 +388,8 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Warped Blue Gem</td>
-  <td>This Gem does nothing innately, but when paired with the full <a href="Bluestone_Pauldrons.md">Bluestone Set</a>, apply the <a href="Status_Effects.md#etherguard">Etherguard</a> status effect on hit. This effect has an 8 second cooldown.<p><br>
-  Etherguard grants Mantra damage reduction based on the Ether cost of the Mantras you get hit with.</p></td>
+  <td><b>While in water</b>, Warped Blue Gem reduces the Ether cost of your Mantra, post modifiers, by 50%.<p><br>
+  When paired with the full <a href="Bluestone_Pauldrons.md">Bluestone Set</a>, apply the <a href="Status_Effects.md#etherguard">Etherguard</a> status effect on hit, granting Mantra damage reduction based off the Ether cost of your opponent's Mantra. This effect has an 8 second cooldown.</p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

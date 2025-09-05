@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 154054
+revid: 160923
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1, Oath Trainer]
@@ -14,7 +14,7 @@ categories: [NPCs, Layer 1, Oath Trainer]
 
   
 
-_This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see Yun’Shul._ Template:NPC name**The Shrine of Yun'Shul, Keeper of Hearts** is a shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md), dedicated to the Drowned God Yun’Shul.
+_This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)._ Template:NPC name**The Shrine of Yun'Shul, Keeper of Hearts** is a shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md), dedicated to the Drowned God Yun’Shul.
 
 ## Description
 
@@ -24,13 +24,13 @@ The shrine at the Temple of Hearts also acts as the penultimate step of obtainin
 
 Speaking with Yun'Shul will show another dialogue for getting the [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) after meeting all requirements, the second to last step.
 
-It's possible to interact with the shrine at range using the [Idol of Yun'Shul](Relics.md#utility-relics). This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it; though, it can still be used without a wish - to get the most mileage out of it, you should be unable to obtain a wish from Yun'Shul's _shrine_ itself by the time you use it.
+It's possible to interact with the shrine at range using the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it; though, it can still be used without a wish - to get the most mileage out of it, you should be unable to obtain a wish from Yun'Shul's _shrine_ itself by the time you use it.
 
 ## Wishes
 
 The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish requires some criteria:
 
--   You need to have a Resonance, normally needed to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a [Deepbound](Origins.md#deepbound) (such as glitching in or being carried in by another player) you will be instantly killed and wipe if you do not log fast enough.**
+-   You need to have a Resonance, normally needed to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a [Deepbound](Deepbound.md) (such as glitching in or being carried in by another player) you will be instantly killed and wipe if you do not log fast enough.**
     -   Interacting with the shrine without a wish will not kill you assuming you meet these criteria.
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   A wish can be obtained by levelling up 3 times, via the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
@@ -46,13 +46,13 @@ If you meet all the criteria, you are able to make one of seven wishes:
     -   Instantly sends the player back to The Overworld.
         -   This can be used in combat, but escaping this way will start a 5 second kneeling animation before the escape cutscene queues. Being hit in these 5 seconds will cancel the escape, but not consume your wish.
 2.  **"My Flaws weigh me down too much, I wish for relief."**
-    -   Randomly rerolls one of your [flaws](Boons_and_Flaws.md#flaws). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
+    -   Rerolls a chosen [Flaw](Boons_and_Flaws.md) for a random one. Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
         -   **You can only make this wish once**. You can still, however, use Shrines.
         -   Essentially useless, due to the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) which does the exact same thing with less risks (you can't be given the Vacant flaw), and for only 5 Knowledge.
 3.  **"The Vows I made give me much regret, I wish to break them."**
     -   Erase all your active [Vows](Vows.md), including [Vow of Mastery](Vow_of_Mastery.md), whether it be for the master or the servant, and Vow of Allegiance.
 4.  **"The powers I have been granted displease me, I wish for new gifts."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant). The 4thcard will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version. Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md#flaws) unless you have [Soul Plasticity](Echoes.md#upgrades-unlocks-and-modifiers).
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant). The 4thcard will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version. Gives your Resonance the [Tarnished](Boons_and_Flaws.md#flaws) Flaw unless you have [Soul Plasticity](Echoes.md#upgrades-unlocks-and-modifiers).
 5.  **"For now I am one, but I wish to be three."**
     -   If you meet the requirements, gives you the [Soulbreaker](Oath%253A_Soulbreaker.md) oath.
 6.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
@@ -67,4 +67,4 @@ If you meet all the criteria, you are able to make one of seven wishes:
 -   The maximum amount of Wishes a player can carry at any given time is 197. You can purchase Wishes from [Misérables](Misérables.md), however the price ramps up, costing 15 Knowledge initially with every stacking Wish costing the previous price + 5 Knowledge (e.g. 15 -> 20 -> 25 -> 30, stacking a mere 4 wishes has cost you a total of 90 Knowledge). Wish 197 costs 995 Knowledge, making 198 Wishes not possible, as it'd require you to go past the Knowledge cap.
     -   This would require a combined total of ~99,485 Knowledge.
 -   [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
--   There is an [Enchantment](Enchantments.md#curses) named after Yun'Shul, the Curse of Yun'Shul.
+-   There is an [Enchantment](<Curse_of_Yun'Shul.md>) named after Yun'Shul, the Curse of Yun'Shul.

@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 156336
+revid: 160930
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -82,30 +82,43 @@ The Meat Lord can be found at the following places:
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td>
+  <td colspan="8"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td>
 </tr>
 <tr>
-  <td>Hey.</td>
-  <td>[Bow to the Meat Lord]</td>
+  <td colspan="4">Hey.</td>
+  <td colspan="4">[Bow to the Meat Lord]</td>
 </tr>
 <tr>
-  <td><i>*From beneath the Meat Lord's masking, you feel his vexed gaze weigh upon you.*</i> Do you understand how to behave properly in the face of <b>nobility</b>?</td>
-  <td>You may rise. I presume you wish to see today's selection?</td>
+  <td colspan="4"><i>*From beneath the Meat Lord's masking, you feel his vexed gaze weigh upon you.*</i> Do you understand how to behave properly in the face of <b>nobility</b>?</td>
+  <td colspan="4">You may rise. I presume you wish to see today's selection?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="4">End</td>
+  <td colspan="2">Yes, m'lord.</td>
+  <td colspan="2">[Player has the Vegetarian Flaw]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2"><font>[Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a><font>]</font></td>
+  <td colspan="2">I'm a vegetarian.</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">End</td>
+  <td colspan="2">I don't remember asking. Do you wish to see today's selection?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
   <td>Yes, m'lord.</td>
+  <td>I'm a vegetarian.</td>
 </tr>
 <tr>
-  <td></td>
-  <td>[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-</tr>
-<tr>
-  <td></td>
-  <td>End</td>
+  <td colspan="6"></td>
+  <td>[See previous instances.]</td>
+  <td>[See previous instances.]</td>
 </tr>
 </tbody>
 </table>
@@ -122,42 +135,6 @@ The Meat Lord can be found at the following places:
 </tr>
 <tr>
   <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Player has the Vegetarian Flaw:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin</td>
-</tr>
-<tr>
-  <td colspan="4"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td>
-</tr>
-<tr>
-  <td colspan="4">[Bow to the Meat Lord]</td>
-</tr>
-<tr>
-  <td colspan="4">You may rise. I presume you wish to see today's selection?</td>
-</tr>
-<tr>
-  <td colspan="2">Yes, m'lord.</td>
-  <td colspan="2">I'm a vegetarian.</td>
-</tr>
-<tr>
-  <td colspan="2">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-  <td colspan="2">I don't remember asking. Do you wish to see today's selection?</td>
-</tr>
-<tr>
-  <td colspan="2">End</td>
-  <td>Yes, m'lord.</td>
-  <td>I'm a vegetarian.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td colspan="2">[See previous instances.]</td>
 </tr>
 </tbody>
 </table>
@@ -234,7 +211,6 @@ Sold Items
     -   "Dress up as a salad and maybe then you'll get a reaction from me."
 -   Acting in ways he deems disrespectful will result in him refusing to sell items to you until you find another random event of him or server-hop.
 -   This character exists because of a running joke within the Rogue Lineage community about [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan), a meat vendor in Sentinel.
--   Talking to The Meat Lord while possessing the [Vegetarian Flaw](Boons_and_Flaws.md#flaws) will give you the dialogue option to tell him that you are a vegetarian, to which he will respond with "I don't remember asking."
 -   Stated by Par that The Meat Lord can "low diff any Drowned God." [\[1\]](#cite-note-1)
 -   Agamatsu asked Ragoozer on who would win between Big Hoss or The Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
 -   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.

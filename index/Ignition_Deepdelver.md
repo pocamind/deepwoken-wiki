@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 153368
+revid: 160945
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, Master Outfits, The Ignition Union]
@@ -48,7 +48,7 @@ This effect is also given by the arms equipment [Ignition Gauntlets](Ignition_Ga
 ## Trivia/Notes
 
 -   Combining this outfit with the Metal [enchant](Enchantments.md) (steal/replenish armor durability on hit) allows you to essentially negate the durability cost of the Talent.
-    -   Having multiple means of increasing armor replenishment or durability like Bloodiron Spirit, Armor Conserver, the [Steadfast](Boons_and_Flaws.md) boon, [Armorer's Ring](<Armorer's_Ring.md>), etc. can keep armor up in The Diluvian Mechanism or other mob-heavy areas.
+    -   Having multiple means of increasing armor replenishment or durability like Bloodiron Spirit, Armor Conserver, the [Steadfast](Boons_and_Flaws.md#steadfast) Boon, [Armorer's Ring](<Armorer's_Ring.md>), etc. can keep armor up in The Diluvian Mechanism or other mob-heavy areas.
 -   There are some attacks that cannot be parried even with Deepdelver on. These include (not exhaustive):
     -   **Pillars of Erisia** ([Duke Erisia](Duke_Ishamon_Erisia.md))
     -   **Cero** ([Lionfish](Lionfish.md)/[Glacial Lionfish](Glacial_Lionfish.md)/[Prime Megalodaunt](Prime_Megalodaunt.md)/[Exotic Megalodaunt](Exotic_Megalodaunt.md))

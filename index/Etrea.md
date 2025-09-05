@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 159172
+revid: 160939
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -60,7 +60,7 @@ You need high Friend Reputation with Etrea in order to start the Lord Regent's q
 -   [The Lord Regent](The_Lord_Regent.md) (Presumed, actually belongs to [The Ministry](The_Ministry.md))
 -   [Polis](Polis.md)
 -   [Kennith](Kennith.md)
--   Nerin (Resets [Reputation](Reputation.md) to the slot's default, unlocks the Sly [Boon](Boons_and_Flaws.md).)
+-   Nerin (Resets [Reputation](Reputation.md) to the slot's default, unlocks the [Sly](Boons_and_Flaws.md#unlockable-boons) Boon.)
 
 ## Associated Enemies
 

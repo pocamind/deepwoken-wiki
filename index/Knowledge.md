@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 159648
+revid: 160944
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -39,7 +39,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
 -   Supplying the [Diver Expedition](Random_Encounters.md#supply-the-diver-expedition), awarding 1 Knowledge after turning in the supplies.
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 1 Medallions for 1 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long as you have the medallions to afford it. **Klaris may refuse your Medallions as she will not talk to you if you are below Power 15.**_
--   Turning in [Crowns](Crowns.md) by clicking the currency icon, awarding you 1-5 Knowledge per Crown depending on your Power. Grants 1 Knowledge per at Power 1, scaling up to 5 Knowledge per at Power 20. This can be repeated and it bypasses [Simple's](Boons_and_Flaws.md#flaws) -25% Knowledge gain debuff.
+-   Turning in [Crowns](Crowns.md) by clicking the currency icon, awarding you 1-5 Knowledge per Crown depending on your Power. Grants 1 Knowledge per at Power 1, scaling up to 5 Knowledge per at Power 20. This can be repeated and it bypasses [Simple's](Boons_and_Flaws.md#simple) -25% Knowledge gain debuff.
 -   Finishing [Mendacia](Mendacia.md)'s quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though).
 -   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
 -   Defeating any [Boss](Bosses.md) solo, awarding 1 Knowledge and can be repeated.
@@ -61,15 +61,15 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing the Sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Astaroth](Astaroth,_Sinner_of_Wind.md), [Iblis](Iblis,_The_Fallen_Angel.md), and [Minos](Minos,_Sinner_of_Flame.md)) for [Starkindred](Oath%253A_Starkindred.md), awarding 1 Knowledge each for a total of 4 Knowledge.
 -   Killing the following Monsters for the first time while dealing at least 50% of the damage, awarding 1 Knowledge each:
     -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), and any \[\[Monsters|[Corrupted](Monsters.md#scyphozia) Monster\]\].
--   Using the [Moonseye Tome](Moonseye_Tome.md) relic, which grants 100 Knowledge (75 Knowledge with the Simple [Flaw](Boons_and_Flaws.md)) the first time, then 50 Knowledge (38 with the Simple [Flaw](Boons_and_Flaws.md)) for each subsequent uses.
+-   Using the [Moonseye Tome](Moonseye_Tome.md) relic, which grants 100 Knowledge the first time, then 50 Knowledge for each subsequent uses.
 -   Completing waves in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), which gives around 20 Knowledge in total when completing through wave 50.
 -   Completing [Hell Mode](Hell_Mode.md), which gives 15 Knowledge to each player who rang the bell when finished.
 
 The limit of on-hand Knowledge a player can have is 999. The currency is bound to a character and is lost upon wiping.
 
-The [Simple](Boons_and_Flaws.md#flaws) flaw decreases Knowledge gained from all sources by 25% (rounds up). Gaining 1-3 Knowledge at once will have no change, but a tax will be applied once 4 or more is gained at once. Gaining an even amount of Knowledge that is not divisible by 4 will cause it to round up.
+The [Simple](Boons_and_Flaws.md#simple) Flaw decreases Knowledge gained from all sources by 25% (rounds up). Gaining 1-3 Knowledge at once will have no change, but a tax will be applied once 4 or more is gained at once. Gaining an even amount of Knowledge that is not divisible by 4 will cause it to round up.
 
-The [Insightful Regalia](Regalia.md#insightful) increases all knowledge gain by 1.5x, rounding up to the nearest whole number. This Regalia persists on death if your level was low enough when you wiped.
+The [Insightful](Regalia.md#insightful) Regalia increases all knowledge gain by 1.5x, rounding up to the nearest whole number. This Regalia persists on death if your level was low enough when you wiped.
 
 A checklist can be found [here](https://docs.google.com/document/d/1RxSJhKnT9RZ-FWgMiHhZwltjNjVejLS9nFHQgqAnFWY/edit).
 

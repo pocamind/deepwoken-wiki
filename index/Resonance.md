@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 160227
+revid: 160927
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -14,7 +14,7 @@ categories: [Resonances, Mechanics]
 
 **Resonances,** also known as **Bells**, are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the Resonance itself is obtained, players can call forth their ability at will with the 'C' key. Obtaining a Resonance grants the player 5 [Knowledge](Knowledge.md).
 
-Obtaining a Resonance will also allow the opening of Resonance Doors around [The Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful [NPC](Sibex.md) ([Sibex](Sibex.md)) that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
+Obtaining a Resonance will also allow the opening of Resonance Doors around [The Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful NPC that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
 
 You can also obtain a Resonance from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Voidsea](Voidsea.md), and will be protected by a [Star Knight](Star_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random Resonance.
 
@@ -238,11 +238,10 @@ The draw consists of four cards, three of which are selected randomly (identical
 
 -   If your current **Resonance** isn't a **Corrupted Resonance**, the fourth card has a chance of being **Corrupted**. If your current **Resonance** _is_ a **Corrupted Resonance**, the fourth card will always be a _non-corrupted_ version of your **Resonance** with an extra fifth card of your **Corrupted Resonance** alongside it.
 
-This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear the _Tarnished_ flaw and will return your resonance to normal. You can also just buy the [Soul Plasticity](Echoes.md) echoes upgrade, as this disables the ability to have a tarnished bell altogether.
+This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear the _Tarnished_ flaw and will return your resonance to normal. You can also just buy the [Soul Plasticity](Echoes.md) echoes upgrade, as this disables the ability to have a tarnished bell altogether.
 
--   One can visit [Yamaketzal](Yamaketzal.md) to remove the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow a reroll via talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
--   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md), which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
--   And recently, [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) can now untarnish your bell for **1 [knowledge](Knowledge.md)**, and is unlocked in Layer 2 Floor 2 after the library, more info [here](Carrion,_Father_of_Evolution.md).
+-   One can visit [Yamaketzal](Yamaketzal.md) or [Carrion](Carrion,_Father_of_Evolution.md) to remove the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does not require you to have free wishes.
+-   Otherwise, [Misérables](Misérables.md) will remove the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 -   If you have the [Soul Plasticity](Echoes.md) echoes upgrade you won't be able to have a _Tarnished_ resonance.
 
 In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from Yun'Shul every 3 levels.
@@ -254,7 +253,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   The higher the level you are, the easier it is to obtain a **Resonance**. This is because every time you power up, the requirements for your resonance lower, rather than getting more experience towards your resonance per power level.
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
 -   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight** whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
--   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One was at the end of the parkour in the Depths prior to it becoming the home of the Diluvian Mechanism, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
+-   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One was at the end of the parkour in the Depths prior to it becoming the home of the Diluvian Mechanism, one is in [Saramaed Summit](Saramaed_Summit.md), and one is near a waterfall at [Aratel Island](Aratel_Island.md).
 -   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too.)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, **DO NOT try to go and bell check**, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
 -   Before Resonances had Cards, the only way to know what type your **Resonance** was from a circular aura that occurred when you obtained it, being white for **Common**, purple for **Corrupted**, and yellow for **Legendary**.

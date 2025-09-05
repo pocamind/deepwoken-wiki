@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 160804
+revid: 160875
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -25,7 +25,7 @@ All weapons within the game have chances of being found with or without differen
 -   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon or extracts a motif. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
 -   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
 -   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, Heart of Enmity, and Astral Knights guaranteeing a specific enchant.
--   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral and Curse of Rhaeman's ember enchants.
+-   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral and Curse of Ysley ember enchants.
 
 [Enchanted](Enchantments.md) weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
 

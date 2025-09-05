@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 160682
+revid: 160933
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -125,7 +125,7 @@ This effect happens when you've reached Tier 2 of [Insanity](Insanity.md), or un
 
 ### Tier 3 Insanity
 
-This effect happens when you've reached Tier 3 of [Insanity](Insanity.md), or under 10% of your maximum Sanity, where your character will start Scratching their body and face which deals **20 damage** and stunning you for **1.5 seconds** and then you will Shiver for 2 seconds. Damage taken by Scratching cannot be resisted by armor, but will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. If you don't have enough health left when Scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Panic instead of Scratching, additionally Panic damage will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. Due to how long it takes to get to max insanity, (unless you have [manic](Boons_and_Flaws.md)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
+This effect happens when you've reached Tier 3 of [Insanity](Insanity.md), or under 10% of your maximum Sanity, where your character will start Scratching their body and face which deals **20 damage** and stunning you for **1.5 seconds** and then you will Shiver for 2 seconds. Damage taken by Scratching cannot be resisted by armor, but will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. If you don't have enough health left when Scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Panic instead of Scratching, additionally Panic damage will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. Due to how long it takes to get to max insanity, (unless you have [Manic](Boons_and_Flaws.md#manic)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
 
 ### Food Buffs
 
@@ -135,9 +135,7 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
 -   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
 -   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
 -   Ether: Increases Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
-    
-    Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) or the [Fruit Salad](Fruit_Salad.md).
-    
+-   Heal: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) or the [Fruit Salad](Fruit_Salad.md).
 -   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Seafood Boil](Seafood_Boil.md).
 -   Brain: Effect currently unknown; _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
 -   Scale: Effect currently unknown; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).

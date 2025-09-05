@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 160685
+revid: 160950
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -36,7 +36,7 @@ Attempting to use at Knowledge Cap (999), _"Your mind is too full to take in the
 ## Trivia
 
 -   In your inventory, the Moonseye Tome has a Weight of 1.
--   The Simple [Flaw](Boons_and_Flaws.md#flaws) will cause you to gain 25% less Knowledge from all sources, this of course includes the Moonseye Tome.
+-   The [Simple](Boons_and_Flaws.md#simple) Flaw will cause you to gain 25% less Knowledge from all sources, this of course includes the Moonseye Tome.
     -   First use: 100 --> 75 knowledge
     -   Subsequent uses: 50 --> 38 knowledge
 -   If you read the tome as a voidwalker, it mentions that its disappointed in your character

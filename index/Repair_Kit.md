@@ -1,6 +1,6 @@
 ---
 title: Repair Kit
-revid: 152031
+revid: 160940
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -17,11 +17,11 @@ categories: [Items, Outfits]
 
 A Repair Kit is a deployable tool that repairs armor durability.
 
--   However, it doesn't repair natural armor granted by the [Exoskeleton](Talents.md#freak-of-nature) Talent or the [Vesperian](Vesperian.md#racial-traits) Aspect.
+-   However, it doesn't repair natural armor granted by the [Exoskeleton](Talents.md#freak-of-nature) Talent or the [Vesperian](Vesperian.md#aspect-traits) Aspect.
 
 When placed on the ground, Repair Kits can be interacted with, granting armor durability overtime. Each Repair Kit can restore up to 2000 armor durability, after which they will vanish.
 
-Up to five Repair Kits can be held normally, but using the [Packmule](Boons_and_Flaws.md#boons) Boon increases your capacity to 7.
+Up to five Repair Kits can be held normally, but using the [Packmule](Boons_and_Flaws.md#packmule) Boon increases your capacity to 7.
 
 ## Obtainment
 
@@ -31,7 +31,7 @@ Alternatively you can purchase it from [Castle Light](Castle_Light.md) next to t
 
 ## Tips
 
-If you lack a [Graceful Flame](Talents.md#undying-ember), or aren't [Ignition Delver](Ignition_Delver.md) or [Deepbound](Deepbound.md), repair Kits can be extremely useful when used in the [First Layer](First_Layer.md) due to [Campfires](Campfire_Pit.md) being unable to be lit.
+If you lack a [Graceful Flame](Flamecharm.md#graceful-flame), or aren't [Ignition Delver](Ignition_Delver.md) or [Deepbound](Deepbound.md), repair Kits can be extremely useful when used in the [First Layer](First_Layer.md) due to [Campfires](Campfire_Pit.md) being unable to be lit.
 
 -   [Hell Mode](Hell_Mode.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and the [Heart of Enmity](Heart_of_Enmity.md) are all place where your armor durability gets shredded, try bringing one into your next run.
 

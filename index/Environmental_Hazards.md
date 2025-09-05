@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 149771
+revid: 160943
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ categories: [Mechanics]
 <tr>
   <td>Rain</td>
   <td>Everywhere (Excluding Starswept Valley, <a href="The_Depths.md">Depths</a>), summoned via <a href="Rain_Spire.md">Rain Spire</a>.</td>
-  <td>Procs certain Talents, All uncovered lit campfires are snuffed out after a few seconds (not including Flamecharm's Graceful Flame).</td>
+  <td>Procs certain Talents, All uncovered lit campfires are snuffed out after a few seconds (not including Flamecharm's <a href="Flamecharm.md#graceful-flame">Graceful Flame</a>).</td>
 </tr>
 <tr>
   <td>Hail</td>
@@ -34,7 +34,7 @@ categories: [Mechanics]
 <tr>
   <td>Acid Rain</td>
   <td><a href="Upper_Erisia.md">Upper Erisia</a>, summoned via <a href="Rain_Spire.md">Rain Spire</a>.</td>
-  <td>Slow HP loss, negated with the Survivalist <a href="Boons_and_Flaws.md">Boon</a>. <a href="Etrean.md">Etreans</a> take less damage from Acid Rain.</td>
+  <td>Slow HP loss, negated with the <a href="Boons_and_Flaws.md#survivalist">Survivalist</a> Boon. <a href="Etrean.md">Etreans</a> take less damage from Acid Rain.</td>
 </tr>
 <tr>
   <td>Sandstorm</td>
@@ -59,7 +59,7 @@ categories: [Mechanics]
 <tr>
   <td>Heavy Wind</td>
   <td><a href="Second_Layer.md">Second Layer</a> and <a href="Moon's_Eyrie.md">Moon's Eyrie</a></td>
-  <td>Halts movement to a crawl when affecting a player. If the player does not face the wind and move forward it will ragdoll the player and fling them in the direction of the wind. It is unknown if the Survivalist <a href="Boons_and_Flaws.md">Boon</a> helps against this. Found in Floor 1 of the <a href="Second_Layer.md">Second Layer</a>, on bridges in the 2nd part of the floor and in the bridges to go to the top of Moon's Eyrie. Also increases parasite gain.</td>
+  <td>Halts movement to a crawl when affecting a player. If the player does not face the wind and move forward it will ragdoll the player and fling them in the direction of the wind. It is unknown if the <a href="Boons_and_Flaws.md#survivalist">Survivalist</a> Boon helps against this. Found in Floor 1 of the <a href="Second_Layer.md">Second Layer</a>, on bridges in the 2nd part of the floor and in the bridges to go to the top of Moon's Eyrie. Also increases parasite gain.</td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@ categories: [Mechanics]
 <tr>
   <td>Acid Pools</td>
   <td>Erisia</td>
-  <td>Slow loss of HP, not negated with Survivalist <a href="Boons_and_Flaws.md">Boon</a>. Additionally, puts you in Danger.</td>
+  <td>Slow loss of HP, not negated with <a href="Boons_and_Flaws.md#survivalist">Survivalist</a> Boon. Additionally, puts you in Danger.</td>
 </tr>
 <tr>
   <td>Lava</td>

@@ -1,16 +1,12 @@
 ---
 title: Talents
-revid: 160865
+revid: 160957
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
 ---
 
 # Talents
-
-File:DeepwokenThumbnail.png
-
-File:DeepwokenThumbnail.png
 
 ## Foreword
 
@@ -319,7 +315,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
     -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, giving you a free talent hand at the next power.
     -   Prerequisites: 5 Strength, 5 Willpower
-    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md) (Flaw)
+    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) (Flaw)
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
@@ -1511,8 +1507,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _**All Above, Gods Below**_ \[Advanced Talent, Willpower Exclusive\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you. (+20 Sanity)
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
-        -   Lasts 8 seconds after an All the Dead Gods proc at reqs.
-        -   The duration of All Above, Gods Below's is reduced if you do not meet its requirements, lasting a mere 4 seconds with 75 Willpower and 75 Intelligence.
+        -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence.
+        -   Lasts 4 seconds after an All the Dead Gods proc if you are below this Talent's requirements.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   This does not stack with Saint Jay.
@@ -1689,7 +1685,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
         -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
 -   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
-    -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
+    -   Passively obtain the benefits of the [Autodidact](Boons_and_Flaws.md#autodidact) Boon.
+    -   Increases [reputation](Reputation.md) gain with factions.
 
 -   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
     -   Status effects, good or bad, have a shorter duration.
@@ -1731,7 +1728,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
     -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%.
         -   The posture damage bonus can be increased with the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) Talent, scaling on how many Might Gems you have equipped on your Mantras.
-    -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit.
+    -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit if you are wearing the [Bluestone Set](Bluestone_Pauldrons.md).
     -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
     -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on hit.
     -   [Wrath Gem](Wrath_Gem.md) can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
@@ -3730,7 +3727,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: [Power](Power.md) 3
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
-    -   Stacks with the [Boon](Boons_and_Flaws.md#boons) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
+    -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
     -   Prerequisite: 5 Fortitude
 
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
@@ -3874,7 +3871,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Ether Emergency: [Bluestone Pauldrons](Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
-    -   Instantly restores a flat amount of health at the cost of all of your Ether, with the health gain scaling on your maximum Ether.
+    -   Instantly restores 15% of your maximum Ether as flat health at the cost of all of your Ether and the inability to cast Mantras for a short duration.
 -   Ether Pinpoint: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
     -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
@@ -3902,7 +3899,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Heartwing Beat has a 6 second cooldown.
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
     -   Your dodge window is increased by 0.05s.
--   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your Blue Gems. Blue are the gems you use.
+-   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
     -   This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.

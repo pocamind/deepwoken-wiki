@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 157982
+revid: 160916
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -93,6 +93,6 @@ The color of the scales are based on your skin color, though they can be [Dyed](
 
 -   It was stated pre-release that Etreans were Xenophobic and would discriminate against players based on their aspect. This was _mostly_ removed (or perhaps never existed at all) some time before the game came out, however the community's perception of Etreans has not changed.
 -   Etreans with blue and black hair are most likely a reference to Mitsuki and Orochimaru from the Naruto anime series.
--   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md#boons) boon is still a viable option.
+-   Despite having acid rain resistance, they lack full immunity. The [Survivalist](Boons_and_Flaws.md#survivalist) Boon is still a viable option.
 -   During 4/1/2022 April fools update (Mudwoken), Etrean aspect name was changed to 'Moltskipper'.
 -   It is possible they are based on Chinese and Japanese people due to their surnames, appearance, infrastructure, guards (notably, from [Isle of Vigils](Isle_of_Vigils.md)), and, most notably, their residents (Lance Leshi, Apprentice Kj, Suyuan etc)

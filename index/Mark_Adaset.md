@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 159747
+revid: 160951
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Divers, NPCs located in the First Layer]
@@ -20,7 +20,7 @@ Mark Adaset is the Quartermaster of [Castle Light](Castle_Light.md). He wears th
 
 He is able to replace the [Deepbound](Boons_and_Flaws.md) flaw for a flaw/flaws of your liking.
 
--   This isn't recommended though as still having this flaw is considered rare and provides zero downsides to your character.
+-   This isn't recommended though as still having this flaw is considered rare due to its unobtainability, and provides zero downsides to your character.
 
 ## Location
 

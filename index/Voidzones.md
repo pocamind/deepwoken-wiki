@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 160662
+revid: 160917
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -52,9 +52,9 @@ While inside a Voidzone:
   
 **Location:** [Songseeker Wilds](Songseeker_Wilds.md), Eastern Luminant
 
-**Dangers:** Insanity-inflicting Environment, [Nightmare Threshers](Nightmare_Thresher.md), [Deep Angels](Deep_Angel.md)
+**Dangers:** [Insanity](Insanity.md)\-inflicting Environment, [Nightmare Threshers](Nightmare_Thresher.md)
 
-**Rewards:** [Miasmic and Zephyr Lotuses](Ingredients.md#lotuses), Songseeker loot pool, Deep Angels chest loot pool
+**Rewards:** [Miasmic and Zephyr Lotuses](Ingredients.md#lotuses), Songseeker loot pool
 
 ### [Lightkeeper Temple](Lightkeeper_Temple.md)
 

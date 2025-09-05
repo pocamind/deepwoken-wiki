@@ -1,6 +1,6 @@
 ---
 title: Deep Angel
-revid: 151298
+revid: 160899
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters, Enemies, Enemies that can wield Enchantments]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 These Angels are like no other variants - they are black in contrary to other variants, and glow bright magenta. They use [Divine Spears](Crazy_Slots.md) to kill their enemies. The Deep Angels spawn in the Ancient Rotlands, and drops a chest when you kill them. The chests they drop will contain high tier loot, having more than two legendary rings in one chest.
 
-Deep Angels were removed from the game on June 9th, 2025.
+Deep Angels were removed from the game on June 9th, 2025. Static encounters in the [Ancient Rotlands](Ancient_Rotlands.md) where Deep Angels would previously spawn were replaced with [Nightmare Threshers](Nightmare_Thresher.md), but particular Deep Angel spawns in all other locations were not replaced with any other enemy and instead removed entirely. Wave 9 of the [Diluvian Mechanism](The_Diluvian_Mechanism.md) spawns nothing and is skipped completely, and Deep Angels also no longer spawn in Wave 44, leaving only a single enemy to fight.
 
 ## Moveset
 

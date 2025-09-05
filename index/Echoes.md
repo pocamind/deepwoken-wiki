@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 160229
+revid: 160882
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -18,29 +18,27 @@ categories: [Echoes, Character, Mechanics, Creation]
 
 **Echoes** can be spent on **Upgrades** and **Unlocks;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echo Shop** tab can be used to spend **Echoes** on **Upgrades** and **Unlocks**. In addition, **Modifiers** can be enabled in the **Echo Modifier** menu.
 
-**Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 13 Modifiers available, providing a total cumulative 3.2x modifier to **Echo** gain.
-
-**Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
-
-**Echo Unlocks** are account-wide, so purchasing an unlock on one slot will often affect the rest. Unlocks that pertain to new slots (like Starter Weapons or Tools) will not impact pre-existing slots however.
+-   **Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 13 Modifiers available, providing a total cumulative 3.2x modifier to **Echo** gain.
+-   **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
+-   **Echo Unlocks** are account-wide, so purchasing an unlock on one slot will often affect the rest. Unlocks that pertain to new slots (like Starter Weapons or Tools) will not impact pre-existing slots however.
 
 The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 140. (441 with all Echoes Modifier)
 
-**Ranks** are granted to the character upon wiping, based on how much base echoes they have obtained (before multipliers)
-
-Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list. The emerald name overrides Silver & Gold names from [Chime of Conflict](Chime_of_Conflict.md).
-
-A Rank now gives 1 character slot for free.
-
-S Rank is achievable by doing all echoes tasks (listed below).
-
-A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns and Glass Bones.
-
-[https://deepwoken-checklist.vercel.app/index.html](https://deepwoken-checklist.vercel.app/index.html) check list in case you need it
+### Ranks
 
 W Rank being obtained
 
-**What rank your character will receive depends on amount of echoes you collect, without taking modifiers multiplicator into consideration.**
+**Ranks** are granted to the character upon wiping, based on how much base Echoes they have obtained (before multipliers)
+
+Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list. The emerald name overrides Silver & Gold names from [Chime of Conflict](Chime_of_Conflict.md).
+
+-   A Rank now gives 1 character slot for free.
+-   S Rank is achievable by doing all Echoes tasks (listed below).
+-   A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns and Glass Bones.
+
+[https://deepwoken-checklist.vercel.app/index.html](https://deepwoken-checklist.vercel.app/index.html) check list in case you need it
+
+**What rank your character will receive depends on amount of Echoes you collect, without taking multipliers from Echo Modifiers into consideration.**
 
 | 
  | Rank | Echoes Amount |
@@ -50,7 +48,7 @@ W Rank being obtained
  | W | 140 (441 w/ all Echoes Modifiers except Vow of Thorns and Glass Bones) |
 | 
 
- | S | 140 (Must do all echoes tasks) |
+ | S | 140 (Must do all Echoes tasks) |
 | 
 
  | A | 112-139 |
@@ -69,7 +67,7 @@ W Rank being obtained
 
 ### Ways of Obtaining Echoes
 
-Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of echoes, and with a small number of exceptions, each Triumph can only be achieved once.
+Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of Echoes, and with a small number of exceptions, each Triumph can only be achieved once.
 
 | 
  | Echo Reward | Task/Requirement |
@@ -147,101 +145,99 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
  | 15 | Obtaining a [Resonance](Resonance.md). (You must CHOOSE it. If you reroll in Fragments of Self, it resets the task, even if you had one before.) |
 
-  
-
 ## Upgrades, Unlocks, and Modifiers
 
-There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased a maximum of 1 to 6 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades and all unlocks costs 2695 echoes.
+There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased a maximum of 1 to 6 times, depending on the upgrade. Purchasing the maximum level of all Echo upgrades and all unlocks costs 2695 Echoes.
 
-[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 40 echoes per item even if they're Soulbound. This is not renewable.
+[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 40 Echoes per item even if they're Soulbound. This is not renewable.
 
 **Upgrades:**
 
 <table>
 <tbody>
 <tr>
-  <td><center><b>Upgrade</b></center></td>
-  <td><center><b>Effect</b></center></td>
-  <td><center><b>Cost</b></center></td>
-  <td><center><b>Increment</b></center></td>
-  <td><center><b>Maximum</b></center></td>
+  <td><b>Upgrade</b></td>
+  <td><b>Effect</b></td>
+  <td><b>Cost</b></td>
+  <td><b>Increment</b></td>
+  <td><b>Maximum</b></td>
 </tr>
 <tr>
-  <td><center><b>Resonance Progress</b></center></td>
-  <td><center>Increases the speed <a href="Resonance.md">Resonance</a> progress is made.</center></td>
-  <td><center>50 Echoes</center></td>
-  <td><center>5%</center></td>
-  <td><center>20%</center></td>
+  <td><b>Resonance Progress</b></td>
+  <td>Increases the speed <a href="Resonance.md">Resonance</a> progress is made.</td>
+  <td>50 Echoes</td>
+  <td>5%</td>
+  <td>20%</td>
 </tr>
 <tr>
-  <td><center><b>Resonance Rarity</b></center></td>
-  <td><center>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>. At Max, your chances are doubled.</center></td>
-  <td><center>50 Echoes</center></td>
-  <td><center>2</center></td>
-  <td><center>10</center></td>
+  <td><b>Resonance Rarity</b></td>
+  <td>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>. At Max, your chances are doubled.</td>
+  <td>50 Echoes</td>
+  <td>2</td>
+  <td>10</td>
 </tr>
 <tr>
-  <td><center><b>Mob Armor</b></center></td>
-  <td><center>Increases armor against mobs.</center></td>
-  <td><center>50 Echoes</center></td>
-  <td><center>2%</center></td>
-  <td><center>8%</center></td>
+  <td><b>Mob Armor</b></td>
+  <td>Increases armor against mobs.</td>
+  <td>50 Echoes</td>
+  <td>2%</td>
+  <td>8%</td>
 </tr>
 <tr>
-  <td><center><b>Mob Damage</b></center></td>
-  <td><center>Increases damage dealt to mobs.</center></td>
-  <td><center>50 Echoes</center></td>
-  <td><center>2%</center></td>
-  <td><center>8%</center></td>
+  <td><b>Mob Damage</b></td>
+  <td>Increases damage dealt to mobs.</td>
+  <td>50 Echoes</td>
+  <td>2%</td>
+  <td>8%</td>
 </tr>
 <tr>
-  <td><center><b>Stomach Capacity</b></center></td>
-  <td><center>Slows the rate at which the hunger bar goes down.</center></td>
-  <td><center>25 Echoes</center></td>
-  <td><center>2%</center></td>
-  <td><center>10%</center></td>
+  <td><b>Stomach Capacity</b></td>
+  <td>Slows the rate at which the hunger bar goes down.</td>
+  <td>25 Echoes</td>
+  <td>2%</td>
+  <td>10%</td>
 </tr>
 <tr>
-  <td><center><b>Thirst Capacity</b></center></td>
-  <td><center>Slows the rate at which the thirst bar goes down.</center></td>
-  <td><center>25 Echoes</center></td>
-  <td><center>2%</center></td>
-  <td><center>10%</center></td>
+  <td><b>Thirst Capacity</b></td>
+  <td>Slows the rate at which the thirst bar goes down.</td>
+  <td>25 Echoes</td>
+  <td>2%</td>
+  <td>10%</td>
 </tr>
 <tr>
-  <td><center><b>Carrying Capacity</b></center></td>
-  <td><center>Your abillity to carry more items.</center></td>
-  <td><center>50 Echoes</center></td>
-  <td><center>5</center></td>
-  <td><center>30</center></td>
+  <td><b>Carrying Capacity</b></td>
+  <td>Your abillity to carry more items.</td>
+  <td>50 Echoes</td>
+  <td>5</td>
+  <td>30</td>
 </tr>
 <tr>
-  <td><center><b>Passdown Capacity</b></center></td>
-  <td><center>Increases the amount of items you can pass down upon wiping.</center></td>
-  <td><center>50 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>4</center></td>
+  <td><b>Passdown Capacity</b></td>
+  <td>Increases the amount of items you can pass down upon wiping.</td>
+  <td>50 Echoes</td>
+  <td>1</td>
+  <td>4</td>
 </tr>
 <tr>
-  <td><center><b>Starting Notes</b></center></td>
-  <td><center>Increases the number of <a href="Notes.md">Notes</a> that new characters start with.</center></td>
-  <td><center>25 Echoes</center></td>
-  <td><center>5</center></td>
-  <td><center>25</center></td>
+  <td><b>Starting Notes</b></td>
+  <td>Increases the number of <a href="Notes.md">Notes</a> that new characters start with.</td>
+  <td>25 Echoes</td>
+  <td>5</td>
+  <td>25</td>
 </tr>
 <tr>
-  <td><center><b>Starting Knowledge</b></center></td>
-  <td><center>Increases the amount of <a href="Knowledge.md">Knowledge</a> new characters start with.</center></td>
-  <td><center>25 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>5</center></td>
+  <td><b>Starting Knowledge</b></td>
+  <td>Increases the amount of <a href="Knowledge.md">Knowledge</a> new characters start with.</td>
+  <td>25 Echoes</td>
+  <td>1</td>
+  <td>5</td>
 </tr>
 <tr>
-  <td><center><b>Starting Ace</b></center></td>
-  <td><center>Increases the number of <a href="Aces.md">Aces</a> new players start with.</center></td>
-  <td><center>50 Echoes</center></td>
-  <td><center>1</center></td>
-  <td><center>2</center></td>
+  <td><b>Starting Ace</b></td>
+  <td>Increases the number of <a href="Aces.md">Aces</a> new players start with.</td>
+  <td>50 Echoes</td>
+  <td>1</td>
+  <td>2</td>
 </tr>
 </tbody>
 </table>
@@ -251,84 +247,84 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 <table>
 <tbody>
 <tr>
-  <td><center><b>Unlock</b></center></td>
-  <td><center><b>Effect</b></center></td>
-  <td><center><b>Cost</b></center></td>
+  <td><b>Unlock</b></td>
+  <td><b>Effect</b></td>
+  <td><b>Cost</b></td>
 </tr>
 <tr>
-  <td><center><b>Soul Plasticity</b></center></td>
-  <td><center>Grants immunity to the Tarnished flaw.</center></td>
-  <td><center>500 Echoes</center></td>
+  <td><b>Soul Plasticity</b></td>
+  <td>Grants immunity to the Tarnished flaw.</td>
+  <td>500 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Multifaceted</b></center></td>
-  <td><center>The Attribute points you usually receive from your Aspect are free for you to allocate.</center></td>
-  <td><center>250 Echoes</center></td>
+  <td><b>Multifaceted</b></td>
+  <td>The Attribute points you usually receive from your Aspect are free for you to allocate.</td>
+  <td>250 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Elementalist</b></center></td>
-  <td><center>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</center></td>
-  <td><center>200 Echoes</center></td>
+  <td><b>Elementalist</b></td>
+  <td>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</td>
+  <td>200 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Starter Equipment</b></center></td>
-  <td><center>You start with a pair of <a href="Leather_Gloves.md">leather gloves</a> and <a href="Leather_Boots.md">boots</a>.</center></td>
-  <td><center>30 Echoes</center></td>
+  <td><b>Starter Equipment</b></td>
+  <td>You start with a pair of <a href="Leather_Gloves.md">leather gloves</a> and <a href="Leather_Boots.md">boots</a>.</td>
+  <td>30 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Starter Weapon: Rapier</b></center></td>
-  <td><center>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a starting weapon.</center></td>
-  <td><center>25 Echoes</center></td>
+  <td><b>Starter Weapon: Rapier</b></td>
+  <td>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a starting weapon.</td>
+  <td>25 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Starter Weapon: Pistol</b></center></td>
-  <td><center>Allows you to select the <a href="Silversix.md">Silversix</a> as a starting weapon.</center></td>
-  <td><center>25 Echoes</center></td>
+  <td><b>Starter Weapon: Pistol</b></td>
+  <td>Allows you to select the <a href="Silversix.md">Silversix</a> as a starting weapon.</td>
+  <td>25 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Starter Weapon: Spear</b></center></td>
-  <td><center>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a starting weapon.</center></td>
-  <td><center>25 Echoes</center></td>
+  <td><b>Starter Weapon: Spear</b></td>
+  <td>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a starting weapon.</td>
+  <td>25 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Starter Weapon: Greatsword</b></center></td>
-  <td><center>Allows you to select the <a href="Avenger.md">Avenger</a> as a starting weapon.</center></td>
-  <td><center>25 Echoes</center></td>
+  <td><b>Starter Weapon: Greatsword</b></td>
+  <td>Allows you to select the <a href="Avenger.md">Avenger</a> as a starting weapon.</td>
+  <td>25 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Flint</b></center></td>
-  <td><center>You start with a <a href="Flint.md">Flint</a> to start fires.</center></td>
-  <td><center>15 Echoes</center></td>
+  <td><b>Flint</b></td>
+  <td>You start with a <a href="Flint.md">Flint</a> to start fires.</td>
+  <td>15 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Canteen</b></center></td>
-  <td><center>You start with a <a href="Canteen.md">Canteen</a> to collect water.</center></td>
-  <td><center>15 Echoes</center></td>
+  <td><b>Canteen</b></td>
+  <td>You start with a <a href="Canteen.md">Canteen</a> to collect water.</td>
+  <td>15 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Pickaxe</b></center></td>
-  <td><center>You start with a <a href="Pickaxe.md">Pickaxe</a> to gather <a href="Ores.md">ores</a>.</center></td>
-  <td><center>15 Echoes</center></td>
+  <td><b>Pickaxe</b></td>
+  <td>You start with a <a href="Pickaxe.md">Pickaxe</a> to gather <a href="Ores.md">ores</a>.</td>
+  <td>15 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Lumber Axe</b></center></td>
-  <td><center>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather <a href="Wood.md">wood</a>.</center></td>
-  <td><center>15 Echoes</center></td>
+  <td><b>Lumber Axe</b></td>
+  <td>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather <a href="Wood.md">wood</a>.</td>
+  <td>15 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Fishing Rod</b></center></td>
-  <td><center>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</center></td>
-  <td><center>15 Echoes</center></td>
+  <td><b>Fishing Rod</b></td>
+  <td>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</td>
+  <td>15 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Repair Hammer</b></center></td>
-  <td><center>You start with a <a href="Repair_Hammer.md">Repair Hammer</a> to repair <a href="Ships_&amp;_Sailing.md">ships</a>.</center></td>
-  <td><center>15 Echoes</center></td>
+  <td><b>Repair Hammer</b></td>
+  <td>You start with a <a href="Repair_Hammer.md">Repair Hammer</a> to repair <a href="Ships_&amp;_Sailing.md">ships</a>.</td>
+  <td>15 Echoes</td>
 </tr>
 <tr>
-  <td><center><b>Glider</b></center></td>
-  <td><center>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</center></td>
-  <td><center>25 Echoes</center></td>
+  <td><b>Glider</b></td>
+  <td>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</td>
+  <td>25 Echoes</td>
 </tr>
 </tbody>
 </table>
@@ -338,80 +334,80 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 <table>
 <tbody>
 <tr>
-  <td><center><b>Modifier</b></center></td>
-  <td><center><b>Effect</b></center></td>
-  <td><center><b>Echo Multiplier</b></center></td>
+  <td><b>Modifier</b></td>
+  <td><b>Effect</b></td>
+  <td><b>Echo Multiplier</b></td>
 </tr>
 <tr>
-  <td><center><b>Fragile Heart</b></center></td>
-  <td><center>All incoming mob damage is doubled.</center></td>
-  <td><center><b>+50%</b></center></td>
+  <td><b>Fragile Heart</b></td>
+  <td>All incoming mob damage is doubled.</td>
+  <td><b>+50%</b></td>
 </tr>
 <tr>
-  <td><center><b>Crestfallen</b></center></td>
-  <td><center>Your armor is permanently broken.</center></td>
-  <td><center><b>+10%</b></center></td>
+  <td><b>Crestfallen</b></td>
+  <td>Your armor is permanently broken.</td>
+  <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><center><b>Deep Champion</b></center></td>
-  <td><center>Your <a href="Cathedral_of_the_Interstice.md">Depths trial</a> is always corrupted.</center></td>
-  <td><center><b>+20%</b></center></td>
+  <td><b>Deep Champion</b></td>
+  <td>Your <a href="Cathedral_of_the_Interstice.md">Depths trial</a> is always corrupted.</td>
+  <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><center><b>Dissonant</b></center></td>
-  <td><center>You are unable to draw forth your <a href="Resonance.md">Resonance</a>.<br>
-  <small>(You can still obtain one, but you cannot use it.)</small></center></td>
-  <td><center><b>+30%</b></center></td>
+  <td><b>Dissonant</b></td>
+  <td>You are unable to draw forth your <a href="Resonance.md">Resonance</a>.<br>
+  <small>(You can still obtain one, but you cannot use it.)</small></td>
+  <td><b>+30%</b></td>
 </tr>
 <tr>
-  <td><center><b>Hollow</b></center></td>
-  <td><center>All overworld deaths send you to the <a href="First_Layer.md">Depths</a>.</center></td>
-  <td><center><b>+10%</b></center></td>
+  <td><b>Hollow</b></td>
+  <td>All overworld deaths send you to the <a href="First_Layer.md">Depths</a>.</td>
+  <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><center><b>Slowburn</b></center></td>
-  <td><center>All incoming healing is heavily reduced.</center></td>
-  <td><center><b>+10%</b></center></td>
+  <td><b>Slowburn</b></td>
+  <td>All incoming healing is heavily reduced.</td>
+  <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><center><b>Dealbreaker</b></center></td>
-  <td><center>You sell items for 25% less.</center></td>
-  <td><center><b>+5%</b></center></td>
+  <td><b>Dealbreaker</b></td>
+  <td>You sell items for 25% less.</td>
+  <td><b>+5%</b></td>
 </tr>
 <tr>
-  <td><center><b>Loose Change</b></center></td>
-  <td><center>All damage received makes you lose notes on hit.</center></td>
-  <td><center><b>+20%</b></center></td>
+  <td><b>Loose Change</b></td>
+  <td>All damage received makes you lose notes on hit.</td>
+  <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><center><b>High Velocity</b></center></td>
-  <td><center>All fall damage is heavily amplified, allowing you to die from falls much easier.</center></td>
-  <td><center><b>+10%</b></center></td>
+  <td><b>High Velocity</b></td>
+  <td>All fall damage is heavily amplified, allowing you to die from falls much easier.</td>
+  <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><center><b>Ironwoken</b></center></td>
-  <td><center>You cannot receive notes or items from other players.</center></td>
-  <td><center><b>+10%</b></center></td>
+  <td><b>Ironwoken</b></td>
+  <td>You cannot receive notes or items from other players.</td>
+  <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><center><b>One Bit</b></center></td>
-  <td><center>You don't know how to swim.</center></td>
-  <td><center><b>+20%</b></center></td>
+  <td><b>One Bit</b></td>
+  <td>You don't know how to swim.</td>
+  <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><center><b>Destined</b></center></td>
-  <td><center>You don't get to choose what you get when your Power increase, Fate picks for you.</center></td>
-  <td><center><b>+20%</b></center></td>
+  <td><b>Destined</b></td>
+  <td>You don't get to choose what you get when your Power increase, Fate picks for you.</td>
+  <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><center><b>Vow of Thorns</b></center></td>
-  <td><center>Enhance your progression and chances for rarer mob loot. However, you are faced with harder <a href="Cathedral_of_the_Interstice.md">trials</a> and every death will send you to the <a href="First_Layer.md">depths</a>.</center></td>
-  <td><center><b>+5%</b></center></td>
+  <td><b>Vow of Thorns</b></td>
+  <td>Enhance your progression and chances for rarer mob loot. However, you are faced with harder <a href="Cathedral_of_the_Interstice.md">trials</a> and every death will send you to the <a href="First_Layer.md">depths</a>.</td>
+  <td><b>+5%</b></td>
 </tr>
 <tr>
-  <td><center><b>Glass Bones</b></center></td>
-  <td><center>Taking any damage will immediately knock you. Only pick this if you wish to embark on an unforgiving challenge.</center></td>
-  <td><center><b>+0%</b></center></td>
+  <td><b>Glass Bones</b></td>
+  <td>Taking any damage will immediately knock you. Only pick this if you wish to embark on an unforgiving challenge.</td>
+  <td><b>+0%</b></td>
 </tr>
 </tbody>
 </table>
@@ -459,7 +455,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 ## Notes
 
 -   Buying most Echo Upgrades and some of the Unlocks will apply their effects to previously created slots. Any of the Starter/Starting: Weapon, Tools, Equipment, Knowledge, and Notes will **not** be applied to pre-existing slots however.
--   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with Vow of Thorns AND Dealbreaker, it will still do this for unknown reasons.
+-   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with Vow of Thorns AND Dealbreaker, it will still do this for unknown reasons.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md#attribute-training-gears) training gear
@@ -471,7 +467,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
 -   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock can have quality stars and [enchantments](Enchantments.md).
     -   Considering that you can sell these items immediately on spawn, this Echo Unlock can give much more Notes than the Starting Notes Echo Upgrade does, depending on your luck. This, paired with Starting Notes when fully upgraded costing over 4 times what Starting Equipment does makes Starting Notes just not worth the Echoes (not that it ever was to begin with).
--   Not only does using the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) count towards the "Bargained with Yun'Shul" echo task, but it will also count when used in the [Fragments of Self](Fragments_of_Self.md). However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
+-   Not only does using the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) count towards the "Bargained with Yun'Shul" Echo task, but it will also count when used in the [Fragments of Self](Fragments_of_Self.md). However, your deal if used in fragments must **not** be Resonance Reroll, or it will most likely remove it from your completed tasks.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
     -   After purchasing Multifaceted, any pre-existing slot that didn't invest into stats that were increased by their Aspect will be able to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to reallocate them.
     -   Unfortunately, after purchasing Multifaceted, any pre-existing slot that had above 100 in any attribute will have all of their points above 100 uninvested and refunded. This also **disallows you from going above 100 invest in any attribute** regardless of your aspect.
@@ -481,7 +477,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   On March 16th, 2025, [Chad09999 or Midq](https://www.youtube.com/watch?v=fcB0KECJA6A%7C) became the first player to achieve W rank with the _Glass Bones_ modifier.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
-    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester
+    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this Echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester
 
 ## References
 

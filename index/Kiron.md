@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 159873
+revid: 160955
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -52,7 +52,7 @@ Kiron were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly 
 **Strengths:**
 
 -   Can see better in the dark.
--   Can more easily sense potential threats.
+-   Pings potential threats.
 -   Assuming you don't have [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers):
     -   +6% [Stealth](Stealth.md) (+3 Agility)
     -   +4 Ether (+2 Intelligence)

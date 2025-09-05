@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 160723
+revid: 160877
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -455,7 +455,6 @@ Image
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
--   [Kanabo](Kanabo.md) critical\* (is parryable and dodgable despite having this indicator)
 
  |
 | Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ |

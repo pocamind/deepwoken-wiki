@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 158149
+revid: 160947
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,6 +27,7 @@ In order of carry load given:
 -   _Gourmand_ gives 2 carry load.
 -   _Destructive Recovery_ gives 2 carry load.
 -   _Unstoppable Force_ gives 2 carry load.
+-   _Keen Recovery_ gives 3 carry load.
 -   _Unwavering Resolve_ gives 4 carry load.
 -   _Captain Etrea_ gives 4 carry load.
 -   _Pocket Sand_ gives 4 carry load.
@@ -53,7 +54,7 @@ In order of carry load given:
 -   _Berserker_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 183 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 186 carry load.
 
 ### Other Sources
 
@@ -77,7 +78,7 @@ In order of carry load given:
 -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
--   The Packmule [Boon](Boons_and_Flaws.md#boons) gives 50 carry load.
+-   The [Packmule](Boons_and_Flaws.md#packmule) Boon gives 50 carry load.
 -   The [base character](Character_Stats.md#carry-load) starts off with 100 carry load.
 -   [Strength](Attributes.md#str) increases your carry load by 1 for every point of strength you get.
     -   [Canor](Canor.md) and [Khan](Khan.md) can get up to 103 strength due to their 3 starting strength, resulting in 103 extra carry load.
@@ -89,9 +90,9 @@ All of these miscellaneous sources combined would theoretically provide 380 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **563**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **676**.
+Combining both Talents and other sources, the total amounts to **566**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **679**.
 
-Due to attribute limitations, the current best carry load build can only get 533/640 carry load, found [here](https://deepwoken.co/builder?id=Db429pN6).
+Due to attribute limitations, the current best carry load build can only get 536/643 carry load, found [here](https://deepwoken.co/builder?id=Db429pN6).
 
 -   You are only able to perfectly create this build if your account does _not_ have the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers), due to its previously mentioned quirk.
     -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 532/639.

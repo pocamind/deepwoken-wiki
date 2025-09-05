@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 155938
+revid: 160936
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -22,7 +22,7 @@ Talking to him will give you the Talent card "[Chime of Conflict](Chime_of_Confl
 
 talking to him will tell you your win to loss ratio in the PvP Arena on the first set of dialogue, then a random piece of dialogue on the second set. This second set of dialogue can range from ominous messages to mentioning notable people, including [the Ferryman](The_Ferryman.md), [the Duke of Erisia](Duke_Ishamon_Erisia.md), the [Lord Regent](The_Lord_Regent.md), Wardens and Gunsmith Rosen. He also speaks of a Driver, riding horses.
 
-Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" flaw, Yamaketzal can remove it from the player for the price of 1000 [notes](Notes.md), making it possible to reroll their [Resonance](Resonance.md) again.
+Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md#flaws)" flaw, Yamaketzal can remove it from the player for the price of 1000 [notes](Notes.md), making it possible to reroll their [Resonance](Resonance.md) again.
 
 These two behaviors implies that, combined with his general knowledge of the world (if muddled by his drunkenness), despite his disheveled appearance, Yamaketzal is significantly powerful and knowledgable.
 

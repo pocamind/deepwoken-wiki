@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 159660
+revid: 160888
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -16,7 +16,7 @@ Template:Location2
 
 ## Overview
 
-The Ancient Rotlands is a location in the [Songseeker Wilds](Songseeker_Wilds.md). The area is a large swamp littered with [Nightmare Threshers](https://deepwoken.fandom.com/wiki/Thresher#Nightmare_Thresher) everywhere. The area is infamous for the pulsating, brain-like masses that are chained up across the area.
+The Ancient Rotlands is a location in the [Songseeker Wilds](Songseeker_Wilds.md). The area is a large swamp littered with [Nightmare Threshers](Nightmare_Thresher.md) everywhere. The area is infamous for the pulsating, brain-like masses that are chained up across the area.
 
 The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent to [The Depths](The_Depths.md) if you die in the area.
 
@@ -33,7 +33,6 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
         -   This area is generally considered as dangerous to farm in due to its Voidzone status, with the potential insanity damage you may receive being the equivalent of a bomb that can explode any second.
         -   Do note that if you run out of sanity while looking at the brains, **your head will explode, instantly killing you.**
         -   For ease of farming, it is encouraged that you lure whatever's inside the area out to the Songseeker Wilds to avoid both any insanity damage and avoid getting sent to the Depths on death.
--   The Angel Pit, hidden in a small cave, containing 4 [Deep Angels](Deep_Angel.md). Defeating them spawns a chest with guaranteed rare rings.
 
 ## Harvestables
 

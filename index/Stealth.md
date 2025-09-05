@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 160678
+revid: 160932
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -46,7 +46,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md) (3%).
     -   Rings: **None :(**
 
-On the other hand, the [Obvious Flaw](Boons_and_Flaws.md#flaws) grants you -20% base Stealth and does not impact Stealth gain.
+On the other hand, the Obvious Flaw Flaw grants you -20% base Stealth, but has no effect on Stealth _gain_.
 
 The current maximum Stealth possible, not counting crouching/Lowstride, is:
 
@@ -56,7 +56,7 @@ The current maximum Stealth possible, not counting crouching/Lowstride, is:
 -   Any +2 Agility Aspect ([Etrean](Etrean.md)/[Chrysid](Chrysid.md)/[Khan](Khan.md)/[Lightborn](Lightborn.md)/[Drakkard](Drakkard.md)) - **100.4%**.
 -   Any other Aspect or any Aspect (excluding [Felinor](Felinor.md)) with the [Multifaceted](Echoes.md#upgrades-and-modifiers) Echo Upgrade - **100%**.
 
-All of these of course use the best equipment with 100 or more Agility. If you have [Obvious](Boons_and_Flaws.md#flaws), subtract 20 from the above scores or 24 if [Felinor](Felinor.md).
+All of these of course use the best equipment with 100 or more Agility. If you have [Obvious](Boons_and_Flaws.md#obvious), subtract 20 from the above scores or 24 if [Felinor](Felinor.md).
 
 ## Usage
 
@@ -81,4 +81,4 @@ When a humanoid enemy detects you, a dark yellow **"!"** will appear above their
 
 ## Trivia
 
--   There's a very small chance the Metal Gear Solid alert sound will play when enemies notice you.
+-   There's a very small chance the Metal Gear Solid alert sound effect will play when enemies notice you.

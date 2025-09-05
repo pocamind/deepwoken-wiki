@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 159917
+revid: 160919
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -237,7 +237,7 @@ For simplicity's sake in these example calculations, only the ingredient's base 
 
 **Health Gain and Health Regeneration** potions, whether positive or negative, take 1.2s longer to drink while in combat, bringing the total drink animation's duration to 3.55s up from 2.35s.
 
-**Ether Regeneration** potions' Ether regeneration is separate from normal Ether regeneration, and is not affected by Ether regen modifiers like [Deficient](Boons_and_Flaws.md#flaws), Ether [food buff](Food.md), [outfit](Outfits.md) Ether regen boost, etc.
+**Ether Regeneration** potions' Ether regeneration is separate from normal Ether regeneration, and is not affected by Ether regen modifiers like [Deficient](Boons_and_Flaws.md#deficient), Ether [food buff](Food.md), [outfit](Outfits.md) Ether regen boost, etc.
 
 **Damage Debuff** is the only potion effect with a set cap, capping at -50% damage dealt.
 
