@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 160767
+revid: 160814
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -220,4 +220,4 @@ Lucky Spot
     -   Ever since this patch was rolled out, fishing activity declined.
 -   During the Warring States Era fishing would give points to the aspect you had.
 -   Fishing up a golden swordfish allows you to use it as a weapon.
--   Fishing without a lucky spot is not recommended. You cant fish lionfish and swordfishes are very rare (more than dormant). Lucky spots cant gives you Seaweed/Leather boot if you have all the fishing talents.
+-   Fishing without a lucky spot is not recommended. You cant fish lionfish and swordfishes are very rare (more than the weapon [Dormant Splinter](Dormant_Splinter.md)). Lucky spots cant gives you Seaweed/Leather boot if you have all the fishing talents.

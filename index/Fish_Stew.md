@@ -1,6 +1,6 @@
 ---
 title: Fish Stew
-revid: 160365
+revid: 160851
 source: https://deepwoken.fandom.com/wiki/Fish_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -36,5 +36,5 @@ When consumed, it replenishes 18% Stomach and 10% Water.
 
 ### Recipe
 
--   1 [Squid](Squid.md) and 1 [Fish Meat](Fishing.md) at a [Campfire](Campfire_Pit.md).
--   Or 1 [Seaweed Bundle](Seaweed_Bundle.md) and 2 [Fish Meat](Fishing.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Squid](Squid.md) and 1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md).
+-   Or 1 [Seaweed Bundle](Seaweed_Bundle.md) and 2 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md).

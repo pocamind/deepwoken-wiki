@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160768
+revid: 160813
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3078,7 +3078,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
     -   Prerequisites: 20 Fortitude or 20 Willpower, vomit once
     -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
-    -   Does not work when eating [Pufferfish](Pufferfish.md) (gamebreaking).
+    -   Does not work when eating [Pufferfish](Fishing.md) (gamebreaking).
 
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible. (+3 Health)
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
