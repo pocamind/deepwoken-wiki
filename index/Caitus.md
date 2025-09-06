@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 160432
+revid: 160971
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -16,11 +16,15 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 
 ## Description
 
-Caitus is a Khan NPC, a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md). He also teaches the fist style [Imperium Kata](Imperium_Kata.md) to the player.
+Caitus is a Khan NPC, a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md).
+
+Caitus tasks the player with delivering [a message](Titus_Fulminus_Destellus.md) about a [certain someone](Titus_Fulminus_Destellus.md) in an [Authority Prison](Merit_Detainment_Core.md). He will teach the [Imperium Kata](Imperium_Kata.md) style to the player upon reporting back after delivering the message.
+
+Taking upon Caitus' quest requires above Ally reputation with The Hundred Legions.
 
 ## Location
 
-Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Jaw.md>) in a [The Hundred Legions](The_Hundred_Legions.md) hideout with other legion scouts.
+Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Jaw.md>) in [The Hundred Legions](The_Hundred_Legions.md) hideout with other legion scouts.
 
 ## Dialogue
 
@@ -53,5 +57,9 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 
 ## Trivia
 
--   The reputation needed for the High rep dialogue, is a bit more than just ally rep.
--   The use of the latin terms _Salve_ and _teneō_ strongly points toward someone associated with **Ancient Rome** or at least a Roman-influenced culture
+-   Some words said by Caitus are derived from Latin terms:
+    -   [Nemo](https://en.wiktionary.org/wiki/nemo#Latin) is a Latin word for "nobody", which he refers to the player as under Ally reputation.
+        -   Nemo was a name used in place of the Outis alias in Latinized versions of _The Odyssey_ for the hero Odysseus, who is referred to as Ulysses in the Latin version.
+    -   [Salve, in a Latin context](https://en.wiktionary.org/wiki/salve#Latin), is used for greetings and farewells.
+        -   Salvete is the plural form of this word, which is mostly (and incorrectly) used by Caitus.
+    -   [Teneō](https://en.wiktionary.org/wiki/teneo#Latin) has various meanings, but in this context, may be used for "understand".

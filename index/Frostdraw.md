@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 160861
+revid: 160969
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -117,20 +117,31 @@ Ice
  |
 | 
 
-**Effect:** _Conjure a surrounding ring of 6 frozen servants that emit two blasts of frosty mist towards the center._
+**Effect:** _Conjure a ring of 6-8 frozen servants, emitting two blasts of frosty mist towards the center._
 
--   Has a base damage of 6/8/10/12/14 per level, per hit (2) with 2.75 Frostdraw scaling.
--   The [Blast Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 10/12/14/16/18 per level, per hit (4) with 2.75 Frostdraw scaling.
--   Deals 5 posture damage per hit. (Total of 10 posture or 20 with Blast Spark)
--   Has a windup of 0.4 seconds and a cooldown of 10 seconds. (18 second cooldown with blast spark)
+-   Base damage of 6/8/10/12/14 per level, per hit with 2.75 Frostdraw scaling, hitting 2 times. (4 Hits with Blast Spark)
+-   Able to be Block, Parry, and Dodged.
+-   Deals 5 posture damage per hit. (Total of 10 posture, 20 with Blast Spark)
+-   Has a cooldown of 18 seconds, and a windup of 0.7 seconds. (Windup can be modified)
+-   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified. (Alternatively applies crystal when used with Crystallization Path.)
+-   Leaves an ice patch on the ground where the Mantra is casted, size changing with [Elemental Intensity](Mantra_Modifiers.md#regular-modifiers) Modifiers, mantra level, weather, and ground material.
+-   Acts as the Frostdraw alternative to Flamecharm's Burning Servants and has many similarities, including:
+    -   Lacking endlag on cast, allowing the user to immediately follow up and even attack during the windup.
+    -   Not preventing sprinting/movement speed on cast.
+    -   Lacking any form of hitstun when landed, only damaging the opponent, that said, it is still able to prevent rolling when utilizing Frozen Legs due to inflicting Chill.
+    -   Not cancelling Equalizer or Whiffed Vent stun durations.
+-   Can be modified with the following [Mantra Modifiers](Mantra_Modifiers.md):
+    -   [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to greatly increase the size of the ice patches.
+    -   [Drift/Rush Shards](Mantra_Modifiers.md) to decrease the "summoning" time of your servants, servants each have 0.03 seconds windup to individually "summon" around the user, at +≥3 speed your servants will skip this windup and summon simultaneously.
+    -   [Cloud/Stratus Stones](Mantra_Modifiers.md) to increase servant count, adding +1 servants at +1-2 size, capping at +2 servants when above +≥3 size. Adding servants also increases the size and range of the circle.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to reverse the servants direction when attacking:
+    -   Each servant attacks now attacks outwards, each blast having much smaller rectangular hitbox, completely removes the regular large spherical hitbox in the center.
+    -   Posture, Damage, and Ice placement are completely unaffected.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), creating a slower giant ice servant that attacks 4 times:
+    -   Increases the windup from 0.4s to 1.2s
+    -   For 1.3s after casting, the user has their rotation locked, speed decreased, and sprint prevented. However the endlag remains 0.0s, and slides are uncancelled.
+    -   Unaffected by [speed/size modifers](Mantra_Modifiers.md), and Insignia Gem, however [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) are unchanged.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
--   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified. (Each also applies crystals when used with crystallization.)
--   Leaves an ice patch on the ground the Mantra is casted. (Size scaling up with level/Modifiers)
--   Can be modified with Vibrant Gems to greatly increase the size of the ice patches.
--   Can be modified with Stratus Stones to increase the size of the Mantra.
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), making the servants attack outwards, pushing opponents back and ragdolling them.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to create one single giant ice servant, with increased windup, sending a singular blast of frost, but instead four times in a row, dealing twice the damage.
--   The Frostdraw counterpart to Flamecharm's [Burning Servants](Flamecharm.md#burning-servants).
 
  |
 | 

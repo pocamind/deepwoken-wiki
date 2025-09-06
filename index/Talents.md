@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160957
+revid: 160962
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -104,43 +104,61 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Absolute Focus
 
 -   Against All Odds \[Common Talent, Willpower Exclusive\] - For each combat tag you have on your character, increase your damage by 1% (max of 7%).
+    -   Works in PvE combat.
     -   Prerequisite: 65 Willpower
 
 -   Emergency Reserves \[Common Talent, Willpower Exclusive\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
+    -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
     -   Prerequisite: 80 Willpower
 
 -   Unswayed \[Common Talent, Willpower Exclusive\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
+    -   The mantra Taunt, and the Talent "Cornered Fool" can no longer inflict "Taunt" on the user.
+    -   The mantra Sing can no longer use the Talent "Encore" on the user, nullifying the stun effect.
+        -   Sing can still apply Charm/Overcharm to the user.
     -   Prerequisite: 75 Willpower
 
 ### Acrobat
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
-    -   While not mentioned in the Talent description, your climb height increases when you slide jump.
-    -   You can fall further before incurring fall damage.
-    -   3 Second cooldown.
+    -   Causes _**all**_ falls to be considered "shorter" by 10 studs, also reducing larger falls.
+    -   Increases climb distance by ~15% when off cooldown. (needs testing)
+    -   Slide jumping now also slightly increases climb distance. (needs testing)
+    -   Has a cooldown of 3 seconds.
     -   Prerequisites: 20 Agility
 
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
-    -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
+    -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
+        -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
+    -   Removes ice's bonus slide distance, and **does not** affect the lowered friction when moving on ice.
+        -   This is a considerable downside to Frostdraw users, as there is no upside to this effect, it is **not recommended**.
     -   Prerequisites: 10 Agility, 10 Strength
 
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
-    -   The speed boost is represented by a red glow around the player's eyes.
+    -   Approximate ~35% speed bonus. (Needs testing)
+        -   Procs all speed boost related talents. (ex. Speed Demon)
+    -   Duration is visually represented by a red glow by the user's eyes.
+    -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.
     -   Prerequisite: 5 Agility
-    -   Can stack with itself, so killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost
 
 ### Adaptive Arsenal
 
 -   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken. 18s CD
-    -   Reduces DMG by 60% and lasts for 2 seconds.
+    -   After dodging, for the next 2 seconds, reduce the next instance of DMG by 60%.
+        -   This effect only works on the first hit, therefore much less effective against multi-hit attacks.
+    -   The user visually gains a grey metallic shine upon for the duration, clearing on hit.
+        -   The shine's color changes to gold with "Gilded Path: Scrapsinger"
+    -   Has a cooldown of 18 seconds, starting immediately upon dodge.
     -   Prerequisite: 75 Ironsing
 
 -   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also affect players with no outfit (Stranded Outfit)
     -   Procs on your Basic Attacks while you have Berserk active.
+    -   Also procs on Berserk users.
     -   Prerequisite: 60 Ironsing
 
 -   _Phantom Edge_ \[Rare Talent, Ironsing Exclusive\] - Your weapon Basic Attacks have +0.25 range.
+    -   It is greatly not recommended to spend a talent hand on this, as the effect of this talent is objectively unnoticeably minuscule.
+    -   Stacks with Duelist's Lunge for more range.
     -   Prerequisite: 75 Ironsing
 
 ### Adept Caster
@@ -162,50 +180,56 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
     -   The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
-    -   Rerolling this Talent will not affect the number of modifiers on your mantras, especially 4 Mantra ingredient copies.
-    -   This does NOT change the 12 mantra modification limit on a mantra.
+    -   Removing this talent after modifying mantras will _**not**_ alter their pre-existing modifiers, keeping the benefit.
+    -   This will _**not**_ change the maximum 12 mantra modification hard limit.
     -   Prerequisite: 85 Intelligence
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   If you have less than 40 Intelligence, Overflowing Dam's damage bonus will be halved to +5% damage.
-    -   Overflowing Dam doesn't require you to wait for 2s upon reaching 100% Ether to get the damage buff despite what the Talent description says. The damage buff applies the moment you hit full Ether.
+    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
     -   Prerequisite: 40 Intelligence
-    -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
+        -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
+    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
     -   Prerequisite: 25 Intelligence
 
 ### Aerial Dancer
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
-    -   Synergizes well with air dashing or mantras that send the user and target in the air.
+    -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
+    -   Synergizes very well with uppercuts.
     -   Prerequisites: 15 Strength, 25 Weapon (25 Light OR 25 Medium OR 25 Heavy)
 
 ### Aeromancer
 
 -   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility)
-    -   Reduces falling speed and prevents fall damage.
-    -   Has a small amount of forwards momentum, allowing for control over where you land.
-    -   Has 1s windup.
-    -   Automatically ends after 5 seconds. (Can be reactivated after deactivation 3 times, air dashing upwards gives you time to reactivate it and not take any fall damage.)
-    -   The Old Wind Talent has been merged with Aerogliding.
-    -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled.
+    -   Has a windup of 1 second.
+    -   When active, create an aura that reduces fall speed and stopping fall damage.
+        -   Does not prevent existing fall damage, if user was already falling, Aerogliding may still damage the user upon activation.
+    -   Automatically ends after 5 seconds, although it can be reactivated midair up to 3 times, however the windup will cause the user to take fall damage.
+        -   By air stalling you can continually reactivate Aerogliding and prevent fall damage.
+    -   When active, also lightly pushes user forwards, giving the user control.
+    -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled. (Stacks with Feathered Glider)
     -   Prerequisites: 35 Galebreathe, 30 Agility
+        -   Was merged with the "The Old Wind" Talent.
 
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 )
-    -   Instead of the Galetrap mantra sticking to surfaces hit, and activating upon a player stepping on it, it will instead activate upon contact with any surface.
+    -   [Galetrap](Galebreathe.md#galetrap) normally waits for contact with a target to begin its tornado, [Galetrap](Galebreathe.md#galetrap) now detonates on once the trap stops moving.
     -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.
-    -   Cancels pickup of any players knocked by you for ~3s, and grants you a speed boost if you pickup the knocked player.
-    -   Pickup cancellation can be activated multiple times.
+    -   Marks players knocked by you for ~3s with "Gale Trap".
+        -   The user will gain a speed boost picking up marked players.
+        -   Anyone but the user will instead be ragdolled and flung upwards when picking up marked players. (Including allies)
     -   Prerequisite: Wind Step, 50 Galebreathe
 
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility)
-    -   Will also cancel all momentum from jumping.
+    -   Similar to the Bear Trap talent, prevents jumping.
+    -   The daze effect lasts for ~0.5 seconds.
     -   Prerequisite: Suffocating Impact
 
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them.
@@ -217,24 +241,25 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 _**You need to have made and drank at least one potion for the Talents to start showing up.**_
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.
-    -   Increases potion Potency by 125%, this is additive to Potency from Intelligence investment. (More info on the [potions](Alchemy.md) page.)
-    -   Apothecary is applied as a potion ingredient that does not count towards the potion ingredient cap, meaning the Talent does not have to be actively present for it to be in effect.
-    -   Prerequisite: 10 Intelligence
-    -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this Talent. The [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit also has this Talent.
-    -   This Talent was merged with the old Exterminator Talent. (Although the [Strapped Hat](Strapped_Hat.md) still has this Talent)
+    -   Additively increases potion Potency by 125%. (More info on the [potions](Alchemy.md) page.)
+    -   The bonus acts similar to a potion ingredient, therefore Apothecary does nothing else after brewing.
+    -   Prerequisite: 10 Intelligence, made and drank at least one potion
+        -   Was merged with the old Exterminator Talent. ([Strapped Hat](Strapped_Hat.md) however still has the Talent)
+    -   [Skeptic Pioneer](Skeptic_Pioneer.md), [Alchemist's Hat](<Alchemist's_Hat.md>), and the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) all have this talent, it is encouraged to simply utilize these when brewing instead of taking this as a talent card.
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
-    -   Procs when a **thrown** potion replaces a different potion's effect.
+    -   Procs when a **thrown** potion replaces a different potion's effect. (Does not work on drank potions)
     -   This effect increases the effectiveness of your potion by 40% and is applied multiplicatively to potency.
-    -   Prerequisite: 80 Intelligence
-        -   This Talent was merged with the old Taste Test Talent.
+    -   Prerequisite: 80 Intelligence, made and drank at least one potion
+        -   Was merged with the old Taste Test Talent.
 
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
-    -   Prerequisite: 80 Intelligence
+    -   Saltchemist salts innately provide this feature to your potions, however are not manually droppable.
+    -   Prerequisite: 80 Intelligence, made and drank at least one potion
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
-    -   Prerequisite: 60 Intelligence
+    -   Prerequisite: 60 Intelligence, made and drank at least one potion
 
 -   _Potion Quaffer_ \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
@@ -242,12 +267,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
     -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
-    -   Prerequisites: Drank potion (Can obtain if someone uses placebo effect next to you), 15 Fortitude OR 15 Willpower, 30 intelligence
+    -   Prerequisites: 30 intelligence, 15 Fortitude _**or**_ 15 Willpower, made and drank at least one potion
         -   This Talent was merged with the old Subsistence Talent.
 
 -   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
-    -   Around ~20-25% chance. Gives a duplicate of the created potion.
-    -   Prerequisite: 25 Intelligence
+    -   25% chance to gives a duplicate of the brewed potion.
+    -   Prerequisite: 25 Intelligence, made and drank at least one potion
 
 ### Alley Cat
 
@@ -263,13 +288,14 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility)
     -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
     -   The health regen is reduced in PvP combat.
-    -   Scales up to 300% base health regen at 100 Agility.
+    -   Scales linearly up to 300% base health regen at 100 Agility.
     -   Prerequisites: All Alley Cat Talents
 
 ### All-Knowing
 
 -   Approaching Singularity \[Common Talent, Intelligence\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
     -   Gives 0.1% Mantra PEN per point in Intelligence.
+        -   Provides +8% PEN at the requirement, and +10% PEN at 100 Intelligence.
     -   Prerequisite: 80 Intelligence
 
 ### Amoran Seeker
@@ -291,16 +317,16 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Angler
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
-    -   Obtained after fishing 10 times successfully.
     -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
+    -   Prerequisite: Fish a total of 10 times successfully. (Automatically obtained)
 
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Obtained after fishing 30 times successfully.
-    -   Reduces the chance of failure while fishing.
+    -   Slightly increases margin of failure before losing a fish.
+    -   Prerequisite: Fish a total of 30 times successfully. (Automatically obtained)
 
 -   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly.
-    -   Obtained after fishing 50 times successfully.
-    -   Increase the rate of hooking something while fishing.
+    -   Slightly increases the chance of hooking something while fishing.
+    -   Prerequisite: Fish a total of 50 times successfully. (Automatically obtained)
 
 ### Annihilator
 
@@ -312,14 +338,16 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Apex Predator
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
-    -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, giving you a free talent hand at the next power.
+    -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
+    -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, providing a free talent hand on rejoin/next power.
+    -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
     -   Prerequisites: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) (Flaw)
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
     -   40% tempo gain, 55% ether gain, 3% blood gain, 5% health gain.
+    -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
     -   Prerequisite: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
@@ -357,41 +385,47 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Artisan
 
 -   Master Craftsman \[Common Talent, Intelligence\] - Your skills alone substitute the need for a Craft Station. (+5 Health)
-    -   You can make crafts that require a Craft Station without one.
+    -   When crafting, the user no longer requires a Craft Station in their recipes. (Ex. Glider)
     -   Prerequisite: 45 Intelligence
 
 ### Assassin
 
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
-    -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
-    -   Leaves cloud like particles, similar to All the Dead Gods but red.[\[1\]](#cite-note-1)
-    -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" has this Talent.
+    -   Leaves red cloud particles similar to the Talent "All the Dead Gods" on targets hit.[\[1\]](#cite-note-1)
+    -   This anti-heal won't stack with any other anti-heal, the higher potency effect will take priority.
     -   Prerequisite: 35 Agility
+        -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" has this Talent.
 
 -   Lights Out \[Common Talent, Agility\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility)
+    -   Targets being carried will have the "Blinded" Talent's visual effect, however they can still see names of players, their general surroundings, and their map if they open it.
     -   Prerequisite: 55 Agility
 
 -   Lowstride \[Common Talent, Agility\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently. (+1 Passive Agility)
-    -   Crouching is now as fast as walking.
-    -   Crouching already increases your stealth, but Lowstride amplifies this.
+    -   Similar to fist, removes the SFX from equipping your weapon, however draw/sheathe speed are unaffected.
+    -   Speeds up crouching to be fast as walking.
+    -   Immediately increases roll distance by 15% when crouching.
+    -   Physically adds to the users stealth stat while crouching.
+    -   Very strong synergy with "Murmur: Tacet", as it requires the user to crouch.
     -   Prerequisite: 20 Agility
-        -   The [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md) Outfits have this Talent.
+        -   The [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md) Outfits all have this Talent.
 
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
     -   Prerequisite: 60 Agility, Deep Wound
-    -   Merged with the old Low Blow Talent.
+        -   Merged with the old Low Blow Talent.
 
 ### Athlete
 
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
+    -   Increases swimming speed by ~15%.
+    -   Stacks with the Freestyler's Band.
     -   Prerequisite: [Power](Power.md) 1
 
 ### Authority Interrogator
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - Lightning moves slow your opponent more.
-    -   Synergies well with surge path as surge normally cannot slow down opponents.
+    -   Works with Surge Path.
     -   Prerequisites: 60 Thundercall, [Power](Power.md) 10
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
@@ -417,28 +451,46 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Bastion
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
-    -   You can only regenerate posture passively in combat by not running and not blocking.
+    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
-    -   Damage is reduced by ~20%.
-    -   Only works for the first hit after being block broken, causing multi-hits to be barely reduced.
+    -   After being block broken, reduce the next instance of DMG by 20%.
+        -   Only works on the first instance of DMG, multi-hits are reduced less.
+    -   No cooldown.
     -   Prerequisite: 25 Fortitude
-    -   The Equipment "[Providence Coat](Providence_Coat.md)" has this Talent.
+        -   The Equipment "[Providence Coat](Providence_Coat.md)" has this Talent.
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Lower the movement speed penalty of blocking.
+    -   The user's movement speed while blocking is less reduced, allowing faster movement.
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)
     -   Reduces time knocked by 25% with no cooldown.
+        -   Can stack with other Talents to reduce knock time even further. (Ex. Defiance)
     -   Prerequisites: 30 Fortitude, 30 Willpower
-    -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
+        -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%.
-    -   Scales linearly with investment up to its requirement. You'll have 10% pen reduction at 65 FTD and gain 0.8% PEN reduction per point in FTD above 65; scaling up to the full 30% once you hit 90 FTD.
+    -   Scales down from 30% -> 10% at 65 Fortitude.
+        -   Linearly scales from a minimum of 10% pen reduction at 65 FTD scaling up to the maximum 30% at 90 FTD.
+        -   In total, gain 0.8% PEN reduction per FTD point above 65 FTD.
     -   PEN calculation: incoming PEN \* (1 - 0.Reinforced Armor effectiveness) = reduced incoming PEN.
-        -   For example, 50% PEN vs 20% Reinforced Armor = 50 \* (1 - 0.2) = 40% PEN.
+        -   For example, _50% PEN_ vs 20% Reinforced Armor:
+            -   _50 PEN_ \* (1 - 0.2) = _40% PEN_.
+    -   **Here is a walkthrough example: "our 50% Physical Resistance" vs "an opponent's 50% PEN 100 Slash DMG": (Feel free to ignore the equations)**
+        -   With _no Reinforced Armor_, we take _**75 DMG**_, **resisting 25%**:
+            -   This is because their 50% PEN removed 25% of our 50% Physical Resistance. (25%Phys remaining)
+                -   (50%Phys\*50%PEN -> 25%Phys remaining)
+            -   With our remaining 25% Physical Resistance, we save 25HP, resisting 25% of 100 DMG.
+                -   (take away 25% of their 100DMG -> 75DMG remaining) / (100dmg \* \[1 - 0.25phys\]) = 75dmg
+        -   With _max Reinforced Armor_, we take _**66 DMG**_, **resisting 34%**:
+            -   First, Reinforced Armor _cuts_ down the opponent's 50% PEN to 35% PEN.
+                -   (take away 30% of their 50%PEN -> 35%PEN remaining) / (50%pen \* \[1 - 0.3cut\]) = 35%pen
+            -   Because of that, their 35% PEN only removed 16% of our Physical Resistance. (34%Phys remaining)
+                -   (take away 35% from our 50%Phys\-> 34%Phys remaining)
+            -   With our remaining 34% Physical Resistance, we save 34 HP, resisting 34% of 100 DMG.
+                -   (take away 34% of their 100DMG -> 66DMG remaining) / (100dmg \* \[1 - 0.34phys\]) = 66dmg
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
@@ -1112,6 +1164,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Ether Endeavors
 
 -   Keen Recovery \[Common Talent, Intelligence Exclusive\] - Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
+    -   Does not proc if your basic attack is blocked, parried, or dodged.
     -   Prerequisites: 55 Intelligence
 
 -   Behind You \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.
