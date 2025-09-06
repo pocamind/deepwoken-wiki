@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 157484
+revid: 161008
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -33,6 +33,10 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 ## Description
 
 The Iron Birch is a [Heavy](Weapons.md) axe. This weapon is considered one of the best heavy weapons due to it's unusually high swing speed, lack of endlag, and overall good damage.
+
+### Talent: Expeditious Combo
+
+Talent effect is currently unknown
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 160581
+revid: 160998
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -176,7 +176,7 @@ _An awful blast of dark energy._
  |
 | 
 
-20 Ether
+40 Ether
 
  | 
 

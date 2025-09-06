@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 157491
+revid: 161007
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons]
@@ -34,6 +34,10 @@ categories: [Weapons, Greatswords, Heavy Weapons]
 ## Description
 
 The Inquisitor's Greatsword is a [Greatsword](Weapons.md) with a black handle and center with a white edge.
+
+### Talent: Sovereign's Counter
+
+Talent effect is currently unknown
 
 ## Critical
 

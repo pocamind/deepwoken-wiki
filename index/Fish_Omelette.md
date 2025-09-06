@@ -1,9 +1,9 @@
 ---
 title: Fish Omelette
-revid: 160624
+revid: 161019
 source: https://deepwoken.fandom.com/wiki/Fish_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Fish Omelette

@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 157492
+revid: 161015
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons]
@@ -38,6 +38,10 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 The Steel Maul is a standard Heavy Greathammer that acts as the entry point to the Greathammer weapon class. The Steel Maul has two upgraded variants, the Alloyed Steel Maul and the [Warmonger](Warmonger.md).
 
 The [Alloyed](Pluripotent_Alloy.md) variant of the Steel Maul boasts increased stats and a higher requirement, allowing for lategame viability. The alloyed version of the Steel Maul also has a demascus steel-type texture to indicate its change.
+
+## Talent: Bluwark Breaker
+
+Talent effect is currently unknown
 
 ## Critical
 

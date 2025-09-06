@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 160871
+revid: 160997
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -777,7 +777,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier causes the "Shadow Gun" mantra to hit multiple times but triples the ether cost.
+-   This modifier causes the "Shadow Gun" mantra to hit multiple times but doubles the ether cost.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 157486
+revid: 161010
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -29,12 +29,16 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Minityrsa, Etris: Siege, Merchant Ships, The Aratel Sea |
+| obtainment | Starswept Valley, Saramaed Hollow, Minityrsa, Etris: Siege, Merchant Ships, The Aratel Sea |
 | description | ... |
 
 ## Description
 
 Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. Obtainable in the [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 24, 0.8x Swing speed and 25% Chip damage.
+
+### Talent: Battle Frenzy
+
+Talent effect is currently unknown
 
 ## Critical
 

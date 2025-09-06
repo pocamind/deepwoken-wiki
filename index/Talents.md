@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 160962
+revid: 161002
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -414,13 +414,6 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
     -   Prerequisite: 60 Agility, Deep Wound
         -   Merged with the old Low Blow Talent.
-
-### Athlete
-
--   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
-    -   Increases swimming speed by ~15%.
-    -   Stacks with the Freestyler's Band.
-    -   Prerequisite: [Power](Power.md) 1
 
 ### Authority Interrogator
 
@@ -2425,7 +2418,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: 70 Strength
 
 -   _Piercing Blow_ \[Rare Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
-    -   Prerequisite: 80 Strength
+    -   Prerequisite: 100 Strength
 
 ### Rampaging Brute
 
@@ -3861,11 +3854,37 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md). These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
+-   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - effects currently unknown
+
+-   Battle Frenzy: [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) - effects currently unknown
+
+-   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - effects currently unknown
+
+-   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - effects currently unknown
+
 -   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recovery health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
     -   Restores 4% of the user's maximum health upon landing M1 attacks.
         -   This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick regardless of the initial hit's damage, and it ticks 5 times over 5 seconds instead of 3 ticks immediately. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
+
+-   Bulwark Breaker: [Steel Maul](Steel_Maul.md) - effects currently unknown
+
+-   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - effects currently unknown
+
+-   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - effects currently unknown
+
+-   Expeditious Combo: [Iron Birch](Iron_Birch.md) - effects currently unknown
+
+-   Finishing Slay: [Messer](Messer.md) - effects currently unknown
+
+-   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - effects currently unknown
+
+-   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - effects currently unknown
+
+-   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - effects currently unknown
+
+-   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - effects currently unknown
 
 ## Equipment Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 158597
+revid: 161009
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
@@ -34,6 +34,10 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals
 ## Description
 
 The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defeating the [Ferryman](The_Ferryman.md) in any of his chests, or buying it from a [Merchant Ships](Travelling_Merchant.md) or [Traan Zakshun](Traan_Zakshun.md). This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling.
+
+### Talent: Cruel Counter
+
+Talent effect is currently unknown
 
 ## Critical
 

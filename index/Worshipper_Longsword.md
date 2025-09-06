@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 157462
+revid: 161016
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -32,7 +32,13 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 
 ## Description
 
-The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow](Deep_Widow.md). Additionally, it can be purchased in a room in Miner's Landing connecting to a separate building.
+The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow](Deep_Widow.md). Additionally, it can be purchased in Miner's Landing, in a room behind the craft station, on the right side of the water wheel.
+
+  
+
+## Talent: Belief
+
+Talent effect is currently unknown
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 157440
+revid: 161014
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -35,6 +35,12 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 The Silver Dagger is a LHT dagger weapon that can be purchased at [Summer Isle](Summer_Isle.md) for 50 Notes and can be rarely found in [Erisia](Erisia.md).
 
 It is a decent dagger to use from early to mid game. However, it is highly suggested to use the [Gilded Knife](Gilded_Knife.md) instead as it outranks the Silver Dagger in everything except the swing speed (only .02x faster).
+
+  
+
+## Talent: Assassin's Strike
+
+Talent effect is currently unknown
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 159649
+revid: 160992
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -267,6 +267,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the October 6th, 2023 update, Thorns of Fire was removed from the game as it became a base behavior for Flame Repulsion.
 -   **Trained Fist \[Common Talent\] -** You can now equip Cestus.
     -   In the August 4th, 2025 update, Trained Fist was removed due to being irrelevant.
+-   **Triathlete \[Common Talent\] -** You swim faster in water. (+2 Passive Agility)
+    -   In the September 6th, 2025 update, Triathlete has been removed alongside the changes made to water movement.
 -   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
     -   In the December 15th, 2023 update, True Pain was removed due to Knife's Journey rework.
 -   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.

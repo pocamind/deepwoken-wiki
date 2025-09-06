@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 158238
+revid: 160994
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Summer Company]
@@ -17,7 +17,7 @@ categories: [Items, Outfits, Master Outfits, The Summer Company]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2800 |
-| resistances | +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +15% Ironsing Armor |
+| resistances | +30% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +15% Ironsing Armor |
 | buffs | +20% Ether Regen |
 | talents | Sunset Ricochet |
 | obtainment | Chests from:, Miner's Landing, Saramaed Summit, Starfield Veldt, Summer Isle |
@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ## Armor Stats
 
-This Outfit has 2800 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Wind resistance, 15% Metal resistance, and +20% Ether Regen.
+This Outfit has 2800 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, 15% Metal resistance, and +20% Ether Regen.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Galebreathe, 40.5% Ironsing, and 30% Elemental.
 
