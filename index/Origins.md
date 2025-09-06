@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 157240
+revid: 160982
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -184,7 +184,7 @@ The following is speculation:
 
 ### Hive Origin
 
--   Confirmed to release alongside Conquest.
+-   Release date unknown.
 -   Stated to be a PvE centered origin for players who want to avoid PVP.
 
 ### Hundred Legions Origin

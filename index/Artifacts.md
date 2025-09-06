@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 142995
+revid: 160985
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -11,7 +11,7 @@ categories: [Items, Mechanics]
 | Artifacts | |
 |---|---|
 | usage | Given to a Banker for various loot.Activating the Deep Crucible. |
-| drops | EXP, 200 Notes, 10 various items including:, Outfit Schematics, Weapons, Armor, Smith's Alloy, Armorer's Needle, Curse of Rhaemen's Ember Enchant Stone (Eastern only) |
+| drops | EXP, 200 Notes, 10 various items including:, Outfit Schematics, Weapons, Armor, Smith's Alloy, Armorer's Needle, Curse of Ysley's Ember Enchant Stone (Eastern only) |
 | obtainment | Erisia, Open Sea (Etrean Luminant) Starswept Valley (Eastern Luminant) |
 
 _Not to be confused with [Relics](Relics.md)._
