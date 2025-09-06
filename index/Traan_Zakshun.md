@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 158665
+revid: 161061
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ Traan Zakshun is an NPC merchant, he sells various outfit schematics and weapons
 
 Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
-Once every 20 hours, Traan Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). You can only purchase **one item total** per black market visit.
+Once every 20 hours, from 21:00 to 22:00 Traan Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). You can only purchase **one item total** per black market visit.
 
 ## Location
 

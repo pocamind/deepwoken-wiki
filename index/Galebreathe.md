@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 160573
+revid: 161128
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -117,7 +117,7 @@ Wind
 
 **Effect:** _Conjure a strong blast of air from your hands in the direction of your mouse that staggers your target._
 
--   Has a base damage of 22/24.4/26.8/29.2/31.6 per level with 2.75 Galebreathe scaling.
+-   Has a base damage of 22/24.4/26.8/29.2/31.6 per level with 3.75 Galebreathe scaling.
 -   Deals 5.5/5.7/5.9/6.1/6.3 posture damage per level.
 -   Has a windup of 0.6 seconds with a 14 second cooldown.
 -   Pushes people back and dazes them if they collide with something.
@@ -159,7 +159,7 @@ Wind
 
 **Effect:** _Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target._
 
--   Has a base damage of 18/20.5/23/25.5/28 per level, per hit (4) with 2.75 Galebreathe scaling.
+-   Has a base damage of 18/20.5/23/25.5/28 per level, per hit (4) with 3.75 Galebreathe scaling.
 -   Deals 15 posture damage on the first hit with all subsequent hits (3) dealing 5 posture damage each.
 -   The first two hits have a windup of 0.55 seconds while the third and fourth have a windup of 0.5 seconds. Has a cooldown of 8 seconds
 -   Projectile is medium-ranged and explodes on impact.
@@ -197,8 +197,8 @@ Wind
 
 **Effect:** _Launch a wind projectile towards where you're facing._
 
--   Has a base damage of 18/20.5/23/25.5/28 per level with 2.75 Galebreathe scaling.
--   The Tempest Wind variant has a base damage of 15/22.5/30/37.5/45 per level with 2.75 Galebreathe scaling.
+-   Has a base damage of 18/20.5/23/25.5/28 per level with 3.75 Galebreathe scaling.
+-   The Tempest Wind variant has a base damage of 15/22.5/30/37.5/45 per level with 3.75 Galebreathe scaling.
 -   The default variant deals 12 posture damage regardless of level, while the Tempest Wind variant deals 4/5/6/7/8 posture damage per level.
 -   Both variants have a windup of 0.5 seconds.
 -   Projectile lasts about 3-5 seconds
@@ -238,7 +238,7 @@ Wind
 
 **Effect:** _Leap high into the air before diving down towards your cursor, striking any targeted opponent._
 
--   Has a base damage of 15/22/29/36/43 per level with 2.75 Galebreathe scaling.
+-   Has a base damage of 15/22/29/36/43 per level with 3.75 Galebreathe scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.65 seconds with a 15 second cooldown.
 -   Highly recommended that you turn off shift-lock on use.
@@ -279,7 +279,7 @@ Wind + Slash
 
 **Effect:** _Lunge forward with your weapon coated in wind._
 
--   Has a base damage of 12.5/13.75/15/16.25/17.5 per level with 2.75 Galebreathe scaling.
+-   Has a base damage of 12.5/13.75/15/16.25/17.5 per level with 3.75 Galebreathe scaling.
 -   Deals 4/5/6/7/8 posture damage per level.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Can be used as mobility to push the user forward.
@@ -318,7 +318,7 @@ Wind + Slash
 
 **Effect:** _Conjure a wind AoE punch that deals damage and knocks targets away._
 
--   Has a base damage of 12.5/13.75/15/16.25/17.5 per level, per hit (3) with 2.75 Galebreathe scaling.
+-   Has a base damage of 12.5/13.75/15/16.25/17.5 per level, per hit (3) with 3.75 Galebreathe scaling.
 -   Deals 8 posture damage per hit (3).
 -   Has a windup of 0.55 seconds with a 0.7 second windup in between each hit. Has a cooldown of 9.5 seconds.
 -   Can break objects at level 2+.
@@ -358,7 +358,7 @@ Wind
 
 **Effect:** _Deploy a small green landmine at your cursor's location, activating a small tornado when made contact with._
 
--   Has a base damage of 2.25/2.31/2.38/2.44/2.5 per level, per hit (14) with 2.75 Galebreathe scaling.
+-   Has a base damage of 2.25/2.31/2.38/2.44/2.5 per level, per hit (14) with 3.75 Galebreathe scaling.
 -   Deals 5 posture damage on the first hit and 1 posture damage on all subsequent hits (13).
 -   Hits 14 times over 2 seconds.
 -   Has a windup of 0.6 seconds with a cooldown of 10 seconds.
@@ -399,7 +399,7 @@ Wind
 
 **Effect:** _Conjure a small vortex around yourself, M1 to cast it forward._
 
--   Has a base damage of 10/11.2/12.4/13.6/14.8 per level, per hit (12) with each hit having innate **After Cut** and 2.75 Galebreathe scaling.
+-   Has a base damage of 10/11.2/12.4/13.6/14.8 per level, per hit (12) with each hit having innate **After Cut** and 3.75 Galebreathe scaling.
 -   Deals 1.2 posture damage per hit (12).
 -   Has a windup of 0.9 seconds with a delay of 0.31 seconds between each hit. Has a cooldown of 9 seconds.
 -   Moves forward on its own after 2 seconds (9 ticks). The tornado lasts for 3.3 seconds total.
@@ -438,7 +438,7 @@ Wind + Slash
 
 **Effect:** _Dash forwards kicking with a rush of winds dealing damage._
 
--   Has a base damage of 7/8.3/9.6/10.9/12.2 per level, per hit (4) with 2.75 Galebreathe scaling.
+-   Has a base damage of 7/8.3/9.6/10.9/12.2 per level, per hit (4) with 3.75 Galebreathe scaling.
 -   Deals 4 posture damage per hit (4).
 -   Has a windup of 0.5 seconds with 0.11 seconds between each hit. Has a cooldown of 11 seconds.
 -   Can break objects.
@@ -475,7 +475,7 @@ Wind + Slash
 
 **Effect:** _Ready yourself and then spin, creating a vertical column of sharp winds._
 
--   Has a base damage of 22/24/26/28/30 per level, with successive each hit dealing 35% of the damage of the last (eg 22 -> 7.7 -> 2.7). Has 2.75 Galebreathe scaling.
+-   Has a base damage of 22/24/26/28/30 per level, with successive each hit dealing 35% of the damage of the last (eg 22 -> 7.7 -> 2.7). Has 3.75 Galebreathe scaling.
 -   Deals 7 posture damage per hit (3).
 -   Has a windup of 0.45 seconds with a delay of 0.1 second in between each hit. Has a cooldown of 13 seconds.
 -   Sends opponents flying into the air.
@@ -512,7 +512,7 @@ Wind + Slash
 
 **Effect:** _Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target._
 
--   Has a base damage of 5/6/7/8/9 per level, per hit (4, 3 if Multiplying Spark) with 2.75 Galebreathe scaling.
+-   Has a base damage of 5/6/7/8/9 per level, per hit (4, 3 if Multiplying Spark) with 3.75 Galebreathe scaling.
 -   Deals 2 posture damage per hit (4). The Multiplying Spark variant deals 5 posture damage per hit (3).
 -   The base variant has a windup of 1.6 seconds, while the Multiplying Spark variant has a windup of 0.85 seconds with a 0.2 second delay between subsequent hits. Has a 10 second cooldown.
 -   On cast, your opponent will be forced to stop blocking if applicable and they will be slowed. The Multiplying Spark variant loses this feature however.
@@ -553,7 +553,7 @@ Wind + Blunt (Grab), Wind (Throw)
 
 **Effect:** _Grab your target before spinning them in 360 degrees and then tossing them._
 
--   The first hit has a base damage of 26/31/36/41/46 per level, while the second hit deals 15 damage regardless of level. Champion's Whirlthrow has 2.75 Galebreathe scaling.
+-   The first hit has a base damage of 26/31/36/41/46 per level, while the second hit deals 15 damage regardless of level. Champion's Whirlthrow has 3.75 Galebreathe scaling.
 -   Deals 20/22/24/26/GB posture damage per level, automatically guard breaking at level 5.
 -   The first hit deals pure blunt damage, the second hit deals pure Galebreathe damage.
 -   Has a windup of 0.7 seconds with a 0.7 second delay between hits and 0.3 seconds of endlag. Has a cooldown of 10 seconds.
@@ -593,7 +593,7 @@ Wind + Blunt
 
 **Effect:** _Ascend while uppercutting your target, rapidly damaging them._
 
--   Has a base damage of 6/6.9/7.8/8.7/9.6 per level, per hit (5). The first hit has 2.75 Galebreathe scaling while the last three have 5 Galebreathe scaling.
+-   Has a base damage of 6/6.9/7.8/8.7/9.6 per level, per hit (5). The first hit has 3.75 Galebreathe scaling while the last three have 5 Galebreathe scaling.
 -   Deals 5 posture damage and cancels when blocked (even if it guard breaks).
 -   Has a windup of 0.5 seconds with a 14 second cooldown.
 -   Gems apply ONLY to the last hit, making Bloodless' healing very low.
@@ -634,7 +634,7 @@ Wind + Slash
 
 **Effect:** _Empower your weapon before elegantly releasing a cut that forms a small controllable tempest._
 
--   Has a base damage of 1.7/2.2/2.7/3.2/3.7 per level, per hit (12) with 2.75 Galebreathe scaling.
+-   Has a base damage of 1.7/2.2/2.7/3.2/3.7 per level, per hit (12) with 3.75 Galebreathe scaling.
 -   Deals 1 posture damage per hit (12).
 -   Has a windup of 0.55 seconds with a 0.11 second delay between each hit. Has a 10 second cooldown.
 -   Can be ended early by pressing your feint key.
@@ -674,10 +674,10 @@ Wind
 
 **Effect:** _Fire a penetrating bullet of wind._
 
--   Has a base damage of 32/36/40/44/48 per level with 2.75 Galebreathe scaling.
--   The Blast Spark variant has a base damage of 6.4/7.2/8/8.8/9.6 per level, per hit (4) with 2.75 Galebreathe scaling. This deals 80% of the unmodified variant's damage if all hits land.
--   The Multiplying Spark has a base damage of 4.08/4.59/5.1/5.61/6.12 per level, per hit (8) with 2.75 Galebreathe scaling. This deals 102% of the unmodified variant's damage if all hits land.
--   Combining both sparks grants a base damage of 2.04/2.295/2.55/2.805/3.06 per level, per hit (24) with 2.75 Galebreathe scaling. This deals 153% of the unmodified variant's damage if all hits land.
+-   Has a base damage of 32/36/40/44/48 per level with 3.75 Galebreathe scaling.
+-   The Blast Spark variant has a base damage of 6.4/7.2/8/8.8/9.6 per level, per hit (4) with 3.75 Galebreathe scaling. This deals 80% of the unmodified variant's damage if all hits land.
+-   The Multiplying Spark has a base damage of 4.08/4.59/5.1/5.61/6.12 per level, per hit (8) with 3.75 Galebreathe scaling. This deals 102% of the unmodified variant's damage if all hits land.
+-   Combining both sparks grants a base damage of 2.04/2.295/2.55/2.805/3.06 per level, per hit (24) with 3.75 Galebreathe scaling. This deals 153% of the unmodified variant's damage if all hits land.
 -   The base variant deals 10 posture damage. The Blast Spark variant deals 4 posture damage per hit (4), while the Multiplying Spark variant deals 0.8 posture damage per hit (8). Both sparks combined deals 3 posture damage per hit (24).
 -   Has a windup of 0.45 seconds. The Multiplying and both Spark variants has a windup of 0.55 seconds. Has a 15 second cooldown.
 -   Pushes and ragdolls opponent.
@@ -718,7 +718,7 @@ Wind + Slash
 
 **Effect:** _Cast several fast, wind-enhanced slashes that form a star._
 
--   Has a base damage of 4.25/5.35/6.45/7.55/8.65 per level, per hit (5) with 2.75 Galebreathe scaling.
+-   Has a base damage of 4.25/5.35/6.45/7.55/8.65 per level, per hit (5) with 3.75 Galebreathe scaling.
 -   Deals 2.5 posture damage per hit (5).
 -   Has a windup of 0.45 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
 -   At level 3+, the last hit of Astral Wind sends the opponent upwards.
@@ -756,7 +756,7 @@ Wind + Slash
 
 **Effect:** _Raise your right leg and stomp the ground, conjuring up a huge volley of wind._
 
--   Has a base damage of 35/38/41/44/47 per level with 2.75 Galebreathe scaling.
+-   Has a base damage of 35/38/41/44/47 per level with 3.75 Galebreathe scaling.
 -   Deals 7 posture damage.
 -   Has a windup of 0.8 seconds.
 -   Gives hyperarmor when casting.
@@ -828,7 +828,7 @@ Wind + Slash
 
 **Effect:** _Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled._
 
--   Has a base damage of 18.5/27.5/36.5/45.5/54.5 with 2.75 Galebreathe scaling.
+-   Has a base damage of 18.5/27.5/36.5/45.5/54.5 with 3.75 Galebreathe scaling.
 -   Deals 15 posture damage.
 -   Has a windup of 1 seconds with a 12 second cooldown.
 -   Decreases in range as your health gets lower.

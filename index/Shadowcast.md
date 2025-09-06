@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 160998
+revid: 161111
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -199,7 +199,7 @@ Shadow
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Adding Lenses will increase the range of the blast forward
 -   Adding Cloudstones/Stratus Stones will increase the height and width of the blast
--   Can be modified with a Blast Spark, making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and triple the Ether cost from what’s displayed (I.E. a 19% Ether cost Shadow Gun will actually cost 57% of your Ether.)
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what’s displayed (I.E. a 20% Ether cost Shadow Gun will actually cost 40% of your Ether.)
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161002
+revid: 161136
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2073,6 +2073,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
     -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds.
     -   Note that you need physical bullets in your inventory for this Talent to work.
+    -   Has a 60 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
     -   Prerequisites: 95 Medium Weapon, Rifle Equipped
 
 ### Master Survivalist
@@ -2417,7 +2418,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   The duration of this effect will be reduced if you do not meet its 70 Strength rqeuirement.
     -   Prerequisite: 70 Strength
 
--   _Piercing Blow_ \[Rare Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
+-   _**Piercing Blow**_ \[Advanced Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
     -   Prerequisite: 100 Strength
 
 ### Rampaging Brute
@@ -2810,6 +2811,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Shock Therapy
 
 -   Grounding Bolt \[Common Talent, Thundercall Exclusive\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
+    -   10 second cooldown.
     -   Storm Strikes from the [Specialist Set](Specialist_Helmet.md) Talents, [Storm](Storm.md) Enchant during the rain, Scorched Peak, Fulgurite Formation's lightning strikes all proc this Talent.
     -   Discovery of Fire does not proc this Talent.
     -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
@@ -3854,13 +3856,19 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md). These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
--   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - effects currently unknown
+-   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
--   Battle Frenzy: [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) - effects currently unknown
+-   Battle Frenzy: [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.
+    -   Grants Posture resistance against Mantras, scaling up in effectiveness based on how many combat tags you have.
+    -   Works in PvE, but you cannot stack PvE combat tags like you can PvP ones, leading to lessened effectiveness.
 
--   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - effects currently unknown
+-   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) now deal extra damage based on how much Willpower you have.
+    -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment.
+    -   This deals 0.0752 damage per 1 Willpower investment, dealing 3.76 additional damage at 50 Willpower and 7.52 additional damage at 100 Willpower.
+    -   This secondary damage instance cannot receive damage modifiers.
 
--   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - effects currently unknown
+-   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
+    -   Decreases Prominence Draw's windup by ?s.
 
 -   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recovery health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
     -   Restores 4% of the user's maximum health upon landing M1 attacks.
@@ -3868,23 +3876,30 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick regardless of the initial hit's damage, and it ticks 5 times over 5 seconds instead of 3 ticks immediately. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
 
--   Bulwark Breaker: [Steel Maul](Steel_Maul.md) - effects currently unknown
+-   Bulwark Breaker: [Steel Maul](Steel_Maul.md) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
 
--   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - effects currently unknown
+-   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.
+    -   If you interrupt someone's attack with the shock from your [Krulian Charge](Status_Effects.md#krulian-charge), gain a damage modifier to your critical attacks.
 
--   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - effects currently unknown
+-   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 30% more chip.
 
--   Expeditious Combo: [Iron Birch](Iron_Birch.md) - effects currently unknown
+-   Expeditious Combo: [Iron Birch](Iron_Birch.md) - Landing an uppercut will grant a buff to your [Onslaught](Attunement-less.md#onslaught) for 15 seconds, using Onslaught during this time will massively increase the speed of it.
 
--   Finishing Slay: [Messer](Messer.md) - effects currently unknown
+-   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
+    -   Consumes all of your Chains of Perfection stacks for a high damaging attack on your critical.
 
--   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - effects currently unknown
+-   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
+    -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 4 seconds, making your critical guaranteed guardbreak if it hits block.
 
--   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - effects currently unknown
+-   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 30 seconds less off its cooldown.
+    -   Reduces the cooldown of Tactical Reload by 30 seconds; from 90 seconds to 60.
 
--   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - effects currently unknown
+-   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
+    -   Increases the ? of all counter attacks.
+        -   [Punishment](Attunement-less.md#punishment) gains ? when wearing the [Authority Commander](Authority_Commander.md) Outfit.
 
--   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - effects currently unknown
+-   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 10 seconds.
+    -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their passive posture recovery by ?% for 10 seconds.
 
 ## Equipment Talents
 

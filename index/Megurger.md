@@ -1,9 +1,9 @@
 ---
 title: Megurger
-revid: 160500
+revid: 161028
 source: https://deepwoken.fandom.com/wiki/Megurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Megurger

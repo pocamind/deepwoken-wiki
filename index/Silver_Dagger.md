@@ -1,9 +1,9 @@
 ---
 title: Silver Dagger
-revid: 161014
+revid: 161088
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons With Talents]
 ---
 
 # Silver Dagger
@@ -16,6 +16,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | scaling | LHT: 6 |
 | range | 6 |
 | swing speed | 1.25x |
+| special effect | Assassin's Strike - Your Rapid Slashes deals double damage. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Stiletto |
@@ -36,11 +37,9 @@ The Silver Dagger is a LHT dagger weapon that can be purchased at [Summer Isle](
 
 It is a decent dagger to use from early to mid game. However, it is highly suggested to use the [Gilded Knife](Gilded_Knife.md) instead as it outranks the Silver Dagger in everything except the swing speed (only .02x faster).
 
-  
-
 ## Talent: Assassin's Strike
 
-Talent effect is currently unknown
+Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
 ## Critical
 

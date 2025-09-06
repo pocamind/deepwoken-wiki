@@ -1,9 +1,9 @@
 ---
 title: Bloodbane
-revid: 160031
+revid: 161085
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, War Weapons, Heavy Weapons]
+categories: [Weapons, Greatswords, War Weapons, Heavy Weapons, Weapons with Talents]
 ---
 
 # Bloodbane
@@ -17,7 +17,7 @@ categories: [Weapons, Greatswords, War Weapons, Heavy Weapons]
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| special effect | Restores health on M1. Applies a bloodletting DoT effect on critical. If you are knocked during this effect's lifespan, you will be instantly gripped. |
+| special effect | Bloodthirsty - Restores health on M1. Applies a bloodletting DoT effect on critical. If you are knocked during this effect's lifespan, you will be instantly gripped. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |

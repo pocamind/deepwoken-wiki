@@ -1,9 +1,9 @@
 ---
 title: "Acheron's Warspear"
-revid: 161017
+revid: 161103
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
 ---
 
 # Acheron's Warspear
@@ -17,6 +17,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 15% |
+| special effect | Vital Wound - Uppercutting your opponent decreases their posture recovery for the next 10 seconds. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |
@@ -35,9 +36,9 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 **Acheron's Warspear** is a [Medium Weapon](Weapons.md) that can be obtained by defeating a [Corrupted King Thresher](King_Thresher.md) in [The Depths](The_Depths.md) and is found fairly commonly inside [Layer 2](Second_Layer.md) chests. Despite subpar stats, it deals bleed damage, boosting its performance immensely.
 
-## Talent: Vital Wound
+### Talent: Vital Wound
 
-Talent effect is currently unknown
+Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, decreasing their posture recovery for the next 10 seconds.
 
 ## Critical
 
@@ -52,7 +53,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   Meeting the requirement of MED, the weapon deals 21.2 damage, but it becomes 27.6 damage with bleed.
 -   At max MED, the weapon deals 26.1 damage, but it becomes 33.9 with bleed.
 -   Basically a downgraded Kyrsglaive, still a very good weapon if your build can't reach 90 MED to use the Kyrsglaive.
--   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph’s Spear.
+-   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph's Spear.
 -   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md). The spear likely belonged to them.
 
-Curse of Rhaemen's Ember on Acheron's warspear
+Curse of Ysley's Ember on Acheron's Warspear

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 160579
+revid: 161126
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -113,7 +113,7 @@ Fire
 
 **Effect:** User summons six blazing warriors armed with Halberds in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
--   Has a base damage of 4/4.4/4.8/5.2/5.6 per level, per hit (6) with 2.75 Flamecharm scaling.
+-   Has a base damage of 4/4.4/4.8/5.2/5.6 per level, per hit (6) with 3.75 Flamecharm scaling.
 -   Deals 4 posture damage per hit with an additional 20 posture damage on the final hit.
 -   Has a windup of 0.45s and a cooldown of 10 seconds.
 -   The synchronous strike occurs 2.2 seconds after the mantra is cast.
@@ -154,7 +154,7 @@ Fire
 
 **Effect:** User forcefully slams down their blade coated in flames.
 
--   Has a base damage of 18/21/24/27/30 per level with 2.75 Flamecharm scaling.
+-   Has a base damage of 18/21/24/27/30 per level with 3.75 Flamecharm scaling.
 -   Deals 18 posture damage at levels 1-4, guard breaks at level 5.
     -   At level 5, this Mantra takes 20 additional Ether on cast to retain its guard breaking property. This additional Ether cost cannot be reduced.
 -   Has a windup of 0.7 seconds and a cooldown of 10 seconds.
@@ -197,7 +197,7 @@ Fire
 
 **Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location. Clicking again while firing will fire additional bullets, at the cost of more Ether.
 
--   Has a base damage of 6.5/8.5/10.5/12.5/14.5 per level, per hit with 2.75 Flamecharm scaling.
+-   Has a base damage of 6.5/8.5/10.5/12.5/14.5 per level, per hit with 3.75 Flamecharm scaling.
 -   Has a windup of 0.35 seconds and no cooldown.
 -   Deals 1 posture damage per hit.
 -   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
@@ -242,7 +242,7 @@ Fire
 
 **Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
--   Has a base damage of 25/30/35/40/45 per level with 2.75 Flamecharm scaling.
+-   Has a base damage of 25/30/35/40/45 per level with 3.75 Flamecharm scaling.
 -   Deals 6 posture damage.
 -   Has a 0.6 second windup with a 10 second cooldown.
 -   Has a large hitbox both horizontally and backwards.
@@ -284,8 +284,8 @@ Fire
 
 **Effect:** User charges up releases an explosion of flames around them.
 
--   Has a base damage of 16/18.4/20.8/23.2/25.6/28 with 2.75 Flamecharm scaling.
--   The Spring Spark variant's projectile has a base damage of 14.4/16.56/18.72/20.88/23.04 per level, while the explosion always has a base damage of 17 regardless of Mantra level. Both hits have 2.75 Flamecharm scaling.
+-   Has a base damage of 16/18.4/20.8/23.2/25.6/28 with 3.75 Flamecharm scaling.
+-   The Spring Spark variant's projectile has a base damage of 14.4/16.56/18.72/20.88/23.04 per level, while the explosion always has a base damage of 17 regardless of Mantra level. Both hits have 3.75 Flamecharm scaling.
 -   The base variant deals 15 posture damage, while the Spring Spark variant deals 6 + 10 posture damage.
 -   The base variant has a windup of 0.7 seconds. The Spring Spark variant is a projectile, with a point blank windup of 1 second. Both variants have a 15 second cooldown.
 -   If your are hit near the end of the base variant's windup, you will absorb the damage with 75% damage reduction and reflect it back with in the form of increased base damage. You gain very brief [hyper-armor](Status_Effects.md#hyperarmor) to signify this effect.
@@ -327,7 +327,7 @@ Fire
 
 **Effect:** User slams weapon into the ground below that causes 2 consecutive explosions.
 
--   Has a base damage of 24/26.5/29/30.5/32 per level, per hit (2) with 2.75 Flamecharm scaling.
+-   Has a base damage of 24/26.5/29/30.5/32 per level, per hit (2) with 3.75 Flamecharm scaling.
 -   Deals 5 posture damage on the first hit and 35 posture damage on the second, usually guard breaking your opponents.
 -   Has a 0.6 second windup before the first hit with a 0.8 second delay between hits, and a 0.2 second endlag when the Mantra ends. Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -371,8 +371,8 @@ Fire
 **Effect:** User throws 3 quick burning daggers.
 
 -   Both variants are currently bugged to where their hitbox will almost always not be present. (1st September 2025)
--   Has a base damage of 8.33/9.33/10.33/11.33/12.33 per level, per hit (3) with 2.75 Flamecharm scaling.
--   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 2.75 Flamecharm scaling.
+-   Has a base damage of 8.33/9.33/10.33/11.33/12.33 per level, per hit (3) with 3.75 Flamecharm scaling.
+-   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 3.75 Flamecharm scaling.
 -   The base variant deals 4 posture damage per dagger, while the Tornado spark variant deals 3 posture damage per dagger with an additional 5 posture damage per tornado hit (2).
 -   Has a 10 second cooldown.
 -   Has 8.45x PvE scaling (multiply damage dealt by 8.45 for PvE damage).
@@ -414,7 +414,7 @@ Fire
 
 **Effect:** User releases a burst of flame from their palm in a cone shape.
 
--   Has a base damage of 26/27.5/29/30.5/32 with 2.75 Flamecharm scaling.
+-   Has a base damage of 26/27.5/29/30.5/32 with 3.75 Flamecharm scaling.
 -   Deals 5 posture damage.
 -   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second coolodwn.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
@@ -454,7 +454,7 @@ Fire
 
 **Effect:** Cast a circular area mark that follows your cursor. Cast again to create an eruption of flame at that location.
 
--   Has a base damage of 20/25/30/35/40 per level with 2.75 Flamecharm scaling.
+-   Has a base damage of 20/25/30/35/40 per level with 3.75 Flamecharm scaling.
 -   Deals 18/20/22/24/26 posture damage per level.
 -   Has a cooldown of 19.5 seconds.
 -   The initial cast will consume but immediately refund Ether, entering the placement state in which you are able to aim the Mantra. In this state, you are not restricted in any way, as you can take damage, attack, cast other Mantras, have full mobility, etc. The placement state lasts for a maximum of 30 seconds until you cast Searing Snare again. Upon casting again, the Searing Snare will consume more Ether and attack after a 1 second windup.
@@ -495,7 +495,7 @@ Fire
 
 **Effect:** User creates a destructible orb that will shoot out fireballs to nearby targets.
 
--   Has a base damage of 5/6/7/8/9 damage per level, per hit with 2.75 Flamecharm scaling.
+-   Has a base damage of 5/6/7/8/9 damage per level, per hit with 3.75 Flamecharm scaling.
 -   Deals 14 posture damage per shot.
 -   Duration scales with level and cannot be modified otherwise. Duration impacts the number of shots fired, as they have a set cooldown.
 -   Has a 0.65 second cast time and a 40 second cooldown.
@@ -537,7 +537,7 @@ Fire + Blunt
 
 **Effect:** User releases a small fireball projectile that flies forward in a straight path.
 
--   Has a base damage of 18/21/24/27/30 per level, per hit with 2.75 Flamecharm scaling.
+-   Has a base damage of 18/21/24/27/30 per level, per hit with 3.75 Flamecharm scaling.
 -   Deals 5 posture damage per hit.
 -   Has a windup of 0.45 seconds, a 12 second cooldown and a 1 second delay between each hit.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -577,7 +577,7 @@ Fire
 **Effect:** User releases a flurry of seven slashes.
 
 -   The damage reduces with each successive hit.
--   Each level increases the base damage by 10% of the level 1's base damage. Relentless Flames has 2.75 Flamecharm scaling.
+-   Each level increases the base damage by 10% of the level 1's base damage. Relentless Flames has 3.75 Flamecharm scaling.
     -   At level 1, Relentless Flames has a base damage of 20 + 20 + 14 + 8 + 4 + 4 + 4.
     -   At level 2, Relentless Flames has a base damage of 22 + 22 + 15.4 + 8.8 + 4.4 + 4.4 + 4.4.
     -   At level 3, Relentless Flames has a base damage of 24 + 24 + 16.8 + 9.6 + 4.8 + 4.8 + 4.8.
@@ -622,7 +622,7 @@ Fire
 
 **Effect:** User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
--   Has a base damage of 20/23/26/29/32 per level with 2.75 Flamecharm scaling.
+-   Has a base damage of 20/23/26/29/32 per level with 3.75 Flamecharm scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.55 seconds and a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -663,7 +663,7 @@ Fire + Blunt
 
 **Effect:** User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
 
--   The first hit has a base damage of 10/14/18/22/26 while the second hit has a base damage of 6/8.4/10.8/13.2/15.6 per level with 2.75 Flamecharm scaling.
+-   The first hit has a base damage of 10/14/18/22/26 while the second hit has a base damage of 6/8.4/10.8/13.2/15.6 per level with 3.75 Flamecharm scaling.
 -   Has a windup of 0.65 seconds and a cooldown of 15 seconds.
 -   Has a very large circular hitbox that is comparable to venting.
 -   Deals 4 posture damage on the first hit and 2 on the second for a total of 6 posture damage.
@@ -704,8 +704,8 @@ Fire
 
 **Effect:** User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
--   With no charge, Flame Ballista has a base damage of 33.5/37/40.5/44/47.5 per level with 2.75 Flamecharm scaling.
--   At full charge, Flame Ballista has a base damage of 82/85.5/89/92.5/96 per level with 2.75 Flamecharm scaling.
+-   With no charge, Flame Ballista has a base damage of 33.5/37/40.5/44/47.5 per level with 3.75 Flamecharm scaling.
+-   At full charge, Flame Ballista has a base damage of 82/85.5/89/92.5/96 per level with 3.75 Flamecharm scaling.
     -   This is slightly inconsistent due to how charging works, largely being affected by ping.
 -   Deals 14 posture damage.
 -   Has a 1.3 (minimum) second cast time and a 15 second cooldown.
@@ -752,7 +752,7 @@ Fire
 
 **Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
--   Has a base damage of 10/11/12/13/14 per level, per hit (3, 2 if Reversal Spark) with 2.75 Flamecharm scaling.
+-   Has a base damage of 10/11/12/13/14 per level, per hit (3, 2 if Reversal Spark) with 3.75 Flamecharm scaling.
 -   Deals 14 posture damage per hit (3, 2 if Reversal Spark).
 -   Has a windup of 0.6 seconds (0.65 seconds if Reversal Spark) with 0.2 seconds of endlag. Has an 18 second cooldown.
 -   Inflicts burn.
@@ -827,7 +827,7 @@ Fire
 
 **Effect:** User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
--   Has a base damage of 8/16/24/32/40 per level with 2.75 Flamecharm scaling.
+-   Has a base damage of 8/16/24/32/40 per level with 3.75 Flamecharm scaling.
 -   Deals 1.5/3/4.5/6/7.5 posture damage per level.
 -   Has a windup of 0.5 and 0.2 seconds before it hits, and a 10 second cooldown.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
@@ -869,7 +869,7 @@ Fire
 
 **Effect:** User emits a blast under them that propels the caster and nearby opponents up in the air.
 
--   Has 10 base damage (5 if Reversal Spark) regardless of Mantra level with 2.75 Flamecharm scaling.
+-   Has 10 base damage (5 if Reversal Spark) regardless of Mantra level with 3.75 Flamecharm scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds and a cooldown of 18 seconds.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).

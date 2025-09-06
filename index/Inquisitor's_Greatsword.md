@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 161007
+revid: 161101
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Heavy Weapons]
+categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
 ---
 
 # Inquisitor's Greatsword
@@ -17,6 +17,7 @@ categories: [Weapons, Greatswords, Heavy Weapons]
 | range | 9 |
 | swing speed | 0.84x |
 | endlag | 0.1s |
+| special effect | Sovereign's Counter - Increases the efficiency of all counter attacks. Punishment gains additional efficiency when wearing the Authority Commander Outfit. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -37,7 +38,7 @@ The Inquisitor's Greatsword is a [Greatsword](Weapons.md) with a black handle an
 
 ### Talent: Sovereign's Counter
 
-Talent effect is currently unknown
+The efficiency of all counter Mantras is increased. [Punishment](Attunement-less.md#punishment) gains additional efficiency when the [Authority Commander](Authority_Commander.md) Outfit is worn.
 
 ## Critical
 

@@ -1,9 +1,9 @@
 ---
 title: Kyrsdog
-revid: 160594
+revid: 161027
 source: https://deepwoken.fandom.com/wiki/Kyrsdog
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Kyrsdog

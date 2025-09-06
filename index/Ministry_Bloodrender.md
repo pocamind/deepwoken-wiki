@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 152730
+revid: 161032
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies, The Ministry]

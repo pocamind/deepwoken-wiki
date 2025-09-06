@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 160933
+revid: 161115
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -369,6 +369,18 @@ Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with 
 ### Krulian Charge
 
 Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a [speed boost](#speed-boost) for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
+
+### Cruel Counter
+
+Applied if your attack gets interrupted by the [Krulian Knife's](Krulian_Knife.md) Krulian Charge critical attack. This effect increases the damage taken by the Krulian Knife critical attacks for the next ? seconds. Signified by ?.
+
+### Punishing Riposte
+
+After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.md), gain the Punishing Riposte status effect for 4 seconds, making your critical attack automatically guardbreak if blocked.
+
+### Vital Wound
+
+Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be massively reduced for the next 10 seconds.
 
 ### Bloodletting
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 159491
+revid: 161129
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -128,7 +128,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Stomp the ground, causing a flurry of metal spikes to erupt forward._
 
--   Has a base damage of 25 with innate [Bleed](Status_Effects.md#bleed)) damage and 2.75 Ironsing scaling. The base damage does not increase with Mantra level.
+-   Has a base damage of 25 with innate [Bleed](Status_Effects.md#bleed)) damage and 3.75 Ironsing scaling. The base damage does not increase with Mantra level.
 -   Deals 14 posture damage.
 -   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
@@ -170,7 +170,7 @@ Metal + Slash
 
 **Effect:** _Jump into the air before throwing out 3 projectiles towards the location of the cursor._
 
--   Has a base damage of 8.67/7.25/6.4/5.83/5.43 per level, per hit (level based) with 2.75 Ironsing scaling.
+-   Has a base damage of 8.67/7.25/6.4/5.83/5.43 per level, per hit (level based) with 3.75 Ironsing scaling.
 -   Fires 3/4/5/6/7 needles per level.
 -   Deals 3 posture damage per needle.
 -   Has a windup of 0.55 seconds with a 12 second cooldown.
@@ -213,7 +213,7 @@ Metal + Slash
 
 **Effect:** _Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit._
 
--   Has a base damage of 7.2/13.2/19.2/25.2/31.2 per level with 2.75 Ironsing scaling.
+-   Has a base damage of 7.2/13.2/19.2/25.2/31.2 per level with 3.75 Ironsing scaling.
 -   Deals 14 posture damage.
 -   Has a 13 second cooldown.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
@@ -253,7 +253,7 @@ Metal + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Throws 3/4/5/6/7 Caltrops per level.
 -   Has a windup of 0.75 seconds with a 10 second CD. Caltrops last 17 seconds on the ground before dissipating.
 -   Has 9.17x PVE scaling (multiply damage dealt by 9.17 for PvE damage).
@@ -296,8 +296,8 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
--   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
+-   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   The base variant deals 5 posture damage per hit while the Blast Spark variant deals 15 posture damage per hit.
 -   The base variant has a windup of 0.8 seconds, while the Blast Spark variant has a windup of 0.55 seconds.
 -   Currently has no PvE scaling.
@@ -338,7 +338,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Has a base damage of 20/22/24/26/28 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 20/22/24/26/28 per level with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 12.5 posture damage.
 -   Has a windup of 0.45 seconds with a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -377,7 +377,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Has a base damage of 16/21.5/27/32.5/38 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 16/21.5/27/32.5/38 per level with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 8/9/10/11/12 posture damage per level.
 -   Has a windup of 0.65 seconds and a cooldown of 12 seconds.
 -   Has 9.27x PvE scaling (multiply damage dealt by 9.27 for PvE damage).
@@ -415,7 +415,7 @@ Metal + Slash
 
 **Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
 
--   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 2 posture damage per hit.
 -   Has around 23 hits total.
 -   Has a windup of 1.2 seconds with a 20 second cooldown.
@@ -458,7 +458,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
--   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 1 posture damage per hit (10).
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -497,7 +497,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [bleed](Status_Effects.md#bleed) and 2.75 Ironsing scaling.
+-   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [bleed](Status_Effects.md#bleed) and 3.75 Ironsing scaling.
 -   Deals 10 posture damage, canceling entirely if blocked.
 -   Has a windup of 0.8 seconds and a cooldown of 11 seconds.
 -   Gives [True Hyperarmor](Status_Effects.md#true-hyperarmor) on use, also gives I-frames to victim and user during the grab animation.
@@ -538,7 +538,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Has a base damage of 35/38.5/42/45.5/49 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 35/38.5/42/45.5/49 per level with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 16.5 posture damage at levels 1-4, guard breaks at level 5.
 -   Has a windup of 0.73 seconds with a cooldown of 18 seconds.
 -   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](Status_Effects.md#bleed) PVE)
@@ -576,7 +576,7 @@ Metal + Slash
 
 **Effect:** _Coat the character's body and weapon in iron sparks. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds._
 
--   Has a base damage of 20, this does not increase with levels but has 2.75 Ironsing scaling.
+-   Has a base damage of 20, this does not increase with levels but has 3.75 Ironsing scaling.
 -   Deals 4 posture damage.
 -   Metal Armament lasts 20 seconds at level 5 with a 30 second cooldown.
 -   Has a 0.6 second windup on attack, massively delaying the armament hit.
@@ -617,7 +617,7 @@ Metal + Slash
 
 **Effect:** _A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage._
 
--   Has a base damage of 5.5/6.5/7.5/8.5/9.5 per level, per hit (7) with 2.75 Ironsing scaling.
+-   Has a base damage of 5.5/6.5/7.5/8.5/9.5 per level, per hit (7) with 3.75 Ironsing scaling.
 -   Deals 10.5 posture damage.
 -   Has a windup of 0.85 seconds with a cooldown of 14 seconds.
 -   Has 9.2x PVE scaling (multiply damage dealt by 9.2 for PvE damage).
@@ -656,7 +656,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Has a base damage of 15/23/31/39/47 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 15/23/31/39/47 per level with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
@@ -728,7 +728,7 @@ Metal + Blunt + [Bleed](Status_Effects.md#bleed)
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
 -   Deals damage on placedown with a very small AoE.
--   Has a base damage of 10/14/18/22/26 with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 10/14/18/22/26 with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 8 posture damage.
 -   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
 -   The pillar lasts 6 seconds at base with a 15 second cooldown. The duration increases by 1 second per upgrade, reaching a total maximum of 10s.
@@ -769,7 +769,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
--   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [bleed](Status_Effects.md#bleed) damage and 3.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds before the ball is created, and a 0.2 seconds to hit. Has a cooldown of 10.5 seconds.
 -   Applies knockdown on hit for 0.5 seconds.
@@ -843,7 +843,7 @@ Metal + Blunt
 
 **Effect:** _Conjure a chain of metal from the right hand that pulls in any targets from the cursor._
 
--   Has a base damage of 20/22/24/26/28 per level with 2.75 Ironsing scaling.
+-   Has a base damage of 20/22/24/26/28 per level with 3.75 Ironsing scaling.
 -   Deals 5 posture damage.
 -   Has a windup of 0.55 seconds with a 13 second cooldown.
 -   Has 9.2x PVE scaling (multiply damage dealt by 9.2 for PvE damage).
@@ -922,7 +922,7 @@ Metal
 
 **Effect:** _Perform a gesture on the ground, erecting a turret that continuously fires a projectile at any targets in its sight. Ritual Casted._
 
--   Has a base damage of 10/12/14/16/18 per level, per hit with 2.75 Ironsing scaling.
+-   Has a base damage of 10/12/14/16/18 per level, per hit with 3.75 Ironsing scaling.
 -   Deals 5 posture damage per hit.
 -   Has a windup on placedown of 0.85 seconds and lasts 20 seconds with a 30 second cooldown. There is a 0.55 second delay in between each shot.
 -   Has 9.4x PvE scaling (multiply damage dealt by 9.4 for PvE damage).

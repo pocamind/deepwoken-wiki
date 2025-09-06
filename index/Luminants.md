@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 147411
+revid: 161131
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -8,7 +8,7 @@ categories: [Map, Locations]
 
 # Luminants
 
-**Luminants** are described to be certain regions of the world of Deepwoken. There are currently two Luminants in the game, which are the Etrean and Eastern Luminants respectively. There are many different sources that lead to the conclusion that all of Lumen was once united into one large continent, though the rising tides have split it into the 6 Luminants known today.
+**Luminants** are described to be certain regions of the world of Deepwoken. There are currently two Luminants in the game, which are the Etrean and Eastern Luminants respectively. It is known the world was once five continental landmasses, though the rising tides have turned it into the 6 Luminants known today. Luminants are shaped as gatherings of islands over their own Sea, which is differentiated from the Voidsea, Luminants seem to have three big wave shaped islands (the cause of this wavy form is unknown) with smaller islands around, the exception to this is the Central Luminant, which is one island (albeit it is large) and the Southern Luminant, which is mostly sunk and hence has lost its three largest islands.
 
 ## Etrean and Eastern Luminants
 

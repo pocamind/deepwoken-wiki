@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 160997
+revid: 161055
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -275,6 +275,7 @@ Magnifying Stone
  | 
 
 -   Crafted with a Stratus Stone and Perfect Lens
+-   Dropped from certain mobs (needs testing)
 
  |
 | 

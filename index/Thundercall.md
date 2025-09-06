@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 159905
+revid: 161130
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -117,8 +117,8 @@ Lightning
 
 **Effect:** _Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user._
 
--   Deals 20/22/24/26/28 base damage per level with 2.75 Thundercall scaling.
--   [Magnet Spark](Mantra_Modifiers.md#sparks) variant deals 25/27/29/31/33 base damage per level with 2.75 Thundercall scaling.
+-   Deals 20/22/24/26/28 base damage per level with 3.75 Thundercall scaling.
+-   [Magnet Spark](Mantra_Modifiers.md#sparks) variant deals 25/27/29/31/33 base damage per level with 3.75 Thundercall scaling.
 -   Deals 5 posture damage regardless of spark variant.
 -   Magnet Spark variant has a windup of 0.5 seconds.
 -   Has a 10 second cooldown.
@@ -160,7 +160,7 @@ Lightning
 
 **Effect:** _Cast out a straight beam of lightning from where the character is facing._
 
--   Deals 30/31.5/33/34.5/36 base damage per level with 2.75 Thundercall scaling.
+-   Deals 30/31.5/33/34.5/36 base damage per level with 3.75 Thundercall scaling.
 -   Deals 7/8.5/10/11.5/13 posture damage per level.
 -   10 second cooldown.
 -   Can break objects.
@@ -198,8 +198,8 @@ Lightning + Slash
 
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
--   Initial hits deal 7/8/9/10/11 base damage per level, per hit (2) with 2.75 Thundercall scaling.
--   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
+-   Initial hits deal 7/8/9/10/11 base damage per level, per hit (2) with 3.75 Thundercall scaling.
+-   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 3.75 Thundercall scaling.
 -   Stormcaller Slash deals an additional 12.25/14/15.75/17.5/19.25 base damage per level with 5 Thundercall scaling.
 -   Deals 3 posture damage per initial hit (2), Stormcaller Slash adds an additional 5 posture damage.
 -   10 second cooldown.
@@ -242,9 +242,9 @@ Lightning + Slash
 
 **Effect:** _Conjure a shocking orb from the end of your weapon, dealing rapid damage._
 
--   Deals 8/8.5/9/9.5/10 base damage per level, per hit (7) with 2.75 Thundercall scaling.
--   The Blast Spark variant has a base damage of 7/7.5/8/8.5/9 per level, per hit (9) with 2.75 Thundercall scaling.
--   The Magnet Spark variant has a base damage of 10 (flat) + 7/7.5/8/8.5/9 per level, per hit (7) with 2.75 Thundercall scaling.
+-   Deals 8/8.5/9/9.5/10 base damage per level, per hit (7) with 3.75 Thundercall scaling.
+-   The Blast Spark variant has a base damage of 7/7.5/8/8.5/9 per level, per hit (9) with 3.75 Thundercall scaling.
+-   The Magnet Spark variant has a base damage of 10 (flat) + 7/7.5/8/8.5/9 per level, per hit (7) with 3.75 Thundercall scaling.
 -   Deals 1 posture damage per hit (7, 9 if Blast Spark).
 -   The Magnet Spark variant's initial hit deals no posture damage.
 -   30 second cooldown.
@@ -286,7 +286,7 @@ Lightning + Slash
 
 **Effect:** _Perform a gesture, conjuring 3 orbs of lightning above and beside the user before sending them towards target(s)._
 
--   Has a base damage of 5/6.5/8/9.5/11 per level, per hit (3) with 2.75 Thundercall scaling.
+-   Has a base damage of 5/6.5/8/9.5/11 per level, per hit (3) with 3.75 Thundercall scaling.
 -   Deals 5 posture damage per hit (3).
 -   14 second cooldown.
 -   Deals 38.31 (12.77\*3) DMG, 10 posture, 14s CD
@@ -372,7 +372,7 @@ Lightning
 
 **Effect:** _Leap into the air before slamming down into the ground, dealing moderate Lightning damage in an AoE before ascending the user and target(s) hit into the air._
 
--   Has a base damage of 23/24.5/26/27.5/29 per level with 2.75 Thundercall scaling.
+-   Has a base damage of 23/24.5/26/27.5/29 per level with 3.75 Thundercall scaling.
 -   The _Rain of Static_ Talent adds an additional 5/5.375/5.75/6.125/6.5 base damage per level, per hit (4) at the start of the Mantra.
 -   Deals ?/?/?/?/? posture damage per level.
 -   Rain of Static hits deal 1 posture damage each (4).
@@ -417,7 +417,7 @@ Lightning
 **Effect:** _Perform a gesture before conjuring strikes of lightning at the cursor's location, dealing moderate damage._  
 **NOTE:** This Mantra has been "**vaulted**"; as of June 23rd, 2025 and until further notice, **Lightning Strike only performs one singular strike.**
 
--   Deals 5/6/7/8/9 base damage per level, per hit (7 unmodified) with 2.75 Thundercall scaling. These damage values scale down the more duration modifiers you have on the Mantra.
+-   Deals 5/6/7/8/9 base damage per level, per hit (7 unmodified) with 3.75 Thundercall scaling. These damage values scale down the more duration modifiers you have on the Mantra.
 -   Deals 3.15 posture per hit.
 -   Has a 10 second cooldown.
 -   The first hit applies knockdown.
@@ -460,7 +460,7 @@ Lightning + Blunt
 
 **Effect:** _Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any targets hit._
 
--   Has a base damage of 25/28/31/34/37 per level with 2.75 Thundercall scaling.
+-   Has a base damage of 25/28/31/34/37 per level with 3.75 Thundercall scaling.
 -   Deals 10/15/20/25/GB posture damage per level.
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a windup of 0.65 seconds.
@@ -504,7 +504,7 @@ Lightning
 **Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._  
 **NOTE:** This Mantra has been "**vaulted**"; as of June 23rd, 2025 and until further notice, **Bolt Piercer's cooldown is 5 minutes.**
 
--   Has a base damage of 15/16/17/18/19 per level, per hit with 2.75 Thundercall scaling.
+-   Has a base damage of 15/16/17/18/19 per level, per hit with 3.75 Thundercall scaling.
 -   Deals 3 posture per hit.
 -   28 second cooldown.
 -   Currently bugged and only strikes once.
@@ -543,7 +543,7 @@ Lightning
 
 **Effect:** _Conjure and throw a spear of lightning towards where the character is facing._
 
--   Has a base damage of 10.2/18.7/27.2/35.7/44.2 per level with 2.75 Thundercall scaling.
+-   Has a base damage of 10.2/18.7/27.2/35.7/44.2 per level with 3.75 Thundercall scaling.
 -   Deals 10 posture damage.
 -   Has a cooldown of 15 seconds.
 -   Has 0.5 seconds of endlag.
@@ -583,7 +583,7 @@ Lightning
 
 **Effect:** _Conjure a ring of lightning blades, dealing light AoE damage._
 
--   Has a base damage of 20/22/24/26/28 per level with 2.75 Thundercall scaling.
+-   Has a base damage of 20/22/24/26/28 per level with 3.75 Thundercall scaling.
 -   Deals 0 posture damage.
 -   Has a cooldown of 12 seconds.
 -   Has a short delay before dealing damage.
@@ -624,8 +624,8 @@ Lightning
 
 **Effect:** _Conjure and slam a bolt of lightning into the ground from the user's right hand, causing volleys of lightning strikes to spread out._
 
--   The initial hit has a base damage of 20.25/22.95/25.65/28.35/31.05 per level with 2.75 Thundercall scaling.
--   The lightning strikes have a base damage of 15/17/19/21/23 per level, per hit with 2.75 Thundercall scaling.
+-   The initial hit has a base damage of 20.25/22.95/25.65/28.35/31.05 per level with 3.75 Thundercall scaling.
+-   The lightning strikes have a base damage of 15/17/19/21/23 per level, per hit with 3.75 Thundercall scaling.
 -   Deals 13.5 posture damage on the initial hit + 10 posture damage per lightning strike.
 -   30 second cooldown.
 -   Can be modified with _Cloudstones/Stratus Stones_ to increase the size of the hitbox.
@@ -663,7 +663,7 @@ Lightning
 
 **Effect:** _Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground._
 
--   Has a base damage of 10+25/11.8+29.5/13.6+34/15.4+38.5/17.2+43 per level with 2.75 Thundercall scaling.
+-   Has a base damage of 10+25/11.8+29.5/13.6+34/15.4+38.5/17.2+43 per level with 3.75 Thundercall scaling.
 -   Deals 5 posture damage.
 -   0.5s wind-up and completely safeguards user when landed.
 -   15 second cooldown.
@@ -735,7 +735,7 @@ Lightning + Slash
 
 **Effect:** _Caster sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting targets as they pass._
 
--   Has a base damage of 15/17.5/20/22.5/25 per level with 2.75 Thundercall scaling.
+-   Has a base damage of 15/17.5/20/22.5/25 per level with 3.75 Thundercall scaling.
 -   Deals 7 posture damage.
 -   10 second cooldown.
 -   Has an unusually inconsistent hitbox, sometimes not hitting those in its path.

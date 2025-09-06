@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 160540
+revid: 161109
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -6851,6 +6851,31 @@ Found from:
 N/A
 
  |
+| File:Pendant of Order.png | 
+
+[Pendant of Order](Pendant_of_Order.md)
+
+ | 
+
+_+3% Physical Armor_
+
++1 Rare Pip
+
++1 Legendary Pip
+
+**Requires Power 8**
+
+ | 
+
+Found from:
+
+-   Sold by the [Blacksmith](Blacksmith.md)
+
+ | 
+
+N/A
+
+ |
 |  | 
 
 [Red Eye Pendant](Red_Eye_Pendant.md)
@@ -8984,7 +9009,7 @@ Found from:
 
  | 
 
-Mantra damage increased by 10%, but reduces melee damage by 10%.
+Increases Mantra damage by 5%, but reduces melee damage by 5%.
 
   
 **Requires Power 10**

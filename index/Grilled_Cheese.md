@@ -1,9 +1,9 @@
 ---
 title: Grilled Cheese
-revid: 159335
+revid: 161024
 source: https://deepwoken.fandom.com/wiki/Grilled_Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Grilled Cheese

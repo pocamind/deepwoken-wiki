@@ -1,9 +1,9 @@
 ---
 title: Steel Maul
-revid: 161015
+revid: 161092
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons]
+categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
 ---
 
 # Steel Maul
@@ -19,6 +19,7 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | swing speed | 0.8x / 0.85x |
 | endlag | 0.1s |
 | penetration | 10% |
+| special effect | Bulwark Breaker - Increase the size of your Pressure Blast. The final hit of this Mantra deals increased posture damage. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |
@@ -41,7 +42,7 @@ The [Alloyed](Pluripotent_Alloy.md) variant of the Steel Maul boasts increased s
 
 ## Talent: Bluwark Breaker
 
-Talent effect is currently unknown
+Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
 
 ## Critical
 

@@ -1,9 +1,9 @@
 ---
 title: Heavy Steak
-revid: 160414
+revid: 161026
 source: https://deepwoken.fandom.com/wiki/Heavy_Steak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Heavy Steak

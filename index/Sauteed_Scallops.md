@@ -1,9 +1,9 @@
 ---
 title: Sauteed Scallops
-revid: 160614
+revid: 161049
 source: https://deepwoken.fandom.com/wiki/Sauteed_Scallops
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Sauteed Scallops

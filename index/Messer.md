@@ -1,9 +1,9 @@
 ---
 title: Messer
-revid: 161011
+revid: 161108
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
 ---
 
 # Messer
@@ -19,6 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Wea
 | swing speed | 0.93x |
 | penetration | 15% |
 | chip damage | 15% |
+| special effect | Finishing Slay - Consume all Chain of Perfection stacks on critical to increase your damage output. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |
@@ -41,7 +42,7 @@ The Messer can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requ
 
 ### Talent: Finishing Slay
 
-Talent effect is currently unknown
+Consumes all Chain of Perfection stacks on critical, increasing the damage of your critical attack immensely.
 
 ## Critical
 
@@ -55,5 +56,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
     -   Meeting the alloyed requirement, the damage is (28.1)
 -   At max MED, the non-alloyed damage is (27.5)
     -   At max MED, the alloyed damage is (30.5)
--   Generally recommended to use a [Mace](Mace.md) instead.
--   The word "Messer" is German for knife.

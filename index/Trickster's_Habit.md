@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 160996
+revid: 161117
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -41,7 +41,7 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 This Outfit has 2500 durability and grants +25% Physical resistance, +15% Blunt resistance, +35% Elemental resistance and +50% Ether Regen.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32% Blunt, 20% Slash, and 35% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt, 25% Slash, and 35% Elemental.
 
 This Outfit also grants the [Mocking Favor](Talents.md#equipment-talents) Talent, causing Aelita to appear when you taunt (spit) or emote. She'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.  
 It also grants the [Not A Scratch](Talents.md#human-architecture) talent, causing you to no longer show any signs of damage no matter how low your HP is. No cuts, no scratches, no torn clothing, rhythm ping always white, etc.

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 160344
+revid: 161065
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,7 +28,7 @@ Also located in [Temple of Hearts](../Temple_of_Hearts.md), being the first larg
 
 ### Effects
 
-For 10, average your stats (up to a limit\*), but gain a random base [Flaw](../Boons_and_Flaws.md#flaws). This can only be done once per character.
+For 10, average your stats (up to a limit\*). This can only be done once per character.
 
 **You need Power 8+ and no [Oath](../Oaths.md) EXCLUDING [Oathless](../Oath%253A_Oathless.md) to perform this deal.** If you took an Oath beforehand, you may break the Oath to order yourself. This has [consequences](../Oaths.md#oathbreaker---oath-removal) of its own, however.
 
@@ -43,11 +43,14 @@ For 10, average your stats (up to a limit\*), but gain a random base [Flaw](../B
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   If you no longer meet the requirements of your equipped weapon after using Shrine of Order, it will be unequipped and replaced with the [Sword](<../Sword_(weapon).md>). Equipped offhands you don't meet the requirements of will just be unequipped.
 -   If you no longer meet the requirements of your [Outfit](../Outfits.md) after using Shrine of Order, it will stay equipped and you will be able to unequip/reequip it at any time as Outfit stat requirements are only enforced when crafting them.
--   Does not progress towards [Contractor Oath](../Oath%253A_Contractor.md).
--   Shrine of Order cannot grant the Simple or Vegetarian [Flaws](../Boons_and_Flaws.md#flaws), any unlockable Flaw (Blind or Fugitive), or any special flaw (e.g. Tarnished or Disgraced).
+-   Does not progress towards the [Contractor Oath](../Oath%253A_Contractor.md) obtainment.
 -   If needed, there are a few ways to get around Shrine of Order's Power 8 requirement.
     1.  You can use [Shrine of Blasphemy](Shrine_of_Blasphemy.md) at Powers 5-7 to level up three times and Shrine of Order with the stats of a Power 5-7.
     2.  At Power 7, you can invest 3 points to reach Power 8 then use [Shrine of Mastery](Shrine_of_Mastery.md) to remove the points, allowing you to Shrine of Order with slightly below the stats of a normal Power 8. Admittedly this has very niche use cases.
+
+## Trivia
+
+-   The Shrine of Order used to grant a random base [Flaw](../Boons_and_Flaws.md), however this feature was removed on the September 5th, 2025 Update.
 
 ## Navigation
 

@@ -1,9 +1,9 @@
 ---
 title: Fish Stew
-revid: 160851
+revid: 161020
 source: https://deepwoken.fandom.com/wiki/Fish_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Fish Stew

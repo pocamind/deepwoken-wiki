@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 159256
+revid: 161064
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -40,7 +40,7 @@ Shrine of Order
 
 Shrine of Ostentation
 
-**Shrine of Order**: For 10, balance your stats (up to a limit of -25 points on main stats, with no limit on attunement stats,) but gain a random base [Flaw](Boons_and_Flaws.md#flaws). Can only be done once per character. You must need **POWER 8+ AND** **NO OATH** to use this.
+**Shrine of Order**: For 10, average your stats (up to a limit of -25 points on main stats, with no limit on attunement stats). Can only be done once per character. You must need **POWER 8+ AND** **NO OATH** to use this.
 
 **Shrine of Ostentation**: For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
 
@@ -68,13 +68,14 @@ Shrine of Solitude
     -   Ironically, in that game, Shrine of Order was more or less a joke, providing no utility whatsoever.
         -   It was theorized this was the intent behind Deepwoken's Shrine of Order, but due to it actually allowing for the creation of extremely powerful builds, the developers found themselves unable to roll back the change without creating huge backlash as well as resulting in builds that existed before any changes to the Shrine being far more powerful than any new ones after the changes.
 -   You can use any shrine besides Solitude to obtain Contractor, however, Shrine Of Order is currently bugged and does not count towards Contractor progression.
+-   Shrine of Order used to grant an additional random [Flaw](Boons_and_Flaws.md) on use. This was removed on September 6th, 2025 due to the recent changes of the time with Talents gaining reduced effects if you do not meet their requirements.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
 -   The Shrine of Solitude is unique in that it:
     -   Is present in a dungeon.
     -   Has no visible "eyes".
     -   Talks in lowercase, unlike all other shrines.
         -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
--   Before Shrine of Ostentation, the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur.md#ardour) or [Rhythm](Murmur.md#rhythm) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
+-   Before Shrine of Ostentation, the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur%253A_Ardour.md) or [Rhythm](Murmur%253A_Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.

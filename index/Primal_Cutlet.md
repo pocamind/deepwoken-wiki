@@ -1,9 +1,9 @@
 ---
 title: Primal Cutlet
-revid: 160401
+revid: 161042
 source: https://deepwoken.fandom.com/wiki/Primal_Cutlet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Primal Cutlet

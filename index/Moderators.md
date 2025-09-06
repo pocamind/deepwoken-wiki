@@ -1,6 +1,6 @@
 ---
 title: Moderators
-revid: 126990
+revid: 161067
 source: https://deepwoken.fandom.com/wiki/Moderators
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Staff, Moderators]
@@ -10,8 +10,9 @@ categories: [Staff, Moderators]
 
 Content moderators mostly focus on dealing with vandalized pages, malicious content and inappropriate imagery/text.
 
-Currently, there are three Content moderators:
+Currently, there are four Content moderators:
 
 -   Soldiering
 -   Twibppp
 -   Witherald
+-   Mirror89

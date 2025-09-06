@@ -1,9 +1,9 @@
 ---
 title: Worshipper Longsword
-revid: 161016
+revid: 161134
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
 ---
 
 # Worshipper Longsword
@@ -16,6 +16,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | scaling | MED: 4 |
 | range | 8 |
 | swing speed | 1.03x |
+| special effect | Belief - Your Medium Weapon Mantras gain a secondary damage instance that directly scales on your Willpower investment. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |
@@ -34,11 +35,9 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 
 The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow](Deep_Widow.md). Additionally, it can be purchased in Miner's Landing, in a room behind the craft station, on the right side of the water wheel.
 
-  
+### Talent: Belief
 
-## Talent: Belief
-
-Talent effect is currently unknown
+Your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) gain a secondary damage instance dealing 0.0752 \* your current Willpower investment. For example, your Medium Mantras will deal 3.76 more damage at 50 Willpower and 7.52 more damage at 100 Willpower.
 
 ## Critical
 
