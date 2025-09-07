@@ -1,6 +1,6 @@
 ---
 title: Pori
-revid: 157555
+revid: 161252
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea]
@@ -16,9 +16,9 @@ Pori is a young [Etrean](Etrean.md) NPC in the blacksmith shop in [Etris](Etris.
 
 ## Dialogue
 
-**Base Dialogue:**
-
 **First Encounter:**
+
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -42,25 +42,7 @@ Pori is a young [Etrean](Etrean.md) NPC in the blacksmith shop in [Etris](Etris.
 </tbody>
 </table>
 
-**Subsequent Encounters:**
-
-This dialogue appears only if the player has chosen **"Don't worry, I won't rat you out."**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td>
-</tr>
-<tr>
-  <td colspan="2">End</td>
-</tr>
-</tbody>
-</table>
-
-**Enemy Reputation and below:**
+**Enemy Reputation:**
 
 <table>
 <tbody>
@@ -69,6 +51,24 @@ This dialogue appears only if the player has chosen **"Don't worry, I won't rat 
 </tr>
 <tr>
   <td colspan="2">You're that wanted guy! Get away from me!</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+This dialogue only appears if the player has chosen the option **"Don't worry, I won't rat you out."**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td>
 </tr>
 <tr>
   <td colspan="2">End</td>

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 161111
+revid: 161258
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -431,6 +431,40 @@ Shadow
 -   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 0.6s windup,
 -   With 6 songchant 95.84 (11.98\*8) DMG
 -   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
+
+ |
+| 
+
+**Umbral Slash** (★★☆)
+
+_A swift slash channelled with foul energy._
+
+ | 
+
+## Umbral Slash (★★☆)
+
+  
+_A swift slash channelled with foul energy._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+30 Shadowcast
+
+ |
+| 
+
+**Effect:** _The user performs a diagonal shadow-infused slash._
+
+-   Deals ?? DMG, ?? posture, ?? windup, 15s cooldown.
 
  |
 | 

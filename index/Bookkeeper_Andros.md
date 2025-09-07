@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 157566
+revid: 161251
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -28,6 +28,8 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 
 **First Encounter:**
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -54,7 +56,52 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 </tbody>
 </table>
 
+**Enemy Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Huh? I'm sorry... I don't have anything for you. Please, I could get into a lot of trouble for speaking to you.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 **Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the <a href="Glossary.md#the-old-world">old world</a>. Don't you wonder what things were like back then?</td>
+</tr>
+<tr>
+  <td>Is there anything you can tell me about Etris?</td>
+  <td>Is there anything you can tell me about the Old World?</td>
+</tr>
+<tr>
+  <td>If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td>
+  <td>There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the Old Stewards, the keepers of the knowledge of the <a href="Glossary.md#the-old-world">Old World</a>. Perhaps if you were able to find one of these Old Stewards they might be able to answer any burning questions of yours.</td>
+</tr>
+<tr>
+  <td>Who is this Lord Regent exactly?</td>
+  <td>End</td>
+</tr>
+<tr>
+  <td>The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>
+</tr>
+<tr>
+  <td>End<p>}}</p></td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogues:**
 
@@ -171,37 +218,6 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 </tr>
 <tr>
   <td colspan="3">End</td>
-</tr>
-</tbody>
-</table>
-
-**Base Dialogue:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin</td>
-</tr>
-<tr>
-  <td colspan="2">These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the <a href="Glossary.md#the-old-world">old world</a>. Don't you wonder what things were like back then?</td>
-</tr>
-<tr>
-  <td>Is there anything you can tell me about Etris?</td>
-  <td>Is there anything you can tell me about the Old World?</td>
-</tr>
-<tr>
-  <td>If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td>
-  <td>There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the Old Stewards, the keepers of the knowledge of the <a href="Glossary.md#the-old-world">Old World</a>. Perhaps if you were able to find one of these Old Stewards they might be able to answer any burning questions of yours.</td>
-</tr>
-<tr>
-  <td>Who is this Lord Regent exactly?</td>
-  <td>End</td>
-</tr>
-<tr>
-  <td>The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>
-</tr>
-<tr>
-  <td>End</td>
 </tr>
 </tbody>
 </table>
