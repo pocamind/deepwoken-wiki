@@ -1,6 +1,6 @@
 ---
 title: Mushroom Soup
-revid: 161031
+revid: 161312
 source: https://deepwoken.fandom.com/wiki/Mushroom_Soup
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Mushroom Soup | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Plant / Stew |
 | stomach | 15% |

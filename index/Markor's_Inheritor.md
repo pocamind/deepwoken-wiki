@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 159421
+revid: 161287
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -46,7 +46,6 @@ Stats wise, these criticals are the same as their base fist variants, however th
 
 -   Markor's Inheritor can use the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) [Fang and Coil](Fang_and_Coil.md) critical, which is uncommon even amongst fist weapons.
 -   Markor's Inheritor is the only Heavy weapon that has an aerial kick as an aerial attack. Heavies used to have fist-style aerial attacks, until a unique heavy aerial was added.
--   Might be based of Igris's weapon from the anime and Manhwa Solo Leveling.
 -   Meeting the non-alloyed requirement of HVY, the damage is (27.8)
     -   Meeting the alloyed requirement, the damage is (34.8)
 -   At max HVY, the non-alloyed damage is (36.6)

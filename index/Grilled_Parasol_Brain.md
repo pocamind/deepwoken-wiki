@@ -1,6 +1,6 @@
 ---
 title: Grilled Parasol Brain
-revid: 161025
+revid: 161305
 source: https://deepwoken.fandom.com/wiki/Grilled_Parasol_Brain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Grilled Parasol Brain | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 80% |

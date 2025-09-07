@@ -1,6 +1,6 @@
 ---
 title: Sticky Bun
-revid: 161201
+revid: 161318
 source: https://deepwoken.fandom.com/wiki/Sticky_Bun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Sticky Bun | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 25% |

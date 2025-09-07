@@ -1,6 +1,6 @@
 ---
 title: Primal Cutlet
-revid: 161042
+revid: 161315
 source: https://deepwoken.fandom.com/wiki/Primal_Cutlet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Primal Cutlet | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 50% |

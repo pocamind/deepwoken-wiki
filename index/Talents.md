@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161274
+revid: 161387
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -959,15 +959,15 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Darksiphon
 
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] - Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
-    -   Prerequisite: Shadow Chains, 10 Fortitude
+    -   Prerequisite: [Shadow Chains](Shadowcast.md#shadow-chains) (Mantra), 10 Fortitude
 
 -   Dark God \[Common Talent, Shadowcast Exclusive\] - If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
     -   Prerequisite: 20 Shadowcast
 
--   Dark Replenishment \[Shadowcast Exclusive\] - Knocking out an enemy in combat restores a portion of your ether.
+-   Dark Replenishment \[Common Talent, Shadowcast Exclusive\] - Knocking out an enemy in combat restores a portion of your ether.
     -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
 
--   Dark Synergy \[Shadowcast Exclusive\] - Engulf your enemy in shadows when flourishing them.
+-   Dark Synergy \[Common Talent, Shadowcast Exclusive\] - Engulf your enemy in shadows when flourishing them.
     -   Prerequisites: 45 Shadowcast, Dark God
     -   Deals 5 damage on proc. (only on flourish.)
     -   Does not proc any shadow Talents except Shadow Overflow.
@@ -976,7 +976,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Dark Waltz \[Common Talent, Shadowcast Exclusive\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.
     -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
--   Dark Hours \[Shadowcast Exclusive\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+-   Dark Hours \[Common Talent, Shadowcast Exclusive\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
     -   Night cycle is XX:50 to XX:10.
     -   Always active in the depths.
     -   Prerequisite: 35 Shadowcast
@@ -988,15 +988,15 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
     -   Prerequisites: 60 Shadowcast, Dark Hours
 
--   Night Terror \[Shadowcast Exclusive\] - Your light attacks now proc Fear the Dark.
+-   Night Terror \[Common Talent, Shadowcast Exclusive\] - Your light attacks now proc Fear the Dark.
     -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy), Fear the Dark
 
--   Overwhelming Drain \[Shadowcast Exclusive\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
+-   Overwhelming Drain \[Common Talent, Shadowcast Exclusive\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
     -   Prerequisite: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)
 
--   Shadow Overflow \[Shadowcast Exclusive\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
-    -   Has a 4s cooldown.
-    -   Deal 5 damage around you in a small aoe from the target you hit.
+-   Shadow Overflow \[Common Talent, Shadowcast Exclusive\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+    -   Has a 4 second cooldown.
+    -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.
     -   Prerequisites: 55 Shadowcast, Dark God
 
 ### Dawnwalker
@@ -1492,21 +1492,21 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   The projectile M1s from this Talent can proc True Ether Bullets.
     -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
 
--   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
-    -   Prerequisites: 30 Intelligence and 20 Light Weapon/Medium Weapon, Using a Pistol/Rifle
+-   _True Ether Bullets_ \[Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
+    -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT OR 20 MED OR 20 HVY), Using a Pistol/Rifle/Greatcannon
         -   Landing 2 shots will make the 3rd shot deal elemental damage.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
                 -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
                 -   Thundercall: Your bullets apply shock/surge stack (Surge)
                 -   Galebreathe: Your bullets after cut and apply winded briefly
-                -   Shadowcast: Your bullets steal ether/apply burn (Twisted Puppets)
+                -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
                 -   Ironsing: Your bullets apply metal rods
                 -   Bloodrend: Your bullets drain blood
             -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
         -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
-        -   This Talent CAN be obtained with 20 medium and a pistol equipped.
+        -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
 
 -   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
@@ -3879,13 +3879,20 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
 
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
+    -   The final hit of your Pressure Blast gains 8 posture damage, going from 12 to 20 posture damage.
+        -   Assuming all hits hit your opponent's block, your Pressure Blast now does 44 posture damage compared to the previous 36.
+    -   Grants a **very** large increase to the AoE of your Pressure Blast.
 
 -   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.
-    -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md), gain a damage modifier to your critical attacks.
+    -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md) critical, gain a damage modifier to your critical attacks.
 
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 30% more chip.
 
 -   Expeditious Combo: [Iron Birch](Iron_Birch.md) - Landing an uppercut will grant a buff to your [Onslaught](Attunement-less.md#onslaught) for 15 seconds, using Onslaught during this time will massively increase the speed of it.
+    -   Grants the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect on uppercut. This status effect will be consumed if you cast Onslaught, massively increasing the speed of this attack.
+    -   Has a sound effect on proc. The duration of your Expeditious Combo is displayed on the bottom left of the screen on the cooldown indicator.
+    -   This effect has no cooldown, but as the Expeditious Combo status effect is consumed on proc, you will need to land another uppercut to proc it again.
+    -   "Uppercut" or "uptilt" Mantras do not grant the Expeditious Combo status effect; you need to land a basic attack uppercut to proc this.
 
 -   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.

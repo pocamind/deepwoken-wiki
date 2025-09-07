@@ -1,6 +1,6 @@
 ---
 title: Fish Stew
-revid: 161020
+revid: 161300
 source: https://deepwoken.fandom.com/wiki/Fish_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Fish Stew | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 18% |

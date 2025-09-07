@@ -1,6 +1,6 @@
 ---
 title: Cooked Egg
-revid: 160743
+revid: 161293
 source: https://deepwoken.fandom.com/wiki/Cooked_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Cooked Egg | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 20% |

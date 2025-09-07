@@ -1,6 +1,6 @@
 ---
 title: Fruit Salad
-revid: 161021
+revid: 161302
 source: https://deepwoken.fandom.com/wiki/Fruit_Salad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Fruit Salad | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Plant |
 | stomach | 20% |

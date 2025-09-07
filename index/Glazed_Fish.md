@@ -1,6 +1,6 @@
 ---
 title: Glazed Fish
-revid: 161023
+revid: 161331
 source: https://deepwoken.fandom.com/wiki/Glazed_Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Glazed Fish | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 30% |
@@ -40,4 +40,4 @@ Additionally, it grants the Power buff, affecting 10% of the Stomach bar. The bu
 
 ### Recipe
 
--   1 [Fish Meat](Fishing.md) and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Fish Meat](Fish_Meat.md) and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).

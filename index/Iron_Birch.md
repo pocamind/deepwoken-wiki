@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 161097
+revid: 161383
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -37,7 +37,9 @@ The Iron Birch is a [Heavy](Weapons.md) axe. This weapon is considered one of th
 
 ### Talent: Expeditious Combo
 
-After landing an Uppercut, for the next 15 seconds, your [Onslaught](Attunement-less.md#onslaught) will have reduced windup.
+After landing an Uppercut, gain the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect for the next 15 seconds. Casting [Onslaught](Attunement-less.md#onslaught) during the duration of this effect will consume your Expeditious Combo status, massively increasing the speed of your Onslaught in return.
+
+This effect has no cooldown. "Uppercut" or "uptilt" Mantras do not proc this effect; you need to land a basic attack uppercut to gain the Expeditious Combo Status Effect.
 
 ## Critical
 

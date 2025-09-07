@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 161115
+revid: 161370
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -381,6 +381,10 @@ After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.
 ### Vital Wound
 
 Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be massively reduced for the next 10 seconds.
+
+### Expeditious Combo
+
+While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant the Expeditious Combo status effect for 15 seconds. If you cast [Onslaught](Attunement-less.md#onslaught) during the duration of this effect, the speed of your attack will be massively increased, and your Expeditious Combo status effect will be consumed. This effect has no visual indicator, instead having a unique sound effect on uppercut. The duration of this effect can be viewed on your cooldown indicator.
 
 ### Bloodletting
 

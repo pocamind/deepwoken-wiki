@@ -1,6 +1,6 @@
 ---
 title: Cake
-revid: 160739
+revid: 161292
 source: https://deepwoken.fandom.com/wiki/Cake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Cake | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 30% |

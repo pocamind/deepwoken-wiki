@@ -1,6 +1,6 @@
 ---
 title: Crustacean Meat
-revid: 147186
+revid: 161353
 source: https://deepwoken.fandom.com/wiki/Crustacean_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Drops, Items, Alchemy]
@@ -20,14 +20,15 @@ categories: [Ingredients, Drops, Items, Alchemy]
 
 ## Description
 
-**Crustacean Meat** is a common drop from [Crustaceous Rex](Crustaceous_Rex.md) and [Crabs](Crab.md), they can be found in [The Depths](The_Depths.md) & [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It can be used to make Various [Foods](Food.md).
+**Crustacean Meat** is a common drop from [Crustaceous Rex](Crustaceous_Rex.md) and [Crabs](Crab.md). These are found in [The Depths](The_Depths.md) & [The Diluvian Mechanism](The_Diluvian_Mechanism.md), respectively. It can be used to make various [Foods](Food.md).
 
 ## Recipes
 
--   Seafood Boil - 1 Squid, 1 Fish Meat, 1 Crustacean Meat
--   Seafood Surprise - 1 Squid, 1 Fish Meat, 1 Urchin/Crustacean Meat
--   Mushroom Bisque - 1 Of any Mushroom, 1 Crustacean Meat
--   Crab Pizza - 1 Crustacean Meat, 1 Bread, 1 Cheese
--   Crab Stuffed Browncaps - 3 Browncaps, 1 Cheese, 2 Crustacean Meat
+-   [Seafood Boil](Seafood_Boil.md) - 1 [Squid](Squid.md), 1 [Fish Meat](Fish_Meat.md), 1 **Crustacean Meat**
+-   [Seafood Surprise](Seafood_Surprise.md) - 1 [Squid](Squid.md), 1 [Fish Meat](Fish_Meat.md), 1 [Urchin](Urchin.md) or **Crustacean Meat**
+-   [Mushroom Bisque](Mushroom_Bisque.md) - 1 of any [Mushroom](Ingredients.md#mushrooms), 1 **Crustacean Meat**
+-   [Crab Pizza](Crab_Pizza.md) - 1 **Crustacean Meat**, 1 [Bread](Bread.md), 1 [Cheese](Cheese.md)
+-   [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) - 3 [Browncaps](Browncap.md), 1 [Cheese](Cheese.md), 2 **Crustacean Meat**
+-   [Chum](Chum.md) - 2 **Crustacean Meat**
 
 For more information, you can read [Food](Food.md).

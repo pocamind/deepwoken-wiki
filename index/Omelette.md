@@ -1,6 +1,6 @@
 ---
 title: Omelette
-revid: 161038
+revid: 161313
 source: https://deepwoken.fandom.com/wiki/Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Omelette | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 25% |

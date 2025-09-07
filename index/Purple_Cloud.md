@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 157162
+revid: 161368
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Weapons wi
 | penetration | 15% |
 | m.equip | No |
 | m.extract | No |
-| stances | 2 Handed, 1 Handed |
+| stances | 1 Handed |
 | selling price | 100 |
 | weight | 5 |
 | bankable | Yes |

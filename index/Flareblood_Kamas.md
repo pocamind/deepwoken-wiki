@@ -1,9 +1,11 @@
 ---
 title: Flareblood Kamas
-revid: 161140
+revid: 161376
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
+notices:
+  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily.Reason: As of the September 5-6th, 2025 update, the Flareblood Kamas has been set to a placeholder, and any currently equipped Kamas is converted into a \"Sword\" that prevents mantra or weapon use until switched with another weapon. This will also void the Flareblood Kamas."
 ---
 
 # Flareblood Kamas
@@ -20,7 +22,7 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | special effect | On hit, take away small amounts of blood from your opponent. |
 | m.equip | No |
 | m.extract | No |
-| stances | 1 Handed |
+| stances | 1 Handed (Dual wield) |
 | selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
@@ -44,7 +46,6 @@ The critical has a cooldown of 8 seconds.
 
 ## Trivia
 
--   As of the September 5-6th, 2025 update, the Flareblood Kamas has been set to a placeholder, and any currently equipped Kamas is converted into a "Sword" that prevents mantra or weapon use until switched with another weapon. This also voids the Flareblood Kamas.
 -   The model and idea is derived from the [Dual Kamas](https://wiki.warframe.com/w/Dual_Kamas) from [Warframe](https://en.wikipedia.org/wiki/Warframe).
 -   The weapon itself, "[Kama](<https://en.wikipedia.org/wiki/Kama_(tool)>)" is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.
 -   The "Finishing Touch" Talent does work when using Flareblood Kamas.

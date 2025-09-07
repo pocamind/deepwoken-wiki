@@ -1,6 +1,6 @@
 ---
 title: Sushi
-revid: 161203
+revid: 161319
 source: https://deepwoken.fandom.com/wiki/Sushi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Sushi | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat / Fish / Raw |
 | stomach | 30% |

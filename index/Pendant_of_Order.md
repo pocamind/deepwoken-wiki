@@ -1,9 +1,11 @@
 ---
 title: Pendant of Order
-revid: 161167
+revid: 161308
 source: https://deepwoken.fandom.com/wiki/Pendant_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Necklaces]
+categories: [Event Only Content, Items, Equipment, Torso, Necklaces]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # Pendant of Order

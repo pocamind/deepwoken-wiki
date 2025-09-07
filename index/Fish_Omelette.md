@@ -1,6 +1,6 @@
 ---
 title: Fish Omelette
-revid: 161019
+revid: 161299
 source: https://deepwoken.fandom.com/wiki/Fish_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Fish Omelette | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 35% |

@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 151220
+revid: 161347
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -33,6 +33,26 @@ When entering [The Hidden Village](The_Hidden_Village.md), go to the right side 
 Make sure to say hello, and give some company to such a [Stonespark](Stonespark.md). What a great guy, **right**?
 
 ## Dialouge
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Sup.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has defeated [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) at least once on their character.
 
 <table>
 <tbody>

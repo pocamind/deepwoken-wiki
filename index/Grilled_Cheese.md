@@ -1,6 +1,6 @@
 ---
 title: Grilled Cheese
-revid: 161024
+revid: 161304
 source: https://deepwoken.fandom.com/wiki/Grilled_Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Grilled Cheese | |
 |---|---|
 | weight | None |
-| stack | x?? |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 30% |

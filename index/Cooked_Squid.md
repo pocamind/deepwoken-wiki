@@ -1,6 +1,6 @@
 ---
 title: Cooked Squid
-revid: 160745
+revid: 161295
 source: https://deepwoken.fandom.com/wiki/Cooked_Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Cooked Squid | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat / Fish |
 | stomach | 15% |

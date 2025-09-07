@@ -1,6 +1,6 @@
 ---
 title: Seafood Boil
-revid: 161072
+revid: 161339
 source: https://deepwoken.fandom.com/wiki/Seafood_Boil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Seafood Boil | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 30% |
@@ -26,7 +26,7 @@ categories: [Items, Food]
 
 ## Description
 
-**Seafood Boil** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2 and [Travelling Merchant](Travelling_Merchant.md), both selling it at random.
+**Seafood Boil** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2 and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

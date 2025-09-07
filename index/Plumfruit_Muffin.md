@@ -1,6 +1,6 @@
 ---
 title: Plumfruit Muffin
-revid: 161041
+revid: 161314
 source: https://deepwoken.fandom.com/wiki/Plumfruit_Muffin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Plumfruit Muffin | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 18% |

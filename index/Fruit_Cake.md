@@ -1,6 +1,6 @@
 ---
 title: Fruit Cake
-revid: 161022
+revid: 161301
 source: https://deepwoken.fandom.com/wiki/Fruit_Cake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Fruit Cake | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 25% |

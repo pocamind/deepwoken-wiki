@@ -1,6 +1,6 @@
 ---
 title: Urchin Stew
-revid: 161204
+revid: 161320
 source: https://deepwoken.fandom.com/wiki/Urchin_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Urchin Stew | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 20% |

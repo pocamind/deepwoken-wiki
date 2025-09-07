@@ -1,6 +1,6 @@
 ---
 title: Calamari
-revid: 160740
+revid: 161321
 source: https://deepwoken.fandom.com/wiki/Calamari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Calamari | |
 |---|---|
 | weight | 1 |
-| stack | x?? |
+| stack | x10 |
 | type | Food |
 | food type | Meat / Fish |
 | stomach | 25% |

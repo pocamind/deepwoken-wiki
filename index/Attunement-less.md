@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 161276
+revid: 161359
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1893,7 +1893,8 @@ Slash
 -   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
 -   Ragdolls and lightly flings opponents away.
--   Has Autoparry frames
+-   Has Autoparry frames.
+-   Wielding the [Steel Maul](Steel_Maul.md) will increase the AoE of this Mantra greatly. Additionally, the final hit of Pressure Blast will deal 20 posture damage with this weapon.
 
  |
 | 

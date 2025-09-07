@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 161092
+revid: 161357
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | swing speed | 0.8x / 0.85x |
 | endlag | 0.1s |
 | penetration | 10% |
-| special effect | Bulwark Breaker - Increase the size of your Pressure Blast. The final hit of this Mantra deals increased posture damage. |
+| special effect | Bulwark Breaker - Increase the AoE of your Pressure Blast. The final hit of this Mantra deals 8 more posture damage. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |
@@ -40,9 +40,11 @@ The Steel Maul is a standard Heavy Greathammer that acts as the entry point to t
 
 The [Alloyed](Pluripotent_Alloy.md) variant of the Steel Maul boasts increased stats and a higher requirement, allowing for lategame viability. The alloyed version of the Steel Maul also has a demascus steel-type texture to indicate its change.
 
-## Talent: Bluwark Breaker
+### Talent: Bluwark Breaker
 
-Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
+Your [Pressure Blast](Attunement-less.md#pressure-blast) gains a very noticeable AoE increase. The final hit of your Pressure Blast now deals 8 more posture damage, going from 12 to 20.
+
+Assuming all of your Pressure Blast hits hit your opponent's block, they will take 44 total posture damage, compared to the original 36.
 
 ## Critical
 

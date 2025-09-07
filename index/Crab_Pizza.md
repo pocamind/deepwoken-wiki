@@ -1,6 +1,6 @@
 ---
 title: Crab Pizza
-revid: 160746
+revid: 161296
 source: https://deepwoken.fandom.com/wiki/Crab_Pizza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -11,7 +11,7 @@ categories: [Food]
 | Crab Pizza | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 40% |

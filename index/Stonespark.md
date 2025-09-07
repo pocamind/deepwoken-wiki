@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 154957
+revid: 161342
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Stonesparks are a mob that can be found deployed in [Lower Erisia](Lower_Erisia.md) and guarding the [Pathfinder's Respite](<Pathfinder's_Respite.md>). They're a light infantry version of the [Rock Golem](Rock_Golem.md) created by [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) to step up his security. They appear to be deactivated, but once a player enters its detection range, it will activate and begin attacking and even parrying it's current target until it loses sight.
+Stonesparks are a mob that can be found deployed throughout [Erisia](Erisia.md), most guarding the [Pathfinder's Respite](<Pathfinder's_Respite.md>). They're a light infantry version of the [Rock Golem](Rock_Golem.md) created by [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) to step up his security. They appear to be deactivated, but once a player enters its detection range, it will activate and begin attacking and even parrying it's current target until it loses sight.
 
 ## Attacks
 

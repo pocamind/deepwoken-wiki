@@ -1,6 +1,6 @@
 ---
 title: Kyrsdog
-revid: 161027
+revid: 161307
 source: https://deepwoken.fandom.com/wiki/Kyrsdog
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Kyrsdog | |
 |---|---|
 | weight | None |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat |
 | stomach | 50% |

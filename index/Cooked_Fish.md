@@ -1,6 +1,6 @@
 ---
 title: Cooked Fish
-revid: 160744
+revid: 161333
 source: https://deepwoken.fandom.com/wiki/Cooked_Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Cooked Fish | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Meat / Fish |
 | stomach | 15% |
@@ -24,7 +24,7 @@ categories: [Items, Food]
 
 ## Description
 
-**Cooked Fish** is a craftable [Food](Food.md) item. It is the result of cooking [Fish Meat](Fishing.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md). It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2 and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random.
+**Cooked Fish** is a craftable [Food](Food.md) item. It is the result of cooking [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md). It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2 and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
@@ -36,4 +36,4 @@ When consumed, it replenishes 15% Stomach and 5% Water.
 
 ### Recipe
 
--   1 [Fish Meat](Fishing.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md).

@@ -1,9 +1,9 @@
 ---
 title: Guns
-revid: 157406
+revid: 161372
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, "Dual-wielded Weapons"]
+categories: [Pages with broken file links, Weapons]
 ---
 
 # Guns
@@ -213,7 +213,7 @@ The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Pea
 
 ## Trivia
 
--   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
+-   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 [Iron](Ores.md#iron) for 20 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md). (two rifles and one Pistol)
