@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 159636
+revid: 161232
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, Craftable, Medium Weapons, Relics]
@@ -29,13 +29,13 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique
 | obtainment | Dormant Splinter, Razor Cutlass, 3 Umbrite in The Cold Forge |
 | description | Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone. |
 
-_This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftable, view the [Fondant Splitter](Fondant_Splitter.md)._
+_This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftables, view the [Fondant Splitter](Fondant_Splitter.md) or [Sanguine Transfuser](Sanguine_Transfuser.md)._
 
-The Umbrite Witherblade is a weapon in _Deepwoken_.
+  
 
 ## Description
 
-The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within the [Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
+The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within [The Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
 It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **10.3** Wither (65MED) to **15.5** Wither (100 MED, 6 PROF, 3\* DMG).
 
@@ -43,7 +43,7 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 -   [Dormant Splinter](Dormant_Splinter.md)
 -   [Razor Cutlass](Razor_Cutlass.md)
--   3 [Umbrite](Ores.md)
+-   3 [Umbrite](Ores.md#umbrite)
 
 Wielding this weapon with the [Darkened Bastion](Darkened_Bastion.md) Outfit equipped will apply an additional 25% of your weapon's scaled damage as Wither on M1s. Most other weapons have halved effectiveness with this Outfit, only applying 12.5% of their scaled damage as Wither. This stacks additively with the innate Wither application.
 

@@ -1,6 +1,6 @@
 ---
 title: Pendant of Order
-revid: 161132
+revid: 161167
 source: https://deepwoken.fandom.com/wiki/Pendant_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -15,7 +15,7 @@ categories: [Items, Equipment, Torso, Necklaces]
 | selling price | None |
 | requirements | PWR 8 |
 | weight | 0.5 |
-| innate stats | +3% Physical Armor , +2 Rare Pips |
+| innate stats | +3% Physical Armor , +1 Rare Pip , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,8 +28,9 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 The Pendant of Order is an [Equipment](Equipment.md) item under the "Torso" category. You can obtain this item by speaking to [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) on any build that has used it before the September 6th, 2025 update. After obtaining it once on any slot you can purchase it from a [Blacksmith](Blacksmith.md) for 1.
 
-On equip, this grants 3% physical armor and +2 Rare Pips, sharing stats with the [Confessor's Charm](<Confessor's_Charm.md>).
+On equip, this grants 3% Physical Armor, +1 Rare Pip, and +1 Legendary Pip.
 
 ## Trivia
 
 -   Unlike the [Party Hat](Party_Hat.md), the pendant cannot be dropped.
+-   The description is possibly a reference to a shirt sent by the dutch government saying “I hacked the Dutch government and all I got was this lousy t-shirt”.

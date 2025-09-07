@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 161127
+revid: 161228
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -119,7 +119,7 @@ Ice
 
 **Effect:** _Conjure a ring of 6-8 frozen servants, emitting two blasts of frosty mist towards the center._
 
--   Base damage of 6/8/10/12/14 per level, per hit with 3.75 Frostdraw scaling, hitting 2 times. (4 Hits with Blast Spark)
+-   Base damage of 6/8/10/12/14 per level, per hit with 2.75 Frostdraw scaling, hitting 2 times. (4 Hits with Blast Spark)
 -   Able to be Block, Parry, and Dodged.
 -   Deals 5 posture damage per hit. (Total of 10 posture, 20 with Blast Spark)
 -   Has a cooldown of 18 seconds, and a windup of 0.7 seconds. (Windup can be modified)
@@ -175,7 +175,7 @@ Ice
 
 **Effect:** _Fire a penetrating beam of ice._
 
--   Has a base damage of 7/7.3/7.6/7.9/8.2 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 7/7.3/7.6/7.9/8.2 per level with 2.75 Frostdraw scaling.
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
@@ -217,7 +217,7 @@ Ice
 
 **Effect:** _Conjure a spike of ice from the ground at the cursor's location._
 
--   Has a base damage of 25 regardless of level with 3.75 Frostdraw scaling.
+-   Has a base damage of 25 regardless of level with 2.75 Frostdraw scaling.
 -   Deals 10 posture damage.
 -   Has a cooldown of 15 seconds.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
@@ -260,8 +260,8 @@ Ice
 
 **Effect:** _Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance._
 
--   The spinning swords have a base damage of 2/2.25/2.5/3.75/3 base damage per level, per hit (18) with 3.75 Frostdraw scaling.
--   When Warden's Blades ends, the swords will be shot out, dealing 15/16/17/18/19 damage per level with 3.75 Frostdraw scaling.
+-   The spinning swords have a base damage of 2/2.25/2.5/2.75/3 base damage per level, per hit (18) with 2.75 Frostdraw scaling.
+-   When Warden's Blades ends, the swords will be shot out, dealing 15/16/17/18/19 damage per level with 2.75 Frostdraw scaling.
 -   1 posture damage per hit (19).
 -   Has a cooldown of 11 seconds.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
@@ -302,10 +302,10 @@ Ice
 **Effect:** _Conjure 2 sabers of ice while performing a rapid flurry of slashes forward._
 
 -   Hits four times.
-    -   The first hit has a base damage of 8.25/10.75/13.25/15.75/18.25 per level with 3.75 Frostdraw scaling.
-    -   The second and third hits have a base damage of 6.6/8.6/10.6/12.6/14.6 per level, per hit (2) with 3.75 Frostdraw scaling.
-    -   The final hit has a base damage of 7.26/9.46/11.66/13.86/16.06 per level with 3.75 Frostdraw scaling.
--   The Glacial Mobility variant of this Mantra hits once and has a base damage of 26/28/30/32/34 per level with 3.75 Frostdraw scaling.
+    -   The first hit has a base damage of 8.25/10.75/13.25/15.75/18.25 per level with 2.75 Frostdraw scaling.
+    -   The second and third hits have a base damage of 6.6/8.6/10.6/12.6/14.6 per level, per hit (2) with 2.75 Frostdraw scaling.
+    -   The final hit has a base damage of 7.26/9.46/11.66/13.86/16.06 per level with 2.75 Frostdraw scaling.
+-   The Glacial Mobility variant of this Mantra hits once and has a base damage of 26/28/30/32/34 per level with 2.75 Frostdraw scaling.
 -   Deals 6 posture damage on the first hit. The other hits (3) deal 3 posture damage each.
 -   The Glacial Mobility variant of this Mantra deals 8 posture damage.
 -   Has a 10 second cooldown.
@@ -348,7 +348,7 @@ Ice
 
 **Effect:** _Conjure 3-4 chains of ice that lock-on and stun the target for a brief period of time._
 
--   Has a base damage of 20/22.5/25/27.5/30 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 20/22.5/25/27.5/30 per level with 2.75 Frostdraw scaling.
 -   Deals 3 posture damage.
 -   Has a cooldown of 9.5 seconds.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
@@ -389,7 +389,7 @@ Ice
 
 **Effect:** _Form 3 daggers of ice before throwing them towards the nearest target._
 
--   Has a base damage of 5/6/7/8/9 per level, per hit (3) with 3.75 Frostdraw scaling.
+-   Has a base damage of 5/6/7/8/9 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 1 posture damage per dagger (3).
 -   Has a 13 second cooldown (4 seconds if whiffed entirely or used when not aimed at an opponent).
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
@@ -432,7 +432,7 @@ Ice
 
 **Effect:** _Perform a stomp with your right leg, forming 3 ascending waves of ice formations that encase the target in ice._
 
--   Has a base damage of 25 regardless of level with 3.75 Frostdraw scaling.
+-   Has a base damage of 25 regardless of level with 2.75 Frostdraw scaling.
 -   Has a cooldown of 30 seconds.
 -   Unparryable and unblockable.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
@@ -474,8 +474,8 @@ Ice
 
 **Effect:** _Form a barrage of ice shurikens before propelling them at the cursor's location._
 
--   Has a base damage of 3/3.4/3.8/4.2/4.6 per level, per hit with 3.75 Frostdraw scaling.
--   The [Blast Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 1.5/1.9/2.3/2.7/3.1 per level, per hit with 3.75 Frostdraw scaling. Additionally, you throw out an exploding shuriken that has 3 base damage regardless of level.
+-   Has a base damage of 3/3.4/3.8/4.2/4.6 per level, per hit with 2.75 Frostdraw scaling.
+-   The [Blast Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 1.5/1.9/2.3/2.7/3.1 per level, per hit with 2.75 Frostdraw scaling. Additionally, you throw out an exploding shuriken that has 3 base damage regardless of level.
 -   Mantra levels also increase the projectile count. Ice Forge fires 6/7/8/9/10 shuriken per level (+1 if Blast Spark).
 -   Deals 1.4 posture damage per projectile.
 -   The Blast Spark variant deals 3 posture damage per shuriken explosion, massively increasing the overall posture damage.
@@ -518,8 +518,8 @@ Ice
 
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
--   Has a base damage of 35/38/41/44/47 per level with 3.75 Frostdraw scaling.
--   The Glacial Finish (F) variant has a base damage of 28/30.4/32.8/35.2/37.6 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 35/38/41/44/47 per level with 2.75 Frostdraw scaling.
+-   The Glacial Finish (F) variant has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
 -   Deals 10/14/16/18/guard break posture damage per level. The Glacial Finish variant deals 10 posture damage per level.
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
 -   Has a 10 second cooldown.
@@ -561,9 +561,9 @@ Ice
 
 **Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
--   Has a base damage of 5/5.5/6/6.5/7 per level, per hit (9) with 3.75 Frostdraw scaling.
--   The [Spring Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 3.75 Frostdraw scaling.
--   The [Round Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 3.75 Frostdraw scaling.
+-   Has a base damage of 5/5.5/6/6.5/7 per level, per hit (9) with 2.75 Frostdraw scaling.
+-   The [Spring Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
+-   The [Round Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
 -   Deals 1 posture damage per hit (9 when sparkless). The Round Spark variant deals 2 posture damage per hit (10, hitting block counts as 2).
 -   10 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
@@ -606,7 +606,7 @@ Ice
 
 **Effect:** _Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy._
 
--   Has a base damage of 6/7.8/9.6/11.4/13.2 per level, per hit (8) with 3.75 Frostdraw scaling.
+-   Has a base damage of 6/7.8/9.6/11.4/13.2 per level, per hit (8) with 2.75 Frostdraw scaling.
 -   Deals 7 posture damage per hit (8).
 -   Has a cooldown of 12 seconds.
 -   Has 8.6x PvE scaling (multiply scaled damage dealt by 8.6 for PvE damage).
@@ -645,7 +645,7 @@ Ice
 
 **Effect:** _Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact._
 
--   Has a base damage of 20/24/28/32/36 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 20/24/28/32/36 per level with 2.75 Frostdraw scaling.
 -   The Lance shatter has a base damage of 5/6/7/8/9 per level with 5 Frostdraw scaling.
 -   Deals 4/5/6/7/8 posture damage per level.
 -   Has a cooldown of 12 seconds.
@@ -688,7 +688,7 @@ Ice + Slash
 
 **Effect:** _Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air._
 
--   Has a base damage of 10 + 11.5 + 20 / 11 + 12.65 + 22 / 12 + 13.8 + 24 / 13 + 14.95 + 26 / 14 + 16.1 + 28 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 10 + 11.5 + 20 / 11 + 12.65 + 22 / 12 + 13.8 + 24 / 13 + 14.95 + 26 / 14 + 16.1 + 28 per level with 2.75 Frostdraw scaling.
 -   Deals 12/15/18/21/24 posture damage per level.
 -   13 second cooldown.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
@@ -728,8 +728,8 @@ Ice + Blunt (Grab), Ice (Ice Chains)
 
 **Effect:** _User turns invisible and teleports to their opponent within a short range, on hit choking their opponent while they get hit by the ice chains._
 
--   Has a base damage of 6/7.2/8.4/9.6/10.8 per level, per hit (2) with 3.75 Frostdraw scaling.
--   The [Blast Spark](Mantra_Modifiers.md#sparks) variant deals 4.5/5.4/6.3/7.2/8.1 base damage per level, per hit (2) with 3.75 Frostdraw scaling.
+-   Has a base damage of 6/7.2/8.4/9.6/10.8 per level, per hit (2) with 2.75 Frostdraw scaling.
+-   The [Blast Spark](Mantra_Modifiers.md#sparks) variant deals 4.5/5.4/6.3/7.2/8.1 base damage per level, per hit (2) with 2.75 Frostdraw scaling.
 -   Deals 3 posture damage per hit (2).
 -   Has a 10 second cooldown (3 seconds if whiffed entirely or if it didn't target anything).
 -   Has 9.176x PvE scaling (multiply scaled damage dealt by 9.176 for PvE damage).
@@ -771,7 +771,7 @@ Ice
 
 **Effect:** _Conjure 3 ice cubes above the user that are on standby and throws them to where their cursor is. Costs 45 Ether to summon the ice cubes and 45 Ether to fire them manually for a total of 90 Ether cost. However, if they're fired off automatically, it costs no Ether._
 
--   Has a base damage of 8/10/12/14/16 per level, per hit (3) with 3.75 Frostdraw scaling.
+-   Has a base damage of 8/10/12/14/16 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 5 posture damage per hit (3).
 -   Has 9.178x PvE scaling (multiply scaled damage dealt by 9.178 for PvE damage).
 -   Projectiles have homing.
@@ -811,7 +811,7 @@ Ice
 
 **Effect:** _Conjure an obelisk of ice in front of the user._
 
--   Has a base damage of 33.75/38.25/43.75/47.25/51.75 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 32.75/38.25/42.75/47.25/51.75 per level with 2.75 Frostdraw scaling.
 -   If detonating multiple at the same time, each subsequent explosion will deal 0.33x less damage. For example, at level 5 the first one will have 51.75 base damage, the second will have 34.67 base damage, and the third will have 17.6 base damage.
 -   Deals 0.75 posture damage on placedown. Deals ?/?/?/?/? posture damage per level.
 -   Has a cooldown of 15 seconds with a delay of 4 seconds before you're allowed to detonate it.
@@ -895,8 +895,8 @@ Ice
 
 **Effect:** _Ascend before performing a quick spinning dash towards the target._
 
--   Has a base damage of 7.77/9.44/11.1/12.77/14.43 per level, per hit (3) with 3.75 Frostdraw scaling.
--   The damage is reduced if you remove Crystal Path, dealing 6.1/7.77/9.43/11.1/12.77 per level, per hit (3) with 3.75 Frostdraw scaling.
+-   Has a base damage of 7.77/9.44/11.1/12.77/14.43 per level, per hit (3) with 2.75 Frostdraw scaling.
+-   The damage is reduced if you remove Crystal Path, dealing 6.1/7.77/9.43/11.1/12.77 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 50% more damage if used after Crystal Knee or if used while airborne.
 -   Applies Knockdown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
@@ -937,7 +937,7 @@ Ice
 
 **Effect:** _Perform a short flipkick that launches the target into the air._
 
--   Has a base damage of 35/38/41/44/47 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 35/38/41/44/47 per level with 2.75 Frostdraw scaling.
 -   The damage is reduced if you remove Crystal Path, dealing 20/22/24/26/28 base damage per level.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Can be modified with a Spring Spark to cause the user of the Mantra to perform a side kick that knocks away target(s) instead of launching them upward. This however decreases the Mantra's damage by 20%.
@@ -977,7 +977,7 @@ Ice
 
 **Effect:** _Fires a bullet of ice._
 
--   Has a base damage of 8/11/14/17/20 per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 8/11/14/17/20 per level with 2.75 Frostdraw scaling.
 -   Deals 24.16 (26.89 with 6 songchant) DMG, 1 posture, 6s CD at 5 lvl.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Inconsistent hitbox.
@@ -1049,8 +1049,8 @@ Ice
 
 **Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
--   Has a base damage of 30/32.7/35.4/38.1/40.8 per level with 3.75 Frostdraw scaling.
--   Modifying this Mantra with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 3.75 Frostdraw scaling.
+-   Has a base damage of 30/32.7/35.4/38.1/40.8 per level with 2.75 Frostdraw scaling.
+-   Modifying this Mantra with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
 -   Deals 15 posture damage per level. The additional hit from Glass/Magnifying Stones deals 5 posture damage.
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
@@ -1202,7 +1202,7 @@ Ice
 
 **Effect:** _Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active._
 
--   Has a base damage of 3/3.5/4/4.5/5 per level, per hit (5) with 3.75 Frostdraw scaling.
+-   Has a base damage of 3/3.5/4/4.5/5 per level, per hit (5) with 2.75 Frostdraw scaling.
 -   Deals 3 posture damage per hit (5).
 -   Has a cooldown of 33 seconds.
 -   Has 6.48x PvE scaling (multiply scaled damage dealt by 6.48 for PvE damage).
@@ -1721,7 +1721,7 @@ If you have less than 100 Frostdraw, your chill duration (when applied through b
 -   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in _Nioh 2_.
 -   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in _Touhou 12.3_.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
--   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on [Etris](Etris.md), [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
+-   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on [Etris](Etris.md), [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in the [Second Layer](Second_Layer.md).
 -   The **Ice Chains** Mantra was reworked into a new ability on the 8th of February 2022.
 -   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from _[The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles)_.
 -   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in _[Overwatch](https://en.wikipedia.org/wiki/Overwatch)_.

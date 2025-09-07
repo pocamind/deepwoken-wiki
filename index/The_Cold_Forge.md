@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 160325
+revid: 161144
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, The Divers]
@@ -31,6 +31,7 @@ The Cold Forge is located inside the broken building that's used as a bridge by 
 -   [Celestial Boots](Celestial_Boots.md)
 -   [Champion's Alloy](<Champion's_Alloy.md>)
 -   [Fondant Splitter](Fondant_Splitter.md)
+-   [Sanguine Transfuser](Sanguine_Transfuser.md)
 -   [Umbrite Witherblade](Umbrite_Witherblade.md)
 
 ## Trivia

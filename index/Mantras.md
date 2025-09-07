@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 161124
+revid: 161221
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -95,12 +95,11 @@ The formula to calculate Mantra damage is as follows: B a s e D a m a g e × ( 1
 Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
 
 -   Example 1: Level 5 [Strong Left](Attunement-less.md#strong-left) with 95 Strength and 2 Songchant:
-    -   60 \* (1 + (2.25/10 \* (95/100) \* (1 + 2 \* 0.05))) = 74.11 damage.
+    -   60 \* (1 + (1.65/10 \* (95/100) \* (1 + 2 \* 0.05))) = 70.34 damage.
 -   Example 2: Level 4 [Gale Lunge](Galebreathe.md#gale-lunge) with 60 Galebreathe and no Songchant:
-    -   16.25 \* (1 + (3.75/10 \* (60/100) \* (1 + 0 \* 0.05)) = 19.91 damage.
-        -   Note: because Songchant is 0 here, you can leave out the second part of the equation entirely (as it will end up being "scaled damage +0").
+    -   16.25 \* (1 + (2.75/10 \* (60/100) \* (1 + 0 \* 0.05)) = 18.93 damage.
 
-Nearly all [Attunement-less](Attunement-less.md) Mantras have 2.25 investment scaling, while most [Attuned](Attunements.md) Mantras have 3.75 scaling, although there are outliers to this.
+Nearly all [Attunement-less](Attunement-less.md) Mantras have 1.65 investment scaling, while most [Attuned](Attunements.md) Mantras have 2.75 scaling, although there are outliers to this.
 
 This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage.
 
@@ -113,7 +112,7 @@ B a s e D a m a g e × ( 1 + ( S c a l i n g 10 × ( I n v e s t m e n t 100 ) �
 Note most Oath Mantras do not have scaling, making the formula as simple as Base damage \* (1 + 0.02 \* Songchant).
 
 -   Example: [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault) with 80 Strength and 4 Songchant:
-    -   20 \* (1 + (2.25/10 \* (80/100) \* (1 + 4 \* 0.05)) \* (1 + 0.02 \* 4)) = 24.67 damage per hit (2), 49.33 damage total.
+    -   20 \* (1 + (1.65/10 \* (80/100) \* (1 + 4 \* 0.05)) \* (1 + 0.02 \* 4)) = 23.42 damage per hit (2), 46.84 damage total.
 
 ## Types of Mantras
 

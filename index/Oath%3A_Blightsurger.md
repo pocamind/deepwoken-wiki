@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 161123
+revid: 161225
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -114,17 +114,17 @@ To progress Blightsurger, the player will need to continue talking to [Brutus](B
 #### Combat Mantras
 
 -   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
-    -   Deals 35 Blunt & Oath damage, the followup strike deals 20 Blunt & Oath damage. Both hits have 2.25 Strength scaling.
+    -   Deals 35 Blunt & Oath damage, the followup strike deals 20 Blunt & Oath damage. Both hits have 1.65 Strength scaling.
     -   Ragdolls and applies Daze on hit.
     -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
 
 -   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.
-    -   Deals 18 Blunt & Oath damage with 2.25 Strength scaling.
+    -   Deals 18 Blunt & Oath damage with 1.65 Strength scaling.
     -   Applies Daze and Blightshock on hit.
     -   Knockdowns on hit.
 
 -   **Warp Kick** - Perform a kick, then warp to your enemies for a second followup kick.
-    -   Each hit deals 20 Blunt & Oath damage with 2.25 Strength scaling (hits twice).
+    -   Each hit deals 20 Blunt & Oath damage with 1.65 Strength scaling (hits twice).
     -   Knocks the opponent back on the second hit, despite what is shown in the gif below.
     -   Teleports to opponents within range.
     -   Applies Blightshock on hit.

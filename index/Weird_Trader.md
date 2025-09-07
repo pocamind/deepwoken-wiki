@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 151663
+revid: 161216
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
@@ -28,123 +28,83 @@ Claiming you have the items without having them in your inventory causes the Wei
 
 The event despawns after 30 minutes have elapsed or if you leave the server after talking to him.
 
-### Requested items
+### 
 
--   Weapons, including:
-    -   Light Weapons
-        -   [Alloyed Dawnshot](Dawnshot.md#alloyed)
-        -   [Anklets of Alsin](Anklets_of_Alsin.md)
-        -   [Apprentice Rapier](Apprentice_Rapier.md)
-        -   [Central Dirk](Central_Dirk.md)
-        -   [Champion's Dagger](<Champion's_Dagger.md>)
-        -   [Dawnshot](Dawnshot.md)
-        -   [Dragoon](Dragoon.md)
-        -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
-        -   [Flintlock](Flintlock.md)
-        -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
-        -   [Iron Cestus](Iron_Cestus.md)
-        -   [Legion Cestus](Legion_Cestus.md)
-        -   [Tanto](Tanto.md)
-        -   [Whaling Knife](Whaling_Knife.md)
-    -   Medium Weapons
-        -   [Alloyed Katana](Katana.md)
-        -   [Cavalry Saber](Cavalry_Saber.md)
-        -   [Champion's Sword](<Champion's_Sword.md>)
-        -   [Falchion](Falchion.md)
-        -   [Gremorian Longspear](Gremorian_Longspear.md)
-        -   [Iron Blunderbuss](Iron_Blunderbuss.md)
-        -   [Iron Spear](Iron_Spear.md)
-        -   [Messer](Messer.md)
-        -   [Morning Star](Morning_Star.md)
-        -   [Officer Saber](Officer_Saber.md)
-        -   [Pernach](Pernach.md)
-        -   [Razor Cutlass](Razor_Cutlass.md)
-        -   [Rifle Spear](Rifle_Spear.md)
-        -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
-        -   [Scimitar](Scimitar.md)
-        -   [Serpent's Edge](<Serpent's_Edge.md>)
-        -   [Shattered Katana](Shattered_Katana.md)
-        -   [Shotel](Shotel.md)
-        -   [Summer Rifle](Summer_Rifle.md)
-        -   [Toothed Club](Toothed_Club.md)
-        -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
-        -   [Worshipper Longsword](Worshipper_Longsword.md)
-    -   Heavy Weapons
-        -   [Adretian Axe](Adretian_Axe.md)
-        -   [Alloyed Adretian Axe](Adretian_Axe.md#alloyed)
-        -   [Alloyed Inheritor](<Markor's_Inheritor.md>)
-        -   [Alloyed Steel Maul](Steel_Maul.md#alloyed)
-        -   [Canorian Axe](Canorian_Axe.md)
-        -   [Darkalloy Greatsword](Darksteel_Greatsword.md#alloyed)
-        -   [Forge Greathammer](Forge_Greathammer.md)
-        -   [Halberd](Halberd.md)
-        -   [Iron Birch](Iron_Birch.md)
-        -   [Pale Morning](Pale_Morning.md)
-        -   [Steel Maul](Steel_Maul.md)
-        -   [Zweihander](Zweihander.md)
-    -   Other
-        -   [Ethiron Curseshield](Ethiron_Curseshield.md)
-        -   [Old World Greatshield](Old_World_Greatshield.md)
-        -   [The Path's Defender](<The_Path's_Defender.md>)
-        -   [Worshipper's Shield](<Worshipper's_Shield.md>)
--   Any [Primordial Lotus](Ingredients.md#lotuses) or [Pristine Lotus](Pristine_Lotus.md)
+Requested Items
 
--   Ingredients, Including:
-    -   [Alestrian Coral](Alestrian_Coral.md)
-    -   [Bamboo Bundle](Bamboo_Bundle.md)
-    -   [Beeswax](Beeswax.md)
-    -   [Browncap](Browncap.md)
-    -   [Calabash](Calabash.md)
-    -   [Dentifilo](Dentifilo.md)
-    -   [Egg](Egg.md)
-    -   [Gathered Wheat](Gathered_Wheat.md)
-    -   [Gobletto](Gobletto.md)
-    -   [Ongo](Ongo.md)
-    -   [Pomar](Pomar.md)
-    -   [Raw Heavy Meat](Raw_Heavy_Meat.md)
-    -   [Raw Parasol Brain](Raw_Parasol_Brain.md)
-    -   [Redd](Redd.md)
-    -   [Sap](Sap.md)
-    -   [Spider Egg](Spider_Egg.md)
-    -   [Urchin](Urchin.md)
-    -   All [Fish](Fishing.md) (**Swordfish**, **Tuna**, **Pufferfish**, **Squid**, **Red Snapper**, **Fish Meat, Chum**)
+The Weird Trader will request three items total, with each item coming from the following list.
 
--   Ores, including:
-    -   [Erisore](Ores.md#erisore)
-    -   [Gold](Ores.md#gold)
-    -   [Iron](Ores.md#iron)
-    -   [Pure Astruline](Ores.md#astruline)
-    -   [Pure Erisore](Ores.md#erisore)
-    -   [Pure Gold](Ores.md#gold)
-    -   [Pure Iron](Ores.md#iron)
-    -   [Pure Umbrite](Ores.md#umbrite)
-    -   Rock
-    -   [Umbrite](Ores.md#umbrite)
-
--   Mantra Modifiers, including:
-    -   [Deep Gems](Mantra_Modifiers.md#deep-gems)
-    -   [Sparks](Mantra_Modifiers.md#sparks)
+<table>
+<tbody>
+<tr>
+  <td><b>Items</b></td>
+  <td>
+  <ul>
+    <li><b><a href="Ingredients.md"><font>Ingredients</font></a></b>: <a href="Alestrian_Coral.md">Alestrian Coral</a>, <a href="Bamboo_Bundle.md">Bamboo Bundle</a>, <a href="Beeswax.md">Beeswax</a>, <a href="Browncap.md">Browncap</a>, <a href="Calabash.md">Calabash</a>, <a href="Dentifilo.md">Dentifilo</a>, <a href="Egg.md">Egg</a>, <a href="Gathered_Wheat.md">Gathered Wheat</a>, <a href="Gobletto.md">Gobletto</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Ongo.md">Ongo</a>, <a href="Pomar.md">Pomar</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a>, <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a>, <a href="Redd.md">Redd</a>, <a href="Sap.md">Sap</a>, <a href="Spider_Egg.md">Spider Egg</a>, <a href="Thresher_Egg.md">Thresher Egg</a>.</li>
+    <li><b><a href="Primordial_Lotuses.md"><font>Lotuses</font></a></b>: <a href="Primordial_Lotuses.md#brilliant-lotus">Brilliant Lotus</a>, <a href="Primordial_Lotuses.md#empyrean-lotus">Empyrean Lotus</a>, <a href="Primordial_Lotuses.md#hellfire-lotus">Hellfire Lotus</a>, <a href="Primordial_Lotuses.md#miasmic-lotus">Miasmic Lotus</a>, <a href="Pristine_Lotus.md">Pristine Lotus</a>, <a href="Primordial_Lotuses.md#skyvalor-lotus">Skyvalor Lotus</a>, <a href="Primordial_Lotuses.md#zephyr-lotus">Zephyr Lotus</a>.</li>
+    <li><b><a href="Fishing.md"><font>Fish</font></a></b>: <a href="Chum.md">Chum</a>, <a href="Fish_Meat.md">Fish Meat</a>, <a href="Fishing.md">Pufferfish</a>, <a href="Fishing.md">Red Snapper</a> <a href="Squid.md">Squid</a>, <a href="Fishing.md">Swordfish</a>, <a href="Fishing.md">Tuna</a>.</li>
+    <li><b><a href="Ores.md"><font>Ores</font></a></b>: <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#gold">Gold</a>, <a href="Ores.md#iron">Iron</a>, <a href="Ores.md#rock">Rock</a>, <a href="Ores.md#umbrite">Umbrite</a>, <a href="Ores.md#astruline">Pure Astruline</a> <a href="Ores.md#erisore">Pure Erisore</a>, <a href="Ores.md#gold">Pure Gold</a>, <a href="Ores.md#iron">Pure Iron</a>, <a href="Ores.md#umbrite">Pure Umbrite</a>.</li>
+    <li><b><a href="Mantra_Modifiers.md"><font>Mantra Modifiers</font></a></b>:
+  <ol>
+    <li>Most <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li>Any <a href="Mantra_Modifiers.md#sparks">Sparks</a>: <a href="Mantra_Modifiers.md#sparks">Blast Spark</a>, <a href="Mantra_Modifiers.md#sparks">Magnet Spark</a>, <a href="Mantra_Modifiers.md#sparks">Reversal Spark</a>, <a href="Mantra_Modifiers.md#sparks">Round Spark</a>, <a href="Mantra_Modifiers.md#sparks">Spring Spark</a>, <a href="Mantra_Modifiers.md#sparks">Tornado Spark</a>.</li>
+  </ol></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md#alloyed">Alloyed Inheritor</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Steel_Maul.md#alloyed">Alloyed Steel Maul</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>.</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Central_Dirk.md">Central Dirk</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Dragoon.md">Dragoon</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Flintlock.md">Flintlock</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Tanto.md">Tanto</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Cavalry_Saber.md">Cavalry Saber</a>, <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Falchion.md">Falchion</a>, <a href="Gremorian_Longspear.md">Gremorian Longspear</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Iron_Spear.md">Iron Spear</a>, <a href="Messer.md">Messer</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Officer_Saber.md">Officer Saber</a>, <a href="Pernach.md">Pernach</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scimitar.md">Scimitar</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Summer_Rifle.md">Summer Rifle</a>, <a href="Toothed_Club.md">Toothed Club</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Worshipper_Longsword.md">Worshipper Longsword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Halberd.md">Halberd</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Steel_Maul.md">Steel Maul</a>, <a href="Zweihander.md">Zweihander</a>.</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="Ethiron_Curseshield.md">Ethiron Curseshield</a>, <a href="Old_World_Greatshield.md">Old World Greatshield</a>, <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Worshipper's_Shield.md">Worshipper's Shield</a>.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### Rewards
 
--   [Astral Enchantment Stone](Enchant_Stone.md)
--   [Crypt Blade](Crypt_Blade.md)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
--   [Deepspindle](Deepspindle.md)
--   [Dormant Splinter](Dormant_Splinter.md)
--   [Dye Packet](Dye_Packet.md)
--   [Flareblood Kamas](Flareblood_Kamas.md)
--   [Gran Sudaruska](Gran_Sudaruska.md)
--   [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
--   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
--   [Kyrsieger](Kyrsieger.md)
--   [Moonseye Tome](Moonseye_Tome.md)
--   [Pathfinder Elite](Pathfinder_Elite.md)
--   [Sinner's Ash](<Sinner's_Ash.md>)
--   [Smith's Alloy](<Smith's_Alloy.md>)
--   [Stormseye](Stormseye.md)
--   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)
--   [Nocturne](Nocturne.md)
+A random item from the following list:
+
+<table>
+<tbody>
+<tr>
+  <td><b>Items</b></td>
+  <td>
+  <ul>
+    <li><a href="Relics.md">Relics</a>: <a href="Enchant_Stone.md">Astral Enchant Stone</a>, 1 <a href="Dye_Packet.md">Dye Packet</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a>, <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Gran_Sudaruska.md"><font>Gran Sudaruska</font></a>, <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Kyrsieger.md"><font>Kyrseiger</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a>.</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: N/A</li>
+    <li><b>Medium Weapons</b>: <a href="Nocturne.md">Nocturne</a>.</li>
+    <li><b>Heavy Weapons</b>: N/A</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: N/A</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>: <a href="Pathfinder_Elite.md">Pathfinder Elite</a>.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 

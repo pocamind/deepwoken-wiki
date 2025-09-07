@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 161108
+revid: 161240
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -42,7 +42,11 @@ The Messer can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requ
 
 ### Talent: Finishing Slay
 
-Consumes all Chain of Perfection stacks on critical, increasing the damage of your critical attack immensely.
+On critical, consume all of your [Chain of Perfection](Talents.md#metamancer) to add a secondary damage instance to your attack. This secondary damage instance deals 5 damage per Perfection stack (118 damage per stack in PvE).
+
+The first 5 hits that normally do not grant Perfection stacks contributes to this damage bonus, stacking up to 120 PvP damage or 2.8k PvE damage at max stacks.
+
+This effect can be procced on [Motif](Motifs.md)\-granted criticals and has no cooldown. This effect does not change if your Messer is alloyed.
 
 ## Critical
 
@@ -52,6 +56,9 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
+-   For PvE, it is recommended to use the [Saber Motif](Motifs.md), as you'll get an additional 300 damage from Finishing Slay.
+    -   Additionally, it is not recommended to use Alloyed Messer over the base variant for PvE, as Finishing Slay does not change when alloyed, and the damage increase from going for the alloyed variant is not that large. Saving points and investing them elsewhere is much more effective than going for the alloy upgrade.
+-   Finishing Slay can be buffed through damage modifiers, but it is not counted as weapon damage, so things like [Astral](Astral.md) or [Manipulator](Talents.md#toxic-personality) will **not** affect it.
 -   Meeting the non-alloyed requirement of MED, the damage is (20.8)
     -   Meeting the alloyed requirement, the damage is (28.1)
 -   At max MED, the non-alloyed damage is (27.5)

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 161125
+revid: 161217
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -67,7 +67,7 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 Bloodrend currently has a total of 17 Mantras.
 
-All Bloodrend Mantras have 3.75 Bloodrend scaling unless stated otherwise.
+All Bloodrend Mantras have 2.75 Bloodrend scaling unless stated otherwise.
 
   
 

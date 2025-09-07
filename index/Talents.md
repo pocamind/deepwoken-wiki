@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161136
+revid: 161142
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3886,7 +3886,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Expeditious Combo: [Iron Birch](Iron_Birch.md) - Landing an uppercut will grant a buff to your [Onslaught](Attunement-less.md#onslaught) for 15 seconds, using Onslaught during this time will massively increase the speed of it.
 
 -   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
-    -   Consumes all of your Chains of Perfection stacks for a high damaging attack on your critical.
+    -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.
+    -   This deals 5 **typeless** damage per Chain of Perfection stack. Deals 118 **typeless** damage per Chain of Perfection stack in PvE.
+        -   Because this deals typeless damage, it ignores elemental and physical resistances.
+    -   The damage this deals can be increased with damage modifiers, though it is not considered weapon damage so it is fairly hard to buff.
+    -   The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 120 typess PvP damage or 2.8k typeless PvE damage at maximum chain stacks.
+    -   This procs on [Motif](Motifs.md)\-granted criticals.
 
 -   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
     -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 4 seconds, making your critical guaranteed guardbreak if it hits block.

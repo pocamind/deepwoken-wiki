@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 159972
+revid: 161194
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords, Heavy Weapons]
@@ -59,5 +59,3 @@ The cooldown for the critical is **10 seconds**.
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
 -   It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
     -   This amount of range meant the Wyrmtooth was once rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and the [Pale Briar](Pale_Briar.md). It even matched the ranges of some pistols, but was otherwise eclipsed by them.
--   TheRealPunchee stated that it was inspired by the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba) from _Elden Ring_. Nagakiba loosely translates to 'long fang', similar to the name Wyrmtooth.
-    -   The standing critical is inspired from the [Piercing Fang](https://eldenring.wiki.fextralife.com/Piercing+Fang) Ash Of War in _Elden Ring_ that is obtainable from the [Nagakiba](https://eldenring.wiki.fextralife.com/Nagakiba).

@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 160707
+revid: 161229
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -17,6 +17,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
+| special effect | The Rifle Spear procs all Rifle exclusive Talents. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -35,7 +36,7 @@ _Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker
 
 The Rifle Spear is a MED weapon. It can be obtained from Depths chests; Erisore chests, which can be collected by turning in pure ore to a [Blacksmith](Blacksmith.md); and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
 
-The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots a projectile similar to one handed guns. It has the same speed and sound effect as any other gun. (this critical does work with Sunset Ricochet)
+Uniquely, the Rifle Spear will proc all Rifle-exclusive Talents.
 
 ## Critical
 

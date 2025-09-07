@@ -1,9 +1,9 @@
 ---
 title: Seafood Surprise
-revid: 160733
+revid: 161200
 source: https://deepwoken.fandom.com/wiki/Seafood_Surprise
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Items, Food]
 ---
 
 # Seafood Surprise

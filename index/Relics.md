@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 160241
+revid: 161153
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -403,7 +403,7 @@ _"This Umbrite blade is unlike anything you've encountered. Marked and damaged b
 
 File:Witherblade.png
 
- | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - A result of the Dormant Splinter combining with a [Razor Cutlass](Razor_Cutlass.md). The Splinter and it's bloodthirst have seeped into the Cutlass, making it a shade of it's former self with the use of the twisted element known as [Umbrite](Ores.md). It is a powerful weapon that inflicts [Wither](Status_Effects.md) with each attack, rotting away at their ability to recover from damage.
+ | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - A result of the Dormant Splinter combining with a [Razor Cutlass](Razor_Cutlass.md). The Splinter and it's bloodthirst have seeped into the Cutlass, making it a shade of it's former self with the use of the twisted element known as [Umbrite](Ores.md). It is a powerful weapon that inflicts [Wither](Status_Effects.md#wither) with each attack, rotting away at their ability to recover from damage.
 
   
 _"Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone."_
@@ -422,7 +422,19 @@ _"Is this safe to eat? We'll see..."_
 
  | 
 
--   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Cake](Cake.md), and a [Sword](<Sword_(weapon).md>)/[Messer](Messer.md)/[Scimitar](Scimitar.md)/[Katana](Katana.md)
+-   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Cake](Cake.md), and a [Sword](<Sword_(weapon).md>)/[Messer](Messer.md)/[Scimitar](Scimitar.md)/[Katana](Katana.md).
+
+ |
+| 
+
+ | **[Sanguine Transfuser](Sanguine_Transfuser.md)** - A result of the Dormant Splinter being fused with the Hemobloom and the remains of an ancient dagger, the weapon is transformed into a spiraling helix of crystallized blood, ending in a blooming hilt that coalesces into a blood-red handle.
+
+  
+_"You watch the once solid splinter animate within the cold forge; the fragmented blade freely imbibing its now biotic form. The corroded dagger falls away, leaving the splinter and blood to dance through the helical mold. As they reach the now-fused Hemobloom, the splinter diverges, rejected by the crystallizing blood, now solidly cast into its progenitor's form. Though the relic was destroyed and your experiment failed, what remains may be worth what was lost."_
+
+ | 
+
+-   Crafting in [The Cold Forge](The_Cold_Forge.md) with a [Dormant Splinter](Dormant_Splinter.md), [Hemobloom](Hemobloom.md), and the [Ancient Dagger Remains](Ancient_Dagger_Remains.md).
 
  |
 | 
