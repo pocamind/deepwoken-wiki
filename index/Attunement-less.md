@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 161120
+revid: 161276
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -126,7 +126,7 @@ Blunt
 
 **Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
--   Has a base damage of 20/30/40/50/60 per level with 2.25 Strength scaling.
+-   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5.
 -   Deals 22/24/26/28/30 posture damage per level.
 -   Has a wind-up of 0.55s, and an endlag of 0.25s (0.35s if whiffed).
@@ -168,7 +168,7 @@ Blunt
 
 **Effect:** _User launches a flurry of punches that inflicts light damage on their opponent._
 
--   Has a base damage of 10/10.5/11/11.5/12 per level, per hit (10), with 2.25 Strength scaling.
+-   Has a base damage of 10/10.5/11/11.5/12 per level, per hit (10), with 1.65 Strength scaling.
     -   139.8 damage at 100 Strength level 5 if all hits land.
 -   Deals 1 posture damage per hit (10).
 -   Has an initial wind-up of 0.45s with a 0.125s wind-up in between each hit.
@@ -214,7 +214,7 @@ Blunt
 
 **Effect:** _User throws a piece of the ground that goes straight in the direction their character (not the camera) is looking at._
 
--   Has a base damage of 20/30/40/50/60 per level with 2.25 Strength scaling
+-   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling
 -   69.9 damage at 100 Strength level 5
 -   Victims crushed by the rock will be dazed and will be thrown away.
 -   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
@@ -254,7 +254,7 @@ Blunt
 
 **Effect:** _User performs a long wind-up before unleashing two devastating kicks._
 
--   Has a base damage of 20/30/40/50/60 per level, per kick, with 2.25 Strength scaling.
+-   Has a base damage of 20/30/40/50/60 per level, per kick, with 1.65 Strength scaling.
     -   69.9 damage at 100 Strength level 5, per kick.
 -   Deals 17.6/19.2/20.8/22.4/24 posture damage per level on the [Round Spark](Mantra_Modifiers.md#sparks) variant. Guard breaks at level 5 if you have the [Titus's Raiment](<Titus's_Raiment.md>) Outfit.
 -   Has 0.7s wind-up on the [Round Spark](Mantra_Modifiers.md#sparks) variant.
@@ -451,7 +451,7 @@ Blunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   Has a base damage of 9.9/13.05/16.20/19.35/22.5 per level with 2.25 Fortitude scaling.
+-   Has a base damage of 9.9/13.05/16.20/19.35/22.5 per level with 1.65 Fortitude scaling.
 -   Deals 8 posture damage.
 -   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Shoulder Bash duration scales with your Fortitude attribute.
@@ -657,7 +657,7 @@ Slash + [Bleed](Status_Effects.md#bleed)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16 per level with innate [bleed](Status_Effects.md#bleed) and 2.25 Agility scaling.
+-   Has a base damage of 12/13/14/15/16 per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
@@ -862,7 +862,7 @@ Blunt
 
 **Effect:** _User rises up in the air, and launches 4 orbs of Ether toward their cursor that explode and ragdoll on impact._
 
--   Has a base damage of 6/6.5/7/7.5/8 per level, per hit (6) with 2.25 Intelligence scaling.
+-   Has a base damage of 6/6.5/7/7.5/8 per level, per hit (6) with 1.65 Intelligence scaling.
 -   Deals 0 posture damage.
 -   0.65s wind-up.
 -   10s cooldown.
@@ -1062,7 +1062,7 @@ Slash
 
 **Effect:** _User pulls their arm back and then transfers their posture damage to their opponent._
 
--   Has a base damage of 20/22/24/26/28 damage per level with 2.25 Willpower scaling.
+-   Has a base damage of 20/22/24/26/28 damage per level with 1.65 Willpower scaling.
 -   Transfers 20%/30%/40%/50%/60% of your current posture per level.
 -   The posture transfer cannot guardbreak.
 -   Has 0.5s wind-up with 0.3s of endlag.
@@ -1309,7 +1309,7 @@ Blunt
 
 **Effect:** _User lunges at the opponent to grab them. On contact with a target, they hold them while whispering dark truths in their ear._
 
--   Deals a base damage of 10/12/14/16/18 per level with 2.25 Charisma scaling.
+-   Deals a base damage of 10/12/14/16/18 per level with 1.65 Charisma scaling.
 -   Dread Whisper's damage will slightly scale on how insane your opponent is.
 -   Landing Dread Whisper multiple times in succession will increase the damage by 50%. This damage buff does **not** stack with itself.
     -   Dread Whisper must be landed again within 15s of landing the previous one to gain/retain the damage buff.
@@ -1445,7 +1445,7 @@ Slash
 
 **Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
--   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base damage per level with 2.25 Light Weapon scaling.
+-   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base damage per level with 1.65 Light Weapon scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.67 seconds.
 -   Upgrading the Mantra increases teleportation range.
@@ -1490,9 +1490,9 @@ Slash
 -   M1 during this Mantra to perform the slashes. Performing slashes consumes Ether.
 -   You can right click to cancel the Mantra.
 -   Damage ramps up on each hit.
--   Deals 20 > 25 > 30 > 35 > 40 base damage on the initial hits with 2.25 Light Weapon scaling. This damage does not scale on Mantra level.
+-   Deals 20 > 25 > 30 > 35 > 40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
 -   After each hit, three damage ticks will follow. These scale on your Mantra's level.
-    -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 2.25 Light Weapon scaling.
+    -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
 -   Constantly consumes Ether while invisible.
 -   The slashes lock onto the closest target within Ceaseless' range.
@@ -1535,7 +1535,7 @@ Blunt
 
 **Effect:** _User jumps into the air and slams down_
 
--   Deals 20/22/24/26/28 base damage per level with 2.25 Light Weapon scaling.
+-   Deals 20/22/24/26/28 base damage per level with 1.65 Light Weapon scaling.
 -   Wind-up is **HEAVILY** reduced upon being used directly after Karita Leap.
 
  |
@@ -1573,7 +1573,7 @@ Blunt
 
 **Effect:** _User thrusts themself forward with a kick, ragdolling opponents and leaping back into the air if they hit a wall._
 
--   Deals 30/33/36/39/42 base damage per level with 2.25 Light Weapon scaling.
+-   Deals 30/33/36/39/42 base damage per level with 1.65 Light Weapon scaling.
 -   Hitting a wall causes you to backflip.
 
  |
@@ -1644,7 +1644,7 @@ Slash
 
 **Effect:** _User performs a spinning double slice with their sword._
 
--   Deals 3+5.4/7+12.6/11+19.8/15+27/19+34.2 base damage per level with 2.25 Medium Weapon scaling.
+-   Deals 3+5.4/7+12.6/11+19.8/15+27/19+34.2 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 5 posture damage per hit (2).
 -   Initial hit has 0.45s wind-up with the follow-up having 0.4s wind-up.
 -   Master's Flourish has 0.35s endlag.
@@ -1687,7 +1687,7 @@ Slash
 
 **Effect:** _User locks onto all the closest targets that are in range, then dashes forward and performs a large AoE slice._
 
--   Deals 9/17/25/33/41 base damage per level with 2.25 Medium Weapon scaling.
+-   Deals 9/17/25/33/41 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Deals 5 posture damage.
 -   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
@@ -1729,7 +1729,7 @@ Slash
 
 **Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
 
--   Deals 9.375+18.75/10.625+21.25/11.875+23.75/13.25+26.25/14.125+28.25 base damage per level with 2.25 Medium Weapon scaling.
+-   Deals 9+18.75/10.2+21.25/11.4+23.75/12.6+26.25/13.8+28.25 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 6.75 posture damage per hit (2).
 -   Initial hit has a wind-up of 0.5s, with the follow-up attack having a 0.4s wind-up.
 -   Twincleave has an endlag of 0.4s.
@@ -1770,7 +1770,7 @@ Slash
 
 **Effect:** _User dashes towards the camera and unleashes a wide slash. Can be performed again if the first slash lands._
 
--   Deals 19/26.5/34/41.5/49 base damage per hit with 1.25 Medium Weapon scaling.
+-   Deals 19.1/24.2/29.3/34.4/39.5 base damage per hit with 1.3 Medium Weapon scaling.
 -   Deals 16 posture damage and is 360 blockable.
 -   Has a 25 second cooldown.
 -   Has a 0.55s wind-up.
@@ -1816,7 +1816,7 @@ Slash
 
 **Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
 
--   Deals 20/22/24/26/28 base damage with 2.25 Medium Weapon scaling.
+-   Deals 20/22/24/26/28 base damage with 1.65 Medium Weapon scaling.
 -   Deals 12 posture damage.
 -   Uppercuts, proccing [Bladeharper's](Oath%253A_Bladeharper.md) Soaring Storm.
 
@@ -1888,7 +1888,7 @@ Slash
 
 **Effect:** _User performs a heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback._
 
--   Deals 8/10.5/13/15.5/18 base damage per level, per hit (3) with 2.25 Heavy Weapon scaling.
+-   Deals 8/10.5/13/15.5/18 base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
 -   Deals 12 posture damage per hit (3).
 -   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
@@ -1930,8 +1930,8 @@ Slash (1st Hit), Blunt (Kicks)
 
 **Effect:** _User does an initial swing with a second long wind-up, then kicks the enemy into the air, followed by kicking them away._
 
--   Initial hit deals 30/32/34/36/38 base damage per level with 2.25 Heavy Weapon scaling.
--   The kicks deal 15/16/17/18/19 base damage per level, per hit (2) with 2.25 Heavy Weapon scaling.
+-   Initial hit deals 30/32/34/36/38 base damage per level with 1.65 Heavy Weapon scaling.
+-   The kicks deal 15/16/17/18/19 base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
 -   Deals 20/22/24/26/GB posture damage per level on the first hit. The second hit always deals 4 posture damage.
     -   Initial hit instantly guard breaks at level 5.
 -   The final hit applies [True Daze](Status_Effects.md#true-daze).

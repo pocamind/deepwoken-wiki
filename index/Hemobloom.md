@@ -1,6 +1,6 @@
 ---
 title: Hemobloom
-revid: 161187
+revid: 161280
 source: https://deepwoken.fandom.com/wiki/Hemobloom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,6 +19,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Hemobloom is a red-colored flower with an structure that appears to be a blood crystal on the middle. it can be found on the [Valley of Heroes](The_Valley_of_Heroes.md) lying on the ground.
+The Hemobloom is a red-colored flower with an structure that appears to be a blood crystal on the middle. It can be found in the [Valley of Heroes](The_Valley_of_Heroes.md) during [Winter](Seasons.md).
 
-It can be utilized to craft the Sanguine Transfuser, needing 1 (one) Hemobloom, a [Dormant Splinter](Dormant_Splinter.md) and an [Ancient Dagger Remains](Ancient_Dagger_Remains.md) at the [Cold Forge](The_Cold_Forge.md).
+It can be utilized to craft the Sanguine Transfuser, needing 1 (one) Hemobloom, a [Dormant Splinter](Dormant_Splinter.md) and an [Ancient Dagger Remains](Ancient_Dagger_Remains.md) at [The Cold Forge](The_Cold_Forge.md).

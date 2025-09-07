@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161142
+revid: 161274
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3854,7 +3854,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 ## Weapon Talents
 
-Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md). These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
+Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
 -   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
@@ -3865,10 +3865,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) now deal extra damage based on how much Willpower you have.
     -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment.
     -   This deals 0.0752 damage per 1 Willpower investment, dealing 3.76 additional damage at 50 Willpower and 7.52 additional damage at 100 Willpower.
+    -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
 -   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
-    -   Decreases Prominence Draw's windup by ?s.
+    -   Decreases Prominence Draw's windup by a very substantial amount.
+    -   Adds a new sound effect to Prominence Draw.
 
 -   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recovery health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
     -   Restores 4% of the user's maximum health upon landing M1 attacks.
@@ -3879,7 +3881,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
 
 -   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.
-    -   If you interrupt someone's attack with the shock from your [Krulian Charge](Status_Effects.md#krulian-charge), gain a damage modifier to your critical attacks.
+    -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md), gain a damage modifier to your critical attacks.
 
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 30% more chip.
 

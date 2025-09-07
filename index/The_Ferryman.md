@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 160495
+revid: 161283
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -193,7 +193,6 @@ Exhaustive Loot Table
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td>
   <ul>
-    <li><b>Master</b>: <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
     <li><b>Unique</b>: <a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 160011
+revid: 161282
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -72,6 +72,7 @@ Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [
 
 -   Enigmatic beings thought to be envoys of the [Drowned Gods](#the-drowned-gods).
 -   The Ferryman referred to them as 'the closest bridge between the Gods below and your kind'.
+-   The Gaunt Man used the analogy 'if you are a stalk of wheat, then I am a loaf of bread', which likely has some relevance to the nature of Krulians. Probably.
 
 Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
 
@@ -82,7 +83,7 @@ Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | B
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)| Books: | Glossary Entries: [Kyrsgarde](#kyrsgarde)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsgarde](#kyrsgarde)
 
 ### Kyrsgarde
 
@@ -183,7 +184,7 @@ Dialogue: | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-
 
 -   The last [Lightborn](#lightborn) king of Constellia before its fall.
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)| Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
 
 ## Magic
 
@@ -346,8 +347,9 @@ Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Book
 ### Constellia, the Guiding Star
 
 -   One of the largest [Celestial](#the-celestials) cities in the [Heavens](#the-heavens).
+-   Constellia fell to a [Kyrsan](#kyrsan) invasion.
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)| Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan](#kyrsan)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan](#kyrsan)
 
 ### The Depths
 

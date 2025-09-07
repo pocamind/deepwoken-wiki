@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 161258
+revid: 161279
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -111,14 +111,15 @@ Shadow + Slash (Grab), Blunt (Slam)
  |
 | 
 
-**Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage. The caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage_
+**Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down._
 
+-   Grants I-frames to the user and opponent on hit.
 -   Refills about the same amount of Ether as the spell cost.
 -   Deals 57.41 (47.84 grab + 9.57 slam.) DMG, 6.5 posture, 11.5s CD. 3s CD when missed.
 -   With 6 Songchant 63.9 (53.25+10.65) DMG
 -   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Shares a cooldown with all of [these mantras](List_of_Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 | 
@@ -150,7 +151,7 @@ Shadow + Slash
  |
 | 
 
-**Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable._
+**Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice._
 
 -   Deals 57.42 (19.14\*3) DMG, 9.99 posture (3.33\*3), 12s CD at 5 lvl.
 -   With 6 Songchant 63.9 (21.3\*3) DMG
@@ -189,7 +190,7 @@ Shadow
  |
 | 
 
-**Effect:** _You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable._
+**Effect:** _You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits._
 
 -   Deals ~50 dmg non modded at 5 lvl, guardbreaks, 12s CD. (3 stratus and 3 perfect lenses version will do ~30. (-35%% DMG))
 -   Blast spark version deals 71.04 (23.68\*3). 27 posture (9\*3), 10s CD. (With 3 stratus stones and 3 perfect lenses does 15.79 per hit, 47.37 total. (-50% DMG))
@@ -231,7 +232,7 @@ Shadow
  |
 | 
 
-**Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their Ether based on the number of chains applied for a duration of 3 seconds._
+**Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. These chains slow your opponent and drain their Ether._
 
 -   Deals 69 (17.25\*4) DMG, 0 Posture, 15s CD at level 5.
 -   With 6 songchant 76.8 (19.2\*4) DMG
@@ -270,7 +271,7 @@ Shadow
  |
 | 
 
-**Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. Blockable._
+**Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times._
 
 -   Deals 31.1 (34.61 With 6 songchant) DMG total, 5.5 posture, 11s CD at 5 lvl.
 -   0.55 second windup and 12 second cooldown.
@@ -310,7 +311,7 @@ Shadow + Slash
  |
 | 
 
-**Effect:** _The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase_ nearby opponents until the duration has expired or the orb has made contact with the target. Orbs do a small amount of damage and steal a large amount of Ether.
+**Effect:** _The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase_ nearby opponents.
 
 -   Deals 82.65 (16.53\*5) DMG, 1 posture per hit, 14s CD
 -   With 6 songchant 93.2 (18.64\*5) DMG
@@ -350,7 +351,7 @@ Shadow, Blunt (Slam)
  |
 | 
 
-**Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting_ with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing Ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
+**Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground._
 
 -   Deals 37.29 (32.29 + 5 slam) DMG, 5.5 posture, 10s CD.
 -   With 6 songchant 40.94 (35.94+5) DMG.
@@ -389,7 +390,7 @@ Shadow
  |
 | 
 
-**Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location. Blockable._
+**Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location._
 
 -   Deals 125.58 (41.86\*3), 6.3 (2.1\*3) posture, 16s CD.
 -   With 6 songchant 139.77 (46.59\*3) DMG
@@ -426,11 +427,15 @@ Shadow
  |
 | 
 
-**Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and Ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit._ "Hit em with a scream!"
+**Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them._
 
 -   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 0.6s windup,
 -   With 6 songchant 95.84 (11.98\*8) DMG
 -   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
+-   It deals repeated damage and Ether drain for the duration.
+-   While casting, your movement speed will be decreased heavily.
+-   Can be parried and grants autoparry frames.
+-   Shadow Roar will stop casting if hit.
 
  |
 | 
@@ -464,7 +469,10 @@ Shadow
 
 **Effect:** _The user performs a diagonal shadow-infused slash._
 
--   Deals ?? DMG, ?? posture, ?? windup, 15s cooldown.
+-   Deals 9 posture damage.
+-   Has a 15s cooldown.
+-   This attack bears strong resemblance to [Night Axe](Night_Axe.md)'s critical attack.
+-   Can damage destructible terrain.
 
  |
 | 
@@ -585,6 +593,7 @@ Blunt
 -   Deals around 40 DMG (Does around 75.6 (39.72 explosion+ 35.88 shadow gun) DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
 -   With 6 songchant deals around 50 DMG (86.53 DMG (46.59 explosion +39.94 shadow gun) DMG if hit by shadow gun)
 -   Applies PVE tag to anyone who is near it.
+-   Automatically extinguishes burn on those grabbed.
 -   Landing a [Shadow Gun](Shadowcast.md#shadow-gun) or [Shadow Seekers](Shadowcast.md#shadow-seekers) into the vortex after it has grabbed a target will cause it to explode, dealing extra damage and stealing a high amount of Ether.
     -   Explosion doesn't happen if either Mantra was used before the vortex sucked someone in.
 -   Has a vertical range cap. Ex. Cannot grab someone from the bottom of a cliff at starswept next to a jump pad.

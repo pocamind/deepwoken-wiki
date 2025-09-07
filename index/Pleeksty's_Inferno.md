@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 160374
+revid: 161278
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Medium Weapons]
@@ -74,3 +74,4 @@ Both criticals will instantly max out your Emperor Flame stacks on hit, even if 
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
 -   This weapon cannot be banked, or dropped.
+-   The running critical shares a visual and windup with the Flamecharm mantra Flare Volley.

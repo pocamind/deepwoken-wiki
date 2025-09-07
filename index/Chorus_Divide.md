@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 160797
+revid: 161269
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -24,7 +24,7 @@ categories: [Resonances]
 
 ## Usage
 
-Pressing C will activate the **Chorus Divide** Resonance. The user begins to charge up the elements within their arms, before unleashing powerful beams of Attuned energy. The user will slowly spin during the duration of this Resonance, limiting the player's control over beam direction. The beams will be based off the user's highest invested Attunement, changing the visuals, status effect, and damage type to match.
+Pressing C will activate the **Chorus Divide** Resonance. The user begins to charge up the elements within their arms, before unleashing two powerful beams of Attuned energy. The user will slowly spin during the duration of this Resonance, limiting the player's control over beam direction. The beams will be based off the user's highest invested Attunement, changing the visuals, status effect, and damage type to match.
 
 If Chorus Divide is corrupted, its spins 180° instead of 270°, and becomes unblockable, but at the cost of it's wind-up being significantly longer, and the beams spinning slower.
 

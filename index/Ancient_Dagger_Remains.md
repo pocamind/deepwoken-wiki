@@ -1,6 +1,6 @@
 ---
 title: Ancient Dagger Remains
-revid: 161184
+revid: 161284
 source: https://deepwoken.fandom.com/wiki/Ancient_Dagger_Remains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item, Ingredients]
@@ -16,7 +16,7 @@ categories: [Items, Quest Item, Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Old rusty remains of a spiral dagger, despite being caked in dried bloot it smells strangely floral. |
+| desc | Old rusty remains of a spiral dagger, despite being caked in dried blood it smells strangely floral. |
 
 ## Description
 
