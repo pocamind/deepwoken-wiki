@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 158158
+revid: 161429
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -53,7 +53,7 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 
 The Kyrswynter has **two** different criticals.
 
-For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath them. Standing on the blast allows you to combo into an uppercut. Its stats are:
+For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath their feet, knocking them away once more. Standing on the blast allows you to combo into an uppercut. Its stats are:
 
 -   1.4x of M1 DMG + .42x BLEED (Stab)/ 1.2x of M1 DMG + .36x BLEED (Blast)
 -   20 posture (Stab/Blast)

@@ -1,6 +1,6 @@
 ---
 title: Bread
-revid: 161209
+revid: 161419
 source: https://deepwoken.fandom.com/wiki/Bread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food, Food Ingredient]
@@ -11,7 +11,7 @@ categories: [Items, Food, Food Ingredient]
 | Bread | |
 |---|---|
 | weight | 1 |
-| stack | x?? |
+| stack | x12 |
 | type | Food |
 | food type | Generic |
 | stomach | 20% |

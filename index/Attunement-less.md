@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 161414
+revid: 161415
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1650,8 +1650,7 @@ Slash
 -   Master's Flourish has 0.35s endlag.
 -   Deals Chip Damage.
 -   Deals knockback.
--   Can be modified with a Glass/Magnifying stone to make it bigger
--   If used with the Forgotten Gladius, the speed of this mantra will be much faster.
+-   Can be modified with a Glass/Magnifying stone to make it bigger.
 
  |
 | 
@@ -1694,6 +1693,7 @@ Slash
 -   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
 -   Allows for movestacking an M1 strike which 100% guarantees the Mantra or M1 hit.
 -   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
+-   Having the [Forgotten Gladius](Forgotten_Gladius.md) equipped will heavily decrease its windup.
 
  |
 | 

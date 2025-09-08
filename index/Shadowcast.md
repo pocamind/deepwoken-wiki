@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 161389
+revid: 161423
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -113,11 +113,13 @@ Shadow + Slash (Grab), Blunt (Slam)
 
 **Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down._
 
+-   The grab has a base damage of 20/25/30/35/40 per level with 2.75 Shadowcast scaling.
+-   The slam has a base damage of 4/5/6/7/8 per level with 2.75 Shadowcast scaling.
+-   Deals 6 posture damage.
+-   Has an 11 second cooldown. If this Mantra is whiffed entirely (it cannot find a target), it will have a 3 second cooldown instead.
+-   Grab has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage), Slam has 59.47x PvE scaling (multiply damage dealt by 59.47 to get PvE damage).
+-   The grab deals Shadow + Slash damage, the slam deals pure Blunt damage.
 -   Grants I-frames to the user and opponent on hit.
--   Refills about the same amount of Ether as the spell cost.
--   Deals 57.41 (47.84 grab + 9.57 slam.) DMG, 6.5 posture, 11.5s CD. 3s CD when missed.
--   With 6 Songchant 63.9 (53.25+10.65) DMG
--   Grab has 9.18x PVE scale, Slam has 59.47x PVE scale (47.84 DMG grab + 9.57 slam PVP, 439.17 DMG grab + 569.17 slam PVE)
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
 -   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 
@@ -153,12 +155,13 @@ Shadow + Slash
 
 **Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice._
 
--   Deals 57.42 (19.14\*3) DMG, 9.99 posture (3.33\*3), 12s CD at 5 lvl.
--   With 6 Songchant 63.9 (21.3\*3) DMG
--   Has 9.178x PVE scale (19.14 DMG PVP, 175.67 PVE DMG)
--   Adding Rush Shards make Dark Blade faster.
--   Adding Vibrant Gems increase Ether steal.
--   Can be modified with a Tornado Spark, adding an additional spinning slash at the end of the initial slashes. (Extra 19.14 DMG)
+-   Has a base damage of 10/11.5/13/14.5/16 per level, per hit (3, 4 with Tornado Spark) with 2.75 Shadowcast scaling.
+-   Deals 9 posture damage.
+-   Has a 12 second cooldown.
+-   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
+-   Adding [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) makes Dark Blade faster.
+-   Adding [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) increases the Ether drain.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks), adding an additional spinning slash at the end of the initial slashes. (Extra 19.14 DMG)
 
  |
 | 
@@ -190,17 +193,15 @@ Shadow
  |
 | 
 
-**Effect:** _You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits._
+**Effect:** _You fire a melee-ranged shot at your mouse cursor._
 
--   Deals ~50 dmg non modded at 5 lvl, guardbreaks, 12s CD. (3 stratus and 3 perfect lenses version will do ~30. (-35%% DMG))
--   Blast spark version deals 71.04 (23.68\*3). 27 posture (9\*3), 10s CD. (With 3 stratus stones and 3 perfect lenses does 15.79 per hit, 47.37 total. (-50% DMG))
--   With 6 songchant nonmodded shadow gun 55 DMG, Blast spark 79.08 (26.36\*3)
--   Each modification makes you lose 8.33% DMG.
--   Has 9.18x PVE scale (~50 DMG PVP, 460 PVE)
--   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
--   Adding Lenses will increase the range of the blast forward
--   Adding Cloudstones/Stratus Stones will increase the height and width of the blast
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what’s displayed (I.E. a 20% Ether cost Shadow Gun will actually cost 40% of your Ether.)
+-   Has a base damage of 25/28/31/34/37 per level with 2.75 Shadowcast scaling.
+-   The Blast Spark variant has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
+-   Unmodified variant guardbreaks at level 5.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
+-   Adding [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
+-   Adding [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what's displayed (i.e. a 40 Ether cost Shadow Gun will actually cost 80 of your Ether if a Blast Spark is equipped).
 
  |
 | 
@@ -234,12 +235,15 @@ Shadow
 
 **Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. These chains slow your opponent and drain their Ether._
 
--   Deals 69 (17.25\*4) DMG, 0 Posture, 15s CD at level 5.
--   With 6 songchant 76.8 (19.2\*4) DMG
--   Has 9.178x PVE scale (17.25 PVP DMG, 158.32 PVE)
--   Casts an extra chain at level 5.
--   Duration of the chain effect can be increased with Logstones
--   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
+-   Has a base damage of 10.5/11.48/12.46/13.44/14.42 per level, per hit (3) with 2.75 Shadowcast scaling.
+-   Deals no posture damage.
+-   Has a 15 second cooldown.
+-   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
+-   The chains slow your opponent on hit.
+-   Duration of the chain effect can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Chain projectile speed can be increased with [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers).
+-   Projectile range can be increased with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers).
+-   Can be upgraded with the _Blighted Song_ Talent, applying the [Blight](Status_Effects.md#blight) status effect on hit, disabling your own and your opponent's ability to cast Mantras while Shadow Chains is active. While this effect is active, you gain damage reduction to Mantras.
 
  |
 | 
@@ -271,15 +275,14 @@ Shadow
  |
 | 
 
-**Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times._
+**Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow._
 
--   Deals 31.1 (34.61 With 6 songchant) DMG total, 5.5 posture, 11s CD at 5 lvl.
--   0.55 second windup and 12 second cooldown.
--   Has 9.178x PVE scale (31.1 DMG PVP, 285.46 PVE DMG)
--   Unaffected by Glass & Magnifying Stones.
--   Cloud and Stratus Stones increase the size of the eruption.
--   Pretty similar to Flamecharm's [Flame Repulsion](Flamecharm.md#flame-repulsion), but with no knockback.
--   The second hit does not apply parry stun on the user.
+-   Has a base damage of 20/21.5/23/24.5/26 per level with 2.75 Shadowcast scaling.
+-   Deals 5 posture damage.
+-   Has a windup of 0.45 seconds with a 0.4 second delay before the second hit. Has a 12 second cooldown.
+-   The "second hit" does not deal damage and does not grant parry stun to the user if it is parried.
+-   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the size of the eruption.
 
  |
 | 
@@ -313,13 +316,13 @@ Shadow + Slash
 
 **Effect:** _The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase_ nearby opponents.
 
--   Deals 82.65 (16.53\*5) DMG, 1 posture per hit, 14s CD
--   With 6 songchant 93.2 (18.64\*5) DMG
+-   Has a base damage of 10/11/12/13/14 per level, per hit (5) with 2.75 Shadowcast scaling.
+-   Deals 1 posture damage per hit (5).
+-   Has a 14 second cooldown.
 -   Shares a cooldown with Shadow Meteors.
--   If attacked while casting, the Shadow Seekers will dissipate
--   You cannot use any Mantras after using this Mantra until the orbs have either hit the target or despawned.
--   If managed to hit, Shadow Seekers will replenish equal or more Ether cost.
--   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
+-   If attacked while casting, the Shadow Seekers will dissipate.
+-   You cannot use any Mantras for a long duration after casting this Mantra. This will end early if all of your Shadow Seekers hit your target.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers. The amount of Seekers gained from modifiers scales on the Mantras level. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
 
  |
 | 
@@ -353,12 +356,13 @@ Shadow, Blunt (Slam)
 
 **Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground._
 
--   Deals 37.29 (32.29 + 5 slam) DMG, 5.5 posture, 10s CD.
--   With 6 songchant 40.94 (35.94+5) DMG.
--   Has 9.18x PVE scale, slam has 6.5x (32.29 DMG + 5 Slam PVP, 296.44 DMG + 32.4 slam)
--   Drift and Rush Shards increase projectile speed.
--   Cloud and Stratus Stones increase range.
--   Can be modified with a Blast Spark, making your Rising Shadow apply a status effect that massively increases Mantra Ether cost and returns a portion of Ether consumed to the user if enemies manage to cast a Mantra, if your Ether is full you emit a wave of shadow.
+-   The first hit has a base damage of 15/18/21/24/27 per level. The second hit has a base damage of 5 regardless of level. Both hits have 2.75 Shadowcast scaling.
+-   Deals 5 posture damage.
+-   Has a 10 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
+-   [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase range.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
 
  |
 | 
@@ -392,9 +396,12 @@ Shadow
 
 **Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location._
 
--   Deals 125.58 (41.86\*3), 6.3 (2.1\*3) posture, 16s CD.
--   With 6 songchant 139.77 (46.59\*3) DMG
--   Has 9.179x PVE scale (41.86 PVP DMG, 384.27 PVE DMG)
+-   Has a base damage of 25/27.5/30/32.5/35 per level, per hit (3) with 2.75 Shadowcast scaling.
+-   Deals 2 posture damage per hit (3).
+-   Has a 15 second cooldown.
+-   Has 9.179x PvE scaling (multiply damage dealt by 9.179 to get PvE damage).
+-   After casting Shadow Meteors, you need to M1 to call them down.
+-   You cannot cast Mantras while Shadow Meteors is active.
 -   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 
  |
@@ -429,13 +436,14 @@ Shadow
 
 **Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them._
 
--   Deals 86.08 (10.76\*8) DMG, 28 (3.5\*8) posture, 0.6s windup,
--   With 6 songchant 95.84 (11.98\*8) DMG
--   Has 9.183x PVE scale (10.76 PVP DMG, 98.81 PVE)
+-   Has a base damage of 5/6/7/8/9 per level, per hit (8) with 2.75 Shadowcast scaling.
+-   Deals 3 posture damage per hit (8).
+-   Has a windup of 0.6 seconds.
+-   Has 9.183x PvE scaling (multiply damage dealt by 9.183 to get PvE damage).
 -   It deals repeated damage and Ether drain for the duration.
--   While casting, your movement speed will be decreased heavily.
 -   Can be parried and grants autoparry frames.
--   Shadow Roar will stop casting if hit.
+-   You cannot turn your character manually while this Mantra is active, instead Shadow Roar will slowly rotate your character to follow your opponent's movements.
+-   Shadow Roar will stop casting if you get hit.
 
  |
 | 
@@ -469,6 +477,7 @@ Shadow
 
 **Effect:** _The user performs a diagonal shadow-infused slash._
 
+-   Has a base damage of 20/24/28/32/36 per level with 2.75 Shadowcast scaling.
 -   Deals 9 posture damage.
 -   Has a 15s cooldown.
 -   This attack bears strong resemblance to [Night Axe](Night_Axe.md)'s critical attack.
@@ -506,15 +515,15 @@ Shadow, Mul. Spark: Blunt (1st Hit), Shadow
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Deals 137.54 (153.09 with 6 songchant) dmg, Guardbreak, 12s CD at 5 lvl.
--   Deals 10.76 + 110.03 dmg with Multiplying Spark. (With 6 Songchant 134.45( 11.98+122.47) DMG)
--   Has 9.18x PVE scale (137.54 PVP DMG, 1262.62 PVE DMG, Multi spark: 10.76 + 110.03 PVP DMG, 98.81 + 1010.09)
--   The axe kick does not proc Deep Gems, the Multiplying Spark's high kick does
--   Grants Hyperarmor during startup.
+-   Has a base damage of 65/77.5/90/102.5/115 per level with 2.75 Shadowcast scaling.
+-   The Multiplying Spark variant's kick has a base damage of 5/6/7/8/9 per level. The main Eclipse Kick's damage is reduced however, having a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
+-   Has a 1 second windup with hyperarmor and a 12 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
+-   The axe kick does not proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does.
+-   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.
 -   Can also break certain tiles and fell trees.
--   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
--   Unaffected by Insignia Gem.
--   If a Multiplying Spark is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the Mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
+-   Eclipse Kick is unaffected by [Insignia Gem](Insignia_Gem.md).
+-   If a [Multiplying Spark](Mantra_Modifiers.md#sparks) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage than the unmodified variant.
 
  |
 | 
@@ -548,14 +557,16 @@ Shadow + Slash
 
 **Effect:** _User creates a large black sword from their hands, using it to slash the enemy in front of them._
 
--   Deals 41.26 (45.93 with 6 songchant)\\ DMG as non-modded and spring spark, 13 posture, 12s CD
--   Spark versions: 27.51\*3 DMG, 13 posture per hit with Multi spark, 90.78 (41.26+24.76+24.76), 27.75 (13+6.76+8) posture with Multi and Spring spark.
--   With 6 Songchant Spark versions do: 91.86 (30.62\*3) DMG MULTI spark, 101.05 (45.93+27.56+27.56) DMG MULTI+SPRING spark
--   Has 9.18x PVE scale (41.26 PVP DMG,378.79 PVE DMG)
--   Can't be feinted.
--   Can be modified with a Spring Spark, making you lunge forward and slam down on the enemy.
--   Can be modified with a Multiplying Spark, making you slash three times instead of once.
--   You **can** combine Spring and Multiplying Sparks on this Mantra.
+-   Has a base damage of 22.5/25.5/28.5/31.5/34.5 per level with 2.75 Shadowcast scaling.
+-   The Multiplying Spark variant has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.
+-   Combining the Multiplying and Spring Sparks grants a base damage of 13.5/15.3/17.1/20.7 per level, per horizontal slash (2) before performing a leaping slash that deals the damage of the unmodified variant. All hits have 2.75 Shadowcast scaling. This deals 2.2x the damage of the unmodified variant.
+-   Deals 13 posture damage per hit (1, 3 with Multiplying Spark).
+-   Has a 12 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
+-   Cannot be feinted.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), making you lunge forward and slam down on the enemy.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
+-   You **can** combine the [Spring](Mantra_Modifiers.md#sparks) and [Multiplying Sparks](Mantra_Modifiers.md#sparks) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
 
  |
 | 
@@ -590,14 +601,16 @@ Blunt
 **Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._  
 **NOTE:** This Mantra has been "**vaulted**"; as of June 23rd, 2025 and until further notice, **Shadow Vortex is no longer obtainable.**
 
--   Deals around 40 DMG (Does around 75.6 (39.72 explosion+ 35.88 shadow gun) DMG if hit by shadow gun), Guardbreaks at block attempt, 20s CD
--   With 6 songchant deals around 50 DMG (86.53 DMG (46.59 explosion +39.94 shadow gun) DMG if hit by shadow gun)
+-   Has a base damage of 2/3.6/5.2/6.8/8.4 with 2.75 Shadowcast scaling.
+-   Automatically guardbreaks.
+-   Has a 20 second cooldown.
 -   Applies PVE tag to anyone who is near it.
 -   Automatically extinguishes burn on those grabbed.
--   Landing a [Shadow Gun](Shadowcast.md#shadow-gun) or [Shadow Seekers](Shadowcast.md#shadow-seekers) into the vortex after it has grabbed a target will cause it to explode, dealing extra damage and stealing a high amount of Ether.
+-   Landing a [Shadow Gun](Shadowcast.md#shadow-gun) or [Shadow Seekers](Shadowcast.md#shadow-seekers) into the vortex after it has grabbed a target will cause it to explode, dealing extra damage.
+    -   This has a base damage of 35 with 2.75 Shadowcast scaling.
     -   Explosion doesn't happen if either Mantra was used before the vortex sucked someone in.
--   Has a vertical range cap. Ex. Cannot grab someone from the bottom of a cliff at starswept next to a jump pad.
--   Is compatible, and can be modified with Glass/Magnifying Stones to increase the range, though it seems to display diminishing returns.
+-   Has a vertical range cap.
+-   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the range, though it seems to display diminishing returns.
 
  |
 
@@ -662,13 +675,13 @@ Shadow + Slash
  |
 | 
 
-**Effect:** _The user will summon shadows around their target and teleport to them after a short wait._
+**Effect:** _The user will summon shadows around their target and teleport to them after a short delay._
 
--   Deals 35.88 (39.94 with 6 songchant) DMG, 6.5 posture, 1s windup, 10s CD at 5 lvl
--   Has 9.18x PVE scale (35.88 PVP DMG, 329.38 PVE DMG)
--   Mantras can not be cast during the windup of Encircle.
--   Attacks initiated during the windup will continue after the teleport.
--   Will still teleport the user if parried/dodged
+-   Has a base damage of 10/15/20/25/30 per level with 2.75 Shadowcast scaling.
+-   Deals 6 posture damage.
+-   Has a windup of 1 second with a 10 second cooldown.
+-   Attacks initiated during the windup will continue after the teleport, but Mantras cannot be cast during Encircle's windup.
+-   Will still teleport the user even if the Mantra is parried or dodged.
 
  |
 | 
@@ -702,16 +715,16 @@ Shadow
 
 **Effect:** _Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards._
 
+-   Has a base damage of 20/21.5/23/24.5/26 per level with 2.75 Shadowcast scaling.
+-   Deals 13 posture damage.
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
--   Deals 31.1 (34.61 with 6 songchant) DMG, 14.5 posture, 12s CD
--   Has 9.178x PVP scale (31.1 DMG PVP, 285.46 PVE)
+-   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
 -   While submerged you have I-Frames.
 -   You can't block, parry, or jump while submerged.
 -   Pressing M1 sends you out early and pressing M2 causes you to walk and run normally for the rest of the mantra.
 -   NPCs can spot you underground.
 -   Shares a cooldown with [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow).
--   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow) Shade step will not force the user out of the mantra if they're near someone.
--   Can't be modified.
+-   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow) Shade Step does not end early when in close proximity to a potential target.
 
  |
 | 
@@ -743,16 +756,16 @@ Shadow + Slash/Blunt (Bl. Spark)
  |
 | 
 
-**Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable._
+**Effect:** _Ready yourself before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness._
 
--   Deals 51.67 (57.51 with 6 songchant) DMG, 9.5 posture, 12s CD
--   With Blast spark: 75 (3.75\*20) DMG, 10.53 posture per hit if u will try to block during blast spark multi hit attack.
--   With 6 songchant Blast spark deals 83 (4.15\*20) DMG
--   Has 9.18x PVE scale (51.67 DMG PVP, 474.3 PVE DMG)
+-   Has a base damage of 8/12/24/36/48 with 2.75 Shadowcast scaling.
+-   The Blast Spark variant has a base damage of 0.52/0.78/1.57/2.35/3.14 per level, per hit (20) with 2.75 Shadowcast scaling.
+-   Deals 1.5/2.5/4.5/6.5/8.5 posture damage per level.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Its distance is reduced by 60% when used in water.
--   Crystal/Perfect Lenses increase distance.
--   Glass and Magnifying Stones make hitbox larger.
--   Can be modified with a Blast Spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
+-   [Crystal](Mantra_Modifiers.md#regular-modifiers) [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase distance.
+-   [Glass](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) make hitbox larger.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a barrage of shadows. This variant can only be used if you are at or below 40% of your maximum health.
 
  |
 
@@ -819,15 +832,16 @@ Shadow
 
 **Effect:** _Causes a damaging shockwave that adds a +20% weapon damage buff to the user. Consumes health upon use._
 
--   Deals 16.27 DMG, 8.6 posture per hit, 19s CD.
--   Spark versions: 24.64 dmg with Blast Spark, 48.81 (16.27\*3) DMG with Multi spark and 48.81 (16.27\*3) DMG with Multi + Blast Spark
--   With 6 songchant 27.42 with Blast spark, 54.3 (18.1\*3) DMG with Multi spark and 54.3 (18.1\*3) DMG with Multi + Blast Spark
--   Has 9.177x PVE scale (16.27 PVP, 149.32 PVE)
--   The damage buff can be increased to 25% with Vibrant Gems
--   Can be modified with Aeon/Eternal Logstones to increase duration of buff.
--   Spine Cutter cannot be used while Shade Devour is active
--   Can be upgraded with a Blast Spark to perform a bigger shockwave.
--   Can be upgraded with a Multiplying Spark to perform 3 shockwaves instead of 1.
+-   Has a base damage of 7/8.65/10.3/11.95/13.6 per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
+-   The Blast Spark variant has a base damage of 14/15.65/17.3/18.95/20.6 per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
+-   Deals 8 posture damage per hit (1, 3 if Multiplying Spark). The Blast Spark variant guardbreaks.
+-   Has a 19 second cooldown.
+-   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
+-   The damage buff can be increased with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration of buff.
+-   [Spine Cutter](Talents.md#vigil-swordsman) cannot be used while Shade Devour is active
+-   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a bigger shockwave that guardbreaks.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
 
  |
@@ -862,6 +876,8 @@ N/A
 
 **Effect:** _Creates an Eye that steals the Ether of anybody that casts a Mantra within its gaze._
 
+-   Anyone who attempts to cast a Mantra while in the range of your Devouring Eye will have their Mantra cast canceled and the Ether cost will be consumed and transferred to the caster.
+
  |
 | 
 
@@ -894,9 +910,8 @@ N/A
 
 **Effect:** _Cloaks the caster in darkness and reduces their visibility. Ritual Casted._
 
--   Grants passive tempo regeneration
--   Visibility reduction towards the caster is reduced
--   Currently can bug, not allowing you to complete the ritual cast and requiring you to holster your weapon.
+-   Grants passive tempo regeneration.
+-   Periodically covers the user in shadows, lowering visibility.
 
  |
 

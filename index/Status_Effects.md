@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 161370
+revid: 161420
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -349,6 +349,10 @@ Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or bei
 ### Blight
 
 You and the caster are unable to cast Mantras for a duration. Applied through the [Shadow Chains](Shadowcast.md#shadow-chains) Mantra with the [Blighted Song](Talents.md#darksiphon) Talent. This status effect doesn't have a special visual indicator outside of the Shadow Chains Mantra.
+
+### Shadowed Touch
+
+Grasp your opponent with your shadows, increasing the Ether cost of all of their Mantras. Additionally, a portion of their Ether spent on Mantras will be returned to you. If your Ether is full, this will overflow into your Tempo instead. Applied through the [Rising Shadow](Shadowcast.md#rising-shadow) Mantra with the [Blast Spark](Mantra_Modifiers.md#sparks) modifier, this effect is signified by the shadow tendril connecting yourself to your opponent.
 
 ### Laced Traps
 
