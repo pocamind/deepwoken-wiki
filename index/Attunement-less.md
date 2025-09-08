@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 161359
+revid: 161414
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1651,6 +1651,7 @@ Slash
 -   Deals Chip Damage.
 -   Deals knockback.
 -   Can be modified with a Glass/Magnifying stone to make it bigger
+-   If used with the Forgotten Gladius, the speed of this mantra will be much faster.
 
  |
 | 

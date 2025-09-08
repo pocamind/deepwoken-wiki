@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161387
+revid: 161401
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -888,16 +888,20 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
 
 -   _Knife's Journey_ \[Rare Talent, Light\] - \[Daggers\] Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
+    -   Displays a red particle on the target enemy after proccing.
     -   Prerequisite: 30 Light Weapon
 
 -   Decisive Blow \[Common Talent, Light\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
-    -   While the effect is active, gain a red trail on your weapon.
-    -   The red trail will show up on non-daggers, but will have no effect.
+    -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect.
+    -   Compatible with Switchblade despite not being a Dagger talent.
     -   Prerequisite: Knife's Journey
 
 -   Successive Throw \[Common Talent\] - \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
-    -   If multiple opponents are flourished, then the person who gets targetted by daggers will get targetted by all of them
-    -   Deals 5 damage on proc. (doesnt scale with weapon or traits)
+    -   If your cursor isn't on an enemy after flourishing them, it will throw it at the enemy closest to your cursor. If your cursor is on a separate player from who you flourished, the dagger will be thrown at them instead.
+    -   Will take 1.5 seconds to throw the dagger after flourishing someone.
+    -   If the target is too close to you, the thrown dagger projectile will be invisible; otherwise, the thrown dagger projectile will look similar to Ice Daggers' projectile.
+    -   The range for the projectile to go and how far away it can proc is unknown.
+    -   Deals 5 damage on proc. (doesn't scale with weapon or traits)
     -   Prerequisite: 35 Light Weapon
 
 ### Cryomancer

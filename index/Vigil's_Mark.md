@@ -1,6 +1,6 @@
 ---
 title: "Vigil's Mark"
-revid: 152479
+revid: 161402
 source: https://deepwoken.fandom.com/wiki/Vigil's_Mark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Etrea]
@@ -10,7 +10,7 @@ categories: [Locations, Etrean Luminant, Etrea]
 
 LocationL Vigil's Mark LocationR
 
-TERRITORY OF ETREA (LAWLESS AREA)
+TERRITORY OF Etrea (Lawless)
 
 A common spot for vigils-to-be to test both mettle and metal.
 

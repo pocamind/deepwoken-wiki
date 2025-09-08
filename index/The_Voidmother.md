@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 152444
+revid: 161413
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Knives of Eylis]
@@ -8,9 +8,9 @@ categories: [NPCs, The Knives of Eylis]
 
 # The Voidmother
 
-| Voidmother | |
+| The Voidmother | |
 |---|---|
-| name | Voidmother |
+| name | The Voidmother |
 | aspect | Unknown |
 | location | Voidheart |
 
