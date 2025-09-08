@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 161228
+revid: 161436
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1741,11 +1741,11 @@ If you have less than 100 Frostdraw, your chill duration (when applied through b
 -   Nullifying clarity does not reduce Chilled duration. Instead, it gets rid of the Slow effect of your Chill.
 -   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
 -   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
--   **The source for the frost Mantras damage: (This is outdated, and some of these Mantras have gotten their damage reduced. Example: Ice Cubes deal 72 damage, not 90)**
 -   When **Glacial Arc** is used in layer 2 of the depths, it will start falling apart piece by piece.
     
     File:Frost Mantras damage.png
     
+-   [Navae](Lore.md#navae) is the pioneer of Frostdraw.
 
 ## References
 

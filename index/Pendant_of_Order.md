@@ -1,6 +1,6 @@
 ---
 title: Pendant of Order
-revid: 161308
+revid: 161433
 source: https://deepwoken.fandom.com/wiki/Pendant_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Equipment, Torso, Necklaces]
@@ -35,4 +35,4 @@ On equip, this grants 3% Physical Armor, +1 Rare Pip, and +1 Legendary Pip.
 ## Trivia
 
 -   Unlike the [Party Hat](Party_Hat.md), the pendant cannot be dropped.
--   The description is possibly a reference to a shirt sent by the dutch government saying “I hacked the Dutch government and all I got was this lousy t-shirt”.
+-   The description is likely a reference to merchandise often sold in popular tourist locations, typically being along the lines of "I went to \[Location\] and all I got was this lousy T-shirt."
