@@ -1,11 +1,9 @@
 ---
 title: Flareblood Kamas
-revid: 161376
+revid: 161486
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
-notices:
-  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily.Reason: As of the September 5-6th, 2025 update, the Flareblood Kamas has been set to a placeholder, and any currently equipped Kamas is converted into a \"Sword\" that prevents mantra or weapon use until switched with another weapon. This will also void the Flareblood Kamas."
 ---
 
 # Flareblood Kamas

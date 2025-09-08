@@ -1,9 +1,9 @@
 ---
 title: Korin
-revid: 157567
+revid: 161520
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
+categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Korin
@@ -32,15 +32,11 @@ Upon talking to him, Korin will give the player a free lumber axe if the player 
 
 ### **Selling Wood**
 
-It is recommended to **BUY THE 2 NOTES WOOD FROM THE [ETRIS](Etris.md) [BLACKSMITH](Blacksmith.md)** area rather than the more costly 5 notes wood from the general store. Alternatively, the player can chop up trees or pick up sticks to craft wood.
+It is recommended to **BUY THE 2 NOTES WOOD FROM THE [ETRIS](Etris.md) [BLACKSMITH](Blacksmith.md)** area rather than the more costly 5 wood from the general store. Alternatively, the player can chop up trees or pick up sticks to craft wood.
 
-File:Blacksmith wood price.png
+Wood from the blacksmith's costs only 2 ...
 
-Wood from the blacksmith's costs only 2 notes...
-
-File:General store wood price.png
-
-..whereas wood costs 5 notes each in the general store.
+..whereas wood costs 5 each in the general store.
 
 If starting out with neutral reputation with [Etrea](Etrea.md), the player needs at least ~100 wood to begin the [Duke Erisia](Duke_Ishamon_Erisia.md) quest, which translates to ~200 notes, if the wood is purchased from the blacksmith. If the player wants to get Hero reputation with [Etrea](Etrea.md), they would need around ~1,000 notes to achieve it, which translates to about ~500 wood or about 10 minutes of buying and selling wood.
 

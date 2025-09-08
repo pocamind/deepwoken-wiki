@@ -1,9 +1,9 @@
 ---
 title: Firfire
-revid: 159705
+revid: 161475
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Layer 2, Floor 1]
+categories: [Locations, Layer 2, Floor 1]
 ---
 
 # Firfire
@@ -13,8 +13,6 @@ LocationL Firfire LocationR
 The opening gives way to a small town inhabited by structures that appear familiar yet alien.
 
   
-
-File:Firfire.png
 
 ## Overview
 

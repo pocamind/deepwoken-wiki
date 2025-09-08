@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 159949
+revid: 161452
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -22,29 +22,26 @@ Also known as Kyrsans, the Kyrsgarde are an intelligent form of species unlike t
 
 ## Kyrsans
 
-Friendly Kyrsans are found in The Ethironal Shrine, with only three in The City being friendly.
+Friendly Kyrsans are found in [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md), with only three in [The City](Second_Layer/New_Kyrsa.md) being friendly.
 
-Shrine Kyrsans:
+-   Shrine Kyrsans:
+    -   [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md)
+    -   [Aesalath Kalafrid](Aezeroth_Kaladin.md)
+    -   [Eltus Ferikus Pleristus Zzetchus](Eltus_Ferikus_Pleristus_Zzetchus.md)
+    -   [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)
+    -   [Kadrivus Entomolius Auditan](Kadrivus_Entomolius_Auditan.md)
+    -   [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md)
 
--   [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md)
--   [Aesalath Kalafrid](Aezeroth_Kaladin.md)
--   [Eltus Ferikus Pleristus Zzetchus](Eltus_Ferikus_Pleristus_Zzetchus.md)
--   [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)
--   [Kadrivus Entomolius Auditan](Kadrivus_Entomolius_Auditan.md)
--   [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md)
+-   City Kyrsans:
+    -   [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md)
+    -   [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md)
+    -   [Naerotiv](Naerotiv.md)
 
-City Kyrsans:
-
--   [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md)
--   [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md)
--   [Naerotiv](Naerotiv.md)
-
-Enemy Kyrsan found within the City:
-
--   [Kyrsgarde Brute](Kyrsgarde_Brute.md)
--   [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)
--   [Kyrsgarde Lancer](Kyrsgarde_Lancer.md)
--   [Kyrsgarde Sniper](Kyrsgarde_Sniper.md)
+-   Enemy Kyrsans found within the City:
+    -   [Kyrsgarde Brute](Kyrsgarde_Brute.md)
+    -   [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)
+    -   [Kyrsgarde Lancer](Kyrsgarde_Lancer.md)
+    -   [Kyrsgarde Sniper](Kyrsgarde_Sniper.md)
 
 ## Trivia
 

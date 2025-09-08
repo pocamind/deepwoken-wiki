@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 160000
+revid: 161516
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones, The Ignition Union, Eastern Luminant, Locations in the Eastern Luminant]
@@ -20,7 +20,7 @@ The air itself feels as if it were becoming ash, as the embers around you radiat
 
 ## Overview
 
-Saramaed Summit is an area within the upper area of [Miner's Landing](<Miner's_Landing.md>), accessible through hallways past the boiler room's circular vault door. The air is constantly permeated with a thick, misty orange, and many Mechalodaunts are often present throughout the area.
+Saramaed Summit is an area within the upper area of [Miner's Landing](<Miner's_Landing.md>), accessible through hallways past the boiler room's circular vault door. The air is constantly permeated with a thick, orange mist, and many Mechalodaunts are often present throughout the area.
 
 There are multiple entrances that lead to Saramaed Summit. One entrance, located to the right of the boiler room's vault door, requires a [Resonance](Resonance.md) to open. The other entrance is located in a room with an Ignition Union NPC and does not have a Resonance door.
 

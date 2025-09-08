@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 160875
+revid: 161512
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -12762,7 +12762,7 @@ B l e e d D a m a g e \= W e a p o n D a m a g e × 1.3 {\\displaystyle BleedDam
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Soulwrought Gun](Crazy_Slots.md) (16)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
-    -   Range: [Repeater](Repeater.md), [Soulwrought Flintlock](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
+    -   Range: [Repeater](Repeater.md), [Soulwrought Gun](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
     -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md) (1.33x)
     -   Highest DPS: [Soulwrought Greatsword](Crazy_Slots.md) (110 DPS)
     -   Unique Crits: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
