@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 156969
+revid: 161575
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, Medium Weapons]
@@ -35,7 +35,7 @@ The True Seraph Spear is a MED [weapon](Weapons.md). This spear can be obtained 
 
 ## Critical
 
-The user performs a quick downslash before lunging forward. Both hits of this critical have **innate bleed** and deal 1x scaled damage.
+The user performs a quick downslash before lunging forward. Both hits of this critical have **innate** [bleed](Status_Effects.md#bleed) and deal 1x scaled damage.
 
 The critical has a cooldown of **7 seconds**.
 

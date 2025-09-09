@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 161554
+revid: 161566
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Isle of Vigil]
@@ -75,7 +75,7 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
 </tr>
 <tr>
   <td colspan="6">No word yet from Erisia? If you sail out from the docks and take a right you can't miss it...</td>
-  <td colspan="6">Thank you for saving my brother... I don't think I could've continued without him. Thanks to you stranger, I'm gonna continue pursuing my dreams! To be the world's greatest wind scholar!</td>
+  <td colspan="6">Thank you so much for saving my brother... I'm afraid I have little offer other than an audience with Maestro Rest. Please go speak with him.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
@@ -92,7 +92,7 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Thank you so much for saving my brother... I'm afraid I have little offer other than an audience with Maestro Rest. Please go speak with him.</td>
+  <td colspan="12">Thank you for saving my brother... I don't think I could've continued without him. Thanks to you stranger, I'm gonna continue pursuing my dreams! To be the world's greatest wind scholar!</td>
 </tr>
 <tr>
   <td colspan="2">End</td>

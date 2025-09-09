@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161546
+revid: 161577
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3867,7 +3867,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Works in PvE, but you cannot stack PvE combat tags like you can PvP ones, leading to lessened effectiveness.
 
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) now deal extra damage based on how much Willpower you have.
-    -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment.
+    -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals physical damage.
     -   This deals 0.0752 damage per 1 Willpower investment, dealing 3.76 additional damage at 50 Willpower and 7.52 additional damage at 100 Willpower.
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
