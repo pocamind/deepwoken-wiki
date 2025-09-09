@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 157937
+revid: 161599
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs]
@@ -481,7 +481,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
   <td><div><p><b>Quest Location</b>: Miner's Landing<br>
   <b>Guide</b>: Talk to an NPC named Orion near the <a href="Oath%253A_Arcwarder.md">Arcwarder Oath</a> giver and <a href="Deepdelver_Tau.md">Deepdelver Tau</a>. He will ask you to help clear out the four Summer Company invaders at the upper generator.<br>
   <b>Reward(s)</b>: Reputation, EXP, Bravery, Door Unlock, <a href="Ignition_Delver.md">Ignition Delver</a> Origin</p></div></td>
-  <td><figure>File:Orion summers dusk.png<figcaption><p></p><div><a href="Orion.md">Orion</a></div><p></p></figcaption></figure></td>
+  <td><figure><figcaption><p></p><div><a href="Orion.md">Orion</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

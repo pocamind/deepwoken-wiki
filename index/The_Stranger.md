@@ -1,6 +1,6 @@
 ---
 title: The Stranger
-revid: 116671
+revid: 161578
 source: https://deepwoken.fandom.com/wiki/The_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,6 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Stranger](Stranger%253Fredirect=no.md)
-
-he sigma
+-   [Quiet Stranger](Quiet_Stranger.md)

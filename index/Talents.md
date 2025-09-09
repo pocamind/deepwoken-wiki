@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161577
+revid: 161608
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3955,7 +3955,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Corrosive Touch: [Arachnid's Weave](<Arachnid's_Weave.md>) - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
     -   Drain 5% of your opponent's armor after landing a Critical attack or Flourish. This has a 10 second cooldown and can only proc once per critical attack.
 -   Cosmic Connection: [Celestial Boots](Celestial_Boots.md) - All celestial and astral related abilities are buffed.
-    -   Increases your [Astral](Astral.md) enchant damage bonus on basic attacks from +25% to +29%.
+    -   Increases your [Astral](Astral.md) enchant damage bonus on basic attacks from +20% to +25%.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-Basic Attacks have 20% PEN.
     -   Grants +20% PEN to anything that is not a weapon attack.
         -   Primarily, this is just 20% Mantra PEN, however this will also affect non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
