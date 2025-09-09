@@ -1,6 +1,6 @@
 ---
 title: Candied Fruit
-revid: 160741
+revid: 161614
 source: https://deepwoken.fandom.com/wiki/Candied_Fruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -11,7 +11,7 @@ categories: [Items, Food]
 | Candied Fruit | |
 |---|---|
 | weight | 2 |
-| stack | x20 |
+| stack | x10 |
 | type | Food |
 | food type | Plant |
 | stomach | 20% |

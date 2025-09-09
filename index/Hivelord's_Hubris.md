@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 157086
+revid: 161622
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -47,6 +47,7 @@ At 100 HVY it deals **49** damage and **57.2** with 6 proficiency.
 -   One of the most damaging heavy weapons in the entire game, being on par with the damage from [Crazy Slots](Crazy_Slots.md)' Divine Weapons.
 -   If you pair this with the Heavy Hands Ring, you can make the swing speed 0.58x, making it **very difficult to parry**. More experienced players may take advantage of it, but it tends to be unpredictable for many.
 -   The name might be a humorous reference to the humerus, a major bone of the arm.
+-   Despite having 10 range in statistics it has less M1 range than the [Pale Briar](Pale_Briar.md), another heavy weapon with 10 range.
 
 ## References
 

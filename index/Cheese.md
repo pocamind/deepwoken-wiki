@@ -1,6 +1,6 @@
 ---
 title: Cheese
-revid: 160742
+revid: 161613
 source: https://deepwoken.fandom.com/wiki/Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food, Food Ingredients]
@@ -11,8 +11,8 @@ categories: [Items, Food, Food Ingredients]
 | Cheese | |
 |---|---|
 | weight | None |
-| stack | x20 |
-| type | Ingredient & Food |
+| stack | x10 |
+| type | Food |
 | food type | Generic |
 | stomach | 15% |
 | water | 1% |
@@ -32,8 +32,15 @@ It is a type of **Generic** food.
 
 When consumed, it replenishes 15% Stomach and 1% Water.
 
-## Uses
+## Crafting
 
--   Cooked into [Grilled Cheese](Grilled_Cheese.md).
--   Cooked into [Crab Pizza](Crab_Pizza.md).
--   Cooked into [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md).
+### Used in
+
+-   [Grilled Cheese](Grilled_Cheese.md) - 1 **Cheese** and 1 [Bread](Bread.md) at a [Campfire](Campfire_Pit.md).
+-   [Crab Pizza](Crab_Pizza.md) - 1 [Bread](Bread.md), 1 **Cheese**, and 1 [Crustacean Meat](Crustacean_Meat.md), no [Campfire](Campfire_Pit.md) required.
+-   [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) - 3 [Browncaps](Browncap.md), 2 [Crustacean Meat](Crustacean_Meat.md), and 1 **Cheese** at a [Campfire](Campfire_Pit.md).
+
+## Trivia
+
+-   This item is subject to a bug where if you don't have any of the item in your inventory, when buying from food vendors the purchase prompt slider will max out at 20 and you're able to purchase 20 of the item at once, bypassing its original stack limit of 10. This bug doesn't happen if you have at least 1 of the item in your inventory, in which the slider will properly max out at 9.
+    -   Note that this doesn't apply to [The Meat Lord](The_Meat_Lord.md) as purchasing from his shop doesn't bring up a slider prompt.

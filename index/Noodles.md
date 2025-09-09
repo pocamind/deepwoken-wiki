@@ -1,6 +1,6 @@
 ---
 title: Noodles
-revid: 160632
+revid: 161617
 source: https://deepwoken.fandom.com/wiki/Noodles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items]
@@ -11,7 +11,7 @@ categories: [Food, Items]
 | Noodles | |
 |---|---|
 | weight | 1 |
-| stack | x20 |
+| stack | x12 |
 | type | Food |
 | food type | Generic |
 | stomach | 30% |
