@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 161286
+revid: 161552
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -14,9 +14,15 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 | aspect | Celtor |
 | location | Minityrsa |
 
+“ Thank you again, traveler. The Ministry must be stopped, lest we fall victim to their power. ”
+
+― Elykris
+
 ## Description
 
-Elykris is a [Celtor](Celtor.md) NPC at [Minityrsa](Minityrsa.md). He gives the quest "Ministry Secrets" that tasks the player to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards the plater with 3 Aces and a Curiosity [Talent](Talents.md) hand.
+Elykris is a [Celtor](Celtor.md) NPC at [Minityrsa](Minityrsa.md).
+
+He gives the quest "Ministry Secrets" that tasks the player to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards the player with 3 Aces and a Curiosity [Talent](Talents.md) hand.
 
 Elykris wears the old version of the [Darksteel Plate](Darksteel_Plate.md) schematic, a Black Parka, a [Black Blindfold](Blindfold.md), and a [Brigand's Bicorn](<Brigand's_Bicorn.md>).
 

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 157721
+revid: 161535
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -105,10 +105,6 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
 -   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail near certain bubble particles. A larger group of bubbles will instead spawn a [Dread Serpent](Dread_Serpent.md).
 -   The regular Cero will not damage you if it goes through a solid object before hitting you, nor does the reduced-windup variant.
     -   This makes it very easy to cheese by simply going on a ledge that is just above the Lionfish, or hiding from its line of sight (e.g using a tree) to prevent getting hit by Cero.
-
-## Gallery
-
-<
 
 ## Trivia
 

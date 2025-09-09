@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 161240
+revid: 161540
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Wea
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Etris Weapon shop, Erisia Chests, Chime of ConflictAlloyed:, Alloying a Messer |
-| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world alike., Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world over. |
+| description | Considered by many to be an overgrown kitchen knife, the Messer is a favourite of rangers and beast hunters the world over. |
 
 ## Description
 

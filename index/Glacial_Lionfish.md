@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 153562
+revid: 161534
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -47,4 +47,4 @@ Parryable: ✗ Blockable: ✗ Dodgeable: ◯
 
 -   All standard tips from the regular [Lionfish](Lionfish.md) page apply here, though fight the Glacial Lionfish with more caution as it can take many more hits, especially when corrupted.
 -   Like the regular [Lionfish](Lionfish.md), Glacial Cero can be negated by getting out of its line of sight, such as using a wall or object.
--   for some reason, they can spawn Frostbitten despite already being attuned to Frostdraw
+-   They can spawn Frostbitten despite already being attuned to Frostdraw.

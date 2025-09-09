@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 157481
+revid: 161549
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -50,4 +50,4 @@ This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwar
 
 -   One of the first two Twinblade weapons added to the game, the other being the [Crescendo](Crescendo.md).
 -   This weapon might be inspired by a Shadow Fight 3 weapon called [Fate Slicer](https://shadowfight.fandom.com/wiki/Fate_Slicer)
--   This is also one of the few weapons that change description when alloyed.
+-   This is one of very few weapons that change description when alloyed.

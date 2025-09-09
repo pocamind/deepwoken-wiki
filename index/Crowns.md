@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 161351
+revid: 161526
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency]
@@ -95,8 +95,8 @@ Crowns are able to be exchanged for Knowledge or Notes by interacting with the i
 </tr>
 <tr>
   <td>11</td>
-  <td>?</td>
-  <td>?</td>
+  <td>644</td>
+  <td>3</td>
 </tr>
 <tr>
   <td>12</td>

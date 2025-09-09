@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161401
+revid: 161546
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -772,8 +772,8 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Underdog \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
     -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
-    -   The damage bonus starts at +2% damage with 20 Willpower and scales up to +4% damage at 60 Willpower, gaining +0.05% damage per point in Willpower, but capping at 4%.
-        -   Having less than 20 Willpower will not cause the Talent to get any weaker.
+    -   Underdog's scaling formula is as follows: +(1.5 + Willpower/40)% damage. In other words, this grants a 1.5% damage bonus that gains +0.025% per point in Willpower.
+        -   Despite what the description states, this grants a 2.25% damage bonus at 30 Willpower, and it does not cap at 60 Willpower, instead capping at 100 with +4% damage.
     -   "Higher HP" refers to current HP.
     -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
     -   Prerequisite: 30 Willpower

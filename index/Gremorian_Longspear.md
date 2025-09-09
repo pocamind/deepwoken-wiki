@@ -1,9 +1,9 @@
 ---
 title: Gremorian Longspear
-revid: 156904
+revid: 161555
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons]
+categories: [Weapons, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons]
 ---
 
 # Gremorian Longspear
@@ -43,11 +43,9 @@ For the [alloyed](Pluripotent_Alloy.md) version, meeting the MED requirement for
 
 ## Critical
 
-One person caught within a certain radius of the critical attack will be pulled in, signified by a white line connecting to the victim's torso. This attack cannot be blocked. Opponents pulled in will be pulled the same distance as the critical initially travelled meaning that landing it on an opponent right in front of you will likely place them further behind you while pulling them in from the farthest range will put them right in front of you instead. The critical has 15% chip damage.
+The user throws the spear towards the enemy, linking their hand to the spear with a white chain. One target caught by the spear will be pulled towards the user. This attack has 15% chip damage and the pull cannot be blocked. Opponents pulled in will be at the same distance as the critical initially travelled.
 
-Gremorian Longspear Critical
-
-Gremorian Longspear Critical
+The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
@@ -55,4 +53,5 @@ Gremorian Longspear Critical
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the [Ministry Scouts](Ministry_Scout.md) and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
 -   Critical attack reels players in and stuns them even if they block it.
--   Currently the only spear in the game with 1x swing speed, making it the fastest spear yet (alloyed).
+-   This weapon was once able to pull players who had a forcefield on them out of it.
+-   One of the two spears that have 1x swingspeed, the other being the [Imperial Staff](Imperial_Staff.md).

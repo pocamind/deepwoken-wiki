@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 138508
+revid: 161545
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -61,7 +61,7 @@ It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oat
 
 The Void Feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md).
 
-Cannot be deposited nor can it be dropped by players normally; unknown whether or not it drops on death
+Cannot be deposited nor can it be dropped by players, even on death.
 
 ## Uses
 

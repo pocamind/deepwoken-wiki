@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 159688
+revid: 161541
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -123,6 +123,7 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 -   You cannot M1 or use Mantras here, but you can use your weapon's critical or side-hand pistol (if you have one equipped), though it can't interact with the environment.
 -   There is currently no known way to die here, as fall damage is disabled and so is any form of PVP damage, starving also only drains the player's health down to 50%. It is unclear if bleeding out is possible, using Boulder does not execute you here, and dying here would most definitely be a bug and would send you here again.
 -   Owls and Lesser Angels can seemingly spawn here, but they are unable to actually damage you.
+-   Chests can also spawn here, but they cannot be opened.
 -   Fragments of Self is virtually located above The Depths, which could potentially (but unlikely) be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
 -   Self doesn't update if you de-equip or equip equipment, meaning it will look like your character when you wiped.
 -   If you wiped your character through the red skull in the main menu, "Self" will be a plain white character. Due to your character not loading in the game when you wipe, since you were in the main menu, the game does not have any data to generate "Self" as it appears as the character when you wiped.
