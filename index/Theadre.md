@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 155835
+revid: 161636
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -54,7 +54,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Oh King... Do you hear our calls? Do your hear our cries for help?</td>
+  <td colspan="2">Oh King... Won't ye lift your people from this watery grave?...</td>
 </tr>
 <tr>
   <td>Who is this king you speak of?</td>

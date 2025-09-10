@@ -1,6 +1,6 @@
 ---
 title: Ignition Welder
-revid: 153359
+revid: 161635
 source: https://deepwoken.fandom.com/wiki/Ignition_Welder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, The Ignition Union]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Expert Outfits, The Ignition Union]
 | durability | 3000 Durability |
 | resistances | +25% Physical Armor, +25% Elemental Armor |
 | talents | Master Craftsman |
-| obtainment | Saramaed Hollow |
+| obtainment | Saramaed HollowMiner's Landing |
 | selling_price | 10 |
 | weight | 1 |
 
