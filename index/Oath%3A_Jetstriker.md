@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 160305
+revid: 161677
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -121,7 +121,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
     -   Provides a 25% speed boost whenever you are within 20 studs of your opponent.
     -   Contrary to the description, the duration is actually 11 seconds.
     -   Procs through block/parry/dodge, despite the description stating otherwise.
-    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI).
+    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).
     -   Has a cooldown of 30 seconds.
 
 -   **Jetstream Pursuit** - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.

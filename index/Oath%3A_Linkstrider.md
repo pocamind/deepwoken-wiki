@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 161638
+revid: 161688
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -79,8 +79,8 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 -   Obtained upon killing 1 player with an [Oath](Oaths.md)
 
 -   **Symbiotic Link** - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
-    -   -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
-        -   Red Cords (Enemies) gain a minor speed debuff.
+    -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
+    -   Red Cords (Enemies) gain a minor speed debuff.
     -   Allows you to passively see the health bar of allies, even when not active.
 -   Obtained upon killing 2 players with [Oaths](Oaths.md).
 
