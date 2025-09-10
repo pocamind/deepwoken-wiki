@@ -1,6 +1,6 @@
 ---
 title: Seroth
-revid: 161250
+revid: 161643
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs in the Etrean Luminant, Quests]
@@ -17,7 +17,7 @@ categories: [Etrean NPCs, NPCs, NPCs in the Etrean Luminant, Quests]
 
 Seroth is an Etrean amongst the ranks of the [Etrean Royal Guard](<Etrean_Royal_Guard_(NPC).md>). Located near the [Isle of Vigils](Isle_of_Vigils.md) docks, Seroth resides in a cave that acts as a makeshift workshop for experiments, with markings sprawled across the walls and books lying on the floor.
 
-Leaning against the far wall before Seroth, there lies the lifeless corpse of a [Capra](Capra.md) Ministry Agent, with their blood staining the cave floor. This person was likely killed by Seroth to advance his experiments in some fashion, as he appears to be studying the corpse.
+Leaning against the far wall before Seroth, there lies the lifeless corpse of a [Capra](Capra.md) [Ministry](The_Ministry.md) Agent, with their blood staining the cave floor. This person was likely killed by Seroth to advance his experiments in some fashion, as he appears to be studying the corpse.
 
 Seroth is trying to craft... something with the [Ancient Dagger Remains](Ancient_Dagger_Remains.md), though what he is trying to create is a mystery in and of itself. Seroth has unique dialogue if you speak to him while you have the [Sanguine Transfuser](Sanguine_Transfuser.md) equipped which heavily implies that this may be the item he was attempting to make, though this cannot be said for sure. In any case, his true motives remain unclear.
 

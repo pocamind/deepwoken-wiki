@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 161278
+revid: 161644
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Medium Weapons]
@@ -56,22 +56,22 @@ Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.
 
 ## Critical
 
-Pleeksty's Inferno has **two** different criticals.
+The Pleeksty's Inferno has two different critical attacks.
 
-For the **standing** critical, the user plunges their club into the ground, creating a small eruption and flourishing the weapon afterwards, with the last hit inflicting ragdoll.
+For the **standing** critical, the user plunges the macuahuitl into the ground, creating three small eruptions and performing an upward slash afterwards, knocking the target away with ragdoll. Each hit applies Burn. The plunge has three consecutive hits, each dealing 0.4x scaled damage, followed by the upward slash dealing 1.4x scaled damage.
 
-For the **running** critical, the user imbues the club with flame, slashing in front of them and launching a projectile, ragdolling enemies. The projectile is directional and will fly in the direction of your characters momentum.
+For the **running** critical, the user reels the macuahuitl back before unleashing a diagonal slash, creating a projectile of flame that ragdolls and burns the target. The projectile is directional and will fly in the direction of your characters momentum. The projectile deals 1.5x scaled damage.
 
-Both criticals will instantly max out your Emperor Flame stacks on hit, even if you do not have the Talent. Both criticals have an initial windup of 0.45 seconds and a cooldown of **10 seconds**.
+Both criticals will instantly max out your Emperor Flame stacks after the critical hits. Both criticals have an initial windup of 0.45 seconds and a cooldown of **10 seconds**.
 
 ## Trivia
 
 -   Elaborated in the description, a [macuahuitl](https://en.wikipedia.org/wiki/Macuahuitl) is from the Aztec culture.
-    -   In real life, macuahuitls are embedded with sharp obsidian blades, providing a sharper edge than normal swords. The tooltip for the weapon also mentions this, though the Pleeksty's Inferno does not deal slash or bleed damage.
--   You do not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately; You may use the Ignition Deepdriller if you wish. In the case that you wipe purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
+    -   In real life, macuahuitls are embedded with sharp obsidian blades, providing a sharper edge than normal swords, which is also mentioned in the description.
+-   The player does not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately. In the case that the player wipes purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
     -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded with the weapon upon Chaser's death instead of Aska's.
--   Despite the resonance doors leading to the fight with Aska, obtaining your resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the resonance doors, however, this is the more dangerous method, as you risk falling into the void while clipping through the last door on your way back from the cave.
+-   Despite the Resonance Doors leading to the fight with Aska, obtaining a Resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the Resonance Doors. However, this is the more dangerous method, as there is a risk of falling into the void while clipping through the last door on your way back from the cave.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
--   This weapon cannot be banked, or dropped.
--   The running critical shares a visual and windup with the Flamecharm mantra Flare Volley.
+    -   These characteristics are seen in the [Deepspindle](Deepspindle.md) and the [Wraithclaw](Wraithclaw.md), which emit musical note particles.
+-   This weapon cannot be banked or dropped.
