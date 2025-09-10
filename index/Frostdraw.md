@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 161436
+revid: 161703
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -52,7 +52,7 @@ Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% mo
 
 ### Mantra Damage Calculation
 
-The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
 
 ## Mantras
 

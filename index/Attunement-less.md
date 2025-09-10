@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 161637
+revid: 161700
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -47,7 +47,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 ### Mantra Damage Calculation
 
-The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
 
   
 
@@ -1644,7 +1644,7 @@ Slash
 
 **Effect:** _User performs a spinning double slice with their sword._
 
--   Deals 3+5.4/7+12.6/11+19.8/15+27/19+34.2 base damage per level with 1.65 Medium Weapon scaling.
+-   Deals 3+5.4/6+10.8/9+16.2/12+21.6/15+27 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 5 posture damage per hit (2).
 -   Initial hit has 0.525 wind-up with the follow-up having 0.4s wind-up.
 -   Master's Flourish has 0.35s endlag.

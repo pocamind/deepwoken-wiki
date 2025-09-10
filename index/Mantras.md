@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 161221
+revid: 161699
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -102,6 +102,8 @@ Base damage often increases per Mantra level. Use the Mantra's base damage at it
 Nearly all [Attunement-less](Attunement-less.md) Mantras have 1.65 investment scaling, while most [Attuned](Attunements.md) Mantras have 2.75 scaling, although there are outliers to this.
 
 This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage.
+
+**[Desmos calculator here](https://www.desmos.com/calculator/xoovzbiltk).**
 
 ### Oath Mantras
 

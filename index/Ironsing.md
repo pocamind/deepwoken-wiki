@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 161233
+revid: 161707
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -61,7 +61,7 @@ Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](So
 
 ### Mantra Damage Calculation
 
-The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
 
 ## Mantras
 

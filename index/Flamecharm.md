@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 161219
+revid: 161702
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -46,7 +46,7 @@ Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](So
 
 ### Mantra Damage Calculation
 
-The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page.
+The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
 
 ## Mantras
 
