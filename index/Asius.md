@@ -1,6 +1,6 @@
 ---
 title: Asius
-revid: 161746
+revid: 161751
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -29,6 +29,26 @@ He is a merchant who hasn't been paying his dues to the Summer Company. He can g
 Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
 
 ## Dialogue
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Hey get away, I don't want any attention over here.</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has started [Trig](Trig.md)'s quest.
 
 **First Encounter:**
 

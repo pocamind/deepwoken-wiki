@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161608
+revid: 161784
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -228,8 +228,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility)
-    -   Similar to the Bear Trap talent, prevents jumping.
-    -   The daze effect lasts for ~0.5 seconds.
+    -   Similar to the Bear Trap talent, procs Daze when you jump.
+    -   The daze effect lasts for 1 second.
     -   Prerequisite: Suffocating Impact
 
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them.
@@ -2832,6 +2832,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] - Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
     -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
+    -   Lasts 4.5 seconds.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate.

@@ -1,6 +1,6 @@
 ---
 title: Vigil Isaac
-revid: 149267
+revid: 161772
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs]

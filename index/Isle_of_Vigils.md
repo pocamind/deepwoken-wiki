@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 159693
+revid: 161774
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -120,8 +120,6 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 -   Talk to the crying Vigil guard, Apprentice Kj, on the other side of the library.
 -   He will tell you about his lost brother and will ask you to rescue him.
 -   Go deep into the [Burning Stone Gardens](Burning_Stone_Gardens.md), his brother will be near the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
-    
-    File:KjBrotherSpot.png
     
 -   Bring him a Gale Stone.
 -   Hold out the Gale Stone when you talk to him to give it to him.

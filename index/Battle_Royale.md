@@ -1,9 +1,11 @@
 ---
 title: Battle Royale
-revid: 152482
+revid: 161758
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [StubPages, Game, Locations, The Hundred Legions]
+categories: [Stub pages without reason, StubPages, Game, Locations]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Battle Royale
@@ -22,22 +24,13 @@ There is no rewards or punishments in Battle Royale mode. This mode is only acti
 -   Every once in a a while a purple/pink meteor will fall that will grant a bell to you if you interact with them similar to the totems or healing shrines, it takes a while for the action to take in effect **(BE WARNED THAT YOU ARE HIGHLY VULNERABLE WHILE DOING THIS ACTION)**
 -   You always start with the callout Talent.
 
-LocationL KINGMAKER'S ISLE LocationR
-
-TERRITORY OF THE HUNDRED LEGIONS
-
-Far to the west, warriors are forged in the heat of battle.
-
-  
 This island serves as the map for Battle Royale.
 
 ## Locations
 
-Template:Areainfobox
-
 ### [King's Colosseum](<King's_Colosseum.md>)
 
-The center point of the map, ~this is the location the zone encloses.~ The zone actually closes in on random spaces, although the area is the center of the island and map.
+The center point of the map, this is the location the zone encloses.
 
 -   **Little to no loot, High risk, one healing shrine in center**
 
