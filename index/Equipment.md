@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 161109
+revid: 161730
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -150,16 +150,11 @@ Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
-|  | 
-
-[Aazel's Horns](<Aazel's_Horns.md>)
+|  | [Aazel's Horns](<Aazel's_Horns.md>)
 
 (**Legendary**)
 
- | 
-
-_+1 Posture_
-
+ | _+1 Posture_  
 _+8% Fire Armor_
 
 +1 Rare Pip
@@ -170,27 +165,13 @@ Found from:
 
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | 
-
-N/A
-
- |
-| File:Aegis of Enmity2.png | 
-
-[Aegis of Enmity](Aegis_of_Enmity.md)
-
-(**Set**)
-
-(**Unique**)
-
- | 
-
-_+5 Health_
-
+ | N/A |
+| File:Aegis of Enmity2.png | [Aegis of Enmity](Aegis_of_Enmity.md)  
+(**Set**)  
+(**Unique**) | _+5 Health_  
 _+1 Posture_
 
-+2 Legendary Pip
-
++2 Legendary Pip  
 **Requires Power 15, Fortitude 10**
 
  | 
@@ -199,25 +180,14 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Enmity  
+ | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
 Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
-Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
-
- |
-| File:Alchemist Hat.png | 
-
-[Alchemist's Hat](<Alchemist's_Hat.md>)
-
-(**Series**)
-
- | 
-
-+1 Uncommon Pip
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
+| File:Alchemist Hat.png | [Alchemist's Hat](<Alchemist's_Hat.md>)  
+(**Series**) | +1 Uncommon Pip
 
 _+Talent: Apothecary_
 
@@ -228,32 +198,18 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
+ | Variants:  
+Normal & Big |
+| File:WesternOutlawHat.png | [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
+(**Set**) | _+2 Posture_
 
-Variants:  
-Normal & Big
-
- |
-| File:WesternOutlawHat.png | 
-
-[Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
-
-(**Set**)
-
- | 
-
-_+2 Posture_
-
-+1 Uncommon Pip
-
-_+Talent: Mass Effect_
-
-_+Set Talent: Offensive Recovery_
-
++1 Uncommon Pip  
+_+Talent: Mass Effect_  
+_+Set Talent: Offensive Recovery_  
 **Requires Power 20**
 
  | 
@@ -262,31 +218,17 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Ascended Outlaw  
+ | Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+| File:VigilHood.png | [Assassin's Hood](<Assassin's_Hood.md>)  
+(**Series**)  
+(**Set**) | _+5% Stealth_
 
- |
-| File:VigilHood.png | 
-
-[Assassin's Hood](<Assassin's_Hood.md>)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-_+5% Stealth_  
-
-+2 Rare Pips
-
-_+Talent: Deep Wound_
-
++2 Rare Pips  
+_+Talent: Deep Wound_  
 **Requires Power 6, Agility 10**
 
  | 
@@ -300,32 +242,20 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Cloaked Assassin](Cloaked_Assassin.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Gold, Pale, Mist & Crimson
 
   
-
 Set: Assassin  
 Head: [Assassin's Hood](<Assassin's_Hood.md>)  
 Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 
  |
-| File:Authorityhelm.png | 
-
-[Authority Helm](Authority_Helm.md)
-
- | 
-
-_+8 Health_  
+| File:Authorityhelm.png | [Authority Helm](Authority_Helm.md) | _+8 Health_
 
 +1 Uncommon Pip  
-
-+1 Rare Pip
-
-_+Talent: Strong Hold_
-
++1 Rare Pip  
+_+Talent: Strong Hold_  
 **Requires Power 10, Fortitude 10**
 
  | 
@@ -344,20 +274,10 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
 
- | 
+ | N/A |
+| File:Barrel Helmet.png | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
 
-N/A
-
- |
-| File:Barrel Helmet.png | 
-
-[Barrel Helm](Barrel_Helm.md)
-
- | 
-
-_+5 Health_  
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Fortitude 10**
 
  | 
@@ -366,27 +286,16 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
 Found from:
 
 -   [Artifact Turn-ins](Artifacts.md)
 
- | 
-
-N/A
-
- |
-| File:AlchemistHat.png | 
-
-[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
+ | N/A |
+| File:AlchemistHat.png | [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)  
+(**Series**) | +1 Rare Pip
 
 _+Talent: Apothecary_
 
@@ -400,24 +309,12 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [War Mode](War_Mode.md)
 
- | 
+ | Variants:  
+Normal & Big |
+| File:Big Herbalist's Hat.png | [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)  
+(**Series**) | +1 Rare Pip
 
-Variants:  
-Normal & Big
-
- |
-| File:Big Herbalist's Hat.png | 
-
-[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
-_+Talent: Herbivore_
-
+_+Talent: Herbivore_  
 _+Talent: Iron Gut_
 
  | 
@@ -432,24 +329,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Variants:  
-Normal & Big
-
- |
-| File:Black Hood.png | 
-
-Black Hood
-
-(**Series**)
-
- | 
-
-_+1 Posture_  
-_+4% Stealth_
-
- | 
+ | Variants:  
+Normal & Big |
+| File:Black Hood.png | Black Hood  
+(**Series**) | _+1 Posture_  
+_+4% Stealth_ | 
 
 Found from:
 
@@ -458,32 +342,19 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Lodestar](Lodestar.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Variants:  
-Black & Brown
-
- |
+ | Variants:  
+Black & Brown |
 | 
 
- | 
+ | [Blackleaf Helm](Blackleaf_Helm.md)  
+(**Series**) | _+5 Health_  
+_+1 Posture_
 
-[Blackleaf Helm](Blackleaf_Helm.md)
-
-(**Series**)
-
- | 
-
-_+5 Health_  
-_+1 Posture_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 _+Talent: Concussive Force_  
-
 **Requires Power 10, Fortitude 20**
 
  | 
@@ -499,30 +370,17 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Variants:  
-Blackleaf & Goldleaf
-
- |
+ | Variants:  
+Blackleaf & Goldleaf |
 | 
 
 File:Blacksteel Helm(Better Lighting).png
 
- | 
-
-[Blacksteel Helm](Blacksteel_Helm.md)
-
-(**Set**)
-
- | 
-
-_+10 Health_  
+ | [Blacksteel Helm](Blacksteel_Helm.md)  
+(**Set**) | _+10 Health_
 
 +1 Uncommon Pip  
-
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 8, Fortitude 10**
 
  | 
@@ -538,27 +396,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Blacksteel  
+ | Set: Blacksteel  
 Head: [Blacksteel Helm](Blacksteel_Helm.md)  
-Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
+| File:Black Strapped Hat.png | [Black Strapped Hat](Strapped_Hat.md)  
+(**Series**) | _+3 Health_
 
- |
-| File:Black Strapped Hat.png | 
-
-[Black Strapped Hat](Strapped_Hat.md)
-
-(**Series**)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
-_+Talent: The Exterminator_
-
++2 Rare Pips  
+_+Talent: The Exterminator_  
 **Requires Power 6**
 
  | 
@@ -571,25 +416,13 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
+ | Variants:  
+Black & Double |
+|  | [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
+(**Set**) | _+5% Shadow Armor_  
+_+6% Stealth_
 
-Variants:  
-Black & Double
-
- |
-|  | 
-
-[Bloodfeather Cowl](Bloodfeather_Cowl.md)
-
-(**Set**)
-
- | 
-
-_+5% Shadow Armor_  
-_+6% Stealth_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -600,30 +433,14 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | 
-
-Set: Bloodfeather  
+ | Set: Bloodfeather  
 Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
-Face: [Bloodfeather Mask](Bloodfeather_Mask.md)
+Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
+|  | [Bloodforged Crown](Bloodforged_Crown.md)  
+(**Mythical**) | _+5 Health_
 
- |
-|  | 
-
-[Bloodforged Crown](Bloodforged_Crown.md)
-
-(**Mythical**)
-
- | 
-
-_+5 Health_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Cauterized Wounds_
-
-**Requires Power 10**
++1 Rare Pip  
++1 Legendary Pip _+Talent: Cauterized Wounds_ **Requires Power 10**
 
  | 
 
@@ -631,27 +448,12 @@ Found from:
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
- | 
+ | N/A |
+| File:Static-assets-upload12843990363310254802.png | [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
+(**Set**) | _+3 Health_
 
-N/A
-
- |
-| File:Static-assets-upload12843990363310254802.png | 
-
-[Brigand's Bicorn](<Brigand's_Bicorn.md>)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
-_+Talent: Emergency Repairs_
-
-_+Talent: Spare Nails_
-
++2 Rare Pips _+Talent: Emergency Repairs_  
+_+Talent: Spare Nails_  
 **Requires Power 6**
 
  | 
@@ -665,25 +467,12 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | 
-
-Set: Brigand  
+ | Set: Brigand  
 Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
-Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
-
- |
-| File:Brown Hood.png | 
-
-Brown Hood
-
-(**Series**)
-
- | 
-
-_+1 Posture_  
-_+2% Stealth_
-
- | 
+Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
+| File:Brown Hood.png | Brown Hood  
+(**Series**) | _+1 Posture_  
+_+2% Stealth_ | 
 
 Found from:
 
@@ -691,28 +480,15 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 
- | 
-
-Variants:  
-Black & Brown
-
- |
-| File:Bulwark Helm.png | 
-
-[Bulwark Helm](Grand_Authority_Sallet.md)
-
- | 
-
-_+3 Health_  
+ | Variants:  
+Black & Brown |
+| File:Bulwark Helm.png | [Bulwark Helm](Grand_Authority_Sallet.md) | _+3 Health_
 
 +1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Strong Hold_
-
++1 Legendary Pip  
+_+Talent: Strong Hold_  
 **Requires Power 8**
 
  | 
@@ -726,23 +502,11 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | 
+ | N/A |
+| File:Captainskabuto.png | [Captain's Kabuto](<Captain's_Kabuto.md>)  
+(**Series**) | _+8 Health_
 
-N/A
-
- |
-| File:Captainskabuto.png | 
-
-[Captain's Kabuto](<Captain's_Kabuto.md>)
-
-(**Series**)
-
- | 
-
-_+8 Health_
-
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 5**
 
  | 
@@ -756,28 +520,14 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
+ | Variants:  
+Guard's, Royal Guard's, Captain's |
+|  | [Celtor Commander Helm](Celtor_Commander_Helm.md)  
+(**Set**) | _+5 Health_  
 
-Variants:  
-Guard's, Royal Guard's, Captain's
-
- |
-|  | 
-
-[Celtor Commander Helm](Celtor_Commander_Helm.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Grasp On Reality_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Grasp On Reality_  
 **Requires Fortitude 15**
 
  | 
@@ -791,32 +541,18 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Celtor Commander  
+ | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
 Torso: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
-Legs: [Celtorian Sabatons](Celtorian_Sabatons.md)
-
- |
+Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
 | 
 
- | 
+ | [Chef's Toque](<Chef's_Toque.md>)  
+(**Unique**) | _+10 Health_
 
-[Chef's Toque](<Chef's_Toque.md>)
-
-(**Unique**)
-
- | 
-
-_+10 Health_
-
-+1 Legendary Pip
-
-_+Talent: Gourmand_
-
-_+Talent: Umami_
-
++1 Legendary Pip  
+_+Talent: Gourmand_  
+_+Talent: Umami_  
 **Requires Power 8**
 
  | 
@@ -825,21 +561,9 @@ Found from:
 
 -   [Chef Odiolavoro](Chef_Odiolavoro.md)
 
- | 
-
-N/A
-
- |
-| File:Static-assets-upload321884259233421803.png | 
-
-[Dark Cowl](Dark_Cowl.md)
-
- | 
-
-_+1 Posture_  
-_+4% Stealth_
-
- | 
+ | N/A |
+| File:Static-assets-upload321884259233421803.png | [Dark Cowl](Dark_Cowl.md) | _+1 Posture_  
+_+4% Stealth_ | 
 
 Found from:
 
@@ -851,28 +575,17 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Dark Owl Chapeau](Dark_Owl_Chapeau.md)
+ | N/A |
+|  | [Dark Owl Chapeau](Dark_Owl_Chapeau.md)
 
 (**Set**)
 
- | 
-
-_+10% Stealth_  
-_+5% Shadow Armor_  
+ | _+5% Shadow Armor_  
+_+10% Stealth_
 
 +1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Underdog_
-
++1 Legendary Pip  
+_+Talent: Underdog_  
 **Requires Power 10**
 
  | 
@@ -888,30 +601,16 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Dark Owl  
+ | Set: Dark Owl  
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
-Torso: [Dark Owl Cape](Dark_Owl_Cape.md)
+Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
+|  | [Deepscorn Casque](Deepscorn_Casque.md)  
+(**Mythical**) | _+5 Health_
 
- |
-|  | 
-
-[Deepscorn Casque](Deepscorn_Casque.md)
-
-(**Mythical**)
-
- | 
-
-_+5 Health_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Already Dead_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Already Dead_  
 **Requires Power 8**
 
  | 
@@ -921,21 +620,9 @@ Found from:
 -   [Silhuett](Silhuett.md)
 -   [The Understrand](The_Understrand.md)
 
- | 
-
-N/A
-
- |
-| File:Deepwoken Hood1.png | 
-
-[Deepwoken Hood](Deepwoken_Hood.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
-
+ | N/A |
+| File:Deepwoken Hood1.png | [Deepwoken Hood](Deepwoken_Hood.md)  
+(**Set**) | +2 Rare Pips  
 +1 Legendary Pip
 
 **Requires Power 6, Agility 10**
@@ -957,25 +644,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Deepwoken  
+ | Set: Deepwoken  
 Head: [Deepwoken Hood](Deepwoken_Hood.md)  
-Arms: [Deepwoken Cloak](Deepwoken_Cloak.md)
+Arms: [Deepwoken Cloak](Deepwoken_Cloak.md) |
+| File:DoubleStrappedHat.png | [Double Strapped Hat](Strapped_Hat.md)  
+(**Series**) | _+3 Health_
 
- |
-| File:DoubleStrappedHat.png | 
-
-[Double Strapped Hat](Strapped_Hat.md)
-
-(**Series**)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 _+Talent: The Exterminator_
 
  | 
@@ -988,26 +663,16 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Variants:  
-Black & Double
-
- |
-|  | 
-
-[Evanspear War Helmet](Evanspear_War_Helmet.md)
+ | Variants:  
+Black & Double |
+|  | [Evanspear War Helmet](Evanspear_War_Helmet.md)
 
 (**Set**)
 
- | 
-
-_+4 Health_
-
+ | _+4 Health_  
 _+1 Posture_
 
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires: Power 10, Strength 25**
 
  | 
@@ -1016,30 +681,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Evanspear  
+ | Set: Evanspear  
 Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
-Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md) |
+|  | [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)  
+(**Hallowtide**)  
+(**Legendary**) | _+10 Health_
 
- |
-|  | 
-
-[Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)
-
-(**Hallowtide**)
-
-(**Legendary**)
-
- | 
-
-_+10 Health_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
++1 Uncommon Pip  
++1 Rare Pip  
 **Requires Power 8**
 
  | 
@@ -1048,27 +699,13 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | 
+ | N/A |
+|  | [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)  
+(**Hallowtide**)  
+(**Legendary**) | _+10 Health_
 
-N/A
-
- |
-|  | 
-
-[Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)
-
-(**Hallowtide**)
-
-(**Legendary**)
-
- | 
-
-_+10 Health_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
++1 Uncommon Pip  
++1 Rare Pip  
 **Requires Power 8**
 
  | 
@@ -1077,27 +714,13 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | 
+ | N/A |
+|  | [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)  
+(**Hallowtide**)  
+(**Legendary**) | _+10 Health_
 
-N/A
-
- |
-|  | 
-
-[Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
-
-(**Hallowtide**)
-
-(**Legendary**)
-
- | 
-
-_+10 Health_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
++1 Uncommon Pip  
++1 Rare Pip  
 **Requires Power 8**
 
  | 
@@ -1106,18 +729,8 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | 
-
-N/A
-
- |
-| File:Feathertop Helm.png | 
-
-[Feathertop Helm](Feathertop_Helm.md)
-
- | 
-
-_+3 Health_  
+ | N/A |
+| File:Feathertop Helm.png | [Feathertop Helm](Feathertop_Helm.md) | _+3 Health_
 
 +1 Uncommon Pip
 
@@ -1134,26 +747,16 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-N/A
-
- |
-| File:Gladiator Helmet.png | 
-
-Gladiator Helmet
+ | N/A |
+| File:Gladiator Helmet.png | Gladiator Helmet
 
 (**Set**)
 
- | 
+ | _+5 Health_  
+_+2 Posture_
 
-_+5 Health_  
-_+2 Posture_  
-
-+1 Rare Pip
-
++1 Rare Pip  
 _+Talent: Concussive Force_  
-
 **Requires Power 8, Fortitude 15**
 
  | 
@@ -1162,30 +765,21 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 
- | 
-
-Set: Gladiator  
+ | Set: Gladiator  
 Head: Gladiator Helmet  
-Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md)
-
- |
-|  | 
-
-[Goldleaf Helm](Goldleaf_Helm.md)
+Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
+|  | [Goldleaf Helm](Goldleaf_Helm.md)
 
 (**Series**)
 
- | 
+ | _+5 Health_
 
-_+5 Health_  
-
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Fortitude 10**
 
  | 
@@ -1203,30 +797,17 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
+ | Variants:  
+Blackleaf & Goldleaf |
+|  | [Grand Fisher Helm](Grand_Fisher_Helm.md)  
+(**Set**)  
+(**Mythical**) | _+5 Health_  
+_+5% Ice Armor_  
++5% Lightning Armor
 
-Variants:  
-Blackleaf & Goldleaf
-
- |
-|  | 
-
-[Grand Fisher Helm](Grand_Fisher_Helm.md)
-
-(**Set**)
-
-(**Mythical**)
-
- | 
-
-_+5 Health, +5% Ice Armor, +5% Lightning Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Coldseep Reactor_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Coldseep Reactor_  
 **Requires Power 13**
 
  | 
@@ -1235,25 +816,13 @@ Found from:
 
 -   [The Fisherman](The_Fisherman.md)
 
- | 
-
-Set: Grand Fisher  
+ | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
-Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md)
+Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
+| File:Guard's Kabuto.png | [Guard's Kabuto](<Guard's_Kabuto.md>)  
+(**Series**) | _+8 Health_
 
- |
-| File:Guard's Kabuto.png | 
-
-[Guard's Kabuto](<Guard's_Kabuto.md>)
-
-(**Series**)
-
- | 
-
-_+8 Health_
-
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 5**
 
  | 
@@ -1267,21 +836,10 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Artifact Turn-ins](Artifacts.md)
 
- | 
-
-Variants:  
-Guard's, Royal Guard's, Captain's
-
- |
-| File:Guardian helm.png | 
-
-[Guardian Helmet](Guardian_Helmet.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_  
+ | Variants:  
+Guard's, Royal Guard's, Captain's |
+| File:Guardian helm.png | [Guardian Helmet](Guardian_Helmet.md)  
+(**Set**) | _+5 Health_  
 _+1 Posture_
 
 **Requires Fortitude 10**
@@ -1294,58 +852,33 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 
- | 
-
-Set: Guardian  
+ | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
-Arms: [Guardian Pauldrons](Guardian_Pauldrons.md)
-
- |
-| File:Dark Gumshoe Hat1.png | 
-
-[Gumshoe Hat](Gumshoe_Hat.md)
-
-(**Set**)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
+Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
+| File:Dark Gumshoe Hat1.png | [Gumshoe Hat](Gumshoe_Hat.md)  
+(**Set**)  
+(**Series**) | +1 Rare Pip | 
 
 Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Dark, Grey, Ochre & White
 
   
-
 Set: Gumshoe  
 Head: [Gumshoe Hat](Gumshoe_Hat.md)  
 Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
 
  |
-| File:Herbalist's Hat.png | 
+| File:Herbalist's Hat.png | [Herbalist's Hat](<Herbalist's_Hat.md>)  
+(**Series**) | +1 Uncommon Pip
 
-[Herbalist's Hat](<Herbalist's_Hat.md>)
-
-(**Series**)
-
- | 
-
-+1 Uncommon Pip
-
-_+Talent: Herbivore_
-
+_+Talent: Herbivore_  
 _+Talent: Iron Gut_
 
  | 
@@ -1355,29 +888,16 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 -   [Lodestar](Lodestar.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
- | 
-
-Variants:  
-Normal & Big
-
- |
-| File:ImmortalHelm.png | 
-
-[Immortal Helm](Immortal_Helm.md)
-
-(**Legendary**)
-
- | 
-
-+1 Rare Pip
-
+ | Variants:  
+Normal & Big |
+| File:ImmortalHelm.png | [Immortal Helm](Immortal_Helm.md)  
+(**Legendary**) | +1 Rare Pip  
 +1 Legendary Pip
 
-_+Talent: Immortality_
-
+_+Talent: Immortality_  
 **Requires Power 5**
 
  | 
@@ -1386,25 +906,12 @@ Found from:
 
 -   Mob drop from [Immortal Guardian](Immortal_Guardian.md)
 
- | 
-
-N/A
-
- |
-| File:Investigator's Hat1.png | 
-
-[Investigator's Hat](<Investigator's_Hat.md>)
-
- | 
-
-_+4 Health_  
+ | N/A |
+| File:Investigator's Hat1.png | [Investigator's Hat](<Investigator's_Hat.md>) | _+4 Health_
 
 +1 Uncommon Pip  
-
-+1 Rare Pip
-
-_+Talent: Give and Take_
-
++1 Rare Pip  
+_+Talent: Give and Take_  
 **Requires Power 6**
 
  | 
@@ -1419,28 +926,16 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 | 
 
 File:Khan Helmet.png
 
- | 
+ | [Khan Helmet](Legion_Helmet.md)  
+(**Set**) | _+10 Health_  
+_+2 Posture_
 
-[Khan Helmet](Legion_Helmet.md)
-
-(**Set**)
-
- | 
-
-_+10 Health_  
-_+2 Posture_  
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 10, Fortitude 15**
 
  | 
@@ -1454,26 +949,13 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
- | 
-
-Set: Khan  
+ | Set: Khan  
 Head: [Khan Helmet](Legion_Helmet.md)  
 Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
-Legs: [Khan Boots](Legion_Boots.md)
-
- |
-|  | 
-
-[Kyrsmas Hat](Kyrsmas_Hat.md)
-
-(**Limited Time Event**)
-
-(**Unique**)
-
- | 
-
-_+10 Health_
-
+Legs: [Khan Boots](Legion_Boots.md) |
+|  | [Kyrsmas Hat](Kyrsmas_Hat.md)  
+(**Limited Time Event**)  
+(**Unique**) | _+10 Health_  
 _+1 Posture_
 
 +1 Legendary Pip
@@ -1484,18 +966,8 @@ Found from:
 
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Legate Helm](Legate_Helm.md)
-
- | 
-
-_+5 Health_  
+ | N/A |
+|  | [Legate Helm](Legate_Helm.md) | _+5 Health_  
 _+1 Posture_
 
 **Requires Fortitude 5**
@@ -1508,24 +980,13 @@ Found from:
 -   [Deep Widow](Deep_Widow.md)
 -   [Lodestar](Lodestar.md)
 -   [Artifact Turn-ins](Artifacts.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 -   [First Layer](First_Layer.md)
 
- | 
+ | N/A |
+| File:Jaleel miner hat.png | [Miner's Hardhat](<Miner's_Hardhat.md>) | _+1 Posture_
 
-N/A
-
- |
-| File:Jaleel miner hat.png | 
-
-[Miner's Hardhat](<Miner's_Hardhat.md>)
-
- | 
-
-_+1 Posture_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Fortitude 5**
 
  | 
@@ -1534,29 +995,16 @@ Found from:
 
 -   Mob drop from [Mineskippers](Mudskipper.md#mineskipper)
 
- | 
-
-N/A
-
- |
+ | N/A |
 | 
 
 File:Monastery Champion Cowl NEW.png
 
- | 
+ | [Monastery Cowl](Monastery_Cowl.md)  
+(**Set**)  
+(**Legendary**) | _+5% Stealth_
 
-[Monastery Cowl](Monastery_Cowl.md)
-
-(**Set**)
-
-(**Legendary**)
-
- | 
-
-_+5% Stealth_
-
-+2 Rare Pips
-
++2 Rare Pips  
 _+Talent: Blade Dancer_
 
  | 
@@ -1566,72 +1014,34 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
- | 
-
-Set: Monastery Champion  
+ | Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
 Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
-Torso: [Monastery Beads](Monastery_Beads.md)
-
- |
-|  | 
-
-[Mushroom Costume](Mushroom_Costume.md)
-
-(**Series**)
-
-(**Hallowtide**)
-
-(**Legendary**)
-
- | 
-
-No Pips
-
- | 
+Torso: [Monastery Beads](Monastery_Beads.md) |
+|  | [Mushroom Costume](Mushroom_Costume.md)  
+(**Series**)  
+(**Hallowtide**)  
+(**Legendary**) | N/A | 
 
 Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
  | Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
-| File:Party Hat Worn.png | 
-
-[Party Hat](Party_Hat.md)
-
-(**Limited Time Event**)
-
- | 
-
-No Pips
-
- | 
+| File:Party Hat Worn.png | [Party Hat](Party_Hat.md)  
+(**Limited Time Event**) | N/A | 
 
 Found from:
 
 -   [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md)
 
- | 
+ | N/A |
+|  | [Phalanx Helmet](Phalanx_Helmet.md)  
+(**Set**) | _+3 Health_
 
-N/A
-
- |
-|  | 
-
-[Phalanx Helmet](Phalanx_Helmet.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Precise Swing_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Precise Swing_  
 **Requires Power 8**
 
  | 
@@ -1645,28 +1055,15 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
- | 
-
-Set: Legion Phalanx  
+ | Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
-Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
+| File:Parasol Planter.png | [Parasol Planter](Parasol_Planter.md)  
+(**Unique**) | _+2 Health_
 
- |
-| File:Parasol Planter.png | 
-
-[Parasol Planter](Parasol_Planter.md)
-
-(**Unique**)
-
- | 
-
-_+2 Health_
-
-+3 Rare Pip
-
-_+Talent: Grotesque Resilience_
-
++3 Rare Pip  
+_+Talent: Grotesque Resilience_  
 **Requires Power 10**
 
  | 
@@ -1675,52 +1072,23 @@ Found from:
 
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Pumpkin Head](Pumpkin_Head.md)
-
-(**Hallowtide**)
-
-(**Legendary**)
-
- | 
-
-No Pips
-
- | 
+ | N/A |
+|  | [Pumpkin Head](Pumpkin_Head.md)  
+(**Hallowtide**)  
+(**Legendary**) | N/A | 
 
 Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Reinforced War Helmet](Reinforced_War_Helmet.md)
-
-(**Set**)
-
- | 
-
-_+4 Health_
-
+ | N/A |
+|  | [Reinforced War Helmet](Reinforced_War_Helmet.md)  
+(**Set**) | _+4 Health_  
 _+1 Posture_
 
-+1 Uncommon Pip
-
-_+Talent: Fatal Strike_
-
-_+Set Talent: Lasting Trauma_
-
++1 Uncommon Pip  
+_+Talent: Fatal Strike_  
+_+Set Talent: Lasting Trauma_  
 **Requires Power 20, Strength 25**
 
  | 
@@ -1729,29 +1097,15 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Reinforced Evanspear  
+ | Set: Reinforced Evanspear  
 Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
 Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
-Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md) |
+| File:Royal Guard's Kabuto.png | [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)  
+(**Series**) | _+8 Health_  
 
- |
-| File:Royal Guard's Kabuto.png | 
-
-[Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)
-
-(**Series**)
-
- | 
-
-_+8 Health_  
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-**Requires Power 10**
++1 Rare Pip  
++1 Legendary Pip **Requires Power 10**
 
  | 
 
@@ -1759,22 +1113,11 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 
- | 
+ | Variants:  
+Guard's, Royal Guard's, Captain's |
+|  | [Seamaster's Cap](<Seamaster's_Cap.md>) | _+1 Posture_
 
-Variants:  
-Guard's, Royal Guard's, Captain's
-
- |
-|  | 
-
-[Seamaster's Cap](<Seamaster's_Cap.md>)
-
- | 
-
-_+1 Posture_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 _+Talent: Seamaster's Guile_
 
  | 
@@ -1784,23 +1127,11 @@ Found from:
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Voidsea](Voidsea.md) events
 
- | 
+ | N/A |
+| File:ShockTrooperHelmet.png | [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
+(**Set**) | _+8 Health_
 
-N/A
-
- |
-| File:ShockTrooperHelmet.png | 
-
-[Shock Trooper Helmet](Shock_Trooper_Helmet.md)
-
-(**Set**)
-
- | 
-
-_+8 Health_
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 10, Fortitude 20**
 
  | 
@@ -1809,28 +1140,15 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Shock Trooper  
+ | Set: Shock Trooper  
 Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
-Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
-
- |
-| File:KnightHelm.png | 
-
-[Silver Knight's Helm](<Silver_Knight's_Helm.md>)
-
-(**Set**)
-
- | 
-
-_+10 Health_  
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md) |
+| File:KnightHelm.png | [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
+(**Set**) | _+10 Health_
 
 +1 Uncommon Pip  
-
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 8, Fortitude 10**
 
  | 
@@ -1847,30 +1165,16 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Silver Knight  
+ | Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
-Legs: [Silver Sabatons](Silver_Sabatons.md)
+Legs: [Silver Sabatons](Silver_Sabatons.md) |
+|  | [Simmerbloom Diadem](Simmerbloom_Diadem.md)  
+(**Unique**) | _+5 Health_
 
- |
-|  | 
-
-[Simmerbloom Diadem](Simmerbloom_Diadem.md)
-
-(**Unique**)
-
- | 
-
-_+5 Health_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Simmerbloom_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Simmerbloom_  
 **Requires Power 10**
 
  | 
@@ -1879,20 +1183,9 @@ Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Smith's Bandana](<Smith's_Bandana.md>)
-
-(**Set**)
-
- | 
-
-_+4 Health_  
+ | N/A |
+|  | [Smith's Bandana](<Smith's_Bandana.md>)  
+(**Set**) | _+4 Health_
 
 +1 Uncommon Pip
 
@@ -1909,30 +1202,16 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Smith's  
+ | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
-Face: [Smith's Goggles](<Smith's_Goggles.md>)
+Face: [Smith's Goggles](<Smith's_Goggles.md>) |
+| File:ShockTrooperHelmet.png | [Specialist Helmet](Specialist_Helmet.md)  
+(**Set**) | _+8 Health_
 
- |
-| File:ShockTrooperHelmet.png | 
-
-[Specialist Helmet](Specialist_Helmet.md)
-
-(**Set**)
-
- | 
-
-_+8 Health_
-
-+1 Uncommon Pip
-
-_+Talent: Volt Draft_
-
-_+Set Talent: Shock Trooper Specialist_
-
++1 Uncommon Pip  
+_+Talent: Volt Draft_  
+_+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
 
  | 
@@ -1941,26 +1220,14 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Specialist  
+ | Set: Specialist  
 Head: [Specialist Helmet](Specialist_Helmet.md)  
 Arms: [Specialist Plate](Specialist_Plate.md)  
-Legs: [Specialist Boots](Specialist_Boots.md)
+Legs: [Specialist Boots](Specialist_Boots.md) |
+|  | [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
+(**Set**) | _+2 Posture_
 
- |
-|  | 
-
-[Ten-Gallon Hat](Ten-Gallon_Hat.md)
-
-(**Set**)
-
- | 
-
-_+2 Posture_
-
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 5**
 
  | 
@@ -1972,29 +1239,15 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Lodestar](Lodestar.md)
 
- | 
-
-Set: Ten-Gallon  
+ | Set: Ten-Gallon  
 Head: [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
-Face: [Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
+Face: [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) |
+|  | [Tillian's Beret](<Tillian's_Beret.md>)  
+(**Unique**) | _+7 Health_
 
- |
-|  | 
-
-[Tillian's Beret](<Tillian's_Beret.md>)
-
-(**Unique**)
-
- | 
-
-_+7 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Cap Artist_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Cap Artist_  
 **Requires Power 10**
 
  | 
@@ -2003,27 +1256,13 @@ Found from:
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 
- | 
-
-N/A
-
- |
-| File:Slate Tophat.png | 
-
-[Tophat](Tophat.md)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-_+4 Health_  
+ | N/A |
+| File:Slate Tophat.png | [Tophat](Tophat.md)  
+(**Series**)  
+(**Set**) | _+4 Health_
 
 +1 Uncommon Pip  
-
-+1 Rare Pip
-
++1 Rare Pip  
 _+Talent: Give and Take_
 
  | 
@@ -2032,26 +1271,17 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Beige, Burgundy & Slate
 
   
-
 Set: Aristocrat  
 Head: [Tophat](Tophat.md)  
 Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-|  | 
-
-[Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
-
- | 
-
-_+4 Health_
+|  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>) | _+4 Health_
 
 +1 Uncommon Pip
 
@@ -2068,20 +1298,9 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Vigil Hood](Vigil_Hood.md)
-
- | 
-
-+2 Rare Pips
-
-+1 Legendary Pip
+ | N/A |
+|  | [Vigil Hood](Vigil_Hood.md) | +2 Rare Pips  
++1 Legendary Pip  
 
 **Requires Power 6, Agility 10**
 
@@ -2099,27 +1318,13 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
- | 
+ | N/A |
+| File:Navy Warlock Brim.png | [Warlock's Brim](<Warlock's_Brim.md>)  
+(**Series**)  
+(**Set**)  
+(**Unique**) | _+5 Health_
 
-N/A
-
- |
-| File:Navy Warlock Brim.png | 
-
-[Warlock's Brim](<Warlock's_Brim.md>)
-
-(**Unique**)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+2 Legendary Pips
-
++2 Legendary Pips  
 **Requires Power 16**
 
  | 
@@ -2128,30 +1333,19 @@ Found from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Lilac, Navy, Sky, Verdant
 
   
-
 Set: Warlock  
 Head: [Warlock's Brim](<Warlock's_Brim.md>)  
 Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
-| File:WesternOutlawHat.png | 
+| File:WesternOutlawHat.png | [Western Outlaw Hat](Western_Outlaw_Hat.md)  
+(**Set**) | _+2 Posture_
 
-[Western Outlaw Hat](Western_Outlaw_Hat.md)
-
-(**Set**)
-
- | 
-
-_+2 Posture_
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 10**
 
  | 
@@ -2160,24 +1354,13 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Western Outlaw  
+ | Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
-
- |
-|  | 
-
-[A Lot of Hats](A_Lot_of_Hats.md)
-
-(**Unobtainable**)
-
- | 
-
-_+5 Health_  
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+|  | [A Lot of Hats](A_Lot_of_Hats.md)  
+(**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
 
@@ -2187,20 +1370,9 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>)
-
-(**Unobtainable**)
-
- | 
-
-_+10% Health_  
+ | N/A |
+|  | [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>)  
+(**Unobtainable**) | _+10% Health_  
 _+5 Posture_
 
 _+Talent: Ashes on the Fire_
@@ -2211,20 +1383,9 @@ Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[MICROWAVETM](MICROWAVETM.md)
-
-(**Unobtainable**)
-
- | 
-
-_+5 Health_  
+ | N/A |
+|  | [MICROWAVETM](MICROWAVETM.md)  
+(**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
 
@@ -2234,20 +1395,9 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Moderator Cap](Moderator_Cap.md)
-
-(**Unobtainable**)
-
- | 
-
-_+5 Health_  
+ | N/A |
+|  | [Moderator Cap](Moderator_Cap.md)  
+(**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
 
@@ -2257,20 +1407,9 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[THE MACHINE](THE_MACHINE.md)
-
-(**Unobtainable**)
-
- | 
-
-_+5 Health_  
+ | N/A |
+|  | [THE MACHINE](THE_MACHINE.md)  
+(**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
 
@@ -2280,32 +1419,15 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Worldshaper's Laurel](<Worldshaper's_Laurel.md>)
-
-(**Unobtainable**)
-
- | 
-
-No Pips
-
- | 
+ | N/A |
+|  | [Worldshaper's Laurel](<Worldshaper's_Laurel.md>)  
+(**Unobtainable**) | N/A | 
 
 Found from:
 
 -   Prize from winning a [Fanart Contest](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 
 **Arms:**
 
@@ -2330,26 +1452,14 @@ Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
-|  | 
+|  | [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
+(**Set**)  
+(**Animated**)  
+(**Mythical**) | _+5 Health_
 
-[Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)
-
-(**Set**)
-
-(**Animated**)
-
-(**Mythical**)
-
- | 
-
-_+5 Health_
-
-+3 Legendary Pips
-
-_+Talent: Braced Collapse_
-
-_+Talent: Kick Off_
-
++3 Legendary Pips  
+_+Talent: Braced Collapse_  
+_+Talent: Kick Off_  
 **Requires Power 10**
 
  | 
@@ -2358,27 +1468,14 @@ Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | 
-
-Set: Abyss Wanderer  
+ | Set: Abyss Wanderer  
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
-Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
+Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
+| File:Sable Adjudicator's.png | [Adjudicator's Coat](<Adjudicator's_Coat.md>)  
+(**Series**)  
+(**Animated**) | +2 Rare Pips
 
- |
-| File:Sable Adjudicator's.png | 
-
-[Adjudicator's Coat](<Adjudicator's_Coat.md>)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-+2 Rare Pips
-
-_+Talent: Unwavering Resolve_
-
+_+Talent: Unwavering Resolve_  
 **Requires Power 8**
 
  | 
@@ -2389,26 +1486,13 @@ Found from:
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | 
+ | Variants:  
+Ash, Pink, Rural, Sable & Tawny |
+|  | [Adventurer Coat](Adventurer_Coat.md)  
+(**Series**)  
+(**Animated**) | _+3 Health_
 
-Variants:  
-Ash, Pink, Rural, Sable & Tawny
-
- |
-|  | 
-
-[Adventurer Coat](Adventurer_Coat.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -2417,30 +1501,15 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
- | 
+ | Variants:  
+Black, Brown, Green, White |
+| File:Slate Aristocrat Coat.png | [Aristocrat Coat](Aristocrat_Coat.md)  
+(**Series**)  
+(**Set**) | _+6 Health_
 
-Variants:  
-Black, Brown, Green, White
-
- |
-| File:Slate Aristocrat Coat.png | 
-
-[Aristocrat Coat](Aristocrat_Coat.md)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-_+6 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Art of the Deal_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Art of the Deal_  
 **Requires Power 10**
 
  | 
@@ -2449,35 +1518,25 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Beige, Burgundy & Slate
 
   
-
 Set: Aristocrat  
 Head: [Tophat](Tophat.md)  
 Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-| File:WesternOutlawRobes.png | 
-
-[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)
+| File:WesternOutlawRobes.png | [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)
 
 (**Set**)
 
- | 
+ | _+3 Posture_
 
-_+3 Posture_
-
-+2 Rare Pips
-
-_+Talent: Ether Pinpoint_
-
-_+Set Talent: Offensive Recovery_
-
++2 Rare Pips  
+_+Talent: Ether Pinpoint_  
+_+Set Talent: Offensive Recovery_  
 **Requires Power 20**
 
  | 
@@ -2486,36 +1545,20 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Ascended Outlaw  
+ | Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
-
- |
-| File:Pale Assassin Cloak.png | 
-
-[Assassin's Cloak](<Assassin's_Cloak.md>)
-
-(**Series**)
-
-(**Set**)
-
-(**Animated**)
-
- | 
-
-_+6 Health_  
-_+3% Stealth_  
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+| File:Pale Assassin Cloak.png | [Assassin's Cloak](<Assassin's_Cloak.md>)  
+(**Series**)  
+(**Set**)  
+(**Animated**) | _+6 Health_  
+_+3% Stealth_
 
 +2 Rare Pips  
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 _+Talent: Lowstride_  
-
 **Requires Power 10**
 
  | 
@@ -2532,32 +1575,20 @@ Found from:
 -   [Cloaked Assassin](Cloaked_Assassin.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Crimson, Gold, Mist & Pale
 
   
-
 Set: Assassin  
 Head: [Assassin's Hood](<Assassin's_Hood.md>)  
 Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 
  |
-| File:Ruby Authority Commander Coat.png | 
+| File:Ruby Authority Commander Coat.png | [Authority Commander Coat](Authority_Commander_Coat.md)  
+(**Series**)  
+(**Animated**) | _+10 Health_
 
-[Authority Commander Coat](Authority_Commander_Coat.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+10 Health_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 13**
 
  | Found from:
@@ -2566,24 +1597,12 @@ _+10 Health_
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | 
+ | Variants:  
+Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
+| File:Autumn pauldrons.png | [Autumn Pauldrons](Autumn_Pauldrons.md)  
+(**Set**) | _+2 Health_
 
-Variants:  
-Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant
-
- |
-| File:Autumn pauldrons.png | 
-
-[Autumn Pauldrons](Autumn_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+2 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -2599,24 +1618,12 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Autumn  
+ | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
-Legs: [Autumn Boots](Autumn_Boots.md)
-
- |
-| File:Azure Royal Guard.png | 
-
-[Azure Royal Guard](Azure_Sentinel_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
-
-+1 Legendary Pip
+Legs: [Autumn Boots](Autumn_Boots.md) |
+| File:Azure Royal Guard.png | [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
+(**Set**) | +2 Rare Pips  
++1 Legendary Pip  
 
 **Requires Power 8**
 
@@ -2626,29 +1633,15 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~33%**)
 
- | 
-
-Set: Azure Royal Guard  
+ | Set: Azure Royal Guard  
 Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
-Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
-
- |
-|  | 
-
-[Bastions of Enmity](Bastions_of_Enmity.md)
-
-(**Set**)
-
-(**Unique**)
-
- | 
-
-_+10 Health_
-
+Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
+|  | [Bastions of Enmity](Bastions_of_Enmity.md)  
+(**Set**)  
+(**Unique**) | _+10 Health_  
 _+2 Posture_
 
-+3 Legendary Pips
-
++3 Legendary Pips  
 **Requires Power 13, Fortitude 10**
 
  | 
@@ -2657,30 +1650,17 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Enmity  
+ | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
 Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
-Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
+| File:Black Overcoat.png | Black Overcoat  
+(**Series**) | _+3 Health_
 
- |
-| File:Black Overcoat.png | 
-
-Black Overcoat
-
-(**Series**)
-
- | 
-
-_+3 Health_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
++1 Uncommon Pip  
++1 Rare Pip  
 **Requires Power 5**
 
  | 
@@ -2693,28 +1673,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Lodestar](Lodestar.md)
 
- | 
-
-Variants:  
-Black, Brown, & White
-
- |
-| File:Black Parka.png | 
-
-Black Parka
-
-(**Series**)
-
- | 
-
-_+2 Health_
-
+ | Variants:  
+Black, Brown, & White |
+| File:Black Parka.png | Black Parka  
+(**Series**) | _+2 Health_  
 _+1 Posture_
 
-+1 Rare Pip
-
-_+Talent: Steady Footing_
-
++1 Rare Pip  
+_+Talent: Steady Footing_  
 **Requires Power 5**
 
  | 
@@ -2732,26 +1698,13 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Mob drop from [Authority Captain](Authority_Captain.md) (**~15%**)
 
- | 
-
-Variants:  
-Black, Brown & White
-
- |
-| File:Blacksteel Pauldron.png | 
-
-[Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
+ | Variants:  
+Black, Brown & White |
+| File:Blacksteel Pauldron.png | [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -2768,27 +1721,15 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Set: Blacksteel  
+ | Set: Blacksteel  
 Head: [Blacksteel Helm](Blacksteel_Helm.md)  
-Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
-
- |
+Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
 | 
 
- | 
+ | [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
+(**Set**) | _+5 Health_
 
-[Bluesteel Pauldrons](Bluesteel_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -2801,31 +1742,17 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Lodestar](Lodestar.md)
 
- | 
-
-Set: Bluesteel  
+ | Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
-Legs: [Bluesteel Boots](Bluesteel_Boots.md)
-
- |
+Legs: [Bluesteel Boots](Bluesteel_Boots.md) |
 | 
 
- | 
+ | [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
+(**Set**) | _+5 Health_
 
-[Bluestone Pauldrons](Bluestone_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
-_+Talent: Ether Emergency_
-
-_+Set Talent: Etherguard_
-
++2 Rare Pips  
+_+Talent: Ether Emergency_  
+_+Set Talent: Etherguard_  
 **Requires Power 5**
 
  | 
@@ -2834,27 +1761,14 @@ Found from:
 
 -   Crafting
 
- | 
-
-Set: Bluestone  
+ | Set: Bluestone  
 Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
-Legs: [Bluestone Boots](Bluestone_Boots.md)
-
- |
-| File:Brigand's Cloak.png | 
-
-[Brigand's Cloak](<Brigand's_Cloak.md>)
-
-(_Set'_)
-
- | 
-
-_+3 Health_
-
+Legs: [Bluestone Boots](Bluestone_Boots.md) |
+| File:Brigand's Cloak.png | [Brigand's Cloak](<Brigand's_Cloak.md>)  
+(_Set'_) | _+3 Health_  
 _+4% Stealth_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -2870,27 +1784,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Brigand  
+ | Set: Brigand  
 Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
-Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
+Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
+| File:Brilliant Pauldrons.png | [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+(**Set**) | _+5 Health_
 
- |
-| File:Brilliant Pauldrons.png | 
-
-[Brilliant Pauldron](Brilliant_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
++2 Rare Pips  
++1 Legendary Pip  
 **Requires Power 10**
 
  | 
@@ -2907,27 +1808,13 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Brilliant  
+ | Set: Brilliant  
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
-Torso: [Brilliant Cape](Brilliant_Cape.md)
-
- |
-| File:Brown Overcoat.png | 
-
-Brown Overcoat
-
-(**Series**)
-
- | 
-
-_+2 Health_  
-
-_+1 Posture_
-
- | 
+Torso: [Brilliant Cape](Brilliant_Cape.md) |
+| File:Brown Overcoat.png | Brown Overcoat  
+(**Series**) | _+2 Health_  
+_+1 Posture_ | 
 
 Found from:
 
@@ -2941,28 +1828,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Variants:  
-Black, Brown, & White
-
- |
-| File:Brown Parka.png | 
-
-Brown Parka
-
-(**Series**)
-
- | 
-
-_+2 Health_
-
+ | Variants:  
+Black, Brown, & White |
+| File:Brown Parka.png | Brown Parka  
+(**Series**) | _+2 Health_  
 _+1 Posture_
 
-+1 Rare Pip
-
-_+Talent: Steady Footing_
-
++1 Rare Pip  
+_+Talent: Steady Footing_  
 **Requires Power 5**
 
  | 
@@ -2977,28 +1850,14 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | 
+ | Variants:  
+Black, Brown & White |
+|  | [Celtor Commander Plate](Celtor_Commander_Plate.md)  
+(**Set**) | _+8 Health_
 
-Variants:  
-Black, Brown & White
-
- |
-|  | 
-
-[Celtor Commander Plate](Celtor_Commander_Plate.md)
-
-(**Set**)
-
- | 
-
-_+8 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Breathing Exercise_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Breathing Exercise_  
 **Requires Power 10**
 
  | 
@@ -3015,32 +1874,17 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Set: Celtor Commander  
+ | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
 Arms: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
-Legs: [Celtorian Sabatons](Celtorian_Sabatons.md)
+Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
+|  | [Champion's Cape](<Champion's_Cape.md>)  
+(**Animated**)  
+(**Unique**) | _+10% Lightning Armor_
 
- |
-|  | 
-
-[Champion's Cape](<Champion's_Cape.md>)
-
-(**Animated**)
-
-(**Unique**)
-
- | 
-
-_+10% Lightning Armor_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: No Interruptions_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: No Interruptions_  
 **Requires Power 20**
 
  | 
@@ -3049,29 +1893,14 @@ Found from:
 
 -   Crafting in the [Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Dark Owl Cloak](Dark_Owl_Cloak.md)
-
-(**Set**)
-
- | 
-
+ | N/A |
+|  | [Dark Owl Cloak](Dark_Owl_Cloak.md)  
+(**Set**) | _+8% Shadow Armor_  
 _+6% Stealth_
 
-_+8% Shadow Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Disbelief_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Disbelief_  
 **Requires Power 8**
 
  | 
@@ -3087,35 +1916,19 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Set: Dark Owl  
+ | Set: Dark Owl  
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
-Torso: [Dark Owl Cape](Dark_Owl_Cape.md)
-
- |
-| File:Black Deepwoken Cloak.png | 
-
-[Deepwoken Cloak](Deepwoken_Cloak.md)
-
-(**Series**)
-
-(**Set**)
-
-(**Legendary**)
-
- | 
-
-_+5 Health_  
-_+1 Posture_  
+Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
+| File:Black Deepwoken Cloak.png | [Deepwoken Cloak](Deepwoken_Cloak.md)  
+(**Series**)  
+(**Set**)  
+(**Legendary**) | _+5 Health_  
+_+1 Posture_
 
 +2 Rare Pips  
-
-+1 Legendary Pip
-
-_+Talent: Blade Dancer_
-
++1 Legendary Pip  
+_+Talent: Blade Dancer_  
 **Requires Power 10**
 
  | 
@@ -3127,34 +1940,21 @@ Found from:
 -   [Starfield Veldt](Starfield_Veldt.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Black & White
 
   
-
 Set: Deepwoken  
 Head: [Deepwoken Hood](Deepwoken_Hood.md)  
 Arms: [Deepwoken Cloak](Deepwoken_Cloak.md)
 
  |
-| File:DelvingDuster.png | 
+| File:DelvingDuster.png | [Delver's Duster](<Delver's_Duster.md>)  
+(**Mythical**) | _+5 Health_
 
-[Delver's Duster](<Delver's_Duster.md>)
-
-(**Mythical**)
-
- | 
-
-_+5 Health_  
-
-+3 Legendary Pips
-
++3 Legendary Pips  
 _+Talent: Braced Collapse_  
-
 _+Talent: Kick Off_  
-
 **Requires Power 10**
 
  | 
@@ -3165,27 +1965,13 @@ Found from:
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 
- | 
+ | N/A |
+|  | [Diver's Light Plate](<Diver's_Light_Plate.md>)  
+(**Mythical**) | _+10 Health_  
+_+1 Posture_  
 
-N/A
-
- |
-|  | 
-
-[Diver's Light Plate](<Diver's_Light_Plate.md>)
-
-(**Mythical**)
-
- | 
-
-_+10 Health_
-
-_+1 Posture_
-
-+3 Legendary Pips
-
-_+Talent: Conquer Your Fears_
-
++3 Legendary Pips  
+_+Talent: Conquer Your Fears_  
 **Requires Power 13, Fortitude 5**
 
  | 
@@ -3194,27 +1980,13 @@ Found from:
 
 -   Automatically obtained when winning [Hell Mode](Hell_Mode.md) (Repeatable)
 
- | 
+ | N/A |
+|  | [Enforcer Plate](Enforcer_Plate.md)  
+(**Set**) | _+1 Posture_
 
-N/A
-
- |
-|  | 
-
-[Enforcer Plate](Enforcer_Plate.md)
-
-(**Set**)
-
- | 
-
-_+1 Posture_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Berserker_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Berserker_  
 **Requires Power 8**
 
  | 
@@ -3224,29 +1996,14 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 -   [The Enforcer](Enforcer.md)
 
- | 
+ | N/A |
+| File:Etrean Siege Cuirass.png | [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
+(**Set**) | _+8 Health_
 
-N/A
-
- |
-| File:Etrean Siege Cuirass.png | 
-
-[Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
-
-(**Set**)
-
- | 
-
-_+8 Health_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Battle Tendency_
-
++1 Uncommon Pip  
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Battle Tendency_  
 **Requires Power 10**
 
  | 
@@ -3263,29 +2020,15 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Etrean Siege  
+ | Set: Etrean Siege  
 Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
-Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
-
- |
-|  | 
-
-[Evanspear War Plate](Evanspear_War_Plate.md)
-
-(**Set**)
-
-(**Animated**)
-
- | 
-
-_+6 Health_
-
+Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
+|  | [Evanspear War Plate](Evanspear_War_Plate.md)  
+(**Set**)  
+(**Animated**) | _+6 Health_  
 _+2 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 10, Strength 25**
 
  | 
@@ -3294,30 +2037,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Evanspear  
+ | Set: Evanspear  
 Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
-Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
-
- |
-| File:Lavender First Ranger Duster.png | 
-
-[First Ranger Duster](First_Ranger_Duster.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+10 Health_
-
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md) |
+| File:Lavender First Ranger Duster.png | [First Ranger Duster](First_Ranger_Duster.md)  
+(**Series**)  
+(**Animated**) | _+10 Health_  
 _+2 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 10**
 
  | 
@@ -3326,26 +2055,13 @@ Found from:
 
 -   Mob Drop from [King Thresher](King_Thresher.md) (**~3%**)
 
- | 
-
-Variants:  
-Azure, Cloud, Jade, Lavender & Umber
-
- |
-| File:Flameguard.png | 
-
-[Flameguard Pauldrons](Flameguard_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
+ | Variants:  
+Azure, Cloud, Jade, Lavender & Umber |
+| File:Flameguard.png | [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -3357,27 +2073,14 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | 
-
-Set: Flameguard  
+ | Set: Flameguard  
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
-Legs: [Flameguard Boots](Flameguard_Boots.md)
+Legs: [Flameguard Boots](Flameguard_Boots.md) |
+| File:Black Fur Pauldrons.png | [Fur Pauldrons](Fur_Pauldrons.md)  
+(**Series**)  
+(**Set**) | _+3 Health_
 
- |
-| File:Black Fur Pauldrons.png | 
-
-[Fur Pauldrons](Fur_Pauldrons.md)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -3396,31 +2099,20 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Black & White
 
   
-
 Set: Fur  
 Arms: [Fur Pauldrons](Fur_Pauldrons.md)  
 Legs: [Fur Boots](Fur_Boots.md)
 
  |
-|  | 
-
-[Gladiator Pauldrons](Gladiator_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_  
+|  | [Gladiator Pauldrons](Gladiator_Pauldrons.md)  
+(**Set**) | _+5 Health_  
 _+1 Posture_
 
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 5**
 
  | 
@@ -3431,29 +2123,16 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Lodestar](Lodestar.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 
- | 
-
-Set: Gladiator  
+ | Set: Gladiator  
 Head: Gladiator Helmet  
-Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md)
-
- |
-| File:Glassdancer Wraps1.png | 
-
-[Glassdancer Wraps](Glassdancer_Wraps.md)
-
- | 
-
-_+2 Health_
-
+Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
+| File:Glassdancer Wraps1.png | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
 _+3 Posture_
 
-+1 Rare Pip
-
-_+Talent: Lightweight_
-
++1 Rare Pip  
+_+Talent: Lightweight_  
 **Requires Power 8**
 
  | 
@@ -3464,33 +2143,18 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 | 
 
 File:Gauthority.png
 
- | 
+ | [Grand Authority Plate](Grand_Authority_Plate.md)  
+(**Set**) | _+8 Health_
 
-[Grand Authority Plate](Grand_Authority_Plate.md)
-
-(**Set**)
-
- | 
-
-_+8 Health_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Heavy Haul_
-
++1 Uncommon Pip  
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Heavy Haul_  
 **Requires Power 10**
 
  | 
@@ -3505,31 +2169,16 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Grand Authority  
+ | Set: Grand Authority  
 Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
-Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
-
- |
-|  | 
-
-[Grand Fisher Plate](Grand_Fisher_Plate.md)
-
-(**Set**)
-
-(**Mythical**)
-
- | 
-
-_+10 Health_
-
+Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
+|  | [Grand Fisher Plate](Grand_Fisher_Plate.md)  
+(**Set**)  
+(**Mythical**) | _+10 Health_  
 _+1 Posture_
 
-+3 Legendary Pips
-
-_+Talent: Diver's Resilience_
-
++3 Legendary Pips  
+_+Talent: Diver's Resilience_  
 **Requires Power 13**
 
  | 
@@ -3538,25 +2187,13 @@ Found from:
 
 -   [The Fisherman](The_Fisherman.md)
 
- | 
-
-Set: Grand Fisher  
+ | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
-Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md)
+Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
+| File:Grand Pauldrons.png | [Grand Pauldrons](Grand_Pauldrons.md)  
+(**Set**) | _+1 Posture_
 
- |
-| File:Grand Pauldrons.png | 
-
-[Grand Pauldrons](Grand_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+1 Posture_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -3565,54 +2202,27 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
- | 
-
-Set: Grand  
+ | Set: Grand  
 Arms: [Grand Pauldrons](Grand_Pauldrons.md)  
-Legs: [Grand Boots](Grand_Boots.md)
-
- |
-|  | 
-
-[Guardian Pauldrons](Guardian_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+2 Health_  
-_+1 Posture_
-
- | 
+Legs: [Grand Boots](Grand_Boots.md) |
+|  | [Guardian Pauldrons](Guardian_Pauldrons.md)  
+(**Set**) | _+2 Health_  
+_+1 Posture_ | 
 
 Found from:
 
 -   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Voidwalker Bounties](Voidwalker.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
- | 
-
-Set: Guardian  
+ | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
-Arms: [Guardian Pauldrons](Guardian_Pauldrons.md)
-
- |
-| File:Gumshoe Long Coat.png | 
-
-[Gumshoe Longcoat](Gumshoe_Longcoat.md)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-+1 Rare Pip
-
- | 
+Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
+| File:Gumshoe Long Coat.png | [Gumshoe Longcoat](Gumshoe_Longcoat.md)  
+(**Series**)  
+(**Set**) | +1 Rare Pip | 
 
 Found from:
 
@@ -3623,36 +2233,22 @@ Found from:
 
 -   Drop from [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Dark, Ochre, Grey & White
 
   
-
 Set: Gumshoe  
 Head: [Gumshoe Hat](Gumshoe_Hat.md)  
 Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
 
  |
-|  | 
-
-[Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
-
- | 
-
-_+5 Health_
-
+|  | [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md) | _+5 Health_  
 _+2 Posture_
 
-+1 Uncommon Pip
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Lowstride_
-
++1 Uncommon Pip  
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Lowstride_  
 **Requires Power 13**
 
  | 
@@ -3668,29 +2264,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
- | 
-
-N/A
-
- |
-| File:IgnitionGauntlets.png | 
-
-[Ignition Gauntlets](Ignition_Gauntlets.md)
-
-(**Legendary**)
-
- | 
-
-_+8 Health_
-
+ | N/A |
+| File:IgnitionGauntlets.png | [Ignition Gauntlets](Ignition_Gauntlets.md)  
+(**Legendary**) | _+8 Health_  
 _+1 Posture_
 
-+1 Rare Pip
-
-+2 Legendary Pips
-
-_+Talent: Force Your Way_
-
++1 Rare Pip  
++2 Legendary Pips  
+_+Talent: Force Your Way_  
 **Requires Power 13**
 
  | 
@@ -3702,25 +2283,12 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
- | 
-
-N/A
-
- |
-| File:Imperial Pauldrons.png | 
-
-[Imperial Pauldrons](Imperial_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+7 Health_
-
+ | N/A |
+| File:Imperial Pauldrons.png | [Imperial Pauldrons](Imperial_Pauldrons.md)  
+(**Set**) | _+7 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -3734,24 +2302,12 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Imperial  
+ | Set: Imperial  
 Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
-Legs: [Imperial Boots](Imperial_Boots.md)
-
- |
-|  | 
-
-[Inquisitor's Duster](<Inquisitor's_Duster.md>)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-+2 Rare Pips
+Legs: [Imperial Boots](Imperial_Boots.md) |
+|  | [Inquisitor's Duster](<Inquisitor's_Duster.md>)  
+(**Series**)  
+(**Animated**) | +2 Rare Pips
 
 **Requires Power 8**
 
@@ -3761,21 +2317,10 @@ Found from:
 
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | 
-
-Variants:  
-Brown, Dark, Navy, Smoke & Titan
-
- |
-| File:Iron Pauldrons1.png | 
-
-[Iron Pauldrons](Iron_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
+ | Variants:  
+Brown, Dark, Navy, Smoke & Titan |
+| File:Iron Pauldrons1.png | [Iron Pauldrons](Iron_Pauldrons.md)  
+(**Set**) | +2 Rare Pips
 
 **Requires Power 5**
 
@@ -3787,31 +2332,16 @@ Found from:
 -   [Isle of Vigils](Isle_of_Vigils.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
- | 
-
-Set: Iron  
+ | Set: Iron  
 Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
-Legs: [Iron Boots](Iron_Boots.md)
-
- |
-|  | 
-
-[Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
-
-(**Legendary**)
-
- | 
-
-_+10 Health_
-
+Legs: [Iron Boots](Iron_Boots.md) |
+|  | [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)  
+(**Legendary**) | _+10 Health_  
 _+5% Ironsing Armor_
 
-+1 Rare Pip
-
-+2 Legendary Pips
-
-_+Talent: Defiant until the End_
-
++1 Rare Pip  
++2 Legendary Pips  
+_+Talent: Defiant until the End_  
 **Requires Power 13, Fortitude 15**
 
  | 
@@ -3824,22 +2354,10 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-N/A
-
- |
-| File:Faded Justicar Coat.png | 
-
-Justicar Defender
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-+2 Rare Pips
+ | N/A |
+| File:Faded Justicar Coat.png | Justicar Defender  
+(**Series**)  
+(**Animated**) | +2 Rare Pips
 
 **Requires Power 8**
 
@@ -3851,24 +2369,12 @@ Found from:
 -   [The Ferryman](The_Ferryman.md) (Winter) **(10%)**
 -   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (**~2%**)
 
- | 
+ | Variants:  
+Red, Black, Faded, Jet Black, Orange & Purple |
+| File:Khan Pauldrons.png | [Khan Pauldrons](Legion_Pauldrons.md) | _+3 Health_
 
-Variants:  
-Red, Black, Faded, Jet Black, Orange & Purple
-
- |
-| File:Khan Pauldrons.png | 
-
-[Khan Pauldrons](Legion_Pauldrons.md)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
-_+Talent: Polite Awakening_
-
++2 Rare Pips  
+_+Talent: Polite Awakening_  
 **Requires Power 8**
 
  | 
@@ -3883,21 +2389,9 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Leather Gloves](Leather_Gloves.md)
-
-(**Set**)
-
- | 
-
-_+2 Health_
-
+ | N/A |
+|  | [Leather Gloves](Leather_Gloves.md)  
+(**Set**) | _+2 Health_  
 _+1 Posture_
 
 +1 Common Pip
@@ -3906,7 +2400,7 @@ _+1 Posture_
 
 Found from:
 
--   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
+-   Obtained during the [Tutorial](Tutorial.md)
 -   Obtained on spawn if you have the _Starter Equipment_ [Echo Unlock](Echoes.md)
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)
@@ -3914,26 +2408,12 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
- | 
-
-Set: Leather  
+ | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
-Legs: [Leather Boots](Leather_Boots.md)
-
- |
-|  | 
-
-[Leather Pauldrons](Leather_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-_+1 Posture_
-
- | 
+Legs: [Leather Boots](Leather_Boots.md) |
+|  | [Leather Pauldrons](Leather_Pauldrons.md)  
+(**Set**) | _+5 Health_  
+_+1 Posture_ | 
 
 Found from:
 
@@ -3941,31 +2421,16 @@ Found from:
 -   [Brainsucker](Brainsucker.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
- | 
-
-Set: Leather  
+ | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
-Legs: [Leather Boots](Leather_Boots.md)
-
- |
-|  | 
-
-[Legion Phalanx Plate](Legion_Phalanx_Plate.md)
-
-(**Set**)
-
- | 
-
-_+6 Health_
-
+Legs: [Leather Boots](Leather_Boots.md) |
+|  | [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
+(**Set**) | _+6 Health_  
 _+2 Posture_
 
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Hoplite_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Hoplite_  
 **Requires Power 13**
 
  | 
@@ -3980,28 +2445,15 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
- | 
-
-Set: Legion Phalanx  
+ | Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
-Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
+| File:Sharko coat.png | [Megalodaunt Coat](Megalodaunt_Coat.md)  
+(**Series**)  
+(**Animated**) | _+5% Damage vs. Monsters_
 
- |
-| File:Sharko coat.png | 
-
-[Megalodaunt Coat](Megalodaunt_Coat.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+5% Damage vs. Monsters_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -4010,28 +2462,14 @@ Found from:
 
 -   Mob Drop from [Megalodaunts](Megalodaunt.md) (**~3%**)
 
- | 
+ | Variants:  
+Red, Purple, Brown, Green, Blue & Peach |
+|  | [Mercenary's Garb](<Mercenary's_Garb.md>)  
+(**Set**) | _+6% Stealth_
 
-Variants:  
-Red, Purple, Brown, Green, Blue & Peach
-
- |
-|  | 
-
-[Mercenary's Garb](<Mercenary's_Garb.md>)
-
-(**Set**)
-
- | 
-
-_+6% Stealth_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
-_+Talent: Kick Off_
-
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Kick Off_  
 **Requires Power 5**
 
  | 
@@ -4047,31 +2485,16 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Mercenary  
+ | Set: Mercenary  
 Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
-Legs: [Mercenary's Boots](<Mercenary's_Boots.md>)
-
- |
-| File:Smoke ministry cloak.PNG | 
-
-[Ministry Cloak](Ministry_Cloak.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+5 Health_
-
+Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
+| File:Smoke ministry cloak.PNG | [Ministry Cloak](Ministry_Cloak.md)  
+(**Series**)  
+(**Animated**) | _+5 Health_  
 _+10 Ether_
 
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 8**
 
  | 
@@ -4080,26 +2503,13 @@ Found from:
 
 -   [Valley of Heroes, Hero Blade Event](Minityrsa.md) (~20%)
 
- | 
+ | Variants:  
+Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
+|  | [Ministry Operative Cloak](Ministry_Operative_Cloak.md) | _+6% Stealth_
 
-Variants:  
-Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke
-
- |
-|  | 
-
-[Ministry Operative Cloak](Ministry_Operative_Cloak.md)
-
- | 
-
-_+6% Stealth_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Ether Conduit_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Ether Conduit_  
 **Requires Power 8**
 
  | 
@@ -4115,35 +2525,19 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 | 
 
 File:Monastery Champion Robes NEW.png
 
- | 
-
-[Monastery Champion Robes](Monastery_Champion_Robes.md)
-
-(**Set**)
-
-(**Legendary**)
-
- | 
-
-_+8 Health_
-
+ | [Monastery Champion Robes](Monastery_Champion_Robes.md)  
+(**Set**)  
+(**Legendary**) | _+8 Health_  
 _+1 Posture_
 
-+1 Rare Pip
-
-+2 Legendary Pips
-
-_+Talent: Temple Guard_
-
++1 Rare Pip  
++2 Legendary Pips  
+_+Talent: Temple Guard_  
 **Requires Power 13**
 
  | 
@@ -4153,30 +2547,16 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
- | 
-
-Set: Monastery Champion  
+ | Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
 Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
-Torso: [Monastery Beads](Monastery_Beads.md)
+Torso: [Monastery Beads](Monastery_Beads.md) |
+|  | [Moonseye Gauntlets](Moonseye_Gauntlets.md)  
+(**Legendary**) | _+7 Health_  
+_+3 Posture_  
 
- |
-|  | 
-
-[Moonseye Gauntlets](Moonseye_Gauntlets.md)
-
-(**Legendary**)
-
- | 
-
-_+7 Health_
-
-_+3 Posture_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
++2 Rare Pips  
++1 Legendary Pip  
 **Requires Power 13**
 
  | 
@@ -4188,25 +2568,12 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Novice Brace](Novice_Brace.md)
-
-(**Set**)
-
- | 
-
-_+2 Health_
-
+ | N/A |
+|  | [Novice Brace](Novice_Brace.md)  
+(**Set**) | _+2 Health_  
 _+1 Posture_
 
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 5**
 
  | 
@@ -4224,31 +2591,17 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
 
- | 
-
-Set: Novice  
+ | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
-Legs: [Novice Boots](Novice_Boots.md)
+Legs: [Novice Boots](Novice_Boots.md) |
+| File:Crimson elite pathfinder.png | [Pathfinder Elite](Pathfinder_Elite.md)  
+(**Series**)  
+(**Animated**)  
+(**Legendary**)  
+ | _+5% Damage vs. Monsters_
 
- |
-| File:Crimson elite pathfinder.png | 
-
-[Pathfinder Elite](Pathfinder_Elite.md)
-
-(**Legendary**)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+5% Damage vs. Monsters_
-
-+2 Rare Pip
-
-+1 Legendary Pip
-
++2 Rare Pip  
++1 Legendary Pip  
 **Requires Power 8**
 
  | 
@@ -4257,28 +2610,14 @@ Found from:
 
 -   Mob Drop from [Nautilodaunt](Nautilodaunt.md) (**~3%**)
 
- | 
+ | Variants:  
+Ash, Black, Crimson, Sage & Magenta |
+|  | [Providence Coat](Providence_Coat.md)  
+(**Legendary**) | _+5 Health_
 
-Variants:  
-Ash, Black, Crimson, Sage & Magenta
-
- |
-|  | 
-
-[Providence Coat](Providence_Coat.md)
-
-(**Legendary**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Braced Collapse_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Braced Collapse_  
 **Requires Power 10**
 
  | 
@@ -4289,25 +2628,12 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Ranger's Brace](<Ranger's_Brace.md>)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
+ | N/A |
+|  | [Ranger's Brace](<Ranger's_Brace.md>)  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -4322,27 +2648,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Ranger  
+ | Set: Ranger  
 Arms: [Ranger's Brace](<Ranger's_Brace.md>)  
-Legs: [Ranger's Boots](<Ranger's_Boots.md>)
-
- |
-|  | 
-
-[Redsteel Pauldrons](Redsteel_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
+Legs: [Ranger's Boots](<Ranger's_Boots.md>) |
+|  | [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -4359,33 +2672,17 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Redsteel  
+ | Set: Redsteel  
 Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
-Legs: [Redsteel Boots](Redsteel_Boots.md)
-
- |
-|  | 
-
-[Reinforced War Plate](Reinforced_War_Plate.md)
-
-(**Set**)
-
-(**Animated**)
-
- | 
-
-_+6 Health_
-
+Legs: [Redsteel Boots](Redsteel_Boots.md) |
+|  | [Reinforced War Plate](Reinforced_War_Plate.md)  
+(**Set**)  
+(**Animated**) | _+6 Health_  
 _+2 Posture_
 
-+2 Rare Pips
-
-_+Talent Crippling Impact_
-
-_+Set Talent: Lasting Trauma_
-
++2 Rare Pips  
+_+Talent Crippling Impact_  
+_+Set Talent: Lasting Trauma_  
 **Requires Power 20, Strength 25**
 
  | 
@@ -4394,25 +2691,13 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Reinforced Evanspear  
+ | Set: Reinforced Evanspear  
 Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
 Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
-Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
-
- |
-| File:Faded Royal Duelist.png | 
-
-[Royal Duelist](Royal_Duelist.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-+2 Rare Pips
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md) |
+| File:Faded Royal Duelist.png | [Royal Duelist](Royal_Duelist.md)  
+(**Series**)  
+(**Animated**) | +2 Rare Pips
 
 **Requires Power 8**
 
@@ -4424,28 +2709,14 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
 
- | 
+ | Variants:  
+Dark, Faded, Purple, Red, Rose & Stained |
+|  | [Royal Pathfinder](Royal_Pathfinder.md)  
+(**Animated**) | _+6 Health_
 
-Variants:  
-Dark, Faded, Purple, Red, Rose & Stained
-
- |
-|  | 
-
-[Royal Pathfinder](Royal_Pathfinder.md)
-
-(**Animated**)
-
- | 
-
-_+6 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Ready or Not_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Ready or Not_  
 **Requires Power 10**
 
  | 
@@ -4458,23 +2729,11 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | 
+ | N/A |
+| File:Sailor's Fleece.png | [Sailor's Fleece](<Sailor's_Fleece.md>)  
+(**Series**) | _+1 Posture_
 
-N/A
-
- |
-| File:Sailor's Fleece.png | 
-
-[Sailor's Fleece](<Sailor's_Fleece.md>)
-
-(**Series**)
-
- | 
-
-_+1 Posture_
-
-+1 Rare Pip
-
++1 Rare Pip  
 _Requires Power 2_
 
  | 
@@ -4484,31 +2743,16 @@ Found from:
 -   [Voidsea](Voidsea.md) Events
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | 
-
-Variants:  
-Default, Dark
-
- |
-|  | 
-
-[Sandrunner Wraps](Sandrunner_Wraps.md)
-
-(**Set**)
-
- | 
-
-_+6 Health_
-
+ | Variants:  
+Default, Dark |
+|  | [Sandrunner Wraps](Sandrunner_Wraps.md)  
+(**Set**) | _+6 Health_  
+_+8% Fire Armor_  
 _+4% Stealth_
 
-_+8% Fire Armor_
-
 +1 Rare Pip  
-+1 Legendary Pip
-
-_+Talent: Kick Off_
-
++1 Legendary Pip  
+_+Talent: Kick Off_  
 **Requires Power 8**
 
  | 
@@ -4523,27 +2767,14 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | 
-
-Set: Sandrunner  
+ | Set: Sandrunner  
 Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)  
-Torso: [Sandrunner Scarf](Sandrunner_Scarf.md)
+Torso: [Sandrunner Scarf](Sandrunner_Scarf.md) |
+| File:ShockTrooperPlate.png | [Shock Trooper Plate](Shock_Trooper_Plate.md)  
+(**Set**)  
+(**Animated**) | _+5 Health_
 
- |
-| File:ShockTrooperPlate.png | 
-
-[Shock Trooper Plate](Shock_Trooper_Plate.md)
-
-(**Set**)
-
-(**Animated**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 10**
 
  | 
@@ -4552,28 +2783,15 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Shock Trooper  
+ | Set: Shock Trooper  
 Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
-Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
-
- |
-| File:Static-assets-upload15149895911827136801.png | 
-
-[Silver Pauldrons](Silver_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md) |
+| File:Static-assets-upload15149895911827136801.png | [Silver Pauldrons](Silver_Pauldrons.md)  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -4589,22 +2807,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Silver Knight  
+ | Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
-Legs: [Silver Sabatons](Silver_Sabatons.md)
-
- |
-| File:Simple Pauldrons.png | 
-
-[Simple Pauldrons](Simple_Pauldrons.md)
-
- | 
-
-_+2 Health_
-
+Legs: [Silver Sabatons](Silver_Sabatons.md) |
+| File:Simple Pauldrons.png | [Simple Pauldrons](Simple_Pauldrons.md) | _+2 Health_  
 _+1 Posture_
 
 +1 Common Pip
@@ -4613,27 +2820,15 @@ _+1 Posture_
 
 Found from:
 
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   [Summer Isle](Summer_Isle.md)
 
- | 
-
-N/A
-
- |
-| File:Smithgloves.png | 
-
-[Smith's Gloves](<Smith's_Gloves.md>)
-
-(**Set**)
-
- | 
-
-_+5 Health_  
+ | N/A |
+| File:Smithgloves.png | [Smith's Gloves](<Smith's_Gloves.md>)  
+(**Set**) | _+5 Health_
 
 +2 Rare Pips  
-
 **Requires Power 5**
 
  | 
@@ -4651,32 +2846,17 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Smith's  
+ | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
-Face: [Smith's Goggles](<Smith's_Goggles.md>)
+Face: [Smith's Goggles](<Smith's_Goggles.md>) |
+| File:ShockTrooperPlate.png | [Specialist Plate](Specialist_Plate.md)  
+(**Set**)  
+(**Animated**) | _+5 Health_
 
- |
-| File:ShockTrooperPlate.png | 
-
-[Specialist Plate](Specialist_Plate.md)
-
-(**Set**)
-
-(**Animated**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
-_+Talent: Stormcall_
-
-_+Set Talent: Shock Trooper Specialist_
-
++2 Rare Pips  
+_+Talent: Stormcall_  
+_+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
 
  | 
@@ -4685,33 +2865,18 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Specialist  
+ | Set: Specialist  
 Head: [Specialist Helmet](Specialist_Helmet.md)\]  
 Arms: [Specialist Plate](Specialist_Plate.md)  
-Legs [Specialist Boots](Specialist_Boots.md)
-
- |
-|  | 
-
-[Star Duster](Star_Duster.md)
-
-(**Set**)
-
-(**Legendary**)
-
- | 
-
-_+5 Health_  
-_+1 Posture_  
+Legs [Specialist Boots](Specialist_Boots.md) |
+|  | [Star Duster](Star_Duster.md)  
+(**Set**)  
+(**Legendary**) | _+5 Health_  
+_+1 Posture_
 
 +2 Rare Pips  
-
-+1 Legendary Pip
-
-_+Talent: Star Duster_
-
++1 Legendary Pip  
+_+Talent: Star Duster_  
 **Requires Power 10**
 
  | 
@@ -4725,25 +2890,13 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Star  
+ | Set: Star  
 Arms: [Star Duster](Star_Duster.md)  
-Legs: [Star Boots](Star_Boots.md)
-
- |
-|  | 
-
-[Steel Pauldrons](Steel_Pauldrons.md)
-
- | 
-
-_+5 Health_
-
+Legs: [Star Boots](Star_Boots.md) |
+|  | [Steel Pauldrons](Steel_Pauldrons.md) | _+5 Health_  
 _+1 Posture_
 
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 5**
 
  | 
@@ -4751,31 +2904,18 @@ _+1 Posture_
 Found from:
 
 -   [Erisia](Erisia.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   \[\[Voidwalker|Voidwalker Bounties\]
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 
- | 
+ | N/A |
+|  | [Summer Scarf](Summer_Scarf.md)  
+(**Series**)  
+(**Animated**) | _+5 Health_
 
-N/A
-
- |
-|  | 
-
-[Summer Scarf](Summer_Scarf.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+5 Health_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -4785,28 +2925,14 @@ Found from:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | 
+ | Variants:  
+Default, Threadwork |
+|  | [Titus's Cape](<Titus's_Cape.md>)  
+(**Animated**)  
+(**Unique**) | _+10% Lightning Armor_
 
-Variants:  
-Default, Threadwork
-
- |
-|  | 
-
-[Titus's Cape](<Titus's_Cape.md>)
-
-(**Animated**)
-
-(**Unique**)
-
- | 
-
-_+10% Lightning Armor_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
++2 Rare Pips  
++1 Legendary Pip  
 **Requires Power 15**
 
  | 
@@ -4815,25 +2941,12 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Tracker's Brace](<Tracker's_Brace.md>)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
+ | N/A |
+|  | [Tracker's Brace](<Tracker's_Brace.md>)  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 8**
 
  | 
@@ -4848,29 +2961,15 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Tracker  
+ | Set: Tracker  
 Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
-Legs: [Tracker's Boots](<Tracker's_Boots.md>)
-
- |
-| File:Vanguardbrace.png | 
-
-[Vanguard Brace](Vanguard_Brace.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
+Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
+| File:Vanguardbrace.png | [Vanguard Brace](Vanguard_Brace.md)  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+2 Rare Pips
-
-_+Talent: Replenishing Knockout_
-
++2 Rare Pips  
+_+Talent: Replenishing Knockout_  
 **Requires Power 10**
 
  | 
@@ -4884,25 +2983,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
 
- | 
-
-Set: Vanguard  
+ | Set: Vanguard  
 Arms: [Vanguard Brace](Vanguard_Brace.md)  
-Legs: [Vanguard Boots](Vanguard_Boots.md)
-
- |
-|  | 
-
-[Warden Pauldrons](Warden_Pauldrons.md)
-
- | 
-
-_+10 Health_
-
+Legs: [Vanguard Boots](Vanguard_Boots.md) |
+|  | [Warden Pauldrons](Warden_Pauldrons.md) | _+10 Health_  
 _+2 Posture_
 
-+2 Legendary Pips
-
++2 Legendary Pips  
 **Requires Power 13**
 
  | 
@@ -4912,67 +2999,37 @@ Found from:
 -   [Fort Merit](Fort_Merit.md)
 -   [War Mode](War_Mode.md)
 
- | 
+ | N/A |
+| File:Navy Warlock Mantle.png | [Warlock's Mantle](<Warlock's_Mantle.md>)  
+(**Series**)  
+(**Set**)  
+(**Animated**)  
+(**Unique**) | _+7 Health_
 
-N/A
-
- |
-| File:Navy Warlock Mantle.png | 
-
-[Warlock's Mantle](<Warlock's_Mantle.md>)
-
-(**Series**)
-
-(**Set**)
-
-(**Animated**)
-
-(**Unique**)
-
- | 
-
-_+7 Health_
-
-+1 Rare Pip
-
-+2 Legendary Pips
-
-_+Talent: Overflowing Dam_
-
++1 Rare Pip  
++2 Legendary Pips  
+_+Talent: Overflowing Dam_  
 **Requires Power 13, Intelligence 5**
 
  | 
 
 Found from:
 
-  
-
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Lilac, Navy, Sky, Verdant
 
   
-
 Set: Warlock  
 Head: [Warlock's Brim](<Warlock's_Brim.md>)  
 Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
-| File:WesternOutlawRobes.png | 
+| File:WesternOutlawRobes.png | [Western Outlaw Robes](Western_Outlaw_Robes.md)  
+(**Set**) | _+3 Posture_
 
-[Western Outlaw Robes](Western_Outlaw_Robes.md)
-
-(**Set**)
-
- | 
-
-_+3 Posture_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 10**
 
  | 
@@ -4981,24 +3038,13 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Western Outlaw  
+ | Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
-
- |
-| File:White Overcoat.png | 
-
-White Overcoat
-
-(**Series**)
-
- | 
-
-_+2 Health_  
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+| File:White Overcoat.png | White Overcoat  
+(**Series**) | _+2 Health_
 
 +1 Uncommon Pip
 
@@ -5014,28 +3060,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
- | 
+ | Variants:  
+Black, Brown, & White |
+| File:White Parka.png | White Parka  
+(**Series**) | _+2 Health_
 
-Variants:  
-Black, Brown, & White
-
- |
-| File:White Parka.png | 
-
-White Parka
-
-(**Series**)
-
- | 
-
-_+2 Health_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
-_+Talent: Steady Footing_
-
++1 Uncommon Pip  
++1 Rare Pip  
+_+Talent: Steady Footing_  
 **Requires Power 5**
 
  | 
@@ -5052,32 +3084,19 @@ Found from:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Variants:  
-Black, Brown & White
-
- |
-|  | 
-
-[Winter Corps Parka](Winter_Corps_Parka.md)
+ | Variants:  
+Black, Brown & White |
+|  | [Winter Corps Parka](Winter_Corps_Parka.md)
 
 (**Set**)
 
- | 
-
-_+6 Health_
-
-_+2 Posture_
-
-_+5% Ice Armor_
-
+ | _+6 Health_  
+_+2 Posture_  
+_+5% Ice Armor_  
 _+5% Wind Armor_
 
-+2 Rare Pips
-
-_+Talent: Winter's Protection_
-
++2 Rare Pips  
+_+Talent: Winter's Protection_  
 **Requires Power 10**
 
  | 
@@ -5092,27 +3111,14 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 
- | 
-
-Set: Winter Corps  
+ | Set: Winter Corps  
 Arms: [Winter Corps Parka](Winter_Corps_Parka.md)  
-Legs: [Winter Corps Boots](Winter_Corps_Boots.md)
+Legs: [Winter Corps Boots](Winter_Corps_Boots.md) |
+|  | [Woodland Pauldrons](Woodland_Pauldrons.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Woodland Pauldrons](Woodland_Pauldrons.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
-_+Talent: Polite Awakening_
-
++2 Rare Pips  
+_+Talent: Polite Awakening_  
 **Requires Power 8**
 
  | 
@@ -5125,26 +3131,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Woodland  
+ | Set: Woodland  
 Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
-Legs: [Woodland Boots](Woodland_Boots.md)
-
- |
-|  | 
-
-[Eternal Restraints](Eternal_Restraints.md)
-
-(**Unobtainable**)
-
- | 
-
-_+20% Health_  
+Legs: [Woodland Boots](Woodland_Boots.md) |
+|  | [Eternal Restraints](Eternal_Restraints.md)  
+(**Unobtainable**) | _+20% Health_  
 _+5 Posture_
 
-_+Talent: Chains of Eternity_
-
+_+Talent: Chains of Eternity_  
 _+Talent: Cognito Hazard_
 
  | 
@@ -5153,53 +3147,23 @@ Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Stag Wraps](Stag_Wraps.md)
-
-(**Unobtainable**)
-
- | 
-
-Confidential Information
-
- | 
+ | N/A |
+|  | [Stag Wraps](Stag_Wraps.md)  
+(**Unobtainable**) | Confidential Information | 
 
 Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Phoenix Duster](Phoenix_Duster.md)
-
-(**Unobtainable**)
-
- | 
-
-Confidential Information
-
- | 
+ | N/A |
+|  | [Phoenix Duster](Phoenix_Duster.md)  
+(**Unobtainable**) | Confidential Information | 
 
 Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 
 **Legs:**
 
@@ -5224,21 +3188,12 @@ Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
-|  | 
-
-[Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
-
-(**Set**)
-
-(**Legendary**)
-
- | 
-
-_+5 Health_  
+|  | [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)  
+(**Set**)  
+(**Legendary**) | _+5 Health_
 
 +2 Rare Pips  
-+1 Legendary Pips
-
++1 Legendary Pips  
 **Requires Power 10**
 
  | 
@@ -5247,33 +3202,17 @@ Found from:
 
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
- | 
-
-Set: Abyss Wanderer  
+ | Set: Abyss Wanderer  
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
-Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)
-
- |
-| File:WesternOutlawBoots.png | 
-
-[Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3% Lightning Armor_
-
+Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
+| File:WesternOutlawBoots.png | [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+(**Set**) | _+3% Lightning Armor_  
 _+3% Wind Armor_
 
-+1 Uncommon Pip
-
-+1 Rare Pip
-
-_+Talent: Stronger Under Pressure_
-
-_+Set Talent: Offensive Recovery_
-
++1 Uncommon Pip  
++1 Rare Pip  
+_+Talent: Stronger Under Pressure_  
+_+Set Talent: Offensive Recovery_  
 **Requires Power 20**
 
  | 
@@ -5282,27 +3221,15 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Ascended Outlaw  
+ | Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+|  | [Autumn Boots](Autumn_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Autumn Boots](Autumn_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5318,22 +3245,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Autumn  
+ | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
-Legs: [Autumn Boots](Autumn_Boots.md)
-
- |
-| File:Static-assets-upload10948241571813513916.png | 
-
-[Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
+Legs: [Autumn Boots](Autumn_Boots.md) |
+| File:Static-assets-upload10948241571813513916.png | [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)  
+(**Set**) | +2 Rare Pips
 
 **Requires Power 4**
 
@@ -5343,25 +3259,13 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 
- | 
-
-Set: Azure Royal Guard  
+ | Set: Azure Royal Guard  
 Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
-Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
+Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
+|  | [Bluesteel Boots](Bluesteel_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Bluesteel Boots](Bluesteel_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5377,29 +3281,15 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Bluesteel  
+ | Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
-Legs: [Bluesteel Boots](Bluesteel_Boots.md)
+Legs: [Bluesteel Boots](Bluesteel_Boots.md) |
+|  | [Bluestone Boots](Bluestone_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Bluestone Boots](Bluestone_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
-_+Talent: I'm Blue_
-
-_+Set Talent: Etherguard_
-
++2 Rare Pips  
+_+Talent: I'm Blue_  
+_+Set Talent: Etherguard_  
 **Requires Power 6**
 
  | 
@@ -5408,22 +3298,11 @@ Found from:
 
 -   Crafting
 
- | 
-
-Set: Bluesteel  
+ | Set: Bluesteel  
 Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
-Legs: [Bluestone Boots](Bluestone_Boots.md)
-
- |
-| File:Brilliant Boots.png | 
-
-[Brilliant Boots](Brilliant_Boots.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
+Legs: [Bluestone Boots](Bluestone_Boots.md) |
+| File:Brilliant Boots.png | [Brilliant Boots](Brilliant_Boots.md)  
+(**Set**) | +2 Rare Pips
 
 **Requires Power 4**
 
@@ -5440,26 +3319,14 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Brilliant  
+ | Set: Brilliant  
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
-Torso: [Brilliant Cape](Brilliant_Cape.md)
+Torso: [Brilliant Cape](Brilliant_Cape.md) |
+|  | [Celestial Boots](Celestial_Boots.md) | +2 Rare Pips  
++1 Legendary Pip  
 
- |
-|  | 
-
-[Celestial Boots](Celestial_Boots.md)
-
- | 
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Cosmic Connection_
-
+_+Talent: Cosmic Connection_  
 **Requires Power 10**
 
  | 
@@ -5468,22 +3335,11 @@ Found from:
 
 -   Crafting at [The Cold Forge](The_Cold_Forge.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 | 
 
- | 
-
-[Celtorian Sabatons](Celtorian_Sabatons.md)
-
-(**Set**)
-
- | 
-
-_+4 Health_  
+ | [Celtorian Sabatons](Celtorian_Sabatons.md)  
+(**Set**) | _+4 Health_
 
 +2 Rare Pips
 
@@ -5499,24 +3355,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Celtor Commander  
+ | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
 Arms: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
-Legs: [Celtorian Sabatons](Celtorian_Sabatons.md)
+Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
+|  | [Delver Boots](Delver_Boots.md) | _+2 Posture_
 
- |
-|  | 
-
-[Delver Boots](Delver_Boots.md)
-
- | 
-
-_+2 Posture_
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 _+Talent: Surestep_
 
  | 
@@ -5525,20 +3370,9 @@ Found from:
 
 -   [Crafting](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Enforcer Boots](Enforcer_Boots.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
+ | N/A |
+|  | [Enforcer Boots](Enforcer_Boots.md)  
+(**Set**) | +2 Rare Pips
 
 **Requires Power 4**
 
@@ -5550,25 +3384,13 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [The Enforcer](Enforcer.md)
 
- | 
-
-Set: Enforcer  
+ | Set: Enforcer  
 Arms: [Enforcer Plate](Enforcer_Plate.md)  
-Legs: [Enforcer Boots](Enforcer_Boots.md)
+Legs: [Enforcer Boots](Enforcer_Boots.md) |
+| File:Etrean Siege Sabatons.png | [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)  
+(**Set**) | _+4 Health_
 
- |
-| File:Etrean Siege Sabatons.png | 
-
-[Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
-
-(**Set**)
-
- | 
-
-_+4 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5584,25 +3406,13 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
- | 
-
-Set: Etrean Siege  
+ | Set: Etrean Siege  
 Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
-Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
+Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
+|  | [Evanspear War Boots](Evanspear_War_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Evanspear War Boots](Evanspear_War_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 10**
 
  | 
@@ -5611,26 +3421,14 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Evanspear War  
+ | Set: Evanspear War  
 Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
-Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md) |
+| File:Flameguard Boots.png | [Flameguard Boots](Flameguard_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-| File:Flameguard Boots.png | 
-
-[Flameguard Boots](Flameguard_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5645,27 +3443,14 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Flameguard  
+ | Set: Flameguard  
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
-Legs: [Flameguard Boots](Flameguard_Boots.md)
+Legs: [Flameguard Boots](Flameguard_Boots.md) |
+| File:White fur boots.png | [Fur Boots](Fur_Boots.md)  
+(**Series**)  
+(**Set**) | _+3 Health_
 
- |
-| File:White fur boots.png | 
-
-[Fur Boots](Fur_Boots.md)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5686,30 +3471,19 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Black & White
 
   
-
 Set: Fur  
 Arms: [Fur Pauldrons](Fur_Pauldrons.md)  
 Legs: [Fur Boots](Fur_Boots.md)
 
  |
-| File:Grand Authority Sabatons.png | 
+| File:Grand Authority Sabatons.png | [Grand Authority Sabatons](Grand_Authority_Sabatons.md)  
+(**Set**) | _+4 Health_
 
-[Grand Authority Sabatons](Grand_Authority_Sabatons.md)
-
-(**Set**)
-
- | 
-
-_+4 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5724,22 +3498,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Grand Authority  
+ | Set: Grand Authority  
 Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
-Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
-
- |
-| File:Grand Boots.png | 
-
-[Grand Boots](Grand_Boots.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
+Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
+| File:Grand Boots.png | [Grand Boots](Grand_Boots.md)  
+(**Set**) | +2 Rare Pips
 
 **Requires Power 4**
 
@@ -5751,27 +3514,14 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [First Layer](First_Layer.md)
 
- | 
-
-Set: Grand  
+ | Set: Grand  
 Arms: [Grand Pauldrons](Grand_Pauldrons.md)  
-Legs: [Grand Boots](Grand_Boots.md)
+Legs: [Grand Boots](Grand_Boots.md) |
+| File:Imperial Boots.png | [Imperial Boots](Imperial_Boots.md)  
+(**Set**) | _+5 Health_
 
- |
-| File:Imperial Boots.png | 
-
-[Imperial Boots](Imperial_Boots.md)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
++2 Rare Pips  
++1 Legendary Pip  
 **Requires Power 10**
 
  | 
@@ -5783,22 +3533,11 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 
- | 
-
-Set: Imperial  
+ | Set: Imperial  
 Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
-Legs: [Imperial Boots](Imperial_Boots.md)
-
- |
-| File:Static-assets-upload12369006146430102616.png | 
-
-[Iron Boots](Iron_Boots.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
+Legs: [Imperial Boots](Imperial_Boots.md) |
+| File:Static-assets-upload12369006146430102616.png | [Iron Boots](Iron_Boots.md)  
+(**Set**) | +2 Rare Pips
 
 **Requires Power 4**
 
@@ -5809,25 +3548,13 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 
- | 
-
-Set: Iron  
+ | Set: Iron  
 Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
-Legs: [Iron Boots](Iron_Boots.md)
+Legs: [Iron Boots](Iron_Boots.md) |
+| File:Khan Boots1.png | [Khan Boots](Legion_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-| File:Khan Boots1.png | 
-
-[Khan Boots](Legion_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5846,25 +3573,12 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Khan  
+ | Set: Khan  
 Head: [Khan Helmet](Legion_Helmet.md)  
 Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
-Legs: [Khan Boots](Legion_Boots.md)
-
- |
-| File:Leather Boots NEW.png | 
-
-[Leather Boots](Leather_Boots.md)
-
-(**Set**)
-
- | 
-
-+1 Common Pip
-
- | 
+Legs: [Khan Boots](Legion_Boots.md) |
+| File:Leather Boots NEW.png | [Leather Boots](Leather_Boots.md)  
+(**Set**) | +1 Common Pip | 
 
 Found from:
 
@@ -5873,29 +3587,15 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Brainsucker](Brainsucker.md)
 
- | 
-
-Set: Leather  
+ | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
-Legs: [Leather Boots](Leather_Boots.md)
+Legs: [Leather Boots](Leather_Boots.md) |
+|  | [Mercenary's Boots](<Mercenary's_Boots.md>)  
+(**Set**) | _+2 Health_
 
- |
-|  | 
-
-[Mercenary's Boots](<Mercenary's_Boots.md>)
-
-(**Set**)
-
- | 
-
-_+2 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
-_+Talent: Endurance Runner_
-
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Endurance Runner_  
 **Requires Power 10**
 
  | 
@@ -5912,25 +3612,13 @@ Found from:
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Mercenary  
+ | Set: Mercenary  
 Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
-Legs: [Mercenary's Boots](<Mercenary's_Boots.md>)
+Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
+|  | [Novice Boots](Novice_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Novice Boots](Novice_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -5943,23 +3631,11 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Novice  
+ | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
-Legs: [Novice Boots](Novice_Boots.md)
-
- |
-|  | 
-
-[Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
-
-(**Set**)
-
- | 
-
-+2 Rare Pips
-
+Legs: [Novice Boots](Novice_Boots.md) |
+|  | [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)  
+(**Set**) | +2 Rare Pips  
 +1 Legendary Pip
 
 **Requires Power 8**
@@ -5975,25 +3651,12 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Legion Phalanx  
+ | Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
-Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
-
- |
-| File:Ranger Boots.png | 
-
-[Ranger's Boots](<Ranger's_Boots.md>)
-
-(**Set**)
-
- |   
-
-+1 Rare Pip
-
- | 
+Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
+| File:Ranger Boots.png | [Ranger's Boots](<Ranger's_Boots.md>)  
+(**Set**) | +1 Rare Pip | 
 
 Found from:
 
@@ -6006,25 +3669,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Set: Ranger  
+ | Set: Ranger  
 Arms: [Ranger's Brace](<Ranger's_Brace.md>)  
-Legs: [Ranger's Boots](<Ranger's_Boots.md>)
+Legs: [Ranger's Boots](<Ranger's_Boots.md>) |
+|  | [Redsteel Boots](Redsteel_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Redsteel Boots](Redsteel_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -6038,29 +3689,15 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Redsteel  
+ | Set: Redsteel  
 Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
-Legs: [Redsteel Boots](Redsteel_Boots.md)
+Legs: [Redsteel Boots](Redsteel_Boots.md) |
+|  | [Reinforced War Boots](Reinforced_War_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Reinforced War Boots](Reinforced_War_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+1 Uncommon Pip
-
-_+Talent: Repeated Blows_
-
-_+Set Talent: Lasting Trauma_
-
++1 Uncommon Pip  
+_+Talent: Repeated Blows_  
+_+Set Talent: Lasting Trauma_  
 **Requires Power 20**
 
  | 
@@ -6069,26 +3706,14 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Reinforced Evanspear  
+ | Set: Reinforced Evanspear  
 Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
 Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
-Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md) |
+| File:ShockTrooperBoots.png | [Shock Trooper Boots](Shock_Trooper_Boots.md)  
+(**Set**) | _+1 Posture_
 
- |
-| File:ShockTrooperBoots.png | 
-
-[Shock Trooper Boots](Shock_Trooper_Boots.md)
-
-(**Set**)
-
- | 
-
-_+1 Posture_
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 10**
 
  | 
@@ -6097,26 +3722,14 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Shock Trooper  
+ | Set: Shock Trooper  
 Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
-Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md) |
+| File:Silver Sabatons.png | [Silver Sabatons](Silver_Sabatons.md)  
+(**Set**) | _+3 Health_
 
- |
-| File:Silver Sabatons.png | 
-
-[Silver Sabatons](Silver_Sabatons.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -6130,30 +3743,16 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | 
-
-Set: Silver Knight  
+ | Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
-Legs: [Silver Sabatons](Silver_Sabatons.md)
+Legs: [Silver Sabatons](Silver_Sabatons.md) |
+| File:ShockTrooperBoots.png | [Specialist Boots](Specialist_Boots.md)  
+(**Set**) | _+1 Posture_
 
- |
-| File:ShockTrooperBoots.png | 
-
-[Specialist Boots](Specialist_Boots.md)
-
-(**Set**)
-
- | 
-
-_+1 Posture_
-
-+1 Uncommon Pip
-
-_+Talent: Flashwind_
-
-_+Set Talent: Shock Trooper Specialist_
-
++1 Uncommon Pip  
+_+Talent: Flashwind_  
+_+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
 
  | 
@@ -6162,26 +3761,14 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Specialist  
+ | Set: Specialist  
 Head: [Specialist Helmet](Specialist_Helmet.md)\]  
 Arms: [Specialist Plate](Specialist_Plate.md)  
-Legs [Specialist Boots](Specialist_Boots.md)
+Legs [Specialist Boots](Specialist_Boots.md) |
+|  | [Tracker's Boots](<Tracker's_Boots.md>)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Tracker's Boots](<Tracker's_Boots.md>)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -6197,25 +3784,13 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [War Mode](War_Mode.md)
 
- | 
-
-Set: Tracker  
+ | Set: Tracker  
 Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
-Legs: [Tracker's Boots](<Tracker's_Boots.md>)
+Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
+|  | [Vanguard Boots](Vanguard_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Vanguard Boots](Vanguard_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -6229,29 +3804,15 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | 
-
-Set: Vanguard  
+ | Set: Vanguard  
 Arms: [Vanguard Brace](Vanguard_Brace.md)  
-Legs: [Vanguard Boots](Vanguard_Boots.md)
-
- |
-| File:Wartreads of Enmity.png | 
-
-[Wartreads of Enmity](Wartreads_of_Enmity.md)
-
-(**Set**)
-
-(**Unique**)
-
- | 
-
-_+5 Health_
-
+Legs: [Vanguard Boots](Vanguard_Boots.md) |
+| File:Wartreads of Enmity.png | [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+(**Set**)  
+(**Unique**) | _+5 Health_  
 _+1 Posture_
 
-+2 Legendary Pips
-
++2 Legendary Pips  
 **Requires Power 15**
 
  | 
@@ -6260,32 +3821,18 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Enmity  
+ | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
 Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
-Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
+| File:WesternOutlawBoots.png | [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+(**Set**) | _+3% Lightning Armor_  
+_+3% Wind Armor_  
 
- |
-| File:WesternOutlawBoots.png | 
-
-[Western Outlaw Boots](Western_Outlaw_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3% Lightning Armor_
-
-_+3% Wind Armor_
-
-+1 Uncommon Pip
-
-+1 Rare Pip
-
++1 Uncommon Pip  
++1 Rare Pip  
 **Requires Power 10**
 
  | 
@@ -6294,27 +3841,15 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Western Outlaw  
+ | Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+|  | [Winter Corps Boots](Winter_Corps_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Winter Corps Boots](Winter_Corps_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -6331,25 +3866,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   Buying from [Merchant Ships](Travelling_Merchant.md)
 
- | 
-
-Set: Winter Corps  
+ | Set: Winter Corps  
 Arms: [Winter Corps Parka](Winter_Corps_Parka.md)  
-Legs: [Winter Corps Boots](Winter_Corps_Boots.md)
+Legs: [Winter Corps Boots](Winter_Corps_Boots.md) |
+|  | [Woodland Boots](Woodland_Boots.md)  
+(**Set**) | _+3 Health_
 
- |
-|  | 
-
-[Woodland Boots](Woodland_Boots.md)
-
-(**Set**)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 6**
 
  | 
@@ -6364,29 +3887,15 @@ Found from:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Woodland  
+ | Set: Woodland  
 Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
-Legs: [Woodland Boots](Woodland_Boots.md)
+Legs: [Woodland Boots](Woodland_Boots.md) |
+|  | [Star Boots](Star_Boots.md)  
+(**Unobtainable**)  
+(**Set**) | _+5 Health_
 
- |
-|  | 
-
-[Star Boots](Star_Boots.md)
-
-(**Unobtainable**)
-
-(**Set**)
-
- | 
-
-_+5 Health_
-
-+2 Rare Pips
-
-+1 Legendary Pip
-
++2 Rare Pips  
++1 Legendary Pip  
 **Requires Power 10**
 
  | 
@@ -6395,13 +3904,9 @@ Found from:
 
 -   Vaulted
 
- | 
-
-Set: Star  
+ | Set: Star  
 Arms: [Star Duster](Star_Duster.md)  
-Legs: [Star Boots](Star_Boots.md)
-
- |
+Legs: [Star Boots](Star_Boots.md) |
 
 **Torso:**
 
@@ -6426,18 +3931,9 @@ Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
-| File:Black Cape.png | 
+| File:Black Cape.png | Black Cape(**Series**) | _+3% Physical Armor_
 
-Black Cape
-
-(**Series**)
-
- | 
-
-_+3% Physical Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6447,24 +3943,12 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
- | 
+ | Variants:  
+Black & Golden |
+| File:Brilliant Cape.png | [Brilliant Cape](Brilliant_Cape.md)  
+(**Set**) | _+3% Elemental Armor_
 
-Variants:  
-Black & Golden
-
- |
-| File:Brilliant Cape.png | 
-
-[Brilliant Cape](Brilliant_Cape.md)
-
-(**Set**)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6473,26 +3957,14 @@ Found from:
 
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Brilliant  
+ | Set: Brilliant  
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
-Torso: [Brilliant Cape](Brilliant_Cape.md)
+Torso: [Brilliant Cape](Brilliant_Cape.md) |
+| File:Canticlysm Pendant.png | [Canticlysm Pendant](Canticlysm_Pendant.md) | _+3% Elemental Armor_
 
- |
-| File:Canticlysm Pendant.png | 
-
-[Canticlysm Pendant](Canticlysm_Pendant.md)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 8**
 
  | 
@@ -6509,23 +3981,11 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
+ | N/A |
+| File:Confessors Charm.png | [Confessor's Charm](<Confessor's_Charm.md>) | _+3% Physical Armor_
 
-N/A
-
- |
-| File:Confessors Charm.png | 
-
-[Confessor's Charm](<Confessor's_Charm.md>)
-
- | 
-
-_+3% Physical Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 8**
 
  | 
@@ -6542,21 +4002,10 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
+ | N/A |
+|  | [Curseblood Pendant](Curseblood_Pendant.md) | _+3% Elemental Armor_
 
-N/A
-
- |
-|  | 
-
-[Curseblood Pendant](Curseblood_Pendant.md)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6570,27 +4019,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Dark Owl Cape](Dark_Owl_Cape.md)
-
-(**Set**)
-
- | 
-
+ | N/A |
+|  | [Dark Owl Cape](Dark_Owl_Cape.md)  
+(**Set**) | _+2% Elemental Armor_  
+_+5% Shadow Armor_  
 _+2% Stealth_
 
-_+5% Shadow Armor_
-
-_+2% Elemental Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6606,26 +4041,13 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
- | 
-
-Set: Dark Owl  
+ | Set: Dark Owl  
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
-Torso: [Dark Owl Cape](Dark_Owl_Cape.md)
-
- |
-|  | 
-
-[Fauld of Enmity](Fauld_of_Enmity.md)
-
-(**Set**)
-
-(**Unique**)
-
- | 
-
-+1 Rare Pip
-
+Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
+|  | [Fauld of Enmity](Fauld_of_Enmity.md)  
+(**Set**)  
+(**Unique**) | +1 Rare Pip  
 +2 Legendary Pips
 
 **Requires Power 10**
@@ -6636,32 +4058,18 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Enmity  
+ | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
 Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
-Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
+| File:Onyx Fleet Warden Cape.png | [Fleet Warden Cape](Fleet_Warden_Cape.md)  
+(**Series**)  
+(**Animated**) | _+3% Elemental Armor_
 
- |
-| File:Onyx Fleet Warden Cape.png | 
-
-[Fleet Warden Cape](Fleet_Warden_Cape.md)
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 8**
 
  | 
@@ -6670,24 +4078,12 @@ Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | 
+ | Variants:  
+Emerald, Rose, Scarlet, Shade, Silver & Onyx |
+| File:Golden Cape.png | Golden Cape  
+(**Series**) | _+3% Physical Armor_
 
-Variants:  
-Emerald, Rose, Scarlet, Shade, Silver & Onyx
-
- |
-| File:Golden Cape.png | 
-
-Golden Cape
-
-(**Series**)
-
- | 
-
-_+3% Physical Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6697,24 +4093,12 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
- | 
+ | Variants:  
+Black & Golden |
+|  | [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) | _+50 Carry Load_
 
-Variants:  
-Black & Golden
-
- |
-|  | 
-
-[Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)
-
- | 
-
-_+50 Carry Load_
-
-+2 Rare Pips
-
-_+Talent: Robber Baron_
-
++2 Rare Pips  
+_+Talent: Robber Baron_  
 **Requires Power 8**
 
  | 
@@ -6734,29 +4118,16 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 | 
 
 File:Monastery Champion Beads NEW.png
 
- | 
+ | [Monastery Beads](Monastery_Beads.md)  
+(**Set**)  
+(**Legendary**) | _+3% Elemental Armor_
 
-[Monastery Beads](Monastery_Beads.md)
-
-(**Set**)
-
-(**Legendary**)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6766,24 +4137,13 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
 -   [Etris: Siege](Cinders_of_Etris.md)
 
- | 
-
-Set: Monastery Champion  
+ | Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
 Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
-Torso: [Monastery Beads](Monastery_Beads.md)
+Torso: [Monastery Beads](Monastery_Beads.md) |
+|  | [Nomad Pendant](Nomad_Pendant.md) | _+3% Elemental Armor_
 
- |
-|  | 
-
-[Nomad Pendant](Nomad_Pendant.md)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6796,21 +4156,10 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
+ | N/A |
+| File:Pathfinder lantern front.png | [Pathfinder Lantern](Pathfinder_Lantern.md) | _+10 Sanity_
 
-N/A
-
- |
-| File:Pathfinder lantern front.png | 
-
-[Pathfinder Lantern](Pathfinder_Lantern.md)
-
- | 
-
-_+10 Sanity_
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 _+Talent: Breathing Exercise_
 
  | 
@@ -6820,49 +4169,26 @@ Found from:
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Crafting](Crafting_Station.md)
 
- | 
+ | N/A |
+|  | [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) | _+35 Carry Load_
 
-N/A
-
- |
-|  | 
-
-[Pathfinder's Backpack](<Pathfinder's_Backpack.md>)
-
- | 
-
-_+35 Carry Load_  
-
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 _+Talent: Robber Baron_
 
  | 
 
 Found from:
 
--   [High-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   \[\[Voidwalker|High-Tier Voidwalker Bounties\]
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 
- | 
+ | N/A |
+| File:Pendant of Order.png | [Pendant of Order](Pendant_of_Order.md) | _+3% Physical Armor_
 
-N/A
-
- |
-| File:Pendant of Order.png | 
-
-[Pendant of Order](Pendant_of_Order.md)
-
- | 
-
-_+3% Physical Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 8**
 
  | 
@@ -6871,21 +4197,10 @@ Found from:
 
 -   Sold by the [Blacksmith](Blacksmith.md)
 
- | 
+ | N/A |
+|  | [Red Eye Pendant](Red_Eye_Pendant.md) | _+3% Elemental Armor_
 
-N/A
-
- |
-|  | 
-
-[Red Eye Pendant](Red_Eye_Pendant.md)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6900,23 +4215,11 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
+ | N/A |
+|  | [Sandrunner Scarf](Sandrunner_Scarf.md) | _+3% Fire Armor_
 
-N/A
-
- |
-|  | 
-
-[Sandrunner Scarf](Sandrunner_Scarf.md)
-
- | 
-
-_+3% Fire Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6929,27 +4232,13 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 
- | 
+ | N/A |
+| File:Dawn Scarf.png | Scarf  
+(**Series**)  
+(**Animated**) | _+3% Attunement Armor, changes depending on Scarf Variant_
 
-N/A
-
- |
-| File:Dawn Scarf.png | 
-
-Scarf
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+3% Attunement Armor, changes depending on Scarf Variant_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -6961,19 +4250,9 @@ Found from:
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | 
-
-Variants:  
-Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White
-
- |
-|  | 
-
-[Seafarer Pendant](Seafarer_Pendant.md)
-
- | 
-
-+1 Legendary Pip
+ | Variants:  
+Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
+|  | [Seafarer Pendant](Seafarer_Pendant.md) | +1 Legendary Pip
 
 **Requires Power 5**
 
@@ -6988,29 +4267,14 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 
- | 
+ | N/A |
+| File:Static-assets-upload6078901116095484260.png | Shrouded Capes  
+(**Series**)  
+(**Animated**) | _+2% Elemental Armor_  
+_+5% Stealth_<br
 
-N/A
-
- |
-| File:Static-assets-upload6078901116095484260.png | 
-
-Shrouded Capes
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+5% Stealth_
-
-_+2% Elemental Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -7019,24 +4283,12 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
- | 
+ | Variants:  
+Red, Black, Midnight & White |
+| File:Threadwork Kilt.png | [Threadwork Kilt](Threadwork_Kilt.md) | _+1 Posture_  
+_+20 Carry Load_  
 
-Variants:  
-Red, Black, Midnight & White
-
- |
-| File:Threadwork Kilt.png | 
-
-[Threadwork Kilt](Threadwork_Kilt.md)
-
- | 
-
-_+1 Posture_
-
-_+20 Carry Load_
-
-+1 Rare Pip
-
++1 Rare Pip  
 **Requires Power 5**
 
  | 
@@ -7045,23 +4297,11 @@ Found from:
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 
- | 
+ | N/A |
+| File:Varicosa Medallion.png | [Varicosa Medallion](Varicosa_Medallion.md) | _+3% Shadow Armor_
 
-N/A
-
- |
-| File:Varicosa Medallion.png | 
-
-[Varicosa Medallion](Varicosa_Medallion.md)
-
- | 
-
-_+3% Shadow Armor_
-
-+1 Rare Pip
-
-+1 Legendary Pip
-
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -7073,21 +4313,10 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
+ | N/A |
+|  | [Whaler Scarf](Whaler_Scarf.md) | _+3% Elemental Armor_
 
-N/A
-
- |
-|  | 
-
-[Whaler Scarf](Whaler_Scarf.md)
-
- | 
-
-_+3% Elemental Armor_
-
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 5**
 
  | 
@@ -7096,22 +4325,9 @@ Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 
- | 
-
-N/A
-
- |
-| File:Old World Sun Pendant.png | 
-
-[Wheel Pendant](Wheel_Pendant.md)
-
- | 
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
- | 
+ | N/A |
+| File:Old World Sun Pendant.png | [Wheel Pendant](Wheel_Pendant.md) | +1 Rare Pip  
++1 Legendary Pip | 
 
 Found from:
 
@@ -7123,20 +4339,9 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
-| File:Wormwarder Lantern.png | 
-
-[Wormwarder Lantern](Wormwarder_Lantern.md)
-
- | 
-
+ | N/A |
+| File:Wormwarder Lantern.png | [Wormwarder Lantern](Wormwarder_Lantern.md) | _+10 Sanity_  
 _+10 Carry Load_
-
-_+10 Sanity_
 
 _+Talent: Wormwarder_
 
@@ -7146,20 +4351,9 @@ Found from:
 
 -   [Crafting](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Imperator's Fury](<Imperator's_Fury.md>)
-
-(**Relic**)
-
- | 
-
-_+Talent: Brute Strength_
+ | N/A |
+|  | [Imperator's Fury](<Imperator's_Fury.md>)  
+(**Relic**) | _+Talent: Brute Strength_
 
 **Requires Power 8**
 
@@ -7169,23 +4363,11 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
+ | N/A |
+|  | [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)  
+(**Relic**) | +1 Legendary Pip
 
-N/A
-
- |
-|  | 
-
-[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
-
-(**Relic**)
-
- | 
-
-+1 Legendary Pip
-
-_+Talent: Elegy of Light_
-
+_+Talent: Elegy of Light_  
 **Requires Power 8**
 
  | 
@@ -7196,24 +4378,11 @@ Found from:
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Mantle of Enmity](Mantle_of_Enmity.md)
-
-(**Set**)
-
-(**Relic**)
-
-(**Unique**)
-
- | 
-
-+1 Rare Pip
+ | N/A |
+|  | [Mantle of Enmity](Mantle_of_Enmity.md)  
+(**Set**)  
+(**Relic**)  
+(**Unique**) | +1 Rare Pip
 
 _+Talent: Heartwing Beat_
 
@@ -7223,30 +4392,17 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Enmity  
+ | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
 Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
-Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
+| File:Tiran Pendant Equipment.png | [Tiran Pendant](Tiran_Pendant.md)  
+(**Relic**) | _+2 Health_
 
- |
-| File:Tiran Pendant Equipment.png | 
-
-[Tiran Pendant](Tiran_Pendant.md)
-
-(**Relic**)
-
- | 
-
-_+2 Health_
-
-+1 Legendary Pip
-
-_+Talent: Featherfall_
-
++1 Legendary Pip  
+_+Talent: Featherfall_  
 **Requires Power 8**
 
  | 
@@ -7258,23 +4414,11 @@ Found from:
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | 
+ | N/A |
+| File:Warmaster's Medallion Equipment.png | [Warmaster's Medallion](<Warmaster's_Medallion.md>)  
+(**Relic**) | +1 Legendary Pip
 
-N/A
-
- |
-| File:Warmaster's Medallion Equipment.png | 
-
-[Warmaster's Medallion](<Warmaster's_Medallion.md>)
-
-(**Relic**)
-
- | 
-
-+1 Legendary Pip
-
-_+Talent: Actions Speak Louder_
-
+_+Talent: Actions Speak Louder_  
 **Requires Power 8**
 
  | 
@@ -7288,25 +4432,12 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
- | 
+ | N/A |
+|  | [Whistling Periapt](Whistling_Periapt.md)  
+(**Relic**) | _+1 Health_  
+_+8% Wind Armor_  
 
-N/A
-
- |
-|  | 
-
-[Whistling Periapt](Whistling_Periapt.md)
-
-(**Relic**)
-
- | 
-
-_+1 Health_
-
-_+8% Wind Armor_
-
-_+Talent: Whistleguard_
-
+_+Talent: Whistleguard_  
 **Requires Power 8**
 
  | 
@@ -7316,20 +4447,9 @@ Found from:
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Tied Tie](Tied_Tie.md)
-
-(**Unobtainable**)
-
- | 
-
-_+5 Health_  
+ | N/A |
+|  | [Tied Tie](Tied_Tie.md)  
+(**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
 
@@ -7339,11 +4459,7 @@ Found from:
 
 -   [Mod Shop](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 
 **Face:**
 
@@ -7368,19 +4484,9 @@ Variants/Set
 
  |
 | --- | --- | --- | --- | --- |
-|  | 
-
-[Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
-
-(**Series**)
-
-(**Set**)
-
- | 
-
-+1 Rare Pip
-
- | 
+|  | [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)  
+(**Series**)  
+(**Set**) | +1 Rare Pip | 
 
 Found from:
 
@@ -7394,28 +4500,18 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Default (Black), Red & White
 
   
-
 Set: Aristocrat  
 Head: [Tophat](Tophat.md)  
 Arms: [Aristocrat Coat](Aristocrat_Coat.md)  
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-| File:WesternOutlawMask.png | 
-
-[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
-
-(**Set**)
-
- | 
-
-+1 Common Pip
+| File:WesternOutlawMask.png | [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)  
+(**Set**) | +1 Common Pip
 
 _+Talent: Destructive Yell_
 
@@ -7425,44 +4521,21 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-Set: Ascended Outlaw  
+ | Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
-
- |
-|  | 
-
-[Authority Prototype Mask](Authority_Prototype_Mask.md)
-
- | 
-
-+1 Common Pip
-
- | 
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+|  | [Authority Prototype Mask](Authority_Prototype_Mask.md) | +1 Common Pip | 
 
 Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
+ | N/A |
+|  | [Authority Voltspark Mask](Authority_Voltspark_Mask.md) | _+3% Lightning Armor_
 
-N/A
-
- |
-|  | 
-
-[Authority Voltspark Mask](Authority_Voltspark_Mask.md)
-
- | 
-
-_+3% Lightning Armor_
-
-+1 Common Pip
-
++1 Common Pip  
 _+Talent: Volt Reflex_
 
  | 
@@ -7471,20 +4544,9 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Black Blindfold](Blindfold.md)
-
-(**Series**)
-
- | 
-
-+1 Common Pip
+ | N/A |
+|  | [Black Blindfold](Blindfold.md)  
+(**Series**) | +1 Common Pip
 
 _+Talent: Blinded_
 
@@ -7494,23 +4556,11 @@ Found from:
 
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
 
- | 
-
-Variants:  
-Black & Crimson
-
- |
-|  | 
-
-[Blindfold](Blindfold.md)
-
- | 
-
-_+Talent: Blinded_
-
- | 
+ | Variants:  
+Black & Crimson |
+|  | [Blindfold](Blindfold.md) | _+Talent: Blinded_ | 
 
 Found from:
 
@@ -7520,20 +4570,9 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Bloodfeather Mask](Bloodfeather_Mask.md)
-
-(**Set**)
-
- | 
-
-_+5% Shadow Armor_
+ | N/A |
+|  | [Bloodfeather Mask](Bloodfeather_Mask.md)  
+(**Set**) | _+5% Shadow Armor_
 
 +1 Rare Pip
 
@@ -7551,22 +4590,11 @@ Found from:
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Bloodfeather  
+ | Set: Bloodfeather  
 Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
-Face: [Bloodfeather Mask](Bloodfeather_Mask.md)
-
- |
-|  | 
-
-[Citadel Frames](Citadel_Frames.md)
-
-(**Series**)
-
- | 
-
-+5 Health  
+Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
+|  | [Citadel Frames](Citadel_Frames.md)  
+(**Series**) | +5 Health  
 \-1 or -2 Posture
 
 +1 Rare Pip
@@ -7590,22 +4618,11 @@ Found from:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- | 
-
-Variants:  
+ | Variants:  
 Browline & Round  
-Regular, Amber, & Azure
-
- |
-|  | 
-
-[Crimson Blindfold](Blindfold.md)
-
-(**Series**)
-
- | 
-
-+1 Common Pip
+Regular, Amber, & Azure |
+|  | [Crimson Blindfold](Blindfold.md)  
+(**Series**) | +1 Common Pip
 
 _+Talent: Blinded_
 
@@ -7615,23 +4632,11 @@ Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
 
- | 
-
-Variants:  
-Black & Crimson
-
- |
-| File:Demon Mask1.png | 
-
-[Demon Mask](Demon_Mask.md)
-
- | 
-
-+1 Rare Pip
-
- | 
+ | Variants:  
+Black & Crimson |
+| File:Demon Mask1.png | [Demon Mask](Demon_Mask.md) | +1 Rare Pip | 
 
 Found from:
 
@@ -7640,18 +4645,8 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-Duelist's Mask
-
- | 
-
-_+6% Stealth_  
+ | N/A |
+|  | Duelist's Mask | _+6% Stealth_
 
 +1 Rare Pip
 
@@ -7665,43 +4660,22 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Eyeglasses](Eyeglasses.md)
-
- | 
-
-+1 Common Pip
-
- | 
+ | N/A |
+|  | [Eyeglasses](Eyeglasses.md) | +1 Common Pip | 
 
 Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
 
- | 
+ | N/A |
+| File:BlackHeadband.png | [Headband](Headband.md)  
+(**Series**) | Variant Based:
 
-N/A
-
- |
-| File:BlackHeadband.png | 
-
-[Headband](Headband.md)
-
-(**Series**)
-
- | 
-
-Black, Orange, Yellow, (+1 Common Pip).  
-Red, (+1 Uncommon Pip).  
-Blue, Green, White, (+1 Rare Pip).
+Black, Orange, Yellow, (+1 Common Pip)  
+Red, (+1 Uncommon Pip)  
+Blue, Green, White, (+1 Rare Pip)
 
  | 
 
@@ -7722,21 +4696,9 @@ Found from:
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
 
- | 
-
-Variants:  
-Black, Orange, Yellow, Red, Blue, Green, & White
-
- |
-|  | 
-
-[Hivelord Mask](Hivelord_Mask.md)
-
- | 
-
-+2 Rare Pips
-
- | 
+ | Variants:  
+Black, Orange, Yellow, Red, Blue, Green, & White |
+|  | [Hivelord Mask](Hivelord_Mask.md) | +2 Rare Pips | 
 
 Found from:
 
@@ -7748,42 +4710,17 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Lodestar](Lodestar.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Hollow Angel Mask](Hollow_Angel_Mask.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
+ | N/A |
+|  | [Hollow Angel Mask](Hollow_Angel_Mask.md)  
+(**Series**) | +1 Rare Pip | 
 
 Found from:
 
 -   Mob Drop from [Hollow Angels](Hollow_Angel.md) (rare)
 
- | 
-
-Variants:  
-Hollow, Sworn
-
- |
-|  | 
-
-[Iron Mask](Iron_Mask.md)
-
- | 
-
-+1 Common Pip
-
- | 
+ | Variants:  
+Hollow, Sworn |
+|  | [Iron Mask](Iron_Mask.md) | +1 Common Pip | 
 
 Found from:
 
@@ -7796,42 +4733,17 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Voidwalker Bounties](Origins.md#voidwalker)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Nauticals](Summer_Nauticals.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
+ | N/A |
+|  | [Nauticals](Summer_Nauticals.md)  
+(**Series**) | +1 Rare Pip | 
 
 Source from:
 
 -   [Summer Isle](Summer_Isle.md)
 
- | 
-
-Variants:  
-Summer, Dusk & Seaglass
-
- |
-|  | 
-
-[Polarised Eyeglasses](Polarised_Eyeglasses.md)
-
- | 
-
-+1 Common Pip
-
- | 
+ | Variants:  
+Summer, Dusk & Seaglass |
+|  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | 
 
 Found from:
 
@@ -7842,24 +4754,10 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
-| File:Blue.PNG | 
-
-[Royal Guard](Aspirant_Mask.md)
-
-(**Series**)
-
- | 
-
-+1 Uncommon Pip  
-
-+1 Rare Pip
-
- | 
+ | N/A |
+| File:Blue.PNG | [Royal Guard](Aspirant_Mask.md)  
+(**Series**) | +1 Uncommon Pip  
++1 Rare Pip | 
 
 Found from:
 
@@ -7871,23 +4769,10 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
- | 
-
-Variants:  
-Blue, Green & Red
-
- |
-| File:Smith's Goggles1.png | 
-
-[Smith's Goggles](<Smith's_Goggles.md>)
-
-(**Set**)
-
- | 
-
-+1 Common Pip
-
- | 
+ | Variants:  
+Blue, Green & Red |
+| File:Smith's Goggles1.png | [Smith's Goggles](<Smith's_Goggles.md>)  
+(**Set**) | +1 Common Pip | 
 
 Found from:
 
@@ -7899,45 +4784,20 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-Set: Smith's  
+ | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
-Face: [Smith's Goggles](<Smith's_Goggles.md>)
-
- |
-| File:Sworn Angel Mask1.png | 
-
-[Sworn Angel Mask](Sworn_Angel_Mask.md)
-
-(**Series**)
-
- | 
-
-+2 Rare Pips
-
- | 
+Face: [Smith's Goggles](<Smith's_Goggles.md>) |
+| File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
+(**Series**) | +2 Rare Pips | 
 
 Found from:
 
 -   Mob Drop from [Sworn Angels](Sworn_Angel.md) (rare)
 
- | 
-
-Variants:  
-Hollow, Sworn
-
- |
-| File:Rabel Bandana.png | 
-
-[Rebel's Bandana](<Rebel's_Bandana.md>)
-
- | 
-
-+1 Uncommon Pip
-
- | 
+ | Variants:  
+Hollow, Sworn |
+| File:Rabel Bandana.png | [Rebel's Bandana](<Rebel's_Bandana.md>) | +1 Uncommon Pip | 
 
 Found from:
 
@@ -7949,20 +4809,8 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 
- | 
-
-N/A
-
- |
-| File:TenGallonBandana.png | 
-
-[Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
-
- | 
-
-+1 Uncommon Pip
-
- | 
+ | N/A |
+| File:TenGallonBandana.png | [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) | +1 Uncommon Pip | 
 
 Found from:
 
@@ -7974,41 +4822,17 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[The Guy's Eyeglasses](Polarised_Eyeglasses.md)
-
- | 
-
-+1 Common Pip
-
- | 
+ | N/A |
+|  | [The Guy's Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | 
 
 Source from:
 
 -   [The Guy](The_Guy.md)
 
- | 
-
-N/A
-
- |
-|  | 
-
-[Thrall of Enmity](Thrall_of_Enmity.md)
-
-(**Set**)
-
-(**Unique**)
-
- | 
-
-+1 Rare Pip
+ | N/A |
+|  | [Thrall of Enmity](Thrall_of_Enmity.md)  
+(**Set**)  
+(**Unique**) | +1 Rare Pip
 
 _+Talent: Lose Your Mind_
 
@@ -8018,30 +4842,18 @@ Found from:
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
- | 
-
-Set: Enmity  
+ | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
 Arms: [Bastions of Enmity](Bastions_of_Enmity.md)  
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
-Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md)
-
- |
-|  | 
-
-[Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
-
- | 
-
-+1 Rare Pip
-
- | 
+Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
+|  | [Warrior's Eyepatch](<Warrior's_Eyepatch.md>) | +1 Rare Pip | 
 
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   \[\[Voidwalker|Voidwalker Bounties\]
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Lodestar](Lodestar.md)
@@ -8049,57 +4861,27 @@ Found from:
 -   [The Ferryman](The_Ferryman.md) (Winter)
 -   [First Layer](First_Layer.md)
 
- | 
-
-N/A
-
- |
-| File:WesternOutlawMask.png | 
-
-[Western Outlaw Mask](Western_Outlaw_Mask.md)
-
-(**Set**)
-
- | 
-
-+1 Common Pip
-
- | 
+ | N/A |
+| File:WesternOutlawMask.png | [Western Outlaw Mask](Western_Outlaw_Mask.md)  
+(**Set**) | +1 Common Pip | 
 
 Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | 
-
-Set: Western Outlaw  
+ | Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
-
- |
-|  | 
-
-[Toon's Goggles](<Toon's_Goggles.md>)
-
-(**Unobtainable**)
-
- | 
-
-Confidential Information
-
- | 
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+|  | [Toon's Goggles](<Toon's_Goggles.md>)  
+(**Unobtainable**) | Confidential Information | 
 
 Found from:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | 
-
-N/A
-
- |
+ | N/A |
 
 **Ears:**
 
@@ -8120,13 +4902,7 @@ Sources
 
  |
 | --- | --- | --- | --- |
-|  | 
-
-[Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)
-
- | 
-
-+1 Common Pip  
+|  | [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
@@ -8143,15 +4919,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
-
- | 
-
-+2 Rare Pips
-
- | 
+|  | [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) | +2 Rare Pips | 
 
 Found from:
 
@@ -8164,13 +4932,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Dew Drop Earrings](Dew_Drop_Earrings.md)
-
- | 
-
-+1 Common Pip  
+|  | [Dew Drop Earrings](Dew_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
@@ -8188,13 +4950,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
-
- | 
-
-+1 Common Pip  
+|  | [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
@@ -8207,13 +4963,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-| File:MasterThief.png | 
-
-[Master Thief Earrings](Master_Thief_Earrings.md)
-
- | 
-
-_+3% Stealth_
+| File:MasterThief.png | [Master Thief Earrings](Master_Thief_Earrings.md) | _+3% Stealth_
 
 +2 Rare Pips
 
@@ -8228,16 +4978,9 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-|  | 
+|  | [Moonlit Earrings](Crescent_Earrings.md) | _+2 Health_
 
-[Moonlit Earrings](Crescent_Earrings.md)
-
- | 
-
-_+2 Health_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -8254,16 +4997,9 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
+|  | [Old Blood Earrings](Old_Blood_Earrings.md) | _+5 Ether_
 
-[Old Blood Earrings](Old_Blood_Earrings.md)
-
- | 
-
-_+5 Ether_
-
-+2 Rare Pips
-
++2 Rare Pips  
 **Requires Power 5**
 
  | 
@@ -8284,15 +5020,7 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  |
-|  | 
-
-[Pendant Earrings](Pendant_Earrings.md)
-
- | 
-
-+2 Rare Pips
-
- | 
+|  | [Pendant Earrings](Pendant_Earrings.md) | +2 Rare Pips | 
 
 Found from:
 
@@ -8300,15 +5028,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-|  | 
-
-[Practicioner's Earrings](<Practicioner's_Earrings.md>)
-
- | 
-
-+2 Rare Pips
-
- | 
+|  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips | 
 
 Found from:
 
@@ -8320,13 +5040,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Ruby Drop Earrings](Ruby_Drop_Earrings.md)
-
- | 
-
-+1 Common Pip  
+|  | [Ruby Drop Earrings](Ruby_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
@@ -8341,13 +5055,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-|  | 
-
-[Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
-
- | 
-
-+1 Common Pip
+|  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
@@ -8384,19 +5092,11 @@ Sources
 
  |
 | --- | --- | --- | --- |
-|  | 
-
-[Akira's Ring](<Akira's_Ring.md>)
-
-(**Legendary**)
-
- | 
-
-Gives every weapon 1.2 Willpower scaling when equipped.
+|  | [Akira's Ring](<Akira's_Ring.md>)  
+(**Legendary**) | Gives every weapon 1.2 Willpower scaling when equipped.
 
   
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 6**
 
  | 
@@ -8415,13 +5115,8 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-|  | 
-
-[Armorer's Ring](<Armorer's_Ring.md>)
-
- | 
-
-Grants a 10% reduction to incoming armor damage. Additionally affects armor damage from the [Metal](Metal.md) Enchant, but does not affect anything from [Ironsing](Ironsing.md).
+|  | [Armorer's Ring](<Armorer's_Ring.md>)  
+(**Legendary**) | Grants a 10% reduction to incoming armor damage. Additionally affects armor damage from the [Metal](Metal.md) Enchant, but does not affect anything from [Ironsing](Ironsing.md).
 
   
 +1 Uncommon Pip
@@ -8443,13 +5138,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-|  | 
-
-[Bloodiron Ring](Bloodiron_Ring.md)
-
- | 
-
-Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloodiron Spirit)
+|  | [Bloodiron Ring](Bloodiron_Ring.md) | Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloodiron Spirit)
 
   
 +1 Uncommon Pip
@@ -8470,17 +5159,10 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-|  | 
-
-[Chained Ring](Chained_Ring.md)
-
- | 
-
-Reduces incoming knockback but removes your ability to Air Dash.
+|  | [Chained Ring](Chained_Ring.md) | Reduces incoming knockback but removes your ability to Air Dash. You can still backdash while having this ring equipped.
 
   
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 3**
 
  | 
@@ -8501,34 +5183,19 @@ Found from:
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
-|  | 
-
-[Charged Ring](Charged_Ring.md)
-
- | 
-
-Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5.
-
- | 
+|  | [Charged Ring](Charged_Ring.md)  
+(**Legendary**) | Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5. | 
 
 Found from:
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  |
-|  | 
-
-[Dawnfist's Ring](<Dawnfist's_Ring.md>)
-
-(**Legendary**)
-
- | 
-
-Gives every weapon 1.2 strength scaling when equipped.
+|  | [Dawnfist's Ring](<Dawnfist's_Ring.md>)  
+(**Legendary**) | Gives every weapon 1.2 strength scaling when equipped.
 
   
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 6**
 
  | 
@@ -8547,17 +5214,10 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-|  | 
-
-[Dazed Band](Dazed_Band.md)
-
- | 
-
-Flourishing an opponent has a chance to stun them automatically.
+|  | [Dazed Band](Dazed_Band.md) | Flourishing an opponent has a chance to stun them automatically.
 
   
-+1 Uncommon Pip
-
++1 Uncommon Pip  
 **Requires Power 3**
 
  | 
@@ -8576,15 +5236,8 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  |
-|  | 
-
-[Deepfire Ring](Deepfire_Ring.md)
-
-(**Legendary**)
-
- | 
-
-Burn ticks at a faster rate. This does not increase the overall damage output of your flames.  
+|  | [Deepfire Ring](Deepfire_Ring.md)  
+(**Legendary**) | Burn ticks at a faster rate. This does not increase the overall damage output of your flames.  
 If using Eruption Path: Lava Serpent, eruption delay is reduced.
 
   
@@ -8607,13 +5260,7 @@ Found from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
-|  | 
-
-[Diver's Ring](<Diver's_Ring.md>)
-
- | 
-
-Grants +5% damage to Monsters in the Depths.
+|  | [Diver's Ring](<Diver's_Ring.md>) | Grants +5% damage to Monsters in the Depths.
 
   
 +1 Uncommon Pip
@@ -8635,15 +5282,8 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Finisher's Ring](<Finisher's_Ring.md>)
-
-(**Legendary**)
-
- | 
-
-+40% extra PEN on M1 flourishes. Does not bypass PEN cap.
+|  | [Finisher's Ring](<Finisher's_Ring.md>)  
+(**Legendary**) | +40% extra PEN on M1 flourishes. Does not bypass PEN cap.
 
   
 **Requires Power 10**
@@ -8667,13 +5307,7 @@ Found from:
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
  |
-|  | 
-
-[Freestyler's Band](<Freestyler's_Band.md>)
-
- | 
-
-Gives the user a massive increase in swimming speed while out of combat.
+|  | [Freestyler's Band](<Freestyler's_Band.md>) | Gives the user a massive increase in swimming speed while out of combat.
 
   
 **Requires Power 3**
@@ -8693,13 +5327,8 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-|  | 
-
-[Ferryman's Ring](<Ferryman's_Ring.md>)
-
- | 
-
-Increases the range of your [Rhythm](Murmur%253A_Rhythm.md) by 50%.
+|  | [Ferryman's Ring](<Ferryman's_Ring.md>)  
+ | Increases the range of your [Rhythm](Murmur%253A_Rhythm.md) by 50%.
 
   
 +1 Legendary Pip
@@ -8711,16 +5340,8 @@ Found from:
 -   [The Ferryman](The_Ferryman.md)
 
  |
-|  | 
-
-[Gold Ring](Gold_Ring.md)
-
- | 
-
-  
-+1 Uncommon Pip
-
- | 
+|  | [Gold Ring](Gold_Ring.md) |   
++1 Uncommon Pip | 
 
 Found from:
 
@@ -8733,16 +5354,9 @@ Found from:
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
-|  | 
-
-[Heavy Hands Ring](Heavy_Hands_Ring.md)
-
- | 
-
-Makes your "M1" attack 10% slower but do 30% more posture damage.
+|  | [Heavy Hands Ring](Heavy_Hands_Ring.md) | Makes your "M1" attack 10% slower but do 30% more posture damage.
 
   
-
 +1 Uncommon Pip
 
  | 
@@ -8758,13 +5372,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Isshin's Ring](<Isshin's_Ring.md>)
-
- | 
-
-Take 1.25x damage and deal 1.2x damage at close range.
+|  | [Isshin's Ring](<Isshin's_Ring.md>) | Take 1.25x damage and deal 1.2x damage at close range.
 
   
 **Requires Power 5**
@@ -8785,13 +5393,7 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  |
-|  | 
-
-[Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
-
- | 
-
-Allows the user to slide with little delay.
+|  | [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>) | Allows the user to slide with little delay.
 
   
 **Requires Power 3**
@@ -8807,21 +5409,12 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-|  | 
-
-[Light Eater Ring](Light_Eater_Ring.md)
-
- | 
-
-Taking Flamecharm or Thundercall damage (e.g. Mantras, Burn, Surge Overloads) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
+|  | [Light Eater Ring](Light_Eater_Ring.md) | Taking Flamecharm or Thundercall damage (e.g. Mantras, Burn, Surge Overloads) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
 
   
 _+2% Fire Armor_  
-
-_+2% Lightning Armor_
-
-+1 Uncommon Pip
-
+_+2% Lightning Armor_  
++1 Uncommon Pip  
 **Requires Power 3**
 
  | 
@@ -8839,19 +5432,11 @@ Found from:
 -   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
 
  |
-|  | 
-
-[Maestro's Ring](<Maestro's_Ring.md>)
-
-(**Legendary**)
-
- | 
-
-Gives every weapon 1.2 agility scaling when equipped.
+|  | [Maestro's Ring](<Maestro's_Ring.md>)  
+(**Legendary**) | Gives every weapon 1.2 agility scaling when equipped.
 
   
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 6**
 
  | 
@@ -8869,15 +5454,8 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-|  | 
-
-[Moon Ring](Moon_Ring.md)
-
-(**Legendary**)
-
- | 
-
-Conceal your age, appearing as if you were younger than 40.
+|  | [Moon Ring](Moon_Ring.md)  
+(**Legendary**) | Conceal your age, appearing as if you were younger than 40.
 
   
 +2 Rare Pips
@@ -8901,13 +5479,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Pariah's Keepsake](<Pariah's_Keepsake.md>)
-
- | 
-
-Deal +20% extra damage to factions that hate you.
+|  | [Pariah's Keepsake](<Pariah's_Keepsake.md>) | Deal +20% extra damage to NPCs from factions that hate you.
 
   
 **Requires Power 3**
@@ -8927,17 +5499,9 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-|  | 
+|  | [Poser's Ring](<Poser's_Ring.md>) | Damage dealt with a Katana isn't received until the user sheathes their weapon.
 
-[Poser's Ring](<Poser's_Ring.md>)
-
- | 
-
-Damage dealt with a Katana isn't received until the user sheathes their weapon.
-
-Stuns the opponent upon a successful damaging sheathe.
-
-  
+Stuns the opponent upon a successful damaging sheathe.  
 +1 Rare Pip
 
  | 
@@ -8947,19 +5511,11 @@ Quest from [Zana](Zana.md)
 -   (**Located on** [Isle of Vigils](Isle_of_Vigils.md)' **Docks**)
 
  |
-|  | 
-
-[Prophet's Ring](<Prophet's_Ring.md>)
-
-(**Legendary**)
-
- | 
-
-Gives every weapon 1.2 charisma scaling when equipped.
+|  | [Prophet's Ring](<Prophet's_Ring.md>)  
+(**Legendary**) | Gives every weapon 1.2 charisma scaling when equipped.
 
   
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 6**
 
  | 
@@ -8978,13 +5534,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-|  | 
-
-[Purifying Ring](Purifying_Ring.md)
-
- | 
-
-Allows wearer to drink sea-water and acid without vomiting.
+|  | [Purifying Ring](Purifying_Ring.md) | Allows wearer to drink sea-water and acid without vomiting.
 
   
 +1 Uncommon Pip
@@ -9003,13 +5553,7 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  |
-|  | 
-
-[Ring of Casters](Ring_of_Casters.md)
-
- | 
-
-Increases Mantra damage by 5%, but reduces melee damage by 5%.
+|  | [Ring of Casters](Ring_of_Casters.md) | Increases Mantra damage by 5%, but reduces melee damage by 5%.
 
   
 **Requires Power 10**
@@ -9030,13 +5574,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
-|  | 
-
-[Ring of Curses](Ring_of_Curses.md)
-
- | 
-
-This ring runs the random event check more frequently and partially ignores anti-event stacking.
+|  | [Ring of Curses](Ring_of_Curses.md) | This ring runs the random event check more frequently and partially ignores anti-event stacking.
 
   
 **Requires Power 10**
@@ -9056,15 +5594,7 @@ Found from:
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  |
-|  | 
-
-[Ring of Pestilence](Ring_of_Pestilence.md)
-
- | 
-
-Enemies you hit with melee attacks have their healing reduced by 50% for 5 seconds.
-
- | 
+|  | [Ring of Pestilence](Ring_of_Pestilence.md) | Enemies you hit with melee attacks have their healing reduced by 50% for 5 seconds. | 
 
 Found from:
 
@@ -9079,13 +5609,7 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  |
-|  | 
-
-[Ring of Wisps](Ring_of_Wisps.md)
-
- | 
-
-Double the amount of charges of Attunement Wisps.
+|  | [Ring of Wisps](Ring_of_Wisps.md) | Double the amount of charges of Attunement Wisps.
 
   
 +1 Uncommon Pip
@@ -9103,19 +5627,11 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 
  |
-|  | 
-
-[Rosen's Ring](<Rosen's_Ring.md>)
-
-(**Legendary**)
-
- | 
-
-Gives every weapon 1.2 intelligence scaling when equipped.
+|  | [Rosen's Ring](<Rosen's_Ring.md>)  
+(**Legendary**) | Gives every weapon 1.2 intelligence scaling when equipped.
 
   
-+1 Legendary Pip
-
++1 Legendary Pip  
 **Requires Power 6**
 
  | 
@@ -9133,16 +5649,8 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
-|  | 
-
-[Silver Ring](Silver_Ring.md)
-
- | 
-
-  
-+1 Common Pip
-
- | 
+|  | [Silver Ring](Silver_Ring.md) |   
++1 Common Pip | 
 
 Found from:
 
@@ -9151,15 +5659,8 @@ Found from:
 -   [Pure Ore Turn-ins](Blacksmith.md)
 
  |
-|  | 
-
-[Waning Ring](Waning_Ring.md)
-
-(**Legendary**)
-
- | 
-
-Conceal your youth, appearing as if you were older than 40.
+|  | [Waning Ring](Waning_Ring.md)  
+(**Legendary**) | Conceal your youth, appearing as if you were older than 40.
 
   
 +2 Rare Pips
@@ -9180,21 +5681,12 @@ Found from:
 -   [War Mode](War_Mode.md)
 
  |
-|  | 
-
-[Windmill Ring](Windmill_Ring.md)
-
- | 
-
-Taking Frostdraw or Galebreathe damage (e.g. Mantras, Apparitions, Crystal Detonations) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
+|  | [Windmill Ring](Windmill_Ring.md) | Taking Frostdraw or Galebreathe damage (e.g. Mantras, Apparitions, Crystal Detonations) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
 
   
 _+2% Ice Armor_  
-
-_+2% Wind Armor_
-
-+1 Uncommon Pip
-
+_+2% Wind Armor_  
++1 Uncommon Pip  
 **Requires Power 3**
 
  | 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 161542
+revid: 161731
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -204,7 +204,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Parasol's Blight<div></div></font></center></td>
   <td><div><p>On weapon attack, apply the Parasol Blight status effect. This effect has no visual indicator and lasts for 15 seconds. If a player who is affected by Parasol's Blight dies, their corpse will explode and a monster will spawn.</p>
-  <p>The monster can be a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, <a href="Thresher.md">Void Thresher</a>, <a href="Nautilodaunt.md">Nautilodaunt</a>, or a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>. These monsters can be [[Corrupted|<a href="Monsters.md#scyphozia">Corrupted</a>]] if used in <a href="The_Depths.md">The Depths</a>.</p>
+  <p>The monster can be a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, <a href="Thresher.md">Void Thresher</a>, <a href="Nautilodaunt.md">Nautilodaunt</a>, or a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>. These monsters can be <a href="Monsters.md#scyphozia">Corrupted</a> if used in <a href="The_Depths.md">The Depths</a>.</p>
   <p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b></p>
   <p>Obtained from <a href="The_Gaunt_Man.md">The Gaunt Man</a> for 1 <a href="Parasol_Part.md">Parasol Part</a>.</p></div></td>
   <td><div>The weapon is covered in the stone texture, with the lighter parts becoming a light purple color.</div></td>

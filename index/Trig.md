@@ -1,9 +1,9 @@
 ---
 title: Trig
-revid: 153069
+revid: 161748
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, NPCs, Quests, The Summer Company, NPCs located in the Eastern Luminant]
+categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
 ---
 
 # Trig
@@ -38,38 +38,71 @@ Trying to help Asius and saying the first dialogue option "I'll see what I can d
 
 ## Dialogue
 
+**First Encounter:**
+
+**Quest Start:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Start of quest</td>
-  <td colspan="2">During quest</td>
-  <td colspan="2">Quest finished</td>
+  <td>What do you want? I'm busy.</td>
 </tr>
 <tr>
-  <td colspan="2">What do you want? I'm busy.</td>
-  <td colspan="2">Finish that job I put you on already, I don't got all day.</td>
-  <td colspan="2">Ah, my friend, you've returned, do you have the money?</td>
+  <td>Need some help?</td>
 </tr>
 <tr>
-  <td colspan="2">Need some help?</td>
-  <td colspan="2">End</td>
-  <td colspan="2">Here. [Hand over papers]</td>
+  <td>Yeah, this good-for-nothing owes our boss money. The only problem is I can't find him. If you find him, then I'll teach you a Summer Company gun technique.</td>
 </tr>
 <tr>
-  <td colspan="2">Yeah, this good-for-nothing owes our boss money. The only problem is I can't find him. If you find him, then I'll teach you a Summer Company gun technique.</td>
-  <td colspan="2"></td>
-  <td colspan="2">Ah that will do, good work friend. Here is your payment.</td>
+  <td>Sounds good.</td>
 </tr>
 <tr>
-  <td colspan="2">Sounds good.</td>
-  <td colspan="2"></td>
-  <td colspan="2">End</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Quest End:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>Finish that job I put you on already, I don't got all day.</td>
+  <td>Ah, my friend, you've returned, do you have the money?</td>
+</tr>
+<tr>
+  <td>End</td>
+  <td>Here. [Hand over papers]</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Ah that will do, good work friend. Here is your payment.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>End, player gains Summer Company Reputation</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Hm? I'm busy, leave me alone.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

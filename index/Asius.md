@@ -1,6 +1,6 @@
 ---
 title: Asius
-revid: 158767
+revid: 161746
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -30,6 +30,8 @@ Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the In
 
 ## Dialogue
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
@@ -51,6 +53,28 @@ Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the In
 <tr>
   <td colspan="2">Haha thanks pal! Promise I'll get you a nice castle in the next life.</td>
   <td colspan="2">Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Don't tell me you need something else?</td>
+</tr>
+<tr>
+  <td colspan="4">Yeah, change of plans, hand over the money.</td>
+</tr>
+<tr>
+  <td colspan="4">Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
 </tr>
 <tr>
   <td colspan="4">End</td>

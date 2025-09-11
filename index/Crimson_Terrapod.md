@@ -1,6 +1,6 @@
 ---
 title: Crimson Terrapod
-revid: 153782
+revid: 161735
 source: https://deepwoken.fandom.com/wiki/Crimson_Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -36,7 +36,7 @@ Media
 **Cruentare**  
 (★★★)
 
- | The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | N/A |
+ | The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts [bleed](Status_Effects.md#bleed) on every slash, draining your blood and dealing 30% more damage. | N/A |
 | 
 
 **Quick Strike**  

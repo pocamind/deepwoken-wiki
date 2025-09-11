@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 159106
+revid: 161717
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -60,4 +60,5 @@ Hybrid: [AllHybridWeapons2](https://deepwoken.fandom.com/wiki/Template:AllHybrid
 
 ## Other
 
-Crazy Slots: [AllCrazySlotsWeapons](https://deepwoken.fandom.com/wiki/Template:AllCrazySlotsWeapons)
+Crazy Slots: [AllCrazySlotsWeapons](https://deepwoken.fandom.com/wiki/Template:AllCrazySlotsWeapons)  
+Spec: [AllExclusiveWeapons](https://deepwoken.fandom.com/wiki/Template:AllExclusiveWeapons)

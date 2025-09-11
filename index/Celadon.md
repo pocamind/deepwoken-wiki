@@ -1,6 +1,6 @@
 ---
 title: Celadon
-revid: 153809
+revid: 161749
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Oaths]
@@ -27,6 +27,26 @@ categories: [Adret NPCs, NPCs, Oaths]
 Celadon is located in [Summer Isle](Summer_Isle.md). Inside the Guildhall/Inn, go up the stairs to the second floor and look to your right, and you will meet Celadon.
 
 ## Dialogue
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has asked [Cerulean](Cerulean.md) **"Where can I find the disciples?"**.
 
 **First Encounter:**
 

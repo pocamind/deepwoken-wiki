@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 161512
+revid: 161713
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -68,7 +68,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 -   **Ability-bound Weapons:** Weapons exclusive to an [Oath](Oaths.md) or [Resonance](Resonance.md).
--   [**Exclusive Weapons/Skins:**](Status_Effects.md#bleed) Weapons that can only be obtained by some / given to by special people.
+-   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons
 

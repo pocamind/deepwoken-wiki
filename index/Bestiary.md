@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 156516
+revid: 161745
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -26,7 +26,7 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 -   Monster variants count towards and benefit from the original monster's bestiary. This goes for bosses as well.
     -   For example, defeating a [King Thresher](King_Thresher.md) or [Nightmare Thresher](Nightmare_Thresher.md) will award +1 kill towards the Thresher Bestiary completion, and having progress on the Thresher Bestiary will grant additional damage to these variants as well.
 -   The bonuses tied to each bestiary entry is **only applied to that specific enemy**, meaning if you defeat a Brainsucker 100 times, it won't grant you increased damage against Megalodaunts and vice versa. Not even the boss bestiary buffs are universally applied!
--   \[\[Corrupted|[Corrupt](Monsters.md#scyphozia)\]\] Monsters count as **2 kills** instead of 1.
+-   [Corrupt](Monsters.md#scyphozia) Monsters count as **2 kills** instead of 1.
 -   'Resilient' Monsters (such as [Enforcers](Enforcer.md) or [Bounders](Bounder.md)) have halved damage and resistance bonuses.
     -   While most monsters are +10% damage/5% resistance per milestone, totaling to +30% damage and +15% resistance, 'resilient' monsters only grant +5% damage and +2.5% resistance per milestone, totaling to +15% damage and +7.5% resistance.
 
@@ -389,6 +389,6 @@ Upon defeating eligible monsters, they will be added to your bestiary, giving yo
 ## Trivia
 
 -   As of June 23rd, 2025, 7 out of the 29 current entries are missing a picture/don't have one at all.
-    -   These include: Sworn Angel, Terrapod, Crustaceous Rex, Duke Ishamon Erisia, Scion of Ethiron, Maestro Evengarde Rest, and The Ferryman.
+    -   These include the following: Sworn Angel, Terrapod, Crustaceous Rex, Duke Ishamon Erisia, Scion of Ethiron, Maestro Evengarde Rest, and The Ferryman.
 -   Several monsters don't have or don't contribute to a Bestiary entry, these include: [Crab](Crab.md), [Mudskipper Knight](Mudskipper_Knight.md), [Rogue Construct](Rogue_Construct.md), [Hive Construct](Hive_Construct.md)\*, [Carbuncle](Carbuncle.md), and [Diver Husk](Diver_Husk.md).
--   The [Gigameds](Gigamed.md) spawned by the [King Gigamed](King_Gigamed.md) do not count towards the Gigamed Bestiary completion.
+-   [Gigameds](Gigamed.md) spawned by a [King Gigamed](King_Gigamed.md) do not count towards the Gigamed Bestiary completion.

@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 161709
+revid: 161723
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing, Locations, Map]
@@ -190,7 +190,10 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
 
 ## Trivia/Notes
 
--   As of 27.03.2025 There's a green screen location on the map, located behind a wall without collision. (view comments)
+-   As of 27.03.2025 There's a green screen location on the map, located behind a wall without collision.
+    
+    Green Screen Location ( Eastern Luminant )
+    
 -   In the update of 25.07.2025, the map was reworked and is now clearer in-game.
 -   in the same update the depths map was bugged
 -   The current interactive map is outdated.
