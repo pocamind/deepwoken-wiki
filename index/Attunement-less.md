@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 161700
+revid: 161799
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1976,9 +1976,9 @@ Slash
 
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
--   After the cooldown of Punishment, activating it again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish), that affects everyone nearby.
--   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has no Heavy Weapon scaling.
--   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's posture damage per level to this attack.
+-   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish).
+-   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
+-   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
 -   The follow-up attack has a staggeringly short 0.35 second windup, making it very hard to react to. That being said, this attack is still parryable.
 

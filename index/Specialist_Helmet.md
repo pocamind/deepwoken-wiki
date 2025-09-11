@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 156835
+revid: 161796
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -53,3 +53,7 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 1.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 2 [Warden's Armor Pieces](<Warden's_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md).
 2.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+
+## Trivia
+
+-   This equipment set talent does not work in [Chime of Conflict](Chime_of_Conflict.md) ( This could be a bug )

@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 158612
+revid: 161789
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -66,7 +66,7 @@ categories: [Items, Harvestables]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare and powerful metal. |
+| desc | A rare and powerful metal often found in highly acidic environments. |
 
 | Astruline | |
 |---|---|

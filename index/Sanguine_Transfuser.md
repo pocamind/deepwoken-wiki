@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 161649
+revid: 161793
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", Relics]
@@ -43,7 +43,7 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 ## Critical
 
-The user stabs themselves, applying 40 [Wither](Status_Effects.md#wither) to themselves before spraying their blood onto the ground. Following the stab, anyone who stands on this blood pool, including the user, will be healed by 0.5% of their maximum health per tick. This ticks 20 times over a 5 second period, totaling to 10% of the player's maximum health. If the user has high enough Wither, using the critical will automatically grip themselves.
+The user stabs themselves, applying 40 [Wither](Status_Effects.md#wither) to themselves before spraying their blood onto the ground. Following the stab, anyone who stands on this blood pool, including the user, will be healed by 0.5% of their maximum health per tick. This ticks 20 times over a 5 second period, totaling to 10% of the player's maximum health. If the user has high enough Wither, or low enough HP, using the critical will automatically grip themselves.
 
 If the critical is used after an uppercut, it will follow up with the default Dagger critical.
 
