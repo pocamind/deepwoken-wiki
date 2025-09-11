@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161784
+revid: 161788
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2160,7 +2160,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 -   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), and Static Withdraw (with child Talents).
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Shadow Travel, and Static Withdraw (with child Talents).
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
