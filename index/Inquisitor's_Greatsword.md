@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 161101
+revid: 161831
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
 | range | 9 |
 | swing speed | 0.84x |
 | endlag | 0.1s |
-| special effect | Sovereign's Counter - Increases the efficiency of all counter attacks. Punishment gains additional efficiency when wearing the Authority Commander Outfit. |
+| special effect | Sovereign's Counter - Increases the effectiveness of all non-Oath counter attacks. Punishment gains an additional buff when wearing the Authority Commander Outfit. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -38,7 +38,16 @@ The Inquisitor's Greatsword is a [Greatsword](Weapons.md) with a black handle an
 
 ### Talent: Sovereign's Counter
 
-The efficiency of all counter Mantras is increased. [Punishment](Attunement-less.md#punishment) gains additional efficiency when the [Authority Commander](Authority_Commander.md) Outfit is worn.
+The effectiveness of all non-Oath counter Mantras is increased. [Punishment](Attunement-less.md#punishment) gains additional buff when the [Authority Commander](Authority_Commander.md) Outfit is worn.
+
+-   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.
+    -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
+-   [Prediction](Attunement-less.md#prediction)'s active frames are increased slightly.
+-   [Curse of the Unbidden](Curse_of_the_Unbidden.md) has its posture restoration increased by **10%**, restoring 40% of your posture on successful counter instead of the usual 30%.
+-   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
+-   As mentioned prior, [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer) **do not** have any affect with this Talent.
+
+  
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 161544
+revid: 161854
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,7 +52,7 @@ It has a few sub-variants:
 -   Black Flames: Consumes your Ether while you are burning and spawns Puppets if applied via a non-Shadowcast source. This burn type comes from [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets).
 -   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
 -   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that scale on your Intelligence investment, meaning they can be a lot more deadly. (Currently bugged and does not scale on INT, it instead scales on your Flamecharm investment like all other burn types.)
--   Flamewreathe Burn: [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
+-   [Flamewreathed](Monsters.md#attuned-monsters): [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
 -   Self Immolation: [Flame Within](Talents.md#amoran-seeker) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
 
 ### Hyperarmor
@@ -176,15 +176,15 @@ These status effects are applied by some or all [Mantras](Mantras.md) of a certa
 
 ### Winded
 
-This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforced](Monsters.md#attuned-monsters) monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Specter Path) spirals on your character.
+This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforce](Monsters.md#attuned-monsters) monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Specter Path) spirals on your character.
 
 ### Suffocate
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap) or by any other Galebreathe Mantra if the user has [A World Without Song](Talents.md#silencer). Removes your ability to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent [Stifled Jump](Talents.md#aeromancer), you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
+Can be applied by being hit by [Wind Gun](Galebreathe.md#wind-gun), [Galetrap](Galebreathe.md#galetrap), [Galeforce](Monsters.md#attuned-monsters) monsters, or through certain Galebreathe Talents. Removes your ability to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent [Stifled Jump](Talents.md#aeromancer), you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chill
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, any attack from a [Frostmantled](Monsters.md#attuned-monsters) monster, from the [Crustaceous Rex's](Crustaceous_Rex.md) bubbles, or from a [Glacial Lionfish's](Glacial_Lionfish.md) Chilling Cero. Signified by cyan smoke on your character.
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, any attack from a [Frostmantle](Monsters.md#attuned-monsters) monster, from the [Crustaceous Rex's](Crustaceous_Rex.md) bubbles, or from a [Glacial Lionfish's](Glacial_Lionfish.md) Chilling Cero. Signified by cyan smoke on your character.
 
 ### Frozen
 
@@ -646,11 +646,11 @@ Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Ma
 
 The effects of this status effect depends on which [Attunement](Attunements.md) the Monsters are attuned to. Some Monsters are always Attuned to a specific Attunement (e.g. [Fury Nautilodaunts](Fury_Nautilodaunt.md) (Thundercall) or [Glacial Lionfish](Glacial_Lionfish.md) (Frostdraw)). This effect can also be applied to humanoid enemies within [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Additionally, Monsters can spawn as both Attuned and another effect such as being Corrupted or having Magma Flow and/or Magma Guard.
 
--   Flamewreathed - [Flamecharm](Flamecharm.md): Flamewreathed Monsters apply [Burn](#burn) with their attacks. This is a unique burn variant that is harder to remove. Additionally, Flamewreathed Monsters have 50% Flamecharm resistance, but take double damage from Galebreathe. Signified by the Monster being engulfed in flames.
--   Frostmantle - [Frostdraw](Frostdraw.md): Frostmantled Monsters apply [Chill](#chill) and create ice patches on the floor with all of their attacks. Additionally, Frostmantled Monsters have 50% Frostdraw resistance, but take double damage from Flamecharm. Signified by the Monster radiating with frost.
--   Galeforced - [Galebreathe](Galebreathe.md): Galeforced Monsters apply [Winded](#winded) and/or [Suffocation](#suffocate) on hit. These Monsters also have increased movement speed and deal extra knockback. Additionally, Galeforced Monsters have 50% Galebreathe resistance, but take double damage from Thundercall. Signified by the Monster emanating the winds.
--   Thunderstruck - [Thundercall](Thundercall.md): Thunderstruck Monsters apply [Shock](#shock) on hit, making them very dangerous, especially in group settings. Additionally, Thunderstruck Monsters have 50% Thundercall resistance, but take double damage from Frostdraw. Signified by the Monster cackling with electricity.
--   Shadowmeld - [Shadowcast](Shadowcast.md): Shadowmeld Monsters steal ether on hit. Additionally, Shadowmeld Monsters have 50% Physical resistance, but take double damage from all Attunements. Signified by the Monster exuding a black aura.
+-   [Flamewreathed](Monsters.md#attuned-monsters) - [Flamecharm](Flamecharm.md): Flamewreathed Monsters apply [Burn](#burn) with their attacks. This is a unique burn variant that is harder to remove. Additionally, Flamewreathed Monsters have 50% Flamecharm resistance, but take double damage from Galebreathe. Signified by the Monster being engulfed in flames.
+-   [Frostmantle](Monsters.md#attuned-monsters) - [Frostdraw](Frostdraw.md): Frostmantled Monsters apply [Chill](#chill) and create ice patches on the floor with all of their attacks. Additionally, Frostmantled Monsters have 50% Frostdraw resistance, but take double damage from Flamecharm. Signified by the Monster radiating with frost.
+-   [Galeforce](Monsters.md#attuned-monsters) - [Galebreathe](Galebreathe.md): Galeforce Monsters apply [Winded](#winded) and/or [Suffocation](#suffocate) on hit. These Monsters also have increased movement speed and deal extra knockback. Additionally, Galeforce Monsters have 50% Galebreathe resistance, but take double damage from Thundercall. Signified by the Monster emanating the winds.
+-   [Thunderstruck](Monsters.md#attuned-monsters) - [Thundercall](Thundercall.md): Thunderstruck Monsters apply [Shock](#shock) on hit, making them very dangerous, especially in group settings. Additionally, Thunderstruck Monsters have 50% Thundercall resistance, but take double damage from Frostdraw. Signified by the Monster cackling with electricity.
+-   [Shadowmeld](Monsters.md#attuned-monsters) - [Shadowcast](Shadowcast.md): Shadowmeld Monsters steal ether on hit. Additionally, Shadowmeld Monsters have 50% Physical resistance, but take double damage from all Attunements. Signified by the Monster exuding a black aura.
 
 ### Corrupted
 

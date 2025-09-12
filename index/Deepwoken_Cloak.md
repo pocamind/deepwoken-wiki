@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 161818
+revid: 161819
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -23,7 +23,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Saramaed Summit, Starfield Veldt, Saramaed Hollow, Primadon, Titan of the East, War Mode |
+| obtainment | Chests from:, Miner's Landing, Primadon, Titan of the East, War Mode |
 | description | An ancient cloak of incredible power. Worn by a select few. |
 
 ## Description

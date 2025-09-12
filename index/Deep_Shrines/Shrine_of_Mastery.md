@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 160072
+revid: 161858
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -47,7 +47,11 @@ Shrine of Mastery has two different effects.
     -   The only exception to this is [Arcwarder](../Oath%253A_Arcwarder.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of Deepwoken's developers, he said "3 points aint the end of the world."
--   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty, lowering your weapon's base damage. This debuff scales on how far below your weapon's requirements you are, up to a maximum of -25% base damage.
+-   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty, lowering your weapon's damage. This debuff scales on how far below your weapon's requirements you are, up to a maximum of -25% base damage, though the math behind it makes it only really effective on lower requirement weapons.
+    -   To explain, the exact formula for this debuff is 1-0.25\*m/r where m is your current stat and r is your weapon's requirements [calculator here](https://www.desmos.com/calculator/3hj2bmdzzj).
+    -   If your weapon requires multiple stats, this will prioritize the fraction that is farthest from 1, for example if you have 17/20 Strength and 90/100 Weapon, your weapon's damage will be reduced based off your Strength stat and instead of your Weapon stat, as 17/20 < 90/100.
+    -   [Khan](../Khan.md)'s requirement reduction is applied in these calculations.
+    -   This debuff is a damage modifier to your scaled damage that is multiplicative to all other multipliers.
 -   If you no longer meet the requirements for a Mantra or your Mantra's levels after using Shrine of Mastery, you will keep it equipped with its previous level intact with **no** penalties.
 -   If you no longer meet the requirements for a Outfit with stat requisites, you will keep the Outfit with no penalties and you will be able to unequip and reequip it with no restrictions.
 -   This Shrine does not count for the "Bargained with Deep Shrines" [Echo Triumph](../Echoes.md).

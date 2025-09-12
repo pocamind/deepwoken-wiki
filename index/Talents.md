@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161810
+revid: 161830
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3867,7 +3867,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Battle Frenzy: [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.
     -   Grants Posture resistance against Mantras, scaling up in effectiveness based on how many combat tags you have.
-    -   Works in PvE, but you cannot stack PvE combat tags like you can PvP ones, leading to lessened effectiveness.
+    -   Works in PvE, but you cannot have more than 1 PvE combat tag, unlike what you can do with PvP ones, leading to lessened potential effectiveness.
 
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) now deal extra damage based on how much Willpower you have.
     -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals physical damage.
@@ -3916,8 +3916,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Reduces the cooldown of Tactical Reload by 30 seconds; from 90 seconds to 60.
 
 -   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
-    -   Increases the ? of all counter attacks.
-        -   [Punishment](Attunement-less.md#punishment) gains ? when wearing the [Authority Commander](Authority_Commander.md) Outfit.
+    -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.
+        -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
+    -   [Prediction](Attunement-less.md#prediction)'s active frames are increased slightly.
+    -   [Curse of the Unbidden](Curse_of_the_Unbidden.md) has its posture restoration increased by **10%**, restoring 40% of your posture instead of the usual 30%.
+    -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
+    -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
 
 -   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 10 seconds.
     -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their passive posture recovery by ?% for 10 seconds.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 159635
+revid: 161833
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -29,12 +29,6 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 | enchantable | Yes |
 | pass down | Yes |
 | description | "" |
-
-“ The Heroes of the Blade may have fallen in ages past, but in taking up their blades, the torch is carried once again. ”
-
-― Deepwoken Twitter
-
-  
 
 ## Description
 
@@ -93,6 +87,10 @@ With the second completion, you will get Saint's Synergy and Saint's Overload.
 Alternatively you can use 10 knowledge to skip the progression if you've fully progressed this oath before.
 
 ## Abilities
+
+“ The Heroes of the Blade may have fallen in ages past, but in taking up their blades, the torch is carried once again. ”
+
+― Deepwoken Twitter
 
 ### Weapon
 
