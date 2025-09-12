@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 161090
+revid: 161811
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -38,7 +38,7 @@ The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Pr
 
 ### Talent: Blitz
 
-Reduces the Windup of your [Prominence Draw](Attunement-less.md#prominence-draw).
+Reduces the Windup of your [Prominence Draw](Attunement-less.md#prominence-draw) by 0.1s (from 0.55s to 0.45s).
 
 ## Critical
 

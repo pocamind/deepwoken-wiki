@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161801
+revid: 161810
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -219,9 +219,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.
-    -   Marks players knocked by you for ~3s with "Gale Trap".
-        -   The user will gain a speed boost picking up marked players.
-        -   Anyone but the user will instead be ragdolled and flung upwards when picking up marked players. (Including allies)
+    -   Marks players knocked by you for 6s with "Gale Trap".
+    -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
+    -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
     -   Prerequisite: Wind Step, 50 Galebreathe
 
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility)
@@ -1642,6 +1642,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Prerequisite: Frostbite
 
 -   Stasis Strike \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions deal more damage whenever your opponent is also bottom frozen.
+    -   Your Crystal detonations deal 67% more damage against targets who are bottom frozen.
     -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
@@ -3875,7 +3876,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This secondary damage instance cannot receive damage modifiers.
 
 -   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
-    -   Decreases Prominence Draw's windup by a very substantial amount.
+    -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
     -   Adds a new sound effect to Prominence Draw.
 
 -   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recovery health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.

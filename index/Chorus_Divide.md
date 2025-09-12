@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 161269
+revid: 161812
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -24,7 +24,9 @@ categories: [Resonances]
 
 ## Usage
 
-Pressing C will activate the **Chorus Divide** Resonance. The user begins to charge up the elements within their arms, before unleashing two powerful beams of Attuned energy. The user will slowly spin during the duration of this Resonance, limiting the player's control over beam direction. The beams will be based off the user's highest invested Attunement, changing the visuals, status effect, and damage type to match.
+Pressing C will activate the **Chorus Divide** Resonance. The user begins to charge up the elements within their arms, before unleashing two powerful beams of Attuned energy. The user will slowly spin 270° during the duration of this Resonance, removing the player's control over beam direction. The beams will be based off the user's highest invested Attunement, changing the visuals, status effect, and damage type to match.
+
+Chorus Divide has 8 base damage per tick and 5 Attunement scaling, capping at 12 damage per tick with 100 Attunement.
 
 If Chorus Divide is corrupted, its spins 180° instead of 270°, and becomes unblockable, but at the cost of it's wind-up being significantly longer, and the beams spinning slower.
 
@@ -47,9 +49,9 @@ Chorus Divide will use the players highest invested attunement upon obtaining th
 -   The [Ironsing](Ironsing.md) variant will proc metal rods to players hit by the beams, turning the beams grey.
 -   The [Bloodrend](Bloodrend.md) variant will proc blood talents and blood poison to the player hit by the beams, turning the beams red.
 
-If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead.
+If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead. Each beam will scale on their respective attunement stats.
 
-If the player is [Attunement-less](Attunement-less.md), the beams will be the Thundercall variant.
+If the player is [Attunement-less](Attunement-less.md), the beams will be the Thundercall variant. Because you have no attunement investment, this will use the base damage of 8 per tick.
 
   
 

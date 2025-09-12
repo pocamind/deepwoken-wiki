@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 161789
+revid: 161806
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -110,7 +110,7 @@ Old Models
 
 ## Iron
 
-A grey-brownish ore used for crafting [Bullets](Bullet_Casings.md), [Bombs](Iron_Bomb.md), and certain Outfits. Found in most caves. A lot can be found in [Temple of Hearts](Temple_of_Hearts.md).
+A grey-brownish ore used for crafting [Bullets](Bullet_Casings.md), [Bombs](Iron_Bomb.md), and certain Outfits. Found in most caves.
 
 Pure Iron cannot be traded to a [Blacksmith](Blacksmith.md).
 
