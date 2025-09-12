@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161788
+revid: 161801
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2831,8 +2831,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Silencer
 
 -   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] - Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
-    -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
-    -   Lasts 4.5 seconds.
+    -   Landing M1 attacks on suffocated targets apply a new stack of suffocation that lasts 5 seconds.
+    -   Grants an ~22.5% speed boost for 3 seconds.
+    -   [Bleed](Status_Effects.md#bleed) damage can proc this effect.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate.

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 161787
+revid: 161800
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -34,7 +34,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 
 ### Details
 
--   \*Any core attribute or weapon stat **cannot lose more than investment 25 points** from Shrine of Order. Attunement stats can lose any amount of investment points.
+-   \*Any core attribute or weapon stat **cannot lose more than 25 investment points** from Shrine of Order. Attunement stats can lose any amount of investment points.
 -   **The effectiveness of some Talents may be reduced if you do not meet their requirements.** This does not apply to all Talents, see info of specific Talents on the [Talents](../Talents.md) page.
 -   The main purpose of the Shrine of Order is allowing you to obtain expensive [Talents](../Talents.md) or [Mantras](../Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
 -   Only the stats you have invested at least 1 point into will be ordered by Shrine of Order. In the case of racial points, you need to invest 1 point manually into the stat (making it 3 or 4) for it to count.

@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 161798
+revid: 161803
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -51,7 +51,3 @@ Storm Strikes from the Set Talent deal 40 damage with no scaling. To proc them, 
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).
-
-## Trivia
-
--   This equipment set talent does not work in [Chime of Conflict](Chime_of_Conflict.md) ( This could be a bug )
