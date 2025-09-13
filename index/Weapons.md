@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 161713
+revid: 161862
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -12728,23 +12728,41 @@ Every weapon.
 
 ## Calculating Damage
 
+### Scaled Damage
+
 This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers). _[Damage calculator (Single, Dual, Tertiary, and Quaternary Attribute Scaling \[Scaling rings included\])](https://www.desmos.com/calculator/ukb3vjlbwc)_
 
 D a m a g e \= B a s e D a m a g e + 0.75 × B a s e D a m a g e × ( S 1 + S 2 + S 3 + S 4 ) × ( 1 + ( P r o f i c i e n c y × 0.065 ) 1000 {\\displaystyle Damage=BaseDamage+0.75\\times {\\frac {BaseDamage\\times (S\_{1}+S\_{2}+S\_{3}+S\_{4})\\times (1+(Proficiency\\times 0.065)}{1000}}} {\\displaystyle Damage=BaseDamage+0.75\\times {\\frac {BaseDamage\\times (S\_{1}+S\_{2}+S\_{3}+S\_{4})\\times (1+(Proficiency\\times 0.065)}{1000}}}
 
 Key:
 
--   S1-4 = Attribute Level x Attribute Scaling
+-   S1-4 = Attribute Level x Attribute Scaling for each stat
+
+### Damage Modifiers
 
 The formula to calculate the damage with damage multipliers taken into account is:
 
-M u l t i p l i e d D a m a g e \= W e a p o n D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) {\\displaystyle MultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})} {\\displaystyle MultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})}
+M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) {\\displaystyle MultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})} {\\displaystyle MultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})}
+
+### Bleed
 
 The formula to calculate the damage of a weapon including bleed is
 
-B l e e d D a m a g e \= W e a p o n D a m a g e × 1.3 {\\displaystyle BleedDamage=WeaponDamage\\times 1.3} {\\displaystyle BleedDamage=WeaponDamage\\times 1.3} **or** B l e e d M u l t i p l i e d D a m a g e \= W e a p o n D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) + ( W e a p o n D a m a g e × 0.3 ) {\\displaystyle BleedMultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(WeaponDamage\\times 0.3)} {\\displaystyle BleedMultipliedDamage=WeaponDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(WeaponDamage\\times 0.3)}
+B l e e d D a m a g e \= S c a l e d D a m a g e × 1.3 {\\displaystyle BleedDamage=ScaledDamage\\times 1.3} {\\displaystyle BleedDamage=ScaledDamage\\times 1.3} **or** B l e e d M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) + ( S c a l e d D a m a g e × 0.3 ) {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.3)} {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.3)}
 
 -   Replace the 1.3 or 0.3 in the above equation with 1.15 or 0.15 respectively for [Speed Demon](Talents.md#vigil-swordsman).
+
+### Miscellaneous
+
+If you do not meet the requirements of your weapon, you will be inflicted with a damage debuff, the formula is as follows:
+
+D a m a g e ∗ ( 1 − 0.25 × m r ) {\\displaystyle Damage\*(1-0.25\\times {\\frac {m}{r}})} {\\displaystyle Damage\*(1-0.25\\times {\\frac {m}{r}})}
+
+m is your current stat and r is your weapon's requirements [calculator here](https://www.desmos.com/calculator/3hj2bmdzzj).
+
+-   If your weapon requires multiple stats, this will prioritize the fraction that is farthest from 1, for example if you have 17/20 Strength and 90/100 Weapon, your weapon's damage will be reduced based off your Strength stat and instead of your Weapon stat, as 17/20 < 90/100.
+-   [Khan](Khan.md)'s requirement reduction is applied in these calculations.
+-   This debuff is a damage modifier to your scaled damage that is multiplicative to all other multipliers.
 
 ## Trivia
 

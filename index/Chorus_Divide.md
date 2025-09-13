@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 161812
+revid: 161866
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -51,7 +51,7 @@ Chorus Divide will use the players highest invested attunement upon obtaining th
 
 If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead. Each beam will scale on their respective attunement stats.
 
-If the player is [Attunement-less](Attunement-less.md), the beams will be the Thundercall variant. Because you have no attunement investment, this will use the base damage of 8 per tick.
+If the player is [Attunement-less](Attunement-less.md), the beams will be the Thundercall variant ( will apply shock ). Because you have no attunement investment, this will use the base damage of 8 per tick.
 
   
 
@@ -61,3 +61,4 @@ If the player is [Attunement-less](Attunement-less.md), the beams will be the Th
 -   This bell will stack [Chain of Perfection](Talent_Quests.md) when it lands
 -   [Titus](Titus_Fulminus_Destellus.md) uses an empowered version of this Resonance.
 -   Unfortunately, the beams don't change color if you have a different path for the specific element.
+-   If you drink a Attunement flask when your build is max power, While having no attunement You are able to get the other Attunement variants instead of the thundercall variant.
