@@ -1,6 +1,6 @@
 ---
 title: Gold Plate
-revid: 147287
+revid: 161880
 source: https://deepwoken.fandom.com/wiki/Gold_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -25,4 +25,4 @@ The Gold Plate is a [Treasure](Treasures.md) dropped from [Rat Fighters](Rat_Fig
 
 ## Trivia
 
--   The Gold Plate shares its description with the [Gold Bar](Treasures.md) and [Platinum Bar](Treasures.md), and its sell price with the Gold Bar.
+-   The Gold Plate shares its description and sell price with the [Gold Bar](Treasures.md).
