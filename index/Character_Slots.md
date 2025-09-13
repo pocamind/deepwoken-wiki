@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 149419
+revid: 161886
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -14,7 +14,7 @@ Character slots function as Deepwoken's save files.
 
 The slot selection menu serves as a list of all of your character slots.
 
--   The maximum number of character slots is 52.
+-   The maximum number of character slots is 64.
 -   The slot selection menu shows various pieces of information about the associated character.
 -   Some information presented in the menu cannot be changed and tied to the slot while other information can be changed and is tied to the character.
 
@@ -36,14 +36,16 @@ The slot selection menu serves as a list of all of your character slots.
 -   The character preview shows all cosmetics currently equipped to the character except Oath cosmetics.
     -   The character preview is of your CURRENT character meaning items with vanity off will not show up on the preview.
 -   Equipment items or outfits added in recent updates have been known to not show up on the character preview.
-    -   New schematics may show up as the "Stranded" outfit.
+    -   New schematics may show up as the "[Stranded](Stranded.md)" Outfit.
     -   New equipment pieces may not show up at all.
+-   If an equipment piece has been remodeled, it may show their old models.
 
 ### Slot Letters
 
 -   The slot letter is the first piece of text presented for each slot.
--   The maximum of 52 character slots corresponds to the slot letters starting from A to Z then AA to AZ.
-    -   Following the 26th character slot each following slot will have two letters starting with A then a second letter from A to Z.
+-   The maximum of 64 character slots corresponds to the slot letters starting from A to Z then AA to AZ then BA to BL.
+    -   Following the 26th character slot, each following slot will have two letters starting with A then a second letter from A to Z.
+    -   Following the 52nd character slot, each following slot will have two letters starting with B then a second letter from A to L.
 -   The slot letter(s) cannot be changed and is tied to the slot the moment you purchase it.
 -   Two slots cannot have identical letter combinations as the slot letter is a key identifier for each slot.
 
@@ -51,7 +53,7 @@ The slot selection menu serves as a list of all of your character slots.
 
 -   Your character name is presented following the slot letter.
 -   On slot purchase your character name will show as '???'.
--   Your character name can be selected during character creation or changed with a barber ingame.
+-   Your character name can be selected during character creation or changed with a barber ingame for 100.
 -   Character name is tied to the current character on the slot and can be changed at any time.
 
 ### Level
@@ -73,8 +75,9 @@ The slot selection menu serves as a list of all of your character slots.
 
 -   The slot's current setting is presented following your Oath or Aspect.
 -   On slot purchase the category will show as '???'
--   Possible locations include the 2 Luminants and the 2 layers of the depths currently available ingame.
--   Entering character creation will set the category to The Etrean Luminant
+-   Possible locations include: [Etrean Luminant](Luminants.md), The [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), The Depths ([Scyphozia](First_Layer.md)), The Depths ([The Eternal Gale](Second_Layer.md)), [Fragments of Self](Fragments_of_Self.md), and [Dungeon](Dungeons.md) for all non-Second Layer dungeons.
+    -   Because of how dungeons work, upon leaving the game in most of them, your location will usually change to just outside of the dungeon's entrance, so the "Dungeon" location may not apply. However, the [Tutorial](Tutorial.md) dungeon cannot be left unless it is skipped or completed, showcasing "Dungeon" as location for your slot.
+-   Etrean Luminant may be displayed as "The Etrean Luminant," rather than "Etrean Luminant." While normally, this applies to all slots in character creation, it can also apply to slots that aren't.
 
 ### Label Button
 

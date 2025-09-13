@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 161792
+revid: 161905
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,7 +36,7 @@ When losing enough sanity, the player will endure negative effects.
 | Hidden Faces | When panicking or scratching, hide the face and name of nearby humanoids (including players) for 30 seconds. | <40% | 360 seconds |
 | Scratching | Stuns you for 1.5 second and deal 20 damage (10 with Grasp on Reality Talent). Is then followed by shivering. The Unfazed Talent offer no protection against this. | <10% | 30–36 seconds |
 | Execution | If knocked by any means, including scratching, you are immediately killed. | <10% | N/A |
-| Head Explosion | Reaching 0 Sanity with a No-Life King enchantment in The Depth or while observing the eyeballs in The Ancient Rotland will immediatly kill the player. | 0% | N/A |
+| Head Explosion | Reaching 0 Sanity with a No-Life King enchantment in The Depth or while observing the eyeballs in The Ancient Rotlands will immediately kill the player. | 0% | N/A |
 
 ## Sanity Decreasing Effects
 
@@ -45,6 +45,7 @@ When losing enough sanity, the player will endure negative effects.
 -   Being hit by the [Mudskipper Broodlord](Mudskipper_Broodlord.md).
 -   Being in the [First Layer](First_Layer.md).
 -   Being hit by a player with [Shared Misery](Talents.md) active.
+-   Being hit by the Ardour scream of a player with the [Echoing Lunatic](Talents.md) talent.
 -   Drinking or being splashed by a Mindbreaking potion.
 -   Using [Heretic's Sutra](Quests.md).
 -   Using [Blindseer](Oath%253A_Blindseer.md) Mantras.

@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 160765
+revid: 161902
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -45,4 +45,4 @@ At the end of the hallway is the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keepe
 
 ## Trivia
 
--   Attempting to commune with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without a [Resonance](Resonance.md) or the [Deepbound](Deepbound.md) Origin will cause the player's head to explode, killing them instantly.
+-   Attempting to commune with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without a [Resonance](Resonance.md) or the [Deepbound](Deepbound.md) Origin will cause the player's head to explode, killing them instantly (if you have Deepbound but no Resonance, Yun'Shul just insults you and lets you go).

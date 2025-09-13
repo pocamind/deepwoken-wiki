@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 161858
+revid: 161891
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -10,7 +10,7 @@ categories: [NPCs, Mechanics]
 
 | Shrine of Mastery | |
 |---|---|
-| location | Temple of Hearts, Widow's Hollow |
+| location | Temple of Hearts, Widow's Hollow, Celtor Wastes |
 
 “ CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH. ”
 
@@ -89,3 +89,9 @@ Shrine of Mastery has two different effects.
 ## Navigation
 
 Variants: [Shrine of Temptation](Shrine_of_Temptation.md)
+
+  
+
+## Gallery
+
+The shrine's location celtor wastes

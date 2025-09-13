@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 156999
+revid: 161904
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, Medium Weapons]
@@ -35,7 +35,7 @@ The **Crescendo** is a rare Twinblade. It's most commonly obtained from the Ferr
 
 ## Critical
 
-The user twirls the twinblade, slicing opponents around it, before twirling the blade again to create a bigger slash. Both parts of the critical deal the same damage.
+The user twirls the twinblade, slicing opponents around it, before twirling the blade again to create a bigger slash. Both parts of the critical deal 20% more damage than the weapon's M1.
 
 The critical has a cooldown of **5.5 seconds.**
 

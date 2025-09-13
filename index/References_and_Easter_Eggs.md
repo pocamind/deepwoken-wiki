@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 155734
+revid: 161893
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -314,6 +314,8 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
 
 ### Misc
+
+-   The echo modifier **One Bit** may be a reference to One Piece, given that they have similar names and the modifier makes you take damage when you swim, while in One Piece when a person eats a devil fruit they lose their ability to swim.
 
 -   The Drowned Gods are inspired by the gods from the H.P. Lovecraft mythos:
     -   Perceiving them drives you to insanity.

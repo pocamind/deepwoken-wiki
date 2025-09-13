@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 161865
+revid: 161901
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -44,14 +44,14 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   What?...
 -   Please leave me alone...
 
-### Charisma 36-65
+### Charisma 36-68
 
 -   Uh huh.
 -   Oh, sure.
 -   Mhm.
 -   Yeah.
 
-### Charisma 65-103
+### Charisma 69-103
 
 -   Oh! I see!
 -   Wow!
