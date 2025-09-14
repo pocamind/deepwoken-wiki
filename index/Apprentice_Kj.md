@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 161909
+revid: 161935
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Isle of Vigil]
@@ -76,8 +76,8 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Player has rescued Vigil Isaac</td>
   <td colspan="6">Player has not rescued Vigil Isaac</td>
+  <td colspan="6">Player has rescued Vigil Isaac</td>
 </tr>
 <tr>
   <td colspan="6">No word yet from Erisia? If you sail out from the docks and take a right you can't miss it...</td>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 161833
+revid: 161944
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -74,17 +74,13 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   Saintsworn **CANNOT** be obtained with 75 points in a singular attunement, you **need** at least 15 points in an attunement to resonate with their respective obelisk- in other words, you need 15 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
-    -   This may be a bug but as of now you can get saintsworn without meeting the requirements for as long as you have spoken with the obelisk's beforehand (Example, you can talk with the obelisks and obtain the oath and then shrine down your attunement to below the requirement, so, 30 flame, get oath, shrine, 18 flame, and you still have the oath.) (Tested 5/31/25, confirmed to work but took an _aggravatingly_ long time...)
+    -   You can obtain Saintsworn without meeting the 15 points in the five base Attunement requirements. Saintsworn does **not** require you to **currently** have 15 investment in all base Attunements, instead it does a check for whether or not you've unlocked the dialogue with each Obelisk. This means you can meet the requirements of an Obelisk before [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and then still obtain the Oath after [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) even if you have less than 15 points invested into that Attunement stat.
 
 ## Progression
 
-To progress Saintsworn, you need to complete [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and [Interluminary Parasol](Interluminary_Parasol.md)).
+To progress Saintsworn, you need to complete [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and [Interluminary Parasol](Interluminary_Parasol.md)). The first completion will grant Ether Proselyte, Hero's Assist, and Saint's Negation. The second completion will grant Saint's Synergy and Saint's Overload.
 
-With the first completion of the World Event, you will get Ether Proselyte, Hero's Assist and Saint's Negation.
-
-With the second completion, you will get Saint's Synergy and Saint's Overload.
-
-Alternatively you can use 10 knowledge to skip the progression if you've fully progressed this oath before.
+Alternatively you can use 10 to skip the progression if you've fully progressed this Oath before, by speaking to any Obelisk after obtaining Saintsworn. Warning: this has no confirmation dialogue, entering dialogue will instantly consume your Knowledge. Additionally, this can be still performed even if your Oath is fully progressed, potentially wasting your Knowledge for no benefit.
 
 ## Abilities
 
@@ -118,7 +114,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
     -   Hero's Assist is a passive ability that relies on the summoning of the past heroes of the attunements themselves to aid you in battle.
     -   Which hero is summoned and their effect is dependent on the current Saint Stance.
     -   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
-        -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**[The Floor is Lava](https://deepwoken.fandom.com/wiki/Talents#The_Floor_is_Lava)**_.
+        -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent _**[The Floor is Lava](Talents.md#lava-serpent)**_.
         -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also suffocating and knocking them away.
         -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
         -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing [Chill](Status_Effects.md#chill) or applying [Crystals](Status_Effects.md#crystal).
@@ -206,15 +202,15 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 
 ## Dialogue
 
-**Flamecharm** **Obelisk**: "I've seen what happens when fire burns too hot. It leaves nothing behind but ruin. If you choose this path, remember. you will never be the same. Flame is both a gift and a curse, and it will show you what you're made of..." - Jace
+**Flamecharm Obelisk**: "I've seen what happens when fire burns too hot. It leaves nothing behind but ruin. If you choose this path, remember. you will never be the same. Flame is both a gift and a curse, and it will show you what you're made of..." - Jace
 
-**Galebreathe** **Obelisk**: "You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk." - Trinity Galenwarde
+**Galebreathe Obelisk**: "You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk." - Trinity Galenwarde
 
-**Shadowcast** **Obelisk**: "Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night." - Urek Felhand
+**Shadowcast Obelisk**: "Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night." - Urek Felhand
 
-**Frostdraw** **Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
+**Frostdraw Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
 
-**Thundercall** **Obelisk**: "Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
+**Thundercall Obelisk**: "Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
 
 ## Trivia
 

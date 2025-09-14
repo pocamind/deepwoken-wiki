@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161830
+revid: 161936
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3173,6 +3173,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this Talent.
 
 -   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
+    -   Applies daze for 1 second.
     -   Prerequisite: 20 Intelligence
 
 -   _Punishing Blow_ \[Rare Talent\] - \[Heavy Weapons\] Daze opponents for 1s when you interrupt their Basic Attack with your own.
@@ -3936,7 +3937,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   This effect is applied before Critical Engine Blessed Gem is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Static Withdraw (with child Talents), and [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain.
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), and Static Withdraw (with child Talents).
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.

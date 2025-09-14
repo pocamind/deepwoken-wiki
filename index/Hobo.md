@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 141147
+revid: 161933
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -29,10 +29,10 @@ Assault
 
  | Firmly pummels at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Fire Eruption | An eruption of flame under the user hitting anyone nearby. | ◯ | ✗ | (★☆☆) |
-| Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ◯ | ◯ | (★☆☆) |
-| Rising Flame | User spins and releases a fury of flames that sends both the user and opponent vertically into the air. | ◯ | ◯ | (★★☆) |
 | Flame Assault | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ | (★★★) |
+| Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ◯ | ◯ | (★☆☆) |
 | Flaming Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
+| Rising Flame | User spins and releases a fury of flames that sends both the user and opponent vertically into the air. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 
@@ -51,6 +51,33 @@ A Hobo executes it's opponent after knocking them:
 
 -   The Hobo becomes hostile when you open any of their chests, however they will not aggro until you walk in front of them.
 -   Hobos have a very similar AI to [Songseeker Flamecharmers](Songseeker_Flamecharmer.md), with a faster attack rate. Flourishing them into walls and spamming M1's is a good way to make it an easier fight.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">I am very happy, very rich! Woooo! I love notes!</td>
+</tr>
+<tr>
+  <td colspan="12">Can I have a chest? [Charisma]</td>
+</tr>
+<tr>
+  <td colspan="6">Player passes Charisma check</td>
+  <td colspan="6">Player does not pass Charisma check</td>
+</tr>
+<tr>
+  <td colspan="6">Sure, help yourself!</td>
+  <td colspan="6">No! It's mine! Go away!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

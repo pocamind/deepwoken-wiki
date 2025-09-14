@@ -1,6 +1,6 @@
 ---
 title: Starfield Tundra
-revid: 153382
+revid: 161942
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones, Oaths, Etrean Luminant]
@@ -14,7 +14,7 @@ Template:Location2
 
 File:Starfield tundra.png
 
-**Starfield Tundra** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the Etrean Luminant.
+**Starfield Tundra** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in Minityrsa in the [Etrean Luminant](Luminants.md).
 
 ## Overview
 
