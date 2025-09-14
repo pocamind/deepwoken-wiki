@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 161179
+revid: 161955
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -44,6 +44,10 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 You can obtain/"skip" the salts and mantra obtaiment instantly with 10 knowledge (Not reccomended since the materials are easy to get)
 
 Saltchemist **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+
+### Location
+
+[Adrofalis](Adrofalis.md)' lab is located within a broken tower next to [The Ferryman](The_Ferryman.md)'s arena. It is hidden by a fake wall.
 
 ## Progression
 
@@ -109,10 +113,6 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
     -   Auto-tracks.
 -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
     -   Only the Vibrant Gem is consumed.
-
-## Location
-
-[Adrofalis's](Adrofalis.md) lab is located inside the broken tower next to ferryman's arena, it is hidden by a fake wall
 
 ## Trivia
 

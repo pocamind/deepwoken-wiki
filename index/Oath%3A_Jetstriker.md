@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 161677
+revid: 161974
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,7 +38,7 @@ The Oath's powers are attained by vowing to literally flow alongside the Song it
     -   Wait below the yellow marker, being away from the yellow marker when [Alirian](Alirian.md) arrives will count as you losing.
     -   Talk to [Alirian](Alirian.md) and complete the remaining dialogue. ([Dialogue linked here](https://deepwoken.fandom.com/wiki/Alirian#Dialogue))
 
-_Jetstriker reobtainment does **not** lock off after [Oathbreaking](https://deepwoken.fandom.com/wiki/Oaths#Oathbreaker_-_Oath_Removal) with [Yun'Shul](https://deepwoken.fandom.com/wiki/Shrine_of_Yun%27Shul,_Keeper_of_Hearts)._
+_Jetstriker **can** be reobtained after [Oathbreaking](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression Guide
 

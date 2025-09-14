@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 160720
+revid: 161988
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -44,7 +44,7 @@ The Arc Suit is a defence orientated piece of semi-sentient armour that [the Uni
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/joHZD3rZVkM)._
 
-Arcwarder is **not** reobtainable if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+_Arcwarder **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 

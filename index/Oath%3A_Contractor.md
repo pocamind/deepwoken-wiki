@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 161657
+revid: 161965
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -44,7 +44,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 
-Contractor is **not** reobtainable if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as Lord Regent will instantly kill you if you enter his room.
+Contractor is **not** reobtainable if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as Lord Regent will instantly kill you if you enter his room.
 
 ## Progression
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 161743
+revid: 161992
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -35,7 +35,7 @@ Lore wise Chainwardens are strong enforcers of justice serving [The Central Auth
 1.  After talking to the hostage below the castle, go back up the ladder. This will spawn [Emar Vend](Emar_Vend.md), a rogue Chainwarden wielding a [Darksteel Greatsword](Darksteel_Greatsword.md) and [Ironsing](Ironsing.md) mantras. He will spawn on top of the castle above the ladder. **NOTE: [Emar Vend](Emar_Vend.md) may sometimes not spawn, rejoining to another server should resolve this issue.** Upon defeating him, you will be granted the Oath.
 2.  If obtaining this with a friend and you don't receive kill credit after dealing damage to [Emar Vend](Emar_Vend.md), head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) and he will provide you the oath.
 
-Chainwarden **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as the Vice Warden will insult you.
+_Chainwarden **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as the Vice Warden will insult you._
 
 ## Progression
 

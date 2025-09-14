@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 161669
+revid: 161990
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -51,7 +51,7 @@ To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_
 
 The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
-Blightsurger can be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+_Blightsurger **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 

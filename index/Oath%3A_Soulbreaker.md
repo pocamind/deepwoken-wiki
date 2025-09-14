@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 159373
+revid: 161957
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -36,7 +36,7 @@ Meet the following requirements, which is required for either method:
 
 There are two methods from here:
 
-**Method One**
+### Method One
 
 -   Have High Ally reputation with [Etrea](Etrea.md).
 -   Talk to [Theadre](Theadre.md) about the King of Etrea being a god.
@@ -51,9 +51,7 @@ Once **all** requires are met, head over to the [Temple of Hearts](Temple_of_Hea
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/DC24CSyYN98)._
 
-Or:
-
-**Method Two**
+### Method Two
 
 -   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.

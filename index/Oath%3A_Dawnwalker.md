@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 161882
+revid: 161972
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -10,7 +10,7 @@ categories: [Oaths, The Divers]
 
 | Oath: Dawnwalker | |
 |---|---|
-| oath_req | 30 Kyrsan MedallionsPower 15 |
+| oath_req | 30 Kyrsan Medallions Power 15 |
 | effects | +3 Combat Mantra |
 
 “ You shall connect with the light around us, surrounding all of Lumen. ”
@@ -19,27 +19,27 @@ categories: [Oaths, The Divers]
 
 ## Description
 
-**[Oath](Oaths.md): Dawnwalker** is one of the 17 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it can take multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the Oath.
+**[Oath](Oaths.md): Dawnwalker** is one of the 17 obtainable [Oaths](Oaths.md) in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. Regardless, it is one of the hardest Oaths to obtain, especially for newer players, as it requires [Kyrsan Medallions](Kyrsan_Medallions.md). It can take multiple expeditions into [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the Oath.
 
 “ Child, do you swear to carry the Light as a weapon against the Deep? To wield the Song only as a Radiant Blade against that which it beckons? ”
 
 ― Klaris Llfiend, Mother of Lights
 
-This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, however, it is not the same Light that Lightkeepers use to illuminate the [Voidsea](Voidsea.md) to facilitate traversal between luminants. Lightkeepers are born with the ability to produce light, and are not "taught" how to use it. Dawnwalker's light is based on research into Lightkeeping but cannot illuminate the Voidsea. The Divers, instead of lighting a path through the Voidsea using the Light, use it to defend against [The Depths](The_Depths.md) itself.
+This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that can reproduce Light, however, it is not the same Light that [Lightkeepers](Lightkeepers.md) use to illuminate the [Voidsea](Voidsea.md) to facilitate traversal between luminants. [Lightkeepers](Lightkeepers.md) are born with the ability to produce light, and are not "taught" how to use it. Dawnwalker's light is based on research into Lightkeeping but cannot illuminate the Voidsea. The Divers, instead of lighting a path through the Voidsea using the Light, use it to defend against [The Depths](The_Depths.md) itself.
 
 ## Obtainment
 
-1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra. (Klaris will only allow you to obtain the oath after reaching power 15 or above)
-2.  You can upgrade the Oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The Oath costs 75 (105 if Oath broken previously) Medallions in total from base to max. The order you get the upgrades is:
+1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This costs 30 and gives you the base Oath along with its Blinding Dawn Mantra. (Klaris will only allow you to obtain the oath after reaching Power 15 or above)
+2.  You can upgrade the Oath in exchange for 15 (per skill) by speaking to Klaris again. The Oath costs 75 (105 if Oath broken previously) in total from base to max. The order you get the upgrades is:
 
--   Blinding Dawn upon Oath obtainment 30 medallions (60 medallions if Oath broken previously)
--   Radiant Kick (15 medallions)
--   Protagonist Syndrome and Radiant Dawn (15 medallions)
--   Absolute Radiance + Luminous Flash (15 medallions)
+-   Blinding Dawn upon Oath obtainment 30 (60 if Oath broken previously)
+-   Radiant Kick (15 )
+-   Protagonist Syndrome and Radiant Dawn (15 )
+-   Absolute Radiance + Luminous Flash (15 )
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
 
-Reobtaining Dawnwalker after [Oath Breaking](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it costs 60 [Kyrsan Medallions](Kyrsan_Medallions.md) instead of 30.
+**Reobtaining** Dawnwalker after [Oathbreaking](Oaths.md#oathbreaker---oath-removal) it costs 60 instead of 30.
 
 ## Effects
 
@@ -87,7 +87,7 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
 
 ## Trivia
 
--   If you have already maxed out Dawnwalker before, you only need 40 Kyrsan Medallions to max out the Oath as it only costs 30 to obtain it, and if you convert the other 10 Kyrsan Medallions to knowledge you can max it out right then and there.
+-   If you have already maxed out Dawnwalker before, you only need 40 to max out the Oath as it only costs 30 to obtain it, and if you convert the other 10 to [Knowledge](Knowledge.md) you can max it out right then and there.
 -   Dawnwalker is a nerfed version of yayafino's [developer specs](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri).
     -   Due to the nature of the Oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game. It was able to deal half a bar of undodgable damage, throw people across the Nomad camp at Etris in terms of range, and be able to be mantra feinted.
 -   The passive ability Luminous Flash may be inspired by [Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen).

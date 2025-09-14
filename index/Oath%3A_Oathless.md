@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 160270
+revid: 161987
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,7 +29,7 @@ To start the Oathless quest, head to the docks at [Miner's Landing](<Miner's_Lan
 
 If you have obtained Oathless, you may speak to [Cerulean](Cerulean.md) again to permanently unlock it. This skips the quest on all of your characters/slots, even if that character/slot was created before you permanently unlocked Oathless. _\[Note that obtaining Oathless via any method requires 10 minutes of playtime on that slot.\]_
 
-Oathless **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+_Oathless **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 Aforementioned log tunnel
 
