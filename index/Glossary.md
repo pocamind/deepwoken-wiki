@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 161396
+revid: 161915
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -179,7 +179,7 @@ Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entr
 
 -   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than mines.
 
-Dialogue: | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
+Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
 
 ### Kaide, the Drowned Light
 

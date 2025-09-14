@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 161901
+revid: 161928
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -35,7 +35,9 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 ## Responses
 
-### Charisma 1-35
+These numbers are determined **without** your Aspect stat in mind, and due to this, races such as [Celtor](Celtor.md) would need 36 Charisma instead of 33 to get new lines and have a max of 103 instead of 100.
+
+### Charisma 1-32 (Not including Aspect stats.)
 
 -   I don't have time for this...
 -   Ahah...
@@ -44,14 +46,14 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   What?...
 -   Please leave me alone...
 
-### Charisma 36-68
+### Charisma 33-65 (Not including Aspect stats.)
 
 -   Uh huh.
 -   Oh, sure.
 -   Mhm.
 -   Yeah.
 
-### Charisma 69-103
+### Charisma 66-100 (Not including Aspect stats.)
 
 -   Oh! I see!
 -   Wow!
@@ -68,14 +70,13 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   Many of the phrases in How to Make Friends are really corny and often reference an aspect.
     -   For example, Hivekin refers to the [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) and [Chrysid](Chrysid.md) aspects (as they live in the hive)
 -   **Charisma** does not train faster when reciting phrases next to an NPC. This has been tested on [this video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk9qCY2Mz5AhWqFjQIHZ4pDBQQtwJ6BAgOEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWbl-w6EovHY&usg=AOvVaw1R6klHjwBpxc3bj52TuDyr) (made by Birbingish)
--   Spitting on NPCS while having high charisma will make them thank you instead of aggro on you.
+-   Spitting on NPCS/Players while having high charisma will make them thank you instead of aggro on you, there are also green particles that are the same as the grand feast particles, so it may buff/heal the people spat on (Needs testing).
 -   Farming **Charisma** is a lot faster than levelling up with the [Instructor](Isle_of_Vigils.md) or at [Lower Erisia](Lower_Erisia.md).
 -   Unlike **many other stats**, **Charisma** can be trained to max very fast, due to the method of farming Charisma which is significantly easier than chopping down trees or solving math problems, for example.
 -   There were some phrases that got people's accounts deleted from ROBLOX, because the moderation thought they were _Online Dating_ or attempting to get _Personal Information_. As of 12/27/2021, some of the lines in the "How to Make Friends" book are removed. Some removed phrases will be listed **below** Notes/Trivia.
 -   The [Gremor](Gremor.md) aspect was once mentioned in a phrase of How to Make Friends, but it is now removed.
 -   The book is a loose reference to _How to Win Friends and Influence People_ (1936), a self-help book by Dale Carnegie.
-
-  
+-   Having an [Aspect](Aspects.md) That gives more charisma will affect how the npcs respond with you even when you have [**Multifaceted**](Echoes.md).
 
 ## Removed Phrases
 

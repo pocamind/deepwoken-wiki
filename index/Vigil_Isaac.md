@@ -1,6 +1,6 @@
 ---
 title: Vigil Isaac
-revid: 161772
+revid: 161908
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs]
@@ -12,7 +12,7 @@ categories: [Etrean NPCs]
 |---|---|
 | name | Vigil Isaac |
 | aspect | Etrean |
-| location | Upper Erisia |
+| location | Temple of the Blade, Upper Erisia |
 
 “ I'll be heading back soon, 'Walk with the Wind' stranger. ”
 
@@ -20,13 +20,19 @@ categories: [Etrean NPCs]
 
 ## Description
 
-Vigil Isaac is [Apprentice Kj](Apprentice_Kj.md)'s brother, having [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) as their main teacher.
+Vigil Isaac is brother to [Apprentice Kj](Apprentice_Kj.md) having recently become a Vigil under [Evengarde Rest](Evengarde_Rest.md). Giving him a [Gale Stone](Gale_Stone.md) allows the player to complete the quest "Vigi's Savior" and speak to [Apprentice Kj](Apprentice_Kj.md) to receive a [Curiosity](Quests.md) [Talent](Talents.md) hand and an audience with Evengarde Rest.
 
-Vigil Isaac is apart of the Vigil Scout [quest](Quests.md). Giving him a [Gale Stone](Gale_Stone.md) allows you to complete the quest and speak to [Apprentice Kj](Apprentice_Kj.md) once more.
+## Quest
+
+### "Vigil's Savior"
+
+1.  To start the quest, the player has to finish Apprentice Kj's dialogue. He will then ask the player to find and rescue Vigil Isaac.
+2.  Vigil Isaac can be found in a house at Upper Erisia, following a path leading from the waterfall at [Burning Stone Gardens](Burning_Stone_Gardens.md) or the [Sea Highway](Sea_Highway.md) connected to the [Isle of Vigils](Isle_of_Vigils.md).
+3.  After giving a Gale Stone to Vigil Isaac, head back to Apprentice Kj to complete the quest.
 
 ## Location
 
-Vigil Isaac is located in [Upper Erisia](Upper_Erisia.md), sitting injured in a run-down house.
+Vigil Isaac is located initially at [Upper Erisia](Upper_Erisia.md), sitting injured in a run-down house. He can later be found inside of the [Temple of the Blade](Temple_of_the_Blade.md) near his brother.
 
 ## Dialogue
 
