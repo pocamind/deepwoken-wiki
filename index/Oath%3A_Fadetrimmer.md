@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 161973
+revid: 162013
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Fadetrimmer** is one of the 17 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md). Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Fadetrimmer** is one of the 17 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md). Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ Whatever, man. ”
 
@@ -37,9 +37,9 @@ Meet the following requirements and talk to a barber about Hair Cutting:
     -   If you have changed your appearance enough times before being power 12, you do not need to repeat the step.
 -   Talk to the barber and pick the option "How is it you're able to do all this stuff?". Continue the dialogue, asking to take the Oath.
 
-For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE).
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE)._
 
-This Oath **can** be reobtained after [Oathbreaking](Oaths.md#oathbreaker---oath-removal) it.
+_Fadetrimmer **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Effects
 

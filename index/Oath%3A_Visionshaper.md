@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 161827
+revid: 162041
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,14 +47,14 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/CU80syZAJmY)._
 
-Visionshaper **can** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, costing you an additional [Dark Feather](Dark_Feather.md).
+_Visionshaper **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, costing you an additional [Dark Feather](Dark_Feather.md)._
 
 ## Progression
 
 To progress Visionshaper, [Void Feathers](Dark_Feather.md#void-feather) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the Oath, taking 16 Dark Feathers to if only crafting Void Feathers. Or complete the [Carnival of Hearts](Carnival_of_Hearts.md).
 
 -   Void Feathers can be crafted using 3 [Dark Feathers](Dark_Feather.md) and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop Void Feathers.
--   Alternatively you may spend 10 knowledge to immediately max out the Oath (Only if you logged in on a slot with maxed out Visionshaper after the April 26th, 2024 update).
+-   Alternatively you may spend 10 to immediately max out the Oath (Only if you logged in on a slot with maxed out Visionshaper after the April 26th, 2024 update).
 
 The abilities below are listed in order of obtainment.
 
@@ -130,7 +130,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 -   **Illusory Counter** - Fool others into striking and retaliate.
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone in place of your previous location.
-    -   Can be modified with a Reversal Spark which spawns a clone of your opponent, similar to Mirror Illusion.
+    -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion.
     -   User can move while using Illusory Counter.
 
 #### Support Mantras
@@ -141,19 +141,19 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift.
         -   Deals 30 (oath?) damage.
         -   Only works on humanoids.
-        -   If the enemy is using a [Worn songbook](Instruments.md) the clone will imitate it and use the same instrument and will be using the same [song](Books.md)
 
 ## Notes
 
--   You are supposed to be able to meet the "Complete [Aelita's Encounter](Aelita.md)" requirement for obtainment by participating in [The Carnival of Hearts](Carnival_of_Hearts.md), however this has been bugged since its addition and does not work.
+-   You are supposed to be able to meet the "Complete [Aelita's Encounter](Aelita.md)" requirement for obtainment by participating in the [Carnival of Hearts](Carnival_of_Hearts.md), however this has been bugged since its addition and does not work.
 -   Almost exclusively a PvP Oath, as the clones die very easily in PvE and deal significantly less damage than the user. On top of this, Mirror Illusion doesn't even hit non-humanoids.
 -   If you wish to dye the Visionshaper eye trail Oath cosmetic, you need to [dye](Dye_Packet.md) the Visionshaper Cosmetic, **not** your actual eyes. - as of June 1st, 2025.
 
 ## Trivia
 
--   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
--   Sudaruska's Fury counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
--   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only way to clone non-humanoid mobs and bosses.
+-   The Mental Fortress [Talent](Talents.md), [Disbelief](Talents.md#mental-fortress), only affects Illusory Servants, reducing the amount of time they last by half.
+-   [Sudaruska's Fury](Gran_Sudaruska.md) counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
+-   If you use Mirror Illusion on an enemy using a [Worn Songbook](Instruments.md#worn-songbook), the clone will imitate it and use the same instrument and song.
+-   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only ay to clone non-humanoid mobs and bosses.
     -   When cloning non-humanoid mobs, they'll T-pose and won't be able to move or attack. It's more of a funny interaction rather than something you can actively use in combat, especially when someone clones the [Heart of Enmity](Heart_of_Enmity.md) or some other very large mob.
     -   When cloning humanoid [bosses](Bosses.md), it allows you to see the internal name for the ability they used last. For example, [Duke Erisia's](Duke_Ishamon_Erisia.md) Aero Spear ability is named DukeBlast and his Strong Left-like attack is named DukePunch. You can of course use Reality Shift to make the boss clones use their copied boss abilities.
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Visionshaper had the Mystic line "I speak to the Owls."

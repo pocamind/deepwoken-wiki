@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 160960
+revid: 162018
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -405,8 +405,9 @@ Image
 | All attacks that have this attribute:
 
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
+-   [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn)
 -   [Deep Widow](Deep_Widow.md): Deep Webbing
--   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical
+-   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Critical
 -   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
 -   [King Thresher](King_Thresher.md): Royal Breath
@@ -417,6 +418,7 @@ Image
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
 -   [Stoneheart](Stoneheart.md) critical
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
+-   [Soulwrought Longsword](Crazy_Slots.md) Special ability
 
  |
 | Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ |

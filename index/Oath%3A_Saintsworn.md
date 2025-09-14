@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 161948
+revid: 162028
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -32,7 +32,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 ## Description
 
-**[Oath](Oaths.md): Saintsworn** one of the 17 Oaths in _Deepwoken_, being centered around the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of the Five Heroes and wield their abilities in combat with their souls watching over your strife.
+**[Oath](Oaths.md): Saintsworn** is one of the 17 obtainable Oaths in _Deepwoken_, being centered around the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of the Five Heroes and wield their abilities in combat with their souls watching over your strife.
 
 “ Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night. ”
 
@@ -44,9 +44,9 @@ The Five Heroes were considered to be the Saints of their respective [attunement
 
 Saintsworn obtainment requires 15 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
 
-After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Thundercall -> Flamecharm -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement.
+After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Flamecharm -> Thundercall -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement if starting from the [Etrean Luminant](Luminants.md).
 
-Saintsworn **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+_Saintsworn **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 #### Thundercall
 

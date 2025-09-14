@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 161957
+revid: 162029
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -56,7 +56,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   Enter [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and kill [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 -   Use a [Sinner's Ash](<Sinner's_Ash.md>) before you get teleported out of the dungeon. Doing this with a [Resonance](Resonance.md) will not corrupt it, but will still consume the Sinner's Ash.
 
-Soulbreaker can be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+_Soulbreaker **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
@@ -139,7 +139,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
     -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
     -   Allows you to see the movement of players from very far away and through walls with a red highlight.
     -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
-    -   Unlike base Rhythm, the visual HP and posture percentages works on players with the Not a Scratch Talent.
+    -   Unlike base Rhythm, the visual HP and posture percentages works on players with the [Not a Scratch](Talents.md#human-architecture) Talent.
 
 ### Mantras
 
@@ -155,14 +155,14 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 
 -   **Rhythm Advance** - Channel your Rhythm and track down your opponent.
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
-    -   Deals 50 physical damage.
-    -   Upon using an m1 after cast, it can hit instantly without winding up.
+    -   Deals 50 Physical damage.
+    -   Upon using an M1 after cast, it can hit instantly without winding up.
     -   On successful hit, shows HP and Posture of enemies you hit.
     -   Provides I-Frames during entire move.
     -   AOE attack, can hit multiple people at once.
 
 -   **Tacet Kick** - Slip out of perception and deliver a brutal kick.
-    -   Similarly to Tacet Drop Kick, the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them.
+    -   Similarly to [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them.
     -   Deals 19 physical damage.
     -   Could prove useful in catching players.
 

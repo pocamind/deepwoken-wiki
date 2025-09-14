@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 161793
+revid: 162036
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", Relics]
@@ -56,3 +56,4 @@ The critical has a cooldown of **19 seconds**.
 -   The aura and critical effect of the Sanguine Transfuser do not change color with alloyblood.
 -   If the Sanguine Transfuser is brought back to [Seroth](Seroth.md) on the same character that made it and is equipped, he will unlock a unique set of dialogue.
 -   This weapon reuses the animations of the [Spectral Grasp](Spectral_Grasp.md).
+-   This weapon has 29.5 damage at 100 light and 100 blood

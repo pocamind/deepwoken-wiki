@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 161956
+revid: 162023
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,7 +31,7 @@ Silentheart is a result of a Vow made with [The Dreadstar](The_Dreadstar.md), a 
 
 Unfortunately, the Song is so permeating that the Silentheart is only able to sidestep the Mantras that killed them; their newfound abilities too rely on the Song. Had it truly become disconnected, the Silentheart would have become an ordinary human being with little strength or durability, akin to a [Lightkeeper](Lightkeepers.md) and their inability to use the Song.
 
-The Vow is one of malevolent nature however, as The Dreadstar likely gave the user's previous, song-attuned heart to the Drowned God [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>), possibly in an attempt to earn their favour. This is evidenced by The Dreadstar themselves, who state that the user's "Heart has already been claimed" upon Oathbreak.
+The Vow is one of malevolent nature however, as The Dreadstar likely gave the user's previous, song-attuned heart to the Drowned God [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>), possibly in an attempt to earn their favour. This is evidenced by The Dreadstar themselves, who state that the user's "Heart has already been claimed" upon [Oathbreak](Oaths.md#oathbreaker---oath-removal).
 
 ## Obtainment
 
@@ -65,7 +65,7 @@ Note that killing the Spelltrainers **will make you lose Reputation** with some 
 
 Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
-Silentheart **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it, as the Dreadstar will not spawn.
+_Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as the Dreadstar will not spawn._
 
 ## Effects
 

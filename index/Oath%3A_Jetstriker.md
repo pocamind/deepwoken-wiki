@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 161974
+revid: 162020
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,13 +32,13 @@ The Oath's powers are attained by vowing to literally flow alongside the Song it
 ## Obtainment
 
 1.  Have at least 50 Agility.
-2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Hive Construct](https://deepwoken.fandom.com/wiki/Golem_Constructs) beyond the bridge and to the left ridge.
+2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Hive Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat [Alirian](Alirian.md) in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, being away from the yellow marker when [Alirian](Alirian.md) arrives will count as you losing.
-    -   Talk to [Alirian](Alirian.md) and complete the remaining dialogue. ([Dialogue linked here](https://deepwoken.fandom.com/wiki/Alirian#Dialogue))
+    -   Talk to [Alirian](Alirian.md) and complete the remaining dialogue. ([Dialogue linked here](Alirian.md#dialogue))
 
-_Jetstriker **can** be reobtained after [Oathbreaking](Oaths.md#oathbreaker---oath-removal) it._
+_Jetstriker **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression Guide
 
@@ -48,30 +48,30 @@ _Jetstriker **can** be reobtained after [Oathbreaking](Oaths.md#oathbreaker---oa
 
 The location of these orbs are:
 
--   Top of the frozen [Hive Construct](https://deepwoken.fandom.com/wiki/Golem_Constructs) (Hivelord's) ice pillar, west side of [Minityrsa](Minityrsa.md)'s Frozen Pond.
+-   Top of the frozen [Hive Construct](Hive_Construct.md) (Hivelord's) ice pillar, west side of [Minityrsa](Minityrsa.md)'s Frozen Pond.
     -   Step by step guide:
         -   Take out your map, align yourself directly west after completing [Alirian](Alirian.md)'s race, cross the lake.
-        -   After crossing the lake, near some water, you'll find a frozen [Hive Contruct](https://deepwoken.fandom.com/wiki/Golem_Constructs) marking the ice pillar.
+        -   After crossing the lake, near some water, you'll find a frozen [Hive Construct](Hive_Construct.md) marking the ice pillar.
         -   Orb is at the top of that pillar.
     -   Map guide: Directly underneath the second "i" in the Min\[i\]tyrsa label (Zoom fully to align)
--   Top of the rooftop of the large red [Etris Palace](https://deepwoken.fandom.com/wiki/The_King%27s_Garden).
+-   Top of the rooftop of the large red [Etris Palace](<The_King's_Garden.md>).
     -   Step by step guide:
-        -   Open your map, locate the [Palace Garden](https://deepwoken.fandom.com/wiki/The_King%27s_Garden). (Do not enter the [Palace](Etris_Palace.md), you will die unprepared)
-        -   Take the stairs up to the [\[1\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)Palace, avoid the main gate to sneak past the guards.
+        -   Open your map, locate the [Palace Garden](<The_King's_Garden.md>). (Do not enter the [Palace](Etris_Palace.md), you will die unprepared)
+        -   Take the stairs up to the Palace, avoid the main gate to sneak past the guards.
         -   Outside of the garden to the right, circle around.
         -   Climb onto the red Palace roof.
-        -   Orb is on the very top of the [\[2\]](https://deepwoken.fandom.com/wiki/The_King%27s_Garden)Palace roof, in the center, easy to spot.
+        -   Orb is on the very top of the Palace roof, in the center, easy to spot.
     -   Map guide: Located on the far east point of [Etris](Etris.md), a large distinct orange building on the map named "The Etris Palace".
 -   Right outside the very high up building, "[The Birdcage](The_Birdcage.md)".
     -   Step by step guide: (**Recommended** done in succession with [Towerstruck Lands](Towerstruck_Lands.md))
-        -   Enter through [Lower Erisia](Lower_Erisia.md)'s main entrance, with the large north facing gate. ([Image on this page](https://deepwoken.fandom.com/wiki/Lower_Erisia))
+        -   Enter through [Lower Erisia](Lower_Erisia.md)'s main entrance, with the large north facing gate. ([Image on this page](Lower_Erisia.md))
         -   Head deeper into the island, follow the main path with stairs. (You will not go through any caves throughout this guide)
         -   Follow the rock path and go up the slope made of rock.
-        -   After the slope, to the left, there will be large [bamboo](https://deepwoken.fandom.com/wiki/Bamboo_Bundle) trees marking a upwards rocky staircase, climb the rocky staircase.
+        -   After the slope, to the left, there will be large [Bamboo](Bamboo_Bundle.md) trees marking a upwards rocky staircase, climb the rocky staircase.
         -   Take a hard right and follow straight south until you find a zipline (Ignore the zipline) a and cave on the other side.
         -   The cave's entrance will have parkour above it, climb up _until the very **very** top_.
         -   Follow the southward path with the bridge.
-        -   You should see the orb on the [large tower-like building](https://deepwoken.fandom.com/wiki/The_Birdcage). ([The Birdcage](The_Birdcage.md))
+        -   You should see the orb on the large tower-like building. ([The Birdcage](The_Birdcage.md))
     -   Map guide: The very southeast of corner of [Erisia](Erisia.md), labeled [The Birdcage](The_Birdcage.md). (Zoom in to see label)
 -   On the top of the most northwest tower in [Towerstruck Lands](Towerstruck_Lands.md), on the path to [Burning Stone Gardens](Burning_Stone_Gardens.md) from [Pathfinder's Respite](<Pathfinder's_Respite.md>).
     -   Step by step shortcut guide: (**After** visiting [The Birdcage](The_Birdcage.md))
@@ -94,7 +94,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, and +8 Passive Agility. You will gain a new GUI identical to [Oath: Blightsurger](https://deepwoken.fandom.com/wiki/Oath:_Blightsurger#Talents), this however represents your "momentum" (Reference [Abilities](https://deepwoken.fandom.com/wiki/Oath:_Jetstriker#Abilities)). You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
+On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, and +8 Passive Agility. You will gain a new GUI identical to [Oath: Blightsurger](Oath%253A_Blightsurger.md), this however represents your "[momentum](#abilites)". You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
 
 ## Abilities
 
@@ -134,7 +134,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 -   **Stratos Step** - While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
     -   Hold space while climbing to create up to two "steps" that boost you, and other players upwards.
         -   In combat you are currently only limited to one "step". (Possibly a bug)
-    -   [Kick Off](https://deepwoken.fandom.com/wiki/Talents#Acrobat) is greatly recommended as you do not normally gain any fall damage resistance.
+    -   [Kick Off](Talents.md#acrobat) is greatly recommended as you do not normally gain any fall damage resistance.
     -   Costs 25 ether each step, cost cannot be reduced, will not activate at 0 ether.
     -   In combat: has a cooldown of 6 seconds. (Bugged, should be 6-11 seconds, cf. 03/08/2025 patch notes)
     -   Outside combat: has a cooldown of 5-10 seconds, scaling linearly by user's remaining HP.
@@ -142,11 +142,11 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 -   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
     -   Sprinting at maximum momentum, now buffs your rolls/air dashes, increasing distance by 75%, and briefly turning the user invisible.
     -   Jumping the frame after rolling increases the distance by an additional 70%.
-    -   Other dash boosting talents such as [Phantom Step](https://deepwoken.fandom.com/wiki/Galebreathe#Specter) with Rush of Ancients will stack, further increasing the roll's distance.
+    -   Other dash boosting talents such as [Phantom Step](Talents.md#specter) with Rush of Ancients will stack, further increasing the roll's distance.
     -   Rollcasting with Rush of Ancients effectively hides your animations, causing uppercuts, quick mantras, and certain criticals to become completely unreactable.
     -   If you're using the Phantom Step Talent with Rush of Ancients, the dashes will stack, increasing your dash range. This, however, lacks visuals.
     -   Outside combat: has a cooldown of 0 seconds.
-    -   In combat: has a cooldown of 8 seconds. (Has no [Cooldown Indicator](https://deepwoken.fandom.com/wiki/Combat_Mechanics#GUI))
+    -   In combat: has a cooldown of 8 seconds. (Has no [Cooldown Indicator](Combat_Mechanics.md#gui))
 
 ### Mantras
 
@@ -178,8 +178,8 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 ## Trivia
 
--   Jetstream Pursuit was derived off the old Legendary Talent '[Vanishing Follow-Up](https://deepwoken.fandom.com/wiki/Legendary_Talents#Agility)', which was removed once Layer 2 was released over combat reworks.
--   The old [Vigil's Grace](https://deepwoken.fandom.com/wiki/Oath:_Jetstriker/Old_Jetstriker#Abilities) Talent previously had 0 downtime with [Command: Run](https://deepwoken.fandom.com/wiki/Vow_of_Mastery#Commands), allowing players to infinitely true combo other players with knockdown, leading to the creation of knockdown immunity.
+-   Jetstream Pursuit was derived off the old Legendary Talent 'Vanishing Follow-Up', which was removed once Layer 2 was released over combat reworks.
+-   The old [Vigil's Grace](Oath%253A_Jetstriker/Old_Jetstriker.md#abilities) Talent previously had 0 downtime with [Command: Run](Vow_of_Mastery.md#commands), allowing players to infinitely true combo other players with knockdown, leading to the creation of knockdown immunity.
 -   When [Mystic](Mystic.md) previously had unique dialogue for every Talent category, Jetstriker had the Mystic line "Journey before destination."
 -   Vigil's Grace card had another Oath name instead of Jetstriker, being "Oath: Windrunner"
 -   The old name "Windrunner" and Mystic quote for Jetstriker are both references to _The Stormlight Archive_.

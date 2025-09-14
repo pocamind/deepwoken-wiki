@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 161226
+revid: 162038
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -39,7 +39,7 @@ The Starkindred Church is a malevolent cult that worships [Celestials](Celestial
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/uqNfFsZ7yhw)._
 
-Starkindred **cannot** be reobtained if you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) it.
+_Starkindred **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
@@ -53,7 +53,7 @@ You will get a Mantra for each kill, and a chest containing [Songseeker](Songsee
 
 The order of Mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
 
-Alternatively you can pay [Samael](Samael.md) 10 [Knowledge](Knowledge.md) to skip Starkindred's progression. However, this requires you to have fully progressed Starkindred before.
+Alternatively you can pay [Samael](Samael.md) 10 to skip Starkindred's progression. However, this requires you to have fully progressed Starkindred before.
 
 ## Effects
 

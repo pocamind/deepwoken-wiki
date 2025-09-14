@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 161706
+revid: 162039
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -832,6 +832,7 @@ Shadow
 
 **Effect:** _Causes a damaging shockwave that adds a +20% weapon damage buff to the user. Consumes health upon use._
 
+-   Consumes 5% of your maximum health as **typeless** damage on cast.
 -   Has a base damage of 7/8.65/10.3/11.95/13.6 per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
 -   The Blast Spark variant has a base damage of 14/15.65/17.3/18.95/20.6 per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
 -   Deals 8 posture damage per hit (1, 3 if Multiplying Spark). The Blast Spark variant guardbreaks.

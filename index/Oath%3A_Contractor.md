@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 161965
+revid: 162010
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths, The Ministry]
 
 ## Description
 
-**[Oath](Oaths.md): Contractor** is one of the 17 obtainable Oaths in _Deepwoken._ This Oath offers varying combat abilities ranging from gap closers, counters and ranged grabs allowing for a versatile and offensive playstyle. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Contractor** is one of the 17 obtainable Oaths in _Deepwoken._ This Oath offers varying combat abilities ranging from gap closers, counters and ranged grabs allowing for a versatile and offensive playstyle. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their oaths to others. These heathens are to be dealt with promptly. ”
 
@@ -44,7 +44,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 
-Contractor is **not** reobtainable if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as Lord Regent will instantly kill you if you enter his room.
+_Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as Lord Regent will instantly kill you if you enter his room._
 
 ## Progression
 
