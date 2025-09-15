@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 161936
+revid: 162049
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2722,8 +2722,9 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Septicemia
 
--   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
+-   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you 15% temporary health.
     -   Has 2 seconds of cooldown between activation to prevent multi-hits give you insane amounts of temporary health.
+    -   This talent does not scale up or down depending on your investment points.
     -   Prerequisite: 85 Bloodrend
 
 -   Hemolysis \[Common Talent\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.

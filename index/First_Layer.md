@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 157281
+revid: 162054
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 1]
@@ -17,7 +17,7 @@ The **First Layer** of [the Depths](The_Depths.md), also known as **Scyphozia,**
 ## Points of Interest
 
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
-    -   [The Varicosa District](Varicosa_District.md)
+    -   [Varicosa District](Varicosa_District.md)
     -   [The Military District](The_Military_District.md)
     -   [District of Commerce](District_of_Commerce.md)
     -   [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)
