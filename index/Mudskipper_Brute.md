@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 156009
+revid: 162151
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -25,9 +25,6 @@ The Mudskipper Brute (commonly known as Bruteskipper) is a mutated version of th
  | The Brute throws a brutal and powerful punch.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
@@ -42,9 +39,6 @@ File:Mudskipper Brute Punch1.gif
  | The Brute throws another brutal and heavy blow. Typically used right after Punch.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
@@ -59,9 +53,6 @@ File:Mudskipper Brute Punch2.gif
  | Delivers a stronger, unparriable thrust with its fist.
 
   
-Parryable:X  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
@@ -76,9 +67,6 @@ File:Mudskipper Brute Thrust.gif
  | Leaps forward and raises its arms into the air, swinging down on its prey with an unparriable slam. This move autogrips knocked enemies.
 
   
-Parryable:X  
-Blockable:X  
-Dodgeable:◯
 
  | 
 
@@ -88,9 +76,15 @@ File:Mudskipper Brute Slamdown.gif
 | 
 
 **Call of the Horde**  
-(★★★)
+(★☆☆)
 
- | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two random [Mudskippers](Mudskipper.md). Also inflicts some amount of insanity. | 
+ | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two [Mudskippers](Mudskipper.md) that can either be a [Bloatskipper](Mudskipper.md#bloatskipper) or a [Miniskipper](Mudskipper.md). Two of the same Mudskipper types can spawn as well. Also inflicts some amount of insanity.
+
+  
+
+  
+
+ | 
 
 File:Mudskipper Brute Roar.gif
 

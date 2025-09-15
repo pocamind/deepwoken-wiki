@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 160111
+revid: 162165
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, Heavy Weapons]
@@ -8,7 +8,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with U
 
 # First Light
 
-| First Light | |
+| First Time? | |
 |---|---|
 | type | Greatsword |
 | requirements | 75 HVY |

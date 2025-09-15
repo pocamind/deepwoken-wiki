@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 160971
+revid: 162164
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -16,7 +16,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 
 ## Description
 
-Caitus is a Khan NPC, a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md).
+Caitus is a Strong Independent Woman, AKA NPC, a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md).
 
 Caitus tasks the player with delivering [a message](Titus_Fulminus_Destellus.md) about a [certain someone](Titus_Fulminus_Destellus.md) in an [Authority Prison](Merit_Detainment_Core.md). He will teach the [Imperium Kata](Imperium_Kata.md) style to the player upon reporting back after delivering the message.
 
@@ -31,26 +31,47 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*The Khan is deep in thought, their brow furrowing periodically.*</i></td>
+  <td colspan="8"><i>*The Khan is deep in thought, their brow furrowing periodically.*</i></td>
 </tr>
 <tr>
-  <td colspan="4">Hello...?</td>
+  <td colspan="8">Hello...?</td>
 </tr>
 <tr>
-  <td>[Under Ally Reputation]</td>
-  <td>[Near Ally Reputation]</td>
+  <td colspan="4">[Legion Intelligence Quest]</td>
   <td colspan="2">[Ally Reputation]</td>
+  <td colspan="2">[Under Ally Reputation]</td>
 </tr>
 <tr>
-  <td>Run along, Nemo. Got nothing you need to hear.</td>
-  <td>Oh? Hm. Sorry, I thought you were someone i'm looking for.</td>
-  <td colspan="2">Ah! ...Salve, friend. It seems you've come too early, we're just awaiting a message from one of our fleets... Hold fast for now, yeah. You may be of great aid of us then, teneō?</td>
+  <td colspan="4"><i>*The Khan beams, holding your gaze cordially.*</i> Ah! Good to see you, friend, and with such brilliant timing! Listen up. Been entrusted with this errand from up high, yeah? But i don't have a spare moment to do it. You think you could do me a favor?</td>
+  <td colspan="2">Oh? Hm. Sorry, I thought you were someone i'm looking for.</td>
+  <td colspan="2">Run along, Nemo. Got nothing you need to hear.</td>
 </tr>
 <tr>
+  <td colspan="2">Of course!</td>
+  <td colspan="2">Sorry, i can't...</td>
   <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="2">Brilliant, brilliant! Just need some correspondance delivered - a menial take, really. Just letting a certain someone in those damned Authority prisons know that we haven't forgotten him.</td>
+  <td colspan="2">Damn! I really need the help... Come back when you've got a free moment, yeah?</td>
+</tr>
+<tr>
+  <td colspan="2">Uh, okay?</td>
+  <td colspan="2">End</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*They briskly snatch a letter out of their pocket - a small note bound with a detailed seal - and shove it into your hands.*</i> You think you could sneak in there and drop it off to him? I know it's easier said than done, but I'll be in your debt, spondeō.</td>
+</tr>
+<tr>
+  <td>Sounds easy enough.</td>
+  <td>I'm sorry - *sneak into an Authority prison?*</td>
+</tr>
+<tr>
+  <td colspan="2">Oh yes, if you could, please... What? Don't give me that look, you seem perfectly capable. And, knowing the Authority, I'm sure it shouldn't be too hard. He's being held in the prison beneath Fort Merit. Let me know once you've delivered the letter, yeah? It'll be worth your while, promise.<p><br>
+  </p></td>
 </tr>
 </tbody>
 </table>

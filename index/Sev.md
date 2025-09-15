@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 141182
+revid: 162109
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs]
@@ -17,6 +17,8 @@ categories: [Ganymede NPCs]
 ## Description
 
 Sev is a [Ganymede](Ganymede.md) NPC that is used to exchange [Crowns](Crowns.md) for dyes. Their appearance is unique as they have multicolored crown shaped eyes and blue skin. They wear a green [Party Hat](Party_Hat.md) and the [Cala-Mariner](Cala-Mariner.md) outfit. Their crown also emits multicolored particles
+
+Can be given 25 [Crowns](Crowns.md) to permanently unlock "Manycolored" equipment letting you edit your equipment's color freely on any character without needing to spend dye Packets
 
 ## Location
 

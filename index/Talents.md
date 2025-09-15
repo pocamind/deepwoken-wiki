@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162049
+revid: 162120
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -488,7 +488,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 
 ### Blindseer
 
--   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
+-   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 -   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md) Exclusive\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
@@ -585,7 +585,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Bloodwarden's Sense \[Common Talent\] - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
     -   Prerequisite: 30 Bloodrend
 
--   _Smell of Blood_ \[Rare Talent\] - When people touch a blood pool, briefly see their blood and blood poison.
+-   _Smell of Blood_ \[Rare Talent\] - When people touch a blood pool or when the user guardbreak them, briefly see their blood and blood poison.
     -   Prerequisite: 65 Bloodrend
 
 ### Bloodrender
@@ -2736,7 +2736,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 -   Juicy Snack \[Common Talent\] - Eliminating enemies returns their amount of blood poison as health to you.
     -   Prerequisites: 60 Bloodrend, 20 Fortitude
 
--   _Panacea_ \[Rare Talent\] - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.
+-   _Panacea_ \[Rare Talent\] - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying for 7 seconds.
     -   Prerequisite: 60 Bloodrend
 
 -   Tainted Ground \[Common Talent\] - Enemies who stand in blood pools will not decay blood poison.

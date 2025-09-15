@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 159925
+revid: 162171
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,9 +26,7 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 
 -   Heavy posture damage. Will commonly block break after two hits.
 
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯  
+  
 
  | 
 
@@ -47,9 +45,7 @@ Dodgeable: ◯
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which this beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
-Parryable: ✗  
-Blockable: ✗  
-Dodgeable: ◯  
+  
 
  | 
 
@@ -81,9 +77,7 @@ Dodgeable: ◯
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
-Parryable: ✗  
-Blockable: ◯  
-Dodgeable: ◯  
+  
 
  | 
 
@@ -99,9 +93,7 @@ Dodgeable: ◯
 -   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
 -   Can either fire it immediately or delay its use of the laser beam. Watch carefully for what it will try to do.
 
-Parryable: ✗  
-Blockable: ✗  
-Dodgeable: ◯
+  
 
  | 
 
@@ -111,10 +103,23 @@ Dodgeable: ◯
 **Feint**  
 (★★☆)
 
+ | The Exotic Megalodaunt feints their attack, mixing up their opponent.
+
+-   This can chain into a different move eg: Slash feint into a Kick.
+
+  
+
  | 
 
--   This can chain into a different move eg: Slash feint into a Kick
--   Like [The Enforcer](Enforcer.md), [Nautilodaunt](Nautilodaunt.md), [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [Prime Megalodaunt](Prime_Megalodaunt.md), This mob can also **feint** their attacks.
+ |
+| 
+
+**Jump**  
+(☆☆☆)
+
+ | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+
+  
 
  | 
 

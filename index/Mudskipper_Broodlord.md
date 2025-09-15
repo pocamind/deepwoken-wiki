@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 159650
+revid: 162152
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -24,13 +24,11 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
 | --- | --- | --- |
 | 
 **Punch**  
+(★☆☆)
 
  | The Broodlord throws a brutal and powerful punch.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
@@ -38,13 +36,11 @@ Dodgeable:◯
 | 
 
 **Left Hook**  
+(★☆☆)
 
  | The Broodlord throws another brutal and heavy blow. Typically used right after Punch.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
@@ -52,13 +48,11 @@ Dodgeable:◯
 | 
 
 **Broodrot Thrust**  
+(★★☆)
 
  | Delivers a stronger, unparriable thrust with its rotten fist.
 
   
-Parryable:X  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
@@ -66,14 +60,11 @@ Dodgeable:◯
 | 
 
 **Broodrot Smash**  
-★
+(★★★)
 
  | Rigorously leaps forward and raises its arms into the air, swinging down on its prey with an unparriable rotten slam. This move autogrips knocked enemies. (After the mob ai change he only uses this move to grip)
 
   
-Parryable:X  
-Blockable:X  
-Dodgeable:◯
 
  | 
 
@@ -81,13 +72,13 @@ Dodgeable:◯
 | 
 
 **Call of the Horde**  
+(★☆☆)
 
- | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two random [Mudskippers](Mudskipper.md). Applies anti-heal. The scream can be blocked to avoid anti heal.
+ | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two [Mudskippers](Mudskipper.md) that can be either a [Bloatskipper](Mudskipper.md#bloatskipper) or a [Miniskipper](Mudskipper.md). Two of the same Mudskipper type can spawn as well. Applies anti-heal and deals sanity damage. The scream can be blocked to avoid anti heal.
 
   
-Parryable: N/A  
-Blockable:◯  
-Dodgeable: ◯  
+
+  
 
  | 
 

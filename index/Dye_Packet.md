@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 153751
+revid: 162111
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -42,3 +42,5 @@ Silentheart markings dyed pink
 File:Dye merchant.png
 
 A Dye Packet being sold in a Merchant Ship
+
+-   You can give [Sev](Sev.md) 25 Crowns to permanently unlock "Manycolored" equipment letting you edit your equipment's color freely on any character without needing to spend dye Packets

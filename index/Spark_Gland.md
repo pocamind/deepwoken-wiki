@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 108104
+revid: 162168
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -33,6 +33,7 @@ Spark Glands drop from any NPC that uses the [Thundercall](Thundercall.md) attun
 -   [Authority Officer](Authority_Officer.md)
 -   [Gigamed](Gigamed.md)
 -   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
+-   [The Ferryman](The_Ferryman.md)
 
 ## Trivia/Notes
 

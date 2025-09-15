@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 161809
+revid: 162119
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -42,7 +42,7 @@ Shrine of Ostentation
 
 **Shrine of Order**: For 10, average your stats (up to a limit of -25 points on main stats, with no limit on attunement stats). Can only be done once per character. You must need **POWER 8+ AND** **NO OATH** to use this.
 
-**Shrine of Ostentation**: For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa.
+**Shrine of Ostentation**: For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa. (As of the update on **15/09/2025** no longer exists and instead was merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md))
 
 Shrine of Conceit
 

@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 153269
+revid: 162167
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -20,21 +20,27 @@ A Mechalodaunt, finally back under control, can also ambush players who have Hun
 
 ## **Attacks**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
-Slash
+**Slash**  
+(★☆☆)
 
  | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
 
 -   Heavy posture damage.
 -   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
--   if it only slashes once, it will do another attack really shortly after, in which case attacking is a bad idea.
+-   Always play defensive after it uses Slash, only attack after it does a second Slash or a Kick, as it can use a Kick immediately after a singular Slash.
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+  
+
+ | 
+
+ |
 | 
 
-Kick
+**Kick**  
+(★★☆)
 
  | The Mechalodaunt will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
@@ -42,10 +48,15 @@ Kick
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
 -   This ability is only used in the Slash + Kick combo.
 
- | ✗ | ✗ | ◯ | (★★★) |
+  
+
+ | 
+
+ |
 | 
 
-Blazing Kick
+**Blazing Kick**  
+(★★★)
 
  | The Mechalodaunt will flash red before delivering a **Kick** that can rag-doll and send the player flying. However this kick is held for an extra half~ a second, making it harder to dodge, as well as setting the player on fire.
 
@@ -55,20 +66,39 @@ Blazing Kick
 -   Simply do not roll cancel and always roll to the side so that if you miss the roll, the Mechalodaunt will still miss the kick.
 -   This ability is only used by itself and will not be used in the Slash + Kick combo.
 
- | ✗ | ✗ | ◯ | (★★★) |
+  
+
+ | 
+
+ |
 | 
 
-Jump
+**Jump**  
+(☆☆☆)
 
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★☆) |
+ | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent. This is almost always followed up by **Furnace Explosion**.
+
+  
+
+ | 
+
+ |
 | 
 
-Thousand Needles
+**Thousand Needles**  
+(★☆☆)
 
- | The Mechalodaunt bends over and points its tubes towards an opponent, spewing a large and constant bullets at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Mechalodaunt bends over and points its tubes towards an opponent, spewing a large and constant bullets at anyone in front of/around it for a second.
+
+  
+
+ | 
+
+ |
 | 
 
-Bullet Fury
+**Bullet Fury**  
+(★★☆)
 
  | The Mechalodaunt holds its shoulder mounted cannon before rapidly firing it at an opponent.
 
@@ -76,22 +106,38 @@ Bullet Fury
 -   It can sometimes turn around and miss it altogether.
 -   **Autogrips**
 
- | ◯ | ◯ | ◯ | (★★☆) |
+  
+
+ | 
+
+ |
 | 
 
-Furnace Explosion
+**Furnace Explosion**  
+(★★★)
 
- | The Mechalodaunt will create a laser from its furnace in a circle, creating a fiery explosion after a delay. | ◯ | ✗ | ◯ | (★★★) |
+ | The Mechalodaunt will create a laser from its furnace in a circle, creating a fiery explosion after a delay.
+
+  
+
+ | 
+
+ |
 | 
 
-Roar
+**Roar**  
+(★☆☆)
 
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
- | ✗ | ◯ | ◯ | (★★☆) |
+  
+
+ | 
+
+ |
 
 ## Trivia
 

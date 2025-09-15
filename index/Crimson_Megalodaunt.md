@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 153783
+revid: 162162
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,7 +12,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The result of a rare case where a [Megalodaunt](Megalodaunt.md) gets exposed to the Vents of Korilfied of the Third Layer, resulting in this unique species able to utilize [Flamecharm.](Flamecharm.md)
+The result of a rare case where a [Megalodaunt](Megalodaunt.md) gets exposed to the Vents of Korilfied of the Third Layer, resulting in this unique species able to utilize [Flamecharm](Flamecharm.md).
 
 Red Megalodaunts only features a different skin tone when compared to it's original counterpart, with it being dyed a color of Crimson Red. In addition, it is observed that Red Megalodaunts may utilize Flamecharm by invoking the Song through it's scream, which causes flaming swords to rain down from the sky. These are the only notable differences that are associated with this unique mutation, and aside from being outcasts of Megalodaunt packs, behave no more different than a regular Megalodaunt.
 
@@ -32,9 +32,7 @@ They are a significantly rarer sight, and are only found in selected locations a
 -   If the Crimson Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
     -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  | 
 
@@ -44,7 +42,7 @@ File:12380435ffcad9ab148cc4efc0d2431d.gif
 | 
 
 **Kick**  
-(★★★)
+(★★☆)
 
  | The Crimson Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
 
@@ -53,9 +51,7 @@ File:12380435ffcad9ab148cc4efc0d2431d.gif
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯
+  
 
  | 
 
@@ -71,9 +67,7 @@ File:5cf51f97715cb446694e04e182b80cde.gif
 
 -   There is a shorter ranged AOE version and a single target version. Both function the same.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:✗
+  
 
  | 
 
@@ -89,9 +83,7 @@ File:B55204dfa9965dc0a031810bc2fd80e9.gif
 
 -   **Autogrips**
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  | 
 
@@ -106,9 +98,6 @@ File:45ff19cd1d3ec14a54164a391764943e.gif
  | The Crimson turns invisible, and after a few seconds it appears again behind the target, unleashing a drop kick. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground)
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
@@ -123,26 +112,35 @@ Dodgeable:◯
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯  
+  
 
- |  |
+ | 
+
+ |
 | 
 
 **Pyroclastic Roar**  
 (★★☆)
 
- | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict damage and set the player on fire.
+ | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict Flamecharm damage.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | 
 
 File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
+
+ |
+| 
+
+**Jump**  
+(☆☆☆)
+
+ | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+
+  
+
+ | 
 
  |
 
@@ -151,4 +149,3 @@ File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
 | Name | Description |
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
-| Incineration | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
