@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 161857
+revid: 162057
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -38,11 +38,11 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 #### Attunement Types/Effects
 
--   [Flamewreathed](Monsters.md#attuned-monsters) - Applies [Burn](Status_Effects.md#burn) on hit, can additionally proc [Lava Serpent](Talents.md#lava-serpent) effects. Weak to [Galebreathe](Galebreathe.md), resists [Flamecharm](Flamecharm.md).
--   [Frostmantle](Monsters.md#attuned-monsters) - Places Ice and applies [Chill](Status_Effects.md#chill) on hit. Weak to [Flamecharm](Flamecharm.md), resists [Frostdraw](Frostdraw.md).
--   [Galeforce](Monsters.md#attuned-monsters) - Applies [Winded](Status_Effects.md#winded) and/or [Suffocation](Status_Effects.md#suffocate) on hit, deals Extra Knockback, and has Increased Movement Speed. Weak to [Thundercall](Thundercall.md), resists [Galebreathe](Galebreathe.md)
--   [Thunderstruck](Monsters.md#attuned-monsters) - Applies [Shock](Status_Effects.md#shock) on hit. Weak to [Frostdraw](Frostdraw.md), resists [Thundercall](Thundercall.md)
--   [Shadowmeld](Monsters.md#attuned-monsters) - Steals Ether on hit. 50% Resistance to Physical damage. Weak to attunements, resists basic attacks.
+-   Flamewreathed - Applies [Burn](Status_Effects.md#burn) on hit, can additionally proc [Lava Serpent](Talents.md#lava-serpent) effects. Weak to [Galebreathe](Galebreathe.md), resists [Flamecharm](Flamecharm.md).
+-   Frostmantle - Places Ice and applies [Chill](Status_Effects.md#chill) on hit. Weak to [Flamecharm](Flamecharm.md), resists [Frostdraw](Frostdraw.md).
+-   Galeforce - Applies [Winded](Status_Effects.md#winded) and/or [Suffocation](Status_Effects.md#suffocate) on hit, deals Extra Knockback, and has Increased Movement Speed. Weak to [Thundercall](Thundercall.md), resists [Galebreathe](Galebreathe.md)
+-   Thunderstruck - Applies [Shock](Status_Effects.md#shock) on hit. Weak to [Frostdraw](Frostdraw.md), resists [Thundercall](Thundercall.md)
+-   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage. Weak to attunements, resists basic attacks.
 
 Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can also be [Attuned](Monsters.md#attuned-monsters), albeit, very rarely.
 
@@ -50,10 +50,10 @@ Certain uncommon-rare variants of monsters thematically already have an attuneme
 
 Certain Monsters have unique visual effects when attuned.
 
--   [Thunderstruck](Monsters.md#attuned-monsters) [Gigamed](Gigamed.md) (Lightning is blue as opposed to yellow.)
-    -   [Thunderstruck](Monsters.md#attuned-monsters) Gigameds have almost full immunity to [Thundercall](Thundercall.md) Mantras
+-   Thunderstruck [Gigamed](Gigamed.md) (Lightning is blue as opposed to yellow.)
+    -   Thunderstruck Gigameds have almost full immunity to [Thundercall](Thundercall.md) Mantras
 
-[Corrupted](Monsters.md#scyphozia) and [Attuned](Monsters.md#attuned-monsters) Monsters are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+[Corrupted](Monsters.md#scyphozia) and Attuned Monsters are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Humanoid Monsters
 

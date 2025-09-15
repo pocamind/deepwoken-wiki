@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 161854
+revid: 162058
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -642,7 +642,7 @@ Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Ma
 
 Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Guard, this chance increases the deeper you go. Magma Guarded Monsters are immune to any Damage vs Monsters effect. Monsters can spawn in with Magma Guard, Magma Flow, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. These monsters have exteriors encrusted with magma and rock.
 
-### Attuned
+### [Attuned](Monsters.md#attuned-monsters)
 
 The effects of this status effect depends on which [Attunement](Attunements.md) the Monsters are attuned to. Some Monsters are always Attuned to a specific Attunement (e.g. [Fury Nautilodaunts](Fury_Nautilodaunt.md) (Thundercall) or [Glacial Lionfish](Glacial_Lionfish.md) (Frostdraw)). This effect can also be applied to humanoid enemies within [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Additionally, Monsters can spawn as both Attuned and another effect such as being Corrupted or having Magma Flow and/or Magma Guard.
 
