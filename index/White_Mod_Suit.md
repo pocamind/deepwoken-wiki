@@ -1,6 +1,6 @@
 ---
 title: White Mod Suit
-revid: 151543
+revid: 162210
 source: https://deepwoken.fandom.com/wiki/White_Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Spec/Mod Outfits]
@@ -43,3 +43,4 @@ Purchased from the Mod Shop.
 ## Trivia
 
 -   Inspired by [Kazuma Kiryu'](https://yakuza.fandom.com/wiki/Kazuma_Kiryu)s iconic white and red suit from the [Yakuza/Like a Dragon](<https://en.wikipedia.org/wiki/Yakuza_(franchise)>) series.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/72089002675804/Mod-Suit-White-Var) / [Pants](https://www.roblox.com/catalog/78690063565419/Mod-Suit-White-Var-Pants)
