@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 161386
+revid: 162198
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -12,7 +12,7 @@ categories: [NPCs, Mechanics]
 |---|---|
 | location | Temple of Hearts, Meteor Isle |
 
-“ PUPPET. STATE YOUR PURPOSE. ”
+“ PUPPET. WHAT DOES YOUR HEART DESIRE? ”
 
 ― Shrine of Chance
 
@@ -28,17 +28,19 @@ When using this shrine, please make sure to **check if you burned the card you'r
 
 ### Effects
 
-Trade a Talent of your choice and 5 to perform a Talent Draw with 3 cards.
+-   **Talent Exchange** - Trade a Talent of your choice and 5 to gain a Talent Draw with 3 cards of equivalent rarity.
+-   **Talent Degradation** - Trade a Rare Talent of your choice and 5 to gain a Talent Draw of 3 Common or Advanced cards.
+-   **Talent Elevation** - Trade a Common or Advanced Talent of your choice and 10 to gain a Talent draw of 3 Rare Talents.
 
 ### Details
 
--   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md), but has been moved to Meteor Isle
--   One of the most valuable Deep Shrines, this lets you obtain Talents you might have missed.
--   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
--   To get a Rare Talent, you must trade in a Rare Talent.
-    -   In some circumstances with mutually exclusive talents, you must have at least a full set of two or three Rare Talents to switch out with, otherwise you will not be able to obtain the talent you wish (ex: Observation & Risky Moves). Unburn or convert Rare Talents if necessary to achieve this.
--   To get an Advanced Talent, you can trade a Common Talent. Don't forget its prerequisite(s), and remember that a Mystic **can** be used to get the Advanced Talent you require.
+-   Advanced and Common Talents share a rarity as far as Shrine of Chance is concerned; you can exchange a Common for and Advanced and vice versa via **Talent Exchange** or obtain either a Common or Advanced Talent via **Talent Degradation**.
+-   The Talent Draw is affected by [Mystics](../Mystic.md), make sure to use them to not waste Knowledge.
+-   You must meet the requirements at least one non-mutually exclusive Talent in order to exchange a Talent for another.
+    -   For example, if the only Rare Talents you can obtain are Observation and Safety Dance, you will not be able to exchange Risky Moves for them, however if you also meet the requirements of (but don't already own) Cheap Shot, then you will be able to exchange Risky Moves for either of the Leaf in the Wind Talents.
 -   You cannot trade away a Talent if it is a prerequisite of another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
+-   One of the most valuable Deep Shrines, this lets you obtain Talents you might have missed.
+-   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md), but was moved to Meteor Isle.
 
 ## Navigation
 

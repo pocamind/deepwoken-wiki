@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 161055
+revid: 162201
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Mantras, Items]
@@ -368,7 +368,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Bloodless Gem</td>
-  <td>On hit, heal for 30% of your Mantra's scaled damage, however your Mantra's damage will be reduced by 20%. This healing has a cap of 15 health, exceeding this cap will put the Gem on a 2 second cooldown. While Bloodless is on cooldown, your Mantras will revert back to their original damage.</td>
+  <td>On hit, heal for 30% of your Mantra's base damage, however your Mantra's scaled damage will be reduced by 20%. This healing has a cap of 15 health, exceeding this cap will put the Gem on a 2 second cooldown (you'll need to deal a cumulative 50 base damage to hit this cap). While Bloodless is on cooldown, your Mantras will revert back to their original damage.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 162119
+revid: 162188
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -34,29 +34,27 @@ Shrine of Chance
 
 **Shrine of Mastery**: For 1, trade 1 of your Trait Points into another Trait. You can also remove attribute points.
 
-**Shrine of Chance**: Trade a Talent of your choice and 5 to gain a Talent Draw with up to 3 cards of the same rarity. (Common = Advanced)
+**Shrine of Chance**: For 5, trade a Talent of your choice to obtain a Talent hand of equal rarity (e.g. Common/Advanced = Common/Advanced, Rare = Rare) OR a Rare Talent for a Talent hand of only Common/Advanced Talents. For 10, trade a Common/Advanced Talent of your choice for a Talent hand consisting only of Rare Talents.
 
 Shrine of Order
 
-Shrine of Ostentation
+Shrine of Conceit
 
 **Shrine of Order**: For 10, average your stats (up to a limit of -25 points on main stats, with no limit on attunement stats). Can only be done once per character. You must need **POWER 8+ AND** **NO OATH** to use this.
 
-**Shrine of Ostentation**: For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa. (As of the update on **15/09/2025** no longer exists and instead was merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md))
-
-Shrine of Conceit
+**Shrine of Conceit**: For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
 
 Shrine of Division
 
-**Shrine of Conceit**: For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
+Shrine of Unification
 
 Shrine of Division: For 5 and a Mantra of your choice, obtain a Roll 2.
 
-Shrine of Unification
+**Shrine of Unification**: For 5 and 2 Talents of your choice, get a Whisper Draw.
 
 Shrine of Solitude
 
-**Shrine of Unification**: For 5 and 2 Talents of your choice, get a Whisper Draw.
+  
 
 **Shrine of Solitude**: This shrine acts like a Mystic, allowing you to affect your card draws.
 
@@ -79,3 +77,4 @@ Shrine of Solitude
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
+-   The [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) allowed you to transfer Rare Talents into Common/Advanced Talents and vice versa. This effect was merged into the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), along with Ostentation itself being removed on the September 15th, 2025 update.

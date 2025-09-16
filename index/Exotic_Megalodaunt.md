@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 162171
+revid: 162172
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -117,7 +117,7 @@ Dodgeable: ◯
 **Jump**  
 (☆☆☆)
 
- | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+ | If the target is above it, the Exotic Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
 
   
 
