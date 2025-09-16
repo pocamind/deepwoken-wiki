@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 162205
+revid: 162206
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -53,7 +53,7 @@ Potions have a greater effect when brewed by a character with high intelligence.
     -   Apothecary is treated as a potion ingredient, and as such, it will stay active on your previously brewed potions even if you no longer have the talent.
     -   This Talent can easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>) or the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit.
 -   When brewing potions with the **Wild Alchemy** Talent, there is a 25% chance to produce 2 potions instead of 1.
--   The **Potion Quaffer** Talent reduces the slowdown from drinking potions, reduces time to drink by 30%, and increases the regeneration of health regeneration potions by 15%, as well as ether regeneration and sanity regeneration potions by 30%. The 25% negative duration of health potions is removed.
+-   The **Potion Quaffer** Talent reduces the slowdown from drinking potions, reduces time to drink by 30%, and increases the regeneration of health regeneration potions by 15%, as well as ether regeneration and sanity regeneration potions by 30%. The -25% effectiveness of instant health potions is removed, and the in-combat effectiveness of these potions is increased from -75% to -50%.
 -   The **Placebo Effect** Talent applies potion effects to your allies when you drink a potion near them.
 -   The **Chain Reaction** Talent increases potion effectiveness of thrown potions by 40% when they replace a pre-existing potion effect (you need to throw a potion at someone who's already affected by a potion effect). It also adds a 25% chance not to use up a potion when drinking one.
 -   The **Chemist's Bag** Talent causes potions to no longer be dropped on death.
