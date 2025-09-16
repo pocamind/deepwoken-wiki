@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 160919
+revid: 162205
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -62,7 +62,7 @@ Unlike the other effects, the duration of a potion is unaffected by any of these
 
 ## Ingredients
 
-There are 56 ingredients that can be added to a potion, though only 22 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
+There are 57 ingredients that can be added to a potion, though only 23 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
 
 A spreadsheet listing the effects of all potion ingredients can be found [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vTvoa3q-3DmosOWmH6AkX1bfMBq4wfbW11Kybf_vt4DaAa-FGAzTPsHn-CWR4wEqXwyEudmKeR5JwPr/pubhtml).
 
@@ -75,31 +75,32 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 </tbody>
 </table>
 
-| Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Duration |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.75% | \-5% |  | +0.25\* |  |  |  |  |
-| [Bamboo](Bamboo_Bundle.md) |  | \-23 |  |  | +10% |  |  |  |  |  |
-| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
-| [Bluecap](Bluecap.md) | \-5 | +23 |  |  |  |  |  |  | +3.75/s |  |
-| [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |
-| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-5%\*\*\* |  |  |
-| [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
-| [Crustacean Meat](Crustacean_Meat.md) |  |  | \-1.75% |  |  |  |  |  |  | +20% |
-| [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |
-| [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |
-| [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |
-| [Marram Grass](Marram_Grass.md) |  | \-23 |  |  | +10% |  |  |  |  |  |
-| [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |
-| [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |
-| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |
-| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-5%\*\*\* |  | \-25% |
-| [Sap](Sap.md) |  |  |  |  |  | \-5%\* |  | +90% |  |  |
-| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
-| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
-| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  | +50% |
-| [Thresher Egg](Thresher_Egg.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
-| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |
-| [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |
+| Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Instant Blood | Duration |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.75% | \-5% |  | +0.25\* |  |  |  |  |  |
+| [Bamboo](Bamboo_Bundle.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |
+| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |
+| [Bluecap](Bluecap.md) | \-5 | +23 |  |  |  |  |  |  | +3.75/s |  |  |
+| [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |  |
+| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-5%\*\*\* |  |  |  |
+| [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
+| [Crustacean Meat](Crustacean_Meat.md) |  |  | \-1.75% |  |  |  |  |  |  |  | +20% |
+| [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |  |
+| [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |  |
+| [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |
+| [Hemobloom](Hemobloom.md) | ? | ? | ? | ? | ? | ? | ? | ? | ? | +? | ? |
+| [Marram Grass](Marram_Grass.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |
+| [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |  |
+| [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |  |
+| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |  |
+| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-5%\*\*\* |  |  | \-25% |
+| [Sap](Sap.md) |  |  |  |  |  | \-5%\* |  | +90% |  |  |  |
+| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
+| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
+| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  |  | +50% |
+| [Thresher Egg](Thresher_Egg.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
+| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
+| [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |  |
 
 \* Potion speed boost modifiers are calculated as √(1 + (t \* n)) with t being the effectiveness of each ingredient and n being the amount of speed boost components in the potion.  
 \*\* Players innately have a 25% resistance to slows unless they're casting a Mantra, meaning in effect, this is -3.75%.  
@@ -450,6 +451,19 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   All insanity ingredients have the same effectiveness.</p></td>
 </tr>
 <tr>
+  <td><b>Revitalizing</b></td>
+  <td>?</td>
+  <td>Hemobloom</td>
+  <td>Restores blood.</td>
+  <td>Opposite effect to <b>Debilitating</b>. Signified by bright pink particles.<p>These restore a percentage of your blood bar, making them more impactful the more blood you have. These potions are very useful when fighting against <a href="Bloodrend.md">Bloodrenders</a> or when using the <a href="Curse_of_the_No_Life_King.md">Curse of the No Life King</a> Enchantment as a means to replenish your blood mid-fight.</p></td>
+</tr>
+<tr>
+  <td><b>Debilitating</b></td>
+  <td>?</td>
+  <td>N/A</td>
+  <td>Opposite effect to <b>Revitalizing</b>.<p>These blood draining potions are exclusive to the <a href="Oath%253A_Saltchemist.md">Saltchemist</a> Oath, as the only way to obtain them is to use Anithetic Salts on a Revitalizing Potion.</p></td>
+</tr>
+<tr>
   <td><b>Diluted/Bland</b></td>
   <td>Potion<br>
   Elixir<br>
@@ -548,6 +562,15 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   With the Apothecary Talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
     -   Alternatively, you could add 2 more of any different Sanity loss ingredient, but duration might prove more effective.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Bluecaps + 2 Redds + Antithetic Salts, applying a much more potent sanity loss over time effect. This will also deal a small amount of damage on contact.
+
+-   **Blood Restoration** (Revitalizing) - 3 Hemobloom
+    -   The secondary ingredient can be anything you want, as no other ingredient will improve upon the blood restoration effects.
+
+-   **Blood Drain** (Debilitating) \[Saltchemist Exclusive\] - 3 Hemobloom + 2 Glumfig + Antithetic Salts
+    -   Due to this potion effect in general being [Saltchemist](Oath%253A_Saltchemist.md) Exclusive, the ingredients used reflect this.
+    -   Biotic and Aromatic Salts are highly recommended for this potion, as they can drain a very significant amount of your opponent's blood without causing any issues for yourself.
+    -   Damage ingredients (Glumfigs) were used here due to blood loss also being tied to damage dealt. These of course, can be changed if you wish to have a different additional effect.
+    -   It isn't recommended to have too many of these potions in your Distillery, as blood is not a resource you can get back very easily, and these drain a significant amount of blood per potion.
 
 ## Important Ingredient Locations
 

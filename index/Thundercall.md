@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 161704
+revid: 162203
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -414,15 +414,13 @@ Lightning
  |
 | 
 
-**Effect:** _Perform a gesture before conjuring strikes of lightning at the cursor's location, dealing moderate damage._  
-**NOTE:** This Mantra has been "**vaulted**"; as of June 23rd, 2025 and until further notice, **Lightning Strike only performs one singular strike.**
+**Effect:** _Perform a gesture before conjuring strikes of lightning at the cursor's location, dealing moderate damage._
 
--   Deals 5/6/7/8/9 base damage per level, per hit (7 unmodified) with 2.75 Thundercall scaling. These damage values scale down the more duration modifiers you have on the Mantra.
+-   Deals 5/6/7/8/9 base damage per level with 2.75 Thundercall scaling. These damage values scale down the more duration modifiers you have on the Mantra.
 -   Deals 3.15 posture per hit.
 -   Has a 10 second cooldown.
 -   The first hit applies knockdown.
 -   Can be cancelled at any point by clicking.
--   Can strike a total of 1-7 times, but can be cancelled if the user hit and damaged in any way.
     -   This includes being hit by the user's own Lightning Strike. (they removed the self damage in a shadow patch)
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Aeon/Eternal Logstones** to increase the number of strikes. Duration modifiers also reduce the amount of damage per strike.
@@ -501,12 +499,11 @@ Lightning
  |
 | 
 
-**Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._  
-**NOTE:** This Mantra has been "**vaulted**"; as of June 23rd, 2025 and until further notice, **Bolt Piercer's cooldown is 5 minutes.**
+**Effect:** _Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location._
 
 -   Has a base damage of 15/16/17/18/19 per level, per hit with 2.75 Thundercall scaling.
 -   Deals 3 posture per hit.
--   28 second cooldown.
+-   5 minute cooldown.
 -   Currently bugged and only strikes once.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
