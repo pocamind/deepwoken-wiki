@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 161095
+revid: 162214
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons, Weapons with Talents]
@@ -42,7 +42,7 @@ If you cancel your opponent's attack with the shock from [Krulian Charge](Status
 
 ## Critical
 
-The user raises the knife into the sky, causing pink lightning to strike the weapon and giving the user the Krulian Charge effect, causing their weapon to be electrified with pink lightning for 10 seconds.
+The user raises the knife into the sky, causing pink lightning to strike the weapon and dealing 15 Thundercall damage in a small AoE. This grants the [Krulian Charge](Status_Effects.md#krulian-charge) status effect, causing their weapon to be electrified with pink lightning for 10 seconds.
 
 While under the Krulian Charge effect, using basic attacks applies a purple [Shocked](Status_Effects.md#shock) and you gain a speed boost for the full duration of this effect. Additionally, this replaces your critical with a Thundercall rush-down attack, similar to [Lightning Assault](Thundercall.md#lightning-assault).
 
@@ -54,6 +54,7 @@ Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assau
 
 ## Trivia
 
+-   The Krulian Charge cooldown is not considered a normal critical cooldown; its duration cannot be decreased via [Critical Engine](Talents.md#intellisense) Blessed Gem or [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
 -   Meeting the requirement of LHT, the damage is (19.9)
 -   At max LHT, the damage is (22.3)

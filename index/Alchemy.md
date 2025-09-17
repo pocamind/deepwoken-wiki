@@ -1,12 +1,14 @@
 ---
 title: Alchemy
-revid: 162206
+revid: 162212
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
 ---
 
 # Alchemy
+
+_**FOREWORD**: **An up-to-date calculator with all potion effects can be found [\[here\]](https://www.desmos.com/calculator/sdpkutl5cs)**_
 
 ## Basics
 
@@ -126,6 +128,8 @@ Potion effectiveness can be calculated like this:
 
 Potion = ((n1 + n2 + n3 + n4 + n5) \* a) \* ((1 + (p/100) + A) \* t)
 
+Desmos Calculator [here](https://www.desmos.com/calculator/sdpkutl5cs).
+
 Key:
 
 -   n = the effectiveness of the each individual ingredient. Each ingredient is separated by their subscript numbers.
@@ -151,7 +155,7 @@ Examples:
     -   Potion = 23 \* (2.75 \* 1.4)
     -   Potion = 23 \* 3.85
     -   Potion = 88.55 healing. Because this potion was thrown and Potion Quaffer was not applied, this only grants 66.41 Health. This is reduced further to 22.14 health in combat.
-        -   This potion would also grant -38.5% Ether regeneration, -7.7% damage, -50% posture resistance, and -0.825 sanity/s for 7.5 seconds. These downsides can be mitigated via the usage of the [Biotic Salts](Oath%253A_Saltchemist.md).
+        -   This potion would also grant -38.5% Ether regeneration, -7.7% damage, -50% posture resistance, and -0.825 sanity/s for 7.5 seconds. These downsides can be mitigated via the usage of the [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
 -   Example 2: Posture Resistance Buff - 3 Glumfig (n1, 2, 3 = -15) 2 Ongo (n4, 5 = -5) Antithetic Salts (a = -1). Talents: Apothecary (A = 1.25). 80 Intelligence (p = 80/2). (t = 1, as neither Potion Quaffer, nor Chain Reaction were used)
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = ((-15 + -15 + -15 + -5 + -5) \* -1) \* ((1 + ((80/2)/100) + 1.25) \* 1)
@@ -159,13 +163,13 @@ Examples:
     -   Potion = (-55 \* -1) \* (1 + 0.4 + 1.25)
     -   Potion = 55 \* 2.65
     -   Potion = 145.75% posture resistance. However, posture resistance has a hard cap at 50%, so this will only grant 50% posture resistance.
-        -   This potion also grant +15.9% damage, -0.795 sanity/s, and -53% posture damage for 15 seconds. It'll also deal 39.75 damage on drink. These downsides can be mitigated via the usage of the [Biotic Salts](Oath%253A_Saltchemist.md).
+        -   This potion also grant +15.9% damage, -0.795 sanity/s, and -53% posture damage for 15 seconds. It'll also deal 39.75 damage on drink. These downsides can be mitigated via the usage of the [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
 
 ### Instant Health/Damage Potions
 
 Instant Health: It's the same formula is before, but the end result is reduced by 25% outside of combat and 75% inside combat unless you have the Potion Quaffer Talent. This removes the effectiveness debuff outside of combat and reduces the in-combat effectiveness debuff to only -50%.
 
-Instant Damage: It's the same formula as before, but the potion's overall damage will be multiplied by 0.25 if not landed directly, as instant damage potions deal 75% less damage if only the splash of the potion is landed. [Lethal Injection](Oath%253A_Saltchemist.md) utilizes the splash damage of these potions, and thus they will deal 75% less damage.
+Instant Damage: It's the same formula as before, but the potion's overall damage will be multiplied by 0.25 if not landed directly, as instant damage potions deal 75% less damage if only the splash of the potion is landed. [Lethal Injection](Oath%253A_Saltchemist.md#lethal-injection) utilizes the splash damage of these potions, and thus they will deal 75% less damage.
 
 ### Health Regeneration
 
@@ -179,7 +183,7 @@ Health Regeneration potions have a reduced effect in combat, giving +60% per ing
     -   Potion = 425 \* (2.625 \* 1.15)
     -   Potion = 425 \* 3.02
     -   Potion = +1,282.97% health regeneration for 11.25 seconds out of combat.
-        -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md).
+        -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
 -   Example: In Combat - 3 Bamboo (n1, 2, 3 = 60) 2 Goblettos (n4, 5 = 60). Talents: Apothecary (A = 1.25), Potion Quaffer (t = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = ((60 + 60 + 60 + 60 + 60) \* 1) \* ((1 + ((75/2)/100) + 1.25) \* 1.15)
@@ -188,7 +192,7 @@ Health Regeneration potions have a reduced effect in combat, giving +60% per ing
     -   Potion = 300 \* (2.625 \* 1.15)
     -   Potion = 300 \* 3.02
     -   Potion = +905.63% health regeneration for 11.25 seconds in combat.
-        -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md).
+        -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
 
 ### Slowing Potions
 
@@ -211,7 +215,7 @@ Example: 3 Pomar (n1, 2, 3 = 0.25) 2 Alestrian Coral (n4, 5 = 0.25)
 -   Potion = √(1 + 1.25)
 -   Potion = √2.25
 -   Potion = 1.5x speed or +50% speed for 15 seconds.
-    -   Assuming you have 75 Intelligence and Apothecary, this potion will also grant -10.5% damage, -26.25% posture damage, for the same duration, and will deal 23.6 damage on drink. These downsides can be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md).
+    -   Assuming you have 75 Intelligence and Apothecary, this potion will also grant -10.5% damage, -26.25% posture damage, for the same duration, and will deal 23.6 damage on drink. These downsides can be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
 
 ### Potion Sickness Duration
 
@@ -535,7 +539,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 
 -   **Slowing Potion** (Slowing) - 3 Sap + 2 Spider Eggs
     -   You can swap out the Spider Eggs for any other slowing ingredient to have a more potent slowing effect, but with much lower duration.
-    -   This will grant your opponent Ether regeneration unless you use [Biotic Salts](Oath%253A_Saltchemist.md).
+    -   This will grant your opponent Ether regeneration unless you use [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
     -   Keep in mind that players innately have resistances to slows unless casting a Mantra, so this may not be that effective.
 
 -   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg

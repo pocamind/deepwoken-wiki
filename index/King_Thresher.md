@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 159573
+revid: 162231
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,56 +22,45 @@ King Threshers, as its name suggests are similar to an Alpha Megalodaunt in term
 
 A King Thresher is required to be killed at the Starswept Valley to complete [Jessamine's quest](Jessamine.md), granting the Thresher Scales [Echo Talent](Echoes.md), which repairs the player's armor while resting at a campfire. This quest can be completed/recompleted to get a hand of cards if you already have the Talent.
 
+  
+
 ## Attacks
 
 | Name |  | Media |
 | --- | --- | --- |
 | **Arm Swipe**  
-(★☆☆) | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage.  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+(★☆☆) | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage.
+  
 
  |  |
 | **Bite**  
-(★☆☆) | The King Thresher bites 3 times in quick succession. Deals moderate damage.  
+(★☆☆) | The King Thresher bites 3 times in quick succession. Deals moderate damage.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |  |
 | **Tail Swipe**  
-(★★☆) | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.  
+(★★☆) | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |  |
 | **Burrow**  
 (★★☆) | The King Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage.
 
   
-Parryable:✗  
-Blockable:◯  
-Dodgeable:◯
 
  |  |
 | **Royal Breath**  
-(★★★) | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged.  
+(★★★) | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged.
 
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯
+  
 
  |  |
 | **Body Slam**  
-(★★☆) | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage.  
+(★★☆) | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage.
 
-Parryable:✗  
-Blockable:◯  
-Dodgeable:✗
+  
 
  |  |
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 159616
+revid: 162236
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,10 +42,9 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
  | The Nautilodaunt attempts to punch their prey with a variety of different punches.
 
+-   These have long hitstun with very little delay between each hit, **do not** attempt to retaliate or parry immediately after being hit, as you will only be interrupted again. Instead, let the Nautilodaunt hit you two more times before attempting to parry its next punch.
+
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  |
 | 
@@ -55,9 +54,7 @@ Dodgeable:◯
 
  | Nautilodaunt's punches randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you, or using **Flip-Kick**.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |
 | 
@@ -67,10 +64,9 @@ Dodgeable:◯
 
  | Nautilodaunt flips into the air and attempts to strike their prey with a kick.
 
+-   This is most commonly used to close the distance between targets that are at a higher elevation than it; often being used after Grand Stomp.
+
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  |
 | 
@@ -81,9 +77,6 @@ Dodgeable:◯
  | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  |
 | 
@@ -91,12 +84,12 @@ Dodgeable:◯
 **Grand Stomp**  
 (★★★)
 
- | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.**
+ | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line.
+
+-   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
+-   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
 
   
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯
 
  |
 | 
@@ -104,13 +97,23 @@ Dodgeable:◯
 **Feint**  
 (★★☆)
 
- | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** their attacks. |
+ | The Nautilodaunt halts their attack mid-way in an attempt to mixup their opponent and create an opening.
+
+-   If the Nautilodaunt feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
+
+  
+
+ |
 | 
 
 **Vent**  
 (★☆☆)
 
- | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt will near-completely negate the damage of said mantra. This can happen even during other moves. |
+ | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt will near-completely negate the damage of said Mantra. This can happen even during other moves.
+
+  
+
+ |
 
 ## Finisher
 

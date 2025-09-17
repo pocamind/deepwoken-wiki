@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 162152
+revid: 162229
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Eastern Luminant, The Depths]
@@ -92,8 +92,6 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
         -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is increased up to 100%[\[1\]](#cite-note-1), excluding health packs received from killing monsters.
 -   **Sturdy** - When the Mudskipper Broodlord's natural armor is broken, it remains stunned for far less time than other monsters.
 -   **Advanced Knowledge** - When damaged by a mantra at medium-long range, the Mudskipper Broodlord will make a parry sound, and negate the attack.
-
-Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's healing is nullified by Broodlord's Rot. Confirms that Broodlord's Rot is 100% in the Diluvian.
 
 ## Tips
 

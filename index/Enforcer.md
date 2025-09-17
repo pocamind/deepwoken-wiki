@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 159590
+revid: 162238
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -22,75 +22,91 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 ## Attacks
 
-| Name | Description | Visual Demo |
+| Name/Danger | Description | Visual Demo |
 | --- | --- | --- |
 | 
-**High Swing**
+**High Swing**  
+(★★☆)
 
- | The Enforcer lifts its weapon high and swings it down. This is a slower attack that does high health and posture damage.  
+ | The Enforcer lifts its weapon high and swings it down.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
+-   This is a slower attack that does high health and posture damage.
 
- | 
-
- |
-| 
-
-**Low Swing**
-
- | The Enforcer puts its weapon to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than High Swing.  
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
+  
 
  | 
 
  |
 | 
 
-**Kick**
+**Low Swing**  
+(★★☆)
 
- | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. This does low damage, and now has a higher quality animation shown by the Enforcer turning sideways and chambering its leg.  
+ | The Enforcer puts its weapon to its side, and swings it horizontally in a swiping motion.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
+-   This attack is faster but does less health and posture damage than High Swing.
 
- | 
-
- |
-| 
-
-**Whirlwind**
-
- | The Enforcer begins to spin rapidly from the waist-up while holding its weapon out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Kick if it lands)  
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
+  
 
  | 
 
  |
 | 
 
-**Space Pull**
+**Kick**  
+(★★☆)
 
- | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player **runs too far away**. (Disabled in [Hell Mode](Hell_Mode.md))  
+ | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them.
 
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯  
+-   This does low damage with moderate knockback.
+
+  
+
+ | 
+
+ |
+| 
+
+**Whirlwind**  
+(★★☆)
+
+ | The Enforcer begins to spin rapidly from the waist-up while holding its weapon out, walking towards the closest opponent (fairly slowly) to cut them apart.
+
+-   This attack is rarely used in close quarters.
+-   This attack grants high autoparry frames.
+-   This is typically used after Kick if it lands.
+
+  
+
+ | 
+
+ |
+| 
+
+**Space Pull**  
+(★☆☆)
+
+ | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment.
+
+-   This attack is typically used at the start of the fight, or if the player **runs too far away**.
+-   Enforcers spawned during [Hell Mode](Hell_Mode.md) will not be able to use this attack.
+-   The Servants of Enmity cannot use this attack.
+
+  
 
  |  |
 | 
 
-**Feint**
+**Feint**  
+(★★☆)
 
- | The Enforcer feints its weapon and retracts it, catching the player off guard. | 
+ | The Enforcer halts their attack mid-way in an attempt to mixup their opponent and create an opening.
+
+-   If The Enforcer feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
+
+  
+
+ | 
 
  |
 

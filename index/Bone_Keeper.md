@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 161601
+revid: 162233
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths, Enemies]
@@ -26,23 +26,86 @@ These monsters are incredibly mobile and hard-hitting enemies. They are certainl
 
 If you would prefer a visual guide, consider watching _[this video](https://www.youtube.com/watch?v=gMXwczlX4YE)_.
 
-| Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| Crushing Grab | The Bone Keeper will make an indication of an unparriable attack with a noise cue and eye symbol before swinging its right arm sideways. If this attack lands, the player hit will be grabbed and take **devastating damage**. The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. **Autogrips.** |  | ✗ | ◯ | ◯ | (★★★) |
-| Charge | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and very high posture (It is not recommended you block this as it takes 36 posture + ardour to block). The Bone Keeper skids to a stop and faces you if this is successfully parried. |  | ◯ | \- | ◯ | (★★☆) |
-| Triple Slash | The Bone Keeper will wind up its right arm, then thrust forward with a triple-slash attack with its arm spinning. |  | ◯ | ◯ | ◯ | (★☆☆) |
-| Leap (After Triple Slash) | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended. The arm can be parried, but the leap **cannot be blocked, parried, or dodged.** It has a small hitbox, though, so rolling out of the way or towards the Bonekeeper immediately after parrying its arm slash is sufficient. **The leap will autogrip you.**
-Moving away from the leap is almost always enough to completely dodge the move.
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Crushing Grab**  
+(★★★)
 
- |  | ✗ | ✗ | ✗ | (★★☆) |
-| Bone Spikes | The Bone Keeper will stomp the ground, emitting a long carpet of spikes in front of it. (You don't normally dodge this, just jump over them.) |  | ✗ | ✗ | \- | (★★☆) |
-| Femur Throw | The Bone Keeper will dig into the ground with its right arm before pulling out a femur which it will then throw towards the target at absurd speeds. It is important to know this femur behaves as a projectile and therefore can hit walls and other objects. The timing to parry this is difficult, but it does much less damage than its other attacks. |  | ◯ | ✗ | ◯ | (★★☆) |
+ | The Bone Keeper will make an indication of an unparriable attack with a noise cue and eye symbol before swinging its right arm sideways. If this attack lands, the player hit will be grabbed and take **devastating damage**.
+
+-   The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. **Autogrips.**
+
+  
+
+ |  |
+| 
+
+**Charge**  
+(★★☆)
+
+ | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and very high posture. The Bone Keeper skids to a stop and faces you if this is successfully parried.
+
+-   It is not recommended that you block this attack, as its posture damage is very high.
+
+  
+
+ |  |
+| 
+
+**Triple Slash**  
+(★☆☆)
+
+ | The Bone Keeper will wind up its right arm, then thrust forward with a triple-slash attack with its arm spinning.
+
+  
+
+ |  |
+| 
+
+**Leap**  
+(★★☆)
+
+ | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended.
+
+-   This is a potential followup attack to Triple Slash.
+-   The arm can be parried, but the leap **cannot be blocked, parried, or dodged.**
+-   It has a small hitbox, so rolling out of the way or towards the Bonekeeper immediately after parrying its arm slash is sufficient.
+-   Autogrips.
+-   Moving away from the leap is almost always enough to completely dodge the move.
+
+  
+
+ |  |
+| 
+
+**Bone Spikes**  
+(★★☆)
+
+ | The Bone Keeper will stomp the ground, emitting a long carpet of spikes in front of it.
+
+-   Jumping just as the Bone Keeper stomps will allow you to jump over the spikes and avoid this attack altogether.
+
+  
+
+ |  |
+| 
+
+**Femur Throw**  
+(★★☆)
+
+ | The Bone Keeper will dig into the ground with its right arm before pulling out a femur which it will then throw towards the target at absurd speeds.
+
+-   The femur behaves like a projectile, potentially hitting walls and similar objects. It has a small AoE when it hits something.
+-   The timing to parry this is difficult, it is suggested that you dodge instead.
+
+  
+
+ |  |
 
 ### **Passives**
 
 -   **Monster Resistance** - Physical attacks deal 20% less damage to the Bone Keeper.
-
-  
 
 ## Gallery
 
