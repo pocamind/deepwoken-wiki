@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 162018
+revid: 162266
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -387,7 +387,7 @@ Image
 -   [Kyrswynter](Kyrswynter.md) running critical
 -   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
 -   [Mudskipper Broodlord](Mudskipper_Broodlord.md): Broodrot Thrust
--   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
+-   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Relic Axe](Relic_Axe.md) critical (Pillars)
@@ -413,7 +413,7 @@ Image
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
--   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
+-   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
 -   [Stoneheart](Stoneheart.md) critical

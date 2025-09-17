@@ -1,6 +1,6 @@
 ---
 title: Hivelord Mask
-revid: 153376
+revid: 162272
 source: https://deepwoken.fandom.com/wiki/Hivelord_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -31,4 +31,4 @@ The Hivelord Mask is an [Equipment](Equipment.md) item under the "Face" category
 ## Trivia
 
 -   Appears to be heavily inspired off of the **SKT T1 JHIN** skin from _League of Legends_.
--   [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) wears this albeit the red version.
+-   Use to be worn by [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) before their remodel albeit the red version.

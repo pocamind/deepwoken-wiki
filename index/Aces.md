@@ -1,34 +1,36 @@
 ---
 title: Aces
-revid: 160942
+revid: 162281
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Skills, Talents]
+categories: [Character, Skills, Talents]
 ---
 
 # Aces
 
-**Aces** are tools you can use when selecting [Talents](Talents.md). You obtain one Ace every time you receive a hand of cards that are a Whisper from the Deep (or two for every other Whisper draw if you have the [Scrapper](Boons_and_Flaws.md#scrapper) Boon) and by completing the [Elykris](Elykris.md) quest, which requires you to give them a notebook at [Outpost Antumbra](Outpost_Antumbra.md). Additionally, you can also gain more Aces through [Echoes](Echoes.md) and having the [Ace of Spades Regalia](Regalia.md#ace-of-spades) grants 20 aces on spawn. Currently, there are only Burns and Freezes.
+**Aces** are tools you can use when selecting [Talents](Talents.md) and [Mantras](Mantras.md) that allow you to manipulate your card hands by Freezing or Burning cards. You spawn with no Aces, Aces can be obtained from multiple sources:
+
+1.  Obtaining a [Whisper Draw](Whisper_Draw.md) (Mantra Hand) grants 1 Ace each (this is granted when Powering up to a level that has a Whisper Draw, you do not have to use your Whisper Draw to gain the Ace);
+2.  Having the [Scrapper](Boons_and_Flaws.md#scrapper) Boon grants an additional two Aces for every other Whisper Draw (similarly, this is granted when Powering up to a level that has a Whisper Draw);
+3.  Completing [Elykris](Elykris.md)' quest grants 2 Aces;
+4.  Purchasing the "Starting Aces" [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers) will grant up to 2 additional starting Aces;
+5.  Having the [Ace of Spades](Regalia.md#ace-of-spades) Regalia grants an additional 20 starting Aces.
+
+With all sources combined, you can have a maximum of 28 Aces per character, 48 if you have Ace of Spades.
 
 ## Burns
 
-Used to burn Talents. Once a Talent is burnt, it cannot reappear ever again. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally burnt a card, you can restore it through the [Shrine of Conceit](Deep_Shrines.md) for 1 [Knowledge](Knowledge.md). Burning whole hand of cards will replace it with a new one.
-
-File:Screenshot 2022-09-12 7.26.11 PM.png
+Used to Burn Talents. Once a Talent is Burnt, it cannot reappear ever again. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally Burnt a card, you can restore it through the [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) for 1 [Knowledge](Knowledge.md), though this does not refund the Ace. Burning whole hand of cards will replace it with a new one.
 
 ## Freezes
 
-Used to freeze Talents. Once a Talent is frozen, it will remain in your selection until you select it or freeze another card. Useful if there are two (or more) good Talents, but one is better than the other, so you can freeze one and pick the other, then pick it in the next draw.
+Used to Freeze Talents. Once a Talent is Frozen, it will remain in your selection until you select it or Freeze another card. Useful if there are two (or more) good Talents, but one is better than the other, so you can Freeze one and pick the other, then pick it in the next draw.
 
-If you freeze one card, then use an Ace to freeze another card in the next draw, it will not consume an Ace in the subsequent hand. It cannot, however, be used to obtain mutually exclusive talents, this will consume the ace and the frozen talent will not appear in another hand. i.e observation/safety dance with risky moves.
-
-File:Screenshot 2022-09-12 7.26.20 PM.png
-
-A frozen mantra
+If you Freeze one card, then use an Ace to Freeze another card in the next draw, it will not consume an Ace in the subsequent hand. It cannot, however, be used to obtain mutually exclusive Talents, this will consume the Ace and the Frozen talent will not appear in another hand. i.e Observation/Safety Dance with Risky Moves.
 
 ## Trivia
 
 -   Supaa originally suggested the concept of Freezes to Arch\_Mage.
 -   Freezes did not exist until the update on September 5, 2022; however, Burns have existed since March 11, 2022.
--   Freezes work on Whispers too, however, the frozen [Mantra](Mantras.md) will only appear at the next Whisper.
--   Prior to Freezes being added, aces were just called Burns.
+-   Freezes work on Whispers too, however, the Frozen [Mantra](Mantras.md) will only appear at the next Whisper.
+-   Prior to Freezes being added, Aces were just called Burns.

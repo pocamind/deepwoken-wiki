@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 152960
+revid: 162269
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Lodestar (Both), Maestro Evengarde Rest, Heart of Enmity (Black), The Doom of Caeranthil (Black), Dread Serpent (Double), Primadon, Titan of the East (Black) |
+| obtainment | Chests from:, First Layer (Both), Heart of Enmity (Black), The Doom of Caeranthil (Black), Primadon, Titan of the East (Black), Fishing (Double) |
 | description | A hat typically worn by those from the Central Luminant. |
 
 ## Description

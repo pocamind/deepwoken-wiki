@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162258
+revid: 162275
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -238,28 +238,26 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Alchemist
 
-_**You need to have made and drank at least one potion for the Talents to start showing up.**_
-
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown.
     -   Additively increases potion Potency by 125%. (More info on the [potions](Alchemy.md) page.)
     -   The bonus acts similar to a potion ingredient, therefore Apothecary does nothing else after brewing.
-    -   Prerequisite: 10 Intelligence, made and drank at least one potion
+    -   Prerequisite: 10 Intelligence, interacted with a [Cauldron](Cauldron.md)
         -   Was merged with the old Exterminator Talent. ([Strapped Hat](Strapped_Hat.md) however still has the Talent)
-    -   [Skeptic Pioneer](Skeptic_Pioneer.md), [Alchemist's Hat](<Alchemist's_Hat.md>), and the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) all have this talent, it is encouraged to simply utilize these when brewing instead of taking this as a talent card.
+    -   [Skeptic Pioneer](Skeptic_Pioneer.md), [Alchemist's Hat](<Alchemist's_Hat.md>), and the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) all have this talent, it is encouraged to simply utilize these when brewing instead of taking this as a Talent card.
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     -   Procs when a **thrown** potion replaces a different potion's effect. (Does not work on drank potions)
     -   This effect increases the effectiveness of your potion by 40% and is applied multiplicatively to potency.
-    -   Prerequisite: 80 Intelligence, made and drank at least one potion
+    -   Prerequisite: 80 Intelligence, interacted with a [Cauldron](Cauldron.md)
         -   Was merged with the old Taste Test Talent.
 
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
     -   Saltchemist salts innately provide this feature to your potions, however are not manually droppable.
-    -   Prerequisite: 80 Intelligence, made and drank at least one potion
+    -   Prerequisite: 80 Intelligence, interacted with a [Cauldron](Cauldron.md)
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
-    -   Prerequisite: 60 Intelligence, made and drank at least one potion
+    -   Prerequisite: 60 Intelligence, interacted with a [Cauldron](Cauldron.md)
 
 -   _Potion Quaffer_ \[Rare Talent\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
@@ -267,12 +265,12 @@ _**You need to have made and drank at least one potion for the Talents to start 
     -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
     -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
-    -   Prerequisites: 30 intelligence, 15 Fortitude _**or**_ 15 Willpower, made and drank at least one potion
+    -   Prerequisites: 30 intelligence, 15 Fortitude _**or**_ 15 Willpower, interacted with a [Cauldron](Cauldron.md)
         -   This Talent was merged with the old Subsistence Talent.
 
 -   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
     -   25% chance to gives a duplicate of the brewed potion.
-    -   Prerequisite: 25 Intelligence, made and drank at least one potion
+    -   Prerequisite: 25 Intelligence, interacted with a [Cauldron](Cauldron.md)
 
 ### Alley Cat
 
