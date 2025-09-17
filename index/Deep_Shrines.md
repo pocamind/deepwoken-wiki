@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 162188
+revid: 162259
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -78,3 +78,4 @@ Shrine of Solitude
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
 -   The [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) allowed you to transfer Rare Talents into Common/Advanced Talents and vice versa. This effect was merged into the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), along with Ostentation itself being removed on the September 15th, 2025 update.
+-   Deep Shrines models were reworked on the update of **15 September, 2025** to be more performant.

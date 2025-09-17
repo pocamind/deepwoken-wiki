@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162202
+revid: 162258
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1161,6 +1161,7 @@ _**You need to have made and drank at least one potion for the Talents to start 
 ### Ether Endeavors
 
 -   Keen Recovery \[Common Talent, Intelligence Exclusive\] - Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
+    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.
     -   Does not proc if your basic attack is blocked, parried, or dodged.
     -   Prerequisites: 55 Intelligence
 

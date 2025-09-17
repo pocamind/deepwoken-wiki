@@ -1,6 +1,6 @@
 ---
 title: "Smith's Goggles"
-revid: 155655
+revid: 162245
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Goggles]
@@ -23,7 +23,7 @@ categories: [Equipment, Face, Goggles]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Ishamon Erisia, Erisia, First Layer, Maestro Evengarde Rest, The Doom of Caeranthil, Dread Serpent |
+| obtainment | Deep Crucible, First Layer, Maestro Evengarde Rest, The Doom of Caeranthil |
 | description | ... |
 
 ## Description

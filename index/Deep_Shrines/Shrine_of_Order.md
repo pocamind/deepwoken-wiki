@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 162208
+revid: 162249
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Mechanics]
+categories: [NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Order
@@ -51,12 +51,10 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 ## Trivia
 
 -   The Shrine of Order used to grant a random base [Flaw](../Boons_and_Flaws.md), however this feature was removed on the September 5th, 2025 Update.
--   Shrine of Order was "bugged", not letting some people use it despite meeting the requirements (power 8, no oath, )
-    
-    File:Shrineoforderbug.png
-    
-    Shrine of order being bugged
-    
+
+-   The Shrine of Order's model was reworked on the update of **September 15th, 2025** due to performance issues.
+
+Old Shrine of Order's model
 
 ## Navigation
 

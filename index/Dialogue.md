@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 149360
+revid: 162242
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -79,7 +79,7 @@ Talking to Guards
 -   Very Good Reputation - "Welcome back to Fortification Peak, \[Name\]. It's good to see some competent warriors around."
 -   Good Reputation - "Hello outlander, find a good catch today?" | "Good luck on your hunt outlander."
 -   Neutral Reputation - "Ah another one of the locals. Gods, why did I have to get a post in the East?" | "Make one wrong move Outlander, and you're done."
--   Unfriendly Reputation - (You do not be unfriendly with them, you only either be allies or their enemies.)
+-   Unfriendly Reputation - (You cannot be unfriendly with them, you can only either be their allies or their enemies.)
 
 ## [Summericonfaction](The_Summer_Company.md) Summer Company Reputation
 
