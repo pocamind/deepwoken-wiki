@@ -1,6 +1,6 @@
 ---
 title: The Hidden Grove
-revid: 160096
+revid: 162289
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map]
@@ -28,6 +28,8 @@ The Hidden Grove features a waterfall and flower fountain. To activate the fount
   
 
 ## Location
+
+### **The island has been removed for seemingly no reason during the update that moved around certain islands around the Eastern Luminant. This island no longer exists, for now.**
 
 The images below show the entrance to the Hidden Grove and the island it is located on.
 

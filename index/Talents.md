@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162275
+revid: 162288
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1478,8 +1478,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Gunslinger
 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
-    -   Doesn't bypass PEN cap/Doesn't work if you hit 50% pen cap.
     -   Due to this being combined multiplicatively rather than additively, this is worse than just +10% PEN, especially on [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Stormseye](Stormseye.md) due to their dual damage typings.
+    -   Armor Piercing has heavy diminishing returns based on how much PEN you have. While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have.
+        -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8), or 65% PEN + Armor Piercing is equivalent to having 68.5% PEN against blunt armor (+3.5).
+    -   Armor Piercing does not bypass the 50% PEN cap.
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
     -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
 
