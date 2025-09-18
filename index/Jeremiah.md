@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 162138
+revid: 162294
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
@@ -28,19 +28,26 @@ Jeremiah is located in the [Varicosa District](Varicosa_District.md) of [The Cit
 
 ### 
 
-Possible Items
+Potential Rewards
 
 <table>
 <tbody>
 <tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+  </ul></td>
+</tr>
+<tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><font>Head</font></b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li>
-    <li><b><font>Arms</font></b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Star_Duster.md">Star Duster</a></li>
-    <li><b><font>Legs</font></b>: <a href="Star_Boots.md">Star Boots</a></li>
-    <li><b><font>Face</font></b>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a></li>
-    <li><b><font>Rings</font></b>: <a href="Akira's_Ring.md">Akira's Ring</a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Maestro's_Ring.md">Maestro's Ring</a>, <a href="Prophet's_Ring.md">Prophet's Ring</a></li>
+    <li><b><font>Head</font></b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>.</li>
+    <li><b><font>Arms</font></b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Star_Duster.md">Star Duster</a>.</li>
+    <li><b><font>Legs</font></b>: <a href="Star_Boots.md">Star Boots</a>.</li>
+    <li><b><font>Face</font></b>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>.</li>
+    <li><b><font>Rings</font></b>: <a href="Akira's_Ring.md">Akira's Ring</a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Maestro's_Ring.md">Maestro's Ring</a>, <a href="Prophet's_Ring.md">Prophet's Ring</a>.</li>
   </ul></td>
 </tr>
 </tbody>

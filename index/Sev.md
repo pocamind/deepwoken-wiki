@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 162220
+revid: 162295
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs]
@@ -63,7 +63,7 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
 </tbody>
 </table>
 
-**Second Encounter:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
