@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 159592
+revid: 162367
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,17 +28,84 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 
 ## Attacks
 
-| Name |  | Media | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Rapid Spin** | The golem starts spinning its arms, rapidly dealing low damage. Hits 30 times in total. | 
- | ◯ | ◯ | ◯ | (★☆☆) |
-| **Laser** | The golem charges a laser from its core before firing it, creating a small AOE at the point of impact and dealing medium damage. |  | ✗ | ✗ | ◯ | (★☆☆) |
-| **Stomp** | The golem raises its leg before giving a powerful earthshaking stomp. Auto-grips if low enough |  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Ground Slam** | The golem brings both of its arms over its head, before quickly slamming them down into a vicious swing. |  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Uppercut** | The golem winds up its arm before quickly swinging it outwards. |  | ✗ | ◯ | ◯ | (★★☆) |
-| **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if landing on player. Does not use this attack if there is no ceiling above it. | 
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Rapid Spin**  
+(★☆☆)
 
- | ✗ | ✗ | ◯ | (★★★) |
+ | The golem starts spinning its arms, rapidly dealing low damage.
+
+-   Hits 30 times in total.
+-   Grants autoparry frames.
+    -   You can attack the golem through these autoparry frames.
+
+  
+
+ | 
+
+ |
+| 
+
+**Laser**  
+(★☆☆)
+
+ | The golem charges a laser from its core before firing it, creating a small AOE at the point of impact and dealing medium damage.
+
+  
+
+ |  |
+| 
+
+**Stomp**  
+(★☆☆)
+
+ | The golem raises its leg before giving a powerful earthshaking stomp.
+
+-   Auto-grips if low enough
+
+  
+
+ |  |
+| 
+
+**Ground Slam**  
+(★☆☆)
+
+ | The golem brings both of its arms over its head, before quickly slamming them down into a vicious swing.
+
+  
+
+ |  |
+| 
+
+**Uppercut**  
+(★★☆)
+
+ | The golem winds up its arm before quickly swinging it outwards.
+
+  
+
+ |  |
+| 
+
+**Scream**  
+(★★★)
+
+ | The golem screams, making the ceiling above it drop rubble, dealing high damage if landing on player.
+
+-   This attack is only used if there is a ceiling above it, making it rare outside of the [Trial of One](Trial_of_One.md).
+-   The rubble falls in a random location within a fairly large AoE.
+-   The rubble falls incredibly fast making it very hard to react to.
+-   Due to the above two points, this attack is generally not worth defending yourself against, as there's a chance that it won't even hit you, and even if it would hit you, the chance of you reacting to it and responding accordingly is relatively low.
+-   This can lag players on lower-end devices.
+-   The rubble is parryable with [Force Your Way](Ignition_Deepdelver.md).
+
+  
+
+ | 
+
+ |
 
 ### Passives
 

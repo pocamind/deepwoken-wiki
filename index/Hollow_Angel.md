@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 153380
+revid: 162370
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments, Layer 1, The Depths, Enemies]
@@ -27,8 +27,6 @@ The Hollow Angel can also be summoned as a Trial when attempting to escape the D
  | Firmly thrusts weapon forward and finishes the combo with a kick.
 
   
-Parryable:◯  
-Blockable:◯
 
  |
 | 
@@ -39,8 +37,6 @@ Blockable:◯
  | Enters a stance before performing a quick swipe. Performs an additional short lunge if the first hit lands.
 
   
-Parryable:◯  
-Blockable:◯
 
  |
 | 
@@ -48,7 +44,11 @@ Blockable:◯
 **Feint**  
 (★★☆)
 
- | Interrupts the wind-up of a thrust, before pulling back and committing to a real attack. |
+ | Interrupts the wind-up of a thrust, before pulling back and committing to a real attack.
+
+  
+
+ |
 | 
 
 **Glare**  
@@ -57,8 +57,6 @@ Blockable:◯
  | Its eyes light up, stunning anyone facing them who hasn't parried or blocked.
 
   
-Parryable:◯  
-Blockable:◯
 
  |
 | 
@@ -69,8 +67,6 @@ Blockable:◯
  | Its eyes gain a circular aura, occasionally stunning whoever is looking at them briefly.
 
   
-Parryable:◯  
-Blockable:◯
 
  |
 | 
@@ -81,8 +77,6 @@ Blockable:◯
  | Quickly performs a medium ranged jab that transfers all of their posture damage onto the target.
 
   
-Parryable:◯  
-Blockable:◯
 
  |
 | 
@@ -90,7 +84,11 @@ Blockable:◯
 **Dash**  
 (☆☆☆)
 
- | Quickly dashes a long distance. Purely for mobility. |
+ | Quickly dashes a long distance. Purely for mobility.
+
+  
+
+ |
 | 
 
 **Light Piercer**  
@@ -98,9 +96,10 @@ Blockable:◯
 
  | Rises into the air and shoots 4 bullets of light that explode, deal damage, and slow those hit.
 
+-   Grants autoparry frames.
+-   Deals typeless damage.
+
   
-Parryable:◯  
-Blockable:◯
 
  |
 

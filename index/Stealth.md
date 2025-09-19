@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 160932
+revid: 162354
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,11 +30,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 -   The _[Lowstride](Talents.md#assassin)_ Talent improves Stealth while crouched. The following outfits have the _Lowstride_ Talent:
     -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md).
 -   **Equipping specific outfits: (See below)**
-    -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
-    -   [Darkened Bastion](Darkened_Bastion.md) grants +50% Stealth.
-    -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) grants +50% Stealth.
-    -   [Veteran Adventurer](Veteran_Adventurer.md) grants +50% Stealth.
-    -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
+    -   [Navaen War Chief](Navaen_War_Chief.md), [Darkened Bastion](Darkened_Bastion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), and [Whaler Coat](Whaler_Coat.md) all grant +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
     -   [Whaler Initiate](Whaler_Initiate.md) grants 25% Stealth.
 -   Wearing the following Equipment(See below)
@@ -46,7 +42,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md) (3%).
     -   Rings: **None :(**
 
-On the other hand, the Obvious Flaw Flaw grants you -20% base Stealth, but has no effect on Stealth _gain_.
+On the other hand, the [Obvious](Boons_and_Flaws.md#obvious) Flaw grants you -20% base Stealth, but has no effect on Stealth _gain_.
 
 The current maximum Stealth possible, not counting crouching/Lowstride, is:
 
@@ -54,7 +50,7 @@ The current maximum Stealth possible, not counting crouching/Lowstride, is:
 -   [Felinor](Felinor.md) with [Multifaceted](Echoes.md#upgrades-and-modifiers) - **140%**.
 -   Any +3 Agility Aspect ([Kiron](Kiron.md)/[Tiran](Tiran.md)) - **100.6%**.
 -   Any +2 Agility Aspect ([Etrean](Etrean.md)/[Chrysid](Chrysid.md)/[Khan](Khan.md)/[Lightborn](Lightborn.md)/[Drakkard](Drakkard.md)) - **100.4%**.
--   Any other Aspect or any Aspect (excluding [Felinor](Felinor.md)) with the [Multifaceted](Echoes.md#upgrades-and-modifiers) Echo Upgrade - **100%**.
+-   Any other Aspect or any Aspect (excluding [Felinor](Felinor.md)) with the [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers) Echo Upgrade - **100%**.
 
 All of these of course use the best equipment with 100 or more Agility. If you have [Obvious](Boons_and_Flaws.md#obvious), subtract 20 from the above scores or 24 if [Felinor](Felinor.md).
 

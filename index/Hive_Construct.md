@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 159528
+revid: 162361
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies, Ambush Enemies]
@@ -26,28 +26,76 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
 ## Moves
 
-| Name | Animation | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Stomp** | TBA | The Construct steps on the ground, dealing high damage. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Swing** | TBA | The Construct uncoils its arms and swings them upwards.
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Stomp**  
+(★☆☆)
+
+ | The Construct stomps the ground, dealing high damage.
+
+  
+
+ | 
+
+ |
+| 
+
+**Swing**  
+(★★☆)
+
+ | The Construct uncoils its arms and swings them upwards.
+
 -   Flings and ragdolls player.
 
- | ✗ | ✗ | ◯ | (★★☆) |
-| **Scream** | TBA | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again. Does no damage.
+  
+
+ | 
+
+ |
+| 
+
+**Scream**  
+(☆☆☆)
+
+ | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again.
 
 -   Stay cautious of the Meteor Punch attack after he uses this move.
 
- | N/A | N/A | N/A | (☆☆☆) |
-| **Meteor Punch** | 
+  
 
- | Punches the ground with it's right fist, creating two circular shock-waves that do roughly 200 damage.
+ | 
 
+ |
+| 
+
+**Meteor Punch**  
+(★★★)
+
+ | Punches the ground with it's right fist, creating two circular shock-waves.
+
+-   Deals roughly 200 damage total.
 -   Insta-grips/insta-executes.
 
- | ◯ | ✗ | ◯ | (★★★) |
-| **Lifeweave Flourish** | 
+  
 
- | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls. You cannot walk through some of the tree's leaves. | ✗ | ✗ | ✗ | (★★☆) |
+ | 
+
+ |
+| 
+
+**Lifeweave Flourish**  
+(★★☆)
+
+ | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls.
+
+-   You cannot walk through some of the tree's leaves.
+
+  
+
+ | 
+
+ |
 
 ## Tips
 

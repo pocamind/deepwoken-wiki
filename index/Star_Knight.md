@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 159973
+revid: 162385
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -16,7 +16,7 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 ## **Moveset**
 
-| Name | Description | Media |
+| Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
 **Slash**  
@@ -26,9 +26,7 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 -   **Insta-executes the player if health is low.**
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |  |
 | 
@@ -38,11 +36,9 @@ Dodgeable:◯
 
  | Deftly kicks the opponent with added momentum from its body.
 
--   **Deals extra damage and dazes if the player is slammed against a wall.**
+-   Deals extra damage and dazes if the player is slammed against a wall.
 
-Parryable:✗  
-Blockable:◯\*  
-Dodgeable:◯
+  
 
  |  |
 | 
@@ -50,11 +46,9 @@ Dodgeable:◯
 **Energy Wave**  
 (★★☆)
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade.
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |  |
 | 
@@ -64,11 +58,9 @@ Dodgeable:◯
 
  | Punches the ground, causing a pillar to erupt below the player.
 
--   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
+-   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
 
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯
+  
 
  |  |
 | 
@@ -78,9 +70,7 @@ Dodgeable:◯
 
  | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical.
 
-Parryable:✗  
-Blockable:◯\*  
-Dodgeable:◯
+  
 
  |  |
 

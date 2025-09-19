@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 160475
+revid: 162382
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -21,28 +21,40 @@ All of its damaging attacks do shadow and physical damage and all apply the shad
 | Name | Description | Visual Demo |
 | --- | --- | --- |
 | 
-Talon Swipe  
+**Talon Swipe**  
 (★☆☆)
 
- | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
+ | Three slow, consecutive swipes.
+
+-   Parliament can use this multiple times back-to-back.
+-   Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
+
+  
 
  | 
 
  |
 | 
 
-Strong Left  
+**Strong Left**  
 (★★☆)
 
- | An unparryable swipe from the Parliament's left arm, that looks similar to the normal slash but it is much faster
+ | An unparryable swipe from the Parliament's left arm, that looks similar to the normal slash but it is much faster.
+
+  
 
  |  |
 | 
 
-Shade Cloak  
+**Shade Cloak**  
 (★★☆)
 
- | Unparryable burst of shadows that the Parliament uses when he spawns. It has a similar effect to Shade Devour, where after it uses this attack, it has 100% chip damage, meaning all blocked hits will go through anyways. Notably has Shadow Devour's SFX
+ | Unparryable burst of shadows that buffs the Parliament, granting them +100% chip damage.
+
+-   Parliament uses this when they spawn.
+-   Notably, Shade Cloak has Shadow Devour's SFX.
+
+  
 
  |  |
 | 
@@ -52,13 +64,19 @@ Curb Stomp
 
  | The Parliament lifts its leg into a stomp, undodgable.
 
+  
+
  |  |
 | 
 
 Feather Coat  
 (★★☆)
 
- | Parliament will raise their hand to buff themselves, causing black feathers to appear around their body and dealing self damage, during this state, all attacks will have 100% chip. |  |
+ | Parliament will raise their hand to buff themselves, causing black feathers to appear around their body and dealing self damage, during this state, all attacks will have 100% chip.
+
+  
+
+ |  |
 | 
 
 Feather Teleport  
@@ -66,15 +84,22 @@ Feather Teleport
 
  | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.
 
-Typically used after Talon Swipe.
+-   Typically used after Talon Swipe.
+-   After using Feather Teleport, the Owl will typically use Flock of Feathers or Overhead Grab.
 
- |  |
+  
+
+ |
 | 
 
 Owl Dash  
 (★☆☆)
 
  | Kneels on the ground for a moment before performing a spinning assault in the target's direction.
+
+-   Deals Shadowcast damage.
+
+  
 
  | 
 
@@ -86,7 +111,10 @@ Overhead Grab
 
  | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.
 
-Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you.
+-   This is telegraphed by a small cloud of feathers suddenly appearing around you.
+-   It is recommended to look up to time your dodge, as the Owl will appear above you.
+
+  
 
  | 
 
@@ -98,7 +126,11 @@ Flock of Feathers
 
  | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.
 
-Overhead Grab/Owl Dash is typically used after this.
+-   Overhead Grab/Owl Dash is typically used after this.
+-   Deals Shadowcast damage.
+-   Does not grant autoparry frames, each feather must be parried individually.
+
+  
 
  | 
 

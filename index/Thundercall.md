@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 162203
+revid: 162345
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -847,7 +847,7 @@ Lightning
  |
 | 
 
-**Effect:** _Grapple onto a target with a stream of lightning before pulling them in. Deals light damage; moderate for **Blast Spark** variant._
+**Effect:** _Grapple onto a target with a stream of lightning before pulling them in._
 
 -   Stuns the target, allowing a small chance to begin a combo.
 -   The Blast Spark variant has a base damage of 17/18.6/20.2/21.8/23.4 per level.

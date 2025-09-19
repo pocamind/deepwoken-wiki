@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 161232
+revid: 162366
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, Craftable, Medium Weapons, Relics]
@@ -66,6 +66,9 @@ The cooldown for this critical is **8** seconds.
 -   During it's release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat noises still stay.
 -   While equipped, the Umbrite Witherblade will radiate heartbeat noises as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
+    -   Extremely Similar to Umbrite Witherblade also from Overlord season IV
+        
+        This weapon could be a reference to the weapon Ainz Ooal Gown summons from portal in Overlord.
 
 ## Version History
 

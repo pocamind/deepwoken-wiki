@@ -1,6 +1,6 @@
 ---
 title: Stick
-revid: 147275
+revid: 162346
 source: https://deepwoken.fandom.com/wiki/Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients, Harvestables]
@@ -45,5 +45,5 @@ Sticks can be used for the following:
 
 ## Trivia
 
--   Sticks cannot be traded to [Korin](Korin.md) or [Drefa](Drefa.md), you will need to craft all your sticks into wood.
--   You can buy 99 wood at the blacksmith in Etris, then craft 99 sticks and get 99 wood again. This will make it so you free your inventory and travel less to buy wood when farming reputation for Etrea.
+-   Sticks cannot be traded to [Korin](Korin.md) or [Drefa](Drefa.md), they need to be crafted into Wood.
+-   Sticks were remodeled in the September 15th, 2025 update, to be "considerably less laggy."

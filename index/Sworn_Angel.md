@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 159631
+revid: 162387
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -16,15 +16,80 @@ Template:Creature Infobox V3
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
-| Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
-| Glare | The Angel's eyes light up, stunning anyone facing them if it isn't parried/blocked. | ◯ | ◯ | (★☆☆) |
-| Gaze | A swirling symbol appears around the Angel's eyes, causing a insanity shiver effect while they look at you. | ✗ | ◯ | (★★☆) |
-| Dash | Quickly dashes a long distance, purely for mobility. | N/A | N/A | (☆☆☆) |
-| **Light Piercer** | Rises into the air and shoot 5 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly thrusts weapon at opponent and finishing up the combo by kicking them.
+
+  
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
+
+  
+
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Performs a fake attack, before pulling back and committing to a thrust.
+
+  
+
+ |
+| 
+
+**Glare**  
+(★☆☆)
+
+ | The Angel's eyes light up, stunning anyone facing them if it isn't parried/blocked.
+
+  
+
+ |
+| 
+
+**Gaze**  
+(★☆☆)
+
+ | A swirling symbol appears around the Angel's eyes, causing a insanity shiver effect while they look at you.
+
+  
+
+ |
+| 
+
+**Dash**  
+(☆☆☆)
+
+ | Quickly dashes a long distance, purely for mobility.
+
+  
+
+ |
+| 
+
+**Light Piercer**  
+(★★☆)
+
+ | Rises into the air and shoot 5 spears of light that slow those hit.
+
+-   Deals typeless damage.
+-   Has autoparry frames.
+
+  
+
+ |
 
 ## Passive
 

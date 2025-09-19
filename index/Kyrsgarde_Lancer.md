@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Lancer
-revid: 153311
+revid: 162375
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Lancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -38,9 +38,7 @@ The most versatile and common version of the Kyrsgarde found in [New Kyrsa, The 
 
 -   Recommended to roll back for the first 2-hits and parry the throw.
 
-Parryable?: ◯  
-Blockable?: ✗  
-Dodgeable?: ◯
+  
 
  |
 | 
@@ -52,9 +50,7 @@ Dodgeable?: ◯
 
 -   Easiest move to parry if fighting one on one.
 
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgeable?: ◯
+  
 
  |
 | 
@@ -64,11 +60,9 @@ Dodgeable?: ◯
 
  | The Kyrsgarde conjures a spear of ice before performing a backflip high in the air and throwing said spear at it's opponent.
 
--   Parry it when the arm of the Kyrsgarde reachest the highest point.
+-   Parry it when the arm of the Kyrsgarde reaches the highest point.
 
-Parryable?: ◯  
-Blockable?: ✗  
-Dodgeable?: ◯
+  
 
  |
 

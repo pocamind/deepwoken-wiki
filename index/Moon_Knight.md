@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 152763
+revid: 162378
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -18,47 +18,66 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 ## **Moveset**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
-**Slash**
+**Slash**  
+(★☆☆)
 
  | Swings its sword at the opponent once or twice.
 
 -   **Insta-executes the player if health is low.**
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+  
+
+ |
 | 
 
-**Kick**
+**Kick**  
+(★★★)
 
  | Deftly kicks the opponent with added momentum from its body.
 
--   **Deals extra damage and dazes if the player is slammed against a wall.**
+-   Deals extra damage and dazes if the player is slammed against a wall.
 
- | ✗ | ◯\* | ◯ | (★★★) |
+  
+
+ |
 | 
 
-**Energy Wave**
+**Energy Wave**  
+(★★☆)
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
+
+  
+
+ |
 | 
 
-**Maledicta Terra**
+**Maledicta Terra**  
+(★★☆)
 
- | Punches the ground, causing a pillar to erupt below the player. The next attack from the stone-knight is usually guaranteed if this goes off. | ✗ | ◯\* | ◯ | (★★☆) |
+ | Punches the ground, causing a pillar to erupt below the player.
+
+-   The next attack from the stone-knight is usually guaranteed if this lands.
+
+  
+
+ |
 | 
 
-**Moonscorched Blades**
+**Moonscorched Blades**  
+(★☆☆)
 
- | Causes a rain of white flaming javelins from the sky**, similar to the critical attack of the [First Light](First_Light.md).**
+ | Causes a rain of white flaming javelins from the sky, similar to the critical attack of the [First Light](First_Light.md).
 
 -   Strangely enough, these deal wind damage.
 -   Moon Knight does NOT attack while this attack is active
 
- | ✗ | ◯ | ◯ | (★☆☆) |
+  
 
-\* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture.
+ |
 
 #### Passives
 

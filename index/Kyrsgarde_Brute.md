@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Brute
-revid: 153313
+revid: 162372
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Monsters, Floor 2]
@@ -16,37 +16,27 @@ An unusual deviation from the typical Kyrsgarde, the Kyrsgarde Brute is a blunt 
 
 ## Attacks
 
-| 
-Name
-
- | 
-
-Description
-
- |
+| Name | Description |
 | --- | --- |
 | 
-
-**Clenching Assault**
+**Clenching Assault**  
+(★★★)
 
  | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. If you are hit by this, the Kyrsan Brute will grab you and drill its arm into you for a few seconds, dealing rapid damage, before throwing you away.
 
-Parryable?: ✗  
-Blockable?: ✗  
-Dodgeable?: ◯
+  
 
  |
 | 
 
-**Slam**
+**Slam**  
+(★★☆)
 
  | It raises it's hands before crushing them onto the ground, dealing moderate damage to you.
 
 -   **THIS WILL INSTA-GRIP IF YOU ARE AT LOW HEALTH.**
 
-Parryable?: ✗  
-Blockable?: ✗  
-Dodgeable?: ◯
+  
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 152692
+revid: 162381
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Etrean Luminant]
@@ -20,67 +20,59 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 
 ### Redskipper
 
-| Name | Description |
+| Name/Danger | Description |
 | --- | --- |
 | 
-Scratch
+**Scratch**  
+(★☆☆)
 
- | Weakly scratches opponent over and over again until knocked.  
+ | Weakly scratches opponent over and over again until knocked.
 
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯  
+  
 
  |
 | 
 
-Flame Ballista  
+**Flame Ballista**  
 (★★☆)
 
- | Conjures a Flaming Arrow before firing it at an opponent.  
+ | Conjures a Flaming Arrow before firing it at an opponent.
 
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯  
+  
 
  |
 
 ### Blueskipper
 
-| Name | Description |
+| Name/Danger | Description |
 | --- | --- |
 | 
-Scratch
-
- | Weakly smacks opponent over and over again until knocked.  
-
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯  
-
- |
-| 
-
-Ice Spikes  
+**Scratch**  
 (★☆☆)
 
- | Conjure a spike of ice from the ground at cursor location.  
+ | Weakly smacks opponent over and over again until knocked.
 
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯  
+  
 
  |
 | 
 
-Warden's Blades  
+**Ice Spikes**  
+(★☆☆)
+
+ | The Blueskipper conjures a spike of ice from the ground.
+
+  
+
+ |
+| 
+
+**Warden's Blades**  
 (★★☆)
 
- | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished.  
+ | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished.
 
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯  
+  
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 151484
+revid: 162353
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -19,7 +19,6 @@ categories: [Items, Outfits, Expert Outfits]
 | droppable | Yes |
 | durability | 1500 |
 | resistances | +15% Elemental Armor, +15% Physical Armor, +5% Fire Armor, +5% Shadow Armor |
-| buffs | +50% Stealth |
 | talents | Foolish Outburst |
 | obtainment | Chests from:, Minityrsa, Songseeker Wilds, Summer Isle |
 | selling_price | 10 |
@@ -37,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +15% Physical resistance, +15% Elemental resistance, +5% Fire resistance, +5% Shadow resistance and +50% [Stealth](Stealth.md).
+This Outfit has 1500 durability and grants +15% Physical resistance, +15% Elemental resistance, +5% Fire resistance, and +5% Shadow resistance.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical, 19.25% Flamecharm, 19.25% Shadowcast, and 15% Elemental.
 

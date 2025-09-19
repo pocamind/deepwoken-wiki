@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 159301
+revid: 162362
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,24 +20,76 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 
 ## Moves
 
-| Name | Animation | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Stomp** | TBA | The Construct steps on the ground, dealing high damage. Hard to notice as the animation is so subtle. This can combine with their walking animation, disguising the attack making it impossible to avoid or parry without predicting it. | ◯ | ◯ | ◯ | (★★☆) |
-| **Swing** | TBA | The Construct uncoils its arms and swings them upwards, dealing high damage.
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Stomp**  
+(★☆☆)
+
+ | The Construct stomps the ground, dealing high damage.
+
+  
+
+ | 
+
+ |
+| 
+
+**Swing**  
+(★★☆)
+
+ | The Construct uncoils its arms and swings them upwards.
+
 -   Flings and ragdolls player.
 
- | ✗ | ✗ | ◯ | (★★☆) |
-| **Roar** | TBA | The Construct roars, purpose is to reset the 'Meteor Punch'. It uses 1 Meteor Punch and does not use it again until after a Roar. This attack does no damage. | ✗ | ✗ | ✗ | (☆☆☆) |
-| **Meteor Punch** | 
+  
 
- | Punches the ground with it's right fist, creating two circular shockwaves that do roughly 200 damage.
+ | 
 
+ |
+| 
+
+**Scream**  
+(☆☆☆)
+
+ | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again.
+
+-   Stay cautious of the Meteor Punch attack after he uses this move.
+
+  
+
+ | 
+
+ |
+| 
+
+**Meteor Punch**  
+(★★★)
+
+ | Punches the ground with it's right fist, creating two circular shock-waves.
+
+-   Deals roughly 200 damage total.
 -   Insta-grips/insta-executes.
 
- | ◯ | ✗ | ◯ | (★★★) |
-| **Lifeweave Flourish** | 
+  
 
- | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls. Heavily blocks your vision, so if you're cheesing it, be careful if it uses this attack and suddenly glitches up the wall next to you without you noticing, or pushes you off onto the golem when they despawn. You cannot walk through some of the tree's leaves. | ✗ | ✗ | ✗ | (★★☆) |
+ | 
+
+ |
+| 
+
+**Lifeweave Flourish**  
+(★★☆)
+
+ | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls.
+
+-   You cannot walk through some of the tree's leaves.
+
+  
+
+ | 
+
+ |
 
 ### Finishers
 

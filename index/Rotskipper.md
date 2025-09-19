@@ -1,6 +1,6 @@
 ---
 title: Rotskipper
-revid: 152013
+revid: 162383
 source: https://deepwoken.fandom.com/wiki/Rotskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters]
@@ -18,33 +18,31 @@ Note that while their form is frail, they will still take a hefty beating if att
 
 ## Moveset
 
-| Name | Description |
+| Name/Danger | Description |
 | --- | --- |
 | 
-Scratch
+**Scratch**  
+(★☆☆)
 
  | Weakly smacks opponent over and over again until knocked.
 
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯
+  
 
  |
 | 
 
-Headbutt
+**Headbutt**  
+(★☆☆)
 
  | Having lost both its arms, it resorts to smacking the opponent with its head. Even weaker, slower _and_ easier to parry than Scratch.
 
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯
+  
 
  |
 
 ## Passives
 
--   Brittle - Rotskippers will die after 3 parries.
+-   Brittle - Rotskippers will lose a limb when parried and will swap to a different limb to continue attacking. After being parried twice, they will resort to headbutting their opponent. The third parry will decapitate the Rotskipper, killing them.
 
 ## Finisher
 

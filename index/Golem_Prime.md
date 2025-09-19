@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 153551
+revid: 162368
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,15 +20,97 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 
 ## Attacks
 
-| Name |  | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Recessive Spin** | The golem starts spinning its arms, rapidly dealing medium damage at an insane speed. Hits 40 times in total. | ◯ | ◯ | ◯ | (★★☆) |
-| **Prime Laser** | The golem charges up a red laser before firing it, dealing massive damage in a small AoE. | ✗ | ✗ | ◯ | (★★☆) |
-| **Laser Barrage** | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly. | ✗ | ✗ | ◯ | (★★★) |
-| **Stomp** | The golem raises its leg before giving a powerful earthshaking stomp. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Ground Slam** | The golem brings its arms over its head, before quickly slamming them down into the ground in a vicious swing. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Uppercut** | The golem winds up its arm behind it, before quickly swinging it outwards. | ✗ | ◯ | ◯ | (★★☆) |
-| **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if the rubble lands on a player. (can lag players on lower-end devices) | ✗ | ✗ | ◯ | (★★★) |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Recessive Spin**  
+(★★☆)
+
+ | The golem starts spinning its arms, rapidly dealing medium damage at an insane speed.
+
+-   Hits 40 times in total.
+-   Grants autoparry frames.
+    -   You can attack the golem through these autoparry frames.
+
+  
+
+ | 
+
+ |
+| 
+
+**Prime Laser**  
+(★★☆)
+
+ | The golem charges up a red laser before firing it, dealing massive damage in a small AoE.
+
+  
+
+ | 
+
+ |
+| 
+
+**Laser Barrage**  
+(★★★)
+
+ | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly.
+
+  
+
+ | 
+
+ |
+| 
+
+**Stomp**  
+(★☆☆)
+
+ | The golem raises its leg before giving a powerful earthshaking stomp.
+
+-   Auto-grips if low enough.
+
+  
+
+ |  |
+| 
+
+**Ground Slam**  
+(★☆☆)
+
+ | The golem brings its arms over its head, before quickly slamming them down into the ground in a vicious swing.
+
+  
+
+ |  |
+| 
+
+**Uppercut**  
+(★★☆)
+
+ | The golem winds up its arm behind it, before quickly swinging it outwards.
+
+  
+
+ |  |
+| 
+
+**Scream**  
+(★★★)
+
+ | The golem screams, making the ceiling above it drop rubble, dealing high damage if the rubble lands on a player.
+
+-   The rubble falls in a random location within a fairly large AoE.
+-   The rubble falls incredibly fast making it very hard to react to.
+-   Due to the above two points, this attack is generally not worth defending yourself against, as there's a chance that it won't even hit you, and even if it would hit you, the chance of you reacting to it and responding accordingly is relatively low.
+-   This can lag players on lower-end devices.
+-   The rubble is parryable with [Force Your Way](Ignition_Deepdelver.md).
+
+  
+
+ | 
+
+ |
 
 ### Passives
 

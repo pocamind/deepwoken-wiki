@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 160992
+revid: 162358
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -47,10 +47,10 @@ This page is about content that has either been removed or changed drastically i
 
 -   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in the game, it was reworked, removing certain aspects of the previous version.
     -   The active passive **Mani Katti** was removed on 13.09.2024, which was then brought back, reworked and renamed into **Silent Cascade** on 19.08.2025.
-    -   This was reworked on the 13th, August 2024.
+    -   This was reworked on the 13th of August in 2024.
 -   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
     -   The Oath mantra **Illusory Realm** was removed alongside this rework.
-    -   This was reworked on the 20th, September 2024.
+    -   This was reworked on the 20th of September in 2024.
 
 -   **([Previous](Oath%253A_Jetstriker/Old_Jetstriker.md))** **Jetstriker -** Reworked, possibly due to the overpowered nature of the _Vigil's Grace_ passive and lack of viability in PVP and PVE outside of that specific passive.
     -   New mantras were added to Jetstriker which previously, the Oath possessed none, these mantras include Jet Kick and False Strike.
@@ -66,7 +66,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Ice Bolt** - User jumps into the air, claps their hands and launches a bolt towards their cursor that scatters ice sheets on the ground.
 -   **Fire Pillars (OLD Fire Eruption)** - An undocumented move that was replaced shortly after the game released, being reworked on December 27, 2021, just 7 days after release.
 -   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on April 18, 2022.
--   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19, 2023
+-   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge scaling with level from 2-10%. Reworked into current iteration on December 19th, 2023
 
 ## Sparks
 
@@ -194,8 +194,6 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
     -   In the October 17th, 2022 update, Heavy Lifting was removed from the game.
--   **Herbivore \[Common Talent, Fortitude\] -** You gain more nutrition from eating plants.
-    -   In the April 15th, 2025 update, Herbivore was removed from the game.
 -   **Hidden Blade \[Common Talent, 30 Agility\] -** Assassinations now leave enemies on the ground longer.
     -   In the November 24th, 2023 update, Hidden Blade was removed from the game.
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)

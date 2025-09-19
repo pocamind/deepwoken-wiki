@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 160318
+revid: 162386
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -24,46 +24,60 @@ Blizzard Knights are a far stronger version of the Stone Knight, spawning in a p
 
 ## Moveset
 
-| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
-**Slash**
+**Slash**  
+(★☆☆)
 
  | Swings its sword at the opponent once or twice.
 
 -   **Insta-executes the player if health is low.**
 
- |  | ◯ | ◯ | ◯ | (★☆☆) |
+  
+
+ |  |
 | 
 
-**Kick**
+**Kick**  
+(★★★)
 
  | Deftly kicks the opponent with added momentum from its body.
 
--   **Deals extra damage and dazes if the player is slammed against a wall.**
+-   Deals extra damage and dazes if the player is slammed against a wall.
 
- |  | ✗ | ◯\* | ◯ | (★★★) |
+  
+
+ |  |
 | 
 
-**Wind Cutter**
+**Wind Cutter**  
+(★★☆)
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. Deals Galebreathe damage. |  | ◯ | ◯ | ◯ | (★★☆) |
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
+
+-   Deals Galebreathe damage.
+
+  
+
+ |  |
 | 
 
-**Terra Eruption**
+**Terra Eruption**  
+(★★☆)
 
  | Punches the ground, causing a pillar to erupt below the player.
 
--   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
+-   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
 
- |  | ✗ | ◯\* | ◯ | (★★☆) |
+  
 
-\* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture
+ |  |
 
 ### Passives
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
--   **Artificial Construct -** [Bloodless Gem](Deep_Gems.md) doesn't work on Stone Knights.
+-   **Artificial Construct -** [Bloodless Gem](Bloodless_Gem.md) doesn't work on Stone Knights.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
 
 ## Finisher
