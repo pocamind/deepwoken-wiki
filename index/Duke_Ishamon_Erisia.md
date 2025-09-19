@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 162270
+revid: 162392
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -28,7 +28,7 @@ After completing his "Memories of Home" challenge in the [Bestiary](Bestiary.md)
 
 ## Moveset
 
-Duke Ishamon Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
+Duke Ishamon Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light Attacksand a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ol8I8E__J_c)._
 
@@ -38,10 +38,11 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Assault**  
 (★☆☆)
 
- | Firmly pummels opponent with basic attacks before finishing up the combo by flourishing them.
+ | Firmly pummels opponent with basic Attacksbefore finishing up the combo by flourishing them.
 
--   Duke Erisia will always start using Assault after using Strong Left.  
-    
+-   Duke Erisia will always and **only** start using Assault after using Strong Left.
+
+  
 
  |  |
 | 
@@ -49,7 +50,11 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Critical**  
 (★★☆)
 
- | Attempts to grab his victim before slamming them into the ground head-first.  
+ | Attempts to grab his victim before slamming them into the ground head-first.
+
+-   Duke Erisia will **only** use this after using Strong Left.
+
+  
 
  |  |
 | 
@@ -57,13 +62,14 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Shields of Erisia**  
 (★★☆)
 
- | Duke Erisia shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
+ | Duke Erisia shields himself in a glowing wind shield. Any Attacksagainst the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
--   Can deflect [Providence's Thorns](Enchantments.md#providences-thorns).
--   Only used once the posture shield is down. (Phase 2)  
-    
+-   Can deflect [Providence's Thorns](<Providence's_Thorns.md>).
+-   Only used once the posture shield is down. (Phase 2).
+
+  
 
  |  |
 | 
@@ -73,8 +79,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
 
--   Essentially an average Legion Kata feint.  
-    
+-   Essentially an average Legion Kata feint.
+
+  
 
  |
 | 
@@ -88,9 +95,10 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Will daze targets if they hit a wall while ragdolled.
 -   Projectiles have good tracking but have a limited turn angle, possibly delaying the hit if it orbits around you.
 -   If evaded for long enough and then you get hit by them, the Duke will not teleport nor deal any damage.
--   Block breaking duke while he is rising into the air cancels it
+-   Block breaking duke while he is rising into the air cancels it.
+-   Auto-grips if knocked or low health.
 
-**This move will insta-grip you if you are hit by the second hit on low health/knocked**  
+  
 
  |  |
 | 
@@ -101,8 +109,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Duke Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
+-   Auto-grips if knocked or low health.
 
-**This move will insta-grip if it hits you while knocked or at low health**  
+  
 
  |  |
 | 
@@ -113,8 +122,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Duke Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
+-   Auto-grips if knocked or low health.
 
-**This move will insta-grip if it hits you while knocked or at low health**  
+  
 
  |  |
 | 
@@ -122,11 +132,13 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Cyclone Bomb**  
 (★★☆)
 
- | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
+ | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried.
 
+-   This attack is very rare.
 -   Covers a large Area of Effect.
+-   Auto-grips if knocked or low health.
 
-**This move will insta-grip if it hits you while knocked or at low health**  
+  
 
  |  |
 | 
@@ -136,8 +148,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Duke Erisia will charge up a punch, and teleport to his target,
 
--   Duke Erisia will transition to using Assault after using Strong Left.  
-    
+-   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
+
+  
 
  |  |
 | 
@@ -146,11 +159,12 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Duke Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
--   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
+-   Mindless Servants are essentially health-packs and serve no real threat.
 -   If fought solo, they may become a threat as they will combo you while fighting Ishamon if not killed fast enough.
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
--   Only used once the posture shield is down. (Phase 2)  
-    
+-   Only used once the posture shield is down. (Phase 2)
+
+  
 
  |  |
 | 
@@ -160,8 +174,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | An explosion of blue ether around the user that pushes opponents away.
 
--   He always vents whenever he gets flourished into a wall.  
-    
+-   He always vents whenever he gets flourished into a wall.
+
+  
 
  |  |
 
@@ -186,7 +201,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Matador - Duke Erisia deals +20% more damage to human enemies with hyperarmor.
 -   Showstopper - When you roll through one of Duke Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
 -   Berserker - When Duke Erisia knocks an enemy, he gains 20% DMG resistance for 15 seconds.
--   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
+-   Charged Return - Being under an elemental status effect causes Duke's M1's and critical Attacksto do 20% more damage.
 -   Boss Armor - Duke Erisia is immune to instant guard break effects.
 
 ## Finisher

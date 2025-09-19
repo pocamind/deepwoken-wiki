@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 153748
+revid: 162395
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]
@@ -19,21 +19,71 @@ They wear a Rebel's Bandana, Novice Brace, [Navaen Nomad Robes](Navaen_Nomad_Rob
 
 An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Longspear.md) or [Fists](Fists.md) (**Way of Navae**) along with the [Frostdraw](Frostdraw.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
-\[[Fists](Fists.md)\] Firmly pummels opponent before finishing up the combo by kicking them.
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
- | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Throws spear at opponent and then pulling them in with a white chain.
+ | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
+
+\[[Fists](Fists.md)\] Firmly pummels opponent before finishing up the combo by kicking them.  
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Throws spear at opponent and then pulling them in with a white chain.
 
 \[[Fists](Fists.md)\] Raises right leg before firmly slamming it down into the ground below.
 
- | ◯ | ✗ | (★★☆) |
-| Ice Daggers | The user forms and tosses daggers of ice at opponents. | ◯ | ◯ | (★☆☆) |
-| Ice Blade | creates two blades of ice and rushes forward rapidly slashing. | ◯ | ◯ | (★☆☆) |
-| Ice Chain | User forms chains of ice that latch onto opponents. | ◯ | ◯ | (★☆☆) |
-| Rising Frost | The user summons a glaive of ice and does a barrage attack that raises both the caster and the opponent into the air. | ◯ | ◯ | (★★☆) |
+-   The Way of Navae Fist critical is unblockable.
+
+  
+
+ |
+| 
+
+**Ice Daggers**  
+(★☆☆)
+
+ | The user forms and tosses daggers of ice at opponents.
+
+  
+
+ |
+| 
+
+**Ice Blade**  
+(★☆☆)
+
+ | creates two blades of ice and rushes forward rapidly slashing.
+
+  
+
+ |
+| 
+
+**Ice Chain**  
+(★☆☆)
+
+ | User forms chains of ice that latch onto opponents.
+
+  
+
+ |
+| 
+
+**Rising Frost**  
+(★★☆)
+
+ | The user summons a glaive of ice and does a barrage attack that raises both the caster and the opponent into the air.
+
+  
+
+ |
 
 ### Talents
 

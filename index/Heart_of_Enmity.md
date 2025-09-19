@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 160459
+revid: 162407
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -34,17 +34,30 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 **Enmity's Call**  
 (★★☆)
 
- | The Heart of Enmity raises his axe into the air and summons 3 Enmity Servants, which are Soul [Enforcers](Enforcer.md) with bright yellow eyes. These serve to heal you during the fight via killing them. Each has 8,000 HP, and does not scale per player posture break moves have the same effect as in bosses. They don't have the enforcer pull or spin move, carnivore is disabled.
+ | The Heart of Enmity raises his axe into the air and summons 3 Enmity Servants, which are Soul [Enforcers](Enforcer.md) with bright yellow eyes.
 
- |
+-   These serve to heal you during the fight via killing them.
+-   Each Servant has 8,000 HP, and does not scale per player.
+-   Posture break moves have the same effect as in bosses.
+-   They don't have the Enforcer Pull or Whirlwind attacks.
+-   [Carnivore](Talents.md#apex-predator) is disabled against the Servants of Enmity.
+
+  
+
+ |  |
 | 
 
 **Uppercut of Enmity**  
 (★★★)
 
- | Heart of Enmity kneels down and grabs a nearby player, tosses them up then bats them with his axe. This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other. It is best advised to try blocking this attack instead of parrying/dodging as he will punish you for both, you need good posture + the Ardour murmur however.
+ | Heart of Enmity kneels down and grabs a nearby player, tosses them up then bats them with his axe.
 
- |
+-   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
+-   It is best advised to try blocking this attack instead of parrying/dodging as he will punish you for both, you need good posture + the [Ardour](Murmur%253A_Ardour.md) Murmur however.
+
+  
+
+ |  |
 | 
 
 **Sadist's Fury**  
@@ -52,31 +65,46 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
  | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
 
- |
+  
+
+ |  |
 | 
 
 **The Brutalizer**  
 (★★☆)
 
- | The Heart of Enmity delivers a powerful stomp then slamming his axe down, the stomp knocks down the victim. The stomp may also be cancelled into Condemnation's Fall, and Sadist's Fury.
+ | The Heart of Enmity delivers a powerful stomp then slamming his axe down, the stomp knocks down the victim.
 
- |
+-   The stomp may also be cancelled into Condemnation's Fall, and Sadist's Fury.
+
+  
+
+ |  |
 | 
 
 **Condemnation's Fall**  
 (★★☆)
 
- | The Heart of Enmity slightly kneels then tosses his axe towards where he's aiming, causing an aoe where the axe lands and major damage alongside ragdoll. he uses this attack when someone is far from him. Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
+ | The Heart of Enmity slightly kneels then tosses his axe towards where he's aiming, causing an AoE where the axe lands and major damage alongside ragdoll.
 
- |
+-   He uses this attack when someone is far from him.
+-   Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
+
+  
+
+ |  |
 | 
 
 **Event Horizon**  
 (★★☆)
 
- | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage. During this charge up, Enmity is free to be hit.
+ | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
 
- |
+-   During this charge up, Enmity is free to be hit.
+
+  
+
+ |  |
 
 ## Passives
 

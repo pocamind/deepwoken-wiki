@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 160481
+revid: 162405
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -20,7 +20,7 @@ The Doom of Caeranthil is a [World Event](World_Events.md) [Boss](Bosses.md) tha
 
 The Doom is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
 
-The Doom will swim across the seas of the [Etrean Luminant](Luminants.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
+The Doom will swim across the seas of the [Etrean Luminant](Luminants.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of Erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
 
 Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted to those with no Murmur, a chest with loot will also spawn at the player's location, and the player will be granted a small amount of [Etrea](Etrea.md) reputation.
 
@@ -34,10 +34,13 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 | --- | --- | --- |
 | 
 **Dive**  
+(☆☆☆)
 
  | The Doom dives in the water, taking a couple of seconds before submerging into the water.
 
 -   He will use either Sudden Ambush or Pressure Eruption after this move.
+
+  
 
  | 
 
@@ -45,19 +48,26 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 | 
 
 **Pressure Eruption**  
-★★
+(★★☆)
 
  | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
+
+  
 
  |  |
 | 
 
 **Sudden Ambush**  
-★★★
+(★★★)
 
- | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity, instantly killing them. Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this. Auto-grips.
+ | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity, instantly killing them.
 
+-   Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this.
+-   Auto-grips and instant kills.
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
+-   Surprisingly, this is parryable with [Force Your Way](Ignition_Deepdelver.md).
+
+  
 
  | 
 
@@ -65,9 +75,11 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 | 
 
 **Barrel Roll**  
-★
+(★☆☆)
 
- | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage
+ | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage.
+
+  
 
  | 
 
@@ -75,9 +87,11 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 | 
 
 **Tidal Roar**  
-★
+(★☆☆)
 
- | The Doom charges up, before unleashing a powerful roar that does damage, summoning multiple waves that do damage to boats and carry away swept enemies
+ | The Doom charges up, before unleashing a powerful roar that does damage, summoning multiple waves that do damage to boats and carry away swept enemies.
+
+  
 
  | 
 
@@ -85,19 +99,29 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 | 
 
 **Whirlpool**  
-★★
+(★★☆)
 
  | The Doom starts swimming in a circle before creating a massive whirlpool that continuously does massive damage and trapping enemies inside.
+
+-   This attack is only used when there are enemies nearby.
+-   This can fling you back into the attack, dealing very significant damage.
+-   It is highly recommended to try to avoid this attack if possible.
+
+  
 
  |  |
 | 
 
 **Luminant Beam**  
-★★★
+(★★★)
 
- | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path. Auto-grips. Appears to only do it if it is infront of etris docks and aims near the well near the dock.
+ | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path.
 
-Bypasses [Celtorian Tideknight](Celtorian_Tideknight.md)'s talent  
+-   Auto-grips and instant kills.
+-   This attack is scripted to only be used when Caeranthil swims to [Etris](Etris.md)' docks and this attack will always be aimed at the docks.
+-   Bypasses [Celtorian Tideknight](Celtorian_Tideknight.md)'s Talent.
+
+  
 
  | 
 

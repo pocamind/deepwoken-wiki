@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 160966
+revid: 162412
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -33,28 +33,32 @@ Titus was expected to retire after a few missions prior to his capture, but may 
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**The Legion's Martial Arts  
-**(★☆☆)
+**The Legion's Martial Arts**  
+(★☆☆)
 
  | Titus firmly swings his fists at his opponent with hyperarmor.
 
 -   These moves are typically slow and can often lead to the player missing a parry.
 
+  
+
  |  |
 | 
 
-**Imperator's Fury  
-**(★☆☆)
+**Imperator's Fury**  
+(★☆☆)
 
  | Titus quickly slams down both arms into the ground, knocking players away with a powerful vent.
+
+  
 
  | 
 
  |
 | 
 
-**Worldpiercing Deluge  
-**(★☆☆)
+**Worldpiercing Deluge**  
+(★☆☆)
 
  | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
 
@@ -66,20 +70,22 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Worldshattering Smackdown  
-**(★★☆)
+**Worldshattering Smackdown**  
+(★★☆)
 
  | Titus winds up with both arms, grabbing the opponent before smacking them into the ground.
 
 -   This move is very similar to Worldpiercing Deluge, in which it shares the same animation.
+
+  
 
  | 
 
  |
 | 
 
-**Commander's Rage  
-**(★★☆)
+**Commander's Rage**  
+(★★☆)
 
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
 
@@ -88,8 +94,8 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Commander's Whirlthrow  
-**(★★★)
+**Commander's Whirlthrow**  
+(★★★)
 
  | Titus firmly grabs his opponent, spins around, and sends them flying.
 
@@ -101,8 +107,8 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Splitting Ascension  
-**(★★★)
+**Splitting Ascension**  
+(★★★)
 
  | Titus ascends into the air, crashing into the ground and knocking down opponents.
 
@@ -111,8 +117,8 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Sovereign Drive  
-**(★★☆)
+**Sovereign Drive**  
+(★★☆)
 
  | Titus dashes forward in a blink, knocking down enemies in its path.
 
@@ -123,8 +129,8 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Skycrash  
-**(★★☆)
+**Skycrash**  
+(★★☆)
 
  | Titus leaps towards their opponent, stomping and knocking them away when hit.
 
@@ -149,8 +155,8 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Warp Kick  
-**(★★☆)
+**Warp Kick**  
+(★★☆)
 
  | In a flash, Titus warps to a random opponent and kicking them away.
 
@@ -162,8 +168,8 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Blighted Sparks  
-**(★★☆)
+**Blighted Sparks**  
+(★★☆)
 
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
@@ -174,8 +180,8 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  |
 | 
 
-**Chorus Divide: Shattering Crescendo  
-**(★★☆)
+**Chorus Divide: Shattering Crescendo**  
+(★★☆)
 
  | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will also be knocked further back.
 

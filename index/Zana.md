@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 160010
+revid: 162400
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests, Rings]
@@ -128,17 +128,27 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
 
 Zana's arsenal consists only of a [Shattered Katana](Shattered_Katana.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Firmly swings blade at opponent and finishing the combo by kicking them.
+
+  
+
+ |
 | 
 
-Critical
+**Critical**  
+(★☆☆)
 
- | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★☆☆) |
+ | Zana performs a quick vertical and horizontal slash, which he then follows up with two additional delayed aftercuts.
+
+  
+
+ |
 
 ## Finisher
 

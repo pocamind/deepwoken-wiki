@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 161058
+revid: 162390
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -30,13 +30,17 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 _For a visual guide, consider watching [this video](https://www.youtube.com/watch?v=_m4IQHs8p_Y)._
 
-| Name | Description/Risk | Media |
+| Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
 **Triple Blood Appendage**  
 (★☆☆)
 
- | Chaser shoots three long appendages out, they latch onto a player/surface before returning. Blocking all three hits will cause a lot of posture damage, so attempt to parry it.
+ | Chaser shoots three long appendages out, they latch onto a player/surface before returning.
+
+-   Blocking all three hits will cause a lot of posture damage, so attempt to parry it.
+
+  
 
  |  |
 | 
@@ -48,13 +52,19 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   There is an indicator and the unparriable sound cue before the attack.
 
+  
+
  |  |
 | 
 
 **Burning Blood Explosion**  
 (★★☆)
 
- | After a short casting sound (), Chaser rapidly forms a moderately large explosion of blood under the player, which he then ignites. Does low posture damage, but comes out faster than his other moves.
+ | After a short casting sound, Chaser rapidly forms a moderately large explosion of blood under the player, which he then ignites.
+
+-   Does low posture damage, but comes out faster than his other moves.
+-   The aforementioned casting sound:  
+    
 
  |  |
 | 
@@ -62,7 +72,11 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 **Triple Blood Wave**  
 (★★☆)
 
- | Three waves of blood mist spread out under Chaser, covering the whole area. Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit.
+ | Three waves of blood mist spread out under Chaser, covering the whole area.
+
+-   Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit.
+
+  
 
  |  |
 | 
@@ -74,6 +88,8 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
 
+  
+
  |  |
 | 
 
@@ -82,7 +98,9 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
  | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.
 
--   _**The first instance of this does the most damage**_
+-   The first instance of this does the most damage.
+
+  
 
  |  |
 | 
@@ -94,13 +112,19 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 -   Chaser will use this move everytime after he leaves his vulnerable state.
 -   He cannot use this move after all blood jars have been broken.
 
+  
+
  |  |
 | 
 
 **Last Resort**  
 (★☆☆)
 
- | Chaser unleashes around 25 localised attacks on the player(s) while utilizing all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack.
+ | Chaser unleashes around 25 localised attacks on the player(s) while utilizing all of his moves in a frenzy.
+
+-   You must stay in the circle just below him to avoid this attack.
+
+  
 
  |  |
 | 
@@ -108,7 +132,12 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 **Body Slam**  
 (★☆☆)
 
- | During his final phase, the blood tendrils that take hold of his body repeatedly slam Chaser onto the floor. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Last Resort. The slams do a moderate amount of damage as well.
+ | During his final phase, the blood tendrils that take hold of his body repeatedly slam Chaser onto the floor.
+
+-   This pushes away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Last Resort.
+-   The slams do a moderate amount of damage as well.
+
+  
 
  |  |
 | 
@@ -116,16 +145,15 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 **Blood Frenzy**  
 (★★☆)
 
- | Chaser laughs then use up to 4 attacks in quick succession.
+ | Chaser laughs then uses up to 4 attacks in quick succession.
 
 -   Chaser will be highlighted in red while this attack is in use.
 -   This attack is only available once there are no (or only a few) jars left.
 -   This attack also drains him for 250 health.
 
- |  |
+  
 
-\*While these moves can be parried and blocked, they still fling you.  
-\*\*Requires Brick Wall to be fully blocked
+ |  |
 
 ## Finisher
 

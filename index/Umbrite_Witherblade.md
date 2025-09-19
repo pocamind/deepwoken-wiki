@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 162366
+revid: 162419
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, Craftable, Medium Weapons, Relics]
@@ -66,9 +66,7 @@ The cooldown for this critical is **8** seconds.
 -   During it's release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat noises still stay.
 -   While equipped, the Umbrite Witherblade will radiate heartbeat noises as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
-    -   Extremely Similar to Umbrite Witherblade also from Overlord season IV
-        
-        This weapon could be a reference to the weapon Ainz Ooal Gown summons from portal in Overlord.
+-   Umbrite Witherblade's apperance is extremely similar to a weapon shown in _Overlord_, specifically in the fourth season.[\[1\]](#cite-note-1) This could be a potential inspiration for the weapon we see in Deepwoken.
 
 ## Version History
 
@@ -79,7 +77,7 @@ The cooldown for this critical is **8** seconds.
     -   Increased Umbrite Witherblade's converted wither on M1 slightly
     -   Increased Umbrite Witherblade's critical cooldown (6s -> 8s)
 -   December Somewhenth 2024.
-    -   Umbrite Witherblade crafting cost reduced (10 -> 3 [Umbrite](Ores.md))
+    -   Umbrite Witherblade crafting cost reduced (10 -> 3 [Umbrite](Ores.md#umbrite))
 -   December 24th 2024.
     -   Increased Umbrite Witherblade swing speed (1x -> 1.02x)
 -   December 19th 2024.
@@ -95,3 +93,7 @@ The cooldown for this critical is **8** seconds.
     -   Critical hyperarmor frames reduced (0.25s -> 0.2s)
 -   December 13th 2024.
     -   Added to the game
+
+## References
+
+1.  [↑](#cite-ref-1)
