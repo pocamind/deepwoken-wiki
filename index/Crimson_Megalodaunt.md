@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 162162
+revid: 162451
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -32,8 +32,6 @@ They are a significantly rarer sight, and are only found in selected locations a
 -   If the Crimson Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
     -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
-  
-
  | 
 
 File:12380435ffcad9ab148cc4efc0d2431d.gif
@@ -51,8 +49,6 @@ File:12380435ffcad9ab148cc4efc0d2431d.gif
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
-  
-
  | 
 
 File:5cf51f97715cb446694e04e182b80cde.gif
@@ -66,8 +62,6 @@ File:5cf51f97715cb446694e04e182b80cde.gif
  | The Crimson Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   There is a shorter ranged AOE version and a single target version. Both function the same.
-
-  
 
  | 
 
@@ -83,8 +77,6 @@ File:B55204dfa9965dc0a031810bc2fd80e9.gif
 
 -   **Autogrips**
 
-  
-
  | 
 
 File:45ff19cd1d3ec14a54164a391764943e.gif
@@ -96,8 +88,6 @@ File:45ff19cd1d3ec14a54164a391764943e.gif
 (★☆☆)
 
  | The Crimson turns invisible, and after a few seconds it appears again behind the target, unleashing a drop kick. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground)
-
-  
 
  | 
 
@@ -112,8 +102,6 @@ File:45ff19cd1d3ec14a54164a391764943e.gif
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
-  
-
  | 
 
  |
@@ -123,8 +111,6 @@ File:45ff19cd1d3ec14a54164a391764943e.gif
 (★★☆)
 
  | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict Flamecharm damage.
-
-  
 
  | 
 
@@ -137,8 +123,6 @@ File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
 (☆☆☆)
 
  | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
-
-  
 
  | 
 

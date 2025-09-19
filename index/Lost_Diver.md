@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 162314
+revid: 162478
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,8 +28,6 @@ Assault
 
  | The Lost Diver firmly swings blade at opponent before finishing up the combo by kicking them.
 
-  
-
  |  |
 | 
 
@@ -37,8 +35,6 @@ Critical
 (★★☆)
 
  | The Lost Diver raises right leg before firmly slamming it down into the ground below.
-
-  
 
  |  |
 | 
@@ -48,8 +44,6 @@ Gale Lunge
 
  | The Lost Diver lunges forward with their weapon coated in wind.
 
-  
-
  |  |
 | 
 
@@ -57,8 +51,6 @@ Prominence Draw
 (★★☆)
 
  | The Lost Diver locks onto all the closest target that is in their range, then dashes forward and performs a large AoE slice.
-
-  
 
  |  |
 

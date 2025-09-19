@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Crawler
-revid: 162373
+revid: 162474
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Crawler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Floor 2, Layer 2, Monsters]
@@ -25,8 +25,6 @@ It should be noted that the Kyrsgarde Crawlers in the [Sunken Railways](The_Sunk
 (★★☆)
 
  | The Kyrsgarde Crawler backs away from it's opponent before approaching forward, going invisible and reappearing to perform a 2-hit combo at it's opponent.
-
-  
 
  |
 

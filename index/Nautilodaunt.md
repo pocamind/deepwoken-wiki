@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 162236
+revid: 162487
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,8 +44,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 -   These have long hitstun with very little delay between each hit, **do not** attempt to retaliate or parry immediately after being hit, as you will only be interrupted again. Instead, let the Nautilodaunt hit you two more times before attempting to parry its next punch.
 
-  
-
  |
 | 
 
@@ -53,8 +51,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 (★★☆)
 
  | Nautilodaunt's punches randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you, or using **Flip-Kick**.
-
-  
 
  |
 | 
@@ -66,8 +62,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 -   This is most commonly used to close the distance between targets that are at a higher elevation than it; often being used after Grand Stomp.
 
-  
-
  |
 | 
 
@@ -75,8 +69,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 (★★★)
 
  | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey.
-
-  
 
  |
 | 
@@ -89,8 +81,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
 -   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
 
-  
-
  |
 | 
 
@@ -101,8 +91,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 -   If the Nautilodaunt feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
 
-  
-
  |
 | 
 
@@ -110,8 +98,6 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 (★☆☆)
 
  | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt will near-completely negate the damage of said Mantra. This can happen even during other moves.
-
-  
 
  |
 

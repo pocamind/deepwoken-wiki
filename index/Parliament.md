@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 162382
+revid: 162491
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -29,8 +29,6 @@ All of its damaging attacks do shadow and physical damage and all apply the shad
 -   Parliament can use this multiple times back-to-back.
 -   Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
 
-  
-
  | 
 
  |
@@ -40,8 +38,6 @@ All of its damaging attacks do shadow and physical damage and all apply the shad
 (★★☆)
 
  | An unparryable swipe from the Parliament's left arm, that looks similar to the normal slash but it is much faster.
-
-  
 
  |  |
 | 
@@ -54,8 +50,6 @@ All of its damaging attacks do shadow and physical damage and all apply the shad
 -   Parliament uses this when they spawn.
 -   Notably, Shade Cloak has Shadow Devour's SFX.
 
-  
-
  |  |
 | 
 
@@ -64,8 +58,6 @@ Curb Stomp
 
  | The Parliament lifts its leg into a stomp, undodgable.
 
-  
-
  |  |
 | 
 
@@ -73,8 +65,6 @@ Feather Coat
 (★★☆)
 
  | Parliament will raise their hand to buff themselves, causing black feathers to appear around their body and dealing self damage, during this state, all attacks will have 100% chip.
-
-  
 
  |  |
 | 
@@ -87,8 +77,6 @@ Feather Teleport
 -   Typically used after Talon Swipe.
 -   After using Feather Teleport, the Owl will typically use Flock of Feathers or Overhead Grab.
 
-  
-
  |
 | 
 
@@ -98,8 +86,6 @@ Owl Dash
  | Kneels on the ground for a moment before performing a spinning assault in the target's direction.
 
 -   Deals Shadowcast damage.
-
-  
 
  | 
 
@@ -114,8 +100,6 @@ Overhead Grab
 -   This is telegraphed by a small cloud of feathers suddenly appearing around you.
 -   It is recommended to look up to time your dodge, as the Owl will appear above you.
 
-  
-
  | 
 
  |
@@ -129,8 +113,6 @@ Flock of Feathers
 -   Overhead Grab/Owl Dash is typically used after this.
 -   Deals Shadowcast damage.
 -   Does not grant autoparry frames, each feather must be parried individually.
-
-  
 
  | 
 

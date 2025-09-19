@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 162385
+revid: 162498
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -26,8 +26,6 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 -   **Insta-executes the player if health is low.**
 
-  
-
  |  |
 | 
 
@@ -38,8 +36,6 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 -   Deals extra damage and dazes if the player is slammed against a wall.
 
-  
-
  |  |
 | 
 
@@ -47,8 +43,6 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 (★★☆)
 
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
-
-  
 
  |  |
 | 
@@ -60,8 +54,6 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 -   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
 
-  
-
  |  |
 | 
 
@@ -69,8 +61,6 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 (★★☆)
 
  | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical.
-
-  
 
  |  |
 

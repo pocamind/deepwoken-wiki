@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 162329
+revid: 162456
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -32,8 +32,6 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
 -   Blocking it negates the sanity loss, but it still webs and pulls you.
 
-  
-
  | 
 
  |
@@ -46,8 +44,6 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
 -   This move will auto-grip if it hits you while knocked or at low health.
 
-  
-
  | 
 
  |
@@ -58,8 +54,6 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
  | The Widow slashes using her right leg with long charge, dealing moderate slashing damage.
 
-  
-
  | 
 
  |
@@ -69,8 +63,6 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 (★☆☆)
 
  | The Widow quickly lunges with both of her legs, dealing moderate damage.
-
-  
 
  | 
 
@@ -83,8 +75,6 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
  | The Widow charges up her leg and slashes her target three times in succession.
 
 -   Does not grant autoparry frames, all slashes must be parried individually.
-
-  
 
  | 
 

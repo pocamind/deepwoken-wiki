@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 162369
+revid: 162467
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Hallowtide]
@@ -26,8 +26,6 @@ Gourdskippers, also known as Pumpskippers, are a unique enemy exclusive to the T
 
 -   Infects the player on hit, turning them into a Gourdskipper.
 -   It is highly recommended that you just run away from the Gourdskipper instead of trying to parry, block, or dodge its attacks as it will infect you if it hits you once.
-
-  
 
  |
 

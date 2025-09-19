@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 162231
+revid: 162472
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -30,37 +30,25 @@ A King Thresher is required to be killed at the Starswept Valley to complete [Je
 | --- | --- | --- |
 | **Arm Swipe**  
 (★☆☆) | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage.
-  
-
  |  |
 | **Bite**  
 (★☆☆) | The King Thresher bites 3 times in quick succession. Deals moderate damage.
-
-  
 
  |  |
 | **Tail Swipe**  
 (★★☆) | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
 
-  
-
  |  |
 | **Burrow**  
 (★★☆) | The King Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage.
-
-  
 
  |  |
 | **Royal Breath**  
 (★★★) | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged.
 
-  
-
  |  |
 | **Body Slam**  
 (★★☆) | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage.
-
-  
 
  |  |
 

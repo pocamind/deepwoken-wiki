@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 162313
+revid: 162464
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -30,8 +30,6 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 
 -   Deals 25 damage. (Roughly 40+ damage if corrupted)
 
-  
-
  |  |
 | 
 
@@ -45,8 +43,6 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 -   Can be used in the overworld unlike the regular Lionfish's Cero.
 -   This will auto-grip you if hit by it at low health.
     -   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
-
-  
 
  |  |
 

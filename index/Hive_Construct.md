@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 162361
+revid: 162465
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies, Ambush Enemies]
@@ -34,8 +34,6 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
  | The Construct stomps the ground, dealing high damage.
 
-  
-
  | 
 
  |
@@ -48,8 +46,6 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
 -   Flings and ragdolls player.
 
-  
-
  | 
 
  |
@@ -61,8 +57,6 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
  | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again.
 
 -   Stay cautious of the Meteor Punch attack after he uses this move.
-
-  
 
  | 
 
@@ -77,8 +71,6 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 -   Deals roughly 200 damage total.
 -   Insta-grips/insta-executes.
 
-  
-
  | 
 
  |
@@ -90,8 +82,6 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
  | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls.
 
 -   You cannot walk through some of the tree's leaves.
-
-  
 
  | 
 

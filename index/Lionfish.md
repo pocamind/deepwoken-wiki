@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 162311
+revid: 162477
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -36,8 +36,6 @@ Its main drop is the Lionfish Scale, which is used for crafting armor sets.
 -   Each Bite deals **25 damage** (roughly **40+ damage** if corrupted).
 -   Uses this move to grip players in the Overworld.
 
-  
-
  |
 | 
 
@@ -49,8 +47,6 @@ Its main drop is the Lionfish Scale, which is used for crafting armor sets.
 -   This damages your ship and may damage you too if within range.
 -   This is only used while you are on a ship.
 
-  
-
  |
 | 
 
@@ -60,8 +56,6 @@ Its main drop is the Lionfish Scale, which is used for crafting armor sets.
  | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent.
 
 -   This attack is Overworld exclusive.
-
-  
 
  |
 | 
@@ -76,8 +70,6 @@ Its main drop is the Lionfish Scale, which is used for crafting armor sets.
 -   If the player is low enough, It will **AUTO-GRIP** them.
 -   The Lionfish can also use Cero specifically to grip knocked players with an extremely reduced windup.
     -   Cero used in this way will have an auditory difference as the sound of the charge up will be sped up and higher pitched.
-
-  
 
  |
 

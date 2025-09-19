@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 162381
+revid: 162488
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Etrean Luminant]
@@ -28,8 +28,6 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 
  | Weakly scratches opponent over and over again until knocked.
 
-  
-
  |
 | 
 
@@ -37,8 +35,6 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 (★★☆)
 
  | Conjures a Flaming Arrow before firing it at an opponent.
-
-  
 
  |
 
@@ -52,8 +48,6 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 
  | Weakly smacks opponent over and over again until knocked.
 
-  
-
  |
 | 
 
@@ -62,8 +56,6 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 
  | The Blueskipper conjures a spike of ice from the ground.
 
-  
-
  |
 | 
 
@@ -71,8 +63,6 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 (★★☆)
 
  | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished.
-
-  
 
  |
 

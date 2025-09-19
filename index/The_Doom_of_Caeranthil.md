@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 162405
+revid: 162502
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -40,8 +40,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 
 -   He will use either Sudden Ambush or Pressure Eruption after this move.
 
-  
-
  | 
 
  |
@@ -51,8 +49,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 (★★☆)
 
  | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
-
-  
 
  |  |
 | 
@@ -67,8 +63,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 -   Surprisingly, this is parryable with [Force Your Way](Ignition_Deepdelver.md).
 
-  
-
  | 
 
  |
@@ -79,8 +73,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 
  | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage.
 
-  
-
  | 
 
  |
@@ -90,8 +82,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 (★☆☆)
 
  | The Doom charges up, before unleashing a powerful roar that does damage, summoning multiple waves that do damage to boats and carry away swept enemies.
-
-  
 
  | 
 
@@ -107,8 +97,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 -   This can fling you back into the attack, dealing very significant damage.
 -   It is highly recommended to try to avoid this attack if possible.
 
-  
-
  |  |
 | 
 
@@ -120,8 +108,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 -   Auto-grips and instant kills.
 -   This attack is scripted to only be used when Caeranthil swims to [Etris](Etris.md)' docks and this attack will always be aimed at the docks.
 -   Bypasses [Celtorian Tideknight](Celtorian_Tideknight.md)'s Talent.
-
-  
 
  | 
 

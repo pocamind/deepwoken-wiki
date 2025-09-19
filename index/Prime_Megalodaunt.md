@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 162170
+revid: 162493
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,8 +44,6 @@ Media
 -   The only variant that can slash **four times** in quick succession.
 -   Prime's Slash with a much quicker pace and does not leave much time for you to attack back. Do not be greedy for hits or you can get punished easily.
 
-  
-
  | 
 
  |
@@ -61,8 +59,6 @@ Media
 -   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
-  
-
  | 
 
  |
@@ -74,8 +70,6 @@ Media
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   There is a shorter ranged AOE version and a single target version. Both function the same.
-
-  
 
  | 
 
@@ -89,8 +83,6 @@ Media
 
 -   **Autogrips**
 
-  
-
  | 
 
  |
@@ -100,8 +92,6 @@ Media
 (★★☆)
 
  | The Prime turns invisible. After a few seconds, it will become visible again, performing a dropkick attack.
-
-  
 
  | 
 
@@ -115,8 +105,6 @@ Media
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
-
-  
 
  | 
 
@@ -132,8 +120,6 @@ Media
 -   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
 -   Can either fire it immediately or delay its use of the laser beam. Watch carefully for what it will try to do.
 
-  
-
  | 
 
  |
@@ -143,8 +129,6 @@ Media
 (☆☆☆)
 
  | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
-
-  
 
  | 
 

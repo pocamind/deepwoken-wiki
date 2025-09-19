@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 162307
+revid: 162445
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -33,8 +33,6 @@ Being some of the oldest creatures discovered, their common name comes from the 
 
  | Flies up, swoops down and attacks the player.
 
-  
-
  | 
 
  |
@@ -44,8 +42,6 @@ Being some of the oldest creatures discovered, their common name comes from the 
 (★☆☆)
 
  | Raises its leg and scratches the player.
-
-  
 
  | 
 

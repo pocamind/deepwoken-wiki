@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 162166
+revid: 162442
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,8 +40,6 @@ Despite all of the above, they behave like regular Megalodaunts.
 -   If the Megalodaunt slashes 2 times in a row, it will have a short period where it doesn't attack, letting you hit it 3 times with MED or LHT or 2 times with HVY. This attack chain never occurs twice in a row.
     -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
-  
-
  | 
 
  |
@@ -57,8 +55,6 @@ Despite all of the above, they behave like regular Megalodaunts.
 -   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
-  
-
  | 
 
  |
@@ -70,8 +66,6 @@ Despite all of the above, they behave like regular Megalodaunts.
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   There is a shorter ranged AOE version and a single target version. Both function the same.
-
-  
 
  | 
 
@@ -86,8 +80,6 @@ Despite all of the above, they behave like regular Megalodaunts.
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.\\
 
-  
-
  | 
 
  |
@@ -100,8 +92,6 @@ Despite all of the above, they behave like regular Megalodaunts.
 
 -   **Autogrips**
 
-  
-
  | 
 
  |
@@ -112,8 +102,6 @@ Despite all of the above, they behave like regular Megalodaunts.
 
  | The alpha turns invisible, with a white ring signifying where they are. After a few seconds, it will turn visible again, throwing out its entire body in a drop kick. This attack is rarely used. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground.)
 
-  
-
  | 
 
  |
@@ -123,8 +111,6 @@ Despite all of the above, they behave like regular Megalodaunts.
 (☆☆☆)
 
  | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
-
-  
 
  | 
 

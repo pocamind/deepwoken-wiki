@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 162395
+revid: 162460
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]
@@ -27,7 +27,7 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 
  | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
 
-\[[Fists](Fists.md)\] Firmly pummels opponent before finishing up the combo by kicking them.  
+\[[Fists](Fists.md)\] Firmly pummels opponent before finishing up the combo by kicking them.
 
  |
 | 
@@ -41,8 +41,6 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 
 -   The Way of Navae Fist critical is unblockable.
 
-  
-
  |
 | 
 
@@ -50,8 +48,6 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 (★☆☆)
 
  | The user forms and tosses daggers of ice at opponents.
-
-  
 
  |
 | 
@@ -61,8 +57,6 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 
  | creates two blades of ice and rushes forward rapidly slashing.
 
-  
-
  |
 | 
 
@@ -71,8 +65,6 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 
  | User forms chains of ice that latch onto opponents.
 
-  
-
  |
 | 
 
@@ -80,8 +72,6 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 (★★☆)
 
  | The user summons a glaive of ice and does a barrage attack that raises both the caster and the opponent into the air.
-
-  
 
  |
 

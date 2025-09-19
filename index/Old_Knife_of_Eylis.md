@@ -1,6 +1,6 @@
 ---
 title: Old Knife of Eylis
-revid: 162396
+revid: 162490
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -26,8 +26,6 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | Swiftly swings dagger at opponent and finishing up the combo by kicking them.
 
-  
-
  |
 | 
 
@@ -35,8 +33,6 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 (★★☆)
 
  | The experienced knife thrusts forward whilst creating a wave of red energy.
-
-  
 
  |
 | 
@@ -46,8 +42,6 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | Conjures a growing orb that slows down the movement of everyone except their own members.
 
-  
-
  |
 | 
 
@@ -55,8 +49,6 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 (★☆☆)
 
  | A quick dash signified by a red-line effect.
-
-  
 
  |
 | 
@@ -66,8 +58,6 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | The knife quickly makes an agile dash.
 
-  
-
  |
 | 
 
@@ -76,8 +66,6 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | Swiftly rushes into the enemy and cuts them apart.
 
-  
-
  |
 | 
 
@@ -85,7 +73,5 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 (☆☆☆)
 
  | Gains a mobility boost for a short duration of time.
-
-  
 
  |

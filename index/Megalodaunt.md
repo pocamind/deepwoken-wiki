@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 162157
+revid: 162481
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -51,8 +51,6 @@ In addition to be found wandering around various places or loitering around in s
 -   If the Megalodaunt slashes 2 times in a row, it will have a short period where it doesn't attack, letting you hit it 3 times with MED or LHT or 2 times with HVY. This attack chain never occurs twice in a row.
     -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
-  
-
  | 
 
  |
@@ -70,8 +68,6 @@ In addition to be found wandering around various places or loitering around in s
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
-  
-
  | 
 
  |
@@ -84,8 +80,6 @@ In addition to be found wandering around various places or loitering around in s
 
 -   Easily parryable.
 -   There is a shorter ranged AOE version and a longer range, individual target version. Both function the same.
-
-  
 
  | 
 
@@ -100,8 +94,6 @@ In addition to be found wandering around various places or loitering around in s
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
-  
-
  | 
 
  |
@@ -111,8 +103,6 @@ In addition to be found wandering around various places or loitering around in s
 (☆☆☆)
 
  | If the target is above it, the Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
-
-  
 
  | 
 

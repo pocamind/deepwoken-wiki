@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 162403
+revid: 162497
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2]
@@ -44,8 +44,6 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 -   This attack can be cancelled with a group by attacking three small gale balls at the first floor, but is un-recommended due to the time it takes, along with requiring 2 people.
 -   This attack is able to be tanked on the right setup, but is not recommended.
 
-  
-
  | 
 
 File:Ethi ult.gif
@@ -59,8 +57,6 @@ File:Ethi ult.gif
  | The Scion charges up it's fist, then fires a blinding ball of gale towards the player.
 
 -   This animation is shared with Pressured Wind, however does a pitiful 1 damage.
-
-  
 
  | 
 
@@ -76,8 +72,6 @@ File:Blinding Gale.gif
 
 -   While the damage is punishing if you get hit by the full beam, you should parry it on reaction to taking damage rather than reacting to the animation, as the animation is shared with Blinding Gale.
 
-  
-
  | 
 
 File:Ethi laser.gif
@@ -91,8 +85,6 @@ File:Ethi laser.gif
  | The Scion pulls its arm back, then swings at the player.
 
 -   The arm will remain for ~2 seconds after hitting the player, regardless of if it hit or not, leaving the Scion vulnerable for a few hits on parry.
-
-  
 
  | 
 
@@ -112,8 +104,6 @@ File:Big fist.gif
 -   If the bone collides with a wall, it will fizzle out and despawn.
 -   This attack always targets the same players in the same order unless someone dies/leaves.
 
-  
-
  | 
 
 File:Bone Toss.gif
@@ -129,8 +119,6 @@ File:Bone Toss.gif
 -   If this hits, it will launch you into the air and do low damage, but makes the next hit guaranteed.
 -   In order to avoid this jump or roll through the spikes.
 
-  
-
  | 
 
 File:Bone floor.gif
@@ -145,8 +133,6 @@ File:Bone floor.gif
 
 -   Similar to Bonegrow in able to remain active during other attacks, but sends you further, is more constant, does more damage, and is completely unable to be blocked.
 -   To avoid this move, you must jump, or hold the Jump key and leave to another floor.
-
-  
 
  | 
 

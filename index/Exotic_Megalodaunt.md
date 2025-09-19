@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 162172
+revid: 162462
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,8 +26,6 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 
 -   Heavy posture damage. Will commonly block break after two hits.
 
-  
-
  | 
 
  |
@@ -44,8 +42,6 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 -   Commonly avoided by walking or running sideways, as the hitbox has little width.
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which this beast doesn't attack, letting you freely hit it more than the other attacks allow.
-
-  
 
  | 
 
@@ -77,8 +73,6 @@ Dodgeable: ◯
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
-  
-
  | 
 
  |
@@ -93,8 +87,6 @@ Dodgeable: ◯
 -   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
 -   Can either fire it immediately or delay its use of the laser beam. Watch carefully for what it will try to do.
 
-  
-
  | 
 
  |
@@ -107,8 +99,6 @@ Dodgeable: ◯
 
 -   This can chain into a different move eg: Slash feint into a Kick.
 
-  
-
  | 
 
  |
@@ -118,8 +108,6 @@ Dodgeable: ◯
 (☆☆☆)
 
  | If the target is above it, the Exotic Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
-
-  
 
  | 
 

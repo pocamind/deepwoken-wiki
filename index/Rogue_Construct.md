@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 162362
+revid: 162495
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,8 +28,6 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 
  | The Construct stomps the ground, dealing high damage.
 
-  
-
  | 
 
  |
@@ -42,8 +40,6 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 
 -   Flings and ragdolls player.
 
-  
-
  | 
 
  |
@@ -55,8 +51,6 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
  | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again.
 
 -   Stay cautious of the Meteor Punch attack after he uses this move.
-
-  
 
  | 
 
@@ -71,8 +65,6 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   Deals roughly 200 damage total.
 -   Insta-grips/insta-executes.
 
-  
-
  | 
 
  |
@@ -84,8 +76,6 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
  | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls.
 
 -   You cannot walk through some of the tree's leaves.
-
-  
 
  | 
 

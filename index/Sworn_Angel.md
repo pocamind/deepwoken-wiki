@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 162387
+revid: 162500
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -24,8 +24,6 @@ Template:Creature Infobox V3
 
  | Firmly thrusts weapon at opponent and finishing up the combo by kicking them.
 
-  
-
  |
 | 
 
@@ -33,8 +31,6 @@ Template:Creature Infobox V3
 (★★☆)
 
  | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
-
-  
 
  |
 | 
@@ -44,8 +40,6 @@ Template:Creature Infobox V3
 
  | Performs a fake attack, before pulling back and committing to a thrust.
 
-  
-
  |
 | 
 
@@ -53,8 +47,6 @@ Template:Creature Infobox V3
 (★☆☆)
 
  | The Angel's eyes light up, stunning anyone facing them if it isn't parried/blocked.
-
-  
 
  |
 | 
@@ -64,8 +56,6 @@ Template:Creature Infobox V3
 
  | A swirling symbol appears around the Angel's eyes, causing a insanity shiver effect while they look at you.
 
-  
-
  |
 | 
 
@@ -73,8 +63,6 @@ Template:Creature Infobox V3
 (☆☆☆)
 
  | Quickly dashes a long distance, purely for mobility.
-
-  
 
  |
 | 
@@ -86,8 +74,6 @@ Template:Creature Infobox V3
 
 -   Deals typeless damage.
 -   Has autoparry frames.
-
-  
 
  |
 

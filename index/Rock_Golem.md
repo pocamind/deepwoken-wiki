@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 162367
+revid: 162494
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,8 +40,6 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   Grants autoparry frames.
     -   You can attack the golem through these autoparry frames.
 
-  
-
  | 
 
  |
@@ -51,8 +49,6 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 (★☆☆)
 
  | The golem charges a laser from its core before firing it, creating a small AOE at the point of impact and dealing medium damage.
-
-  
 
  |  |
 | 
@@ -64,8 +60,6 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 
 -   Auto-grips if low enough
 
-  
-
  |  |
 | 
 
@@ -74,8 +68,6 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 
  | The golem brings both of its arms over its head, before quickly slamming them down into a vicious swing.
 
-  
-
  |  |
 | 
 
@@ -83,8 +75,6 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 (★★☆)
 
  | The golem winds up its arm before quickly swinging it outwards.
-
-  
 
  |  |
 | 
@@ -100,8 +90,6 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   Due to the above two points, this attack is generally not worth defending yourself against, as there's a chance that it won't even hit you, and even if it would hit you, the chance of you reacting to it and responding accordingly is relatively low.
 -   This can lag players on lower-end devices.
 -   The rubble is parryable with [Force Your Way](Ignition_Deepdelver.md).
-
-  
 
  | 
 

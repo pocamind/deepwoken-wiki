@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 162412
+revid: 162505
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -40,8 +40,6 @@ Titus was expected to retire after a few missions prior to his capture, but may 
 
 -   These moves are typically slow and can often lead to the player missing a parry.
 
-  
-
  |  |
 | 
 
@@ -49,8 +47,6 @@ Titus was expected to retire after a few missions prior to his capture, but may 
 (★☆☆)
 
  | Titus quickly slams down both arms into the ground, knocking players away with a powerful vent.
-
-  
 
  | 
 
@@ -76,8 +72,6 @@ Titus was expected to retire after a few missions prior to his capture, but may 
  | Titus winds up with both arms, grabbing the opponent before smacking them into the ground.
 
 -   This move is very similar to Worldpiercing Deluge, in which it shares the same animation.
-
-  
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 162351
+revid: 162448
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, The Central Authority, Authority Enemies]
@@ -30,8 +30,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Firmly swings weapon at opponent and finishing the combo by kicking them.
 
-  
-
  |
 | 
 
@@ -39,8 +37,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 (★★★)
 
  | Solaire dashes forwards and performs a 360° horizontal slash.
-
-  
 
  |
 | 
@@ -50,8 +46,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Solaire whistles, signaling the Merit's cannons to fire upon you.
 
-  
-
  |
 | 
 
@@ -59,8 +53,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 (★★☆)
 
  | Solaire rushes forwards in a zig-zagging trail.
-
-  
 
  |
 | 
@@ -70,8 +62,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Solaire hooks their opponent with lightning before pulling them into melee range.
 
-  
-
  |
 | 
 
@@ -80,8 +70,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Solaire rushes forwards and grabs their opponent. If this lands, they will teleport into the sky and crash down as a bolt of lightning.
 
-  
-
  |
 | 
 
@@ -89,8 +77,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 (★★☆)
 
  | Solaire conjures three lightning orbs before sending them towards their targets.
-
-  
 
  |
 
@@ -112,8 +98,6 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 
  | Firmly swings weapon at opponent and finishing the combo by kicking them.
 
-  
-
  |
 | 
 
@@ -123,8 +107,6 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
  | Solaire raises their axe above their head before crashing it down.
 
 -   Solaire gains hyperarmor during the windup of this attack.
-
-  
 
  |
 
@@ -146,8 +128,6 @@ This variant of Solaire wields a [Sovereign's Punishment](<Sovereign's_Punishmen
 
  | Firmly swings weapon at opponent and finishing the combo by kicking them.
 
-  
-
  |
 | 
 
@@ -157,8 +137,6 @@ This variant of Solaire wields a [Sovereign's Punishment](<Sovereign's_Punishmen
  | Solaire raises their hammer above their head before crashing it down.
 
 -   Solaire gains hyperarmor during the windup of this attack.
-
-  
 
  |
 

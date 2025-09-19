@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 162194
+revid: 162489
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eastern Luminant, Monsters]
@@ -24,8 +24,6 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 
  | The Nightmare Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage.
 
-  
-
  |
 | 
 
@@ -33,8 +31,6 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 (★☆☆)
 
  | The Nightmare Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage.
-
-  
 
  |
 | 
@@ -44,8 +40,6 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 
  | The Nightmare Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
 
-  
-
  |
 | 
 
@@ -53,8 +47,6 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 (★★☆)
 
  | The Nightmare Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage.
-
-  
 
  |
 | 
@@ -64,8 +56,6 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 
  | The Nightmare Thresher breathes black and green flames in front of itself, applying burn on hit.
 
-  
-
  |
 | 
 
@@ -73,8 +63,6 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 (★★☆)
 
  | The Nightmare Thresher bites you before leaping backwards and charging at you.
-
-  
 
  |
 

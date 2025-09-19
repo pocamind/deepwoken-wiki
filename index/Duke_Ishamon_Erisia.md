@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 162392
+revid: 162459
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -42,8 +42,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Duke Erisia will always and **only** start using Assault after using Strong Left.
 
-  
-
  |  |
 | 
 
@@ -53,8 +51,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Attempts to grab his victim before slamming them into the ground head-first.
 
 -   Duke Erisia will **only** use this after using Strong Left.
-
-  
 
  |  |
 | 
@@ -69,8 +65,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Can deflect [Providence's Thorns](<Providence's_Thorns.md>).
 -   Only used once the posture shield is down. (Phase 2).
 
-  
-
  |  |
 | 
 
@@ -80,8 +74,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
 
 -   Essentially an average Legion Kata feint.
-
-  
 
  |
 | 
@@ -98,8 +90,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Block breaking duke while he is rising into the air cancels it.
 -   Auto-grips if knocked or low health.
 
-  
-
  |  |
 | 
 
@@ -111,8 +101,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 -   Auto-grips if knocked or low health.
 
-  
-
  |  |
 | 
 
@@ -123,8 +111,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Will daze targets if they hit a wall while ragdolled.
 -   Auto-grips if knocked or low health.
-
-  
 
  |  |
 | 
@@ -138,8 +124,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Covers a large Area of Effect.
 -   Auto-grips if knocked or low health.
 
-  
-
  |  |
 | 
 
@@ -149,8 +133,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Duke Erisia will charge up a punch, and teleport to his target,
 
 -   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
-
-  
 
  |  |
 | 
@@ -164,8 +146,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)
 
-  
-
  |  |
 | 
 
@@ -175,8 +155,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | An explosion of blue ether around the user that pushes opponents away.
 
 -   He always vents whenever he gets flourished into a wall.
-
-  
 
  |  |
 

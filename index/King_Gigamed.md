@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 162310
+revid: 162471
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,8 +29,6 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 -   Deals ~30 damage.
 -   After they use this attack, they will back away if a player is close to them, and come closer if a player isn't close to them.
 
-  
-
  |
 | 
 
@@ -40,8 +38,6 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
  | The King screeches and releases a purple AoE attack that pushes you away from them and stuns you for a short duration. However, this attack deals little to no damage.
 
 -   Be cautious when fighting them near cliffs.
-
-  
 
  |
 | 
@@ -54,8 +50,6 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 -   The summoned Gigameds will die after using Electric Stun Pulse, along with having 1 health, allowing them to die to even a Vent.
     -   Electric Stun Pulse is a [Gigamed](Gigamed.md) attack that, similar to Greater Stun Pulse, causes a pulse of a electricity in an AoE. This attack is blockable and dodgeable, but not parryable.
 -   If killed, the summoned Gigameds will give you a solid healthpack.
-
-  
 
  |
 

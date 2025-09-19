@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 162235
+revid: 162441
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -28,8 +28,6 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 
 -   These have very long hitstun with very little delay between each hit, **do not** attempt to retaliate or parry immediately after being hit, as you will only be interrupted again. Instead, let the Fury Nautilodaunt hit you two more times before attempting to parry its next punch.
 
-  
-
  |
 | 
 
@@ -37,8 +35,6 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 (★★☆)
 
  | Fury Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick.
-
-  
 
  |
 | 
@@ -50,8 +46,6 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 
 -   This is most commonly used to close the distance between targets that are at a higher elevation than it; often being used after Electro Stomp.
 
-  
-
  |
 | 
 
@@ -59,8 +53,6 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 (★★★)
 
  | Fury Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying.
-
-  
 
  |
 | 
@@ -73,8 +65,6 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
 -   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
 
-  
-
  |
 | 
 
@@ -85,8 +75,6 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 
 -   If the Fury Nautilodaunt feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
 
-  
-
  |
 | 
 
@@ -94,8 +82,6 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 (★☆☆)
 
  | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Fury Nautilodaunt will near-completely negate the damage of said Mantra. This can happen even during other moves.
-
-  
 
  |
 

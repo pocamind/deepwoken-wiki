@@ -1,6 +1,6 @@
 ---
 title: Deep Angel
-revid: 162318
+revid: 162454
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters, Enemies, Enemies that can wield Enchantments]
@@ -28,8 +28,6 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
  | Firmly thrusts weapon at opponent and finishing up the combo by kicking them.
 
-  
-
  |
 | 
 
@@ -38,8 +36,6 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
  | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
 
-  
-
  |
 | 
 
@@ -47,8 +43,6 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 (★★☆)
 
  | Performs a fake attack, before pulling back and committing to a thrust.
-
-  
 
  |
 | 
@@ -60,8 +54,6 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
 -   Deals very low damage.
 
-  
-
  |
 | 
 
@@ -70,8 +62,6 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
  | Quickly dashes a long distance, purely for mobility.
 
-  
-
  |
 | 
 
@@ -79,8 +69,6 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 (★☆☆)
 
  | A hit which will empty the Deep Angel's posture upon landing.
-
-  
 
  |
 | 
@@ -92,8 +80,6 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
 -   Deals typeless damage.
 -   Has autoparry frames.
-
-  
 
  |
 

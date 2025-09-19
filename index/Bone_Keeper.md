@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 162233
+revid: 162443
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths, Enemies]
@@ -36,8 +36,6 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 
 -   The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. **Autogrips.**
 
-  
-
  |  |
 | 
 
@@ -48,8 +46,6 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 
 -   It is not recommended that you block this attack, as its posture damage is very high.
 
-  
-
  |  |
 | 
 
@@ -57,8 +53,6 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 (★☆☆)
 
  | The Bone Keeper will wind up its right arm, then thrust forward with a triple-slash attack with its arm spinning.
-
-  
 
  |  |
 | 
@@ -74,8 +68,6 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 -   Autogrips.
 -   Moving away from the leap is almost always enough to completely dodge the move.
 
-  
-
  |  |
 | 
 
@@ -85,8 +77,6 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
  | The Bone Keeper will stomp the ground, emitting a long carpet of spikes in front of it.
 
 -   Jumping just as the Bone Keeper stomps will allow you to jump over the spikes and avoid this attack altogether.
-
-  
 
  |  |
 | 
@@ -98,8 +88,6 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 
 -   The femur behaves like a projectile, potentially hitting walls and similar objects. It has a small AoE when it hits something.
 -   The timing to parry this is difficult, it is suggested that you dodge instead.
-
-  
 
  |  |
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 162300
+revid: 162503
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -32,8 +32,6 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 -   This is a slower attack that does high health and posture damage.
 
-  
-
  | 
 
  |
@@ -46,8 +44,6 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 -   This attack is faster but does less health and posture damage than High Swing.
 
-  
-
  | 
 
  |
@@ -59,8 +55,6 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
  | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them.
 
 -   This does low damage with moderate knockback.
-
-  
 
  | 
 
@@ -76,8 +70,6 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   This attack grants high autoparry frames.
 -   This is typically used after Kick if it lands.
 
-  
-
  | 
 
  |
@@ -92,8 +84,6 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   Enforcers spawned during [Hell Mode](Hell_Mode.md) will not be able to use this attack.
 -   The Servants of Enmity cannot use this attack.
 
-  
-
  |  |
 | 
 
@@ -103,8 +93,6 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
  | The Enforcer halts their attack mid-way in an attempt to mixup their opponent and create an opening.
 
 -   If The Enforcer feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
-
-  
 
  | 
 

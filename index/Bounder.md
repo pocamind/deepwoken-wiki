@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 162306
+revid: 162444
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -34,8 +34,6 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
  | The Bounder leaps either a long or a short distance towards their prey, slamming down to damage and disorientate them.
 
-  
-
  |
 | 
 
@@ -44,8 +42,6 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
  | The Bounder slashes its arms at its prey either once or twice, utilizing their claws to tear through them.
 
-  
-
  |
 | 
 
@@ -53,8 +49,6 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 (★★★)
 
  | The Bounder lowers its head and continuously stomps its foot before charging in the direction of their prey, knocking them down and damaging them in the process.
-
-  
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 162411
+revid: 162492
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -83,8 +83,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
  | Primadon raises its **right** foot and stomps once.
 
-  
-
  |  |
 | 
 
@@ -92,8 +90,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 (★☆☆)
 
  | Primadon performs 3 quick stomps with its **left** foot.
-
-  
 
  |  |
 | 
@@ -105,8 +101,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 -   Only used against players that are in front of him but not near his legs.
 
-  
-
  |  |
 | 
 
@@ -117,8 +111,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 -   If close enough to a wall, Daze upon impact.
 -   If the enemy is above his waist, he will instead swat away the enemy, dealing an incredibly hard to react punch version of the kick.
-
-  
 
  |  |
 | 
@@ -132,8 +124,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 -   Only used if the player is in front of Primadon and not near his legs.
 -   If you were holding block before getting grabbed and during it's full duration you will not get damaged, this is quite buggy however and might not work.
 
-  
-
  |
 | 
 
@@ -144,8 +134,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 -   Does massive amounts of damage and very difficult to parry.
 
-  
-
  |
 | 
 
@@ -153,8 +141,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 (★☆☆)
 
  | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two.
-
-  
 
  |
 | 
@@ -166,8 +152,6 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 -   Automatically used when dropping below 50% health
 -   Signified by a red mist that surrounds Primadon's body.
-
-  
 
  |
 

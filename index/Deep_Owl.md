@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 162302
+revid: 162455
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -49,8 +49,6 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 -   The Owl can use this multiple times back-to-back.
 -   Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
 
-  
-
  |  |
 | 
 
@@ -60,8 +58,6 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
  | Kneels on the ground for a moment before performing a spinning assault in the target's direction.
 
 -   Deals Shadowcast damage.
-
-  
 
  |  |
 | 
@@ -73,8 +69,6 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 -   Typically used after Talon Swipe.
 -   After using Feather Teleport, the Owl will typically use Flock of Feathers or Overhead Grab.
-
-  
 
  | 
 
@@ -89,8 +83,6 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 -   This is telegraphed by a small cloud of feathers suddenly appearing around you.
 -   It is recommended to look up to time your dodge, as the Owl will appear above you.
 
-  
-
  |  |
 | 
 
@@ -102,8 +94,6 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 -   Overhead Grab/Owl Dash is typically used after this.
 -   Deals Shadowcast damage.
 -   Does not grant autoparry frames, each feather must be parried individually.
-
-  
 
  |  |
 

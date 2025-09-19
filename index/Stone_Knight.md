@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 162386
+revid: 162499
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -34,8 +34,6 @@ Blizzard Knights are a far stronger version of the Stone Knight, spawning in a p
 
 -   **Insta-executes the player if health is low.**
 
-  
-
  |  |
 | 
 
@@ -45,8 +43,6 @@ Blizzard Knights are a far stronger version of the Stone Knight, spawning in a p
  | Deftly kicks the opponent with added momentum from its body.
 
 -   Deals extra damage and dazes if the player is slammed against a wall.
-
-  
 
  |  |
 | 
@@ -58,8 +54,6 @@ Blizzard Knights are a far stronger version of the Stone Knight, spawning in a p
 
 -   Deals Galebreathe damage.
 
-  
-
  |  |
 | 
 
@@ -69,8 +63,6 @@ Blizzard Knights are a far stronger version of the Stone Knight, spawning in a p
  | Punches the ground, causing a pillar to erupt below the player.
 
 -   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
-
-  
 
  |  |
 

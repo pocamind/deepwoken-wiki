@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Sniper
-revid: 162376
+revid: 162476
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Floor 2, Layer 2, Monsters]
@@ -29,8 +29,6 @@ They can also spawn in the [Scion of Ethiron](Scion_of_Ethiron.md) fight by the 
 -   Easiest move to parry if fighting one on one.
 -   Parrying any attack from Kyrsgarde Sniper makes him unable to attack for next 4 seconds.
 
-  
-
  |
 | 
 
@@ -40,8 +38,6 @@ They can also spawn in the [Scion of Ethiron](Scion_of_Ethiron.md) fight by the 
  | The Kyrsgarde Sniper conjures a spear of ice before performing a backflip high in the air and throwing said spear at it's opponent.
 
 -   Parry it when the arm of the Kyrsgarde reaches the highest point.
-
-  
 
  |
 

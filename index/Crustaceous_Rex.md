@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 162305
+revid: 162453
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -34,8 +34,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <ul>
     <li>This also friendly fires mobs.</li>
     <li>Exceptionally easy to get out of the way of.</li>
-  </ul><p><br>
-  </p><div>
+  </ul><div>
   <ul>
   </ul></div></td>
   <td></td>
@@ -46,8 +45,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <td>The Crustaceous Rex raises its <b>Right Claw</b> and crabs its foe, crushing and dealing medium damage.
   <ul>
     <li>If the opponent is at low enough health, <b>it will split them in half, auto-gripping.</b></li>
-  </ul><p><br>
-  </p><div>
+  </ul><div>
   <ul>
   </ul></div></td>
   <td></td>
@@ -58,8 +56,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <td>The Crustaceous Rex jumps up, promptly slamming down onto its bottom and dealing medium damage to foes in a large radius.
   <ul>
     <li>Temporarily ragdolls those it hits.</li>
-  </ul><p><br>
-  </p><div>
+  </ul><div>
   <ul>
   </ul></div></td>
   <td></td>
@@ -70,8 +67,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <td>The Crustaceous Rex raises its <b>Right &amp; Left Arms</b>, swinging them downward at its opponent in rapid succession, dealing high damage should both hits connect.
   <ul>
     <li>Parrying the first swing will cancel the second.</li>
-  </ul><p><br>
-  </p><div>
+  </ul><div>
   <ul>
   </ul></div></td>
   <td></td>
@@ -79,8 +75,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 <tr>
   <td><center><b>Rising Smash</b><br>
   (★☆☆)</center></td>
-  <td>The Crustaceous Rex raises <b>Both of Its Arms</b> in the air, smashing them down onto its opponent and dealing medium damage.<p><br>
-  </p><div>
+  <td>The Crustaceous Rex raises <b>Both of Its Arms</b> in the air, smashing them down onto its opponent and dealing medium damage.<div>
   <ul>
   </ul></div></td>
   <td></td>

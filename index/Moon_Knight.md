@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 162378
+revid: 162482
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -28,8 +28,6 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 -   **Insta-executes the player if health is low.**
 
-  
-
  |
 | 
 
@@ -40,8 +38,6 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 -   Deals extra damage and dazes if the player is slammed against a wall.
 
-  
-
  |
 | 
 
@@ -49,8 +45,6 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 (★★☆)
 
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
-
-  
 
  |
 | 
@@ -62,8 +56,6 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 -   The next attack from the stone-knight is usually guaranteed if this lands.
 
-  
-
  |
 | 
 
@@ -74,8 +66,6 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 -   Strangely enough, these deal wind damage.
 -   Moon Knight does NOT attack while this attack is active
-
-  
 
  |
 
