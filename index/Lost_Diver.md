@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 160041
+revid: 162314
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,11 +26,9 @@ A Lost Diver's arsenal consists of a [Markor's Inheritor](<Markor's_Inheritor.md
 Assault  
 (★☆☆)
 
- | The Lost Diver firmly swings blade at opponent before finishing up the combo by kicking them.  
+ | The Lost Diver firmly swings blade at opponent before finishing up the combo by kicking them.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |  |
 | 
@@ -38,11 +36,9 @@ Dodgeable:◯
 Critical  
 (★★☆)
 
- | The Lost Diver raises right leg before firmly slamming it down into the ground below.  
+ | The Lost Diver raises right leg before firmly slamming it down into the ground below.
 
-Parryable:◯  
-Blockable:✗  
-Dodgeable:◯
+  
 
  |  |
 | 
@@ -50,11 +46,9 @@ Dodgeable:◯
 Gale Lunge  
 (★★☆)
 
- | The Lost Diver lunges forward with their weapon coated in wind.  
+ | The Lost Diver lunges forward with their weapon coated in wind.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |  |
 | 
@@ -62,17 +56,11 @@ Dodgeable:◯
 Prominence Draw  
 (★★☆)
 
- | The Lost Diver locks onto all the closest target that is in their range, then dashes forward and performs a large AoE slice.  
+ | The Lost Diver locks onto all the closest target that is in their range, then dashes forward and performs a large AoE slice.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+  
 
  |  |
-
-### Boons
-
-Experienced Fighter - Can parry, block and dodge basic attacks.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 153322
+revid: 162310
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,22 +18,46 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 
 ## Attacks
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-**Greater Stun Pulse**
+**Greater Stun Pulse**  
+(★☆☆)
 
- | Emits a large pulse attack that can target one player per use, Deals ~30 damage. After they use this attack, they will back away if a player is close to them, and come closer if a player isn't close to them. | ✗ | ◯ | ◯ | (★) |
+ | Emits a large pulse attack that can target one player per use.
+
+-   Deals ~30 damage.
+-   After they use this attack, they will back away if a player is close to them, and come closer if a player isn't close to them.
+
+  
+
+ |
 | 
 
-**Static Discharge**
+**Static Discharge**  
+(★★☆)
 
- | The King screeches and releases a purple AoE attack that pushes you away from them and stuns you for a short duration. However, this attack deals little to no damage. Be cautious when fighting them near cliffs. | ✗ | ◯ | ◯ | (★★) |
+ | The King screeches and releases a purple AoE attack that pushes you away from them and stuns you for a short duration. However, this attack deals little to no damage.
+
+-   Be cautious when fighting them near cliffs.
+
+  
+
+ |
 | 
 
-**Summon Gigameds**
+**Summon Gigameds**  
+(★★☆)
 
- | The King screeches and summons 3 Gigameds that are launched towards your position. The summoned Gigameds will die after using a stun pulse, along with having 1 health, allowing them to die to even a Vent. If killed, they'll give you a solid healthpack. | ✗ | ◯ | ◯ | (★★) |
+ | The King screeches and summons 3 Gigameds that are launched towards your position.
+
+-   The summoned Gigameds will die after using Electric Stun Pulse, along with having 1 health, allowing them to die to even a Vent.
+    -   Electric Stun Pulse is a [Gigamed](Gigamed.md) attack that, similar to Greater Stun Pulse, causes a pulse of a electricity in an AoE. This attack is blockable and dodgeable, but not parryable.
+-   If killed, the summoned Gigameds will give you a solid healthpack.
+
+  
+
+ |
 
 ### Finisher
 

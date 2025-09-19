@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 159578
+revid: 162307
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -25,13 +25,31 @@ Being some of the oldest creatures discovered, their common name comes from the 
 
 ## Moves
 
-| Name | Media | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Bite** | 
- | Flies up, swoops down and attacks the player. | ◯ | ◯ | (★☆☆) |
-| **Kick** | 
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Bite**  
+(★☆☆)
 
- | Raises its leg and scratches the player. | ◯ | ◯ | (★☆☆) |
+ | Flies up, swoops down and attacks the player.
+
+  
+
+ | 
+
+ |
+| 
+
+**Kick**  
+(★☆☆)
+
+ | Raises its leg and scratches the player.
+
+  
+
+ | 
+
+ |
 
 ## Finisher
 

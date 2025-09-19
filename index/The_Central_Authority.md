@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 160049
+revid: 162338
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -10,24 +10,24 @@ categories: [Factions, The Central Authority]
 
 | The Central Authority | |
 |---|---|
-| territory | Central Luminant , Eastern Luminant, Fort Merit |
+| territory | Central Luminant , Eastern Luminant, Fort Merit, perhaps the Northern Luminant |
 | goals | Conquest of all Luminants, Destruction of the Ministry and its agents. |
 
-“ God, another one of the locals... Why did I get a post here on the east? ”
+“ Three cheers for the cause! ”
 
-― Authority Peacekeeper
+― The Gideshu March
 
 ## Description
 
-**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. An authoritarian regime led by a mysterious man named Drallis Ehr who acts as their Grand Sovereign, they are thoroughly dedicated to the expansion of their empire and the destruction of their enemies.
+**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. An authoritarian regime led by a mysterious person named Drallis Ehr who acts as their Grand Sovereign although Drallis Ehr's existence as a person is up for debaTe. they are thoroughly dedicated to the expansion of their empire and the destruction of their enemies.
 
-Their ranks consist of Warmasters, Wardens (which may actually be the same thing), multiple Inquisitor classes, and then standard military rankings. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
+Their ranks consist of Wardens and standard military rankings. They have multiple 'corps' in their ranks, including the 'Shock Corps', the 'Winter Corps' and formerly the 'Expeditionary Corps'. it is unclear if the Inquisitors mentioned are another corps or a rank within their military. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
 
-Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md).
+Their most commonly used attunement is [Flamecharm](Flamecharm.md). There are multiple instances of [Thundercall](Thundercall.md) also being used by the Authority, however only a few enemies actually use it ingame. [Frostdraw](Frostdraw.md) is only used by [Authority Captains](Authority_Captain.md) and [Captain Marley](Captain_Marley.md), with [Galebreathe](Galebreathe.md) only being used by the [Vice-Warden](Vice-Warden.md) within the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
+They are highly treacherous and dishonourable, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
-Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers. The only exception to this rule are [Canor](Canor.md), who receive mild preferential treatment.
+Their upper ranks heavily favor [Adrets](Adret.md) and [Canors](Canor.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers.
 
 ## Gameplay
 
@@ -52,7 +52,7 @@ All [origins](Origins.md) start with a neutral [reputation](Reputation.md) with 
 
 The Central Authority is a [bounty board](Bounty_Hunting.md) faction. They also have a reputation reset NPC located in [Merit's Reach](<Merit's_Reach.md>).
 
-The Central Authority has [jobs](Job_Boards.md) on every job board in the game excluding [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md).
+The Central Authority has [jobs](Job_Boards.md) on almost every job board in the game, making their reputation very easy to gain.
 
 While the Authority lacks in reputation beneficial quests, it benefits from having the most [Random Encounters](Random_Encounters.md) of any other faction in the game. Assisting the Authority in any of these events will grant you positive reputation:
 
@@ -72,17 +72,18 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 -   [Drallis Ehr](Drallis_Ehr.md)
 -   [Warden Jericho](Warden_Jericho.md)
 -   [Vice Warden Morredh](Vice_Warden_Morredh.md)
+-   [Hector](Hector.md)
 
 ## Trivia
 
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except [Celtor](Lost_Celtor.md).
--   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer, Etrea's Lord Regent, from causing a Great Drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
+-   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer, Etrea's Lord Regent, from causing a Great Drowning in the Etrean Luminant, with the 'Warmaster' deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
     -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report makes it clear that this was not their reason for invading in the first place, and implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with [The Children of Navae](The_Children_of_Navae.md) also seem to contradict with this mission.
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
     -   Interestingly, [Warden Jericho](Warden_Jericho.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
 -   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other; they only fight on the battlegrounds of Aratel.
--   There will be an Authority Origin in future updates, possibly alongside the Warmaster Oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
+-   There will be an Authority Origin in future updates, likely alongside the Warmaster Oath. Meaning the Authority will receive more lore and attention in the future.
 -   The Authority has an unofficial marching song called "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)", named after (and written by) the first lieutenant of the Authority, August Gideshu. The march quickly became popular among the many regiments and has therefore become a popular marching song. Some even consider it the Authority's unofficial anthem, though the more elite Authority members views on this are not entirely clear.
     -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.

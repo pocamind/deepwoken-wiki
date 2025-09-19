@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 153785
+revid: 162315
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,9 +18,17 @@ Crabs are a Monster that only appears in [The Diluvian Mechanism](The_Diluvian_M
 
 Crabs only have one attack, listed below:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Double Strike | The Crab will lift both of its claws in the air, striking you with its first claw and then quickly following up with the second. | ◯ | ◯ | (★☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Double Strike**  
+(★☆☆)
+
+ | The Crab will lift both of its claws in the air, striking you with its first claw and then quickly following up with the second.
+
+  
+
+ |
 
 ## Finisher
 

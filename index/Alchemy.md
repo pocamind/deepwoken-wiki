@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 162212
+revid: 162323
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -20,11 +20,11 @@ Potion Potency is a stat found on all potions. This stat increases the effective
 
 ### Using Potions
 
-Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion takes 2.35 seconds, prevents you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. Drinking potions has a 20 second cooldown called "Potion Sickness". If you drink a potion during the cooldown, you will throw up and will not get the potion effect. Potions last 15s by default.
+Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion takes 2.35 seconds, prevents you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. Drinking potions has a 20 second cooldown called "Potion Sickness". If you drink a potion during the cooldown, you will throw up and will not get the potion effect. Drinking potions allows you to proc **Potion Quaffer**.
 
-You can also throw potions by holding them and pressing E - this usually applies a slightly weaker version of the potion effect to anyone standing near the potion when it explodes. It takes approximately 2 seconds to throw a potion, and you can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down. Throwing potions also allows you to apply the effects of multiple potions at the same time, effectively bypassing the potion cooldown.
+You can also throw potions by holding them and pressing E - this applies the full negative effects of your potion, but the positive ones (excluding duration) are reduced by 80%. Blocking thrown potions lowers the effectiveness of all effects, including duration, by 50%. It takes approximately 2 seconds to throw a potion, and you can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down. Throwing potions allows you to proc **Chain Reaction**.
 
-Only one potion effect can be active at a time. Applying a new effect to a character that already has a potion effect will clear that effect. Characters currently under the effect of a potion will have a particle effect, with the color seeming to depend on the type and intensity of the effect. Most effects are yellow or purple with more intensity at higher strength.
+Only one potion effect can be active at a time and potions last 15 seconds by default. Applying a new effect to a character that already has a potion effect will clear that effect. Characters currently under the effect of a potion will have a particle effect, with the color seeming to depend on the type and intensity of the effect. Most effects are yellow or purple with more intensity at higher strength.
 
 Using the [Saltchemist](Oath%253A_Saltchemist.md) Oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions that share an effect on cooldown, though the same restriction does not apply to "throw" mode potions.
 
@@ -118,7 +118,7 @@ The [Saltchemist](Oath%253A_Saltchemist.md) Oath grants access to three salts, w
 
 **Biotic Salts** alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive and should be added to all potions, unless you plan to give them to a friend.
 
-**Aromatic Salts** cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect and can improve the effective duration of the effect by up to 10 seconds. This also reduces the effectiveness of your potion's **positive effects** (excluding duration) by 80%. Blocking a splash potion will halve its effectiveness and duration.
+**Aromatic Salts** cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect and can improve the effective duration of the effect by up to 10 seconds. Blocking a splash potion will halve its effectiveness and duration.
 
 **Antithetic Salts** invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparatively weak slowing effect of Sap and Goblettos.
 

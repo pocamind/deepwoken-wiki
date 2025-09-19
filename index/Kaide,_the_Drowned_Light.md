@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 160085
+revid: 162333
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Layer 2, Floor 2, NPCs located in the Second Floor of the Second Layer]
@@ -114,6 +114,30 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 </tr>
 <tr>
   <td colspan="4">[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equipped.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>How strange, I could have sworn your watch is- Ah, yes... you've been here before. My fate really must be sealed.</td>
+</tr>
+<tr>
+  <td>You could come with me you know.</td>
+</tr>
+<tr>
+  <td>...If only it were that simple. The very fact you can come and go raises too many questions. If I left with you, would every other 'me' be convinced to do the same? My absence from your world already proves the choice I made long ago. Leave me to rest, mortal.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

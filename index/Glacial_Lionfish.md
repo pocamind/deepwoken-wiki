@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 161534
+revid: 162313
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,25 +22,37 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 
 | **Name** | **Description** | **Media** |  |
 | --- | --- | --- | --- |
-| **Bite**  
-(★☆☆) | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, [Chilling](https://deepwoken.fandom.com/wiki/Status_Effects#Chill) those hit and dealing _**25 damage**_. (Roughly 40+ damage if corrupted)  
-Parryable:◯ Blockable:◯ Dodgeable: ◯
+| 
+**Bite**  
+(★☆☆)
+
+ | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, [chilling](Status_Effects.md#chill) those hit.
+
+-   Deals 25 damage. (Roughly 40+ damage if corrupted)
+
+  
 
  |  |
-| **Glacial Cero**  
-(★★☆) | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged, it'll come back down, firing a massive laser beam at its opponent, dealing _**considerably more damage**_ than a default Lionfish Cero, and [Chilling](https://deepwoken.fandom.com/wiki/Status_Effects#Chill) whoever gets hit by it. This also leaves ice where it lands. For the Glacial Lionfish, this move isn't exclusive to the depths and can be used in the overworld.
+| 
 
-This will auto-grip you if hit by it at low health.
+**Glacial Cero**  
+(★★☆)
 
--   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
+ | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged, it'll come back down, firing a massive cyan laser beam at its opponent.
 
-Parryable: ✗ Blockable: ✗ Dodgeable: ◯
+-   Deals **considerably more damage** than a default Lionfish Cero, and [Chills](Status_Effects.md#chill) whoever gets hit by it.
+-   This also leaves ice where it lands.
+-   Can be used in the overworld unlike the regular Lionfish's Cero.
+-   This will auto-grip you if hit by it at low health.
+    -   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
+
+  
 
  |  |
 
 ### **Passives**
 
--   **Glacially Attuned** - All attacks by the Glacial Lionfish apply [Chilled.](Status_Effects.md)
+-   **Glacially Attuned** - All attacks by the Glacial Lionfish apply [Chill](Status_Effects.md#chill)
 -   **Monster Resistance** - Physical attacks deal 25% less damage to Lionfish.
 
 ## Tips & Tricks

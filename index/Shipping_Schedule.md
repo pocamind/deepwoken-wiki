@@ -1,6 +1,6 @@
 ---
 title: Shipping Schedule
-revid: 159486
+revid: 162334
 source: https://deepwoken.fandom.com/wiki/Shipping_Schedule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, The Central Authority]
@@ -14,10 +14,6 @@ categories: [Items, The Central Authority]
 | droppable | Yes |
 | pass down | No |
 | desc | A categorical list of every incoming Etrean and Gremor prisoner scheduled to be imprisoned at the fort, including the dates they will arrive. |
-
-“ Agrippa, where's my Shipping Schedule? ”
-
-― Authority Commander to the guard in the next room
 
 ## Description
 

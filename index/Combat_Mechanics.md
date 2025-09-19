@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 162266
+revid: 162325
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -416,7 +416,7 @@ Image
 -   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
--   [Stoneheart](Stoneheart.md) critical
+-   [Stoneheart](Stoneheart.md) Critical
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
 -   [Soulwrought Longsword](Crazy_Slots.md) Special ability
 

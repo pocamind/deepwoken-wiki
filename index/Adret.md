@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 157975
+revid: 162342
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -113,10 +113,6 @@ Adret has a set of optional face markings that come in a variety of colors depen
 **Boulder:**
 
 **Hallowtide:**
-
-  
-
-  
 
 ## Trivia
 

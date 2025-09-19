@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 159584
+revid: 162302
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -44,30 +44,14 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 **Talon Swipe**  
 (★☆☆)
 
- | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
+ | Three slow, consecutive swipes.
+
+-   The Owl can use this multiple times back-to-back.
+-   Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  |  |
-| 
-
-**Feather Teleport**  
-(★☆☆)
-
- | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.  
-Typically used after Talon Swipe.
-
-  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
-
- | 
-
- |
 | 
 
 **Owl Dash**  
@@ -75,24 +59,37 @@ Dodgeable:◯
 
  | Kneels on the ground for a moment before performing a spinning assault in the target's direction.
 
+-   Deals Shadowcast damage.
+
   
-Parryable◯  
-Blockable:◯  
-Dodgeable:◯
 
  |  |
+| 
+
+**Feather Teleport**  
+(★☆☆)
+
+ | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.
+
+-   Typically used after Talon Swipe.
+-   After using Feather Teleport, the Owl will typically use Flock of Feathers or Overhead Grab.
+
+  
+
+ | 
+
+ |
 | 
 
 **Overhead Grab**  
 (★★★)
 
- | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
-Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you.
+ | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.
+
+-   This is telegraphed by a small cloud of feathers suddenly appearing around you.
+-   It is recommended to look up to time your dodge, as the Owl will appear above you.
 
   
-Parryable:✗  
-Blockable:✗  
-Dodgeable:◯
 
  |  |
 | 
@@ -100,13 +97,13 @@ Dodgeable:◯
 **Flock of Feathers**  
 (★★☆)
 
- | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.  
-Overhead Grab/Owl Dash is typically used after this.
+ | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.
+
+-   Overhead Grab/Owl Dash is typically used after this.
+-   Deals Shadowcast damage.
+-   Does not grant autoparry frames, each feather must be parried individually.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:**\-**
 
  |  |
 

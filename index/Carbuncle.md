@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 153836
+revid: 162316
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Layer 2, Floor 1]
@@ -22,10 +22,29 @@ Carbuncles are an enemy monster NPC of [Layer 2](Second_Layer.md) and in certain
 
 Carbuncles only has 2 attacks, listed below:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Strong Attack | Bellow out a high-pitched voice, lashing out with one attack that dishes heavy damage. | ◯ | ◯ | (★☆☆) |
-| Successive Attacks | Bellow out a low-pitched voice, leaping first then lashing out with four, slow attacks in quick succession. | ◯ | ◯ | (★☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Strong Attack**  
+(★☆☆)
+
+ | Bellow out a high-pitched voice, lashing out with one attack that dishes heavy damage.
+
+  
+
+ |
+| 
+
+**Successive Attacks**  
+(★☆☆)
+
+ | Bellow out a low-pitched voice, leaping first then lashing out with four, slow attacks in quick succession.
+
+-   Has very awkward parry timings.
+
+  
+
+ |
 
 ## Finisher
 

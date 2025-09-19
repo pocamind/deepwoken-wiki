@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 159166
+revid: 162341
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -31,6 +31,7 @@ The Legion has several war heroes that are depicted by either their ornaments or
 -   Enemies with [The Hive](The_Hive.md)
 -   Enemies with [The Authority](The_Central_Authority.md)
 -   Enemies with [The Kingdom of Etrea](Etrea.md)
+-   Enemies with The Starkindred Church
 
 ## Reputation
 

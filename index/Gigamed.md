@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 153564
+revid: 162312
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -32,11 +32,13 @@ Description
 **Electric Stun Pulse**  
 (★☆☆)
 
- | Sends out a spherical pulse attack that deals ~15 damage while also inflicting a brief paralysis debuff that prevents you from moving, using items, or attacking for a few milliseconds. This attack can only hurt 1 player at a time, despite looking like an AOE. Before they do this, there is a brief flash above their heads if you look closely. Though, it is nearly impossible to react to, especially with higher pings.
+ | Sends out a spherical pulse attack that inflicts a brief [Shock](Status_Effects.md#shock) debuff.
 
-Parryable?: ✗  
-Blockable?: ◯  
-Dodgeable?: ◯
+-   Deals ~15 damage.
+-   This attack can only hurt 1 player at a time, despite looking like an AOE.
+-   Before they do this, there is a brief flash above their heads if you look closely and they will flash purple, as an indicator of an unparryable attack. Though, it is nearly impossible to react to, especially with higher pings.
+
+  
 
  |
 
@@ -55,3 +57,4 @@ Dodgeable?: ◯
 -   Gigameds can't naturally be corrupted.
 -   Gigameds have the highest lightning resistance in the game out of any monster, taking almost zero damage from [Thundercall](Thundercall.md) Mantras.
 -   There currently exists a glitch where gigameds can teleport on top of a player if they use an aerial attack.
+-   Can be dangerous when jumping over the void or fighting other mobs as their attack stuns you for a brief second and potentially throw off your parry window and ruin your momentum.

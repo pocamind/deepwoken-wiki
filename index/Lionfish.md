@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 161535
+revid: 162311
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -31,10 +31,12 @@ Its main drop is the Lionfish Scale, which is used for crafting armor sets.
 **Bite**  
 (★☆☆)
 
- | The Lionfish opens its jaws, biting down on foes in its direction 3 times in repeating succession. Each Bite deals **25 damage** (roughly **40+ damage** if corrupted). Uses this move to grip players in the Overworld.
+ | The Lionfish opens its jaws, biting down on foes in its direction 3 times in repeating succession.
+
+-   Each Bite deals **25 damage** (roughly **40+ damage** if corrupted).
+-   Uses this move to grip players in the Overworld.
 
   
-Parryable:◯
 
  |
 | 
@@ -42,10 +44,12 @@ Parryable:◯
 **Ram**  
 (★☆☆)
 
- | The Lionfish positions itself sideways, before ramming into a ship at full speed. This damages your ship and may damage you too if within range. This is only used while you are on a ship.
+ | The Lionfish positions itself sideways, before ramming into a ship at full speed.
+
+-   This damages your ship and may damage you too if within range.
+-   This is only used while you are on a ship.
 
   
-Parryable:✗
 
  |
 | 
@@ -53,15 +57,27 @@ Parryable:✗
 **Dive**  
 (☆☆☆)
 
- | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. **(Overworld Exclusive)** |
+ | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent.
+
+-   This attack is Overworld exclusive.
+
+  
+
+ |
 | 
 
 **Cero**  
 (★★☆)
 
- | The Lionfish raises its entire body upwards, opening its jaws to begin charging up a purple orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its target that deals **55 damage** (corrupted Lionfish deal **165 damage** with this move). The Lionfish can also use Cero specifically to grip knocked players with an extremely reduced windup. Cero used in this way will have an auditory difference as the sound of the charge up will be sped up and higher pitched. If the player is low enough, It will **AUTO-GRIP** them. **(Depths Exclusive)**
+ | The Lionfish raises its entire body upwards, opening its jaws to begin charging up a purple orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its target.
 
-Parryable:✗
+-   This attack is Depths exclusive.
+-   Deals **55 damage** (corrupted Lionfish deals **165 damage** with this move).
+-   If the player is low enough, It will **AUTO-GRIP** them.
+-   The Lionfish can also use Cero specifically to grip knocked players with an extremely reduced windup.
+    -   Cero used in this way will have an auditory difference as the sound of the charge up will be sped up and higher pitched.
+
+  
 
  |
 

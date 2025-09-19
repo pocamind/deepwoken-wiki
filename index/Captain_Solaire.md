@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 155923
+revid: 162340
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Captain Solaire is a group of 3 NPCs found in the [Merit Detainment Core](Merit_Detainment_Core.md), they are dangerous enemies who guard the important parts of the core. All 4 of them are [Adrets](Aspects.md). Each of them deals a large amount of damage with M1s and Critical Attacks.
+Captain Solaire is a group of 3 NPCs found in the [Merit Detainment Core](Merit_Detainment_Core.md), they are dangerous enemies who guard the important parts of the core. Each of them deals a large amount of damage with M1s and Critical Attacks.
 
 Each one uses a different double enchanted weapon.
 
@@ -26,7 +26,7 @@ The third one wields a [Sovereign's Punishment](<Sovereign's_Punishment.md>) and
 
 ## Moveset
 
-**Detainment Core Version:** [Wardens Ceremonial Sword](Warden_Ceremonial_Sword.md) (Crit+M1's), Basic [Thundercall](Thundercall.md) including: Lightning Assault, Lightning Stream, Rising Thunder?, Fleeting Sparks, Cannon Call (or whatever its actually called when he touches his face and cannon balls you)
+**Detainment Core Version:** [Wardens Ceremonial Sword](Warden_Ceremonial_Sword.md) (Crit+M1's), Basic [Thundercall](Thundercall.md) including: Lightning Assault, Lightning Stream, Rising Thunder?, Fleeting Sparks, Cannon Call.
 
 ## Tips
 

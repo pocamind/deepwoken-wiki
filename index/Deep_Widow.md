@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 151311
+revid: 162329
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,63 +22,84 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
 ## Attacks
 
-| Name | Description | GIF | Parry-able | Danger |
-| --- | --- | --- | --- | --- |
-| **Deep Webbing** | The Widow spits webs onto her target, inflicting moderate insanity and a new webby look onto them for a short duration and dragging them towards herself. | 
- | 
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Deep Webbing**  
+(★★☆)
 
-✗
+ | The Widow spits webs onto her target, inflicting moderate insanity and a new webby look onto them for a short duration and dragging them towards herself.
 
- | (★★☆) |
-| **Venomous Bite** | The Widow delivers a crushing bite onto the victim, dealing moderate damage and inflicting a lingering poison that damages over time.
-
-**This move will auto-grip if it hits you while knocked or at low health.**
-
- | 
-
-  
+-   Blocking it negates the sanity loss, but it still webs and pulls you.
 
   
 
  | 
 
-✗
+ |
+| 
 
- | (★★★) |
-| **Swipe** | The Widow slashes using her right leg with long charge, dealing moderate slashing damage. | 
+**Venomous Bite**  
+(★★★)
 
- | 
+ | The Widow delivers a crushing bite onto the victim, dealing moderate damage and inflicting a lingering poison that damages over time.
 
-◯
+-   This move will auto-grip if it hits you while knocked or at low health.
 
- | (★☆☆) |
-| **Impale** | The Widow quickly lunges with both of her legs, dealing moderate damage. | 
-
- | 
-
-◯
-
- | (★☆☆) |
-| **Articulated Thrash** | The Widow charges up her leg and slashes her target three times in succession. | 
+  
 
  | 
 
-◯
+ |
+| 
 
- | (★☆☆) |
+**Swipe**  
+(★☆☆)
+
+ | The Widow slashes using her right leg with long charge, dealing moderate slashing damage.
+
+  
+
+ | 
+
+ |
+| 
+
+**Impale**  
+(★☆☆)
+
+ | The Widow quickly lunges with both of her legs, dealing moderate damage.
+
+  
+
+ | 
+
+ |
+| 
+
+**Articulated Thrash**  
+(★☆☆)
+
+ | The Widow charges up her leg and slashes her target three times in succession.
+
+-   Does not grant autoparry frames, all slashes must be parried individually.
+
+  
+
+ | 
+
+ |
 
 ### **Passives**
 
 -   **Unwavering Neurotoxins** - The poison inflicted by the Widow's bite will deal **percent-based damage**, no matter how much health or resistances the target has. It will also insta-execute the player if the player reaches 0% health when afflicted.
-    -   This is especially dangerous in the [Diluvian Mechanism](The_Diluvian_Mechanism.md) where the Widow's bite simply ignores the resistances given by abilities such as [Sacred Field](Sacred_Field.md) or [Tranquil Circle.](Oath%253A_Blindseer.md) As a result, it is recommended to target the Widows first when they spawn in during a wave.
+    -   This is especially dangerous in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) where the Widow's bite simply ignores the resistances given by abilities such as [Sacred Field](Sacred_Field.md) or [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle). As a result, it is recommended to target the Widows first when they spawn in during a wave.
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to the Deep Widow.
 
 ### Finisher
 
 -   **Fatal Poison -** The Deep Widow sinks her fangs into a downed player and liquefies them with a lethal dose of deep venom.
-
-  
 
 ## **Tips/Trivia**
 

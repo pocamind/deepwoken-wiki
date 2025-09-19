@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 153764
+revid: 162324
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -20,11 +20,39 @@ Diver Husk numbers can vary; they can be found solo, in a duo or in a group of t
 
 Diver Husks has an arsenal of weapons known across Lumen:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Performs 3 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ◯ | (★★★) |
-| Critical | Standard Critical of their current weapon. | ◯ | ✗ | (★★☆) |
+| Name/Danger | Description | Danger |
+| --- | --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+  
+
+ |
+| 
+
+**Strong Left**  
+(★★★)
+
+ | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+  
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Standard Critical of their current weapon.
+
+-   The Zweihander critical is **unblockable**.
+
+  
+
+ |
 
 ## Finisher
 

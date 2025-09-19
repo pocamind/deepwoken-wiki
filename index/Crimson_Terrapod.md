@@ -1,6 +1,6 @@
 ---
 title: Crimson Terrapod
-revid: 161735
+revid: 162303
 source: https://deepwoken.fandom.com/wiki/Crimson_Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -33,21 +33,12 @@ Media
 | --- | --- | --- |
 | 
 
-**Cruentare**  
-(★★★)
-
- | The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts [bleed](Status_Effects.md#bleed) on every slash, draining your blood and dealing 30% more damage. | N/A |
-| 
-
 **Quick Strike**  
 (★☆☆)
 
  | The Terrapod does a singular slice at its opponent and then quickly retreats.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | File:1 swing.gif |
 | 
@@ -58,9 +49,6 @@ Dodgeable:◯
  | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | File:Headcrab 3 swings.gif |
 | 
@@ -68,15 +56,17 @@ Dodgeable:◯
 **Relentless Strikes**  
 (★★★)
 
- | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times.  
-Deals insane posture damage.
+ | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times.
+
+-   Do not attempt to block all of the hits, it deals very high posture damage.
 
   
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  | File:A lot of swings (online-video-cutter.com).gif |
+
+### Passives
+
+-   **Cruentare** - The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, inflicts [bleed](Status_Effects.md#bleed) on every slash, draining your blood and dealing 30% more damage.
 
 ## Finisher
 
