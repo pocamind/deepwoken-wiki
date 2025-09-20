@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 162435
+revid: 162616
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with U
 
 ## Description
 
-The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare direct drop from slaying a [Crimson Megalodaunt](Crimson_Megalodaunt.md), finding it inside a Merchant Ship, or buying it from Traan Zakshun. It has unique animations and a unique critical.
+The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare direct drop from slaying a [Crimson Megalodaunt](Crimson_Megalodaunt.md), finding it inside a Merchant Ship, or buying it from [Traan Zakshun](Traan_Zakshun.md). It has unique animations and a unique critical.
 
 ## Critical
 

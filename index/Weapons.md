@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 161862
+revid: 162622
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -50,21 +50,23 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 ## Key Terminology
 
 -   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
--   **Base Damage:** Base weapon damage dealt with 0 points of scaling.
--   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances. Caps out at 50%, but the cap can be removed with Million Ton Piercer or Ether Overdrive Talents.
--   **Chip Damage:** Weapon damage bypassing through block.
+-   **Base Damage:** Base weapon damage dealt with 0 investment in scaling attributes.
+-   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) resistances. For example 50% PEN vs 50% armor resistance = 25% damage dealt. PEN caps at 50%, but the cap can be removed with the Million Ton Piercer or Ether Overdrive Talents.
+-   **Chip Damage:** A percentage of your weapon's scaled damage that goes through block. E.g. 20% chip w/ 30 damage = 6 damage to blocking opponents.
 -   **Scaling:** Scaling for weapon attribute(s).
--   **Weight:** Posture damage dealt.
+-   **Weight:** Posture damage dealt. Weapons deal 10% more posture damage when two-handed.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
--   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x
--   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
--   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
--   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) greatsword weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is (currently) exclusive to the [Fractine](Fractine.md) weapon.
+-   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x.
+-   **Endlag:** Additional lingering duration after a basic weapon attack (Self-stun after M1s). All weapons have endlag, these weapons have additional endlag.
+-   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md#proficiency) (including bleed). This doesn't account for any DMG stars on a weapon.
+-   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is (currently) exclusive to the [Fractine](Fractine.md) weapon.
+-   **1H** and **2H**: A term used specifically for the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon's two states being the Club (2H) and Sword (1H) that it becomes when stance swapping. These forms differ in stats. This is (currently) exclusive to the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon.
+-   **GS**, **Dagger**, and **Both**: Terms used for [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), as the dagger M1s have light scaling instead of heavy. Both have Flamecharm scaling however. This is (currently) exclusive to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
 -   **War Weapon/War Stats:** Similar to Alloyed weapons, these weapons are enhanced variants of a weapon, having unique traits and differing stats from their base variants. Stats which remain white are the same as the non-war version.
--   [**Bleed:**](Status_Effects.md#bleed) 30% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 130% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
--   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
--   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound.)
+-   [**Bleed:**](Status_Effects.md#bleed) 10% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
+-   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md).
+-   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound).
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 -   **Ability-bound Weapons:** Weapons exclusive to an [Oath](Oaths.md) or [Resonance](Resonance.md).

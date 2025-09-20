@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 157743
+revid: 162617
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, Etrea]
@@ -43,6 +43,6 @@ The [Paired Soul](Talents.md#equipment-talents) Talent increases the damage of t
 
 ## Trivia/Notes
 
--   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card with much better stats.
+-   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card wile having much better stats.
 -   This Outfit is worn by [Das](Das.md) at [Isle of Vigils](Isle_of_Vigils.md).
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6191481082/Blade-Initiate) / [Pants](https://www.roblox.com/catalog/6191481942/Blade-Initiate-Pants)
