@@ -1,6 +1,6 @@
 ---
 title: "Seamstress's Attire"
-revid: 151468
+revid: 162601
 source: https://deepwoken.fandom.com/wiki/Seamstress's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, World Event]
@@ -36,3 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 ### _Armor Stats_
 
 This Outfit has 2000 durability and grants +20% Elemental resistance, +25% Physical resistance.
+
+## Trivia
+
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826400522/Seamstresss-Attire-Shirt) / [Pants](https://www.roblox.com/catalog/16831909593/Seamstresss-Attire-Pants)

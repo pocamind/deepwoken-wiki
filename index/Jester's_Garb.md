@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 161116
+revid: 162613
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -68,4 +68,4 @@ List of afflictions being:
 -   Worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
 -   This Outfit shares identical stats with [Trickster's Habit](<Trickster's_Habit.md>), the outfit worn by [Tillian](Tillian.md).
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
--   This outfit's "Not A Scratch" functions as normal even if your willpower is below 100.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16178494443/Jesters-Garb-Shirt) / [Pants](https://www.roblox.com/catalog/16178500106/Jesters-Garb-Pants)

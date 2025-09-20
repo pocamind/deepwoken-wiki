@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 157125
+revid: 162606
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Etrea]
@@ -42,3 +42,7 @@ This Outfit has 2800 durability and grants +30% Physical Armor, +25% Elemental A
 This Outfit also grants the [Serpent's Dance](Talents.md#equipment-talents) Talent, which gives the [Fang and Coil](Fang_and_Coil.md) fist style a new Running Critical Attack. This additional critical can **only** be used on fist weapons that do not have unique criticals ([Fists](Fists.md), [Iron](Iron_Cestus.md)/[Legion](Legion_Cestus.md)/[Flamekeeper Cestus](Flamekeeper_Cestus.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), and [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md)) and [Markor's Inheritor](<Markor's_Inheritor.md>).
 
 This critical deals your weapon's scaled damage with 10 posture damage and 10% innate chip damage. It also knockdowns and applies daze on hit. This attack has a **5 second cooldown**.
+
+## Trivia
+
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16220418797/Jade-Vigils-Weave-Shirt) / [Pants](https://www.roblox.com/catalog/16220453107/Jade-Vigils-Weave-Pants)

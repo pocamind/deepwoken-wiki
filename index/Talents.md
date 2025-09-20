@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162591
+revid: 162592
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1067,12 +1067,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   Grants the "Precise Swing" status effect for 30 seconds.
-    -   The Precise Swing status effect will be consumed if you land an M1, regardless of if your attack hits block or not.
+    -   If your critical lands, is parried, or is blocked, gain the "Precise Swing" status effect for 30 seconds.
+    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried. Because the latter two aren't hitting block, you will gain no benefits.
+        -   If your M1 is whiffed or dodged, the status effect will not be consumed.
     -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
-    -   Precise Swing is additive with weapon chip, and having above 100% chip allows you to deal more damage.
-        -   Because chip has no PEN and benefits from very few damage modifiers, this is more of a fun fact than anything that could be good.
-    -   If your critical hits a block, this Talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit).
+    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
     -   Prerequisites: 25 Strength, 15 Agility
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
 

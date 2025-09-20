@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 161117
+revid: 162597
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -67,6 +67,6 @@ List of afflictions being:
 
 -   Worn by [Tillian](Tillian.md) during the Carnival of Hearts.
 -   This Outfit shares identical stats with [Jester's Garb](<Jester's_Garb.md>), the outfit worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
--   The ''Black cross'' effect, procs the [talent](Talents.md) ''Charged return'' granting 10% increased DMG while under its effect.
+-   TheBlack cross effect, procs the [Talent](Talents.md) Charged return granting 10% increased DMG while under its effect.
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
--   This outfit's "Not A Scratch" functions as normal even if your willpower is below 100.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/133529830559342/Tricksters-Habit-Shirt) / [Pants](https://www.roblox.com/catalog/107170519707009/Tricksters-Habit-Pants)

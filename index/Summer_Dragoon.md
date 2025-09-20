@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 162359
+revid: 162612
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Summer Company]
@@ -48,3 +48,4 @@ This Outfit also grants the [Sunset Ricochet](Talents.md#equipment-talents) Tale
 
 -   Richocheted bullets can proc enchants (Bugged)
 -   Dragoons were mounted infantrymen that existed from the 16th-18th centuries, wielding a [similarly named firearm](Dragoon.md).
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11698099491/Summer-Company-Master-Shirt) / [Pants](https://www.roblox.com/catalog/11698112750/Summer-Company-Master-Pants)

@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 151526
+revid: 162602
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -49,3 +49,4 @@ This Outfit grants the [Underdog](Talents.md#champion) Talent, granting you a 3%
 
 -   Added in the 'World Events' update.
 -   Originally had the Giantslayer Talent, but due to Giantslayer being merged with Underdog on the same update this outfit was added, the outfit effectively had no Talent. Heretic's Memento's innate Talent was changed to Underdog on March 8th, 2025.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16129125221/Heretics-Memento-Shirt) / [Pants](https://www.roblox.com/catalog/16129130326/Heretics-Memento-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Ignition Welder
-revid: 161635
+revid: 162608
 source: https://deepwoken.fandom.com/wiki/Ignition_Welder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, The Ignition Union]
@@ -43,3 +43,4 @@ It also gives the [Master Craftsman](Talents.md#artisan) Talent, allowing you to
 ## Trivia
 
 -   This outfit is worn by [Ottilde](Ottilde.md) and [Merryweather](Merryweather.md).
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/131723596639240/Ignition-Welder-Shirt) / [Pants](https://www.roblox.com/catalog/130698956313657/Ignition-Welder-Pants)

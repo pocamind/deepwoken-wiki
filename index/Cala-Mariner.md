@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 160753
+revid: 162607
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -48,3 +48,4 @@ Additionally, it provides the [Tidal Shock](Talents.md#equipment-talents) Talent
 -   This outfit has one of the most expensive Outfit crafting recipes, being beat out by only the [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) and [Titus's Raiment](<Titus's_Raiment.md>). Cala-Mariner requires 5 [Odd Tentacles](Odd_Tentacle.md) and a [Nautilodaunt Beak](Nautilodaunt_Beak.md), so expect to farm a lot of [Nautilodaunts](Nautilodaunt.md) if you wish to obtain this outfit for yourself.
 -   The outfits name is a pun on calamari and mariner.
 -   The oufit resembles the outfit of Jack Sparrow from _Pirates of the Caribbean_.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/113984308637103/Cala-Mariner-Shirt) / [Pants](https://www.roblox.com/catalog/134822282503743/Cala-Mariner-Pants)

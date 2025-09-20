@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 155223
+revid: 162610
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -40,5 +40,5 @@ The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Ar
 ## Trivia
 
 -   This outfit originally granted a Talent named "_Reciprocity_", which did nothing as there isn't a Talent by that name. This was fixed sometime in a shadow update.
--   Roblox clothing (Suit) - [Shirt](https://www.roblox.com/catalog/16826381385/Formal-Suit-Shirt) / [Pants](https://www.roblox.com/catalog/16831806056/Formal-Suit-Pants)
+-   Roblox clothing (Suit) - [Shirt](https://www.roblox.com/catalog/16826381385/Varicosan-Finery-Shirt) / [Pants](https://www.roblox.com/catalog/16831806056/Varicosan-Finery-Pants)
 -   Roblox clothing (dress) [Shirt](https://www.roblox.com/catalog/16826386577/Functional-Dress-Shirt) / [Pants](https://www.roblox.com/catalog/16831865733/Functional-Dress-Pants)

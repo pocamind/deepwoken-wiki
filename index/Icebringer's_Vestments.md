@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 161118
+revid: 162605
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, World Event]
@@ -46,3 +46,7 @@ This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemen
 It gives the [Refreeze](Talents.md#equipment-talents) and [Orbital Ice](Talents.md#frostthorn) Talents. **Refreeze** lowers your Orbital Ice cooldown by 8 seconds when landing any sort of ability that would cause a bottom freeze proc. **Orbital Ice** forms a ring of ice around your character if you parry while standing on ice. This ice ring grants 15% Physical damage resistance.
 
 This Outfit's Orbital Ice will work even if you have the "[Fists of Fortitude](Talents.md#navaen-nomad)" Talent despite it being mutually exclusive with Orbital Ice, allowing you to use both talents simultaneously. Stacking this Outfit's resistances along with with Orbital Ice and Fists of Fortitude brings your total resistances to 45.8% Physical, 55.38% Frostdraw, and 40.5% Elemental resistance.
+
+## Trivia
+
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826348088/Icebringers-Vestments-Shirt) / [Pants](https://www.roblox.com/catalog/16826351147/Icebringers-Vestments-Pants)

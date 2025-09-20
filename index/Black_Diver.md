@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 152474
+revid: 162611
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Divers]
@@ -50,7 +50,7 @@ This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemen
 -   Worn by [Akira](Akira.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Dr. Carrion](Carrion,_Father_of_Evolution.md), and other Black Divers in [Castle Light](Castle_Light.md), also worn by the [Frostdraw](Frostdraw.md) and [Thundercall](Thundercall.md) trainers [Nell](Nell,_Master_of_Frost.md) and [Funke](Funke,_Master_of_Thunder.md) respectively.
 -   A version of this outfit with red instead of yellow lights is worn by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Roblox clothing (OLD): [Shirt](https://www.roblox.com/catalog/6135484780/Black-Diver-Armor) / [Pants](https://www.roblox.com/catalog/6135486667/Black-Diver-Pants)
--   Roblox clothing (NEW): [Shirt](https://www.roblox.com/catalog/13449570371/Black-Diver) / [Pants](https://www.roblox.com/catalog/13449574969/Black-Diver)
+-   Roblox clothing (NEW): [Shirt](https://www.roblox.com/catalog/9615732428/Black-Diver-Shirt) / [Pants](https://www.roblox.com/catalog/9615733084/Black-Diver-Pants)
 
 ## References
 

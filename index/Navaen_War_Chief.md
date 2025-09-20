@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 156542
+revid: 162598
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Children of Navae]
@@ -48,3 +48,4 @@ This Outfit also grants the [Chief's Will](Talents.md#equipment-talents) Talent,
 
 -   This is debatably the best armor for those who want to do a lot of damage with the [Way of Navae](Way_of_Navae.md) fist style.
 -   One of five armors that buff one fist/kick style, the others being [Legion Centurion](Legion_Centurion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>), and [Justicar's Armor](<Justicar's_Armor.md>).
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/8692790296/Navae-War-Chief-Shirt) / [Pants](https://www.roblox.com/catalog/8692777467/Navae-War-Chief-Pants)
