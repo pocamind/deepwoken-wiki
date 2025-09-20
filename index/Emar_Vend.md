@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 153743
+revid: 162521
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Central Authority]
@@ -22,12 +22,50 @@ He wields a Darksteel Greatsword with the Metal [Enchantment](Enchantments.md) a
 
 ## Moves
 
-Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oath%253A_Chainwarden.md) mantras, and a variety of [Ironsing](Ironsing.md) mantras.
+Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oath%253A_Chainwarden.md) Mantras, and [Caltrops](Ironsing.md#caltrops).
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Assault** | Emar Vend swings his sword at the opponent and ends the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Critical** | Emar Vend stands his ground before harshly swinging his Darksteel Greatsword. | ◯ | ✗ | ◯ | (★★☆) |
-| **Restrain** | Emar Vend preforms an axe kick before applying a chain onto an enemy, halting any escape. | ◯ | ◯ | ◯ | (★★★) |
-| **Caltrops** | Emar Vend hides his torso with his hands, creating caltrops and throwing them at the last second. | ◯ | ✗ | ◯ | (★★☆) |
-| **Impel** | Emar Vend raises his free hand, blasting 4 shots of chains before pulling the opponent to him. | ◯ | ✗ | ◯ | (★★★) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Emar Vend swings his sword at the opponent and ends the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Emar Vend stands his ground before harshly swinging his Darksteel Greatsword.
+
+-   Vend gains true hyperarmor during this attack animation. Do not attempt to hitstun him out of it.
+
+ |
+| 
+
+**Restrain**  
+(★★★)
+
+ | Emar Vend preforms an axe kick before applying a chain onto an enemy, halting any escape.
+
+-   This applies a chain if it hits or is blocked, limiting your movement. This attack should be parried or dodged if possible.
+
+ |
+| 
+
+**Caltrops**  
+(★★☆)
+
+ | Emar Vend hides his torso with his hands, creating caltrops and throwing them at the last second.
+
+ |
+| 
+
+**Vent**  
+(☆☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+ |

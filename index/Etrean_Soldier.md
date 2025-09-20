@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 153720
+revid: 162531
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Etrea]
@@ -26,19 +26,47 @@ An Etrean Soldier wears a purple uniform with their aspect being [Etrean](Etrean
 
 An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Ritual Spear](Ritual_Spear.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | \[[Battleaxe](Battleaxe.md)\] Firmly swings axe at opponent and finishing up the combo by kicking them.
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | \[[Battleaxe](Battleaxe.md)\] Firmly swings axe at opponent and finishing up the combo by kicking them.
+
 \[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
 
- | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Battleaxe](Battleaxe.md)\] Raises axe before slamming it into the ground below.
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Battleaxe](Battleaxe.md)\] Raises axe before slamming it into the ground below.
 
 \[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
- | ◯ | ✗ | (★★☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
-| Wind Gun | A powerful wind blast. | ◯ | ◯ | (★★☆) |
+-   Battleaxe critical is not blockable.
+
+ |
+| 
+
+**Gale Lunge**  
+(★☆☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Wind Gun**  
+(★★☆)
+
+ | A powerful wind blast.
+
+-   Applies [Suffocation](Status_Effects.md#suffocate) on hit, disabling Mantra casts.
+
+ |
 
 ## Talents
 

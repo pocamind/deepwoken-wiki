@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 153747
+revid: 162519
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae, Children of Navae Enemies]
@@ -22,10 +22,23 @@ They wear a [Rebel's Bandana](Outfits.md) and the [Navaen Nomad Robes](Navaen_No
 
 Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along with the [Frostdraw](Frostdraw.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Throws spear at opponent and then pulling them in with a white chain. | ◯ | ✗ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly thrusts spear at opponent and finishing the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Throws spear at opponent and then pulling them in with a white chain.
+
+ |
 
 ## Finisher
 
@@ -56,12 +69,47 @@ They wear a [Rebel's Bandana](Outfits.md) and the [Navaen Nomad Robes](Navaen_No
 
 Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along with the [Frostdraw](Frostdraw.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Throws spear at opponent and then pulling them in with a white chain. | ◯ | ✗ | (★★☆) |
-| Old Ice Eruption | Forms a path of ice spikes in front of user. | ✗ | ✗ | (★★☆) |
-| Ice Daggers | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly thrusts spear at opponent and finishing the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Throws spear at opponent and then pulling them in with a white chain.
+
+ |
+| 
+
+**Ice Eruption**  
+(★★☆)
+
+ | Forms a path of ice spikes in front of user.
+
+ |
+| 
+
+**Ice Daggers**  
+(★★☆)
+
+ | Forms three daggers of ice before throwing them towards the nearest person.
+
+ |
+| 
+
+**Ice Chain**  
+(★★☆)
+
+ | Forms four chains of ice that lock on and stun you on hit.
+
+ |
 
 ## Finisher
 

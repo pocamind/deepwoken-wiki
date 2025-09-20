@@ -1,6 +1,6 @@
 ---
 title: Prisoner
-revid: 159721
+revid: 162524
 source: https://deepwoken.fandom.com/wiki/Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies]
@@ -20,28 +20,21 @@ Prisoners can only be found in the [Merit Detainment Core](Merit_Detainment_Core
 
 A Prisoners arsenal consists of Legion Kata.
 
-| Name/Danger | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
 **Assault**  
+(★☆☆)
 
  | Firmly pummels opponent with basic attacks before finishing up the combo by flourishing them.
-
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
 
  |
 | 
 
-**Strong Left  
-**★
+**Strong Left**  
+(★★☆)
 
  | A powerful, flinging punch that shatters the air.
-
-Parryable:◯  
-Blockable:✗  
-Dodgeable:◯
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 162333
+revid: 162540
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Layer 2, Floor 2, NPCs located in the Second Floor of the Second Layer]
@@ -147,6 +147,9 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
 -   The "immortals" that Kaide mentions in his dialogue are presumably the [Deepwoken](Deepwoken.md). His hesitation when he mentions this brings up the possibility that the term is a sacred or touchy subject. It also could mean that the player and other people in Lumen cannot comprehend the concept of a Deepwoken.
 -   The relics mentioned by Kaide may be referring to the [Moon's Eyrie](<Moon's_Eyrie.md>) and the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, which are both found in the [Voidsea](Voidsea.md).
 -   Kaide's old appearance consisted of the [Soren](Soren.md) outfit, deep purple eyes, with the halo of the same color hanging over his wolf cut.
+-   When you talk to Kaide with Kyrsieger equipped, he judges the player and tells that he doesn't want it to see because The Kyrsieger was used in an assault on Constellia, the city Kaide ruled over.
+-   When you talk with Soulthorn equiped, he remembers the Celestial that was exiled from the city. it means that he met him before and reveals us his his name to us - Zhatarn, the wielder of Soulthorn. Surface dwellers dont know about him but other celestials because they don't want us to know about one of the exiled from the city. ASSUMEDLY he got exiled because of his madness.
+-   When you talk to him while having Starkindred oath, he recognizes the scent of Celestials, calling the player "Depraved" just like celestials used to be. Even though he scorns Celestials because of betrayal, he "had hoped better, not sure himself why" when felt their scent from the player. PROBABLY because of past Celestials and Lightborn shared before Celestials betrayed them.
 -   Kaide's clothing IDS:
     -   Shirt - [https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman)
     -   Pants - [https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)

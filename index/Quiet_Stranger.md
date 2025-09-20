@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 156523
+revid: 162529
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Murmurs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
@@ -23,8 +23,6 @@ The Quiet Stranger is an NPC that rarely spawns as one of the many [Random Encou
 Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Murmur%253A_Tacet.md) without having to fulfill any kill requirements.
 
 ## Dialogue
-
-**First encounter:**
 
 <table>
 <tbody>
@@ -60,9 +58,38 @@ Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Mur
 
 The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), [Tacet](Murmur%253A_Tacet.md), and the [Contractor](Oath%253A_Contractor.md) Oath:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
-| Tacet Dropkick | The Quiet Stranger briefly goes invisible before teleporting above the player and knocking them down with a kick. | ◯ | ◯ | (★★☆) |
-| Judgement | Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. The move will instantly execute if it brings HP to 0. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly swings dagger at the opponent and finishes the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★☆☆)
+
+ | User unleashes a quick flurry of slashes.
+
+ |
+| 
+
+**Tacet Dropkick**  
+(★★☆)
+
+ | The Quiet Stranger briefly goes invisible before teleporting above the player and knocking them down with a kick.
+
+ |
+| 
+
+**Judgement**  
+(★★☆)
+
+ | Summons a black casting circle before enveloping your target in black tendrils and tearing them apart.
+
+-   This move will instantly execute if it brings HP to 0.
+
+ |

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 162459
+revid: 162541
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -58,7 +58,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Shields of Erisia**  
 (★★☆)
 
- | Duke Erisia shields himself in a glowing wind shield. Any Attacksagainst the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
+ | Duke Ishamon Erisia shields himself in a glowing wind shield. Any Attacksagainst the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
@@ -71,7 +71,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Feint**  
 (★★☆)
 
- | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
+ | Duke Ishamon Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
 
 -   Essentially an average Legion Kata feint.
 
@@ -81,7 +81,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Binding Tempest**  
 (★★☆)
 
- | Duke Erisia rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, Duke Erisia teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
+ | Duke Ishamon Erisia rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, Duke Ishamon Erisia teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
 -   Telegraphed by the lack of sound while rising and longer cast time, compared to Aero Spear.
 -   Will daze targets if they hit a wall while ragdolled.
@@ -96,7 +96,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Aero Spear**  
 (★★☆)
 
- | Duke Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
+ | Duke Ishamon Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 -   Auto-grips if knocked or low health.
@@ -107,7 +107,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Gale Stomp**  
 (★★★)
 
- | Duke Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
+ | Duke Ishamon Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
 -   Auto-grips if knocked or low health.
@@ -118,7 +118,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Cyclone Bomb**  
 (★★☆)
 
- | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried.
+ | Duke Ishamon Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried.
 
 -   This attack is very rare.
 -   Covers a large Area of Effect.
@@ -130,7 +130,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Strong Left**  
 **(★☆☆)**
 
- | Duke Erisia will charge up a punch, and teleport to his target,
+ | Duke Ishamon Erisia will charge up a punch, and teleport to his target,
 
 -   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
 
@@ -139,7 +139,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 **Mindless Servants** **(★☆☆)**  
 
- | Duke Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
+ | Duke Ishamon Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
 -   Mindless Servants are essentially health-packs and serve no real threat.
 -   If fought solo, they may become a threat as they will combo you while fighting Ishamon if not killed fast enough.
@@ -158,29 +158,33 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  |  |
 
+### Passives
+
+-   Guardbreak Resist - Duke Ishamon Erisia is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this effect procs.
+-   Hefty Stature - Duke Ishamon Erisia will instantly be dropped if the player attempts to carry his knocked body. This will not reset his knock timer.
+
 ### Talents
 
--   Impervious Slumber - Hitting Duke Erisia while knocked won't reset his time knocked. He cannot be carried as well.
+-   Impervious Slumber - Hitting Duke Ishamon Erisia while knocked won't reset his time knocked. He cannot be carried as well.
 -   Breathing Impact - When knocked into objects by wind mantras you will take additional blunt damage based off of how hard you are hit.
--   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage dealt to you again. If an attack was a mantra, it does 5% damage instead.
--   Suffocating Impact - When flourished into walls by Duke Erisia, you are suffocated and winded for a short duration.
--   Stifled Jump - Those who jump while suffocated by Duke Erisia will be dazed.
--   Air Pressure - When Duke Erisia dodges an attack or hits your block his next dash will be a Gale Dash.
--   Pressure Break - When Duke Erisia breaks your posture, you will take intense wind pressure damage and be flung backwards.
--   Silencer's Blade - If Duke Erisia melees you while you are 'Suffocated' it will extend the duration of the Suffocation. He will also gain a speed boost
--   Collapsed Lung - When block broken by Duke Erisia you are unable to Vent for 3s.
--   Dirty Boxing - If Duke Erisia hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
--   Concussion - When Duke Erisia flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
--   Concussive Force - Enemies knocked by Duke Erisia will remain downed longer than usual.
--   Bulldozer - If flourished into a wall by Duke Erisia, you have a chance to break the wall and be guard broken on impact.
--   Million Ton Piercer - Duke Erisia has 5% extra PEN and has no PEN cap.
--   Shield Breaker - Blunt damage from Duke Erisia now deals full posture damage to shields (essentially your shield is useless for blocking).
--   Audacity - When Duke Erisia starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation.
--   Matador - Duke Erisia deals +20% more damage to human enemies with hyperarmor.
--   Showstopper - When you roll through one of Duke Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
--   Berserker - When Duke Erisia knocks an enemy, he gains 20% DMG resistance for 15 seconds.
--   Charged Return - Being under an elemental status effect causes Duke's M1's and critical Attacksto do 20% more damage.
--   Boss Armor - Duke Erisia is immune to instant guard break effects.
+-   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage dealt to you again. If an attack was a Mantra, it does 5% damage instead.
+-   Suffocating Impact - When flourished into walls by Duke Ishamon Erisia, you are suffocated and winded for a short duration.
+-   Stifled Jump - Those who jump while suffocated by Duke Ishamon Erisia will be dazed.
+-   Air Pressure - When Duke Ishamon Erisia dodges an attack or hits your block his next dash will be a Gale Dash.
+-   Pressure Break - When Duke Ishamon Erisia breaks your posture, you will take intense wind pressure damage and be flung backwards.
+-   Silencer's Blade - If Duke Ishamon Erisia melees you while you are 'Suffocated' it will extend the duration of the Suffocation. He will also gain a speed boost.
+-   Collapsed Lung - When block broken by Duke Ishamon Erisia you are unable to Vent for 8s.
+-   Dirty Boxing - If Duke Ishamon Erisia hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
+-   Concussion - When Duke Ishamon Erisia flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
+-   Concussive Force - Enemies knocked by Duke Ishamon Erisia will remain downed longer than usual.
+-   Bulldozer - If flourished into a wall by Duke Ishamon Erisia, you have a chance to break the wall and be guard broken on impact.
+-   Million Ton Piercer - Duke Ishamon Erisia has 5% extra PEN and has no PEN cap.
+-   Shield Breaker - Blunt damage from Duke Ishamon Erisia now deals full posture damage to shields (essentially your shield is useless for blocking).
+-   Audacity - When Duke Ishamon Erisia starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation.
+-   Matador - Duke Ishamon Erisia deals +20% more damage to human enemies with hyperarmor.
+-   Showstopper - When you roll through one of Duke Ishamon Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
+-   Berserker - When Duke Ishamon Erisia knocks an enemy, he gains 20% damage resistance for 15 seconds.
+-   Charged Return - Being under an elemental status effect causes Duke's M1's and critical Attacks to do 20% more damage.
 
 ## Finisher
 

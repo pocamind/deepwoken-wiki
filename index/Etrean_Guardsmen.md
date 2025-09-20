@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 158032
+revid: 162522
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, NPCs, Guards, Etrea]
@@ -30,18 +30,37 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 
 ### Attacks
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Firmly swings weapon at opponent and finishing up the combo by kicking them.
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Firmly swings weapon at opponent and finishing up the combo by kicking them.
+
 \[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts weapon at opponent and finishing up the combo by kicking them.
 
- | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before slamming it into the ground below.
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before slamming it into the ground below.
 
 \[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
 
- | ◯ | ✗ | (★★☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+-   The Battleaxe and Mace criticals are not blockable.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+ |
 
 ### Passives
 

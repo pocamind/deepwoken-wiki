@@ -1,6 +1,6 @@
 ---
 title: Pathfinder (NPC)
-revid: 124938
+revid: 162548
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,7 @@ categories: [Enemies]
 
 # Pathfinder (NPC)
 
-Template:EnemyInfobox1.0
+_Not to be confused with [Pathfinder](Glossary.md#pathfinders), a label given to those who explore and scavenge Lumen, notably without having taken an Oath._ Template:EnemyInfobox1.0
 
 ## Description
 
@@ -20,10 +20,23 @@ A Pathfinder wears a [Pathfinder Cloak](Pathfinder_Cloak.md) with their [aspect]
 
 A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly swings weapon at opponent and finishing the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises weapon before firmly slamming it down into the ground.
+
+ |
 
 ## Finisher
 

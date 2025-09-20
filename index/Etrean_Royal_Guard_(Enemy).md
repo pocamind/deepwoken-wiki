@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 153725
+revid: 162523
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies, Etrea]
@@ -21,13 +21,47 @@ An Etrean Royal Guard wears a [Blackleaf Helm](Blackleaf_Helm.md) and a darkened
 
 An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ◯ | (★★☆) |
-| Flashdraw Strike | Swiftly unsheathes blade and delivers an upwards strike. | ◯ | ◯ | (☆☆☆) |
-| Gale Lunge | Lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Strong Left | Performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly swings blade at opponent and finishing up the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Sheathes blade before dashing forward and unleashing a quick slash.
+
+ |
+| 
+
+**Flashdraw Strike**  
+(★★☆)
+
+ | Swiftly unsheathes blade and delivers an upwards strike.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | Lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | Performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+ |
 
 ### Boons:
 

@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 159743
+revid: 162536
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, Oaths, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -24,27 +24,39 @@ Nostor is located under a building in the bottom left quadrant of [The City of t
 
 Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Shadowcast](Shadowcast.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
+ | Firmly swings weapon at opponent and finishing the combo by kicking them.
 
-Critical
-
- | Impales blade into the ground, causing a shockwave of darkness to occur before applying a shadow chain. | ◯ | ✗ | (★★☆) |
+ |
 | 
 
-Shadow Assault
+**Critical**  
+(★★☆)
 
- | User performs a wind-up before rushing forward as a shadow orb, hitting anyone in their path while applying darkness. | ◯ | ◯ | (★★☆) |
+ | Impales blade into the ground, causing a shockwave of darkness to occur before applying a shadow chain.
+
+ |
 | 
 
-Rapid Punches
+**Shadow Assault**  
+(★★☆)
 
- | User unleashes a barrage of blows against their foes. | ◯ | ◯ | (★★☆) |
+ | User performs a wind-up before rushing forward as a shadow orb, hitting anyone in their path while applying darkness.
+
+ |
+| 
+
+**Rapid Punches**  
+(★★☆)
+
+ | User unleashes a barrage of blows against their foes.
+
+ |
 
 ### Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 162219
+revid: 162549
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -484,6 +484,8 @@ Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials)
 -   Formerly the capital of the Celtor peoples, now a site of pilgrimage for those lost to the [Depths](#the-depths).
 -   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
 -   The City of Celtor was dragged down from the Surface to the Depths in an event known as the [Submergence of Celtor](#the-submergence-of-celtor) in 904 CE.
+-   The City Guard speak of a deal, presumably a [Vow,](#vows) that they struck in order to keep the City safe.
+-   The guards are prevented from dispatching the monstrosities that stalk the city by the deal they struck.
 
 Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
 
