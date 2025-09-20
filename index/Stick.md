@@ -1,6 +1,6 @@
 ---
 title: Stick
-revid: 162346
+revid: 162583
 source: https://deepwoken.fandom.com/wiki/Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients, Harvestables]

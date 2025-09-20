@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 162214
+revid: 162562
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals, Light Weapons, Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Multiple Criticals
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 20% |
-| special effect | Krulian Charge - Upon using your critical, gain the Krulian Charge status effect, granting a speed boost and a pink Shock effect to your attacks.If you interrupt someone's attacks with this shock effect, apply the Cruel Counter status effect to them, increasing the damage they take from your Krulian Knife critical attacks. |
+| special effect | Krulian Charge - Upon using your critical, gain the Krulian Charge status effect, granting a speed boost and a pink Shock effect to your weapon attacks.Cruel Counter - If you interrupt someone's attacks with your Krulian Charge critical, apply the Cruel Counter status effect to them, increasing the damage they take from all critical attacks. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Krulian Knife |
@@ -38,7 +38,9 @@ The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defea
 
 ### Talent: Cruel Counter
 
-If you cancel your opponent's attack with the shock from [Krulian Charge](Status_Effects.md#krulian-charge), apply the [Cruel Counter](Status_Effects.md#cruel-counter) status effect on them, increasing your critical damage against them.
+If you cancel your opponent's attack with your Krulian Charge critical attack, apply the [Cruel Counter](Status_Effects.md#cruel-counter) status effect on them, increasing your critical damage against them for 20 seconds.
+
+Critical attacks gain a +40% damage modifier to anyone who is under the Cruel Counter status effect. This includes non-Krulian Knife critical attacks, even if they come from people who did not apply the status effect. This damage modifier **bypasses** the damage modifier cap.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 146793
+revid: 162589
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Tools]
@@ -26,7 +26,7 @@ Campfires can be created by crafting and placing a Campfire Pit (3 sticks **OR**
 
 Equipping and using a Campfire Pit will then place it down at your cursor's position. They cannot be placed if you click a location that isn't in your general vicinity.
 
-Pressing **B** while standing near a campfire with nothing in hand will make your character kick and destroy the campfire.
+Pressing B while standing near a campfire with nothing in hand will make your character kick and destroy the campfire.
 
 ## Trivia
 
@@ -42,3 +42,4 @@ Pressing **B** while standing near a campfire with nothing in hand will make you
     -   Campfires despawn after 10 minutes.
 -   Four lit campfires are required to summon [The Ferryman](The_Ferryman.md).
 -   Using [Glider](Gliders.md) above a [Campfire](Campfire_Pit.md) will lift you up a bit.
+-   Campfires were visually revamped in the September 15th, 2025 update.

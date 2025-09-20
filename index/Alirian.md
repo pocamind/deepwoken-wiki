@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 156220
+revid: 162581
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -30,7 +30,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 
 ## Dialogue
 
-**First encounter:**
+**First Encounter:**
 
 **Race Start:**
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 162058
+revid: 162557
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -376,7 +376,7 @@ Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [
 
 ### Cruel Counter
 
-Applied if your attack gets interrupted by the [Krulian Knife's](Krulian_Knife.md) Krulian Charge critical attack. This effect increases the damage taken by the Krulian Knife critical attacks for the next ? seconds. Signified by ?.
+Applied if your attack gets interrupted by the [Krulian Knife's](Krulian_Knife.md) Krulian Charge critical attack. This effect grants a +40% damage modifier to all damage taken by critical attacks for the next 20 seconds. Any critical that hits you while you have this status effect will gain this damage bonus, even if it isn't from the Krulian Knife or the person who applied the status. This damage modifier **bypasses** the damage modifier cap. Signified by cackling purple electricity on your body.
 
 ### Punishing Riposte
 

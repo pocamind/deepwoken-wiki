@@ -1,9 +1,9 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 162540
+revid: 162574
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, Layer 2, Floor 2, NPCs located in the Second Floor of the Second Layer]
+categories: [Lightborn NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light
@@ -66,31 +66,31 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 </tr>
 <tr>
   <td colspan="4">Who are you?</td>
-  <td colspan="4">How do you know all of this?</td>
-  <td colspan="4">What's happening with the Song?</td>
-  <td colspan="4">How do you know all of this?</td>
-  <td colspan="4">How did they reach your City? Isn't this place beneath the surface?</td>
+  <td colspan="5">How do you know all of this?</td>
+  <td colspan="3">What's happening with the Song?</td>
+  <td colspan="3">How do you know all of this?</td>
+  <td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td>
   <td colspan="4">Immortals?</td>
-  <td colspan="4">What's happening to the Song?</td>
+  <td colspan="5">What's happening to the Song?</td>
   <td colspan="4">Who are you?</td>
-  <td colspan="4">Armed?</td>
+  <td colspan="5">Armed?</td>
 </tr>
 <tr>
-  <td colspan="16">[See first instance]</td>
-  <td colspan="4">No, the <a href="Glossary.md#the-depths">Depths</a> is far more sinister and cunning than a horde that simply emerges from the Sea. This realm is an all-devouring maw that exists solely to consume everything. I do not know this for certain, but you've seen the ruins here, no? They aren't of Human or <a href="Glossary.md#the-celestials">Celestial</a> make. I have a suspicion that the realms we call 'Layers', with their strange environments, may just be places consumed far before the world above - our world - ever existed...</td>
+  <td colspan="15">[See first instance]</td>
+  <td colspan="3">No, the <a href="Glossary.md#the-depths">Depths</a> is far more sinister and cunning than a horde that simply emerges from the Sea. This realm is an all-devouring maw that exists solely to consume everything. I do not know this for certain, but you've seen the ruins here, no? They aren't of Human or <a href="Glossary.md#the-celestials">Celestial</a> make. I have a suspicion that the realms we call 'Layers', with their strange environments, may just be places consumed far before the world above - our world - ever existed...</td>
   <td colspan="4">Yes, you don't know of them? You surface dwellers have always been a secretive lot. All so suspicious and paranoid. I imagine if they're still alive, then they no doubt occupy positions of power within your world. Behind the scenes though, I should think.</td>
-  <td colspan="8">[See first instance]</td>
+  <td colspan="9">[See first instance]</td>
   <td colspan="4"><i>*He chuckles.*</i> A gift from our predecessors. And part of why we didn't ransack them ourselves.</td>
 </tr>
 <tr>
-  <td colspan="16"></td>
-  <td colspan="4">End</td>
+  <td colspan="15"></td>
+  <td colspan="3">End</td>
   <td colspan="4">How did they reach your City? Isn't this place beneath the surface?</td>
-  <td colspan="8"></td>
+  <td colspan="9"></td>
   <td colspan="4">End</td>
 </tr>
 <tr>
-  <td colspan="20"></td>
+  <td colspan="18"></td>
   <td colspan="4">[See first instance]</td>
 </tr>
 </tbody>
@@ -118,7 +118,130 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
+**Unlockable Dialogues:**
+
+**Kyrsieger:**
+
+This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Gah! That <i>ghastly</i> thing you wield. You truly do have poor taste.</td>
+</tr>
+<tr>
+  <td>Oh. I'm sorry.</td>
+  <td>I'm using it for good, don't worry.</td>
+</tr>
+<tr>
+  <td></td>
+  <td><i>*He pinches his brow.*</i> Look, whatever you do with that thing isn't my business. Just keep it out of my sight.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Can I ask how long it's been?</td>
+</tr>
+<tr>
+  <td></td>
+  <td><i>*He sighs.*</i> I'm sure you know by now that time doesn't behave itself down here. But to put it into relative terms, <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> fell some 77 years after the <a href="Glossary.md#the-celestials">Celestials</a> abandoned us. Truth be told, I don't know which calendar you're using or how long I've been down here, so I can't offer you much more than that.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>We use Citadel Era.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>That's great, but I don't know what this 'Citadel' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and though ourselves fortunate. How ironic.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Soulthorn:**
+
+This dialogue is unlocked if the player has a [Soulthorn](Soulthorn.md) equipped.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">A sinister blade you wield... It calls to mind the one who wielded by <a href="Glossary.md#zhatarn-the-moonlight-prince">Zhatarn</a>, the Moonlight Prince. A tortured presence you bring before me, indeed.</td>
+</tr>
+<tr>
+  <td colspan="2">Zhatarn?</td>
+</tr>
+<tr>
+  <td colspan="2">A <a href="Glossary.md#the-celestials">Celestial</a> driven mad by his own folly in days long past. He took from the <a href="Glossary.md#the-moonseye">Moonseye</a> and so too did it take from him. Though, I'm afraid he passed into myth by our time. Some thought of it merely as a cautionary tale. Though to see such a blade, I have my doubts...</td>
+</tr>
+<tr>
+  <td>How come I never heard of him?</td>
+  <td>What happened to him?</td>
+</tr>
+<tr>
+  <td>Well, look at it this way. Your kind only knows of the <a href="Glossary.md#the-celestials">Celestials</a> who fled to the <a href="Glossary.md#the-surface">Surface</a> following the Heavensfall. And I can't imagine the <a href="Glossary.md#the-celestials">Celestials</a> would have exactly <i>wanted</i> you to know about one of their exiles, so you'd really have little reason to know of him.</td>
+  <td>Hm, The legends said that after his exile from the <a href="Glossary.md#the-heavens">Heavens</a>, he roamed the Void as a wraith. Though, I truly could not tell you if there's any truth to that.</td>
+</tr>
+<tr>
+  <td>What happened to him?</td>
+  <td>How come I never heard of him?</td>
+</tr>
+<tr>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Starkindred:**
+
+This dialogue is unlocked if the player has the [Oath: Starkindred](Oath%253A_Starkindred.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="9">Begin</td>
+</tr>
+<tr>
+  <td colspan="9">Hm. You bear their scent. I hesitate to ask what you did.</td>
+</tr>
+<tr>
+  <td colspan="3">I'm not surprised. I drank their ichor.</td>
+  <td colspan="3">Why're you smelling me?</td>
+  <td colspan="3">What's happening with the Song?</td>
+</tr>
+<tr>
+  <td colspan="3"><i>*He wrinkles his nose.*</i> You're just as depraved as they were. I had hoped better, though I'm not sure why. And just to tap into their art?</td>
+  <td colspan="3">I was being polite. I can be more direct. You <i>reek</i>.</td>
+  <td colspan="3">[See first instance]</td>
+</tr>
+<tr>
+  <td>They created you and yet you scorn them?</td>
+  <td>I needn't listen to the prattling of a heretic.</td>
+  <td>Their art?</td>
+  <td colspan="3">End</td>
+</tr>
+<tr>
+  <td>It is <i>because</i> they created us that I scorn them. As any child would a parent that leaves them to die to save their own skin.</td>
+  <td><i>*He rolls his eyes.*</i> Worship them all you like, human. So did we.</td>
+  <td>You drank of their blood and you don't know why? Where Mankind modifies its surroundings with the <a href="Glossary.md#the-song">Song</a>, the <a href="Glossary.md#the-celestials">Celestials</a> modify themselves. Your drinking of their ichor is no doubt to facilitate a <a href="Glossary.md#vows">Vow</a> that imitates how the <a href="Glossary.md#the-celestials">Celestials</a> accessed it.</td>
+</tr>
+<tr>
+  <td colspan="3">End</td>
+</tr>
+</tbody>
+</table>
+
+**Vortex Echo:**
 
 This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equipped.
 
@@ -147,9 +270,10 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
 -   The "immortals" that Kaide mentions in his dialogue are presumably the [Deepwoken](Deepwoken.md). His hesitation when he mentions this brings up the possibility that the term is a sacred or touchy subject. It also could mean that the player and other people in Lumen cannot comprehend the concept of a Deepwoken.
 -   The relics mentioned by Kaide may be referring to the [Moon's Eyrie](<Moon's_Eyrie.md>) and the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, which are both found in the [Voidsea](Voidsea.md).
 -   Kaide's old appearance consisted of the [Soren](Soren.md) outfit, deep purple eyes, with the halo of the same color hanging over his wolf cut.
--   When you talk to Kaide with Kyrsieger equipped, he judges the player and tells that he doesn't want it to see because The Kyrsieger was used in an assault on Constellia, the city Kaide ruled over.
--   When you talk with Soulthorn equiped, he remembers the Celestial that was exiled from the city. it means that he met him before and reveals us his his name to us - Zhatarn, the wielder of Soulthorn. Surface dwellers dont know about him but other celestials because they don't want us to know about one of the exiled from the city. ASSUMEDLY he got exiled because of his madness.
--   When you talk to him while having Starkindred oath, he recognizes the scent of Celestials, calling the player "Depraved" just like celestials used to be. Even though he scorns Celestials because of betrayal, he "had hoped better, not sure himself why" when felt their scent from the player. PROBABLY because of past Celestials and Lightborn shared before Celestials betrayed them.
--   Kaide's clothing IDS:
+-   Kaide is one of the only NPCs to have special dialogue depending on the player's weapon and oath.
+    -   When speaking to Kaide with a [Kyrsieger](Kyrsieger.md) equipped, he judges the player as the Kyrsieger was used in an assault on Constellia, the city Kaide ruled over.
+    -   When speaking to Kaide with a [Soulthorn](Soulthorn.md) equipped, he reminisces Zhatarn, a Celestial that was exiled from the Heavens who once wielded the Soulthorn.
+    -   When speaking to him while having [Oath: Starkindred](Oath%253A_Starkindred.md), he recognizes the scent of Celestials, calling the player "Depraved" as they used to be. Even though he scorns Celestials because of betrayal, he "had hoped better, not sure himself why" when felt their scent from the player.
+-   Kaide's clothing IDs:
     -   Shirt - [https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman)
     -   Pants - [https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 162549
+revid: 162580
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -261,7 +261,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
+Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 ## Objects of Interest
 
@@ -533,7 +533,7 @@ Dialogue: [Alastir](Alastir.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Forgo
 -   A general measure of one's ability, and of your mastery of the [Song](#the-song).
 -   Increasing one's Power grants them new Talents and [Mantras](#mantra).
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Eylis](Eylis,_the_Punished_Dreamer.md) | Books: | Glossary Entries:
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Eylis](Eylis,_the_Punished_Dreamer.md), [Surge](Surge.md) | Books: | Glossary Entries:
 
 ### Talent
 

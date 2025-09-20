@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162356
+revid: 162591
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1067,7 +1067,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   If your critical hits a block, this Talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
+    -   Grants the "Precise Swing" status effect for 30 seconds.
+    -   The Precise Swing status effect will be consumed if you land an M1, regardless of if your attack hits block or not.
+    -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
+    -   Precise Swing is additive with weapon chip, and having above 100% chip allows you to deal more damage.
+        -   Because chip has no PEN and benefits from very few damage modifiers, this is more of a fun fact than anything that could be good.
+    -   If your critical hits a block, this Talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit).
     -   Prerequisites: 25 Strength, 15 Agility
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
 
@@ -1388,7 +1393,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
     -   Will also proc after a slide jump.
-    -   Has 45 base damage with 2.75 Galebreathe scaling at level 5, meaning it will deal very high damage. On par with some of the stronger Mantras like [Flame Grab](Flamecharm.md#flame-grab).
+    -   Has 45 base damage with 2.75 Galebreathe scaling at level 5, meaning it will deal very high damage.
     -   If you have the Tempest Evolution Talent from [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), the damage and hitbox of Tempest Wind increases. On top of this, you now gain a 20% damage boost while airborne for a short duration after proccing Tempest Wind.
     -   Prerequisites: [Wind Blade](Galebreathe.md#wind-blade) (Mantra), 20 Galebreathe.
 
@@ -3897,7 +3902,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Grants a **very** large increase to the AoE of your Pressure Blast.
 
 -   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.
-    -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md) critical, gain a damage modifier to your critical attacks.
+    -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md) critical, apply the Cruel Counter status effect to your opponent, increasing all damage taken by critical attacks for 20 seconds.
+    -   This grants a +40% damage modifier to all critical attacks, even if it isn't a Krulian Knife critical, and even if the critical they got hit by was used by someone else.
+        -   This damage modifier **bypasses** the damage modifier cap, potentially allowing for absurd critical damage output.
 
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 30% more chip.
 

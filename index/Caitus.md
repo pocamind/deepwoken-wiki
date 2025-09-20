@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 162164
+revid: 162568
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -16,7 +16,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 
 ## Description
 
-Caitus is a Strong Independent Woman, AKA NPC, a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md).
+Caitus is a Khan NPC, a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belonging to the 11th Scouting Legion. He stays with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md).
 
 Caitus tasks the player with delivering [a message](Titus_Fulminus_Destellus.md) about a [certain someone](Titus_Fulminus_Destellus.md) in an [Authority Prison](Merit_Detainment_Core.md). He will teach the [Imperium Kata](Imperium_Kata.md) style to the player upon reporting back after delivering the message.
 
