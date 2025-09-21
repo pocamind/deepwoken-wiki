@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 154171
+revid: 162763
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -34,15 +34,16 @@ Poser's Ring grants an 8% damage bonus in PvE to your melee attacks.
 
 ## Trivia
 
--   Mantras are useable with Poser's Ring.
--   The Poser's Ring is NOT bankable.
--   It cannot be dropped as it will be soulbounded to your character.
+-   It cannot be dropped nor banked, as it will be soulbounded to your character.
+-   If you swap weapons through using an ability, your stored damage will be saved. Note that the Poser's Ring sheathe will only proc if your current weapon is the Katana, and no other weapons can build up Poser's damage.
+    -   The aforementioned abilities include: [Crazy Slots](Crazy_Slots.md), Silentheart's [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity), Saintsworn's [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), Blightsurge's [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state), and any [Fist style](Fists.md) tool.
 -   The Poser Ring sheathe damage cannot be parried or nullified in any way.
 -   Damage from the Poser's Ring sheathe cannot exceed 70% of a Player's Max Health.
--   While player damage from Poser's Ring sheath cannot exceed 70%, any and all monsters (humanoid or not) aren't affected by that cap, meaning with enough M1s, you are capable of depleting an entire boss health bar from 100% to 0% in one sheathe.
+    -   All non-player enemies are not affected by this cap, meaning with enough M1s, you are capable of depleting even boss health bars from 100% to 0% in one sheathe.
+-   All weapon [enchantments](Enchantments.md) that proc on weapon hit will proc on the basic hits of your Katana like normal. The sheathe cannot proc enchants.
+    -   [Deferred](Deferred.md) will do nothing with Poser's Ring however.
 -   The sheathe damage cannot be directly buffed, although you can buff it by applying buffs to your melee attacks before you sheathe.
 -   It is possible to obtain and equip this ring at Power 1, if no stat points are distributed at the character creation menu, and are instead all invested into Medium Weapon.
 -   Actually applies an ~0x damage modifier onto your attacks rather than removing all of your damage outright. This means you can still proc effects that are scaled off of your weapon's scaled damage, like Bleed or Chip damage at full effectiveness.
 -   Shares the same model as [Diver's Ring](<Diver's_Ring.md>).
--   This cancels deferred's debuff of dealing damage over 2.5 seconds.
--   You can use the [Darkened Bastion](Darkened_Bastion.md) outfit to apply [Wither](Status_Effects.md#wither) to your opponent on your basic attacks even with Poser's Ring. This allows you to still deal damage before you sheathe. Granted, the amount of Wither applied is only 12.5% of your weapon's scaled damage, which isn't that much, especially on base Katana.
+-   You can use the [Darkened Bastion](Darkened_Bastion.md) outfit to apply [Wither](Status_Effects.md#wither) to your opponent on your basic attacks even with Poser's Ring. This allows you to still deal damage before you sheathe, granted the amount of Wither applied is only 12.5% of your weapon's scaled damage, which isn't that much, especially on base Katana.

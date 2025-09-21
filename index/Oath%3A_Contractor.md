@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 162010
+revid: 162760
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Ministry]
@@ -85,7 +85,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   Deals 59.93 (6.38+53.55) Oath DMG.
 -   Obtained after gripping 3 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
--   **Lord's Slice** - The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions. The target takes more damage and blood loss after the pull.
+-   **Lord's Slice** - The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions.
     -   Can slam people into walls.
     -   Only usable if Hidden Tendril is applied to the target.
     -   Deals 44 Oath DMG
