@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 161599
+revid: 162655
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs]
@@ -45,7 +45,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
   <td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br>
   <b>Guide</b>: Talk to the Ganymede NPC <a href="Jessamine.md">Jessamine</a> in <a href="The_Starswept_Valley.md">Starswept Valley</a>. He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.<br>
   <b>Reward(s)</b>: <a href="Talents.md#marauder">Thresher Scales</a>, Bravery.</p></div></td>
-  <td><figure>File:Jessamine .png<figcaption><p></p><div><a href="Jessamine.md">Jessamine</a></div><p></p></figcaption></figure></td>
+  <td><figure><figcaption><p></p><div><a href="Jessamine.md">Jessamine</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

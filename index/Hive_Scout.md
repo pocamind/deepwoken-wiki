@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 153378
+revid: 162731
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -23,46 +23,58 @@ They wear pair of [Woodland Pauldrons](Woodland_Pauldrons.md) and [Woodland Boot
 
 ## Moveset
 
-A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md) or a [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
+A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor Cutlass](Razor_Cutlass.md), or a [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | \[[Iron Birch](Iron_Birch.md) & [Razor Cutlass](Katana.md)\] Firmly swings blade at opponent before finishing up the combo by kicking them.
+ | \[[Iron Birch](Iron_Birch.md) & [Razor Cutlass](Razor_Cutlass.md)\] Firmly swings blade at opponent before finishing up the combo by kicking them.
 
 \[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts spear at opponent before finishing up the combo by kicking them.
 
- | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-Critical
+**Critical**  
+(★★☆)
 
  | \[[Iron Birch](Iron_Birch.md)\] Raises axe before slamming it down to the ground.
 
-\[[Razor Cutlass](Razor_Cutlass.md)\] Reels weapon back before delivering a strong stab.
-
+\[[Razor Cutlass](Razor_Cutlass.md)\] Reels weapon back before delivering a strong stab.  
 \[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
- | ◯ | ✗ | (★★☆) |
+-   The Iron Birch critical is not blockable.
+
+ |
 | 
 
-Fire Blade
+**Fire Blade**  
+(★★☆)
 
- | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
+ | User slams down with their blade coated in flames.
+
+ |
 | 
 
-Flame Assault
+**Flame Assault**  
+(★★☆)
 
- | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★★☆) |
+ | Caster dashes forward covered in flames; knocking down whoever is in its path.
+
+ |
 | 
 
-Revenge
+**Revenge**  
+(★☆☆)
 
- | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★☆☆) |
+ | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation.
+
+ |
 
 ### Talents
 
--   Nullifying Clarity - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Nullifying Clarity - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
 -   Hard Read - Hitting your opponent during a feint will cause them to be dazed.

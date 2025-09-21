@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 149937
+revid: 162739
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -43,47 +43,47 @@ When the other is alive:
 
 ## Moveset
 
-| Name | Description | Media |
-| --- | --- | --- |
-| **Assault** | The twins quickly thrusts their spears at their opponent.
-  
-Parry: ◯
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
-Block: ◯
+ | The twins quickly thrusts their spears at their opponent.
 
- | TBA |
-| **Shadow Gun** | The twins ready their finger, firing up a shadow shot, stealing ether.
+ |
+| 
 
-  
-Parry: ◯
+**Shadow Gun**  
+(★★☆)
 
-Block: ◯ (Deals some posture)
+ | The twins ready their finger, firing up a shadow shot.
 
- | TBA |
-| **Shadow Assault** | The twins ready themselves before turning into shadows and dashing forward.
+ |
+| 
 
-  
-Parry: ◯
+**Shadow Assault**  
+(★★☆)
 
-Block: ◯
+ | The twins ready themselves before turning into shadows and dashing forward.
 
- | TBA |
-| **Eclipse Kick** | The twins get into a stance before delivering a devastating slow axe kick.
+ |
+| 
 
-  
-Parry: ◯
+**Eclipse Kick**  
+(★★★)
 
-Block: ✗
+ | The twins get into a stance before delivering a devastating and slow axe kick.
 
- | TBA |
-| **Encircle** | The twins will make shadowy afterimages around their opponent before teleporting to them after a short time.
+ |
+| 
 
-  
-Parry: ◯
+**Encircle**  
+(★☆☆)
 
-Block: ◯
+ | The twins will make shadowy afterimages around their opponent before teleporting to them after a short time.
 
- | TBA |
+ |
 
 ## Trivia
 

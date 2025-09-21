@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 162294
+revid: 162652
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
@@ -125,7 +125,7 @@ Potential Rewards
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="2">[See "Here it is."]</td>
+  <td>[See "Here it is."]</td>
 </tr>
 </tbody>
 </table>

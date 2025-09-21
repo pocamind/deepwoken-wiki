@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 161562
+revid: 162734
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -47,10 +47,23 @@ A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [aspect](
 
 A Forgotten Villager's arsenal only consists of their [Fists](Fists.md), using the [Way of Navae](Way_of_Navae.md) fighting style.
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly pummels opponent and finishes up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises their leg up before stomping the ground in front of them. | ◯ | ✗ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly pummels opponent and finishes up the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises their leg up before stomping the ground in front of them.
+
+ |
 
 ## Finisher
 

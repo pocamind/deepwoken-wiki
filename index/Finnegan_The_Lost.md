@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 133807
+revid: 162733
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -20,22 +20,63 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 
 ## Moveset
 
-| Name | Media | Description/Danger | Parryable | Blockable | Dodgeable |
-| --- | --- | --- | --- | --- | --- |
-| Basic Attack  
-(☆☆☆) | N/A | Finnegan hits the player with a normal attack. | ◯ | ◯ | ◯ |
-| Normal Critical  
-(★★☆) | N/A | Finnegan flips the Boltcrusher backwards before slamming it into the player, followed by a twirling strike that sends them flying. | ◯ | ◯ | ◯ |
-| Running Critical  
-(★★☆) | N/A | If Finnegan is running towards the player, their critical is instead a short dash forward followed by a devastating lightning-charged slam. | ◯ | ◯ | ◯ |
-| Grand Javelin  
-(★★☆) | N/A | Finnegan conjures a lance of Thundercall and throws it towards the player. | ◯ | ◯ | ◯ |
-| Iron Tether  
-(★☆☆) | N/A | Finnegan conjures cubes of Ironsing and tethers them together with Thundercall. | ◯ | ✗ | ◯ |
-| Metal Ball  
-(★★☆) | N/A | Finnegan wraps themself in a spiked metal ball and rapidly rolls towards the player. | ◯ | ◯ | ◯ |
-| Emotion Wave  
-(★★☆) | N/A | Finnegan summons a lightning bolt in their free hand and slams it into the ground, sending forth a cascading omnidirectional wave of lightning. | ✗ | ◯ | ◯ |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Finnegan swings his Boltcrusher at his opponent with a kicking combo finisher.
+
+ |
+| 
+
+**Normal Critical**  
+(★★☆)
+
+ | Finnegan flips the Boltcrusher backwards before slamming it into the player, followed by a twirling strike that sends them flying.
+
+ |
+| 
+
+**Running Critical**  
+(★★☆)
+
+ | If Finnegan is running towards the player when they use their critical, their critical is instead a short dash forward followed by a devastating lightning-charged slam.
+
+ |
+| 
+
+**Grand Javelin**  
+(★★☆)
+
+ | Finnegan conjures a lance of Thundercall and throws it towards the player.
+
+ |
+| 
+
+**Iron Tether**  
+(★☆☆)
+
+ | Finnegan conjures cubes of Ironsing and tethers them together with Thundercall.
+
+ |
+| 
+
+**Metal Ball**  
+(★★☆)
+
+ | Finnegan wraps themselves in a spiked metal ball and rapidly rolls towards the player.
+
+ |
+| 
+
+**Emotion Wave**  
+(★★☆)
+
+ | Finnegan summons a lightning bolt in their free hand and slams it into the ground, sending forth a cascading omnidirectional wave of lightning.
+
+ |
 
 ## Dialogue
 

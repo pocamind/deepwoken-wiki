@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 162325
+revid: 162743
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -361,12 +361,28 @@ _On paper, this looks like a lot to memorize, but do not worry. These things wil
 
 _Some attacks will be accompanied with a colored glyph and a sound cue. These attacks mostly require specific action to avoid and are usually associated with a certain level of threat._
 
-| Color | 
+| 
+Color
+
+ | 
+
 Image
 
- | Parryable? | Blockable? | Dodgeable? |
-| --- | --- | --- | --- | --- |
-| Purple | File:Purpletelegraph.png | _✗_ | ◯ | ◯ |
+ | 
+
+Defenses/Info
+
+ |
+| --- | --- | --- |
+| 
+
+Purple
+
+ | File:Purpletelegraph.png | Most attacks with this indicator deal high posture damage.  
+
+Most monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
+
+ |
 | All attacks that have this attribute:
 
 -   [Alpha Megalodaunt](Alpha_Megalodaunt.md): Tacet Hug
@@ -401,7 +417,15 @@ Image
 -   [Throw](Attunement-less.md#throw)
 
  |
-| Red | File:Redtelegraph.png | ✗ | ✗ | ◯ |
+| 
+
+Red
+
+ | File:Redtelegraph.png | Some monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).
+
+  
+
+ |
 | All attacks that have this attribute:
 
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
@@ -421,7 +445,16 @@ Image
 -   [Soulwrought Longsword](Crazy_Slots.md) Special ability
 
  |
-| Circle\* | File:Orangetelegraph.png | ◯ | ✗ | ◯ |
+| 
+
+Circle\*
+
+ | File:Orangetelegraph.png | This indicator is most prevalent on attacks that can be used by players.  
+
+Not all unblockable attacks have this indicator.  
+The color of this indicator changes depending on the attack used.  
+
+ |
 | All attacks that have this attribute:
 
 -   Default [Greatsword](Greatswords.md) and Club criticals (White)
@@ -433,7 +466,15 @@ Image
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
 
  |
-| Blue | File:Bluetelegraph.png | ✗ | ◯ | ✗ |
+| 
+
+Blue
+
+ | File:Bluetelegraph.png | Most attacks with this indicator deal high posture damage.  
+
+Some monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
+
+ |
 | All attacks that have this attribute:
 
 -   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
@@ -443,32 +484,54 @@ Image
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |
-| Green | File:Greentelegraph.png | ◯ | ✗ | ✗ |
+| 
+
+Green
+
+ | File:Greentelegraph.png | 
+
+  
+
+ |
 | All attacks that have this attribute:
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md): Beam Blitz Ice Beam
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
 
  |
-| White | File:Whitetelegraph.png | ✗ | ✗ | ✗ |
+| 
+
+White
+
+ | File:Whitetelegraph.png | You need to physically move out of the hitbox of these attacks to dodge them.
+
+Some of these attacks have unique mechanics regarding how/if they can be avoided. Please check the enemy pages for more info.  
+
+ |
 | All attacks that have this attribute:
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
--   [Kanabo](Kanabo.md) critical\* (is parryable and dodgable despite having this indicator)
+-   [Kanabo](Kanabo.md) critical (is parryable and dodgable despite having this indicator)
 
  |
-| Cyan | File:Cyan telegraph.png | ◯ | ◯ | ✗ |
+| 
+
+Cyan
+
+ | File:Cyan telegraph.png | Most attacks with this indicator deal high posture damage.
+
+  
+
+ |
 | All attacks that have this attribute:
 
 -   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
  |
-
-_Note: ✗ = only parryable with [Force Your Way](Ignition_Deepdelver.md), ◯ = with enough posture, usually quite high, ? = needs testing_
 
 \*The Circle indicator changes color depending on the attack. The color is based off the [Attunement](Attunements.md) the attack came from; being White if the attack is [Attunement-less](Attunement-less.md) or is unaligned with any Attunement, Red if [Bloodrend](Bloodrend.md), light Orange if [Flamecharm](Flamecharm.md), light Blue if [Frostdraw](Frostdraw.md), Green if [Galebreathe](Galebreathe.md), light Grey if [Ironsing](Ironsing.md), Purple if [Shadowcast](Shadowcast.md), or Yellow if [Thundercall](Thundercall.md).
 

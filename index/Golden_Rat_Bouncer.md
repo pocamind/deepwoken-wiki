@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 147749
+revid: 162740
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -22,13 +22,47 @@ They wear a [Goldleaf Helm](Goldleaf_Helm.md), Warden Pauldrons, a recolored Etr
 
 Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunement:
 
-| Name | Description | Parryable? | Blockable | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Swings axe at opponent and finishes the attack by kicking them away. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises axe upward before slamming it down to the ground. | ◯ | ✗ | (★★☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Heavenly Wind | User leaps high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
-| Champion's Whirlthrow | User grabs their target before spinning them in 360 degrees and then tossing them. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Swings axe at opponent and finishes the attack by kicking them away.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises axe upward before slamming it down to the ground.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Heavenly Wind**  
+(★★☆)
+
+ | User leaps high into the air before diving down, striking any targeted opponent.
+
+ |
+| 
+
+**Champion's Whirlthrow**  
+(★★☆)
+
+ | User grabs their target before spinning them in 360 degrees and then tossing them.
+
+ |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 162622
+revid: 162681
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -59,9 +59,10 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x.
 -   **Endlag:** Additional lingering duration after a basic weapon attack (Self-stun after M1s). All weapons have endlag, these weapons have additional endlag.
 -   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md#proficiency) (including bleed). This doesn't account for any DMG stars on a weapon.
--   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is (currently) exclusive to the [Fractine](Fractine.md) weapon.
--   **1H** and **2H**: A term used specifically for the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon's two states being the Club (2H) and Sword (1H) that it becomes when stance swapping. These forms differ in stats. This is (currently) exclusive to the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon.
--   **GS**, **Dagger**, and **Both**: Terms used for [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), as the dagger M1s have light scaling instead of heavy. Both have Flamecharm scaling however. This is (currently) exclusive to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) weapon.
+-   Specific weapon terminology: These terms only apply to specific weapons
+    -   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is (currently) exclusive to the [Fractine](Fractine.md) weapon.
+    -   **1H** and **2H**: A term used specifically for the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon's two states being the Club (2H) and Sword (1H) that it becomes when stance swapping. These forms differ in stats. This is (currently) exclusive to the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon.
+    -   **GS**, **Dagger**, and **Both**: Terms used for [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), as the dagger M1s have light scaling instead of heavy. Both have Flamecharm scaling however. This is (currently) exclusive to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
 -   **War Weapon/War Stats:** Similar to Alloyed weapons, these weapons are enhanced variants of a weapon, having unique traits and differing stats from their base variants. Stats which remain white are the same as the non-war version.
 -   [**Bleed:**](Status_Effects.md#bleed) 10% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).

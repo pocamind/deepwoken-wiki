@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 162039
+revid: 162638
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -606,7 +606,7 @@ Blunt
 -   Has a 20 second cooldown.
 -   Applies PVE tag to anyone who is near it.
 -   Automatically extinguishes burn on those grabbed.
--   Landing a [Shadow Gun](Shadowcast.md#shadow-gun) or [Shadow Seekers](Shadowcast.md#shadow-seekers) into the vortex after it has grabbed a target will cause it to explode, dealing extra damage.
+-   Landing a [Shadow Gun](#shadow-gun) or [Shadow Seekers](#shadow-seekers) into the vortex after it has grabbed a target will cause it to explode, dealing extra damage.
     -   This has a base damage of 35 with 2.75 Shadowcast scaling.
     -   Explosion doesn't happen if either Mantra was used before the vortex sucked someone in.
 -   Has a vertical range cap.

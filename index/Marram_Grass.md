@@ -1,55 +1,42 @@
 ---
 title: Marram Grass
-revid: 147207
+revid: 162737
 source: https://deepwoken.fandom.com/wiki/Marram_Grass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Harvestables, Ingredients, Alchemy]
+categories: [Items, Harvestables, Ingredients, Alchemy]
 ---
 
 # Marram Grass
 
 | Marram Grass | |
 |---|---|
-| value | N/A |
+| value | 0 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | Coarse to the touch, this grass is excellent at retaining its moisture and keeping its shape. |
+| obtainment | Found on shores of most islands |
 
-## Description
+**Sticks** are an [Ingredient](Ingredients.md) used to craft tools and other materials.
 
-**Marram Grass** is an [Ingredient](Ingredients.md) in Deepwoken. It can be used to craft [Fiber](Fiber.md). It is found in patches of short, green grass which can be harvested by the player.
+## Obtainment
 
-Every two Marram Grass is equal to one Fiber, which every three of is equal to one [Cloth](Cloth.md). So, six Marram Grass is equal to one Cloth.
+Marram Grass is found on the shores of most islands, including:
 
-## Locations
+-   [Etris](Etris.md)
+-   [Lower Erisia](Lower_Erisia.md)
+-   [Isle of Vigils](Isle_of_Vigils.md)
+-   [Minityrsa](Minityrsa.md)
 
-Marram Grass can be harvested in the following locations
+## Uses
 
-**Etrean Luminant:**
+Marram Grass can be used for the following:
 
-**Etris:**
+-   Crafting two (2) Marram Grass together into one (1) [Fiber](Fiber.md).
 
-[Etris](Etris.md) shores have Marram Grass.
+## Trivia
 
-File:MarramGrassEtris.png
-
-**Erisia:**
-
-[Erisia](Erisia.md) main entrance has multiple patches of Marram Grass.
-
-File:MarramGrassErisia.png
-
-**Isle of Vigils:**
-
-The Marram Grass in [Isle of Vigils](Isle_of_Vigils.md) is located under the grappling line before the docks.
-
-File:MarramGrassVigilsDock.png
-
-**Minityrsa:**
-
-[Minityrsa](Minityrsa.md) shores contain Marram Grass.
-
-File:MarramGrassMinityrsa.png
+-   Marram Grass was added to replace Bamboo growing on shorelines as it makes more sense.

@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 139539
+revid: 162738
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -19,25 +19,22 @@ Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are 
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Name</th>
+  <th>Name/Danger</th>
   <th>Description</th>
-  <th>Parryable?</th>
-  <th>Blockable?</th>
-  <th>Danger</th>
 </tr>
 <tr>
-  <td>Assault</td>
-  <td>Firmly swings blade at opponent and finishing the combo by kicking them.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td><center><b>Assault</b><br>
+  (★☆☆)</center></td>
+  <td>Firmly swings blade at opponent and finishing the combo by kicking them.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Critical</td>
-  <td>Performs a windup before thrusting blade forward.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td><center><b>Critical</b><br>
+  (★★☆)</center></td>
+  <td>Performs a windup before thrusting blade forward.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 </tbody>
 </table>

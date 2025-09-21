@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 162566
+revid: 162637
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -251,6 +251,9 @@ Fire
 -   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
 -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
+-   The user can Flame Grab themselves if they hit certain destructible terrain with it.
+    -   [Flame Sentinel](#flame-sentinel) is considered destructible terrain.
+    -   Hitting yourself with Flame Grab always applies burn regardless of your Flamecharm path.
 
  |
 | 

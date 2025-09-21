@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 152658
+revid: 162736
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -20,13 +20,47 @@ In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) 
 
 Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thundercall](Thundercall.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Critical | Charges the rifle up before circling around the opponent, appearing in short flashes as they fire shots. | ◯ | ◯ | (★★★) |
-| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
-| Thunder Kick | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
-| Strong Left | User performs a wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 4 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★★)
+
+ | Charges the rifle up before circling around the opponent, appearing in short flashes as they fire shots.
+
+ |
+| 
+
+**Jolt Grab**  
+(★★☆)
+
+ | Teleports to the nearest target before sending out a shocking AoE.
+
+ |
+| 
+
+**Thunder Kick**  
+(★★☆)
+
+ | User performs an empowered lightning kick, shocking and knocking away any opponents.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | User performs a wind-up before throwing a powerful, flinging punch that shatters the air.
+
+ |
 
 ### Talents
 

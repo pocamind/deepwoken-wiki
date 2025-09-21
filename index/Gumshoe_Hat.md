@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 155635
+revid: 162742
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]

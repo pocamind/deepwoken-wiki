@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 153514
+revid: 162727
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -22,32 +22,47 @@ Other than that, they are all either [Vesperians](Vesperian.md), [Ganymedes](Gan
 
 A Hive Guard's arsenal consists of a [Ritual Spear](Ritual_Spear.md) that has a chance to be enchanted along with the [Flamecharm](Flamecharm.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
+ | Firmly thrusts spear at opponent and finishing the combo by kicking them.
 
-Critical
-
- | Unleash a quick slash and short lunge. | ◯ | ✗ | (★☆☆) |
+ |
 | 
 
-Fire Blade
+**Critical**  
+(★★☆)
 
- | The Hive Guard slams down with their blade coated in flames. | ◯ | ◯ | (☆☆☆) |
+ | Unleash a quick slash and short lunge.
+
+ |
 | 
 
-Flame Assault
+**Fire Blade**  
+(★★☆)
 
- | The Hive Guard dashes forward covered in flames, hitting anyone in their path. | ◯ | ◯ | (★★☆) |
+ | The Hive Guard slams down with their blade coated in flames.
+
+ |
 | 
 
-Flame Blind
+**Flame Assault**  
+(★★☆)
 
- | The Hive Guard shoot a projectile that explodes after a short delay and blinds those looking at it. | ◯ | ◯ | (☆☆☆) |
+ | The Hive Guard dashes forward covered in flames, hitting anyone in their path.
+
+ |
+| 
+
+**Flame Blind**  
+(★☆☆)
+
+ | The Hive Guard shoot a projectile that explodes after a short delay and blinds those looking at it.
+
+ |
 
 #### Boons
 
@@ -58,7 +73,7 @@ Flame Blind
 -   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
 -   Hard Read - Hitting your opponent during a feint will cause them to be dazed.
 -   Lightspeed Reflexes - Feinting gives a very brief auto-parry window.
--   Nullifying Clarity - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Nullifying Clarity - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
 -   Polite Awakening - Recover 15% of your max health after getting up from being downed
 
 ## Finisher

@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 155061
+revid: 162735
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, Oaths, NPCs, NPCs located in the Etrean Luminant]
@@ -20,23 +20,50 @@ In order to obtain Galebreathe, you must bring five [Gale Stones](Gale_Stone.md)
 
 Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Critical | Performs a short wind-up before conjuring a vicious whirlwind of slashes that moves forward. | ◯ | ✗ | (★★☆) |
-| Rising Wind | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★★☆) |
-| Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 4 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Performs a short wind-up before conjuring a vicious whirlwind of slashes that moves forward.
+
+ |
+| 
+
+**Rising Wind**  
+(★★☆)
+
+ | User uppercuts their opponent, teleporting and kicking them around.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+ |
 
 ### Talents
 
 -   _Perfect Flash_ - If Friid has full Health her Mantras do 25% more damage.
 -   _Impervious Slumber_ - If Friid gets hit while knocked, her knocked timer isn't reset.
 -   _Gale Trap_ - If Friid knocks an enemy she tags them with a wind trap, anyone picking up the body gets sent flying.
--   _Suffocating Impact_ - If Friid flourishes an enemy into a wall they are 'Suffocated' and winded for a short duration.
--   _Stifled Jump_ - Enemies who jump while 'Suffocated' by Friid are dazed.
+-   _Suffocating Impact_ - If Friid flourishes an enemy into a wall they are Suffocated and Winded for a short duration.
+-   _Stifled Jump_ - Enemies who jump while Suffocated by Friid are dazed.
 -   _Air Pressure_ - If Friid dodges an attack or hits an enemy's block, her next dash is transformed into a Gale Dash.
--   _Silencer's Blade_ - If Friid hits an enemy with a basic attack while the enemy is 'Suffocated', the duration of the Suffocation is extended. Friid will also get a speed boost.
--   _A World Without Song_ - If Friid Lands a wind mantra it will apply 'Suffocate'.
+-   _Silencer's Blade_ - If Friid hits an enemy with a basic attack while the enemy is Suffocated, the duration of the Suffocation is extended. Friid will also get a speed boost.
+-   _**A World Without Song**_ - If Friid Lands a wind mantra it will apply Suffocate.
 
 ## Finisher
 

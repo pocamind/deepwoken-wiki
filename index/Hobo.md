@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 161933
+revid: 162732
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -20,23 +20,61 @@ A Hobo only wears a [Stranded](Stranded.md) outfit.
 
 ## Moveset
 
-A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flamecharm](Flamecharm.md) attunement:
+A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flamecharm](Flamecharm.md) Attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Firmly pummels at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Fire Eruption | An eruption of flame under the user hitting anyone nearby. | ◯ | ✗ | (★☆☆) |
-| Flame Assault | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ | (★★★) |
-| Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ◯ | ◯ | (★☆☆) |
-| Flaming Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
-| Rising Flame | User spins and releases a fury of flames that sends both the user and opponent vertically into the air. | ◯ | ◯ | (★★☆) |
+ | Firmly pummels at opponent and finishing the combo by kicking them.
+
+ |
+| 
+
+**Fire Eruption**  
+(★★☆)
+
+ | An eruption of flame under the user hitting anyone nearby.
+
+ |
+| 
+
+**Flame Assault**  
+(★★☆)
+
+ | User dashes forward covered in flames; hitting anyone in their path.
+
+ |
+| 
+
+**Flame Repulsion**  
+(★☆☆)
+
+ | After a wind-up of ~2 seconds, user releases a burning AoE blast.
+
+ |
+| 
+
+**Flaming Scourge**  
+(★★★)
+
+ | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
+
+ |
+| 
+
+**Rising Flame**  
+(★★☆)
+
+ | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
+
+ |
 
 ### Boons
 
--   Third Eye - A Hobo cannot be assassinated under any circumstances
+-   Third Eye - A Hobo cannot be assassinated under any circumstance.
 -   High Supply - A Hobo has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
 
 ## Finisher

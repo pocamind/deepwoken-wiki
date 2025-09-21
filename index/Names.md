@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 158499
+revid: 162644
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -29,6 +29,11 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
   <th>Flair</th>
   <th>Priority</th>
   <th>Requirements</th>
+</tr>
+<tr>
+  <td>Bronze</td>
+  <td>5</td>
+  <td>Currently holding between the 1000th-251st rank within the Chime of Conflict.</td>
 </tr>
 <tr>
   <td>Emerald</td>
@@ -1847,8 +1852,8 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
     -   The names Shabriri, Vyke, Maliketh, Godrick, and Godfrey are references to _Elden Ring_, a spiritual successor to _Dark Souls_.
     -   The name "Halflight" could also potentially a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
--   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
-    -   Funnily enough, they are both technically the same person.
+-   The names "Tanith", "[Cadaver](https://skulduggery.fandom.com/wiki/Cadaver_Cain)" and "[Skulduggery](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant)" are in reference to characters from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
+    -   Funnily enough, Cadaver and Skulduggery are technically the same person.
 -   The name "Inari" is a reference to Monad Studios previous game _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki)_ where the races _[Vind](https://rogue-lineage.fandom.com/wiki/Vind?so=search)_ and _[Fischeran](https://rogue-lineage.fandom.com/wiki/Fischeran)_ share that name_._
 -   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Kelsier", "Vin", "Marsh", and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson.
