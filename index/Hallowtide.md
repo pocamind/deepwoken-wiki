@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 159984
+revid: 162777
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -141,43 +141,38 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 <table>
 <tbody>
 <tr>
-  <td colspan="7">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="7">*A lone pumpkin sits idle upon the grass. When did this get here? This seems out of place. It sounds like it's whispering.*</td>
+  <td colspan="2">*A lone pumpkin sits idle upon the grass. When did this get here? This seems out of place. It sounds like it's whispering.*</td>
 </tr>
 <tr>
-  <td colspan="6">[Reach out to touch it]</td>
-  <td>End</td>
+  <td colspan="2">[Reach out to touch it]</td>
 </tr>
 <tr>
-  <td colspan="6">*With a sudden crackle, the little pumpkin springs to life.*OI! YOU! You dare approach me... upon the eve of the Hallowtide?!</td>
+  <td colspan="2">*With a sudden crackle, the little pumpkin springs to life.*OI! YOU! You dare approach me... upon the eve of the Hallowtide?!</td>
 </tr>
 <tr>
-  <td colspan="3">Hallowtide?</td>
+  <td>Hallowtide?</td>
   <td>You can talk?</td>
-  <td>End</td>
 </tr>
 <tr>
-  <td colspan="3">THE COMING OF SCARES! The season of mischevious Joy! I did scare you, right? Did I do good? I depend on such validation for the sake of my self-confidence.</td>
+  <td>THE COMING OF SCARES! The season of mischevious Joy! I did scare you, right? Did I do good? I depend on such validation for the sake of my self-confidence.</td>
   <td>What? You've never seen a talkin' pumpkin? Oh, I used to know a real mean one. His name started with a Z, I think. But that doesn't matter, all of us called him the Big Cheese anyway. Real scary guy. We lost him the Hallowtide before last.</td>
 </tr>
 <tr>
-  <td colspan="2">..Yes?</td>
-  <td>End</td>
+  <td>..Yes?</td>
   <td>Hallowtide?</td>
 </tr>
 <tr>
-  <td colspan="2">WONDERFUL! Then we shall begin the festivities immediately. My good friend, he calls himself 'Lysander', is moving into town. Right now, actually</td>
-  <td></td>
-  <td>See first instance</td>
+  <td>WONDERFUL! Then we shall begin the festivities immediately. My good friend, he calls himself 'Lysander', is moving into town. Right now, actually</td>
+  <td>[See first instance]</td>
 </tr>
 <tr>
   <td>Moving into town? What are you talking about?</td>
-  <td>End</td>
 </tr>
 <tr>
-  <td>*<i>A large booming sound emits from the sky around you. It seems something large is approaching.</i>*Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</td>
+  <td><i>*A large booming sound emits from the sky around you. It seems something large is approaching.*</i> Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -212,7 +207,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>Here we go! Kehehe!</td>
 </tr>
 <tr>
-  <td>End, you are transported to the Floating Keep</td>
+  <td>End, player is transported to the Floating Keep</td>
 </tr>
 </tbody>
 </table>

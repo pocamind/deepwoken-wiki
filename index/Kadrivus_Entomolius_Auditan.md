@@ -1,11 +1,9 @@
 ---
 title: Kadrivus Entomolius Auditan
-revid: 161435
+revid: 162771
 source: https://deepwoken.fandom.com/wiki/Kadrivus_Entomolius_Auditan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, In progress without reason, InProgressPages, NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Kyrsan NPCs, NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Kadrivus Entomolius Auditan

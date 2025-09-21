@@ -1,6 +1,6 @@
 ---
 title: Delta
-revid: 159359
+revid: 162778
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oaths, Oath Trainer]
@@ -100,6 +100,8 @@ You are required to speak with him to obtain and progress the [Arcwarder](Oath%2
 </tbody>
 </table>
 
-also when you've already done the oath prog before you can skip it and he says this
+## Trivia
 
 File:Dialog of skip.png
+
+Dialogue for skipping the oath progression.

@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 158549
+revid: 162775
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -14,13 +14,14 @@ notices:
 
 Seasonal Medals are special tags that allow you to redeem Seasonal event items from [Blacksmiths](Blacksmith.md) in exchange for [Knowledge](Knowledge.md). The way you get each medal is different for each event. But what they all have in common is that after you unlock them, you can use them at any time, even after the event is over.
 
-Currently, there are 2 types of medals, [**Hallowtide**](Hallowtide.md) medals and the [**Festival of a Billion Souls**](Festival_of_a_Billion_Souls.md) medal. The medals and obtainment method to get them are listed here:
+Currently, there are 3 types of medals, [**Hallowtide**](Hallowtide.md) medals, the [**Festival of a Billion Souls**](Festival_of_a_Billion_Souls.md) medal, and the [Ordergeddon](Ordergeddon.md) medal. The medals and obtainment method to get them are listed here:
 
 -   Hallowtide: There are currently 3 [Hallowtide](Hallowtide.md) medals.
     1.  Hallowtide '22 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2023 and 2024 Hallowtide event.
     2.  Hallowtide '23 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2024 Hallowtide event and for 300 [Joy](Joy.md) during the 2023 event Hallowtide event.
     3.  Hallowtide '24 Medal: You can purchase this medal for 300 [Joy](Joy.md) during the 2024 Hallowtide event.
 -   Festival of a Billion Souls: Login during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) event.
+-   Ordergeddon '25: Speak to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) on any build that has utilized its ability prior to the September 6th, 2025 update.
 
 ## Medals
 
@@ -59,7 +60,13 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
 
 To celebrate Deepwoken reaching 1 Billion visits on Roblox, the [**Festival of a Billion Souls**](Festival_of_a_Billion_Souls.md) event was released, and anyone who joined the game during event will automatically unlock this medal. More information can be found on its respective page.
 
--   **Festival of a Billion Souls Medal**: Lets you craft the [Party Hat](Party_Hat.md) for 1 [Knowledge](Knowledge.md) at the [Blacksmith](Blacksmith.md).
+-   **Festival of a Billion Souls Medal**: Lets the player craft the [Party Hat](Party_Hat.md) for 1 [Knowledge](Knowledge.md) at any [Blacksmith](Blacksmith.md).
+
+### Ordergeddon
+
+To celebrate Shrine of Order no longer granting an additional flaw, the [Ordergeddon](Ordergeddon.md) event was released. To any players who utilized the Shrine of Order prior to the update, one flaw was automatically removed. Speaking to the Shrine of Order on any build that has utilized its ability prior to the September 6th, 2025 update would automatically unlock this medal.
+
+-   **Ordergeddon '25 Medal**: Lets the player craft the [Pendant of Order](Pendant_of_Order.md) for 1 [Knowledge](Knowledge.md) at any [Blacksmith](Blacksmith.md).
 
 ## Trivia
 

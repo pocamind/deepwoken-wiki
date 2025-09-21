@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 148191
+revid: 162766
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -10,7 +10,7 @@ categories: [Locations]
 
 LocationL The Lordsgrove LocationR
 
-TERRITORY OF the hive
+TERRITORY OF the hive (lawless)
 
 Generations of Hivelords stand watch over the lush passage, a stark contrast to the blasted wastes beyond it.
 

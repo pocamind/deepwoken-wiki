@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 107663
+revid: 162781
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -20,7 +20,7 @@ Sailing is a crucial part to Deepwoken as it will be your main means of travelin
 
 Boat Man.
 
-To sail, one must first gain a ship. At a city's dock, talk to the Shipwright. He will let you purchase, spawn, recall, and repair boats. You can spawn and recall boats by accessing the ship pole located on the coasts of most islands, though note that you cannot repair or purchase boats from a ship pole.
+To sail, one must first gain a ship. At a city's dock, talk to the Shipwright. He will let you purchase, spawn, recall, and repair boats. You can spawn, repair and recall boats by accessing the ship pole located on the coasts of most islands, though note that you cannot purchase boats from a ship pole.
 
 To summarize how sailing works, it is what people in the gaming world would call _**Tank Controls**_, except with the addition of ice. If you move forward, you'll keep moving forward, and you most likely will not stop unless you hop off the boat or decelerate.
 
@@ -69,7 +69,7 @@ A mid game boat with a decent amount of space, containing cannons. Best for size
 
 ### Ironclad
 
-Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too many notes to spend) Enough for an entire guild. Has 20 cannons, 10000 health.
+Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too many notes to spend) Enough for an entire guild. Has 20 cannons, 10000 health. As of August 2025, the model is glitched, with some parts being unanchored (in studio terms), there is no real downside to this apart from the fact you cant see everything that should be there, only bad to curious people.
 
 ## Notes/Trivia
 
@@ -77,6 +77,5 @@ Literal tank when it comes to health, fastest and biggest as well. Expensive pri
 -   You can buy a repair hammer for 30 notes at Etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright Talents.
     -   Without Talents, each repair with the hammer will recover 50 HP to your boat.
 -   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
-    -   (Assumption) The Ironclad is the only boat to ignore this rule (Since its steam powered)
 -   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is an Ironclad, the side lining would change instead.
 -   Celtors have 20% Discount at the shipwright, making it cheaper for them to buy boats. Also, they have extra boat health, which is a 10% increase.

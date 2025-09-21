@@ -1,6 +1,6 @@
 ---
 title: Hector
-revid: 158608
+revid: 162786
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
@@ -66,7 +66,7 @@ Hector is located in the [Merit Detainment Core](Merit_Detainment_Core.md).
   <td>Aren't you gonna get in trouble for telling me all this?</td>
 </tr>
 <tr>
-  <td><i>*Hector chuckles.*</i> ...Nah. If you get yourself killed, then no one will know that I told you anything. And if you succeed at whatever it is you're here for, well... Once that absolute <b>giant of a Khan</b> breaks free from the cells back there, this place won't stay standing for long - and I'm not sticking around to see the fireworks. Family's not seen me in seven years, anyway - it's about time I came home.</td>
+  <td><i>*Hector chuckles.*</i> ...Nah. If you get yourself killed, then no one will know that I told you anything. And if you succeed at whatever it is you're here for, well... Once that absolute <b><font>giant of a Khan</font></b> breaks free from the cells back there, this place won't stay standing for long - and I'm not sticking around to see the fireworks. Family's not seen me in seven years, anyway - it's about time I came home.</td>
 </tr>
 <tr>
   <td>Oh. Well... Thanks! I'll get going now.</td>

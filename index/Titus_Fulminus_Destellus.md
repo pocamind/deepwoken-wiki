@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 162505
+revid: 162787
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -416,7 +416,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td colspan="4">I'll get going now.</td>
 </tr>
 <tr>
-  <td colspan="4">My conquests in the West resound like thunder. But here in the East is where I earned my name. With storm-like might and lightning, I vanquished innumerable foes in star-swept Aratel. For that, I am named <b>'Fulminus' </b>, and <b>'Destellus' </b>.</td>
+  <td colspan="4">My conquests in the West resound like thunder. But here in the East is where I earned my name. With <font>storm-like might</font> and <font>lightning</font>, I vanquished innumerable foes in <font>star-swept Aratel</font>. For that, I am named <b><font>'Fulminus'</font></b>, and <b><font>'Destellus'</font></b>.</td>
   <td colspan="4">Fine. You've earned your leave. Be on your way.</td>
 </tr>
 <tr>
