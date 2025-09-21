@@ -1,6 +1,6 @@
 ---
 title: Captain Marley
-revid: 156136
+revid: 162757
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Central Authority, Authority Enemies]
@@ -18,7 +18,57 @@ Captain Marley wields a [Central Dirk](Central_Dirk.md) and wears an [Authority 
 
 ## Moveset
 
-?
+Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along with the [Frostdraw](Frostdraw.md) Attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly swings dagger at the opponent and finishes the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | User unleashes a quick flurry of slashes.
+
+ |
+| 
+
+**Ice Daggers**  
+(★☆☆)
+
+ | User forms three daggers of ice before throwing them towards the nearest person.
+
+ |
+| 
+
+**Ice Cubes**  
+(★★☆)
+
+ | Marley conjures three cubes of ice. On recast, he fires these ice cubes as projectiles towards the player.
+
+ |
+| 
+
+**Ice Lance**  
+(★★☆)
+
+ | Marley forms a spear of ice in his offhand and lunges towards the player. If this lands, the ice spear will be embedded into the target. The embedded spear will then shatter after a delay, dealing additional damage.
+
+ |
+| 
+
+**Crystal Impale**  
+(★★☆)
+
+ | Marley ascends before performing a quick spinning dash towards his target.
+
+ |
 
 ## Finisher
 

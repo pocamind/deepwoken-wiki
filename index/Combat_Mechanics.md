@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 162743
+revid: 162759
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -421,7 +421,7 @@ Most monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 Red
 
- | File:Redtelegraph.png | Some monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).
+ | File:Redtelegraph.png | 
 
   
 

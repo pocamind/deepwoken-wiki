@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 152724
+revid: 162756
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -15,8 +15,8 @@ categories: [Items, Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 6% Stealth, +2 Rare Pip, +1 Legendary Pip |
-| innate talent | Ether Conduit |
+| innate stats | 6% Stealth, +2 Rare Pips, +1 Legendary Pip |
+| innate talent | Eureka |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,6 +26,6 @@ categories: [Items, Equipment, Arms, Cloaks]
 
 ## Description
 
-The Ministry Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category. It has an innate stat of 6% Stealth and the [Talent](Talents.md) Ether Conduit. It can be found in chests from [Layer 2](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
+The Ministry Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category. On equip, it grants +6% Stealth, +2 Rare Pips, +1 Legendary Pip and the [Eureka](Talents.md#ether-adept) Talent. It can be found in chests from [Layer 2](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
 
--   **Ether Conduit** - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s.
+The _Eureka_ Talent grants +10% Mantra damage to your next Mantra cast when you gain 3 stacks of Inspiration. Inspiration stacks are gained from parrying and landing Mantras. Autoparry frames and multihits do not grant additional stacks of Inspiration.

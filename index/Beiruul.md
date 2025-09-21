@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 157595
+revid: 162748
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -132,15 +132,63 @@ Completing her sidequest will reward you with EXP, positive [The Children of Nav
 
 Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw](Frostdraw.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| **Assault** | Firmly pummels opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| **Critical** | Raises right leg before firmly slamming it down into the ground below. | ◯ | ✗ | (★★☆) |
-| **Strong Left** | _A powerful, flinging punch that shatters the air._ | ◯ | ✗ | (★★★) |
-| **Rapid Punches** | _User unleashes a barrage of blows at their opponent._ | ◯ | ◯ | (★★☆) |
-| **Ice Blade** | Creates two blades of ice and rushes forward rapidly slashing. | ◯ | ◯ | (★☆☆) |
-| **Ice Smash** | Creates a giant mace of ice to smash opponents with. | ◯ | ✗ | (★★☆) |
-| **Ice Lance** | Creates a lance of ice to impale opponents with. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Firmly pummels opponent before finishing up the combo by kicking them.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises right leg before firmly slamming it down into the ground below.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | A powerful, flinging punch that shatters the air.
+
+ |
+| 
+
+**Rapid Punches**  
+(★★☆)
+
+ | User unleashes a barrage of blows at their opponent.
+
+ |
+| 
+
+**Ice Blade**  
+(★☆☆)
+
+ | Creates two blades of ice and rushes forward rapidly slashing.
+
+ |
+| 
+
+**Ice Smash**  
+(★★☆)
+
+ | Creates a giant mace of ice to smash opponents with.
+
+ |
+| 
+
+**Ice Lance**  
+(★★☆)
+
+ | Creates a lance of ice to impale opponents with.
+
+ |
 
   
 

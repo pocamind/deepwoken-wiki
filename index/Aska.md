@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 153586
+revid: 162749
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -39,91 +39,73 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Name</th>
-  <th>Media</th>
+  <th>Name/Danger</th>
   <th>Description</th>
-  <th>Parryable?</th>
-  <th>Blockable?</th>
-  <th>Dodgeable?</th>
-  <th>Danger</th>
 </tr>
 <tr>
-  <td>Assault</td>
-  <td>N/A</td>
-  <td>Aska hits the player with an ordinary attack.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(☆☆☆)</td>
+  <td><center><b>Assault</b><br>
+  (★☆☆)</center></td>
+  <td>Aska hits the player with an ordinary attack.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Critical</td>
-  <td>TBA</td>
+  <td><center><b>Critical</b><br>
+  (★★☆)</center></td>
   <td>Aska plunges the weapon into the ground, creating a small eruption and flourishing the weapon afterwards.
   <ul>
-    <li>The first part of this move resembles the first part of the flamecharm mantra, <i>Fire Eruption</i>.</li>
-  </ul></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(☆☆☆)</td>
+    <li>The first part of this move resembles the first part of the Flamecharm Mantra, <i>Fire Eruption</i>.</li>
+  </ul><div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Flame Grab</td>
-  <td>TBA</td>
-  <td>Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(☆☆☆)</td>
+  <td><center><b>Flame Grab</b><br>
+  (★★☆)</center></td>
+  <td>Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Flame Sentinel</td>
-  <td>TBA</td>
-  <td>Aska creates an orb that will shoot fireballs at the player.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Flame Sentinel</b><br>
+  (★★☆)</center></td>
+  <td>Aska creates an orb that will shoot fireballs at the player.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Flaming Scourge</td>
-  <td>TBA</td>
+  <td><center><b>Flaming Scourge</b><br>
+  (★★★)</center></td>
   <td>Aska gathers flames in his hand and spins it like a whip grabbing the player, before slamming them into the ground.
   <ul>
     <li>This move has a tendency to glitch the player into a wall. Be careful.</li>
-  </ul></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★★)</td>
+  </ul><div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Ash Slam</td>
-  <td>TBA</td>
-  <td>Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★★)</td>
+  <td><center><b>Ash Slam</b><br>
+  (★★★)</center></td>
+  <td>Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Relentless Flames</td>
-  <td>TBA</td>
-  <td>Aska releases a flurry of seven slashes.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Relentless Flames</b><br>
+  (★★☆)</center></td>
+  <td>Aska releases a flurry of seven slashes.
+  <ul>
+    <li>Cancels if parried.</li>
+  </ul><div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Flare Volley</td>
-  <td>TBA</td>
-  <td>Aska fires a blast of flames at the player.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Flare Volley</b><br>
+  (★★☆)</center></td>
+  <td>Aska fires a blast of flames at the player.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 </tbody>
 </table>

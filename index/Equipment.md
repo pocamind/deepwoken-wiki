@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 161730
+revid: 162758
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2509,7 +2509,7 @@ Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
 
 +2 Rare Pips  
 +1 Legendary Pip  
-_+Talent: Ether Conduit_  
+_+Talent: Eureka_  
 **Requires Power 8**
 
  | 
