@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 162479
+revid: 162906
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -305,6 +305,48 @@ Exhaustive Loot Table
 </tbody>
 </table>
 
+## Dialogue
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>So, are you ready to begin? It's time to put your strength to the test.</td>
+</tr>
+<tr>
+  <td>Let's begin.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) hair ID on.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test.</td>
+</tr>
+<tr>
+  <td>Let's begin.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   The music of his bossfight is [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) by Naktigonis.
@@ -314,8 +356,7 @@ Exhaustive Loot Table
 -   All of his Mantras will automatically execute you.
     -   You can still be manually gripped by him if you die to his critical attack, basic attack or his Mortal Draw: Pressure.
 -   You will only gain the Disgraced Flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
--   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
-    -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
+-   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut he offers a unique dialogue.
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Every next defeat grants one [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) Oath mantra [Ascension](Oath%253A_Starkindred.md) and the [Heavy Weapon](Attributes.md) [Talent](Talents.md) Rending Impact still knocks him down, allowing room for combos.

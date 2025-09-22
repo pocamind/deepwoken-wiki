@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 157687
+revid: 162897
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]

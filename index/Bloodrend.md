@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 161701
+revid: 162909
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1040,7 +1040,7 @@ Consuming 'Charm' now gives slight temporary health.
 
  | 
 
-Consuming Charm via Manipulator or Donation drive gives temporary health.
+Consuming Charm via Manipulator or Donation drive gives 25 temporary health.
 
  |
 | 
@@ -1094,7 +1094,7 @@ Landing Bloodrend mantras on opponents with over 70% blood poison will give you 
 
  | 
 
-2s CD. Gain 3-5% of your current health as temporary health. Temporary health gain from this Talent does does not scale with the damage dealt by the mantra that procced it.
+Grants 15 temporary health on proc with a 2 second cooldown. Temporary health gain from this Talent does does not scale with the damage dealt by the mantra that procced it.
 
  |
 | 
@@ -1212,7 +1212,7 @@ Sacrifice 35% of your blood for temporary health.
 
  | 
 
-Sacrifice 35% of your blood to gain ~5% of your current health as temporary health. 30s cooldown.
+Sacrifice 35% of your blood to gain 25 temporary health. 30s cooldown.
 
  |
 | 
@@ -1348,7 +1348,7 @@ N/A
     -   60% - Bloodwarden's Sense Talent is Activatable
         -   _Bloodwarden's Sense_ - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _Gruesome Harvest_ Talent is Activatable
-        -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you slight temporary health.
+        -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you 15 temporary health.
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
 
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.

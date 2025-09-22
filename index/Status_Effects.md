@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 162557
+revid: 162905
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -105,7 +105,7 @@ Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet
 
 ### Temporary Health
 
-Gain Temporary Health which decays overtime. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the [Vampirism](Vampirism.md) enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Temporary health capped at 100 hp. Signified by a white bar on your health bar.
+Gain Temporary Health which decays at a rate of 1 Temporary health lost per second. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the [Vampirism](Vampirism.md) enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Temporary health capped at 100 hp. Signified by a white bar on your health bar.
 
 ### Enhanced Perception
 
@@ -224,7 +224,7 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 -   At 40% Blood Poisoning, Enemies are under an Anti-Heal effect.
 -   At 50% Blood Poisoning, Enemies have their damage reduced.
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodhound) Talent is Activatable, highlighting enemies when you hit them.
--   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#septicemia) Talent is Activatable, granting you slight Temporary Health when hitting people at or above 70% BP with Bloodrend mantras.
+-   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#septicemia) Talent is Activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
 
 ## Oath Applied
 

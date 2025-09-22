@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 162787
+revid: 162863
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -197,13 +197,13 @@ Titus was expected to retire after a few missions prior to his capture, but may 
 
 ## Tips and Strategies
 
--   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before you have a chance to deal enough damage to receive a healing orb. They also do not respawn, so this is a one-time opportunity.
--   **Second Phase Transition Healing**: During the brief dialogue sequence as Titus transitions into his second phase, there is a small window where you can place a campfire to recover health.
--   **Vampirism Enchantment**: An enchanted weapon with **Vampirism** is highly effective in this fight. This is because it grants temporary health rather than an outright heal, which allows you to bypass the effects of **Blightsurge Wither**.
--   **Evading Chorus Divide**: His **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
+-   **Utilizing Guards for Healing**: The guards in the main cell block can be used as a source of healing. However, be aware that Titus can eliminate them with a single blow before even having a chance to deal enough damage to receive a healing orb. They also do not respawn, so this is a one-time opportunity.
+-   **Second Phase Transition Healing**: During the brief dialogue sequence as Titus transitions into his second phase, there is a small window that can be used to place a campfire down and recover health.
+-   **Vampirism Enchantment**: An enchanted weapon with **Vampirism** is highly effective in this fight. This is because it grants temporary health rather than an outright heal, which allows the effects of **Blightsurge Wither** to be bypassed.
+-   **Evading Chorus Divide**: Titus' **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
 -   **Second Phase M1 Attack**: It is important to note that his standard M1 attack string appears to be unparryable during his second phase, though this requires further confirmation. Therefore, it is safer to focus on dodging this attack rather than attempting to parry.
--   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining your defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use your mantras for ranged damage when necessary.
--   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximatly deal 15000 damage which helps out plenty when fighting him **This strategie needs a good understanding of the move's timing and if you fail to do it you will pay a hefty price**  
+-   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use mantras for ranged damage when necessary.
+-   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximately deal 15000 damage which helps out plenty when fighting him.**This strategy requires a good understanding of Titus' abilities and timings, fail to do so will pay a hefty price.**  
     
 
 ## Rewards
@@ -212,9 +212,9 @@ Titus drops a variety of unique items that cannot be found elsewhere.
 
 In addition to his unique chest (see below for the table), an additional chest is rewarded for each participating player, dropping at their feet. This chest can include:
 
--   [Weapons](Weapons.md): [Imperator's Edge](<Imperator's_Edge.md>), [Imperial Staff](Imperial_Staff.md)
+-   [Weapons](Weapons.md): [Imperator's Edge](<Imperator's_Edge.md>), [Imperial Staff](Imperial_Staff.md), [Summer Hullwrecker](Summer_Hullwrecker.md).
 -   [Relics](Relics.md): [Armorer's Needles](<Armorer's_Needle.md>), [Moonseye Tomes](Moonseye_Tome.md), [Smith's Alloys](<Smith's_Alloy.md>), [Idol of Yunshul](<Idol_of_Yun'Shul.md>), [Stone](Stone.md) and [Storm](Storm.md) [Enchant Stones](Enchant_Stone.md).
--   [Items](Items.md): [Deep Gems](Deep_Gems.md), [Gale Stones](Gale_Stone.md)
+-   [Items](Items.md): [Deep Gems](Deep_Gems.md), [Gale Stones](Gale_Stone.md).
 
 ### 
 
@@ -224,7 +224,7 @@ Unique Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Titus's_Raiment.md">Titus's Raiment</a></td>
+  <td><a href="Titus's_Raiment.md">Titus's Raiment</a>.</td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
@@ -257,7 +257,7 @@ Unique Loot Table
     <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a>.</li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
   <ol>
-    <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
+    <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a>.</li>
     <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li>
   </ol></li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a>.</li>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162592
+revid: 162910
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2643,6 +2643,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Scarlet Donor
 
 -   Blood Bank \[Common Talent\] - Consuming 'Charm' now gives slight temporary health.
+    -   Procs when you proc Donation Drive or Manipulator.
+    -   Grants 25 flat temporary health.
+    -   Has an indirect 10 second cooldown due to it relying on Manipulator.
     -   Prerequisites: 80 Bloodrend, 40 Charisma, Manipulator
 
 -   Donation Drive \[Common Talent\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
@@ -2730,9 +2733,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Septicemia
 
--   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you 15% temporary health.
-    -   Has 2 seconds of cooldown between activation to prevent multi-hits give you insane amounts of temporary health.
-    -   This talent does not scale up or down depending on your investment points.
+-   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
+    -   Grants 15 flat temporary health on proc.
+    -   Has a 2 second of cooldown between procs to prevent multi-hits give you insane amounts of temporary health.
     -   Prerequisite: 85 Bloodrend
 
 -   Hemolysis \[Common Talent\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
@@ -3382,7 +3385,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Transitory Vitality
 
 -   _Sow and Mend_ \[Rare Talent\] - Sacrifice 35% of your blood for temporary health. (30s CD)
-    -   Gives ~5% temporary health.
+    -   Gives 25 flat temporary health on use.
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 
 -   Cyclical Exsanguination \[Common Talent\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
@@ -4141,18 +4144,22 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   Etherguard: [Blustone Set](Bluestone_Pauldrons.md) - Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
     -   When landing a Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, gain the [Etherguard](Status_Effects.md#etherguard) status effect, granting you resistance to all Mantras. The amount of damage resisted is based on the Mantra's Ether cost.
     -   Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
+
 -   Lasting Trauma: [Reinforced War Set](Reinforced_War_Helmet.md) - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
     -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 9 seconds.
     -   Wrath gems have a 10 second cooldown, making this Talent only have a 1 second downtime.
     -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
+
 -   Offensive Recovery: [Ascended Outlaw Set](Ascended_Outlaw_Hat.md) - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.
     -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will restore your posture.
     -   This functions somewhat similarly to [Arc Wave](Oath%253A_Arcwarder.md#arc-wave) while in Arc suit.
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+
 -   Shock Trooper Specialist: [Specialist Set](Specialist_Helmet.md) - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
-    -   Upon meeting a 100 damage threshold with Galebreathe and Thundercall Mantras, summon a Storm Strike that deals 40 Thundercall damage.
-    -   This has no cooldown, proccing on every hit in PvE due to the PvE damage multipliers. However, this only has 1.08x PvE scaling.
+    -   To proc Shock Trooper Specialist, you must meet the a damage threshold of 300 damage dealt with Thunder and Gale Mantras. Each point in Galebreathe or Thundercall reduces this threshold by 1, capping at 100 damage dealt for a Storm Strike with 100 Gale and Thunder.
     -   The damage threshold does not consider damage multipliers, but it _does_ consider resistances, making it harder to proc the higher Wind/Lightning res your opponent has.
+    -   The Storm Strikes deal 40 Thundercall damage with no investment scaling.
+    -   Shock Trooper Specialist has no cooldown, proccing on almost every hit in PvE due to the PvE damage multipliers. However, this only has 1.08x PvE scaling.
     -   Additionally, this turns your [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), and [Thunder Kick](Thundercall.md#thunder-kick) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will gain a 15% damage buff to their base damage (not a damage modifier) as well.
     -   Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)
 

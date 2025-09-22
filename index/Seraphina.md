@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 160353
+revid: 162876
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -24,6 +24,8 @@ She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -34,6 +36,22 @@ She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
 </tr>
 <tr>
   <td>[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Etris Siege:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Something doesn't feel right today. The air is still. I have a bad feeling about this.</td>
 </tr>
 <tr>
   <td>End</td>
