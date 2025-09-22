@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 161324
+revid: 162915
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -155,8 +155,6 @@ OR
 |  | [Toffee](Toffee.md) | [Goodie Bag](Goodie_Bag.md)\-Exclusive | 10% | 5% | Weapon Damage  
 (10) | N/A | ◯ | ◯ |
 |  | [Urchin Stew](Urchin_Stew.md) | 3 [Urchins](Urchin.md) | 20% | 25% | N/A | ◯ | ◯ | ✗ |
-
-  
 
 ## Notes
 
