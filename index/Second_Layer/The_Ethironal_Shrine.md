@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 160953
+revid: 162859
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -24,7 +24,7 @@ Below the first floor lies the [Sleeping City](New_Kyrsa.md), more detail can be
 
 Unlike other dungeons, the Second Layer has multiple different methods to access it, while more in-depth on the [Second Layer](../Second_Layer.md) page, it can be accessed via either jumping into a void while above 50% Health (75% in Player Combat), by taking the Ignition Union’s deepdriller from the Chariot’s Spire, dying in depths to a player with the contractor Oath while having an Oath or by talking to [Klaris Llfiend, Mother of Lights](../Klaris_Llfiend,_Mother_of_Lights.md) while above Power 15.
 
-Going into the dungeon via Klaris will provide a safe-guard in the form of a [Light-hook](../Light_Hook.md), which will safely eject you back into Layer 1 if you die within the first 20 minutes of entering.
+Going into the dungeon via Klaris will provide a safe-guard in the form of a [Light-hook](../Light_Hook.md), which will safely eject you back into Layer 1 if you die within the duration of the lighthook.
 
 ## Objectives
 
@@ -237,6 +237,7 @@ It is important to note that **very few** good items drop from standard enemy lo
 -   The combat music for this area is [INSOMNIA](https://www.youtube.com/watch?v=YMJBMjergiI) by Naktigonis.
     -   As stated in the video, the music present in game is altered due to ROBLOX's guidelines regarding screaming and distorted audio.
 -   [Mute](../Regalia.md), [Gliders](../Gliders.md), and [Teleportation](../Teleportation.md) all do not work in this dungeon.
+-   The [Bone Keeper](../Bone_Keeper.md) spawned at the bridge to the generator is only weakened so it has dramatically less knockback.
 -   [Murmur: Tacet](../Murmur%253A_Tacet.md) is able to be used.
 -   While [Dimensional Travel](../Dimensional_Travel.md) is able to be used, it instead flings the user similar to the winds.
 -   The Lighthook will recharge even if you're not ingame or on that slot.

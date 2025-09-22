@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 159477
+revid: 162851
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies with Oaths]
@@ -20,17 +20,79 @@ Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfiel
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | The user performs a quick downslash before lunging forward. Both hits of this critical have **innate bleed** and deal 1x scaled damage. | ◯ | ✗ | (★★☆) |
-| Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
-| Fire Blade (Starkindred) | While he has his wings out, Iblis will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land. | ✗ | ◯ | (★☆☆) |
-| Flaming Scourge | Iblis gathers flames in his hand and spins it like a whip grabbing anyone around him, before slamming them into the ground and inflicting Burn. | ✗ | ✗ | (★☆☆) |
-| Flame Ballista | Conjures a flaming arrow and fires it at the nearest target, homes in and ricochets if blocked. | ◯ | ◯ | (★★☆) |
-| Ascension | Rises into the air, before swooping in downwards. This applies hard knockdown on hit. | ✗ | ✗ | (★★☆) |
-| Sinister Halo | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range. | ◯ | ◯ | (★★☆) |
-| Celestial Assault | Delivers an upward slash that makes both parties airborne,before delivering another sideway slash that sends the target away. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | The user performs a quick downslash before lunging forward. Both hits of this critical have innate bleed.
+
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Performs a fake attack, before pulling back and committing to a thrust.
+
+ |
+| 
+
+**Fire Blade (Starkindred)**  
+(★★☆)
+
+ | While he has his wings out, Iblis will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land.
+
+ |
+| 
+
+**Flaming Scourge**  
+(★★☆)
+
+ | Iblis gathers flames in his hand and spins it like a whip grabbing anyone around him, before slamming them into the ground and inflicting Burn.
+
+ |
+| 
+
+**Flame Ballista**  
+(★★☆)
+
+ | Conjures a flaming arrow and fires it at the nearest target, homes in and ricochets if blocked.
+
+ |
+| 
+
+**Ascension**  
+(★★☆)
+
+ | Rises into the air, before swooping in downwards. This applies hard knockdown on hit.
+
+ |
+| 
+
+**Sinister Halo**  
+(★★☆)
+
+ | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range.
+
+ |
+| 
+
+**Celestial Assault**  
+(★★☆)
+
+ | Delivers an upward slash that makes both parties airborne before delivering another sideway slash that sends the target away.
+
+ |
 
 File:Iblis Spawn.png
 

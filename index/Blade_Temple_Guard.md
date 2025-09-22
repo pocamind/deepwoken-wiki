@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 152468
+revid: 162806
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Guards, Etrea, Kingdom of Etrea Enemies, NPCs located in the Etrean Luminant]
@@ -16,17 +16,49 @@ Blade Temple Guards are reputable NPCs that can be found on the [Isle of Vigils]
 
 ## Moveset
 
-A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the [Galebreathe](Galebreathe.md) attunement:
+A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the [Galebreathe](Galebreathe.md) Attunement:
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| Assault | Firmly swings sword at opponent and finishes the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
-| Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ◯ | ◯ | (★★☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | ◯ | (★★☆) |
-| Wind Blade | User shoots out an arc of gale. | ◯ | ◯ | ◯ | (★☆☆) |
-| Flashdraw Strike | User sheathes their sword before following up with a teleporting uppercut. | ◯ | ◯ | ◯ | (★★★) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
-  
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Sheathes blade before dashing forward and unleashing a quick slash.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Wind Blade**  
+(★★☆)
+
+ | User shoots out an arc of gale.
+
+ |
+| 
+
+**Flashdraw Strike**  
+(★★☆)
+
+ | User sheathes their sword before following up with a teleporting uppercut.
+
+ |
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 152473
+revid: 162829
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -20,78 +20,105 @@ If you talk to him in [The Understrand](The_Understrand.md), he will get mad at 
 
 ## Moveset
 
-A Black Diver's arsenal consists of the Oath [Dawnwalker](Oath%253A_Dawnwalker.md) and either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement. They fittingly wear the [Black Diver](Black_Diver.md) armor.
+A Black Diver's arsenal consists of the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath and either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement. They fittingly wear the [Black Diver](Black_Diver.md) armor.
 
 \* Only used by Ambush variant and Tideknight variant.  
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
 | 
 
-Critical
+**Critical**  
+(★★☆)
 
  | \[[Forgotten Gladius](Forgotten_Gladius.md)\] Performs a windup before thrusting blade forward.
 
-\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>)\] User raises their leg before firmly slamming it down, breaking the opponent's guard.
+\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>)\] User raises their leg before firmly slamming it down, breaking the opponent's guard. \[⁣[Pale Morning](Pale_Morning.md)\] Raises weapon before firmly slamming it down into the ground.  
 
-\[⁣[Pale Morning](Pale_Morning.md)\] Raises weapon before firmly slamming it down into the ground.
+-   Pale Morning and Markor's Inheritor criticals are not blockable.
 
- | ◯ | ✗ | (★★☆) |
+ |
 | 
 
-Gale Lunge
+**Gale Lunge**  
+(★★☆)
 
- | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+ | Diver lunges forward with their weapon coated in wind.
+
+ |
 | 
 
-Astral Wind
+**Astral Wind**  
+(★★★)
 
- | User casts several fast, wind enhanced slashes that form a star, dealing high damage. | ◯ | ◯ | (★★★) |
+ | User casts several fast, wind enhanced slashes that form a star, dealing high damage.
+
+ |
 | 
 
-Jolt Grab
+**Jolt Grab (Magnet Spark)**  
+(★★☆)
 
-(Magnet Spark)
+ | Teleports to the nearest target before sending out a shocking AoE.
 
- | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+ |
 | 
 
-Jolt Grab
+**Jolt Grab**  
+(★☆☆)
 
  | Dashes forward to grab an opponent before smashing them into the floor, sending out a shocking AoE.
 
-This variant uses Surge Path: Unstable Capacitor.
+-   This variant uses [Surge Path: Unstable Capacitor](Talents.md#unstable-capacitor).
 
- | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-Rising Thunder
+**Rising Thunder**  
+(★★★)
 
- | User performs an animation similar to Lightning Assault in the air before returning back to the ground. | ◯ | ◯ | (★★★) |
+ | User rushes forwards and grabs their opponent. If this lands, they will teleport into the sky and crash down as a bolt of lightning.
+
+ |
 | 
 
-Ice Smash
+**Ice Smash**  
+(★★☆)
 
- | User performs a wind-up before conjuring and slamming a spiked ice club into the ground ahead. | ◯ | ✗ | (★★☆) |
+ | User performs a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
+
+ |
 | 
 
-Blinding Dawn  
+**Blinding Dawn**  
+(★★☆)
 
- | User starts spinning rapidly while unleashing powerful rays of light. | ◯ | ◯ | (★★☆) |
+ | User starts spinning rapidly while unleashing powerful rays of light.
+
+ |
 | 
 
-Radiant Kick  
+**Radiant Kick**  
+(★★☆)
 
- | User teleports to the nearest opponent with a kick at the speed of light. | ◯ | ◯ | (★★☆) |
+ | User teleports to the nearest opponent with a kick at the speed of light.
+
+ |
 | 
 
-Radiant Dawn  
+**Radiant Dawn**  
+(★★★)
 
- | User leaps into the air before crashing down with the power of light. | ◯ | ✗ | (★★★) |
+ | User leaps into the air before crashing down with the power of light.
+
+ |
 
 ### Talents
 

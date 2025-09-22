@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Brute
-revid: 162473
+revid: 162843
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Monsters, Floor 2]
@@ -46,4 +46,4 @@ A Kyrsgarde Brute executes its opponent:
 
 ## Trivia
 
--   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that one of the NPCs in Layer 2 remark how brutes started patrolling when rumbling was heard from the "roof" as Chaser killed himself.
+-   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that [F'leche](<F'leche.md>) remarks, "The big men are so, so angry, they're walking circles everywhere!" after Chaser is defeated.

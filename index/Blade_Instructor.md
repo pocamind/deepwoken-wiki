@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 152469
+revid: 162807
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea, Kingdom of Etrea Enemies, Etrean Luminant]
@@ -24,29 +24,36 @@ With the introduction of [Training Mode](Training_Mode.md), they were rendered o
 
 An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
 
-| Name | Description | media |
-| --- | --- | --- |
-| Assault  
-(★☆☆) | \[[Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>) & [Mace](Mace.md)\] Firmly swings sword at opponent and finishing the combo by kicking them.
-\[[Iron Spear](Iron_Spear.md)\] Firmly thrusts spear at opponent and finishing the combo by kicking them.  
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
- |  |
-| Critical  
-(★☆☆) | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
-\[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward.
+ |
+| 
 
-\[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.  
-Parryable:◯  
-Blockable:◯ (Sword & Iron Spear) ✗ (Battleaxe & Mace)  
-Dodgeable:◯
+**Critical**  
+(★★☆)
 
- |  |
-| Feint  
-(★★☆) | Attacks, but then stops mid-way to catch the player off guard |  |
+ | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+
+\[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward.  
+\[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+
+-   Battleaxe and Mace criticals are not blockable.
+
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Attacks, but then stops mid-way to catch the player off guard.
+
+ |
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 161799
+revid: 162858
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1223,15 +1223,14 @@ N/A
 
 **Effect:** _User taunts their opponent, signified by red particles._
 
--   Taunt has an 11/12/13/14/15 second duration per level.
--   Affected entities receive 20% more damage.
+-   Inflicts Taunt for 11/12/13/14/15 seconds per level.
+-   Affected entities receive 20% more damage, but deal 10% more damage to the caster.
     -   This is applied as a damage modifier to the person hitting the Taunted player. Meaning that Taunt is affected by the damage modifier caps.
--   Affected entities deal 10% more damage to you specifically.
 -   Affected entities become unable to jump.
+-   Taunt cannot be parried, but will not apply Taunt if it is blocked or dodged. Taunt deals 0 posture damage.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
 -   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
--   Does \*not\* proc Deep Gems on hit.
 
  |
 | 
@@ -1268,7 +1267,8 @@ N/A
 
 **Effect:** _User creates a tune with their voice that charms nearby opponents_
 
--   Inflicts Charm on nearby entities.
+-   Inflicts Charm on nearby entities for 10 seconds.
+-   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
 -   Can be modified with stratus stones to increase range.
 -   Shares a cooldown with [Glare](Attunement-less.md#glare).
 -   Can be upgraded with the **Encore** Talent, applying **true stun** if you land Sing on a Charmed opponent.

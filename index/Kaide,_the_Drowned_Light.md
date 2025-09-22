@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 162574
+revid: 162823
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -104,7 +104,7 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
   <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">Hm... You return and yet you still make a lot of noise. Are you simply here to disturb my meditation, <b>again</b>, surface dweller?</td>
+  <td colspan="4">Hm... You return and yet you still make so much noise. You'll scarcely leave me with enough time to meditate. I only have eternity, after all.</td>
 </tr>
 <tr>
   <td>What's happening with the Song?</td>

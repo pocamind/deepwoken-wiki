@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 156177
+revid: 162834
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments, The Central Authority]
@@ -20,33 +20,61 @@ Their appearance consists of an [Authority Captain Uniform](Authority_Captain_Un
 
 Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian Axe](Adretian_Axe.md) along with the [Frostdraw](Frostdraw.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
 | 
 
-Critical
+**Critical**  
+(★★☆)
 
  | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs four quick slashes with their blade.
 
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
 
- | ◯ | ✗ | (★★☆) |
-| Ice Smash | _User winds-up before conjuring and slamming a spiked ice club into the ground ahead._ | ◯ | ◯ | (★★☆) |
+-   Adretian Axe critical is not blockable.
+
+ |
 | 
 
-Ice Eruption
+**Ice Smash**  
+(★★☆)
 
- | _Erupts ice from the ground trapping anyone caught in it._ | ✗ | ✗ | (★★☆) |
+ | User winds-up before conjuring and slamming a spiked ice club into the ground ahead.
+
+ |
 | 
 
-Glacial Shower
+**Ice Eruption**  
+(★★☆)
 
- | _Rains down shards of ice._ | ◯ | ◯ | (★★☆) |
-| Iceberg | _The user freezes themselves to quickly mend their wounds._ | ◯ | ◯ | (★☆☆) |
+ | Erupts ice from the ground trapping anyone caught in it.
+
+ |
+| 
+
+**Glacial Shower**  
+(★★☆)
+
+ | Rains down shards of ice.
+
+ |
+| 
+
+**Iceberg**  
+(★☆☆)
+
+ | The user freezes themselves to quickly mend their wounds.
+
+-   Ends if you hit the person inside, however they have autoparry frames.
+
+ |
 
 ## Talents
 

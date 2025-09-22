@@ -1,6 +1,6 @@
 ---
 title: Orion
-revid: 156467
+revid: 162791
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests]
@@ -46,7 +46,7 @@ He will not tell you that you got the Origin if you are hive-kin or Khan, you wi
 </tbody>
 </table>
 
-**Quest Completed:**
+**Quest End:**
 
 <table>
 <tbody>

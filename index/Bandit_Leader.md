@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 153194
+revid: 162815
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -27,17 +27,36 @@ A Bandit Leader wears the obtainable Bounty Hunter [Outfit](Outfits.md) with the
 
 A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md), or a [Gilded Knife](Gilded_Knife.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Attacks the opponent repeatedly and flourishes them away with a kick. | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon above their head before firmly slamming it down into the ground, breaking the victim's guard.
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon above their head before firmly slamming it down into the ground, breaking the victim's guard.
+
 \[[Messer](Messer.md)\] Performs a windup before thrusting the blade forward into the enemy's chest.  
 \[[Gilded Knife](Gilded_Knife.md)\] Winds up before unleashing a quick flurry of three slashes.
 
- | ◯ | ✗ | (★★☆) |
-| Feint | Attacks, but stops during the windup in an attempt to catch the opponent off-guard. | N/A | N/A | (★★☆) |
+-   Battleaxe and Mace criticals are not blockable.
 
-  
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.
+
+ |
 
 ## Finisher
 

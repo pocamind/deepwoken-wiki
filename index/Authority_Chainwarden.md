@@ -1,6 +1,6 @@
 ---
 title: Authority Chainwarden
-revid: 156175
+revid: 162833
 source: https://deepwoken.fandom.com/wiki/Authority_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Central Authority, Authority Enemies]
@@ -18,98 +18,117 @@ Their appearance consists of an [Authority Helm](Authority_Helm.md) and the [Aut
 
 ## Moveset
 
-An Authority Chainwarden's arsenal consists of a variety of weapons alongside the [Thundercall](Thundercall.md) and [Flamecharm](Flamecharm.md) Attunements. They also wield the oath [Chainwarden](Oath%253A_Chainwarden.md), hence their name.
+An Authority Chainwarden's arsenal consists of a variety of weapons alongside the [Thundercall](Thundercall.md) and [Flamecharm](Flamecharm.md) Attunements. They also wield the [Chainwarden](Oath%253A_Chainwarden.md) Oath, hence their name.
 
-| Name | Description | Parryable? | Blockable? |
-| --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault  
-
+**Assault**  
 (★☆☆)
 
- | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ |
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
 | 
 
-Critical Attack  
-
+**Critical Attack**  
 (★★☆)
 
- | The Authority Chainwarden uses the critical attack of their equipped weapon. | ◯ | ✗ |
+ | The Authority Chainwarden uses the critical attack of their equipped weapon.
+
+-   Sovereign Punishment's critical is not blockable.
+
+ |
 | 
 
-Flame Ballista  
-
+**Flame Ballista**  
 (★★☆)
 
- | The Authority Chainwarden conjures a Flaming Arrow before firing it at an opponent. | ◯ | ◯ |
+ | The Authority Chainwarden conjures a Flaming Arrow before firing it at an opponent.
+
+ |
 | 
 
-Fire Forge  
-
+**Fire Forge**  
 (★☆☆)
 
- | The Authority Chainwarden throws three flaming daggers. | ◯ | ◯ |
+ | The Authority Chainwarden throws three flaming daggers.
+
+ |
 | 
 
-Ash Slam  
-
+**Ash Slam**  
 (★★★)
 
- | The Authority Chainwarden imbues their fist with flames that explode on impact with the ground. Strikes twice and creates a bursting explosion each time, ragdolling the player. | ◯ | ◯ |
+ | The Authority Chainwarden imbues their fist with flames that explode on impact with the ground. Strikes twice and creates a bursting explosion each time, ragdolling the player.
+
+ |
 | 
 
-Flame Scourge  
-
+**Flame Scourge**  
 (★★★)
 
- | The Authority Chainwarden gathers flames in their hand and spins it like a whip grabbing the player, before slamming them into the ground. | ◯ | ◯ |
+ | The Authority Chainwarden gathers flames in their hand and spins it like a whip grabbing the player, before slamming them into the ground.
+
+ |
 | 
 
-Fire Assault  
-
+**Fire Assault**  
 (★★☆)
 
- | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ |
+ | User dashes forward covered in flames; hitting anyone in their path.
+
+ |
 | 
 
-Jolt Grab  
-
+**Jolt Grab**  
 (★★☆)
 
- | Dashes forward grabbing someone into a chokehold and electrocuting them. | ◯ | ◯ |
+ | Dashes forward grabbing someone into a chokehold and electrocuting them.
+
+ |
 | 
 
-Lightning Stream  
+**Lightning Stream**  
+(★☆☆)
 
- | A stream of lightning that hooks onto an opponent before shocking them and pulling them towards the Chainwarden. | ◯ | ◯ |
+ | A stream of lightning that hooks onto an opponent before shocking them and pulling them towards the Chainwarden.
+
+ |
 | 
 
-Rising Thunder  
-
+**Rising Thunder**  
 (★★★)
 
- | The Authority Chainwarden grabs the player, rising up before crashing down as a bolt of lightning. | ◯ | ◯ |
+ | The Authority Chainwarden grabs the player, rising up before crashing down as a bolt of lightning.
+
+ |
 | 
 
-Thunder Kick  
-
+**Thunder Kick**  
 (★★☆)
 
- | The Chainwarden performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ |
+ | The Chainwarden performs an empowered lightning kick, shocking and knocking away any opponents.
+
+ |
 | 
 
-Restrain  
-
+**Restrain**  
 (★★☆)
 
- | The Authority Chainwarden strikes their foe with a powerful kick, enchaining them so that they can't run away. | ◯ | ◯ |
+ | The Authority Chainwarden strikes their foe with a powerful kick, enchaining them so that they can't run away.
+
+-   Applies a chain through block.
+
+ |
 | 
 
-Rupture  
-
+**Rupture**  
 (★★☆)
 
- | The Authority Chainwarden punches the player twice. If the player is enchained, the Authority Chainwarden will rupture the chain, ragdolling and flinging the player backwards. | ◯ | ◯ |
+ | The Authority Chainwarden punches the player twice. If the player is enchained, the Authority Chainwarden will rupture the chain, ragdolling and flinging the player backwards.
+
+ |
 
 ## Finisher
 

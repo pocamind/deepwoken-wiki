@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 157194
+revid: 162812
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, The Central Authority]
@@ -22,24 +22,54 @@ Their appearance consists of a Authority Peacekeeper Uniform and an Authority He
 
 Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Cavalry_Saber.md) or [Adretian Axe](Adretian_Axe.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
-| Name | Desciption | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | ([Rifle Spear](Rifle_Spear.md))Firmly thrusts spear at opponent and finishing the combo by kicking them.  
-([Cavalry Saber](Cavalry_Saber.md))Firmly swings blade at opponent before finishing up the combo by kicking them.  
-([Adretian Axe](Adretian_Axe.md))Swings axe at opponent and finishes the attack by kicking them away.
+| Name/Danger | Desciption |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
- | ◯ | ◯ | (★☆☆) |
-| Critical | ([Rifle Spear](Rifle_Spear.md))Pulls the trigger on the spear that fires a bullet at opponent.  
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | ([Rifle Spear](Rifle_Spear.md))Pulls the trigger on the spear that fires a bullet at opponent.
 
 ([Cavalry Saber](Cavalry_Saber.md))Performs four quick slashes with their blade.  
 ([Adretian Axe](Adretian_Axe.md))Does a windup by rising the weapon before slamming it's blade on you.
 
- | ◯ | ✗ | (★★☆) |
-| Fire Blade | Slams down with a blade coated in flame, dealing heavy damage in an arc. | ◯ | ✗ | (★★☆) |
-| Relentless Flames | Bear down on your foes with repeated fiery slashes. | ◯ | ◯ | (★★☆) |
-| Flame Grab | The Peacekeeper lunges forward to grab and slam the player into the ground, igniting them in flames. | ◯ | ◯ | (★☆☆) |
+-   Adretian Axe critical is not blockable.
 
-  
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | Slams down with a blade coated in flame, dealing heavy damage in an arc.
+
+ |
+| 
+
+**Relentless Flames**  
+(★★☆)
+
+ | Bear down on your foes with repeated fiery slashes.
+
+-   Cancels if parried.
+
+ |
+| 
+
+**Flame Grab**  
+(★☆☆)
+
+ | The Peacekeeper lunges forward to grab and slam the player into the ground, igniting them in flames.
+
+ |
 
 ### Talents
 

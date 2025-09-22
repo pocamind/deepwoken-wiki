@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 153594
+revid: 162822
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -154,7 +154,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="6">Someone found me, and brought me to Etrea.</td>
 </tr>
 <tr>
-  <td colspan="6">[See first instance.]</td>
+  <td colspan="6">[See first instance]</td>
   <td colspan="6">Lucky soul.. must be some miracle, aye? Ye believe in good luck, mate? <i>*He presses his thumb to his chin, narrowing his eyes at you.*</i> Maybe ye got somethin' special in that soul of 'yers. Maybe not. But, for us to meet here.. I think somethin' awaits the both of us.</td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of Kyrsgarde! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old Kyrsan Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
+  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of <a href="Glossary.md#kyrsgarde">Kyrsgarde</a>! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old Kyrsan Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
 </tr>
 <tr>
   <td colspan="6"></td>
@@ -232,7 +232,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <tr>
   <td colspan="3"><i>*The man backs off, readjusting his cap once more.*</i> Aye. Aye, I can tell that. So, 'yer not a <i>government agent</i>, you've proven that much. Now.. who are you? Why are you <i>really</i> down here? Surely that mission of yours was a jest to fool me.</td>
   <td colspan="3"></td>
-  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of Kyrsgarde! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old Kyrsan Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
+  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of <a href="Glossary.md#kyrsgarde">Kyrsgarde</a>! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old Kyrsan Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
 </tr>
 <tr>
   <td colspan="3">I spoke the truth.</td>
@@ -245,26 +245,28 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="6">Aye! <i>*The captain stretches his arm forth, waving across the cityscape.*</i> Go forth, [PLAYER]! Seek the treasures your heart desires. Seek out what belongs to you, seek your legacy. And to the ones above who think of us as sinners... <i>the gods will not be watching.</i></td>
 </tr>
 <tr>
-  <td>My name is [PLAYER]. I'm sent by Klaris.</td>
-  <td colspan="2">My name is [PLAYER]. I'm here for power.</td>
+  <td colspan="2">My name is [PLAYER]. I'm sent by Klaris.</td>
+  <td>My name is [PLAYER]. I'm here for power.</td>
   <td colspan="4"></td>
   <td colspan="4">End</td>
 </tr>
 <tr>
-  <td>[PLAYER], huh... I see. And Klaris, you say? Bah! Funny that, she sends a sorry soul down here to do her dirty work for her. <i>*He sneers, looking off to the cityscape around him.*</i> Sorry to say, [PLAYER], but you're just a pawn. Live for yourself, not some higher-up. Indeed... the powers that be see us as nothin' but worms in a festering sea of corpses. Disposable, so fragile. Do you think she truly cares about you? She cares about <i>HERSELF</i>, pawn. Herself and her ideals only; you are a worm, just like me! Baha!</td>
-  <td colspan="2">[PLAYER], I see. Powerseeking, an ideal of the weak willed! Bah! Surely 'ye got some tale of yours to bring you down here? Somethin' more interesting about 'ye? I know not one soul that would come to this hell for power, of all things. 'Yer woefully mistaken for thinking you'll find power here, only tragedy awaits for us.</td>
+  <td colspan="2">[PLAYER], huh... I see. And Klaris, you say? Bah! Funny that, she sends a sorry soul down here to do her dirty work for her. <i>*He sneers, looking off to the cityscape around him.*</i> Sorry to say, [PLAYER], but you're just a pawn. Live for yourself, not some <i>higher-up</i>. Indeed... the <i>powers that be</i> see us as nothin' but worms in a festering sea of corpses. Disposable, so fragile. Do you think she truly cares about you? She cares about <i>HERSELF</i>, pawn. Herself and her ideals only; you are a worm, just like me! Baha!</td>
+  <td>[PLAYER], I see. Powerseeking, an ideal of the weak willed! Bah! Surely 'ye got some tale of yours to bring you down here? Somethin' more interesting about 'ye? I know not one soul that would come to this hell for <i>power</i>, of all things. 'Yer woefully mistaken for thinking you'll find power here, only tragedy awaits for us.</td>
 </tr>
 <tr>
   <td>I see. And you are?</td>
-  <td colspan="2">It seems you dislike power.</td>
+  <td>It seems you dislike power.</td>
+  <td>I see. And you are?</td>
 </tr>
 <tr>
   <td><i>*He slams his chest with pride, his armor clanging loudly from the impact.*</i> Call me Orlandeau! <i>Cap'n</i> Orlandeau! I may not have a crew-family anymore, but I have my heart to guide me. Despite the less than ideal circumstances... I'll keep my bicorn high. My crew's will lives on with with me, and this city... <i>*A feint glint in his eye sparks, as a wide grin spreads across his face*...</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] is our final plunder.</td>
-  <td colspan="2">Aye. What's there to like about those who see you as insects? What's there to like about those who send you into a hell no sorry soul could walk out of? <i>*He gestures to the area around him, waving his hands as if to go 'see, see'*</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh, I don't wanna be down here till I die, [PLAYER]. But the powers that be deem me to be slaughtered should I show my face up above! So, I die as a fugitive on the run forever... or I die here. <i>*His expression turns more somber for a moment, before shaking his head.*</i> I'll try to escape eventually, [PLAYER], but even with the wealth of this city in my pockets, I'd have numbered days.</td>
+  <td>Aye. What's there to like about those who see you as insects? What's there to like about those who send you into a hell no sorry soul could walk out of? <i>*He gestures to the area around him, waving his hands as if to go 'see, see'*</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh, I don't wanna be down here till I die, [PLAYER]. But the powers that be deem me to be <i>slaughtered</i> should I show my face up above! So, I die as a fugitive on the run forever... or I die here. <i>*His expression turns more somber for a moment, before shaking his head.*</i> I'll try to escape eventually, [PLAYER], but even with the wealth of this city in my pockets, I'd have numbered days.</td>
+  <td>[See first instance]</td>
 </tr>
 <tr>
-  <td>[See first instance.]</td>
-  <td colspan="2">End</td>
+  <td>[See first instance]</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -297,7 +299,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="8">[See first instance.]</td>
+  <td colspan="8">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -336,7 +338,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td colspan="3">[See first instance.]</td>
+  <td colspan="3">[See first instance]</td>
 </tr>
 </tbody>
 </table>

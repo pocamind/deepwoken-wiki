@@ -1,6 +1,6 @@
 ---
 title: Pendant of Order
-revid: 161433
+revid: 162796
 source: https://deepwoken.fandom.com/wiki/Pendant_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Equipment, Torso, Necklaces]
@@ -28,11 +28,10 @@ notices:
 
 ## Description
 
-The Pendant of Order is an [Equipment](Equipment.md) item under the "Torso" category. You can obtain this item by speaking to [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) on any build that has used it before the September 6th, 2025 update. After obtaining it once on any slot you can purchase it from a [Blacksmith](Blacksmith.md) for 1.
+The Pendant of Order is an [Equipment](Equipment.md) item under the "Torso" category. It is obtained by speaking to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) on any build that has used it before the September 6th, 2025 update. After obtaining it once on any slot, you can purchase it from a [Blacksmith](Blacksmith.md) for 1 under the "Ordergeddon '25" medal.
 
 On equip, this grants 3% Physical Armor, +1 Rare Pip, and +1 Legendary Pip.
 
 ## Trivia
 
--   Unlike the [Party Hat](Party_Hat.md), the pendant cannot be dropped.
 -   The description is likely a reference to merchandise often sold in popular tourist locations, typically being along the lines of "I went to \[Location\] and all I got was this lousy T-shirt."

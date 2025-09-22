@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 161229
+revid: 162793
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
-| special effect | The Rifle Spear procs all Rifle exclusive Talents. |
+| special effect | Procs all Rifle exclusive Talents, uses the Gun aerial attack and Bullet Casings. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -34,13 +34,11 @@ _Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker
 
 ## Description
 
-The Rifle Spear is a MED weapon. It can be obtained from Depths chests; Erisore chests, which can be collected by turning in pure ore to a [Blacksmith](Blacksmith.md); and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
-
-Uniquely, the Rifle Spear will proc all Rifle-exclusive Talents.
+The Rifle Spear is a Medium Weapon in the Spear category. It is commonly used by many [Authority](The_Central_Authority.md) NPCs. Uniquely, the Rifle Spear will proc all Rifle-related talents, use [Bullet Casings](Bullet_Casings.md), and the Gun aerial attack.
 
 ## Critical
 
-The user aims down sights and shoots the spear, unleashing a blast and firing a bullet. The user will gain a speed boost while the critical is active.
+The user aims down and fires the spear, unleashing a blast and firing a bullet. The user will gain a speed boost while the critical is active.
 
 The critical has a cooldown of **5 seconds**.
 

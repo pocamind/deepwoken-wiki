@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 162761
+revid: 162814
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits, Ambush Enemies]
@@ -20,14 +20,20 @@ A Bandit wears the "Corsair Outlaw" outift with their [aspect](Aspects.md) varyi
 
 A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Mace](Mace.md) or [Stiletto](Stiletto.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+| Name/Danger | Description |
+| --- | --- |
+| <cAssault**  
+(★☆☆)** | Performs 3 basic attacks before sending the opponent away with a flourish.
+ |
+| <cCritical**  
+(★★☆)** | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+
 \[[Sword](<Sword_(weapon).md>) & [Messer](Messer.md)\] Reels weapon back before delivering a strong stab.  
 \[[Stiletto](Stiletto.md)\] Unleash a quick flurry attack on opponent.
 
- | ◯ | ✗ | (★☆☆) |
+-   Battleaxe and Mace criticals are not blockable.
+
+ |
 
 ## Finisher
 

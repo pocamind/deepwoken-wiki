@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 159233
+revid: 162854
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
@@ -20,19 +20,67 @@ A Hive Adjudicator dons the unobtainable [Hive Adjudicator](Hive_Adjudicator.md)
 
 A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [Iron Birch](Iron_Birch.md).
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
-| Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
-| Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★☆☆) |
-| Ice Daggers | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★☆☆) |
-| Flaming Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
-| Lightning Stream | Sends out a tether that latches onto a target before pulling them in. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
-### Boons
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
--   Enchanted - Comes with a random variety of enchant
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Katana](Katana.md)\] - Sheathes blade before dashing forward and unleashing a quick slash.
+
+\[[Iron Birch](Iron_Birch.md)\] - Lifts axe above their head before crashing it down.
+
+-   Iron Birch's critical is not bloackable.
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | Caster slams down with their blade coated in flames.
+
+ |
+| 
+
+**Flame Assault**  
+(★☆☆)
+
+ | Caster dashes forward covered in flames; knocking down whoever is in its path.
+
+ |
+| 
+
+**Ice Daggers**  
+(★☆☆)
+
+ | User forms three daggers of ice before throwing them towards the nearest person.
+
+ |
+| 
+
+**Flaming Scourge**  
+(★★☆)
+
+ | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
+
+ |
+| 
+
+**Lightning Stream**  
+(★★☆)
+
+ | Sends out a tether that latches onto a target before pulling them in.
+
+ |
 
 ### Talents
 

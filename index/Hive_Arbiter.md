@@ -1,6 +1,6 @@
 ---
 title: Hive Arbiter
-revid: 153517
+revid: 162853
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
@@ -20,14 +20,55 @@ A Hive Arbiters wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, 
 
 A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flamecharm.md) Mantras
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Sheathes blade before dashing forward and unleashing a quick slash. | ◯ | ✗ | (★★☆) |
-| Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
-| Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★☆☆) |
-| Flashdraw Strike | Caster goes up into the air on hit into an uppercut like state. | ◯ | ◯ | (★☆☆) |
-| Master's Flourish | Caster sends powerful slash that chips through block and slashes through armor. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Sheathes blade before dashing forward and unleashing a quick slash.
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | Caster slams down with their blade coated in flames.
+
+ |
+| 
+
+**Flame Assault**  
+(★☆☆)
+
+ | Caster dashes forward covered in flames; knocking down whoever is in its path.
+
+ |
+| 
+
+**Flashdraw Strike**  
+(★★☆)
+
+ | Caster sheathes their blade and then teleports into an uppercutting slash.
+
+ |
+| 
+
+**Master's Flourish**  
+(★★☆)
+
+ | Caster sends powerful slash that chips through block and slashes through armor.
+
+ |
 
 ### Boons
 

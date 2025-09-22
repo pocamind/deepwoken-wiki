@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 148653
+revid: 162856
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -22,16 +22,59 @@ They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldro
 
 ## Attacks
 
-Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunement:
+Their arsenal consists of a Soulwrought Greataxe and the [Galebreathe](Galebreathe.md) Attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Taunt | Yells out a taunt applying an effect to the opponent | ✗ | ◯ | (★☆☆) |
-| Assault | Swings axe at opponent and finishes the attack by kicking them away. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises axe upward before slamming it down to the ground. | ◯ | ✗ | (★★☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Heavenly Wind | User leaps high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
-| Astral Wind | User preforms a teleporting slash in the shape of star before returning to their original position. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises axe upward before slamming it down to the ground.
+
+ |
+| 
+
+**Taunt**  
+(★☆☆)
+
+ | Yells out a taunt applying an effect to the opponent.
+
+-   Taunt makes you take 20% more damage, deal 10% more damage to the person who applied the status, and removes your ability to jump.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Heavenly Wind**  
+(★★☆)
+
+ | User leaps high into the air before diving down, striking any targeted opponent.
+
+ |
+| 
+
+**Astral Wind**  
+(★★☆)
+
+ | User preforms a teleporting slash in the shape of star before returning to their original position.
+
+ |
 
 ## Finisher
 

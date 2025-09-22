@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 153766
+revid: 162805
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -22,43 +22,66 @@ A Diver's appearance only consists of a [Diver Apprentice](Diver_Apprentice_Robe
 
 A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron Birch](Iron_Birch.md) or [Silver Dagger](Silver_Dagger.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunements along with [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | \[[Razor Cutlass](Razor_Cutlass.md) & [Iron Birch](Iron_Birch.md)\] Firmly swings blade at opponent before finishing up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
-\[[Silver Dagger](Silver_Dagger.md)\] Swiftly swings dagger at opponent before finishing up the combo by kicking them.
-
- | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-Critical
+**Critical**  
+(★★☆)
 
  | \[[Razor Cutlass](Razor_Cutlass.md)\] Performs a windup before thrusting blade forward.
 
-\[[Iron Birch](Iron_Birch.md)\] Raises axe before slamming it down to the ground.
-
+\[[Iron Birch](Iron_Birch.md)\] Raises axe before slamming it down to the ground.  
 \[[Silver Dagger](Silver_Dagger.md)\] Performs a short windup before unleashing a quick flurry of slashes.
 
- | ◯ | ✗ | (★★☆) |
+-   Iron Birch critical is not blockable.
+
+ |
 | 
 
-Jolt Grab
+**Jolt Grab (Magnet Spark)**  
+(★★☆)
 
- | Teleports to the nearest opponent before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+ | Teleports to the nearest target before sending out a shocking AoE.
+
+ |
 | 
 
-Gale Lunge
+**Gale Lunge**  
+(★★☆)
 
- | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Relentless Flames | User bear down on their foes with repeated fiery slashes. | ◯ | ◯ | (★★☆) |
-| Glacial Arc | An Arc of ice. | ◯ | ◯ | (★☆☆) |
+ | User lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Relentless Flames**  
+(★★☆)
+
+ | User bear down on their foes with repeated fiery slashes.
+
+-   Cancels if parried.
+
+ |
+| 
+
+**Glacial Arc**  
+(★☆☆)
+
+ | An Arc of ice.
+
+ |
 
 ### Boons
 
--   Mantra Modification - A Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+-   Mantra Modification - A Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md#sparks).
 
 ### Talents
 

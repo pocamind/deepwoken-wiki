@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 152508
+revid: 162811
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies, The Central Authority]
@@ -28,34 +28,53 @@ Authority officers wear an [Authority Helm](Authority_Helm.md), a pair of [Blues
 
 Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Adretian_Axe.md) or a [Mace](Mace.md) (all of which can be enchanted) and the [Thundercall](Thundercall.md) Attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+ | Performs 3 basic attacks before kicking their opponent away.
+
+ |
 | 
 
-Critical
+**Critical**  
+(★★☆)
 
- | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs a wind-up before thrusting sword forward.  
+ | \[[Cavalry Saber](Cavalry_Saber.md)\] Performs a wind-up before thrusting sword forward.
+
 \[[Mace](Mace.md)\] Raises club upward before slamming it down to the ground.  
-\[[Adretian Axe](Adretian_Axe.md)\] Does a windup by rising the weapon before slamming it's blade on you. | ◯ | ✗ | (★☆☆) |
+\[[Adretian Axe](Adretian_Axe.md)\] Does a windup by rising the weapon before slamming its blade on you.
+
+-   Mace and Adretian Axe criticals are not blockable.
+-   Adretian Axe critical grants hyperarmor during its windup.
+
+ |
 | 
 
-Jolt Grab
+**Jolt Grab**  
+(★★☆)
 
- | Grabs the nearest target with an electrified grasp. | ◯ | ◯ | (★★☆) |
+ | Grabs the nearest target with an electrified grasp.
+
+ |
 | 
 
-Thunder Kick
+**Thunder Kick**  
+(★★☆)
 
- | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
+ | User performs an empowered lightning kick, shocking and knocking away any opponents.
+
+ |
 | 
 
-Lightning Blade
+**Lightning Blade**  
+(★☆☆)
 
- | Arcing blades of electricity. | ◯ | ◯ | (★☆☆) |
+ | Arcing blades of electricity.
+
+ |
 
   
 

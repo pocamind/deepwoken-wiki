@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 149103
+revid: 162855
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -16,16 +16,29 @@ Template:EnemyInfobox1.0
 
 A Thief (Also known as a bandit assassin) is an enemy NPC that can be found in [Erisia](Erisia.md) spawning in groups of three. Unlike all other enemies, they don't kill their victims, but steal their money and disappear.
 
-A Thief wears a [Headband](Outfits.md) and a [Shadow Hunter](Shadow_Hunter.md) outfit.
+A Thief wears a [Black Headband](Headband.md) and the [Shadow Hunter](Shadow_Hunter.md) outfit.
 
 ## Moveset
 
-Their arsenal only consists of a [Silver Dagger:](Silver_Dagger.md)
+Their arsenal only consists of a [Silver Dagger](Silver_Dagger.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Swiftly swings dagger at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Unleashes a quick flurry attack onto their opponent. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Unleashes a quick flurry attack onto their opponent.
+
+ |
 
 ### Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: "Abaddon, Sinner of Ice"
-revid: 158800
+revid: 162838
 source: https://deepwoken.fandom.com/wiki/Abaddon%2C_Sinner_of_Ice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Oaths, Quests]
@@ -16,16 +16,73 @@ Abadonn, Sinner of Ice, is a powerful [Starkindred](Oath%253A_Starkindred.md) ap
 
 ## Moveset
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
-| Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
-| Ice Eruption | Stomps the ground, creating a wave of ice in front of him, trapping anyone hit in ice, rendering them defenseless. | ✗ | ✗ | (★☆☆) |
-| Ice Daggers | Conjures icy daggers that home in on the nearest target and deal moderate damage on hit. | ◯ | ◯ | (★★☆) |
-| Ascension | Rises into the air, before swooping in downwards. This applies hard knockdown on hit. | ✗ | ✗ | (★★☆) |
-| Sinister Halo | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range. | ◯ | ◯ | (★★☆) |
-| Celestial Assault | Delivers an upward slash that makes both parties airborne,before delivering another sideway slash that sends the target away. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
+
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Performs a fake attack, before pulling back and committing to a thrust.
+
+ |
+| 
+
+**Ice Eruption**  
+(★★☆)
+
+ | Stomps the ground, creating a wave of ice in front of him, trapping anyone hit in ice, rendering them defenseless.
+
+ |
+| 
+
+**Ice Daggers**  
+(★★☆)
+
+ | Conjures icy daggers that home in on the nearest target and deal moderate damage on hit.
+
+ |
+| 
+
+**Ascension**  
+(★★☆)
+
+ | Rises into the air, before swooping in downwards.
+
+-   This applies hard knockdown on hit.
+
+ |
+| 
+
+**Sinister Halo**  
+(★★☆)
+
+ | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range.
+
+ |
+| 
+
+**Celestial Assault**  
+(★★☆)
+
+ | Delivers an upward slash that makes both parties airborne before delivering another sideway slash that sends the target away.
+
+ |
 
 ## Talents
 

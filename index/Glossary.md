@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 162580
+revid: 162818
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -44,8 +44,9 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide, the Drowned Light](
 -   Many believe that the [Song](#the-song) has stirred them from their sleep and brought about the [Tides](#the-tides). Should a Drowned God wake, it's also believed that it would result in [Lumen's](#lumen) undoing.
 -   The names of Drowned Gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
 -   Worship of Drowned Gods is taboo across most of the [Lumen](#lumen), with their faithful being branded as cultists and heretics.
+-   The Drowned God Ethiron is thought to preside over [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer)
 
 ### Korilfiend, the Inferno's Provenance
 
@@ -65,7 +66,7 @@ Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [
 
 -   A [Drowned God](#the-drowned-gods) said to preside over Wind.
 -   Their gales are said to drag even Time itself into their wake.
--   Thought to preside over the Second Layer, granting it the moniker of 'The Eternal Gale'.
+-   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
 Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
@@ -84,13 +85,13 @@ Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | B
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsgarde](#kyrsgarde)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsgarde](#kyrsgarde)
 
 ### Kyrsgarde
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan) dwell in small villages sheltered from the gale.
 
-Dialogue: | Books: | Glossary Entries:
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>) | Books: | Glossary Entries:
 
 ### Lightborn
 
@@ -186,6 +187,10 @@ Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Boo
 -   The last [Lightborn](#lightborn) king of Constellia before its fall.
 
 Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
+
+### Zhatarn, the Moonlight Prince
+
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries:
 
 ## Magic
 

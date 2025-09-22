@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 152832
+revid: 162831
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -20,21 +20,52 @@ Their appearance consists of a Authority Captain Uniform, a Black Shrouded Cape 
 
 Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [Flamecharm](Flamecharm.md) attunement:
 
-| Name | Desciption | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | ([Cavalry Saber](Cavalry_Saber.md)/[Adretian Axe](Adretian_Axe.md))Firmly swings blade at opponent before finishing up the combo by kicking them.
-([Mace](Mace.md))Firmly swings weapon at opponent and finishing the combo by kicking them.
+| Name/Danger | Desciption |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
- | ◯ | ◯ | (★☆☆) |
-| Critical | ([Cavalry Saber](Cavalry_Saber.md)): Performs four quick slashes with their blade.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | ([Cavalry Saber](Cavalry_Saber.md)): Performs four quick slashes with their blade.
 
 ([Adretian Axe](Adretian_Axe.md)): Does a windup by rising the weapon before slamming its blade on you.  
 ([Mace](Mace.md)): Raises club upward before slamming it down to the ground.
 
- | ◯ | ◯ | (★★☆) |
-| Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
-| Flame Grab | User lunges forward for a grab that slams and burns incoming opponents into the ground. | ◯ | ◯ | (★★☆) |
-| Ash Slam | User imbues their fist with flames that explode on impact with the ground. | ◯ | ◯ | (★★★) |
+-   Adretian Axe and Mace criticals are not blockable.
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | User slams down with their blade coated in flames.
+
+ |
+| 
+
+**Flame Grab**  
+(★★☆)
+
+ | User lunges forward for a grab that slams and burns incoming opponents into the ground.
+
+ |
+| 
+
+**Ash Slam**  
+(★★★)
+
+ | User imbues their fist with flames that explode on impact with the ground.
+
+ |
 
 ### Talents
 
