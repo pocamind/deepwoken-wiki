@@ -1,9 +1,11 @@
 ---
 title: Mantra Lectern
-revid: 147168
+revid: 162983
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Mantras]
+categories: [In progress without reason, InProgressPages, Mechanics, Mantras]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Mantra Lectern
@@ -14,28 +16,22 @@ categories: [Mechanics, Mantras]
 
 ## Description
 
-Mantra Tables are a utility item that are used to improve your existing [Mantras](Mantras.md). They are typically found in larger settlements like the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md). There is also one at [Castle Light](Castle_Light.md), for use in the [First Layer](First_Layer.md).
+Mantra Tables are a utility item that are used to improve your existing [Mantras](Mantras.md) using [Mantra Modifiers](Mantra_Modifiers.md). They are typically found in larger settlements like the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md). There is also one at [Castle Light](Castle_Light.md), for use in the [First Layer](First_Layer.md).
 
-Mantra Tables resemble typical tables with segments of what looks like sand inside. The five blue discs will start to illuminate with the value of your used Mantra Modifiers.
+Mantra Tables resemble typical tables with segments of what looks like sand inside.
 
 ## Usage
 
 Mantra Tables can be used to modify most [Mantras](Mantras.md) in _Deepwoken_.
 
-To use the Mantra Table, you must first recall a Mantra while resting. Next you must add the Mantra to the table along with modifiers. To see all combinations of effects you can improve your Mantra with, see [Mantra Modifiers](Mantra_Modifiers.md).
+To use the Mantra Table, press E to open up the list of Mantras the player has. This includes stored Mantras.
 
-The amount of Mantra Modifiers will increase the value of your Mantra. The blue discs indicate how much value your Mantra has and will demand you to pay [Notes](Notes.md) for you to finish. If a Mantra is placed on the table with disc(s) already, there will be no cost and you will only have to pay for added value. On a fresh Mantra:
+Upon modifying the desired Mantra, the player can choose the available modifiers of their preference from the list to their left. The player can remove mantras by selecting the modifiers that are already on the table.
 
--   One disc can request a offering based on the weight of your Modifiers.
--   Two or more discs will (most likely) require a offering, and can easily get expensive. This too scales on the weight of your Modifiers.
-    -   It seems it can range from as low as 100 to maybe 3,000 Notes.
--   If you didn't have enough notes to pay for the offering, the mantra table will retract your mantra to your hotbar, and nullify your modifiers, then stating "Needs Offering."
+-   Above the table totals the amount of modifications done to the Mantra, such as Size, Intensity, Range, Ether Cost, and Spark used.
+    -   Upon composing the ingredients together, the Mantra's modified stats will be placed on top of its base stats.
 
-When going a certain distance away from the mantra table, your mantra will be retracted taken aback to your hotbar. A message will appear in front of your screen saying "Craft Failed". The modifiers placed on there will be given back so you are free to re-try and experiment.
-
-If applying sparks to your mantra, and it's incompatible with the mantra, a message will appear in front of your screen saying "Ingredients Incompatible". Looking at [Mantra Modifiers](Mantra_Modifiers.md) can help see if your mantra has the compatible spark or not.
-
-You can also rename Mantras by typing out your desired name into the chat box and pressing enter. Inappropriate names will be replaced with the original mantra's name. The edited name will also be used for the Spell Shout Talent which you get from [Valikor](Valikor.md) in [Isle of Vigils](Isle_of_Vigils.md).
+Mantras can be renamed by clicking on their original name on the interface above. Inappropriate names will be replaced with the original mantra's name. The edited name will also be used for the Spell Shout Talent which you get from [Valikor](Valikor.md) in [Isle of Vigils](Isle_of_Vigils.md).
 
   
 
@@ -43,3 +39,7 @@ You can also rename Mantras by typing out your desired name into the chat box an
 
 -   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13, 2022.
     -   [Knowledge](Knowledge.md) is now a currency added in the Verse 2 update.
+-   In previous versions, Mantra Modification would require holding out Mantra Modifiers and placing them on the table.
+    -   Basic modifiers would be placed on the large disc, whereas Sparks would be on the column of two black discs adjacent to it.
+    -   Adding modifiers to a certain amount would increase its value and require an offering, prompting the player to give up Notes. The amount of Notes needed to give up scaled with how many modifiers were being used.
+        -   The Mantra's value would be recorded on the top row of blue discs.

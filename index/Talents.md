@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162948
+revid: 162987
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1492,7 +1492,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Bulletproof \[Common Talent\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on your natural armor.
     -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
-    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](Summer_Isle.md#trig-quest). (helping Asius)
+    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
 
 -   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
@@ -1523,11 +1523,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Adds 1.2 Intelligence scaling to your Pistols. This will be disabled if you have less than 60 Intelligence.
         -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
-    -   Exclusive to Dual Guns.
 
 -   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
-    -   Prerequisites: 55 Light Weapon, Using a Gun
+    -   Prerequisites: 55 Light Weapon, Using a Pistol
 
 ### Hammer Rage
 
@@ -4063,7 +4062,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   No Interruptions: [Champion's Cape](<Champion's_Cape.md>) - When combat tagged by 2 or more players, render any ranged attack a lot less effective.
     -   Heavily increases the range falloff of attacks, reducing their damage to 0 if far enough away.
     -   Removes hitstun from attacks used from too far away.
--   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left), [Table Flip](Attunement-less.md#table-flip), and [Skyshatter Kick](Attunement-less.md#skyshatter-kick) now all guard break at level 5.
+-   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left) now guard breaks at level 5.
     -   1 minute cooldown.
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) - Wielding a katana with this outfit grants extra damage.
     -   Increases _[Katana](Katana.md)_ damage by 25%.

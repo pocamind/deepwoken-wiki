@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 156847
+revid: 162991
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
 | selling price | N/A |
 | requirements | PWR 20 |
 | weight | 2 |
-| innate stats | +3 Posture, +2 Rare Pips |
+| innate stats | +3 Posture, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Ether Pinpoint |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
@@ -32,7 +32,7 @@ Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
 
 ## Description
 
-The Ascended Outlaw Robes is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Robes are green and yellow wristbands that originated from the Western Luminant. When worn, this grants +3 Posture, +2 Rare Pips, and the [Ether Pinpoint](Talents.md#equipment-talents) Talent.
+The Ascended Outlaw Robes is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Robes are green and yellow wristbands that originated from the Western Luminant. When worn, this grants +3 Posture, +1 Rare Pip, +1 Legendary Pip, and the [Ether Pinpoint](Talents.md#equipment-talents) Talent.
 
 The _Ether Pinpoint_ Talent allows your Mantras with the [Might Gem](Might_Gem.md) equipped to fully ignore shield posture bonuses. This is very similar to the [Shield Breaker](Talents.md#rampaging-bull) Talent, granted this is not exclusive to Blunt Mantras.
 

@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 162635
+revid: 162972
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Attunement, Mantras, Items]
+categories: [Mechanics, Mantras, Items]
 ---
 
 # Mantra Modifiers
@@ -21,7 +21,7 @@ categories: [Attunement, Mantras, Items]
 _**FOREWORD**: **An up-to-date spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1IE3KIyizxEgHfTsasO0hCGvch6yNofdgNlRR__jA7jo/edit?usp=sharing)**_  
 _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0), just incase._
 
-**Mantra Modifiers** are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
+**Mantra Modifiers**, also known as **Mantra Ingredients** or **Mantra Materials**, are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
 There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 

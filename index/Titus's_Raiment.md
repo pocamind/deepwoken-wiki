@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 162604
+revid: 162985
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -18,7 +18,7 @@ categories: [Items, Outfits, Master Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3000 |
-| resistances | +10% Lightning Armor, +10% Wind Armor, +25% Physical Armor, +35% Elemental Armor |
+| resistances | +10% Lightning Armor, +10% Wind Armor, +30% Physical Armor, +35% Elemental Armor |
 | buffs | +30% Ether Regen |
 | talents | Overwhelming Might |
 | obtainment | Titus Fulminus Destellus |
@@ -37,11 +37,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3,000 durability, grants +25% Physical Armor, +35% Elemental Armor, +10% Lightning Armor, +10% Wind Armor, and +30% Ether Regeneration. Additionally, it provides the [Overwhelming Might](Talents.md#equipment-talents) Talent.
+This Outfit has 3,000 durability, grants +30% Physical Armor, +35% Elemental Armor, +10% Lightning Armor, +10% Wind Armor, and +30% Ether Regeneration. Additionally, it provides the [Overwhelming Might](Talents.md#equipment-talents) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 41.5% Thundercall, 41.5% Galebreathe, and 35% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 41.5% Thundercall, 41.5% Galebreathe, and 35% Elemental.
 
-The [Overwhelming Might](Talents.md#equipment-talents) Talent makes [Strong Left](Attunement-less.md#strong-left), [Table Flip](Attunement-less.md#table-flip), and [Skyshatter Kick](Attunement-less.md#skyshatter-kick) all guardbreak at Level 5. Overwhelming Might has an combined 60 second cooldown for each of the aforementioned Mantras.
+The [Overwhelming Might](Talents.md#equipment-talents) Talent makes [Strong Left](Attunement-less.md#strong-left) guardbreak at Level 5. Overwhelming Might has a 60 second cooldown.
 
 ## Trivia
 

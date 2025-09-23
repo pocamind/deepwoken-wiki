@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 162758
+revid: 162998
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -207,7 +207,7 @@ Normal & Big |
 | File:WesternOutlawHat.png | [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 (**Set**) | _+2 Posture_
 
-+1 Uncommon Pip  
++1 Legendary Pip  
 _+Talent: Mass Effect_  
 _+Set Talent: Offensive Recovery_  
 **Requires Power 20**
@@ -672,7 +672,7 @@ Black & Double |
  | _+4 Health_  
 _+1 Posture_
 
-+1 Uncommon Pip  
++1 Legendary Pip  
 **Requires: Power 10, Strength 25**
 
  | 
@@ -1086,7 +1086,7 @@ Found from:
 (**Set**) | _+4 Health_  
 _+1 Posture_
 
-+1 Uncommon Pip  
++1 Legendary Pip  
 _+Talent: Fatal Strike_  
 _+Set Talent: Lasting Trauma_  
 **Requires Power 20, Strength 25**
@@ -1131,7 +1131,7 @@ Found from:
 | File:ShockTrooperHelmet.png | [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 (**Set**) | _+8 Health_
 
-+1 Uncommon Pip  
++1 Rare Pip  
 **Requires Power 10, Fortitude 20**
 
  | 
@@ -1209,7 +1209,7 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 | File:ShockTrooperHelmet.png | [Specialist Helmet](Specialist_Helmet.md)  
 (**Set**) | _+8 Health_
 
-+1 Uncommon Pip  
++1 Rare Pip  
 _+Talent: Volt Draft_  
 _+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
@@ -1345,7 +1345,7 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 | File:WesternOutlawHat.png | [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 (**Set**) | _+2 Posture_
 
-+1 Uncommon Pip  
++1 Legendary Pip  
 **Requires Power 10**
 
  | 
@@ -1534,7 +1534,8 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  | _+3 Posture_
 
-+2 Rare Pips  
++1 Rare Pip  
++1 Legendary Pip  
 _+Talent: Ether Pinpoint_  
 _+Set Talent: Offensive Recovery_  
 **Requires Power 20**
@@ -2028,7 +2029,8 @@ Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
 (**Animated**) | _+6 Health_  
 _+2 Posture_
 
-+2 Rare Pips  
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 10, Strength 25**
 
  | 
@@ -2680,7 +2682,8 @@ Legs: [Redsteel Boots](Redsteel_Boots.md) |
 (**Animated**) | _+6 Health_  
 _+2 Posture_
 
-+2 Rare Pips  
++1 Rare Pip  
++1 Legendary Pip  
 _+Talent Crippling Impact_  
 _+Set Talent: Lasting Trauma_  
 **Requires Power 20, Strength 25**
@@ -3029,7 +3032,8 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 | File:WesternOutlawRobes.png | [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 (**Set**) | _+3 Posture_
 
-+2 Rare Pips  
++1 Rare Pip  
++1 Legendary Pip  
 **Requires Power 10**
 
  | 

@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 160983
+revid: 162993
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | selling price | 25 |
 | requirements | PWR 20, 25 STR |
 | weight | 1 |
-| innate stats | +4 Health, +1 Posture, +1 Uncommon Pip |
+| innate stats | +4 Health, +1 Posture, +1 Legendary Pip |
 | innate talent | Fatal Strike |
 | set | Reinforced War Helmet, Reinforced War Plate, Reinforced War Boots |
 | set talent | Lasting Trauma |
@@ -30,7 +30,7 @@ Reinforced War Set
 
 ## Description
 
-The Reinforced War Helmet is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow Galea helmet, similar to Roman headgear. When worn, this grants +4 Health, +1 Posture, +1 Uncommon Pip, and the [Fatal Strike](Talents.md#equipment-talents) Talent.
+The Reinforced War Helmet is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow Galea helmet, similar to Roman headgear. When worn, this grants +4 Health, +1 Posture, +1 Legendary Pip, and the [Fatal Strike](Talents.md#equipment-talents) Talent.
 
 _Fatal Strike_ empowers your [Strength Mantra](Attunement-less.md) guardbreaks, dealing extra damage and applying a slowing affect. This can only proc if the Mantra has a [Wrath Gem](Wrath_Gem.md) equipped. The talent has a 10 second cooldown.
 
