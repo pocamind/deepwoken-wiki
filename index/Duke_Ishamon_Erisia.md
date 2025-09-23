@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 162634
+revid: 163019
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -58,7 +58,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Shields of Erisia**  
 (★★☆)
 
- | Duke Ishamon Erisia shields himself in a glowing wind shield. Any Attacksagainst the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
+ | Duke Ishamon Erisia shields himself in a glowing wind shield. Any Attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.

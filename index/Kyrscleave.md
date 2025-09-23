@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 162436
+revid: 163021
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
@@ -38,7 +38,7 @@ The Kyrscleave is an Endgame [Heavy Weapon](Weapons.md) obtained from the [Layer
 
 ## Critical
 
-After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground, applying Knockdown. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgeable.
+When used in DEPTHS Kyrscleave gains AMong us Buff giving it aura After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground, applying Knockdown. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgeable.
 
 This critical is shared with the [Crescent Cleaver](Crescent_Cleaver.md) and [The Long Tong of The Law](The_Long_Tong_of_The_Law.md).
 

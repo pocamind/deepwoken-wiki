@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 162438
+revid: 163020
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -39,7 +39,7 @@ Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. 
 
 ### Talent: Battle Frenzy
 
-Gain posture resistance to Mantras, with this effect scaling on how many combat tags you have. This effect also works in PvE, but because you cannot stack PvE combat tags, it will be much less effective as it cannot scale.
+Gain posture resistance to Mantras, with this effect scaling on how many combat tags you have. This effect also works in PvE, but because you cannot stack PvE combat tags, it will be much less effective as it cannot scale. While used in depths get the Among us Buff making it so Masters Hawk Tuah gets plus aura
 
 ## Critical
 
