@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 159221
+revid: 163008
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -30,6 +30,7 @@ This shrine has 2 effects depending on your Power:
 
 -   Power 1-16: For 5, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws. However, you gain a Flaw and must catch up on the 45 Investment points of these 3 Power Ups. This can only be done once per character.
 -   Power 17-20: For 5, reroll a [Flaw](../Boons_and_Flaws.md#flaw) of your choice into a random base Flaw.
+    -   This deal can also be done at any Power if you've already used the previous deal to force 3 Power ups.
 
 ### Details
 
@@ -37,9 +38,7 @@ This shrine has 2 effects depending on your Power:
 -   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld, especially if you don't use free points from the [Adret](../Adret.md) Aspect or the Autodidact Boon.
 -   With the 3 Power Ups granted, you immediately gain 3.
 -   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage.
--   Shrine of Blasphemy cannot grant the Simple or Vegetarian Flaws.
--   Shrine of Blasphemy cannot grant any unlockable Flaw (Blind and Fugitive).
--   Shrine of Blasphemy cannot grant nor be used to clear special Flaws like Tarnished or Disgraced.
+-   Shrine of Blasphemy cannot grant the [Simple](../Boons_and_Flaws.md#simple) or [Vegetarian](../Boons_and_Flaws.md#vegetarian) Flaws, any unlockable Flaw ([Blind](../Boons_and_Flaws.md#flaws) or [Fugitive](../Boons_and_Flaws.md#flaws)), and cannot grant nor remove any special Flaws (like [Tarnished](../Boons_and_Flaws.md#flaws) or [Disgraced](../Boons_and_Flaws.md#flaws)).
 
 ## Navigation
 

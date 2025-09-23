@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 162759
+revid: 163014
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -385,36 +385,44 @@ Most monster attacks with this indicator are parryable with [Force Your Way](Ign
  |
 | All attacks that have this attribute:
 
--   [Alpha Megalodaunt](Alpha_Megalodaunt.md): Tacet Hug
--   [Bonekeeper](Bone_Keeper.md): Crushing Grab
--   Corrupted [Chorus Divide](Chorus_Divide.md)
--   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
+**Player Attacks**
+
 -   [Deepspindle](Deepspindle.md) standing critical multihits
--   [Deep Owl](Deep_Owl.md): Overhead Grab
--   [Deep Widow](Deep_Widow.md): Venomous Bite
 -   Default Greatcannon critical (Shockwave)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
+-   Corrupted [Chorus Divide](Chorus_Divide.md)
 -   [Emotion Wave](Thundercall.md#emotion-wave) (First hit and outward lightning)
 -   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
+-   [Kyrsieger](Kyrsieger.md) critical
+-   [Kyrswynter](Kyrswynter.md) running critical
+-   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
+-   [Relic Axe](Relic_Axe.md) critical
+-   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
+-   [Soul Beam](Oath%253A_Oathless.md#soul-beam)
+-   [Throw](Attunement-less.md#throw)
+
+**Monster Attacks**
+
+-   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug
+-   [Bonekeeper](Bone_Keeper.md): Crushing Grab
+-   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
+-   [Deep Owl](Deep_Owl.md): Overhead Grab
+-   [Deep Widow](Deep_Widow.md): Venomous Bite
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
 -   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
--   [Kyrsieger](Kyrsieger.md) critical
--   [Kyrswynter](Kyrswynter.md) running critical
 -   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
--   [Mudskipper Broodlord](Mudskipper_Broodlord.md): Broodrot Thrust
--   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
+-   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
--   [Relic Axe](Relic_Axe.md) critical (Pillars)
 -   [Rock Golem](Rock_Golem.md): Uppercut
--   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
--   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
--   [Soul Beam](Oath%253A_Oathless.md#soul-beam)
 -   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 -   [Thresher](Thresher.md) (all variants): Burrow
--   [Throw](Attunement-less.md#throw)
+
+**Boss Attacks**
+
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
 
  |
 | 
@@ -428,21 +436,29 @@ Red
  |
 | All attacks that have this attribute:
 
+**Player Attacks**
+
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
 -   [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn)
--   [Deep Widow](Deep_Widow.md): Deep Webbing
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Critical
--   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
+-   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
+-   [Stoneheart](Stoneheart.md) Critical
+-   [Soulwrought Longsword](Crazy_Slots.md#weapons) Special ability
+
+**Monster Attacks**
+
+-   [Deep Widow](Deep_Widow.md): Deep Webbing
+-   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
--   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
--   [Stoneheart](Stoneheart.md) Critical
+
+**Boss Attacks**
+
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
--   [Soulwrought Longsword](Crazy_Slots.md) Special ability
 
  |
 | 
@@ -457,13 +473,21 @@ The color of this indicator changes depending on the attack used.
  |
 | All attacks that have this attribute:
 
+**Player Attacks**
+
 -   Default [Greatsword](Greatswords.md) and Club criticals (White)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
 -   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
 -   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
 -   [Kanabo](Kanabo.md) running critical (White)
 -   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
+
+**Monster Attacks**
+
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
+
+**Boss Attacks**
+
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
 
  |
 | 
@@ -477,10 +501,18 @@ Some monster attacks with this indicator are parryable with [Force Your Way](Ign
  |
 | All attacks that have this attribute:
 
+**Player Attacks**
+
+-   [Gravity Field](Gravity_Field.md)
+
+**Monster Attacks**
+
 -   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
 -   [Bounder](Bounder.md): Leap
--   [Gravity Field](Gravity_Field.md)
 -   [King Thresher](King_Thresher.md): Body Slam
+
+**Boss Attacks**
+
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |
@@ -495,8 +527,13 @@ Green
  |
 | All attacks that have this attribute:
 
--   [Carnival of Hearts](Carnival_of_Hearts.md): Beam Blitz Ice Beam
+**Boss Attacks**
+
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
+
+**Miscellaneous**
+
+-   [Carnival of Hearts](Carnival_of_Hearts.md): Beam Blitz Ice Beam
 
  |
 | 
@@ -510,11 +547,16 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
  |
 | All attacks that have this attribute:
 
+**Player Attacks**
+
+-   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
+-   [Kanabo](Kanabo.md) critical (is parryable and dodgable despite having this indicator)
+
+**Boss Attacks**
+
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
--   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
--   [Kanabo](Kanabo.md) critical (is parryable and dodgable despite having this indicator)
 
  |
 | 
@@ -528,7 +570,12 @@ Cyan
  |
 | All attacks that have this attribute:
 
+**Player Attacks**
+
 -   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
+
+**Boss Attacks**
+
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
  |

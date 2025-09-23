@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 162249
+revid: 163013
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -48,11 +48,119 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
     1.  You can use [Shrine of Blasphemy](Shrine_of_Blasphemy.md) at Powers 5-7 to level up three times and Shrine of Order with the stats of a Power 5-7.
     2.  At Power 7, you can invest 3 points to reach Power 8 then use [Shrine of Mastery](Shrine_of_Mastery.md) to remove the points, allowing you to Shrine of Order with slightly below the stats of a normal Power 8. Admittedly this has very niche use cases.
 
+## Dialogue
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td colspan="2">I wish to engage in a deal.</td>
+</tr>
+<tr>
+  <td colspan="2">THE TERMS ARE AS FOLLOWS: I WILL CONSUME YOUR KNOWLEDGE. YOU WILL REAP A BENEFIT.</td>
+</tr>
+<tr>
+  <td colspan="2">I agree.</td>
+</tr>
+<tr>
+  <td colspan="2">YOU ARE IMBALANCED. LIKE A CORPSE LISTING TO ITS SIDE. YOUR FRAGMENTS WILL BE LINED IN A ROW. LIKE TIN SOLDIERS; ALL THE SAME.</td>
+</tr>
+<tr>
+  <td colspan="2">Very well.</td>
+</tr>
+<tr>
+  <td colspan="2">[Shrine of Order UI pops up, showing your stats before and after using the Shrine]</td>
+</tr>
+<tr>
+  <td>[Player accepts the changes]</td>
+  <td>[Player declines the changes]</td>
+</tr>
+<tr>
+  <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL. GO NOW.</td>
+  <td>End.</td>
+</tr>
+<tr>
+  <td>End.</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL.</td>
+</tr>
+<tr>
+  <td>End.</td>
+</tr>
+</tbody>
+</table>
+
+**Requirements Not Met:**
+
+**Not Enough Knowledge:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
+</tr>
+<tr>
+  <td>End.</td>
+</tr>
+</tbody>
+</table>
+
+**Have an Oath:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>YOUR HEART IS ALREADY PLEDGED TO ANOTHER.</td>
+</tr>
+<tr>
+  <td>End.</td>
+</tr>
+</tbody>
+</table>
+
+**Below Power 8:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>THE SCALES HAVE NOT YET TIPPED.</td>
+</tr>
+<tr>
+  <td>End.</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   The Shrine of Order used to grant a random base [Flaw](../Boons_and_Flaws.md), however this feature was removed on the September 5th, 2025 Update.
-
--   The Shrine of Order's model was reworked on the update of **September 15th, 2025** due to performance issues.
 
 Old Shrine of Order's model
 
