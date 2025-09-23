@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 160378
+revid: 162960
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Items]
@@ -28,11 +28,11 @@ categories: [Necklaces, Torso, Equipment, Relics, Items]
 
 The Whistling Periapt, or commonly referred to as Duke Relic, is a [Relic](Relics.md) Torso [Equipment](Equipment.md).
 
-It comes with the [Whistleguard](Talents.md#equipment-talents) Talent. Upon inflicting continuous damage onto an enemy without getting parried or dodged, a whirling ball of wind coats your character. When hit, the shield parries any attack for free and dissolves into the air after. Shields cannot stack and disappear upon using any mantra, critical attack or feinting. Whistleguard has a 10s cd.
+It comes with the [Whistleguard](Talents.md#equipment-talents) Talent. Upon inflicting continuous damage onto an enemy without getting parried or dodged, a whirling ball of wind coats your character. When hit, the shield parries any attack for free and dissolves into the air after. The "parry" itself does not grant you autoparry frames like a usual parry would, which is most clear when fighting enemies like the Bonekeeper or other players (may be a bug.) Shields cannot stack and disappear upon using any mantra, critical attack or feinting. Whistleguard has a 10s cd.
 
 Burn damage in PvE combat can also trigger Whistleguard.
 
-Estimated by rarity to have a ~0.1% drop chance from both [Duke](Duke_Ishamon_Erisia.md) and [Ethiron](Scion_of_Ethiron.md)
+Estimated by rarity to have a ~0.2% (1/500) drop chance from [Duke](Duke_Ishamon_Erisia.md), unknown but similarly low for [Ethiron](Scion_of_Ethiron.md). (Anecdotally the latter has higher rates, though for farming it is recommended you just do whichever you prefer doing over and over, taking the benefit of excess loot in consideration. It is also recommended for either that you optimize your build to not lose your irl sanity.)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 157056
+revid: 162928
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -55,6 +55,7 @@ All criticals have a cooldown of **5 seconds**.
 ## Trivia
 
 -   Soulthorn is the first Unique rarity weapon.
+-   The original wielder of this weapon is Zhatarn, The Moonlight Prince. A celestial that lost their sanity and was subsequently exiled from the Heavens.
 -   Sitting at the middle of the crossguard is a spherical object similar to the [pieces of The Forge](Artifacts.md) or [the artifacts](Relics.md) used by [The Hive](The_Hive.md).
 -   Strangely, the held item form of the Soulthorn (not the equipped weapon) has collision, preventing the player from easily entering doorways while held.
 -   It appears to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.

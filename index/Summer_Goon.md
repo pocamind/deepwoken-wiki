@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 153062
+revid: 162936
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -25,12 +25,39 @@ The Summer Goons in the reactor room are required to kill to complete [Orion](Or
 
 A Summer Goon's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Pulls the trigger and fires short-ranged bullets at opponent. | ◯ | ◯ | (★☆☆) |
-| Critical | Fires a long-ranged bullet at opponent. | ◯ | ◯ | (★★☆) |
-| Taunt | User unleashes an ether infused wave that causes those on the receiving end to take 20% more damage, deal 10% more damage and are unable to jump. | ✗ | ◯ | (★★☆) |
-| Exhaustion Strike | A melee strike that transfers the casters posture damage on hit. | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Fires short-ranged bullets at opponent 3 times before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Fires a long-ranged bullet at opponent.
+
+ |
+| 
+
+**Taunt**  
+(★☆☆)
+
+ | User unleashes an ether infused wave that causes those on the receiving end to take 20% more damage, deal 10% more damage and are unable to jump.
+
+ |
+| 
+
+**Exhaustion Strike**  
+(★☆☆)
+
+ | A melee strike that transfers the casters posture damage on hit.
+
+ |
 
 ### Talents
 

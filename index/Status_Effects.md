@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 162917
+revid: 162941
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -308,7 +308,7 @@ Grants a +20% damage and +50% posture damage modifier to any player attacking yo
 
 ### Parasol's Blight
 
-Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md). This effect has no visual indicator.
+Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md); these monsters can be [Corrupted](Monsters.md#scyphozia) if used in [The Depths](The_Depths.md). This effect has no visual indicator.
 
 ## Mantra Applied
 
@@ -325,6 +325,14 @@ Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have yo
 ### Engulfed by Shadows
 
 Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
+
+### Blight
+
+You and the caster are unable to cast Mantras for a duration. Applied through the [Shadow Chains](Shadowcast.md#shadow-chains) Mantra with the [Blighted Song](Talents.md#darksiphon) Talent. This status effect doesn't have a special visual indicator outside of the Shadow Chains Mantra.
+
+### Shadowed Touch
+
+Grasp your opponent with your shadows, increasing the Ether cost of all of their Mantras. Additionally, a portion of their Ether spent on Mantras will be returned to you. If your Ether is full, this will overflow into your Tempo instead. Applied through the [Rising Shadow](Shadowcast.md#rising-shadow) Mantra with the [Blast Spark](Mantra_Modifiers.md#sparks) modifier, this effect is signified by the shadow tendril connecting yourself to your opponent.
 
 ### Adrenaline Surge
 
@@ -345,14 +353,6 @@ All posture damage given to you will instead be sent to the person who used [Ral
 ### Angry/Enraged
 
 Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#empath) Talent. Opponents who attack you receive a +20% damage modifier on their attacks, but in your rage you deal 10% more damage to the player who Taunted you. Also disables the ability to jump for the duration. Signified by red particles.
-
-### Blight
-
-You and the caster are unable to cast Mantras for a duration. Applied through the [Shadow Chains](Shadowcast.md#shadow-chains) Mantra with the [Blighted Song](Talents.md#darksiphon) Talent. This status effect doesn't have a special visual indicator outside of the Shadow Chains Mantra.
-
-### Shadowed Touch
-
-Grasp your opponent with your shadows, increasing the Ether cost of all of their Mantras. Additionally, a portion of their Ether spent on Mantras will be returned to you. If your Ether is full, this will overflow into your Tempo instead. Applied through the [Rising Shadow](Shadowcast.md#rising-shadow) Mantra with the [Blast Spark](Mantra_Modifiers.md#sparks) modifier, this effect is signified by the shadow tendril connecting yourself to your opponent.
 
 ### Laced Traps
 

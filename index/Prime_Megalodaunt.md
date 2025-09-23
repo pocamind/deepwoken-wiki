@@ -1,9 +1,9 @@
 ---
 title: Prime Megalodaunt
-revid: 162493
+revid: 162930
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Pages using duplicate arguments in template calls, Monsters]
 ---
 
 # Prime Megalodaunt
@@ -38,7 +38,7 @@ Media
 **Slash**  
 (★☆☆)
 
- | A short range **Slash** using their forearms. It can slash once, twice, four times and also mix in a kick.
+ | A short rangeSlash using their forearms. It can slash once, twice, four times and also mix in a kick.
 
 -   Heavy posture damage.
 -   The only variant that can slash **four times** in quick succession.
@@ -52,7 +52,7 @@ Media
 **Kick**  
 (★★★)
 
- | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+ | The Megalodaunt's leg will flash red before delivering a Kick that can rag-doll and send the player flying.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
@@ -101,8 +101,9 @@ Media
 **Roar**  
 (★☆☆)
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
+ | Lets out a Roar at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md).
 
+-   After this, it usually tends to use Thousand Needles or Kick in quick succession.
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
@@ -128,7 +129,7 @@ Media
 **Jump**  
 (☆☆☆)
 
- | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+ | If the target is above it, the Prime Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
 
  | 
 

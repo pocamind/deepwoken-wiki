@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 154619
+revid: 162939
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the Oath [Chainwarden](Oath%253A_Chainwarden.md), implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess abnormally high Health and do a decent amount of damage.
+The Fisherman is a powerful enemy found in [The Depths](The_Depths.md). It can spawn randomly as an event, or more likely as a quest for [The Divers](The_Divers.md) (found on the Quest Board in [Castle Light](Castle_Light.md) or in/around [The City of the Drowned](The_City_of_the_Drowned.md)). They use the [Thundercall](Thundercall.md) attunement and the [Chainwarden](Oath%253A_Chainwarden.md) Oath, implying that they have ties to [The Central Authority](The_Central_Authority.md). They possess abnormally high Health and do a decent amount of damage.
 
 It MAY scale off the level of person that took the quest. This is currently unknown.
 
@@ -20,19 +20,83 @@ The Fisherman wears a [Grand Fisher Helm](Grand_Fisher_Helm.md) and [Grand Fishe
 
 ## Moveset
 
-The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thundercall](Thundercall.md) and [Chainwarden](Oath%253A_Chainwarden.md) mantras:
+The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thundercall](Thundercall.md) and [Chainwarden](Oath%253A_Chainwarden.md) Mantras:
 
-| Name | Media | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| Basic Attack | N/A | The Fisherman hits the player with an ordinary attack. | ◯ | ◯ | ◯ | (☆☆☆) |
-| Critical | N/A | The Fisherman performs a wind-up before raising their axe and hitting. | ◯ | ✗ | ◯ | (★☆☆) |
-| Lightning Stream | N/A | The Fisherman casts a stream of lightning that pulls the opponent towards them. | ◯ | ◯ | ◯ | (☆☆☆) |
-| Lightning Strike | N/A | The Fisherman strikes their opponent from above with lightning. | ◯ | ◯ | ◯ | (★☆☆) |
-| Thunder Kick | N/A | The Fisherman raises their leg and kicks their opponent with thunder. | ◯ | ◯ | ◯ | (★☆☆) |
-| Storm Blades | N/A | The Fisherman conjures five blades of thunder in front of them. | ◯ | ◯ | ◯ | (★★☆) |
-| Restrain | N/A | The Fisherman delivers a powerful kick that chains the opponent to them. | ◯ | ✗ | ◯ | (★★☆) |
-| Rupture | N/A | If the opponent is chained (via Restraint, or if they flourish you), detonate the opponent, dealing a high amount of damage. | ✗ | ✗ | ◯ | (★★★) |
-| Emotion Wave | N/A | The Fisherman stomps the ground, causing five surging waves of lightning to travel along the ground. | ◯ | ◯ | ◯ | (★★★) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | The Fisherman charges at the opponent, attacking with a spinning horizontal slash.
+
+ |
+| 
+
+**Lightning Stream**  
+(★☆☆)
+
+ | The Fisherman casts a stream of lightning that pulls the opponent towards them.
+
+ |
+| 
+
+**Lightning Strike**  
+(★☆☆)
+
+ | The Fisherman strikes their opponent from above with lightning.
+
+ |
+| 
+
+**Thunder Kick**  
+(★★☆)
+
+ | The Fisherman raises their leg and kicks their opponent with thunder.
+
+ |
+| 
+
+**Storm Blades**  
+(★★☆)
+
+ | The Fisherman conjures five blades of thunder in front of them.
+
+ |
+| 
+
+**Restrain**  
+(★★☆)
+
+ | The Fisherman delivers a powerful kick that chains the opponent to them.
+
+-   Chains even if blocked.
+
+ |
+| 
+
+**Rupture**  
+(★★☆)
+
+ | If the opponent is chained (via Restraint, or if they flourish you), detonate the opponent, dealing a high amount of damage.
+
+ |
+| 
+
+**Emotion Wave**  
+(★★★)
+
+ | The Fisherman punches the ground, causing five surging waves of lightning to travel along the ground.
+
+ |
 
 ## Dialogues
 

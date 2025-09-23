@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 153061
+revid: 162935
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Summer Company, Summer Company Enemies]
@@ -19,46 +19,43 @@ Summer Dragoons are high ranking members of the [Summer Company](The_Summer_Comp
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Name</th>
+  <th>Name/Danger</th>
   <th>Description</th>
-  <th>Parryable?</th>
-  <th>Blockable?</th>
-  <th>Danger</th>
 </tr>
 <tr>
-  <td>Assault</td>
-  <td>Slams with the stock of its rifle and then shoots a bullet</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Assault</b><br>
+  (★☆☆)</center></td>
+  <td>Alternates attacks between firing the rifle and attacking with the stock before sending the opponent away with a flourish.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Critical</td>
-  <td>Fires a long ranged bullet</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Critical</b><br>
+  (★★☆)</center></td>
+  <td>Fires a long ranged bullet<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Taunt</td>
-  <td>Affected entities receive 20% more damage. Affected entities deal 10% more damage but disables their ability to jump.</td>
-  <td><font>✗</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td><center><b>Taunt</b><br>
+  (★☆☆)</center></td>
+  <td>Affected entities receive 20% more damage. Affected entities deal 10% more damage but disables their ability to jump.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Revenge</td>
-  <td>A quick dash signified by a red-line effect.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td><center><b>Revenge</b><br>
+  (★☆☆)</center></td>
+  <td>A quick dash signified by a red-line effect.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Strong left</td>
-  <td>User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Strong left</b><br>
+  (★★☆)</center></td>
+  <td>User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 </tbody>
 </table>

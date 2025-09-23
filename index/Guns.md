@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 161372
+revid: 162949
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -20,7 +20,35 @@ For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to 
 
 Guns have their own Talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related Talents like [Outlaw](Talents.md) for pistols.
 
-All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even if you dont have any. You won't be slowed down during the crit.
+All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even if you don't have any.
+
+### General Gun Talents
+
+-   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+    -   Due to this being combined multiplicatively rather than additively, this is worse than just +10% PEN, especially on [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Stormseye](Stormseye.md) due to their dual damage typings.
+    -   Armor Piercing has heavy diminishing returns based on how much PEN you have. While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have.
+        -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8), or 65% PEN + Armor Piercing is equivalent to having 68.5% PEN against blunt armor (+3.5).
+    -   Armor Piercing does not bypass the 50% PEN cap.
+    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
+    -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent
+
+-   _True Ether Bullets_ \[Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
+    -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT OR 20 MED OR 20 HVY), Using a Pistol/Rifle/Greatcannon
+        -   Landing 2 shots will make the 3rd shot deal elemental damage.
+            -   The 3rd shot apply your attunement's elemental effect:
+                -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
+                -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
+                -   Thundercall: Your bullets apply shock/surge stack (Surge)
+                -   Galebreathe: Your bullets after cut and apply winded briefly
+                -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
+                -   Ironsing: Your bullets apply metal rods
+                -   Bloodrend: Your bullets drain blood
+            -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
+        -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
+        -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
+
+  
 
 ## Pistol Moveset
 
@@ -36,13 +64,15 @@ Note that if your 1H gun is unloaded, pressing your crit button will just do a l
 
 ### Offhand Gun
 
-Using your gun as a side-weapon will **not** gain you the ammo counter, as it will no longer have the innate ability to fire bullets or reload. Pressing M2 will make you extend your arm and shoot, creating the usual blast you'd see in other guns with no bullet coming out. The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow it to fire a projectile bullet with a 5s CD as long as your main weapon is a medium or heavy weapon.
+Using your gun as a side-weapon will **not** gain you the ammo counter, as it will no longer have the innate ability to fire bullets or reload. Pressing M2 will make you extend your arm and shoot, creating the usual blast you'd see in other guns with no bullet coming out. The [Hip Shooter](Talents.md#gunslinger) Talent can allow it to fire a projectile bullet with a 5s CD as long as your main weapon is a medium or heavy weapon.
 
 This attack **cannot** be used in your M1 combo like mantras and acts as a standalone hit. The Talent [Quick Draw](Talents.md#gunslinger) from the [Gunslinger](Talents.md#gunslinger) Talent tree will make such possible, although **you need to wait for the full endlag of your M1 and then use M2** otherwise the attack wont happen, which may cost you a hit during an intense fight.
 
-The blast **will** inherit [Enchant](Enchantments.md) effects such as Storm or Obfuscation, however the damage of the gun will be 80% of the equipped pistol's scaled damage, with it's original posture damage (which is exactly **1** for all pistols except Roscoe) and all other effects like chip from the [Alloyed Dawnshot](Dawnshot.md) or [Rosen's Roscoe](<Rosen's_Roscoe.md>).
+The stats of an offhand pistol will change slightly depending on what your equipped main hand weapon is. If your main hand weapon is another pistol, the offhand pistol will completely inherit the damage and scaling stat of the main one. If your main weapon is not another pistol, it will have a 20% reduction to its damage along with inheriting the scaling stat of your main weapon. All other stats on the pistol will be retained.
 
-Furthermore, using a side gun with a non-light main weapon will increase the windup. Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
+For example, an Offhand [Silversix](Silversix.md) on [First Light](First_Light.md) with 80 heavy and 0 proficiency will deal 11.84 damage due to now having 8 base damage and 8 Heavy Weapon scaling.
+
+Offhand pistols completely inherit the [enchant](Enchantments.md) that your main weapon has.
 
 #### Reloading
 
@@ -50,13 +80,54 @@ The amount of bullets you can load into a gun depends on the gun you have equipp
 
 ### Talents
 
-Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw)
+Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw) and [Gunslinger](Talents.md#gunslinger).
 
-The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and its alloyed variant, [Rosen's Roscoe](<Rosen's_Roscoe.md>), [Iron Requiem](Iron_Requiem.md) and the [Soulwrought Gun](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
+#### Outlaw
 
-The [Hip Shooter](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent can allow your side gun to fire a projectile bullet as long as your main weapon is a medium or heavy weapon.
+-   Lock n Load \[Common Talent\] - \[1H Guns\] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
+    -   Prerequisites: 60 Light Weapon, using a Gun
 
-There is a gun Talent you can learn from a quest giver named Trig outside the inn on Summer Isle. The man you need to find is on the shore to the left of the inn. If you decide to collect the man's debt you can return to Trig and give him the papers which will give you a large amount of reputation with the [Summer Company](The_Summer_Company.md) and opens up the possibility of obtaining [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up (requires 30 MED or LHT). However, if you decide to try to help the man by leaving without collecting the debt and try to confront Trig you will only get bad reputation with the [Summer Company](The_Summer_Company.md) while two summer gunmen will appear to kill you, this option opens the possibility of obtaining [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) (requires 20 MED or LTH or Fortitude), in case you were confused you can apologize to Trig and talk to the man again to collect his debt.
+-   Rapid Fire \[Common Talent\] - \[1H Guns\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
+    -   Procs on dodge,block and getting hit.
+    -   Prerequisites: 50 Light Weapon, using a Gun
+
+-   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
+    -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
+    -   Prerequisites: 50 Light Weapon, using a Gun
+
+-   Sleight of Hands \[Common Talent\] - \[1H Guns\] When you flourish an opponent you instantly load a bullet.
+    -   Prerequisites: 50 Light Weapon, using a Gun
+
+-   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast.
+    -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Gun
+
+#### Gunslinger
+
+##### Offhand Gun
+
+-   _Hip Shooter_ \[Rare Talent\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
+    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Pistol in your offhand
+
+-   Quick Draw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
+    -   Prerequisites: 55 Light Weapon, Using a Pistol
+
+##### Dual Guns
+
+-   Parting Gift \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
+    -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
+    -   The projectile M1s from this Talent can proc True Ether Bullets.
+    -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
+
+-   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
+    -   True Ether Bullets now procs in 2 hits instead of 3.
+    -   Adds 1.2 Intelligence scaling to your Pistols. This will be disabled if you have less than 60 Intelligence.
+        -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
+    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
+
+  
+
+The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and its alloyed variant, [Rosen's Roscoe](<Rosen's_Roscoe.md>), [Iron Requiem](Iron_Requiem.md) and the [Soulwrought Gun](Crazy_Slots.md#weapons). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
 
 File:Flintlockbullets.png
 
@@ -74,9 +145,25 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
 
 ### Talents
 
-There are currently no Talents exclusive towards the rifle.
+Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
+
+-   _Leg Shot_ \[Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
+    -   Prerequisites: 80 Medium Weapon, Rifle Equipped
+
+-   Stock Bash \[Common Talent\] - \[Rifles\] Your running attacks now apply a brief amount of daze.
+    -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
+
+-   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
+    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds.
+    -   Note that you need physical bullets in your inventory for this Talent to work.
+    -   Has a 60 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
+    -   Prerequisites: 95 Medium Weapon, Rifle Equipped
+
+  
 
 The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), the [Stormseye](Stormseye.md) and the [Rosen's Hellflame](<Rosen's_Hellflame.md>).
+
+Additionally, the [Rifle Spear](Rifle_Spear.md) counts as a rifle for all rifle exclusive Talents and effects.
 
 ### Rifle Stats
 

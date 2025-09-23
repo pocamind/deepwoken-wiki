@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162910
+revid: 162948
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2334,21 +2334,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Outlaw
 
 -   Lock n Load \[Common Talent\] - \[1H Guns\] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
-    -   Prerequisites: 60 Light Weapon, using a Gun
+    -   Prerequisites: 60 Light Weapon, using a Pistol
 
 -   Rapid Fire \[Common Talent\] - \[1H Guns\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
     -   Procs on dodge,block and getting hit.
-    -   Prerequisites: 50 Light Weapon, using a Gun
+    -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
     -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
-    -   Prerequisites: 50 Light Weapon, using a Gun
+    -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Sleight of Hands \[Common Talent\] - \[1H Guns\] When you flourish an opponent you instantly load a bullet.
-    -   Prerequisites: 50 Light Weapon, using a Gun
+    -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast.
-    -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Gun
+    -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Pistol
 
 ### Politician
 

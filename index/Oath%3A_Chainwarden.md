@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 161992
+revid: 162958
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths, The Central Authority]
@@ -48,9 +48,9 @@ Known humanoid bosses are:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Ferryman](The_Ferryman.md) (Auto-executes when defeated)
+-   [The Ferryman](The_Ferryman.md)
 
-> (Note: If Enchained duration runs out or snaps before the target is executed, it will not count for progression, the target must be Enchained while executed)
+> (Note: If Enchained duration runs out or snaps before the target is executed, it will not count for progression, this means the target must be Enchained while beaten, which is most tricky on Maestro Evengarde Rest and The Ferryman)
 
 ## Effects
 

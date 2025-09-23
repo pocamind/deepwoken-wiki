@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 153063
+revid: 162937
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -22,12 +22,39 @@ A Summer Manager only wears a [Summer Company Uniform](Summer_Company_Uniform.md
 
 A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Pulls the trigger and fires short-ranged bullets at opponent. | ◯ | ◯ | (★☆☆) |
-| Critical | Fires a long-ranged bullet at opponent. | ◯ | ◯ | (★★☆) |
-| Taunt | Taunts those around the caster, causing opponents to be unable to jump and to take more damage. However, in their rage they deal extra damage. | ✗ | ◯ | (★★☆) |
-| Exhaustion Strike | A melee strike that transfers the casters posture damage on hit. | ◯ | ◯ | (★☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Fires short-ranged bullets at opponent 3 times before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Fires a long-ranged bullet at opponent.
+
+ |
+| 
+
+**Taunt**  
+(★★☆)
+
+ | Taunts those around the caster, causing opponents to be unable to jump and to take 20% more damage. However, in their rage they deal 10% extra damage.
+
+ |
+| 
+
+**Exhaustion Strike**  
+(★☆☆)
+
+ | A melee strike that transfers the casters posture damage on hit.
+
+ |
 
 ### Talents
 

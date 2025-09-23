@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 162617
+revid: 162953
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, Etrea]
@@ -12,7 +12,7 @@ categories: [Items, Outfits, Adept Outfits, Etrea]
 |---|---|
 | caption | Initiate of the Vigil. A warrior must walk the path before being granted the cloak of winds. |
 | tier | Adept |
-| crafting_req | x5 Cloth, x5 Fiber, x4 Iron |
+| crafting_req | x5 Cloth, x1 Erisore, x5 Fiber, x4 Iron |
 | stat_req | Power 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -29,7 +29,7 @@ categories: [Items, Outfits, Adept Outfits, Etrea]
 
 ### _Requirements_
 
-This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and four (4) [Iron](Ores.md#iron) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), one (1) [Erisore](Ores.md#erisore) five (5) [Fiber](Fiber.md), and four (4) [Iron](Ores.md#iron) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
