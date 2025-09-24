@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 143712
+revid: 163077
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, Enemies, NPCs located in the Eastern Luminant, Quests]
@@ -27,67 +27,47 @@ While knocked and being gripped by the player or NPC, she will also _kindly_ ask
 
 Serena's arsenal consist of a [Shotel](Shotel.md) along with the [Frostdraw](Frostdraw.md) Attunement:
 
-| Name | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault  
+**Assault**  
 (★☆☆)
 
- | Firmly swings blade at opponent before finishing up the combo by kicking them.  
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯  
-
- |  |
+ |
 | 
 
-Critical  
+**Critical**  
 (★★☆)
 
- | Performs a sideflip while swinging blade.  
+ | Performs a sideflip while swinging blade.
 
-Parryable:◯  
-Blockable:✗  
-Dodgeable:◯
-
- |  |
+ |
 | 
 
-Ice Smash  
+**Ice Smash**  
 (★★☆)
 
- | User performs a wind-up before slamming an ice club into the ground.  
+ | User performs a wind-up before slamming an ice club into the ground.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable:◯
-
- |  |
+ |
 | 
 
-Ice Eruption  
+**Ice Eruption**  
 (★★★)
 
- | A flurry of ice spikes.  
+ | A flurry of ice spikes.
 
-Parryable:✗  
-Blockable:✗  
-Dodgeable: ◯
-
- |  |
+ |
 | 
 
-Glacial Shower  
+**Glacial Shower**  
 (★★☆)
 
- | Rains down shards of ice.  
+ | Rains down shards of ice.
 
-Parryable:◯  
-Blockable:◯  
-Dodgeable: ◯
-
- |  |
+ |
 
 ## Finisher
 
