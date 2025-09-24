@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 162818
+revid: 163074
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -36,7 +36,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe'
 -   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
 -   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### The Drowned Gods
 
@@ -190,7 +190,10 @@ Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glo
 
 ### Zhatarn, the Moonlight Prince
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries:
+-   The legends say that Zhatarn was exiled from the [Heavens](#the-heavens) and forced to roam the Void forevermore.
+-   A [Celestial](#the-celestials) said to have been driven mad by his attempt to draw power from the [Moonsye.](#the-moonseye)
+
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) if you have [Soulthorn](Soulthorn.md) equipped | Books: | Glossary Entries:
 
 ## Magic
 
@@ -276,7 +279,7 @@ Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the Suncross.
 
-Dialogue: [Lake](Lake.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-moonseye)
+Dialogue: [Lake](Lake.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-moonseye), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### The Suncross
 
@@ -404,7 +407,7 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 -   The waters of the Heavens are known as the [Nightsea](#the-nightsea).
 -   The former home of the [Celestials](#the-celestials).
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### The Lullaby Isles
 

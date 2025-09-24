@@ -1,6 +1,6 @@
 ---
 title: Shade
-revid: 150157
+revid: 163066
 source: https://deepwoken.fandom.com/wiki/Shade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -18,90 +18,53 @@ The Shade is a humanoid enemy NPC, that can be found at [Voidsea](Voidsea.md) ou
 
 A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreathe](Galebreathe.md).
 
-| 
-Name/Danger
-
- | 
-
-Description
-
- |
+| Name/Danger | Description |
 | --- | --- |
 | 
+**Assault**  
+(★☆☆)
 
-Assault
-
- | Attacks the opponent repeatedly and flourishes them away with a kick.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 
 
-Critical
+**Critical**  
+(★★☆)
 
- | The Shade does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.  
-
-Parryable? ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | Unleashes a quick flurry attack onto their opponent.
 
  |
 | 
 
-Feint
+**Wind Blade**  
+(★☆☆)
 
- | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.  
-
-Parryable?: N/A  
-Blockable?: N/A
+ | The Shade shoots out an arc of gale.
 
  |
 | 
 
-Time-Slowing Orb  
-★
+**Wind Forge**  
+(★☆☆)
 
- | The Shade creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.  
-
-Parryable?: ✗  
-Blockable?: ✗  
-Dodgable?: ✗
+ | The Shade conjures up a line of 4 wind projectiles before sending them towards the target.
 
  |
 | 
 
-Wind Blade
+**Twister Kicks**  
+(★☆☆)
 
- | The Shade shoots out an arc of gale.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | The Shade dashes forwards kicking with a rush of winds dealing damage.
 
  |
 | 
 
-Wind Forge
+**Time-Slowing Orb**  
+(★☆☆)
 
- | The Shade conjures up a line of 4 wind projectiles before sending them towards the target.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
-
- |
-| 
-
-Twister Kicks
-
- | The Shade dashes forwards kicking with a rush of winds dealing damage.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | The Shade creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.
 
  |
 

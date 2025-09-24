@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 161731
+revid: 163049
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -98,9 +98,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deals 1.07x damage and inflicts <a href="Status_Effects.md#deferred">Deferred</a>, which deals damage overtime.<br>
-  Damage is dealt over 2.5 seconds in 10% increments. The damage overtime cannot be avoided once applied.<br>
-  Nullifies your weapon's innate bleed damage, making it do less overall damage even with the 7% buff.</p></div></td>
+  <td><div><p>Removes the raw impact damage of your weapon by applying a 0x damage modifier; instead, your weapon inflicts <a href="Status_Effects.md#deffered">Deferred</a> on hit, dealing damage over time.<br>
+  Deferred deals 1.07x of your weapon's damage, over 2.5 seconds in 10% increments. Deferred's damage can be increased through damage modifiers.</p>
+  <p>The Deferred status effect, and its damage over time, cannot be avoided once applied.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>

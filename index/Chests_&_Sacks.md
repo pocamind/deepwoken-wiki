@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 157310
+revid: 163033
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -55,4 +55,4 @@ Similar to chests, loot inside the sack will appear in different colors dependin
 
 Mercille
 
-Carriable sacks (similar to the Summer Company's gunpowder boxes) can spawn around [Starswept Valley](The_Starswept_Valley.md). One can turn these into Mercille, in the Summer outpost nearby [Meteor Isle](Meteor_Isle.md), for a chest containing good tier loot.
+Carriable sacks (similar to the Summer Company's gunpowder boxes) can spawn around [Starswept Valley](The_Starswept_Valley.md). One can turn these into [Mercille](Mercille.md), in the Summer outpost nearby [Meteor Isle](Meteor_Isle.md), for a chest containing good tier loot.

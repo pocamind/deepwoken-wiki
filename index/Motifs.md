@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 160653
+revid: 163030
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,7 +20,7 @@ To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible wea
 
 To equip a Motif, either use the item from your inventory or go to a Campfire and use it similarly to a Deep Gem on a Mantra; under your weapon, there's a Motif slot. This will **replace your critical attack** with the critical attack of the weapon your Motif came from. For example, if you have a Crescent Cleaver Motif on your [Zweihander](Zweihander.md), it will have [Crescent Cleaver](Crescent_Cleaver.md)'s critical instead of the base Greatsword one. There are limitations and not every weapon can equip Motifs. See below for more information.
 
-Motifs can be unequipped at any time at a Campfire; the Motif will return to your inventory on unequip.
+Motifs can be unequipped at any time at a Campfire or by right clicking your equipped weapon; the Motif will return to your inventory on unequip.
 
 ## Compatibility
 
@@ -229,7 +229,7 @@ For example, if you had Shotel Motif on Razor Cutlass, your critical would have 
     -   However, weapons with a Motif equipped can be banked, dropped, and [passed down](Hippocampal_Pool.md) without the equipped Motif being removed/voided.
 -   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons (excluding [Skyreap Blade](Skyreap_Blade.md)).
 -   If a weapon has a Motif equipped, but then loses their Motif slot or compatibility with your equipped Motif after an update, your Motif will stay equipped and you'll still be able to use it. This allows you to have certain weapons with unobtainable criticals.
--   You can swap Motifs during combat to change up your critical for mixups, however you'll need a campfire or [Graceful Flame](Flamecharm.md#graceful-flame) to do this more than once.
+-   You can swap Motifs during combat to change up your critical for mixups.
 -   Using the 'Gun' Motif on the [Iron Blunderbuss](Iron_Blunderbuss.md) does nothing; the critical stays the same instead of becoming ranged.
 -   [Visionshaper](Oath%253A_Visionshaper.md) clones do not use your equipped Motif, instead they'll use the base critical of your weapon.
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) is the only legendary weapon to have a Motif slot. Strangely though, it can only equip Greatcannon Motifs and none of those exist currently.

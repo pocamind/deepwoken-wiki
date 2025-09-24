@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 160286
+revid: 163053
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -27,29 +27,33 @@ The **Barber** is an NPC that allows customization to your character. They can c
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="24">Begin</td>
 </tr>
 <tr>
-  <td colspan="16">Hey friend, need a new style?</td>
+  <td colspan="24">Hey friend, need a new style?</td>
 </tr>
 <tr>
   <td colspan="8">Could you remove some of my dyes?</td>
   <td colspan="8">How are you able to do all of this stuff?</td>
+  <td colspan="8">Player's hair was changed by a Fadetrimmer player</td>
 </tr>
 <tr>
   <td colspan="8">Sure, what would you like removed?</td>
   <td colspan="4">Player doesn't have an Oath</td>
   <td colspan="4">Player has Fadetrimmer</td>
+  <td colspan="8">Help me, barber. A most wretched cut has befallen me.</td>
 </tr>
 <tr>
   <td colspan="8">Player removes a dye</td>
   <td colspan="4">I took an <a href="Glossary.md#oaths">Oath</a> as a Fadetrimmer.</td>
   <td colspan="4"><i>*They look at you, puzzled.*</i> I see those scissors. You can't fool me, sibling of the fade.</td>
+  <td colspan="8">Stars above, you <i>need</i> help. Here.</td>
 </tr>
 <tr>
   <td colspan="8">Okay! All done!</td>
   <td colspan="4">...A Fadetrimmer?</td>
   <td colspan="4">End</td>
+  <td colspan="4">End, your hair is returned back to normal</td>
 </tr>
 <tr>
   <td colspan="8">What else can you offer?</td>

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 163019
+revid: 163029
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -28,21 +28,31 @@ After completing his "Memories of Home" challenge in the [Bestiary](Bestiary.md)
 
 ## Moveset
 
-Duke Ishamon Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light Attacksand a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
+Duke Ishamon Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ol8I8E__J_c)._
 
-| Name/Danger | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
+**Strong Left**  
+(★★☆)
+
+ | Duke Ishamon Erisia will charge up a punch, and teleport to his target,
+
+-   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
+
+ |
+| 
+
 **Assault**  
 (★☆☆)
 
- | Firmly pummels opponent with basic Attacksbefore finishing up the combo by flourishing them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
 -   Duke Erisia will always and **only** start using Assault after using Strong Left.
 
- |  |
+ |
 | 
 
 **Critical**  
@@ -52,20 +62,20 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Duke Erisia will **only** use this after using Strong Left.
 
- |  |
+ |
 | 
 
 **Shields of Erisia**  
 (★★☆)
 
- | Duke Ishamon Erisia shields himself in a glowing wind shield. Any Attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
+ | Duke Ishamon Erisia shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
 -   Can deflect [Providence's Thorns](<Providence's_Thorns.md>).
 -   Only used once the posture shield is down. (Phase 2).
 
- |  |
+ |
 | 
 
 **Feint**  
@@ -90,7 +100,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Block breaking duke while he is rising into the air cancels it.
 -   Auto-grips if knocked or low health.
 
- |  |
+ |
 | 
 
 **Aero Spear**  
@@ -101,7 +111,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 -   Auto-grips if knocked or low health.
 
- |  |
+ |
 | 
 
 **Gale Stomp**  
@@ -112,7 +122,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Will daze targets if they hit a wall while ragdolled.
 -   Auto-grips if knocked or low health.
 
- |  |
+ |
 | 
 
 **Cyclone Bomb**  
@@ -124,20 +134,10 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Covers a large Area of Effect.
 -   Auto-grips if knocked or low health.
 
- |  |
+ |
 | 
 
-**Strong Left**  
-**(★☆☆)**
-
- | Duke Ishamon Erisia will charge up a punch, and teleport to his target,
-
--   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
-
- |  |
-| 
-
-**Mindless Servants** **(★☆☆)**  
+**Mindless Servants** (★☆☆)  
 
  | Duke Ishamon Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
@@ -146,17 +146,17 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)
 
- |  |
+ |
 | 
 
 **Vent**  
-**(★☆☆)**
+(★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
 
 -   He always vents whenever he gets flourished into a wall.
 
- |  |
+ |
 
 ### Passives
 
@@ -184,7 +184,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Matador - Duke Ishamon Erisia deals +20% more damage to human enemies with hyperarmor.
 -   Showstopper - When you roll through one of Duke Ishamon Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
 -   Berserker - When Duke Ishamon Erisia knocks an enemy, he gains 20% damage resistance for 15 seconds.
--   Charged Return - Being under an elemental status effect causes Duke's M1's and critical Attacks to do 20% more damage.
+-   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
 
 ## Finisher
 
