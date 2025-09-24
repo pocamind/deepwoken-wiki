@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 163013
+revid: 163084
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -84,10 +84,10 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 </tr>
 <tr>
   <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL. GO NOW.</td>
-  <td>End.</td>
+  <td>End</td>
 </tr>
 <tr>
-  <td>End.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +103,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
   <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL.</td>
 </tr>
 <tr>
-  <td>End.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +121,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
   <td>FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
 </tr>
 <tr>
-  <td>End.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -137,7 +137,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
   <td>YOUR HEART IS ALREADY PLEDGED TO ANOTHER.</td>
 </tr>
 <tr>
-  <td>End.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -153,7 +153,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
   <td>THE SCALES HAVE NOT YET TIPPED.</td>
 </tr>
 <tr>
-  <td>End.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

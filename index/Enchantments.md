@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 163049
+revid: 163090
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -326,6 +326,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><center><b>Visual Effect</b></center></td>
 </tr>
 <tr>
+  <td><figure>File:COA.gif<figcaption></figcaption></figure><center><br>
+  <font>Curse of the Authoritative<div></div></font></center></td>
+  <td><div><p>You take 50% more damage when being guard broken.<br>
+  On Flourish, Critical, or Uppercut, apply the Authoritative status effect, increasing all posture damage taken by your opponent by 50% for 30 seconds.</p></div></td>
+  <td><div>Weapon is covered in arcing yellow lightning, turning the weapon itself yellow.</div></td>
+</tr>
+<tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
@@ -366,13 +373,6 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p>While blocking, take 30% chip DMG only if the enchant procs.<br>
   Successful proc will push attacker backwards and put the enchant on 2.5 second cooldown. <b>NO RANGE LIMIT, AFFECTED BY ANY ATTACK</b></p></div></td>
   <td><div>Weapon is colored blue and has Vent-like electricity particles.</div></td>
-</tr>
-<tr>
-  <td><figure>File:COA.gif<figcaption></figcaption></figure><center><br>
-  <font>Curse of the Authoritative<div></div></font></center></td>
-  <td><div><p>You take 50% more damage when being guard broken.<br>
-  On Flourish, Critical, or Uppercut, apply the Authoritative status effect, increasing all posture damage taken by your opponent by 50% for 30 seconds.</p></div></td>
-  <td><div>Weapon is covered in arcing yellow lightning, turning the weapon itself yellow.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>

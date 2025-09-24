@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 162998
+revid: 163082
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -20,9 +20,9 @@ Equipment is a type of item usually found in chests, but can also be exchanged f
 
 There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, and Rings.
 
-Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be to meet Talent requirements, and they do not grant the Talent's stat bonuses(e.g. you cannot use Mercenary's Boots' Endurance Runner to obtain Conditioned Runner, nor will this equipment grant any Passive Agility)). Only some Head, Legs, Arms and Relics Equipments have Talents. Talents granted by equipment do not stack with their regular variants. _Innate stats are displayed in grey__, and Talents are displayed in light blue._
+Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be to meet Talent requirements, and they do not grant the Talent's stat bonuses(e.g. you cannot use Mercenary's Boots' Endurance Runner to obtain Conditioned Runner, nor will this equipment grant any Passive Agility)). Only some Head, Legs, Arms and Relics Equipments have Talents. Talents granted by equipment do not stack with their regular variants. _Innate stats are displayed in grey_, and _Talents are displayed in light blue_.
 
-By wearing all equipment within a Set, you may be eligible to obtain the equipment's Set Talent; an additional Talent that is exclusive to that Set. To make up for the Set Talents being exclusive and requiring you to wear equipment that otherwise might not be that good, the Set Talents are very powerful, but niche and specific. Not all equipment sets have a Set Talent. _Set Talents are displayed in turquoise._
+By wearing all equipment within a Set, you may be eligible to obtain the equipment's Set Talent; an additional Talent that is exclusive to that Set. To make up for the Set Talents being exclusive and requiring you to wear equipment that otherwise might not be that good, the Set Talents are very powerful, but niche and specific. Not all equipment sets have a Set Talent. _Set Talents are displayed in turquoise_.
 
 All equipment (with few exceptions), when obtained, will roll for random stats. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
@@ -4780,13 +4780,10 @@ Blue, Green & Red |
 
 Found from:
 
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Crucible](Deep_Crucible.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 163062
+revid: 163089
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
