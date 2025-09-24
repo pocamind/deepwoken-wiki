@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 163006
+revid: 163103
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1934,8 +1934,8 @@ Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to deto
     -   Eruption AoE can be increased with the Empowered Eruption buff from Empowered Eruption and Flash Point Talents as well as Azure Flames.
 -   The [Deepfire Ring](Deepfire_Ring.md) Equipment increases burn tick rate, but it also decreases burn's maximum duration to even it out. This is seen as a direct upgrade from base burn due to the higher DPS when your opponent would not be burning for the full duration anyways. This ring also decreases Eruption delay.
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
-    -   The **Flame of Denial** Mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
-    -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
+    -   The **Flame of Denial** Mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
+    -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.wiki.fextralife.com/Power+Within) from _Dark Souls_, boosting overall damage while draining health.
     -   Although the **Fire Palm** Mantra looks similar to the "Ignis" spell from the Roblox game _Rogue Lineage_, the Mantra is actually inspired from the "Combustion" skill in _Dark Souls_ and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
 -   Although the **Flame Blind** Mantra looks similar to the snap version of the "Velo" spell from the Roblox game _Rogue Lineage_, the Mantra is actually inspired from the _Valorant_ character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
 -   The **Fire Gun** Mantra is most likely a nod to "Higan" (火ガン, literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from _One Piece._
