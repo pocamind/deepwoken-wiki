@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 153105
+revid: 163167
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greatswords]
@@ -31,8 +31,6 @@ notices:
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
-
-**The Calamity Cinnabar is a reskined Crypt Blade; as such, it does not have unique properties, merely a unique model.**
 
 The **Calamity Cinnabar** is a dark gray lance with eyes on it and a bloody red tip.
 

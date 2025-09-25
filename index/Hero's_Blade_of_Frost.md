@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 162053
+revid: 163165
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -32,12 +32,20 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 The Hero's Blade of Frost is one of the several elemental weapons apart of the Hero Blade line, being specifically the [Frostdraw](Frostdraw.md) variant of the [Hero Blades](Hero_Blades.md).
 
-Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades.
+Meeting the ELM requirement, the damage is (26.2) for all the Hero Blades. At max ELM, the damage is (28.3) for all the Hero Blades.
 
 ## Critical
 
-The user and spirit within the weapon slam the ground in tandem, summoning multiple waves of ice around the initial location, dealing damage while applying the status Frost and Frozen Legs to targets within the range of the critical, though the user is unable to attack while this unique critical is active. If the user has Glass Path: Crystallization, the critical will apply additional crystals on hit.
+The user slams the Hero Blade into the ground alongside the Hero of Frost, summoning multiple surges of ice around the initial location, dealing damage while applying Frost and Bottom Freeze to targets within it for up to 5 times. The user is unable to act for its full duration of the critical.
+
+The critical does 8.4 Frost damage with 5 scaling per 5 hits. The initial hit has a 0.6s windup, whereas the surges have a 0.45s windup between hits. The critical has a 0.1s endlag.
+
+If the user has Glass Path: Crystallization, the critical will apply additional crystals on hit.
+
+The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   The Hero of Frost is a [Capra](Capra.md), identified by its horns and mask.
+-   The Hero of Frost is a [Capra](Capra.md) named Faust. Identified by their horns and mask.
+    -   Faust understood the way of the world better than anyone else, as said in their respective Saintsworn Obelisk.
+    -   Faust is based on a [German legendary character of the same name](https://en.wikipedia.org/wiki/Faust), who makes a deal with the Devil in exchange for unlimited knowledge.

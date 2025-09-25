@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Wind"
-revid: 157064
+revid: 163166
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -35,10 +35,14 @@ The Hero Blade of Wind is an elemental weapon and the Galebreathe variation of t
 
 ## Critical
 
-This critical is 2 hit, has 10s CD and does 0 + 15 Posture DMG, Base DMG 10+20 with 5 Gale scaling.
+The user thrusts the Hero Blade forward, breathing out the Hero of Wind and unleashing an eruption of wind that ragdolls the opponent.
+
+The thrust does 10 Gale damage on the thrust, then 20 Gale damage on the eruption. Both hits have 5 scaling. The last hit deals 15 Posture damage.
+
+The critical has a cooldoown of **10 seconds**.
 
 ## Trivia
 
--   The Hero of Wind is a [Tiran](Tiran.md).
-    -   Identified by the feathers on its head.
-    -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken. Whether this is a retcon or they are simply another Hero of Gale is unclear.
+-   The Hero of Wind is a [Tiran](Tiran.md) named Trinity Galenwarde. Identified by the feathers on its head.
+    -   Trinity Galenwarde tells the player to decide to let the wind carry them, or defy the wind itself. Elaborated on their respective Saintsworn Obelisk.
+    -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken.

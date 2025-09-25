@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 157066
+revid: 163164
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons]
@@ -34,11 +34,16 @@ Meeting the ELM requirement, the damage is (26.2) for all the Hero Blades. At ma
 
 ## Critical
 
-The user quickly lunges forward (the lunge distance scaling with speed bonuses), dealing damage and stealing Ether on hit. If the user has Singularity or Sightless Still, the critical will apply additional effects based on the exclusive Talents.
+The user quickly swings forward in a helical motion, manifesting the Hero of Shadow and slicing the opponent, stealing Ether.
 
-Crit stats: 30 base DMG with 5 Shadowcast scaling, 10 posture, 0.55s windup
+The critical deals 24 Shadowcast damage with 5 scaling, 10 posture, and has a 0.55s windup.
+
+If the user has Singularity or Sightless Still, the critical will apply additional effects based on the exclusive Talents.
+
+The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
 -   Shadow Hero Blade used to steal ether on running attacks. This seemed to be unintentional as this feature was removed from the game.
--   The Hero of Shadow is a [Felinor](Felinor.md), identified by its ears.
+-   The Hero of Shadow is a [Felinor](Felinor.md) named Urek Faelhand. Identified by their ears.
+    -   Faelhand used to stand with the Heroes before their inevitable betrayal, elaborated in their respective Saintsworn Obelisk.

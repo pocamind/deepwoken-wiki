@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 162939
+revid: 163172
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -119,7 +119,7 @@ The Fisherman executes its opponents after knocking them:
 
 -   The Fisherman has a very high amount of health, thus it is recommended for the player to be Power 16+ when engaging with them.
     -   Simply bringing a friend along can help.
--   Be mindful of whatever Enchantment it has. Its damage is surprisingly lackluster without them, but enchantments like Detonation can cause a lot of problems.
+-   Be mindful of whatever Enchantment it has. Its damage is surprisingly lackluster without them, but enchantments like Detonation and Elastic can cause a lot of problems in terms of damage output and being pulled back if trying to run.
 -   The Fisherman is **not aggressive to nearby monsters, and they will not attack it.** Fight with this in mind. You do not want to be fighting The Fisherman at the same time as a [Mudskipper Broodlord](Mudskipper_Broodlord.md), especially if it's corrupted.
     -   If one deals sufficient damage to the other, they will start fighting, but this is unreliable.
 -   The best and easiest way to beat The Fisherman is to take it to [Light's Causeway](<Light's_Causeway.md>) and parry its attacks until the Castle turret kills it.

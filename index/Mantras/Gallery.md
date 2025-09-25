@@ -1,6 +1,6 @@
 ---
 title: Mantras/Gallery
-revid: 157433
+revid: 163162
 source: https://deepwoken.fandom.com/wiki/Mantras/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement]
@@ -9320,7 +9320,6 @@ _Lob explosive pumpkins at your foes._
 **Effect:** _Changes your M1s into explosive pumpkin throws for 6 throws._
 
 -   Deals little damage.
--   Unparryable.
 -   Procs M1 Talents
 -   Procs Flamecharm Talents, **Temperature Shock**, and **Eruption Path: Lava Serpent**
 -   Buggy when used in water.
