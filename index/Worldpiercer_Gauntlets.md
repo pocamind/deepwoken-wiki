@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 157333
+revid: 163174
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -25,7 +25,7 @@ categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | Brutal gauntlets wielded by those who break through defenses with unforgiving force. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 163089
+revid: 163193
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -87,10 +87,6 @@ Disallows healing by a percentage from **any** source while active and completel
 
 While active, suffer from 50% Anti-Heal for 5 seconds, halving all incoming healing. This effect can be applied through being hit by a basic attack with someone who has a [Ring of Pestilence](Equipment.md#rings) equipped. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a light yellow smoke on your character.
 
-#### Deep Wound
-
-Anti-Heal effect applied when being assassinated by a player who has the [Deep Wound](Talents.md#assassin) Talent. The Anti-Heal lasts 20 seconds. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a dark red smoke on your character.
-
 #### Broodlord Rot
 
 While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
@@ -111,19 +107,19 @@ Gain Temporary Health which decays at a rate of 1 Temporary health lost per seco
 
 A red highlight applied onto enemies, allowing you to see them through walls. Applied through [Voidwalker](Origins.md#voidwalker) bounties, [Chrysid's](Chrysid.md) Mothwing Dust, Bloodrend's [Bloodwarden's Sense](Talents.md#bloodhound), and the Heart Reverb Talent's [Rhythm](Murmur%253A_Rhythm.md) upgrade from [Soulbreaker](Oath%253A_Soulbreaker.md).
 
-### Enhanced Dashes
+### Insanity
 
-Your dashes are enhanced by the winds or thunder, increasing their distance travelled and i-frames granted. Applied through the [Flashwind](Specialist_Boots.md), [Overcharge](Talents.md#thunderblade), [Phantom Step](Talents.md#specter), and [Air Pressure](Talents.md#legion-shock-trooper) Talents as well as the [Lightning Cloak](Thundercall.md#lightning-cloak) Mantra. Signified by your blade being enveloped in wind or thunder particles.
+As you lose sanity, your screen will begin to darken and gain a blue hue. This distortion effect will only progress as time goes on, especially around the sides of your screen. While affected by insanity, you will periodically shiver or scratch yourself, temporarily stunning you in place and dealing damage in higher tiers. Sanity can be lost in many ways such as [potions](Alchemy.md), certain [monster](Monsters.md) attacks, [Heretic's Sutra](Talents.md#heretic), and being in the [First Layer](First_Layer.md) to name a few. Each "tier" of insanity has its own distinct effects as listed below:
 
-### Tier 1 Insanity
+#### Tier 1 Insanity
 
-This effect happens when you've reached Tier 1 of [Insanity](Insanity.md), or under 70% of your maximum Sanity, where your character will start occasionally shivering, which will stop any action you may have been doing for **2 seconds** while it happens. This can be deadly if you shiver while using a [Glider](Gliders.md) at a great height, as it will immediately make you drop down. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will not Shiver at Tier 1 Insanity.
+This effect happens when you've reached Tier 1 of [Insanity](Insanity.md), or under 70% of your maximum Sanity, where your character will start occasionally shivering, which will stop any action you may have been doing for **2 seconds**. This can be deadly if you shiver while using a [Glider](Gliders.md) at a great height, as it will immediately make you drop down. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will not Shiver at Tier 1 Insanity.
 
-### Tier 2 Insanity
+#### Tier 2 Insanity
 
 This effect happens when you've reached Tier 2 of [Insanity](Insanity.md), or under 30% of your maximum Sanity, where your character will start to be unable to recognize people around them, hiding their names and censoring their faces. Shivering will be replaced with Panicking and scratching your arms, dealing **10 damage** and stunning you for **1 second** and then you will Shiver for 2 seconds. Damage taken by Panicking cannot be resisted by armor, but will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Shiver for **2.5 seconds** instead of Panicking at Tier 2 Insanity.
 
-### Tier 3 Insanity
+#### Tier 3 Insanity
 
 This effect happens when you've reached Tier 3 of [Insanity](Insanity.md), or under 10% of your maximum Sanity, where your character will start Scratching their body and face which deals **20 damage** and stunning you for **1.5 seconds** and then you will Shiver for 2 seconds. Damage taken by Scratching cannot be resisted by armor, but will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. If you don't have enough health left when Scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Panic instead of Scratching, additionally Panic damage will be halved if you have the [Grasp on Reality](Talents.md#sturdy-resolve) Talent. Due to how long it takes to get to max insanity, (unless you have [Manic](Boons_and_Flaws.md#manic)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
 
@@ -486,6 +482,10 @@ A [speed boost](#speed-boost) triggered by executing someone while you have [Tim
 
 While under the effects of All the Dead Gods' [anti-heal](#anti-heal), all non-passive healing you receive will be granted to the caster instead. The activation window for this effect will be reduced if you do not meet the requirements of this Talent. Signified by a much deeper blurple hue on your anti-heal.
 
+#### Deep Wound
+
+Anti-Heal effect applied when being assassinated by a player who has the [Deep Wound](Talents.md#assassin) Talent. The Anti-Heal lasts 20 seconds. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a dark red smoke on your character.
+
 ### Last Resort
 
 Gain +10% damage when your health is below 25%. This effect is applied through the [Last Resort](Talents.md#limitbreaker) Talent and is signified by orange and red swirling particles on your character's arms.
@@ -525,6 +525,10 @@ Applied by being near someone with the [Audacity](Talents.md#tyrant) Talent when
 ### Ruptured Lungs
 
 Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though applied most notably through the Strength Talent, [Collapsed Lung](Talents.md#annihilator), this effect can also be applied through the [Reinforced War Plate's](Reinforced_War_Plate.md) Talent, _Crippling Impact_. This effect has no visual indicator.
+
+### Precise Swing
+
+Applied through the [Precise Swing](Talents.md#duelist) Talent, this effect grants 25% additive chip damage to your next M1. The Precise Swing status effect lasts 30 seconds, but will be consumed if your next M1 lands, hit someone's block, or gets parried. This effect has no visual indicator.
 
 ### Fight
 
@@ -573,6 +577,10 @@ Applied by the [Cool Head](Talents.md#cryomancer) Talent. For the duration, you 
 ### Reclaimed Glass
 
 Gain 10% elemental resistance. Applied through the [Reclaimed Glass](Talents.md#glassdancer) Talent upon Crystal detonation. This effect can also be shared with allies. Signified by crystal shards on your character.
+
+### Enhanced Dashes
+
+Your dashes are enhanced by the winds or thunder, increasing their distance travelled and i-frames granted. Applied through the [Flashwind](Specialist_Boots.md), [Overcharge](Talents.md#thunderblade), [Phantom Step](Talents.md#specter), and [Air Pressure](Talents.md#legion-shock-trooper) Talents as well as the [Lightning Cloak](Thundercall.md#lightning-cloak) Mantra. Signified by your blade being enveloped in wind or thunder particles.
 
 ### Electrified
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 162987
+revid: 163192
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -467,21 +467,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Linearly scales from a minimum of 10% pen reduction at 65 FTD scaling up to the maximum 30% at 90 FTD.
         -   In total, gain 0.8% PEN reduction per FTD point above 65 FTD.
     -   PEN calculation: incoming PEN \* (1 - 0.Reinforced Armor effectiveness) = reduced incoming PEN.
-        -   For example, _50% PEN_ vs 20% Reinforced Armor:
-            -   _50 PEN_ \* (1 - 0.2) = _40% PEN_.
-    -   **Here is a walkthrough example: "our 50% Physical Resistance" vs "an opponent's 50% PEN 100 Slash DMG": (Feel free to ignore the equations)**
-        -   With _no Reinforced Armor_, we take _**75 DMG**_, **resisting 25%**:
-            -   This is because their 50% PEN removed 25% of our 50% Physical Resistance. (25%Phys remaining)
-                -   (50%Phys\*50%PEN -> 25%Phys remaining)
-            -   With our remaining 25% Physical Resistance, we save 25HP, resisting 25% of 100 DMG.
-                -   (take away 25% of their 100DMG -> 75DMG remaining) / (100dmg \* \[1 - 0.25phys\]) = 75dmg
-        -   With _max Reinforced Armor_, we take _**66 DMG**_, **resisting 34%**:
-            -   First, Reinforced Armor _cuts_ down the opponent's 50% PEN to 35% PEN.
-                -   (take away 30% of their 50%PEN -> 35%PEN remaining) / (50%pen \* \[1 - 0.3cut\]) = 35%pen
-            -   Because of that, their 35% PEN only removed 16% of our Physical Resistance. (34%Phys remaining)
-                -   (take away 35% from our 50%Phys\-> 34%Phys remaining)
-            -   With our remaining 34% Physical Resistance, we save 34 HP, resisting 34% of 100 DMG.
-                -   (take away 34% of their 100DMG -> 66DMG remaining) / (100dmg \* \[1 - 0.34phys\]) = 66dmg
+        -   For example, 50% PEN vs 20% Reinforced Armor and 50% physical armor:
+            -   Base: 50% PEN vs 50% physical armor; 50 \* (1 - 0.5) = 25% resistance after PEN.
+            -   Reinforced Armor: 50% PEN vs 20% RA; 50 \* (1 - 0.2) = 40% PEN. 40% PEN vs 50% physical armor = 50 \* (1 - 0.4) = 30% resistance after PEN.
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
@@ -1067,8 +1055,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   If your critical lands, is parried, or is blocked, gain the "Precise Swing" status effect for 30 seconds.
-    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried. Because the latter two aren't hitting block, you will gain no benefits.
+    -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
+    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
         -   If your M1 is whiffed or dodged, the status effect will not be consumed.
     -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
     -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
@@ -1562,8 +1550,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**All Above, Gods Below**_ \[Advanced Talent, Willpower Exclusive\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you. (+20 Sanity)
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
-        -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence.
-        -   Lasts 4 seconds after an All the Dead Gods proc if you are below this Talent's requirements.
+        -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence, which is halved to 4 seconds if you don't meet this Talent's requirements.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   This does not stack with Saint Jay.
@@ -1602,7 +1589,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp anims, no torn clothing, etc.
     -   Spotter (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
-    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being hit. This triggers regardless of the damage dealt and is purely visual.
+    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being taking damage. This is purely visual.
         -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.
     -   Prerequisites: 20 Fortitude, 100 Willpower
         -   The [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>) Outfits also have this Talent.

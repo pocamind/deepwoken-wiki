@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 159238
+revid: 163173
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -29,7 +29,7 @@ categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | Imbued with the breath of a true Edenkite, this cannon holds the fading remnants of one slain by a Northern Tiran hunting party of considerable renown. Trapping the beast in a ravine, the band brought it low with an onslaught of cannonfire from the cliffs above. However, as fate would have it, their return journey was cut short by a storm that had their vessel veer off into the Voidsea, taking them and their prize off the map. Now, its bitterly cold soulfire has found its way into your hands. |
 
 ## Description

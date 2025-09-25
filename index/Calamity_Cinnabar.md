@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 163167
+revid: 163179
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greatswords]
@@ -51,3 +51,4 @@ The user goes in a pride stance with their sword facing down, and releases an AO
 ## Trivia
 
 -   This weapon was awarded to the second place winner of the Deepwoken Thumbnail Art Contest.
+-   The Calamity Cinnabar is a reskinned [Crypt Blade](Crypt_Blade.md), only having a unique model.
