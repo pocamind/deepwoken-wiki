@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 162495
+revid: 163201
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -27,6 +27,8 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 (★☆☆)
 
  | The Construct stomps the ground, dealing high damage.
+
+-   Can insta-grip/insta-execute
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163192
+revid: 163198
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -463,13 +463,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 30%.
-    -   Scales down from 30% -> 10% at 65 Fortitude.
-        -   Linearly scales from a minimum of 10% pen reduction at 65 FTD scaling up to the maximum 30% at 90 FTD.
-        -   In total, gain 0.8% PEN reduction per FTD point above 65 FTD.
+    -   The effects of Reinforced Armor are lessened if you do not meet the Talent's requirements, losing 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.
+        -   Alternatively, this can be stated as 10 + 0.8 \* (Fortitude - 65) = RA effectiveness, though this cannot go below 10%.
     -   PEN calculation: incoming PEN \* (1 - 0.Reinforced Armor effectiveness) = reduced incoming PEN.
-        -   For example, 50% PEN vs 20% Reinforced Armor and 50% physical armor:
+        -   For example, 50% PEN vs 30% Reinforced Armor and 50% physical armor:
             -   Base: 50% PEN vs 50% physical armor; 50 \* (1 - 0.5) = 25% resistance after PEN.
-            -   Reinforced Armor: 50% PEN vs 20% RA; 50 \* (1 - 0.2) = 40% PEN. 40% PEN vs 50% physical armor = 50 \* (1 - 0.4) = 30% resistance after PEN.
+            -   Reinforced Armor: 50% PEN vs 30% RA; 50 \* (1 - 0.3) = 35% PEN. 35% PEN vs 50% physical armor = 50 \* (1 - 0.35) = 32.5% resistance after PEN.
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer

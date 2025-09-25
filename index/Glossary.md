@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 163080
+revid: 163206
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -292,6 +292,16 @@ Dialogue: [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye
 
 ## Time Periods
 
+#### Pre Canticlysm
+
+-   Before the Canticlysm began, the world was much different
+-   The World had much less magic, as the Song was not yet in proper use, so most magic was Vow magic
+-   The world had limited contact to the Celestials above, if any at all, as the Celestials only started arriving due to the Canticlysm
+-   Eventually, humanity recovered relics from Monsters who would surface and then die, these relics fascinated the Nobility
+-   The nobles’ fascination with the artifacts led to the discovery of the Song, small snippets could be channeled out of the relics
+-   These snippets of the Song were potent and intoxicating, leading to the researchers doing more work on them
+-   The Song was a pool of raw power which could be harnessed and diversified for almost any means, eventually the Researchers managed to expand it to the point that it took a mere generation before the Canticlysm began
+
 ### The Canticlysm
 
 -   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the [Song](#the-song) within [Lumen](#lumen).
@@ -300,12 +310,14 @@ Dialogue: [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye
 -   The Song was used in nearly everything, even the simplest things
 -   The four main Attunements, Flamecharm, Frostdraw, Galebreathe, and Thundercall were made during the Canticlysm, along with Ironsing, however Ironsing was mostly lost due to the Tides
 -   during this time, Songwork was a popular means of powering machinery, lower classmen were conscripted to Songwork, Songworkers were granted Flamecharm and taught a small subset of the Attunement, they were then forced to power machinery using Flamecharm, but were offered few hours of break a day, and efficiency was prioritized over safety.
+-   the Song, formerly a primal pool of raw power, was probably harnessed into hardened forms, such as Mantras, Enchantments, Attunements, Oaths, Murmurs, Resonances, etc.
 
 Dialogue: [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
 
 ### The Resurgence
 
 -   The current period of history, usually dated around the fifth century BCE with mankind's adaptation to the new state of the world.
+-   The world is still pretty terrible during the Resurgence, however it has grown back, Song use is somewhat more common and most people get the nutrition they need
 
 Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries: [Vows](#vows)
 

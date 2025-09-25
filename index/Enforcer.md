@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 162503
+revid: 163202
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -69,6 +69,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   This attack is rarely used in close quarters.
 -   This attack grants high autoparry frames.
 -   This is typically used after Kick if it lands.
+-   This attack hurts a lot if not properly defended/avoided
 
  | 
 
@@ -93,6 +94,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
  | The Enforcer halts their attack mid-way in an attempt to mixup their opponent and create an opening.
 
 -   If The Enforcer feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
+-   You could also hold f on your failed parry to block it, but this is reliant on you having spare posture.
 
  | 
 
@@ -129,7 +131,7 @@ Do not be deceived by these stats, though. The dangerous part of the Enforcer is
     -   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
     -   Feinting can force it to react defensively.
 
-All in all, keep your nerves hardened, don't be fooled by the intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so it's better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
+All in all, keep your nerves hardened, don't be fooled by the intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so it's better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future. Trying to fight it in trial of one might not be a bad idea either as it's easier to access early game and less risky if you die as such, just make sure you can reach it first.
 
 _**If you're a freshie reading this page and about to do the Enforcer trial for the first time, good luck! Remember not to panic, and focus on parry trading. You got this!**_
 
