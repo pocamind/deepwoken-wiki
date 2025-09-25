@@ -1,9 +1,9 @@
 ---
 title: Exotic Megalodaunt
-revid: 162462
+revid: 163139
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Enemies]
 ---
 
 # Exotic Megalodaunt
@@ -55,10 +55,6 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 
 -   Easily parryable.
 -   There is a shorter ranged AOE version and a longer range, individual target version. Both function the same.
-
-Parryable: ◯  
-Blockable: ◯  
-Dodgeable: ◯  
 
  | 
 

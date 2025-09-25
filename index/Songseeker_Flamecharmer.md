@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 151210
+revid: 163119
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -20,16 +20,71 @@ A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted
 
 A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Navae**) and the [Flamecharm](Flamecharm.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly pummels opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises left leg before slamming it to the ground below. | ◯ | ✗ | (★★☆) |
-| Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★★) |
-| Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ◯ | ◯ | (★☆☆) |
-| Fire Palm | Conjures a wave of fire from the palm of the users hand. | ◯ | ◯ | (★★☆) |
-| Fire Eruption | An eruption of flame under the user hitting anyone nearby. | ◯ | ✗ | (★☆☆) |
-| Flame Ballista | Conjures a blazing arrow that tracks opponents. | ◯ | ✗ | (★★★) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises left leg before slamming it to the ground below.
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | User slams down with their blade coated in flames.
+
+ |
+| 
+
+**Flame Repulsion**  
+(★☆☆)
+
+ | After a wind-up of ~2 seconds, user releases a burning AoE blast.
+
+ |
+| 
+
+**Fire Palm**  
+(★★☆)
+
+ | Conjures a wave of fire from the palm of the users hand.
+
+ |
+| 
+
+**Fire Eruption**  
+(★★☆)
+
+ | An eruption of flame under the user hitting anyone nearby.
+
+ |
+| 
+
+**Flame Ballista**  
+(★★☆)
+
+ | Conjures a blazing arrow that tracks opponents.
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+ |
 
 ### Boons
 

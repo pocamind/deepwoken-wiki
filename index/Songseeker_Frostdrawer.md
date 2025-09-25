@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 152070
+revid: 163120
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -20,16 +20,71 @@ Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted o
 
 A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Frostdraw](Frostdraw.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly pummels opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises left leg before slamming it to the ground below. | ◯ | ✗ | (★★☆) |
-| Ice Spikes | Conjure a spike of ice from the ground at cursor location. | ◯ | ◯ | (★☆☆) |
-| Ice Daggers | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
-| Ice Blade | Creates two blades of ice and rushes forward rapidly slashing. | ◯ | ◯ | (★☆☆) |
-| Ice Eruption | Erupts ice from the ground trapping anyone caught in it. | ✗ | ✗ | (★★★) |
-| Ice Smash | Creates a giant mace of to smash opponents with. | ◯ | ✗ | (★★☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises left leg before slamming it to the ground below.
+
+ |
+| 
+
+**Ice Spikes**  
+(★☆☆)
+
+ | Conjure a spike of ice from the ground at cursor location.
+
+ |
+| 
+
+**Ice Daggers**  
+(★★☆)
+
+ | User forms three daggers of ice before throwing them towards the nearest person.
+
+ |
+| 
+
+**Ice Blade**  
+(★☆☆)
+
+ | Creates two blades of ice and rushes forward rapidly slashing.
+
+ |
+| 
+
+**Ice Eruption**  
+(★★☆)
+
+ | Erupts ice from the ground trapping anyone caught in it.
+
+ |
+| 
+
+**Ice Smash**  
+(★★☆)
+
+ | Creates a giant mace of to smash opponents with.
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+ |
 
 ### Boons
 
@@ -40,7 +95,7 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 
 -   Everchanging Aegis - A Songseeker Frostdrawer take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different elements.
 -   Perfect Flash - Having full health causes a Songseeker Frostdrawer's mantras to do 25% extra damage.
--   Fragile Freeze - Getting blockbroken by the Songseeker's Light Attack or Critical while being Chilled will apply Frozen to you
+-   Fragile Freeze - Getting blockbroken by the Songseeker's Light Attack or Critical will apply Frozen to you
 -   Cool Head - If set on fire while on ice, the Songseeker Frostdrawer will put it out and enter a state of chill. During this state, they cannot be lit on fire.
 -   Preceding Chill - Enemies hit during the last moments of a Songseeker Frostdrawer's 'Ice Beam' are frozen.
 -   Orbital Ice - Whenever a Songseeker Frostdrawer lands a parry while standing on ice, they automatically form a gravitational ring of ice that absorbs 15% of the physical damage they take. The ring breaks after sustaining a certain amount of damage.

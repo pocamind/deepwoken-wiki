@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 153318
+revid: 163110
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -18,13 +18,47 @@ Template:EnemyInfobox1.0
 
 A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Swiftly swings dagger at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | The knife uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward. | ◯ | ◯ | (★★☆) |
-| Strong Left | Winds up and hurls a powerful punch that shatters the air and flings the opponent away. | ◯ | ✗ | (★★★) |
-| Revenge | A quick dash signified by a red-line effect. | ◯ | ◯ | (★☆☆) |
-| Rapid Slashes | Swiftly rushes into the enemy and cuts them apart. | ◯ | ◯ | (★☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | The knife uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | Winds up and hurls a powerful punch that shatters the air and flings the opponent away.
+
+ |
+| 
+
+**Revenge**  
+(★☆☆)
+
+ | A quick dash signified by a red-line effect.
+
+ |
+| 
+
+**Rapid Slashes**  
+(★☆☆)
+
+ | Swiftly rushes into the enemy and cuts them apart.
+
+ |
 
 ## Talents
 

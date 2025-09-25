@@ -1,9 +1,9 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 162461
+revid: 163127
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Monsters, Bosses]
+categories: [Monsters, Bosses, Enemies]
 ---
 
 # Elder Primadon, The Titan Warlord

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 153363
+revid: 163114
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, Ignition Union Enemies]
@@ -24,16 +24,52 @@ They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit wit
 
 An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md).
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Falchion](Falchion.md)\] Performs a horizontal slash after a windup.
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Falchion](Falchion.md)\] Performs a horizontal slash after a windup.
+
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
- | ◯ | ◯ | (★★☆) |
-| Needle Barrage | User leaps into the air and pelts the enemy with a trio of metal rods. | ◯ | ◯ | (★☆☆) |
-| Firing Line | User forms five rifles out of metal that open fire on their target. | ◯ | ◯ | (★★☆) |
-| Oxidizing Rush | User rushes forward while surrounded by an array of metal swords. | ◯ | ◯ | (★★☆) |
+-   The Falchion critical has extremely high chip damage.
+-   The Darksteel Greatsword critical deals very high posture damage and grants hyperarmor for the full attack animation.
+
+ |
+| 
+
+**Needle Barrage**  
+(★☆☆)
+
+ | User leaps into the air and pelts the enemy with a trio of metal rods.
+
+ |
+| 
+
+**Firing Line**  
+(★★☆)
+
+ | User forms five rifles out of metal that open fire on their target.
+
+ |
+| 
+
+**Oxidizing Rush**  
+(★★☆)
+
+ | User rushes forward while surrounded by an array of metal swords.
+
+ |
 
 ### Talents
 

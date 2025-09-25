@@ -1,9 +1,9 @@
 ---
 title: Mudskipper Broodlord
-revid: 162509
+revid: 163153
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Eastern Luminant, The Depths]
+categories: [Monsters, Eastern Luminant, The Depths, Enemies]
 ---
 
 # Mudskipper Broodlord

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 153250
+revid: 163121
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -20,18 +20,59 @@ A Songseeker Galebreather wears a [Royal Guard Mask (Green)](Aspirant_Mask.md) a
 
 A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Galebreathe](Galebreathe.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly pummels at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises left leg before slamming it to the ground below. | ◯ | ✗ | (★★☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Heavenly Wind | Leap high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
-| Air Force | A burst of air directly in front of the user. | ◯ | ◯ | (★☆☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises left leg before slamming it to the ground below.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Heavenly Wind**  
+(★★☆)
+
+ | Leap high into the air before diving down, striking any targeted opponent.
+
+ |
+| 
+
+**Air Force**  
+(★☆☆)
+
+ | A burst of air directly in front of the user.
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+ |
 
 ### Boons
 
--   Third Eye - A Songseeker Galebreather cannot be assassinated..
+-   Third Eye - A Songseeker Galebreather cannot be assassinated.
 
 ### Talents
 
@@ -43,7 +84,7 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 -   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage the Songseeker Galebreather dealt. If an attack was a mantra, it does 5% damage instead.
 -   Breathing Impact - When a Songseeker Galebreather gets knocked into objects by wind mantras, enemies take additional blunt damage based off of how hard they are hit.
 -   Silencer's Blade - When a Songseeker Galebreather melees a 'Suffocated' opponent, it will extend the duration of the Suffocation and grant a speed boost
--   _**A World Without Song - A Songseeker Galebreather's wind mantras now apply Suffocate.**_
+-   A World Without Song - A Songseeker Galebreather's wind mantras now apply Suffocate.
 
 ## Finisher
 

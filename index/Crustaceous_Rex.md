@@ -1,9 +1,9 @@
 ---
 title: Crustaceous Rex
-revid: 162453
+revid: 163134
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Pages with broken file links, Monsters, Enemies]
 ---
 
 # Crustaceous Rex

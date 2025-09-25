@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 153334
+revid: 163116
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -20,31 +20,91 @@ A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes
 
 ## Moveset
 
-A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with either the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md) and [Flamecharm](Flamecharm.md) attunement:
+A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), and [Flamecharm](Flamecharm.md) Attunements:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Critical | \[⁣[Acheron's Warspear](<Acheron's_Warspear.md>)\] Enters a stance before performing a quick swipe, will perform an additional slash if the first hit lands.
-\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>)\] User raises their leg before firmly slamming it down, breaking the opponent's guard.
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
 
-  
-\[⁣[Crescent Cleaver](Crescent_Cleaver.md)\] Lunges forwards before impaling their opponent, will throw the opponent to the ground if their first strike hits.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
-\[⁣[Tanto](Tanto.md)\] Winds up before unleashing a quick flurry of three slashes.
+ |
+| 
 
- | ◯ | ✗ | (★★☆) |
-| Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE.
+**Critical**  
+(★★☆)
 
-This mantra has a [Magnet Spark](Mantra_Modifiers.md) on it.
+ | The Journeyman Diver Guard uses the critical attack of their equipped weapon.
 
- | ◯ | ◯ | (★★☆) |
-| Lightning Stream | Sends an **invisible** projectile that latches onto a target before pulling them in. Has insane range. | ◯ | ◯ | (★★☆) |
-| Ice Daggers | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily. | ◯ | ◯ | (★★★) |
-| Fire Blade | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked. | ◯ | ◯ | (★★☆) |
-| Encircle | Conjure shadows around your enemy before warping to them after a delay. | ◯ | ◯ | (★☆☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (★☆☆) |
+-   The Markor's Inheritor criticial is not blockable.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | Diver lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Jolt Grab (Magnet Spark)**  
+(★★☆)
+
+ | Teleports to the nearest target before sending out a shocking AoE.
+
+ |
+| 
+
+**Lightning Stream**  
+(★★☆)
+
+ | Sends a projectile that latches onto a target before pulling them in. Has insane range.
+
+ |
+| 
+
+**Ice Daggers**  
+(★★☆)
+
+ | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily.
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked.
+
+ |
+| 
+
+**Encircle**  
+(★☆☆)
+
+ | Conjure shadows around your enemy before warping to them after a delay.
+
+ |
+| 
+
+**Spark Swap**  
+(☆☆☆)
+
+ | Snaps their fingers and swaps their location with another target.
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+ |
 
 ### Boons
 

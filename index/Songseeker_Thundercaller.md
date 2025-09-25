@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 149099
+revid: 163122
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -22,16 +22,71 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
 A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Thundercall](Thundercall.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly pummels opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises left leg before slamming it to the ground below. | ◯ | ✗ | (★★☆) |
-| Jolt Grab | Dashes forward grabbing someone into a chokehold and electrocuting them. | ◯ | ◯ | (★★☆) |
-| Lightning Impact | Rises into the air slamming back down with lightning empowered kick. | ◯ | ✗ | (★★☆) |
-| Storm Blades | Conjures blade shaped lightning that shocking anyone within. | ◯ | ◯ | (★★☆) |
-| Lightning Assault | Rushes forward like a bolt of lightning. | ◯ | ◯ | (★☆☆) |
-| Lightning Stream | A stream of lightning that hooks onto an opponent before shocking them multiple times. | ◯ | ◯ | (★★★) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises left leg before slamming it to the ground below.
+
+ |
+| 
+
+**Jolt Grab**  
+(★★☆)
+
+ | Dashes forward grabbing someone into a chokehold and electrocuting them.
+
+ |
+| 
+
+**Lightning Impact**  
+(★★☆)
+
+ | Rises into the air slamming back down with lightning empowered kick.
+
+ |
+| 
+
+**Storm Blades**  
+(★★☆)
+
+ | Conjures blade shaped lightning that shocking anyone within.
+
+ |
+| 
+
+**Lightning Assault**  
+(★★☆)
+
+ | Rushes forward like a bolt of lightning.
+
+ |
+| 
+
+**Lightning Stream**  
+(★☆☆)
+
+ | A stream of lightning that hooks onto an opponent before shocking them multiple times.
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+ |
 
 ### Boons
 

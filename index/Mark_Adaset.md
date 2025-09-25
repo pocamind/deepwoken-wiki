@@ -1,9 +1,9 @@
 ---
 title: Mark Adaset
-revid: 160951
+revid: 163107
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, The Divers, NPCs located in the First Layer]
+categories: [Adret NPCs, NPCs, NPCs located in the First Layer, The Divers]
 ---
 
 # Mark Adaset
@@ -19,8 +19,6 @@ categories: [Adret NPCs, NPCs, The Divers, NPCs located in the First Layer]
 Mark Adaset is the Quartermaster of [Castle Light](Castle_Light.md). He wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md)
 
 He is able to replace the [Deepbound](Boons_and_Flaws.md) flaw for a flaw/flaws of your liking.
-
--   This isn't recommended though as still having this flaw is considered rare due to its unobtainability, and provides zero downsides to your character.
 
 ## Location
 
@@ -112,3 +110,4 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
 
 -   Prior to Verse 2, he was located where [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) is located now, hence the dialogue referencing him being forced out by her.
 -   When asking him "Isn't this place dangerous?" he will respond differently depending on the players power.
+-   It isn't recommended to reroll the Deepbound Flaw due to its unobtainability and providing zero downsides to your character.

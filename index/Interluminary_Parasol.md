@@ -1,9 +1,9 @@
 ---
 title: Interluminary Parasol
-revid: 162470
+revid: 163142
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World Event, Monsters, Bosses]
+categories: [World Event, Monsters, Bosses, Enemies]
 ---
 
 # Interluminary Parasol
@@ -26,8 +26,8 @@ This boss is one of the [World Events](World_Events.md), spawning every odd hour
 
 This giant foe's moveset is relatively simple and is easy to avoid; however they deal a massive amount of damage if caught off guard.
 
-| Name/Danger | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
 **Pierce**  
 (★☆☆)
@@ -36,7 +36,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 
 -   Autogrips players if they are knocked.
 
- |  |
+ |
 | 
 
 **Spawn of the Abyss**  
@@ -44,7 +44,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 
  | The Parasol throws a boulder that deals damage on impact, summoning a Depths mob varied to a [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md).
 
- |  |
+ |
 
 ## Loot Table/Rewards
 

@@ -1,9 +1,9 @@
 ---
 title: The Doom of Caeranthil
-revid: 162502
+revid: 163145
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World Event, Monsters, Bosses]
+categories: [World Event, Monsters, Bosses, Enemies]
 ---
 
 # The Doom of Caeranthil
@@ -73,9 +73,7 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 
  | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage.
 
- | 
-
- |
+ |  |
 | 
 
 **Tidal Roar**  
@@ -194,10 +192,6 @@ Exhaustive Loot Table
 
   
 
-## Gallery
-
-The Doom of Caeranthil's path mapped out.
-
 ## Trivia
 
 -   When it was first teased, it was known to the devs and community as the "World Serpent."
@@ -207,6 +201,4 @@ The Doom of Caeranthil's path mapped out.
 
 ## References
 
-1.  [↑](#cite-ref-1)
-    
-    [https://discord.com/channels/883838743172218891/883840765644660736/1321951652374253578](https://discord.com/channels/883838743172218891/883840765644660736/1321951652374253578)
+1.  [↑](#cite-ref-1) [https://discord.com/channels/883838743172218891/883840765644660736/1321951652374253578](https://discord.com/channels/883838743172218891/883840765644660736/1321951652374253578)

@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 163077
+revid: 163109
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, Enemies, NPCs located in the Eastern Luminant, Quests]

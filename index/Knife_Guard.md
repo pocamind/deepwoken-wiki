@@ -1,6 +1,6 @@
 ---
 title: Knife Guard
-revid: 153319
+revid: 163111
 source: https://deepwoken.fandom.com/wiki/Knife_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -22,10 +22,23 @@ They all wielded [Whaling Knives](Whaling_Knife.md) and wore [Whaler Coats](Whal
 
 A Knife Guard's arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Swiftly swings dagger at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | The pirate uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward. | ◯ | ✗ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | The pirate uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward.
+
+ |
 
 ## Finisher
 

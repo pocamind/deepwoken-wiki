@@ -1,9 +1,9 @@
 ---
 title: Rock Golem
-revid: 162494
+revid: 163149
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Enemies]
 ---
 
 # Rock Golem
@@ -122,4 +122,4 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   You are able to interact with some of these golems, though nothing happens upon pressing the E key.
 -   These are known to attack you regardless if you have the Mute Regalia or not, likely due to their nature as inorganic constructs, rather than animals.
 -   Rock Golems will always win their fights against Megladounts, due to having more health and do more damage and attacks.
--   One of the several mobs that gives one Knowledge upon killing them for the first time. The other monsters are the [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md), **Rock Golem**, [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), [Corrupted Monsters](Monsters.md), [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md), [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md), and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md).
+-   One of the several mobs that gives one Knowledge upon killing them for the first time.

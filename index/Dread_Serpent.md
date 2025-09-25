@@ -1,9 +1,9 @@
 ---
 title: Dread Serpent
-revid: 162458
+revid: 163137
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Bosses]
+categories: [Monsters, Bosses, Enemies]
 ---
 
 # Dread Serpent
@@ -28,27 +28,39 @@ Though there are many seen today, the first Dread Serpent was born when a man, o
 
 _For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)._
 
-| Name | Description | Media |
-| --- | --- | --- |
-| Dread Breath  
-(★★☆) | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water.
+| Name | Description |
+| --- | --- |
+| 
+**Dread Breath**  
+(★★☆)
+
+ | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water.
+
 -   Also deals heavy damage to boats.
 -   This attack deals enough damage to knock a **MAX POWER** player in **UNDER TWO SECONDS** if consistently landed. If hit while knocked, it causes **extreme** amounts of blood loss.
 
- |  |
-| Claw Swipe  
-(★☆☆) | Swipes two times in quick succession
+ |
+| 
+
+**Claw Swipe**  
+(★☆☆)
+
+ | Swipes two times in quick succession
 
 -   Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe.
 -   If the opponent is low enough, It will **AUTO-GRIP** the player.
 
- |  |
-| Tail Swipe  
-(★★☆) | An attack with the tail.
+ |
+| 
 
--   often used after two claw swipes.
+**Tail Swipe**  
+(★★☆)
 
- |  |
+ | An attack with the tail.
+
+-   Often used after two claw swipes.
+
+ |
 
 ## Loot Table
 

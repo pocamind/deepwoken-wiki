@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 162822
+revid: 163160
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -60,28 +60,13 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="2">End</td>
-</tr>
-</tbody>
-</table>
-
-**Castaway Origin, without Tutorial:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>...</td>
-</tr>
-<tr>
+  <td>End, your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
   <td>End</td>
 </tr>
 </tbody>
 </table>
 
-**Without Tutorial:**
+**Castaway Origin, Without Tutorial:**
 
 <table>
 <tbody>
@@ -117,7 +102,23 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="2">End</td>
+  <td>End, your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Without Castaway Origin:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>...</td>
+</tr>
+<tr>
   <td>End</td>
 </tr>
 </tbody>

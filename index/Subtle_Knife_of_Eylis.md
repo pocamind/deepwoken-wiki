@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 152335
+revid: 163118
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -25,21 +25,68 @@ A Subtle Knife of Eylis' appearance consists of a [Whaler Coat](Whaler_Coat.md) 
 
 A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be enchanted and the Time Magic Oath.
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Swiftly swings dagger at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | The knife uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward. | ◯ | ✗ | (★★☆) |
-| Time-Slowing Orb | Conjures a growing orb that slows down the movement of everyone except Knives of Eylis members. | ✗ | ✗ | (★★☆) |
-| Dash | An agile dash | ◯ | ◯ | (☆☆☆) |
-| Adrenaline Surge | An adrenaline rush of mobility | ◯ | ◯ | (☆☆☆) |
-| Rapid Slashes | Rush down your opponent cutting them apart | ◯ | ◯ | (☆☆☆) |
-| Revenge | A vengeful rush | ◯ | ◯ | (☆☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | The knife uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward.
+
+ |
+| 
+
+**Time-Slowing Orb**  
+(★★☆)
+
+ | Conjures a growing orb that slows down the movement of everyone except Knives of Eylis members.
+
+ |
+| 
+
+**Dash**  
+(☆☆☆)
+
+ | An agile dash.
+
+ |
+| 
+
+**Adrenaline Surge**  
+(☆☆☆)
+
+ | An adrenaline rush of mobility. Grants a speed boost to the caster.
+
+ |
+| 
+
+**Rapid Slashes**  
+(★☆☆)
+
+ | Rush down your opponent cutting them apart.
+
+ |
+| 
+
+**Revenge**  
+(★☆☆)
+
+ | A vengeful rush.
+
+ |
 
 ### Talents
 
 -   Knife's Journey - Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage.
 -   Decisive Blow - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
--   Thresher Fangs - Your Knife's Journey critical hits now deal 2x damage to armor.
 -   Swift Rebound - Move faster after successfully dodging an attack.
 -   Evasive Expert - Your speed boost granted from dodging is increased.
 -   Risky Moves - When you successfully dodge, you'll automatically dodge the next attack.

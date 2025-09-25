@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 149129
+revid: 163124
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -18,9 +18,18 @@ An unfortunate group of individuals that became victims of [The Duke](Duke_Isham
 
 A Mindless Servant's arsenal only consists of their hands:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Scratch | Weakly smacks opponent over and over again until knocked. | ◯ | ◯ | (☆☆☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Scratch**  
+(★☆☆)
+
+ | Weakly smacks opponent over and over again until knocked.
+
+-   Has relatively high hitstun.
+-   If you whiff a parry against this attack, let the next attack hit you instead of retaliating, as you'll just get hit again.
+
+ |
 
 ### Passives
 
