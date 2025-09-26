@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 163205
+revid: 163217
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -64,8 +64,6 @@ Template:Creature Infobox V3
 
  | Quickly dashes a long distance, purely for mobility.
 
--   seemingly followed up with an m1 or critical unless interrupted (needs testing)
-
  |
 | 
 
@@ -76,7 +74,6 @@ Template:Creature Infobox V3
 
 -   Deals typeless damage.
 -   Has autoparry frames.
--   Has low posture damage per hit, but blocking multiple instances is risky
 
  |
 
@@ -88,5 +85,3 @@ Template:Creature Infobox V3
 
 -   Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.
 -   Gaze can effect the other Angel if they walk in front of the other while it's active, sometimes giving you a few free hits.
--   Can rather easily be cheesed in To1 by immediately using a burst damage mantra like rapid punches, either getting them both really low or knocking them the moment they spawn if timed correctly. This is probably your best bet since they do a lot of damage with their spears regardless of if the spears are enchanted.
--   Seemingly uses Exhaustion strike rarely (needs testing)
