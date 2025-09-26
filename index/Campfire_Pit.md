@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 162589
+revid: 163221
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Tools]
@@ -43,3 +43,4 @@ Pressing B while standing near a campfire with nothing in hand will make your ch
 -   Four lit campfires are required to summon [The Ferryman](The_Ferryman.md).
 -   Using [Glider](Gliders.md) above a [Campfire](Campfire_Pit.md) will lift you up a bit.
 -   Campfires were visually revamped in the September 15th, 2025 update.
+-   Attempting to build a campfire on a boat will yield a message saying "Putting a campfire here probably isn't the best idea."

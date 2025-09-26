@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163198
+revid: 163227
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3325,13 +3325,15 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Obtained at 50 Thundercall
 
 -   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons.
-    -   Grants the tool "Discovery of Fire", which uses ether to light up all nearby campfires.
-    -   Using this ability will light nearby downed enemies aflame.
-    -   Can be parried
+    -   Using this ability will consume 20 Ether to cause a lightning strike that lights nearby entities aflame including campfires, players, and monsters.
+    -   Has a 1 second delay between usage and the lightning bolt striking, potentially allowing for movestacks.
+    -   15 second cooldown. This cooldown starts when the lightning bolt strikes.
+    -   Deals 3 flat Thundercall damage on impact, applying [burn](Status_Effects.md#burn) with **no hitstun** and 1.08x PvE scaling.
+    -   Discovery of Fire can be parried and blocked, applying parry stun to the caster if parried, and dealing 0 posture damage if blocked.
+    -   Does not have hitregistry in [Chime of Conflict](Chime_of_Conflict.md).
     -   Prerequisite: 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly.
-    -   Does not work on monsters
     -   Prerequisite: [Lightning Beam](Thundercall.md#lightning-beam) (Mantra)
 
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
@@ -3624,7 +3626,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Command: Summon**_ \[Advanced Talent\] - Command your servant to obey your summons and appear before you no matter the distance.
     -   Prerequisites: 80 Charisma, Vow of Mastery
-    -   Effect: Teleports the subject to the master regardless of distance. Teleportation takes a few seconds to complete, and any hit will cancel it
+    -   Effect: Teleports the subject to the master regardless of distance. Teleportation takes 10 seconds to complete, and any hit will cancel it
     -   30 Second for Master and 2 Minutes for Subject
 
 ### Warrior

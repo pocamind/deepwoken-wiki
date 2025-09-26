@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 162209
+revid: 163225
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 ― The Blade Within
 
-The Oath is a result of the player conducting a **Reflection Ritual** at the Sky Statues scattered around the Luminant. The user makes a Vow with their own weapon, to spend the rest of their future with their own blade, out of the many futures presented to them during the Reflection Ritual.
+The Bladeharper Oath is a result of the player conducting a **Reflection Ritual** at the Sky Statues scattered around the [Luminants](Luminants.md). The user makes a Vow with their own weapon, to spend the rest of their future with their own blade, out of the many futures presented to them during the Reflection Ritual.
 
 ## Obtainment
 
@@ -140,7 +140,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 
 ## Trivia
 
--   You can use the oath and Decimate with fist, but to fight the Blade Within you must use a different weapon, like a dagger or rapier.
+-   You can use the oath and Decimate with fist, but to fight the Blade Within you must use a different light weapon, like a dagger or rapier.
 -   The statue in the center of the Blade Within will be the weapon you had equipped when you were teleported.
 -   The Oath bracelets were formerly called "Snakerings" (as viewed from the Dye Packet), which was later changed to "Bladeharper Serpents".
 -   Its obtainment method is inspired by the way in which Ichigo Kurosaki, the protagonist of BLEACH, obtained his "Bankai" ability.

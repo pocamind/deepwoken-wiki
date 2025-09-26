@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 163174
+revid: 163222
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -36,7 +36,7 @@ The Worldpiercer Gauntlets are a Fist Weapon obtained from [Titus Fulminus Deste
 
 -   Before the 08/04/2025 update, these were undroppable and unbankable, but becomes bankable if [Enchanted](Enchantments.md), similar to starter weapons.
 -   Despite being unique rarity, these are enchantable, similar to the [Gaunts of Enmity](Gaunts_of_Enmity.md).
--   These are used by [Titus](Titus_Fulminus_Destellus.md).
+-   These are used by [Titus](Titus_Fulminus_Destellus.md). The emblem on his gauntlets do not glow unless he is in his Blight State.
 -   During the 06/09/2025 update, the gauntlets were accidentally published into the game, likely being a remnant from testing, with the following properties:
     -   Being obtainable from a variety of sources it isn't intended to, such as [Chime of Conflict](Chime_of_Conflict.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [The Depths](The_Depths.md), [Voidsea](Voidsea.md). or [Voidwalker](Voidwalker.md) chests.
         -   These are common lootpools, likely ones that are easy to pull from.

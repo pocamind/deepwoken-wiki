@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 163090
+revid: 163223
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -930,6 +930,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
 -   Blazing can NOT be used to ignite campfires that are unlit by m1's.
 -   The thunder strike caused by using Storm during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
+-   If you are to somehow have more then three equipment enchants equipped via unobtainable items, one of those enchants will be automatically disabled.
 
 ## References
 
