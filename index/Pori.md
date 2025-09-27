@@ -1,6 +1,6 @@
 ---
 title: Pori
-revid: 161252
+revid: 163281
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea]
@@ -12,7 +12,7 @@ Template:NPC name
 
 ## Description
 
-Pori is a young [Etrean](Etrean.md) NPC in the blacksmith shop in [Etris](Etris.md). He sits outside the shop, selling Cloth and Fiber for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece.
+Pori is a young [Etrean](Etrean.md) NPC in the blacksmith shop in [Etris](Etris.md). He sits outside the shop, selling Cloth and Fiber for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece, though this only happens once the very first time playing the game upon making a castaway [origin](Origins.md) slot.
 
 ## Dialogue
 
