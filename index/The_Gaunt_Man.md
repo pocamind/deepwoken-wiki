@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 163009
+revid: 163284
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, NPCs, Vendors]
@@ -60,9 +60,9 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <tr>
   <td colspan="20">So, you want me to fight some monsters?</td>
   <td colspan="20">On second thought, I'm okay.</td>
-  <td colspan="40">End.</td>
+  <td colspan="40">End</td>
   <td colspan="40"></td>
-  <td colspan="40">End.</td>
+  <td colspan="40">End</td>
 </tr>
 <tr>
   <td colspan="20">Monsters? I suppose that is one description. Will you assist me?</td>
@@ -71,7 +71,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <tr>
   <td colspan="10">Of course.</td>
   <td colspan="10">I'll pass.</td>
-  <td colspan="20">End.</td>
+  <td colspan="20">End</td>
 </tr>
 <tr>
   <td colspan="5">[The player is out of combat]</td>
@@ -83,7 +83,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td colspan="5">Ah, there are outliers currently.</td>
 </tr>
 <tr>
-  <td colspan="10">End.</td>
+  <td colspan="10">End</td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +109,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <tr>
   <td colspan="20">So, you want me to fight some monsters?</td>
   <td colspan="20">On second thought, I'm okay.</td>
-  <td colspan="40">End.</td>
+  <td colspan="40">End</td>
 </tr>
 <tr>
   <td colspan="20">Monsters? I suppose that is one description. Will you assist me?</td>
@@ -118,7 +118,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <tr>
   <td colspan="10">Of course.</td>
   <td colspan="10">I'll pass.</td>
-  <td colspan="20">End.</td>
+  <td colspan="20">End</td>
 </tr>
 <tr>
   <td colspan="5">[The player is out of combat]</td>
@@ -130,7 +130,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td colspan="5">Ah, there are outliers currently.</td>
 </tr>
 <tr>
-  <td colspan="10">End.</td>
+  <td colspan="10">End</td>
 </tr>
 </tbody>
 </table>
@@ -179,7 +179,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="6">Experiment complete.</td>
+  <td colspan="6">Experiment complete</td>
 </tr>
 </tbody>
 </table>
@@ -216,13 +216,13 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
   <td colspan="3">You wouldn't happen to be a Krulian would you?</td>
 </tr>
 <tr>
-  <td colspan="12">End.</td>
+  <td colspan="12">End</td>
   <td colspan="3"></td>
   <td colspan="3"><a href="Glossary.md#krulians">Krulian</a>. Yes, some portion of me knows this to be true.</td>
 </tr>
 <tr>
   <td colspan="15"></td>
-  <td colspan="3">End.</td>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>

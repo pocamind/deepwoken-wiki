@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 163103
+revid: 163288
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1073,6 +1073,7 @@ N/A
 -   Ignites nearby campfire pits if not currently healing you.
 -   Flame Wisp also seems to reduce [parasite](Second_Layer/The_Ethironal_Shrine.md#parasites) growth.
 -   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
+-   Does not work with Eruption Path: Lava Serpent (BUGGED and has been for a while.)
 -   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 

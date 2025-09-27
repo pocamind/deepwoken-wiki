@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 163276
+revid: 163285
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -41,7 +41,7 @@ Although they purely scale off of the player's element, Hero Blades deal physica
 -   [Alastir](Alastir.md) refuses to talk about his hero blade, possibly suggesting that they have some sort of dark history.
 -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
     -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
--   Before Verse 2 (12/24/2022), the critical of the Hero lades were basic sword critical stabs.
+-   Prior to Verse 2 (12/24/2022), the critical of the Hero Blades was the basic sword critical.
 -   Every critical of the hero blade summons a hero and features their own aspect.
     -   The Hero of Flame is a [Khan](Khan.md) named Jace.
         -   Identified by his crown.

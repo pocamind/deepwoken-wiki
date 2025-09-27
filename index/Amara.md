@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 157747
+revid: 163286
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ Her and the 11th Scouting Legion arrived in the East from the Western Luminant t
 
 ## Location
 
-Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Jaw.md>) far inside in a Legion hideout with other legionares, the entrance to the cave is located to the right of the bandit camp
+Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Jaw.md>) far inside in a Legion hideout with other legionnaires, the entrance to the cave is located to the right of the bandit camp
 
 ## Dialogue
 
@@ -49,8 +49,8 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 <tr>
   <td colspan="4">End</td>
   <td colspan="2">Help out the Centurions in Aratel, though be careful, not all of them may be friendly. Once you've got their approval, return to me with a recommendation and i'll teach you.</td>
-  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Xavos/Zash really admires your efforts. You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time. I wish you the best of luck, comrade (Friend rep)/[player name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
-  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Xavos/Zash really admires your efforts. It doesn't seem you're that familiar with Galebreathing at all... You won't be able to reach it's full potential just yet. I wish you the best of luck, comrade (Friend rep)/[player name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
+  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts. You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time. I wish you the best of luck, comrade (Friend rep)/[player name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
+  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts. It doesn't seem you're that familiar with Galebreathing at all... You won't be able to reach it's full potential just yet. I wish you the best of luck, comrade (Friend rep)/[player name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
 </tr>
 <tr>
   <td colspan="4"></td>
