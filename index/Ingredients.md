@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 159652
+revid: 163235
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -86,7 +86,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 
 -   [Megalodaunt](Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Crimson Megalodaunt](Crimson_Megalodaunt.md) and [Prime Megalodaunt](Prime_Megalodaunt.md)
     -   [Megalodaunt Hide](Megalodaunt_Hide.md)
--   [Megalodaunt](Megalodaunt.md) only
+-   [Megalodaunt](Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Crimson Megalodaunt \[?\]](Crimson_Megalodaunt.md)
     -   [Megalodaunt Coral](Megalodaunt_Coral.md)
 -   [Exotic Megalodaunt](Exotic_Megalodaunt.md)
     -   [Exotic Hide](Exotic_Hide.md)

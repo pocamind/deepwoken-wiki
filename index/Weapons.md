@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 162946
+revid: 163250
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -12773,7 +12773,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.
 -   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
-    -   Base Damage: [Sovereign Bangle](Oath%253A_Blightsurger.md) (30)
+    -   Base Damage: [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) (30)
     -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md), [Lumensplitter](Lumensplitter.md) (100 HVY)
     -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
     -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
@@ -12783,9 +12783,9 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Soulwrought Gun](Crazy_Slots.md) (16)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
-    -   Range: [Repeater](Repeater.md), [Soulwrought Gun](Crazy_Slots.md), [Guiding Star](Guiding_Star.md) (12)
-    -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md) (1.33x)
-    -   Highest DPS: [Soulwrought Greatsword](Crazy_Slots.md) (110 DPS)
+    -   Range: [Repeater](Repeater.md), [Soulwrought Gun](Crazy_Slots.md#weapons), [Guiding Star](Guiding_Star.md) (12)
+    -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)
+    -   Highest DPS: [Soulwrought Greatsword](Crazy_Slots.md#weapons) (110 DPS)
     -   Unique Crits: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
 -   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).
@@ -12794,4 +12794,4 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to scale on alternating weapon stats.
 -   [Flareblood Kamas](Flareblood_Kamas.md) is the only weapon to scale on a stat it does not require.
 -   [First Light](First_Light.md) and [Krulian Knife](Krulian_Knife.md) are the only weapons to have pure elemental scaling on their criticals. Despite this, neither of these weapons require any attunement investment to be used.
--   The [Saintsblade](Oath%253A_Saintsworn.md), [Sovereign Bangle](Oath%253A_Blightsurger.md), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
+-   The [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...

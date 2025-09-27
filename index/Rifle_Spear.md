@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 162793
+revid: 163240
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -10,17 +10,16 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 
 | Rifle Spear | |
 |---|---|
-| type | Spear |
+| type | Spear/Rifle |
 | requirements | 75 MED |
 | damage | 21 |
 | scaling | MED: 7 |
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
-| special effect | Procs all Rifle exclusive Talents, uses the Gun aerial attack and Bullet Casings. |
+| special effect | Procs all Rifle and Spear exclusive Talents. |
 | m.equip | No |
 | m.extract | No |
-| stances | 2 Handed, 1 Handed |
 | selling price | 25 |
 | weight | 5 |
 | bankable | Yes |
@@ -34,7 +33,7 @@ _Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker
 
 ## Description
 
-The Rifle Spear is a Medium Weapon in the Spear category. It is commonly used by many [Authority](The_Central_Authority.md) NPCs. Uniquely, the Rifle Spear will proc all Rifle-related talents, use [Bullet Casings](Bullet_Casings.md), and the Gun aerial attack.
+The Rifle Spear is a Medium Weapon in the Spear and Rifle categories. It is commonly used by many [Authority](The_Central_Authority.md) NPCs. Uniquely, the Rifle Spear will proc both Rifle and Spear Talents.
 
 ## Critical
 
@@ -46,6 +45,7 @@ The critical has a cooldown of **5 seconds**.
 
 -   Meeting the requirement of MED, the damage is (29.3).
 -   At max MED, the damage is (32).
+-   The Rifle Spear is one of two weapons, the other being [Wyrmtooth](Wyrmtooth.md), to fall into two different weapon classes.
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.
 -   The Rifle Spear has a Central Authority logo etched onto the blade.

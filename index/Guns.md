@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 162949
+revid: 163241
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -302,7 +302,6 @@ Additionally, the [Rifle Spear](Rifle_Spear.md) counts as a rifle for all rifle 
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 [Iron](Ores.md#iron) for 20 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
--   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md). (two rifles and one Pistol)
 -   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits, both being legendary weapons.
 -   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
