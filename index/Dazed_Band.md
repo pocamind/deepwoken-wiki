@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 151337
+revid: 163263
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -24,7 +24,7 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Dazed Band** is a Ring [Equipment](Equipment.md) piece that when it's equipped, it grants a 50% chance to automatically stun opponents upon flourishing them. It is a somewhat common item that can be found from all sorts of places. It requires Power 3 to use.
+**Dazed Band** is a Ring [Equipment](Equipment.md) piece that when it's equipped, it grants a 50% chance to automatically stun opponents upon flourishing them. It is a somewhat common item that can be found from all sorts of places. It requires Power 3 to equip.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 163026
+revid: 163265
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -16,9 +16,7 @@ categories: [NPCs, Mechanics]
 
 ― Shrine of Chance
 
-**If your looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to**
-
-**[Navigation](#navigation).**
+**If you're looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
 ## Description
 
@@ -36,7 +34,7 @@ When using this shrine, please make sure to **check if you burned the card you'r
 
 ### Details
 
--   Advanced and Common Talents share a rarity as far as Shrine of Chance is concerned; you can exchange a Common for and Advanced and vice versa via **Talent Exchange** or obtain either a Common or Advanced Talent via **Talent Degradation**.
+-   Advanced and Common Talents share a rarity as far as Shrine of Chance is concerned; you can exchange a Common for an Advanced and vice versa via **Talent Exchange** or obtain either a Common or Advanced Talent via **Talent Degradation**.
 -   The Talent Draw is affected by [Mystics](../Mystic.md), make sure to use them to not waste Knowledge.
 -   You must meet the requirements at least one non-mutually exclusive Talent in order to exchange a Talent for another.
     -   For example, if the only Rare Talents you can obtain are Observation and Safety Dance, you will not be able to exchange Risky Moves for them, however if you also meet the requirements of (but don't already own) Cheap Shot, then you will be able to exchange Risky Moves for either of the Leaf in the Wind Talents.

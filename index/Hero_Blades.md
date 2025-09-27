@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 157068
+revid: 163276
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -25,29 +25,25 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 4 |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, The Diluvian Mechanism, Sold in Traan Zakshun's for 4,500 or in his black market for 4 |
 | description | A blade said to be enruned with a passage of the song, it evokes the element within. |
 
-## Overview
+## Description
 
-**The Hero Blades** are a series of legendary blades, each rumored to be made from an attunement based on the individual elemental Hero whom they were created for. Perhaps due to how the blades were created, only those with powerful connections to the song are able to wield one of these weapons, each attuned to one of the many elements of the song.
+The Hero Blades are a series of legendary blades enhanced and enruned with The Song. Each blade is connected to a respective Hero who bound their soul and Attunement into the weapon. The Hero Blades and the Heroes themselves are connected to the [Saintsworn Oath](Oath%253A_Saintsworn.md).
 
-What attunement the weapon possesses is based on the hero who once wielded it, the [Khan](Khan.md) hero having a blade made of flames, the [Capra](Capra.md) hero having a blade made of frost, the [Tiran](Tiran.md) hero having a blade made of wind, the [Adret](Adret.md) hero having a blade made of lightning, and the [Felinor](Felinor.md) hero having a blade made from shadow. Each blade requires 75 in their respective attunement and level 11+.
-
-The Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter, or by fighting and completing the mysterious [Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating the [Blizzard Knights](Stone_Knight.md#blizzard-knight) will guarantee a chest with one to a several of the blades at random.
-
-Each of the Hero Blades have their own unique critical attack.
-
-A common misconception is their damage type. Hero Blades deal **Physical Slash Damage**, like normal swords. However, their critical attacks deal elemental damage of the relevant type. Additionally, they scale off [Proficiency](Traits.md#proficiency) like normal weapons, **not** [Songchant](Traits.md#songchant).
+Although they purely scale off of the player's element, Hero Blades deal physical slash damage and additionally scales off of the Proficiency [trait](Traits.md). Each of the Hero Blades possess a unique critical attack, summoning the fallen heroes to aid dealing elemental damage of their respective type.
 
 ## Trivia
 
+-   Meeting the ELM requirement, the damage is (26.2) for all of the Hero Blades.
+-   At max ELM, the damage is (28.3) for all of the Hero Blades.
 -   [Alastir](Alastir.md) refuses to talk about his hero blade, possibly suggesting that they have some sort of dark history.
 -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
     -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
--   Before Verse 2 (12/24/2022), the critical of the Hero blades were basic sword critical stabs.
--   Every critical of the hero blade has a different hero with different aspect.
-    -   The Hero of Flame is a [Khan](Khan.md) named Jace
+-   Before Verse 2 (12/24/2022), the critical of the Hero lades were basic sword critical stabs.
+-   Every critical of the hero blade summons a hero and features their own aspect.
+    -   The Hero of Flame is a [Khan](Khan.md) named Jace.
         -   Identified by his crown.
     -   The Hero of Frost is a [Capra](Capra.md) named Faust.
         -   Identified by his horns and mask.

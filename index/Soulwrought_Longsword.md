@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Longsword
-revid: 162847
+revid: 163258
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Crazy Slots#Soulwrought Longsword](Crazy_Slots.md#soulwrought-longsword)
+-   [Crazy Slots#Weapons](Crazy_Slots.md#weapons)

@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Greatsword
-revid: 162849
+revid: 163255
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Crazy Slots#Soulwrought Greatsword](Crazy_Slots.md#soulwrought-greatsword)
+-   [Crazy Slots#Weapons](Crazy_Slots.md#weapons)

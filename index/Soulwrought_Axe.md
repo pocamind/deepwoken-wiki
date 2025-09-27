@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Axe
-revid: 162844
+revid: 163256
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Crazy Slots#Soulwrought Greataxe](Crazy_Slots.md#soulwrought-greataxe)
+-   [Crazy Slots#Weapons](Crazy_Slots.md#weapons)

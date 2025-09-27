@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Spear
-revid: 162848
+revid: 163257
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Crazy Slots#Soulwrought Spear](Crazy_Slots.md#soulwrought-spear)
+-   [Crazy Slots#Weapons](Crazy_Slots.md#weapons)
