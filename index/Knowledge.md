@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 161734
+revid: 163307
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -79,9 +79,9 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 
 Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice**_ and will be lost permanently. Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order).
 
--   Engaging in a deal with **[Shrine of Order](Deep_Shrines/Shrine_of_Order.md)** or **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)** costs 10 Knowledge. [Ganymede](Ganymede.md) reduces the Knowledge cost of these Shrines by 1.
+-   Engaging in a deal with **[Shrine of Order](Deep_Shrines/Shrine_of_Order.md)** or performing a _Talent elevation_ with **[Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md)** costs 10 Knowledge. [Ganymede](Ganymede.md) reduces the Knowledge cost of these Shrines by 1.
     -   _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit_.
--   Engaging in a deal with **[Shrine of Division](Deep_Shrines/Shrine_of_Division.md)**, **[Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)**, or **[Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)** costs 5 Knowledge. [Ganymede](Ganymede.md) reduces the Knowledge cost of these Shrines by 1.
+-   Engaging in a deal with **[Shrine of Division](Deep_Shrines/Shrine_of_Division.md)**, **[Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md)** (for most deals), **[Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md)**, or **[Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md)** costs 5 Knowledge. [Ganymede](Ganymede.md) reduces the Knowledge cost of these Shrines by 1.
     -   Using Shrine of Blasphemy when below Power 17 will level you up 3 times, almost offsetting the Knowledge cost entirely.
 -   Engaging in a deal with **[Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md)** or **[Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md)**, costs 1 Knowledge.
 -   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), costs 15 Knowledge. If you wish to stack Clarity wishes, it costs an extra 5 on top of the previous Knowledge cost. (e.g. 15 -> 20 -> 25 -> 30; by stacking a mere 4 wishes, you have spent a total of 90 Knowledge.)

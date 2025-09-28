@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 160934
+revid: 163297
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -48,8 +48,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ### Intelligence Unbound
 
 1.  Reach 75 Intelligence.
-2.  Enter the [Garden Reservoir](The_Garden_Reservoir.md) and obtain a Soul Hearthgem. They are located inside a small cave with acid that must be ran through on the right wall and at ground level, not far from the [Megalodaunt](Megalodaunt.md) in the area.
-3.  Reach [The Birdcage](The_Birdcage.md) and light each brassier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
+2.  Enter [The Garden Reservoir](The_Garden_Reservoir.md) and obtain a [Soul Hearthgem](Soul_Hearthgem.md). They are located inside a small cave with acid that must be ran through on the right wall and at ground level, not far from the [Megalodaunt](Megalodaunt.md) in the area.
+3.  Reach [The Birdcage](The_Birdcage.md) and light each brazier with the Soul Hearthgem in the following sequence: Left, Front, Back, Right.
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps.
 6.  Eat 1 Bluecap. If the requirements are met, you will black out and wake up, obtaining Intelligence Unbound
@@ -58,9 +58,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 ### Willpower Unbound
 
-1.  Reach 75 Willpower
-2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md)
-3.  Take his first dialogue option then meet him at [Castle Light](Castle_Light.md)
+1.  Reach 75 Willpower.
+2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md).
+3.  Take his dialogue option "Wait, I'm not with them." then meet him at [Castle Light](Castle_Light.md).
 4.  If you aren't [Deepbound](Deepbound.md), make sure that you entered The Depths through a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the [Vacant](Boons_and_Flaws.md#flaws) Flaw.
 5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join [The Divers](The_Divers.md) to unbound Willpower.
 
@@ -69,25 +69,28 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ### Charisma Unbound
 
 1.  Reach 75 Charisma.
-2.  Start [Karliah's Quest](Etris.md) in [Etris](Etris.md).
-3.  In [Lower Erisia](Lower_Erisia.md), above the mines, save Karliah from the [Mudskipper](Mudskipper.md) eating her.
-4.  Talk to Karliah and make sure to select the last dialogue option. The first and second option will result in her demise, either by [Horseshoe Crabs](Horseshoe_Crab.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
-5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
+2.  Start the "Diver Apprentice" [Quest](Quests.md) by speaking to [Karliah](Karliah.md) in [Etris](Etris.md).
+3.  In [Lower Erisia](Lower_Erisia.md), above the mines, save Karliah from the [Mudskipper](Mudskipper.md) attacking her.
+4.  Talk to Karliah and select the dialogue option "
+
+I don't think you're cut out for this. Mudskippers are small fry, you'll face much worse as a Diver. You need to rethink your life goals. \[Charisma\]". The first and second option will result in her demise, either by [Horseshoe Crabs](Horseshoe_Crab.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
+
+1.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
 
 _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)._
 
 ## Weapon Proficiency Unbound
 
-1.  Kill a boss OR
-2.  Reach 75 Heavy/Medium/Light
-3.  Start the [A Lost Sibling](Temple_of_the_Blade.md) quest by talking to Apprentice Kj. (You can find the brother without starting the quest)
-4.  Obtain a [Gale Stone](Gale_Stone.md).
-5.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
-6.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))
-7.  Hold the [Gale Stone](Gale_Stone.md) and talk to the NPC bleeding all over.
-8.  Return to Apprentice Kj to finish the quest.
-9.  Head on to the Sparring Arena and talk to [Maestro](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
-10.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
+1.  Reach 75 investment in Heavy/Medium/Light.
+
+1.  Start the "Vigil's Savior" [Quest](Quests.md) by speaking to [Apprentice Kj](Apprentice_Kj.md) in the [Temple of the Blade](Temple_of_the_Blade.md). (You can find the brother without starting the quest)
+2.  Obtain a [Gale Stone](Gale_Stone.md).
+3.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
+4.  Find a wooden house, located deep within the area (not to be confused with the [Rat's Den](<Rat's_Den.md>))
+5.  Speak to the injured [Vigil Isaac](Vigil_Isaac.md) and give him a Gale Stone.
+6.  Return to Apprentice Kj to finish the quest.
+7.  Head on to the Sparring Arena and speak to [Evengarde Rest](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
+8.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
 
 **In-game map location of the wooden cabin:**
 
@@ -97,7 +100,7 @@ Alternatively, weapon can also be unbounded by reaching 75 points on the desired
 
 ## Attunement Unbound
 
-1.  Reach 75 in an [Attunement](Attunements.md).
+1.  Reach 75 investment in an [Attunement](Attunements.md).
 2.  Defeat any [Humanoid Boss](Bosses.md).
 
 ## Notes

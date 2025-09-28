@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 162295
+revid: 163309
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs]
@@ -44,7 +44,7 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
 </tr>
 <tr>
   <td colspan="6">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td>
-  <td colspan="6">Gwoh?! *<i>Their eyes light up in anticipation, hanging on your every word. It's possible they could die if you dont finish your sentence soon, like a pet hamster starved of attention.</i>*</td>
+  <td colspan="6">Gwoh?! *<i>Their eyes light up in anticipation, hanging on your every word. It's possible they could die if you don't finish your sentence soon, like a pet hamster starved of attention.</i>*</td>
 </tr>
 <tr>
   <td colspan="6">Your fashion sense is...</td>
@@ -79,6 +79,14 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
   <td colspan="4">[Dialogue is the same as First Encounter]</td>
   <td colspan="4">Gwoh! Oh I just *love* the look today. Very avant-garde, yes? Broke-chic is very in right now, you know? Gwoh hoh!</td>
   <td colspan="4">Gwoh! What a mess! Basic! Simply basic! Come to receive enlightenment, gwhmmmm?</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="8">[Purchased Something]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="8">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td>
 </tr>
 <tr>
   <td colspan="4"></td>
