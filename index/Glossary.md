@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 163299
+revid: 163314
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -473,7 +473,7 @@ Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 
-Dialogue: [Alastir](Alastir.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
 
 ### The Western Luminant
 

@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 163200
+revid: 163320
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -10,7 +10,7 @@ notices:
 
 # Loading Screen
 
-The **Loading Screen** comes up every time a player teleports to a new server, including when starting up the game. We had a description for it but the devs changed the screen to something very different so...
+The **Loading Screen** comes up every time a player teleports to a new server, including when starting up the game.
 
 ## Description
 
@@ -59,7 +59,7 @@ During the loading processes, the resources are rendered in so the player can in
 -   Your Posture Bar will flash white when your Parry comes off cooldown. Timing is everything!
 -   Hitting unconscious players will drain their blood, eventually bleeding them out.
 -   Charmed enemies deal reduced damage to those that applied the status.
--   You can make a Vow of Allegiance with another player by asking 'wanna make a vow of allegiance?'. This will cause them to be considered an ally by your abilities.
+-   You can make a Vow of Allegiance with another player by asking _'wanna make a vow of allegiance?'_. This will cause them to be considered an ally by your abilities.
 -   Accidentally disconnected or crashed while in danger? So long as you were above 60% HP at the moment your connection cut out, you should not have lost a life. This does not apply to PvP.
 -   Killing certain tough monsters for the first time rewards you with 1 Knowledge.
 -   Weather can affect elemental damage. For example, Lightning is stronger in Rain, and Frost is stronger in Snow.
@@ -67,12 +67,16 @@ During the loading processes, the resources are rendered in so the player can in
 -   Died unfairly to a bug or an exploiter? If you have a recording of the death, you can create a restore ticket in the Community Server. Please consult the restore guidelines beforehand for a comprehensive list of what is and is not restorable.
 -   Charmed enemies deal reduced damage to those that applied the status.
 -   Heavy weapons have an innate +20% damage to Armor on larger foes.
--   Want to take someone out of combat after you've hit them? Simply say 'my bad' and their name, or 'my bad all' if you want to clear your combat tags from everyone nearby
+-   Want to take someone out of combat after you've hit them? Click the crossed swords ar \[_[sic](https://en.wikipedia.org/wiki/sic)_\] the top of your screen for options
+-   Pressing Feint/Cancel while in ragdolled knockback will let you 'tech' the ragdoll state, speeding up your recovery.
 
 ### Mechanics
 
 -   If your Armor bar hits zero none of your Armor Resistances will work! This isn't just limited to your Outfit, but also to your Equipment.
--   Your Armor Resistances from different sources are multiplied together instead of added. This means 50% Physical Armor from your Outfit and 50% Physical Armor from your Equipment will resist 75% of Physical Damage, not 100%! You can see how much Armor Resistance you have total in your Journal.
+-   Your Armor Resistances from different sources are multiplied together, _not_ added. This means 50% Physical Armor from your Outfit and 50% Physical Armor from your Equipment will resist 75% of Physical Damage, not 100%!
+
+You can see how much Armor Resistance you have total in your Journal.
+
 -   Those that come close the death in the Depths may be driven to push themselves to the limit and unlock a latent potential within themselves...
 -   Ever afraid of accidentally selling an item you want to keep? Right click on it and lock it!
 -   After standing still in one spot for 15 seconds while injured, you'll start to Recuperate, catching your breath and accelerating your natural healing.
@@ -97,6 +101,7 @@ During the loading processes, the resources are rendered in so the player can in
 -   Voidzones are areas that have slipped into the void, bringing them closer to the Depths. Dying there will send you straight down to the Depths, but all forms of experience are doubled in their harsh conditions.
 -   Staggered monsters will lose all their resistances temporarily, taking more damage from incoming attacks.
 -   While not in a Dungeon, chaining horizontal mobility moves in succession lessens their effectiveness.
+-   Dashing backwards in midair performs a flip that greatly reduces your velocity, letting you recover from knockback.
 
 ### Oaths
 

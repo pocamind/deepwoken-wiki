@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 161413
+revid: 163313
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Knives of Eylis]
@@ -32,7 +32,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</b></i></td>
 </tr>
 <tr>
   <td colspan="2">I want to become strong.</td>
@@ -297,24 +297,18 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</b></i></td>
 </tr>
 <tr>
   <td colspan="6">I wish to depart.</td>
   <td colspan="6">What are you?</td>
 </tr>
 <tr>
-  <td colspan="3">Out of Combat</td>
-  <td colspan="3">In Combat</td>
+  <td colspan="6"><i><b>Very well, Knife.</b></i></td>
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="3"><i><b>Very well, Knife.</b></i></td>
-  <td colspan="3"><s><i><b>Your heart beats faster still. Return once you have killed your fear.</b></i></s> no longer this</td>
-</tr>
-<tr>
-  <td colspan="3">End (You get teleported)</td>
-  <td colspan="3">End (Spawns portals)</td>
+  <td colspan="6">End, player is teleported to last Voideye location</td>
 </tr>
 </tbody>
 </table>

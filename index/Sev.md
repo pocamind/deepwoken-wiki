@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 163309
+revid: 163311
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs]
@@ -53,7 +53,7 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
 </tr>
 <tr>
   <td colspan="6">[See first instance]</td>
-  <td colspan="3"><i>*They beam with pride. you think you see a tear well up in their eye.*</i> Gwoh! <b>GWOH!</b> You. Are. A. <b>RIOT!</b> <i>Not enough of a riot to make me drop my prices or offer any form of discount</i>, but a riot all the same! GWOH!</td>
+  <td colspan="3"><i>*They beam with pride, you think you see a tear well up in their eye.*</i> Gwoh! <b>GWOH!</b> You. Are. A. <b>RIOT!</b> <i>Not enough of a riot to make me drop my prices or offer any form of discount</i>, but a riot all the same! GWOH!</td>
   <td colspan="3">Drop dead, boor.</td>
 </tr>
 <tr>

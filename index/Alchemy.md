@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 162323
+revid: 163327
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -527,9 +527,9 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 
 -   **Weaker Posture Damage Potion** (Weakening) - 3 Alestrian Coral + 2 Spider Eggs
     -   Decreases your posture damage.
--   **Posture Defense** (Steadfast) - 3 Marram Grass/Bamboo + 2 Spider Eggs
 
--   -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Glumfigs + 2 Redds + Antithetic Salts. Also deals damage on hit.
+-   **Posture Defense** (Steadfast) - 3 Marram Grass/Bamboo + 2 Spider Eggs
+    -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Glumfigs + 2 Redds + Antithetic Salts. Also deals damage on hit.
     -   Grants resistance to incoming posture damage, effectively increasing your maximum posture.
 
 -   **Weakened Posture** (Buckling) - 3 Glumfigs + 2 Spider Eggs
@@ -549,14 +549,14 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 -   **Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
     -   Less pathetic than instant damage, but still pretty bad.
     -   You can substitute the Spider Eggs for Bluecaps to gain additional instant damage.
+
 -   **Ether Restoration** (Focusing) - 3 Wheat + 2 Spider Eggs
     -   The Focusing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or Browncaps) are added to reduce this effect.
-    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Redds + 2 Calabash, with an Antithesis salt, this potion lasts about 2x the duration as the standard potion with an even faster Ether Restoration effect.
 
 -   **Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
     -   Rapidly drains ether for a decent amount of time. Can very quickly drain the target's entire ether bar while preventing them from gaining it back.
     -   Swapping out 1 Calabash for an additional Spider Egg applies a less potent ether drain effect, but over a much longer duration of time. This is often preferred over the former potion, especially for [Shadowcast](Shadowcast.md) users.
-    -   Drains around 350 ether over the course of the duration.
+    -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Wheat/Sap + 2 Redds + Antithetic Salts, applying a much more potent effect with a lessened duration. Biotic Salts are also highly recommended for Ether Drain potions, as the downside will be nullified entirely for yourself and your allies.
 
 -   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
     -   Also deals a small amount of damage and instantly restores Ether.
