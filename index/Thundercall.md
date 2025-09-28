@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 163329
+revid: 163334
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ Thundercall makes use of a highly unpredictable nature due to its speed and high
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md), can be located in one of the rooms on the upper level of the [Summer Isle castle](Summer_Isle.md#the-castle). When speaking to him, he will request five (5) [Spark Glands](Spark_Gland.md). If you have obtained Thundercall previously on your account, he will request two (2) Spark Glands instead. Once you give him the Spark Glands, he will hand you the [Sparkblood Potion](Attunement_Potions.md); drink this to obtain Thundercall.
+The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md), can be located in one of the rooms on the upper level of the [Summer Isle castle](Summer_Isle.md#the-castle). When speaking to him, he will request five (5) [Spark Glands](Spark_Gland.md). If you have obtained Thundercall previously on your account, he will request two (2) Spark Glands instead. Once you give him the Spark Glands, he will hand you the [Sparkblood Potion](Attunement_Potions.md); drink this to obtain Thundercall. Alternatively, you can simply pick the Random option when selecting your Attunement in the character creation screen, this has a chance of unlocking Thundercall without you needing to unlock it yourself. If you don't get it the first time, you can just wipe and retry until you get it. This works for all other Attunements as well (excluding [Shadowcast](Shadowcast.md), [Ironsing](Ironsing.md) and [Bloodrend](Bloodrend.md)).
 
 ## Training
 
@@ -1596,7 +1596,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   In the book Our Fortress, Vincent Zeneke notes that the Thundercaller's use of the Canjolin instrument spawned a method of overdrive.
     -   Linking music theory, the use of overdrive is made to alter the sound of an electrical instrument.
         
--   The Mantra **Grand Javelin** is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from _Dark Souls_, having a shared sound effect and casting animation.
+-   The Mantra **Grand Javelin** is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from _[Dark Souls](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki)_, having a shared sound effect and casting animation.
 -   In Deepwoken testing, known as Oldwoken, Thundercall used to be blue instead of yellow. Even with the addition of Surge Path, the original color is still lost to the ages.
     -   Surge is a more purple shade compared to Oldwoken Thundercall, which was a light blue.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
@@ -1605,7 +1605,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   Similarly to every other Wisp mantra, **Thunder Wisp** gives the player a finger on the hand that casts the mantra
 -   During the early days of Deepwoken, Grand Skewer was notorious for a bug that allowed it to instantly kill whatever it hit if an entity was already stuck on it. This often occurred when the already-skewered victim died. Dying to this bug would take lives in the overworld and wipe you in [The Depths](The_Depths.md), and it was fixed a little over two months after the game's release.
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
--   **Emotion Wave** is a direct reference to the [_**Ancient Dragons' Lightning Strike**_](<https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike>) incantation from Elden Ring
+-   **Emotion Wave** is a direct reference to the [_**Ancient Dragons' Lightning Strike**_](<https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike>) incantation from [_Elden Ring_](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
 -   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement.
 -   Before the Perfect Cast mechanic was removed, **Jolt Grab** and [Flame Grab](Flamecharm.md#flame-grab) were among very few abilities and the only Mantras to innately have a unique interaction with it. When Perfect Casted, **Jolt Grab**'s duration would be shortened and it had an "extinguish"-like VFX unique from the regular version. This shortened variant was unaffected by duration modifiers.

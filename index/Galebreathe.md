@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 161705
+revid: 163333
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ Galebreathe also has [Talents](Talents.md) attributed to it as well, allowing th
 
 ## Obtainment
 
-The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained from the [Attunement Trainer](Attunement_Trainers.md), [Friid](Friid,_Master_of_Gale.md), located in the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using two [Gale Stones](Gale_Stone.md) assuming you have Galebreathe unlocked, or 5 Gale Stones if you haven't already unlocked Galebreathe.
+The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained from the [Attunement Trainer](Attunement_Trainers.md), [Friid](Friid,_Master_of_Gale.md), located in the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using two [Gale Stones](Gale_Stone.md) assuming you have Galebreathe unlocked, or 5 Gale Stones if you haven't already unlocked Galebreathe. Alternatively, you can simply pick the Random option when selecting your Attunement in the character creation screen, this has a chance of unlocking Galebreathe without you needing to unlock it yourself. If you don't get it the first time, you can just wipe and retry until you get it. This works for all other Attunements as well (excluding [Shadowcast](Shadowcast.md), [Ironsing](Ironsing.md) and [Bloodrend](Bloodrend.md)).
 
 ## Training
 

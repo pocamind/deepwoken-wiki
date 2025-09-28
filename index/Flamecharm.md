@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 163308
+revid: 163331
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,7 +20,7 @@ Flamecharm Icon
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Flame.md), can be located at the [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). When speaking to Amashi, he will request five [Dying Embers](Dying_Embers.md). If you have obtained Flamecharm previously on your account, Amashi will request only two Dying Embers instead. Once you give Amashi the Dying Embers, he will hand you the [Hearthblood Potion](Attunement_Potions.md) which you must drink in order to obtain the Attunement.
+The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Flame.md), can be located at the [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). When speaking to Amashi, he will request five [Dying Embers](Dying_Embers.md). If you have obtained Flamecharm previously on your account, Amashi will request only two Dying Embers instead. Once you give Amashi the Dying Embers, he will hand you the [Hearthblood Potion](Attunement_Potions.md) which you must drink in order to obtain the Attunement. Alternatively, you can simply pick the Random option when selecting your Attunement in the character creation screen, this has a chance of unlocking Flamecharm without you needing to unlock it yourself. If you don't get it the first time, you can just wipe and retry until you get it. This works for all other Attunements as well (excluding [Shadowcast](Shadowcast.md), [Ironsing](Ironsing.md) and [Bloodrend](Bloodrend.md)).
 
 ## Training
 
