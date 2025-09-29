@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 160294
+revid: 163353
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -73,6 +73,9 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 
 -   **Aratel's Blood**
     -   Tasks the player with defeating three enemy soldiers, either three [Hive Scouts](Hive_Scout.md) or three [Vigil Swordsmans](Vigil_Swordsman.md).
+
+-   **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
+    -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).
 
 -   **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
     -   Tasks the player with defeating [Lodestar](Lodestar.md).

@@ -1,19 +1,14 @@
 ---
 title: "Merit's Reach"
-revid: 159709
+revid: 163350
 source: https://deepwoken.fandom.com/wiki/Merit's_Reach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Locations, The Central Authority]
 ---
 
 # Merit's Reach
 
-LocationL Merit's Reach LocationR
-
-  
-  
+Template:Location2
 
 **Merit's Reach** is a location in _Deepwoken_. It is a landmark found in [Fort Merit](Fort_Merit.md).
 

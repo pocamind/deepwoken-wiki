@@ -1,6 +1,6 @@
 ---
 title: The Lordsgrove
-revid: 162766
+revid: 163347
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,13 +8,7 @@ categories: [Locations]
 
 # The Lordsgrove
 
-LocationL The Lordsgrove LocationR
-
-TERRITORY OF the hive (lawless)
-
-Generations of Hivelords stand watch over the lush passage, a stark contrast to the blasted wastes beyond it.
-
-  
+Template:Location2
 
 **The Lordsgrove** is a location in _Deepwoken_. It is a sub-location in [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 

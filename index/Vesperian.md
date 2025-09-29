@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 160093
+revid: 163365
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -98,8 +98,9 @@ This fits with our current understanding of the lore and would explain why they 
 
 Vesperian Masks have full [dye](Dye_Packet.md) compatibility, as you can dye the Mask and the Ink separately. To dye the Mask's Ink, you need to dye your Mask first, after this the option to dye your Mask's Ink will show up. You can press submit without changing anything on your Mask dye to keep the base Mask color without spending a Dye Packet.
 
--   **Normal:**
-    
+**Normal:**
+
+**Hallowtide:**
 
 ### Vesperian Faces
 

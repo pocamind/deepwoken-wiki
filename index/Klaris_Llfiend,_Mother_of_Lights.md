@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 158731
+revid: 163383
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer]
@@ -345,7 +345,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
 </tr>
 <tr>
-  <td colspan="4">Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding. * She is... preoccupied. Lightkeepers do not get a great deal of rest, and what time she had spare she often spent writing.</td>
+  <td colspan="4"><i>*Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding.*</i> She is... preoccupied. <a href="Glossary.md#lightkeep">Lightkeepers</a> do not get a great deal of rest, and what time she had spare she often spent writing.</td>
   <td colspan="2">End, Maxed out Dawnwalker</td>
   <td colspan="2">End</td>
 </tr>
@@ -353,7 +353,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="4">Writing?</td>
 </tr>
 <tr>
-  <td colspan="4">*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
+  <td colspan="4"><i>*She gives a thin smile.*</i> Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the <a href="Glossary.md#lightkeep">Lightkeepers</a>. We aren't there yet.</td>
 </tr>
 <tr>
   <td colspan="4">End</td>

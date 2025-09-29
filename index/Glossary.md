@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 163314
+revid: 163384
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -184,6 +184,8 @@ Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Boo
 ### Kaide, the Drowned Light
 
 -   The last [Lightborn](#lightborn) king of Constellia before its fall.
+-   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
+-   Kaide now waits out the end of eternity.
 
 Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
 
@@ -258,7 +260,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
 
 ### Vows
 

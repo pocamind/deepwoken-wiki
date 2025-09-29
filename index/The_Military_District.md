@@ -1,6 +1,6 @@
 ---
 title: The Military District
-revid: 152403
+revid: 163369
 source: https://deepwoken.fandom.com/wiki/The_Military_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Lost Celtor]
@@ -8,15 +8,9 @@ categories: [Locations, Lost Celtor]
 
 # The Military District
 
-LocationL THE MILITARY DISTRICT LocationR
+Template:Location2
 
-TERRITORY OF Lost Celtor
-
-The top brass of the military are said to have opted not to raise the alarm in time, saving their own skins by slipping out before the chaos of a mass evacuation.
-
-  
-
-Template:Areainfobox **The Military District** is a location in _Deepwoken_. It is a sub-location of [The Depths](The_Depths.md) found in the [First Layer](First_Layer.md).
+**The Military District** is a location in _Deepwoken_. It is a sub-location of [The Depths](The_Depths.md) found in the [First Layer](First_Layer.md).
 
 ## Overview
 

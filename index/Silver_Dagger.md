@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 161088
+revid: 163352
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons With Talents]
@@ -39,7 +39,9 @@ It is a decent dagger to use from early to mid game. However, it is highly sugge
 
 ## Talent: Assassin's Strike
 
-Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
+Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals double damage.
+
+This Talent is quite strong, even when at Silver Dagger's requirements, as a level 2 Rapid Slashes paired with this Talent will deal more damage than a level 5 one without it.
 
 ## Critical
 

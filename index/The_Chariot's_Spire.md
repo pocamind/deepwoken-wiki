@@ -1,22 +1,16 @@
 ---
 title: "The Chariot's Spire"
-revid: 152383
+revid: 163364
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Layer 1, Locations, The Ignition Union]
+categories: [In progress without reason, InProgressPages, Locations, Layer 1, The Ignition Union]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The Chariot's Spire
 
-LocationL The Chariot's Spire LocationR
-
-TERRITORY OF The Ignition Union
-
-The indomitable tower sprawls into the vast depths below, welcoming all to its sinful grasp.
-
-  
+Template:Location2
 
 The Chariot's Spire is an [Ignition Union](The_Ignition_Union.md) base within [Scyphozia](First_Layer.md). It is sparsely populated, and serves as a resupply point for Deepdelvers journeying into The [Eternal Gale](Second_Layer.md).
 
@@ -36,6 +30,7 @@ The entrance to The Chariot's Spire contains a large gate, with a barrier simila
 -   [Mystic](Mystic.md) next to the bridge to the Deepdriller.
 -   [Banker](Banker.md) in Gamma's Office
 -   [Deepdelver Gamma](Deepdelver_Gamma.md)
+-   [Deepdelver Myra](Deepdelver_Myra.md)
 -   [Renau](Renau.md)
 -   [Deran](Deran.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 152136
+revid: 163346
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -8,13 +8,7 @@ categories: [Locations]
 
 # Voidheart
 
-LocationL Voidheart LocationR
-
-TERRITORY OF The Knives of Eylis (Lawless)
-
-Halls of inscrutable architecture stretch as far as the eye can see. No human could've constructed this, almost defying the laws of the realm itself.
-
-  
+Template:Location2
 
 The **Voidheart** is a location in _Deepwoken._ It is the forward base of the [The Knives of Eylis](The_Knives_of_Eylis.md), who signed a contract with Eylis herself.
 

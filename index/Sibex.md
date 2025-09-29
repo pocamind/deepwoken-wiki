@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 160209
+revid: 163381
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -136,7 +136,7 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
   <td colspan="5">Bell Imminent, but not guaranteed (do a bell check)<br>
   Morphed like clay... The soul and ego become one. Your Soul's <b>Resonance</b> is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo...</td>
   <td colspan="5">Obtained Bell<br>
-  Well look at you, my friend! You're practically beaming with the Song!<br>
+  Well look at you, my friend! You're practically beaming with the <a href="Glossary.md#the-song">Song</a>!<br>
   (Can be occasionally broken, player must rejoin if this dialogue appears and they haven't gotten the bell)</td>
 </tr>
 <tr>

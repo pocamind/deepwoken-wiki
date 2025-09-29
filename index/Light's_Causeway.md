@@ -1,6 +1,6 @@
 ---
 title: "Light's Causeway"
-revid: 160952
+revid: 163363
 source: https://deepwoken.fandom.com/wiki/Light's_Causeway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, The Divers, Layer 1]
@@ -8,17 +8,10 @@ categories: [Pages with broken file links, The Divers, Layer 1]
 
 # Light's Causeway
 
-LocationL Light's Causeway LocationR
-
-TERRITORY OF The Divers (Lawless Territory)
-
-In a narrow crook of the wastes, light beams out and offers respite to the Divers who risk condemning their souls to the abyss forever.
-
-  
+Template:Location2
 
 File:Causeway.png
 
-  
 Light's Causeway is a location in Deepwoken. It is a sub-location of [Castle Light](Castle_Light.md).
 
 ## Overview
@@ -30,4 +23,4 @@ If the player entering has bad reputation with [The Divers](The_Divers.md), the 
 ## Trivia
 
 -   This area was silently added in the July 5th, 2024 update.
--   There are 3 gigamed spawn locations and 1 Thresher spawn location in this area.
+-   There are 3 [Gigamed](Gigamed.md) that spawn within this area.

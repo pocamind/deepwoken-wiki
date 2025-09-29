@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 159346
+revid: 163374
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| special effect | ? |
+| special effect | Pugnacious - Gain a stacking speed and damage boost scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |
@@ -39,6 +39,10 @@ Variants: [Steel Maul](Steel_Maul.md)
 The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul](Steel_Maul.md) with higher requirements. This weapon bears a red appearance and a stone texture, distinguishing it from base Steel Maul.
 
 Dying with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Steel Maul**. Warmonger cannot be enchanted.
+
+### Talent: Pugnacious
+
+Gain a stacking speed and damage boost scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
 
 ## Critical
 
