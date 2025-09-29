@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 155982
+revid: 163387
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -19,20 +19,20 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
 -   The Gideshu March: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant)[\[1\]](#cite-note-1)
 -   The Interrogation Of Ranger Santiago Talo: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md)
+-   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md)
 -   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
 -   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md)
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
 -   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md)
 -   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
--   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md)
 
-Some books are obntaas part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
+Some books are part of specific quests, and thus cannot be obtained multiple times on a character. Such books include:
 
--   Diver Journal, I/II/III: [Second Layer](Second_Layer.md)
--   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
 -   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md)
+-   Diver Journal, I/II/III: [Second Layer](Second_Layer.md)
 -   Legion Intelligence: Talking to [Caitus](Caitus.md)
+-   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
 
   
 

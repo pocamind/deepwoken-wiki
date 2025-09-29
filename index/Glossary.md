@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 163384
+revid: 163388
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -27,16 +27,6 @@ The Glossary can be accessed by opening your Encyclopedia with the button on the
 
 Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Song of Fathoms / Oscillation](Books.md#song-of-fathoms--oscillation) | Glossary Entries:
 
-### The Celestials
-
--   The former inhabitants of the [Heavens](#the-heavens) above. Similar in many ways to Mankind, but of a different species altogether.
--   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
--   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
--   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
--   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
-
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
-
 ### The Drowned Gods
 
 -   Entities of immense and unknowable power that are said to slumber deep within the [Depths](#the-depths).
@@ -54,21 +44,6 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide, the Drowned Light](Ka
 
 Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [The Vents, the Third Layer](#the-vents-the-third-layer)
 
-### The High Convocation
-
--   The leadership body of the [Citadel](#the-citadel-of-markor) of Markor, the [High Convocation](#the-high-convocation) is a council of retired senior staff drawn from the Citadel's various divisions.
--   Members of the [High Convocation](#the-high-convocation) are known as [Convocants](#the-high-convocation).
-
-Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [The Citadel of Markor](#the-citadel-of-markor), [The High Convocation](#the-high-convocation)
-
-### Ethiron, the Maelstrom's Eye
-
--   A [Drowned God](#the-drowned-gods) said to preside over Wind.
--   Their gales are said to drag even Time itself into their wake.
--   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
-
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
-
 ### Krulians
 
 -   Enigmatic beings thought to be envoys of the [Drowned Gods](#the-drowned-gods).
@@ -85,6 +60,31 @@ Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | B
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
 Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsgarde](#kyrsgarde)
+
+### The Celestials
+
+-   The former inhabitants of the [Heavens](#the-heavens) above. Similar in many ways to Mankind, but of a different species altogether.
+-   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
+-   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
+-   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
+-   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
+
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+
+### The High Convocation
+
+-   The leadership body of the [Citadel](#the-citadel-of-markor) of Markor, the [High Convocation](#the-high-convocation) is a council of retired senior staff drawn from the Citadel's various divisions.
+-   Members of the [High Convocation](#the-high-convocation) are known as [Convocants](#the-high-convocation).
+
+Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [The Citadel of Markor](#the-citadel-of-markor), [The High Convocation](#the-high-convocation)
+
+### Ethiron, the Maelstrom's Eye
+
+-   A [Drowned God](#the-drowned-gods) said to preside over Wind.
+-   Their gales are said to drag even Time itself into their wake.
+-   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
+
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### Kyrsgarde
 
@@ -152,6 +152,14 @@ Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entr
 
 Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [The Central Authority](#the-central-authority), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
+### Kaide, the Drowned Light
+
+-   The last [Lightborn](#lightborn) king of Constellia before its fall.
+-   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
+-   Kaide now waits out the end of eternity.
+
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
+
 ### Mur of Light
 
 -   A Goddess worshipped by many in the [Etrean Luminant](#the-etrean-luminant).
@@ -180,14 +188,6 @@ Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entr
 -   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than mines.
 
 Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
-
-### Kaide, the Drowned Light
-
--   The last [Lightborn](#lightborn) king of Constellia before its fall.
--   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
--   Kaide now waits out the end of eternity.
-
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
 
 ### Zhatarn, the Moonlight Prince
 
@@ -270,7 +270,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Sordino](Sordino.md) | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 ## Objects of Interest
 
@@ -359,7 +359,7 @@ Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Book
 -   One of the largest [Celestial](#the-celestials) cities in the [Heavens](#the-heavens).
 -   Constellia fell to a [Kyrsan](#kyrsan) invasion.
 
-Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan](#kyrsan)
+Dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan](#kyrsan)
 
 ### The Depths
 
@@ -421,6 +421,13 @@ Dialogue: | Books: [Operation 'Distant Light' Report](Books.md#operation-distant
 -   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
 Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Raen](Raen.md), [Sev](Sev.md), [Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+
+### The City of New Kyrsa
+
+-   The fabled city of New Kyrsa is thought to reside deep within the [Second Layer](#the-eternal-gale-the-second-layer)
+-   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
+
+Dialogue: | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light)
 
 ### The Northern Luminant
 
@@ -550,6 +557,7 @@ Dialogue: [Eastern Camp Master](Cheral.md) | Books: | Glossary Entries:
 
 -   The native dialect of the [Lullaby Isles](#the-lullaby-isles), scarcely found outside of its walls.
 -   The term 'Th'Ambulo', and 'Th'Armati' can be roughly translated to 'the upright', referring to non-Hivekin, and 'the armoured', referring to Hivekin.
+-   The term 'ultramontes' can be translated as 'beyond', or literally 'beyond-the-mountains'.
 -   'Aecta' (plural 'Aecti') refers to a Chrysid who lives natively within the [Lullaby Isles](#the-lullaby-isles).
 
 Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) player name with the Surname "Aecta" or "Aecti" | Books: [Ossuary Maintenance](Books.md#ossuary-maintenance), [Strange Missives](Books.md#strange-missives) | Glossary Entries:

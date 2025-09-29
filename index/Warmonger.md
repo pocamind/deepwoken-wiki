@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 163374
+revid: 163396
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| special effect | Pugnacious - Gain a stacking speed and damage boost scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player. |
+| special effect | Pugnacious - On basic attack, gain various buffs, with the effectiveness of these buffs scaling on the amount of combat tags you have. These effects are greatly improved whenever you grip a player. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |
@@ -42,7 +42,11 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 
 ### Talent: Pugnacious
 
-Gain a stacking speed and damage boost scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
+On basic attack, gain +10% to the following stats: melee damage, posture damage, damage resistance, posture damage resistance, chip damage, and a 10% speed boost per combat tag you have. All effects, excluding the speed boost, cap at +30% (3 or more combat tags), and these effects have a short duration.
+
+For example, if you are combat tagged by 5 targets, you will gain +50% damage, posture damage, damage resistance, posture damage resistance, chip damage, and speed boost per M1, though all of these stats, excluding the speed boost, will cap at 30%.
+
+These effects are greatly improved whenever you grip a player.
 
 ## Critical
 

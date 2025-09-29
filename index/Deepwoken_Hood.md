@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 155606
+revid: 163397
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Hoods]
 
 ## Deepwoken Hood
 
-A Deepwoken Hood is an [equipment](Equipment.md) under the "_Head_" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), and [The Depths](The_Depths.md).
+A Deepwoken Hood is an [equipment](Equipment.md) under the "_Head_" category. They can be found through chests in [Fort Merit](Fort_Merit.md), from defeating [Duke Erisia](Duke_Ishamon_Erisia.md), and [Primadon](Primadon,_Titan_of_the_East.md), and in[The Depths](The_Depths.md).
 
 ## Trivia
 
