@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 163459
+revid: 163525
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Watcher
 
-“ Those watchers... I don't know what their deal is, but they just don't want you to leave this place. Be careful out there, don't stay here and rot for eternity like the rest of us. ”
+“ WE WILL WAIT FOR THE NEXT LIGHT. AS WE HAVE A THOUSAND TIMES BEFORE YOU. WE HOPE THAT THEY TOO SHALL HAVE EYES LIKE YOURS. SUCH DELICIOUS PEARLS OF AGONY. ”
 
-― A Celtor Inhabitant
+― Watcher Dialogue
 
 Template:Creature Infobox V3
 

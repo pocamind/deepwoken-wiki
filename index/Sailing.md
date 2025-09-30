@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 162781
+revid: 163510
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -14,11 +14,11 @@ notices:
 
 ## Description
 
-Sailing is a crucial part to Deepwoken as it will be your main means of traveling the seas. You can also swim (assuming you have enough food) or use some mantras such as Ice Skate to travel in the water. The sea has many threats, including Whirlpools, [Lionfish](Lionfish.md), [Dread Serpents](Dread_Serpent.md) (commonly referred to as "Kaido's") and the [Voidsea](Voidsea.md).
+Sailing is a crucial part to Deepwoken as it will be your main means of traveling the seas. You can also swim (assuming you have enough food and water) or use some mantras such as Ice Skate to travel in the water. The sea has many threats, including Whirlpools, [Lionfish](Lionfish.md), [Dread Serpents](Dread_Serpent.md) (commonly referred to as "Kaido's") and the [Voidsea](Voidsea.md).
 
 ## Sailing the High Seas
 
-Boat Man.
+Shipwright
 
 To sail, one must first gain a ship. At a city's dock, talk to the Shipwright. He will let you purchase, spawn, recall, and repair boats. You can spawn, repair and recall boats by accessing the ship pole located on the coasts of most islands, though note that you cannot purchase boats from a ship pole.
 
@@ -28,7 +28,6 @@ To summarize how sailing works, it is what people in the gaming world would call
 -   Deceleration/Move backwards/Drop sails - **S**
 -   Steer Left - **A**
 -   Steer Right - **D**
--   Steer Reset - **Q**
 -   Rotate sails Left - **Z**
 -   Rotate sails Right - **C**
 
@@ -47,7 +46,7 @@ Detailed info of individual boats [here](Ships_&_Sailing.md).
 
 ### Dinghy
 
-Usually, the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest. Meant for one, but it can fit about three.
+Usually the first boat you use, you start each life with one already in your dock, ready to be spawned. The smallest, weakest and slowest. Meant for one, but it can fit about three.
 
 ### Sloop
 
@@ -76,6 +75,6 @@ Literal tank when it comes to health, fastest and biggest as well. Expensive pri
 -   It can be difficult when first sailing the boat. Enough practice and good ping will often help.
 -   You can buy a repair hammer for 30 notes at Etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright Talents.
     -   Without Talents, each repair with the hammer will recover 50 HP to your boat.
--   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
+-   When you leave the boat it will quickly slow down to a halt.
 -   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is an Ironclad, the side lining would change instead.
 -   Celtors have 20% Discount at the shipwright, making it cheaper for them to buy boats. Also, they have extra boat health, which is a 10% increase.

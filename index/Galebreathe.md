@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 163333
+revid: 163467
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1257,7 +1257,8 @@ Every 3 hits with a Wind Mantra now procs Suffocate.
 
  | 
 
-Procs on every 5 hits if you have less than 75 Galebreathe.
+Procs on every 4 hits if you have less than 75 Galebreathe.  
+Procs on every 5 hits if you have less than 40 Galebreathe.
 
  |
 |  | 

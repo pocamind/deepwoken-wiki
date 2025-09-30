@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163451
+revid: 163485
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1507,7 +1507,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
-    -   Adds 1.2 Intelligence scaling to your Pistols. This will be disabled if you have less than 60 Intelligence.
+    -   Adds 1.2 Intelligence scaling to your Pistols.
         -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
 
@@ -1582,7 +1582,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   **Cap Artist** is disabled with this Talent.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension, the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md), etc.), but only if you meet Brick Wall's requirements.
-        -   If you have less than 100 Willpower and Fortitude, you will not gain knockdown immunity.
+        -   If you have less than 100 Willpower and Fortitude, knockdown duration will be reduced instead of being fully removed.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.
@@ -2190,7 +2190,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 80 Willpower
 
 -   Shared Misery \[Common Talent\] - Using a Basic Attack/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
-    -   Whenever you have less than 100% sanity or are actively losing sanity all Basic Attacks will remove 3% of the targets maximum sanity.
+    -   Activates when you are actively losing sanity or for 15 seconds after using Heretic's Sutra.
+    -   On proc remove 3% of the targets maximum sanity. This effect has no cooldown.
     -   The amount of sanity damage per hit will scale down if you have less than 85 Willpower.
     -   Prerequisites: 85 Willpower
 
@@ -2433,11 +2434,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
-    -   The posture reduction effect is halved to 16.5% if you do not have 40 Strength.
+    -   The posture reduction effect is reduced by 0.43% for every point in Strength below 40, having a minimum value of 22.25% posture reduction from being parried at 15 Strength.
     -   Prerequisite: 40 Strength
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Does not grant the additional 5% PEN if you have under 90 Strength.
+    -   The additional 5% PEN scales with your Strength, only granting the full +5% PEN at 90 Strength.
     -   Like Ether Overdrive, this removes the 50% Mantra and Weapon PEN cap.
     -   Prerequisites: 90 Strength, All Rampaging Brute Talents
     -   Mutual Exclusive: Ether Overdrive
@@ -2641,6 +2642,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 80 Bloodrend, 40 Charisma, Manipulator
 
 -   Donation Drive \[Common Talent\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
+    -   Donation Drive's cooldown scales on your Charisma investment, having a 12 second cooldown at 20 Charisma and gaining +0.1s for every point in Charisma above 20. This caps at 8 seconds with 60 Charisma.
+    -   Donation Drive has a maximum cooldown of 9.5 seconds.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
 
 -   Sharing is Caring \[Common Talent\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
@@ -2843,7 +2846,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate.
-    -   Requires 5 stacks to proc if you have less than 75 Galebreathe.
+    -   Requires 4 hits to proc if you have less than 75 Galebreathe.
+    -   Requires 5 hits to proc if you have less than 40 Galebreathe.
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
     -   If used with Haunted Path: Specter, every 3 hits will make an Apparition appear, proccing [Winded](Status_Effects.md).
     -   Prerequisites: 75 Galebreathe, Silencer's Blade
@@ -2943,7 +2947,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 100 Intelligence
 
 -   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Does not grant the additional 5% PEN if you have under 90 Intelligence.
+    -   The additional 5% PEN scales with your Intelligence, only granting the full +5% PEN at 90 Intelligence.
     -   Like Million Ton Piercer, this removes the 50% Mantra and Weapon PEN cap.
     -   Prerequisites: 20 Element (20 in any Attunement), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
@@ -3400,7 +3404,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
     -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN. This can bypass the 50% PEN cap.
-    -   Cheap Shot's PEN multiplier will be reduced if you do not have at least 65 Agility.
+    -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.25% PEN (or 1.075x PEN) at 40 Agility.
     -   Prerequisite: 65 Agility
 
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
@@ -3995,7 +3999,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Your Ardour Scream now destroys all campfires within its range.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.
-    -   Maximum of +130 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
+    -   Maximum of +140 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +1 from Wisp Convergence, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
+        -   Wisp Convergence will not work if you do not have Oathless, but it will still grant its additional Wisp Mantra slot.
 -   Diver's Resilience: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
     -   10 second cooldown.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.

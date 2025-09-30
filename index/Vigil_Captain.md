@@ -1,6 +1,6 @@
 ---
 title: Vigil Captain
-revid: 162839
+revid: 163520
 source: https://deepwoken.fandom.com/wiki/Vigil_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Enemies that can wield Enchantments]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Vigil Captain is a type of enemy NPC found in [Faction Ambushes](Faction_Ambushes.md). the Vigil Swordsmen's clad is colored white similar to that of a Vigil Swordsman. They can be found in the Etrean ambush event.
+A Vigil Captain is a type of enemy NPC found in [Faction Ambushes](Faction_Ambushes.md). They can be found in the Etrean ambush event.
 
 ## Moveset
 

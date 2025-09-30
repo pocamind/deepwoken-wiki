@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 163241
+revid: 163472
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -121,7 +121,7 @@ Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw) and [Gunslinge
 
 -   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
-    -   Adds 1.2 Intelligence scaling to your Pistols. This will be disabled if you have less than 60 Intelligence.
+    -   Adds 1.2 Intelligence scaling to your Pistols.
         -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
 

@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 157046
+revid: 163495
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Criticals]

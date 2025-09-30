@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 163079
+revid: 163465
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation]
@@ -173,6 +173,7 @@ You can do Trial of One as an Ignition Delver.
 
 -   An Authority based origin. Not much is known about it, other than you are able to rise the ranks of the Authority with it. (Confirmed by ragoozer and many devs)
 -   The Authority Origin is confirmed to be one of the next major updates with Verse 3 following an announcement on the 23rd of September 2025 on the Deepwoken Discord by ragoozer.
+-   Confirmed to release on 10/4/25 by ragoozer in announcements.
 
 The following is speculation:
 

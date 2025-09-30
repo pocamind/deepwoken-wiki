@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 155684
+revid: 163515
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -29,6 +29,8 @@ categories: [Items, Equipment, Legs, Boots]
 ## Description
 
 Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through Hell Mode.
+
+On equip, the Flameguard Boots grants 3+ HP and +2 Rare Pips.
 
 ## Trivia
 

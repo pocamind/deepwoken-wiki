@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 162814
+revid: 163519
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits, Ambush Enemies]
@@ -22,11 +22,19 @@ A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe]
 
 | Name/Danger | Description |
 | --- | --- |
-| <cAssault**  
-(★☆☆)** | Performs 3 basic attacks before sending the opponent away with a flourish.
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
  |
-| <cCritical**  
-(★★☆)** | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
 
 \[[Sword](<Sword_(weapon).md>) & [Messer](Messer.md)\] Reels weapon back before delivering a strong stab.  
 \[[Stiletto](Stiletto.md)\] Unleash a quick flurry attack on opponent.

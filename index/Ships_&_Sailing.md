@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 162747
+revid: 163509
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,9 +36,13 @@ While sailing, the player can angle their sails by pressing Z or C towards a cer
 
 ### Cannons
 
-Starting with the Schooner and above, these ships will contain Cannons. Cannons can be interacted with by pressing E. Clicking will cause the Cannon to aim towards a target, shortly firing afterwards. Cannon damage will scale with the player's Power and deal double damage in PvE.
+Starting with the Schooner and above, these ships will contain Cannons. Cannons can be operated by pressing E. Clicking will cause the Cannon to aim towards a target, shortly firing afterwards. Cannon damage will scale with the player's Power and deal double damage in PvE.
 
-If someone is at the ship wheel, they can fire Cannons without being stationed near one. In return, this will increase the cooldown by a certain amount.
+If someone is at the ship wheel, they can fire Cannons without being stationed near one by clicking where they want to fire. In return, this will increase the cooldown by a certain amount.
+
+Cannons can have some weird raytracing, sometimes firing past hitboxes and firing at the sea instead.
+
+Cannons have a max distance that they are able to be fired
 
 ### Ship Health
 
@@ -51,11 +55,11 @@ If a ship reaches 50% health, the player can no longer respawn on that ship and 
 Ships can be repaired with the [Repair Hammer](Repair_Hammer.md), which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. Repair Hammers will heal ??? health upon being used, but each usage will consume Wood.  
 Using the [Repair Hammer](Repair_Hammer.md) 20 times will grant the Talent [Emergency Repairs](Talents.md) (+2 Carry Load).  
 Using the [Repair Hammer](Repair_Hammer.md) 50 times will grant the Talent [Spare Nails](Talents.md) (+2 Carry Load).  
-Although, wearing the [Brigand's Bicorn](<Brigand's_Bicorn.md>) also grants you these 2 Talents, therefore assisting you in repairing the ship to max efficiency without the need to fulfill the Talents prerequisites.
+Although, wearing the [Brigand's Bicorn](<Brigand's_Bicorn.md>) also grants you these 2 Talents, therefore assisting you in repairing the ship to max efficiency without the need to fulfill the Talents prerequisite. Ships can also be repaired by paying notes at Shipwights or Posts
 
-When a ship reaches 0% health, it will sink and then must be salvaged at a Shipwright Merchant or Shipyard for half its original price, where it can then be spawned again at full health. A Dinghy that has sunk will have their repair cost be free.
+When a ship reaches 0% health, it will sink and then must be salvaged at a Shipwright Merchant or Shipyard Post for half its original price, where it can then be spawned again at full health. A Dinghy that has sunk will have their repair cost be free.
 
-Ships can be sold for half of their original price, and the price will scale downwards depending on how damaged the ship is.
+Ships can be sold for half of their original price, and the price will be lower the more damaged the ship is.
 
 ## List of Ships
 
@@ -133,8 +137,8 @@ Ships can be sold for half of their original price, and the price will scale dow
 ## Trivia
 
 -   [Food](Food.md) is unable to be cooked using the ship lanterns, nor can [Campfire](Campfire_Pit.md) be placed on ships.
--   By default, a ship's sails will be red.
-    -   If the player is in a [Guild](Guilds.md), their ship will bear their emblem on its sails.
+-   By default, a ship's sails will be red and the flag will be black
+-   If the player is in a [Guild](Guilds.md), their ship will bear their emblem on its sails and flag.
 -   It is recommended to buy a ship like the Merchant Schooner, due to being the earliest with a Lantern and being cheap to repair if broken.
 -   Ironclads are always travelling at max speed, since they don't use flag sails to take advantage of the wind.
 -   Cannons are viable in combat, whether it be for PVP or PVE.

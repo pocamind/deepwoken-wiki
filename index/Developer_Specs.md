@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 160938
+revid: 163489
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Deepwoken, Developer Spec]
@@ -147,7 +147,7 @@ He also has a [Heliodar](Heliodar.md) slot.
 
 ### Melon\_Sensei/Par
 
-Par has the spec to spawn a ~cat maid~ "felinor servant" (Seriously dawg?) that will execute any downed players/NPCs. Not much is known about this spec at the moment.
+Par has the spec to spawn a "felinor servant" that will execute any downed players/NPCs. Not much is known about this spec at the moment.
 
 ### Spookeree/Sycne (Asher Eko / Hiroh Palo / Destroyman III)
 

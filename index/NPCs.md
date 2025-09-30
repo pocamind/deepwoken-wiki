@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 159980
+revid: 163524
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -177,6 +177,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Rook Rethige](Rook_Rethige.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | None | Speaks like a discord user |
 | [Saffron](Saffron.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |
 | [Samael](Samael.md) | Starkindred Faithful | [Derelict Highchurch](Derelict_Highchurch.md) | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
+| [Sentinel](Sentinel.md) | Unknown | [Etris](Etris.md) | Blocks the door to the house with the shadow hunter blueprint and moves aside when spoken to | Spawns in occasionally with another npc that is in the house named Khan |
 | [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |

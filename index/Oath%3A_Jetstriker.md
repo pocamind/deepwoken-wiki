@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 162020
+revid: 163504
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -104,7 +104,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
     -   Your basic momentum will now be visually displayed while sprinting, allowing you to see it build up when sprinting.
     -   Momentum will drain very rapidly, emptying from 100% to 0% in 0.5 seconds when you stop sprinting, and clearing when doing any action.
     -   Successfully landing a parry, dodge, crit, or basic attack will now provide 50% momentum.
-    -   At 100% momentum, Jetstriker Mantras deal 20% more damage and are recolored to the dye of the Oath. (Bugged)
+    -   At 100% momentum, Jetstriker Mantras deal 20% more damage and are recolored to the dye of the Oath.
         -   Sliding at 100% momentum will reenable this behavior for the duration of the sprint.
         -   Climbing, reaching max sprint momentum from an completely empty bar, and vaulting terrain will provide a small 0.5 second window where you can activate this behavior.
     -   Momentum is tracked as a bar UI indicated next to the player, this is recolored to the dye of the oath at 100% momentum.
@@ -154,7 +154,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 -   **Fake Strike** - Trick your opponent and quickly go behind them.
     -   Plays your current M1 animation as an "fake strike", then quickly teleports and strikes behind the target.
-    -   Deals 21.68 (26.02 charged) Oath damage 3 times, adding up to 65.04 Oath damage (78.05 charged), does not scale off agility.
+    -   Deals 21.68 Oath damage 3 times, adding up to 65.04 Oath damage.
     -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
     -   Slowly forces the user forwards, preventing user directional input. (Seen below)
         -   However does not prevent user from sliding, allowing user to move much faster.
@@ -165,7 +165,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 -   **Jet Kick** - Rush forward with a jet kick. Requires a target if you're in combat.
     -   A simple dash that damages targets it comes in contact with.
-    -   Deals 38.25 (45.9 charged) Oath damage, does not scale off agility.
+    -   Deals 38.25 Oath damage.
     -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
     -   Out of combat, it simply targets in front of the player model, allowing free mobility.
     -   In combat, becomes mouse aimed, can target enemies upwards as well.
@@ -174,7 +174,8 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 ## Notes
 
--   Using a Dye Packet to dye the Jetstriker Anklets dyes the anklets as well as the Dash effect, Momentum bar, and Stratos Steps.
+-   Using a [Dye Packet](Dye_Packet.md) on the Jetstriker Oath cosmetic will additionally dye the Momentum Bar, Rush of the Ancients vfx, Stratos Steps vfx, and your Jetstriker Mantras if they are used at maximum Momentum.
+-   Neither of the Jetstriker Mantras scale on Agility.
 
 ## Trivia
 

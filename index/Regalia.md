@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 154981
+revid: 163490
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,15 +40,7 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
     -   [Bone Keepers](Bone_Keeper.md)
 
 -   Mute does work against some humanoids.
-    -   [Ministry Necromancers](Ministry_Necromancer.md)
     -   [Lesser Angel](Hollow_Angel.md#lesser-angel) (if not summoned by a Watcher)
-    -   [Immortal Guardians](Immortal_Guardian.md) (will not execute the player, but instead talks to the player and returns to their spot, as of 4/25/2025, may also just kill you?)
-        -   Messages include:
-            -   "BLEED."
-            -   "PRIMITIVE."
-            -   "PRAY."
-            -   "INFERIOR."
-            -   "Clown."
 
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](Thresher.md#king-thresher)
@@ -118,6 +110,7 @@ You are granted an additional [Resonance](Resonance.md) choice when rerolling or
 
 -   For almost the entirety of the game's lifespan, Mute was the only Regalia known to exist, until Arch\_Mage told the community about the others and the obtainment method.[\[1\]](#cite-note-archinfo-1)
 -   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
+-   Mute regalia used to work on Ministry Necromancers, Ministry Scouts And Immortal guardians but it was fixed. Despite being a bug, immortal guardians had unique dialogues upon knocking a player with mute regalia.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 162909
+revid: 163469
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1057,6 +1057,9 @@ Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can a
  | 
 
 Manipulator will activate when block breaking with a Bloodrend mantra. Consuming Charm via this Talent or Manipulator will replenish some blood.
+
+  
+Donation Drive's cooldown scales on your Charisma investment, having a 12 second cooldown at 20 Charisma and gaining +0.1s for every point in Charisma above 20. This caps at 8 seconds with 60 Charisma.
 
  |
 | 

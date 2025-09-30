@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 161935
+revid: 163498
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Isle of Vigil]
@@ -20,7 +20,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Isl
 
 ## Description
 
-Apprentice Kj is a student taught under [Evengarde Rest](Evengarde_Rest.md) at [Isle of Vigils](Isle_of_Vigils.md). Rescuing [Vigil Isaac](Vigil_Isaac.md) allows the player to complete the quest "Vigi's Savior" and speak to Apprentice Kj to receive a [Curiosity](Quests.md) [Talent](Talents.md) hand and an audience with Evengarde Rest.
+Apprentice Kj is a student taught under [Evengarde Rest](Evengarde_Rest.md) at the [Isle of Vigils](Isle_of_Vigils.md). Completing his dialogue starts the "Vigil's Savior" [Quest](Quests.md).
 
 Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a [White Deepwoken Cloak](Deepwoken_Cloak.md).
 
@@ -28,9 +28,13 @@ Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a 
 
 ### "Vigil's Savior"
 
-1.  To start the quest, the player has to finish Apprentice Kj's dialogue. He will then ask the player to find and rescue Vigil Isaac.
-2.  [Vigil Isaac](Vigil_Isaac.md) can be found in a house at Upper Erisia, following a path leading from the waterfall at [Burning Stone Gardens](Burning_Stone_Gardens.md) or the [Sea Highway](Sea_Highway.md) connected to the [Isle of Vigils](Isle_of_Vigils.md).
-3.  After giving a [Gale Stone](Gale_Stone.md) to Vigil Isaac, head back to Apprentice Kj to complete the quest.
+1.  To start the quest, the player has to finish Apprentice Kj's dialogue. He will then ask the player to find and rescue [Vigil Isaac](Vigil_Isaac.md).
+2.  Vigil Isaac can be found in a run-down house at [Upper Erisia](Upper_Erisia.md).
+3.  After giving a [Gale Stone](Gale_Stone.md) to Vigil Isaac, head back to Apprentice Kj and complete his dialogue to finish the quest.
+
+### Rewards
+
+Upon notifying Apprentice Kj of Vigil Isaacs rescue, he gives the player a [Curiosity](Quests.md) [Talent](Talents.md) hand and an audience with Evengarde Rest.
 
 ## Location
 
