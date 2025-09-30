@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 162863
+revid: 163421
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -327,7 +327,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td><i>*Titus looks you up and down with mild curiosity.*</i> You again? Tsch. What, still lost? Or is there another message from the Hundred Legions? You'd better have <i>real good</i> news for me, sprout.</td>
 </tr>
 <tr>
-  <td>Uhh... I am to inform you that... there's been another delay. [Lie]</td>
+  <td>I bear a message from The Hundred Legions. / Uhh... I am to inform you that... there's been another delay. [Lie]</td>
 </tr>
 <tr>
   <td>End</td>

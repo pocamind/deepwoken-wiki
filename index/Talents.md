@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163407
+revid: 163423
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -112,8 +112,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 80 Willpower
 
 -   Unswayed \[Common Talent, Willpower Exclusive\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
-    -   The mantra Taunt, and the Talent "Cornered Fool" can no longer inflict "Taunt" on the user.
-    -   The mantra Sing can no longer use the Talent "Encore" on the user, nullifying the stun effect.
+    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
+    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
         -   Sing can still apply Charm/Overcharm to the user.
     -   Prerequisite: 75 Willpower
 
@@ -757,8 +757,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Underdog \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
     -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
-    -   Underdog's scaling formula is as follows: +(1.5 + Willpower/40)% damage. In other words, this grants a 1.5% damage bonus that gains +0.025% per point in Willpower.
-        -   Despite what the description states, this grants a 2.25% damage bonus at 30 Willpower, and it does not cap at 60 Willpower, instead capping at 100 with +4% damage.
+    -   Underdog grants a 2.5% damage buff at 20 Willpower, this is increased by 0.0375% damage per Willpower above 20, capping at 4% with 60 Willpower.
+        -   Underdog will grant a 2.875% damage bonus at requirements.
     -   "Higher HP" refers to current HP.
     -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
     -   Prerequisite: 30 Willpower
@@ -786,8 +786,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
     -   Lasting Charisma increases the duration of **Charismatic Cast's** Charm from 10s to 15s (from 5s to 7.5s against Disbelief Talent).
-    -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.275 seconds per investment point under 55, capping at 10s duration with 37 Charisma.
-        -   Lasting Charisma is effectively useless if you have less than 37 Charisma.
+    -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.17s for every point of Charisma you have under 55, capping at a minimum of 10.75 seconds of Charm with 30 Charisma.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.
@@ -1108,7 +1107,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD.
     -   The Taunt damage buff is also applied to the attack that guard broke.
-    -   The Taunt duration will scale down if you have less than 85 Charisma.
+    -   Applies Taunt for 6 seconds.
+    -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
     -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
@@ -1306,7 +1306,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Freak Of Nature
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
-    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.25% resistance for every point under 40 Fortitude.
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.167% resistance for every point under 40 Fortitude, capping at 5.825% resistance with 15 Fortitude.
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
     -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
@@ -1556,6 +1556,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
+    -   Heretic's Sutra has a base windup of 0.4s and a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the windup is reduced by 0.0042 seconds.
+        -   Has a windup of 0.19 seconds at 80 Willpower, a maximum windup of 0.295 seconds at 55 Willpower, and a minimum windup of 0.1 seconds at 100 Willpower.
+    -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
+        -   Has a cooldown of 19.75 seconds at 80 Willpower, a maximum cooldown of 21.875 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.
     -   Gives a burst of insanity to yourself.
         -   Immediately lose 15% sanity on use.
         -   If above 80% sanity, immediately lose sanity down to 65%.
@@ -2415,7 +2419,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Mutual Exclusives: Dazing Finisher
 
 -   Broken Ankles \[Common Talent\] - Blockbreaking an opponent puts their Mobility slot Mantras on CD for 12s. 30s CD
-    -   The duration of this effect will be reduced if you do not meet its 70 Strength rqeuirement.
+    -   Broken Ankles' duration will be reduced by 0.15 seconds for every point in Strength below 70, capping at 8.25 seconds with 45 Strength.
     -   Prerequisite: 70 Strength
 
 -   _**Piercing Blow**_ \[Advanced Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
@@ -2823,7 +2827,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Showboater
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
-    -   Charms for 0.0933 seconds per point in Charisma, having 7 seconds at 75 Charisma and 9.33 seconds at 100 Charisma.
+    -   Charms for 7 seconds.
+    -   The Charm duration is reduced by 0.067 seconds per point of Charisma under 75, capping at 5.3 seconds at 50 Charisma.
     -   Does not proc "Golden Tongue" Talent.
     -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
     -   Prerequisites: Charismatic Cast, 75 Charisma
@@ -3161,13 +3166,15 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Sea Dog
 
--   Seamaster's Guile \[Common, [Equipment](Equipment.md) Exclusive\]\] - While you're at the helm of a ship, it takes 25% less damage
+-   Seamaster's Guile \[[Equipment](Equipment.md) Exclusive\]\] - While you're at the helm of a ship, it takes 25% less damage
     -   Your boat will take 25% less damage if the person piloting it has this Talent.
+    -   Obtained from the [Seamaster's Cap](<Seamaster's_Cap.md>)
 
 ### Tactician
 
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
-    -   The amount of Tempo absorbed will be lessened if you have under 50 Intelligence.
+    -   Steals 40% of the Tempo used.
+    -   Every point in Intelligence below 50 will reduce the Tempo steal by 0.67%, capping at a minimum of 23.25% of the Tempo absorbed with 25 Intelligence.
     -   Prerequisite: 50 Intelligence
     -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this Talent.
 
@@ -3400,18 +3407,20 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 100 Agility
 
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
-    -   5s CD per target.
-    -   Down Comes the Claw's duration will be shortened if you do not meet its requirements.
+    -   Down Comes the Claw cannot be reapplied while it's currently active.
+    -   Lasts 6.5 seconds.
+    -   For every point in Agility under 75, Down Comes the Claw loses 0.055 seconds of duration, capping at a minimum of 5 seconds with 50 Agility.
     -   Prerequisite: 75 Agility
 
 -   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 6s on proc. (+1 Passive Agility)
     -   Applies to passive posture regeneration, Steady Nerves, and posture restoration from parrying. All other sources of posture restoration ignore Maiming Claws entirely.
+    -   Cannot be reapplied while Down Comes the Claw is currently active.
     -   Maiming Claws' duration will be shortened if you do not meet its requirements.
     -   Prerequisites: 100 Agility, Down Comes the Claw
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Procs even if Revenge is blocked, parried, dodged, or vented.
-    -   Pursuit's cooldown will be increased to 40 seconds if you do not have at least 90 Agility.
+    -   For every point in Agility below 90, Pursuit will gain +0.25 seconds to its cooldown, capping at 31.25 seconds with 65 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 90 Agility
 
 ### Twinblade
@@ -3453,7 +3462,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The buff is signified by an orange swirling aura around your Puppets.
     -   Buffs all currently alive Puppets and all Puppets that spawn within the next 10 seconds.
     -   The damage buff is bugged and does not work.
-    -   The following abilities and Talents proc Explosive Rage: Explosive Finish, Emperor Flame, The Final Act, and the [Detonation](Enchantments.md#blessings) enchant.
+    -   The following abilities and Talents proc Explosive Rage: Explosive Finish, Emperor Flame, The Final Act, and the [Detonation](Detonation.md) enchant.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames.
@@ -3466,7 +3475,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. Charmed or nearby enemies will fear for longer. Nearby allies gain a 10% damage buff (40s). (+1 Posture)
     -   25 second cooldown.
-    -   Audacity's effects will be reduced if you do not meet its stat requirements.
+    -   Audacity's buff duration will be reduced by 0.1 seconds for every point of Charisma and Strength you are below its requirements, capping at 35 seconds with 75 Charisma and 25 Strength.
     -   You create an AoE stun and slow around you when you start gripping someone.
     -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
     -   The damage buff is indicated by a white glowing halo effect surrounding the affected player's head.

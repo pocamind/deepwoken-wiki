@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel Mask
-revid: 154003
+revid: 163424
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -16,7 +16,7 @@ categories: [Equipment, Face, Masks]
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +2 Rare Pips |
-| innate talent | N/A |
+| innate talent | Angel's Guise |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -27,6 +27,8 @@ categories: [Equipment, Face, Masks]
 ## Description
 
 The Sworn Angel Mask is an [Equipment](Equipment.md) item under the "Face" category. This item worn by the [Sworn Angel](Sworn_Angel.md), and drops from them rarely.
+
+The mask comes with an innate Talent, _Angel's Guise;_ with the description: "You resemble one of the Sworn Angels."
 
 ## Trivia
 

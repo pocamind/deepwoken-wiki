@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 163400
+revid: 163422
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,9 +16,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-Watchers are environmental hazards with a lamp-like head, while featuring a closely humanoid body. They typically do not move often, instead opting to just turning their head to scan the area before jumping to any location they see fit to perch. They are always in a position on one knee with their long arms outstretched. They have five fingers on each hand, and four toes on each foot. All phalanges have claws, yet the claws on each hand are almost twice the length of those on their feet. Their head can best be described as a flower. With each 'petal' on their head being layered around each other. Their ribcages poke out and look to be in a malnourished state at all times. Many players consider these to be monsters, but they are categorized as [Environmental Hazards](Environmental_Hazards.md) due to them not having a hitbox, and not having any mechanics besides moving around and spawning [Hollow Angels](Hollow_Angel.md).
+Watchers are environmental hazards that have a lamp-like head with a slender, appearance. Watchers cannot be damaged by any means, but will summon [Hollow Angels](Hollow_Angel.md) to attack the player. Watchers can be found in scattered across [The City of the Drowned](The_City_of_the_Drowned.md) while one only exists in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
-They can be found both in the Overworld, and the Depths, though it is worth mentioning that only 1 exists in the Overworld, located at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). In the Depths, a great number of them currently resides within the [City of the Drowned](The_City_of_the_Drowned.md), patrolling each of the districts except for the ones that features an entrance to the city.
+Their body is malnourished to an extent that their ribcage is visible, and their abdomen being nearly hollowed out. They have extremely long arms, with five fingers on each hand with long claws. Their legs are nearly the same length as their arms, having nearly the same characteristics. Their head appears as a flower, with the outer "petals" being a dark olive color, its outer layer being wrinkly and veiny. The inner "petals" are pink, and holds a large, glowing orb in the center that allows it to see.
+
+Being within a Watcher's gaze will cause them to look at the player, their lamp turning ivory before shifting into a bright red color, enraging it. While the player is under the Watcher's "enraged" state, it will force them to look at its lamp and summon two [Hollow Angels](Hollow_Angel.md) while considerably distort the player's screen and surroundings, as well as summoning black spikes from the ground. Continuing to be within the Watcher's gaze during its enraged state will drain the player's [sanity](Insanity.md) over time, which is especially dangerous within [The Depths](The_Depths.md).
 
 These monsters are **invulnerable to damage** as they simply cannot be hit. However, they are not aggressive by nature, instead, only spots entities with the beam they emit from the lamp-like head. This beam acts like a spotlight and will result in a combat tag as well as their beam turning from white to a reddish hue. Because of this, they don't classify as [Monsters](Monsters.md), but as [Environmental Hazards,](Environmental_Hazards.md)
 
