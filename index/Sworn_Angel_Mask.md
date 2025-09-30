@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel Mask
-revid: 163424
+revid: 163447
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -26,9 +26,9 @@ categories: [Equipment, Face, Masks]
 
 ## Description
 
-The Sworn Angel Mask is an [Equipment](Equipment.md) item under the "Face" category. This item worn by the [Sworn Angel](Sworn_Angel.md), and drops from them rarely.
+The Sworn Angel Mask is an [Equipment](Equipment.md) item under the "Face" category. This item worn by the [Sworn Angel](Sworn_Angel.md), and drops from them rarely. When worn, this grants +2 Rare Pips and the [Angel's Guise](Talents.md#equipment-talents) Talent.
 
-The mask comes with an innate Talent, _Angel's Guise;_ with the description: "You resemble one of the Sworn Angels."
+The Angel's Guise Talents removes the ability for [Watchers](Watcher.md) to lock onto you with Watcher's Gaze. Additionally, you will gain the ability to speak with the Watchers, granting unique dialogue.
 
 ## Trivia
 

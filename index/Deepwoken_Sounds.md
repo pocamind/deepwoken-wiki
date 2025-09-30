@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 149379
+revid: 163435
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -582,7 +582,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
 |  | 1.0s | [King Thresher](Thresher.md) Cursed Flame \[1\] |
 |  | 2.7s | [King Thresher](Thresher.md) Cursed Flame \[2\] |
-|  | 4.0s | Watcher Screech |
+|  | 4.0s | [Watcher](Watcher.md) Screech |
 |  | 1.5s | [Enforcer](Enforcer.md) Damaged |
 |  | 2.6s | [Enforcer](Enforcer.md) Pull / [Radiant Kick](Oath%253A_Dawnwalker.md) (Windup) / Metal Gatling Pull |
 |  | 1.6s | [Nautilodaunt](Nautilodaunt.md) Digging Loop |

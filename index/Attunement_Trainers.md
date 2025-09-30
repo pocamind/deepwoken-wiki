@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 158992
+revid: 163437
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attunement, Mantras, Enemies]
@@ -91,7 +91,7 @@ When fought, he uses a [Stormseye](Stormseye.md).
 
  | [Shadowcast](Shadowcast.md) | Area: [Varicosa District](Varicosa_District.md)
 
-To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest and has light-teal-colored rooftops, it is located on the north-western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
+To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest and has light-teal-colored rooftops, it is located on the north-western side of the city. From there you will also have to watch out for [Watchers](Watcher.md), as they can be a nuisance especially this far into the journey.
 
 Map location:
 

@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 160943
+revid: 163443
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -101,7 +101,7 @@ categories: [Mechanics]
   <th>Effects</th>
 </tr>
 <tr>
-  <td>Watchers</td>
+  <td><a href="Watcher.md">Watchers</a></td>
   <td><a href="The_Depths.md">City of the Drowned</a>, <a href="The_Temple_of_the_Forgotten_Flame.md">Temple of the Forgotten Flame</a></td>
   <td>Teleport on top of buildings and look for players, if you are caught within one of their beams, you will enter Danger and two (2) (First Layer) or one (1) (Temple of the Forgotten Flame) <a href="Hollow_Angel.md">Hollow Angels</a> will spawn at your location.</td>
 </tr>

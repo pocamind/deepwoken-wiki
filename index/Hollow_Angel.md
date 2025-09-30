@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 162468
+revid: 163436
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments, Layer 1, The Depths, Enemies]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Hollow Angels**, previously known as **Lesser Angels**, are white and dull-yellow humanoid creatures with wings. They wield black recolors of the [Iron Spear](Iron_Spear.md) and use [Crazy Slots](Crazy_Slots.md)' Divine Spear ability. They are summoned by entities called Watchers. Many can be found in Celtor, the sunken city in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). Each will summon two Hollow Angels. A Watcher can also be found in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) in Erisia, and will only spawn a single Hollow Angel.
+**Hollow Angels**, previously known as **Lesser Angels**, are white and dull-yellow humanoid creatures with wings. They wield black recolors of the [Iron Spear](Iron_Spear.md) and use [Crazy Slots](Crazy_Slots.md)' Divine Spear ability. They are summoned by entities called [Watchers](Watcher.md). Many can be found in Celtor, the sunken city in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). Each will summon two Hollow Angels. A Watcher can also be found in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) in Erisia, and will only spawn a single Hollow Angel.
 
 The Hollow Angel can also be summoned as a Trial when attempting to escape the Depths.
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 163082
+revid: 163432
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -4716,7 +4716,11 @@ Found from:
 
  | N/A |
 |  | [Hollow Angel Mask](Hollow_Angel_Mask.md)  
-(**Series**) | +1 Rare Pip | 
+(**Series**) | +1 Rare Pip
+
+_+Talent: Angel's Guise_
+
+ | 
 
 Found from:
 
@@ -4790,7 +4794,11 @@ Head: [Smith's Bandana](<Smith's_Bandana.md>)
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
 Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 | File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
-(**Series**) | +2 Rare Pips | 
+(**Series**) | +2 Rare Pips
+
+_+Talent: Angel's Guise_
+
+ | 
 
 Found from:
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163423
+revid: 163451
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -185,7 +185,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 85 Intelligence
 
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
-    -   If you have less than 40 Intelligence, Overflowing Dam's damage bonus will be halved to +5% damage.
+    -   For every point of Ingelligence below 40, Overflowing Dam's damage bonus will be reduced by 0.125%, having a minimum damage buff of 6.875% at 15 Intelligence.
+        -   For [Warlock's Mantle](<Warlock's_Mantle.md>), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.
     -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
     -   Prerequisite: 40 Intelligence
         -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
@@ -668,21 +669,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Bulwark
 
 -   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 20s.
-    -   Defensive Reprisal's duration will be reduced if you do not meet its 65 Fortitude requirement.
+    -   Defensive Reprisal's duration will be reduced by 0.177s for every point in Fortitude below its requirements, having a minimum duration of 15.575s duration with 40 Fortitude.
     -   Prerequisities: 65 Fortitude
 
 -   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
-    -   Dancing Guard's duration will be reduced if you do not meet its 55 Fortitude requirement.
+    -   Dancing Guard's duration will be reduced by 0.085s for every point in Fortitude below its requirements, having a minimum duration of 4.87s at 30 Fortitude.
     -   Prerequisities: 55 Fortitude
 
 -   Down to your Level \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 5s.
-    -   Down to your Level's effectiveness will be reduced if you do not meet its 60 Fortitude requirement
+    -   Down to your Level's duration will be reduced by 0.05s for every point in Fortitude below 60, capping at a minimum of 3.75s with 35 Fortitude.
     -   Procs from Entaglement, Daze, Chill and most other things that slow you down.
     -   Does not proc from Grand Fisher Plate or Wormwarder Lantern despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
 -   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 15s.
-    -   Knuckle Guard's effectiveness will be reduced if you do not meet its requirements.
+    -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.6 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
 ### Butterfly
@@ -705,7 +706,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility.
     -   The invisibility and I-frame duration is 1.2 seconds if you have 40 or higher Agility.
-    -   Ghost's duration will scale down if you have less than 40 Agility. Every point under 40 Agility reduces the duration of Ghost by 0.016 seconds, lasting 0.8 seconds at 15 Agility.
+    -   Ghost's duration will be reduced by 0.0133 seconds per point in Agility under 40, capping at 0.8675 seconds at 15 Agility.
     -   Will also proc from dodging bleed, occurs when dodging a m1 late in high ping.
     -   Has a 20 second cooldown.
     -   You cannot parry attacks during the invisibility.
@@ -1317,8 +1318,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 40 Fortitude.
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health. (+5 Health)
-    -   To the Finish gains 0.2% damage reduction per point in Fortitude, capping at 10% damage reduction with 50 Fortitude.
-        -   At 25 Fortitude, To the Finish will grant 5% damage reduction.
+    -   For every point of Fortitude below 50, To the Finish loses 0.167% damage reduction, having a minimum value of 5.825% damage reduction at 25 Fortitude.
     -   Prerequisite: 50 Fortitude
 
 ### Frost Forger
@@ -2184,8 +2184,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   ex. 321 sanity w/ 175 current sanity would be a 3.89% increase [\[1\]](https://www.desmos.com/calculator/q9hbw3enrw)
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
+    -   Grants a 10% PEN bonus at full insanity despite what the description states.
     -   The bonus PEN is applied starting from 35% Sanity.
-    -   The PEN bonus will be lessened if you do not have at least 80 Willpower.
     -   Scales on your current sanity percentage, similar to Lose Your Mind.
     -   Prerequisite: 80 Willpower
 
@@ -2314,7 +2314,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 -   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
-    -   The cooldown reduction effect of Twelve Steps Ahead will be less effective if you have under 80 Intelligence.
+    -   For every point of Intelligence below 80, Prediction's minimum cooldown will be increased by 0.125 seconds, capping at 36.875 seconds with 55 Intelligence.
     -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 ### One Eyed King
@@ -2371,15 +2371,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 60 Charisma
     -   If it is stacked with the "Celebrity" Talent you can immediately avoid being hunted by [Voidwalkers](Origins.md) until you lose one of the two Talents or continue to have a very bad reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) or some other [faction](Reputation.md).
 
--   You'll Need To Get Past Me \[Common Talent\] - When you're attacked, one of your many allies will leap into action to protect their boss.
+-   You'll Need to Get Past Me \[Common Talent\] - When you're attacked, one of your many allies will leap into action to protect their boss.
     -   Spawns in an NPC to attack whoever hits you. The 3 known NPCs are [Bandits](Bandit.md), [Bandit Leaders](Bandit_Leader.md), or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
-    -   The effects of this Talent are reduced if you have under 75 Charisma. Whatever that means.
+    -   The cooldown of this Talent scales on your Charisma investment, having a base cooldown of 70 seconds and every investment point into Charisma decreasing this by 0.143 seconds.
+        -   At requirements, this Talent will have a 59.275 second cooldown, has a maximum cooldown of 62.85 seconds at 50 Charisma, has a minimum cooldown of 55 seconds at 100 Charisma.
     -   The spawned NPC is considered your ally for proccing Talents.
     -   The spawned NPC applies a player combat tag on hit.
     -   Note that an ally appearing with the Talent only works with players and is scaled by the level of the attacking enemy.
         -   An ally is able to appear anywhere on the map and in any locations (aka Luminants, Depths and Dungeons).
         -   The ally will perform just like a normal NPC, requiring to be gripped after being knocked. (Unless you have insta-grip Talents like Mercy Kill).
-    -   Cooldown of 60 seconds, but it can only proc when outside of combat.
+    -   You'll Need to Get Past Me can only proc when hit while outside of combat.
     -   The NPC can drop their weapon on death.
     -   Prerequisite: 75 Charisma
 
@@ -3403,7 +3404,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 65 Agility
 
 -   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
-    -   Crippling Comeuppance's duration will be reduced if you have less than 100 Agility.
+    -   For every point of Agility below 100, Crippling Comeuppance's duration is reduced by 0.1 seconds, having a minimum duration of 12.5 seconds at 75 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 100 Agility
 
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
@@ -3955,6 +3956,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), and Static Withdraw (with child Talents).
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
+-   Angel's Guise: [Hollow Angel Mask](Hollow_Angel_Mask.md) & [Sworn Angel Mask](Sworn_Angel_Mask.md) - You resemble one of the Sworn Angels.
+    -   Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
+    -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
+    -   Angels will still aggro onto you while you have this Talent.
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 -   Blinded: [Blindfold](Blindfold.md) & Variants - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.

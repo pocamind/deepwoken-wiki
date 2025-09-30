@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel Mask
-revid: 154001
+revid: 163446
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -16,7 +16,7 @@ categories: [Equipment, Face, Masks]
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
-| innate talent | N/A |
+| innate talent | Angel's Guise |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -26,7 +26,9 @@ categories: [Equipment, Face, Masks]
 
 ## Description
 
-The Hollow Angel Mask is an [Equipment](Equipment.md) item under the "Face" category. This item worn by the [Hollow Angel](Hollow_Angel.md), and drops from them rarely.
+The Hollow Angel Mask is an [Equipment](Equipment.md) item under the "Face" category. This item worn by the [Hollow Angel](Hollow_Angel.md), and drops from them rarely. When worn, this grants +1 Rare Pip and the [Angel's Guise](Talents.md#equipment-talents) Talent.
+
+The Angel's Guise Talents removes the ability for [Watchers](Watcher.md) to lock onto you with Watcher's Gaze. Additionally, you will gain the ability to speak with the Watchers, granting unique dialogue.
 
 ## Trivia
 

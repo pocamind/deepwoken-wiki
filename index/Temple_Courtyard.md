@@ -1,6 +1,6 @@
 ---
 title: Temple Courtyard
-revid: 156643
+revid: 163442
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Erisia]
@@ -23,7 +23,7 @@ In order to open the door to the Temple Courtyard, a button must be pressed loca
 
 ## Potential Enemies
 
--   Watcher
+-   [Watcher](Watcher.md)
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
 -   [Thief](Thief.md)
@@ -36,5 +36,5 @@ A map can be found here: [Surface Maps](Maps.md#surface)
 
 -   Bandit events spawn here often.
 -   The door can be destroyed by using mantras like Strong Left or Shoulder Bash.
--   There is a Watcher that is always watching the area, upon detection it will spawn one (1) [Hollow Angel](Hollow_Angel.md) on the player.
+-   There is a [Watcher](Watcher.md) that is always watching the area, upon detection it will spawn one (1) [Hollow Angel](Hollow_Angel.md) on the player.
 -   The Courtyard leads up to the Temple of the Forgotten Flame, a place where you can unlock the [Blindseer Oath](Oath%253A_Blindseer.md).

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 163325
+revid: 163462
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -225,6 +225,10 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 ## Oath Applied
 
 These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and attacks.
+
+### Dread Stacks
+
+[Silentheart](Oath%253A_Silentheart.md) exclusive. Gain stacking Mantra damage resistance when you take damage from or parry Mantras. Grants 5% Mantra damage resistance per stack, capping at 25% with 5 stacks. Signified by a red ring around your character. The color of this ring can be changed by [dying](Dye_Packet.md) your Oath Silentheart Tattoos.
 
 ### Hidden Tendril
 
