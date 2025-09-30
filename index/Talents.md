@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163376
+revid: 163407
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -286,8 +286,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility)
     -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
     -   The health regen is reduced in PvP combat.
-    -   Scales linearly up to 300% base health regen at 100 Agility.
-    -   Prerequisites: All Alley Cat Talents
+    -   Scales linearly in effectiveness.
+    -   Prerequisites: All Alley Cat Talents, 25 Agility
 
 ### All-Knowing
 
@@ -1693,7 +1693,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
     -   Grants 5% damage reduction in the form of Natural Armor.
     -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
-    -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent.
+    -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent, up to a maximum of 14.5% physical resistance.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
@@ -1755,8 +1755,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Teachings of the Edenkite \[[Drakkard](Drakkard.md) Exclusive\] - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
 
--   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement. (This does not work on power requirements)
-    -   This works for [Weapon](Weapons.md) requirements too. It also lowers all requirements on things with more than one, so a 72 Galebreathe 22 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
+-   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
+    -   This does not work on [Power](Power.md) requirements.
+    -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) requirements.
+    -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
 
 ### Intellisense
 
@@ -2526,7 +2528,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Will o' Wisp**_ \[Advanced Talent, Attunement Exclusive\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
     -   Allows the player to summon one of each Wisp at the same time.
-    -   Prerequisites: Attunement Wisp mantra, 25 Element
+    -   Prerequisites: Attunement Wisp mantra, 25 Element (25 in any Attunement)
 
 -   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md) Exclusive\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
@@ -2937,7 +2939,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Does not grant the additional 5% PEN if you have under 90 Intelligence.
     -   Like Million Ton Piercer, this removes the 50% Mantra and Weapon PEN cap.
-    -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
+    -   Prerequisites: 20 Element (20 in any Attunement), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
 
 ### Soul Converter
@@ -3906,10 +3908,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.
     -   This deals 5 **typeless** damage per Chain of Perfection stack. Deals 118 **typeless** damage per Chain of Perfection stack in PvE.
-        -   Because this deals typeless damage, it ignores elemental and physical resistances.
     -   The damage this deals can be increased with damage modifiers, though it is not considered weapon damage so it is fairly difficult to buff.
     -   The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 120 typless PvP damage or 2.8k typeless PvE damage at maximum chain stacks.
-    -   This procs on [Motif](Motifs.md)\-granted criticals.
+    -   Finishing Slay has no cooldown, allowing for multihit criticals to benefit from it multiple times. However, finishing slay can only proc once per damage instance in a critical hit, for example if you hit three targets with your critical, Finishing Slay will only proc on one of them, and the other two will not take any additional damage.
+    -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
     -   Gain a stacking speed and damage boost scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.

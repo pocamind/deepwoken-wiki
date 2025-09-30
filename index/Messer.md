@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 161540
+revid: 163405
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -46,7 +46,7 @@ On critical, consume all of your [Chain of Perfection](Talents.md#metamancer) to
 
 The first 5 hits that normally do not grant Perfection stacks contributes to this damage bonus, stacking up to 120 PvP damage or 2.8k PvE damage at max stacks.
 
-This effect can be procced on [Motif](Motifs.md)\-granted criticals and has no cooldown. This effect does not change if your Messer is alloyed.
+This effect can be procced on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals and has no cooldown. This effect does not change if your Messer is alloyed.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 162820
+revid: 163399
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -33,8 +33,12 @@ Amashi's uses a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) along with the
  | Firmly swings sword at opponent and finishing up the combo by kicking them.
 
  |
-| Critical_  
-(★★☆)_ | Impales blade into the ground, causing a burst of flame while conjuring the avatar of the Hero Blade of Flame.
+| 
+
+**Critical**  
+(★★☆)
+
+ | Impales blade into the ground, causing a burst of flame while conjuring the avatar of the Hero Blade of Flame.
 
  |
 | 
