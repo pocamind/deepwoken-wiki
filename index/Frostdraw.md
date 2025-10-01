@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 163332
+revid: 163541
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1286,7 +1286,7 @@ You can now obtain 3-Star Frostdraw Mantras.
 
  | 
 
-N/A
++5 Health.
 
  |
 | 
@@ -1302,7 +1302,7 @@ Your Vent is imbued with glacial frost.
 
  | 
 
-N/A
+Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
 
  |
 
@@ -1324,7 +1324,7 @@ When flourishing an enemy, they leave behind a trail of ice in the direction you
 
  | 
 
-N/A
+Flourishing an enemy leaves behind 3-4 patches of ice on the ground.
 
  |
 | 
@@ -1434,6 +1434,8 @@ Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
 
  | 
 
+Sliding leaves behind trails of ice.
+
  |
 | 
 
@@ -1448,6 +1450,7 @@ When landing a parry while standing on ice, automatically forms a ring of gravit
 
  | 
 
+Parrying while standing on ice creates a ring that absorbs 15% of the physical damage you take.  
 90 Second Cooldown.
 
  |
@@ -1555,7 +1558,8 @@ Your Crystal Shrapnel explosions now grant you and any allies caught in them 10%
 
  | 
 
-N/A
+Crystal shrapnel will grant you and caught allies 10% Elemental Resistance for 10 seconds.  
+Relanding this will refresh the duration.
 
  |
 
@@ -1577,7 +1581,7 @@ Hitting chilled enemies with ice projectiles while they are on ice freezes them 
 
  | 
 
-N/A
+Prevents them from rotating their character and moving around overall.
 
  |
 | 
@@ -1593,7 +1597,7 @@ All ice spells casted on top of ice cost less Ether.
 
  | 
 
-N/A
+Ice Mantras cost 40% less ether if casted while standing on ice.
 
  |
 | 
@@ -1609,7 +1613,7 @@ Enemies can no longer heal when under the effect of your chill.
 
  | 
 
-N/A
+Makes enemies unable to heal when under the effect of your chill.
 
  |
 | 
@@ -1641,7 +1645,7 @@ Apply bottom freeze and chill to your opponent whenever you land a flourish, upp
 
  | 
 
-N/A
+Successfully flourishing, uppercutting or critting an opponent freezes them, preventing them from rotating their character and moving overall.
 
  |
 | 
@@ -1657,7 +1661,7 @@ Hitting an opponent with your Ice Daggers causes them to freeze.
 
  | 
 
-N/A
+Hitting an opponent with Ice Daggers will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
 
  |
 | 
@@ -1691,7 +1695,7 @@ Your crystal explosions deal more damage whenever your opponent is also bottom f
 
  | 
 
-N/A
+Your crystal detonations deal 67% more damage against targets who are bottom frozen.
 
  |
 | 

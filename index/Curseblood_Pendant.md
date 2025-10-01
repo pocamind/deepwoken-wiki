@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 153778
+revid: 163536
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -28,4 +28,4 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 The Curseblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
 
-Can be found in the [Second Layer](Second_Layer.md), [Miner's Landing](<Miner's_Landing.md>), and [Fishing](Fishing.md).
+On equip, the Curseblood Pendant grants 3% Elemental Armor and +1 Legendary Pip.

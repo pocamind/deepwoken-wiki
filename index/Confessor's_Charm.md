@@ -1,6 +1,6 @@
 ---
 title: "Confessor's Charm"
-revid: 153787
+revid: 163539
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -26,8 +26,11 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 ## Description
 
-The Confessor's Charm is an [Equipment](Equipment.md) item under the "Torso" category. You can commonly find after defeating Chaser. Alternatively, you can farm Hell Mode for it, but it won't be as common. This is without a doubt, currently the best Torso piece. Unless you prefer Elemental Armor over Physical, then [Canticlysm Pendant](Canticlysm_Pendant.md) is for you.
+The Confessor's Charm is an [Equipment](Equipment.md) item under the "Torso" category.
+
+On equip, the Confessor's Charm grants 3% Physical Armor, +1 Rare Pip, and +1 Legendary Pip.
 
 ## Trivia
 
 -   Both Confessor's Charm & [Canticlysm Pendant](Canticlysm_Pendant.md) were added together a while after the release of Verse Two, they came out on 2/06/23. They were also added along with [Old Blood Earrings](Old_Blood_Earrings.md) & [Moonlit Earrings](Crescent_Earrings.md), Both Earrings also being one of the best Earring pieces in their own way.
+-   Shares stats with the [Pendant of Order](Pendant_of_Order.md).

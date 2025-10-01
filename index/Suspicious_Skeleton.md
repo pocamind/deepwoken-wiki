@@ -1,6 +1,6 @@
 ---
 title: Suspicious Skeleton
-revid: 152347
+revid: 163534
 source: https://deepwoken.fandom.com/wiki/Suspicious_Skeleton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -23,14 +23,13 @@ The Suspicious Skeleton is a pile of bones located near the Blacksmith in [The F
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">They used to call me The Bone Rattler. I got fired from my bone rattling job, so now I'm just suspicious.</td>
+  <td>They used to call me The Bone Rattler. I got fired from my bone rattling job, so now I'm just suspicious.</td>
 </tr>
 <tr>
   <td>Tough luck.</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>Yeah Watch your back, buddy. They'll rattle you too one day.</td>

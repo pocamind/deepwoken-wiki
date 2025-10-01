@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 162655
+revid: 163546
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs]
@@ -209,7 +209,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 
 The following quests grant the _Compassion_ Talent hand on top of their other rewards. Keep in mind this cannot be stacked with other Compassion quests.
 
-#### A Lost Sibling
+#### Vigil's Savior
 
 <table>
 <tbody>
