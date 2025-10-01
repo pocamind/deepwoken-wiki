@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 163038
+revid: 163575
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -483,11 +483,8 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[9\]](#cite-note-gran-9)
 -   Was a very powerful Frostdrawer.
-
 -   Possibly a Celtor due to her Russian name.
-
 -   Possibly a Gremor due to Nuttoons drawing of her. (Note: the drawing isn't necessarily canon.)
-
 -   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska's home was Minityrsa, the place where the Crypt is, alongside the Crypt being the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt was either Sudaruska's final resting place or her home.
 
 ### Songmaster Tzaraan

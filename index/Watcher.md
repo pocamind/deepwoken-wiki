@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 163569
+revid: 163574
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -155,5 +155,6 @@ This dialogue will be activated if you take off your Angel Mask while the Watche
     -   Inner-most circle - "that I speak and solemnly swear with all the courage I have that this song will be heard forever."
 -   The Watcher located in the Temple of The Forgotten Flame only summons one Angel.
 -   The Watcher by the Temple of the Forgotten Flame is also known as the "God on the Peak" from [Alastir's](Alastir.md) dialogue upon bringing him the surviving villagers.
+-   The Watcher by the Temple of the Forgotten Flame was, according to it, brought along with Erisia once it drifted out of the Voidsea.
 -   The Watcher’s appearance is a possible reference to the Demogorgon from Stranger Things.
 -   Each Watcher has a shared cooldown of 2 Minutes before they are able to spot the same entity again.
