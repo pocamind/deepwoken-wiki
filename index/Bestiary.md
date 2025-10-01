@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 161745
+revid: 163565
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -14,18 +14,16 @@ Megalodaunt's Bestiary entry with all challenges completed
 
 ## Description
 
-The Bestiary is a part of Deepwoken's Encyclopedia system along with the [Glossary](Glossary.md), used to document various [Monsters](Monsters.md). The bestiary can be accessed by clicking the book icon labeled "Encyclopedia" at the top left of your screen. The bestiary grants a damage and defense bonus against monsters and bosses upon completing challenges, most of which are "kill X enemy 10/25/100 times."
+The Bestiary is a part of Deepwoken's Encyclopedia system along with the [Glossary](Glossary.md). The Bestiary can be accessed by clicking the book icon labeled "Encyclopedia" at the top left of the screen. The Bestiary grants a damage and defense bonus against monsters and bosses upon completing challenges.
 
-Upon defeating eligible monsters, they will be added to your bestiary, giving you a reference for your progress and showcasing how many times you've killed that specific monster. After defeating the same monster type 10/25/100 times, you will gain a scaling damage and defense buff towards that monster. Additionally, each milestone may award some lore about said monster. There are currently 19 monsters with a bestiary entry.
-
-[Bosses](Bosses.md) also have bestiary entries with unique challenges! Upon defeating a boss for the first time, they will be added to your bestiary. After defeating that same boss 10 times or completing one of its other challenges, you will gain a damage and defense bonus against that boss, making subsequent encounters easier. Similarly to the regular monster bestiary, you may receive lore notes on the bosses as well when completing their challenges. There are currently 10 bosses with a bestiary entry.
+Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they will be added to the Bestiary, which tracks progress by showing how many times each has been slain. Defeating the same monster type 10, 25, and 100 times grants increasing damage and defense bonuses against that monster, as well as unlocking bits of lore about it. Defeating the same boss 10 times grants damage and defense buffs against the boss, as well as lore entries. Currently, the Bestiary contains entries for 19 monsters and 10 bosses.
 
 ## Notes
 
 -   Bestiary progress is saved across all slots and the bonuses apply to all slots regardless of your level.
--   Monster variants count towards and benefit from the original monster's bestiary. This goes for bosses as well.
+-   Monster variants count towards and benefit from the original monster's Bestiary. This goes for bosses as well.
     -   For example, defeating a [King Thresher](King_Thresher.md) or [Nightmare Thresher](Nightmare_Thresher.md) will award +1 kill towards the Thresher Bestiary completion, and having progress on the Thresher Bestiary will grant additional damage to these variants as well.
--   The bonuses tied to each bestiary entry is **only applied to that specific enemy**, meaning if you defeat a Brainsucker 100 times, it won't grant you increased damage against Megalodaunts and vice versa. Not even the boss bestiary buffs are universally applied!
+-   The bonuses tied to each Bestiary entry is **only applied to that specific enemy**, meaning if you defeat a Brainsucker 100 times, it won't grant you increased damage against Megalodaunts and vice versa. Not even the boss Bestiary buffs are universally applied!
 -   [Corrupt](Monsters.md#scyphozia) Monsters count as **2 kills** instead of 1.
 -   'Resilient' Monsters (such as [Enforcers](Enforcer.md) or [Bounders](Bounder.md)) have halved damage and resistance bonuses.
     -   While most monsters are +10% damage/5% resistance per milestone, totaling to +30% damage and +15% resistance, 'resilient' monsters only grant +5% damage and +2.5% resistance per milestone, totaling to +15% damage and +7.5% resistance.

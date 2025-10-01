@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163485
+revid: 163559
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1469,10 +1469,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Gunslinger
 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
-    -   Due to this being combined multiplicatively rather than additively, this is worse than just +10% PEN, especially on [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Stormseye](Stormseye.md) due to their dual damage typings.
+    -   Due to this being applied multiplicatively rather than additively, this is worse than just +10% PEN.
     -   Armor Piercing has heavy diminishing returns based on how much PEN you have. While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8), or 65% PEN + Armor Piercing is equivalent to having 68.5% PEN against blunt armor (+3.5).
-    -   Armor Piercing does not bypass the 50% PEN cap.
+    -   Specific rifles benefit from Armor Piercing less than others due to their damage typings not being purely blunt or not being blunt at all.
+        -   For [Rifle Spear](Rifle_Spear.md), this will only proc during Tactical Reload and on critical, due to Rifle Spear being a slash based weapon.
+        -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will barely benefit from Armor Piercing, because of their elemental damage.
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
     -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
 

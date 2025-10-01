@@ -1,17 +1,28 @@
 ---
 title: Sentinel
-revid: 163542
+revid: 163547
 source: https://deepwoken.fandom.com/wiki/Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Sentinel
 
-## Sentinel
+| Sentinel | |
+|---|---|
+| name | Sentinel |
+| aspect | ? |
+| location | Etris |
 
-Sentinel is an NPC in Etris
+## Description
 
-They guard the house with the shadow hunter blueprint in etris,which also has another NPC called [Khan](<Khan_(NPC).md>)(not the aspect) inside
+Sentinel is an NPC located at the [Etris Docks](Etris_Docks.md). He appears to be guarding the house where [Khan](<Khan_(NPC).md>) is, only appearing while the "Lost Books" [Quest](Quests.md) is active.
+
+## Location
+
+Sentinel is located under [Etris](Etris.md) in a run-down house.
+
+## Dialogue
 
 <table>
 <tbody>
@@ -19,7 +30,7 @@ They guard the house with the shadow hunter blueprint in etris,which also has an
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">...</td>
+  <td>colspan="12" ...</td>
 </tr>
 <tr>
   <td colspan="12">Who are you?</td>

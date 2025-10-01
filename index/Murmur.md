@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 154891
+revid: 163551
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics, Murmurs]
@@ -11,8 +11,6 @@ categories: [Talents, Character, Mechanics, Murmurs]
 “ Aye... Eldest mother of our people, Mur of Light... She who descended from the Heavens and brought out the Light of our souls in our darkest days... ”
 
 ― Theadre
-
-Using Ardour Scream.
 
   
 **Murmurs** are [Talents](Talents.md) obtained by completing an objective or requirement that allows the user to channel the Song in various ways to gain special buffs or abilities.

@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 163525
+revid: 163569
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,7 +28,7 @@ Their body is malnourished to an extent that their ribcage is visible, and their
 **Watcher's Gaze**  
 (★★☆)
 
- | The Watcher gazes into your very soul, rapidly depleting your Sanity, distorting your vision, and sprouting large black spikes out of the ground. Additionally, two [Hollow Angels](Hollow_Angel.md) will be spawned.
+ | The Watcher gazes into your very soul, rapidly depleting your Sanity, distorting your vision, and sprouting large black spikes out of the ground. Additionally, two [Hollow Angels](Hollow_Angel.md)/one [Sworn Angel](Sworn_Angel.md) will be spawned.
 
 -   The spikes do not deal damage, but instead they limit your mobility, acting as physical barriers that prevent your escape.
 -   The only way to avoid this attack is to physically move out of the Watcher's line of sight.
@@ -120,10 +120,10 @@ This dialogue is exclusive to the Watchers at [The Temple of the Forgotten Flame
 </tr>
 <tr>
   <td colspan="2">A PLAYTHING, PERHAPS? THE LORDLING HAS SERVED OUR ENDS WELL, EVEN IF HE DID NOT BECOME A THRALL AS YOU DID.</td>
-  <td colspan="2">[this dialogue option is currently bugged and cannot be chosen]</td>
+  <td colspan="2">THE THINNING PLAYS TRICKS EVEN ON THE AWARE. WE DID NOT FORESEE THAT THIS SPIT OF LAND WOULD DRIFT SO. IT HAS BEEN AN AMUSING DETOUR.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>

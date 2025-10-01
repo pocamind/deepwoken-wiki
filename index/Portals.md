@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 158706
+revid: 163558
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -59,6 +59,8 @@ When obtained, Portals will spend its points on the following stats:
 -   This Resonance can be used to clip through walls[\[1\]](#cite-note-1), and by extention, exit the boundaries of [Guild Bases](Guild_Bases.md).[\[2\]](#cite-note-2)
     -   Distance clipped likely depends on speed stat and whether or not the bell is corrupted.
 -   Portals now properly makes enchant VFX disappear, unlike the outdated gif
+-   Dive variant counts as an uppercut, and can proc meteor impact.
+    -   Interestingly, it cannot proc soaring storm.
 
 ## References
 
