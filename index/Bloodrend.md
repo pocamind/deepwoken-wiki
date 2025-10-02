@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 163560
+revid: 163623
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1014,7 +1014,7 @@ Smell of Blood
 
  | 
 
-When people touch a blood pool, briefly see their blood and blood poison.
+When people touch a blood pool, briefly see their blood and blood poison. This effect also occurs whenever you blockbreak your opponent.
 
  | 
 

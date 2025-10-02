@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 163462
+revid: 163630
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -229,6 +229,10 @@ These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and at
 ### Dread Stacks
 
 [Silentheart](Oath%253A_Silentheart.md) exclusive. Gain stacking Mantra damage resistance when you take damage from or parry Mantras. Grants 5% Mantra damage resistance per stack, capping at 25% with 5 stacks. Signified by a red ring around your character. The color of this ring can be changed by [dying](Dye_Packet.md) your Oath Silentheart Tattoos.
+
+### Silent Cascade
+
+[Silentheart](Oath%253A_Silentheart.md) exclusive. Your next uppercut used within the next 30 seconds will be replaced with Silent Cascade, a barrage of strikes that deals 7.5 Oath damage per hit and hits 6 times. This effect is acquired by landing 8 weapon attacks or Silentheart abilities, and is signified by black fog emanating off your arms with your arms being covered in white stars.
 
 ### Hidden Tendril
 
@@ -486,7 +490,7 @@ A [speed boost](#speed-boost) triggered by executing someone while you have [Tim
 
 While under the effects of All the Dead Gods' [anti-heal](#anti-heal), all non-passive healing you receive will be granted to the caster instead. The activation window for this effect will be reduced if you do not meet the requirements of this Talent. Signified by a much deeper blurple hue on your anti-heal.
 
-#### Deep Wound
+### Deep Wound
 
 Anti-Heal effect applied when being assassinated by a player who has the [Deep Wound](Talents.md#assassin) Talent. The Anti-Heal lasts 20 seconds. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a dark red smoke on your character.
 

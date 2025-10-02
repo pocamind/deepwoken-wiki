@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 163620
+revid: 163627
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -97,13 +97,6 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 #### Talent Abilities
 
--   **Ankle Cutter** - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-    -   Deals 37.5/52.5 damage with innate [Bleed](Status_Effects.md#bleed), adding an additional 11.1/15.75 damage.
-    -   Speed of the attack scales on your weapon's swingspeed stat.
-    -   Can be used while sliding down slopes at no cost to your speed.
-    -   Flow State makes Ankle Cutter faster as well as increasing its damage.
-    -   5 second cooldown.
-
 -   **Flow State** - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
     -   Activating Ankle Cutter, Mayhem, Relentless Hunt, or Rising Star within 2 seconds of activating Flow State will enhance these attacks.
     -   Flow State has a 15 second cooldown, landing a Flow State-enhanced Silentheart ability will reset Flow State's cooldown.
@@ -115,6 +108,13 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
         -   May add additional effects to certain Silentheart abilities.
         -   Changes windup of some Silentheart abilities.
         -   Adds a loud whooshing sound effect right before you do the move.
+
+-   **Ankle Cutter** - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+    -   Deals 37.5/52.5 damage with innate [Bleed](Status_Effects.md#bleed), adding an additional 11.1/15.75 damage.
+    -   Speed of the attack scales on your weapon's swingspeed stat.
+    -   Can be used while sliding down slopes at no cost to your speed.
+    -   Flow State makes Ankle Cutter faster as well as increasing its damage.
+    -   5 second cooldown.
 
 -   **Mayhem** - Initiate a special dash attack by pressing M1 during the start of your dodge.
     -   16s CD per weapon type, 6s CD if feinted.
@@ -151,6 +151,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.
     -   This is bound to your feint key, not to M2.
+    -   Landing 8 weapon attacks or Silentheart abilities grants the Silent Cascade status effect, allowing you to use the Silent Cascade attack. This effect lasts 30 seconds or until you use Silent Cascade.
     -   Deals 7.5 Oath damage per hit (6) regardless of your equipped weapon.
     -   Has autoparry frames.
     -   This attack is identical to old Silentheart's Mani Katti.

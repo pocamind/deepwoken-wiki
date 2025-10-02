@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163608
+revid: 163624
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -571,7 +571,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Bloodwarden's Sense \[Common Talent\] - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
     -   Prerequisite: 30 Bloodrend
 
--   _Smell of Blood_ \[Rare Talent\] - When people touch a blood pool or when the user guardbreak them, briefly see their blood and blood poison.
+-   _Smell of Blood_ \[Rare Talent\] - When people touch a blood pool, briefly see their blood and blood poison. This effect also occurs whenever you blockbreak your opponent.
+    -   Your opponent's blood percentage is shown as a red number.
+    -   Your opponent's blood poisoning percentage is shown as a pink number.
     -   Prerequisite: 65 Bloodrend
 
 ### Bloodrender
