@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 162749
+revid: 163612
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -118,7 +118,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td colspan="15">Begin</td>
 </tr>
 <tr>
-  <td colspan="15">Ashes to ashes, dust to dust</td>
+  <td colspan="15">Ashes to ashes, dust to dust... This is our destiny.</td>
 </tr>
 <tr>
   <td colspan="15">...</td>

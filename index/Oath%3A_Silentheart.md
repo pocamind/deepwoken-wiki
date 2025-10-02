@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 163463
+revid: 163620
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -74,8 +74,6 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
--   All Silentheart moves deal Oath damage.
--   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
 
 ## Abilities
 
@@ -100,34 +98,32 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 #### Talent Abilities
 
 -   **Ankle Cutter** - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-    -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1 and adding 30% as bleed dmg.
+    -   Deals 37.5/52.5 damage with innate [Bleed](Status_Effects.md#bleed), adding an additional 11.1/15.75 damage.
+    -   Speed of the attack scales on your weapon's swingspeed stat.
     -   Can be used while sliding down slopes at no cost to your speed.
-    -   Flow State makes ankle cutter faster as well as increasing its damage. The damage buff depends on the base damage of the attack, scaling down the higher your damage is.
+    -   Flow State makes Ankle Cutter faster as well as increasing its damage.
     -   5 second cooldown.
 
 -   **Flow State** - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
-    -   "Special attacks" are attacks that are unique to Silentheart. Ankle Cutter, Mayhem, Relentless Hunt, Rising Star, and Vengeful Pursuit are special attacks.
+    -   Activating Ankle Cutter, Mayhem, Relentless Hunt, or Rising Star within 2 seconds of activating Flow State will enhance these attacks.
+    -   Flow State has a 15 second cooldown, landing a Flow State-enhanced Silentheart ability will reset Flow State's cooldown.
     -   The Flow State enhanced effects on Silentheart abilities will be highlighted in red.
-    -   Given as a Talent tool.
+    -   Flow state is a Talent tool.
     -   Flow State changes the behavior of a move:
-        -   Increases the damage of some Silentheart abilities.
-            -   e.g. medium mayhem damage (33 -> 37), medium rising star (45 -> 60), medium relentless hunt (32 damage overall -> 50 damage overall).
+        -   Increases the damage of most Silentheart abilities.
         -   Mayhem autogrips.
-        -   Light relentless hunt now returns to the user back to their original position and preforms a secondary slash there.
-            -   You can reload during the second slash.
+        -   May add additional effects to certain Silentheart abilities.
         -   Changes windup of some Silentheart abilities.
         -   Adds a loud whooshing sound effect right before you do the move.
-    -   Active for 1.5 seconds.
-    -   Flow State has a 15 second cooldown, landing a Silentheart ability that is empowered by Flow State will reset its cooldown.
 
 -   **Mayhem** - Initiate a special dash attack by pressing M1 during the start of your dodge.
     -   16s CD per weapon type, 6s CD if feinted.
     -   Can be feinted by pressing M2 during its windup.
     -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
     -   All variants are capable of auto-gripping with Flow State active.
-    -   Light - deals 38/49 Oath damage
-    -   Medium - deals 33/57 Oath damage
-    -   Heavy - deals 45/52 Oath damage
+    -   Light - deals 37.5/48.75 Oath damage
+    -   Medium - deals 30/52.5 Oath damage
+    -   Heavy - deals 45/52.5 Oath damage
 
 -   **Relentless Hunt** - M1 while doing an Aerial Attack to initiate a special gap closer attack.
     -   20s CD per weapon type, 6s CD if feinted. Medium Relentless Hunt has a 6 second cooldown if it lands.
@@ -135,9 +131,9 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Mostly used as a gap closer.
     -   Movesets differ depending on the weapon type.
     -   Has lower windup with Flow State active. The delay can trick opponents.
-    -   Light - 17 Oath damage, hits twice in Flow State, moving you back to the cast position
-    -   Medium - 36/50 Oath damage (18/25 + 18/25)
-    -   Heavy - 30/37 Oath damage
+    -   Light - 18 Oath damage, hits twice in Flow State, moving you back to the cast position
+    -   Medium - 36/54 Oath damage (18/27 + 18/27)
+    -   Heavy - 30/37.5 Oath damage
 
 -   **Rising Star** - Press CTRL + M2 to activate a special uppercut attack.
     -   12s CD per weapon type, 4s CD if feinted. This cooldown is per weapon type; using Light then switching to Heavy will allow you to immediately use the Heavy Variant.
@@ -145,7 +141,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Changing your feint key will change Rising Star's \[M2\] activation key, however Rising Star is always bound to CTRL, even if your Crouch isn't.
     -   Procs all "on Uppercut" Talents.
     -   Movesets differ depending on the weapon type.
-    -   Light - 40/52 Oath damage (20/26 + 20/26)
+    -   Light - 60/66 Oath damage (30/30 + 30/36)
     -   Medium - 45/60 Oath damage
     -   Heavy - 60 Oath damage, lower windup in Flow State
 
@@ -155,12 +151,15 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.
     -   This is bound to your feint key, not to M2.
-    -   Deals 7.5 Oath damage per hit (5) regardless of your equipped weapon.
+    -   Deals 7.5 Oath damage per hit (6) regardless of your equipped weapon.
     -   Has autoparry frames.
     -   This attack is identical to old Silentheart's Mani Katti.
 
 ## Notes
 
+-   If you have no Tempo, your Rising Star, Relentless Hunt, and Mayhem deal reduced damage, posture damage, and will have longer windups.
+    -   Heavy: -15 damage, -5 posture damage / Medium: -15 damage, -4 posture damage / Light: -7.5 damage, -1 posture damage.
+-   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
 -   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
 -   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCOMFIRMED)**
 -   While all Mantras are voided and the Mantra tab becomes unavailable, the character will still have them within their character data. Consult the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) to convert them into 2 random Talents.
@@ -170,11 +169,11 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   You will be able to pass [Aelita](Aelita.md)'s game by using any of your Silentheart abilities.
--   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
-    -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
+-   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), and [Amashi](Amashi,_Master_of_Flame.md) (Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
+    -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Voidwalker.md) and faction ambushes won't come after you.
 -   To make the Dreadstar appear, interact with one of the Ghosts on the ship and fight them.
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attachment)
--   **Silent Cascade, Rising Star,** and **normal uppercut** all share same keybinds, however there's a clear priority (the left-er? = the more prioritized)
+-   **Silent Cascade**, **Rising Star**, and **normal uppercut** all share same keybinds, however there's a clear priority (the further to the left = the more prioritized)
     -   **Silent Cascade > Rising Star > Uppercut**
 
 ## Trivia
@@ -182,7 +181,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   The lines that adorn a Silentheart's arms and chest are tattoos, not veins.
     -   Despite this, they will lose their coloration should the Silentheart be killed by [Blood Scourge](Blood_Scourge.md), which specifically drains blood.
 -   After completing Silentheart (e.g killing all the attunement trainers) they will have a new unique dialogue option, that being "Your Ether ... Just what have you done?" signifying that obtaining SilentHeart may alter your ether in a very bad way
--   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have Talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
+-   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have Talents like [Flaming Flourish](Flamecharm.md#the-demon-blade) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
 -   Silentheart Talents are the only Talents in the game to update their Talent descriptions in real time to what your keybinds currently are. For example, if you change your Unmatched Dexterity Key to P, the Talent description will use "P" instead of "X".
 -   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
