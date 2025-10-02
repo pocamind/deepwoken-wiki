@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 162449
+revid: 163604
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -299,7 +299,7 @@ Exhaustive Loot Table
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">How strange... Time truly does run amok when drawn into Ethiron's Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?</td>
+  <td colspan="12">How strange... Time truly does run amok when drawn into <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?</td>
 </tr>
 <tr>
   <td colspan="4">Ethiron's Wake?</td>
@@ -307,13 +307,12 @@ Exhaustive Loot Table
   <td colspan="4">[Attack mid-dialogue]</td>
 </tr>
 <tr>
-  <td colspan="4">This close to the Drowned God Ethiron, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams. [ATTACKS]</td>
-  <td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? After we met in your time, did you make it to the- [ATTACKS]</td>
+  <td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams. [ATTACKS]</td>
+  <td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? Tell me. After we met in your time, did you make it to the- [ATTACKS]</td>
   <td colspan="4">Aha, the first strike? Not one to mince words are we?</td>
 </tr>
 <tr>
-  <td colspan="4">Ha? Really?! Gods below, you really are such a FOOL.</td>
-  <td colspan="4">End</td>
+  <td colspan="8">Ha? Really?! Gods below, you really are such a FOOL.</td>
   <td colspan="4">End</td>
 </tr>
 <tr>

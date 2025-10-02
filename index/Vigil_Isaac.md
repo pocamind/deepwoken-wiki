@@ -1,9 +1,9 @@
 ---
 title: Vigil Isaac
-revid: 161908
+revid: 163581
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Isle of Vigil]
 ---
 
 # Vigil Isaac

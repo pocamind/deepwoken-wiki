@@ -1,9 +1,9 @@
 ---
 title: Karthal
-revid: 158851
+revid: 163588
 source: https://deepwoken.fandom.com/wiki/Karthal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs]
+categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, The Divers]
 ---
 
 # Karthal

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 163014
+revid: 163577
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -432,6 +432,7 @@ Red
  | File:Redtelegraph.png | 
 
   
+Attacks with this indicator must be dodged. They will either bypass block or guardbreak.
 
  |
 | All attacks that have this attribute:
@@ -523,6 +524,7 @@ Green
  | File:Greentelegraph.png | 
 
   
+Attacks with this indicator must be parried.
 
  |
 | All attacks that have this attribute:
@@ -566,6 +568,7 @@ Cyan
  | File:Cyan telegraph.png | Most attacks with this indicator deal high posture damage.
 
   
+Attacks with this indicator cannot be dodged. They must be parried, or with high enough posture, blocked.
 
  |
 | All attacks that have this attribute:
@@ -633,7 +636,7 @@ Main article: [Status Effects](Status_Effects.md)
   <th>Shocked</th>
   <td>Represented by yellow sparks engulfing the victim's body.<p><br>
   </p>
-  <p><b>Stuns for a slight moment, usually enough to land an extra hit.</b></p>
+  <p><b>Hitstun of the attack applying it increased by 0.1 second. Cancel out hyper armor.</b></p>
   <p><i>A common source is being hit with a <a href="Thundercall.md">Thundercall</a> Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
   <td></td>
 </tr>
@@ -665,7 +668,7 @@ Main article: [Status Effects](Status_Effects.md)
 </tr>
 <tr>
   <th>Anti-heal</th>
-  <td>Represented by purple mist surrouding the victim's body.<p><b>All sources of healing and temporary health gain are disabled. Common sources of healing include:</b></p>
+  <td>Represented by purple mist surrouding the victim's body.<p><b>All sources of healing and temporary health gain are disabled or reduced. Common sources of healing include:</b></p>
   <ul>
     <li>Passive health regen</li>
     <li>Spit healing</li>

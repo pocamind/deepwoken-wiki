@@ -1,17 +1,21 @@
 ---
 title: Mur Of Light
-revid: 145150
+revid: 163587
 source: https://deepwoken.fandom.com/wiki/Mur_Of_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Lore, Lore figures]
 ---
 
 # Mur Of Light
 
+| Mur Of Light | |
+|---|---|
+| name | Mur of Light |
+| aspect | Celestial |
+
 “ A god? Amongst men, perhaps. The King shall be the vessel of Mur's light - he who once commanded the Murmurs greater than any other. It is said that his Ardour could cut the seas themselves... But where are you now, oh, King?... ”
 
 ― Theadre responding to the player questioning if the king is some kind of god.
-
-  
 
 ## Description
 

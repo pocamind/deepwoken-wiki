@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163559
+revid: 163608
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3409,7 +3409,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.25% PEN (or 1.075x PEN) at 40 Agility.
     -   Prerequisite: 65 Agility
 
--   Crippling Comeuppance \[Common Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
+-   _**Crippling Comeuppance**_ \[Advanced Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
     -   For every point of Agility below 100, Crippling Comeuppance's duration is reduced by 0.1 seconds, having a minimum duration of 12.5 seconds at 75 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 100 Agility
 

@@ -1,9 +1,9 @@
 ---
 title: Sev
-revid: 163311
+revid: 163585
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs]
+categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Vendors]
 ---
 
 # Sev

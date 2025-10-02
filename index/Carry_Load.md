@@ -1,8 +1,9 @@
 ---
 title: Carry Load
-revid: 160947
+revid: 163597
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics, Character]
 ---
 
 # Carry Load

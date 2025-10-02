@@ -1,8 +1,9 @@
 ---
 title: Union Pager
-revid: 138234
+revid: 163582
 source: https://deepwoken.fandom.com/wiki/Union_Pager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Tools, Items, The Ignition Union]
 ---
 
 # Union Pager

@@ -1,9 +1,9 @@
 ---
 title: The Military District
-revid: 163369
+revid: 163596
 source: https://deepwoken.fandom.com/wiki/The_Military_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Lost Celtor]
+categories: [Locations, Lost Celtor, Layer 1]
 ---
 
 # The Military District
