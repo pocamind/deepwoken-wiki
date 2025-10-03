@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 163327
+revid: 163774
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -175,7 +175,7 @@ Instant Damage: It's the same formula as before, but the potion's overall damage
 
 Health Regeneration potions have a reduced effect in combat, giving +60% per ingredient instead of +85%. The formula is the same as before.
 
--   Example: Out of Combat - 3 Bamboo (n1, 2, 3 = 85) 2 Goblettos (n4, 5 = 85). Talents: Apothecary (A = 1.25), Potion Quaffer (t = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
+-   Example: Out of Combat - 3 Beeswax (n1, 2, 3 = 85) 2 Goblettos (n4, 5 = 85). Talents: Apothecary (A = 1.25), Potion Quaffer (t = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = ((85 + 85 + 85 + 85 + 85) \* 1) \* ((1 + ((75/2)/100) + 1.25) \* 1.15)
     -   Potion = (425 \* 1) \* ((1 + (37.5/100) + 1.25) \* 1.15)
@@ -184,7 +184,7 @@ Health Regeneration potions have a reduced effect in combat, giving +60% per ing
     -   Potion = 425 \* 3.02
     -   Potion = +1,282.97% health regeneration for 11.25 seconds out of combat.
         -   This potion will also grant -25% movement speed for the same duration, though this is reduced to -18.75% due to the innate resistance players have to slows. This downside can also be mitigated via the usage of [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
--   Example: In Combat - 3 Bamboo (n1, 2, 3 = 60) 2 Goblettos (n4, 5 = 60). Talents: Apothecary (A = 1.25), Potion Quaffer (t = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
+-   Example: In Combat - 3 Beeswax (n1, 2, 3 = 60) 2 Goblettos (n4, 5 = 60). Talents: Apothecary (A = 1.25), Potion Quaffer (t = 1.15). 75 Intelligence (p = 75/100). (a = 1 Antithetic Salts were not used)
     -   Potion = (((n1 + n2 + n3 + n4 + n5)) \* a) \* (((1 + (p/100) + A) \* t)
     -   Potion = ((60 + 60 + 60 + 60 + 60) \* 1) \* ((1 + ((75/2)/100) + 1.25) \* 1.15)
     -   Potion = (300 \* 1) \* ((1 + (37.5/100) + 1.25) \* 1.15)

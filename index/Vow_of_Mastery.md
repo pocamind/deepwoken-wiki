@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 149696
+revid: 163767
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -154,7 +154,7 @@ Charisma
     -   This method is currently highly ineffective as commands such as _Live_ and _Sacrifice_ now have significant range caps, making it exceedingly difficult to hide alternate accounts nearby in ganks.
 -   You can still make the Vow of Mastery in Fragments of Self, however no commands work there.
 
--   Mentioning any other command or name of any other command while using the say command will use the respective command.
+-   Mentioning any command in any part of a sentence will cause its effect. Example: "I could just explode all"
 -   Trying to use the say command to force a vow to say "Sorry \[Name\]" or "My bad \[Name\]" won't work.
     -   Similarly using the say command to force your vow to use a Roblox chat command will make them say it, but not use it, for example: "\[Name\] say /e dance" will make the subject say "/e dance" but they won't start dancing.
 
