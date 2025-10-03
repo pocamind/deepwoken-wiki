@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 163612
+revid: 163689
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -45,7 +45,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 <tr>
   <td><center><b>Assault</b><br>
   (★☆☆)</center></td>
-  <td>Aska hits the player with an ordinary attack.<div>
+  <td>Aska performs 3 basic attacks before sending the opponent away with a flourish.<div>
   <ul>
   </ul></div></td>
 </tr>

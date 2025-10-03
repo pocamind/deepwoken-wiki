@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 162460
+revid: 163681
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]
@@ -25,9 +25,7 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 **Assault**  
 (★☆☆)
 
- | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Firmly thrusts spear at opponent and finishing up the combo by kicking them.
-
-\[[Fists](Fists.md)\] Firmly pummels opponent before finishing up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

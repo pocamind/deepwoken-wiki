@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 155833
+revid: 163699
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -20,15 +20,49 @@ Rat Fighters drop a [Gold Plate](Gold_Plate.md) upon being killed, of which 5 ca
 
 ## Moveset
 
-Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunement:
+Their arsenal consists of a Soulwrought Greataxe and the [Galebreathe](Galebreathe.md) Attunement:
 
-| Name | Description | Parryable? | Blockable | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Swings axe at opponent and finishes the attack by kicking them away. | ◯ | ◯ | (★☆☆) |
-| Critical | Raises axe upward before slamming it down to the ground. | ◯ | ✗ | (★★☆) |
-| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| Heavenly Wind | User leaps high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
-| Onslaught | User _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._ | ◯ | ◯ | (★★☆) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises axe upward before slamming it down to the ground.
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+ |
+| 
+
+**Heavenly Wind**  
+(★★☆)
+
+ | User leaps high into the air before diving down, striking any targeted opponent.
+
+ |
+| 
+
+**Onslaught**  
+(★★☆)
+
+ | Reels back and swing their weapon, unleashing an onslaught of blows if it hits.
+
+ |
 
 ## Finisher
 

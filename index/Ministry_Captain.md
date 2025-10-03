@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 152729
+revid: 163692
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -20,16 +20,71 @@ They wear a Vagabond's Bicorn, either a Blindfold or Crimson Blindfold and a [Pr
 
 Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings dagger at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
-| Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
-| Dark Blade | The caster dashes forward and does 3 shadow infused slashes with their weapon. | ◯ | ◯ | (★☆☆) |
-| Shadow Roar | Releases a roar of shadow and Debris in the direction of the enemy doing minor damage. | ◯ | ◯ | (★☆☆) |
-| Shadow Eruption | The user makes a swipe with their right hand before releasing a large sphere of shadow. | ◯ | ◯ |  |
-| Clutching Shadow | The caster raises their their hand and lifts one target in the air, then proceeds to slam them in the ground. | ◯ | ◯ |  |
-| Encircle | The caster conjures shadows around the enemy that deals damage and teleports the caster towards them. | ◯ | ◯ |  |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | User unleashes a quick flurry of slashes.
+
+ |
+| 
+
+**Shadow Assault**  
+(★★☆)
+
+ | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness.
+
+ |
+| 
+
+**Dark Blade**  
+(★☆☆)
+
+ | The caster dashes forward and does 3 shadow infused slashes with their weapon.
+
+ |
+| 
+
+**Shadow Roar**  
+(★☆☆)
+
+ | Releases a roar of shadow and Debris in the direction of the enemy doing minor damage.
+
+ |
+| 
+
+**Shadow Eruption**  
+(★☆☆)
+
+ | The user makes a swipe with their right hand before releasing a large sphere of shadow.
+
+ |
+| 
+
+**Clutching Shadow**  
+(★☆☆)
+
+ | The caster raises their their hand and lifts one target in the air, then proceeds to slam them in the ground.
+
+ |
+| 
+
+**Encircle**  
+(★☆☆)
+
+ | The caster conjures shadows around the enemy that deals damage and teleports the caster towards them.
+
+ |
 
 ### Boons
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 153295
+revid: 163677
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hundred Legions, The Hundred Legions Enemies]
@@ -22,48 +22,68 @@ According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders"
 
 A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or [Fists](Fists.md) (**Legion Kata**) along with the [Thundercall](Thundercall.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | \[[Champion's Sword](<Champion's_Sword.md>)\] Swings blade at the opponent and finishes the combo by kicking them away.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
-\[[Ritual Spear](Ritual_Spear.md)\] Thrusts spear at opponent and finishes up the attack by kicking them.
-
-\[[Fists](Fists.md)\] Pummels opponent with their fists and flourishes the opponent away.
-
- | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-> Grand Javelin
+**Critical**  
+(★★☆)
+
+ | \[[Champion's Sword](<Champion's_Sword.md>)\] Winds up before performing a piercing thrust.
+
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands. \[[Fists](Fists.md)\] Grabs opponent and slams them into the ground.
+
+ |
+| 
+
+**Grand Javelin**  
+(★★★)
 
  | User throws a spear made of pure lightning in front of them.
 
 -   This move will insta-grip/execute if it hits you while knocked or at low health.
 -   This move has a very short cooldown with them able to use it after around just 2.5s.
 
- | ◯ | ✗ | (★★★) |
+ |
 | 
 
-> Bolt Piercer
+**Bolt Piercer**  
+(★★☆)
 
- | User fires an arrow of lightning at the sky, causing multiple drops of thunder to rain at the location of their foes. | ◯ | ◯ | (★★☆) |
+ | User fires an arrow of lightning at the sky, causing multiple drops of thunder to rain at the location of their foes.
+
+ |
 | 
 
-> Thunder Kick
+**Thunder Kick**  
+(★★☆)
 
- | User heavily kicks forward, producing an unrelenting kick like a clap of thunder. | ◯ | ◯ | (★★★) |
+ | User heavily kicks forward, producing an unrelenting kick like a clap of thunder.
+
+ |
 | 
 
-> Electro Carve
+**Electro Carve**  
+(★☆☆)
 
- | User produces a highly potent field of electromagnetism, shocking all inside. | ◯ | ◯ | (★☆☆) |
+ | User produces a highly potent field of electromagnetism, shocking all inside.
+
+ |
 | 
 
-> Vent
+**Vent**  
+(★☆☆)
 
- | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
+ | An explosion of blue ether around the user that pushes opponents away.
+
+ |
 
 ### Talents
 

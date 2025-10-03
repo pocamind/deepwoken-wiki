@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 153262
+revid: 163695
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -20,30 +20,47 @@ Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and alway
 
 Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Firmly swings dagger at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
-Critical
-
- | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-Shadow Roar
+**Critical**  
+(★★☆)
 
- | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second to anyone who stands in it. | ◯ | ◯ | (★★☆) |
+ | User unleashes a quick flurry of slashes.
+
+ |
 | 
 
-Summon
+**Shadow Roar**  
+(★★☆)
 
-Necro-skippers
+ | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second to anyone who stands in it.
 
- | Summons a total of three [Blue](Necroskipper.md) or [Redskippers](Necroskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
-| Shadow Seekers | The user snaps their fingers, and sends 3 orbs that slowly chase nearby enemies until the duration has expired or the orb has made contact with the target. | ◯ | ◯ | (★★☆) |
+ |
+| 
+
+**Summon Necro-skippers**  
+(★☆☆)
+
+ | Summons a total of three [Blue](Necroskipper.md) or [Redskippers](Necroskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed.
+
+ |
+| 
+
+**Shadow Seekers**  
+(★★☆)
+
+ | The user snaps their fingers, and sends 3 orbs that slowly chase nearby enemies until the duration has expired or the orb has made contact with the target.
+
+ |
 
 ### Boons
 

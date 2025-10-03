@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 160585
+revid: 163700
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -16,106 +16,63 @@ The Semblance is a humanoid enemy NPC that can be found at [Voidsea](Voidsea.md)
 
 ## Moveset
 
-| 
-Name/Danger
+The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Path alongside the [Fractine](Fractine.md), [Soulthorn](Soulthorn.md), or [Nocturne](Nocturne.md).
 
- | 
-
-Description
-
- |
+| Name/Danger | Description |
 | --- | --- |
 | 
+**Assault**  
+(★☆☆)
 
-Assault
-
- | Attacks the opponent repeatedly and flourishes them away with a kick.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 
 
-Critical  
-★
+**Critical**  
+(★★☆)
 
- | \[[Soulthorn](Soulthorn.md)\] The Soulthorn has three critical variants which depend on the amount of soul stacks on their opponent.
-
-Every M1 of Soulthorn that connects applies a soul stack. Up to three soul stacks can be applied. At three stacks, your opponent will have a rotating, star-like aura.
-
-At 0 stacks, the sword glows but nothing happens.
-
-At 1-2 stacks, the Semblance leaps and releases a heavy chop that ragdolls their opponent, pulling them towards the Semblance. Can hit from a short range. Parriable and does high posture damage. Blockbreaks at 2 stacks.
-
-At 3 stacks, you teleport to your opponent and unleash multiple slashes after a brief delay. Parriable and does high posture damage.
-
-\[[Nocturne](Nocturne.md)\] The Semblance stabs opponent in a short range after a very slow wind-up and applies a [Moonseye](Moonseye.md) symbol on them, applying through block, parry, and on hit, the Semblance will perform a follow-up attack, teleports after them and dealing heavy damage.
-
-Can be cancelled by damage in wind-up.
-
-\[[Fractine](Fractine.md)\] The Semblance spins around and does a quick slash then leads into a much heavier downslam attack with hyper armor. After using the Critical attack, the tip of their blade breaks off and lodges itself in the opponent, leaving them with a weapon that has less range, less damage, faster swingspeed, and bleed damage.
-
-Upon using the critical while in the Shattered State of Fractine will do the first attack of the original critical, while recalling the lodged tip of the blade out any opponents its stuck in doing damage and applying hitstun to the original target hit and all opponents in its path. This also restores their weapon back to its original state.  
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | Semblace uses the critical attack of their equipped weapon. Refer to the [Fractine](Fractine.md), [Soulthorn](Soulthorn.md), and [Nocturne](Nocturne.md) pages for more info.
 
  |
 | 
 
-Feint
+**Feint**  
+(☆☆☆)
 
- | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.  
-
-Parryable?: N/A  
-Blockable?: N/A
+ | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.
 
  |
 | 
 
-Time-Slowing Orb  
-★
+**Time-Slowing Orb**  
+(★☆☆)
 
- | The Semblance creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.  
-
-Parryable?: ✗  
-Blockable?: ✗  
-Dodgable?: ✗
+ | The Semblance creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.
 
  |
 | 
 
-Wind Blade
+**Wind Blade**  
+(★☆☆)
 
- | The Semblance shoots out an arc of gale.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | The Semblance shoots out an arc of gale.
 
  |
 | 
 
-Wind Forge
+**Wind Forge**  
+(★☆☆)
 
- | The Semblance conjures up a line of 4 wind projectiles before sending them towards the target.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | The Semblance conjures up a line of 4 wind projectiles before sending them towards the target.
 
  |
 | 
 
-Twister Kicks
+**Twister Kicks**  
+(★☆☆)
 
- | The Semblance dashes forwards kicking with a rush of winds dealing damage.  
-
-Parryable?: ◯  
-Blockable?: ◯  
-Dodgable?: ◯
+ | The Semblance dashes forwards kicking with a rush of winds dealing damage.
 
  |
 

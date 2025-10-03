@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 160438
+revid: 163694
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -49,87 +49,73 @@ Additionally, if the pathfinder hostage is still alive when the agent is gripped
 
 A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Shadowcast and Bloodrend Mantras.
 
-| Name | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-**Assault**
+**Assault**  
+(★☆☆)
 
- | The Heartspiller firmly thrusts their spear forward.
+ | The Heartspiller performs 3 basic attacks before sending the opponent away with a flourish.
 
-Parry: ◯  
-Block: ◯
-
- | TBA |
+ |
 | 
 
-**Critical**
+**Critical**  
+(★★☆)
 
  | The Heartspiller raises their spear to the sky, before bringing it down, unleashing a barrage of orbs.
 
-Parry: ◯  
-Block: ◯ (Deals extremely high posture)
-
- | TBA |
+ |
 | 
 
-**Vent**
+**Vent**  
+(★☆☆)
 
  | The Heartspiller releases an explosion of blue ether, pushing their enemy away.
 
-Parry: ◯  
-Block: ◯
-
- | TBA |
+ |
 | 
 
-**Shadow Eruption**
+**Shadow Eruption**  
+(★☆☆)
 
  | The Heartspiller swipes with their right hand before releasing a large sphere of shadow, hitting their enemy twice and applying shadow.
 
-Parry: ◯  
-Block: ◯
-
- | TBA |
+ |
 | 
 
-**Rising Shadow**
+**Rising Shadow**  
+(★★☆)
 
- | The Heartspiller moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.
+ | The Heartspiller moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether.
 
-Parry: ◯  
-Block: ◯
+-   This attack can summon multiple tendrils to grab multiple people simultaneously.
 
- | TBA |
+ |
 | 
 
-**Eclipse Kick**
+**Eclipse Kick**  
+(★★☆)
 
  | The Heartspiller performs a slow axe kick, causing their enemy to be ragdolled and flung back.
 
-Parry: ◯  
-Block: ◯ (Deals extremely high posture)
-
- | TBA |
+ |
 | 
 
-**Crucifixion**
+**Crucifixion**  
+(★☆☆)
 
  | The Heartspiller conjures a cross, ragdolling and throwing enemies back.
 
-Parry: ◯  
-Block: ◯
-
- | TBA |
+ |
 | 
 
-**Veinbreaker**
+**Veinbreaker**  
+(★★☆)
 
- | The Heartspiller will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. If fully charged, This move gains the ability to guardbreak.
+ | The Heartspiller will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. If fully charged, this move gains the ability to guardbreak.
 
-Parry: ◯  
-Block: ✗
-
- | TBA |
+ |
 
 ## Tips
 

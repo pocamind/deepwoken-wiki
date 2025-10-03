@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 152727
+revid: 163693
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -16,65 +16,65 @@ Ministry Enforcers are elite members of [the Ministry](The_Ministry.md) that use
 
 ## Moveset
 
-They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_Scout.md) shadowcast mantras alongside the [Contractor](Oath%253A_Contractor.md) Oath.
+They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_Scout.md) Shadowcast Mantras alongside the [Contractor](Oath%253A_Contractor.md) Oath.
 
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Moves</th>
+  <th>Moves/Danger</th>
   <th>Description</th>
-  <th>Parryable?</th>
-  <th>Blockable?</th>
-  <th>Danger</th>
 </tr>
 <tr>
-  <td>Assault</td>
-  <td>Firmly pummels opponent before finishing up the combo by kicking them.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td><center><b>Assault</b><br>
+  (★☆☆)</center></td>
+  <td>Performs 3 basic attacks before sending the opponent away with a flourish.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Critical</td>
-  <td>Raises right leg before firmly slamming it down into the ground below.</td>
-  <td><font>◯</font></td>
-  <td><font>✗</font></td>
-  <td>(★☆☆)</td>
+  <td><center><b>Critical</b><br>
+  (★★☆)</center></td>
+  <td>Raises right leg before firmly slamming it down into the ground below.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Shade Devour</td>
-  <td>Gorge on your own health to push away opponents and grant a damage bonus to melee attacks.</td>
-  <td><font>?</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
+  <td><center><b>Shade Devour</b><br>
+  (★☆☆)</center></td>
+  <td>Gorge on your own health to push away opponents and grant a damage bonus to melee attacks.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Shadow Assault</td>
-  <td>Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Shadow Assault</b><br>
+  (★★☆)</center></td>
+  <td>Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Encircle</td>
-  <td>Conjure shadows around your enemy before warping to them after a delay.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Encircle</b><br>
+  (★★☆)</center></td>
+  <td>Conjure shadows around your enemy before warping to them after a delay.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Eclipse Kick</td>
-  <td>A slow axe kick that ragdolls and flings nearby opponents on contact.</td>
-  <td><font>◯</font></td>
-  <td><font>?</font></td>
-  <td>(★★★)</td>
+  <td><center><b>Eclipse Kick</b><br>
+  (★★★)</center></td>
+  <td>A slow axe kick that ragdolls and flings nearby opponents on contact.<div>
+  <ul>
+  </ul></div></td>
 </tr>
 <tr>
-  <td>Judgement</td>
-  <td>Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. The move will instantly execute if it brings HP to 0.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★★☆)</td>
+  <td><center><b>Judgement</b><br>
+  (★★☆)</center></td>
+  <td>Summons a black casting circle before enveloping your target in black tendrils and tearing them apart.
+  <ul>
+    <li>The move will instantly execute if it brings HP to 0.</li>
+  </ul><div>
+  <ul>
+  </ul></div></td>
 </tr>
 </tbody>
 </table>

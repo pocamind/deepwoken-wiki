@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 161520
+revid: 163658
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -48,7 +48,9 @@ As the name implies, this [Talent](Talents.md) allows the player to get wood by 
 
 ## Dialogue
 
-**Selling wood:**
+**First Encounter:**
+
+The following dialogue assumes the player already has a [Lumber Axe](Lumber_Axe.md), if this is not the case, refer to the "Gaining Axe" dialogue.
 
 <table>
 <tbody>
@@ -59,24 +61,56 @@ As the name implies, this [Talent](Talents.md) allows the player to get wood by 
   <td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td>
 </tr>
 <tr>
-  <td colspan="12">1. Yeah.</td>
+  <td colspan="4">Yeah.</td>
+  <td colspan="4">Can you tell me anything about Etrea?</td>
+  <td colspan="4">[Player has destroyed a tree using <a href="Attunement-less.md#strong-left">Strong Left</a>]</td>
 </tr>
 <tr>
-  <td colspan="6">[Enough wood]</td>
-  <td colspan="6">[Not enough wood]</td>
+  <td colspan="2">[Enough wood]</td>
+  <td colspan="2">[Not enough wood]</td>
+  <td colspan="4">Many of the lads here have taken up the sword and train at the Blade Temple to try to become a Vigil. Not many make the cut, though. Myself included. Still, it's a good experience, maybe they'd take you on?</td>
+  <td colspan="4">I'm having problems with my treefelling.</td>
 </tr>
 <tr>
-  <td colspan="6">Thanks for the help.</td>
-  <td colspan="6">Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td>
+  <td colspan="2">Thanks for the help.</td>
+  <td colspan="2">Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td>
+  <td colspan="4">End</td>
+  <td colspan="4">Uh huh. That so? What's the problem? Axe too dull?</td>
 </tr>
 <tr>
-  <td colspan="6">End, Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
-  <td colspan="6">End</td>
+  <td colspan="2">End, Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
+  <td colspan="2">End</td>
+  <td colspan="4"></td>
+  <td colspan="4">I splinter the tree and have no usable lumber behind when I punch it down.</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="4">Huh? I.. What? You're kidding, surely.</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="4">No, I wouldn't kid about not getting wood from trees when I punch them.</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="4">In what world would you get lumber from trees you've punched down? Is this a game to you?</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="4">Yes.</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="4">*<i>The lumberjack's face of utter dumbfound bewilderment strikes you with inspiration. It's all about </i>how<i> you punch them! You reckon <b>5</b> more trees punched down would be sufficient research.</i>*</td>
+</tr>
+<tr>
+  <td colspan="8"></td>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>
 
-**Asking about Etrea:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -84,87 +118,19 @@ As the name implies, this [Talent](Talents.md) allows the player to get wood by 
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td>
+  <td colspan="4">[Player has not started, or has already finished the Treefelling Blow quest]</td>
+  <td colspan="4">[Player has punched down 5 trees with <a href="Attunement-less.md#strong-left">Strong Left</a>]</td>
+  <td colspan="4">[Player has not punched down 5 trees with <a href="Attunement-less.md#strong-left">Strong Left</a>]</td>
 </tr>
 <tr>
-  <td colspan="12">2. Can you tell me anything about Etrea?</td>
-</tr>
-<tr>
-  <td colspan="6">[Negative or Neutral reputation]</td>
-  <td colspan="6">[Positive reputation]</td>
-</tr>
-<tr>
-  <td colspan="6">Look, I don't have the time to be chatting pleasantries with you. Leave me be.</td>
-  <td colspan="6">Many of the lads here take up the sword and train at the Blade Temple to try to become a Vigil. Not many make the cut, though. Myself included. Still, it's a good experience. Maybe they'd take you on?</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-**Treefelling Quest:**
-
-Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
-
-**Quest Start:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin</td>
-</tr>
-<tr>
-  <td colspan="8">Hey. We need more wood to keep the fires burning, you got any?</td>
-</tr>
-<tr>
-  <td colspan="8">3. I'm having a problem with my treefelling.</td>
-</tr>
-<tr>
-  <td colspan="8">Uh huh. That so? What's the problem? Axe too dull?</td>
-</tr>
-<tr>
-  <td colspan="8">I splinter the tree and leave no usable lumber behind when I punch it down.</td>
-</tr>
-<tr>
-  <td colspan="8">Huh? I.. What? You're kidding, surely.</td>
-</tr>
-<tr>
-  <td colspan="8">No, I wouldn't kid about not getting wood from trees when I punch them.</td>
-</tr>
-<tr>
-  <td colspan="8">In what world would you get lumber from trees you've punched down? Is this a game to you?</td>
-</tr>
-<tr>
-  <td colspan="8">Yes.</td>
-</tr>
-<tr>
-  <td colspan="8">*<i>The lumberjack's face of utter dumbfound bewilderment strikes you with inspiration. It's all about <b>how</b> you punch them! You reckon <b>5</b> more trees punched down would be sufficient research.</i>*</td>
-</tr>
-<tr>
-  <td colspan="8">End</td>
-</tr>
-</tbody>
-</table>
-
-**Quest End:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="8">Begin</td>
-</tr>
-<tr>
-  <td colspan="4">Requirements Met</td>
-  <td colspan="4">Requirements Unmet</td>
-</tr>
-<tr>
-  <td colspan="4"><i>You stand at the top of your field before your student. Your student does not understand that they are your student, but that's okay. Their muscles just aren't big enough to comprehend it. You now wield the sum knowledge of <u><b>all</b></u> lumberjacks, after all.</i></td>
+  <td colspan="4">[Refer to First Encounter]</td>
+  <td colspan="4">*<i>You stand at the top of your field before your student. Your student does not understand that they are your student, but that's okay. Their muscles just aren't big enough to comprehend it. You now wield the sum knowledge of <u><b>all</b></u> lumberjacks, after all.</i>*</td>
   <td colspan="4">*<i>The bewildered lumberjack's expression reminds you of your intellectual quest to punch down <b>5</b> trees. Your research is crucial. The world must know.</i>*</td>
 </tr>
 <tr>
-  <td colspan="4">End, Treefelling Blow Talent Obtained</td>
-  <td colspan="4">End</td>
+  <td colspan="4"></td>
+  <td colspan="4">End, player obtains the <a href="Talents.md#treefelling-blow">Treefelling Blow</a> Talent.</td>
+  <td colspan="4">End, quest unfinished</td>
 </tr>
 </tbody>
 </table>
@@ -189,6 +155,24 @@ This is the dialogue that plays if you talk to Korin without yet possessing a [L
 </tr>
 <tr>
   <td colspan="12">End, Lumber Axe Obtained</td>
+</tr>
+</tbody>
+</table>
+
+**Not Enough Reputation:**
+
+If the player has below neutral [Etris](Etris.md) reputation, Korin will say this instead, disallowing them from selling wood to gain increased reputation.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Get lost.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

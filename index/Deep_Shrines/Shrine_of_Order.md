@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 163108
+revid: 163672
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -118,7 +118,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
   <td>Begin</td>
 </tr>
 <tr>
-  <td>FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
+  <td>YOU LACK THE POTENTIAL TO UNDERSTAND BALANCE.</td>
 </tr>
 <tr>
   <td>End</td>

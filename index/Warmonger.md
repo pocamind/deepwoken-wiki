@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 163508
+revid: 163671
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
@@ -36,15 +36,15 @@ Variants: [Steel Maul](Steel_Maul.md)
 
 ## Description
 
-The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul](Steel_Maul.md) with higher requirements. This weapon bears a reddish brown appearance and a stone texture, distinguishing it from base Steel Maul.
+The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul](Steel_Maul.md) with higher requirements. This weapon bears a brown appearance with a stone texture, distinguishing it from base Steel Maul.
 
 Dying in the Overworld/[The Depths](The_Depths.md) with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Steel Maul**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) will not deteriorate the Warmonger, though its unique Talent is disabled in Chime. Warmonger **cannot** be enchanted.
 
 ### Talent: Pugnacious
 
-On basic attack, gain +10% to the following stats: melee damage, posture damage, damage resistance, posture damage resistance, chip damage, and a 10% speed boost per combat tag you have. All effects, excluding the speed boost, cap at +30% (3 or more combat tags), and these effects have a short duration.
+On basic attack, gain +10% to the following stats: melee damage, posture damage, damage resistance, posture damage resistance, chip damage, and a 10% speed boost per combat tag you have. **All effects, excluding the speed boost, cap at +30% (3 or more combat tags)**, and these effects have a short duration.
 
-For example, if you are combat tagged by 5 targets, you will gain +50% damage, posture damage, damage resistance, posture damage resistance, chip damage, and speed boost per M1, though all of these stats, excluding the speed boost, will cap at 30%.
+For example, if you are combat tagged by 5 targets, you will gain up to a maximum of +30% damage, posture damage, damage resistance, posture damage resistance, chip damage, and +50% speed boost.
 
 These effects are greatly improved whenever you grip a player.
 

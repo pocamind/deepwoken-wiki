@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 163604
+revid: 163684
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -30,8 +30,8 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 _For a visual guide, consider watching [this video](https://www.youtube.com/watch?v=_m4IQHs8p_Y)._
 
-| Name/Danger | Description | Media |
-| --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
 **Triple Blood Appendage**  
 (★☆☆)
@@ -40,7 +40,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   Blocking all three hits will cause a lot of posture damage, so attempt to parry it.
 
- |  |
+ |
 | 
 
 **Powerful Blood Appendage**  
@@ -50,7 +50,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   There is an indicator and the unparriable sound cue before the attack.
 
- |  |
+ |
 | 
 
 **Burning Blood Explosion**  
@@ -62,7 +62,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 -   The aforementioned casting sound:  
     
 
- |  |
+ |
 | 
 
 **Triple Blood Wave**  
@@ -72,7 +72,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit.
 
- |  |
+ |
 | 
 
 **Stalactite Fall**  
@@ -82,7 +82,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
 
- |  |
+ |
 | 
 
 **Sanguine Repulsion**  
@@ -92,7 +92,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   The first instance of this does the most damage.
 
- |  |
+ |
 | 
 
 **Transfusion**
@@ -102,17 +102,17 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 -   Chaser will use this move everytime after he leaves his vulnerable state.
 -   He cannot use this move after all blood jars have been broken.
 
- |  |
+ |
 | 
 
 **Last Resort**  
 (★☆☆)
 
- | Chaser unleashes around 25 localised attacks on the player(s) while utilizing all of his moves in a frenzy.
+ | Chaser unleashes around 25 localized attacks on the player(s) while utilizing all of his moves in a frenzy.
 
 -   You must stay in the circle just below him to avoid this attack.
 
- |  |
+ |
 | 
 
 **Body Slam**  
@@ -123,7 +123,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 -   This pushes away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Last Resort.
 -   The slams do a moderate amount of damage as well.
 
- |  |
+ |
 | 
 
 **Blood Frenzy**  
@@ -135,7 +135,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 -   This attack is only available once there are no (or only a few) jars left.
 -   This attack also drains him for 250 health.
 
- |  |
+ |
 
 ## Finisher
 

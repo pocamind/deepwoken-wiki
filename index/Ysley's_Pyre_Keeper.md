@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 160842
+revid: 163648
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", The Hive, Multiple Criticals, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-**Ysley's Pyre Keeper,** or "Callow & Verdant" is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes flames, wielded alongside a similar serrated dagger. It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
+**Ysley's Pyre Keeper,** or "Callow & Verdant" is a legendary [Greatsword](Weapons.md); a thorned chassis opening to a serrated green blade that breathes bright green flames, wielded alongside a curved, serrated dagger. It scales off [Flamecharm](Flamecharm.md) and Heavy, but attacks that utilize the dagger scale with Light Weapon instead.
 
 The Pyre Keeper comes with the following passives:
 
@@ -43,17 +43,20 @@ As suggested by its item description, this blade was used by Ysley after it was 
 
 ## Criticals
 
+  
 Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Running, and Sliding.
 
-**Aerial**: Performs 2 consecutive attacks; the first one is a slash that burns and inflicts knockdown and the second is a ground slam that ragdoll flings the target, creating a green fire explosion and removing the burn effect. The second hit guardbreaks.
+For the **standing** critical, the user performs a slow slash followed by two faster slashes. This critical gives a speed boost for a small duration.
 
-**Normal:** Performs 3 slashes (1 slow and 2 fast) with all of them inflicting the green burn effect. This critical gives a major speed boost for a short time after use.
+For the **running** critical, the user rushes towards the target with both blades behind them. Upon hitting a target. they will be knocked down and diagonally split by the user. The critical cooldown will be cleared upon use, allowing to follow up into a chop similar to the Aerial critical.
 
-**Running:** Performs a medium ranged dash with the blade behind the user, When hitting a target, the user knocks them down and preforms an upwards slash with the blade that uptilts and takes the users critical attack off of cooldown, intended to combo into the aerial crit seemingly.
+For the **aerial** critical, the user raises the greatsword into the air and chops the opponent downwards, guardbreaking them. This is followed up by an explosion that ragdolls and dazes the opponent.
 
-**Sliding:** Leaps forward slashing with a flurry of 3 blows.
+For the **crouching** critical, the user performs a swift slash before flipping into a lighter slash. This critical gives a slight speed boost for a small duration.
 
-**Crouching:** Do a heavy hit that ragdolls enemies, then do a small flip into a lighter slash dealing burn. (All hits deal the same dmg.)
+For the **sliding critical**, the user flips forward, while constantly slicing for the direction they traveled.
+
+All criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 

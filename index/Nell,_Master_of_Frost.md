@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 158649
+revid: 163698
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, Oaths, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -20,82 +20,123 @@ In order to obtain [Frostdraw](Frostdraw.md), you must bring 5 [Frigid Prisms](F
 
 Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the [Frostdraw](Frostdraw.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Performs 4 basic attacks before sending the opponent away with a flourish. After 4 hits, multiple ice shards starts to rain down. | ◯ | ◯ | (★☆☆) |
-| 
+ | Performs 3 basic attacks before sending the opponent away with a flourish. After 4 hits, multiple ice shards starts to rain down.
 
-Iceberg
-
- | Nell encases herself in ice and starts to recover health, hitting her in this state causes her to parry that attack and ends this Mantra. | ◯ | ◯ | (★☆☆) |
+ |
 | 
 
-Ice Lance
+**Critical**  
+(★★☆)
 
- | Nell summons a lance and rushes towards the opponent. She rarely uses this in close combat, only using it to catch out of range opponents. | ◯ | ◯ | (★☆☆) |
+ | Spins her axe with rapid succession, freezing the floor and sending her and her opponent into the air.
+
+ |
 | 
 
-Dread Breath
+**Iceberg**  
+(★☆☆)
 
- | Nell fires off a frost beam from her mouth, dealing constant damage and spreading ice around. | ◯ | ◯ | (★☆☆) |
+ | Nell encases herself in ice and starts to recover health, hitting her in this state causes her to parry that attack and ends this Mantra.
+
+ |
 | 
 
-Critical
+**Ice Lance**  
+(★☆☆)
 
- | Spins her axe with rapid succession, freezing the floor and sending her and her opponent into the air. | ◯ | ✗ | (★★☆) |
+ | Nell summons a lance and rushes towards the opponent. She rarely uses this in close combat, only using it to catch out of range opponents.
+
+ |
 | 
 
-Ice Eruption
+**Dread Breath**  
+(★☆☆)
 
- | Nell stomps the ground, causing large ice to form in front of her and encasing opponents. | ✗ | ✗ | (★★☆) |
+ | Nell fires off a frost beam from her mouth, dealing constant damage and spreading ice around.
+
+ |
 | 
 
-Warden's Blades
+**Ice Eruption**  
+(★★☆)
 
- | Nell summons 4 rotating blades around her that deals constant damage and ends with them becoming a projectile. | ◯ | ◯ | (★★☆) |
+ | Nell stomps the ground, causing large ice to form in front of her and encasing opponents.
+
+ |
 | 
 
-Rising Frost
+**Warden's Blades**  
+(★☆☆)
 
- | Nell summons a glaive of ice and does a barrage attack that raises both her and the opponent into the air. | ◯ | ◯ | (★★☆) |
+ | Nell summons 4 rotating blades around her that deals constant damage and ends with them becoming a projectile.
+
+ |
 | 
 
-Ice Blade
+**Rising Frost**  
+(★★☆)
 
- | Nell summons dual blades and does a barrage of attacks using both of them. Cancels on parry. | ◯ | ◯ | (★★☆) |
+ | Nell summons a glaive of ice and does a barrage attack that raises both her and the opponent into the air.
+
+ |
 | 
 
-Ice Daggers
+**Ice Blade**  
+(★★☆)
 
- | Nell throws 3 small ice daggers that auto tracks into the opponent, Freezing them if they're standing on ice. She mostly uses these when she is out of range for her other moves or when she wants to trick the opponent after she gets parried. | ◯ | ◯ | (★★☆) |
+ | Nell summons dual blades and does a barrage of attacks using both of them. Cancels on parry.
+
+ |
 | 
 
-Ice Fissure
+**Ice Daggers**  
+(★☆☆)
 
- | Nell summons an ice obelisk on top of the opponent, turning the floor into ice. | ◯ | ◯ | (★★☆) |
+ | Nell throws 3 small ice daggers that auto tracks into the opponent, Freezing them if they're standing on ice.
+
+-   She mostly uses these when she is out of range for her other moves or when she wants to trick the opponent after she gets parried.
+
+ |
 | 
 
-Ice Cubes
+**Ice Fissure**  
+(★★☆)
 
- | Nell conjures 3 ice cubes behind her. After a set amount of time or recasting, all 3 gets thrown towards the opponent. | ◯ | ◯ | (★★☆) |
+ | Nell summons an ice obelisk on top of the opponent, turning the floor into ice.
+
+ |
 | 
 
-Ice Smash
+**Ice Cubes**  
+(★★☆)
 
- | Nell summons a huge ice club and hits the ground, guardbreaking anyone that it hits. | ◯ | ✗ | (★★★) |
+ | Nell conjures 3 ice cubes behind her. After a set amount of time or recasting, all 3 gets thrown towards the opponent.
+
+ |
+| 
+
+**Ice Smash**  
+(★★☆)
+
+ | Nell summons a huge ice club and hits the ground, guardbreaking anyone that it hits.
+
+ |
 
 ### Talents
 
--   _Unyielding Frost_ - Nell can proc Chill through block, but lasts 20% less.
+-   _Unyielding Frost_ - Nell can proc Chill through block, but chill procced this way has a 20% shorter duration.
 -   _Perfect Flash_ - If Nell has full Health, her Mantras do 25% more damage.
 -   _Impervious Slumber_ - If Nell gets hit while knocked, her knocked timer isn't reset.
--   _Frozen Legs_ - Nell's Chill effect prevents rolling.
+-   _Frozen Legs_ - Nell's Chill effect prevents rolling for a short duration.
 -   _Saint Jay_ - If a Chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they're on ice, Nell's healing is increased.
 -   _Frostbite_ - Enemies no longer heal under Chill effect.
--   _Fragile Freeze_ - Getting blockbroken by Nell's Light Attack or Critical while being Chilled will apply Frozen to you
+-   _Fragile Freeze_ - Getting blockbroken by Nell's Light Attack or Critical will apply Frozen to you
 -   _Chilling Flourish_ - If Nell flourishes an enemy, they leave behind a trail of ice.
 -   _Cool Head_ - If Nell is inflicted with Burn while standing on ice, she will immediately put it out and gain immunity against Burn for a set amount of time.
 -   _Cold Front_ - Nell's vents inflicts Chilled.

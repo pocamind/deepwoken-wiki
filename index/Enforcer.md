@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 163202
+revid: 163675
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -93,6 +93,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
  | The Enforcer halts their attack mid-way in an attempt to mixup their opponent and create an opening.
 
+-   The Enforcer only feints its swing attacks.
 -   If The Enforcer feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
 -   You could also hold f on your failed parry to block it, but this is reliant on you having spare posture.
 
