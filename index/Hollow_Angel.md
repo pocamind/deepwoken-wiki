@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 163436
+revid: 163734
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments, Layer 1, The Depths, Enemies]
@@ -24,7 +24,7 @@ The Hollow Angel can also be summoned as a Trial when attempting to escape the D
 **Assault**  
 (★☆☆)
 
- | Firmly thrusts weapon forward and finishes the combo with a kick.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

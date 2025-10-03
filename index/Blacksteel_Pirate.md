@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 162802
+revid: 163706
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -26,7 +26,7 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 **Assault**  
 (★☆☆)
 
- | Performs 4 basic attacks before kicking their opponent away.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 
@@ -90,7 +90,7 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 -   Shield Breaker - Blunt damage now deals full posture damage to shields.
 -   Unwavering Resolve - Getting parried punishes your posture 50% less.
 -   Bear Trap - Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.
--   Fear - Enemies will briefly hang in place when they run from you. (Shadowcast)
+-   Fear the Dark - Enemies will briefly hang in place when they run from you.
 
 ## Finisher
 

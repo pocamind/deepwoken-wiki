@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 163116
+revid: 163731
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -51,7 +51,8 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
  |
 | 
 
-**Jolt Grab (Magnet Spark)**  
+**Jolt Grab  
+(Magnet Spark)**  
 (★★☆)
 
  | Teleports to the nearest target before sending out a shocking AoE.
@@ -119,8 +120,7 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 -   Strong Stern - The duration you are dazed from wall bangs is cut in half
 -   Frozen Pin-Cushion - Ice Daggers now freeze opponents.
 -   Perseverance - When you're knocked down, you get back up again more quickly.
--   Giant Slayer - Deal more damage to larger foes. (10% more damage to Monsters)
--   Underdog - You deal slightly more damage to those with higher HP than you.
+-   Underdog - You deal slightly more damage to those with higher HP than you. Deal 10% more damage to larger foes.
 -   Defiance - Negative status effects are half as effective when you are below 35% HP.
 -   Moving Fortress - Blocking no longer slows you down as much.
 -   Charged Return - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.

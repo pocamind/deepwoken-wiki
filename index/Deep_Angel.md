@@ -1,6 +1,6 @@
 ---
 title: Deep Angel
-revid: 162454
+revid: 163711
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters, Enemies, Enemies that can wield Enchantments]
@@ -26,7 +26,7 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 **Assault**  
 (★☆☆)
 
- | Firmly thrusts weapon at opponent and finishing up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

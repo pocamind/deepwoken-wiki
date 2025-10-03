@@ -1,6 +1,6 @@
 ---
 title: Old Knife of Eylis
-revid: 162490
+revid: 163745
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -24,7 +24,7 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 **Assault**  
 (★★☆)
 
- | Swiftly swings dagger at opponent and finishing up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

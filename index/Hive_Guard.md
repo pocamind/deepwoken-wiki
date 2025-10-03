@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 162727
+revid: 163736
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -28,7 +28,7 @@ A Hive Guard's arsenal consists of a [Ritual Spear](Ritual_Spear.md) that has a 
 **Assault**  
 (★☆☆)
 
- | Firmly thrusts spear at opponent and finishing the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 162851
+revid: 163733
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies with Oaths]
@@ -47,7 +47,8 @@ Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfiel
  |
 | 
 
-**Fire Blade (Starkindred)**  
+**Fire Blade  
+(Starkindred)**  
 (★★☆)
 
  | While he has his wings out, Iblis will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land.

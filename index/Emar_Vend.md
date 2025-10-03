@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 162521
+revid: 163719
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Central Authority]
@@ -30,7 +30,7 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 **Assault**  
 (★☆☆)
 
- | Emar Vend swings his sword at the opponent and ends the combo by kicking them.
+ | Emar Vend performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

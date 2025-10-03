@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 163701
+revid: 163747
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea, Quests, Weapons, NPCs located in the Etrean Luminant]

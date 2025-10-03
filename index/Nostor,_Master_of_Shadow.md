@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 162536
+revid: 163742
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, Oaths, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -30,7 +30,7 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 **Assault**  
 (★☆☆)
 
- | Firmly swings weapon at opponent and finishing the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 
@@ -66,7 +66,7 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 -   _Dark Rift_ - If Nostor successfully dodges an attack they enter a rifted state where they can't be damaged until its duration ends. Can be cancelled if they attack or feint.
 -   _Singularity_ - If Nostor hits an enemy, the enemy will briefly hang in place when hit by a shadow move.
 -   _Black Hole_ - Nostor's singularity pulls everyone nearby in.
--   _Fear_ - Enemies will briefly hang in place if they try to run from Nostor.
+-   _Fear the Dark_ - Enemies will briefly hang in place if they try to run from Nostor.
 -   _Lasting Sorrow_ - Shadows last longer on Nostor's opponents.
 
 ## Finisher

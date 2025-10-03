@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 156831
+revid: 163762
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -47,7 +47,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Colossus_ (Heavy Hitter) **(Note; Cannot give Destructive Recovery, Unstoppable Force)**
 -   _Elemental Rebound_ (Charged Return, Nullifying Clarity)
 -   _Rampaging Brute_ (Unwavering Resolve, Shield Breaker, Million Ton Piercer)
--   _Raging Bull_ (Broken Ankles) **(Note; Cannot give Bulldozer, Piercing Blow)**
+-   _Raging Bull_ (Broken Ankles, Piercing Blow) **(Note; Cannot give Bulldozer)**
 
 ### [Fortitude](Attributes.md#ftd)
 
@@ -78,15 +78,18 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Alchemist_ (Apothecary, Chain Reaction, Chemist's Bag, Wild Alchemy) **(Note; Cannot give Placebo Effect, Potion Quaffer)**
 -   _All-Knowing_ (Approaching Singularity)
 -   _Artisan_ (Master Craftsman)
--   _Elementalist_ (Ether Overdrive)
 -   _Ether Conduit_ (Ether Absorption, Mantra Permanence) **(Note; Cannot give Eureka)**
+-   _Ether Endeavors_ (Behind You, Keen Recovery, Unwavering Focus)
 -   _Omniscient_ (Successive Prediction, Twelve Steps Ahead) **(Note; Cannot give All Knowing)**
+-   _Songmaster_ (Absolute Pitch, Ether Overdrive)
 -   _Tactician_ (Hard Read, Target Switch, Foolish Outburst, Water off a Duck's Back) **(Note; Cannot give Punishing Blow)**
 
 ### [Willpower](Attributes.md#wll)
 
+-   _Absolute Focus_ (Against all Odds, Emergency Reserves, Unswayed)
 -   _Champion_ (Underdog) **(Note; Cannot give Champion's Regalia, Defiance)**
 -   _Human Architecture_ (Brick Wall, Not a Scratch)
+-   _Heretic_ (All Above, Gods Below) **(Note; Cannot give All the Dead Gods, Sin Stacker)**
 -   _Liberator_ (Savior)
 -   _Limitbreaker_ (Comeback Kid, Defiant until the End, Last Resort, The Eleventh Hour)
 -   _Mental Fortress_ (Breathing Exercise, Conquer Your Fears, Disbelief)
@@ -118,9 +121,10 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Brawler_ \[Fists\] (Bruiser's Mixup)
 -   _Bruiser_ \[Greataxe\] (Brazen Blow, Impairing Blow) **(Note; Cannot give Heavy Fatigue, Rending Impact)**
 -   _Critical Specialist_ \[Dagger\] (Decisive Blow) **(Note; Cannot give Knifes Journey)**
--   _Gunslinger_ \[Pistol\] (Bulletproof, Quick Draw, Parting Gift, Prime Ether Bullets) **(Note; Cannot give True Ether Bullets, Armor Piercing, Hip Shooter)**
+-   _Gunslinger_ \[Pistol/Rifle\] (Bulletproof, Quick Draw, Parting Gift, Prime Ether Bullets) **(Note; Cannot give True Ether Bullets, Armor Piercing, Hip Shooter)**
 -   _Justicar_ \[Jus Karita\] (Justicar's Prowess, Justicar's Renewal, Swiftkick Prodigy, Flying Swiftkick)
 -   _Lancer_ \[Spear\] (Blade's Edge, Defensive Sweep, Driving Impact, Lancers Impale, Hoplite)
+-   _Marksman_ \[Rifle\] (Stock Bash) **(Note; Cannot give Leg Shot, Hip Shooter)**
 -   _Needle_ \[Rapier\] (Duelist's Lunge, Frenzied Dance, Pressure Skewer)
 -   _Outlaw_ \[Pistol\] (Lock n' Load, One in the Chamber, Rapid Fire, Rapid Reload, Sleight of Hands, Ultrakill)
 -   _Weapon Master_ (Brutal Momentum, Finishing Touch, Matador Successive Throw, Switchblade, Warrior's Swing) **(Note; Cannot give Showstopper)**
@@ -144,7 +148,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 
 ### Any
 
--   _Will O' Wisp_ (Will O' Wisp)
+-   _Sage of Wisps_ (Chorus of Souls, Will O' Wisp)
 
 ### [Bloodrend](Bloodrend.md)
 
@@ -170,6 +174,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Tamed Flame_ (Controlled Combustion)
 -   _The Demon Blade_ (Explosive Finish, Flaming Flourish)
 -   _The Emperor's Blade_ (Emperor Flame) **(Note; Cannot give Mirage Clone)**
+-   _Withered Flame_ (Ash Ember, Scorching Decay)
 
 ### [Frostdraw](Frostdraw.md)
 
@@ -177,7 +182,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Cryomancer_ (Fragile Freeze, Chilling Flourish, Spike Traps, Condensation Drip, Cool Head)
 -   _Frostthorn_ (Glacial Coating, Orbital Ice)
 -   _Glassdancer_ (Glass Path: Crystallization, Crystal Shrapnel, Reclaimed Glass)
--   _Ice Age_ (Bottom Freeze, Cryonis, Frost Buster, Frostbite, Unyielding Frost) **(Note; Cannot give Frozen Pin-Cushion, Saint Jay)**
+-   _Ice Age_ (Bottom Freeze, Cryonis, Frost Buster, Frostbite, Frozen Anchor, Stasis Strike, Unyielding Frost) **(Note; Cannot give Frozen Pin-Cushion, Saint Jay)**
 
 ### [Ironsing](Ironsing.md)
 
@@ -193,14 +198,16 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Galeforce_ (After Cut, Breathing Impact, Inhale)
 -   _Gale Duelist_ (Tempest Wind)
 -   _Legion Shock Trooper_ (Cyclone Blade, Air Pressure, Pressure Break, Windstep)
--   _Silencer_ (A World Without Song) _**(Note; Cannot give Silencer's Blade, which is needed for this Mystic dialogue to unlock)**_
--   _Specter_ (Haunted Path: Specter, Apparitions, Phantom Step, Possession) _**(Note; Cannot give Vanishing Wraith)**_
+-   _Maestro's Technique_ (Silencer's Song)
+-   _Silencer_ (A World Without Song) **(Note; Cannot give Silencer's Blade, which is needed for this Mystic dialogue to unlock)**
+-   _Specter_ (Haunted Path: Specter, Apparitions, Phantom Step, Possession) **(Note; Cannot give Vanishing Wraith)**
 -   _Whisper_ (Haunted Gale)
 
 ### [Shadowcast](Shadowcast.md)
 
+-   _Evil Endeavors_ (Reverse Leech)
 -   _Shadowcaster_ (Blossoming Darkness, Fear, Lasting Sorrow, Sightless Still, Singularity) **(Note; Cannot give Shadow Travel)**
--   _Darksiphon_ (Dark God, Dark Hours, Dark Replenishment, Dark Synergy, Overwhelming Drain. Shadow Overflow) **(Note; cannot give Dark Rift)**
+-   _Darksiphon_ (Dark God, Dark Hours, Dark Replenishment, Dark Synergy, Dark Waltz, Overwhelming Drain, Night Terror, Shadow Overflow) **(Note; cannot give Dark Rift)**
 -   _Death Speaker_ (Blackhole, Energy Siphon)
 
 ### [Thundercall](Thundercall.md)
@@ -210,6 +217,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Kickstarter_ (Kickstart)
 -   _Rampant Static_ (Jolting Current)
 -   _Self-Shocker_ (Jumpstart, Raging Static)
+-   _Shock Therapy_ (Grounding Bolt)
 -   _Static Weaver_ (Static Link, Jumper Cables, Link Conduction, Static Ace, Static Allure)
 -   _Thunderblade_ (Static Blade, Gathering Electricity, Overcharge)
 -   _Thunder Caster_ (Jolt Cast, Rain of Static)
@@ -221,6 +229,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Bloodsong_ (Blood and Iron, Brain Death, Cold Blooded, Electrolyte, Malevolent Sapper, Scorchblood)
 -   _Cold Phantom_ (Freezing Wight)
 -   _Cosmic Wind_ (Pressure Detonation)
+-   _Crystalline Gold_ (Golden Age)
 -   _Doomsday Engine_ (Frozen Web)
 -   _Flashfreeze_ (Temperature Shock)
 -   _Frozen Lightning_ (Fulgurite Formation)
@@ -255,43 +264,43 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   I seek Blood Mantras:
 -   I seek Initiate level Blood Mantras (☆☆☆)
 -   I seek Adept level Blood Mantras. (★☆☆)
--   I seek Expert level Blood Mantras. ( ★★☆)
+-   I seek Expert level Blood Mantras. (★★☆)
 -   I seek Master level Blood Mantras. (★★★)
 
 -   I seek Fire Mantras:
 -   I seek Initiate level Fire Mantras (☆☆☆)
 -   I seek Adept level Fire Mantras. (★☆☆)
--   I seek Expert level Fire Mantras. ( ★★☆)
+-   I seek Expert level Fire Mantras. (★★☆)
 -   I seek Master level Fire Mantras. (★★★)
 
 -   I seek Ice Mantras:
 -   I seek Initiate level Ice Mantras (☆☆☆)
 -   I seek Adept level Ice Mantras. (★☆☆)
--   I seek Expert level Ice Mantras. ( ★★☆)
+-   I seek Expert level Ice Mantras. (★★☆)
 -   I seek Master level Ice Mantras. (★★★)
 
 -   I seek Wind Mantras:
 -   I seek Initiate level Wind Mantras (☆☆☆)
 -   I seek Adept level Wind Mantras. (★☆☆)
--   I seek Expert level Wind Mantras. ( ★★☆)
+-   I seek Expert level Wind Mantras. (★★☆)
 -   I seek Master level Wind Mantras. (★★★)
 
 -   I seek Metal Mantras:
 -   I seek Initiate Metal Mantras (☆☆☆)
 -   I seek Adept level Metal Mantras. (★☆☆)
--   I seek Expert level Metal Mantras. ( ★★☆)
+-   I seek Expert level Metal Mantras. (★★☆)
 -   I seek Master level Metal Mantras. (★★★)
 
 -   I seek Shadow Mantras:
 -   I seek Initiate level Shadow Mantras (☆☆☆)
 -   I seek Adept level Shadow Mantras. (★☆☆)
--   I seek Expert level Shadow Mantras. ( ★★☆)
+-   I seek Expert level Shadow Mantras. (★★☆)
 -   I seek Master level Shadow Mantras. (★★★)
 
 -   I seek Lightning Mantras:
 -   I seek Initiate level Lightning Mantras (☆☆☆)
 -   I seek Adept level Lightning Mantras. (★☆☆)
--   I seek Expert level Lightning Mantras. ( ★★☆)
+-   I seek Expert level Lightning Mantras. (★★☆)
 -   I seek Master level Lightning Mantras. (★★★)
 
 ## Locations
@@ -304,7 +313,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   [Voidheart](Voidheart.md), next to the cauldron near the well and the antiquarian.
 -   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.
 -   [Miner's Landing](<Miner's_Landing.md>), atop a fallen stone pillar behind the docks.
--   [Guild Bases](Guild_Bases.md), in the Song Room. **(Costs 2000 Notes.)**
+-   [Guild Bases](Guild_Bases.md), in the Song Room. **(Costs .)**
 
 ## Trivia
 

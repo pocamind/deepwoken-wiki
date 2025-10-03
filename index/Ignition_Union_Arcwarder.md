@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 163075
+revid: 163732
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Ignition Union, Ignition Union Enemies]
@@ -77,7 +77,7 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
  |
 | 
 
-**Storm Blades**  
+**Fire Blade**  
 (★★☆)
 
  | User forcefully slams down their blade coated in flames.

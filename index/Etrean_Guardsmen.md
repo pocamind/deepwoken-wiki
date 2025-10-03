@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 162522
+revid: 163718
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, NPCs, Guards, Etrea]
@@ -36,9 +36,7 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 **Assault**  
 (★☆☆)
 
- | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Firmly swings weapon at opponent and finishing up the combo by kicking them.
-
-\[[Ritual Spear](Ritual_Spear.md)\] Firmly thrusts weapon at opponent and finishing up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

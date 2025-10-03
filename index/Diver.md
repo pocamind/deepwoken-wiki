@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 162805
+revid: 163710
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -46,7 +46,8 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
  |
 | 
 
-**Jolt Grab (Magnet Spark)**  
+**Jolt Grab  
+(Magnet Spark)**  
 (★★☆)
 
  | Teleports to the nearest target before sending out a shocking AoE.

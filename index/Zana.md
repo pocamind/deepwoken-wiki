@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 162507
+revid: 163757
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests, Rings]
@@ -134,7 +134,7 @@ Zana's arsenal consists only of a [Shattered Katana](Shattered_Katana.md):
 **Assault**  
 (★☆☆)
 
- | Firmly swings blade at opponent and finishing the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163669
+revid: 163764
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2853,8 +2853,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Every 3 hits with a Wind Mantra now procs Suffocate.
     -   Requires 4 hits to proc if you have less than 75 Galebreathe.
     -   Requires 5 hits to proc if you have less than 40 Galebreathe.
-    -   Suffocation prevent the victim from casting mantras and deal damage overtime.
-    -   If used with Haunted Path: Specter, every 3 hits will make an Apparition appear, proccing [Winded](Status_Effects.md).
+    -   Suffocation prevents the victim from casting Mantras and deals a small amount of damage over time.
     -   Prerequisites: 75 Galebreathe, Silencer's Blade
 
 ### Silentheart
@@ -2866,7 +2865,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   Ankle Cutter - \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-    -   Damage and speed of the attack scales on your weapon, acting and dealing the same damage as your M1, but with innate bleed. 5 second cooldown.
+    -   Deals fixed damage with innate bleed.
+    -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
@@ -2878,14 +2878,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Increases the damage of most Silentheart moves.
     -   Mayhem variants autogrip when buffed with Flow State.
     -   Often lowers the windup of your Silentheart abilities.
-    -   Active for 1 second. ~4s CD.
+    -   Active for 2 seconds. 15s CD, landing a Flow State-enhanced Silentheart ability refreshes Flow State's cooldown.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Mayhem \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Initiate a special dash attack by pressing M1 during the start of your dodge.
-    -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
+    -   Movesets and damage differ depending on the weapon type; Light, Medium, or Heavy.
     -   11s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Capable of auto-gripping with Flow State active.
-    -   Deals fixed damage per weapon type.
+    -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Merciless Blade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now execute enemies much faster.
@@ -2895,19 +2895,22 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Relentless Hunt \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - M1 while doing an Aerial Attack to initiate a special gap closer attack.
     -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
     -   11s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
-    -   Can be used at a great range.
     -   Has faster windup with Flow State active. Useful for mixups.
-    -   Deals fixed damage per weapon type.
+    -   Movesets and damage differ depending on weapon type; Light, Medium, or Heavy.
+    -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Rising Star \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Press CTRL + M2 to activate a special uppercut attack.
     -   Instead of being binded to M2, it's actually binded to your feint key. Meaning if you've changed your Feint keybind off M2, M2 will no longer proc Rising Star.
-    -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
-    -   7.5s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
-    -   Deals fixed damage per weapon type.
+    -   Procs all "on uppercut" Talents.
+    -   Movesets and damage differ depending on the weapon type; Light, Medium, or Heavy.
+    -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
+    -   12s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Silent Cascade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released wtih CTRL + M2.
+-   Silent Cascade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released with CTRL + M2.
+    -   Landing 8 weapon attacks or Silentheart abilities will grant the Silent Cascade status effect for 30 seconds.
+    -   Your next uppercut while you have the Silent Cascade status effect will perform the Silent Cascade attack.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
@@ -2922,7 +2925,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
-    -   Deals fixed damage per weapon type.
+    -   Base damage and scaling depend on your current weapon's type; Light, Medium, or Heavy.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once)
 
 ### Silvertongue
@@ -2932,8 +2935,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Angering a faction by attacking a player ally of their own will prevent guards from aggroing on you.
     -   Prerequisite: 20 Charisma
 
--   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
-    -   Sending a message in chat will proc this Talent.
+-   _Golden Tongue_ \[Rare Talent\] - Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
+    -   Sending a message in chat or using an emote will proc this Talent.
     -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to reinforce (does not stack).
     -   The buff is random for each person affected.
     -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.

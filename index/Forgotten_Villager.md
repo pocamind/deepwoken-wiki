@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 162734
+revid: 163729
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -53,7 +53,7 @@ A Forgotten Villager's arsenal only consists of their [Fists](Fists.md), using t
 **Assault**  
 (★☆☆)
 
- | Firmly pummels opponent and finishes up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

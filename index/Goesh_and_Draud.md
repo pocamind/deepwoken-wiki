@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 162739
+revid: 163725
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -49,7 +49,7 @@ When the other is alive:
 **Assault**  
 (★☆☆)
 
- | The twins quickly thrusts their spears at their opponent.
+ | The twins perform 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

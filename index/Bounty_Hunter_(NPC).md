@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 162947
+revid: 163708
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -20,25 +20,59 @@ A Bounty Hunter wears the [Bounty Hunter](Bounty_Hunter.md) outfit along with th
 
 A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.md), a [Falchion](Falchion.md), or a [Canorian Axe](Canorian_Axe.md):
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | \[[Canorian Axe](Canorian_Axe.md)\] Raises weapon before firmly slamming it down into the ground.  
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Canorian Axe](Canorian_Axe.md)\] Raises weapon before firmly slamming it down into the ground.
+
 \[[Trident Spear](Trident_Spear.md)\] Thrust the spear in front of it and spins it, performing a multihit.  
 \[[Falchion](Falchion.md)\] Performs a horizontal slash after a windup.
 
- | ◯ | ✗ | (★☆☆) |
-| Rapid Punches | User unleashes a barrage of blows at their opponent. | ◯ | ◯ | (★★☆) |
-| Gaze | Gaze into your opponent's souls. | ◯ | ◯ | (★☆☆) |
-| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
+-   Canorian Axe critical is not blockable.
+-   Falchion critical deals very high chip damage.
+
+ |
+| 
+
+**Rapid Punches**  
+(★★☆)
+
+ | User unleashes a barrage of blows at their opponent.
+
+ |
+| 
+
+**Gaze**  
+(★☆☆)
+
+ | Gaze into your opponent's souls.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | A powerful, flinging punch that shatters the air.
+
+ |
 
 ### Talents
 
 -   Steady Footing - You're much more resistant to being pushed around.
 -   Sunken Predator - Enemies you hit in the water have their speed buffs nullified and are slowed.
--   Low Blow - Your attacks against ragdolled enemies no longer deal reduced damage.
--   Triathlete - You swim faster in water.
--   _**Audacity - Once you've brought down your prey, instill fear into all those who would separate you from claiming it.**_
+-   Audacity - Once you've brought down your prey, instill fear into all those who would separate you from claiming it.
 
 ## Finisher
 

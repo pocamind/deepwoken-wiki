@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 162732
+revid: 163735
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -28,7 +28,7 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 **Assault**  
 (★☆☆)
 
- | Firmly pummels at opponent and finishing the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

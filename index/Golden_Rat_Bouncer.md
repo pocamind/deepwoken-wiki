@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 162740
+revid: 163724
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -20,7 +20,7 @@ They wear a [Goldleaf Helm](Goldleaf_Helm.md), Warden Pauldrons, a recolored Etr
 
 ## Moveset
 
-Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Attunement:
+Their arsenal consists of a Soulwrought Greataxe and the [Galebreathe](Galebreathe.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -28,7 +28,7 @@ Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Att
 **Assault**  
 (★☆☆)
 
- | Swings axe at opponent and finishes the attack by kicking them away.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

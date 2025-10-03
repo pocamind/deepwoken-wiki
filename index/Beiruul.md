@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 162748
+revid: 163704
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -138,7 +138,7 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 **Assault**  
 (★☆☆)
 
- | Firmly pummels opponent before finishing up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

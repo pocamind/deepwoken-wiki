@@ -1,6 +1,6 @@
 ---
 title: Drefa
-revid: 163659
+revid: 163703
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -28,7 +28,7 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
 
 **First Encounter:**
 
-The following dialogue assumes the player already has a [Lumber Axe](Lumber_Axe.md), if this is not the case, refer to the "Gaining Axe" dialogue.
+**Player has a Lumber Axe:**
 
 <table>
 <tbody>
@@ -84,6 +84,28 @@ The following dialogue assumes the player already has a [Lumber Axe](Lumber_Axe.
 </tbody>
 </table>
 
+**Player does not have a Lumber Axe:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
+</tr>
+<tr>
+  <td colspan="12">Yeah. [Obtain Axe]</td>
+</tr>
+<tr>
+  <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
+</tr>
+<tr>
+  <td colspan="12">End, Lumber Axe Obtained</td>
+</tr>
+</tbody>
+</table>
+
 **Subsequent Encounters:**
 
 <table>
@@ -109,33 +131,9 @@ The following dialogue assumes the player already has a [Lumber Axe](Lumber_Axe.
 </tbody>
 </table>
 
-**Gaining Axe:**
-
-This is the dialogue that plays if you talk to Korin without yet possessing a [Lumber Axe](Lumber_Axe.md).
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
-</tr>
-<tr>
-  <td colspan="12">Yeah. [Obtain Axe]</td>
-</tr>
-<tr>
-  <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
-</tr>
-<tr>
-  <td colspan="12">End, Lumber Axe Obtained</td>
-</tr>
-</tbody>
-</table>
-
 **Not Enough Reputation:**
 
-If the player has below neutral [Etris](Etris.md) reputation, Korin will say this instead, disallowing them from selling wood to gain increased reputation.
+If the player has below neutral [Etris](Etris.md) reputation, Drefa will say this instead, disallowing them from selling wood to gain increased reputation.
 
 <table>
 <tbody>

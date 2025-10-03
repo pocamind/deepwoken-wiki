@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 162829
+revid: 163705
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -63,7 +63,8 @@ A Black Diver's arsenal consists of the [Dawnwalker](Oath%253A_Dawnwalker.md) Oa
  |
 | 
 
-**Jolt Grab (Magnet Spark)**  
+**Jolt Grab  
+(Magnet Spark)**  
 (★★☆)
 
  | Teleports to the nearest target before sending out a shocking AoE.
@@ -134,14 +135,14 @@ A Black Diver's arsenal consists of the [Dawnwalker](Oath%253A_Dawnwalker.md) Oa
 -   Last Resort - Black Divers gain +10% damage while below 25% HP.
 -   Steady Footing - Black Divers resist knockback effects and do not slide on ice.
 -   Suffocating Impact - Black Divers apply Suffocation and Winded after a wall bang.
--   Heavy Hitter - Black Divers deal +10% posture damage.
+-   Heavy Hitter - Black Divers deal +10% posture damage with heavy weapon basic attacks.
 -   Concussion - Being flourished into a wall by a Black Diver alter vision and Daze for longer.
 -   Static Link - Black Divers landing a Flourish or Uppercut apply a static link.
 -   Storm Link - Black Divers apply Shock (Surge because of Surge Path) to enemies with a static link if hit with a Wind mantra.
 -   Chronostasis - Black Divers put target's Resonance on a short cooldown when they land hits.
 -   Protagonist Syndrome - The grasp of shadow is meaningless in the face of the Black Diver's blinding light. The Black Diver's Dawnwalker mantras are empowered after being hit by Shadowcast.
--   Luminous Flash - Passive: After dealing a certain amount of damage while in "Absolute Radiance", the Black Diver gains a chance to empower their strikes with pure light.
--   Absolute Radiance - Passive: Dealing damage with Dawnwalker mantras briefly makes the Black Diver's immune to all elemental effects for a short period.
+-   Luminous Flash - After dealing a certain amount of damage while in "Absolute Radiance", the Black Diver gains a chance to empower their strikes with pure light.
+-   Absolute Radiance - Dealing damage with Dawnwalker mantras briefly makes the Black Diver's immune to all elemental effects for a short period.
 
 ## Finisher
 

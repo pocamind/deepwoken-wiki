@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 163217
+revid: 163751
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -22,7 +22,7 @@ Template:Creature Infobox V3
 **Assault**  
 (★☆☆)
 
- | Firmly thrusts weapon at opponent and finishing up the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

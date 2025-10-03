@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 163658
+revid: 163702
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -50,7 +50,7 @@ As the name implies, this [Talent](Talents.md) allows the player to get wood by 
 
 **First Encounter:**
 
-The following dialogue assumes the player already has a [Lumber Axe](Lumber_Axe.md), if this is not the case, refer to the "Gaining Axe" dialogue.
+**Player has a Lumber Axe:**
 
 <table>
 <tbody>
@@ -110,6 +110,28 @@ The following dialogue assumes the player already has a [Lumber Axe](Lumber_Axe.
 </tbody>
 </table>
 
+**Player does not have a Lumber Axe:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
+</tr>
+<tr>
+  <td colspan="12">Yeah. [Obtain Axe]</td>
+</tr>
+<tr>
+  <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
+</tr>
+<tr>
+  <td colspan="12">End, Lumber Axe Obtained</td>
+</tr>
+</tbody>
+</table>
+
 **Subsequent Encounters:**
 
 <table>
@@ -131,30 +153,6 @@ The following dialogue assumes the player already has a [Lumber Axe](Lumber_Axe.
   <td colspan="4"></td>
   <td colspan="4">End, player obtains the <a href="Talents.md#treefelling-blow">Treefelling Blow</a> Talent.</td>
   <td colspan="4">End, quest unfinished</td>
-</tr>
-</tbody>
-</table>
-
-**Gaining Axe:**
-
-This is the dialogue that plays if you talk to Korin without yet possessing a [Lumber Axe](Lumber_Axe.md).
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
-</tr>
-<tr>
-  <td colspan="12">Yeah. [Obtain Axe]</td>
-</tr>
-<tr>
-  <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
-</tr>
-<tr>
-  <td colspan="12">End, Lumber Axe Obtained</td>
 </tr>
 </tbody>
 </table>

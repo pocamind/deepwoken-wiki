@@ -1,6 +1,6 @@
 ---
 title: Ministry Footpad
-revid: 152726
+revid: 163740
 source: https://deepwoken.fandom.com/wiki/Ministry_Footpad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Ministry, Ministry Enemies]
@@ -20,14 +20,55 @@ A Ministry Footpad's appearance is identical to that of a Ministry Scout. It con
 
 A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
-| Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
-| Shade Devour | Gorge on your own health to push away opponents and grant a damage bonus to melee attacks. | ◯ | ◯ | (★☆☆) |
-| Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster and stealing Ether. | ◯ | ◯ | (★★☆) |
-| Encircle | Conjure shadows around your enemy before warping to them after a delay. | ◯ | ◯ | (★★☆) |
-| Eclipse Kick | A slow axe kick that ragdolls and flings nearby opponents on contact. | ◯ | ◯ | (★★★) |
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | User unleashes a quick flurry of slashes.
+
+ |
+| 
+
+**Shade Devour**  
+(★☆☆)
+
+ | Gorge on your own health to push away opponents and grant a damage bonus to melee attacks.
+
+ |
+| 
+
+**Shadow Assault**  
+(★★☆)
+
+ | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster and stealing Ether.
+
+ |
+| 
+
+**Encircle**  
+(★☆☆)
+
+ | Conjure shadows around your enemy before warping to them after a delay.
+
+ |
+| 
+
+**Eclipse Kick**  
+(★★☆)
+
+ | A slow axe kick that ragdolls and flings nearby opponents on contact.
+
+ |
 
 ### Boons
 

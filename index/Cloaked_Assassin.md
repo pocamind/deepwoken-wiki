@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 143319
+revid: 163709
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -20,72 +20,107 @@ Cloaked Assassins are spotted in various [Sea events](Random_Encounters.md#sea-e
 
 Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian Knife](Krulian_Knife.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Tanto](Tanto.md) along with the [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) Attunements:
 
-| Name | Description | Parryable? | Blockable? | Danger |
-| --- | --- | --- | --- | --- |
+| Name/Danger | Description |
+| --- | --- |
 | 
-Assault
+**Assault**  
+(★☆☆)
 
- | Attacks with their weapon and finishes the combo with a kick. | ◯ | ◯ | (★☆☆) |
-| 
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
-Critical
-
- | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★★☆) |
+ |
 | 
 
-[Strong Left](Attunement-less.md#strong-left)
+**Critical**  
+(★★☆)
 
- | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+ | User unleashes a quick flurry of slashes.
+
+ |
 | 
 
-[Revenge](Attunement-less.md#revenge)
+**Strong Left**  
+(★★☆)
 
- | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★★☆) |
+ | A powerful, flinging punch that shatters the air.
+
+ |
 | 
 
-[Dash](Attunement-less.md#agile-dash)
+**Revenge**  
+(★☆☆)
 
- | A dash that sends the user a considerable distance forward. Deals no damage. | N/A | N/A | (☆☆☆) |
+ | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation.
+
+ |
 | 
 
-[Ice Daggers](Frostdraw.md#ice-daggers)
+**Dash**  
+(☆☆☆)
 
- | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
+ | A dash that sends the user a considerable distance forward. Deals no damage.
+
+ |
 | 
 
-[Ice Eruption](Frostdraw.md#ice-eruption)
+**Ice Daggers**  
+(★☆☆)
 
- | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze. | ✗ | ✗ | (★★★) |
+ | Forms three daggers of ice before throwing them towards the nearest person.
+
+ |
 | 
 
-[Lightning Stream](Thundercall.md#lightning-stream)
+**Ice Eruption**  
+(★★☆)
 
- | Grapples onto an enemy and pulls them in. | ◯ | ◯ | (★☆☆) |
+ | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze.
+
+ |
 | 
 
-[Lightning Cloak](Thundercall.md#lightning-cloak)
+**Lightning Stream**  
+(★☆☆)
 
- | The user's body is enveloped in a lightning-like cloak, improving agility, swing speed, and granting lightning dashes. | N/A | N/A | (★★★) |
+ | Grapples onto an enemy and pulls them in.
+
+ |
 | 
 
-[Clutching Shadow](Shadowcast.md#clutching-shadow)
+**Lightning Cloak**  
+(★☆☆)
 
- | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down. | ◯ | ◯ | (★☆☆) |
+ | The user's body is enveloped in a lightning-like cloak, improving agility, swing speed, and granting lightning dashes.
+
+ |
 | 
 
-[Shadow Assault](Shadowcast.md#shadow-assault)
+**Clutching Shadow**  
+(★☆☆)
 
- | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
+ | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down.
+
+ |
 | 
 
-[Chain Pull](Ironsing.md#chain-pull)
+**Shadow Assault**  
+(★★☆)
 
- | Summons a chain out of their hand that quickly pulls you towards them. | ◯ | ◯ | (★★☆) |
+ | The user pulls back weapon and rushes forward in a shadowy attack
+
+ |
+| 
+
+**Chain Pull**  
+(★★☆)
+
+ | Summons a chain out of their hand that quickly pulls you towards them.
+
+ |
 
 ### Talents
 
--   Precise Swing - After landing a critical, their next light attack will deal 5% chip damage towards your block.
--   Pressure Succession
+-   Precise Swing - After landing a critical, their next light attack will deal 25% chip damage towards your block.
 -   Cheap Shot - Your attacks gain 10% PEN when you have an active speed boost.
 -   Frozen Pin-Cushion - Ice Daggers now freeze opponents.
 -   Frostbite - Enemies no longer heal when under the effect of your chill.
@@ -93,12 +128,10 @@ Critical
 -   Steady Footing - You're much more resistant to being pushed around.
 -   Scaredy Cat - When enemies initiate a fight first, gain a speed boost.
 -   Sunken Predator - Enemies you hit in the water have their speed buffs nullified and are slowed.
--   Low Blow - Your attacks against ragdolled enemies no longer deal reduced damage.
--   Triathlete - You swim faster in water.
 -   Swift Rebound - Move faster after successfully dodging an attack.
 -   Evasive Expert - Your speed boost granted from dodging is increased.
 -   Risky Moves - When you successfully dodge, you'll automatically dodge the next attack.
--   _**Ghost**_ - Dodging a move will briefly make you invisible until you attack.
+-   Ghost - Dodging a move will briefly make you invisible until you attack.
 -   Strong Stern - The duration you are dazed from wall bangs is cut in half
 -   In a Hurry - You grip faster with a movement speed boost.
 -   Chronostasis - Landing an M1 or Critical Strike puts target [Resonance](Resonance.md) on cooldown for a short duration.

@@ -1,6 +1,6 @@
 ---
 title: Blueskipper
-revid: 82154
+revid: 163744
 source: https://deepwoken.fandom.com/wiki/Blueskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Mudskipper#Necroskipper](Mudskipper.md#necroskipper)
+-   [Necroskipper](Necroskipper.md)

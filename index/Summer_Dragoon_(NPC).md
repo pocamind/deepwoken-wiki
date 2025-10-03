@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 162935
+revid: 163755
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Summer Company, Summer Company Enemies]
@@ -16,49 +16,47 @@ Summer Dragoons are high ranking members of the [Summer Company](The_Summer_Comp
 
 ## Moves
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Name/Danger</th>
-  <th>Description</th>
-</tr>
-<tr>
-  <td><center><b>Assault</b><br>
-  (★☆☆)</center></td>
-  <td>Alternates attacks between firing the rifle and attacking with the stock before sending the opponent away with a flourish.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Critical</b><br>
-  (★★☆)</center></td>
-  <td>Fires a long ranged bullet<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Taunt</b><br>
-  (★☆☆)</center></td>
-  <td>Affected entities receive 20% more damage. Affected entities deal 10% more damage but disables their ability to jump.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Revenge</b><br>
-  (★☆☆)</center></td>
-  <td>A quick dash signified by a red-line effect.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Strong left</b><br>
-  (★★☆)</center></td>
-  <td>User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-</tbody>
-</table>
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Alternates attacks between firing the rifle and attacking with the stock before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Fires a long ranged bullet
+
+ |
+| 
+
+**Taunt**  
+(★☆☆)
+
+ | Taunts those around the caster, causing opponents to be unable to jump and to take 20% more damage. However, in their rage they deal 10% extra damage.
+
+ |
+| 
+
+**Revenge**  
+(★☆☆)
+
+ | A quick dash signified by a red-line effect.
+
+ |
+| 
+
+**Strong left**  
+(★★☆)
+
+ | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+ |
 
 ## Talents
 

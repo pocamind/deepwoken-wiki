@@ -1,6 +1,6 @@
 ---
 title: Pathfinder (NPC)
-revid: 162548
+revid: 163746
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -26,7 +26,7 @@ A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md):
 **Assault**  
 (★☆☆)
 
- | Firmly swings weapon at opponent and finishing the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Shade
-revid: 163066
+revid: 163754
 source: https://deepwoken.fandom.com/wiki/Shade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -32,7 +32,7 @@ A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreat
 **Critical**  
 (★★☆)
 
- | Unleashes a quick flurry attack onto their opponent.
+ | Performs a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
 
  |
 | 

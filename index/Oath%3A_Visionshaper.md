@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 162041
+revid: 163763
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -60,7 +60,7 @@ The abilities below are listed in order of obtainment.
 
 ## Effects
 
-This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wise, it changes the eye color of the Oath taker to a light purple and creates a wispy ethereal particle effect which stems from the user's right eye, this eye trail can be dyed.
+This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wise, it creates a purple, wispy ethereal particle effect which stems from the user's right eye, this eye trail can be [dyed](Dye_Packet.md).
 
 ## Abilities
 

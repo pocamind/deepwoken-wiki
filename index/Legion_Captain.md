@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 163676
+revid: 163738
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -74,6 +74,14 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 (★★☆)
 
  | User casts several fast, wind-enhanced slashes that form a star.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | Winds up and hurls a powerful punch that shatters the air and flings the opponent away.
 
  |
 | 

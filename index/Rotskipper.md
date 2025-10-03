@@ -1,6 +1,6 @@
 ---
 title: Rotskipper
-revid: 162496
+revid: 163750
 source: https://deepwoken.fandom.com/wiki/Rotskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters]
@@ -32,7 +32,9 @@ Note that while their form is frail, they will still take a hefty beating if att
 **Headbutt**  
 (★☆☆)
 
- | Having lost both its arms, it resorts to smacking the opponent with its head. Even weaker, slower _and_ easier to parry than Scratch.
+ | Having lost both its arms, it resorts to smacking the opponent with its head.
+
+-   Even weaker, slower _and_ easier to parry than Scratch.
 
  |
 

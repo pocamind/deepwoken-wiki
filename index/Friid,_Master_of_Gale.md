@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 162735
+revid: 163728
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, Oaths, NPCs, NPCs located in the Etrean Luminant]
@@ -26,7 +26,7 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 **Assault**  
 (★☆☆)
 
- | Performs 4 basic attacks before sending the opponent away with a flourish.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

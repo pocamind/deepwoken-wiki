@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 163072
+revid: 163722
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs, Enemies]
@@ -38,31 +38,35 @@ Killing them will give you the [Wraithclaw](Wraithclaw.md) along with a low tier
 
 The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attacks.
 
-| Name | Description |
+| Name/Danger | Description |
 | --- | --- |
 | 
-**Assault**
+**Assault**  
+(★☆☆)
 
- | The Grudge firmly strikes the opponent with their claws.
+ | The Grudge performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 
 
-**Critical**
+**Critical**  
+(★★☆)
 
  | The Grudge unleashes a barrage of six slashes.
 
  |
 | 
 
-**Vent**
+**Vent**  
+(★☆☆)
 
  | The Grudge releases an explosion of blue ether, pushing their opponent away.
 
  |
 | 
 
-**Wind Blade**
+**Wind Blade**  
+(★☆☆)
 
  | The Grudge launches a slash of wind towards their opponent.
 
@@ -76,21 +80,24 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
  |
 | 
 
-**Gale Punch**
+**Gale Punch**  
+(★☆☆)
 
  | The Grudge releases a punch of wind that knocks the opponent back.
 
  |
 | 
 
-**Wind Carve**
+**Wind Carve**  
+(★☆☆)
 
  | The Grudge creates a swirl of sharp winds that carve the opponents within it.
 
  |
 | 
 
-**Wind Passage**
+**Wind Passage**  
+(★★☆)
 
  | The Grudge, in the blink of an eye, rushes forward, releasing aftercuts of wind for the distance it travelled.
 

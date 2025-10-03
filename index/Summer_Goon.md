@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 162936
+revid: 163756
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -47,7 +47,7 @@ A Summer Goon's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 **Taunt**  
 (★☆☆)
 
- | User unleashes an ether infused wave that causes those on the receiving end to take 20% more damage, deal 10% more damage and are unable to jump.
+ | Taunts those around the caster, causing opponents to be unable to jump and to take 20% more damage. However, in their rage they deal 10% extra damage.
 
  |
 | 

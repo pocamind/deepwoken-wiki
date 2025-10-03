@@ -1,6 +1,6 @@
 ---
 title: Captain Marley
-revid: 162757
+revid: 163715
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Central Authority, Authority Enemies]
@@ -26,7 +26,7 @@ Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along w
 **Assault**  
 (★☆☆)
 
- | Firmly swings dagger at the opponent and finishes the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

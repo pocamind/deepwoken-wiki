@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 162733
+revid: 163730
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters]
@@ -26,7 +26,7 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 **Assault**  
 (★☆☆)
 
- | Finnegan swings his Boltcrusher at his opponent with a kicking combo finisher.
+ | Finnegan performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

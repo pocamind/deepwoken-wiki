@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 162736
+revid: 163727
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -26,7 +26,7 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 **Assault**  
 (★☆☆)
 
- | Performs 4 basic attacks before sending the opponent away with a flourish.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 
@@ -39,7 +39,8 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
  |
 | 
 
-**Jolt Grab**  
+**Jolt Grab  
+(Magnet Spark)**  
 (★★☆)
 
  | Teleports to the nearest target before sending out a shocking AoE.

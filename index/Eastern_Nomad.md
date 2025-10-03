@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 162519
+revid: 163720
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae, Children of Navae Enemies]
@@ -28,7 +28,7 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 **Assault**  
 (★☆☆)
 
- | Firmly thrusts spear at opponent and finishing the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 
@@ -75,7 +75,7 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 **Assault**  
 (★☆☆)
 
- | Firmly thrusts spear at opponent and finishing the combo by kicking them.
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
 
  |
 | 

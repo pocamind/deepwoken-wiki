@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 163677
+revid: 163737
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hundred Legions, The Hundred Legions Enemies]
@@ -38,7 +38,8 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 
  | \[[Champion's Sword](<Champion's_Sword.md>)\] Winds up before performing a piercing thrust.
 
-\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands. \[[Fists](Fists.md)\] Grabs opponent and slams them into the ground.
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.  
+\[[Fists](Fists.md)\] Grabs opponent and slams them into the ground.
 
  |
 | 
