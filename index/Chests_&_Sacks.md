@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 163033
+revid: 163639
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
