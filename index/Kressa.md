@@ -1,6 +1,6 @@
 ---
 title: Kressa
-revid: 156483
+revid: 163783
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -59,8 +59,8 @@ categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition
   <td colspan="12">In this <a href="Glossary.md#the-luminants">Luminant</a>, the only reliable source of mercenary work is the Knives of Elyis. It has to be them. They have no sense of morality or alignment, they do what they're hired to do. They could be paid by the <a href="Glossary.md#the-central-authority">Authority</a> to sabotage Etrean ships, and then on the same day be paid by Etrea to do the same to the <a href="Glossary.md#the-central-authority">Authority</a>. It's all the same to them, it's just mercenary work. Stupid, awful war economy...</td>
 </tr>
 <tr>
-  <td colspan="6"><b>Player is Voidwalker</b></td>
-  <td colspan="6"><b>Player is not Voidwalker</b></td>
+  <td colspan="6">Player is a Voidwalker</td>
+  <td colspan="6">Player is not a Voidwalker</td>
 </tr>
 <tr>
   <td colspan="6">The Knives. Right. Haha.</td>

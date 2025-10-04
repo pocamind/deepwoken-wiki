@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 162338
+revid: 163775
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Factions, The Central Authority]
 
 ## Description
 
-**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. An authoritarian regime led by a mysterious person named Drallis Ehr who acts as their Grand Sovereign although Drallis Ehr's existence as a person is up for debaTe. they are thoroughly dedicated to the expansion of their empire and the destruction of their enemies.
+**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. An authoritarian regime led by a mysterious person named Drallis Ehr who acts as their Grand Sovereign although Drallis Ehr's existence as a person is up for debate. they are thoroughly dedicated to the expansion of their empire and the destruction of their enemies.
 
 Their ranks consist of Wardens and standard military rankings. They have multiple 'corps' in their ranks, including the 'Shock Corps', the 'Winter Corps' and formerly the 'Expeditionary Corps'. it is unclear if the Inquisitors mentioned are another corps or a rank within their military. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
 

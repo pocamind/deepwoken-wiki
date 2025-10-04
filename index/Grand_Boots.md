@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 155692
+revid: 163778
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -27,7 +27,7 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Grand Boots are accessories under the "_Boots_" category. They can only be found through chests in [The Depths](The_Depths.md).
+Grand Boots are accessories under the "_Boots_" category. They can only be found through chests in [The Depths](The_Depths.md). When worn, this grants +5 HP.
 
 ## Trivia
 

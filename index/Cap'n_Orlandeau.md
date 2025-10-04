@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 163161
+revid: 163776
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -148,7 +148,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="6">Yer right.. <i>*The Captain takes a deep breath, dramatically heaving in excitement and curiosity.*</i> Alright. Aaaalright. I've got me bicorn back on straight. Forgive me, mate. Alas, did ye find the rest of us? Did any live?</td>
-  <td colspan="6"><i>*The Captain would let out a heavy sigh, pulling his bicorn over his eyes dramatically.* Aye.. I feared that to be true. When that Authority ship came, after the first explosion.. we were all Depths-sent, the lot of us. But you, you weren't, were you? What happened to ye, mate?</i></td>
+  <td colspan="6"><i>*The Captain would let out a heavy sigh, pulling his bicorn over his eyes dramatically.*</i> Aye.. I feared that to be true. When that Authority ship came, after the first explosion.. we were all Depths-sent, the lot of us. But you, you weren't, were you? What happened to ye, mate?</td>
 </tr>
 <tr>
   <td colspan="6">I never found the rest of the crew.</td>

@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 163736
+revid: 163779
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]

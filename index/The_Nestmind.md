@@ -1,6 +1,6 @@
 ---
 title: The Nestmind
-revid: 162918
+revid: 163785
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths, Oath Trainer, NPCs located in the First Layer]
@@ -17,11 +17,11 @@ categories: [NPCs, Oaths, Oath Trainer, NPCs located in the First Layer]
 
 ― The Nestmind
 
-**The Nestmind** is an NPC that appears in the [A Conscious Intersection](A_Conscious_Intersection.md). It is the final step obtaining the **[Visionshaper Oath](Oath%253A_Visionshaper.md),** being the entity that gives you the oath.
+## Description
 
-It has an appearance similar to the heads of many [Deep Owls](Deep_Owl.md) within a black void.
+**The Nestmind** is an NPC that appears in the [A Conscious Intersection](A_Conscious_Intersection.md). It has an appearance similar to the heads of many [Deep\_Owls](Deep_Owl.md) within a black void. It is the final step obtaining the **[Visionshaper Oath](Oath%253A_Visionshaper.md),** being the entity that gives you the oath.
 
-The origin of The Nestmind is unknown, but it is most likely the source of the Deep Owls in the Depths.
+The origin of The Nestmind is unknown, but it is most likely the source of the Deep Owls in the [First Layer](First_Layer.md).
 
 ## Dialogue
 
