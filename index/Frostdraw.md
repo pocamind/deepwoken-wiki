@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 163541
+revid: 163811
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1209,8 +1209,8 @@ Ice
 -   Heals 2%, increasing with level and [Drift/Rush Shards](Mantra_Modifiers.md), up to 10%.
 -   Applies 1 second of chill per hit. This cannot be modified.
 -   Iceberg applies bottom freeze on every hit (regardless of cooldown), but still puts the Frozen Legs status on cooldown.
--   Shares a cooldown with [Reinforce](Attunement-less.md#reinforce)..
--   Does not proc Deep Gems on hit.
+-   Shares a cooldown with [Reinforce](Attunement-less.md#reinforce).
+-   Does not proc [Deep Gems](Deep_Gems.md) on hit.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), turning you into an ice crystal on use. While this variant of Iceberg is active, you gain i-frames, but cannot move or act. If used midair, you will quickly descend towards the ground, dealing damage on impact and flinging/ragdolling opponents. This also negates fall damage.
     -   Can be modified with [Drift/Rush Shards](Mantra_Modifiers.md) to increase the fall speed.
 

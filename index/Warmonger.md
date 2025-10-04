@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 163671
+revid: 163812
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
@@ -42,9 +42,13 @@ Dying in the Overworld/[The Depths](The_Depths.md) with this weapon equipped or 
 
 ### Talent: Pugnacious
 
-On basic attack, gain +10% to the following stats: melee damage, posture damage, damage resistance, posture damage resistance, chip damage, and a 10% speed boost per combat tag you have. **All effects, excluding the speed boost, cap at +30% (3 or more combat tags)**, and these effects have a short duration.
+On basic attack, gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost per combat tag you have.
 
-For example, if you are combat tagged by 5 targets, you will gain up to a maximum of +30% damage, posture damage, damage resistance, posture damage resistance, chip damage, and +50% speed boost.
+The damage, posture damage, and chip damage bonuses are additive and ignore the damage and posture damage modifier caps. These effects cap at +30% (3 or more combat tags), and are applied to Mantras as well. The chip damage bonus will only apply if some amount of chip is present.
+
+The elemental and physical damage resistance is multiplicative to other resistance sources.
+
+The speed boost has no cap and is applied **per M1**. For example, if you land 5 m1s and are combat tagged by 5 people, you will gain +250% speed. Each speed boost stack lasts 5 seconds and does not refresh upon acquiring another. Additionally, being hit by an m1 will also proc this bonus.
 
 These effects are greatly improved whenever you grip a player.
 

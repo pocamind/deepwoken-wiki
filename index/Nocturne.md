@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 162430
+revid: 163830
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Medium Weapons]
@@ -35,7 +35,7 @@ The **Nocturne** is a dual-wielded medium weapon found at the [Moon's Eyrie](<Mo
 
 ## Critical
 
-The user stabs the opponent in a short range after a very slow wind-up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) on hit while bypassing the opponent's parry and block. The user can respond with a follow-up M1 after the initial hit, stepping back from the target and unleashing a horizontal split. Both hits have 1x scaled damage and bypass **armor** resistances.
+The user stabs the opponent in a short range after a very slow wind-up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) on hit while bypassing the opponent's parry and block. The user can respond with a follow-up M1 after the initial hit, stepping back from the target and unleashing a horizontal split. Both hits have a 0.81x scaled damage multiplier and bypass **armor** resistances.
 
 Can be cancelled by damage in wind-up.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163807
+revid: 163822
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -671,11 +671,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Bulwark
 
 -   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 20s.
-    -   Defensive Reprisal's duration will be reduced by 0.177s for every point in Fortitude below its requirements, having a minimum duration of 15.575s duration with 40 Fortitude.
+    -   Defensive Reprisal's duration will be reduced by 0.177s for every point in Fortitude below its requirements, having a minimum duration of 15.55s duration with 40 Fortitude.
     -   Prerequisities: 65 Fortitude
 
 -   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
-    -   Dancing Guard's duration will be reduced by 0.085s for every point in Fortitude below its requirements, having a minimum duration of 4.87s at 30 Fortitude.
+    -   Dancing Guard's duration will be reduced by 0.086s for every point in Fortitude below its requirements, having a minimum duration of 4.86s at 30 Fortitude.
     -   Prerequisities: 55 Fortitude
 
 -   Down to your Level \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 5s.
@@ -685,7 +685,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 60 Fortitude
 
 -   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 15s.
-    -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.6 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
+    -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
 ### Butterfly
@@ -708,7 +708,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility.
     -   The invisibility and I-frame duration is 1.2 seconds if you have 40 or higher Agility.
-    -   Ghost's duration will be reduced by 0.0133 seconds per point in Agility under 40, capping at 0.8675 seconds at 15 Agility.
+    -   Ghost's duration will be reduced by 0.0133 seconds per point in Agility under 40, capping at 0.866 seconds at 15 Agility.
     -   Will also proc from dodging bleed, occurs when dodging a m1 late in high ping.
     -   Has a 20 second cooldown.
     -   You cannot parry attacks during the invisibility.
@@ -1309,7 +1309,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Freak Of Nature
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
-    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.167% resistance for every point under 40 Fortitude, capping at 5.825% resistance with 15 Fortitude.
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
     -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
@@ -1320,7 +1320,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 40 Fortitude.
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health. (+5 Health)
-    -   For every point of Fortitude below 50, To the Finish loses 0.167% damage reduction, having a minimum value of 5.825% damage reduction at 25 Fortitude.
+    -   For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.
     -   Prerequisite: 50 Fortitude
 
 ### Frost Forger
@@ -2322,7 +2322,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 -   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
-    -   For every point of Intelligence below 80, Prediction's minimum cooldown will be increased by 0.125 seconds, capping at 36.875 seconds with 55 Intelligence.
+    -   For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.125 seconds with 55 Intelligence.
     -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 ### One Eyed King
@@ -2377,12 +2377,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
     -   Prerequisite: 60 Charisma
-    -   If it is stacked with the "Celebrity" Talent you can immediately avoid being hunted by [Voidwalkers](Origins.md) until you lose one of the two Talents or continue to have a very bad reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) or some other [faction](Reputation.md).
+    -   If it is stacked with the "Celebrity" Talent you can immediately avoid being hunted by [Voidwalkers](Voidwalker.md) until you lose one of the two Talents or continue to have a very bad reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) or some other [faction](Reputation.md).
 
 -   You'll Need to Get Past Me \[Common Talent\] - When you're attacked, one of your many allies will leap into action to protect their boss.
     -   Spawns in an NPC to attack whoever hits you. The 3 known NPCs are [Bandits](Bandit.md), [Bandit Leaders](Bandit_Leader.md), or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
-    -   The cooldown of this Talent scales on your Charisma investment, having a base cooldown of 70 seconds and every investment point into Charisma decreasing this by 0.143 seconds.
-        -   At requirements, this Talent will have a 59.275 second cooldown, has a maximum cooldown of 62.85 seconds at 50 Charisma, has a minimum cooldown of 55 seconds at 100 Charisma.
+    -   The cooldown of this Talent scales on your Charisma investment, having a base cooldown of 69.286 seconds and every investment point into Charisma decreasing this by 0.143 seconds.
+        -   At requirements, this Talent will have a 58.57 second cooldown, has a maximum cooldown of 62.14 seconds at 50 Charisma, has a minimum cooldown of 55 seconds at 100 Charisma.
     -   The spawned NPC is considered your ally for proccing Talents.
     -   The spawned NPC applies a player combat tag on hit.
     -   Note that an ally appearing with the Talent only works with players and is scaled by the level of the attacking enemy.
@@ -2441,7 +2441,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
-    -   The posture reduction effect is reduced by 0.43% for every point in Strength below 40, having a minimum value of 22.25% posture reduction from being parried at 15 Strength.
+    -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.
     -   Prerequisite: 40 Strength
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
@@ -2649,8 +2649,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 80 Bloodrend, 40 Charisma, Manipulator
 
 -   Donation Drive \[Common Talent\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
-    -   Donation Drive's cooldown scales on your Charisma investment, having a 12 second cooldown at 20 Charisma and gaining +0.1s for every point in Charisma above 20. This caps at 8 seconds with 60 Charisma.
-    -   Donation Drive has a maximum cooldown of 9.5 seconds.
+    -   Donation Drive's cooldown scales on your Charisma investment, having a 12 second cooldown at 20 Charisma and losing 0.1s for every point in Charisma above 20. This caps at 8 seconds with 60 Charisma.
+    -   Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 9.5 seconds at 35 Charisma.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
 
 -   Sharing is Caring \[Common Talent\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
@@ -3414,7 +3414,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
     -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN. This can bypass the 50% PEN cap.
-    -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.25% PEN (or 1.075x PEN) at 40 Agility.
+    -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.
     -   Prerequisite: 65 Agility
 
 -   _**Crippling Comeuppance**_ \[Advanced Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
@@ -3435,7 +3435,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Procs even if Revenge is blocked, parried, dodged, or vented.
-    -   For every point in Agility below 90, Pursuit will gain +0.25 seconds to its cooldown, capping at 31.25 seconds with 65 Agility.
+    -   For every point in Agility below 90, Pursuit will gain +0.375 seconds to its cooldown, capping at 29.375 seconds with 65 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 90 Agility
 
 ### Twinblade
@@ -3938,7 +3938,11 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
-    -   Gain a stacking speed and damage boost scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
+    -   Gain various stacking buffs scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
+    -   On basic attack, gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost per combat tag you have.
+        -   The damage, posture damage, and chip damage bonuses are additive and ignore the damage and posture damage modifier caps. These effects cap at +30% (3 or more combat tags), and are applied to Mantras as well. The chip damage bonus will only apply if some amount of chip is already present.
+        -   The elemental and physical damage resistance bonuses are multiplicative to other resistance sources.
+        -   The speed boost has no cap and is applied **per M1**. For example, if you land 5 m1s and are combat tagged by 5 people, you will gain +250% speed. Each speed boost stack lasts 5 seconds and does not refresh upon acquiring another. Additionally, being hit by an attack will also proc this bonus.
 
 -   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
     -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 4 seconds, making your critical guaranteed guardbreak if it hits block.
