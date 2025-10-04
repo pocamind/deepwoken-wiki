@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Temptation
-revid: 152612
+revid: 163794
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Temptation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -20,7 +20,7 @@ categories: [NPCs, Mechanics]
 
 ## Description
 
-Located at the [Crypt of the Unbroken](../Crypt_of_the_Unbroken.md) of Minityrsa, in the second floor of the crypt.
+Located at the [Crypt of the Unbroken](../Crypt_of_the_Unbroken.md) of [Minityrsa](../Minityrsa.md), in the second floor of the crypt.
 
 ## Effects/Details
 

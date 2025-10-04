@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163764
+revid: 163807
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -788,8 +788,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
-    -   Lasting Charisma increases the duration of **Charismatic Cast's** Charm from 10s to 15s (from 5s to 7.5s against Disbelief Talent).
-    -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.17s for every point of Charisma you have under 55, capping at a minimum of 10.75 seconds of Charm with 30 Charisma.
+    -   Lasting Charisma increases the duration of **Charismatic Cast's** Charm from 10s to 20s (from 5s to 10s against Disbelief Talent).
+    -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.166s for every point of Charisma you have under 55, capping at a minimum of 15.83 seconds of Charm with 30 Charisma.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.
@@ -1424,11 +1424,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The following Galebreathe Mantras have knockback and can benefit from this Talent: Air Force, Champion's Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind Gun
     -   Prerequisite: 30 Galebreathe
 
--   Inhale \[Galebreathe Exclusive\] - [Feinting a](Combat_Mechanics.md#combat-basics) [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] are applied to the empowered mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   While not mentioned in the Talent description, inhaling a spell will cause the wind to be applied to your M1's \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
-    -   Inhaling a Galebreathe Mantra adds (Mantra Level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.)
-    -   Prerequisites: 60 Galebreathe
+-   Inhale \[Galebreathe Exclusive\] - [Feinting a](Combat_Mechanics.md#combat-basics) [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra.
+    -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.
     -   Inhaling grants a speed boost for 3 seconds.
+    -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut and Possession.
+    -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
+    -   Prerequisites: 60 Galebreathe
 
 ### Genius Intellect
 
@@ -1561,10 +1562,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
 
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
-    -   Heretic's Sutra has a base windup of 0.4s and a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the windup is reduced by 0.0042 seconds.
-        -   Has a windup of 0.19 seconds at 80 Willpower, a maximum windup of 0.295 seconds at 55 Willpower, and a minimum windup of 0.1 seconds at 100 Willpower.
+    -   Heretic's Sutra has a base windup of 0.4s and a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the windup is reduced by 0.00429 seconds.
+        -   Has a windup of 0.186 seconds at 80 Willpower, a maximum windup of 0.293 seconds at 55 Willpower, and a minimum windup of 0.1 seconds at 100 Willpower.
     -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
-        -   Has a cooldown of 19.75 seconds at 80 Willpower, a maximum cooldown of 21.875 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.
+        -   Has a cooldown of 19.71 seconds at 80 Willpower, a maximum cooldown of 21.86 seconds at 55 Willpower, and a minimum cooldown of 18 seconds at 100 Willpower.
     -   Gives a burst of insanity to yourself.
         -   Immediately lose 15% sanity on use.
         -   If above 80% sanity, immediately lose sanity down to 65%.
@@ -2112,13 +2113,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
     -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
-        -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
-        -   Lasting Charisma (at reqs), Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
         -   Tough Love: 2s -> 1s
-        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Attunement-less.md#dread-whisper): 7.5s -> 3.25s
-        -   Overcharm's self-charm proc: 8s -> 4s
         -   Overcharm's Basic Attacks: 5s -> 2.5s
+        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
+        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
+        -   Overcharm's self-charm proc: 8s -> 4s
+        -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
+        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Lasting Charisma (at reqs): 20s -> 10s
     -   Prerequisite: 25 Willpower
 
 ### Merchant
@@ -2837,7 +2839,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
     -   Charms for 7 seconds.
-    -   The Charm duration is reduced by 0.067 seconds per point of Charisma under 75, capping at 5.3 seconds at 50 Charisma.
+    -   The Charm duration is reduced by 0.066 seconds per point of Charisma under 75, capping at 5.3 seconds at 50 Charisma.
     -   Does not proc "Golden Tongue" Talent.
     -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
     -   Prerequisites: Charismatic Cast, 75 Charisma
@@ -3187,7 +3189,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
     -   Steals 40% of the Tempo used.
-    -   Every point in Intelligence below 50 will reduce the Tempo steal by 0.67%, capping at a minimum of 23.25% of the Tempo absorbed with 25 Intelligence.
+    -   Every point in Intelligence below 50 will reduce the Tempo steal by 0.66%, capping at a minimum of 23.33% of the Tempo absorbed with 25 Intelligence.
     -   Prerequisite: 50 Intelligence
     -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this Talent.
 
@@ -3422,7 +3424,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Down Comes the Claw \[Common Talent, Agility\] - Landing a Critical while you have a speed boost prevents your opponent from being able to dodge twice in a row for 5s. (+1 Passive Agility)
     -   Down Comes the Claw cannot be reapplied while it's currently active.
     -   Lasts 6.5 seconds.
-    -   For every point in Agility under 75, Down Comes the Claw loses 0.055 seconds of duration, capping at a minimum of 5 seconds with 50 Agility.
+    -   For every point in Agility under 75, Down Comes the Claw loses 0.055 seconds of duration, capping at a minimum of 5.11 seconds with 50 Agility.
     -   Prerequisite: 75 Agility
 
 -   Maiming Claws \[Common Talent, Agility\] - Down Comes the Claw now disables your opponent's posture regeneration for 6s on proc. (+1 Passive Agility)

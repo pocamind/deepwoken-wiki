@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 163630
+revid: 163805
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -77,7 +77,7 @@ This effect can be applied by being hit by a weapon that applies bleed, [Crimson
 
 ### Wither
 
-Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain\]\]_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#the-emporers-blade) active, [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ### Anti-Heal
 
@@ -569,6 +569,14 @@ Upon landing any Mantra while the Haunted is in effect, your opponent will be st
 ### Ghastly Mobility
 
 Applied by the Galebreathe Talent, [Phantom Step](Talents.md#specter); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a [speed boost](#speed-boost) for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#specter) and [Possession](Talents.md#specter) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
+
+### Inhale
+
+After [feinting](Combat_Mechanics.md#feinting) a Galebreathe Mantra with the Inhale Talent, gain the Inhale status effect for 5 seconds and a [speed boost](#speed-boost) for 3 seconds. The Inhale status effect will be consumed if you cast a Galebreathe Mantra, or a Flamecharm Mantra if you have the [Fan the Flames](Talents.md#heat-column) Talent, applying all of the [Mantra Modifiers](Mantra_Modifiers.md) from the Inhaled Galebreathe Mantra and a damage buff to the Mantra you cast. The damage buff scales off the level of the Inhaled Mantra, being +(Mantra Level \* 2)% damage (e.g. +10% at level 5). Inhale is signified by your character breathing in the winds on Mantra feint.
+
+#### Maestro's Blade
+
+After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#galeforce) and [Possession](Talents.md#specter). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by wind particles coming off of your right hand.
 
 ### Orbital Ice
 
