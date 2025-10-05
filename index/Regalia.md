@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 163490
+revid: 163852
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -45,6 +45,10 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](Thresher.md#king-thresher)
     -   [Deep Owl](Deep_Owl.md)
+
+### Two Faced
+
+Unlocks a special dialogue with [Rook Rethige](Rook_Rethige.md) in the [Voidheart](Voidheart.md) that lets you buy either [Call of the Deep](Deepbound.md#call-of-the-deep) or [Union Pager](Ignition_Delver.md) for 20.
 
 ### Prodigy
 

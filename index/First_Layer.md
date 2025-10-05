@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 163631
+revid: 163855
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 1]
@@ -40,7 +40,9 @@ Detailed map of the entire Depths First Layer
 
 The main method to escape is by the Cathedral of the Interstice, which houses the Trial in the center of the city. The Trial must be entered through the elevator.
 
-The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether, but will only work in Layer 1. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
+The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether, but will only work in Layer 1. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart". This method can be used only once per slot.)
+
+( Patched 23.9.25 )
 
 ## Reaching the Elevator
 
@@ -50,7 +52,9 @@ There are 2 bells located in the District of Commerce (sloped gate). Once 2 bell
 
 ### Method 2: Sub-Elevator / Toll
 
-A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator. If you do not wish to pay the fee, you can climb up the elevator shaft with mobility mantras or enough agility.
+A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. By interacting with the lever, the sub-elevator will rise to the main elevator. Note that if you drown when your power is lower than 10 you will be spawn right in the left side of the city near the elevator.
+
+( Patched 23.9.25 )
 
 **Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present, and the Nautilodaunt has a long spawn timer anyways. If it is present, you can usually outrun in by getting on top of the elevator and jumping up that way, but if you are inexperienced it is best to simply leave.)
 

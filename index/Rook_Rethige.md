@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 163580
+revid: 163859
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, The Knives of Eylis, Vendors]
@@ -18,7 +18,7 @@ categories: [Felinor NPCs, NPCs, The Knives of Eylis, Vendors]
 
 Rook Rethige is a [Felinor](Felinor.md) NPC in the [Voidheart](Voidheart.md). He is able to sell a [Whaling Knife](Whaling_Knife.md) for 300 if the player has spoken to [Raen](Raen.md) and asked "I see. Can you help me with affording equipment?
 
-If the player has the "two faced" [Regalia](Regalia.md), Rook is able to sell the [Union Pager](Ignition_Delver.md) and [Call of the Deep](Origins.md#deepbound) for.
+If the player has the Two Faced [Regalia](Regalia.md), Rook is able to sell the [Union Pager](Ignition_Delver.md) and [Call of the Deep](Deepbound.md#call-of-the-deep) for 20.
 
 ## Dialogue
 
@@ -101,7 +101,7 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
 
 **Subsequent Encounters:**
 
-This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
+This dialogue is unlocked if the player had asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
 
 <table>
 <tbody>
@@ -129,6 +129,58 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
 </tbody>
 </table>
 
+**Player has the Two Faced Regalia:**
+
+This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) and bought a [Whaling Knife](Whaling_Knife.md) from Rook Rethige.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Back for more of my knives? [300 Notes]</td>
+</tr>
+<tr>
+  <td>Sure.</td>
+  <td colspan="4">I have a feeling that you don't belong here.</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
+  <td colspan="4">TBA</td>
+</tr>
+<tr>
+  <td></td>
+  <td colspan="4">TBA</td>
+</tr>
+<tr>
+  <td></td>
+  <td colspan="4">Which means that you can have them! They're useless! Why would anyone run with an annoying buzzer in their backpack or <b>Gods above</b> willingly wish to delve into the Depths?</td>
+</tr>
+<tr>
+  <td></td>
+  <td colspan="2">Hey, I wouldn't mind.</td>
+  <td colspan="2">Agreed. You can keep them</td>
+</tr>
+<tr>
+  <td></td>
+  <td colspan="2">Of course, I knew you were out of your mind, much like everyone else here. I hope you're booksmart though, 'cause I'm asking for 20 Knowledge for this exchange of information...</td>
+  <td colspan="2">End</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Call of the Deep[20 Knowledge]</td>
+  <td>Union Pager[20 Knowledge]</td>
+</tr>
+<tr>
+  <td></td>
+  <td>End, Player obtains Call of the Deep ability</td>
+  <td>End, Player obtains Union Pager tool</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   He seemingly gives lore about his character, which is based on a tester.
+-   With the Two Faced [Regalia](Regalia.md) you can only buy either [Call of the Deep](Deepbound.md#call-of-the-deep) or the [Union Pager](Ignition_Delver.md), so choose wisely.

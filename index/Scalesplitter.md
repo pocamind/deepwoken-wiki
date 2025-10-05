@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 163843
+revid: 163846
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -41,10 +41,6 @@ The **Scalesplitter** is a medium twinblade weapon that is currently known to be
 Scalesplitter uses the default Twinblade critical, a swift thrust with the back end of the twinblade. It has a scaled damage multiplier of **1.1x** and a cooldown of **4 seconds**. It deals **15** posture damage. On hit, it dazes opponents and innately procs [Bleed](Status_Effects.md#bleed), dealing an additional 15% of the weapon's scaled damage.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-## Critical
-
-This weapon has 1 critical with a 4 second cooldown. The weapon moves you forwards slightly and jabs in front of you, pushing enemies away (does not ragdoll). It has decent posture damage, dealing about 12 posture total.
 
 ## Trivia
 
