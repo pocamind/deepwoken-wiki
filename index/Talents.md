@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 163822
+revid: 164026
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -86,6 +86,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Oath
     -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't take up Talent slots.
+
+-   Innate
+    -   Talents obtained from your [Aspect](Aspects.md) or [Origin](Origins.md). These Talents do not take up Talent slots.
+
+-   Origin
+    -   Talents obtained from your [Origin](Origins.md). Unlike innate Talents, these Origin-exclusive Talents are not given _with_ your Origin, and must be manually unlocked.
 
 -   Mantra
     -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Draw.md). See [Mantras](Mantras.md).
@@ -440,6 +446,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This also only applies to weapon attacks.
     -   Prerequisites: 65 Thundercall, First Interrogation
 
+### Authority Ensign
+
+-   _Horn of the Authority_ \[Origin Exclusive\] - Mark escaping prisoners.
+    -   Grants a Talent tool that blows a horn, highlighting escaping prisoners and targets.
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin
+
+### Authority Soldier
+
+-   _Authority Ensign_ \[Origin Exclusive\] - You are a member of the Authority deployed to the Eastern Luminant. You may find trouble with the local factions and must become stronger through advancing the Authority's position.
+    -   Prerequisites: [Authority Ensign](Authority_Ensign.md) Origin
+
 ### Bastion
 
 -   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
@@ -471,6 +488,28 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
             -   Base: 50% PEN vs 50% physical armor; 50 \* (1 - 0.5) = 25% resistance after PEN.
             -   Reinforced Armor: 50% PEN vs 30% RA; 50 \* (1 - 0.3) = 35% PEN. 35% PEN vs 50% physical armor = 50 \* (1 - 0.35) = 32.5% resistance after PEN.
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
+
+  
+
+### Battle Readiness
+
+-   _Armored Plating_ \[Origin Exclusive\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
+    -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+
+-   _Oppressive Force_ \[Origin Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+    -   These weapons are: [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed), [Alloyed Halberd](Halberd.md#alloyed), [Alloyed Officer Saber](Officer_Saber.md#alloyed), [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), and [Sovereign's Punishment](<Sovereign's_Punishment.md>).
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+
+-   _Steel Tread_ \[Origin Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+
+-   _Riot Shield_ \[Origin Exclusive\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
+    -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+
+-   _Crossguard_ \[Origin Exclusive\] - If you are using a sword, you gain 10% chip against other opponents wielding swords.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 ### Blindseer
 
@@ -1014,13 +1053,28 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
     -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
 
--   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected.
+-   Energy Siphon \[Common Talent, Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected.
     -   Prerequisites: Singularity, 60 Shadowcast
     -   Takes about ~15 ether from the affected opponent on proc.
 
+### Deepbound Contract
+
+-   _Call of the Deep_ \[Origin Exclusive\] - Sink beneath the waves and return to the Depths.
+    -   Grants a Talent tool.
+    -   When used in the Overworld, play an animation and sink into the [First Layer](First_Layer.md). This does not count as a drown.
+    -   When used in the [First Layer](First_Layer.md), teleport to [Castle Light](Castle_Light.md) with a 20 minute cooldown.
+    -   Prerequisites: [Deepbound](Deepbound.md) Origin
+
+-   _Deepbound Contract_ \[Origin Exclusive\] - You progress much faster in the Depths, and slower on the overworld. You can regain sanity at Castle Light, but will always face the strongest foes in your Trial.
+    -   You can always enter [Castle Light](Castle_Light.md), even if you've drowned.
+    -   Your [Depths Trial](Cathedral_of_the_Interstice.md) will always be an Enforcer or harder.
+    -   You gain passive sanity regeneration at [Castle Light](Castle_Light.md).
+    -   Gain increased experience gain while in either layer of [the Depths](The_Depths.md), but your experience gain is reduced elsewhere.
+    -   Prerequisites: [Deepbound](Deepbound.md) Origin
+
 ### Deepwoken
 
--   Spell Shout \[Character Exclusive\] - You will now shout your mantra name upon cast.
+-   Spell Shout - You will now shout your mantra name upon cast.
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
     -   Renamed mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!".
     -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used. Casting a mantra named "64 palms" will say "Palms!".
@@ -1654,6 +1708,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 100 Frostdraw
     -   Mutual Exclusive: Glass Path: Crystallization
 
+### Ignition Delver
+
+-   _Ignition Card_ \[Origin Exclusive\] - A card representing your membership in the Ignition Union. Entitles you to speedier experience gain from Dungeons and Jobs, though the fees will slightly reduce your experience gain outside of these.
+    -   Gain increased EXP gain from [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md), but reduced EXP gain from any other content.
+    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin
+
+-   \[Origin Exclusive\] - Check up on job listings remotely.
+    -   Grants a Talent tool that acts as a remote-access [Job Board](Job_Boards.md), allowing you to pick up jobs from any location.
+    -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin
+
+### Ignition Union
+
+-   Union Hook \[Quest Talent\] - You can now make use of the Ignition [Union hooks](Union_Hooks.md) to ascend or descend.
+    -   Prerequsites: Save [Epsi](Epsi.md) in [New Kyrsa](Second_Layer/New_Kyrsa.md) then speak to [Alpha](Alpha.md), OR gained immediately with the [Ignition Delver](Ignition_Delver.md) Origin
+
 ### Immolator
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
@@ -1700,7 +1769,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Innate (Aspect Talents)
 
--   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
+-   _Chitin_ \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
     -   Grants 5% damage reduction in the form of Natural Armor.
     -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
     -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent, up to a maximum of 14.5% physical resistance.
@@ -1710,62 +1779,63 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
     -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
 
--   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
+-   _Deepfolk_ \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.
     -   1.2x Sanity gain multiplier. You require 1 less Knowledge when making deals with [Deep Shrines](Deep_Shrines.md) (Knowledge cost can't go below 1).
 
--   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
-    -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the Aspect variant.
+-   _Feathered Glider_ \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
+    -   Tirans gain Feathered Glider, a [Glider](Gliders.md) with infinite durability. The glider changes color depending on the Aspect variant, and can be [dyed](Dye_Packet.md).
+    -   When using the Glider hotkey, regular and Sharkscale [Gliders](Gliders.md) will take priority over the Feathered Glider. You must use all of the durability in your other Gliders if you want to deploy the Feathered Glider with the hotkey.
 
--   Echolocator \[[Kiron](Kiron.md) Exclusive\] - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
+-   _Echolocator_ \[[Kiron](Kiron.md) Exclusive\] - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
     -   Pings the location of nearby players who unsheathe their weapons (even through [Tacet](Murmur%253A_Tacet.md) and Lowstride) and event spawns.
 
--   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
+-   _Loyalty_ \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the Give and Take Talent, totaling to 48% damage reduction.
     -   This does not apply to self damage.
 
--   Mark of Jurik \[Jurik and Hallowtide [Capra](Capra.md) Variant Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
+-   _Mark of Jurik_ \[Jurik and Hallowtide [Capra](Capra.md) Variants Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
     -   Gain a tool that lowers the sanity drain of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Does not require you to be resting at a campfire.
 
--   Mark of Ku \[Ku [Capra](Capra.md) Variant Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
+-   _Mark of Ku_ \[Ku [Capra](Capra.md) Variant Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
     -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their sanity and their food & thirst replenishment from consuming food. 3m 30s CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
--   Mark of Nemit \[Nemit [Capra](Capra.md) Variant Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
+-   _Mark of Nemit_ \[Nemit [Capra](Capra.md) Variant Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
     -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
--   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
+-   _Maudet_ \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the [Autodidact](Boons_and_Flaws.md#autodidact) Boon.
     -   Increases [reputation](Reputation.md) gain with factions.
 
--   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
+-   _Molt_ \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
     -   Status effects, good or bad, have a shorter duration.
     -   Only works on Chilled, Potions, and Suffocation.
 
--   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
+-   _Mothwing Dust_ \[[Chrysid](Chrysid.md) Exclusive\] - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
     -   The angle at which you can be backstabbed is reduced heavily.
 
--   Navae's Guidance \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
+-   _Navae's Guidance_ \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen, which points East.
     -   Right clicking on the map will place a waypoint both in the physical world and on the map itself, your compass will point towards this waypoint.
     -   Lower the passive hunger decay.
     -   If you have the [Blind](Boons_and_Flaws.md#flaws) flaw, gain an area of vision around your character.
 
--   Nightchild \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
+-   _Nightchild_ \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
 
--   Seaborne \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
+-   _Seaborne_ \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
 
--   Teachings of the Edenkite \[[Drakkard](Drakkard.md) Exclusive\] - Find your centre.
+-   _Teachings of the Edenkite_ \[[Drakkard](Drakkard.md) Exclusive\] - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
 
--   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
+-   _Versatile_ \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
     -   This does not work on [Power](Power.md) requirements.
     -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) requirements.
     -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
@@ -2387,7 +2457,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The spawned NPC applies a player combat tag on hit.
     -   Note that an ally appearing with the Talent only works with players and is scaled by the level of the attacking enemy.
         -   An ally is able to appear anywhere on the map and in any locations (aka Luminants, Depths and Dungeons).
-        -   The ally will perform just like a normal NPC, requiring to be gripped after being knocked. (Unless you have insta-grip Talents like Mercy Kill).
+        -   The ally will perform just like a normal NPC
     -   You'll Need to Get Past Me can only proc when hit while outside of combat.
     -   The NPC can drop their weapon on death.
     -   Prerequisite: 75 Charisma
@@ -3265,6 +3335,27 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   With eruption path, it will proc eruption.
     -   Prerequisite: 65 Flamecharm
 
+### The Knives of Eylis
+
+-   _Grasp of Eylis_ \[Origin Talent\] - You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized.
+    -   Grants a Talent tool that can only be used in The Voideye.
+    -   After picking up a [bounty](Bounty_Hunting.md), you can use this tool to select your bounty hunt method; stealth or ferocity.
+        -   Stealth: Teleport near, but far away from your target. The bounty indication will be hidden.
+        -   Ferocity: Teleport close to your target, highlighting them through walls briefly. Your character will be enveloped in shadows, signifying that you have a bounty.
+    -   Grasp of Eylis can only be used on bounties targets that are less than 4 levels lower than you.
+    -   You cannot use [Chime of Dwelling](Chime_of_Dwelling.md) while on a bounty hunt.
+    -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
+
+-   _Voideye_ \[Origin Talent\] - Voidmother's blessing, the method to travel back to the Voidheart.
+    -   Grants a Talent tool that teleports you back to The Voideye on use.
+    -   Has a short animation that can be interrupted.
+    -   5 minute cooldown.
+    -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
+
+-   _Voidwalker Contract_ \[Origin Talent\] - You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.
+    -   Gain increased EXP from [bounties](Bounty_Hunting.md) of all kinds, but gain reduced EXP from all other sources.
+    -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
+
 ### The Negotiator
 
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you.
@@ -3685,10 +3776,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
     -   Prerequisites: 20 Strength, 5 Agility
 
--   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or the Agility stat for the first time ever. Alternatively, defeat any boss with 75 WPN stat.
-        -   Mercy Kill is also obtained when killing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) regardless of your stats.
-
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
 
@@ -3712,7 +3799,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Windrunner
 
 -   Agility Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your agility to its fullest.
-    -   Unlike all other core attribute unbounds, Agility Unbounded grants Mercy Kill upon rejoining.
     -   Prerequisite: 75 Agility
 
 ### Withered Flame
@@ -3878,12 +3964,6 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 
 -   Turn in 5 Pure Ores into the [Blacksmith](Blacksmith.md).
 -   This Talent lets you mine significantly faster, and gives you a chance at harvesting 2 ores when you break one.
-
-### Mercy Kill
-
--   Obtained by [Unbounding](Attributes_Unbound.md) either weapons (HVY, MED or LHT), your attunement, or Agility stat for the first time ever.
-    -   Also obtained when defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time regardless of your stats.
--   This Talent lets you instagrip enemies weaker than you with a swing, or flourish. If they are low enough you will also bash their skull or penetrate their chest with your weapon.
 
 ## Weapon Talents
 

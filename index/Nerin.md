@@ -1,9 +1,9 @@
 ---
 title: Nerin
-revid: 152681
+revid: 163916
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea, Reputation]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Etrea, Reputation]
 ---
 
 # Nerin
@@ -25,8 +25,6 @@ Nerin is the NPC who accepts a bribe for [Etrea](Etrea.md); you can pay him up t
 ## Location
 
 Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiquarian.md).
-
-File:Nerin Map.PNG
 
 ## Dialogue
 

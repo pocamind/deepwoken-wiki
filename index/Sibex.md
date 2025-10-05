@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 163381
+revid: 164032
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -21,8 +21,6 @@ categories: [NPCs, Mechanics]
 Sibex is located at the 3rd statue when passing by the first one next to Songseeker Island and the 2nd one, next to Summer Isle. the 3rd one has a big cliff right next to it on the right when facing the statue. When leaving Summer Isle and heading for Hive, Sibex will be on the left most island, sitting on the shoulder of a statue.
 
 ## Features
-
-Where Sibex can be found
 
 **Sibex** is capable of telling you your current **[Resonance progress](Resonance.md#bell-progress)**, and what gives you the most **Resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him, and in return he will tell you the details of your Resonance obtainment method. Sibex will not take your thresher spine, you just need it to talk to him.
 
@@ -201,4 +199,5 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
     -   It may have been because the outfit's design was lifted from [an outfit in Genshin Impact](References_and_Easter_Eggs.md), but this is speculation.
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue he would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
--   In the August 18th, 2025 update, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.
+-   On the update of August 18th, 2025, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.
+-   As of the update on October 4th, 2025, Sibex got relocated and now resides on an island, which is unmarked on the map.

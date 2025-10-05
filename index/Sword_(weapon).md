@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 157457
+revid: 164020
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -27,12 +27,12 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Etris |
+| obtainment | Character Creation, Etris, Fort Merit for 30 |
 | description | A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains. |
 
 ## Description
 
-The Sword is the default medium weapon users start with beginning the game with a base damage of 18. This weapon can be obtained by starting with it by either choosing medium weapon during [Character Creation](Character_Creation.md#weapon-classes) or buying it in the [Etris](Etris.md) weapon shop.
+The Sword is the default medium weapon users start with beginning the game with a base damage of 18.
 
 ## Critical
 

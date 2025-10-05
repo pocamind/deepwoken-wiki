@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 161831
+revid: 163968
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
+categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents, Authority Faction Item]
 ---
 
 # Inquisitor's Greatsword
@@ -11,7 +11,7 @@ categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
 | Inquisitor's Greatsword | |
 |---|---|
 | type | Greatsword |
-| requirements | 40 HVY |
+| requirements | 40 HVY, OR Authority Ensign |
 | damage | 23.5 |
 | scaling | HVY: 8.3 |
 | range | 9 |
@@ -47,14 +47,12 @@ The effectiveness of all non-Oath counter Mantras is increased. [Punishment](Att
 -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
 -   As mentioned prior, [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer) **do not** have any affect with this Talent.
 
-  
-
 ## Critical
 
 Inquisitor's Greatsword uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
-## Notes & Trivia
+## Trivia
 
 -   Meeting the requirement of HVY, the damage is (29.4)
 -   At max HVY, the damage is (38.1)
--   Used to be called ''Inquisitor's Straight Sword'' but was changed in the 30/11/2024 update. With Swords obtained before the update retaining the name.
+-   Used to be called ''Inquisitor's Straight Sword'' but was changed in the November 30th, 2024 update.

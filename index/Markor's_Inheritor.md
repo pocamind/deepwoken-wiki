@@ -1,9 +1,9 @@
 ---
 title: "Markor's Inheritor"
-revid: 161287
+revid: 163969
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons, Authority Faction Item]
 ---
 
 # Markor's Inheritor
@@ -12,7 +12,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The
 |---|---|
 | alloyed name | Alloyed Inheritor |
 | type | Greatsword |
-| requirements | 30 HVY, 10 STR / 75 HVY, 10 STR |
+| requirements | 30 HVY, 10 STR / 75 HVY, 10 STR, OR Authority Ensign |
 | damage | 24 |
 | scaling | HVY: 7 / HVY: 8 |
 | range | 8.5 |

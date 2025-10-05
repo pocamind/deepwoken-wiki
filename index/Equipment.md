@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 163432
+revid: 163896
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1243,7 +1243,8 @@ Found from:
 Head: [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
 Face: [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) |
 |  | [Tillian's Beret](<Tillian's_Beret.md>)  
-(**Unique**) | _+7 Health_
+(**Unique**) | _+3 Health_  
+_+10 Ether_
 
 +2 Rare Pips  
 +1 Legendary Pip  
@@ -5723,9 +5724,9 @@ Found from:
 -   Stars increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
 -   Stat diversity was supposedly enforced on the September 5th, 2022, update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However, this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
     -   Due to this, you'll have to take the following theoretical kits with a grain of salt, as this bug could result in higher maximums.
--   Highest theoretical **stealth** kit in game is 30% stealth. (10% Dark Owl Chapeau, 6% Mercenary's Garb/Ministry Cloak/Dark Owl Cloak, 5% Shrouded Capes, 6% Duelist Mask, 3% Master Thief Earrings)
--   Highest theoretical **ETH** kit in game is 397 ETH. (4x 30 ETH Moon and Waning Rings, 68 ETH (Drowned) Diver's Light Plate, 36 ETH Scarf, 54 ETH Hood, 54 ETH Boots, 30 ETH Hivelord Mask, 35 ETH Old Blood Earrings)
--   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Rings, 2 Posture Khan Helmet/Gladiator Helmet/Western Outlaw Hat, 1 Threadwork Kilt, 3 Posture Glassdancer Wraps/Moonseye Gauntlets/Weestern Outlaw Robes, 3.5 Posture Wartreads of Enmity with max Anchor pips)
--   Highest theoretical **HP** kit in game is 172 HP. (2x 9 HP Moon and 2x 9 HP Waning Rings, 47 HP (Drowned) Diver's Light Plate/Bastions of Enmity, 18 Fauld of Emnity, 32 HP Parasol Planter, 32 HP Star Boots/Abyss Wanderer Boots/Imperial Boots, 2 HP Moonlit Earrings, 5 HP Citadel Frames)
+-   Highest theoretical **stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% Shrouded Capes, 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md))
+-   Highest theoretical **ETH** kit in game is 415 ETH. (4x 30 ETH [Moon](Moon_Ring.md) and [Waning Rings](Waning_Ring.md), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
+-   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/Gladiator Helmet/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
+-   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP [Moon](Moon_Ring.md) and 2x 9 HP [Waning Rings](Waning_Ring.md), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>)/[Bastions of Enmity](Bastions_of_Enmity.md), 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md), 5 HP [Citadel Frames](Citadel_Frames.md))
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**
 -   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

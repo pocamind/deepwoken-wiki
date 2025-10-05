@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 163635
+revid: 163994
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -45,6 +45,7 @@ Resonances can also be obtained through the Ancient Soul [Regalia](Regalia.md).
 -   Unnamed Ice Resonance(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 -   Unnamed Memory Swap Resonance- [Sordino](Sordino.md)
 -   Unnamed Resonance- [Volu](Volu.md)
+-   Unnamed Resonance- [Warden Jericho](Warden_Jericho.md)
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
 title: Officer Saber
-revid: 162931
+revid: 163962
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Medium Weapons]
+categories: [Pages with broken file links, Weapons, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Medium Weapons, Authority Faction Item]
 ---
 
 # Officer Saber
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Weapons, Swords, Weapons of The Centr
 |---|---|
 | alloyed name | Alloyed Officer Saber |
 | type | Sword |
-| requirements | 30 MED / 75 MED |
+| requirements | 30 MED / 75 MED, OR Authority Ensign |
 | damage | 22 / 23 |
 | scaling | MED: 4.5 / MED: 4.8 |
 | range | 8 |

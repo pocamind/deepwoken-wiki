@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 162259
+revid: 163899
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -26,7 +26,7 @@ Shrine of Blasphemy
 
 **Shrine of Temptation**: Trade a Mantra of your choice and 5 to gain a Whisper Draw.
 
-**Shrine of Blasphemy**: For 5, **POWER 1-16** instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws, Or **POWER 17-20** reroll a Flaw of your choice into another, random base [Flaw](Boons_and_Flaws.md#flaws).
+**Shrine of Blasphemy**: For 5, **POWER 1-16** instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws, granting you a [Flaw](Boons_and_Flaws.md), Or **POWER 17-20** reroll a Flaw of your choice into another, random base [Flaw](Boons_and_Flaws.md#flaws).
 
 Shrine of Mastery
 

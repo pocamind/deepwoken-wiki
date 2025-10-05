@@ -1,9 +1,9 @@
 ---
 title: Rifle Spear
-revid: 163240
+revid: 163970
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
+categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons, Authority Faction Item]
 ---
 
 # Rifle Spear
@@ -11,7 +11,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 | Rifle Spear | |
 |---|---|
 | type | Spear/Rifle |
-| requirements | 75 MED |
+| requirements | 75 MED, OR Authority Ensign |
 | damage | 21 |
 | scaling | MED: 7 |
 | range | 9 |
@@ -28,8 +28,6 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 | pass down | Yes |
 | obtainment | Fort Merit, Starswept Valley, Deep Widow, Moon's Eyrie, Dread Serpent, Lodestar, Fishing, The Depths, Merchant Ships, Saramaed Hollow, Sold in Traan Zakshun's regular shop for 650 |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
-
-_Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) and [Iron Blunderbuss](Iron_Blunderbuss.md)._
 
 ## Description
 

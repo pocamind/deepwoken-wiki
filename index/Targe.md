@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 152372
+revid: 163979
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -12,7 +12,7 @@ categories: [Weapons, Shields, Offhand]
 |---|---|
 | type | Shield |
 | requirements | 10 FTD |
-| special effect | Reduces incoming blocking posture damage |
+| special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | selling price | 7 |
 | weight | 4 |
@@ -29,4 +29,4 @@ A shield that can be bought in the weaponry shop at [Etris](Etris.md) and common
 
 ## Notes
 
--   The worst shield in the game, as it is in a lower tier compared to the [Kite](Kite_Shield.md), [Worshipper's](<Worshipper's_Shield.md>), [Khan](Legion_Shield.md), and [Defender](<The_Path's_Defender.md>) shields. This is mostly used to get shield Talents if you have a low Fortitude.
+-   The worst shield in the game, as it grants the least amount of posture out of all shields. This is mostly used to get shield Talents if you have a low Fortitude.

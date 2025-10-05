@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 163874
+revid: 163893
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation, Origins]
@@ -159,21 +159,11 @@ You can do Trial of One as an Ignition Delver.
 -   **\[PRO\]** Grants the ability to use the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>) and [Chariot's Spire](<The_Chariot's_Spire.md>) to make [Smith Alloy](<Smith's_Alloy.md>) and [Armorer's Needles](<Armorer's_Needle.md>).
 -   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished.[\[1\]](#cite-note-1)
 
+## Authority Ensign
+
+**_Obtainment_:** Defeat Titus or obtain Hero reputation with the Central Authority to unlock Ascend through the Authority's ranks, choose a division, and unlock unique abilities and gear
+
 ## Upcoming Origins
-
-### Authority Origin
-
--   An Authority based origin. Not much is known about it, other than you are able to rise the ranks of the Authority with it. (Confirmed by ragoozer and many devs)
--   The Authority Origin is confirmed to be one of the next major updates with Verse 3 following an announcement on the 23rd of September 2025 on the Deepwoken Discord by ragoozer.
--   Confirmed to release on 10/4/25 by ragoozer in announcements.
-
-The following is speculation:
-
--   Probably similar to how on the Deepbound origin you spawn with the Diver apprentice robes, and with Voidwalker you spawn with the Whaler Initiate coat, you will most likely spawn with the Authority peacekeeper armor, and as you rise through the ranks you may get the Authority Captain armor, and the Authority Commander armor. Possibly alongside a Authority helmet.
--   Similar to how Voidwalker may have its own origin Oath in the future, there are chances of the Authority origin also having its own Oath, being the Warmaster Oath, or the current [Chainwarden](Oath%253A_Chainwarden.md) Oath.
--   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base.
--   Very high chances you may start this origin with negative reputation of many factions, such as Etrea or the Children of Navae, and positive reputation with the Divers, Ignition Union, and the Summer Company.
--   It may not affect the gameplay or the origin, but they may be some changes depending on the aspect with this origin in terms of dialogue with NPCs, having the Adret aspect (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely won't matter if you rank up to Commander. Similar to Kennith if you are an Etrean.
 
 ### Hive Origin
 

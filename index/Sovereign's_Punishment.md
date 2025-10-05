@@ -1,9 +1,9 @@
 ---
 title: "Sovereign's Punishment"
-revid: 157496
+revid: 163972
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
+categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons, Authority Faction Item]
 ---
 
 # Sovereign's Punishment
@@ -11,7 +11,7 @@ categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weap
 | Sovereign's Punishment | |
 |---|---|
 | type | Greathammer |
-| requirements | 75 HVY, 20 STR |
+| requirements | 75 HVY, 20 STR, OR Authority Ensign |
 | damage | 26 |
 | scaling | HVY: 9 |
 | range | 9 |
@@ -46,7 +46,7 @@ Sovereign's Punishment uses the default Greathammer critical, an overhead swing.
     -   Ironically, the logo looks very similar to the one found on the [Royal Etrean Guard](Royal_Etrean_Guard.md), despite being a weapon of the [Authority](The_Central_Authority.md).
     -   However, this logo is also visible on the [Authority Commander](Authority_Commander.md) Outfit as well. Additionally, the star on the Royal Etrean Guard is more concave as well as slimmer, whereas the star on the Authority Commander is less round and thicker, which the Sovereign's Punishment's logo more closely resembles.
 -   This weapon has the second highest posture damage in the game, with the second most posture damage per M1 potential.
-    -   With the base 13 weight, [Murmur: Ardour](Murmur%253A_Ardour.md), the talent "[Heavy Hitter](Talents.md#colossus)," the two-handed stance, a [Heavy Hands Ring](Equipment.md#rings), and the [Stone](Enchantments.md#list-of-enchantments) enchantment, you can do around 34 posture damage per M1.
+    -   With the base 13 weight, [Murmur: Ardour](Murmur%253A_Ardour.md), the [Heavy Hitter](Talents.md#colossus) Talent, the two-handed stance, a [Heavy Hands Ring](Heavy_Hands_Ring.md), and the [Stone](Stone.md) enchantment, you can do around 34 posture damage per M1.
     -   While using the previously stated modifiers along with Ardour Scream and a 3\* Weight version of the weapon, you are able to posture break [Maestro Evengarde Rest's](Maestro_Evengarde_Rest.md) posture with every m1, allowing for extremely quick runs.
 -   This item is found most commonly in Aratel Island Events with Starswept chests, less in Fort Merit chests, and the least in average Starswept chests, though due to Aratel Events being far and few in between, if you want to farm this weapon, consider cycling between Fort Merit and the Lightkeeper Temple while grabbing any events on the way while also making use of the Monster Hunter Quest to the left of the Lordsgrove Gate.
 -   Meeting the base HVY requirements, the Sovereign's Punishment will deal 39.2 damage. At 100 HVY, the damage would be 43.6.

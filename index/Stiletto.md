@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 160754
+revid: 164022
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -27,12 +27,12 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starter Weapon, Etris, Lower Erisia |
+| obtainment | Starter Weapon, Etris, Lower Erisia, Fort Merit for 15 |
 | description | A remarkably thin blade often likened to (and used as) a toothpick., <img style="" src="https://static.wikia.nocookie.net/project-deepwoken/images/1/1a/Stilettoicon.png/revision/latest?cb=20251017165044" title="Stilettoicon.png (2 KB)" class="thumbimage" alt="" height="164" width="164" data-image-name="Stilettoicon.png" data-image-key="Stilettoicon.png" data-relevant="1">The Icon in the character creation screen |
 
 ## Description
 
-The Stiletto is a dagger. It is the starting light weapon (not counting advanced weapons from [echo upgrades](Echoes.md)) The weapon has a base damage of 11. It can be obtained by choosing Light Weapon during [Character Creation](Character_Creation.md), buying it at [Etris](Etris.md#weaponry), or getting it from a drop at [Erisia](Erisia.md).
+The Stiletto is a dagger. It is the starting light weapon (not counting advanced weapons from [echo upgrades](Echoes.md)) The weapon has a base damage of 11.
 
 ## Critical
 

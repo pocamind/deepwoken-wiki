@@ -1,9 +1,9 @@
 ---
 title: Central Dirk
-revid: 157443
+revid: 163966
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons, Authority Faction Item]
 ---
 
 # Central Dirk
@@ -11,7 +11,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light 
 | Central Dirk | |
 |---|---|
 | type | Dagger |
-| requirements | 50 LHT |
+| requirements | 50 LHT, OR Authority Ensign |
 | damage | 15 |
 | scaling | LHT: 7 |
 | range | 6.5 |

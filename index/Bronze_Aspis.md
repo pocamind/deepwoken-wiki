@@ -1,9 +1,9 @@
 ---
 title: Bronze Aspis
-revid: 153104
+revid: 164040
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields, Offhand]
+categories: [Weapons, Shields, Offhand, Authority Faction Item]
 ---
 
 # Bronze Aspis
@@ -11,8 +11,8 @@ categories: [Weapons, Shields, Offhand]
 | Bronze Aspis | |
 |---|---|
 | type | Shield |
-| requirements | 15 FTD |
-| special effect | Reduces incoming blocking posture damage. |
+| requirements | 15 FTD, OR Authority Ensign |
+| special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | selling price | 14 |
 | weight | 4.2 |
@@ -20,7 +20,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Sea events, Deep Crucible, Erisia, Sold by Traan Zakshun for 100 |
+| obtainment | Aratel Sea events, Deep Crucible, Erisia, Sold by Traan Zakshun for 100 , Fort Merit Armory for 20 |
 | description | A round, wooden shield often accompanied by spear or shortblade. |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: Cavalry Saber
-revid: 162932
+revid: 163958
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons]
+categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons, Authority Faction Item]
 ---
 
 # Cavalry Saber
@@ -12,7 +12,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, We
 |---|---|
 | alloyed name | Alloyed Cavalry Saber |
 | type | Sword |
-| requirements | 40 MED / 75 MED |
+| requirements | 40 MED / 75 MED, OR Authority Ensign |
 | damage | 21 / 22.5 |
 | scaling | MED: 5 / MED: 5.5 |
 | range | 8 |
@@ -34,7 +34,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, We
 
 ## Description
 
-The Cavalry Saber is a midgame weapon obtained from the [Depths](The_Depths.md) chests, [Summer Isle](Summer_Isle.md) chests and [Duke Erisia](Duke_Ishamon_Erisia.md)'s chest.
+The Cavalry Saber is a midgame weapon obtained from [the Depths](The_Depths.md) chests, [Summer Isle](Summer_Isle.md) chests and [Duke Erisia's](Duke_Ishamon_Erisia.md) chest.
 
 ## Critical
 

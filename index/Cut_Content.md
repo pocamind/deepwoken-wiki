@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 162358
+revid: 163900
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -215,6 +215,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 30th, 2024 update, Maestro's Blade was merged into Inhale.
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
     -   In the December 23rd, 2022 update, Mark of the Lone Warrior was removed.
+-   **Mercy Kill \[Common Talent\]** - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
+    -   In the October 5th, 2025 update, Mercy Kill was made innate.
 -   **Molten Defence \[Common Talent, Flamecharm\] -** Upon being guard broken, you erupt. 30s cooldown.
     -   In the July 14th, 2025 update, Molten Defence was removed due to rewarding you for playing poorly and punishing your opponents for playing well.
 -   **Now You See Me \[Common Talent, Agility\] -** Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)

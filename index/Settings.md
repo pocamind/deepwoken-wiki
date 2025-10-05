@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 159598
+revid: 163937
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,12 +8,13 @@ categories: [Mechanics]
 
 # Settings
 
-## Interface (8)
+## Interface (9)
 
 -   Cinematic Mode On/Off : Hides the UI for screenshots and videos.
 -   Hide Names On/Off : Hides character names.
 -   Cooldown Bars On/Off : Enables cooldown indicator bars.
 -   Stat Bar Behavior Always/Hover : Sets when your stat bars shows their percentages.
+-   Crafting Slots On/Off: Displays 3 slots for Crafting above your Backpack.
 -   Points of Interest On/Off : Enables markers in towns for points of interest.
 -   3D Icon Behavior Always/Hover/Off : Sets 3D icon behavior.
 -   Show Buff Pips On/Off : Shows buff pips on equipment without needing to hover over them.
@@ -23,11 +24,13 @@ categories: [Mechanics]
 
 -   Music Volume Slider 0-100 : Adjust the volume of ambient & music tracks.
 
-## Graphics (3)
+## Graphics (5)
 
 -   Low Graphics Mode On/Off : Lowers particle counts and reduces the fidelity on various other visuals.
 -   Cloth Physics On/Off : Enables physically simulated animations for equipment.
 -   Field of View Slider 50-85 : Adjusts the default camera FoV.
+-   Dynamic FoV On/Off: Dynamically adjusts your FoV based on your speed.
+-   Camera Smoothing On/Off: Smooths out camera and focuses on torso movement.
 
 ## Combat (6)
 
@@ -109,3 +112,7 @@ Ability-exclusive Keybinds
 -   Hotbar Slot 8 8
 -   Hotbar Slot 9 9
 -   Hotbar Slot 10 0
+
+## Trivia
+
+-   For a very brief period of time on the October 5th, 2025 update, there was a setting called "Auto-Vault." This allowed the player to automatically vault over obstacles while sprinting.

@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 163640
+revid: 164017
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -26,7 +26,13 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 
 ## Contents
 
-### Docks
+### [Merit Detainment Core](Merit_Detainment_Core.md)
+
+-   Dungeon within the prison of Fort Merit
+-   Location for unlocking [Imperium Kata](Imperium_Kata.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) Boss
+
+### [Port Merit](Port_Merit.md)
 
 -   A functional port with a Shipwright to spawn, craft or recall your [boats](Ships_&_Sailing.md).
 -   Guarded by an [Authority Peacekeeper](Authority_Peacekeeper.md) and an [Authority Lieutenant](Authority_Lieutenant.md).
@@ -40,11 +46,10 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 -   The Etrean Guardsmaster can be found off the shore in a dinghy.
 -   Training gear can be found in the guild hall
 
-### Merit Detainment Core
+### [The Three Cheers](The_Three_Cheers.md)
 
--   Dungeon within the prison of Fort Merit
--   Location for unlocking [Imperium Kata](Imperium_Kata.md)
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) Boss
+-   A bar ran by [Fabantou](Fabantou.md) for [Authority Ensign](Authority_Ensign.md) to relax on their time off.
+-   Contains [Yakob](Yakob.md) and [Taiga](Taiga.md).
 
 ## Quests
 
@@ -82,14 +87,13 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 Below is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
 
--   [Brutus](Brutus.md) (Fortitude Uncap)
+-   [Brutus](Brutus.md)
 -   Innkeeper (Sets spawn)
--   [Guild Clerk](Guilds.md) (Guild stuff)
--   [Kana](Kana.md)
--   [Banker](Artifacts.md) (Artifact returns)
--   [Antiquarian](Antiquarian.md) (Selling)
--   Rashet (Rep reset)
--   Viridian
+-   [Guild Clerk](Guilds.md)
+-   [Banker](Banker.md)
+-   [Antiquarian](Antiquarian.md)
+-   [Rashet](Rashet.md)
+-   [Viridian](Viridian.md)
 
 ## Loot Table
 

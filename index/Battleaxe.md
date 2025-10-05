@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 157435
+revid: 164023
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Etris Weapons Shop, Rare drop in Erisia |
+| obtainment | Character Creation, Etris Weapons Shop, Erisia, Fort Merit for 20 |
 | description | A sturdy axe perfect for splitting bone. |
 
 ## Description
