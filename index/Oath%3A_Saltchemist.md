@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 162022
+revid: 163882
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,7 +32,7 @@ The effects of this Oath happen as a result of drinking the **Root Panacea**, an
 1.  Make at least one potion for [Ciea](Ciea.md). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
 2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
 3.  In [Ferryman's Library](<Boatman's_Watch.md>), Adrofalis will ask you to make a residue. Bring him the following ingredients:
-    -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to [Derelict Highchurch](Derelict_Highchurch.md) and use a canteen in the blood pool of the crucified Celestial. (The blood stays in your canteen just as regular water. It does not disappear when you die or rejoin, ~but **only** disappears on reset~ tested on 9/6/2025, does not disappear regardless of what you do)
+    -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to [Derelict Highchurch](Derelict_Highchurch.md) and use a canteen in the blood pool of the crucified Celestial. (The blood stays in your canteen just as regular water. It does not disappear when you die or rejoin, though **it will disappear** if you reset.)
     -   [Stardust](Stardust.md) from a Star Tree. Consider getting a second one, which is needed to progress the Oath.
     -   Any [Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md). [Saramaed Summit](Saramaed_Summit.md) is fairly close to the Starfield Veldt, so it is a good option to grab a few. You could also grab one from the [Ancient Rotlands](Ancient_Rotlands.md) while you’re there for the Ichor.
 4.  Gather those ingredients and return to Adrofalis, who will grant you the Oath.

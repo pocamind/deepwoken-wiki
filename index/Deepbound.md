@@ -1,8 +1,9 @@
 ---
 title: Deepbound
-revid: 94013
+revid: 163876
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Origins, Character]
 ---
 
 # Deepbound

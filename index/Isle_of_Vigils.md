@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 161774
+revid: 163868
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea]
@@ -45,7 +45,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 ### Mantra Shop
 
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FIR), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for 25 each.
+-   Players will find a [Gear Cabinet](Training_Gear.md), allowing them to purchase any Training Gear for 25 each.
 -   Players can find the [Barber](Barber.md), who can change your looks.
 -   Players can also purchase two schematics here:
     -   [Vigil Initiate](Vigil_Initiate.md) for 45.
@@ -73,10 +73,6 @@ The wall
 -   A zipline can be found near the Antiquarian, which is used as a shortcut to the docks.
 -   Up in the mountains, (climb from the bottom of temple via trees) there is a zipline. This zipline will lead to a mountain, where a chest usually spawns up there.
 -   Taking the zipline near the mantra shop leads you to a sword needed to complete [Nanji's](Nanji.md) Quest.
-
-File:Unknownzipline.png
-
-The zipline to the mountain.
 
 ## Missions
 

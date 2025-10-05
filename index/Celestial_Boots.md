@@ -1,9 +1,9 @@
 ---
 title: Celestial Boots
-revid: 161607
+revid: 163887
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Legs, Boots, Items, Equipment, Craftable]
+categories: [Legs, Boots, Items, Equipment, Craftable]
 ---
 
 # Celestial Boots
@@ -37,12 +37,3 @@ You can obtain the recipe of the Celestial boots from killing [Moon Knights](Moo
 Celestial Boots are obtained by crafting the following items together at [The Cold Forge](The_Cold_Forge.md):
 
 1.  1 [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
-
-## Trivia
-
--   Cannot be enchanted, but can be dropped and banked.
--   According to testers there is a small chance of it being enchanted when crafted.
-
-## References
-
-File:CosmicConfirmingWeCanSomehowEnchantCelestialBoots.png

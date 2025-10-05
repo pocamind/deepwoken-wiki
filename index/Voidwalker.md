@@ -1,8 +1,9 @@
 ---
 title: Voidwalker
-revid: 151227
+revid: 163877
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Origins, Character]
 ---
 
 # Voidwalker

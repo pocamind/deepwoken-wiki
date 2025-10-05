@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 163829
+revid: 163884
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
