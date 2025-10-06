@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 164106
+revid: 164224
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -28,6 +28,8 @@ Santen is located inside of a building at [Fort Merit](Fort_Merit.md), close to 
 
 **Player is an Authority Ensign:**
 
+**Player is under no division:**
+
 <table>
 <tbody>
 <tr>
@@ -48,7 +50,63 @@ Santen is located inside of a building at [Fort Merit](Fort_Merit.md), close to 
 </tbody>
 </table>
 
+**Player is under Inquisitor division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*She pauses at your approach, a little stilted.*</i> If Jericho's sent you, Warrant Officer, the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Shock Trooper division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 **Player is not an Authority Ensign:**
+
+**Good Reputation with The Central Authority:**
 
 <table>
 <tbody>
@@ -60,6 +118,22 @@ Santen is located inside of a building at [Fort Merit](Fort_Merit.md), close to 
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Fear not, my lovely comrades! I will dispatch of this villain! Huuu-<i>RRAH</i>!</td>
+</tr>
+<tr>
+  <td>End, player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164178
+revid: 164283
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4077,6 +4077,11 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
     -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
 
+-   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
+    -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
+    -   The teleport has a range limit.
+    -   20 second cooldown.
+
 -   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 10 seconds.
     -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their passive posture recovery by ?% for 10 seconds.
 
@@ -4097,6 +4102,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
     -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
     -   Angels will still aggro onto you while you have this Talent.
+-   Battle-Hardened: [Shock Corps Light](Shock_Corps_Light.md) - Reduce how much damage you take from mantra guardbreaks by 20%.
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 -   Blinded: [Blindfold](Blindfold.md) & Variants - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
@@ -4178,6 +4184,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Halves the maximum duration of Burn.
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed in increased.
 -   Legendary: [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
+-   Lethal Dose: [Inquisition Light](Inquisition_Light.md) - The poison from your hidden blade lasts twice as long.
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
     -   This affects:
         -   Turning in [Artifacts](Artifacts.md) at a banker,

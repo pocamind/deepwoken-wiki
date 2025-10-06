@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 161845
+revid: 164248
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -97,7 +97,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td></td>
   <td><a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a></td>
   <td><a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a></td>
-  <td><a href="Authority_Commander.md">Authority Commander</a></td>
+  <td><a href="Authority_Commander.md">Authority Commander</a>, <a href="Inquisition_Light.md">Inquisition Light</a>, <a href="Shock_Corps_Light.md">Shock Corps Light</a></td>
 </tr>
 <tr>
   <td><b><a href="The_Divers.md">The Divers</a></b></td>

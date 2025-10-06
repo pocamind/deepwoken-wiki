@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 163965
+revid: 164205
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -28,6 +28,8 @@ Yakob is located inside of the Three Cheers Bar at Port Merit.
 
 **Player is an Authority Ensign:**
 
+**Player is under no division:**
+
 <table>
 <tbody>
 <tr>
@@ -41,6 +43,60 @@ Yakob is located inside of the Three Cheers Bar at Port Merit.
 </tr>
 <tr>
   <td>Mm. It's been a while since we've had a ship of new recruits in. Warden did some pruning of the guard here - thought some of us would serve better on the frontline. Almost jealous I didn't get picked, but marching across sand all day in full kit sounds much worse than a trip to the Sawbones. Soon as you lot pulled up at the dock, there was an uproar - I swear, I don't think I've ever seen the folks here be this happy.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Leadership giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Inquisitor division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Shock Trooper division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>

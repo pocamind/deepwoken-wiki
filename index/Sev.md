@@ -1,9 +1,9 @@
 ---
 title: Sev
-revid: 163585
+revid: 164208
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Vendors]
+categories: [Ganymede NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Sev
@@ -36,7 +36,8 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Gwoh hoh hoh hoh! My my my, for a few Crowns I could make you the talk of the <a href="Glossary.md#the-luminants">Luminant</a>!</td>
+  <td colspan="12">Gwoh hoh hoh hoh! My my my, for a few Crowns I could make you the talk of the <a href="Glossary.md#the-luminants">Luminant</a>!<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td colspan="6">[Purchased Something]</td>
@@ -91,6 +92,23 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
 <tr>
   <td colspan="4"></td>
   <td colspan="8">End</td>
+</tr>
+</tbody>
+</table>
+
+## Shop
+
+Sev's Boutique
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>1 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
+  <td><div>Dye Packet</div><div><i>A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
+  <td><div>Manycolored Equipment</div><div><i>Permanently unlocks the ability to edit your Equipment's Colors freely</i></div></td>
 </tr>
 </tbody>
 </table>

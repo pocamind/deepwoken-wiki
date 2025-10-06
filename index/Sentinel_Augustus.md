@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 164182
+revid: 164219
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -30,7 +30,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **Player is an Authority Ensign:**
 
-**Player is under Leadership Division:**
+**Player is under Inquisitor division:**
 
 <table>
 <tbody>
@@ -38,13 +38,32 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*Noticing your presence, Sentinel Augustus immediately jumps to attention, as you both exchange stiff salutes. There's a look of excitement on his face.*</i> At ease! Do you bring news from Warden Jericho, [Player's Rank]? Are we finally mustering to march on the enemy?..</td>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*Noticing your presence, Sentinel Augustus immediately jumps to attention, as you both exchange stiff salutes. There's a look of excitement on his face.*</i> At ease! Do you bring news from Warden Jericho, Warrant Officer? Are we finally mustering to march on the enemy?..</td>
 </tr>
 <tr>
   <td>Uh... No, Sentinel, I'm sorry to say.</td>
 </tr>
 <tr>
-  <td>No?.. Is that so?.. Oh... <i>*His expression looks as if you just told him Kyrsmas isn't real. He turns to his aide-de-camp, who looks just as dejected as the Sentinel.*</i> Myself and Interceptor Steel though... <i>*He shakes his head.*</i> Ah, nevermind that. Hey, listen, solider, if you do hear news of action, I ask that you tell the Shock Corps first, alright? We'll hit 'em where it hurts!</td>
+  <td>No?.. Is that so?.. Oh... <i>*His expression looks as if you just told him Kyrsmas isn't real. He turns to his aide-de-camp, who looks just as dejected as the Sentinel.*</i> Myself and Interceptor Steel though... <i>*He shakes his head.*</i> Ah, nevermind that. Hey, listen, solider, if you <i>do</i> hear news of action, I ask that you tell the Shock Corps <i>first</i>, alright? We'll <b>hit 'em where it hurts</b>!</td>
 </tr>
 <tr>
   <td>End</td>
@@ -52,26 +71,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tbody>
 </table>
 
-**Player is under Inquisitor Division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Player is under Shock Trooper Division:**
+**Player is under Shock Trooper division:**
 
 <table>
 <tbody>
@@ -92,6 +92,8 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **Player is not an Authority Ensign:**
 
+**Good Reputation with The Central Authority:**
+
 <table>
 <tbody>
 <tr>
@@ -102,6 +104,22 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>You must think yourself <i>*real*</i> sneaky, huh? Tsch. It's only too bad you ran straight into <b>me</b>, chump.</td>
+</tr>
+<tr>
+  <td>End, player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>

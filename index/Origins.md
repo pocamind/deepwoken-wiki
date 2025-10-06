@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 164161
+revid: 164188
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation, Origins]
@@ -172,7 +172,12 @@ Ascend through the Authority's ranks, choose a division, and unlock unique abili
     -   You spawn at Fort Merit
     -   You have access to the weapon shop within Fort Merit
     -   Squad system allowing you to team up with other players
-    -   For that file, you are forcibly placed in the Central Authority guild (only affects that slot, not others)
+    -   For that file, you are forcibly placed in the Central Authority guild (only affects slots that use the origin)
+        -   If you get exiled, you will be placed back in your original guild
+        -   Charm of dwelling/dwelling charm wont do anything (the authories dont have a guild base)
+    -   If you leave their territory for over 15 minutes (some exceptions)
+        -   Reputation with Central Authorities is set to villan, presumably lose access to shops/items you would have access to normally.
+        -   Increase your rep with Etrea to Enemy (i think)
 -   Grants the Innate Talent "Horn of Authority"
     -   Grants a horn that when blown marks escaped prisoners.
 -   You have unique dialogue with some NPCs.

@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 162652
+revid: 164213
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
@@ -45,7 +45,6 @@ Potential Rewards
   <ul>
     <li><b><font>Head</font></b>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>.</li>
     <li><b><font>Arms</font></b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Star_Duster.md">Star Duster</a>.</li>
-    <li><b><font>Legs</font></b>: <a href="Star_Boots.md">Star Boots</a>.</li>
     <li><b><font>Face</font></b>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a>.</li>
     <li><b><font>Rings</font></b>: <a href="Akira's_Ring.md">Akira's Ring</a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Maestro's_Ring.md">Maestro's Ring</a>, <a href="Prophet's_Ring.md">Prophet's Ring</a>.</li>
   </ul></td>

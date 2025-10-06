@@ -1,0 +1,48 @@
+---
+title: Shock Corps Light
+revid: 164246
+source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Outfits, Master Outfits, The Central Authority]
+---
+
+# Shock Corps Light
+
+| Shock Corps Light | |
+|---|---|
+| tier | Master |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Might Gem, x5 Spark Gland, x5 Vibrant Gem |
+| price | TBA |
+| stat_req | Power Level 15 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 3500 |
+| resistances | 30% Physical Armor, 30% Elemental Armor, 10% Fire Armor, 10% Ice Armor, 10% Lightning Armor |
+| buffs | +15% Ether Regen |
+| talents | Battle-Hardened |
+| obtainment | Authority Ensign, Shock Trooper Corps Division |
+| selling_price | 10 |
+| weight | 1 |
+
+**Shock Trooper Light** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive the the [Authority Ensign](Authority_Ensign.md) Origin.
+
+## Statistics
+
+### _Requirements_
+
+This Outfit and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Might Gem](Might_Gem.md), five (5) [Spark Glands](Spark_Gland.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
+
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
+
+### _Armor Stats_
+
+This Outfit has 3500 durability and grants +30% Physical resistance, +30% Elemental resistance, +10% Fire resistance, +10% Ice resistance, +10% Lightning resistance, and +15% Ether Regen.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 37% Flamecharm, 37% Frostdraw, 37% Thundercall, and 30% Elemental.
+
+The [Battle-Hardened](Talents.md#equipment-talents) Talent grants 20% damage reduction to Mantra guardbreaks.
+
+## Trivia
+
+-   Despite the Power and crafting requirements, this Outfit will be automatically equipped upon joining the Shock Trooper Corps Division.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/123971861365155/Shock-Corps-Shirt-Red) / [Pants](https://www.roblox.com/catalog/72959915619973/Shock-Corps-Pants)

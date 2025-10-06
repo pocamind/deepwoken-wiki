@@ -1,6 +1,6 @@
 ---
 title: Lucien
-revid: 131741
+revid: 164287
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -20,7 +20,9 @@ categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 
 ## Dialogue
 
-**Initial encounter:**
+**First Encounter:**
+
+**Quest Start:**
 
 <table>
 <tbody>
@@ -55,12 +57,12 @@ categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
   <td colspan="12">YEAH! Go on in there, come back to me when they're <i>PURGED</i>. My meemaw's got somethin' for 'ya.</td>
 </tr>
 <tr>
-  <td colspan="12">End (Quest begin)</td>
+  <td colspan="12">End, quest begins</td>
 </tr>
 </tbody>
 </table>
 
-**Subsequent encounters:**
+**Quest End:**
 
 <table>
 <tbody>
@@ -78,6 +80,22 @@ categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 </tr>
 <tr>
   <td colspan="12">End (Talent obtained)</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">I won't forget you, partner. I can't wait to tell pa all about this!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

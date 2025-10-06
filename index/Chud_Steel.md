@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 164180
+revid: 164220
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -30,7 +30,68 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 
 ## Dialogue
 
+**Player is an Authority Ensign:**
+
+**Player is under Inquisitor division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Shock Trooper division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 **Player is not an Authority Ensign:**
+
+**Good Reputation with The Central Authority:**
 
 <table>
 <tbody>
@@ -42,6 +103,22 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Fear not, my lovely comrades! I will dispatch of this villain! Huuu-<i>RRAH</i>!</td>
+</tr>
+<tr>
+  <td>End, player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>

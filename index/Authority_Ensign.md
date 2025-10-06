@@ -1,9 +1,9 @@
 ---
 title: Authority Ensign
-revid: 164177
+revid: 164288
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Character, Origins]
+categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -28,7 +28,9 @@ Your guild will be automatically set to The Central Authority on that character,
 
 ### Horn of the Authority
 
-When blown, you will mark escaped prisoners.
+Gain a Talent Tool horn. When blown, you will mark escaped prisoners.
+
+Most Authority NPCs will Salute you when you reach the first rank of a division, when you pass by them
 
 ## Squads
 
@@ -38,11 +40,17 @@ Being in a squad allows you to proc certain Authority Ensign Talents and allows 
 
 ## Exile
 
-If you are out of Authority territory while not on an active Mission, a **fifteen minute' _AWOL countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, immediately be setting your Authority reputation to '_** and you will be kicked out of the Central Authority guild. All bonuses from this Origin will be removed.
+Upon being exiled from the [Central Authority](The_Central_Authority.md), your authority reputation will be immediately set to '**_, and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. There are two ways to be exiled:_**
+
+### Deserter
+
+If you are out of Authority territory while not on an active Mission, a **fifteen minute** AWOL countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, exiling you from the Central Authority.
 
 The AWOL timer will reset if you leave the game, restarting from 15 minutes once you rejoin. Additionally, the timer will not appear if you are a part of a Division, if you are in a [Dungeon](Dungeons.md), or if you are in [the Depths](The_Depths.md).
 
-Similarly, if you kill another Authority Ensign member, you will be marked as a traitor. This has the same effects as being a deserter.
+### Traitor
+
+Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in the [Chime of Conflict](Chime_of_Conflict.md) and other non-overworld locations.
 
 ## Progression
 
@@ -66,16 +74,17 @@ Leaving the game will forfeit your Mission without it being counted as "failed,"
 
 Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards. Promotion points are reset upon being promoted.
 
-1.  **Private**
-    -   This is the standard rank that is granted upon obtaining the Origin.
+-   **Enlistment Ranks**
 
-\[Promotion info TBA\]
+1.  Private (PVT) This is the standard rank that is granted upon obtaining the Origin.
+2.  Corporal (CPL) The 2nd rank granted after reaching 155 promotion points.
+3.  Lance Corporal (LCPL) The Highest of the Enlisted ranks after reaching 215 promotion points. Allows you to join one of the Divisions; Shock Trooper Corp, Leadership, or Inquisition.
 
 ### Divisions
 
 Upon reaching the Lance Corporal rank and meeting the stat requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md) and [Talents](Talents.md).
 
-Each Division is unique in themes and gameplay, offering many avenues of gameplay and build diversity. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please.
+Each Division is unique in their themes, offering many avenues of gameplay and build diversity. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please.
 
 Once you choose a Division, you cannot go back.
 
@@ -86,6 +95,8 @@ A division focused on backstabs and assassination.
 -   Obtainment
     -   Requirements - TBA
     -   Reach Lance Corporal rank and speak to [High Inquisitor Merey](High_Inquisitor_Merey.md).
+-   Promotions
+    -   Lance Corporal -> TBA
 -   Benefits
     -   [Inquisition Light](Inquisition_Light.md) Master Armor
     -   Exclusive Division Talents; [see below](#inquisition-division-talents)
@@ -97,6 +108,9 @@ A division focused on leadership and support.
 -   Obtainment
     -   Requirements - TBA
     -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
+-   Promotions
+    -   Lance Corporal -> Warrant Officer
+    -   Warrant Officer -> Captain: 329 promotion points
 -   Benefits
     -   Exclusive Division Talents; [see below](#leadership-division-talents)
 
@@ -107,6 +121,8 @@ A division focused on posture damage.
 -   Obtainment
     -   Requirements - TBA
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
+-   Promotions
+    -   Lance Corporal -> TBA
 -   Benefits
     -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor
     -   [Duskguard Axe](Duskguard_Axe.md)
@@ -157,22 +173,24 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   _Amp Overdrive_ - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
 
--   _Martial Brutality_ - The less health your opponent has, the most posture damage you deal to them.
+-   _Martial Brutality_ - The less health your opponent has, the more posture damage you deal to them.
 
--   _Shocking Reverb_ - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+-   _Shocking Reverb_ - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [Ironsing](Ironsing.md). \[2 min CD\]
 
 ## Pros and Cons
 
 ### Pros
 
--   All Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
+-   Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
 -   You will be automatically allied with everyone else who has the Authority Ensign Origin.
 -   Origin-exclusive Talents through the promotion system.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
+-   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory.
 
 ### Cons
 
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md).
+-   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. This restriction will be removed if you become a Traitor or a Deserter.
 
 ## Reputation
 

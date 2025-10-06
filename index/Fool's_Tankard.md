@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 163912
+revid: 164259
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Daggers, Light Weapons]
@@ -32,4 +32,4 @@ notices:
 
 ## Description
 
-**Fool's Tankard** is a Light Weapon that requires 40 LHT to use. It has ? LHT scaling, 4.5 weight, 5.8 range, and 1.24x Swing Speed, and a base damage of 10.
+**Fool's Tankard** is a Light Weapon that requires 40 LHT to use.

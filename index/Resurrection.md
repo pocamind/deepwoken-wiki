@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 158708
+revid: 164284
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -68,3 +68,4 @@ When obtained, Resurrection will spend its points on the following stats:
 -   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally.
 -   The second bell with a passive ability, the other being [Jar of Souls](Jar_of_Souls.md).
 -   Does not stack with talents like polite awakening.
+-   It is highly likely this Resonance references [Gill's Super Art of the same name from Street Fighter 3: Third Strike](https://youtu.be/bs8R4KZBmTs) due to the striking similarity in animation and obvious namesake association.

@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 164124
+revid: 164223
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Lore figures, Military personnel of The Central Authority]
@@ -36,7 +36,77 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 ## Dialogue
 
+**Player is an Authority Ensign:**
+
+**Player is under Inquisitor division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, Warrant Officer [Player's Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
+</tr>
+<tr>
+  <td>Could you tell me more about the Command division?</td>
+</tr>
+<tr>
+  <td>Drill Sergeant Kernel Senior will have given you a basic explanation of each division, I'm sure. But to elaborate on what you know, the Command division if the mind which guides the body of the <a href="Glossary.md#the-central-authority">Authority</a>. The position of an Officer demands steeled, calculated thought. You must understand not only strategic thinking and tactical methodology, but also the comrades who serve under your command - for it is your job to guide them on the field, as well as on home ground.</td>
+</tr>
+<tr>
+  <td>I think that's all, thank you Warden.</td>
+</tr>
+<tr>
+  <td><i>*You exchange salutes once more.*</i> Very well. You may return to your duties, Warrant Officer [Player's Last Name]. I expect you to report to me once again soon enough. In the meantime, you will perform the tasks demanded of you by your position with utmost diligence. You may be dismissed.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Shock Trooper division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 **Player is not an Authority Ensign:**
+
+**Good Reputation with The Central Authority:**
 
 <table>
 <tbody>
@@ -48,6 +118,22 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Hmpf. I'm impressed you've made it this far. Unfortunately for you... This is where your journey ends, interloper..</td>
+</tr>
+<tr>
+  <td>End, player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>

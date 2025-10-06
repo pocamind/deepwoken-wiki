@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 164141
+revid: 164225
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -136,7 +136,7 @@ Dialogue: [Calamus](Calamus.md), [Hector](Hector.md), [Journal of Warden Jericho
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ## Notable Figures
 
