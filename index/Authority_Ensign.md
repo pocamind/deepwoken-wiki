@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164288
+revid: 164315
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -26,11 +26,11 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or become a deserter.
 
+If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
+
 ### Horn of the Authority
 
-Gain a Talent Tool horn. When blown, you will mark escaped prisoners.
-
-Most Authority NPCs will Salute you when you reach the first rank of a division, when you pass by them
+Gain a Talent Tool horn that marks escaped prisoners when blown.
 
 ## Squads
 
@@ -40,7 +40,7 @@ Being in a squad allows you to proc certain Authority Ensign Talents and allows 
 
 ## Exile
 
-Upon being exiled from the [Central Authority](The_Central_Authority.md), your authority reputation will be immediately set to '**_, and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. There are two ways to be exiled:_**
+Upon being exiled from the [Central Authority](The_Central_Authority.md), your authority reputation will be immediately set to '**_, and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. Upon being exiled, there is no way to return to the Authority's ranks. There are two ways to be exiled:_**
 
 ### Deserter
 
@@ -74,17 +74,19 @@ Leaving the game will forfeit your Mission without it being counted as "failed,"
 
 Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards. Promotion points are reset upon being promoted.
 
--   **Enlistment Ranks**
+Enlistment Ranks
 
-1.  Private (PVT) This is the standard rank that is granted upon obtaining the Origin.
-2.  Corporal (CPL) The 2nd rank granted after reaching 155 promotion points.
-3.  Lance Corporal (LCPL) The Highest of the Enlisted ranks after reaching 215 promotion points. Allows you to join one of the Divisions; Shock Trooper Corp, Leadership, or Inquisition.
+1.  Private (PVT); This is the standard rank that is granted upon obtaining the Origin.
+2.  Corporal (CPL); The 2nd rank granted after reaching 155 promotion points.
+3.  Lance Corporal (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points. Allows you to join one of the Divisions: Shock Trooper Corp, Leadership, or Inquisition.
 
 ### Divisions
 
 Upon reaching the Lance Corporal rank and meeting the stat requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md) and [Talents](Talents.md).
 
 Each Division is unique in their themes, offering many avenues of gameplay and build diversity. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please.
+
+Most Authority NPCs will salute you when you approach them after joining a Division.
 
 Once you choose a Division, you cannot go back.
 
@@ -93,10 +95,12 @@ Once you choose a Division, you cannot go back.
 A division focused on backstabs and assassination.
 
 -   Obtainment
-    -   Requirements - TBA
+    -   Requirements - 10 solo missions
     -   Reach Lance Corporal rank and speak to [High Inquisitor Merey](High_Inquisitor_Merey.md).
 -   Promotions
-    -   Lance Corporal -> TBA
+    -   Lance Corporal -> Inquisitor
+    -   Inquisitor -> Inquisitor 1st Class | ? promotion points
+    -   Inquisitor 1st Class -> Handler | ? promotion points
 -   Benefits
     -   [Inquisition Light](Inquisition_Light.md) Master Armor
     -   Exclusive Division Talents; [see below](#inquisition-division-talents)
@@ -110,11 +114,13 @@ A division focused on leadership and support.
     -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
 -   Promotions
     -   Lance Corporal -> Warrant Officer
-    -   Warrant Officer -> Captain: 329 promotion points
+    -   Warrant Officer -> Captain | 329 promotion points
+    -   Captain -> Commander | 388 promotion points
+    -   Commander -> Seneschal | ? promotion points
 -   Benefits
     -   Exclusive Division Talents; [see below](#leadership-division-talents)
 
-#### Shock Corps Division
+#### Shock Trooper Corps Division
 
 A division focused on posture damage.
 
@@ -122,11 +128,13 @@ A division focused on posture damage.
     -   Requirements - TBA
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
-    -   Lance Corporal -> TBA
+    -   Lance Corporal -> Frontliner
+    -   Frontliner -> Interceptor |? promotion points
+    -   Interceptor -> Operator | ? promotion points
 -   Benefits
     -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor
     -   [Duskguard Axe](Duskguard_Axe.md)
-    -   Exclusive Division Talents; [see below](#shock-corps-division-talents)
+    -   Exclusive Division Talents; [see below](#shock-trooper-corps-division-talents)
 
 ### Promotion Talents
 
@@ -149,7 +157,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 #### Inquisition Division Talents
 
--   _Exicutioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+-   _Executioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 
 -   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier and a base +20% stealth.
@@ -165,7 +173,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 -   _Target Focus_ - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
-#### Shock Corps Division Talents
+#### Shock Trooper Corps Division Talents
 
 -   _Absolute Force_ - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
     -   Prerequisites: Oppressive Force
@@ -175,7 +183,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 -   _Martial Brutality_ - The less health your opponent has, the more posture damage you deal to them.
 
--   _Shocking Reverb_ - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [Ironsing](Ironsing.md). \[2 min CD\]
+-   _Shocking Reverb_ - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
 
 ## Pros and Cons
 
@@ -191,6 +199,9 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md).
 -   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. This restriction will be removed if you become a Traitor or a Deserter.
+-   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased.
+    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md)).
+    -   This con will be removed if you get Exiled from the Central Authority.
 
 ## Reputation
 

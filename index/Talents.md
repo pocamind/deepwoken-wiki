@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164283
+revid: 164301
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1097,10 +1097,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Dread Imperium
 
 -   _Officer's Training_ \[Origin Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from critical.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Leadership Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Leadership Division
 
 -   _Target Focus_ \[Origin Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Leadership Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Leadership Division
 
 ### Drowned Secret
 
@@ -1870,19 +1870,19 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Inquisitive Lethality
 
--   _Exicutioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+-   _Executioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
 
 -   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier and a base +20% stealth.
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   _Flanking Maneuvers_ - Enemies you assassinate take more PEN from your squadmates in your party.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   _Stature Break_ - Landing a backstab of any kind disables posture for 8 seconds.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 ### Ironsinger
 
@@ -2427,17 +2427,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Operator's Technique
 
 -   _Absolute Force_ \[Origin Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division, Oppressive Force
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division, Oppressive Force
 
 -   _Amp Overdrive_ \[Origin Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the guardbreak stun duration from 1.05 seconds to 2.1 seconds.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division
 
--   _Martial Brutality_ \[Origin Exclusive\] - The less health your opponent has, the most posture damage you deal to them.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division
+-   _Martial Brutality_ \[Origin Exclusive\] - The less health your opponent has, the more posture damage you deal to them.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division
 
 -   _Shocking Reverb_ \[Origin Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division
 
 ### Outlaw
 

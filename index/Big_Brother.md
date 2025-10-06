@@ -1,9 +1,9 @@
 ---
 title: Big Brother
-revid: 164282
+revid: 164314
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Light Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
+categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, Weapons with Unique Criticals]
 ---
 
 # Big Brother
@@ -45,4 +45,4 @@ The critical has a cooldown of **? seconds**.
 
 ## Trivia
 
--   The name is a flat out reference to the fictional character "Big Brother," from the _Nineteen Eighty-Four_ book, signifying the concept of constant, oppressive governmental or authoritative surveillance and control over a population.
+-   Its name is a direct reference to the fictional character "Big Brother" from the novel _Nineteen Eighty-Four_ by George Orwell, signifying the concept of constant, oppressive governmental or authoritative surveillance and control over a population.

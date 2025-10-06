@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 164188
+revid: 164312
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation, Origins]
@@ -161,23 +161,22 @@ You can do Trial of One as an Ignition Delver.
 
 ## Authority Ensign
 
-**_Obtainment_:** Defeat Titus or obtain Hero reputation with the Central Authority to unlock.
+**_Obtainment_:** Defeat [Titus](Titus_Fulminus_Destellus.md) or obtain Hero reputation with the Central Authority to unlock.
 
 Ascend through the Authority's ranks, choose a division, and unlock unique abilities and gear.
 
--   Your starting reputations are:
-    -   Ally with The Central Authority, Friend with Lost Celtor, Divers, and The Ignition Union.
-    -   Hunted by Etrea and The Children of Navae, Enemy of The Ministry and The Hundred Legions.
+-   Your starting [reputations](Reputation.md) are:
+    -   Ally with The Central Authority, Friend with [Lost Celtor](Lost_Celtor.md), [Divers](The_Divers.md), and [The Ignition Union](The_Ignition_Union.md).
+    -   Hunted by [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md), Enemy of [The Ministry](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md).
 -   Grants the Innate Talent "Authority Ensign"
-    -   You spawn at Fort Merit
+    -   You spawn at [Fort Merit](Fort_Merit.md)
     -   You have access to the weapon shop within Fort Merit
     -   Squad system allowing you to team up with other players
     -   For that file, you are forcibly placed in the Central Authority guild (only affects slots that use the origin)
         -   If you get exiled, you will be placed back in your original guild
-        -   Charm of dwelling/dwelling charm wont do anything (the authories dont have a guild base)
+        -   Charm of dwelling/dwelling charm wont do anything (The Central Authority doesn't have a guild base)
     -   If you leave their territory for over 15 minutes (some exceptions)
-        -   Reputation with Central Authorities is set to villan, presumably lose access to shops/items you would have access to normally.
-        -   Increase your rep with Etrea to Enemy (i think)
+        -   Reputation with The Central Authority will be set to villain, kicking you out of the origin and stripping you of all its benefits.
 -   Grants the Innate Talent "Horn of Authority"
     -   Grants a horn that when blown marks escaped prisoners.
 -   You have unique dialogue with some NPCs.
