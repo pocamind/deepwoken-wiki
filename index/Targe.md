@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 163979
+revid: 164087
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -20,7 +20,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Etris Weaponry, Erisia, The Depths |
+| obtainment | Sold at Etris Weaponry for 15 , Sold by Armorer for 15 , Erisia, The Depths |
 | description | A round, wooden shield often accompanied by spear or short blade. |
 
 ## Description

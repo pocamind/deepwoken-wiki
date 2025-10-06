@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 163893
+revid: 164161
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mechanics, Creation, Origins]
@@ -161,7 +161,23 @@ You can do Trial of One as an Ignition Delver.
 
 ## Authority Ensign
 
-**_Obtainment_:** Defeat Titus or obtain Hero reputation with the Central Authority to unlock Ascend through the Authority's ranks, choose a division, and unlock unique abilities and gear
+**_Obtainment_:** Defeat Titus or obtain Hero reputation with the Central Authority to unlock.
+
+Ascend through the Authority's ranks, choose a division, and unlock unique abilities and gear.
+
+-   Your starting reputations are:
+    -   Ally with The Central Authority, Friend with Lost Celtor, Divers, and The Ignition Union.
+    -   Hunted by Etrea and The Children of Navae, Enemy of The Ministry and The Hundred Legions.
+-   Grants the Innate Talent "Authority Ensign"
+    -   You spawn at Fort Merit
+    -   You have access to the weapon shop within Fort Merit
+    -   Squad system allowing you to team up with other players
+    -   For that file, you are forcibly placed in the Central Authority guild (only affects that slot, not others)
+-   Grants the Innate Talent "Horn of Authority"
+    -   Grants a horn that when blown marks escaped prisoners.
+-   You have unique dialogue with some NPCs.
+
+More info on the [Authority Ensign](Authority_Ensign.md) page.
 
 ## Upcoming Origins
 
@@ -193,7 +209,7 @@ You can do Trial of One as an Ignition Delver.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[2\]](#cite-note-2)
 -   With the Deepbound and Voidwalker origins having contract Talents to factions belonging to The Divers and The Knives of Eylis faction respectively, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority) that they will also contain contract based Talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
--   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you. However, in some cases, it is simply better to go Stealth in places where the outline from Ferocity would be too difficult to see anyways, such as Minitrysa.
+-   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you.
 -   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. It doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
 -   Despite the Summer Company and the Ignition Union's rivalry, Summer Company NPCs won't react any differently if you are an Ignition Delver.

@@ -1,6 +1,6 @@
 ---
 title: Scope
-revid: 153055
+revid: 164138
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the Eastern Luminant, The Summer Company]
@@ -26,7 +26,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 
 ## Dialogue
 
-**First interaction:**
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -41,7 +41,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
   <td colspan="2">Any reason you guys don't expand to the Driftland?</td>
 </tr>
 <tr>
-  <td colspan="2">Yeah, out in the wilderness nearby bandits and Union member keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td>
+  <td colspan="2">Yeah, out in the wilderness nearby bandits and Union members keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td>
   <td colspan="2">This place is a war zone. Etrea and the <a href="Glossary.md#the-central-authority">Authority</a> use it as a middle-ground for this conflict of theirs. At the rate it's going, it could last for years. I wouldn't call it a very lucrative mining spot.</td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 </tbody>
 </table>
 
-**Giving Explosive Crate:**
+**Turning in Explosive Crate:**
 
 <table>
 <tbody>
@@ -69,12 +69,6 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 </tr>
 <tr>
   <td>[See first instance]</td>
-</tr>
-<tr>
-  <td>Sounds Good.</td>
-</tr>
-<tr>
-  <td>End</td>
 </tr>
 </tbody>
 </table>

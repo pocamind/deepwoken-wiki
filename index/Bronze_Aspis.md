@@ -1,6 +1,6 @@
 ---
 title: Bronze Aspis
-revid: 164040
+revid: 164058
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, Authority Faction Item]
@@ -20,7 +20,7 @@ categories: [Weapons, Shields, Offhand, Authority Faction Item]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aratel Sea events, Deep Crucible, Erisia, Sold by Traan Zakshun for 100 , Fort Merit Armory for 20 |
+| obtainment | Aratel Sea events, Deep Crucible, Erisia, Sold by Traan Zakshun for 100 , Fort Merit Armory for 20 (Authority Ensign exclusive) |
 | description | A round, wooden shield often accompanied by spear or shortblade. |
 
 ## Description

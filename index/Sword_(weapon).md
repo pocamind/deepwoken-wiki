@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 164020
+revid: 164095
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Etris, Fort Merit for 30 |
+| obtainment | Character Creation, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 30 (Authority Ensign exclusive) |
 | description | A blade of fine craft, likely an heirloom of whoever held the blade before it was pilfered from their remains. |
 
 ## Description

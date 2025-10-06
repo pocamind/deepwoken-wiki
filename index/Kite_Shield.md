@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 163981
+revid: 164104
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, Authority Faction Item]
@@ -20,12 +20,12 @@ categories: [Weapons, Shields, Offhand, Authority Faction Item]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia (Chests), Artifacts, Meteor Isle (Blacksmith) |
+| obtainment | Erisia (Chests), Artifacts, Sold at Meteor Isle Blacksmith for 30 , Sold at Fort Merit Armory for 60 (Authority Ensign exclusive) |
 | description | A fine shield to hold back the horrors of the world. |
 
 ## Description
 
-A Kite Shield is a side weapon under the “Shield” category and can be obtained through chests in [Erisia](Erisia.md).
+A Kite Shield is a side weapon under the “Shield” category.
 
 ## Notes
 

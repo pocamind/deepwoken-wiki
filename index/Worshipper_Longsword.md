@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 162200
+revid: 164125
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -28,7 +28,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in: , Minityrsa, Deep Widow, Lodestar, Songseeker Wilds, Dread SerpentPurchased in:, Miner's Landing |
+| obtainment | Chests in: , Minityrsa, Deep Widow, Lodestar, Songseeker Wilds, Dread Serpent, Sold at Fort Merit Armory for 30 (Authority Ensign exclusive), Sold at Miner's Landing for 30 |
 | description | A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from. |
 
 ## Description

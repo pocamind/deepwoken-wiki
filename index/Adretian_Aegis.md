@@ -1,6 +1,6 @@
 ---
 title: Adretian Aegis
-revid: 164038
+revid: 164041
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Authority Faction Item, Shields]
@@ -20,7 +20,7 @@ categories: [Weapons, Authority Faction Item, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Fort Merit Armory for 100 (Authority Ensign Exclusive) |
+| obtainment | Fort Merit Armory for 100 (Authority Ensign exclusive) |
 | description | A sturdy shield, traditionally crafted to suit the rank of it's holder. |
 
 ## Description

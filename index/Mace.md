@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 157473
+revid: 164102
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Weapon Shop in Etris, Erisia chests |
+| obtainment | Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Erisia chests |
 | description | A simple blunt weapon effective at breaking guards. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Bluecap
-revid: 152755
+revid: 164154
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -10,6 +10,13 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 
 | Bluecap | |
 |---|---|
+| value | N/A |
+| weight | 1 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A strange mushroom with the ability to grant incredible knowledge. |
 
 ## Description
 

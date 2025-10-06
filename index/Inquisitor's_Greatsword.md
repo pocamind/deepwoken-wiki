@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 163968
+revid: 164048
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents, Authority Faction Item]
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents, Authorit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rogue Construct, Crypt of the Unbroken, Merchant Ships |
+| obtainment | Rogue Construct, Crypt of the Unbroken, Merchant Ships, Fort Merit Armory for 90 (Authority Ensign exclusive) |
 | description | ... |
 
 ## Description

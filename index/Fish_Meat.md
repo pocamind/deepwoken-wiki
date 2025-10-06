@@ -1,6 +1,6 @@
 ---
 title: Fish Meat
-revid: 161345
+revid: 164152
 source: https://deepwoken.fandom.com/wiki/Fish_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Items, Ingredients, Alchemy]
@@ -11,7 +11,7 @@ categories: [Food, Items, Ingredients, Alchemy]
 | Fish Meat | |
 |---|---|
 | value | N/A |
-| weight | 0.3 |
+| weight | 0.25 |
 | stack | x99 |
 | type | Ingredient |
 | food type | Meat |

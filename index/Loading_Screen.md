@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 163674
+revid: 164175
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -132,3 +132,117 @@ You can see how much Armor Resistance you have total in your Journal.
 -   Those that Drown and wish to escape must seek out the Cathedral of the Interstice where a trial awaits them...
 -   Expeditions into the frozen wastes of Minityrsa suggest that the Ministry may have unearthed some form of ritual site. Those who seek a challenge might seek it out.
 -   Those who wish to hone their skills in combat may find what they seek by speaking with Yamaketzal, a mysterious Capra who hangs around the Songseeker Wilds in the Eastern Luminant. With his help, warriors will find their mettle tested against many other warriors from distant lands.
+
+## Loading Failed
+
+When the game fails to load in properly a hidden loading screen appears.
+
+### Stage 1
+
+Uh oh. Where's the game?
+
+This can't be good.
+
+Games are supposed to _work_. Game are supposed to let you _play_ them.
+
+...Probably won't be broken forever though, right?
+
+Like they've probably got a guy for this, right?
+
+Man.
+
+### Stage 2
+
+Dialogue Changes: Huh? Still no dice?
+
+Maybe if we wait 30 seconds longer some suggestions for games to play while we wait will start scrolling down on the screen.
+
+Games do that kinda thing nowadays, apparently.
+
+As if the game breaking wasn't enough.
+
+### Stage 3
+
+Games will start to appear from the screen. The list of games that make an appearance are:
+
+-   A Hat in Time
+-   Abyss World
+-   Airship Assault
+-   Animal Crossing: New Leaf
+-   Baba Is You
+-   Backgammon
+-   Bad Business
+-   Barotrauma
+-   Battleblock Theatre
+-   Castle Crashers
+-   Celeste
+-   Checkers
+-   Citizen Sleeper
+-   CONE
+-   CRAZY HORSE GAME 🐴
+-   Crypt of the Necrodancer
+-   Deep Rock Galactic
+-   Deltarune
+-   Doors
+-   Don't play ABA please (ABA)
+-   Don't Starve Together
+-   Dredge
+-   Dwarf Fortress
+-   Final Fantasy VII
+-   Find Everything
+-   FPS Chess
+-   Goose Goose Duck
+-   Hades I & II
+-   Halo 3
+-   Halo 3 ODST
+-   Halo Reach
+-   Hello Kitty Island Adventure
+-   Hollow Knight
+-   Hollow Knight: Silksong
+-   Inscryption
+-   Isle
+-   Kingdom Series
+-   L.A. Noire
+-   Lethal Company
+-   Mahjong
+-   Mini Metro
+-   Monster Hunter: World
+-   Monster Hunter Wilds
+-   monkey Raft
+-   My Movie
+-   Nine Sols
+-   No Man’s Sky
+-   Noita
+-   Outer Wilds
+-   Peglin
+-   QWOP
+-   R.E.P.O.
+-   Rainworld
+-   Red Dead Redemption
+-   Risk of Rain 2
+-   Road to Gramby’s
+-   Sekiro: Shadows Die Twice
+-   Shadow Gambit: The Cursed Crew (R.I.P. Mimimi Games)
+-   Shadow Tactics: Blades of the Shogun (R.I.P. Mimimi Games)
+-   Shadows of Doubt
+-   Shovelware's Brain Game
+-   Slay the Spire
+-   Snakes & Ladders
+-   Sonic Unleashed
+-   Space Station 14
+-   Stars Align
+-   Straftat
+-   Subnautica
+-   Sunless Skies
+-   Super Bomb Survival
+-   Super Doomspire
+-   Tetris
+-   Terraria
+-   The Great Ace Attorney Chronicles
+-   Townscaper
+-   Tricky Towers
+-   Twilight Imperium 4
+-   V Rising
+-   Valheim
+-   WEBFISHING
+-   Wobbledogs

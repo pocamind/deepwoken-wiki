@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 163738
+revid: 164110
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -22,7 +22,7 @@ A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Khan
 
 ## Moveset
 
-A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_Sword.md>), [Ritual Spear](Ritual_Spear.md), or [Fists](Fists.md) (**Legion Kata**) without Cestus along with the [Galebreathe](Galebreathe.md) attunement:
+A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_Sword.md>), [Ritual Spear](Ritual_Spear.md), [Imperial Staff](Imperial_Staff.md), or [Fists](Fists.md) (**Legion Kata**) without Cestus along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -38,10 +38,7 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 **Critical**  
 (★★☆)
 
- | \[[Champion's Sword](<Champion's_Sword.md>)\] Performs a wind-up before firmly thrusting blade forward.
-
-\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.  
-\[[Fists](Fists.md)\] Performs a quick grab before throwing the opponent into the ground.
+ | The Legion Captain uses the critical attack of their currently equipped weapon. See the individual weapon pages for more info: [Champion's Sword](<Champion's_Sword.md>), [Ritual Spear](Ritual_Spear.md), [Legion Kata](Legion_Kata.md), [Imperial Staff](Imperial_Staff.md).
 
  |
 | 
@@ -115,8 +112,7 @@ A Legion Captain executes its opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[[Champion's Sword](<Champion's_Sword.md>)\] Pins down opponent before slicing their throat with blade.
-\[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
-
+\[[Ritual Spear](Ritual_Spear.md)\]/\[[Imperial Staff](Imperial_Staff.md)\] Pins down opponent before impaling them through the chest with their spear.  
 \[[Fists](Fists.md)\] Pins down opponent before firmly bashing their face.
 
  |

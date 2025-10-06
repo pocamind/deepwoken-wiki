@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 163966
+revid: 164047
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons, Authority Faction Item]
@@ -28,7 +28,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Lodestar, Moon's Eyrie, Dread Serpent, First Layer, Chime of Conflict |
+| obtainment | Rare drop from King Thresher, Diluvian Mechanism, Fishing Chests, Bounty chests, Deep Widow, Merchant Ships, Lodestar, Moon's Eyrie, Dread Serpent, First Layer, Chime of Conflict, Fort Merit Armory for 80 (Authority Ensign exclusive) |
 | description | ... |
 
 ## Description

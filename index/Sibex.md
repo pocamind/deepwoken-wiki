@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 164032
+revid: 164057
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -18,7 +18,7 @@ categories: [NPCs, Mechanics]
 
 **Sibex** is a [Celtor](Celtor.md) that dons a grey hood and wears an unconfirmed white armor. A member of the Authority gone missing on duty, he has a Gale Wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
 
-Sibex is located at the 3rd statue when passing by the first one next to Songseeker Island and the 2nd one, next to Summer Isle. the 3rd one has a big cliff right next to it on the right when facing the statue. When leaving Summer Isle and heading for Hive, Sibex will be on the left most island, sitting on the shoulder of a statue.
+Sibex is located at the most right statue near [the Starswept Valley](The_Starswept_Valley.md) on the opposite side of where the statue is located on the island.
 
 ## Features
 

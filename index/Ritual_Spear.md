@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 157470
+revid: 164099
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Etris weapon store, Legion Soldier, Moon's Eyrie, The Depths, Lodestar, Dread Serpent, Chime of Conflict |
+| obtainment | Sold at Etris Weaponry for 100 , Legion Soldier, Moon's Eyrie, The Depths, Lodestar, Dread Serpent, Chime of Conflict |
 | description | A spear that was once utilised in Gremor rituals pledged to Navae, but has now been appropriated across the Eastern Luminant |
 
 ## Description

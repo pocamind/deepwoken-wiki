@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 164023
+revid: 164098
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Etris Weapons Shop, Erisia, Fort Merit for 20 |
+| obtainment | Character Creation, Erisia, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 20 (Authority Ensign exclusive) |
 | description | A sturdy axe perfect for splitting bone. |
 
 ## Description

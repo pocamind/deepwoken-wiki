@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 161893
+revid: 164176
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -329,7 +329,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   Voideye's Teleportation animation bears a striking resemblance to Final Fantasy XIV's teleport animation.
 -   If the game has trouble loading you somewhere, the loading screen will display the image of a confused/shocked dog, with the text: "Uh oh. Where's the game? This can't be good. Games are supposed to _work_. Games are supposed to let you _play_ them. ...Probably won't be broken forever though, right? Like they've probably got a guy for this, right? Man."
     -   If this keeps going long enough, the text will be replaced with this: "Huh. Still no dice? Maybe if we wait like 30 seconds longer some suggestions for games to play while we wait will start scrolling down the screen. Games do that kinda things nowadays, apparently. As if the game breaking wasnt enough".
-        -   The games that can appear are the following: Abyss World, Bad Business, Barotrauma, Checkers, Chess, Citizen Sleeper, CONE, CRAZY HORSE GAME, Deep Rock Galatic, Don't Play ABA please, Doors, Dredge, Dwarf Fortress, Find Everything, Halo 3, Inscryption, Lethal Company, Monkey Raft, My Movie, Noita, Rain World, Road to Gramby's, Shovelware's Brain Game, Snakes & Ladders, Space Station 14, Stars Align, Straftat, Super Bomb Survival, Super Doomspire, Twilight Imperium 4, Valheim.
+        -   The games that can appear are the following: A Hat in Time, Abyss World, Airship Assault, Animal Crossing: New Leaf, Baba Is You, Backgammon, Bad Business, Barotrauma, Battleblock Theatre, Castle Crashers, Celeste, Checkers, Citizen Sleeper, CONE, CRAZY HORSE GAME 🐴, Crypt of the Necrodancer, Deep Rock Galactic, Deltarune, Doors, Don't play ABA please (ABA), Don't Starve Together, Dredge, Dwarf Fortress, Final Fantasy VII, Find Everything, FPS Chess, Goose Goose Duck, Hades I & II, Halo 3, Halo 3 ODST, Halo Reach, Hello Kitty Island Adventure, Hollow Knight, Hollow Knight: Silksong, Inscryption, Isle, Kingdom Series, L.A. Noire, Lethal Company, Mahjong, Mini Metro, Monster Hunter: World, Monster Hunter Wilds, monkey Raft, My Movie, Nine Sols, No Man’s Sky, Noita, Outer Wilds, Peglin, QWOP, R.E.P.O., Rainworld, Red Dead Redemption, Risk of Rain 2, Road to Gramby’s, Sekiro: Shadows Die Twice, Shadow Gambit: The Cursed Crew (R.I.P. Mimimi Games), Shadow Tactics: Blades of the Shogun (R.I.P. Mimimi Games), Shadows of Doubt, Shovelware's Brain Game, Slay the Spire, Snakes & Ladders, Sonic Unleashed, Space Station 14, Stars Align, Straftat, Subnautica, Sunless Skies, Super Bomb Survival, Super Doomspire, Tetris, Terraria, The Great Ace Attorney Chronicles, Townscaper, Tricky Towers, Twilight Imperium 4, V Rising, Valheim, WEBFISHING, Wobbledogs
 
 ## Trivia
 

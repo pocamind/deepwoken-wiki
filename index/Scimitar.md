@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 157460
+revid: 164067
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Brainsucker, First Layer, Lodestar, Purchasable from the Blacksmith at Meteor Isle |
+| obtainment | Erisia, Brainsucker, First Layer, Lodestar, Meteor Isle Blacksmith for 16 |
 | description | A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture. |
 
 ## Description

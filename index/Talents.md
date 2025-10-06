@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164026
+revid: 164178
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -497,18 +497,18 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
--   _Oppressive Force_ \[Origin Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
-    -   These weapons are: [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed), [Alloyed Halberd](Halberd.md#alloyed), [Alloyed Officer Saber](Officer_Saber.md#alloyed), [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), and [Sovereign's Punishment](<Sovereign's_Punishment.md>).
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
-
--   _Steel Tread_ \[Origin Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+-   _Crossguard_ \[Origin Exclusive\] - If you are using a sword, you gain 10% chip against other opponents wielding swords.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   _Riot Shield_ \[Origin Exclusive\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
--   _Crossguard_ \[Origin Exclusive\] - If you are using a sword, you gain 10% chip against other opponents wielding swords.
+-   _Oppressive Force_ \[Origin Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+    -   These weapons are: [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed), [Alloyed Halberd](Halberd.md#alloyed), [Alloyed Officer Saber](Officer_Saber.md#alloyed), [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), and [Sovereign's Punishment](<Sovereign's_Punishment.md>).
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
+
+-   _Steel Tread_ \[Origin Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 ### Blindseer
@@ -1093,6 +1093,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
     -   3 second cooldown.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
+
+### Dread Imperium
+
+-   _Officer's Training_ \[Origin Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from critical.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Leadership Division
+
+-   _Target Focus_ \[Origin Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Leadership Division
 
 ### Drowned Secret
 
@@ -1860,6 +1868,22 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   [Wrath Gem](Wrath_Gem.md) can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
     -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light OR 30 Medium OR 30 Heavy)
 
+### Inquisitive Lethality
+
+-   _Exicutioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+
+-   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+    -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier and a base +20% stealth.
+    -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+
+-   _Flanking Maneuvers_ - Enemies you assassinate take more PEN from your squadmates in your party.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+
+-   _Stature Break_ - Landing a backstab of any kind disables posture for 8 seconds.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+
 ### Ironsinger
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
@@ -2399,6 +2423,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
     -   Prerequisite: 75 Strength
+
+### Operator's Technique
+
+-   _Absolute Force_ \[Origin Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division, Oppressive Force
+
+-   _Amp Overdrive_ \[Origin Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
+    -   Doubles the guardbreak stun duration from 1.05 seconds to 2.1 seconds.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division
+
+-   _Martial Brutality_ \[Origin Exclusive\] - The less health your opponent has, the most posture damage you deal to them.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division
+
+-   _Shocking Reverb_ \[Origin Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Shock Corps Division
 
 ### Outlaw
 
@@ -4218,7 +4257,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
     -   Acts similarly to and stacks additively with the Gluttony enchant.
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
--   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken. (Reduces the normal stun duration from 1.05 seconds to 0.7 seconds)
+-   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
+    -   Reduces the normal stun duration from 1.05 seconds to 0.7 seconds.
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.02.
     -   Stacks additively with Action Surge.
     -   Both this and Action Surge are applied before [Lightning Cloak's](Thundercall.md#lightning-cloak) swing speed multiplier.

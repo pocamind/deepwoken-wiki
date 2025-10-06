@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 162937
+revid: 164136
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -70,6 +70,22 @@ A Summer Manager executes the player after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down the opponent and shoots them in the head. |
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>I don't have time for this, gotta deal with the outlaws in this region. Take this back to the Castle for me will ya?</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 163963
+revid: 164054
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons, Authority Faction Item]
@@ -30,7 +30,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, First Layer, Duke Erisia, Maestro Evengarde Rest, Chaser, War Mode, Bought from Traan Zakshun for 300 , Lodestar, Dread Serpent, Heart of EnmityAlloyed:, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Lodestar |
+| obtainment | First Layer, Duke Erisia, Maestro Evengarde Rest, Chaser, War Mode, Bought from Traan Zakshun for 300 , Fort Merit Armory for 60 (Authority Ensign exclusive), Lodestar, Dread Serpent, Heart of EnmityAlloyed:, Alloying an Adretian Axe, Dread Serpent, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Lodestar, Fort Merit Armory for 145 (Authority Ensign exclusive) |
 | description | A bound axe in the typical Adretian fashion. |
 
 ## Description
