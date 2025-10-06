@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 164205
+revid: 164378
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -106,6 +106,8 @@ Yakob is located inside of the Three Cheers Bar at Port Merit.
 
 **Player is not an Authority Ensign:**
 
+**Good Reputation with The Central Authority:**
+
 <table>
 <tbody>
 <tr>
@@ -116,6 +118,22 @@ Yakob is located inside of the Three Cheers Bar at Port Merit.
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End, player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>

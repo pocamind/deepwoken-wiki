@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 162876
+revid: 164374
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -32,10 +32,8 @@ She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!</td>
-</tr>
-<tr>
-  <td>[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td>End</td>

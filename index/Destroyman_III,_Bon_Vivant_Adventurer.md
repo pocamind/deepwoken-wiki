@@ -1,6 +1,6 @@
 ---
 title: "Destroyman III, Bon Vivant Adventurer"
-revid: 163944
+revid: 164373
 source: https://deepwoken.fandom.com/wiki/Destroyman_III%2C_Bon_Vivant_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant]
@@ -13,7 +13,7 @@ notices:
 | Destroyman III, Bon Vivant Adventurer | |
 |---|---|
 | name | Destroyman III, Bon Vivant Adventure |
-| location | Starswept Valley |
+| location | The Starswept Valley |
 
 ## Description
 
@@ -21,7 +21,7 @@ Destroyman III, Bon Vivant Adventurer is "mischievous wayward" traveler based of
 
 ## Location
 
-Destroyman III, Bon Vivant Adventurer is located atop a spike high up in.
+Destroyman III, Bon Vivant Adventurer is located atop a spike high up in [The Starswept Valley](The_Starswept_Valley.md).
 
 ## Dialogue
 

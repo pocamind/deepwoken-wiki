@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 164220
+revid: 164371
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -16,9 +16,13 @@ notices:
 | aspect | Adret |
 | location | Fort Merit |
 
+“ Three cheers, citizen! Fear not, we fight for you! ”
+
+― Chud Steel
+
 ## Description
 
-Chud Steel is a [Adret](Adret.md) NPC, he is part of the Shock Trooper division for [The Central Authority](The_Central_Authority.md), signified by his [Duskguard Axe](Duskguard_Axe.md) he wields. He is also the face of the Authority's propaganda.
+Chud Steel is a [Adret](Adret.md) NPC, he is part of the Shock Trooper division for [The Central Authority](The_Central_Authority.md), signified by the [Duskguard Axe](Duskguard_Axe.md) he wields on his back. He is also the face of the Authority's propaganda.
 
 He wears the [Authority Captain](Authority_Captain.md) [Outfit](Outfits.md) with a [Authority Helm](Authority_Helm.md), [Brilliant Cape](Brilliant_Cape.md), and [Brilliant Boots](Brilliant_Boots.md).
 

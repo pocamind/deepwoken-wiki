@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164315
+revid: 164381
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -64,11 +64,18 @@ Leaving the game will forfeit your Mission without it being counted as "failed,"
 
 ### List of Missions
 
-**Hostage** - The player and their squad are tasked with saving a hostage from a group of [Blacksteel Pirates](Blacksteel_Pirate.md). Amongst this group of enemies is a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md), a very dangerous foe. The hostage has very low health, and if the hostage is killed, the Mission will fail.
-
-**Armament Sabatoge** - The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by dealing damage to them. The encampment will be guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
-
-**Secure Perimeter** - The player and their squad are tasked with defending an Authority-branded flag from enemies.
+1.  **Hostage** - The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md).
+    -   Upon picking up the hostage and moving far enough away, the Mission will be complete, and the NPCs will immediately lose aggression.
+    -   The hostage has very low health, and if the hostage is killed, the Mission will fail.
+    -   The Blacksteel Pirate Captain is very strong and has a lot of health. It is generally advised to take out all of the other Blacksteel Pirates first.
+    -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
+2.  **Armanent Sabotage** - The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The encampment will be guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
+    -   The barrels can be destroyed by dealing damage to them via Mantras or M1s.
+    -   Once all of the barrels are destroyed, the mission will be complete, and the NPCs will immediately lose aggression.
+    -   You can sneak around the fort to pick off or assassinate some of the Legion Soldiers.
+    -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
+3.  **Secure Perimeter** - The player and their squad are tasked with defending an Authority-branded flag from enemies.
+    -   This mission may be bugged, as you just stand near the flag and it will be automatically completed, if given some time.
 
 ## Promotions
 
@@ -76,9 +83,10 @@ Through completing enough Missions, you will be promoted. Each promotion comes w
 
 Enlistment Ranks
 
-1.  Private (PVT); This is the standard rank that is granted upon obtaining the Origin.
-2.  Corporal (CPL); The 2nd rank granted after reaching 155 promotion points.
-3.  Lance Corporal (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points. Allows you to join one of the Divisions: Shock Trooper Corp, Leadership, or Inquisition.
+1.  **Private** (PVT); This is the standard rank that is granted upon obtaining the Origin.
+2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points. Upon reaching this tier, you will gain an Origin Talent hand; [see below](#default-talents).
+    -   Additionally, you will gain access to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of other weapons that can be found at the Armory.
+3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points. Allows you to join one of the Divisions: Shock Trooper Corp, Leadership, or Inquisition.
 
 ### Divisions
 
@@ -95,7 +103,7 @@ Once you choose a Division, you cannot go back.
 A division focused on backstabs and assassination.
 
 -   Obtainment
-    -   Requirements - 10 solo missions
+    -   Complete 10 Solo Missions
     -   Reach Lance Corporal rank and speak to [High Inquisitor Merey](High_Inquisitor_Merey.md).
 -   Promotions
     -   Lance Corporal -> Inquisitor
@@ -110,13 +118,13 @@ A division focused on backstabs and assassination.
 A division focused on leadership and support.
 
 -   Obtainment
-    -   Requirements - TBA
+    -   TBA
     -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
 -   Promotions
     -   Lance Corporal -> Warrant Officer
     -   Warrant Officer -> Captain | 329 promotion points
     -   Captain -> Commander | 388 promotion points
-    -   Commander -> Seneschal | ? promotion points
+    -   Commander -> Seneschal (currently bugged) | ? promotion points
 -   Benefits
     -   Exclusive Division Talents; [see below](#leadership-division-talents)
 
@@ -125,7 +133,7 @@ A division focused on leadership and support.
 A division focused on posture damage.
 
 -   Obtainment
-    -   Requirements - TBA
+    -   Complete 3-4 Squad missions
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     -   Lance Corporal -> Frontliner
@@ -194,14 +202,15 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   Origin-exclusive Talents through the promotion system.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
 -   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory.
+-   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
 
 ### Cons
 
--   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md).
--   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. This restriction will be removed if you become a Traitor or a Deserter.
--   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased.
+-   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
+-   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
+-   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md)).
-    -   This con will be removed if you get Exiled from the Central Authority.
+-   Because the Master Armors are immediately equipped upon maxing your Division, if you craft any other Outfit, they will be lost permanently.
 
 ## Reputation
 

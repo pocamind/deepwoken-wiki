@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 163379
+revid: 164388
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -22,11 +22,11 @@ Currently the game contains a total of **thirteen** obtainable aspects, with the
 
 ### Obtainable Aspects
 
-_\[More information about [aspects](Aspects.md) can be found on their corresponding [page](Aspects.md).\]_
+_(For more information about [Aspects](Aspects.md))_
 
 ## Attunements
 
-Upon your first character customization, you can either choose up to two [Attunements](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras and 10 free trainings. If you can't make up your mind you can also select Random. These attunements are your starter attunements and you only keep the ones you picked, excluding None and Random, whick you keep either way, but the others can be obtained by convential methods. Another way to cheese getting all the starter attunements is to keep on selecting random and wiping to get all of them
+Upon your first character customization, you can either choose up to two [Attunements](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras and 10 free trainings. If you can't make up your mind you can also select Random. These attunements are your starter attunements and you only keep the ones you picked, excluding None and Random, which you keep either way, but the others can be obtained by conventional methods. Another way to cheese getting all the starter attunements is to keep on selecting random and wiping to get all of them
 
 To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Ironsing](Ironsing.md) Attunements, you need to unlock them each with their own specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters on that account, and will be selectable as an Attunement option for future character slots.
 
@@ -154,106 +154,49 @@ At minimum, you must have one Boon, and one Flaw to make a character, and at max
 
 ## Origins
 
-There are four total [Origins](Origins.md) you can decide between. **These can be very important.**
+When first creating a character, the player can choose only out of two spawn locations. Over time, meeting certain requirements will unlock more Origins. Currently, there is a total of five Origins, with nine unique different spawning points. For more information visit [Origins](Origins.md). **These can be very important, and can drastically change gameplay.**
 
-### [Castaway](Castaway.md)
+### Starting Origins
 
-Castaway is an Origin granted by joining Deepwoken for the first time, and gives a blank slate for starting your character; no pros or cons.
+[Castaway](Castaway.md)
 
-### Etris
+[Castaway](Castaway.md) 
 
-[Etris](Etris.md) is a large set of islands and land formations and is very simply layout. There is a central island with a large tree that has white bark, which has 4 bridges each leading to the Blacksmith, Weapon and Mantra shops; Bank and General store.
+[Castaway](Castaway.md)
 
-Here is what makes Etris unique:
+[Castaway](Castaway.md) 
 
--   At the central tree island, there is a [Vesperian](Vesperian.md) [Justicar](Polis.md) cleaning his [Darksteel Greatsword](Darksteel_Greatsword.md) with a rag, who gives you a [Gold Ring](Equipment.md#rings) for talking to him. Most players sell this, meaning you can start with a few extra Notes.
--   The NPC who greets you grants 25, unlike the NPC in Vigils who only gives 20.
--   You can do the Lord Regent's Quest in order to get the [Manor Key](Manor_Key.md) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
--   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the Etris blacksmith.
--   The NPC at the Docks teaches you the Repair Kit recipe, unlike the Vigils variant.
--   [Calabash](Calabash.md), a [food](Food.md) item that replenishes a lot of thirst, and can be used to craft a [Canteen](Canteen.md) can be found here.
+### Unlockable Origins
 
-### Isle of Vigils
+[Lone Warrior](Lone_Warrior.md)
 
-The [Isle of Vigils](Isle_of_Vigils.md) is a small island with a fortress guarded by [Vigils](Blade_Temple_Guard.md) with [Katanas](Katana.md). The [Antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food. It is recommended for starters as it has an NPC that allows you to get better at combat and it is easier to get to [Erisia](Erisia.md) from the docks.
+[Lone Warrior](Lone_Warrior.md) 
 
-Here is what makes the Isle of Vigils unique:
+[Deepbound](Deepbound.md)
 
--   Down the slope heading to the docks, after the antiquarian, Lance's Brother can be found, who will request you to bring a crate of food up to [Stratos](Stratos.md) at the [Temple of The Blade](Temple_of_the_Blade.md). This will reward you 25 notes, **allowing you to start off with 45 notes.**
--   A trainer to fight against with no consequences for losing all your HP, allowing you to train Weapon Mastery, Fortitude and learn how to parry different weapon types.
--   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
--   More dense in food materials, however has less overall.
+[Deepbound](Deepbound.md) 
 
-### [Lone Warrior](Lone_Warrior.md)
+[Deepbound](Deepbound.md)
 
-The Lone Warrior [Origin](Origins.md) is unlocked on all slots upon wiping a character at least once or reaching the halfway point in the [Trial of One](Trial_of_One.md), that being the [Thresher](Thresher.md). Alternatively, wiping for the first time will also unlock this origin.
+[Deepbound](Deepbound.md) 
 
-Here is what makes the Lone Warrior [Origin](Origins.md) unique:
+[Voidwalker](Voidwalker.md)
 
--   Upon spawning in with this [Origin](Origins.md), you immediately teleport into the [Trial of One](Trial_of_One.md), cutting off the time required to sail there.
--   The [Trial of One](Trial_of_One.md) greatly speeds up progression, allowing players to reach [Power](Power.md) 6 in ~20 minutes or less.
--   For more information, visit the [Trial of One](Trial_of_One.md) page.
+[Voidwalker](Voidwalker.md) 
 
-### [Deepbound](Deepbound.md)
+[Ignition Delver](Ignition_Delver.md)
 
-The Deepbound [Origin](Origins.md) is unlocked on all slots after talking to [Akira](Akira.md) about joining [The Divers](The_Divers.md) in [Castle Light](Castle_Light.md).
+[Ignition Delver](Ignition_Delver.md) 
 
-Here is what makes the [Deepbound Origin](Origins.md#deepbound) unique:
+[Ignition Delver](Ignition_Delver.md)
 
--   You can spawn in the following locations:
-    -   [Castle Light](Castle_Light.md)
-    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   Gain innate [Talent](Talents.md) 'Deepbound Contract' upon spawning in.
-    -   Said [Talent](Talents.md) gives increased EXP gain [The Depths](The_Depths.md), but heavily reduced in The Etrean Luminant.
-    -   You also have a positive sanity aura at Castle Light, allowing one to regenerate their sanity without going to the surface.
--   You spawn in [The Depths](The_Depths.md) at [Castle Light](Castle_Light.md).
--   You spawn with the [Diver Apprentice](Diver_Apprentice_Robes.md) [Outfit](Outfits.md), starting training gear, 25 notes, and increased reputation with [The Divers](The_Divers.md).
--   You are able to use an Antiquarian and purchase training gear at [Castle Light](Castle_Light.md).
--   The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md). If you want to escape the depths at low levels, you may fight the enforcer for up to 10 minutes.
--   You cannot do the [Trial of One](Trial_of_One.md).
+[Ignition Delver](Ignition_Delver.md) 
 
-### [Voidwalker](Voidwalker.md)
+[Authority Engisn](Authority_Engisn.md)
 
-The [Voidwalker Origin](Origins.md#voidwalker) is unlocked on all slots upon getting 5 player grips, and talking to Eylis using the second dialogue option in the cargo hold of a ship in the [Etrean Soldiers](Etrean_Soldier.md) versus [Knives of Eylis](The_Knives_of_Eylis.md) [event](The_Aratel_Sea.md#enemies-and-encounters) in either [Luminants](Luminants.md). After using the second dialogue option with Eylis, run through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
+[Authority Engisn](Authority_Engisn.md) 
 
-Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
-
--   Your starting location is the [Voidheart](Voidheart.md), a location only accessible through being a [Voidwalker](Voidwalker.md).
--   Gain innate [Talent](Talents.md) 'Voidwalker Contract'.
-    -   Increased EXP gain from Bounties, but reduced EXP gain from Events.
-    -   You start with negative reputation towards most factions.
--   Gain innate [Talent](Talents.md) 'Grasp of Eylis' with two Options to hunt your prey. With Ferocity or with Stealth.
-    -   With Ferocity you see your bounty through walls and your arrival is evidenced with a sound cue.
-    -   With Stealth you spawn but you cant your see your bounty through walls,but your arrival is silent. This is meant to sneak up to your prey.
-        -   Using the Talent allows you to teleport to a [bounty target](Bounty_Hunting.md) you have claimed.
-        -   If they flee too far from you, or they log, you are sent back to the [Voidheart](Voidheart.md).
-        -   You gain the ability to see your target through walls momentarily.
--   Spawn with the Void Eye, which teleports you back to the [Voidheart](Voidheart.md).
-    -   Said item has a ten minute cooldown, which is removed upon eliminating a [bounty target](Bounty_Hunting.md) or using it in the voidsea.
--   You will spawn with the [Whaler Initiate](Whaler_Coat.md) [Outfit](Outfits.md) upon spawning in with this [Origin](Origins.md).
--   There is a functional Chessboard in the [Voidheart](Voidheart.md), which does nothing but allow players to have games of Chess.
--   [Voidwalkers](Origins.md) can access the [Bounty Board](Bounty_Hunting.md) for [The Knives of Eylis](The_Knives_of_Eylis.md), which is usually full.
--   [Knives of Eylis](The_Knives_of_Eylis.md) will not attack you.
-
-### [Ignition Delver](Ignition_Delver.md)
-
-The Ignition Delver Origin is unlocked on all slots upon saving [Epsi](Epsi.md) in [Layer 2](Second_Layer.md), returning to [Alpha](Alpha.md) in the Ignition Union base, [The Frontier Furnace](The_Frontier_Furnace.md), or completing [Orion's](Orion.md) quest at [Miner's Landing](<Miner's_Landing.md>); tasking you to fight [Summer Goons](Summer_Goon.md) in the boiler room.
-
-Here's what makes the Ignition Delver Origin unique:
-
--   You can spawn in the following locations:
-    -   [Miner's Landing](<Miner's_Landing.md>)
-    -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
--   Gain innate Talent 'Union Card'.
-    -   Increased EXP gain from dungeons (Layer 2, Saramaed Hollow, bosses such as the Ferryman, the Duke) and jobs.
-    -   Reduced EXP gain from any other sources.
--   Gain innate Talent 'Union Pager'.
-    -   A communication device that can take jobs remotely.
--   Passive Sanity regeneration at [The Chariot's Spire](<The_Chariot's_Spire.md>).
--   Starts with the 'Union Hook' Talent.
--   Starts with 50 [Notes](Notes.md), positive [Ignition Union](The_Ignition_Union.md) reputation, and negative [Summer Company](The_Summer_Company.md) reputation.
--   Gain bonus EXP until you reach Power 10.
--   Gain ability to use the [Hollow Forge](Hollow_Forge.md), which inputs Pluripotent Alloys for Smith's Alloys or Armorer's Needles or Smith's Alloys for Armorer's Needles and vice versa.
+  
 
 ## Character Ages
 

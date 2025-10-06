@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 164212
+revid: 164337
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers, Origins, Character]
@@ -22,17 +22,21 @@ Warning: Do not attempt the Charisma check with Akira. If you do not have 90 or 
 
 ## Spawn
 
-Deepbounds spawn with the [Diver Apprentice Robes](Diver_Apprentice_Robes.md) equipped, 25, and the Call of the Deep and Deepbound Contract Talents. You can choose to spawn at either [Castle Light](Castle_Light.md) or [the Diluvian Mechanism](The_Diluvian_Mechanism.md).
+Deepbounds spawn with the [Diver Apprentice Robes](Diver_Apprentice_Robes.md) equipped, 25, and the Call of the Deep and Deepbound Contract Talents. You can choose to spawn at either [Castle Light](Castle_Light.md) or [the Diluvian Mechanism](The_Diluvian_Mechanism.md) by clicking their respective origins.
 
 Due to time differences in the Depths, your character will be 17 years old on spawn, instead of the usual 18.
 
 ## Effects
 
-Your experience gain while in the Depths is greatly increased. While below power 15, you'll gain another experience multiplier. You cannot enter the [Trial of One](Trial_of_One.md), even if you escape the Depths at power 1.
-
-You can restore your sanity in the Depths by going to [Castle Light](Castle_Light.md) or defeating Monsters. Castle Light will always be open to you, even if you've drowned. Additionally, all NPCs and amenities at Castle Light will be accessible (e.g. the Banker, Antiquarian, and Stove).
+You cannot enter the [Trial of One](Trial_of_One.md), even if you escape the Depths at power 1.
 
 You can enter the [Temple of Hearts](Temple_of_Hearts.md) through a hidden crevasse in the wall next to the Resonance door. You can also speak to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) as a Deepbound without him killing you, though you still won't be able to make any wishes unless you have a [Resonance](Resonance.md).
+
+**Deepbound Contract**
+
+Your experience gain while in the Depths is greatly increased, While your experience gain in overworld is greatly decreased. While below power 15, you'll gain another experience multiplier.
+
+You can restore your sanity in the Depths by going to [Castle Light](Castle_Light.md) or defeating Monsters. Castle Light will always be open to you, even if you've drowned. Additionally, all NPCs and amenities at Castle Light will be accessible (e.g. the Banker, Antiquarian, and Stove).
 
 Your [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) is always an [Enforcer](Enforcer.md) unless you add additional modifiers like Vow of Thorns. This can be both a good thing and a bad thing: on one hand, if you are experienced with fighting Enforcers, then this isn't a downside at all, but on the other hand, the Enforcer a strong enemy and you will need to face them on every Trial regardless of your level.
 

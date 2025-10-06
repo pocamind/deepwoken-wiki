@@ -1,6 +1,6 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 156714
+revid: 164387
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Knives of Eylis]
@@ -92,6 +92,26 @@ Eylis is the leader of [The Knives of Eylis](The_Knives_of_Eylis.md). She stands
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Apon Combat:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td colspan="5">Oh, for the love of...</td>
+  <td>TBA</td>
+  <td>TBA</td>
+  <td>TBA</td>
+  <td>TBA</td>
+</tr>
+<tr>
+  <td>End, Player is teleported out</td>
 </tr>
 </tbody>
 </table>

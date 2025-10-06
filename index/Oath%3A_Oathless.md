@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 162008
+revid: 164363
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,7 +36,7 @@ Aforementioned log tunnel
   
 Though order does not matter, the following order is recommended.
 
--   [Viridian](Viridian.md) is located at [Fort Merit](Fort_Merit.md), in a house near the elevator.
+-   [Viridian](Viridian.md) is located at [Fort Merit](Fort_Merit.md), in the street near the elevator.
 
 -   [Saffron](Saffron.md) is located at [Meteor Isle](Meteor_Isle.md), in a 2-story house.
 

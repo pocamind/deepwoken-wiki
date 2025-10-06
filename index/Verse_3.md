@@ -1,6 +1,6 @@
 ---
 title: Verse 3
-revid: 163990
+revid: 164368
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Upcoming content]
@@ -21,15 +21,17 @@ The official reveal came with the announcement of upcoming content including [Ne
 
 A part of the roadmap also included the placement of [Hallowtide](Hallowtide.md) 2025 in between the Authority origin and Layer 3.
 
-## Part 1 - Duskguard
+## Part 1 - Duskguard : Released on October 4th 2025
 
 ### Authority Origin
 
-[the authority origin](Origins.md), obtainable by defeating titus or getting hero status with [The Central Authority](The_Central_Authority.md), has been added. there are no sources so far, but its belived to have an army rank type of progression, with you being able to progress through the ranks and obtain special loot based on the changelog
+[The Authority Origin](Authority_Ensign.md), obtainable by defeating titus or getting hero status with [The Central Authority](The_Central_Authority.md), has been added. Opposed to other origins, the Authority origin follows a military rank style progression in addition to normal progression.
 
-### Map Ajustments
+During rank progression players will be "soul-locked" to the Authority clan, and will join deviations within the Authority for unique talents and weapons.
 
-The land has changed in the eastern luminant, with a new map and possible new landmarks/locations/events
+### Map Adjustments
+
+The land has changed in the eastern luminant, with a new map, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel](The_Starswept_Valley.md).
 
 ## References
 

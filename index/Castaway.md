@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 164196
+revid: 164320
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Origins]
@@ -20,7 +20,7 @@ Castaway is unlocked by default. Upon completing the [Tutorial](Tutorial.md), th
 
 ## Spawn
 
-Castaways spawn with the [Stranded](Stranded.md) Outfit equipped. You can choose to spawn in either the [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) inns. Inside the inns, the player can speak to either [Trenti](Trenti.md) or [Aristo](Aristo.md) depending on their spawn choice to gain 25.
+Castaways spawn with the [Stranded](Stranded.md) Outfit equipped. The player is able to choose to spawn in either the [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) inns by clicking their respective origins. Inside the inns, the player can speak to either [Trenti](Trenti.md) or [Aristo](Aristo.md) depending on their spawn choice to gain 25.
 
 ## Pros and Cons
 

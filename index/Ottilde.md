@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 152581
+revid: 164370
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -83,3 +83,4 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
 ## Trivia
 
 -   Her aspect was once bugged, being both a [Gremor](Gremor.md) and [Chrysid](Chrysid.md) at the same time.
+-   Ottilde's hair ID is [https://www.roblox.com/catalog/11844088437/Curly-Hippie-Mullet-White](https://www.roblox.com/catalog/11844088437/Curly-Hippie-Mullet-White)

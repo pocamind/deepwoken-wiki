@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 164043
+revid: 164377
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -28,33 +28,92 @@ Fabantou is located inside Three Cheers Bar.
 
 **Player is an Authority Ensign:**
 
+**Player is under no division:**
+
 <table>
 <tbody>
 <tr>
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The grizzled Felinor at the bar flashes you a toothy smile.*</i> Welcome, my friend, to the Three Cheers! Lay down yer weapons and wagers at the door, and play nice. Now, what can I get ya'?</td>
+  <td><i>*The grizzled Felinor at the bar flashes you a toothy smile.*</i> Welcome, my friend, to the Three Cheers! Lay down yer weapons and wagers at the door, and play nice. Now, what can I get ya'?<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td colspan="12">I'd like to ask you something, tavernkeep.</td>
+  <td>I'd like to ask you something, tavernkeep.</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*He perks to attention, and looks at you inquisitively.*</i> Yes, yes, I'm all ears! How may I serve, private?</td>
+  <td><i>*He perks to attention, and looks at you inquisitively.*</i> Yes, yes, I'm all ears! How may I serve, private?</td>
 </tr>
 <tr>
-  <td colspan="6">How did you come to be the landlord of the Three Cheers?</td>
+  <td>How did you come to be the landlord of the Three Cheers?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*A question certainly asked many times before, prompting a proud scoff from him.*</i> Pah! Couldn't stand workin' in that rotten mess hal no longer. Got one of the commanders to sweet-talk the Warden into allowin' me to brighten up some vacant shack in town, and the rest is history. He still ain't too fond of his soldiers' messin' about here, but it does wonders for morale, can't deny that.</td>
+  <td><i>*A question certainly asked many times before, prompting a proud scoff from him.*</i> Pah! Couldn't stand workin' in that rotten mess hal no longer. Got one of the commanders to sweet-talk the Warden into allowin' me to brighten up some vacant shack in town, and the rest is history. He still ain't too fond of his soldiers' messin' about here, but it does wonders for morale, can't deny that.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Inquisitor division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Shock Trooper division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*Fabantou offers you a languid tilt of the head and an apologetic leer. You're far too responsible for this.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
 **Player is not an Authority Ensign:**
+
+**Good Reputation with The Central Authority:**
 
 <table>
 <tbody>
@@ -66,6 +125,22 @@ Fabantou is located inside Three Cheers Bar.
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End, player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>
