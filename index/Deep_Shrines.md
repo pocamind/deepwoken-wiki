@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 163899
+revid: 164597
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -73,7 +73,7 @@ Shrine of Solitude
     -   Has no visible "eyes".
     -   Talks in lowercase, unlike all other shrines.
         -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
--   Before Shrine of Ostentation, the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur%253A_Ardour.md) or [Rhythm](Murmur%253A_Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
+-   Before Shrine of Ostentation (Now the Shrine of Chance), the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur%253A_Ardour.md) or [Rhythm](Murmur%253A_Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.

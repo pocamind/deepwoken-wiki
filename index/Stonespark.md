@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 163584
+revid: 164598
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -24,13 +24,8 @@ Stonesparks are a mob that can be found deployed throughout [Erisia](Erisia.md),
 
  | The Stonespark swings its arms at its target.
 
-Parrying this move will slightly stun the Stonespark.
-
--   Parryable:◯
-
--   Blockable:◯
-
--   Dodgeable:◯
+-   Parrying this move will slightly stun the Stonespark.
+-   Has high hitstun with a low cooldown, similar to [Mudskipper](Mudskipper.md) or [Nautilodaunt](Nautilodaunt.md) attacks.
 
  | 
 
@@ -44,15 +39,13 @@ Parrying this move will slightly stun the Stonespark.
 
 -   Parrying this move will push the player back slightly.
 
--   Parryable:◯
-
--   Blockable:✗
-
--   Dodgeable:◯
-
  | 
 
  |
+
+### Passives
+
+-   **Stoneskin** - The Stonespark can block during its attacking animations.
 
 ## Finisher
 

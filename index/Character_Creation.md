@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 164393
+revid: 164627
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -32,7 +32,7 @@ To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Irons
 
 [Attunement-less](Attunement-less.md)
 
-[Attunement-less](Attunement-less.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Attunement-less](Attunement-less.md) 
 
 [Attunement](Attunements.md)
 
@@ -62,17 +62,18 @@ Attunements requiring the completion of a quest to obtain and cannot be cheesed 
 
 [Shadowcast](Shadowcast.md)
 
-[Shadowcast](Shadowcast.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Shadowcast](Shadowcast.md) 
 
 [Ironsing](Ironsing.md)
 
-[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Ironsing](Ironsing.md) 
 
 [Bloodrend](Bloodrend.md)
 
-[Bloodrend](Bloodrend.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Bloodrend](Bloodrend.md) 
 
   
+
 _\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
 ## Weapon Classes

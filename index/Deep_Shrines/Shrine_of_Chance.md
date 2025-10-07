@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 163839
+revid: 164589
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Vendors, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Chance
@@ -26,15 +26,31 @@ When using this shrine, please make sure to **check if you burned the card you'r
 
 ## Effects/Details
 
-### Effects
+Shrine of Chance
 
--   **Talent Exchange** - Trade a Talent of your choice and 5 to gain a Talent Draw with 3 cards of equivalent rarity.
--   **Talent Degradation** - Trade a Rare Talent of your choice and 5 to gain a Talent Draw of 3 Common or Advanced cards.
--   **Talent Elevation** - Trade a Common or Advanced Talent of your choice and 10 to gain a Talent draw of 3 Rare Talents.
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Talent Exchange</div><div><i>Exchange a Talent for a hand of Talents of equivalent rarity.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Talent Degradation</div><div><i>Exchange a Rare Talent for a hand of Common Talents.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Talent Elevation</div><div><i>Exchange a Common Talent for a hand of Rare Talents.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ### Details
 
--   Advanced and Common Talents share a rarity as far as Shrine of Chance is concerned; you can exchange a Common for an Advanced and vice versa via **Talent Exchange** or obtain either a Common or Advanced Talent via **Talent Degradation**.
+-   Advanced and Common Talents share a rarity as far as Shrine of Chance is concerned;
+    -   You can exchange a Common Talent for an Advanced Talent and vice versa via **Talent Exchange**.
+    -   You can exchange a Common or Advanced Talent for a Rare via **Talent Elevation**.
+    -   You can exchange a Rare Talent and potentially receive a Talent hand that has both Common and Advanced Talents **Talent Degradation**.
 -   The Talent Draw is affected by [Mystics](../Mystic.md), make sure to use them to not waste Knowledge.
 -   You must meet the requirements at least one non-mutually exclusive Talent in order to exchange a Talent for another.
     -   For example, if the only Rare Talents you can obtain are Observation and Safety Dance, you will not be able to exchange Risky Moves for them, however if you also meet the requirements of (but don't already own) Cheap Shot, then you will be able to exchange Risky Moves for either of the Leaf in the Wind Talents.

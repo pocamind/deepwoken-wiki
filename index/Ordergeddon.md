@@ -1,6 +1,6 @@
 ---
 title: Ordergeddon
-revid: 164422
+revid: 164614
 source: https://deepwoken.fandom.com/wiki/Ordergeddon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Events, Deepwoken]
@@ -26,3 +26,4 @@ Players who utilized the Shrine of Order prior to the update can speak to it aga
 ## Trivia
 
 -   Theoretically the longest event in the game's history, as any build that has used the Shrine of Order can simply refrain from speaking to it to keep the "event" running.
+-   The [Pendant of Order](Pendant_of_Order.md) shares the same stats as the [Confessor's Charm](<Confessor's_Charm.md>), so it doesn't provide any unfair advantage.

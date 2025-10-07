@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 164494
+revid: 164662
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 | damage | 1 |
 | range | 3 |
 | swing speed | 0.6x |
-| special effect | You cannot cast Mantras. This weapon cannot be unequipped unless you escape from the prison. |
+| special effect | You cannot cast Mantras. This weapon cannot be unequipped, but can be removed by speaking to a Blacksmith. Your M1s ragdoll on hit. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -34,7 +34,7 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 
 This weapon is automatically equipped upon being detained (gripped) by an [Authority Ensign](Authority_Ensign.md) player.
 
-You can take the handcuffs off by going to a [Blacksmith](Blacksmith.md).
+You can take the handcuffs off by speaking to a [Blacksmith](Blacksmith.md) or the Etrean Guardsmaster. Removing your cuffs via a Blacksmith requires you to have neutral or higher reputation with the faction the Blacksmith is apart of.
 
 ## Trivia
 

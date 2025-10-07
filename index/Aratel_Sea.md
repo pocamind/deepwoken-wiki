@@ -1,7 +1,7 @@
 ---
-title: Etrean Sea
-revid: 164668
-source: https://deepwoken.fandom.com/wiki/Etrean_Sea
+title: Aratel Sea
+revid: 164667
+source: https://deepwoken.fandom.com/wiki/Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations]
 notices:
@@ -9,6 +9,6 @@ notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
-# Etrean Sea
+# Aratel Sea
 
-LocationL Etrean Sea LocationR
+LocationL Aratel Sea LocationR

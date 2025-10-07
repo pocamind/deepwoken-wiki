@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 152410
+revid: 164669
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, Layer 1, The Ministry]
@@ -8,13 +8,7 @@ categories: [Locations, Etrean Luminant, Layer 1, The Ministry]
 
 # The Understrand
 
-LocationL The Understrand LocationR
-
-TERRITORY OF Ministry (Lawless)
-
-A sprawling network of hidden passages utilised by the Ministry in their covert operations. The righteous would never stray so far.
-
-  
+Template:Location2
 
 The Understrand is a sub-location. It is a network of tunnels used by [The Ministry](The_Ministry.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 163692
+revid: 164606
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Ministry Captains are enemy NPCs that can be found in [Minityrsa](Minityrsa.md), around campfires.
 
-They wear a Vagabond's Bicorn, either a Blindfold or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit.
+They wear a Vagabond's Bicorn, either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit.
 
 ## Moveset
 

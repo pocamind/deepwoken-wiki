@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 164539
+revid: 164584
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, The Ignition Union, Character]
@@ -12,9 +12,7 @@ categories: [Origins, The Ignition Union, Character]
 > 
 > ― Origin description
 
-## Description
-
-**Ignition Delver** is a PvE-focused [origin](Origins.md), highly favoring, but not mandating completing [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md) for EXP. Doing anything other than Jobs or Dungeons (ex. PvP) results in lesser EXP return than under a different origin.
+_Ignition Delver_ is a PvE-focused [origin](Origins.md), highly favoring, but not mandating completing [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md) for experience gain.
 
 ## Obtainment
 

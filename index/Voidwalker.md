@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 164506
+revid: 164585
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Origins, Character, The Knives of Eylis]
@@ -16,13 +16,7 @@ File:Voidwalker Spawn Icon.png
 
 _**If you're looking on how to get rid of Voidwalkers - visit the [Bounty Hunting](Bounty_Hunting.md) page instead.**_
 
-## Description
-
-**Voidwalker** is a PvP-focused origin, greatly favoring, but not mandating [Bounty Hunting](Bounty_Hunting.md) for EXP. Players can stil partake in PvE for progressing, but it will result in lesser EXP gain than under a different origin.
-
-Successfully completing a bounty grants EXP and a chest with loot. Rarity of the loot and the amount of EXP gained from completing the bounty is dependent on the target's total number of bounty stars. However, if the target kills their Voidwalker, the target will instead receive a chest and EXP, the amount of EXP and the rarity of the loot are instead dependent on the Voidwalker's amount of bounty stars.
-
-All Voidwalkers start with the [Whaler Initiate](Whaler_Initiate.md) [Outfit](Outfits.md).
+_Voidwalker_ is a PvP-focused origin, greatly favoring, but not mandating [Bounty Hunting](Bounty_Hunting.md) for experience gain.
 
 ## Obtainment
 
@@ -38,6 +32,8 @@ To obtain the Voidwalker origin, the player must do the following:
 Voidwalkers spawn at [Lower Erisia](Lower_Erisia.md) with the [Whaler Initiate](Whaler_Initiate.md) Outfit and 25. To teleport into the Voidheart, players must use the "Voideye" tool. In order to exit the Voidheart, the player will have to speak to [The Voidmother](The_Voidmother.md) and choose the dialogue option "I wish to depart."
 
 ## Effects
+
+Successfully completing a bounty grants EXP and a chest with loot. Rarity of the loot and the amount of EXP gained from completing the bounty is dependent on the target's total number of bounty stars. However, if the target kills their Voidwalker, the target will instead receive a chest and EXP, the amount of EXP and the rarity of the loot are instead dependent on the Voidwalker's amount of bounty stars.
 
 ### Voidwalker contract
 

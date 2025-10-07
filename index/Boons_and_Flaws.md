@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 161509
+revid: 164595
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -252,7 +252,7 @@ These Flaws are granted via specific means instead of being chosen during charac
   </center></td>
   <td><center>A stain upon your honour. Defeat Maestro to remove it.</center></td>
   <td><center>Lowers your HP and Ether regeneration by an unknown value.</center></td>
-  <td><center>This Flaw cannot be reobtained if it has been cleared from your character.</center></td>
+  <td><center>This Flaw is not removed on Wipe and will instead pass down to your next character.</center></td>
   <td><center>Obtained by losing to <a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a>. Defeating Maestro at any point removes the ability to obtain this Flaw.</center></td>
   <td><center>Removed upon defeating <a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a>.</center></td>
 </tr>

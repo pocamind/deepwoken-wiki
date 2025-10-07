@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 163720
+revid: 164604
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae, Children of Navae Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Eastern Tribe Nomad is an enemy NPC that can be found at the Nomad Camp in [Etris](Etris.md) or fighting alongside with an [Eastern Nomad Leader](Eastern_Nomad_Leader.md) against two [Ministry Scouts](Ministry_Scout.md) on Summer Isle during events.
+An Eastern Tribe Nomad is an enemy NPC that can be found at the Nomad Camp in [Etris](Etris.md) or fighting alongside with an [Eastern Nomad Leader](Eastern_Nomad_Leader.md) against two [Ministry Scouts](Ministry_Scout.md) on [Summer Isle](Summer_Isle.md) during events.
 
 They wear a [Rebel's Bandana](Outfits.md) and the [Navaen Nomad Robes](Navaen_Nomad_Robes.md). All of them are also [Gremors](Gremor.md) with their gender varying.
 

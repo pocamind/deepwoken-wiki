@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 164146
+revid: 164611
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -94,4 +94,4 @@ Their arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) and 
 
 ## Tips
 
--   It is highly recommended that you take out all of the Blacksteel Pirates first before attempting to fight the Blacksteel Pirate Captain.
+-   It is highly recommended that you take out all of the [Blacksteel Pirates](Blacksteel_Pirate.md) first before attempting to fight the Blacksteel Pirate Captain.

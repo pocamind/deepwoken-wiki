@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 163900
+revid: 164607
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -318,6 +318,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
 
 -   **Broodlord's Muddtoss** - A move, used by [**Muddskipper Broodlord**](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
+-   **Shrine of Ostentation** - For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine would later be merged with the Shrine of Chance.
 
 ## Mystic
 

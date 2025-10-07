@@ -1,11 +1,9 @@
 ---
 title: "Destroyman III, Bon Vivant Adventurer"
-revid: 164491
+revid: 164661
 source: https://deepwoken.fandom.com/wiki/Destroyman_III%2C_Bon_Vivant_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Destroyman III, Bon Vivant Adventurer
@@ -13,6 +11,7 @@ notices:
 | Destroyman III, Bon Vivant Adventurer | |
 |---|---|
 | name | Destroyman III, Bon Vivant Adventure |
+| species | Megalodaunt |
 | location | The Starswept Valley |
 
 ## Description

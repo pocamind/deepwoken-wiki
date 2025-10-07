@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 163509
+revid: 164651
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,9 +36,9 @@ While sailing, the player can angle their sails by pressing Z or C towards a cer
 
 ### Cannons
 
-Starting with the Schooner and above, these ships will contain Cannons. Cannons can be operated by pressing E. Clicking will cause the Cannon to aim towards a target, shortly firing afterwards. Cannon damage will scale with the player's Power and deal double damage in PvE.
+Starting with the Schooner and above, ships will contain Cannons. Cannons can be operated by pressing E. Clicking will cause the Cannon to aim towards a target and shoot with no endlag. Cannon damage will scale with the player's Power and deal double damage in PvE.
 
-If someone is at the ship wheel, they can fire Cannons without being stationed near one by clicking where they want to fire. In return, this will increase the cooldown by a certain amount.
+If someone is controlling the wheel of the ship, they can fire Cannons without being stationed near one by clicking where they want to fire. In return, this will increase the cooldown by a certain amount.
 
 Cannons can have some weird raytracing, sometimes firing past hitboxes and firing at the sea instead.
 

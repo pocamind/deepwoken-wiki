@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 164435
+revid: 164592
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Lore figures, Military personnel of The Central Authority]
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-Warden Jericho is an [Adret](Adret.md) NPC. He is High-ranking [Authority](The_Central_Authority.md) official.
+Warden Jericho is an [Adret](Adret.md) NPC. He is a high-ranking [Authority](The_Central_Authority.md) official.
 
 He appears as an aged Adretian man with red eyes and markings, with a faded scar on his right eye. His hair is a dark blue color, and is combed back precisely to reach the back of his neck, with his bangs asymmetrically leaning towards the right. To the right of his head is a glowing white "crown" in the shape of three four-pronged stars connected with each other, likely as a result of being a [Warmaster](Oaths.md).
 

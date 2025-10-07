@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164548
+revid: 164638
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -505,6 +505,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   _Oppressive Force_ - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+    -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage.
+    -   The second hit cannot be buffed through damage modifiers.
+    -   The second hit will only happen if the first one lands.
+    -   The second hit does not proc on non-humanoid targets.
     -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), and [Worshipper Longsword](Worshipper_Longsword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Despite being found in the armory, the [Central Dirk](Central_Dirk.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
@@ -1876,8 +1880,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
 
 -   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
-    -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier and a base +20% stealth.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
+    -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
+    -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
+    -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier.
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
+        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage) or 36% if Felinor (+7.2% damage).
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   _Flanking Maneuvers_ - Enemies you assassinate take more PEN from your squadmates in your party.

@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 160888
+revid: 164596
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -22,7 +22,6 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
 
 ## Contents
 
--   [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md)
 -   "Brains" consisting of pulsating masses embedded with eyes that are chained up across the Rotlands. They aren't too common, but there's enough to cover a significant portion of the area.
     
     One of the "Brains" found pulsating throughout the Rotlands.

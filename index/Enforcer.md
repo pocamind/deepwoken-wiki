@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 163675
+revid: 164630
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, The Depths]
@@ -156,3 +156,4 @@ _**If you're a freshie reading this page and about to do the Enforcer trial for 
 -   The Enforcer's Blade Variant is physically smaller than The Enforcer's Axe Variant, Meanwhile The Enforcer's Hammer Variant is bigger than The Enforcer's Axe Variant.
 -   If The Enforcer spawns attuned to [Shadowcast](Shadowcast.md), due to its black effects, its animations can be semi-hidden by the particles.
 -   Ironically, The Enforcer is really easy to beat using their own weapon critical. By parrying their attack once then using the Enforcer weapon critical. Using this method repeatedly will kill The Enforcer in a short time without any risk of wiping.
+-   Very easy to cheese with any sort of burst of hits, like relentless flames, rapid punches, and the like, as it will usually try to block it which means you get a lot of posture damage in. staying defensive as you hit trade and then hitting one of those moves will usually posture break it/give you an opening to then do damage.

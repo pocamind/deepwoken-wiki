@@ -1,11 +1,12 @@
 ---
 title: Yakob
-revid: 164460
+revid: 164654
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Yakob
@@ -14,7 +15,11 @@ notices:
 |---|---|
 | name | Yakob |
 | aspect | Adret |
-| location | Port Merit |
+| location | The Three Cheers |
+
+“ Soon as you lot pulled up at the dock, there was an uproar - I swear, I don't think I've ever seen the folks here be this happy. ”
+
+― Yakob
 
 ## Description
 
@@ -22,7 +27,7 @@ Yakob is a [Adret](Adret.md) NPC.
 
 ## Location
 
-Yakob is located inside of the Three Cheers Bar at Port Merit.
+Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a table.
 
 ## Dialogue
 

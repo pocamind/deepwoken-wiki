@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164576
+revid: 164636
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -16,9 +16,7 @@ notices:
 
 ## Obtainment
 
-Upon reaching maximum [The Central Authority](The_Central_Authority.md) reputation or defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), this Origin will be unlocked. If your reputation is already maxed with the Authority and you do not have this Origin yet, commit a crime to lower your reputation and then do an event to raise it again.
-
-And yes, this means as soon as you get enough rep, or defeat titus you unlock it instantly.
+Upon reaching maximum [The Central Authority](The_Central_Authority.md) reputation or defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), this Origin will be automatically unlocked. If your reputation is already maxed with the Authority and you do not have this Origin yet, commit a crime to lower your reputation and then do an event to raise it again.
 
 ## Spawn
 
@@ -26,21 +24,21 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 ## Effects
 
-Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or become a deserter. All other Authority Ensign members will have a symbol above their head, to signify them being your ally.
+Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md).
 
 If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
 
-Gain the Salute [Emote](Emotes.md).
+Gain the Salute [Emote](Emotes.md). All other Authority Ensign members will have a symbol above their head, to signify them being your ally.
 
 ### Horn of the Authority
 
-Gain a Talent Tool horn that marks escaped prisoners when blown.
+Gain a Talent Tool horn that marks escaped prisoners when blown. Applies a combat tag onto escaping prisoners.
 
-## Squads
+### Squads
 
-On the top left of your screen, next to the Help button, there will be an Authority Helmet icon, labeled "Squads." Clicking this will allow you to create a squad with other Authority Ensign members. This is very similar to party systems in other games.
+On the top left of your screen, next to the Help button, there will be an Authority Helmet icon, labeled "Squads." Clicking this will allow you to create a Squad with other Authority Ensign members. This is very similar to party systems in other games.
 
-Being in a squad allows you to proc certain Authority Ensign Talents and allows you to take on the Missions in a squad. This feature is highly recommended, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
+Being in a Squad allows you to proc certain Authority Ensign Talents and allows you to take on the Missions as a group. This feature is highly recommended, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
 
 ## Exile
 
@@ -55,6 +53,8 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 ### Traitor
 
 Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in the [Chime of Conflict](Chime_of_Conflict.md) and other non-overworld locations.
+
+As of 7/10/25, even starting the grip animation on an Authority Ensign member will exile you, so stay vigilant!
 
 ## Progression
 
@@ -131,7 +131,7 @@ This list may be incomplete.
   <td>
   <ul>
     <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: TBA</li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White)</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats</li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
   <ol>
@@ -186,7 +186,7 @@ A division focused on backstabs and assassination.
 A division focused on leadership and support.
 
 -   Obtainment
-    -   Complete ??? missions as the leader of a party (being solo counts).
+    -   Complete ??? missions.
     -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
 -   Promotions
     -   Lance Corporal -> Warrant Officer
@@ -218,7 +218,7 @@ A division focused on brute force and posture damage.
 
 ### Promotion Talents
 
-Upon being promoted, you will be prompted with a Talent hand containing Origin-exclusive Talents.
+Upon being promoted, you will be prompted with a Talent hand containing Origin-exclusive Talents. You can only be promoted 4 times (5 if Command Division), and you cannot change these Talents once you've chosen them. Choose wisely.
 
 #### Default Talents
 
@@ -228,9 +228,15 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   _Crossguard_ - If you are using a sword, you gain 10% chip against other opponents wielding swords.
 
 -   _Oppressive Force_ - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
-    -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), and [Worshipper Longsword](Worshipper_Longsword.md).
+    -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
+    -   The second hit will only happen if the first one lands.
+    -   The second hit does not proc on non-humanoid targets.
+    -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), and [Worshipper Longsword](Worshipper_Longsword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Central Dirk](Central_Dirk.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
+    -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
+
+-   _Absolute Force_ - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+    -   Prerequisites: Oppressive Force
 
 -   _Riot Shield_ - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
@@ -242,8 +248,12 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   _Executioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 
 -   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
-    -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier and a base +20% stealth.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
+    -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
+    -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
+    -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier.
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
+        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage) or 36% if Felinor (+7.2% damage).
 
 -   _Flanking Maneuvers_ - Enemies you assassinate take more PEN from your squadmates in your party.
 
@@ -256,9 +266,6 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   _Target Focus_ - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
 #### Shock Trooper Corps Division Talents
-
--   _Absolute Force_ - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Prerequisites: Oppressive Force
 
 -   _Amp Overdrive_ - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
@@ -281,10 +288,9 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 ### Cons
 
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
-    -   Though even without being Exiled, claiming a [Guild Banner](Guild_Banners.md) will claim it for your original guild, not The Central Authority's.
 -   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
-    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md)).
+    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
 -   Because the Master Armors are immediately equipped upon maxing your Division, if you craft any other Outfit, they will be lost permanently.
 
 ## Reputation
