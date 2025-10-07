@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 164401
+revid: 164499
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers, Origins, Character]
@@ -32,7 +32,7 @@ You cannot enter the [Trial of One](Trial_of_One.md), even if you escape the Dep
 
 You can enter the [Temple of Hearts](Temple_of_Hearts.md) through a hidden crevasse in the wall next to the Resonance door. You can also speak to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) as a Deepbound without him killing you, though you still won't be able to make any wishes unless you have a [Resonance](Resonance.md).
 
-**Deepbound Contract**
+### Deepbound Contract
 
 Your experience gain while in the Depths is greatly increased, While your experience gain in overworld is greatly decreased. While below power 15, you'll gain another experience multiplier.
 

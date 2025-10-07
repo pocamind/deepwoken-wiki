@@ -1,11 +1,9 @@
 ---
 title: Voidwalker
-revid: 164397
+revid: 164506
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Origins, Character, In progress without reason, InProgressPages, Pages with broken file links]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pages with broken file links, Origins, Character, The Knives of Eylis]
 ---
 
 # Voidwalker
@@ -16,7 +14,7 @@ notices:
 
 File:Voidwalker Spawn Icon.png
 
-**_If you're looking on how to get rid of Voidwalkers - visit the [Bounty Hunting](Bounty_Hunting.md) page instead._**
+_**If you're looking on how to get rid of Voidwalkers - visit the [Bounty Hunting](Bounty_Hunting.md) page instead.**_
 
 ## Description
 
@@ -30,22 +28,22 @@ All Voidwalkers start with the [Whaler Initiate](Whaler_Initiate.md) [Outfit](Ou
 
 To obtain the Voidwalker origin, the player must do the following:
 
-1.  Have 5 grips on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of a grip).
+1.  Have 5 player grips on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of a grip).
 2.  Talk to [Eiris](Eiris.md) on the [Knives of Eylis vs Etrea sea event](Random_Encounters.md#fights-between-factions)
 3.  Enter the [Subtle Knife of Eylis'](Subtle_Knife_of_Eylis.md) [Time-Slowing Orb](Subtle_Knife_of_Eylis.md#moveset) and teleport to the the [Voidheart](Voidheart.md).
 4.  Talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) and obtain the origin, after which the player is teleported back to their last location (Similar to the Voideye).
 
 ## Spawn
 
-Voidwalkers spawn at [Lower Erisia](Lower_Erisia.md) without any starter equipment. To teleport into the Voidheart, players must use the "Voideye" tool. In order to exit the Voidheart, the player will have to speak to [The Voidmother](The_Voidmother.md) and choose the dialogue option "I wish to depart."
+Voidwalkers spawn at [Lower Erisia](Lower_Erisia.md) with the [Whaler Initiate](Whaler_Initiate.md) Outfit and 25. To teleport into the Voidheart, players must use the "Voideye" tool. In order to exit the Voidheart, the player will have to speak to [The Voidmother](The_Voidmother.md) and choose the dialogue option "I wish to depart."
 
-## Talents
+## Effects
 
 ### Voidwalker contract
 
 -   _In-game description_: You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.
 -   You get increased EXP gain from bounties and decreased EXP gain from everything else.
--   Your starting [reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md), [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md) will be set to "Enemies", which allows other Voidwalkers to take your bounties until you gain neutral reputation with [The Kingdom of Etrea](Etrea.md) [The Hive](The_Hive.md).
+-   Your starting [reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md), [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md) will be set to "Enemies", which allows other Voidwalkers to take your bounties until you gain neutral reputation with [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md).
 
 ### Voideye
 
@@ -60,5 +58,28 @@ Voidwalkers spawn at [Lower Erisia](Lower_Erisia.md) without any starter equipme
 -   An ability that allows Voidwalkers to teleport near their bounties. If you go too far away from your target you will have a prompt appear on the upper side of your screen, signifying that you're about to lose your target and get teleported back to [the Voidheart](Voidheart.md).
 -   Upon using this ability a menu will appear, allowing you to choose your target. After choosing your target you will be given two choices of how you want to hunt: Ferocity and Stealth.
     -   Upon choosing the Ferocity option you will be teleported near your bounty, while their silhuette will be highlighted with red through walls every ~30 seconds. However, when teleporting a sound effect will play, and you will have a very obvious black whirling visual effect coming out from your body.
-        
-    -   Upon choosing the Stealth option you will be teleported near your bounty. You will not have anything identifying you as a Voidwalker, howver you are not granted a vision of your target. Although, you can guess where the bounty is located just from the general location of it and if you do not guess right - you will have a prompt appear on your upper side of the screen signifying that your prey is about to escape, so you can try and change directions to catch up with them.
+    -   Upon choosing the Stealth option you will be teleported near your bounty. You will not have anything identifying you as a Voidwalker, howver you are not granted a vision of your target. Although, you can guess where the bounty is located just from the general location of it and if you guess wrong, you will have a prompt appear on your upper side of the screen signifying that your prey is about to escape, so you can try and change directions to catch up with them.
+
+## Pros and Cons
+
+### Pros
+
+-   This Origin is very PvP centered. If you like this kind of content, this Origin will appeal to you.
+-   The Voideye can act similar to a guild base, being a location to stock up on necessities or sell items at the antiquarian. Additionally, unlike the [Chime of Dwelling](Chime_of_Dwelling.md), the Voideye can be accessed from anywhere.
+-   As long as you complete your bounty, you can use the bounty teleport as a way to "fast travel" around the map, skipping the time spent travelling. However, because you must find a bounty that's around your level, this may not always be a choice for you.
+-   You start with [Whaler Initiate](Whaler_Initiate.md), which has decent stats for a starter armor.
+-   The Voideye is a very good place to find ganks.
+
+### Cons
+
+-   This Origin is very PvP centered. If you do not like this kind of content, this Origin will not appeal to you.
+-   To further push the above point, experience gained from non-bounty sources is reduced.
+
+## Reputation
+
+Your starting faction [reputation](Reputation.md) is:
+
+-   **Friend** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) and [Lost Celtor](Lost_Celtor.md)
+-   **Enemy** of [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
+-   **Neutral** with all other factions [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Authorityiconfaction](The_Central_Authority.md)
+-   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._

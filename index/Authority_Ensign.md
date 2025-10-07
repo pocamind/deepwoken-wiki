@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164477
+revid: 164518
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -24,7 +24,7 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 ## Effects
 
-Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or become a deserter.
+Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or become a deserter. All other Authority Ensign members will have a symbol above their head, to signify them being your ally.
 
 If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
 
@@ -34,7 +34,7 @@ Gain a Talent Tool horn that marks escaped prisoners when blown.
 
 ## Squads
 
-On the top left of your screen, next to the Help button, there will be an Authority Helmet icon, labeled "Squads." Clicking this will allow you to create a squad with other Authority Ensign members.
+On the top left of your screen, next to the Help button, there will be an Authority Helmet icon, labeled "Squads." Clicking this will allow you to create a squad with other Authority Ensign members. This is very similar to party systems in other games.
 
 Being in a squad allows you to proc certain Authority Ensign Talents and allows you to take on the Missions in a squad. This feature is highly recommended, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
 
@@ -159,7 +159,9 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   _Crossguard_ - If you are using a sword, you gain 10% chip against other opponents wielding swords.
 
 -   _Oppressive Force_ - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
-    -   These weapons are: [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed), [Alloyed Halberd](Halberd.md#alloyed), [Alloyed Officer Saber](Officer_Saber.md#alloyed), [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), and [Sovereign's Punishment](<Sovereign's_Punishment.md>).
+    -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), and [Worshipper Longsword](Worshipper_Longsword.md).
+    -   The Alloyed variants of all of the above weapons proc this effect as well.
+    -   Despite being found in the armory, the [Central Dirk](Central_Dirk.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
 
 -   _Riot Shield_ - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
@@ -210,6 +212,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 ### Cons
 
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
+    -   Though even without being Exiled, claiming a [Guild Banner](Guild_Banners.md) will claim it for your original guild, not The Central Authority's.
 -   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md)).
@@ -225,3 +228,4 @@ Your starting faction [reputation](Reputation.md) is:
 -   ' **_by [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)_**
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
+-   You cannot gain [Etrea](Etrea.md) reputation. This restriction will be removed, should you be Exiled.

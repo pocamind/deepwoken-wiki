@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 164308
+revid: 164494
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -30,9 +30,11 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 
 ## Description
 
-**Handcuffs** are a pair of heavily rusted handcuffs worn by prisoners of the Authority. While this weapon is equipped, you will not be able to use [Mantras](Mantras.md).
+**Handcuffs** are a pair of heavily rusted handcuffs worn by prisoners of the Authority. While this weapon is equipped, you will not be able to swim, or use [Mantras](Mantras.md).
 
 This weapon is automatically equipped upon being detained (gripped) by an [Authority Ensign](Authority_Ensign.md) player.
+
+You can take the handcuffs off by going to a [Blacksmith](Blacksmith.md).
 
 ## Trivia
 

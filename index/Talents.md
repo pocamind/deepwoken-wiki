@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164301
+revid: 164511
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -504,8 +504,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
--   _Oppressive Force_ \[Origin Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
-    -   These weapons are: [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed), [Alloyed Halberd](Halberd.md#alloyed), [Alloyed Officer Saber](Officer_Saber.md#alloyed), [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), and [Sovereign's Punishment](<Sovereign's_Punishment.md>).
+-   _Oppressive Force_ - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+    -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Cavalry Saber](Cavalry_Saber.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), and [Worshipper Longsword](Worshipper_Longsword.md).
+    -   The Alloyed variants of all of the above weapons proc this effect as well.
+    -   Despite being found in the armory, the [Central Dirk](Central_Dirk.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   _Steel Tread_ \[Origin Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 163684
+revid: 164493
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -324,6 +324,7 @@ Exhaustive Loot Table
 ## Trivia
 
 -   The music of his bossfight is [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) by Naktigonis.
+    -   The music of his final phase is Synthetic Deicide.
 -   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@akirascorner) (previously known as DemStormz).[\[5\]](#cite-note-5)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   Despite having visual armor, he has 0% resistance which making PEN stat useless against him.

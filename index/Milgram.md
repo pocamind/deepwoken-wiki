@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 164479
+revid: 164486
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Milgram is a [Adret](Adret.md) NPC, he is a part of the Inquisitor division, led by [High Inquisitor Merey](High_Inquisitor_Merey.md).
+Milgram is a [Adret](Adret.md) NPC, he is a part of the Inquisitor division, led by [High Inquisitor Merey](High_Inquisitor_Merey.md). He has the [Hallowtide](Hallowtide.md) variant of the [aspect](Aspects.md) wears a [Navy Inquisitor's Duster](<Inquisitor's_Duster.md>) and a [black headband](Headband.md). His [outfit](Outfits.md) is [Inquisition Light](Inquisition_Light.md).
 
 ## Location
 
