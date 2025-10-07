@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 161516
+revid: 164565
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones, The Ignition Union, Eastern Luminant, Locations in the Eastern Luminant]
@@ -8,13 +8,7 @@ categories: [Locations, Voidzones, The Ignition Union, Eastern Luminant, Locatio
 
 # Saramaed Summit
 
-LocationL Saramaed Summit LocationR
-
-TERRITORY OF Voidzone
-
-The air itself feels as if it were becoming ash, as the embers around you radiate heat.
-
-  
+Template:Location2
 
 **Saramaed Summit** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the East Luminant.
 

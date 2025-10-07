@@ -1,9 +1,9 @@
 ---
 title: Lightkeeper Temple
-revid: 159696
+revid: 164564
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Voidzones]
+categories: [Pages with broken file links, Locations, Voidzones, Locations in the Eastern Luminant]
 ---
 
 # Lightkeeper Temple

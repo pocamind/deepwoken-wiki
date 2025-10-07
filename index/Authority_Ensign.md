@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164518
+revid: 164576
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -18,6 +18,8 @@ notices:
 
 Upon reaching maximum [The Central Authority](The_Central_Authority.md) reputation or defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), this Origin will be unlocked. If your reputation is already maxed with the Authority and you do not have this Origin yet, commit a crime to lower your reputation and then do an event to raise it again.
 
+And yes, this means as soon as you get enough rep, or defeat titus you unlock it instantly.
+
 ## Spawn
 
 Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and an [Authority Helm](Authority_Helm.md).
@@ -27,6 +29,8 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or become a deserter. All other Authority Ensign members will have a symbol above their head, to signify them being your ally.
 
 If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
+
+Gain the Salute [Emote](Emotes.md).
 
 ### Horn of the Authority
 
@@ -56,47 +60,109 @@ Upon killing another Authority Ensign member, you will be marked as a traitor, e
 
 Speak to [Captain Trist](Captain_Trist.md), an Adret NPC located on the path from [Fort Merit](Fort_Merit.md) to [Merit's Reach](<Merit's_Reach.md>), to gain a Mission. Missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md).
 
-Your current Mission objective and the Mission's location will be displayed on the top left of your screen, similar to [jobs](Job_Boards.md). You can right click the Mission popup to view its location on the map.
+Your current Mission objective and the Mission's location will be displayed on the top left of your screen, similar to [jobs](Job_Boards.md). You can right click the Mission popup to view its location on the map. The amount of time allocated to each mission depends on the mission location.
 
-Upon completing a Mission, you will gain 45 points towards your promotion, EXP, and a very small [Miner's Landing](<Miner's_Landing.md>) chest. If you fail a Mission by running out of time or dying, you will lose 25 promotion points instead.
+Upon completing a Mission, you will have to report back to Captain Trist. Upon doing so, you will gain 45 points towards your promotion, EXP, and a very small chest. If you fail a Mission by running out of time, failing the objective, or dying, you will lose 25 promotion points instead. The mission will also be considered failed if you die on your way back to Captain Trist after a successful mission.
 
 Leaving the game will forfeit your Mission without it being counted as "failed," allowing you to reroll your Mission objective.
 
+Even if you aren't in a squad, other players may be assigned to the same mission as you. If the mission is completed, it will be completed for both parties. If the mission fails, both parties will be punished. Dying during a mission only counts as a mission fail for the person who died.
+
 ### List of Missions
 
-1.  **Hostage** - The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md).
-    -   Upon picking up the hostage and moving far enough away, the Mission will be complete, and the NPCs will immediately lose aggression.
-    -   The hostage has very low health, and if the hostage is killed, the Mission will fail.
-    -   The Blacksteel Pirate Captain is very strong and has a lot of health. It is generally advised to take out all of the other Blacksteel Pirates first.
-    -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
-2.  **Armanent Sabotage** - The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The encampment will be guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
-    -   The barrels can be destroyed by dealing damage to them via Mantras or M1s.
-    -   Once all of the barrels are destroyed, the mission will be complete, and the NPCs will immediately lose aggression.
-    -   You can sneak around the fort to pick off or assassinate some of the Legion Soldiers.
-    -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
-3.  **Secure Perimeter** - The player and their squad are tasked with defending an Authority-branded flag from enemies.
-    -   This mission may be bugged, as you just stand near the flag and it will be automatically completed, if given some time.
+1.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
+    -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage with V and run away with them. Once you get far enough away, the mission will be complete.
+    -   Potential Locations:
+        -   [Derelict Highchurch](Derelict_Highchurch.md) - the hostage is behind the altar in the church; 43 minute 30 second time limit
+        -   [Miner's Landing](<Miner's_Landing.md>) - the hostage is in the inn on the second floor; 19 minute 20 second time limit
+        -   [Summer Isle](Summer_Isle.md) - the hostage is inside the abandoned building, the same location for the [Chainwarden](Oath%253A_Chainwarden.md) obtainment quest; 49 minute 50 second time limit
+    -   Notes/Tips:
+        -   When the Mission completes, the Blacksteel Pirates will immediately lose aggression.
+        -   The hostage has very low health, and if the hostage is killed, the Mission will fail.
+        -   The Blacksteel Pirate Captain is very strong and has a lot of health. It is generally advised to take out all of the other Blacksteel Pirates first.
+        -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
+        -   For the Derelict Highchurch location, the surrounding [Songseekers](Songseeker_Flamecharmer.md) will not aggro onto you, seemingly due to a bug. You can use this to your advantage by hitting them once, causing them to aggro onto the Blacksteel Pirates instead. Alternatively, the Blacksteel Pirates are all positioned where they're facing the altar, meaning you can sneak up behind them and get free assassinations.
+        -   For the Miner's Landing location, the Blacksteel Pirates will be fighting the [Ignition Union Guards](Ignition_Union_Guard.md) by the time you get there. You can use this chaos to grab the hostage and flee.
+        -   For the Summer Isle location, the Blacksteel Pirates are located around the front of the building, so if you sneak in through the hole in the back wall, you can avoid combat altogether.
+2.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\].. Distribute this information to your Squad._
+    -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them three times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
+    -   Potential Locations:
+        -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 42 minute time limit
+        -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 36 minute 30 second time limit
+        -   The water highway gate between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 58 minute 40 second time limit
+    -   Notes/Tips:
+        -   When the Mission completes, the Legion Soldiers will immediately lose aggression.
+        -   You can sneak around the fort to pick off or assassinate some of the Legion Soldiers.
+        -   Make sure to check inside all of the tents for barrels.
+        -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
+3.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\].. Distribute this information to your Squad._
+    -   Objective: The player and their squad are tasked with defending an Authority-branded flag from enemies.
+    -   Potential Locations:
+        -   [Miner's Landing](<Miner's_Landing.md>); 17 minute 30 second time limit
+        -   [Summer Isle](Summer_Isle.md); 1 hour 3 minute 20 second time limit
+    -   Notes/Tips:
+        -   This mission may be bugged, as you just stand near the flag and it will be automatically completed after a very short wait.
+
+### Mission Lootpool
+
+This list may be incomplete.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Treasures.md">Gems</a>, basic <a href="Mantra_Modifiers.md">Mantra Modifiers</a>, all <a href="Mantra_Modifiers.md#sparks">Sparks</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b><font>Light Weapons</font></b>: <a href="Central_Dirk.md">Central Dirk</a>.</li>
+    <li><b><font>Medium Weapons</font></b>: TBA</li>
+    <li><b><font>Heavy Weapons</font></b>: TBA</li>
+    <li><b><font>Offhand Weapons</font></b>: TBA</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: TBA</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White)</li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+    <li><b>Generic Torso</b>: TBA</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: TBA</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Promotions
 
-Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards. Promotion points are reset upon being promoted.
+Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards. Promotion points are reset upon being promoted. Upon being promoted, you will gain a promotion Talent hand [see below](#talents).
 
 Enlistment Ranks
 
 1.  **Private** (PVT); This is the standard rank that is granted upon obtaining the Origin.
-2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points. Upon reaching this tier, you will gain an Origin Talent hand; [see below](#default-talents).
-    -   Additionally, you will gain access to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of other weapons that can be found at the Armory.
-3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points. Allows you to join one of the Divisions: Shock Trooper Corp, Leadership, or Inquisition.
+2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points.
+    -   You will gain access to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of other weapons that can be found at the Armory.
+3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points.
+    -   Allows you to join one of the Divisions: Shock Trooper Corp, Command, or Inquisition.
 
 ### Divisions
 
-Upon reaching the Lance Corporal rank and meeting the stat requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md) and [Talents](Talents.md).
+Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Master [Outfits](Outfits.md), and [Talents](Talents.md). Once you choose a Division, you cannot go back.
 
-Each Division is unique in their themes, offering many avenues of gameplay and build diversity. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please.
-
-Most Authority NPCs will salute you when you approach them after joining a Division.
-
-Once you choose a Division, you cannot go back.
+Each Division is unique in their themes, offering many avenues of gameplay and build diversity. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please. Additionally, most Authority NPCs will salute you when you approach them.
 
 #### Inquisition Division
 
@@ -107,19 +173,20 @@ A division focused on backstabs and assassination.
     -   Reach Lance Corporal rank and speak to [High Inquisitor Merey](High_Inquisitor_Merey.md).
 -   Promotions
     -   Lance Corporal -> Inquisitor
-    -   Inquisitor -> Inquisitor 1st Class | ? promotion points
-    -   Inquisitor 1st Class -> Handler | ? promotion points
+    -   Inquisitor -> Inquisitor 1st Class | 329 promotion points
+    -   Inquisitor 1st Class -> Handler | 388 promotion points
 -   Benefits
     -   [Inquisition Light](Inquisition_Light.md) Master Armor
-    -   [Big Brother](Big_Brother.md) Weapon
+    -   At Handler rank, you can speak to High Inquisitor Merey and receive the [Big Brother](Big_Brother.md) Weapon
+    -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to black
     -   Exclusive Division Talents; [see below](#inquisition-division-talents)
 
-#### Leadership Division
+#### Command Division
 
 A division focused on leadership and support.
 
 -   Obtainment
-    -   TBA
+    -   Complete ??? missions as the leader of a party (being solo counts).
     -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
 -   Promotions
     -   Lance Corporal -> Warrant Officer
@@ -127,24 +194,26 @@ A division focused on leadership and support.
     -   Captain -> Commander | 388 promotion points
     -   Commander -> Seneschal (currently bugged) | ? promotion points
 -   Benefits
+    -   [Authority Captain Uniform](Authority_Captain_Uniform.md)
     -   ??? Master Armor
-    -   ??? Weapon
-    -   Exclusive Division Talents; [see below](#leadership-division-talents)
+    -   At Seneschal rank, you can speak to Warden Jericho and receive the ??? Weapon
+    -   Exclusive Division Talents; [see below](#command-division-talents)
 
 #### Shock Trooper Corps Division
 
-A division focused on posture damage.
+A division focused on brute force and posture damage.
 
 -   Obtainment
-    -   Complete 3-4 Squad missions
+    -   Complete ?? missions while being the MVP
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     -   Lance Corporal -> Frontliner
-    -   Frontliner -> Interceptor |? promotion points
-    -   Interceptor -> Operator | ? promotion points
+    -   Frontliner -> Interceptor | 329 promotion points
+    -   Interceptor -> Operator | 388 promotion points
 -   Benefits
     -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor
-    -   [Duskguard Axe](Duskguard_Axe.md)
+    -   At Operator rank, you can speak to Sentinel Augustus and receive the [Duskguard Axe](Duskguard_Axe.md) weapon
+    -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to red
     -   Exclusive Division Talents; [see below](#shock-trooper-corps-division-talents)
 
 ### Promotion Talents
@@ -180,7 +249,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 -   _Stature Break_ - Landing a backstab of any kind disables posture for 8 seconds.
 
-#### Leadership Division Talents
+#### Command Division Talents
 
 -   _Officer's Training_ - While using a Sword or Rapier, take 30% less posture damage from critical.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164511
+revid: 164548
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1099,10 +1099,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Dread Imperium
 
 -   _Officer's Training_ \[Origin Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from critical.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Leadership Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
 -   _Target Focus_ \[Origin Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Leadership Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
 ### Drowned Secret
 
@@ -2402,7 +2402,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Oathless
 
--   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Armor)
+-   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor)
     -   Prerequisites: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks, 10 minutes of playtime
 
 ### Omniscient
@@ -3883,7 +3883,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slot, +10 Health, +20% Oath Armor)
+-   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor)
     -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)

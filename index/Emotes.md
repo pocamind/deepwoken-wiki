@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 163903
+revid: 164557
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -23,9 +23,9 @@ Emote Screen
 |  | Head Nod | Unlocked by default. |
 | File:Leanback.png | Lean Back | Unlocked by default. |
 | File:Resting.png | Resting | Unlocked by default. |
-|  | Salute | Unlocked by default. |
 | File:Pride.png | Pride | Unlocked by default. |
 |  | Head Shake | Unlocked by default. |
+|  | Salute | [Authority Ensign](Authority_Ensign.md) exclusive\*. |
 |  | Penguin | Emote Pack 1 |
 |  | Griddy | Emote Pack 1 |
 |  | Loser | Emote Pack 1 |

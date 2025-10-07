@@ -1,6 +1,6 @@
 ---
 title: Plain Hood
-revid: 153373
+revid: 164570
 source: https://deepwoken.fandom.com/wiki/Plain_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Hoods]
 
 ## Description
 
-Hoods are an [Equipment](Equipment.md) item under the "Head" category. They can be found through chests in [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md). Also, can be found in other chests, not only [Summer Isle](Summer_Isle.md). \[Go to Equipment Page for more accurate sources\]
+Hoods are an [Equipment](Equipment.md) item under the "Head" category. They can be found through chests in [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md).
 
 ## Trivia
 

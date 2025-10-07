@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 164409
+revid: 164581
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Origins]

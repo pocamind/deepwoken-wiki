@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 164499
+revid: 164528
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers, Origins, Character]
@@ -22,7 +22,7 @@ Warning: Do not attempt the Charisma check with Akira. If you do not have 90 or 
 
 ## Spawn
 
-Deepbounds spawn with the [Diver Apprentice Robes](Diver_Apprentice_Robes.md) equipped, 25, and the Call of the Deep and Deepbound Contract Talents. You can choose to spawn at either [Castle Light](Castle_Light.md) or [the Diluvian Mechanism](The_Diluvian_Mechanism.md) by clicking their respective origins.
+Deepbounds spawn with the [Diver Apprentice Robes](Diver_Apprentice_Robes.md) equipped, 25, and the Call of the Deep and Deepbound Contract Talents. You can choose to spawn at either [Castle Light](Castle_Light.md) or [the Diluvian Mechanism](The_Diluvian_Mechanism.md) by clicking their respective icons in Character Creation.
 
 Due to time differences in the Depths, your character will be 17 years old on spawn, instead of the usual 18.
 

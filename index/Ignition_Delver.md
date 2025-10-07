@@ -1,11 +1,9 @@
 ---
 title: Ignition Delver
-revid: 164514
+revid: 164539
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Origins, Character]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Origins, The Ignition Union, Character]
 ---
 
 # Ignition Delver
@@ -16,20 +14,24 @@ notices:
 
 ## Description
 
-**Ignition Delver** is a PvE-focused [origin](Origins.md), highly favoring, but not mandating completing [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md) for EXP. Doing anything other than Jobs or Dungeons(ex. PvP) results in lesser EXP return than under a different origin.
+**Ignition Delver** is a PvE-focused [origin](Origins.md), highly favoring, but not mandating completing [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md) for EXP. Doing anything other than Jobs or Dungeons (ex. PvP) results in lesser EXP return than under a different origin.
 
 ## Obtainment
 
-Completing [Orion](Orion.md)'s quest on [Miner's Landing](<Miner's_Landing.md>) **or** saving [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and reporting to [Alpha](Alpha.md) afterwards.
+Ignition Delver has two obtainment methods:
+
+1.  Completing [Orion](Orion.md)'s quest on [Miner's Landing](<Miner's_Landing.md>) and speaking back with Orion after the quest's completion.
+2.  Saving [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and reporting to [Alpha](Alpha.md) afterwards.
 
 ## Spawn
 
-Ignition Delvers choose one of two spawns:
-
--   [Miner's Landing](<Miner's_Landing.md>). This spawns the player in the basement of Miner's Landing in the [Eastern Luminant](Luminants.md#etrean-and-eastern-luminants).
--   [The Chariot's Spire](<The_Chariot's_Spire.md>). This spawns the player in [the First Layer](First_Layer.md) of [the Depths](The_Depths.md), which is essentially a more dangerous spawn.
+Delvers spawn with the [Union Initiate](Union_Initiate.md) Outfit equipped, 25, and the Union Card, Union Pager, and Union Hook Talents. You can choose to spawn at either [Miner's Landing](<Miner's_Landing.md>) or the [Chariot's Spire](<The_Chariot's_Spire.md>) by clicking their respective icons in Character Creation.
 
 ## Effects
+
+All necessities at the [Chariot's Spire](<The_Chariot's_Spire.md>) will be accessible to you such as the [banker](Item_Bank.md), stove, and [antiquarian](Antiquarian.md). Additionally, you can use the [Hollow Forge](Hollow_Forge.md) at the Chariot's Spire or Miner's Landing to melt down [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) or [Armorer's Needles](<Armorer's_Needle.md>) or turn Smith's Alloys into Armorer's Needles and vice versa.
+
+If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you will be able to use the Deep Drill at [Chariot's Spire](<The_Chariot's_Spire.md>) to re-enter the Second Layer. This will spawn you at [The Frontier Furnace](The_Frontier_Furnace.md) with the power already turned on, skipping the [Bone Keeper](Bone_Keeper.md) fight. You will not have a [Light Hook](Light_Hook.md) if you do this.
 
 ### Union Card
 
@@ -45,18 +47,28 @@ Ignition Delvers choose one of two spawns:
 
 -   _In-game description_: You can now make use of the Ignition Union hooks to ascend or descend.
 -   Character gains the ability to use the [Union Hooks](Union_Hooks.md) to ascend or descend.
--   This talent is must-have if you're planning to do lay
--   This is not an origin talent, since it can be gained under a different origin by turning on the generator guarded by a [Bone Keeper](Bone_Keeper.md) on [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and talking to [Alpha](Alpha.md) afterwards. Ignition Delvers start with this talent without the need to go to the Second Layer.
+-   This Talent is must-have if you're planning to do Layer Two.
+-   While this Talent is not exclusive to this Origin, it is granted for free for Delvers.
+-   For more info - visit the [Union Hooks](Union_Hooks.md) page.
 
 ## Pros and Cons
 
 ### Pros
 
-WIP
+-   Increased EXP gain from completing [Jobs](Job_Boards.md)/[Dungeons](Dungeons.md).
+-   Union Pager allows you to take jobs remotely, saving you a significant amount of time.
+-   Jobs are one of the most popular progression methods and this Origin is tailored to them.
+-   You start with the [Union Hook](Talents.md#ignition-union) Talent, providing greater navigation options in the Overworld and Second Layer.
+-   [Union Initiate](Union_Initiate.md) is the only outfit in the game that grants [Carry Load](Carry_Load.md), making this Origin a must have for bank slots.
+-   Allows you to use all necessities at the [Chariot's Spire](<The_Chariot's_Spire.md>) such as the Banker, stove, and Antiquarian.
+    -   However, you still won't be able to enter the Chariot's Spire through the main entrance way if you've drowned, unlike [Deepbound](Deepbound.md).
+-   The [Hollow Forge](Hollow_Forge.md) is an exceptionally useful item for transfusing unused relics into ones that are more desirable.
+-   Through the Chariot's Spire Deep Drill, you can skip a decent chunk of Layer 2's first floor, allowing you to complete the dungeon much faster.
 
 ### Cons
 
-WIP
+-   Reduced EXP gain from non-Job or Dungeon sources: [Bosses](Bosses.md)/[Random Encounters](Random_Encounters.md)/[Bounty Hunting](Bounty_Hunting.md)/[Quests](Quests.md).
+    -   There aren't many mid-game progression dungeons, so for most exp gain, if you're not skilled enough to take on end-game dungeons, you're gonna have to either farm Bosses or Jobs.
 
 ## Reputation
 
@@ -65,3 +77,5 @@ Your starting reputation is:
 -   **Friend** of [The Ignition Union](The_Ignition_Union.md), and [Lost Celtor](Lost_Celtor.md).
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
 -   **Neutral** with all other [factions](Factions_&_Groups.md) [Diversiconfaction](The_Divers.md) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md)
+
+_Note: your chosen [aspect](Aspects.md) may affect your starting reputation._
