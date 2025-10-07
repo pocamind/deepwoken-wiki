@@ -1,9 +1,12 @@
 ---
 title: Captain Trist
-revid: 164383
+revid: 164478
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs]
+categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Captain Trist
@@ -14,25 +17,17 @@ categories: [Adret NPCs]
 | aspect | Adret |
 | location | Fort Merit |
 
-Captain Trist the NPC that you can obtain missions from for the [Authority Ensign](Authority_Ensign.md) origin
+## Description
 
-He is an Adret NPC located on the path from [Fort Merit](Fort_Merit.md) to [Merit's Reach](<Merit's_Reach.md>), to gain a Mission. Missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md).
+Captain Trist is a [Adret](Adret.md) NPC, he hands out missions for the [Authority Ensign](Authority_Ensign.md) to rank up.
 
-### Dialogue
+## Location
 
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-</tbody>
-</table>
+Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), around the fortress at [Fort Merit](Fort_Merit.md).
 
-  
+## Missions
 
-  
-
-### List of Missions
+Missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md).
 
 1.  **Hostage** - The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md).
     -   Upon picking up the hostage and moving far enough away, the Mission will be complete, and the NPCs will immediately lose aggression.
@@ -46,3 +41,114 @@ He is an Adret NPC located on the path from [Fort Merit](Fort_Merit.md) to [Meri
     -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
 3.  **Secure Perimeter** - The player and their squad are tasked with defending an Authority-branded flag from enemies.
     -   This mission may be bugged, as you just stand near the flag and it will be automatically completed, if given some time.
+
+## Dialogue
+
+**Player is an Authority Ensign:**
+
+**Player is under no division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Inquisitor division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is under Shock Corps division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is not an Authority Ensign:**
+
+**Good Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>I only hand out orders to <a href="Glossary.md#the-central-authority">Authority</a> soldiers, civilian.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation with The Central Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End, player is jailed and sent to <b>execution</b>.</td>
+</tr>
+</tbody>
+</table>

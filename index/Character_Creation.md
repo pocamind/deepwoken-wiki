@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 164388
+revid: 164393
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -192,9 +192,9 @@ When first creating a character, the player can choose only out of two spawn loc
 
 [Ignition Delver](Ignition_Delver.md) 
 
-[Authority Engisn](Authority_Engisn.md)
+[Authority Ensign](Authority_Ensign.md)
 
-[Authority Engisn](Authority_Engisn.md) 
+[Authority Ensign](Authority_Ensign.md) 
 
   
 

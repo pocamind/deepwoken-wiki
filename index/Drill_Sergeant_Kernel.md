@@ -1,29 +1,29 @@
 ---
-title: Taiga
-revid: 164474
-source: https://deepwoken.fandom.com/wiki/Taiga
+title: Drill Sergeant Kernel
+revid: 164453
+source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
-# Taiga
+# Drill Sergeant Kernel
 
-| Taiga | |
+| Drill Sergeant Kernel | |
 |---|---|
-| name | Taiga |
-| aspect | Capra |
-| location | The Three Cheers |
+| name | Drill Sergeant Kernel |
+| aspect | Celtor |
+| location | Fort Merit |
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC.
+Drill Sergeant Kernel is a [Celtor](Celtor.md) NPC, he is the mentor for the freshly arrived [Authority Ensign](Authority_Ensign.md).
 
 ## Location
 
-Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the dark.
+Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.md).
 
 ## Dialogue
 
@@ -97,9 +97,6 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>WIP</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
   <td>End</td>
 </tr>
 </tbody>
@@ -115,7 +112,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*Your presence startles the Capra.*</i> A civilian wandered in again?.. I'm really sorry - as much as I'd like to help you with whatever issue you might have, we're not really meant to aid non-military personnel without permission.</td>
+  <td><i>*The armoured Celtorian man looks at you unmovingly through his helmet.*</i> <b>CIVILIAN</b>! You do <b>NOT</b> have my permission to loiter on <i>MY</i> MILITARY TRAINING grounds! You are instructed to make like a tree and <b>LEAVE</b>!</td>
 </tr>
 <tr>
   <td>End</td>

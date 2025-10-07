@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 164218
+revid: 164458
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -20,11 +20,13 @@ notices:
 
 High Inquisitor Merey is a [Canor](Canor.md) NPC, she is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md).
 
-She appears aged with small wrinkles around her eyes. She wears a [Brilliant Cape](Brilliant_Cape.md), a [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md). On her right side, she holsters a bell at her hip, signifying her strength to obtain a [Resonance](Resonance.md). On her left side she wields a curved authority sword.
+She appears aged with small wrinkles around her eyes. She wears a uniquely marked [Blindfold](Blindfold.md), a [Brilliant Cape](Brilliant_Cape.md), a [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md). On her right side, she holsters a bell at her hip, signifying her strength to obtain a [Resonance](Resonance.md). On her left side she wields the [Big Brother](Big_Brother.md) dagger.
 
 ## Location
 
 High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Merit.md), she is on a hidden floor below [Warden Jericho](Warden_Jericho.md).
+
+-   To find her, the player can enter a cracked wall on the south side of the fortress. From there, enter the cracks and air dash to enter her corridor.
 
 ## Dialogue
 
@@ -65,7 +67,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tbody>
 </table>
 
-**Player is under Shock Trooper division:**
+**Player is under Shock Corps division:**
 
 <table>
 <tbody>
@@ -73,10 +75,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You vigorously salute the High Inquisitor. She gives you a steely salute in return. You could swear she just sighed, if softly.*</i> I'm sorry, Frontliner, there are no join training exercises between the Shock Corps and the Inquisition planned today. Sentinel Augustus and I are still working out the details. Now, if you'll excuse me, I have other matters to attend to. Dismissed.</td>
 </tr>
 <tr>
   <td>End</td>

@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 164223
+revid: 164435
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Lore figures, Military personnel of The Central Authority]
@@ -85,7 +85,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is under Shock Trooper division:**
+**Player is under Shock Corps division:**
 
 <table>
 <tbody>
@@ -93,10 +93,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Frontliner. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>

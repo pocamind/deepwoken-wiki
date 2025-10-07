@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 164044
+revid: 164446
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -21,7 +21,7 @@ categories: [Factions, The Central Authority]
 
 **The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. An authoritarian regime led by a mysterious person named Drallis Ehr who acts as their Grand Sovereign although Drallis Ehr's existence as a person is up for debate. they are thoroughly dedicated to the expansion of their empire and the destruction of their enemies.
 
-Their ranks consist of Wardens and standard military rankings. They have multiple 'corps' in their ranks, including the 'Shock Corps', the 'Winter Corps' and formerly the 'Expeditionary Corps'. it is unclear if the Inquisitors mentioned are another corps or a rank within their military. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
+Their ranks consist of Wardens and standard military rankings. They have multiple 'corps' in their ranks, including the 'Shock Corps', the 'Leadership Corps', the 'Winter Corps', the 'Inquisitor Corps' and formerly the 'Expeditionary Corps'. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
 
 Their most commonly used attunement is [Flamecharm](Flamecharm.md). There are multiple instances of [Thundercall](Thundercall.md) also being used by the Authority, however only a few enemies actually use it ingame. [Frostdraw](Frostdraw.md) is only used by [Authority Captains](Authority_Captain.md) and [Captain Marley](Captain_Marley.md), with [Galebreathe](Galebreathe.md) only being used by the [Vice-Warden](Vice-Warden.md) within the [Merit Detainment Core](Merit_Detainment_Core.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 164378
+revid: 164460
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -85,7 +85,7 @@ Yakob is located inside of the Three Cheers Bar at Port Merit.
 </tbody>
 </table>
 
-**Player is under Shock Trooper division:**
+**Player is under Shock Corps division:**
 
 <table>
 <tbody>

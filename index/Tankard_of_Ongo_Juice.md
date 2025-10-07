@@ -1,6 +1,6 @@
 ---
 title: Tankard of Ongo Juice
-revid: 163907
+revid: 164405
 source: https://deepwoken.fandom.com/wiki/Tankard_of_Ongo_Juice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -26,7 +26,7 @@ notices:
 
 ## Description
 
-**Tankard of Ongo Juice** is a craftable [Food](Food.md) item. It is also purchased from [Fabantou](Fabantou.md) for 20.
+**Tankard of Ongo Juice** is a [Food](Food.md) item. It is also purchased from [Fabantou](Fabantou.md) for 20.
 
 It is a type of **Generic** food.
 

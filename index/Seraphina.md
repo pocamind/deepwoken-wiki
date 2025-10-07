@@ -1,9 +1,11 @@
 ---
 title: Seraphina
-revid: 164374
+revid: 164413
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Capra NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Seraphina
@@ -16,11 +18,15 @@ categories: [Capra NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Seraphina is a [Capra](Capra.md) NPC at [Etris Docks](Etris_Docks.md) who sells starter equipment aimed towards new and early game players. She functions identically to [Bari](Bari.md).
+Seraphina is a [Capra](Capra.md) NPC, she is a vendor who sells starter equipment aimed towards new and early game players. She functions identically to [Bari](Bari.md).
 
 She will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the Etris Siege, she will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"
 
 She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
+
+## Location
+
+Seraphina is located at the [Etris Docks](Etris_Docks.md), leaning against a pillar.
 
 ## Dialogue
 
@@ -65,27 +71,27 @@ Seraphina's Serendipitous Wares
 <tbody>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Lumber Axe</div><div><i>A sturdy axe for felling trees.</i></div></td>
+  <td><div><a href="Lumber_Axe.md">Lumber Axe</a></div><div><i>A sturdy axe for felling trees.</i></div></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Pickaxe</div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td>
+  <td><div><a href="Pickaxe.md">Pickaxe</a></div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+  <td><div><a href="Flint.md">Flint</a></div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Fishing Rod</div><div><i>A simple rod for reeling in fish to eat.</i></div></td>
+  <td><div><a href="Fishing_Rod.md">Fishing Rod</a></div><div><i>A simple rod for reeling in fish to eat.</i></div></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Leather Boots</div><div><i>Sturdy leather boots to protect your feet.</i></div></td>
+  <td><div><a href="Leather_Boots.md">Leather Boots</a></div><div><i>Sturdy leather boots to protect your feet.</i></div></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Leather Gloves</div><div><i>Durable leather gloves to protect your hands.</i></div></td>
+  <td><div><a href="Leather_Gloves.md">Leather Gloves</a></div><div><i>Durable leather gloves to protect your hands.</i></div></td>
 </tr>
 </tbody>
 </table>

@@ -1,29 +1,29 @@
 ---
-title: Taiga
-revid: 164474
-source: https://deepwoken.fandom.com/wiki/Taiga
+title: Milgram
+revid: 164479
+source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
-# Taiga
+# Milgram
 
-| Taiga | |
+| Milgram | |
 |---|---|
-| name | Taiga |
-| aspect | Capra |
-| location | The Three Cheers |
+| name | Milgram |
+| aspect | Adret |
+| location | Fort Merit |
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC.
+Milgram is a [Adret](Adret.md) NPC, he is a part of the Inquisitor division, led by [High Inquisitor Merey](High_Inquisitor_Merey.md).
 
 ## Location
 
-Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the dark.
+Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposite of [Viridian](Viridian.md).
 
 ## Dialogue
 
@@ -97,9 +97,6 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>WIP</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
   <td>End</td>
 </tr>
 </tbody>
@@ -115,7 +112,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*Your presence startles the Capra.*</i> A civilian wandered in again?.. I'm really sorry - as much as I'd like to help you with whatever issue you might have, we're not really meant to aid non-military personnel without permission.</td>
+  <td><i>*The Adret eyes you with suspicion, but says nothing, only observing. Their piercing eyes send a chill down your spine. Maybe it's best not to bother them.</i></td>
 </tr>
 <tr>
   <td>End</td>

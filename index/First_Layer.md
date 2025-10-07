@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 163855
+revid: 164449
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 1]
@@ -264,6 +264,7 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
 -   If you are unfamiliar with monsters and the Depths in general, always try bringing another experienced and competent friend with you, as it will make learning the harrowing tribulations of the Depths slightly more easing for you.
 -   If you are a new player, it is **heavily advised to log** if you hear cracking and rumbling randomly inside the Depths. This is the 'Depths Collapse' which spawns in a horde of dangerous and threatening monsters in 2-4 rocks that fall from the depths' ceiling.
     -   If you're confident in killing these mobs, however, they will drop chests with enhanced loot.
+-   With the recent changes to Watchers, it’s crucial to avoid being spotted by one. They can now inflict insanity and distort your vision, making it extremely difficult to fight or escape. Do everything you can to stay out of their sight, as their insanity effect builds up rapidly.
 
 ## Trivia
 

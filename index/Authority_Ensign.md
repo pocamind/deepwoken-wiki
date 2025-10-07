@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164381
+revid: 164477
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -111,6 +111,7 @@ A division focused on backstabs and assassination.
     -   Inquisitor 1st Class -> Handler | ? promotion points
 -   Benefits
     -   [Inquisition Light](Inquisition_Light.md) Master Armor
+    -   [Big Brother](Big_Brother.md) Weapon
     -   Exclusive Division Talents; [see below](#inquisition-division-talents)
 
 #### Leadership Division
@@ -126,6 +127,8 @@ A division focused on leadership and support.
     -   Captain -> Commander | 388 promotion points
     -   Commander -> Seneschal (currently bugged) | ? promotion points
 -   Benefits
+    -   ??? Master Armor
+    -   ??? Weapon
     -   Exclusive Division Talents; [see below](#leadership-division-talents)
 
 #### Shock Trooper Corps Division

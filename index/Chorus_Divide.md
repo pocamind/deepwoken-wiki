@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 161866
+revid: 164443
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -11,7 +11,7 @@ categories: [Resonances]
 | Chorus Divide | |
 |---|---|
 | effect | Winds up two beams of energy that deals immense damage to anyone hit by them |
-| appearance | Two big beams that go around the user in a 270° |
+| appearance | Two big beams that go around the user in a 180°/270° motion |
 | cooldown | 35s |
 
 > “ Using your bell to channel your energy into a high pressure beam ”

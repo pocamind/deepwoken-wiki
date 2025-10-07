@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 164377
+revid: 164459
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -22,7 +22,7 @@ Fabantou is a [Felinor](Felinor.md) NPC, he is the landlord of [The Three Cheers
 
 ## Location
 
-Fabantou is located inside Three Cheers Bar.
+Fabantou is located inside The Three Cheers, standing behind the bar.
 
 ## Dialogue
 
@@ -95,7 +95,7 @@ Fabantou is located inside Three Cheers Bar.
 </tbody>
 </table>
 
-**Player is under Shock Trooper division:**
+**Player is under Shock Corps division:**
 
 <table>
 <tbody>

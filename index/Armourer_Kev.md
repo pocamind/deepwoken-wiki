@@ -1,29 +1,29 @@
 ---
-title: Taiga
-revid: 164474
-source: https://deepwoken.fandom.com/wiki/Taiga
+title: Armourer Kev
+revid: 164465
+source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
-# Taiga
+# Armourer Kev
 
-| Taiga | |
+| Armourer Kev | |
 |---|---|
-| name | Taiga |
-| aspect | Capra |
-| location | The Three Cheers |
+| name | Armourer Kev |
+| aspect | Adret |
+| location | Fort Merit |
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC.
+Armourer Kev is a [Adret](Adret.md) NPC, he is the armor for [The Central Authority](The_Central_Authority.md) and sells a variety of [Weapons](Weapons.md).
 
 ## Location
 
-Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the dark.
+Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](Fort_Merit.md).
 
 ## Dialogue
 
@@ -97,9 +97,6 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>WIP</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
   <td>End</td>
 </tr>
 </tbody>
@@ -115,7 +112,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*Your presence startles the Capra.*</i> A civilian wandered in again?.. I'm really sorry - as much as I'd like to help you with whatever issue you might have, we're not really meant to aid non-military personnel without permission.</td>
+  <td><i>*The armourer gives you an untrusting look.*</i> Oi! No civilians allowed here! Don't make me call the guards now, eh?</td>
 </tr>
 <tr>
   <td>End</td>

@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 160939
+revid: 164423
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -39,7 +39,7 @@ Being an [Etrean](Etrean.md) increases your starting Reputation with Etrea. This
 
 There are a substantial amount of ways to gain reputation with Etrea:
 
--   Donating wood to either [Korin](Korin.md) or [Drefa](Drefa.md).
+-   Donating wood to either [Korin](Korin.md) or [Drefa](Drefa.md). (unavailable if you have negative reputation)
 -   Defeating the [Bandits](Bandit.md) at either [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md).
 -   Helping Etrea during the rare [Etris Siege event](Cinders_of_Etris.md).
 -   Doing the [Nanji](Nanji.md) or [Lance’s Brother](<Lance's_Brother.md>) [quests](Quests.md).
