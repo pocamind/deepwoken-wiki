@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 164746
+revid: 164786
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -34,10 +34,12 @@ notices:
 
 ## Description
 
-The Duskguard Axe is a HVY weapon in the Greataxe category that can be obtained by maxing out the Shock Trooper Corps division under the [Authority Ensign](Authority_Ensign.md) origin.
+The Duskguard Axe is a HVY weapon in the Greataxe category that can be obtained by maxing out the Shock Trooper Corps division under the [Authority Ensign](Authority_Ensign.md) origin. You must return to Sentinel Augustus after obtaining the rank of Operator in order to receive the weapon.
 
 ## Critical
 
-The user reels the axe backwards before heavily chopping the opponent, guardbreaking them. The opponent will be lodged into the axe as the user leaps and smashes them into the ground, dazing them in the end.
+The user reels the axe backwards before heavily chopping the opponent, guardbreaking them. The opponent will be lodged into the axe as the user leaps and smashes them into the ground, dazing them for 1.5 seconds in the end.
+
+The initial hit does not count as a hit despite guardbreaking; this means it won't proc any Talents and does not deal damage. The second hit has a 1.375x scaled damage multiplier.
 
 The critical has a cooldown of **10 seconds**.

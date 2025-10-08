@@ -1,14 +1,12 @@
 ---
 title: Etrean Sea
-revid: 164668
+revid: 164755
 source: https://deepwoken.fandom.com/wiki/Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Etrean Sea
 
-LocationL Etrean Sea LocationR
+Redirect to:
+
+-   [The Etrean Sea](The_Etrean_Sea.md)

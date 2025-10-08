@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164741
+revid: 164776
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1102,7 +1102,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Dread Imperium
 
--   _Officer's Training_ \[Origin Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from critical.
+-   _Buster Call_ - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
+    -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
+    -   Applies burn on hit.
+    -   Cannot knock players.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
+
+-   _Officer's Training_ \[Origin Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from criticals.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
 -   _Target Focus_ \[Origin Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
@@ -1876,10 +1882,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Inquisitive Lethality
 
--   _Executioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+-   _Backstabber_ \[Origin Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+
+-   _Executioner's Frenzy_ \[Origin Exclusive\] - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
 
--   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+-   _Fatal Stealth_ \[Origin Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
     -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
@@ -1888,10 +1896,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   The maximum Stealth you can gain from Equipment is 30% (+6% damage) or 36% if Felinor (+7.2% damage).
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
--   _Flanking Maneuvers_ - Enemies you assassinate take more PEN from your squadmates in your party.
+-   _Flanking Maneuvers_ \[Origin Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
--   _Stature Break_ - Landing a backstab of any kind disables posture for 8 seconds.
+-   _Stature Break_ \[Origin Exclusive\] - Landing a backstab of any kind disables posture for 8 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 ### Ironsinger

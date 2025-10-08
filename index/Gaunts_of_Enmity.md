@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 156952
+revid: 164788
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists, Light Weapons]
 
 ## Description
 
-The **Gaunts of Enmity** are a unique fist weapon exclusive to [Heart of Enmity](Heart_of_Enmity.md). The Gaunts of Enmity retain the critical attack of your Fist Style.
+The **Gaunts of Enmity** are a unique fist weapon exclusive to [Heart of Enmity](Heart_of_Enmity.md). The Gaunts of Enmity retain the critical attack of your [Fist Style](Fists.md).
 
 ## Trivia
 

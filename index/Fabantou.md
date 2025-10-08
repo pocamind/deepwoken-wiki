@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 164717
+revid: 164794
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -57,45 +57,7 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 </tbody>
 </table>
 
-**Player is under Inquisitor division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Player is under Leadership division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Player is under Shock Corps division:**
+**Player is under any division:**
 
 <table>
 <tbody>

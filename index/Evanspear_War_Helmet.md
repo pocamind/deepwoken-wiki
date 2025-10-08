@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Helmet
-revid: 162992
+revid: 164780
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,6 +28,6 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Evanspear War Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Evanspear War Set. The Evanspear War Helmet is a green and yellow Galea helmet, similar to Roman headgear. When worn, this grants +4 Health, +1 Posture, and +1 Legendary Pip.
+The Evanspear War Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Evanspear War Set. The Evanspear War Helmet is a green and yellow corinthian helmet, similar to Roman headgear. When worn, this grants +4 Health, +1 Posture, and +1 Legendary Pip.
 
 This item is used to craft the [Reinforced War Helmet](Reinforced_War_Helmet.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

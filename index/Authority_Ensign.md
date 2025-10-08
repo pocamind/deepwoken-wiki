@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164754
+revid: 164806
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -73,26 +73,28 @@ Even if you aren't in a squad, other players may be assigned to the same mission
 1.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\].. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them three times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
     -   Potential Locations:
-        -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave
-        -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave
-        -   The water highway gate between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>)
+        -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
+        -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 38 minute 30 second time limit
+        -   The water highway gate between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 1 hour 40 second time limit
     -   Notes/Tips:
         -   When the Mission completes, the Legion Soldiers will immediately lose aggression.
         -   You can sneak around the fort to pick off or assassinate some of the Legion Soldiers.
         -   Make sure to check inside all of the tents for barrels.
         -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
-2.  **Capture Prisoner** - _TBA_
-    -   Objective: TBA
-    -   Potential Locations
-        -   TBA
+2.  **Capture Prisoner** - _Find and Capture escaped prisoners. Distribute this information to your Squad._
+    -   Objective: Track down and hunt a player who is attempting to escape the [Fort Merit](Fort_Merit.md) prison.
+    -   Location: The escaped prisoner.
     -   Notes/Tips:
-        -   TBA
+        -   The Mission will automatically fail if the prisoner gets uncuffed or leaves the game.
+        -   This Mission will be completed if the prisoner gets teleported back into their cell, not if they actually get executed.
+            -   When an escapee gets low enough health to be knocked from a player attack, they will be teleported back into the prison instead.
+        -   This Mission is only available while a player is attempting to escape from the jail.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage with V and run away with them. Once you get far enough away, the mission will be complete.
     -   Potential Locations:
-        -   [Derelict Highchurch](Derelict_Highchurch.md) - the hostage is behind the altar in the church
-        -   [Miner's Landing](<Miner's_Landing.md>) - the hostage is in the inn on the second floor
-        -   [Summer Isle](Summer_Isle.md) - the hostage is inside the abandoned building, the same location for the [Chainwarden](Oath%253A_Chainwarden.md) obtainment quest
+        -   [Derelict Highchurch](Derelict_Highchurch.md) - the hostage is behind the altar in the church; 45 minute 30 second time limit
+        -   [Miner's Landing](<Miner's_Landing.md>) - the hostage is in the inn on the second floor; 21 minute 20 second time limit
+        -   [Summer Isle](Summer_Isle.md) - the hostage is inside the abandoned building, the same location for the [Chainwarden](Oath%253A_Chainwarden.md) obtainment quest; 51 minute 50 second time limit
     -   Notes/Tips:
         -   When the Mission completes, the Blacksteel Pirates will immediately lose aggression.
         -   The hostage has very low health, and if the hostage is killed, the Mission will fail.
@@ -104,14 +106,53 @@ Even if you aren't in a squad, other players may be assigned to the same mission
 4.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\].. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with defending an Authority-branded flag from enemies.
     -   Potential Locations:
-        -   [Miner's Landing](<Miner's_Landing.md>)
-        -   [Summer Isle](Summer_Isle.md)
+        -   [Miner's Landing](<Miner's_Landing.md>); 19 minute 30 second time limit
+        -   [Summer Isle](Summer_Isle.md); 1 hour 5 minute 20 second time limit
     -   Notes/Tips:
         -   This mission may be bugged, as you just stand near the flag and it will be automatically completed after a very short wait.
 
 ### Mission Lootpool
 
 This list may be incomplete.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Treasures.md">Gems</a>, basic <a href="Mantra_Modifiers.md">Mantra Modifiers</a>, all <a href="Mantra_Modifiers.md#sparks">Sparks</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b><font>Light Weapons</font></b>: <a href="Central_Dirk.md">Central Dirk</a>.</li>
+    <li><b><font>Medium Weapons</font></b>: TBA</li>
+    <li><b><font>Heavy Weapons</font></b>: TBA</li>
+    <li><b><font>Offhand Weapons</font></b>: TBA</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: TBA</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black)</li>
+    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+    <li><b>Generic Torso</b>: TBA</li>
+  </ol></li>
+    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
+    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: TBA</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>.</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Promotions
 
@@ -159,11 +200,10 @@ A division focused on leadership and support.
     -   Lance Corporal -> Warrant Officer
     -   Warrant Officer -> Captain | 329 promotion points
     -   Captain -> Commander | 388 promotion points
-    -   Commander -> Seneschal (currently bugged) | ? promotion points
+    -   Commander -> Seneschal | 447 promotion points
 -   Benefits
     -   [Authority Captain Uniform](Authority_Captain_Uniform.md)
-    -   ??? Master Armor
-    -   At Seneschal rank, you can speak to Warden Jericho and receive the ??? Weapon
+    -   At Seneschal rank, you can speak to Warden Jericho and receive the [Rite of Authority](Rite_of_Authority.md) Weapon
     -   Exclusive Division Talents; [see below](#command-division-talents)
 
 #### Shock Trooper Corps Division
@@ -171,7 +211,7 @@ A division focused on leadership and support.
 A division focused on brute force and posture damage.
 
 -   Obtainment
-    -   Complete ?? missions while being the MVP
+    -   Complete ??
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     -   Lance Corporal -> Frontliner
@@ -212,6 +252,8 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 #### Inquisition Division Talents
 
+-   _Backstabber_ - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+
 -   _Executioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 
 -   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
@@ -228,7 +270,12 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 #### Command Division Talents
 
--   _Officer's Training_ - While using a Sword or Rapier, take 30% less posture damage from critical.
+-   _Buster Call_ - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
+    -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
+    -   Applies burn on hit.
+    -   Cannot knock players.
+
+-   _Officer's Training_ - While using a Sword or Rapier, take 30% less posture damage from criticals.
 
 -   _Target Focus_ - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
@@ -258,7 +305,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
 -   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
-    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), you cannot obtain [Soulbreaker](Oath%253A_Soulbreaker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
+    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
 -   Because the Master Armors are immediately equipped upon maxing your Division, if you craft any other Outfit, they will be lost permanently.
 
 ## Reputation
@@ -272,4 +319,3 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
 -   You cannot gain [Etrea](Etrea.md) reputation. This restriction will be removed, should you be Exiled.
--   If you don't obey The Central Authority you get butt fucked
