@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 164458
+revid: 164708
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -109,7 +109,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Lost, mouse? Let me show you the way out.</td>
 </tr>
 <tr>
   <td>End, player is jailed and sent to <b>execution</b>.</td>

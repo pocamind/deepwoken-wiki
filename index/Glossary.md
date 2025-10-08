@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 164225
+revid: 164716
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -127,7 +127,7 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Calamus](Calamus.md), [Hector](Hector.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Hector](Hector.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -516,7 +516,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftert
 -   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
 
-Dialogue: [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
+Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
 
 ### The Nightsea
 

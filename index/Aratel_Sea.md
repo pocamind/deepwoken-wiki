@@ -1,14 +1,12 @@
 ---
 title: Aratel Sea
-revid: 164667
+revid: 164752
 source: https://deepwoken.fandom.com/wiki/Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Aratel Sea
 
-LocationL Aratel Sea LocationR
+Redirect to:
+
+-   [The Aratel Sea](The_Aratel_Sea.md)

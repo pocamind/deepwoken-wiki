@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 164453
+revid: 164736
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -128,10 +128,14 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>If the <b>GODS</b> wanted you to <i>LIVE</i>, they would not have created ME!</td>
 </tr>
 <tr>
   <td>End, player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   He is the father of [Private Kernel](Private_Kernel.md).

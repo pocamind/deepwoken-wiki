@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 164478
+revid: 164714
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -104,6 +104,40 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </table>
 
 **Player is under Shock Corps division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is Exiled from the Authority:**
+
+**Player has deserted from the Authority:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah, so the deserter finally shows their face. Soldiers - seize them.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is a traitor to the Authority:**
 
 <table>
 <tbody>

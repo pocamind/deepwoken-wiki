@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 161891
+revid: 164694
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -64,21 +64,21 @@ Shrine of Mastery has two different effects.
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2"><b>PUPPET. STATE YOUR PURPOSE.</b></td>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
 </tr>
 <tr>
   <td>I wish to reevalute my Traits.</td>
   <td>I wish to reevalute my Attributes.</td>
 </tr>
 <tr>
-  <td><b>CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH.</b></td>
-  <td><b>CHOOSE THE ATTRIBUTE OF YOUR SOUL TO DIMINISH.</b></td>
+  <td>CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH.</td>
+  <td>CHOOSE THE ATTRIBUTE OF YOUR SOUL TO DIMINISH.</td>
 </tr>
 <tr>
   <td colspan="2">Player selects a Trait / Attribute</td>
 </tr>
 <tr>
-  <td colspan="2"><b>THE CONTRACT IS COMPLETE. WASTE.</b></td>
+  <td colspan="2">THE CONTRACT IS COMPLETE. WASTE.</td>
 </tr>
 <tr>
   <td colspan="2">End</td>

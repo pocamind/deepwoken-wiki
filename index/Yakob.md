@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 164654
+revid: 164718
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -135,10 +135,10 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The soldier stares tensely at you, hesitating, his arm firmly on his sword. Might be a good idea to make your leave, before things get ugly.*</i></td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

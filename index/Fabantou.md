@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 164579
+revid: 164717
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -137,10 +137,10 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The tavern patrons all stare at you threateningly, as the Felinor exasperatedly gestures between you and the door, muttering to you frantically*</i> Hey, 'friend', let's not make this ugly, yeah? You should leave - you're upsetting the clientele!</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

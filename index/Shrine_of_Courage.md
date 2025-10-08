@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 160273
+revid: 164699
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -61,12 +61,13 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
   <td colspan="8"><i>*A voice calls from a far away place... Beckoning you to leave behind your weakness.*</i></td>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue]</td>
-  <td colspan="4">[Prove yourself]</td>
+  <td colspan="8">[Prove yourself]</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
-  <td colspan="4">YOU SHALL BE TESTED.</td>
+  <td colspan="8">YOU SHALL BE TESTED.</td>
+</tr>
+<tr>
+  <td colspan="8">End, your next Depths Trial will be harder.</td>
 </tr>
 </tbody>
 </table>
@@ -82,10 +83,7 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
   <td colspan="8"><i>*The voice hums its approval... Of your proven strength...*</i></td>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="4">End</td>
+  <td colspan="8">End</td>
 </tr>
 </tbody>
 </table>

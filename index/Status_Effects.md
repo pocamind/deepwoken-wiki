@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 163805
+revid: 164703
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -513,6 +513,10 @@ Gain +50% posture damage for 10 seconds to your basic attacks after successfully
 ### Inspired
 
 Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#ether-adept) Talent. Stacks of Inspiration can be gained through landing and parrying Mantras. Casting any Mantra will consume this status effect and grant a 10% damage buff to said Mantra. Inspired lasts 30 seconds, but will be instantly consumed if the procced via landing Mantras. Signified by a light blue hue and outline surrounding your character on proc.
+
+### Everchanging Aegis
+
+Gain 20% damage reduction against the Attunement type of the attack that hit you last. Upon taking damage from a different Attunement, take 10% more damage from that attack instead, swapping your Aegis type. This effect is procced by the [Everchanging Aegis](Talents.md#adept-caster) Talent and is signified by a shield covering your body when hit by a new attunement, the color of this shield is based off the Attunement used.
 
 ### Mythic Stability
 

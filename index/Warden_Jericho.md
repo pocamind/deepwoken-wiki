@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 164592
+revid: 164734
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Lore figures, Military personnel of The Central Authority]
@@ -46,10 +46,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td>*You offer a stern salute to the Warden of the East. He responds with a formal salute.* Inquisitor. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor, first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -97,6 +94,31 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is a lance corporal, but not under any division:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">*Warden Jericho stands before you, looking over what appears to be strategic maps of the local <a href="Luminants.md">Luminants</a>. You salute him stringently.*<p>...You must be Lance Corporal [Second Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
+</tr>
+<tr>
+  <td colspan="2">I'd like some time to think about it, Warden.</td>
+  <td colspan="2">Yes, Warden.</td>
+</tr>
+<tr>
+  <td colspan="2">*Jericho's expression appears inscrutable, but you could swear you saw him smirk.* The waves may rush, but crash they still agains unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
+  <td colspan="2">TBA</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+  <td colspan="2">End, you join the Leadership division.</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Verse 3
-revid: 164368
+revid: 164749
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Upcoming content]
@@ -13,25 +13,25 @@ notices:
 
 ## Overview
 
-Verse 3 is an upcoming series of updates to Deepwoken, revealed on Sept. 23rd 2025 by Deepwoken's owner Raguza on the official Discord's announcements channel.
+Verse 3 is an upcoming series of updates to Deepwoken, revealed on Sept. 23rd 2025 by Deepwoken's owner, Raguza, on the official Deepwoken Discord's announcements channel.
 
 ## Upcoming Content
 
-The official reveal came with the announcement of upcoming content including [New Origins](Origins.md), the closest one to the reveal is for the [Authority](Origins.md), a rework for [Saramaed Hollow](Saramaed_Hollow.md), the addition of a new character type called Vow of Iron that will allow player to enable a hardcore version of the game, a new addon for [Aspects](Aspects.md) called "divergences" that will modify how Aspects work, [Ship](Ships_&_Sailing.md) modifications, new Locations to explore, and the reveal of Layer 3 coming to the game.
+The official reveal came with a roadmap of upcoming content, including new [Origins](Origins.md). The items on the roadmap are [the Authority Origin](Origins.md), a rework for [Saramaed Hollow](Saramaed_Hollow.md), the addition of a new character type called "Vow of Iron" that will allow the player to play a hardcore version of the game, a new addon for [Aspects](Aspects.md) called "Divergences" that will modify how Aspects work, [Ship](Ships_&_Sailing.md) modifications, new Locations to explore, and finally, Layer 3.
 
-A part of the roadmap also included the placement of [Hallowtide](Hallowtide.md) 2025 in between the Authority origin and Layer 3.
+The roadmap included [Hallowtide](Hallowtide.md) 2025 in between the Authority origin and Layer 3's release.
 
 ## Part 1 - Duskguard : Released on October 4th 2025
 
 ### Authority Origin
 
-[The Authority Origin](Authority_Ensign.md), obtainable by defeating titus or getting hero status with [The Central Authority](The_Central_Authority.md), has been added. Opposed to other origins, the Authority origin follows a military rank style progression in addition to normal progression.
+[The Authority Origin](Authority_Ensign.md), obtainable by defeating [Titus](Titus_Fulminus_Destellus.md) or getting hero status with [The Central Authority](The_Central_Authority.md), has been added. Opposed to other origins, the Authority origin follows a military rank style progression in addition to normal progression.
 
-During rank progression players will be "soul-locked" to the Authority clan, and will join deviations within the Authority for unique talents and weapons.
+During their progression, players will be "soul-locked" to the Authority clan, ranking up and choosing a division within the Authority for unique talents and weapons.
 
 ### Map Adjustments
 
-The land has changed in the eastern luminant, with a new map, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel](The_Starswept_Valley.md).
+The land has changed in the Eastern Luminant, with a new map, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel](The_Starswept_Valley.md).
 
 ## References
 
@@ -39,4 +39,4 @@ Message from Raguza
 
 ## Trivia
 
--   Verse three will be a series of updates, which is different compared to Verse 2 which was mainly one big update.
+-   Verse 3 will be a series of updates, which is different compared to Verse 2 which was mainly one big update.

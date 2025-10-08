@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 164473
+revid: 164720
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -111,10 +111,10 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The Ganymede lady rushes to flip and cover the various maps on the table as she notices you approaching.*</i> You can't be in here! Intruder! Guards, guards! Assist me!</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

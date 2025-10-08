@@ -1,9 +1,9 @@
 ---
 title: Tankard of Ongo Juice
-revid: 164580
+revid: 164671
 source: https://deepwoken.fandom.com/wiki/Tankard_of_Ongo_Juice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Food, Items]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

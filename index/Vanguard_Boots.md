@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 155721
+revid: 164738
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -23,9 +23,9 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Starswept Valley, Lodestar, Maestro Evengarde Rest |
+| obtainment | Chests from:, Erisia, Starswept Valley, Lodestar |
 | description | ... |
 
 ## Description
 
-Vanguard Boots are an [Equipment](Equipment.md) item under under the "Legs" category. These black plated boots are great for protecting one's shins in the heat of battle. On equip, they grant 3 Health and +2 Rare Pips. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
+Vanguard Boots are an [Equipment](Equipment.md) item under under the "Legs" category. These black plated boots are great for protecting one's shins in the heat of battle. On equip, they grant 3 Health and +2 Rare Pips.

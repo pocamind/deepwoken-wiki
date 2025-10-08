@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 164474
+revid: 164719
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -131,10 +131,10 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The Capra stares at you, agitated and tense.*</i> Y-you have no business in the surgery, we can't treat hostile combatants!.. Guards, help! GUARDS!</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

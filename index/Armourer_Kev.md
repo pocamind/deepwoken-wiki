@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 164465
+revid: 164713
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -128,10 +128,10 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The armourer glares at you with disdain.*</i> Try breaking in all you want, chump, but all this equipment is off limits! Those are the finest steel bars on this side of <a href="Glossary.md#lumen">Lumen</a>. You'll die of old age before you break through.</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

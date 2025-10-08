@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 164314
+revid: 164690
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 | type | Dagger |
 | requirements | 80 LHT |
 | damage | 15 |
-| scaling | LHT:? |
+| scaling | LHT: 8 |
 | range | 6 |
 | swing speed | 1.2x |
 | special effect | Swift Strike - Hitting your opponent's back with an M1 will enhance your next critical, turning it into a teleporting backstab that procs assassination Talents. |
@@ -22,10 +22,10 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 | stances | 1 Handed |
 | selling price | ? |
 | weight | 4 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | High Inquisitor Merey (Inquisition Division of the Authority Ensign Origin exclusive) |
 | description | A gift from High Inquisitor Merey. Far from a weapon of war, this dagger is a perfect tool for the stealthy wetwork missions of the Inquisition. Eyes and ears may watch and listen, but must never make a sound. |
 

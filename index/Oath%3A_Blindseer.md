@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 164609
+revid: 164689
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -98,6 +98,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   The sanity cost is only deducted on a successful heal.
     -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
+    -   Doesn't have a ritual unlike the gif shown below
 -   Obtainment: 1 Pathfinder helped in the Depths Trial (must be alive)
 
 -   **Tranquil Circle** - All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor.
@@ -112,12 +113,13 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 ## Notes
 
 -   **Blindseer Mantras don't scale with Willpower at all.**
--   Having the [Blind](Boons_and_Flaws.md#flaws) Flaw removes the Blindfold requirement.
+-   Having the [Blind](Boons_and_Flaws.md#flaws) Flaw removes the Blindfold requirement, and is essentially a free boon point with this oath
 -   While you don't need to keep the Blindfold equipped after obtaining the Oath, having the _Blinded_ Talent grants immunity to abilities like [Gaze](Attunement-less.md#gaze) and [Flame Blind](Flamecharm.md#flame-blind). The [Blind](Boons_and_Flaws.md#flaws) flaw also grants this effect.
 -   Well-suited Oath for PvE.
 -   Pairs well with Lose Your Mind, a Talent that makes you deal more damage the more insane you are.
 -   You can reroll the Mental Fortress Talents and still keep the Oath.
 -   Many Blindseer moves drain your sanity as a price, so it's best to use the moves with caution.
+    -   With enough willpower and sanity, it's not usually that bad.
 -   If you wish to dye the Blindseer eye Oath cosmetic, you need to [dye](Dye_Packet.md) the Blindseer Cosmetic, not your actual eyes. - as of June 1st, 2025.
 
 ## Trivia
@@ -127,6 +129,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have blue three dimensional markings on the outside of their mask, with an eye-like shape formed at the top. However, they used to be seen with a gold and black mask similiar to the mask on the statue in [The Lordsgrove](The_Lordsgrove.md).
 -   If you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
+    -   this is not true if you get it via having the blind flaw without a blindfold on, as your Blindseer eye will hover in front of your already blind eyes
 -   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the Trophy Room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Blindseer had the Mystic line "I will protect this world."
