@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 164583
+revid: 164895
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]

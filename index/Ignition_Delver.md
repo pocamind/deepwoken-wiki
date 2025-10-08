@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 164584
+revid: 164891
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, The Ignition Union, Character]
@@ -73,7 +73,7 @@ If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you wi
 Your starting reputation is:
 
 -   **Friend** of [The Ignition Union](The_Ignition_Union.md), and [Lost Celtor](Lost_Celtor.md).
--   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
+-   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
 -   **Neutral** with all other [factions](Factions_&_Groups.md) [Diversiconfaction](The_Divers.md) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md)
 
 _Note: your chosen [aspect](Aspects.md) may affect your starting reputation._

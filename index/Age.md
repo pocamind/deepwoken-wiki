@@ -1,6 +1,6 @@
 ---
 title: Age
-revid: 155883
+revid: 164859
 source: https://deepwoken.fandom.com/wiki/Age
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -8,7 +8,7 @@ categories: [Character, Mechanics]
 
 # Age
 
-**Age** in Deepwoken is viewable by going to your stats menu. Your age increases every year, it changes when the game season gets to the birth season of your character. (Each season lasts for 1 real life day, so every 4 days starting from character creation)
+**Age** in Deepwoken is viewable by going to your stats menu. Your age increases every year, it changes when the game season gets to the birth season of your character. (Each season lasts for 2 real life days, so every 8 days starting from character creation)
 
 ## Notes
 

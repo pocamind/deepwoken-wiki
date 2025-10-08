@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 164814
+revid: 164875
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -12,7 +12,7 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 |---|---|
 | tier | Master |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Might Gem, x5 Spark Gland, x5 Vibrant Gem |
-| price | TBA |
+| price | N/A |
 | stat_req | Power Level 15 |
 | bankable | Yes |
 | droppable | Yes |
@@ -24,7 +24,7 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 | selling_price | 10 |
 | weight | 1 |
 
-**Shock Trooper Light** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive the the [Authority Ensign](Authority_Ensign.md) Origin.
+**Shock Corps Light** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive the the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 

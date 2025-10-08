@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 164708
+revid: 164910
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -40,13 +40,53 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>*The High Inquisitor nods at you, but her demeanor remains steeled.* Once again, welcome to the Inquisition of the Central Authority, soldier. I must offer a proper introduction. -I am High Inquisitor Merey, the leader of your division. I advise you to learn and understand the weight and importance of your position within the <a href="The_Central_Authority.md">Authority's</a> ranks and to represent me and my team adequately. Restraint and conscientiousness are the most important values an Inquisitor can have. Remind me your name and rank, Inquisitor?</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>I am [Rank and Full name], ma'am.</td>
+</tr>
+<tr>
+  <td>*You give the High Inquisitor your most rigid salute. She responds kind, in her typical austere fashion.* Good to have you on board, Inquisitor, Is there anything you'd like to know about?</td>
+</tr>
+<tr>
+  <td>Could you tell me more about the Inquisition?</td>
+</tr>
+<tr>
+  <td>We are the eyes and ears of the <a href="The_Central_Authority.md">Authority</a> - and often, its faithful shadows. Your responsibility is to find out everything there is to know about our many rivals through subterfuge and interrogation, even if extracting that information requires some... <i>enthusiastic</i> encouragement. All I ask for is that you keep your tavern 'gossip' to non-Inquisitic matters, and do not spend your time laughing over reactions to interrogation methods. It is certainly not an appropriate topic.</td>
+</tr>
+<tr>
+  <td>I see. That is all for now, ma'am, thank you.</td>
+</tr>
+<tr>
+  <td>Very well, I hope that was informative enough. I expect to see you more around more often, [Rank and Second name]. I will be observing your career with interest - even if you won't be aware of it. *Uncharacteristically to herself, she chuckles.* If you have any other questions in the future - do not hesitate to stop by. Dismissed. *You once again exchange stern salutes with the High Inquisitor.*</td>
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player meets the requirements for joining the Inquisitor Division:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">*You recognize the shadow-clad Canor woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor Merey Scarsen. You offer a salute* ...Ah, you must be... Lance Corporal [Second name] was it? Very good, I had just finished over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
+</tr>
+<tr>
+  <td colspan="2">Yes, High Inquisitor.</td>
+  <td colspan="2">I'd like some time to think about it, High Inquisitor</td>
+</tr>
+<tr>
+  <td colspan="2">*You salute the High Inquisitor. She offers a solem, graceful salute in return.* Very well, Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, <a href="Drallis_Ehr.md">Drallis Ehr</a>, I name you an Inquisitor of The Central Authority. You shall now serve under my supervision. May you be the faithful eyes and ears of the <a href="The_Central_Authority.md">Authority</a>, may you act as it's rentless, haunting shadow, and may you slice apart with measured blade the chains that seek to bind us. You may report back to me at your discretion.</td>
+  <td colspan="2">*The High Iqnuisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.* Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.</td>
+</tr>
+<tr>
+  <td colspan="2">End, the player is now under the Inquisition division.</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

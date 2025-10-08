@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164849
+revid: 164911
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -13,6 +13,8 @@ notices:
 > “ A bright-eyed recruit deployed to the Eastern Front. Three cheers for the cause! ”
 > 
 > ― Origin description
+
+_Authority Ensign_ is an immersive, faction-based Origin that progresses mostly in the Eastern Luminant, where you play as an aspiring Authority Soldier who quickly rises through the ranks of the Authority. As you gain promotions, you'll gain exclusive benefits and become stronger.
 
 ## Obtainment
 
@@ -36,9 +38,9 @@ Gain a Talent Tool horn that marks escaped prisoners when blown. Applies a comba
 
 ### Squads
 
-On the top left of your screen, next to the Help button, there will be an Authority Helmet icon, labeled "Squads." Clicking this will allow you to create a Squad with other Authority Ensign members. This is very similar to party systems in other games.
+On the top left of your screen, next to the Help button, there will be an Authority Helmet icon with a red background, labeled "Squads." Clicking this will allow you to create a Squad with other Authority Ensign members. This is very similar to party systems in other games.
 
-Being in a Squad allows you to proc certain Authority Ensign Talents and allows you to take on the Missions as a group. This feature is highly recommended, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
+Being in a Squad allows you to take on the Missions as a group and proc certain Authority Ensign Talents. This feature is highly recommended, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
 
 ## Exile
 
@@ -54,7 +56,7 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 
 Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in the [Chime of Conflict](Chime_of_Conflict.md) and other non-overworld locations.
 
-As of 7/10/25, even starting the grip animation on an Authority Ensign member will exile you, so stay vigilant!
+Even starting the grip animation on an Authority Ensign member will Exile you, so stay vigilant!
 
 ## Progression
 
@@ -62,11 +64,11 @@ Speak to [Captain Trist](Captain_Trist.md), an Adret NPC located on the path fro
 
 Your current Mission objective and the Mission's location will be displayed on the top left of your screen, similar to [jobs](Job_Boards.md). You can right click the Mission popup to view its location on the map. The amount of time allocated to each mission depends on the mission location.
 
-Upon completing a Mission, you will have to report back to Captain Trist. Upon doing so, you will gain 45 points towards your promotion, EXP, and a very small chest. If you fail a Mission by running out of time, failing the objective, or dying, you will lose 25 promotion points instead. The mission will also be considered failed if you die on your way back to Captain Trist after a successful mission.
+Upon completing a Mission, you will have to report back to Captain Trist, this will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, and a very small chest. If you fail a Mission by running out of time, failing the objective, or dying, you will lose 25 promotion points instead. The mission will also be considered failed if you die on your way back to Captain Trist after a successful mission.
 
-Leaving the game will forfeit your Mission without it being counted as "failed," allowing you to reroll your Mission objective.
+Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
 
-Even if you aren't in a squad, other players may be assigned to the same mission as you. If the mission is completed, it will be completed for both parties. If the mission fails, both parties will be punished. Dying during a mission only counts as a mission fail for the person who died.
+Even if you aren't in a squad, other players may be assigned to the same mission as you. For some Missions, like Armanent Sabotage, if the Mission is completed, it will be completed for both parties. If the Mission fails, both parties will be punished. Dying during a mission only counts as a Mission fail for the person who died.
 
 ### List of Missions
 
@@ -83,12 +85,15 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
 2.  **Capture Prisoner** - _Find and Capture escaped prisoners. Distribute this information to your Squad._
     -   Objective: Track down and hunt a player who is attempting to escape the [Fort Merit](Fort_Merit.md) prison.
-    -   Location: The escaped prisoner.
+    -   Location: [Fort Merit](Fort_Merit.md); 16 minute 30 second time limit
     -   Notes/Tips:
-        -   The Mission will automatically fail if the prisoner gets uncuffed or leaves the game.
-        -   This Mission can become available even if no players are actively escaping. If this happens, the Mission will automatically fail after some time, causing you to lose promotion points.
-        -   This Mission will be completed if the prisoner gets teleported back into their cell, not if they actually get executed.
+        -   This Mission will be completed if the prisoner gets teleported back into their cell, not when they get executed.
             -   When an escapee gets low enough health to be knocked from a player attack, they will be teleported back into the prison instead.
+        -   The Mission will automatically fail if the prisoner gets uncuffed, leaves the game, or if you enter the prison.
+            -   When this Mission fails, you only lose 10 promotion points instead of the usual 25.
+        -   This Mission can be assigned to you even if no players are actively escaping.
+        -   If there is an active prison break, this mission will be highly favored by RNG when choosing a Mission, having a very high chance that you get this one instead of any others.
+        -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage with V and run away with them. Once you get far enough away, the mission will be complete.
     -   Potential Locations:
@@ -139,16 +144,12 @@ This list may be incomplete.
   <td>
   <ul>
     <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: TBA</li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black)</li>
+    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black).</li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
-  <ol>
-    <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
-    <li><b>Generic Torso</b>: TBA</li>
-  </ol></li>
+    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: TBA</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -180,9 +181,11 @@ A division focused on backstabs and assassination.
     -   Complete 10 Solo Missions
     -   Reach Lance Corporal rank and speak to [High Inquisitor Merey](High_Inquisitor_Merey.md).
 -   Promotions
+    
     -   Lance Corporal -> Inquisitor
-    -   Inquisitor -> Inquisitor 1st Class | 329 promotion points
-    -   Inquisitor 1st Class -> Handler | 388 promotion points
+    
+    1.  Inquisitor -> Inquisitor 1st Class | 329 promotion points
+    2.  Inquisitor 1st Class -> Handler | 388 promotion points
 -   Benefits
     -   [Inquisition Light](Inquisition_Light.md) Master Armor
     -   At Handler rank, you can speak to High Inquisitor Merey and receive the [Big Brother](Big_Brother.md) Weapon
@@ -197,12 +200,14 @@ A division focused on leadership and support.
     -   Complete 10 missions as squad leader.
     -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
 -   Promotions
+    
     -   Lance Corporal -> Warrant Officer
-    -   Warrant Officer -> Captain | 329 promotion points
-    -   Captain -> Commander | 388 promotion points
-    -   Commander -> Seneschal | 447 promotion points
+    
+    1.  Warrant Officer -> Captain | 329 promotion points
+    2.  Captain -> Commander | 388 promotion points
+    3.  Commander -> Seneschal | 447 promotion points
 -   Benefits
-    -   [Authority Captain Uniform](Authority_Captain_Uniform.md)
+    -   [Authority Captain Uniform](Authority_Captain_Uniform.md) Expert Armor
     -   At Seneschal rank, you can speak to Warden Jericho and receive the [Rite of Authority](Rite_of_Authority.md) Weapon
     -   The edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey.
     -   Exclusive Division Talents; [see below](#command-division-talents)
@@ -215,9 +220,11 @@ A division focused on brute force and posture damage.
     -   Complete ??
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
+    
     -   Lance Corporal -> Frontliner
-    -   Frontliner -> Interceptor | 329 promotion points
-    -   Interceptor -> Operator | 388 promotion points
+    
+    1.  Frontliner -> Interceptor | 329 promotion points
+    2.  Interceptor -> Operator | 388 promotion points
 -   Benefits
     -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor
     -   At Operator rank, you can speak to Sentinel Augustus and receive the [Duskguard Axe](Duskguard_Axe.md) weapon
@@ -300,15 +307,15 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory.
 -   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
 -   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change as you get promoted through the ranks.
--   You CAN do trial of one with this origin
 
 ### Cons
 
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
--   You cannot craft any non Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
+-   You cannot craft any [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
+    -   This includes Authority-based Outfits like [Authority Commander](Authority_Commander.md).
 -   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
--   Because the Master Armors are immediately equipped upon maxing your Division, if you craft any other Outfit, they will be lost permanently.
+-   Because the Master Armors are immediately equipped upon joining your Division, if you craft any other Outfit while Exiled, they will be lost permanently.
 
 ## Reputation
 

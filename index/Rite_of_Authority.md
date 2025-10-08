@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 164810
+revid: 164915
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -39,11 +39,13 @@ The Rite of Authority is a MED weapon in the Sword category that can be obtained
 
 ## Critical
 
-Perform a Thundercall-infused uppercutting slash with an 0.7x scaled damage modifier that ragdolls on hit. If this attack lands, leap into the air and plunge downwards, striking your opponent a second time for 1x scaled damage.
+Perform a Thundercall-infused uppercutting slash with an 0.7x scaled damage modifier that ragdolls and shocks on hit. If this attack lands, leap into the air and plunge downwards, striking your opponent a second time for 1x scaled damage and applying shock again.
 
 The second hit additionally has 13.9 Thundercall scaling on top of your already scaled damage, allowing for a significant amount of damage at high investment.
 
-This critical will turn blue if the user has [Surge Path](Talents.md#unstable-capacitor).
+If the first hit is blocked, it will deal 3 posture damage and won't progress to the second hit. If the second hit is blocked, it will deal 9.5 posture damage.
+
+This critical will turn blue if the user has [Surge Path](Talents.md#unstable-capacitor) with the shock being replaced with Surge Rods.
 
 The critical has a cooldown of **3 seconds**.
 

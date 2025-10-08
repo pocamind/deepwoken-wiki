@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 164837
+revid: 164852
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -26,7 +26,7 @@ Much like the rest of him, his personality is still a mystery. Unlike most membe
 
 At one point he was positioned in the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), but he left it and his [journal](Journal_of_Warden_Jericho.md) behind after the Etrean navy became wise to its position.
 
-He dons a [Red Royal Duelist](Royal_Duelist.md) and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on one hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields a curved Authority blade.
+He dons a [Red Royal Duelist](Royal_Duelist.md) and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on one hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields the Rite of Authority saber.
 
   
 

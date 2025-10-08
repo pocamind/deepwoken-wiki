@@ -1,6 +1,6 @@
 ---
 title: Verse 3
-revid: 164749
+revid: 164877
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Upcoming content]
@@ -31,7 +31,7 @@ During their progression, players will be "soul-locked" to the Authority clan, r
 
 ### Map Adjustments
 
-The land has changed in the Eastern Luminant, with a new map, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel](The_Starswept_Valley.md).
+The land has changed in the Eastern Luminant, with new and removed locations, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel](The_Starswept_Valley.md). The map has not been updated yet
 
 ## References
 

@@ -1,187 +1,34 @@
 ---
 title: Origins
-revid: 164312
+revid: 164906
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Mechanics, Creation, Origins]
+categories: [Character, Mechanics, Creation, Origins]
 ---
 
 # Origins
 
-**Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways. You **CANNOT** change your origin _mid progression_, as you will need to **WIPE** in order to pick a new origin.
+**Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways, with most Origins having a preferred progression method. You **CANNOT** change your Origin _mid progression_, as Origins can only be chosen from Character Creation; you will need to **WIPE** in order to pick a new Origin.
 
-## Castaway
+## Origins
 
-> “ Washed ashore in an unfamiliar place, you find hospitality within the Kingdom of Etrea. ”
-> 
-> ― Origin description
+[Castaway](Castaway.md)
 
-_Castaway_ is the default and intended way to play the game, and is available to the player upon purchase of the game. _It has no restrictions and no benefits._
+[Castaway](Castaway.md)
 
--   You can choose between [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) as your spawn.
--   You begin with nothing but the [Stranded](Stranded.md) outfit, and a starting weapon of your choice; along with 3 training items: 1 of your highest attribute, 1 weapon manual, and 1 for your respective [Attunement](Attunements.md). _If you have [no Attunement](Attunement-less.md), you'll gain a training item of your second highest investment instead._
-    -   Alternatively, if you complete the [Tutorial](Tutorial.md), you will start with an extra 29/59 ,[Leather Gloves](Leather_Gloves.md), a Mantra of your choosing, [Flint](Flint.md), and a Dumbbell, on top of what you already start with.
--   Your starting reputations are:
-    -   Friend of The Kingdom of Etrea and Lost Celtor
-    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
+[Lone Warrior](Lone_Warrior.md)
 
-Note: Asking The Captain to remind you of him in [Fragments of Self](Fragments_of_Self.md) **will lock you** to this origin for that specific slot until you wipe again
+[Deepbound](Deepbound.md)
 
-## Lone Warrior
+[Deepbound](Deepbound.md)
 
-> “ You awake to find yourself in a hall of ivory white, your memories of all other than combat are hazy. ”
-> 
-> ― Flavor Text
+[Voidwalker](Voidwalker.md)
 
-**_Obtainment_:** Wipe for the first time OR Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
+[IgnitionDelver](Ignition_Delver.md)
 
-**Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
+[Ignition Delver](Ignition_Delver.md)
 
-With simply doing Trial of One, you end up at Power 6 with 5 points remaining. With the Autodidact boon or [Adret](Adret.md) aspect, you end up at Power 7 with 2 points remaining. With the aspect Adret and the boon Autodidact, you end up at Power 8 with 3 points remaining.
-
--   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One.
--   **\[PRO\]** Spawns you directly inside the [Trial of One](Trial_of_One.md).
--   **\[PRO\]** Allows use of the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md).
--   **\[CON\]** Your default spawn puts you extremely close to enemy territory, and there is no nearby town.
-
-## Deepbound
-
-> “ Your training is almost complete, though you were raised in these halls, you must now venture out into the Wastes to prove your worth. ”
-> 
-> ― Flavor Text
-
-**_Obtainment_:** Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md). Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
-
--   **You don't actually need to join the Divers guild** to obtain Deepbound, you just need to talk to him.
-
-**Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier to survive. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
-
--   You can choose to either spawn at [Castle Light](Castle_Light.md) or the [Diluvian Mechanism](The_Diluvian_Mechanism.md), both located in [The Depths](The_Depths.md).
--   Your starting reputations are:
-    -   Friend of The Divers and Lost Celtor
-    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
--   Grants the Deepbound Contract Talent "Call of the Deep"
-    -   Main page: [Call of the Deep](Deepbound.md#call-of-the-deep)
-
--   **\[PRO\]** Increased EXP Gain in [The Depths](The_Depths.md), increased further below Power 15.
--   **\[CON\]** Reduced EXP Gain in the Overworld.
--   **\[PRO\]** You regain sanity in Castle Light.
--   **\[PRO/CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the rare possibility of a [Nautilodaunt](Nautilodaunt.md).
--   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
--   **\[PRO\]** Castle Light necessities are available to you (the banker, the antiquarian, a working fire place, etc.).
--   **\[CON\]** **You cannot do Trial of One.** Although spawning at the [Diluvian Mechanism](The_Diluvian_Mechanism.md) might serve as a good alternative, it is much more difficult.
--   **\[PRO\]** You regain sanity from killing monsters in the Depths.
--   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health and whether or not they're corrupted.
--   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
--   \[**PRO\]** You can always enter Castle Light regardless of the status of your soul. (If you die in the overworld while on second life you can still enter)
--   **\[PRO\]** If you are a contractor, You will still be able to enter castle light.
--   \[Neutral\] for an unknown reason you always spawn at 17 years old (may not be intended)
-
-## Voidwalker
-
-> “ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
-> 
-> ― Flavor Text
-
-_**If you're looking to rid yourself of Voidwalkers, check the [Bounty Hunting](Bounty_Hunting.md) page instead.**_  
-**_Obtainment_:** On a single character, grip any 5 players. (Chime of Conflict grips count, but only as '0.5' of a grip.) Afterwards, talk to Eiris, who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option; which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble. You will be warped to the [Voidheart](Voidheart.md), where you need to talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) to receive the origin.
-
-**Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ Innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate Talent, which solidifies your connection to Eylis.
-
--   Grants the Knives of Eylis Talent "Voidwalker Contract"
-    -   Your starting location is the [Voidheart](Voidheart.md).
-        -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
-        -   Talking to the [Voidmother](The_Voidmother.md) while in combat opens a rift that other players can follow into.
-    -   **\[PRO\]** Increased EXP Gain from bounties...
-    -   **\[CON\]** ...but reduced EXP Gain from events.
--   Grants the Knives of Eylis Talent "Grasp of Eylis"
-    
-    Grasp of Eylis ferocity option
-    
-    -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
-    -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
-    -   **\[PRO/CON\]** If your target runs too far away and is no longer in combat, or likewise if you get away from your target, you are brought back to the [Voidheart](Voidheart.md).
-    -   There are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
-        -   **\[PRO\]** With the **Ferocity** option, your selected target will be highlighted in **red** through walls for a moment after you teleport, _so make sure to move your camera around quickly to spot the red highlight_.
-        -   **\[CON\]** ...but you will gain a very obvious tentacle-whirring effect on your head that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
-        -   **\[PRO\]** With the **Stealth** option, you do not make a sound, do not receive the particle effects until you engage your target, and can approach players that are further away from Ferocity's range...
-        -   **\[CON\]** ...but you do not gain vision of your target. It should be noted that you can still tell where they generally are from the bounty itself.
--   Grants the Knives of Eylis Talent "Voideye"
-    
-    Voideye animation
-    
-    -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
-    -   This ability has a 5-minute cooldown. _The cooldown also automatically ends whenever a bounty is completed._
-    -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
--   **\[PRO/CON\]** You spawn with [Whaler Initiate](Whaler_Initiate.md) Armor.
--   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
-    -   Having a bounty for any of the following factions will also add the bounty this board: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Knives of Eylis](The_Knives_of_Eylis.md), [The Divers](The_Divers.md).
--   Your starting reputations are:
-    -   Friend of The Knives of Eylis and Lost Celtor
-    -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, The Hundred Legions.
-        -   If you are one of the 3 Hive aspects (Chrysid, Ganymede, or Vesperian) you do not start with negative Hive reputation.
--   **\[CON\]** Due to your starting reputation, once you reach Power 5 you will likely be bounty hunted by other Voidwalkers until you work on gaining a positive reputation with Etrea and The Hive. (Or other factions which may've put your bounty on their boards.)
-
-## Ignition Delver
-
-> “ Just another day on the job. The riches below ain't gonna extract themselves now, are they? ”
-> 
-> ― Flavor Text
-
-_**Obtainment:**_ On any character, go to Layer 2, go and save [Epsi](Epsi.md) then return to Alpha in the union base. In short, do the [Arcwarder](Oath%253A_Arcwarder.md) step but you do not need to get [Arcwarder](Oath%253A_Arcwarder.md), and you also aren't required to go to Delta in the overworld. If you have already done the [Epsi](Epsi.md) quest, you can simply talk to [Alpha](Alpha.md) in the base and get the origin.
-
-Also obtained from [Orion's](Orion.md) quest. You must first do his quest, by clearing out the [Summer Company guards](Summer_Company_Guard.md) found in Boiler Room of [Miner's Landing](<Miner's_Landing.md>), then return to him and report back. After that, you have to talk to him again and you unlock the origin. It should be noted that this doesn't mean that you need to do his quest twice!
-
-You can do Trial of One as an Ignition Delver.
-
-**Ignition Deepdelver's** main focus are the numerous dungeons in the game, promoting progression with them. They get immediate access to the [Saramaed Hollow](Saramaed_Hollow.md) dungeon which can be done at lower powers (granted you stay on the earlier floors). They can also remotely accept jobs via their [Union Pager](Ignition_Delver.md), allowing them to quickly stack up jobs and EXP. Additionally, they can spawn at the [Chariot's Spire](<The_Chariot's_Spire.md>) in the Depths if they wish.
-
--   Your starting reputations are:
-    -   Friend of The [Ignition Union](The_Ignition_Union.md) and [Lost Celtor](Lost_Celtor.md)
-    -   Enemy of The Knives of Eylis, The Ministry, Summer Company and The Hundred Legions.
--   Grants the Innate Talent "Union Card"
-    -   Your starting location is [Miners Landing](<Miner's_Landing.md>) or [The Chariot's Spire](<The_Chariot's_Spire.md>).
-    -   **\[PRO\]** Increased EXP Gain from dungeons (layer 2, Saramaed hollow, Duke, Ferryman...) and jobs...
-    -   **\[CON\]** ...but reduced EXP Gain from everything else.
--   Grants the Innate Talent "Union Pager"
-    -   **\[PRO\]** Allows you to remotely accept jobs.
--   **\[PRO\]** Gain bonus EXP until Power 10.
--   **\[PRO\]** You spawn with [Union Initiate](Union_Initiate.md) Armor.
--   **\[PRO\]** Access to [Chariot Spire](<The_Chariot's_Spire.md>) amenities, including:
-    -   An Antiquarian, Banker, Mystic and Campfire
-    -   Layer 2 Entrance via the Deep Drill (unlocked by escaping in Layer 2 Floor 1 via the Deep Drill)
-        -   **\[PRO\]** Spawns you in [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on.
-        -   **\[CON\]** You do not spawn with a Light Hook.
-        -   **\[CON\]** (Currently) Forced to return to [Castle Light](Castle_Light.md) after completing Floor 1 or 2.
--   Grants the Ignition Union Talent "Union Hook"
-    -   **\[PRO\]** Useful for getting around Eastern Luminant
--   **\[PRO\]** You regain sanity in [Chariot's Spire](<The_Chariot's_Spire.md>).
--   **\[PRO\]** Grants the ability to use the [Hollow Forge](Hollow_Forge.md) in [Miner's Landing](<Miner's_Landing.md>) and [Chariot's Spire](<The_Chariot's_Spire.md>) to make [Smith Alloy](<Smith's_Alloy.md>) and [Armorer's Needles](<Armorer's_Needle.md>).
--   **\[CON\]** Confirmed by Arch\_Mage to be currently unfinished.[\[1\]](#cite-note-1)
-
-## Authority Ensign
-
-**_Obtainment_:** Defeat [Titus](Titus_Fulminus_Destellus.md) or obtain Hero reputation with the Central Authority to unlock.
-
-Ascend through the Authority's ranks, choose a division, and unlock unique abilities and gear.
-
--   Your starting [reputations](Reputation.md) are:
-    -   Ally with The Central Authority, Friend with [Lost Celtor](Lost_Celtor.md), [Divers](The_Divers.md), and [The Ignition Union](The_Ignition_Union.md).
-    -   Hunted by [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md), Enemy of [The Ministry](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md).
--   Grants the Innate Talent "Authority Ensign"
-    -   You spawn at [Fort Merit](Fort_Merit.md)
-    -   You have access to the weapon shop within Fort Merit
-    -   Squad system allowing you to team up with other players
-    -   For that file, you are forcibly placed in the Central Authority guild (only affects slots that use the origin)
-        -   If you get exiled, you will be placed back in your original guild
-        -   Charm of dwelling/dwelling charm wont do anything (The Central Authority doesn't have a guild base)
-    -   If you leave their territory for over 15 minutes (some exceptions)
-        -   Reputation with The Central Authority will be set to villain, kicking you out of the origin and stripping you of all its benefits.
--   Grants the Innate Talent "Horn of Authority"
-    -   Grants a horn that when blown marks escaped prisoners.
--   You have unique dialogue with some NPCs.
-
-More info on the [Authority Ensign](Authority_Ensign.md) page.
+[Authority Ensign](Authority_Ensign.md)
 
 ## Upcoming Origins
 
@@ -189,6 +36,7 @@ More info on the [Authority Ensign](Authority_Ensign.md) page.
 
 -   Release date unknown.
 -   Stated to be a PvE centered origin for players who want to avoid PVP.
+-   Originally sneaked in this official Deepwoken Twitter [post](https://x.com/deepwoken/status/1750904368218485169).
 
 ### Hundred Legions Origin
 
@@ -211,19 +59,13 @@ More info on the [Authority Ensign](Authority_Ensign.md) page.
 -   The Deepbound Origin was originally a Flaw, however this was changed into an Origin during the 8/22/2022 update.
 -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
--   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[2\]](#cite-note-2)
--   With the Deepbound and Voidwalker origins having contract Talents to factions belonging to The Divers and The Knives of Eylis faction respectively, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin (along with presumably the Authority) that they will also contain contract based Talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
+-   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
+-   With the Deepbound and Voidwalker origins having contract Talents to factions belonging to The Divers and The Knives of Eylis faction respectively, keeping it in mind that they are origin exclusive justifying their unique features, it is likely the Hive origin that they will also contain contract based Talents, which so far have seen a general trend of greatly increasing experience from one path of progression and reducing another path in exchange, it appears that they will contain this feature as well.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you.
--   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have the Tutorial Origin. It doesn't change that much from the original, but it's a cool secret.
+-   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have completed the [Tutorial](Tutorial.md) on your character. It doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
--   Despite the Summer Company and the Ignition Union's rivalry, Summer Company NPCs won't react any differently if you are an Ignition Delver.
+-   Despite various faction rivalries, outside of the starting reputations, faction-aligned NPCs won't act any different if you are using an opposing faction's origin.
 
 ## References
 
 1.  [↑](#cite-ref-1)
-    
-    File:Archmage undercooked ignition.png
-    
-    Arch\_Mage confirming the Oath was undercooked
-    
-2.  [↑](#cite-ref-2)

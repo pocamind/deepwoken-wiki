@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 164718
+revid: 164890
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -48,6 +48,22 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 </tr>
 <tr>
   <td>Mm. It's been a while since we've had a ship of new recruits in. Warden did some pruning of the guard here - thought some of us would serve better on the frontline. Almost jealous I didn't get picked, but marching across sand all day in full kit sounds much worse than a trip to the Sawbones. Soon as you lot pulled up at the dock, there was an uproar - I swear, I don't think I've ever seen the folks here be this happy.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Player has the Lance Corporal rank, but is under no division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>*The Adret beckons you over, feigning brushing a tear away.* Hey, hey! Look at you climbing the ranks, like a Brainsuckling flying the nest... Three cheers, soldier!</td>
 </tr>
 <tr>
   <td>End</td>

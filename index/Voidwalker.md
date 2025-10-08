@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 164585
+revid: 164892
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Origins, Character, The Knives of Eylis]
@@ -76,6 +76,6 @@ Successfully completing a bounty grants EXP and a chest with loot. Rarity of the
 Your starting faction [reputation](Reputation.md) is:
 
 -   **Friend** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) and [Lost Celtor](Lost_Celtor.md)
--   **Enemy** of [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
+-   **Enemy** of [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
 -   **Neutral** with all other factions [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Authorityiconfaction](The_Central_Authority.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._

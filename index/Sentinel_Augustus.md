@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 164434
+revid: 164913
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -38,10 +38,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td>*You salute Sentinel. He looks down at you with mild confusion on his face, saluting back.* At ease. Huh, didn't think we've got any business with the Inquisition scheduled for today, Inquisitor?... Oh, I get it, you're her to fawn over young Interceptor Steel there like all the others, huh. Well, don't loiter around too long. I don't think the High Inquisition appreciates that kind of idling, and we at the Shock Corps have business to get to today.</td>
 </tr>
 <tr>
   <td>End</td>

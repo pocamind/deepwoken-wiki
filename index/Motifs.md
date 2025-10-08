@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 163252
+revid: 164912
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -42,173 +42,32 @@ Full list of Motif-able weapons
 
 | Weapon you can get a Motif from | Critical visual (important for scaling) | What weapon classes the Motif works on |
 | --- | --- | --- |
-| 
-[Krulian Knife](Krulian_Knife.md)
-
- | 
-
-[Krulian Knife](Krulian_Knife.md)
-
- | 
-
-Daggers
-
- |
-| 
-
-[Nemit's Sickle](<Nemit's_Sickle.md>)
-
- | 
-
-[Nemit's Sickle](<Nemit's_Sickle.md>)
-
- | 
-
-Daggers
-
- |
-| 
-
-[Whaling Knife](Whaling_Knife.md) / [Alloyed Whaling Knife](Whaling_Knife.md#alloyed)
-
- | 
-
-[Whaling Knife](Whaling_Knife.md)
-
- | 
-
-Daggers
-
- |
-| 
-
-[The Flippers of Fate](The_Flippers_of_Fate.md) / [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
-
- | 
-
-[Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
-
- | 
-
-Swords, Clubs, Twinblades, Spears, Bows
-
- |
-| 
-
-[Serpent's Edge](<Serpent's_Edge.md>)
-
- | 
-
-[Serpent's Edge](<Serpent's_Edge.md>)
-
- | 
-
-Swords, Spears
-
- |
-| 
-
-[Cavalry Saber](Cavalry_Saber.md) / [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed) / [Officer Saber](Officer_Saber.md) / [Alloyed Officer Saber](Officer_Saber.md#alloyed)
-
- | 
-
-[Officer Saber](Officer_Saber.md)
-
- | 
-
-Swords
-
- |
-| 
-
-[Shotel](Shotel.md) / [Alloyed Shotel](Shotel.md#alloyed)
-
- | 
-
-[Shotel](Shotel.md)
-
- | 
-
-Swords, Clubs, Twinblades, Spears, Bows
-
- |
-| 
-
-[Trident Spear](Trident_Spear.md) / [Alloyed Trident Spear](Trident_Spear.md#alloyed) / [Golden Swordfish](Golden_Swordfish.md)
-
- | 
-
-[Trident Spear](Trident_Spear.md)
-
- | 
-
-Spears
-
- |
-| 
-
-[Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) / [The Long Tong of the Law](The_Long_Tong_of_The_Law.md)
-
- | 
-
-[Crescent Cleaver](Crescent_Cleaver.md)
-
- | 
-
-Greatswords
-
- |
-| 
-
-[Kanabo](Kanabo.md)
-
- | 
-
-[Kanabo](Kanabo.md)
-
- | 
-
-Greathammers
-
- |
-| 
-
-[Halberd](Halberd.md) / [Alloyed Halberd](Halberd.md#alloyed)
-
- | 
-
-[Halberd](Halberd.md)
-
- | 
-
-Greataxes, Spears
-
- |
-| 
-
-Any weapon in the respective weapon class with a default critical attack  
+| [Krulian Knife](Krulian_Knife.md) | [Krulian Knife](Krulian_Knife.md) | Daggers |
+| [Nemit's Sickle](<Nemit's_Sickle.md>) | [Nemit's Sickle](<Nemit's_Sickle.md>) | Daggers |
+| [Whaling Knife](Whaling_Knife.md) / [Alloyed Whaling Knife](Whaling_Knife.md#alloyed) | [Whaling Knife](Whaling_Knife.md) | Daggers |
+| [Rite of Authority](Rite_of_Authority.md) | [Rite of Authority](Rite_of_Authority.md) | Rapiers |
+| [The Flippers of Fate](The_Flippers_of_Fate.md) / [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | Swords, Clubs, Twinblades, Spears, Bows |
+| [Serpent's Edge](<Serpent's_Edge.md>) | [Serpent's Edge](<Serpent's_Edge.md>) | Swords, Spears |
+| [Cavalry Saber](Cavalry_Saber.md) / [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed) / [Officer Saber](Officer_Saber.md) / [Alloyed Officer Saber](Officer_Saber.md#alloyed) | [Officer Saber](Officer_Saber.md) | Swords |
+| [Shotel](Shotel.md) / [Alloyed Shotel](Shotel.md#alloyed) | [Shotel](Shotel.md) | Swords, Clubs, Twinblades, Spears, Bows |
+| [Trident Spear](Trident_Spear.md) / [Alloyed Trident Spear](Trident_Spear.md#alloyed) / [Golden Swordfish](Golden_Swordfish.md) | [Trident Spear](Trident_Spear.md) | Spears |
+| [Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) / [The Long Tong of the Law](The_Long_Tong_of_The_Law.md) | [Crescent Cleaver](Crescent_Cleaver.md) | Greatswords |
+| [Kanabo](Kanabo.md) | [Kanabo](Kanabo.md) | Greathammers |
+| [Halberd](Halberd.md) / [Alloyed Halberd](Halberd.md#alloyed) | [Halberd](Halberd.md) | Greataxes, Spears |
+| Any weapon in the respective weapon class with a default critical attack  
   
-
-Excludes Fists and Greatcannons
-
- | 
-
-**Light Weapons**:  
+Excludes Fists and Greatcannons | **Light Weapons**:  
 Dagger: [Stiletto](Stiletto.md), Fists: N/A, Gun: [Dawnshot](Dawnshot.md), Rapier: [Apprentice Rapier](Apprentice_Rapier.md)
-
 **Medium Weapons**:  
-Sword: [Sword](<Sword_(weapon).md>), Spear: [Iron Spear](Iron_Spear.md), Club: [Mace](Mace.md), Gun: [Dawnshot](Dawnshot.md), Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A
-
+Sword: [Sword](<Sword_(weapon).md>), Spear: [Iron Spear](Iron_Spear.md), Club: [Mace](Mace.md), Gun: [Dawnshot](Dawnshot.md), Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A  
 **Heavy Weapons**:  
 Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Soulwrought Greatsword](Crazy_Slots.md#weapons), Greathammer: [Pale Morning](Pale_Morning.md), Greatcannon: N/A
 
- | 
+ | The weapon class the Motif-ed weapon belongs to
 
-The weapon class the Motif-ed weapon belongs to  
   
-
+  
 Sword Motif: Swords, Clubs, Twinblades, Spears, Bows  
-
 Gun Motif: Rifles, Pistols
 
  |

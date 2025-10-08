@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 164528
+revid: 164893
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers, Origins, Character]
