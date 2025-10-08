@@ -1,9 +1,9 @@
 ---
 title: Warden Jericho
-revid: 164734
+revid: 164837
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, Lore figures, Military personnel of The Central Authority]
+categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -159,4 +159,4 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 ## Trivia
 
--   The [Oath](Oaths.md) wielded by Warden Jericho, Warmaster, is unreleased that many high ranking [Authority](The_Central_Authority.md) members have.
+-   The [Oath](Oaths.md) wielded by Warden Jericho, Warmaster, is unreleased.

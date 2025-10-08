@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 164246
+revid: 164814
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -20,7 +20,7 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 | resistances | 30% Physical Armor, 30% Elemental Armor, 10% Fire Armor, 10% Ice Armor, 10% Lightning Armor |
 | buffs | +15% Ether Regen |
 | talents | Battle-Hardened |
-| obtainment | Authority Ensign, Shock Trooper Corps Division |
+| obtainment | Authority Ensign, Shock Corps Division |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -44,5 +44,5 @@ The [Battle-Hardened](Talents.md#equipment-talents) Talent grants 20% damage red
 
 ## Trivia
 
--   Despite the Power and crafting requirements, this Outfit will be automatically equipped upon joining the Shock Trooper Corps Division.
+-   Despite the Power and crafting requirements, this Outfit will be automatically equipped upon joining the Shock Corps Division.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/123971861365155/Shock-Corps-Shirt-Red) / [Pants](https://www.roblox.com/catalog/72959915619973/Shock-Corps-Pants)

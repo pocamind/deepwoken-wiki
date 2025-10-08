@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 164786
+revid: 164812
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -29,12 +29,12 @@ notices:
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sentinel Augustus (Shock Trooper Corps Division of the Authority Ensign Origin exclusive) |
+| obtainment | Sentinel Augustus (Shock Corps Division of the Authority Ensign Origin exclusive) |
 | description | A mighty axe, held by the most esteemed of the Authority. Its weight and striking force deliver utterly brutal blows through the teeth of its foes. |
 
 ## Description
 
-The Duskguard Axe is a HVY weapon in the Greataxe category that can be obtained by maxing out the Shock Trooper Corps division under the [Authority Ensign](Authority_Ensign.md) origin. You must return to Sentinel Augustus after obtaining the rank of Operator in order to receive the weapon.
+The Duskguard Axe is a HVY weapon in the Greataxe category that can be obtained by maxing out the Shock Corps division under the [Authority Ensign](Authority_Ensign.md) origin. You must return to Sentinel Augustus after obtaining the rank of Operator in order to receive the weapon.
 
 ## Critical
 

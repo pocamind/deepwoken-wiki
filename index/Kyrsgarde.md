@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 161452
+revid: 164843
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Also known as Kyrsans, the Kyrsgarde are an intelligent form of species unlike the Humans (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol in their society. Those residing in [Firfire](Firfire.md) and the surrounding [outskirts](Second_Layer/The_Ethironal_Shrine.md) are peaceful towards Fringewalkers, while the ones laying in the depths of [New Kyrsa](Second_Layer/New_Kyrsa.md) prove hostile towards the player, protecting Ethiron from such threats with pure loyalty.
+Also known as Kyrsans, the Kyrsgarde are an intelligent form of species unlike the Humans (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol in their society. Those residing in [Firfire](Firfire.md) and the surrounding [outskirts](Second_Layer/The_Ethironal_Shrine.md) are peaceful towards Fringewalkers, while the ones laying in the depths of [New Kyrsa](Second_Layer/New_Kyrsa.md) prove hostile towards the player, protecting Ethiron from threats with fanatical zealotry.
 
 ## Kyrsans
 

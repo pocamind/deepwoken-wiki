@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 150145
+revid: 164835
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore figures]

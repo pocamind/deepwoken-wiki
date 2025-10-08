@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164776
+revid: 164815
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2445,17 +2445,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Operator's Technique
 
 -   _Absolute Force_ \[Origin Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division, Oppressive Force
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division, Oppressive Force
 
 -   _Amp Overdrive_ \[Origin Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the guardbreak stun duration from 1.05 seconds to 2.1 seconds.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 -   _Martial Brutality_ \[Origin Exclusive\] - The less health your opponent has, the more posture damage you deal to them.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 -   _Shocking Reverb_ \[Origin Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Trooper Corps Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 ### Outlaw
 

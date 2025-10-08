@@ -1,6 +1,6 @@
 ---
 title: Adretian Aegis
-revid: 164272
+revid: 164821
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Authority Faction Item, Shields]
@@ -27,9 +27,9 @@ categories: [Weapons, Authority Faction Item, Shields]
 
 Adretian Aegis is a blue and gold mid-game shield that bears the icon of [The Central Authority](The_Central_Authority.md). Depending on what division the player chooses as an Authority Ensign, the shield will change colors:
 
--   Inquisitor = Black
--   Leadership = Blue (Same as base)
--   Shock Trooper = Red
+-   Inquisition = The blue becomes black
+-   Command = The gold edges of your shield become grey
+-   Shock Corps = The blue becomes red
 
 ## Trivia
 

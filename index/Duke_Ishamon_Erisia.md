@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 163844
+revid: 164845
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -20,7 +20,7 @@ Template:EnemyInfobox1.0
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence. In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Erisia is a martial arts user and is specialized in the [Legion Kata](Legion_Kata.md) style. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
+He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Erisia is a martial arts user and is specialized in the [Legion Kata](Legion_Kata.md) style. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 
 While Duke Erisia is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can obliterate his posture and guardbreak him with every M1.
 
@@ -411,7 +411,6 @@ Exhaustive Loot Table
 -   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was "Duke Ishamon Erisia Duke Erisia."
     -   Naktigonis said it was "Duke Ishamon Erisia Duke Ishamon Erisia Duke Erisia (Duke Erisia)."
--   As of 6/10/2024, this is possibly the most commonly trolled page in the Deepwoken Wiki.
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his ability capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
@@ -419,7 +418,6 @@ Exhaustive Loot Table
 -   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that Duke Erisia is a member of the band "The Seal Unleashed" as the vocalist.
     -   Duke Ishamon Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
--   Duke Ishamon Erisia can be (rarely) seen conversing with the [Mindless Servants](Mindless_Servant.md) in the tubes next to him idly. This is likely a bug, as Mudskippers and even Terrapods can start small talk when idle.
 -   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
 -   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Ishamon Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
 -   If you don't kill all the enemies in the first area, Duke Ishamon Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).

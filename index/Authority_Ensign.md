@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164806
+revid: 164849
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -86,9 +86,9 @@ Even if you aren't in a squad, other players may be assigned to the same mission
     -   Location: The escaped prisoner.
     -   Notes/Tips:
         -   The Mission will automatically fail if the prisoner gets uncuffed or leaves the game.
+        -   This Mission can become available even if no players are actively escaping. If this happens, the Mission will automatically fail after some time, causing you to lose promotion points.
         -   This Mission will be completed if the prisoner gets teleported back into their cell, not if they actually get executed.
             -   When an escapee gets low enough health to be knocked from a player attack, they will be teleported back into the prison instead.
-        -   This Mission is only available while a player is attempting to escape from the jail.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage with V and run away with them. Once you get far enough away, the mission will be complete.
     -   Potential Locations:
@@ -164,7 +164,7 @@ Enlistment Ranks
 2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points.
     -   You will gain access to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of other weapons that can be found at the Armory.
 3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points.
-    -   Allows you to join one of the Divisions: Shock Trooper Corp, Command, or Inquisition.
+    -   Allows you to join one of the Divisions: Shock Corps, Command, or Inquisition.
 
 ### Divisions
 
@@ -204,9 +204,10 @@ A division focused on leadership and support.
 -   Benefits
     -   [Authority Captain Uniform](Authority_Captain_Uniform.md)
     -   At Seneschal rank, you can speak to Warden Jericho and receive the [Rite of Authority](Rite_of_Authority.md) Weapon
+    -   The edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey.
     -   Exclusive Division Talents; [see below](#command-division-talents)
 
-#### Shock Trooper Corps Division
+#### Shock Corps Division
 
 A division focused on brute force and posture damage.
 
@@ -221,7 +222,7 @@ A division focused on brute force and posture damage.
     -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor
     -   At Operator rank, you can speak to Sentinel Augustus and receive the [Duskguard Axe](Duskguard_Axe.md) weapon
     -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to red
-    -   Exclusive Division Talents; [see below](#shock-trooper-corps-division-talents)
+    -   Exclusive Division Talents; [see below](#shock-corps-division-talents)
 
 ### Promotion Talents
 
@@ -279,7 +280,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 -   _Target Focus_ - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
-#### Shock Trooper Corps Division Talents
+#### Shock Corps Division Talents
 
 -   _Amp Overdrive_ - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
@@ -299,6 +300,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory.
 -   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
 -   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change as you get promoted through the ranks.
+-   You CAN do trial of one with this origin
 
 ### Cons
 
