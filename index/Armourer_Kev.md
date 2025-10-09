@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 164713
+revid: 165041
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -27,9 +27,43 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under no division:**
+**No division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The moustached Adretian man glances at you indifferently over the counter.*</i> A rookie, huh? Welcome to the Fort Merit armoury. I'm Kev. This is where we keep our equipment. You break it - you compensate for it.</td>
+</tr>
+<tr>
+  <td>I can't access some of the equipment?</td>
+</tr>
+<tr>
+  <td>Yup. You ain't got the clearance.</td>
+</tr>
+<tr>
+  <td>How do I get the clearance?</td>
+</tr>
+<tr>
+  <td><i>*He shrugs.*</i> Rank up.</td>
+</tr>
+<tr>
+  <td>That's it?..</td>
+</tr>
+<tr>
+  <td><i>*He runs his fingers over his mustache.*</i> Eeyup.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -48,7 +82,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Player is under Inquisitor division:**
+**Leadership division:**
 
 <table>
 <tbody>
@@ -67,26 +101,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Player is under Leadership division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Player is under Shock Corps division:**
+**Shock Corps division:**
 
 <table>
 <tbody>
@@ -102,9 +117,9 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -120,7 +135,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

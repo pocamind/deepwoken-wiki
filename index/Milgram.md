@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 164992
+revid: 165045
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -27,9 +27,9 @@ Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposit
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under no division:**
+**No division:**
 
 <table>
 <tbody>
@@ -45,7 +45,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposit
 </tbody>
 </table>
 
-**Player is under Inquisitor division:**
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -64,7 +64,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposit
 </tbody>
 </table>
 
-**Player is under Leadership division:**
+**Leadership division:**
 
 <table>
 <tbody>
@@ -83,7 +83,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposit
 </tbody>
 </table>
 
-**Player is under Shock Corps division:**
+**Shock Corps division:**
 
 <table>
 <tbody>
@@ -99,9 +99,9 @@ Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposit
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -117,7 +117,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposit
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

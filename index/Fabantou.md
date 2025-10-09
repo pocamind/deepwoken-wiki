@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 164794
+revid: 165036
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -26,9 +26,9 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under no division:**
+**No division:**
 
 <table>
 <tbody>
@@ -57,7 +57,7 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 </tbody>
 </table>
 
-**Player is under any division:**
+**Any division:**
 
 <table>
 <tbody>
@@ -73,9 +73,9 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -91,7 +91,7 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

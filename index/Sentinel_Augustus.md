@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 164994
+revid: 165033
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -28,9 +28,28 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under Inquisitor division:**
+**No division:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Player is a Private</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Private? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -38,7 +57,10 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td>*You salute Sentinel. He looks down at you with mild confusion on his face, saluting back.* At ease. Huh, didn't think we've got any business with the Inquisition scheduled for today, Inquisitor?... Oh, I get it, you're her to fawn over young Interceptor Steel there like all the others, huh. Well, don't loiter around too long. I don't think the High Inquisition appreciates that kind of idling, and we at the Shock Corps have business to get to today.</td>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>
@@ -46,7 +68,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tbody>
 </table>
 
-**Player is under Leadership division:**
+**Leadership division:**
 
 <table>
 <tbody>
@@ -68,7 +90,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tbody>
 </table>
 
-**Player is under Shock Corps division:**
+**Shock Corps division:**
 
 <table>
 <tbody>
@@ -87,9 +109,9 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -105,7 +127,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

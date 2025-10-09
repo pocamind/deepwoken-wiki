@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 164941
+revid: 165050
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Daggers, Light Weapons]
@@ -28,7 +28,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fabantou at The Three Cheers for 40 |
+| obtainment | Fabantou at The Three Cheers for 50 |
 | description | You've truly lost it. |
 
 ## Description

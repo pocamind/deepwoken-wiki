@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164993
+revid: 165029
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -113,7 +113,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   [Miner's Landing](<Miner's_Landing.md>); 19 minute 30 second time limit
         -   [Summer Isle](Summer_Isle.md); 1 hour 5 minute 20 second time limit
     -   Notes/Tips:
-        
+        -   This mission may be bugged, as you just stand near the flag and it will be automatically completed after a long wait.
 
 ### Mission Lootpool
 
@@ -282,10 +282,10 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
     -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
-    -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier.
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage) or 36% if Felinor (+7.2% damage).
+        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage).
 
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 
@@ -303,8 +303,6 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 ### Division Mantras
 
 These Mantras are obtained when joining a Division. Similar to Oath Mantras, you cannot upgrade Division Mantras.
-
-  
 
 | 
 **Name**
@@ -340,7 +338,7 @@ These Mantras are obtained when joining a Division. Similar to Oath Mantras, you
 
 **Glorious Charge** (☆☆☆)
 
-**Support**
+**Support Mantra**
 
 _Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds._
 
@@ -349,13 +347,13 @@ _Yell with valor and courage, increasing the speed of those who are in your part
 ## Glorious Charge (☆☆☆)
 
   
-**Support**  
+**Support Mantra**  
 _Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds._
 
  |
 | 
 
-50
+50 Ether
 
  | 
 
@@ -375,7 +373,7 @@ Command Division
 
 **Hidden Blade** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison._
 
@@ -384,13 +382,13 @@ _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of
 ## Hidden Blade (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison._
 
  |
 | 
 
-50
+50 Ether
 
  | 
 
@@ -410,7 +408,7 @@ Inquisition Division
 
 **Grand Warden's Axe** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Create a lightning axe!_
 
@@ -419,13 +417,13 @@ _Create a lightning axe!_
 ## Grand Warden's Axe (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Create a lightning axe!_
 
  |
 | 
 
-40
+40 Ether
 
  | 
 

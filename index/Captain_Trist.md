@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 164714
+revid: 165044
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -44,28 +44,9 @@ Missions are timed objectives that vary in difficulty depending on the objective
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under no division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Player is under Inquisitor division:**
+**No division:**
 
 <table>
 <tbody>
@@ -84,7 +65,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Player is under Leadership division:**
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -103,7 +84,26 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Player is under Shock Corps division:**
+**Leadership division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shock Corps division:**
 
 <table>
 <tbody>
@@ -119,9 +119,9 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Player is Exiled from the Authority:**
+**Exiled from Authority:**
 
-**Player has deserted from the Authority:**
+**Deserted the Authority:**
 
 <table>
 <tbody>
@@ -137,7 +137,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Player is a traitor to the Authority:**
+**Traitor to Authority:**
 
 <table>
 <tbody>
@@ -153,9 +153,9 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -171,7 +171,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

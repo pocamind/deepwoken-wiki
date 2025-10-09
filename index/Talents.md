@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164984
+revid: 165016
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1891,10 +1891,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   **Fatal Stealth** \[Faction Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
     -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
-    -   [Felinors](Felinor.md) have synergy with this Talent, as they have a 1.2x stealth gain multiplier.
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage) or 36% if Felinor (+7.2% damage).
+        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage).
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Flanking Maneuvers** \[Faction Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.

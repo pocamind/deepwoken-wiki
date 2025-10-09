@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 164720
+revid: 165040
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-Santen is a [Ganymede](Ganymede.md) NPC, she appears to be aged shown by the wrinkles around her eyes. Santen is the cartographer for [The Central Authority](The_Central_Authority.md), trained by her parents in the Citadel of Markor to make maps since she "could hold a pen."
+Santen is a [Ganymede](Ganymede.md) NPC, she appears to be aged shown by the wrinkles around her eyes. Santen is the cartographer for [The Central Authority](The_Central_Authority.md), trained by her parents in the Citadel of Markor to make maps since she "could hold a pen." She wears a [Black Deepwoken Cloak](Deepwoken_Cloak.md), the [Seamstress's Attire](<Seamstress's_Attire.md>) outfit, a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Pathfinder's Backpack](<Pathfinder's_Backpack.md>).
 
 ## Location
 
@@ -26,9 +26,9 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under no division:**
+**No division:**
 
 <table>
 <tbody>
@@ -50,7 +50,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tbody>
 </table>
 
-**Player is under Inquisitor division:**
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -58,10 +58,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*The cartographer shoots you a baleful glare, saluting brusquely.*</i> Perhaps you'd be able to kindly tell your higher-ups that it's possible to illustrate a point on their maps <i>without</i> the use of a dagger? <i>Stabbing</i> at them doesn't make them any more durable, you know!..</td>
 </tr>
 <tr>
   <td>End</td>
@@ -69,7 +66,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tbody>
 </table>
 
-**Player is under Leadership or Shock Corps division:**
+**Leadership / Shock Corps division:**
 
 <table>
 <tbody>
@@ -85,9 +82,9 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -103,7 +100,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

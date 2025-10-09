@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 164998
+revid: 165043
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -13,7 +13,7 @@ notices:
 
 | Drill Sergeant Kernel | |
 |---|---|
-| name | Drill Sergeant Kernel |
+| name | Drill Sergeant Cornelius Kernel Senior |
 | aspect | Celtor |
 | location | Fort Merit |
 
@@ -27,9 +27,9 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under no division:**
+**No division:**
 
 <table>
 <tbody>
@@ -113,7 +113,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is under Inquisitor division:**
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -132,7 +132,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is under Leadership division:**
+**Leadership division:**
 
 <table>
 <tbody>
@@ -151,7 +151,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is under Shock Corps division:**
+**Shock Corps division:**
 
 <table>
 <tbody>
@@ -167,9 +167,9 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -185,7 +185,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 164852
+revid: 165035
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -36,9 +36,47 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under Inquisitor division:**
+**No division:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Player is a Private</td>
+  <td colspan="2">Player is a Corporal</td>
+  <td colspan="2">Player is a Lance Corporal</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
+  <td colspan="2"></td>
+  <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local Luminants. You salute him stringently.*</i><p>...You must be Lance Corporal [Second Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+  <td colspan="2"></td>
+  <td>Yes, Warden.</td>
+  <td>I'd like some time to think about it, Warden.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2"></td>
+  <td>WIP</td>
+  <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still agains unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td colspan="2"></td>
+  <td>End, player has joined the Inquisition division</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -54,7 +92,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is under Leadership division:**
+**Leadership division:**
 
 <table>
 <tbody>
@@ -82,7 +120,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is under Shock Corps division:**
+**Shock Corps division:**
 
 <table>
 <tbody>
@@ -90,7 +128,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Frontliner. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> [Frontliner/Interceptor/Operator]. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -98,34 +136,9 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Player is a lance corporal, but not under any division:**
+**Not Authority Ensign:**
 
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin</td>
-</tr>
-<tr>
-  <td colspan="4">*Warden Jericho stands before you, looking over what appears to be strategic maps of the local <a href="Luminants.md">Luminants</a>. You salute him stringently.*<p>...You must be Lance Corporal [Second Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
-</tr>
-<tr>
-  <td colspan="2">I'd like some time to think about it, Warden.</td>
-  <td colspan="2">Yes, Warden.</td>
-</tr>
-<tr>
-  <td colspan="2">*Jericho's expression appears inscrutable, but you could swear you saw him smirk.* The waves may rush, but crash they still agains unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
-  <td colspan="2">TBA</td>
-</tr>
-<tr>
-  <td colspan="2">End</td>
-  <td colspan="2">End, you join the Leadership division.</td>
-</tr>
-</tbody>
-</table>
-
-**Player is not an Authority Ensign:**
-
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -141,7 +154,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>

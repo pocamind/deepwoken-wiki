@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 164991
+revid: 165039
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -27,9 +27,9 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 
 ## Dialogue
 
-**Player is an Authority Ensign:**
+**Authority Ensign:**
 
-**Player is under no division:**
+**No division:**
 
 <table>
 <tbody>
@@ -57,7 +57,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 </tbody>
 </table>
 
-**Player is under Inquisitor division:**
+**Inquisitor division:**
 
 <table>
 <tbody>
@@ -76,7 +76,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 </tbody>
 </table>
 
-**Player is under Leadership division:**
+**Leadership division:**
 
 <table>
 <tbody>
@@ -95,28 +95,34 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 </tbody>
 </table>
 
-**Player is under Shock Corps division:**
+**Shock Corps division:**
 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="3">Begin</td>
+</tr>
+<tr>
+  <td>Player is a Frontliner</td>
+  <td>Player is a Interceptor</td>
+  <td>Player is a Operator</td>
 </tr>
 <tr>
   <td>WIP</td>
-</tr>
-<tr>
   <td>WIP</td>
+  <td><i>*The Capra salutes, stiffly.*</i> Operator!</td>
 </tr>
 <tr>
+  <td></td>
+  <td></td>
   <td>End</td>
 </tr>
 </tbody>
 </table>
 
-**Player is not an Authority Ensign:**
+**Not Authority Ensign:**
 
-**Good Reputation with The Central Authority:**
+**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -132,7 +138,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 </tbody>
 </table>
 
-**Bad Reputation with The Central Authority:**
+**Bad Authority Reputation:**
 
 <table>
 <tbody>
