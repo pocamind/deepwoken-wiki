@@ -1,11 +1,9 @@
 ---
 title: Chud Steel
-revid: 165055
+revid: 165083
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 ---
 
 # Chud Steel
@@ -83,8 +81,8 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
   <td><i>*Interceptor Steel flashes you a brilliant smile*</i> That is true, my friend! However, I get moved around a lot! High command sends me where moral is low. They say my presence inspires the troops - and I'm told things feel quite grim in Fort Merit right now, so here I am! For now, I serve as Sentenel Augustus' right hand man! *He demonstratively holds up his left hand.*</td>
   <td><i>*He puts his chest out with pride.*</i> My family were but humble farmers, [Rank and Last name], but we could not stand idly by while so much villainy threatened the Central Authority. So my 15 brothers and I enlisted in the military, to defend Lumen from the evil! I rose through the ranks serving in the Western Luminant, and my commanders took note of my good looks, endless bravado, and daring achievments, so they recommended me as a poster boy! I think I make a damn good one, I do!</td>
   <td><i>*He laughs with gusto.*</i> That's mail from all of my adoring admirers! This batch here is all the ones that have come in today! I usually get about 20 letters each day. I write back to each of them! Each of them has a story to tell - looks like I inspire a lor of people to do their best! Hurrah! <i>*The Interceptor winks.*</i></td>
-  <td></td>
-  <td></td>
+  <td><i>*He laughs heartily.*</i> I'd love to!... Er!.. Unfortunately, I don't have anything to sign with! Perhaps another time then, [Rank]!</td>
+  <td><i>*He chuckles*</i> Of course! Ahem... Keep on marching, soldier! Don't trip!</td>
 </tr>
 <tr>
   <td>End</td>

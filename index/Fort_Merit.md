@@ -1,9 +1,9 @@
 ---
 title: Fort Merit
-revid: 164976
+revid: 165092
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, The Central Authority]
+categories: [Locations, Territory of The Central Authority]
 ---
 
 # Fort Merit
@@ -91,10 +91,14 @@ Below is a list of NPCs and their uses (that are known) that you can find thorou
 -   [Banker](Banker.md)
 -   [Brutus](Brutus.md)
 -   [Chud Steel](Chud_Steel.md)
+-   [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)
 -   [Guild Clerk](Guilds.md)
 -   Innkeeper (Sets spawn)
 -   [Rashet](Rashet.md)
+-   [Santen](Santen.md)
+-   [Sentinel Augustus](Sentinel_Augustus.md)
 -   [Viridian](Viridian.md)
+-   [Warden Jericho](Warden_Jericho.md)
 
 ## Loot Table
 

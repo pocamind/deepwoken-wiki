@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 162929
+revid: 165070
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -47,7 +47,7 @@ The critical has a cooldown of 8 seconds.
 -   The model and idea is derived from the [Dual Kamas](https://wiki.warframe.com/w/Dual_Kamas) from [Warframe](https://en.wikipedia.org/wiki/Warframe).
 -   The weapon itself, "[Kama](<https://en.wikipedia.org/wiki/Kama_(tool)>)" is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.
 -   The "Finishing Touch" Talent does work when using Flareblood Kamas.
--   As 8/26/2025, it scales off of bloodrend, making it the first weapon in the game that scales off attribute it doesn't require.
+-   As 8/26/2025, it scales off bloodrend, making it the first weapon in the game that scales off attribute it doesn't require.
 -   While its damage is high, it is only rivaled by the [Alloyed Whaling Knife](Whaling_Knife.md) and the [Alloyed Tanto](Tanto.md). The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blades](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken [Battle Royale](Battle_Royale.md) tournament.

@@ -1,6 +1,6 @@
 ---
 title: Adretian Aegis
-revid: 164821
+revid: 165071
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Authority Faction Item, Shields]
@@ -14,7 +14,7 @@ categories: [Weapons, Authority Faction Item, Shields]
 | requirements | 50 FTD, OR Authority Ensign |
 | special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
-| selling price | N/A |
+| selling price | 100 |
 | weight | 6.5 |
 | bankable | Yes |
 | droppable | Yes |

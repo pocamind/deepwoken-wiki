@@ -1,6 +1,6 @@
 ---
 title: Hector
-revid: 162786
+revid: 165106
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
@@ -16,7 +16,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Lum
 
 ## Description
 
-Hector is an Adret NPC who gives the player info on the Merit Detainment Core's system and how to break [Titus](Titus_Fulminus_Destellus.md) free.
+Hector is an [Adret](Adret.md) NPC who gives the player info on the Merit Detainment Core's system and how to break [Titus](Titus_Fulminus_Destellus.md) free. He wears the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) outfit, a Golden Cape, and [Tracker's Boots](<Tracker's_Boots.md>).
 
 ## Location
 
@@ -79,3 +79,7 @@ Hector is located in the [Merit Detainment Core](Merit_Detainment_Core.md).
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Despite claiming to be part of the navy, his status as a prison guard suggests he was either transfered to the terrestrial army, or the Central Authority's military is incredibly homogonized.

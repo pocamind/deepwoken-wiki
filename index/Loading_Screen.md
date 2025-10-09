@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 164186
+revid: 165097
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -43,30 +43,43 @@ During the loading processes, the resources are rendered in so the player can in
 -   [Saltchemists](Oath%253A_Saltchemist.md) are geniuses of [chemistry](Alchemy.md) who sling all forms of concoctions at their foes and allies alike. Those who seek this [Oath](Oaths.md) may be in need of a research partner and a laboratory to conduct their studies...
 -   [Silenthearts](Oath%253A_Silentheart.md) are fierce avengers who reject the Words of the Song. Feared by many, those who seek its vengeance must find the [Heart of Dread](The_Dreadstar.md) at the [furthest reaches of Lumen](Voidsea.md)...
 
+### Posture
+
+-   Your Posture Bar will flash red when you attempt to block while your block is 'Fragile'. You should try to parry, dodge, or vent while in this state!
+-   Your Posture Bar will flash white when your Parry comes off cooldown. Timing is everything!
+
 ### Roblox Chat
 
 -   Preceding a chat message with '!' makes it a Shout and visible to all of your allies in a server.
+
+### Vows
+
+-   You can make a Vow of Allegiance with another player by asking _'wanna make a vow of allegiance?'_. This will cause them to be considered an ally by your abilities.
+
+### Weapons
+
+-   Heavy weapons have an innate +20% damage to Armor on larger foes.
+-   Heavy weapon users that parry an attack are granted brief hyperarmor frames towards the end of their next Basic Attack.
 
 ### Official Community Server
 
 -   Died unfairly to a bug or exploiter? If you have a recording of the death, you can create a restore ticket in the Community Server. Please consult the restore guidelines beforehand for a comprehensive list of what is and is not restorable.
 
+### Miscellaneous
+
+-   Ever feeling bored? Maybe try out a challenge! How about trying to go for all echo triumphs? Or doing that with all echo modifiers on? Or defeating a boss with minimal damage taken?
+
 * * *
 
 ### Combat
 
--   Your Posture Bar will flash red when you attempt to block while your block is 'Fragile'. You should try to parry, dodge, or vent while in this state!
--   Your Posture Bar will flash white when your Parry comes off cooldown. Timing is everything!
 -   Hitting unconscious players will drain their blood, eventually bleeding them out.
 -   Charmed enemies deal reduced damage to those that applied the status.
--   You can make a Vow of Allegiance with another player by asking _'wanna make a vow of allegiance?'_. This will cause them to be considered an ally by your abilities.
 -   Accidentally disconnected or crashed while in danger? So long as you were above 60% HP at the moment your connection cut out, you should not have lost a life. This does not apply to PvP.
 -   Killing certain tough monsters for the first time rewards you with 1 Knowledge.
 -   Weather can affect elemental damage. For example, Lightning is stronger in Rain, and Frost is stronger in Snow.
--   Heavy weapon users that parry an attack are granted brief hyperarmor frames towards the end of their next Basic Attack.
 -   Died unfairly to a bug or an exploiter? If you have a recording of the death, you can create a restore ticket in the Community Server. Please consult the restore guidelines beforehand for a comprehensive list of what is and is not restorable.
 -   Charmed enemies deal reduced damage to those that applied the status.
--   Heavy weapons have an innate +20% damage to Armor on larger foes.
 -   Want to take someone out of combat after you've hit them? Click the crossed swords ar \[_[sic](https://en.wikipedia.org/wiki/sic)_\] the top of your screen for options
 -   Pressing Feint/Cancel while in ragdolled knockback will let you 'tech' the ragdoll state, speeding up your recovery.
 
@@ -123,7 +136,6 @@ You can see how much Armor Resistance you have total in your Journal.
 -   Rumors speak of the Temple of Hearts, a mysterious shrine that many seek out to right their wrongs and soothe their regrets...
 -   Sticking around long enough may attract the attention of the Knives of Elyis, a feared group of mercenaries with the uncanny ability to phase in and out of reality. Fending one off or falling to them will prevent more from hunting you for a while.
 -   Some daring Pathfinders speak of the existence of mysterious shrines scattered throughout Lumen that let you exchange Knowledge to alter your character stats, talents and mantras...
--   Ever feeling bored? Maybe try out a challenge! How about trying to go for all echo triumphs? Or doing that with all echo modifiers on? Or defeating a boss with minimal damage taken?
 -   Be careful swinging around a blade in a faction's territory - you might attract the attention of the guards!
 -   Lawless areas have no penalty for starting fights with others, so feel free to spar in them!
 -   Find something interesting? Take it to the Antiquarian for appraisal!
@@ -163,10 +175,9 @@ As if the game breaking wasn't enough.
 
 ### Stage 3
 
-Games will start to appear from the screen. The list of games that make an appearance are:
+Names of games will start to appear from the top of the screen:
 
 -   A Hat in Time
--   Don't play ABA please (ABA)
 -   Abyss World
 -   Airship Assault
 -   Animal Crossing: New Leaf
@@ -184,8 +195,9 @@ Games will start to appear from the screen. The list of games that make an appea
 -   Crypt of the Necrodancer
 -   Deep Rock Galactic
 -   Deltarune
+-   Don't play ABA please
 -   Don't Starve Together
--   Doors
+-   DOORS
 -   Dredge
 -   Dwarf Fortress
 -   Final Fantasy VII

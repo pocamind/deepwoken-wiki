@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 165043
+revid: 165090
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -13,7 +13,7 @@ notices:
 
 | Drill Sergeant Kernel | |
 |---|---|
-| name | Drill Sergeant Cornelius Kernel Senior |
+| name | Cornelius Kernel Sr. |
 | aspect | Celtor |
 | location | Fort Merit |
 

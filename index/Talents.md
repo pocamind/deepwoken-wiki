@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 165016
+revid: 165068
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -505,9 +505,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   **Oppressive Force** \[Faction Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
-    -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage.
-    -   The second hit cannot be buffed through damage modifiers.
-    -   The second hit will only happen if the first one lands.
+    -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
+    -   The first hit deals your regular M1 posture damage, the second hit deals 7 posture damage regardless of your weapon stats.
+    -   The second hit will only happen if the first one lands. This means it does not follow through on block.
+    -   Both hits proc "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
     -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
@@ -1903,6 +1904,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   **Stature Break** \[Faction Exclusive\] - Landing a backstab of any kind disables posture for 8 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
+-   **Tacet Minimization** \[Faction Exclusive\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, [Murmur: Tacet](Murmur%253A_Tacet.md)
+
 ### Ironsinger
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
@@ -2446,6 +2450,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Operator's Technique
 
 -   **Absolute Force** \[Faction Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+    -   Increases your flourish posture damage from M1 posture damage + 7 to (M1 posture damage x1.5) + 10.5.
+    -   Oppressive Force does not follow through on block. This means this will usually only apply +50% posture damage to the first hit of your flourish.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division, Oppressive Force
 
 -   **Amp Overdrive** \[Faction Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.

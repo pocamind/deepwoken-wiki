@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 165035
+revid: 165059
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -70,7 +70,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 <tr>
   <td colspan="2"></td>
   <td colspan="2"></td>
-  <td>End, player has joined the Inquisition division</td>
+  <td>End, player has joined the Leadership division</td>
   <td>End</td>
 </tr>
 </tbody>

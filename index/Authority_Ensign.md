@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165029
+revid: 165101
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -92,7 +92,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   The Mission will automatically fail if the prisoner gets uncuffed, leaves the game, or if you enter the prison.
             -   When this Mission fails, you only lose 10 promotion points instead of the usual 25.
         -   If there is an active prison break, this mission will be highly favored by RNG when choosing a Mission, having a very high chance that you get this one instead of any others.
-        -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question.
+        -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question. Remember to use your Horn of the Authority to locate them.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage with V and run away with them. Once you get far enough away, the mission will be complete.
     -   Potential Locations:
@@ -245,17 +245,15 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
 
 -   **Crossguard** - If you are using a sword, you gain 10% chip against other opponents wielding swords.
-
 -   **Oppressive Force** - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
     -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
-    -   The second hit will only happen if the first one lands.
+    -   The first hit deals your regular M1 posture damage, the second hit deals 7 posture damage regardless of your weapon stats.
+    -   The second hit will only happen if the first one lands. This means it does not follow through on block.
+    -   Both hits proc "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
     -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
-
--   **Absolute Force** - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Prerequisites: Oppressive Force
 
 -   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
@@ -267,18 +265,15 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Applies burn on hit.
-    -   Cannot knock players.
-
+    -   The orbital strikes cannot knock players directly, but the burn can.
+    -   Cannot be used in [Dungeons](Dungeons.md).
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
-
 -   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
 #### Inquisition Division Talents
 
 -   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
-
 -   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
-
 -   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
     -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
@@ -288,16 +283,21 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
         -   The maximum Stealth you can gain from Equipment is 30% (+6% damage).
 
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
-
 -   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
+-   **Tacet Minimization** - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Prerequisites: [Murmur: Tacet](Murmur%253A_Tacet.md)
 
 #### Shock Corps Division Talents
+
+-   **Absolute Force** - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+    -   Increases your flourish posture damage from M1 posture damage + 7 to (M1 posture damage x1.5) + 10.5.
+    -   Oppressive Force does not follow through on block. This means this will usually only apply +50% posture damage to the first hit of your flourish.
+    -   Prerequisites: Oppressive Force
 
 -   **Amp Overdrive** - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
 
 -   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
-
 -   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
 
 ### Division Mantras
@@ -392,7 +392,7 @@ _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of
 
  | 
 
-TBA
+Typeless
 
  | 
 
@@ -402,6 +402,11 @@ Inquisition Division
 | 
 
 **Effect:** _The user lunges forwards with their hidden blade and stabs their opponent, injecting a poison into them._
+
+-   Deals 6% of your opponent's maximum health as damage.
+-   Deals 6 posture damage.
+-   The poison is currently bugged and does nothing.
+-   Can be buffed through damage modifiers despite dealing percentage based damage.
 
  |
 | 
@@ -438,8 +443,8 @@ Shock Corps Division
 
 **Effect:** _The user summons a floating axe made of Thundercall and strikes their opponent._
 
+-   If you M1 during this Mantra's windup, the axe performs a vertical radial slash, ragdolling and knocking back your opponent.
 -   Applies Shock on hit.
--   Has a chance to perform a vertical radial slash instead, ragdolling and knocking back your opponent.
 
  |
 
