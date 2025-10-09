@@ -1,9 +1,9 @@
 ---
 title: "Rat's Den"
-revid: 159998
+revid: 165161
 source: https://deepwoken.fandom.com/wiki/Rat's_Den
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant]
+categories: [Locations, Etrean Luminant, Locations in the Etrean Luminant]
 ---
 
 # Rat's Den

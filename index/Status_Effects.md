@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 164703
+revid: 165216
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -493,6 +493,10 @@ While under the effects of All the Dead Gods' [anti-heal](#anti-heal), all non-p
 ### Deep Wound
 
 Anti-Heal effect applied when being assassinated by a player who has the [Deep Wound](Talents.md#assassin) Talent. The Anti-Heal lasts 20 seconds. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a dark red smoke on your character.
+
+### Paused Posture
+
+While affected by Paused Posture, your posture cannot be restored from passive posture regeneration, Steady Nerves, or parrying. All other sources of posture restoration will completely ignore this status effect. Applied by the [Stature Break](Talents.md#inquisitive-lethality) and [Maiming Claws](Talents.md#trickster) Talents. This effect has no visual effect, though it does have a very distinct sound cue on proc.
 
 ### Last Resort
 

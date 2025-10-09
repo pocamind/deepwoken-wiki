@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 165090
+revid: 165123
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -121,10 +121,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You exchange salutes with Drill Sergeant Kernel.*</i> Looks like you've enlisted in the <b>INQUISITION</b> division, [Rank and Last name]! You must be as cunning as the proverbial <i><b>FOX</b></i>! At least, I <i>BELIEVE</i> that's the expression for the <b>HIGH INQUISITOR</b> uses! I hope you exercise <b>RESTRAINT</b> in your role!.. You know, it's hard to believe <b>HOW FAR</b> Private Flipper has come! If you see the <b>HIGH INQUISITOR</b>, tell her about you <b>CALLSIGN</b>, she'll <i><b>LOVE</b></i> it! <i><b>OORAH!!!</b></i></td>
 </tr>
 <tr>
   <td>End</td>

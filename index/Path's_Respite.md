@@ -1,9 +1,9 @@
 ---
 title: "Path's Respite"
-revid: 159995
+revid: 165159
 source: https://deepwoken.fandom.com/wiki/Path's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant]
+categories: [Locations, Etrean Luminant, Locations in the Etrean Luminant]
 ---
 
 # Path's Respite

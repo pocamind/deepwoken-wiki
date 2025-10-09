@@ -1,9 +1,9 @@
 ---
 title: Temple of the Blade
-revid: 152377
+revid: 165129
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant, Etrea, Isle of Vigil, Temple of the Blade]
+categories: [Locations, Etrean Luminant, Etrea, Isle of Vigil, Temple of the Blade, Locations in the Etrean Luminant]
 ---
 
 # Temple of the Blade

@@ -1,9 +1,9 @@
 ---
 title: Temple Courtyard
-revid: 163442
+revid: 165128
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant, Erisia]
+categories: [Locations, Etrean Luminant, Erisia, Locations in the Etrean Luminant]
 ---
 
 # Temple Courtyard

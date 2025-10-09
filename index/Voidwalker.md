@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 164892
+revid: 165107
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Origins, Character, The Knives of Eylis]
@@ -22,7 +22,7 @@ _Voidwalker_ is a PvP-focused origin, greatly favoring, but not mandating [Bount
 
 To obtain the Voidwalker origin, the player must do the following:
 
-1.  Have 5 player grips on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of a grip).
+1.  Have 5 player grips on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of a grip, which equates to 10 chime wins).
 2.  Talk to [Eiris](Eiris.md) on the [Knives of Eylis vs Etrea sea event](Random_Encounters.md#fights-between-factions)
 3.  Enter the [Subtle Knife of Eylis'](Subtle_Knife_of_Eylis.md) [Time-Slowing Orb](Subtle_Knife_of_Eylis.md#moveset) and teleport to the the [Voidheart](Voidheart.md).
 4.  Talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) and obtain the origin, after which the player is teleported back to their last location (Similar to the Voideye).
@@ -53,7 +53,7 @@ Successfully completing a bounty grants EXP and a chest with loot. Rarity of the
 -   _In-game description_: You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized.
 -   An ability that allows Voidwalkers to teleport near their bounties. If you go too far away from your target you will have a prompt appear on the upper side of your screen, signifying that you're about to lose your target and get teleported back to [the Voidheart](Voidheart.md).
 -   Upon using this ability a menu will appear, allowing you to choose your target. After choosing your target you will be given two choices of how you want to hunt: Ferocity and Stealth.
-    -   Upon choosing the Ferocity option you will be teleported near your bounty, while their silhuette will be highlighted with red through walls every ~30 seconds. However, when teleporting a sound effect will play, and you will have a very obvious black whirling visual effect coming out from your body.
+    -   Upon choosing the Ferocity option you will be teleported near your bounty, while their silhouette will be highlighted with red through walls every ~30 seconds. However, when teleporting a sound effect will play, and you will have a very obvious black whirling visual effect coming out from your body.
     -   Upon choosing the Stealth option you will be teleported near your bounty. You will not have anything identifying you as a Voidwalker, howver you are not granted a vision of your target. Although, you can guess where the bounty is located just from the general location of it and if you guess wrong, you will have a prompt appear on your upper side of the screen signifying that your prey is about to escape, so you can try and change directions to catch up with them.
 
 ## Pros and Cons
@@ -64,7 +64,7 @@ Successfully completing a bounty grants EXP and a chest with loot. Rarity of the
 -   The Voideye can act similar to a guild base, being a location to stock up on necessities or sell items at the antiquarian. Additionally, unlike the [Chime of Dwelling](Chime_of_Dwelling.md), the Voideye can be accessed from anywhere.
 -   As long as you complete your bounty, you can use the bounty teleport as a way to "fast travel" around the map, skipping the time spent travelling. However, because you must find a bounty that's around your level, this may not always be a choice for you.
 -   You start with [Whaler Initiate](Whaler_Initiate.md), which has decent stats for a starter armor.
--   The Voideye is a very good place to find ganks.
+-   ~The Voideye is a very good place to find ganks.~ (hitting someone or getting hit now creates a rift and teleports you to wherever you set your Voideye most recently)
 
 ### Cons
 

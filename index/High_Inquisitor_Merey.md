@@ -1,9 +1,9 @@
 ---
 title: High Inquisitor Merey
-revid: 165056
+revid: 165113
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-High Inquisitor Merey is a [Canor](Canor.md) NPC, she is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md).
+High Inquisitor Merey is a [Canor](Canor.md) NPC, she is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md) garrison positioned in the Eastern Luminant.
 
 She appears aged with small wrinkles around her eyes. She wears a uniquely marked [Blindfold](Blindfold.md), a [Brilliant Cape](Brilliant_Cape.md), a [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md). On her right side, she holsters a bell at her hip, signifying her strength to obtain a [Resonance](Resonance.md). On her left side she wields the [Big Brother](Big_Brother.md) dagger.
 
@@ -169,3 +169,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Due to her rank, Merey does not have floral-themed codenames other Inquisitors have.

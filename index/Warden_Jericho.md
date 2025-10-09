@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 165059
+revid: 165204
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -51,7 +51,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td colspan="2">Player is a Lance Corporal</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
+  <td colspan="2"><i>*With his visor covering his eyes, he remains inscrutably impassive, though you are sure that he is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
   <td colspan="2"></td>
   <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local Luminants. You salute him stringently.*</i><p>...You must be Lance Corporal [Second Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
 </tr>

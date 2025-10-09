@@ -1,9 +1,9 @@
 ---
 title: The Birdcage
-revid: 160308
+revid: 165131
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant]
+categories: [Locations, Locations in the Etrean Luminant, Etrean Luminant]
 ---
 
 # The Birdcage

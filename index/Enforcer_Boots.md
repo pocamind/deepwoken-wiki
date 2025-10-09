@@ -1,9 +1,9 @@
 ---
 title: Enforcer Boots
-revid: 156596
+revid: 165165
 source: https://deepwoken.fandom.com/wiki/Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Legs, Boots]
+categories: [Items, Equipment, Legs, Boots, Equipment with Set Bonuses]
 ---
 
 # Enforcer Boots
@@ -26,6 +26,10 @@ categories: [Items, Equipment, Legs, Boots]
 | obtainment | Duke Erisia, First Layer, The Enforcer |
 | description | ... |
 
+Enforcer Set
+
+Variants: [Enforcer Plate](Enforcer_Plate.md)
+
 ## Description
 
-Enforcer Boots are accessories under the "Legs" category. They are chunky plated boots used to protect the wearer's legs in combat. These grant +2 Rare Pips on equip.
+The Enforcer Boots is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Enforcer Set. When worn, this grants +2 Rare Pips.

@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 164835
+revid: 165108
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore figures]
@@ -11,7 +11,7 @@ categories: [Lore figures]
 | Drallis Ehr | |
 |---|---|
 | name | Drallis Ehr |
-| alias | Grand Sovereign, Sovereign, Sovereign of Ages, Overseer of Epochs, Lumen's Savior |
+| alias | Grand Sovereign, Sovereign, Sovereign of Ages, Sovereign of Eras, Overseer of Epochs, Lumen's Savior |
 | aspect | Adret |
 
 ## Description

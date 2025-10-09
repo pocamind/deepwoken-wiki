@@ -1,9 +1,9 @@
 ---
 title: Crypt of the Unbroken
-revid: 159698
+revid: 165220
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Voidzones]
+categories: [Locations, Locations in the Etrean Luminant, Voidzones]
 ---
 
 # Crypt of the Unbroken
@@ -22,6 +22,8 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantras for a hand of whispers.
     -   An opening in the wall will lead to the Frostdraw obelisk for [Saintsworn](Oath%253A_Saintsworn.md#obtainment) obtainment.
 -   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon, but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
+    -   Farming [Immortal Guardians](Immortal_Guardian.md) is also the only way to get the [Immortal Helm](Immortal_Helm.md), which is one of the reasons why people choose to go here.
+
 -   Hellfire Lotuses and Skyvalor Lotuses can be found around the Crypt. Crafting 2 Hellfire Lotuses or 2 Skyvalor Lotuses together at a crafting table will yield a Strength attribute flask or a Willpower attribute flask respectively.
 -   There are 3 black flowers with the roman numeral 1 on top of the Crypt. They serve as a tribute to a player who passed away.
 
@@ -70,6 +72,10 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
  |
 
+## Gallery
+
+Blocked crypt of the unbroken
+
 ## Maps
 
 A map can be found at [Maps#Surface](Maps.md#surface)
@@ -83,6 +89,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Good place to farm books, the library has tons of bookshelves.
 -   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the [Immortal Guardians](Immortal_Guardian.md) out of the dungeon to avoid going to The Depths because it is a Voidzone.
+-   Please note that the crypt entrance can be blocked and it cannot be broken to fix this just server hop.
 
 -   Tip: With the assassin Talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
     -   If they aggro on you go outside the dungeon and wait for them to de-aggro.

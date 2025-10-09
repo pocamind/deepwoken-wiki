@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 165025
+revid: 165224
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -24,10 +24,10 @@ notices:
 | stances | 2 Handed, 1 Handed |
 | selling price | ? |
 | weight | 8 |
-| bankable | Only if enchanted |
+| bankable | No |
 | droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Warden Jericho (Command Division of the Authority Ensign Origin exclusive) |
 | description | An incredibly well crafted saber, if you could even call it that. It's superb at channeling thundercall through it, arcs jumping between the rivets that coat its length. |
 

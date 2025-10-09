@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 165050
+revid: 165122
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Daggers, Light Weapons]
@@ -21,8 +21,8 @@ notices:
 | special effect | No |
 | m.equip | No |
 | m.extract | No |
-| stances | 1-handed |
-| selling price | ? |
+| stances | 1 Handed |
+| selling price | N/A |
 | weight | 4.5 |
 | bankable | Yes |
 | droppable | Yes |

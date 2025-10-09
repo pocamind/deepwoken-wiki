@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165101
+revid: 165226
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -83,6 +83,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   Sneaking around the fort to pick off or assassinate some of the Legion Soldiers is a good strategy to thin their numbers.
         -   Make sure to check inside all of the tents for barrels.
         -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
+        -   If you have a ship with cannons, you are able to shoot the Legion NPCs from afar, as all of the mission locations are near water.
 2.  **Capture Prisoner** - _Find and Capture escaped prisoners. Distribute this information to your Squad._
     -   Objective: Track down and hunt a player who is attempting to escape the [Fort Merit](Fort_Merit.md) prison.
     -   Location: [Fort Merit](Fort_Merit.md); 16 minute 30 second time limit
@@ -219,8 +220,7 @@ A division focused on backstabs and assassination.
 A division focused on brute force and posture damage.
 
 -   Obtainment
-    -   Complete 10 missions as the MVP.
-        -   You need to be in a Squad and your Squad members need to help you, but you need to do _most_ of the work.
+    -   Killing ??? amount of enemies in missions
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     

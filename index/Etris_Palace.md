@@ -1,9 +1,9 @@
 ---
 title: Etris Palace
-revid: 159684
+revid: 165153
 source: https://deepwoken.fandom.com/wiki/Etris_Palace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrea, Etrean Luminant, Locations]
+categories: [Etrea, Etrean Luminant, Locations, Locations in the Etrean Luminant]
 ---
 
 # Etris Palace

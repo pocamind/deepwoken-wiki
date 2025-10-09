@@ -1,18 +1,14 @@
 ---
 title: Beloved Zofia
-revid: 156035
+revid: 165141
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Oaths, Etrean Luminant]
+categories: [Pages with broken file links, Locations, Oaths, Etrean Luminant, Locations in the Etrean Luminant]
 ---
 
 # Beloved Zofia
 
-LocationL Beloved Zofia LocationR
-
-An abandoned ship lost to time, now corrupted by the spirits of the Voidsea.
-
-  
+Template:Location2
 
 File:Beloved Zofia Closer Print -D.png
 

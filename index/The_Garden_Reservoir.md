@@ -1,9 +1,9 @@
 ---
 title: The Garden Reservoir
-revid: 148189
+revid: 165133
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Etrean Luminant]
+categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant, Etrean Luminant]
 ---
 
 # The Garden Reservoir

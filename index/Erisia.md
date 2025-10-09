@@ -1,9 +1,9 @@
 ---
 title: Erisia
-revid: 148204
+revid: 165150
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Islands, Etrean Luminant]
+categories: [Locations, Islands, Etrean Luminant, Locations in the Etrean Luminant]
 ---
 
 # Erisia

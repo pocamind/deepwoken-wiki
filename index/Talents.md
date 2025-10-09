@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 165068
+revid: 165213
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1885,9 +1885,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Inquisitive Lethality
 
 -   **Backstabber** \[Faction Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Executioner's Frenzy** \[Faction Exclusive\] - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
-    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Fatal Stealth** \[Faction Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.

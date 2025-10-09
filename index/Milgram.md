@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 165045
+revid: 165225
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -91,7 +91,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), on scaffolding facing opposit
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>*They wordlessly salute you, forcing an expressionless look.*</td>
 </tr>
 <tr>
   <td>End</td>

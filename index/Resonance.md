@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 163994
+revid: 165124
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -38,14 +38,19 @@ Resonances can also be obtained through the Ancient Soul [Regalia](Regalia.md).
  |
 | --- |
 
--   **Corrupted** Top-Pop - [Akira](Akira.md)
+These Resonances are exclusive to NPCs, bosses, or developers and cannot be acquired by players through normal gameplay. They often serve as unique abilities or powers that enhance specific enemies or characters for lore or gameplay purposes. While some share visual or thematic similarities with player Resonances, their effects and functions remain inaccessible to the public
+
+-   Corrupted Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
--   **Corrupted** Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   Soul Siphon - [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   Unnamed Ice Resonance(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 -   Unnamed Memory Swap Resonance- [Sordino](Sordino.md)
 -   Unnamed Resonance- [Volu](Volu.md)
 -   Unnamed Resonance- [Warden Jericho](Warden_Jericho.md)
+-   Unnamed Resonance- [Chud Steel](Chud_Steel.md)
+-   Unnamed Resonance- [High Inquisitor Merey](High_Inquisitor_Merey.md)
+-   Unnamed Resonance- [Sentinel Augustus](Sentinel_Augustus.md)
 
 ## Overview
 
