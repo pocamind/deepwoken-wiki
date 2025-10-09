@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 164915
+revid: 164936
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -20,9 +20,7 @@ notices:
 | swing speed | 1.05x |
 | penetration | 15% |
 | m.equip | No |
-| m.extract | Yes |
-| m.crit | Rite of Authority |
-| m.compatible | Rapiers |
+| m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | ? |
 | weight | 8 |
@@ -52,3 +50,4 @@ The critical has a cooldown of **3 seconds**.
 ## Trivia
 
 -   Despite the Attunement requirement, this weapon is [enchantable](Enchantments.md).
+-   There was a bug when this weapon released where you could [Motif](Motifs.md) it, though strangely the Rite of Authority Motif is only compatible with Rapiers.

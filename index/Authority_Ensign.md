@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 164911
+revid: 164993
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -56,8 +56,6 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 
 Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in the [Chime of Conflict](Chime_of_Conflict.md) and other non-overworld locations.
 
-Even starting the grip animation on an Authority Ensign member will Exile you, so stay vigilant!
-
 ## Progression
 
 Speak to [Captain Trist](Captain_Trist.md), an Adret NPC located on the path from [Fort Merit](Fort_Merit.md) to [Merit's Reach](<Merit's_Reach.md>), to gain a Mission. Missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md).
@@ -80,7 +78,9 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   The water highway gate between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 1 hour 40 second time limit
     -   Notes/Tips:
         -   When the Mission completes, the Legion Soldiers will immediately lose aggression.
-        -   You can sneak around the fort to pick off or assassinate some of the Legion Soldiers.
+        -   The Legion Soldiers and Captain will be completely passive if you have neutral or higher [Hundred Legions](The_Hundred_Legions.md) reputation.
+            -   Additionally, you can obtain the Captain's Rec from the Captain for [Legion Kata](Legion_Kata.md).
+        -   Sneaking around the fort to pick off or assassinate some of the Legion Soldiers is a good strategy to thin their numbers.
         -   Make sure to check inside all of the tents for barrels.
         -   These NPCs lack anti-gank AI; you will be jumped if you aren't careful. Taking out the weaker enemies first is advised.
 2.  **Capture Prisoner** - _Find and Capture escaped prisoners. Distribute this information to your Squad._
@@ -91,7 +91,6 @@ Even if you aren't in a squad, other players may be assigned to the same mission
             -   When an escapee gets low enough health to be knocked from a player attack, they will be teleported back into the prison instead.
         -   The Mission will automatically fail if the prisoner gets uncuffed, leaves the game, or if you enter the prison.
             -   When this Mission fails, you only lose 10 promotion points instead of the usual 25.
-        -   This Mission can be assigned to you even if no players are actively escaping.
         -   If there is an active prison break, this mission will be highly favored by RNG when choosing a Mission, having a very high chance that you get this one instead of any others.
         -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
@@ -99,7 +98,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
     -   Potential Locations:
         -   [Derelict Highchurch](Derelict_Highchurch.md) - the hostage is behind the altar in the church; 45 minute 30 second time limit
         -   [Miner's Landing](<Miner's_Landing.md>) - the hostage is in the inn on the second floor; 21 minute 20 second time limit
-        -   [Summer Isle](Summer_Isle.md) - the hostage is inside the abandoned building, the same location for the [Chainwarden](Oath%253A_Chainwarden.md) obtainment quest; 51 minute 50 second time limit
+        -   [Summer Isle](Summer_Isle.md) - the hostage is inside the abandoned building, the same location for the [Chainwarden](Oath%253A_Chainwarden.md) obtainment quest; 54 minute time limit
     -   Notes/Tips:
         -   When the Mission completes, the Blacksteel Pirates will immediately lose aggression.
         -   The hostage has very low health, and if the hostage is killed, the Mission will fail.
@@ -114,7 +113,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   [Miner's Landing](<Miner's_Landing.md>); 19 minute 30 second time limit
         -   [Summer Isle](Summer_Isle.md); 1 hour 5 minute 20 second time limit
     -   Notes/Tips:
-        -   This mission may be bugged, as you just stand near the flag and it will be automatically completed after a very short wait.
+        
 
 ### Mission Lootpool
 
@@ -149,7 +148,7 @@ This list may be incomplete.
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
     <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: TBA</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>.</li>
+    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -165,13 +164,35 @@ Enlistment Ranks
 2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points.
     -   You will gain access to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of other weapons that can be found at the Armory.
 3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points.
-    -   Allows you to join one of the Divisions: Shock Corps, Command, or Inquisition.
+    -   Allows you to join one of the Divisions: Shock Corps, Command, or Inquisition (poop hehe).
 
 ### Divisions
 
 Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Master [Outfits](Outfits.md), and [Talents](Talents.md). Once you choose a Division, you cannot go back.
 
 Each Division is unique in their themes, offering many avenues of gameplay and build diversity. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please. Additionally, most Authority NPCs will salute you when you approach them.
+
+#### Command Division
+
+A division focused on leadership and support.
+
+-   Obtainment
+    -   Complete 10 missions as Squad leader.
+        -   Being solo counts.
+    -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
+-   Promotions
+    
+    -   Lance Corporal -> Warrant Officer
+    
+    1.  Warrant Officer -> Captain | 329 promotion points
+    2.  Captain -> Commander | 388 promotion points
+    3.  Commander -> Seneschal | 447 promotion points
+-   Benefits
+    -   [Authority Captain Uniform](Authority_Captain_Uniform.md) Expert Armor
+    -   At Seneschal rank, you can speak to Warden Jericho and receive the [Rite of Authority](Rite_of_Authority.md) Weapon
+    -   [Glorious Charge](#division-mantras) Mantra
+    -   The edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey.
+    -   Exclusive Division Talents; [see below](#command-division-talents)
 
 #### Inquisition Division
 
@@ -189,35 +210,17 @@ A division focused on backstabs and assassination.
 -   Benefits
     -   [Inquisition Light](Inquisition_Light.md) Master Armor
     -   At Handler rank, you can speak to High Inquisitor Merey and receive the [Big Brother](Big_Brother.md) Weapon
+    -   [Hidden Blade](#division-mantras) Mantra
     -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to black
     -   Exclusive Division Talents; [see below](#inquisition-division-talents)
-
-#### Command Division
-
-A division focused on leadership and support.
-
--   Obtainment
-    -   Complete 10 missions as squad leader.
-    -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
--   Promotions
-    
-    -   Lance Corporal -> Warrant Officer
-    
-    1.  Warrant Officer -> Captain | 329 promotion points
-    2.  Captain -> Commander | 388 promotion points
-    3.  Commander -> Seneschal | 447 promotion points
--   Benefits
-    -   [Authority Captain Uniform](Authority_Captain_Uniform.md) Expert Armor
-    -   At Seneschal rank, you can speak to Warden Jericho and receive the [Rite of Authority](Rite_of_Authority.md) Weapon
-    -   The edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey.
-    -   Exclusive Division Talents; [see below](#command-division-talents)
 
 #### Shock Corps Division
 
 A division focused on brute force and posture damage.
 
 -   Obtainment
-    -   Complete ??
+    -   Complete 10 missions as the MVP.
+        -   You need to be in a Squad and your Squad members need to help you, but you need to do _most_ of the work.
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -228,6 +231,7 @@ A division focused on brute force and posture damage.
 -   Benefits
     -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor
     -   At Operator rank, you can speak to Sentinel Augustus and receive the [Duskguard Axe](Duskguard_Axe.md) weapon
+    -   [Grand Warden's Axe](#division-mantras) Mantra
     -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to red
     -   Exclusive Division Talents; [see below](#shock-corps-division-talents)
 
@@ -237,12 +241,12 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 #### Default Talents
 
--   _Armored Plating_ - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
+-   **Armored Plating** - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
     -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
 
--   _Crossguard_ - If you are using a sword, you gain 10% chip against other opponents wielding swords.
+-   **Crossguard** - If you are using a sword, you gain 10% chip against other opponents wielding swords.
 
--   _Oppressive Force_ - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+-   **Oppressive Force** - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
     -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
     -   The second hit will only happen if the first one lands.
     -   The second hit does not proc on non-humanoid targets.
@@ -250,21 +254,32 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
 
--   _Absolute Force_ - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+-   **Absolute Force** - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
     -   Prerequisites: Oppressive Force
 
--   _Riot Shield_ - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
+-   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
 
--   _Steel Tread_ - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+-   **Steel Tread** - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+
+#### Command Division Talents
+
+-   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
+    -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
+    -   Applies burn on hit.
+    -   Cannot knock players.
+
+-   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
+
+-   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
 #### Inquisition Division Talents
 
--   _Backstabber_ - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+-   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
 
--   _Executioner's Frenzy_ - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+-   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 
--   _Fatal Stealth_ - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+-   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
     -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
@@ -272,29 +287,163 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment is 30% (+6% damage) or 36% if Felinor (+7.2% damage).
 
--   _Flanking Maneuvers_ - Enemies you assassinate take more PEN from your squadmates in your party.
+-   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 
--   _Stature Break_ - Landing a backstab of any kind disables posture for 8 seconds.
-
-#### Command Division Talents
-
--   _Buster Call_ - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
-    -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
-    -   Applies burn on hit.
-    -   Cannot knock players.
-
--   _Officer's Training_ - While using a Sword or Rapier, take 30% less posture damage from criticals.
-
--   _Target Focus_ - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
+-   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
 
 #### Shock Corps Division Talents
 
--   _Amp Overdrive_ - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
+-   **Amp Overdrive** - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
 
--   _Martial Brutality_ - The less health your opponent has, the more posture damage you deal to them.
+-   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
 
--   _Shocking Reverb_ - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+-   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+
+### Division Mantras
+
+These Mantras are obtained when joining a Division. Similar to Oath Mantras, you cannot upgrade Division Mantras.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Glorious Charge** (☆☆☆)
+
+**Support**
+
+_Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds._
+
+ | 
+
+## Glorious Charge (☆☆☆)
+
+  
+**Support**  
+_Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds._
+
+ |
+| 
+
+50
+
+ | 
+
+N/A
+
+ | 
+
+Command Division
+
+ |
+| 
+
+**Effect:** _User lets out a yell, buffing their allies. All of their squadmates gain a speed boost for 20 seconds and become unknockable for 10._
+
+ |
+| 
+
+**Hidden Blade** (☆☆☆)
+
+**Combat**
+
+_Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison._
+
+ | 
+
+## Hidden Blade (☆☆☆)
+
+  
+**Combat**  
+_Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison._
+
+ |
+| 
+
+50
+
+ | 
+
+TBA
+
+ | 
+
+Inquisition Division
+
+ |
+| 
+
+**Effect:** _The user lunges forwards with their hidden blade and stabs their opponent, injecting a poison into them._
+
+ |
+| 
+
+**Grand Warden's Axe** (☆☆☆)
+
+**Combat**
+
+_Create a lightning axe!_
+
+ | 
+
+## Grand Warden's Axe (☆☆☆)
+
+  
+**Combat**  
+_Create a lightning axe!_
+
+ |
+| 
+
+40
+
+ | 
+
+Thundercall
+
+ | 
+
+Shock Corps Division
+
+ |
+| 
+
+**Effect:** _The user summons a floating axe made of Thundercall and strikes their opponent._
+
+-   Applies Shock on hit.
+-   Has a chance to perform a vertical radial slash instead, ragdolling and knocking back your opponent.
+
+ |
 
 ## Pros and Cons
 
@@ -303,6 +452,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
 -   You will be automatically allied with everyone else who has the Authority Ensign Origin.
 -   Origin-exclusive Talents through the promotion system.
+-   Origin-exclusive Mantras, Weapons, and Outfits through your chosen Division.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
 -   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory.
 -   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.

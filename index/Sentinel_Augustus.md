@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 164913
+revid: 164994
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -12,7 +12,7 @@ notices:
 
 | Sentinel Augustus | |
 |---|---|
-| name | Sentinel Augustus |
+| name | Sentinel Augustus Baaset |
 | aspect | Adret |
 | location | Fort Merit |
 

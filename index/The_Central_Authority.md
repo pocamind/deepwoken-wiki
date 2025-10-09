@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 164909
+revid: 164931
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -19,11 +19,11 @@ categories: [Factions, The Central Authority]
 
 ## Description
 
-**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. The Authority are a militaristic, authoritarian, and expansionist regime led by a mysterious individual named Drallis Ehr, who acts as their Grand Sovereign. However, Drallis Ehr's identity is debated, and some believe he may not actually exist. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
+**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. The Authority is a militaristic, authoritarian, and expansionist regime led by a mysterious individual named Drallis Ehr, who reigns as Grand Sovereign. However, Drallis Ehr's identity is debated, and some believe he may not actually exist. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
 
 The military of The Authority consists of both real-world insignia (Private, Corporal, Lance Corporal) and more fantastical titles (Warden, Vice-Warden). The Authority has multiple 'corps' in their military structure, including the 'Shock Corps', the 'Leadership Corps', the 'Winter Corps', the 'Inquisitor Corps', and formerly the 'Expeditionary Corps'.
 
-The most commonly used attunement among Authority personnel is [Flamecharm](Flamecharm.md). There are multiple instances of [Thundercall](Thundercall.md) also being used, however only a handful of enemies actually utilize it in-game. While uncommon, other attunments are used by The Authority. For example: [Frostdraw](Frostdraw.md) is used by [Authority Captains](Authority_Captain.md) and [Captain Marley](Captain_Marley.md), while [Galebreathe](Galebreathe.md) is used by the [Vice-Warden](Vice-Warden.md) within the [Merit Detainment Core](Merit_Detainment_Core.md).
+The most commonly used attunement among Authority personnel is [Flamecharm](Flamecharm.md). There are multiple instances of [Thundercall](Thundercall.md) also being used, however only a handful of NPCs actually utilize it in-game. While uncommon, other attunments are used by The Authority. For example: [Frostdraw](Frostdraw.md) is used by [Authority Captains](Authority_Captain.md) and [Captain Marley](Captain_Marley.md), while [Galebreathe](Galebreathe.md) is used by the [Vice-Warden](Vice-Warden.md) within the [Merit Detainment Core](Merit_Detainment_Core.md).
 
 The Authority is highly treacherous and dishonorable; they have conspired behind the backs of both the Legion and the Summer Company to get what they want. The Authority works with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 

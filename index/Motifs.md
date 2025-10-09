@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 164912
+revid: 164934
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -45,7 +45,6 @@ Full list of Motif-able weapons
 | [Krulian Knife](Krulian_Knife.md) | [Krulian Knife](Krulian_Knife.md) | Daggers |
 | [Nemit's Sickle](<Nemit's_Sickle.md>) | [Nemit's Sickle](<Nemit's_Sickle.md>) | Daggers |
 | [Whaling Knife](Whaling_Knife.md) / [Alloyed Whaling Knife](Whaling_Knife.md#alloyed) | [Whaling Knife](Whaling_Knife.md) | Daggers |
-| [Rite of Authority](Rite_of_Authority.md) | [Rite of Authority](Rite_of_Authority.md) | Rapiers |
 | [The Flippers of Fate](The_Flippers_of_Fate.md) / [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | Swords, Clubs, Twinblades, Spears, Bows |
 | [Serpent's Edge](<Serpent's_Edge.md>) | [Serpent's Edge](<Serpent's_Edge.md>) | Swords, Spears |
 | [Cavalry Saber](Cavalry_Saber.md) / [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed) / [Officer Saber](Officer_Saber.md) / [Alloyed Officer Saber](Officer_Saber.md#alloyed) | [Officer Saber](Officer_Saber.md) | Swords |

@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 164728
+revid: 164941
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Daggers, Light Weapons]
@@ -18,21 +18,24 @@ notices:
 | scaling | LHT:? |
 | range | 5.8 |
 | swing speed | 1.24x |
+| special effect | No |
 | m.equip | No |
 | m.extract | No |
-| stances | 1 Handed |
+| stances | 1-handed |
 | selling price | ? |
 | weight | 4.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fabantou for 20 |
+| obtainment | Fabantou at The Three Cheers for 40 |
 | description | You've truly lost it. |
 
 ## Description
 
 **Fool's Tankard** is a blunt Dagger Weapon that requires 40 LHT to use.
+
+This is essentially just an empty tankard that the player utilises as a weapon.
 
 ## Critical
 

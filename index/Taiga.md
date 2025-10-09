@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 164888
+revid: 164991
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC. She works with doctor Sawbones.
+Taiga is a [Capra](Capra.md) NPC, she is an apprentice under Doctor Sawbones.
 
 ## Location
 
@@ -37,19 +37,19 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td>*The Capra sits alone, favouring his tankard over a weathered book. From what you can see, its pages are illustrated with anatomical diagrams, complimented by eye-wateringly tiny text.* I'm on my break, soldier. I don't do doctor's notes, nor do you look like you're about to keel over. And for the record, scraping your knee is not a 'medical emergency' that 'impedes your performance'. Doc's already given me an earful on being too forgiving to you recruits.</td>
+  <td><i>*The Capra sits alone, favouring her tankard over a weathered book. From what you can see, its pages are illustrated with anatomical diagrams, complemented by eye-wateringly tiny text.*</i> I'm on my break, soldier. I don't do doctor's notes, nor do you look like you're about to keel over. And for the record, scraping your knee is not a 'medical emergency' that 'impedes your performance'. Doc's already given me an earful on being too forgiving to you recruits.</td>
 </tr>
 <tr>
   <td>You work with the doctor?</td>
 </tr>
 <tr>
-  <td>*She shuts her book pointedly* Are you suffering from a tendency to state the obvious? It's unfortunately uncurable, but if it helps, you can get your ears checked. But yes, I've worked with that Sawbones for a couple years - I handle all the smaller bumps and scratches that people come to me with. Pray that you'll see me more than him.</td>
+  <td><i>*She shuts her book pointedly.*</i> Are you suffering from a tendency to state the obvious? It's unfortunately incurable, but if it helps, you can get your ears checked. But yes, I've worked with that Sawbones for a couple years - I handle all the smaller bumps and scratches that people come to me with. Pray that you'll see me more than him.</td>
 </tr>
 <tr>
   <td>Huh?..</td>
 </tr>
 <tr>
-  <td>*She flashes you a meaningful, almost threatening look.* Unless you're <i>desperate</i> for one less limb, you don't need to bother him at all.</td>
+  <td><i>*She flashes you a meaningful, almost threatening look.*</i> Unless you're <i>desperate</i> for one less limb, you don't need to bother him at all.</td>
 </tr>
 <tr>
   <td>End</td>

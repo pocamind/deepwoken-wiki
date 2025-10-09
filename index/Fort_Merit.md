@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 164133
+revid: 164976
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Central Authority]
@@ -87,11 +87,12 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 Below is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
 
--   [Brutus](Brutus.md)
--   Innkeeper (Sets spawn)
--   [Guild Clerk](Guilds.md)
--   [Banker](Banker.md)
 -   [Antiquarian](Antiquarian.md)
+-   [Banker](Banker.md)
+-   [Brutus](Brutus.md)
+-   [Chud Steel](Chud_Steel.md)
+-   [Guild Clerk](Guilds.md)
+-   Innkeeper (Sets spawn)
 -   [Rashet](Rashet.md)
 -   [Viridian](Viridian.md)
 

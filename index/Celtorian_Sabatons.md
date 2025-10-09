@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 155601
+revid: 164918
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Sabatons]
@@ -26,6 +26,10 @@ categories: [Items, Equipment, Legs, Sabatons]
 | obtainment | Second Layer, First Layer, Lodestar, Duke Erisia, Maestro Evengarde Rest, War Mode, Dread Serpent |
 | description | ... |
 
+Celtor Commander
+
+Variants: [Celtor Commander Helm](Celtor_Commander_Helm.md)
+
 ## Description
 
-Celtorian Sabatons are an [Equipment](Equipment.md) item under the "**Legs**" category. Equipping it grants you +4 Health It is commonly found in chests from the [Second Layer](Second_Layer.md).
+The Celtorian Sabatons are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Celtor Commander Set. When worn, this grants +4 Health and +2 Rare Pips,

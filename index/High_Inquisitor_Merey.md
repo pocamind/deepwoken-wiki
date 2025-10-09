@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 164910
+revid: 164995
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -12,7 +12,7 @@ notices:
 
 | High Inquisitor Merey | |
 |---|---|
-| name | High Inquisitor Merey |
+| name | High Inquisitor Merey Scarsen |
 | aspect | Canor |
 | location | Fort Merit |
 

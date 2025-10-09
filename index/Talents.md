@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 164815
+revid: 164984
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -90,8 +90,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Innate
     -   Talents obtained from your [Aspect](Aspects.md) or [Origin](Origins.md). These Talents do not take up Talent slots.
 
--   Origin
-    -   Talents obtained from your [Origin](Origins.md). Unlike innate Talents, these Origin-exclusive Talents are not given _with_ your Origin, and must be manually unlocked.
+-   Faction
+    -   Talents obtained from a specific faction. These Talents may be given as a reward from having high reputation or completing a specific milestone or task for a [faction](Reputation.md).
 
 -   Mantra
     -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Draw.md). See [Mantras](Mantras.md).
@@ -493,18 +493,18 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Battle Readiness
 
--   _Armored Plating_ \[Origin Exclusive\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
+-   **Armored Plating** \[Faction Exclusive\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
     -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
--   _Crossguard_ \[Origin Exclusive\] - If you are using a sword, you gain 10% chip against other opponents wielding swords.
+-   **Crossguard** \[Faction Exclusive\] - If you are using a sword, you gain 10% chip against other opponents wielding swords.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
--   _Riot Shield_ \[Origin Exclusive\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
+-   **Riot Shield** \[Faction Exclusive\] - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
--   _Oppressive Force_ \[Origin Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
+-   **Oppressive Force** \[Faction Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
     -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage.
     -   The second hit cannot be buffed through damage modifiers.
     -   The second hit will only happen if the first one lands.
@@ -514,7 +514,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
--   _Steel Tread_ \[Origin Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
+-   **Steel Tread** \[Faction Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 ### Blindseer
@@ -561,7 +561,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on True Strength. Use the tool again to toggle True Strength back off.
     -   While **Reveal's** True Strength state, you passively build up [Wither](Status_Effects.md#wither) on yourself.
     -   If you go below 10% HP, Reveal will automatically turn itself off.
-    -   Oddly enough, Reveal procs things that require you to take damage like Agitating Spark and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
+    -   Oddly enough, Reveal procs things that require you to take damage like [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time.
 
 -   Soaring Storm \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
@@ -1102,16 +1102,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Dread Imperium
 
--   _Buster Call_ - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
+-   **Buster Call** \[Faction Exclusive\] - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Applies burn on hit.
     -   Cannot knock players.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
--   _Officer's Training_ \[Origin Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from criticals.
+-   **Officer's Training** \[Faction Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from criticals.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
--   _Target Focus_ \[Origin Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
+-   **Target Focus** \[Faction Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
 ### Drowned Secret
@@ -1749,6 +1749,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
         -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
     -   Agitating Spark bypasses block and parry.
+    -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
     -   Has a 1 second cooldown.
     -   Can spread to allies. The Controlled Combustion Talent will prevent Agitating Spark spreading burn to yourself and your allies.
     -   Prerequisite: 40 Flamecharm
@@ -1882,12 +1883,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Inquisitive Lethality
 
--   _Backstabber_ \[Origin Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+-   **Backstabber** \[Faction Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
 
--   _Executioner's Frenzy_ \[Origin Exclusive\] - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+-   **Executioner's Frenzy** \[Faction Exclusive\] - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Authority Ensign Inquisition Division
 
--   _Fatal Stealth_ \[Origin Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+-   **Fatal Stealth** \[Faction Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
     -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
@@ -1896,10 +1897,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   The maximum Stealth you can gain from Equipment is 30% (+6% damage) or 36% if Felinor (+7.2% damage).
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
--   _Flanking Maneuvers_ \[Origin Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.
+-   **Flanking Maneuvers** \[Faction Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
--   _Stature Break_ \[Origin Exclusive\] - Landing a backstab of any kind disables posture for 8 seconds.
+-   **Stature Break** \[Faction Exclusive\] - Landing a backstab of any kind disables posture for 8 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 ### Ironsinger
@@ -2444,17 +2445,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Operator's Technique
 
--   _Absolute Force_ \[Origin Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+-   **Absolute Force** \[Faction Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division, Oppressive Force
 
--   _Amp Overdrive_ \[Origin Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
+-   **Amp Overdrive** \[Faction Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the guardbreak stun duration from 1.05 seconds to 2.1 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
--   _Martial Brutality_ \[Origin Exclusive\] - The less health your opponent has, the more posture damage you deal to them.
+-   **Martial Brutality** \[Faction Exclusive\] - The less health your opponent has, the more posture damage you deal to them.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
--   _Shocking Reverb_ \[Origin Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+-   **Shocking Reverb** \[Faction Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 ### Outlaw
@@ -3394,7 +3395,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### The Knives of Eylis
 
--   _Grasp of Eylis_ \[Origin Talent\] - You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized.
+-   _Grasp of Eylis_ \[Origin Exclusive\] - You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized.
     -   Grants a Talent tool that can only be used in The Voideye.
     -   After picking up a [bounty](Bounty_Hunting.md), you can use this tool to select your bounty hunt method; stealth or ferocity.
         -   Stealth: Teleport near, but far away from your target. The bounty indication will be hidden.
@@ -3403,13 +3404,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   You cannot use [Chime of Dwelling](Chime_of_Dwelling.md) while on a bounty hunt.
     -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
 
--   _Voideye_ \[Origin Talent\] - Voidmother's blessing, the method to travel back to the Voidheart.
+-   _Voideye_ \[Origin Exclusive\] - Voidmother's blessing, the method to travel back to the Voidheart.
     -   Grants a Talent tool that teleports you back to The Voideye on use.
     -   Has a short animation that can be interrupted.
     -   5 minute cooldown.
     -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
 
--   _Voidwalker Contract_ \[Origin Talent\] - You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.
+-   _Voidwalker Contract_ \[Origin Exclusive\] - You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.
     -   Gain increased EXP from [bounties](Bounty_Hunting.md) of all kinds, but gain reduced EXP from all other sources.
     -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
 

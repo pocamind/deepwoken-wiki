@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 164689
+revid: 164938
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,7 +36,7 @@ Blindseer glyphs at Temple of the Forgotten Flame
 
 Once inside the temple, proceed through a passage on the left.
 
--   Inside that room, an engraved message can be found. Interact with this text while blind (either from the flaw or from a blindfold)
+-   Inside that room, an engraved message can be found. Interact with this text while blind (either from the flaw or from a [blindfold](Blindfold.md))
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/F7yoFW0rlME)._
 
@@ -128,8 +128,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   The glyph on the wall also can be found the room with the [King Thresher](King_Thresher.md) in [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
     -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have blue three dimensional markings on the outside of their mask, with an eye-like shape formed at the top. However, they used to be seen with a gold and black mask similiar to the mask on the statue in [The Lordsgrove](The_Lordsgrove.md).
--   If you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
-    -   this is not true if you get it via having the blind flaw without a blindfold on, as your Blindseer eye will hover in front of your already blind eyes
+-   If you do not have the [Blind](Boons_and_Flaws.md#flaws) Flaw and you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
 -   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the Trophy Room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Blindseer had the Mystic line "I will protect this world."

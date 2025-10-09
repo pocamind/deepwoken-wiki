@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 152539
+revid: 164997
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, Quests, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -18,9 +18,11 @@ categories: [Canor NPCs, NPCs, Quests, The Ignition Union, NPCs located in the F
 
 Alpha is an old, Lion variant [Canor](Canor.md), wearing the [Union Initiate](Union_Initiate.md) outfit. He works for [The Ignition Union](The_Ignition_Union.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), seeming as the leader of the foward operating base for the Ignition Union. Looking at his wrinkles, he is assumed to be 50–59 years old, according to how [Aging](Age.md) works.
 
-He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy lost in the area. Doing this is needed for the [Arcwarder](Oath%253A_Arcwarder.md) Oath, and it also gives you some positive Ignition Union rep. If the Generators are on when talking to him, he will give the [Union Hook](Talent_Quests.md) Talent and the [Delver Boots](Delver_Boots.md) recipe.
+He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy lost in the area. Doing this is needed for the [Arcwarder](Oath%253A_Arcwarder.md) Oath, and it also gives you some positive Ignition Union rep. If the Generators are on when talking to him, he will give the [Union Hook](Talent_Quests.md) Talent and the [Delver Boots](Delver_Boots.md) recipe. Note that if you talk to Alpha after getting Epsi killed, he will _not_ offer the necessary dialouge for completing the Arcwarder quest.
 
 ## Dialogue
+
+**Quest start:**
 
 <table>
 <tbody>
@@ -60,12 +62,48 @@ He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy
 </tbody>
 </table>
 
+**Epsi died:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Did you find him?</td>
+</tr>
+<tr>
+  <td colspan="12">Epsi is dead.</td>
+</tr>
+<tr>
+  <td colspan="12">What? You're... You're kidding me. That kid?... You mean... <i>*He shields his expression, pinching his brow and taking in a ragged breath.*</i> Gods below. I need some space.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**WIP, returning after Epsi died:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">It never gets easier. But the work is still important. I just have to keep telling myself that...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
   
 
 ## Trivia
 
--   He is a Lion Variant [Canor](Canor.md).
--   He is roughly in his 50s.
 -   If you enter the base without opening the generator, he will say "You get that generator working?"
     -   This is despite the fact that he has never met the player before.
     -   [Sunway](Sunway.md) also says the same line under this condition.

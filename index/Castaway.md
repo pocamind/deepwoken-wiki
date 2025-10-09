@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 164894
+revid: 164922
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Origins]
@@ -30,6 +30,7 @@ Castaways spawn with the [Stranded](Stranded.md) Outfit equipped. The player is 
 -   If the player completes the [Tutorial](Tutorial.md), they will additionally spawn with an extra 29/59, [Leather Gloves](Leather_Gloves.md), a [Mantra](Mantras.md) of their choice, a fully stocked [Flint](Flint.md), and an additional [Training Gear](Training_Gear.md) of choice.
     -   Additionally, the player will unlock unique dialogue for [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), should they find him in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 -   Castaway has no negative EXP modifiers nor preferred progression method, unlike most other Origins. This allows you to progress in any way you want to without any downsides to experience gain.
+-   Cap’n Orlandeu
 
 ### Cons
 

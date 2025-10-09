@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 164847
+revid: 164923
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -58,7 +58,13 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*You salute the flashily-dressed soldier. He salutes back.*</i> HURRAH, my comrade! Interceptor Chud Steel at your service! Proud to serve the Central Authority!</td>
+</tr>
+<tr>
+  <td>Chud Steel?..</td>
+</tr>
+<tr>
+  <td><i>*A spark of recognition flashes violently in your mind. You've seen this guy before - he's plastered all over the posters in Fort Merit. You stand before Interceptor Chud Steel, a legendary Central Authority Warrior. Though, when last you checked, he was serving in the Central Luminant.*</i> That's right, comrade! My name is indeed Chud Steel! I know, I get a lot of questions about it - it's a long-running family name! What's your name, soldier?</td>
 </tr>
 <tr>
   <td>WIP</td>

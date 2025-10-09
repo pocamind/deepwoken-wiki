@@ -1,12 +1,16 @@
 ---
 title: Lost Diver
-revid: 162478
+revid: 164933
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Lost Diver
+
+“ The Drowned shall never know peace. ”
+
+― Lost Diver
 
 Template:EnemyInfobox1.0
 
