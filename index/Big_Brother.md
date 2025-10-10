@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 164813
+revid: 165262
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -40,6 +40,8 @@ When you land an M1 on your opponent's back, your next critical attack will be e
 On proc, the Swift Strike status effect is granted for an indefinite duration, only being consumed upon critical cast.
 
 ## Critical
+
+The critical is based on the Weapon Talent. After landing an M1 on the opponent's back, the user briefly flashes out of the frame before reappearing behind their backs and deeply gashing them.
 
 The critical has a cooldown of **? seconds**.
 

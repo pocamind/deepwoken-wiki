@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 165224
+revid: 165274
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -33,7 +33,7 @@ notices:
 
 ## Description
 
-The Rite of Authority is a MED weapon in the Sword category that can be obtained by maxing out the Command division under the [Authority Ensign](Authority_Ensign.md) Origin.
+The Rite of Authority is a MED weapon in the Sword category that can be obtained by reaching Seneschal Rank in the Command division under the [Authority Ensign](Authority_Ensign.md) Origin and speaking to [Warden Jericho](Warden_Jericho.md).
 
 ## Critical
 

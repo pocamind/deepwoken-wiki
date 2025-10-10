@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 161781
+revid: 165230
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -108,7 +108,7 @@ Based on the power of the user(s), the starting wave will differ;
 2 [Crabs](Crab.md)  
 3 [Gigameds](Gigamed.md)
 
- | Use the Gigameds as healthpacks because the Crabs have comically strange hitboxes, and you're really not going to have a good time with them. |
+ | Use the Gigameds as healthpacks because the Crabs have comically strange hitboxes, and you're really not going to have a good time with them. the gigameds could also be why you might get stunlocked if going in at early powers if you're not careful |
 | 2 (Deepbound "Trial of One") | 
 
 1 [Thresher](Thresher.md)

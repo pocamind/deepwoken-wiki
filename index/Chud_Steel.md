@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 165211
+revid: 165273
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -203,3 +203,4 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 
 -   Surrounding his character is many letters, presumably fan-letters of aspiration as an idol of The Central Authority.
 -   A chud is a derogatory term for those, usually male, who hold beliefs that are seen as reactionary or to be sociopolitically regressive.
+-   While it may seem he is lying about how powerfull he is, the bell signifying his resonence, showcases that he is that strong.

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 161639
+revid: 165240
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -116,7 +116,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
  | 5 | Soul-bounding an [enchanted](Enchantments.md) or legendary item (e.g., [Hero Blade of Frost](<Hero's_Blade_of_Frost.md>), [Crypt Blade](Crypt_Blade.md)). |
 | 
 
- | 5 | Enchanting an Item with an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md). |
+ | 5 | Enchanting an Item with an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) (Do not use it on an enchanted weapon). |
 | 
 
  | 5 | Obtaining an enchant from [Laplace](Laplace.md). |

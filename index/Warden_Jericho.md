@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 165204
+revid: 165278
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -38,45 +38,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 **Authority Ensign:**
 
-**No division:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin</td>
-</tr>
-<tr>
-  <td colspan="2">Player is a Private</td>
-  <td colspan="2">Player is a Corporal</td>
-  <td colspan="2">Player is a Lance Corporal</td>
-</tr>
-<tr>
-  <td colspan="2"><i>*With his visor covering his eyes, he remains inscrutably impassive, though you are sure that he is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
-  <td colspan="2"></td>
-  <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local Luminants. You salute him stringently.*</i><p>...You must be Lance Corporal [Second Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
-</tr>
-<tr>
-  <td colspan="2">End</td>
-  <td colspan="2"></td>
-  <td>Yes, Warden.</td>
-  <td>I'd like some time to think about it, Warden.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td colspan="2"></td>
-  <td>WIP</td>
-  <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still agains unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td colspan="2"></td>
-  <td>End, player has joined the Leadership division</td>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisitor division:**
+**No division:** <table><tbody><tr><td colspan="6">Begin</td></tr><tr><td colspan="2">Player is a Private</td><td colspan="2">Player is a Corporal</td><td colspan="2">Player is a Lance Corporal</td></tr><tr><td colspan="2"><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Private / Corporal. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td><td colspan="2"></td><td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local Luminants. You salute him stringently.*</i><p>...You must be Lance Corporal [Last Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td></tr><tr><td colspan="2">End</td><td colspan="2"></td><td>Yes, Warden.</td><td>I'd like some time to think about it, Warden.</td></tr><tr><td colspan="2"></td><td colspan="2"></td><td>WIP</td><td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still agains unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td></tr><tr><td colspan="2"></td><td colspan="2"></td><td>End, player has joined the Leadership division</td><td>End</td></tr></tbody></table>
 
 <table>
 <tbody>
@@ -91,8 +53,6 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tr>
 </tbody>
 </table>
-
-**Leadership division:**
 
 <table>
 <tbody>
@@ -120,8 +80,6 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Shock Corps division:**
-
 <table>
 <tbody>
 <tr>
@@ -131,7 +89,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> [Frontliner/Interceptor/Operator]. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>End<p></p></td>
 </tr>
 </tbody>
 </table>

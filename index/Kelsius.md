@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 157272
+revid: 165237
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in the Etrean Luminant]
@@ -204,3 +204,4 @@ If the quest was done on the account previously, Kelsius will instead ask the pl
 
 -   Despite their record, Kelsius was accepted by the Maestro to work as the vigils librarian.
 -   You are able to completely skip the quest and unlock special dialogue if you have completed the [Castaway](Origins.md#castaway) tutorial on the same character.
+-   Oddly enough, having the Authority Ensign origin doesn't unlock new dialogue for him.

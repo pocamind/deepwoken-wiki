@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 164209
+revid: 165267
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -12,7 +12,7 @@ categories: [NPCs, Mechanics]
 |---|---|
 | name | Sibex |
 | aspect | Celtor |
-| location | On an island near Starswept Valley |
+| location | On a cliff south east of the Lordsgrove in Starswept Valley |
 
 ## Description
 

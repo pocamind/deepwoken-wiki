@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 163053
+revid: 165250
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -12,7 +12,7 @@ categories: [Vendors, NPCs]
 |---|---|
 | name | Barber |
 | aspect | Adret, Randomized (Guild base) |
-| location | Near Nerin in Etris, Inside the castle on Summer Isle, At the archives room in the Greathive Aratel, At the mantra shop in Isle of Vigils, In a corner of the Guild base, Inside Castle Light |
+| location | Near Nerin in Etris, Inside the castle on Summer Isle, At the archives room in the Greathive Aratel, At the mantra shop in Isle of Vigils, In a corner of the Guild base, Inside Castle Light, Port Merit, Fort Merit |
 
 “ Hey friend, need a new style? ”
 

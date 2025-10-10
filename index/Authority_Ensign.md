@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165226
+revid: 165275
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -34,7 +34,7 @@ Gain the Salute [Emote](Emotes.md). All other Authority Ensign members will have
 
 ### Horn of the Authority
 
-Gain a Talent Tool horn that marks escaped prisoners when blown. Applies a combat tag onto escaping prisoners.
+Gain a Talent Tool horn that marks escaping prisoners when blown by applying a combat tag onto them. The range of the horn is quite small, as you'll need to get fairly close to the prisoner in order for it to work.
 
 ### Squads
 
@@ -48,7 +48,9 @@ Upon being exiled from the [Central Authority](The_Central_Authority.md), your a
 
 ### Deserter
 
-If you are out of Authority territory while not on an active Mission, a **fifteen minute** AWOL countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, exiling you from the Central Authority.
+If you leave Fort Merit, a **fifteen minute** AWOL countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, exiling you from the Central Authority.
+
+To not be considered a deserter, you must be on a mission, be in a Division, or be in a squad in which the leader is in the Commander Division.
 
 The AWOL timer will reset if you leave the game, restarting from 15 minutes once you rejoin. Additionally, the timer will not appear if you are a part of a Division, if you are in a [Dungeon](Dungeons.md), or if you are in [the Depths](The_Depths.md).
 
@@ -114,7 +116,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   [Miner's Landing](<Miner's_Landing.md>); 19 minute 30 second time limit
         -   [Summer Isle](Summer_Isle.md); 1 hour 5 minute 20 second time limit
     -   Notes/Tips:
-        -   This mission may be bugged, as you just stand near the flag and it will be automatically completed after a long wait.
+        -   The enemies, a few band of Blacksteel Pirates, will appear by the shore.
 
 ### Mission Lootpool
 
@@ -165,7 +167,7 @@ Enlistment Ranks
 2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points.
     -   You will gain access to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of other weapons that can be found at the Armory.
 3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points.
-    -   Allows you to join one of the Divisions: Shock Corps, Command, or Inquisition (poop hehe).
+    -   Allows you to join one of the Divisions: Shock Corps, Command, or Inquisition.
 
 ### Divisions
 
@@ -175,7 +177,7 @@ Each Division is unique in their themes, offering many avenues of gameplay and b
 
 #### Command Division
 
-A division focused on leadership and support.
+The Command Division of the Central Authority is known for their charismatic commanders, leading the charges into the fight and empowering their fellow soldiers.
 
 -   Obtainment
     -   Complete 10 missions as Squad leader.
@@ -197,7 +199,7 @@ A division focused on leadership and support.
 
 #### Inquisition Division
 
-A division focused on backstabs and assassination.
+The Inquisition Divison of the Central Authority acts in the shadows, using their stealth and cunning to neutralize the opposition.
 
 -   Obtainment
     -   Complete 10 Solo Missions
@@ -217,10 +219,10 @@ A division focused on backstabs and assassination.
 
 #### Shock Corps Division
 
-A division focused on brute force and posture damage.
+The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
 
 -   Obtainment
-    -   Killing ??? amount of enemies in missions
+    -   ???
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -405,7 +407,8 @@ Inquisition Division
 
 -   Deals 6% of your opponent's maximum health as damage.
 -   Deals 6 posture damage.
--   The poison is currently bugged and does nothing.
+-   Grants iframes to the caster and the person hit during its animation.
+-   The poison does not deal damage.
 -   Can be buffed through damage modifiers despite dealing percentage based damage.
 
  |
@@ -453,19 +456,21 @@ Shock Corps Division
 ### Pros
 
 -   Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
--   You will be automatically allied with everyone else who has the Authority Ensign Origin.
--   Origin-exclusive Talents through the promotion system.
--   Origin-exclusive Mantras, Weapons, and Outfits through your chosen Division.
+-   Have access to a party system via the use of Squads, allowing fellow ensigns to count as allies, and complete missions together.
+-   Like guilds, have access to shout chat (by starting your messages with !) to talk to all fellow ensigns server wide.
+-   As the punishment for killing fellow ensigns is quite major, most other ensigns will never attack you.
+-   Origin-exclusive Talents, Mantras, Weapons, and Outfits.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
 -   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory.
 -   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
--   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change as you get promoted through the ranks.
+-   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change based on your current rank and your standing with the Authority as a faction.
 
 ### Cons
 
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
+-   If you aren't on a mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
 -   You cannot craft any [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
-    -   This includes Authority-based Outfits like [Authority Commander](Authority_Commander.md).
+    -   You can craft the [Authority Commander](Authority_Commander.md) Outfit if you are in the Command division however.
 -   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
 -   Because the Master Armors are immediately equipped upon joining your Division, if you craft any other Outfit while Exiled, they will be lost permanently.

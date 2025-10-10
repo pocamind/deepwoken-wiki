@@ -1,9 +1,9 @@
 ---
 title: "Sovereign's Punishment"
-revid: 164050
+revid: 165234
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons, Authority Faction Item]
+categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
 ---
 
 # Sovereign's Punishment
@@ -12,6 +12,7 @@ categories: [Weapons, Greathammers, Weapons of The Central Authority, Heavy Weap
 |---|---|
 | type | Greathammer |
 | requirements | 75 HVY, 20 STR, OR Authority Ensign |
+| faction | Authority |
 | damage | 26 |
 | scaling | HVY: 9 |
 | range | 9 |
