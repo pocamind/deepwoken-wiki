@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 152513
+revid: 165319
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -28,17 +28,15 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 _Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
 
   
-**Authority Commander** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Authority Commander** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive the the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 
 ### _Requirements_
 
-Bounder Claw, Dark Feather, Thresher Spine,
-
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Thresher Spine](Thresher_Spine.md), one (1) [Blessed Gem](Blessed_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted. This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md) in the Command division.
 
 ### _Armor Stats_
 

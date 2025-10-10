@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 165245
+revid: 165313
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -118,7 +118,7 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
 
 **Requirements Unmet:**
 
-**Player does not have enough Knowledge:**
+**Not Enough Knowledge:**
 
 **Power Up:**
 
@@ -192,7 +192,9 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
 </tbody>
 </table>
 
-**Play has an unchosen hand of cards:**
+**Unchosen Hand of Cards:**
+
+If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will appear, forcing them to choose a card before a deal can be made.
 
 <table>
 <tbody>

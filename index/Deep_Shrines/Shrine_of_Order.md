@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 164696
+revid: 165314
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -108,7 +108,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 </tbody>
 </table>
 
-**Requirements Not Met:**
+**Requirements Unmet:**
 
 **Not Enough Knowledge:**
 
