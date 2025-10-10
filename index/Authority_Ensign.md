@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165325
+revid: 165363
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -14,7 +14,7 @@ notices:
 > 
 > ― Origin description
 
-_Authority Ensign_ is an immersive, faction-based Origin that progresses mostly in the Eastern Luminant, where you play as an aspiring Authority Soldier who quickly rises through the ranks of the Authority. As you gain promotions, you'll gain exclusive benefits and become stronger.
+_Authority Ensign_ is an immersive, faction-based Origin that progresses mostly in the Eastern Luminant, where you play as an aspiring Authority Soldier who quickly rises through the ranks of the Authority, gaining exclusive benefits along the way.
 
 ## Obtainment
 
@@ -57,6 +57,8 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 ### Traitor
 
 Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in the [Chime of Conflict](Chime_of_Conflict.md) and other non-overworld locations.
+
+Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor(Might need some testing, as it is inconsistent).
 
 ## Progression
 
@@ -113,15 +115,16 @@ Even if you aren't in a squad, other players may be assigned to the same mission
 4.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\].. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with defending two Authority-branded banners from 3 waves of enemies.
     -   Potential Locations:
-        -   [Miner's Landing](<Miner's_Landing.md>) - banners are at the gate near the blacksmith and at a cave entrance just above the shoreline; 19 minute 30 second time limit
-        -   [Summer Isle](Summer_Isle.md) - banner is up the initial staircase at the fort; 1 hour 5 minute 20 second time limit
+        -   [Miner's Landing](<Miner's_Landing.md>); 19 minute 30 second time limit
+        -   [Summer Isle](Summer_Isle.md); 1 hour 5 minute 20 second time limit
     -   Notes/Tips:
-        -   The types of enemies spawned scales on the level of the Squad leader;
+        -   The types of enemies spawned and amount of banners you need to protect scales on the level of the Squad leader;
             -   Power 1-5: [Bandits](Bandit.md)
             -   Power 6-10: [Bandit Leaders](Bandit_Leader.md)
-            -   Power 11-15: [Thieves](Thief.md)
+            -   Power 11-15: [Cloaked Assassins](Cloaked_Assassin.md)
             -   Power 16-20: [Blacksteel Pirates](Blacksteel_Pirate.md)
         -   For the Miner's Landing location, the enemies spawn along the southeastern shoreline.
+        -   For the Summer Isle location, the enemies will spawn along the southwestern shoreline, near the docks, and the southeastern shoreline, to the right of the large staircase.
         -   The Mission will be completed when enough time passes (about 2 minutes).
         -   The enemies seem to be bugged, as they will spawn without aggroing onto the banners.
 
@@ -276,12 +279,14 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Applies burn on hit.
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
+    -   The cooldown is 24 real world hours, not one ingame day.
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
 -   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
 #### Inquisition Division Talents
 
 -   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+    -   Prerequisite: 30 Agility
 -   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 -   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.

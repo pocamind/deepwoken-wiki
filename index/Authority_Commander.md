@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 165319
+revid: 165332
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -52,3 +52,4 @@ The [Riot Breaker](Talents.md#equipment-talents) Talent makes it so that you rec
 -   This is a good outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
 -   The other two outfits of similar origin are the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
 -   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>).
+-   Despite being exclusive to the Command division of the [Authority Ensign](Authority_Ensign.md) origin, You do not recieve this outfit automatically or at commander rank in Leadership division.

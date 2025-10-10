@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 165326
+revid: 165339
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1664,6 +1664,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   **Cap Artist** is disabled with this Talent.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension, the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md), etc.), but only if you meet Brick Wall's requirements.
         -   If you have less than 100 Willpower and Fortitude, knockdown duration will be reduced instead of being fully removed.
+    -   If the requirement are not met, the character will scream out in pain anytime they take any amount of damage.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.
