@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 160421
+revid: 165288
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Harvestables]
@@ -51,3 +51,7 @@ Eggs are a food item in Deepwoken. They can be used to make [Cooked Eggs](Cooked
 #### [Fort Merit](Fort_Merit.md)
 
 -   On a high rock wall facing [Meteor Isle](Meteor_Isle.md)
+
+## Trivia
+
+-   Eggs have an extremely low chance to spawn as a golden egg.

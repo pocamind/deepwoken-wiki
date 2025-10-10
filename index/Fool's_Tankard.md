@@ -1,11 +1,9 @@
 ---
 title: "Fool's Tankard"
-revid: 165122
+revid: 165307
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Daggers, Light Weapons]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Daggers, Light Weapons]
 ---
 
 # Fool's Tankard
@@ -15,10 +13,9 @@ notices:
 | type | Dagger |
 | requirements | 40 LHT |
 | damage | 10 |
-| scaling | LHT:? |
+| scaling | LHT: 8.5 |
 | range | 5.8 |
 | swing speed | 1.24x |
-| special effect | No |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -33,10 +30,14 @@ notices:
 
 ## Description
 
-**Fool's Tankard** is a blunt Dagger Weapon that requires 40 LHT to use.
-
-This is essentially just an empty tankard that the player utilises as a weapon.
+Essentially just an empty tankard, the **Fool's Tankard** is a blunt Dagger Weapon that requires 40 LHT to use.
 
 ## Critical
 
 Wind up your jug and strike your target, dealing very high posture damage.
+
+## Trivia
+
+-   This is the first dagger class weapon to deal blunt damage.
+-   The critical activates all club talents on hit, which may not be very useful considering it is a light weapon.
+    -   This is likely because the critical is shared with [the Pastry Paster](The_Pastry_Paster.md).

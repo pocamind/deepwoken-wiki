@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 157568
+revid: 165291
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Windrunner is a celtor NPC who uncaps your agility stat. He is a very hard to reach NPC without major mobility.
+Windrunner is a [Celtor](Celtor.md) NPC who uncaps your agility stat. He is a very hard to reach NPC without major mobility.
 
 ## Location
 

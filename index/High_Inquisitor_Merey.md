@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 165113
+revid: 165280
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -70,7 +70,23 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Command division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, Warrant Officer. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition division:**
 
 <table>
 <tbody>
@@ -97,22 +113,6 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tr>
 <tr>
   <td>Very well, I hope that was informative enough. I expect to see you more around more often, [Rank and Second name]. I will be observing your career with interest - even if you won't be aware of it. <i>*Uncharacteristically to herself, she chuckles.*</i> If you have any other questions in the future - do not hesitate to stop by. Dismissed. *You once again exchange stern salutes with the High Inquisitor.*</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Leadership division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, Warrant Officer. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
 </tr>
 <tr>
   <td>End</td>

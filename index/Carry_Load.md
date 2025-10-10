@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 163597
+revid: 165301
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -55,7 +55,7 @@ In order of carry load given:
 -   _Berserker_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 186 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 191 carry load.
 
 ### Other Sources
 
@@ -67,7 +67,6 @@ In order of carry load given:
 -   [Spare Nails](Talent_Quests.md#emergency-repairs-and-spare-nails) gives 2 carry load.
 -   [Treefelling Blow](Talent_Quests.md#treefelling-blow) gives 4 carry load.
 -   [Hook, Line, and Sinker](Talent_Quests.md#proficient-baiting-hook-line-and-sinker-and-fishers-lure) gives 4 carry load.
--   [Pocket Bombs](https://deepwoken.fandom.com/wiki/Talents#Saboteur) gives 5 carry load.
 -   The [Union Initiate](Union_Initiate.md) outfit gives 10 carry load.
 -   The [Wormwarder Lantern](Wormwarder_Lantern.md) gives 10 carry load.
     -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
@@ -87,7 +86,7 @@ In order of carry load given:
     -   Anyone with the Multifaceted [echo unlock](Echoes.md#upgrades-unlocks-and-modifiers) or any other [aspect](Aspects.md) can only get up to 100 strength, resulting in 100 extra carry load.
         -   Multifaceted permanently removes the ability to have more than 100 in an attribute for your account when you purchase it.
 
-All of these miscellaneous sources combined would theoretically provide 380 carry load.
+All of these miscellaneous sources combined would theoretically provide 375 carry load.
 
 ## Total Carry Load
 
@@ -96,7 +95,7 @@ Combining both Talents and other sources, the total amounts to **566**. However,
 Due to attribute limitations, the current best carry load build can only get 536/643 carry load, found [here](https://deepwoken.co/builder?id=Db429pN6).
 
 -   You are only able to perfectly create this build if your account does _not_ have the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers), due to its previously mentioned quirk.
-    -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 532/639.
+    -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 535/642.
 -   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to help calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
 
 ## Trivia
