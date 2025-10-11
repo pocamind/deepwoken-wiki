@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 160296
+revid: 165406
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -261,17 +261,17 @@ Bandits raiding a Guild Base.
 
 ## Trivia
 
--   You gain weapon and attunement exp from hitting dummies in the Training Hall (this later has been patched)
--   You will gain a small amount of experience for each unique guild base you visit
+-   You were previously able to gain weapon and attunement exp from hitting dummies in the Training Hall. This was later patched.
+-   You will gain a small amount of experience for each unique guild base you visit.
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
     -   You simply need to buy either room in the back middle left/middle right (the "back" being 3 purchased rooms deep).
--   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate), if you travel to another server like going to Eastern Luminant or The Depths from Etrean Luminant, every carriable items inside the guild base will despawn unless there is another guildmate in the lobby still having the guild base active.
+-   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate), if you travel to another server like going to Eastern Luminant or The Depths from Etrean Luminant, every carriable item inside the guild base will despawn unless there is another guildmate in the server who has the guild base active.
 -   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
     -   Ironically, the functionally identical Ironsing Mantra "Rocket Lance" is not disabled.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
--   Guild bases are very useful. They can be placed anywhere besides The Depths, any Voidzone, Dungeons, The Monkey's Paw and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
+-   Guild bases are very useful. They can be placed anywhere besides The Depths, any Voidzone, Dungeons, The Monkey's Paw, and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
 -   They are also very convenient, and allow you to access NPCS which you usually have to travel around the map for, including the Chef, Songwright, etc.
 -   There is a small area above Monkey's Paw which is considered to be part of the Aratel Sea, allowing you to place a guild base.
 -   If you glitch out of the Guild Base and are thrown into the void outside, you will spawn outside of your guild base.
@@ -280,4 +280,4 @@ Bandits raiding a Guild Base.
 -   The trees in the Quarters room can be cut down for wood with a lumber axe at the right angle.
 -   The PVE dummy in the training hall can be used to build up [Chain of Perfection](Talent_Quests.md#chain-of-perfection) stacks.
 -   As stated by Arch\_Mage\[_Citation Needed_\], there is an unknown feature that can permanently turn all NPCS in your guild base into long white haired moustache Felinors.
--   Voidwalkers that hunt you can teleport to your base, however, you will get the message,"This is no longer a safehaven," to warn you.\[Confirmation needed\]
+-   Voidwalkers that hunt you can teleport to your base, however, you will get the message "This is no longer a safehaven," to warn you.\[Confirmation needed\]

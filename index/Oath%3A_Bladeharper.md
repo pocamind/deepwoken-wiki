@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 164468
+revid: 165403
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -18,8 +18,6 @@ categories: [Oaths]
 ― The Blade Within
 
 ## Description
-
-Sukuna
 
 **[Oath](Oaths.md): Bladeharper** is one of the 17 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with its slash-based attacks, and the ability to massively buff its offensive means by landing consecutive hits or sacrificing health.
 

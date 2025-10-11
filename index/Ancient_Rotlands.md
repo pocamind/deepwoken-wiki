@@ -1,9 +1,9 @@
 ---
 title: Ancient Rotlands
-revid: 164596
+revid: 165422
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Voidzones]
+categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -32,6 +32,12 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
         -   This area is generally considered as dangerous to farm in due to its Voidzone status, with the potential insanity damage you may receive being the equivalent of a bomb that can explode any second.
         -   Do note that if you run out of sanity while looking at the brains, **your head will explode, instantly killing you.**
         -   For ease of farming, it is encouraged that you lure whatever's inside the area out to the Songseeker Wilds to avoid both any insanity damage and avoid getting sent to the Depths on death.
+
+## Potential Enemies
+
+File:Rotted Pathfinder.png
+
+Maljuror
 
 ## Harvestables
 

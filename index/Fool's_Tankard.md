@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 165307
+revid: 165410
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Daggers, Light Weapons]
 | type | Dagger |
 | requirements | 40 LHT |
 | damage | 10 |
-| scaling | LHT: 8.5 |
+| scaling | LHT: 12 |
 | range | 5.8 |
 | swing speed | 1.24x |
 | m.equip | No |

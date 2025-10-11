@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 164873
+revid: 165409
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance, +30% Elemental resistance, +10% Shadw resistance, +10% Ironsing resistance, +10% Blood resistance, and +15% Ether Regen.
+This Outfit has 3500 durability and grants +30% Physical resistance, +30% Elemental resistance, +10% Shadow resistance, +10% Ironsing resistance, +10% Blood resistance, and +15% Ether Regen.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 37% Shadowcast, 37% Ironsing, 37% Bloodrend, and 30% Elemental.
 
