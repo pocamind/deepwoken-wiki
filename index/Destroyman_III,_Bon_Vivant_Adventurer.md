@@ -1,6 +1,6 @@
 ---
 title: "Destroyman III, Bon Vivant Adventurer"
-revid: 164661
+revid: 165379
 source: https://deepwoken.fandom.com/wiki/Destroyman_III%2C_Bon_Vivant_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant]
@@ -48,4 +48,4 @@ Destroyman III, Bon Vivant Adventurer is located atop a spike high up in [The St
 
 ## Trivia
 
--   When the player is near Destroyman III, Bon Vivant Adventurer, a sea shanty is played.
+-   When the player is near Destroyman III, Bon Vivant Adventurer, a sea shanty is played. That same sea shanty can be heard at [The Three Cheers](The_Three_Cheers.md) tavern in [Fort Merit](Fort_Merit.md).

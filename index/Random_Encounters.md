@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 164729
+revid: 165377
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -289,7 +289,7 @@ The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a r
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Soldiers, Officers, Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
-Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](<Justicar_(Origin).md>) armor schematic.
+Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](<Justicar_(Origin).md>) and [Royal Etrean Guard](Royal_Etrean_Guard.md) armor schematics.
 
 During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's Winter.
 

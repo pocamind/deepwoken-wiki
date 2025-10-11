@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 161121
+revid: 165391
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -55,23 +55,23 @@ Attunements unlocked on spawn. These attunements can all be unlocked as starting
 
 [Attunement-less](Attunement-less.md)
 
-[Attunement-less](Attunement-less.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Attunement-less](Attunement-less.md)
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Flamecharm](Flamecharm.md)
 
 [Frostdraw](Frostdraw.md)
 
-[Frostdraw](Frostdraw.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Frostdraw](Frostdraw.md)
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Thundercall](Thundercall.md)
 
 [Galebreathe](Galebreathe.md)
 
-[Galebreathe](Galebreathe.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Galebreathe](Galebreathe.md)
 
   
   
@@ -82,15 +82,15 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
 [Shadowcast](Shadowcast.md)
 
-[Shadowcast](Shadowcast.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Shadowcast](Shadowcast.md)
 
 [Ironsing](Ironsing.md)
 
-[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Ironsing](Ironsing.md)
 
 [Bloodrend](Bloodrend.md)
 
-[Bloodrend](Bloodrend.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Bloodrend](Bloodrend.md)
 
   
 
@@ -102,7 +102,7 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Attunement](Attunements.md)
 
-[Attunement](Attunements.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Attunement](Attunements.md)
 
   
 
@@ -110,23 +110,23 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Flamecharm](Flamecharm.md)
 
 [Frostdraw](Frostdraw.md)
 
-[Frostdraw](Frostdraw.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Frostdraw](Frostdraw.md)
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Thundercall](Thundercall.md)
 
 [Galebreathe](Galebreathe.md)
 
-[Galebreathe](Galebreathe.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Galebreathe](Galebreathe.md)
 
 [Ironsing](Ironsing.md)
 
-[Ironsing](Ironsing.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Ironsing](Ironsing.md)
 
   
 
@@ -134,7 +134,7 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
 
-[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
 
   
 
@@ -144,7 +144,7 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Flamecharm](Flamecharm.md)
 
   
 
@@ -152,7 +152,7 @@ All of the icons above are undoubtedly official representations of their base at
 
 [Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
 
-[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
 
   
 

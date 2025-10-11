@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 164627
+revid: 165394
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Attributes, Mechanics]
@@ -161,41 +161,41 @@ When first creating a character, the player can choose only out of two spawn loc
 
 [Castaway](Castaway.md)
 
-[Castaway](Castaway.md) 
+[Castaway](Castaway.md)
 
 [Castaway](Castaway.md)
 
-[Castaway](Castaway.md) 
+[Castaway](Castaway.md)
 
 ### Unlockable Origins
 
 [Lone Warrior](Lone_Warrior.md)
 
-[Lone Warrior](Lone_Warrior.md) 
+[Lone Warrior](Lone_Warrior.md)
 
 [Deepbound](Deepbound.md)
 
-[Deepbound](Deepbound.md) 
+[Deepbound](Deepbound.md)
 
 [Deepbound](Deepbound.md)
 
-[Deepbound](Deepbound.md) 
+[Deepbound](Deepbound.md)
 
 [Voidwalker](Voidwalker.md)
 
-[Voidwalker](Voidwalker.md) 
+[Voidwalker](Voidwalker.md)
 
 [Ignition Delver](Ignition_Delver.md)
 
-[Ignition Delver](Ignition_Delver.md) 
+[Ignition Delver](Ignition_Delver.md)
 
 [Ignition Delver](Ignition_Delver.md)
 
-[Ignition Delver](Ignition_Delver.md) 
+[Ignition Delver](Ignition_Delver.md)
 
 [Authority Ensign](Authority_Ensign.md)
 
-[Authority Ensign](Authority_Ensign.md) 
+[Authority Ensign](Authority_Ensign.md)
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165363
+revid: 165386
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -209,7 +209,7 @@ The Command Division of the Central Authority is known for their charismatic com
 
 #### Inquisition Division
 
-The Inquisition Divison of the Central Authority acts in the shadows, using their stealth and cunning to neutralize the opposition.
+The Inquisition Divison of the Central Authority acts in the shadows, using their stealth and cunning to neutralize the opposition, while also serving as the eyes and ears for the Central Authority.
 
 -   Obtainment
     -   Complete 10 Solo Missions
@@ -280,6 +280,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
     -   The cooldown is 24 real world hours, not one ingame day.
+    -   This is possibly a one piece reference
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
 -   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
@@ -484,7 +485,7 @@ Shock Corps Division
 -   You cannot craft any [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
     -   You can craft the [Authority Commander](Authority_Commander.md) Outfit if you are in the Command division however.
 -   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
-    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisa](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
+    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
 -   Because the Master Armors are immediately equipped upon joining your Division, if you craft any other Outfit while Exiled, they will be lost permanently.
 
 ## Reputation

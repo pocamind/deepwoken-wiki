@@ -1,6 +1,6 @@
 ---
 title: "Orlandeau's Emerald"
-revid: 151816
+revid: 165376
 source: https://deepwoken.fandom.com/wiki/Orlandeau's_Emerald
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -8,7 +8,7 @@ categories: [Items]
 
 # Orlandeau's Emerald
 
-| Orlandeleau's (Pity) Emerald | |
+| Orlandeau's (Pity) Emerald | |
 |---|---|
 | value | 30 / 1 / 0 (If previously sold.) |
 | weight | N/A |

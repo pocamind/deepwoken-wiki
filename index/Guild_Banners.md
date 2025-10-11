@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 150286
+revid: 165374
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -34,7 +34,7 @@ Standing near the banner will gradually empty the banner, at which point the ban
 ### Etrean Luminant:
 
 -   There is one outside of [Erisor's Church](<Erisor's_Church.md>) in [Erisia](Erisia.md).
--   One near [Etris](Etris.md), on the rocks on the way to the entrance to the Legion Camp located at [The Viper's Jaw](<The_Viper's_Jaw.md>).
+-   One near [Erisia](Erisia.md), on the rocks on the way to the entrance to the Legion Camp located at [The Viper's Jaw](<The_Viper's_Jaw.md>).
 -   One in the ruins next to the Ministry bandit camp above [Outpost Antumbra](Outpost_Antumbra.md).
 -   One at the top of the ice waterfall in [Minityrsa](Minityrsa.md), near the [Rogue Construct](Hive_Construct.md) and the [Jetstriker orb](Oath%253A_Jetstriker.md).
 -   Two near [The Birdcage](The_Birdcage.md).

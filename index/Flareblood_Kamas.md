@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 165070
+revid: 165368
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -44,7 +44,6 @@ The critical has a cooldown of 8 seconds.
 
 ## Trivia
 
--   The model and idea is derived from the [Dual Kamas](https://wiki.warframe.com/w/Dual_Kamas) from [Warframe](https://en.wikipedia.org/wiki/Warframe).
 -   The weapon itself, "[Kama](<https://en.wikipedia.org/wiki/Kama_(tool)>)" is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.
 -   The "Finishing Touch" Talent does work when using Flareblood Kamas.
 -   As 8/26/2025, it scales off bloodrend, making it the first weapon in the game that scales off attribute it doesn't require.

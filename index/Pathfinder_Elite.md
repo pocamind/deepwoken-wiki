@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 153823
+revid: 165383
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Drops, Coats]
@@ -32,4 +32,7 @@ This can be considered the preferred Monster hunting armor, being one of the ver
 
 ## Additional notes:
 
--   The unobtainable "Magenta Pathfinder Elite" cannot be [smelted](Transmogrification.md) onto another item. If you attempt to smelt it onto another item, you will be met with "Hm?! What is zis?!" dialogue by either [Jarvis](Jarvis.md) or an Artisan inside guildbase.
+-   The unobtainable "Magenta Pathfinder Elite" looks identical to black pathfinder elite if you still own one. The only thing different is its name.
+    -   It also cannot be [smelted](Transmogrification.md) onto another item. If you attempt to smelt it onto another item, you will be met with "Hm?! What is zis?!" dialogue by either [Jarvis](Jarvis.md) or an Artisan inside guild base.
+    -   Magenta pathfinder elite also has the same [pips](Equipment.md) as any other elite pathfinder, and can be enchanted.
+    -   If you try to put magenta pathfinder elite in a [bank](Item_Bank.md) or in your arms slot, it will be displayed as "Black pathfinder elite." However, unequipping it or withdrawing it from the bank will return it back to a "Magenta pathfinder elite."

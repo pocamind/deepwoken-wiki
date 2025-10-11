@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 165039
+revid: 165393
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -57,7 +57,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Command division:**
 
 <table>
 <tbody>
@@ -65,10 +65,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>The Capra sits alone, fiercely annotating a small pamphlet. You're convinced the quill is going to give way at any moment.</i> Hey, I told you to lay offjostling that leg about. If you tear those stitches again, I'll save you the trouble of having a leg at all. <b>A sharp smile runs across her face briefly. She's joking... Or at least, you assume she is.</b></td>
 </tr>
 <tr>
   <td>End</td>
@@ -76,7 +73,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 </tbody>
 </table>
 
-**Leadership division:**
+**Inquisiton division:**
 
 <table>
 <tbody>
@@ -84,10 +81,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*She pauses at your approach, a little stilled.* If Jericho's sent you, Inquisitor, the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</i></td>
 </tr>
 <tr>
   <td>End</td>
