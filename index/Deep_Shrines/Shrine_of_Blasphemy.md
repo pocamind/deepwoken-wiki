@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 165313
+revid: 165591
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -105,7 +105,7 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
   <td colspan="2">WHICH FRAGMENT WILL YOU DISCARD?</td>
 </tr>
 <tr>
-  <td colspan="2">[The player is prompted with all non-special <a href="../Boons_and_Flaws.md">Flaws</a> they have, upon choosing one...]</td>
+  <td colspan="2">[Player selects a non-special <a href="../Boons_and_Flaws.md">Flaw</a>]</td>
 </tr>
 <tr>
   <td colspan="2">THERE IS LITTLE MATERIAL TO WORK WITH, BUT WHAT WAS BROKEN HAS BEEN REPAIRED.</td>
@@ -181,7 +181,7 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
   <td colspan="2">WHICH FRAGMENT WILL YOU DISCARD?</td>
 </tr>
 <tr>
-  <td colspan="2">[The player is prompted with all non-special <a href="../Boons_and_Flaws.md">Flaws</a> they have, upon choosing one...]</td>
+  <td colspan="2">[Player selects a non-special <a href="../Boons_and_Flaws.md">Flaw</a>]</td>
 </tr>
 <tr>
   <td colspan="2">FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>

@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 165373
+revid: 165575
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -38,7 +38,9 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 **Authority Ensign:**
 
-**No division:** <table><tbody><tr><td colspan="6">Begin</td></tr><tr><td colspan="2">Player is a Private</td><td colspan="2">Player is a Corporal</td><td colspan="2">Player is a Lance Corporal</td></tr><tr><td colspan="2"><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Private / Corporal. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td><td colspan="2"></td><td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local Luminants. You salute him stringently.*</i><p>...You must be Lance Corporal [Last Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td></tr><tr><td colspan="2">End</td><td colspan="2"></td><td>Yes, Warden.</td><td>I'd like some time to think about it, Warden.</td></tr><tr><td colspan="2"></td><td colspan="2"></td><td>WIP</td><td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td></tr><tr><td colspan="2"></td><td colspan="2"></td><td>End, player has joined the Leadership division</td><td>End</td></tr></tbody></table>
+**No division:**
+
+**Private:**
 
 <table>
 <tbody>
@@ -46,13 +48,78 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>*You offer a stern salute to the Warden of the East. He responds with a formal salute.* Inquisitor. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor, first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
+  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Private. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>
 </tr>
 </tbody>
 </table>
+
+**Corporal:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Corporal. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Lance Corporal:**
+
+**Meets requirements:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local Luminants. You salute him stringently.*</i><p>...You must be Lance Corporal [Last Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
+</tr>
+<tr>
+  <td>Yes, Warden.</td>
+  <td>I'd like some time to think about it, Warden.</td>
+</tr>
+<tr>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.* Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Officer of the Central Authority. You will server under my direct supervision from now on.May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</i></td>
+  <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
+</tr>
+<tr>
+  <td>End, player joins Command Division</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Does not meet requirements:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Lance Corporal. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Command Division:**
+
+**Warrant Officer:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -80,23 +147,335 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
+**Subsequent Encounters:**
+
 <table>
 <tbody>
 <tr>
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> [Frontliner/Interceptor/Operator]. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
+  <td>WIP</td>
 </tr>
 <tr>
-  <td>End<p></p></td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Captain:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Commander:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Seneschal:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition Division:**
+
+**Inquisitor:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Inquisitor. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor, first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition 1st Class:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Handler:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shock Corps Division:**
+
+**Frontliner:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Frontliner. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Interceptor:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>colspan="1"</td>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Interceptor. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Operator:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>colspan="1"</td>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Handler. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -123,7 +502,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Hmpf. I'm impressed you've made it this far. Unfortunately for you... This is where your journey ends, interloper..</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End, player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 159610
+revid: 165589
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -28,6 +28,8 @@ This shrine acts like a [Mystic](../Mystic.md), allowing you to affect and influ
 
 ## Dialogue
 
+**Requirements Met:**
+
 <table>
 <tbody>
 <tr>
@@ -48,6 +50,24 @@ This shrine acts like a [Mystic](../Mystic.md), allowing you to affect and influ
 </tr>
 <tr>
   <td colspan="2">Gazing into your Heart... I see a new path. It shall avail itself to you sooner than you might think.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Requirements Unmet:**
+
+If the player is in [Trial of One](../Trial_of_One.md) and is not [Lone Warrior](../Lone_Warrior.md), Shrine of Solitude will say this instead.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The foreboding statue is silent.*</i></td>
 </tr>
 <tr>
   <td colspan="2">End</td>

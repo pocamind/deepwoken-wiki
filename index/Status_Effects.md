@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 165216
+revid: 165553
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -98,6 +98,10 @@ While under the effects of Void, you have anti-heal and perishing will send you 
 ### Fear
 
 Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by [Ardour Scream](Talents.md#murmur). Signified by pink/purple particles on your character.
+
+### Blinded
+
+Your range of vision is severely reduced, with everything far away from you being effectively pitch black. This effect is applied through many sources, such as: the [Blind](Boons_and_Flaws.md#flaws) Flaw, wearing a [Blindfold](Blindfold.md), being hit by [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam), or the [Light's Out](Talents.md#assassin) Talent.
 
 ### Temporary Health
 
@@ -350,6 +354,14 @@ Applied from the [Reinforce](Attunement-less.md#reinforce) Mantra and [Golden To
 
 If the caster has [Lord's Tithe](Talents.md#comrade) and buffs another player with [Reinforce](Attunement-less.md#reinforce), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. Signified by red Reinforce particles surrounding the body; this visual stacks with the base Reinforce visual.
 
+### Glorious Charge
+
+Applied through the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantra, all [squadmates](Authority_Ensign.md#squads) gain a [speed boost](#speed-boost) for 20 seconds and become unable to be knocked for 10. Signified by blue rings of light pulsing from your character.
+
+### Poison
+
+This effect is applied through the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra, though it's effects are currently unknown. Signified by green spirals on your character's body.
+
 ### Rallied
 
 All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#rally). Signified by your character emitting white circles.
@@ -393,6 +405,14 @@ Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_W
 ### Expeditious Combo
 
 While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant the Expeditious Combo status effect for 15 seconds. If you cast [Onslaught](Attunement-less.md#onslaught) during the duration of this effect, the speed of your attack will be massively increased, and your Expeditious Combo status effect will be consumed. This effect has no visual indicator, instead having a unique sound effect on uppercut. The duration of this effect can be viewed on your cooldown indicator.
+
+### Swift Strike
+
+When landing a backhit with your [Big Brother](Big_Brother.md) basic attack, gain the Swift Strike status effect. The next time you use your critical, it will be replaced with a backdash into a teleporting strike to your opponent's back, proccing all [assassination Talents](Talents.md#assassin) and dealing percentage based damage. This status effect has an indefinite duration but is consumed upon critical usage. You cannot gain the Swift Strike status effect while it is on cooldown. This effect has no visual indicator.
+
+### Pugnacious
+
+Upon landing an M1 with the [Warmonger](Warmonger.md), gain a variety of stat boosts for 5 seconds, with the potency of these effects scaling on how many combat tags you have. This status effect has no visual indicator. See the Warmonger page for more info.
 
 ### Bloodletting
 
@@ -478,6 +498,10 @@ Deal less damage to the player who Charmed you and deal 20% more damage to all o
 
 Apply charm every basic attack and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), thereby reducing your self-damage by 10%.
 
+#### Target Focus
+
+Applied from the [Target Focus](Talents.md#dread-imperium) Talent, your Charm increases the damage your [squadmates](Authority_Ensign.md#squads) deal to that charmed target. This effect has no visual indication.
+
 ### Intangible
 
 Gain brief invincibility frames after dodging an attack. Applied through the [Risky Moves](Talents.md#butterfly), [Ghost](Talents.md#butterfly), and [Dark Rift](Talents.md#darksiphon) Talents. Duration and visual effect depends on the source, but all have a 20 second cooldown. This effect is removed upon attacking. Dark Rift can also be procced by using [Deepsindle's](Deepspindle.md) running critical.
@@ -493,6 +517,18 @@ While under the effects of All the Dead Gods' [anti-heal](#anti-heal), all non-p
 ### Deep Wound
 
 Anti-Heal effect applied when being assassinated by a player who has the [Deep Wound](Talents.md#assassin) Talent. The Anti-Heal lasts 20 seconds. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a dark red smoke on your character.
+
+### Light's Out
+
+After landing an assassination, gain +30% PEN for 5 seconds. This effect is applied through the [Light's Out](Talents.md#assassin) Talent and is signified by your character gaining a purple outline.
+
+### Unseen Threat
+
+Applied through the [Unseen Threat](Talents.md#assassin) Talent, those you assassinate will be unable to jump and will be slowed for 3 seconds.
+
+### Flanking Maneuvers
+
+After assassinating your target, they will gain the Flanking Maneuvers status effect, taking increased PEN from your [squadmates](Authority_Ensign.md#squads). Applied through the [Flanking Maneuvers](Talents.md#inquisitive-lethality) Talent, this effect has no visual indicator.
 
 ### Paused Posture
 
@@ -545,6 +581,14 @@ Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though appl
 ### Precise Swing
 
 Applied through the [Precise Swing](Talents.md#duelist) Talent, this effect grants 25% additive chip damage to your next M1. The Precise Swing status effect lasts 30 seconds, but will be consumed if your next M1 lands, hit someone's block, or gets parried. This effect has no visual indicator.
+
+### Amp Overdrive
+
+When guard breaking your opponent or being guard broken yourself, the stun duration is doubled. This effect is applied from the [Amp Overdrive](Talents.md#operators-technique) Talent, signified by electricity shooting out of your character's body.
+
+### Shocking Reverb
+
+After meeting a damage threshold with Thundercall damage, gain the Shocking Reverb status effect. This effect nullifies damage taken by M1s and [Ironsing](Ironsing.md) for 15 seconds. Applied through the [Shocking Reverb](Talents.md#operators-technique) Talent, this effect is signified by your character being entirely enveloped in arcing bolts of electricity.
 
 ### Fight
 
@@ -662,9 +706,9 @@ These, almost always harmful, status effects are exclusively used by and applied
 
 Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Subtle_Knife_of_Eylis.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can be removed by hitting and breaking the center of the time bubble or by walking out of its range.
 
-### Poisoned
+### Venom
 
-This can be applied by being hit by the [Deep Widow's](Deep_Widow.md) venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
+This can be applied by being hit by the [Deep Widow's](Deep_Widow.md) venomous bite. While inflicted with venom, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for this.
 
 ### Magma Flow
 
@@ -684,7 +728,7 @@ The effects of this status effect depends on which [Attunement](Attunements.md) 
 -   [Thunderstruck](Monsters.md#attuned-monsters) - [Thundercall](Thundercall.md): Thunderstruck Monsters apply [Shock](#shock) on hit, making them very dangerous, especially in group settings. Additionally, Thunderstruck Monsters have 50% Thundercall resistance, but take double damage from Frostdraw. Signified by the Monster cackling with electricity.
 -   [Shadowmeld](Monsters.md#attuned-monsters) - [Shadowcast](Shadowcast.md): Shadowmeld Monsters steal ether on hit. Additionally, Shadowmeld Monsters have 50% Physical resistance, but take double damage from all Attunements. Signified by the Monster exuding a black aura.
 
-### Corrupted
+### [Corrupted](Monsters.md#scyphozia)
 
 Monsters within [The Depths](The_Depths.md) have a chance to spawn Corrupt, boasting a much higher health pool and increased damage. This chance is made guaranteed during [Hell Mode](Hell_Mode.md) and during your [Depths Trial](Cathedral_of_the_Interstice.md) if you have the Vow of Thorns or Deep Champion [Echo Modifiers](Echoes.md). Additionally, ringing the black bells within the [First Layer](First_Layer.md) will increase the odds of surrounding Monsters spawning corrupt. Signified by a dark purple aura on the Monster.
 

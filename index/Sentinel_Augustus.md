@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 165118
+revid: 165574
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -32,24 +32,41 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **No division:**
 
+**Private:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Player is a Private</td>
+  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Private? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
 </tr>
 <tr>
-  <td colspan="2"><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Private? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
-</tr>
-<tr>
-  <td colspan="2">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Corporal:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Corporal? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Lance Corporal:**
+
+**Meets requirements:**
 
 <table>
 <tbody>
@@ -60,7 +77,20 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>WIP</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>End, player joins [division name] Division</td>
+</tr>
+</tbody>
+</table>
+
+**Does not meet requirements:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Lance Corporal? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
 </tr>
 <tr>
   <td>End</td>
@@ -68,7 +98,11 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tbody>
 </table>
 
-**Leadership division:**
+**Command Division:**
+
+**Warrant Officer:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -90,7 +124,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tbody>
 </table>
 
-**Shock Corps division:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -99,6 +133,313 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tr>
 <tr>
   <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Captain:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Commander:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Seneschal:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition Division:**
+
+**Inquisitor:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition 1st Class:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Handler:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shock Corps Division:**
+
+**Frontliner:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Interceptor:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Operator:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
 </tr>
 <tr>
   <td>WIP</td>
@@ -110,8 +451,6 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </table>
 
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -138,7 +477,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>You must think yourself <i>*real*</i> sneaky, huh? Tsch. It's only too bad you ran straight into <b>me</b>, chump.</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End, player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>

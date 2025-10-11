@@ -1,6 +1,6 @@
 ---
 title: Ether
-revid: 163481
+revid: 165515
 source: https://deepwoken.fandom.com/wiki/Ether
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras]

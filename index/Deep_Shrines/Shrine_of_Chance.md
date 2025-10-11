@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 164589
+revid: 165590
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs, Mechanics]
@@ -57,6 +57,69 @@ Shrine of Chance
 -   You cannot trade away a Talent if it is a prerequisite of another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
 -   One of the most valuable Deep Shrines, this lets you obtain Talents you might have missed.
 -   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md), but was moved to Meteor Isle.
+
+## Dialogue
+
+**Requirements Met:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. WHAT DOES YOUR HEART DESIRE?</td>
+</tr>
+<tr>
+  <td colspan="2">[Shop UI opens]</td>
+</tr>
+<tr>
+  <td colspan="2">[player completes a <a href="#effectsdetails">deal</a>]</td>
+</tr>
+<tr>
+  <td colspan="2">THE CONTRACT IS COMPLETE.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Requirements Unmet:**
+
+**Unchosen Hand of Cards:**
+
+If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will appear, forcing them to choose a card before a deal can be made.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**No Eligible Talents:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Navigation
 

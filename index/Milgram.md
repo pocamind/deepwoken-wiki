@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 165423
+revid: 165561
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -23,7 +23,7 @@ Milgram is a [Adret](Adret.md) NPC, he is a part of the Inquisitor division, led
 
 ## Location
 
-Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding opposite of [Viridian](Viridian.md).
+Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 
 ## Dialogue
 
@@ -45,7 +45,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding oppo
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Command division:**
 
 <table>
 <tbody>
@@ -53,10 +53,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding oppo
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*They regard you with a half-lidded expression, reeking of haughtiness. As you salute them, they return you a distinctly uncaring, silent salute.*</i></td>
 </tr>
 <tr>
   <td>End</td>
@@ -64,7 +61,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding oppo
 </tbody>
 </table>
 
-**Leadership division:**
+**Inquisiton division:**
 
 <table>
 <tbody>

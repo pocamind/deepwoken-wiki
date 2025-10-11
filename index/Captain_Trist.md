@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 165044
+revid: 165559
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -65,7 +65,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Command division:**
 
 <table>
 <tbody>
@@ -84,7 +84,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
-**Leadership division:**
+**Inquisiton division:**
 
 <table>
 <tbody>

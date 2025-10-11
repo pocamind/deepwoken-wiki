@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 165421
+revid: 165558
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -113,7 +113,23 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Command division:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the COMMAND division, Commander [name]! Maybe the mind of Private [Authority Name] wasn't MUDDLED after all! I hope you make us all ""REAL DAMN PROUD"" with your tactical skills! The next time you talk to ""WARDEN JERICHO"". I'd appreciate it if you could put in a ""GOOD WORD"" in favour of the TRAINING GROUNDS getting some new TRAINING WEAPONS! ""THREE CHEERS!!!""</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisiton division:**
 
 <table>
 <tbody>
@@ -122,22 +138,6 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tr>
 <tr>
   <td><i>*You exchange salutes with Drill Sergeant Kernel.*</i> Looks like you've enlisted in the <b>INQUISITION</b> division, [Rank and Last name]! You must be as cunning as the proverbial <i><b>FOX</b></i>! At least, I <i>BELIEVE</i> that's the expression for the <b>HIGH INQUISITOR</b> uses! I hope you exercise <b>RESTRAINT</b> in your role!.. You know, it's hard to believe <b>HOW FAR</b> Private Flipper has come! If you see the <b>HIGH INQUISITOR</b>, tell her about you <b>CALLSIGN</b>, she'll <i><b>LOVE</b></i> it! <i><b>OORAH!!!</b></i></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Leadership division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>*You exchange stern salutes with Drill Sergeant Kernel.* It appears you've signed up for the COMMAND division, Commander [name]! Maybe the mind of Private [Authority Name] wasn't MUDDLED after all! I hope you make us all ""REAL DAMN PROUD"" with your tactical skills! The next time you talk to ""WARDEN JERICHO"". I'd appreciate it if you could put in a ""GOOD WORD"" in favour of the TRAINING GROUNDS getting some new TRAINING WEAPONS! ""THREE CHEERS!!!""</td>
 </tr>
 <tr>
   <td>End</td>

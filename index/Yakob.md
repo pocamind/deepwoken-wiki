@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 165037
+revid: 165581
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -35,25 +35,18 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 
 **No division:**
 
+**Private:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
-</tr>
-<tr>
-  <td>Player is a Private</td>
-  <td>Player is a Corporal</td>
-  <td>Player is a Lance Corporal</td>
+  <td>Begin</td>
 </tr>
 <tr>
   <td><i>*The Adret beckons you over, grinning.*</i> Yet another new face! Nice to see some more recruits, I've been to tired of taking double shifts on those ramparts. That sea wind really stings through armour, huh?</td>
-  <td>WIP</td>
-  <td><i>*The Adret beckons you over, feigning brushing a tear away.*</i> Hey, hey! Look at you climbing the ranks, like a Brainsucker flying the nest... Three cheers, soldier!</td>
 </tr>
 <tr>
   <td>Double shifts?</td>
-  <td></td>
-  <td>End</td>
 </tr>
 <tr>
   <td>Mm. It's been a while since we've had a ship of new recruits in. Warden did some pruning of the guard here - thought some of us would serve better on the frontline. Almost jealous I didn't get picked, but marching across sand all day in full kit sounds much worse than a trip to the Sawbones. Soon as you lot pulled up at the dock, there was an uproar - I swear, I don't think I've ever seen the folks here be this happy.</td>
@@ -64,7 +57,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Corporal:**
 
 <table>
 <tbody>
@@ -75,15 +68,30 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td>WIP</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
   <td>End</td>
 </tr>
 </tbody>
 </table>
 
-**Leadership division:**
+**Lance Corporal:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adret beckons you over, feigning brushing a tear away.*</i> Hey, hey! Look at you climbing the ranks, like a Brainsucker flying the nest... Three cheers, soldier!</td>
+</tr>
+<tr>
+  <td>End, player joins [division name] Division</td>
+</tr>
+</tbody>
+</table>
+
+**Command Division:**
+
+**Warrant Officer:**
 
 <table>
 <tbody>
@@ -99,44 +107,161 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 </tbody>
 </table>
 
-**Shock Corps division:**
+**Captain:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td>Player is a Frontliner</td>
-  <td>Player is a Interceptor</td>
-  <td>Player is a Operator</td>
+  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Leadership giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Commander:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Leadership giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Seneschal:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
 </tr>
 <tr>
   <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition Division:**
+
+**Inquisitor:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>*The Adret waves at you, cheerful.* Hey, Inquisition giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition 1st Class:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>*The Adret waves at you, cheerful.* Hey, Inquisition giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Handler:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
   <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shock Corps Division:**
+
+**Frontliner:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Shock Corps giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Interceptor:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Shock Corps giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Operator:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
   <td><i>*The Adret salutes with pride.*</i> Operator!</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
   <td>At ease, soldier.</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
   <td><i>*Although on the surface, you may be bound by your ranks, you catch a glimpse of a small, earnest smile, as if you were two friends sharing a private joke among yourselves.*</i></td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
   <td>End</td>
 </tr>
 </tbody>
 </table>
 
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>

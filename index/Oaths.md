@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 165104
+revid: 165525
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -217,7 +217,7 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 
 ## Warmaster
 
--   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, confirmed by Ragoozer, and is very possible to come alongside or be related to the Authority Origin.
+-   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, as said by Ragoozer.
 -   One notorious user of this Oath is Warden Jericho (Also confirmed by Ragoozer), as seen in his journal and by the dialogue of the [Windrunner](Windrunner.md).
 -   Similar to Blindseer being the counter-Oath to Visionshaper, there is a high chance of this Oath having the same relationship the Contractor Oath due to the fact that the Windrunner explains that the two Oaths are inherently against each other, and in the [Journal of Jericho](Tomb_of_the_Nameless_Warrior.md) explaining that the Warden is trying to stop the Contractors, being Zi'eer (Lord regent) and his puppets (Contractor Players).
 -   It is known that the source of power of the Oath is something called "The Circle of Honor", it is not known if its related to the Authority or not, but they are confirmed to be the source and creators of the Warmaster Oath.

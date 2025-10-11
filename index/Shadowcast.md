@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 162638
+revid: 165511
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -567,6 +567,7 @@ Shadow + Slash
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), making you lunge forward and slam down on the enemy.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
 -   You **can** combine the [Spring](Mantra_Modifiers.md#sparks) and [Multiplying Sparks](Mantra_Modifiers.md#sparks) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
+-   Can be modified with [Reversal Spark](Mantra_Modifiers.md#reversal-spark), but it's currently unknown what it does.
 
  |
 | 

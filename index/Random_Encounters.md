@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 165377
+revid: 165602
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -137,6 +137,12 @@ Groups of NPCs from different factions will spawn in Eastern Luminant and attack
 #### Songseeker
 
 In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, which will be [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
+
+#### Maljuror
+
+In the [Ancient Rotlands](Ancient_Rotlands.md), [an enemy](Maljuror.md) may spawn, that utilises the [Flamecharm](Flamecharm.md) [attunement](Attunements.md) and wields the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing him grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [spark](Mantra_Modifiers.md) or with a small chance his [signature weapon](Kindred_Edict.md).
+
+**Main page: [Maljuror](Maljuror.md)**
 
 #### Legion Sniper
 

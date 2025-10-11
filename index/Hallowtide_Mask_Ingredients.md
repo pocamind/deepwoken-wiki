@@ -1,9 +1,11 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 156468
+revid: 165543
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items, Hallowtide]
+categories: [Weapons, Event Only Content, Items, Hallowtide]
+notices:
+  - "This page contains Event Exclusive Content This event will only likely be ran once, and as such is exclusive to those who attended the event."
 ---
 
 # Hallowtide Mask Ingredients
@@ -44,21 +46,7 @@ categories: [Weapons, Items, Hallowtide]
 | obtainment | All Chests |
 | description | An odd shell with a cardboard like texture. Why has no one found this before? |
 
-| Hallowtide Mask | |
-|---|---|
-| type | Quest Item |
-| selling price | N/A |
-| weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
-| obtainment | Completing Lysander Spellhardt's Initial Hallowtide quest |
-| description | It's crude... But maybe that adds to the scare-factor? |
-
-### Note that the Deepwoken Hallowtide 2022 event has concluded.
-
-These items are generally used for the Deepwoken Halloween 2022+2024 event to complete the Hallowtide quest.
+These items are used for the Deepwoken [Hallowtide](Hallowtide.md) 2022-2024 event to craft the [Hallowtide Mask](Hallowtide_Mask.md).
 
 **Fine Ink:**
 
@@ -77,17 +65,6 @@ This is an item found within chests of any mob (depths included), used for the H
 ## Description
 
 This is an item found within chests of any mob (depths included), used for the Halloween 2022 quest. The item cannot be used further besides the quest at the moment. This item can be dropped.
-
-**Hallowtide Mask:**
-
-## Description
-
-This is used to scare any interactable NPC (guards do not count) throughout the game by interacting with them as normal. All NPCs have a 30 minutes cooldown before they can be scared again. Each time you scare an NPC you are given 3 Joy (Hallowtide Mask Quest Progression). This is obtained by bringing fine ink, paperette, and shell stock to Lysander Spellhardt in The Floating Keep. When bringing all three items to such NPC you are given this mask. The mask comes in 3 variants: [Mudskipper](Mudskipper.md), [Deep Owl](Deep_Owl.md) and [Primadon](Primadon,_Titan_of_the_East.md)
-
-  
-_NOTE: the Hallowtide aspect variant saves across all slots and aspects (for example, if you get Hallowtide variant on one slot, you have it on every slot, even on different aspects)._
-
-_(After the Event is over?) The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless._
 
 ## Trivia
 

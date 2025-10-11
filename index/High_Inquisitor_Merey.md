@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 165280
+revid: 165573
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -34,43 +34,86 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 
 **No division:**
 
+**Private:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Player is a Private</td>
-  <td colspan="2">Player is a Corporal</td>
-  <td colspan="2">Player is a Lance Corporal</td>
+  <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
-  <td colspan="2"></td>
-  <td colspan="2"><i>*You recognize the shadow-clad Canor woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor Merey Scarsen. You offer a salute.*</i> ...Ah, you must be... Lance Corporal [Second Name] was it? Very good, I had just finished over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
-</tr>
-<tr>
-  <td colspan="2">End</td>
-  <td colspan="2"></td>
-  <td>Yes, High Inquisitor.</td>
-  <td>I'd like some time to think about it, High Inquisitor</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td colspan="2"></td>
-  <td><i>*You salute the High Inquisitor. She offers a solem, graceful salute in return.*</i> Very well, Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Inquisitor of The Central Authority. You shall now serve under my supervision. May you be the faithful eyes and ears of the Authority, may you act as it's rentless, haunting shadow, and may you slice apart with measured blade the chains that seek to bind us. You may report back to me at your discretion.</td>
-  <td><i>*The High Iqnuisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.*</i> Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td colspan="2"></td>
-  <td>End, player has joined the Inquisition division</td>
   <td>End</td>
 </tr>
 </tbody>
 </table>
 
-**Command division:**
+**Corporal:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Lance Corporal:**
+
+**Meets requirements:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*You recognize the shadow-clad Canor woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor Merey Scarsen. You offer a salute.*</i> ...Ah, you must be... Lance Corporal [Ensign Name] was it? Very good, I had just finished over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
+</tr>
+<tr>
+  <td>Yes, High Inquisitor.</td>
+  <td>I'd like some time to think about it, High Inquisitor.</td>
+</tr>
+<tr>
+  <td><i>*You salute the High Inquisitor. She offers a solem, graceful salute in return.*</i> Very well, Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Inquisitor of The Central Authority. You shall now serve under my supervision. May you be the faithful eyes and ears of the Authority, may you act as it's rentless, haunting shadow, and may you slice apart with measured blade the chains that seek to bind us. You may report back to me at your discretion.</td>
+  <td><i>*The High Iqnuisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.*</i> Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.</td>
+</tr>
+<tr>
+  <td>End, player joins Inquisition Division</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Does not meet requirements:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Command Division:**
+
+**Warrant Officer:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -86,7 +129,129 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tbody>
 </table>
 
-**Inquisition division:**
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Captain:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Commander:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Seneschal:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition Division:**
+
+**Inquisitor:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -120,7 +285,95 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tbody>
 </table>
 
-**Shock Corps division:**
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition 1st Class:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Handler:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shock Corps Division:**
+
+**Frontliner:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -136,9 +389,91 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tbody>
 </table>
 
-**Not Authority Ensign:**
+**Subsequent Encounters:**
 
-**Good Authority Reputation:**
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Interceptor:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Operator:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Not Authority Ensign:**
 
 <table>
 <tbody>
@@ -165,7 +500,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Lost, mouse? Let me show you the way out.</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End, player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>

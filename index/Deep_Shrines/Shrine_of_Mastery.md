@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 164694
+revid: 165585
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -58,6 +58,8 @@ Shrine of Mastery has two different effects.
 
 ## Dialogue
 
+**Requirements Met:**
+
 <table>
 <tbody>
 <tr>
@@ -67,8 +69,8 @@ Shrine of Mastery has two different effects.
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
 </tr>
 <tr>
-  <td>I wish to reevalute my Traits.</td>
-  <td>I wish to reevalute my Attributes.</td>
+  <td>I wish to reevaluate my Traits.</td>
+  <td>I wish to reevaluate my Attributes.</td>
 </tr>
 <tr>
   <td>CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH.</td>
@@ -79,6 +81,44 @@ Shrine of Mastery has two different effects.
 </tr>
 <tr>
   <td colspan="2">THE CONTRACT IS COMPLETE. WASTE.</td>
+</tr>
+<tr>
+  <td colspan="2">End, player loses 1 to refund a Trait or Attribute point</td>
+</tr>
+</tbody>
+</table>
+
+**Requirements Unmet:**
+
+**Unchosen Hand of Cards / Not Enough Knowledge:**
+
+If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will appear, forcing them to choose a card before a deal can be made. Alternatively, if the player does not have enough Knowledge, this dialogue will also appear.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**No Invested Attributes / Traits:**
+
+If the player has not invested any Attribute or Trait points, this dialogue will appear.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
 </tr>
 <tr>
   <td colspan="2">End</td>

@@ -1,25 +1,33 @@
 ---
 title: Hallowtide Mask
-revid: 153523
+revid: 165541
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Hallowtide]
+categories: [Event Only Content, Items, Hallowtide]
+notices:
+  - "This page contains Event Exclusive Content This event will only likely be ran once, and as such is exclusive to those who attended the event."
 ---
 
 # Hallowtide Mask
 
 | Hallowtide Mask | |
 |---|---|
-| usage | Joy Obtainment |
+| type | Quest item |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | It's crude... But maybe that adds to the scare-factor? |
 | obtainment | Lysander Spellhardt |
 
 ## Description
 
-Hallowtide Masks are Tools obtained from [Lysander Spellhardt](Lysander_Spellhardt.md) during [Hallowtide](Hallowtide.md). It can be used to spook NPCs (Each spook grants you 3 [Joy](Joy.md)). All NPCs have a 30 minutes cooldown before they can be scared again. The mask can be worn whenever but cannot spook NPCs unless it is Hallowtide.
+The Hallowtide Mask is a Tool obtained from [Lysander Spellhardt](Lysander_Spellhardt.md) during [Hallowtide](Hallowtide.md). It can be used to spook NPCs. Each spook grants you 3 [Joy](Joy.md). All NPCs have a 30 minute cooldown before they can be scared again. The mask can be worn whenever but cannot spook NPCs unless it is Hallowtide.
+
+Dynamic/non-human NPCs such as Town Guards or the friendly [Kyrsgarde](Kyrsgarde.md) will act as normal and not be scared. This does not grant Joy.
 
 ## Obtainment
 
-A Hallowtide mask can be crafted by bringing a Paperette, Fine Ink, and Shell Stock to Lysander Spellhardt in The Floating Keep. When bringing all three items to such
+A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingredients.md), [Fine Ink](Hallowtide_Mask_Ingredients.md), and [Shell Stock](Hallowtide_Mask_Ingredients.md) to Lysander Spellhardt in [The Floating Keep](The_Floating_Keep.md). When bringing all three items to him, he will give you the mask.
 
 ## Scare Reactions
 
@@ -43,6 +51,7 @@ A Hallowtide mask can be crafted by bringing a Paperette, Fine Ink, and Shell St
 
 ## Trivia
 
+-   After the event is over, the Hallowtide Mask no longer scares NPCs whatsoever, though the item may be equipped regardless.
 -   Certain special NPCs are unable to be spooked and instead give special dialogue. The list of characters that do this are as follows:
     -   [The Lord Regent](The_Lord_Regent.md)
     -   [Evengarde Rest](Evengarde_Rest.md)
@@ -57,5 +66,3 @@ A Hallowtide mask can be crafted by bringing a Paperette, Fine Ink, and Shell St
     -   [Jarvis](Summer_Isle.md#the-furnace)
     -   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
     -   [Stratos](Stratos.md)
-
--   Dynamic/non-human NPCs such as Town Guards or the friendly [Kyrsgarde](Kyrsgarde.md) completely ignore the fact you're supposed to be scary towards them and act as normal.

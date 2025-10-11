@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 165062
+revid: 165563
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -27,6 +27,16 @@ The Glossary can be accessed by opening your Encyclopedia with the button on the
 
 Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Song of Fathoms / Oscillation](Books.md#song-of-fathoms--oscillation) | Glossary Entries:
 
+### The Celestials
+
+-   The former inhabitants of the [Heavens](#the-heavens) above. Similar in many ways to Mankind, but of a different species altogether.
+-   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
+-   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
+-   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
+-   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
+
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+
 ### Deepwoken
 
 -   Those that have merged with a small fragment of a [Drowned God](#the-drowned-gods), ageless immortals that understand the [Song](#the-song) in ways others cannot.
@@ -45,6 +55,21 @@ Dialogue: | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty)
 -   The Drowned God Ethiron is thought to preside over [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
 Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer)
+
+### Ethiron, the Maelstrom's Eye
+
+-   A [Drowned God](#the-drowned-gods) said to preside over Wind.
+-   Their gales are said to drag even Time itself into their wake.
+-   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
+
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+
+### The High Convocation
+
+-   The leadership body of the [Citadel](#the-citadel-of-markor) of Markor, the [High Convocation](#the-high-convocation) is a council of retired senior staff drawn from the Citadel's various divisions.
+-   Members of the [High Convocation](#the-high-convocation) are known as [Convocants](#the-high-convocation).
+
+Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [The Citadel of Markor](#the-citadel-of-markor), [The High Convocation](#the-high-convocation)
 
 ### Korilfiend, the Inferno's Provenance
 
@@ -69,31 +94,6 @@ Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | B
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsgarde](#kyrsgarde)
-
-### The Celestials
-
--   The former inhabitants of the [Heavens](#the-heavens) above. Similar in many ways to Mankind, but of a different species altogether.
--   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
--   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
--   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
--   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
-
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
-
-### The High Convocation
-
--   The leadership body of the [Citadel](#the-citadel-of-markor) of Markor, the [High Convocation](#the-high-convocation) is a council of retired senior staff drawn from the Citadel's various divisions.
--   Members of the [High Convocation](#the-high-convocation) are known as [Convocants](#the-high-convocation).
-
-Dialogue: | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [The Citadel of Markor](#the-citadel-of-markor), [The High Convocation](#the-high-convocation)
-
-### Ethiron, the Maelstrom's Eye
-
--   A [Drowned God](#the-drowned-gods) said to preside over Wind.
--   Their gales are said to drag even Time itself into their wake.
--   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
-
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### Kyrsgarde
 
@@ -169,6 +169,12 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
 
+### The King of Etrea
+
+-   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than mines.
+
+Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
+
 ### Mur of Light
 
 -   A Goddess worshipped by many in the [Etrean Luminant](#the-etrean-luminant).
@@ -185,18 +191,12 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 
 Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
-### Thalassis
+### The Acolyte
 
 -   The Acolyte is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
 -   This post is currently held by Thal'assis Linnaes.
 
 Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries:
-
-### The King of Etrea
-
--   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than mines.
-
-Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
 
 ### Zhatarn, the Moonlight Prince
 
@@ -258,6 +258,7 @@ Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Puni
 -   Discovered by Klaris, the Radiant Tones are the foundations behind the Dawnwalker Oath.
 -   The Radiant Tones are said to be a Verse of the [Song](#the-song) that can reproduce Light.
 -   According to research conducted by the [Divers](#the-divers), they believe that Lightkeepers use it latently for their abilities.
+-   Dawnwalkers emulate Lightkeepers, and while unable to produce Light, their abilities are very effective in fighting back The Deep.
 
 Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
 
@@ -309,6 +310,13 @@ Dialogue: [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye
 
 Dialogue: [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
 
+### The Old World
+
+-   The times before the [Tides](#the-tides) arrived.
+-   The Canticlysm is often thought of as the defining era of the Old World.
+
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Luminants](#the-luminants)
+
 ### The Resurgence
 
 -   The current period of history, usually dated around the fifth century BCE with mankind's adaptation to the new state of the world.
@@ -321,13 +329,6 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries:
 -   Pushed to the very peaks of the world, mankind died in its droves to famine, conflict, and the horrors of the [Depths](#the-depths) that emerged with the [Tides](#the-tides).
 
 Dialogue: | Books: [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries:
-
-### The Old World
-
--   The times before the [Tides](#the-tides) arrived.
--   The Canticlysm is often thought of as the defining era of the Old World.
-
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Luminants](#the-luminants)
 
 ## Phenomena
 
@@ -363,6 +364,16 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 
 Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Luminants](#the-luminants)
 
+### The Drowned City of Celtor
+
+-   Formerly the capital of the Celtor peoples, now a site of pilgrimage for those lost to the [Depths](#the-depths).
+-   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
+-   The City of Celtor was dragged down from the Surface to the Depths in an event known as the [Submergence of Celtor](#the-submergence-of-celtor) in 904 CE.
+-   The City Guard speak of a deal, presumably a [Vow,](#vows) that they struck in order to keep the City safe.
+-   The guards are prevented from dispatching the monstrosities that stalk the city by the deal they struck.
+
+Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
+
 ### Constellia, the Guiding Star
 
 -   One of the largest [Celestial](#the-celestials) cities in the [Heavens](#the-heavens).
@@ -385,6 +396,12 @@ Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their 
 -   Due to the anomalous metaphysics of the Voidsea, Driftlands often appear to be unscathed by the effects of time, almost as if their time in the Void was a frozen moment.
 
 Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries:
+
+### The Eastern Luminant
+
+-   Often, due to the large mountain range that runs across the middle, the side that contains the Kingdom of Etrea is known as the [Etrean Luminant](#the-etrean-luminant).
+
+Dialogue: [Hector](Hector.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Tale of the Storm](Books.md#tale-of-the-storm), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Etrean Luminant](#the-etrean-luminant)
 
 ### The Echelon
 
@@ -422,6 +439,14 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: |
 
 Dialogue: | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [Thalassis](#thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
 
+### Lumen
+
+-   The world you call home.
+-   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
+-   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
+
+Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
+
 ### The Luminants
 
 -   Akin to continents, the Luminants are the remaining regions of [Lumen](#lumen) that haven't been claimed by the [Voidsea](#the-voidsea).
@@ -437,6 +462,14 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef 
 -   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
 
 Dialogue: | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light)
+
+### The Nightsea
+
+-   The inky black seas of the [Heavens](#the-heavens) above. Studded with twinkling points of light known as Stars.
+-   When night falls and the [Suncross](#the-suncross) retreats into the [Voidfog](#the-voidfog), the Nightsea becomes visible from the [Surface](#the-surface) below.
+-   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
+
+Dialogue: | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [The Heavens](#the-heavens)
 
 ### The Northern Luminant
 
@@ -500,38 +533,6 @@ Dialogue: [Alastir](Alastir.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](
 
 Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials)
 
-### The Drowned City of Celtor
-
--   Formerly the capital of the Celtor peoples, now a site of pilgrimage for those lost to the [Depths](#the-depths).
--   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
--   The City of Celtor was dragged down from the Surface to the Depths in an event known as the [Submergence of Celtor](#the-submergence-of-celtor) in 904 CE.
--   The City Guard speak of a deal, presumably a [Vow,](#vows) that they struck in order to keep the City safe.
--   The guards are prevented from dispatching the monstrosities that stalk the city by the deal they struck.
-
-Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
-
-### Lumen
-
--   The world you call home.
--   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
--   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
-
-Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
-
-### The Nightsea
-
--   The inky black seas of the [Heavens](#the-heavens) above. Studded with twinkling points of light known as Stars.
--   When night falls and the [Suncross](#the-suncross) retreats into the [Voidfog](#the-voidfog), the Nightsea becomes visible from the [Surface](#the-surface) below.
--   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
-
-Dialogue: | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [The Heavens](#the-heavens)
-
-### The Eastern Luminant
-
--   Often, due to the large mountain range that runs across the middle, the side that contains the Kingdom of Etrea is known as the [Etrean Luminant](#the-etrean-luminant).
-
-Dialogue: [Hector](Hector.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Tale of the Storm](Books.md#tale-of-the-storm), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Etrean Luminant](#the-etrean-luminant)
-
 ## Terminology
 
 ### The Divers
@@ -540,6 +541,15 @@ Dialogue: [Hector](Hector.md) | Books: [Lumen's Folklore: Volume 'Attunement'](B
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
 Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+
+### The Moonlit Dialect
+
+-   The native dialect of the [Lullaby Isles](#the-lullaby-isles), scarcely found outside of its walls.
+-   The term 'Th'Ambulo', and 'Th'Armati' can be roughly translated to 'the upright', referring to non-Hivekin, and 'the armoured', referring to Hivekin.
+-   The term 'ultramontes' can be translated as 'beyond', or literally 'beyond-the-mountains'.
+-   'Aecta' (plural 'Aecti') refers to a Chrysid who lives natively within the [Lullaby Isles](#the-lullaby-isles).
+
+Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) player name with the Surname "Aecta" or "Aecti" | Books: [Ossuary Maintenance](Books.md#ossuary-maintenance), [Strange Missives](Books.md#strange-missives) | Glossary Entries:
 
 ### Pathfinders
 
@@ -562,16 +572,6 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Eylis](Eylis,_the_Punished_D
 
 Dialogue: [Eastern Camp Master](Cheral.md) | Books: | Glossary Entries:
 
-### The Moonlit Dialect
-
--   The native dialect of the [Lullaby Isles](#the-lullaby-isles), scarcely found outside of its walls.
--   The term 'Th'Ambulo', and 'Th'Armati' can be roughly translated to 'the upright', referring to non-Hivekin, and 'the armoured', referring to Hivekin.
--   The term 'ultramontes' can be translated as 'beyond', or literally 'beyond-the-mountains'.
--   'Aecta' (plural 'Aecti') refers to a Chrysid who lives natively within the [Lullaby Isles](#the-lullaby-isles).
-
-Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) player name with the Surname "Aecta" or "Aecti" | Books: [Ossuary Maintenance](Books.md#ossuary-maintenance), [Strange Missives](Books.md#strange-missives) | Glossary Entries:
-
 ## Trivia
 
 -   In many cases, the word "city" links to _The Drowned City of Celtor_ even if the city the dialogue was referring to wasn't Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.
--   In a shadow update, the glossary entry "The Acolyte" was renamed to "Thalassis."

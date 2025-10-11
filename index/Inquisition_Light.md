@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 165470
+revid: 165600
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -17,7 +17,7 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3200 |
-| resistances | 30% Physical Armor, 30% Elemental Armor, 10% Shadow Armor, 10% Ironsing Armor, 10% Blood Armor |
+| resistances | 30% Physical Armor, 35% Elemental Armor, 10% Shadow Armor, 10% Ironsing Armor, 10% Blood Armor |
 | buffs | +15% Ether Regen |
 | talents | Lethal Dose |
 | obtainment | Authority Ensign, Inquisition Division |
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance, +30% Elemental resistance, +10% Shadow resistance, +10% Ironsing resistance, +10% Blood resistance, and +15% Ether Regen.
+This Outfit has 3500 durability and grants +30% Physical resistance, +35% Elemental resistance, +10% Shadow resistance, +10% Ironsing resistance, +10% Blood resistance, and +15% Ether Regen.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 37% Shadowcast, 37% Ironsing, 37% Bloodrend, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 41.5% Shadowcast, 41.5% Ironsing, 41.5% Bloodrend, and 35% Elemental.
 
 The [Lethal Dose](Talents.md#equipment-talents) Talent doubles the duration of your poison from your hidden blade.
 

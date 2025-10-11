@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 165461
+revid: 165562
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -11,9 +11,9 @@ categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Wea
 | Kindred Edict | |
 |---|---|
 | type | Sword |
-| requirements | 30 BDY, 50 MED |
+| requirements | 50 MED, 30 BDY |
 | damage | 17 |
-| scaling | ? |
+| scaling | MED: 5, BDY: 4.5 |
 | range | 7.5 |
 | swing speed | 1.05x |
 | penetration | 10% |
@@ -22,7 +22,7 @@ categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Wea
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | selling price | 50 |
-| weight | 3 |
+| weight | 4.5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

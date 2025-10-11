@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 165041
+revid: 165557
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -63,7 +63,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Inquisitor division:**
+**Command division:**
 
 <table>
 <tbody>
@@ -82,7 +82,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Leadership division:**
+**Inquisiton division:**
 
 <table>
 <tbody>
