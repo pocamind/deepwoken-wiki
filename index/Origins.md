@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 164906
+revid: 165468
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation, Origins]
@@ -16,7 +16,15 @@ categories: [Character, Mechanics, Creation, Origins]
 
 [Castaway](Castaway.md)
 
+[Castaway](Castaway.md)
+
 [Lone Warrior](Lone_Warrior.md)
+
+[Lone Warrior](Lone_Warrior.md)
+
+[Lone Warrior](Lone_Warrior.md)
+
+[Deepbound](Deepbound.md)
 
 [Deepbound](Deepbound.md)
 
@@ -24,9 +32,19 @@ categories: [Character, Mechanics, Creation, Origins]
 
 [Voidwalker](Voidwalker.md)
 
-[IgnitionDelver](Ignition_Delver.md)
+[Voidwalker](Voidwalker.md)
+
+[Voidwalker](Voidwalker.md)
 
 [Ignition Delver](Ignition_Delver.md)
+
+[Ignition Delver](Ignition_Delver.md)
+
+[Ignition Delver](Ignition_Delver.md)
+
+[Authority Ensign](Authority_Ensign.md)
+
+[Authority Ensign](Authority_Ensign.md)
 
 [Authority Ensign](Authority_Ensign.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 165391
+revid: 165505
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -46,8 +46,6 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 -   40 = Level 3 Mantra
 -   60 = Level 4 Mantra
 -   80 = Level 5 Mantra
-
-  
 
 ## Base Attunements
 

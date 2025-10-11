@@ -1,9 +1,9 @@
 ---
 title: The Pastry Paster
-revid: 157012
+revid: 165465
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons, "Core-Attribute based weapons"]
 ---
 
 # The Pastry Paster

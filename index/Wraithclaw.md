@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 156945
+revid: 165472
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
@@ -40,7 +40,7 @@ The Wraithclaw comes with a single passive ability:
 -   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
     -   If you have the After Cut Talent, your M1 attacks will apply an After Cut dealing 10% of the initial attack instead of the usual 5%.
 
-Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but critical attacks stay unchanged and do not switch depending on your style.
+Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but critical attacks stay unchanged and do not switch depending on your style. The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on Wraithclaw.
 
 With the minimum stat requirement (25 LHT & 75 WND) to equip the weapon, the weapon will deal 23.4 damage.
 
@@ -75,17 +75,13 @@ Both of these criticals are classified as _basic attacks_, which means they bene
 
 Both criticals share the cooldown of **10 seconds**.
 
-  
-
 ## Trivia
 
 -   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas. Or the weapon might be inspired by the Marvel comics character, Wolverine, specifically his metal claws of similar design.
+-   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and is replaced by the chained gauntlet.
 
--   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and are replaced by the chained gauntlet.
-    
--   It seems as if your slot has Mute regalia (animal king), Grudge will not spawn on you. (needs more testing)
+-   It seems as if your slot has [Mute](Regalia.md) regalia (animal king), Grudge will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
 -   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
--   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on Wraithclaw.

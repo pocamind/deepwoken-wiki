@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 165288
+revid: 165438
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Harvestables]

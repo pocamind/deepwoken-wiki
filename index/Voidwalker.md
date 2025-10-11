@@ -1,9 +1,9 @@
 ---
 title: Voidwalker
-revid: 165107
+revid: 165469
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Origins, Character, The Knives of Eylis]
+categories: [Origins, Character, The Knives of Eylis]
 ---
 
 # Voidwalker
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Origins, Character, The Knives of Eyl
 > “ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
 > 
 > ― Origin description
-
-File:Voidwalker Spawn Icon.png
 
 _**If you're looking on how to get rid of Voidwalkers - visit the [Bounty Hunting](Bounty_Hunting.md) page instead.**_
 

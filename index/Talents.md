@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 165339
+revid: 165456
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4047,7 +4047,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
--   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
+-   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) & [Kindred Edict](Kindred_Edict.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
     -   Adds a new sound effect to Prominence Draw.
 

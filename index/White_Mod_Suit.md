@@ -1,9 +1,9 @@
 ---
 title: White Mod Suit
-revid: 162210
+revid: 165498
 source: https://deepwoken.fandom.com/wiki/White_Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Outfits, Spec/Mod Outfits]
+categories: [Exclusive, Outfits, Exclusive Outfits]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---

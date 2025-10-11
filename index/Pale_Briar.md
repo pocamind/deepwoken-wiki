@@ -1,9 +1,9 @@
 ---
 title: Pale Briar
-revid: 165228
+revid: 165458
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
+categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Pale Briar

@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 165409
+revid: 165470
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -24,7 +24,7 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 | selling_price | 10 |
 | weight | 1 |
 
-**Inquisition Light** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive the the [Authority Ensign](Authority_Ensign.md) Origin.
+**Inquisition Light** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 
