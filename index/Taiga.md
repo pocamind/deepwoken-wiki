@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 165393
+revid: 165619
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -81,7 +81,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*She pauses at your approach, a little stilled.* If Jericho's sent you, Inquisitor, the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</i></td>
+  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>

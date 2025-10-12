@@ -1,9 +1,9 @@
 ---
 title: Maljuror
-revid: 165605
+revid: 165627
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Monsters, Enemies]
+categories: [In progress without reason, InProgressPages, Monsters, Enemies, Random Encounters, Eastern Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -62,6 +62,7 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
 -   **OH, STARS... YOU BRING ME FORTUNE...**
 -   **KIN... PLEASE... GRANT ME RELEASE FROM THIS STATE...**
+-   TBA
 
 ## Trivia
 

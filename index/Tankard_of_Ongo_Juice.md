@@ -1,6 +1,6 @@
 ---
 title: Tankard of Ongo Juice
-revid: 164671
+revid: 165614
 source: https://deepwoken.fandom.com/wiki/Tankard_of_Ongo_Juice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Food, Items]
@@ -13,7 +13,7 @@ notices:
 | Tankard of Ongo Juice | |
 |---|---|
 | weight | 2 |
-| stack | x? |
+| stack | x10 |
 | type | Food |
 | food type | Generic |
 | stomach | 2% |

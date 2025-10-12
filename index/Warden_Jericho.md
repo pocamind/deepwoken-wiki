@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 165575
+revid: 165609
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -89,7 +89,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>I'd like some time to think about it, Warden.</td>
 </tr>
 <tr>
-  <td><i>*You salute the Warden. His own salute radiates brilliance.* Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Officer of the Central Authority. You will server under my direct supervision from now on.May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</i></td>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Officer of the Central Authority. You will server under my direct supervision from now on.May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</td>
   <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
 </tr>
 <tr>

@@ -1,11 +1,9 @@
 ---
 title: Rite of Authority
-revid: 165402
+revid: 165634
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
 ---
 
 # Rite of Authority
@@ -37,13 +35,13 @@ The Rite of Authority is a MED weapon in the Sword category that can be obtained
 
 ## Critical
 
-Perform a Thundercall-infused uppercutting slash with an 0.7x scaled damage modifier that ragdolls and shocks on hit. If this attack lands, leap into the air and plunge downwards, striking your opponent a second time for 1x scaled damage and applying shock again.
+The user performs a Thundercall-infused upslash, shocking the opponent and sending them flying. If the attack lands, the user leaps into the air and plunges downwards, striking and shocking the opponent again.
 
-The second hit additionally has 13.9 Thundercall scaling on top of your already scaled damage, allowing for a significant amount of damage at high investment.
+The first hit has 0.7x scaled damage, The second hit additionally has 13.9 Thundercall scaling on top of its 1x scaled damage, allowing for a significant amount of damage at high investment.
 
 If the first hit is blocked, it will deal 3 posture damage and won't progress to the second hit. If the second hit is blocked, it will deal 9.5 posture damage.
 
-This critical will turn blue if the user has [Surge Path](Talents.md#unstable-capacitor) with the shock being replaced with Surge Rods.
+This critical will turn blue if the user has [Surge: Unstable Capacitor](Talents.md#unstable-capacitor) with the shock being replaced with Surge Rods.
 
 The critical has a cooldown of **3 seconds**.
 

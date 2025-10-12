@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 165416
+revid: 165608
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -68,7 +68,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
   <td colspan="5">I am [Rank and Full name].</td>
 </tr>
 <tr>
-  <td colspan="5">TBA</td>
+  <td colspan="5"><i>*Interceptor Steel radiates pride beyond measure, as he removes his helmet, almost supernaturally. It seems he was hiding a chiseled, flawless face, deep gold-amber eyes and an impeccably kept haircut underneath.*</i> HURRAH, comrade! It is good to make your acquaintance!</td>
 </tr>
 <tr>
   <td>Say, I thought you were supposed to be serving in the Central Luminant?</td>

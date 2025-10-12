@@ -1,8 +1,9 @@
 ---
 title: Lightkeep
-revid: 145145
+revid: 165637
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Lore]
 ---
 
 # Lightkeep

@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 163137
+revid: 165633
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -150,3 +150,4 @@ Exhaustive Loot Table
 -   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, even in [Dimensional Travel](Dimensional_Travel.md).
 -   The only boss to not have a unique combat theme.
 -   Formerly summonable via Dimensional Travel anywhere due to leaving the Interstice putting you in a brief state of being considered in the Voidsea. The Dread Serpent would spawn wherever you returned to the overworld at.
+-   The new Dread Serpent model was accidentally spawned during the Verse 3 Deepwoken Direct, closely resembling the art in it's Bestiary.

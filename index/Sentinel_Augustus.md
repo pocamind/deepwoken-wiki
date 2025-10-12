@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 165574
+revid: 165623
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -77,7 +77,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End, player joins [division name] Division</td>
+  <td>End, player joins Shock Corps Division</td>
 </tr>
 </tbody>
 </table>

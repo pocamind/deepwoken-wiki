@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 165576
+revid: 165611
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -69,6 +69,27 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 </tr>
 <tr>
   <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shop UI:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Purchasing Tankard of Ongo Juice</td>
+  <td>Purchasing Fool's Tankard</td>
+</tr>
+<tr>
+  <td><i>*The landlord pours with an exaggerated flourish that only he seems to be entertained by. The drink itself looks suspiciously pale, flickers of sediment sinking to the base of the tankard. You're not too convinced by the smell either.*</i></td>
+  <td><i>*Fabantou sets down the hefty tankard with a sly grin, clearly impressed by your choice.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">Leave</td>
 </tr>
 </tbody>
 </table>

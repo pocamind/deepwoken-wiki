@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 161905
+revid: 165624
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,9 +34,9 @@ When losing enough sanity, the player will endure negative effects.
 | Blurring | Blurs your vision, making it harder to see further. Gets more intense the more sanity you are missing | <50% | N/A |
 | Panicking | Stuns you for 1 second and deal 10 damage (5 with Grasp on Reality Talent). Is then followed by shivering. With the Unfazed Talent, this effect is ignored and replaced by 2.5 seconds of shivering. | <40% | 30–36 seconds |
 | Hidden Faces | When panicking or scratching, hide the face and name of nearby humanoids (including players) for 30 seconds. | <40% | 360 seconds |
-| Scratching | Stuns you for 1.5 second and deal 20 damage (10 with Grasp on Reality Talent). Is then followed by shivering. The Unfazed Talent offer no protection against this. | <10% | 30–36 seconds |
+| Scratching | Stuns you for 1.5 second and deal 20 damage (10 with Grasp on Reality Talent). Is then followed by shivering. The Unfazed Talent offers no protection against this. | <10% | 30–36 seconds |
 | Execution | If knocked by any means, including scratching, you are immediately killed. | <10% | N/A |
-| Head Explosion | Reaching 0 Sanity with a No-Life King enchantment in The Depth or while observing the eyeballs in The Ancient Rotlands will immediately kill the player. | 0% | N/A |
+| Head Explosion | Reaching 0 Sanity with a No-Life King enchantment in The Depths or while observing the eyeballs in The Ancient Rotlands will immediately kill the player. | 0% | N/A |
 
 ## Sanity Decreasing Effects
 

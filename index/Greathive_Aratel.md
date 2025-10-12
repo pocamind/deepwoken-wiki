@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 164129
+revid: 165636
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -31,6 +31,8 @@ Alternatively, you can [sail](Ships_&_Sailing.md) to Greathive Aratel, but actua
 Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 ### Entrance
+
+There is a Heat Stone resting spot and Fountains functioning as fast travel
 
 Hive Fountains
 
@@ -100,6 +102,8 @@ Fountain in the Hidden Village
     Using [Strong Left](Attunement-less.md) (or any other environment-destroying mantra) on the wooden bookshelf in the right hallway a few times will reveal a, now presumably unused, extra room with 3 "containers" and broken pipes leaking gas.
 
 ### Canopy Plaza
+
+Hidden within the tree there is another Heat stone resting spot
 
 A view of the blacksmith on the Canopy plaza
 
