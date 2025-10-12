@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 163974
+revid: 165669
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Items, Authority Faction Item]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Items]
 ---
 
 # Inquisitor's Thorn
@@ -12,6 +12,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 |---|---|
 | type | Rapier |
 | requirements | 40 LHT, OR Authority Ensign |
+| faction | Authority |
 | damage | 14 |
 | scaling | LHT: 7 |
 | range | 8 |

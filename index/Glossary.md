@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 165563
+revid: 165697
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -216,19 +216,20 @@ Dialogue: [Amashi](Amashi,_Master_of_Flame.md), [Zana](Zana.md) | Books: [God in
 
 ### Light Hook
 
--   A special technique of the Radiant Tones that enables Klaris to retrieve Divers that expedition from Castle Light. Hopefully still in one piece.
+-   A special technique developed by Klaris to retrieve [Divers](#the-divers) that expedition from [Castle Light](#castle-light). Hopefully still in one piece.
 
 Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
 
 ### Lightkeep
 
--   Stationed in Lighthouses at the edges of [Luminants](#the-luminants), these rare individuals are capable of Illuminating a path through the [Voidsea](#the-voidsea), forcing it to retreat.
+-   Stationed in [Lighthouses](#lighthouse) at the edges of [Luminants](#the-luminants), these rare individuals are capable of Illuminating a path through the [Voidsea](#the-voidsea), forcing it to retreat.
 -   A scant few are born with the Gift of [Lightkeeping](#lightkeep), with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
--   [Lightkeepers](#lightkeep) are afforded little freedom, when spending their lives wasting away in their Lighthouses guarded by a legion of soldiers
+-   Lightkeepers are afforded little freedom, when spending their lives wasting away in their [Lighthouses](#lighthouse) guarded by a legion of soldiers.
 -   A nation's economy rests on its Lightkeepers, with passage between the [Luminants](#the-luminants) being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
--   The Radiant Tones utilised by adherents of the Dawnwalker [Oath](#oaths) are based on research into [Lightkeeping](#lightkeep), though are incapable of Illuminating the Void.
+-   Nimea mentioned that Lightkeepers are incapable of using the [Song](#the-song).
+-   The [Radiant Tones](#radiant-tones) utilised by adherents of the Dawnwalker [Oath](#oaths) are based on research into [Lightkeeping](#lightkeep), though are incapable of Illuminating the Void.
 
-Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants)
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Radiant Tones](#radiant-tones), [The Luminants](#the-luminants)
 
 ### Mantra
 
@@ -251,16 +252,17 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Vow](#vows)
+Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vow](#vows)
 
 ### Radiant Tones
 
--   Discovered by Klaris, the Radiant Tones are the foundations behind the Dawnwalker Oath.
+-   Discovered by Klaris, the Radiant Tones are the foundations behind the Dawnwalker [Oath](#oaths).
+-   Klaris said she worked with Viqh, a [Lightkeeper](#lightkeep) from the [Etrean Luminant](#the-etrean-luminant).
 -   The Radiant Tones are said to be a Verse of the [Song](#the-song) that can reproduce Light.
--   According to research conducted by the [Divers](#the-divers), they believe that Lightkeepers use it latently for their abilities.
--   Dawnwalkers emulate Lightkeepers, and while unable to produce Light, their abilities are very effective in fighting back The Deep.
+-   According to research conducted by the [Divers](#the-divers), they believe that [Lightkeepers](#lightkeep) use it latently for their abilities.
+-   Dawnwalkers emulate [Lightkeepers](#lightkeep), and while unable to produce Light, their abilities are very effective in fighting back the Deep.
 
-Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries:
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep)
 
 ### The Song
 
@@ -270,7 +272,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
 
 ### Vows
 
@@ -357,6 +359,13 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 
 ## Places
 
+### Castle Light
+
+-   The closest [Diver](#the-divers) expedition base to [Drowned Celtor](#the-drowned-city-of-celtor).
+-   Klaris Llfiend presides over the base and supervises expeditions into the [Second Layer](#the-eternal-gale-the-second-layer).
+
+Dialogue: | Books: | Glossary Entries: [Lighthook](#lighthook)
+
 ### The Central Luminant
 
 -   The central and largest [Luminant](#the-luminants) of all, the Central Luminant is a tumultuous region that is governed overall by the [Central Authority](#the-central-authority).
@@ -372,7 +381,7 @@ Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Book
 -   The City Guard speak of a deal, presumably a [Vow,](#vows) that they struck in order to keep the City safe.
 -   The guards are prevented from dispatching the monstrosities that stalk the city by the deal they struck.
 
-Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
+Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [Castle Light](#castle-light), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor)
 
 ### Constellia, the Guiding Star
 
@@ -414,7 +423,7 @@ Dialogue: [Liviu](Liviu.md) | Books: [Strange Missives](Books.md#strange-missive
 -   The so-called 'sub-luminant' of the [Eastern Luminant](#the-eastern-luminant) that is home to the Kingdom of Etrea and the Isle of Vigils
 -   In times past, the Kingdom of Etrea held claim over the vast majority of the [Eastern Luminant](#the-eastern-luminant), so the designation of the Etrean Luminant is a somewhat modern invention.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) | Glossary Entries: [The Eastern Luminant](#the-eastern-luminant)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Eastern Luminant](#the-eastern-luminant)
 
 ### Scyphozia, the First Layer
 
@@ -431,6 +440,13 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 -   The former home of the [Celestials](#the-celestials).
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+
+### Lighthouse
+
+-   At the edges of the [Luminants](#the-luminants), Lighthouses serve as the only reliable means of travelling between [Luminants](#the-luminants).
+-   Lighthouses require the talents of a [Lightkeeper](#lightkeep) to operate. In essence, Lighthouses are a lens through which a [Lightkeeper](#lightkeep) can focus their Light. By illuminating the void between [Luminants](#the-luminants), a thin stretch of navigable ocean is brought back into existence and can be traversed by ships.
+
+Dialogue: | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#the-voidsea)
 
 ### The Lullaby Isles
 
@@ -454,7 +470,7 @@ Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventure
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Raen](Raen.md), [Sev](Sev.md), [Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Raen](Raen.md), [Sev](Sev.md), [Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The City of New Kyrsa
 
@@ -485,7 +501,7 @@ Dialogue: | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-v
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 -   The Second Layer is home to the legendary city of New Kyrsa.
 
-Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsgarde](#kyrsgarde), [Kyrsan](#kyrsan), [The Depths](#the-depths)
+Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Castle Light](#castle-light), [Kyrsgarde](#kyrsgarde), [Kyrsan](#kyrsan), [The Depths](#the-depths)
 
 ### The Southern Luminant
 
@@ -523,6 +539,7 @@ Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-
 -   When it comes to the Voidsea, the conventional laws of times and space hang in the towel.
 -   Islands dragged into the Voidsea, may suddenly be spat back out fifty years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
+-   The Voidsea is only reliably traversed through the use of a [Lighthouse](#lighthouse).
 
 Dialogue: [Alastir](Alastir.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
 
@@ -540,7 +557,7 @@ Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials)
 -   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### The Moonlit Dialect
 

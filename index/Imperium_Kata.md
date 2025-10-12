@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 158142
+revid: 165646
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -37,7 +37,7 @@ Imperium Kata is an advanced form of the [Legion's martial arts](Legion_Kata.md)
 
 ## Obtainment
 
-Obtaining the fighting style requires above Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) and speaking to [Caitus](Caitus.md) about delivering [a message](Legion_Intelligence.md) to [Titus](Titus_Fulminus_Destellus.md). After gaining the [Legion Intelligence](Legion_Intelligence.md), you will have to progress through the [Merit Detainment Core](Merit_Detainment_Core.md) to reach Titus and deliver the message, starting the fight. After Titus is defeated, return to Caitus and obtain Imperium Kata.
+Obtaining the fighting style requires above Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) and speaking to [Caitus](Caitus.md) about delivering [a message](Legion_Intelligence.md) to [Titus](Titus_Fulminus_Destellus.md). After gaining the [Legion Intelligence](Legion_Intelligence.md), you will have to progress through the [Merit Detainment Core](Merit_Detainment_Core.md) to reach Titus and deliver the message, starting the fight. After Titus is defeated, return to Caitus and obtain Imperium Kata. [Legion Kata](Legion_Kata.md) may also be required to obtain Imperium Kata, but this is not confirmed.
 
 ## Critical
 

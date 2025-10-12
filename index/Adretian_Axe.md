@@ -1,9 +1,9 @@
 ---
 title: Adretian Axe
-revid: 164054
+revid: 165675
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons, Authority Faction Item]
+categories: [Pages with broken file links, Authority Faction Item, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
 ---
 
 # Adretian Axe
@@ -13,6 +13,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | alloyed name | Alloyed Adretian Axe |
 | type | Greataxe |
 | requirements | 35 HVY / 75 HVY, OR Authority Ensign |
+| faction | Authority |
 | damage | 24 |
 | scaling | HVY: 7 / HVY: 8 |
 | range | 8 |

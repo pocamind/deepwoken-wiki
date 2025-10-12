@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 163052
+revid: 165719
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1, Oath Trainer]
@@ -8,7 +8,7 @@ categories: [NPCs, Layer 1, Oath Trainer]
 
 # Shrine of Yun'Shul, Keeper of Hearts
 
-“ PLUCK OUT THINE EYES TEAR OUT THINE THROAT LAY WASTE TO ALL WHICH IS SACRED THE MOONSEYE CONVERGES WITH THAT BELOW. ”
+“ PLUCK OUT THINE EYES; TEAR OUT THINE THROAT; LAY WASTE TO ALL WHICH IS SACRED; THE MOONSEYE CONVERGES WITH THAT BELOW. ”
 
 ― Yun'Shul to the unworthy
 
@@ -63,6 +63,155 @@ If you meet all the criteria, you are able to make one of seven wishes:
 7.  "**I wish for my Soul's Murmur to be highly strung no longer."**
     -   Your current [Murmur](Murmur.md) will be removed without any further notice or opportunity for confirmation. This action can be done multiple times but will cost you your Murmur and a wish. You can still regain the same Murmur afterwards (Murmur: Rhythm is currently bugged and you **CAN'T** get it again after removing it).
     -   If you wipe after your Murmur is removed, you won't receive the Echoes for having it. You'll need to reobtain a Murmur to complete this Echo Triumph.
+
+## Dialogue
+
+**Requirements Met:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*An insidious voice begins to scratch the inside of your mind. You instinctively recoil, your temples pounding with pain.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">[Let the voice in]</td>
+</tr>
+<tr>
+  <td colspan="6">TELL ME O' CHILD OF WANT, WHAT IS YOUR DESIRE? / CHILD OF WANT... YOU MAY ASK OF ME [Number oF Wishes] MORE DESIRES TO BE GRANTED...</td>
+</tr>
+<tr>
+  <td>The trials ahead of me fill me with trepidation, I wish to escape this place.</td>
+  <td>My Flaws weigh me down too much, I wish for relief.</td>
+  <td>The Vows I made give me much regret, I wish to break them.</td>
+  <td>The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path.</td>
+  <td>The Powers I have been granted displease me, I wish for new gifts.</td>
+  <td>I wish for my Soul's Murmur to be a weapon no longer.</td>
+</tr>
+<tr>
+  <td><i>*Something awful holds your mind in its grip.*</i> THIS PLACE SHALL HOLD YOU PRISONER NO LONGER. THOUGH, KNOW WHEN YOU RETURN, I SHALL BE THE ONE TO COLLECT YOUR HEAD. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. NO LONGER SHALL YOU BE BEHOLDEN TO PROMISES. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. THIS FLAW SHALL WEIGH YOU DOWN NO LONGER. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. YOU SHALL FORGET THE PROMISE YOU MADE, A NEW PATH OPENING UP IN ITS PLACE. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. GONE ARE THE GIFTS THAT DISPLEASED YOU SO. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. MAY YOUR SOUL'S MURMUR BE AS IT ONCE WAS. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
+</tr>
+<tr>
+  <td>End, player instantly escapes The Depths</td>
+  <td>End, a random Flaw is rerolled</td>
+  <td>End, all Vows made are destroyed</td>
+  <td>End, player loses their Oath</td>
+  <td>End, player is given a hand of Resonances</td>
+  <td>End, player loses their Murmur</td>
+</tr>
+</tbody>
+</table>
+
+**Requirements Not Met:**
+
+**Deepbound:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>PITTABLE CHILD, MALNOURISHED OF SOUL, PRE-DIGESTED. CYANIDE-LADEN PIT OF MEALFRUIT TOSSED ASIDE. PROVE YOURSELF AT LEAST AN APPETISER.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**No Resonance:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>PLUCK OUT THINE EYES; TEAR OUT THINE THROAT; LAY WASTE TO ALL WHICH IS SACRED; THE MOONSEYE CONVERGES WITH THAT BELOW.</td>
+</tr>
+<tr>
+  <td>End, player is <b>head-popped</b> and <b>instantly wiped</b></td>
+</tr>
+</tbody>
+</table>
+
+**No Wishes:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*Something begins to gnaw at the connective tissue that joins your conscious experience together. Your body screams for you leave this place.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialouge:**
+
+This dialogue is unlocked if the player meets the requirements to obtain [Oath: Soulbreaker](Oath%253A_Soulbreaker.md).
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*An insidious voice begins to scratch the inside of your mind. You instinctively recoil, your temples pounding with pain.*</i></td>
+</tr>
+<tr>
+  <td>What happened to this place?</td>
+</tr>
+<tr>
+  <td><i>*Something awful holds your mind in its grip.*</i> IT DOES NOT KNOW? THOSE THAT BROUGHT RUIN TO THIS PLACE? GODSEEKERS, PROPHETS IN BLACK, OFFERING THIS CITY OF STONE AS IF IT WERE FESTERING MEAT. A PALTRY OFFERING, BUT MORE THAN YOUR KIND USUALLY AMOUNT TO. <i>*The sensation departs you, your mind is quiet once more.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>TELL ME O' CHILD OF WANT, WHAT IS YOUR DESIRE? / CHILD OF WANT... YOU MAY ASK OF ME [Number oF Wishes] MORE DESIRES TO BE GRANTED...</td>
+</tr>
+<tr>
+  <td>For now I am one, but I wish to be three.</td>
+</tr>
+<tr>
+  <td>BUT A MERE FEW BEFORE YOU HAVE REQUESTED SUCH A BOON AND ALL HAVE MET WITH WRETCHED FORTUNE. WILL YOU MAKE THIS WISH KNOWING THIS?</td>
+</tr>
+<tr>
+  <td>My wish remains the same.</td>
+</tr>
+<tr>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO, AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. <i>*The sensation departs you, your mind is quiet once more.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

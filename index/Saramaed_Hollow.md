@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 161411
+revid: 165652
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -33,7 +33,7 @@ Note that all the maps contain lava as an environmental hazard, which deal an ex
 
 Orb which used to refuel Union Drill
 
-**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 Meter is a lobby area that features a campfire, training gear, an Antiquarian, a Mystic and a Blacksmith.
+**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 Meter is a lobby area that features a Heat Stone Resting Spot, training gear, an Antiquarian, a Mystic and a Blacksmith.
 
 Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
 

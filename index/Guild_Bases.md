@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 165641
+revid: 165651
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -140,7 +140,7 @@ Quarters
 
  | 
 
-If you die or join in the server and the guild base is active you can spawn in the room. A room with a Heat Stone Resting Spot, [Crafting Station](Crafting_Station.md), and some beds.  
+If you die or join in the server and the guild base is active you can spawn in the room. A room with a [Heat Stone Resting Spot](Campfire_Pit.md), [Crafting Station](Crafting_Station.md), and some beds.  
 (You cannot cook at the Heat Stone Resting Spot)
 
  |
@@ -179,7 +179,7 @@ Song Room
 
  | 
 
-Allows the hiring of a [Mystic](Mystic.md) for 2,000. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a Heat stone resting spot to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
+Allows the hiring of a [Mystic](Mystic.md) for 2,000. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a Heat Stone Resting Spot to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
 
 This room also allows the hiring of a [Songwright](Songwright.md) for 20,000, which allows you to upgrade mantras for a more expensive price than the [Attunement Trainers](Attunement_Trainers.md) (albeit being more convenient).
 
@@ -253,7 +253,7 @@ Arena Extension
 
  | 
 
-A giant room consisting a large circular arena in the center to fight your guildmates, as well as a Heat stone resting spot in each of the four corners. The ceiling in the Arena Extension is much higher than all other rooms, and the central arena dips into the ground by about one room's height.
+A giant room consisting a large circular arena in the center to fight your guildmates, as well as a Heat Stone Resting Spots in each of the four corners. The ceiling in the Arena Extension is much higher than all other rooms, and the central arena dips into the ground by about one room's height.
 
  |
 

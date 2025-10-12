@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 164048
+revid: 165663
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents, Authority Faction Item]
+categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
 ---
 
 # Inquisitor's Greatsword
@@ -12,6 +12,7 @@ categories: [Weapons, Greatswords, Heavy Weapons, Weapons with Talents, Authorit
 |---|---|
 | type | Greatsword |
 | requirements | 40 HVY, OR Authority Ensign |
+| faction | Authority |
 | damage | 23.5 |
 | scaling | HVY: 8.3 |
 | range | 9 |

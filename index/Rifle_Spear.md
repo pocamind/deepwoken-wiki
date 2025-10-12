@@ -1,9 +1,9 @@
 ---
 title: Rifle Spear
-revid: 164046
+revid: 165672
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons, Authority Faction Item]
+categories: [Authority Faction Item, Weapons, Spears, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
 ---
 
 # Rifle Spear
@@ -12,6 +12,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons of The Cent
 |---|---|
 | type | Spear/Rifle |
 | requirements | 75 MED, OR Authority Ensign |
+| faction | Authority |
 | damage | 21 |
 | scaling | MED: 7 |
 | range | 9 |

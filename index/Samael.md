@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 154419
+revid: 165717
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
@@ -42,7 +42,7 @@ His old apperance simply left him with the old Angel mask that completely hid hi
   <td colspan="18">I'm not a pilgrim.</td>
 </tr>
 <tr>
-  <td colspan="18">Curious. How did a heretic such as yourself find your way to this place of worship, then? Do you seek the faith? Did the will of <b>The Stars Above</b> bring you here, past all of our previous failures?</td>
+  <td colspan="18">Curious. How did a heretic such as yourself find your way to this place of worship, then? Do you seek the faith? Did the will of The Stars Above bring you here, past all of our previous failures?</td>
 </tr>
 <tr>
   <td colspan="12">What faith?</td>
@@ -50,8 +50,8 @@ His old apperance simply left him with the old Angel mask that completely hid hi
   <td colspan="3">You're not making any sense.</td>
 </tr>
 <tr>
-  <td colspan="12">So you are uninformed. Truly, it must be their will then. This place.. is but one home of the Starkindred, those who seek worship and understanding of the Celestials. When our Celestial's cocoon arrived in the Rotlands below, we brought it to safety. We nurtured it. We protected it. We imbibed its holy ichor as our sacrament, to become one of its own.</td>
-  <td colspan="3">As above, so below... Surely, the world we reside in is a manifestation of <b>Their</b> will, above. The faith is shaped by the Stars, and it is humanity's will to follow. Truly, our faith is not too dissimilar to those who would follow Navae. But we have realised where they have not that there is more to behold than but one.</td>
+  <td colspan="12">So you are uninformed. Truly, it must be their will then. This place.. is but one home of the Starkindred, those who seek worship and understanding of the <a href="Glossary.md#the-celestials">Celestials</a>. When our <a href="Glossary.md#the-celestials">Celestial's</a> cocoon arrived in the Rotlands below, we brought it to safety. We nurtured it. We protected it. We imbibed its holy ichor as our sacrament, to become one of its own.</td>
+  <td colspan="3">As above, so below... Surely, the world we reside in is a manifestation of Their will, above. The faith is shaped by the Stars, and it is humanity's will to follow. Truly, our faith is not too dissimilar to those who would follow Navae. But we have realised where they have not that there is more to behold than but one.</td>
   <td colspan="3">Forgive me, if my speech is unclear. It is fate. The Starkindred faith is one of the challenges we overcome, for the betterment of our understanding of the Above.</td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ His old apperance simply left him with the old Angel mask that completely hid hi
   <td colspan="3">What faith?</td>
 </tr>
 <tr>
-  <td colspan="6">The Holy Ichor, the source of our power and beliefs. A Celestial isn't simply a being of power, it is <b>God</b>. To drink its lifeline, and understand the <b>true meaning of everything</b> is our ambition.</td>
+  <td colspan="6">The Holy Ichor, the source of our power and beliefs. A <a href="Glossary.md#the-celestials">Celestial</a> isn't simply a being of power, it is God. To drink its lifeline, and understand the true meaning of everything is our ambition.</td>
   <td colspan="6">Watch your tongue, heretic. This is sanctuary for it. This is safety. To never leave its cocoon, it will never face the true cruelty of this world. And this ensures safety for all of us, preventing the holy ichor from entering the wrong hands.</td>
   <td colspan="3">[See first instance]</td>
   <td colspan="3">[See first instance]</td>
@@ -75,8 +75,8 @@ His old apperance simply left him with the old Angel mask that completely hid hi
   <td colspan="3">End</td>
 </tr>
 <tr>
-  <td colspan="6">Ah, the lost lamb recognizes its maker. The black sheep, pariah so-to-speak, your plight can be solved. The will of the Above will reshape you whole. To feast upon the Holy Ichor, you must fulfill a divine mission. Should <b>The Stars Above</b> deem you worthy, you shall succeed with ease.</td>
-  <td colspan="3"><b>Your shallow skull will suffocate under the knowledge of what truly occurs in this world; your feeble struggles are a speck of dust in the scope of all that is become, and you will become nothing but MEMORIES once Rapture consumes us all.</b></td>
+  <td colspan="6">Ah, the lost lamb recognizes its maker. The black sheep, pariah so-to-speak, your plight can be solved. The will of the Above will reshape you whole. To feast upon the Holy Ichor, you must fulfill a divine mission. Should The Stars Above deem you worthy, you shall succeed with ease.</td>
+  <td colspan="3">Your shallow skull will suffocate under the knowledge of what truly occurs in this world; your feeble struggles are a speck of dust in the scope of all that is become, and you will become nothing but <b>MEMORIES</b> once Rapture consumes us all.</td>
   <td colspan="3">[See first instance]</td>
 </tr>
 <tr>
@@ -85,13 +85,13 @@ His old apperance simply left him with the old Angel mask that completely hid hi
   <td colspan="3">End</td>
 </tr>
 <tr>
-  <td colspan="6">Your divine order is to seek out the <b><a href="Iblis,_The_Fallen_Angel.md">Fallen Angel, Iblis</a></b>. He has consumed The Holy Ichor only for its power, and must be DAMNED. Do you understand your holy mission, lamb?</td>
+  <td colspan="6">Your divine order is to seek out the Fallen Angel, Iblis. He has consumed The Holy Ichor only for its power, and must be DAMNED. Do you understand your holy mission, lamb?</td>
 </tr>
 <tr>
   <td colspan="6">He shall be eliminated.</td>
 </tr>
 <tr>
-  <td colspan="6">So the lamb follows a shepherd's guidance with ease.. He was last seen within the Starswept Valley, atop the peaks near the Startree. Find him, and turn him to <b>memories</b>.</td>
+  <td colspan="6">So the lamb follows a shepherd's guidance with ease.. He was last seen within the Starswept Valley, atop the peaks near the Startree. Find him, and turn him to memories.</td>
 </tr>
 <tr>
   <td colspan="6">End, Quest Obtained</td>

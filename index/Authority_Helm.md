@@ -1,9 +1,9 @@
 ---
 title: Authority Helm
-revid: 163927
+revid: 165694
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Items, The Central Authority, Drops, Authority Faction Item]
+categories: [Authority Faction Item, Equipment, Head, Helmets, Items, The Central Authority, Drops]
 ---
 
 # Authority Helm
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Helmets, Items, The Central Authority, Drops, Auth
 | selling price | 25 |
 | requirements | PWR 10, 10 FTD, OR Authority Ensign |
 | weight | 1 |
+| faction | Authority |
 | innate stats | +8 Health, +1 Uncommon Pips, +1 Rare Pips |
 | innate talent | Strong Hold |
 | bankable | Yes |

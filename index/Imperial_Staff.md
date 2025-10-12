@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 161367
+revid: 165691
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Medium Weapons]
@@ -42,7 +42,7 @@ The regular critical is a long-ranged one where the user stabs their staff forwa
 
 The aerial critical is a slam with a windup of 0.55s, where the staff grows in size and slams back down onto the floor dealing high posture.
 
-The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking.
+The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end. Can be ended manually by right-clicking during the duration.
 
 ## Trivia
 

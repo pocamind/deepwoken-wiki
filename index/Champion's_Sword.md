@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 157463
+revid: 165647
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -30,6 +30,8 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | pass down | Yes |
 | obtainment | Starswept Valley, Layer 2, Lodestar, Scion of Ethiron, Chaser, Rogue Construct, Maestro Evengarde Rest, The Doom of Caeranthil, Heart of Enmity, Dread Serpent, War Mode, Voidwalker Bounties |
 | description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
+
+**This weapon is currently unobtainable due to not dropping.**
 
 ## Description
 

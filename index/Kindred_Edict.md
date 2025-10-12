@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 165626
+revid: 165662
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -11,7 +11,7 @@ categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Wea
 | Kindred Edict | |
 |---|---|
 | type | Sword |
-| requirements | 50 MED, 30 BDY |
+| requirements | 50 MED, 30 BDY40 AGL, 75 MED |
 | damage | 17 |
 | scaling | MED: 5, BDY: 4.5 |
 | range | 7.5 |

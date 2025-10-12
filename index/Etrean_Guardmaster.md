@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardmaster
-revid: 153728
+revid: 165709
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, Etrea]
@@ -8,62 +8,44 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, Et
 
 # Etrean Guardmaster
 
-| Etrean Guardmaster | |
+| Etrean Guardsmaster | |
 |---|---|
-| name | Etrean Guardmaster |
+| name | Etrean Guardsmaster |
 | aspect | Etrean |
-| location | Outside Fort Merit |
+| location | Fort Merit |
 
 ## Description
 
-The Etrean Guardmaster is an NPC located off the shores of [Fort Merit](Fort_Merit.md) in a dinghy flying a black flag and a red mast. Upon speaking with them, they immediately [request your assistance](Quests.md#fort-merit-rescue) with rescuing [captured Etrean prisoners](Etrean_Guardsman_Hostage.md) from within the fort. After speaking to them while holding a prisoner, you are given a chest containing Fort Merit loot. After providing two prisoners, the boat will go on an 8 minute cooldown.
+Etrean Guardsmaster is an [Etrean](Etrean.md) NPC, the player can rescue [Etrean\_Guardsman\_Hostage](Etrean_Guardsman_Hostage.md) to them for EXP and a small chest. After providing two prisoners, the boat will go on an 8 minute cooldown.
+
+## Location
+
+Etrean Guardsmaster is located around [Port Merit](Port_Merit.md), on a [Dinghy](Ships_&_Sailing.md#list-of-ships) in the water. Their location changes periodically between 3 different spots.
 
 ## Dialogue
 
-**No soldiers, no cooldown:**
-
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Go save our people... They're most likely in the cells at the bottom of the fort...</td>
+  <td>Player is <a href="Handcuffs.md">handcuffed</a></td>
+  <td>Player is not <a href="Handcuffs.md">handcuffed</a></td>
+  <td>Player rescues a hostage</td>
+  <td>Player rescues too many hostages at once</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-</tr>
-</tbody>
-</table>
-
-**Etrean Prisoner Given:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin</td>
+  <td>You did a good job making it out of there in one piece. Let me fix those cuffs for you.</td>
+  <td>Go save our people... They're most likely in the cells at the bottom of the fort...</td>
+  <td>Great work! Here, take one of these chests.</td>
+  <td>I'm afraid we can only fit so many on this boat... You'll have to come back later, please keep them safe until then. <i>*[X] minutes remain.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">Great work! Here, take one of these chests.</td>
-</tr>
-<tr>
-  <td colspan="6">End</td>
-</tr>
-</tbody>
-</table>
-
-**On Cooldown:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="6">Begin</td>
-</tr>
-<tr>
-  <td colspan="6">I'm afraid we can only fit so many on this boat... You'll have to come back later, please keep them safe until then. <i>*[x] minutes remain.*</i></td>
-</tr>
-<tr>
-  <td colspan="6">End</td>
+  <td>End, Player's handcuffs are removed</td>
+  <td>End</td>
+  <td>End, player receives a small chest and XP</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,9 +1,9 @@
 ---
 title: Cavalry Saber
-revid: 164183
+revid: 165681
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons, Authority Faction Item]
+categories: [Authority Faction Item, Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons]
 ---
 
 # Cavalry Saber
@@ -13,6 +13,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, We
 | alloyed name | Alloyed Cavalry Saber |
 | type | Sword |
 | requirements | 40 MED / 75 MED, OR Authority Ensign |
+| faction | Authority |
 | damage | 21 / 22.5 |
 | scaling | MED: 5 / MED: 5.5 |
 | range | 8 |

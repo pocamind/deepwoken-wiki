@@ -1,8 +1,9 @@
 ---
 title: The Canticlysm
-revid: 145155
+revid: 165713
 source: https://deepwoken.fandom.com/wiki/The_Canticlysm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Lore]
 ---
 
 # The Canticlysm

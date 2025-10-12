@@ -1,8 +1,9 @@
 ---
 title: World Events
-revid: 165105
+revid: 165711
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [World Event, Bosses]
 ---
 
 # World Events
