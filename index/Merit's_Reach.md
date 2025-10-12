@@ -1,9 +1,9 @@
 ---
 title: "Merit's Reach"
-revid: 163350
+revid: 165799
 source: https://deepwoken.fandom.com/wiki/Merit's_Reach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, The Central Authority]
+categories: [Locations, The Central Authority, Territory of The Central Authority, Lawless Territory]
 ---
 
 # Merit's Reach

@@ -1,9 +1,9 @@
 ---
 title: Voidheart
-revid: 163346
+revid: 165805
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Lawless Territory, The Knives of Eylis]
 ---
 
 # Voidheart

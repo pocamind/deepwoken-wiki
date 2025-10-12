@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 164812
+revid: 165746
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -43,3 +43,7 @@ The user reels the axe backwards before heavily chopping the opponent, guardbrea
 The initial hit does not count as a hit despite guardbreaking; this means it won't proc any Talents and does not deal damage. The second hit has a 1.375x scaled damage multiplier.
 
 The critical has a cooldown of **10 seconds**.
+
+## Trivia
+
+-   The Duskguard Axe can be passed down with echoes

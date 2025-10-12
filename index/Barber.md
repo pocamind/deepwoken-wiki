@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 165714
+revid: 165747
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -107,8 +107,9 @@ The Top Shelf
 <tbody>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>100 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Name Change</div><div><i>Change your first and last name.<p><br>
-  </p>Has a 10 minute cooldown.</i></div></td>
+  <td><div>Name Change</div><div><i>Change your first and last name.<br>
+  </i><br>
+  Has a 10 minute cooldown.</div></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure>1 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>

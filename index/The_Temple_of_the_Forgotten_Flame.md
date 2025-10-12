@@ -1,6 +1,6 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 163438
+revid: 165775
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Etrean Luminant]

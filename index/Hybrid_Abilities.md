@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 160231
+revid: 165770
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -290,6 +290,8 @@ Oath [ResistanceOath](Oaths.md)
 
  |
 
+  
+
 ## Oaths
 
 Very few [Oaths](Oaths.md) require the combination of several Attunements to be used. These Oaths are often powerful within their niche, but are uncommonly used due to having fairly restrictive requirements.
@@ -317,7 +319,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <sup>[Bloodsong]</sup></center></td>
   <td><center>40 Bloodrend<br>
   40 Flamecharm</center></td>
-  <td><center>Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</center></td>
+  <td><center>Guardbreaking your opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.</center></td>
   <td><center>Posture breaking with a Bloodrend mantra applies burn and deals 16.5 damage in an AoE. Also applies blood poison.</center></td>
 </tr>
 </tbody>

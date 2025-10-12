@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 159717
+revid: 165755
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -10,7 +10,7 @@ categories: [Mantras]
 
 ## Description
 
-Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining which mimic a specific move from a [monster](Monsters.md). Obtaining the monster drops require to acquire the [Mantras](Mantras.md). It can be difficult to obtain, although most, if not all of the [Mantras](Mantras.md) are considered worth the requirements. Having the ability to throw bones like a [Bonekeeper](Bone_Keeper.md), shoot coral as if you were a [Megalodaunt](Megalodaunt.md), pull enemies as though you were an [Enforcer](Enforcer.md), monster mantras allow the player to have more versatility within combat. These mantras do not belong to any [Attunement](Attunements.md), being their own category of abilities. This means the Mantras are not upgradable, retaining the [damage](Combat_Mechanics.md) from obtainment.
+Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining which mimic a specific move from a [monster](Monsters.md). Obtaining the monster drops required to acquire the [Mantras](Mantras.md). It can be difficult to obtain, although most, if not all of the [Mantras](Mantras.md) are considered worth the requirements. Having the ability to throw bones like a [Bonekeeper](Bone_Keeper.md), shoot coral as if you were a [Megalodaunt](Megalodaunt.md), pull enemies as though you were an [Enforcer](Enforcer.md), monster mantras allow the player to have more versatility within combat. These mantras do not belong to any [Attunement](Attunements.md), being their own category of abilities. This means the Mantras are not upgradable, retaining the [damage](Combat_Mechanics.md) from obtainment.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 165740
+revid: 165766
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -322,7 +322,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>*You salute Sentinel Agustus. He looks down at you, saluting back the gears in his headvisibly turning. * At ease, Handler. Did High inquisitor Merey send you? No? Well... Since you're here, could you pass her an important message? * He gives you a wide grin. * I want to know when the next interrogation of General Destellus will take place I'd like to participate in it, if she wouldn't mind. Could you let her know? Thanks in advance, soldier</td>
 </tr>
 <tr>
   <td>End</td>

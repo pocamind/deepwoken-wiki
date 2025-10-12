@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 162644
+revid: 165814
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1858,7 +1858,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Kelsier", "Vin", "Marsh", and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson.
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
--   The names "Zote" and "Isma" are a reference to the indie game _[Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)_ by Team Cherry.
+-   The names "Zote", "Ogrim" and "Isma" are a reference to the indie game _[Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)_ by Team Cherry.
 -   The name "Link" is a reference to - [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 -   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.

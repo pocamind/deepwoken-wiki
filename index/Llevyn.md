@@ -1,6 +1,6 @@
 ---
 title: Llevyn
-revid: 153287
+revid: 165751
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -12,7 +12,7 @@ categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Flo
 |---|---|
 | name | Llevyn |
 | aspect | Adret |
-| location | The Frontier FurnacePilgrim's Respite (as 'Radio') |
+| location | The Frontier Furnace, Pilgrim's Respite (as 'Radio') |
 
 “ Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. ”
 

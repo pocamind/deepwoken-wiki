@@ -1,6 +1,6 @@
 ---
 title: Baragan
-revid: 164639
+revid: 165781
 source: https://deepwoken.fandom.com/wiki/Baragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -9,5 +9,10 @@ notices:
 ---
 
 # Baragan
+
+| Baragan | |
+|---|---|
+| name | Baragan |
+| aspect | ? |
 
 

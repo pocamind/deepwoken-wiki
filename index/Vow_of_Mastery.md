@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 163767
+revid: 165750
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -129,13 +129,9 @@ Charisma
  | Live | Yes, 75 Charisma, Common | "_\[Name\]_, live" | Fully heals the subject to 100%, reviving them if they are knocked, cancelling any grip or carry.
 
 -   _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
--   _Can only be used on one subject at a time._
+-   _Can only be used on one subject at a time._.
 
- | 10 minutes. 40 minutes on the last subject used on.
-
-(60 minutes if you have less than 75 Charisma)
-
- |
+ | _1 hour_ |
 | 
 
  | Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has ~10 seconds of windup before summoning.

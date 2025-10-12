@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 165744
+revid: 165767
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -63,6 +63,8 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 
 **Inquisiton division:**
 
+**Inquisitor:**
+
 <table>
 <tbody>
 <tr>
@@ -73,6 +75,41 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 </tr>
 <tr>
   <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition 1st Class:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Handler:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*They salute you, with a forced yet sly smirk on their face.*</i> Handler [Last Name]. A pleasure. Always good to see a fellow Handler.</td>
 </tr>
 <tr>
   <td>End</td>

@@ -1,9 +1,9 @@
 ---
 title: Varicosa District
-revid: 163367
+revid: 165812
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, The Depths, Layer 1, Lost Celtor]
+categories: [Locations, The Depths, Layer 1, Lost Celtor, Lawless Territory]
 ---
 
 # Varicosa District
