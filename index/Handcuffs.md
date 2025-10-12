@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 164725
+revid: 165738
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 
 ## Description
 
-**Handcuffs** are a pair of heavily rusted handcuffs worn by prisoners of the Authority. While this weapon is equipped, you will not be able to swim, use [Mantras](Mantras.md), hold any item in your hands, and your movement speed will be heavily reduced.
+**Handcuffs** are a pair of heavily rusted handcuffs worn by prisoners of the Authority. While this weapon is equipped, you will not be able to swim, use [Mantras](Mantras.md), your Resonance, hold any item in your hands, and your movement speed will be heavily reduced.
 
 This weapon is automatically equipped upon being detained (gripped) by an [Authority Ensign](Authority_Ensign.md) player or by speaking to a few Authority NPCs[\[1\]](#cite-note-1) while having Enemy or lower Authority reputation. You will also be teleported into Fort Merit's prison and a 10 minute countdown to your execution will start. If the countdown reaches 0 while you still have the handcuffs on, you will be immediately drowned and sent to [the Depths](The_Depths.md).
 
@@ -40,7 +40,7 @@ You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the
 
 -   The Handcuffs share the weapon quality bonus and [enchantment](Enchantments.md) of your normal weapon.
 -   The critical of the Handcuffs is based on your [fist styles](Fists.md). If you do not have a fist style, it will default to [Way of Navae](Way_of_Navae.md).
--   While handcuffed, you cannot be knocked by mobs. Additionally, if you get knocked by any player (including yourself through self damage), you will be teleported back into the prison.
+-   While handcuffed, if you get knocked by any player (including yourself through self damage), you will be teleported back into the prison.
 -   You gain a perpetual PvE combat tag while the handcuffs are equipped.
 -   Despite your hands being bound, you can still pilot a [boat](Ships_&_Sailing.md) and use their cannons.
 

@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 162102
+revid: 165741
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | Certain legions among the Hundred, such as the Imperators of the 77th, include members who implant physiologically altering stakes into their bodies as a part of a sacred vow to enhance their physical abilities. By embedding such a stake, they willingly sacrifice a part of themselves in exchange for heightened strength and abilities. Though this concept isn't unilaterally accepted amongst the legions as an appropriate way to acquire strength. |
 
 ## Description

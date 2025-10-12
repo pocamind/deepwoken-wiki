@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165688
+revid: 165739
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -388,7 +388,7 @@ Command Division
 
 **Hidden Blade** (☆☆☆)
 
-**Combat Mantra**
+**Support Mantra**
 
 _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison._
 
@@ -397,7 +397,7 @@ _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of
 ## Hidden Blade (☆☆☆)
 
   
-**Combat Mantra**  
+**Support Mantra**  
 _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of your opponents health while also applying a bonus poison._
 
  |

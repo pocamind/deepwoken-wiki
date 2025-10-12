@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 165558
+revid: 165743
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -153,7 +153,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*You exchange enthusiastic salutes with Drill Sergeant Kernel.*</i> I see you've enlisted in the <b>SHOCK CORPS</b>, [Rank] [Player name]! It's hard to beleive a former <i>SCRAWNY</i> recruit like Private [Authority name] is now a fellow <b>SHOCK INFANTRY</b> soldier, but I guess I've helped you <i>PUT SOME MUSCLE</i> on those bones! I'm <i><b>REAL DAMN PROUD</b></i>, soldier! The next time you talk to <b>SENTINEL AUGUSTUS</b>, tell him I send him <i><b>ALL THE BEST</b></i>! <i><b>OORAH!!!</b></i></td>
 </tr>
 <tr>
   <td>End</td>

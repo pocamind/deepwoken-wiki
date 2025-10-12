@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 165623
+revid: 165740
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -371,13 +371,33 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td colspan="4">*<i>You salute the Sentinel, and he salutes you back</i>*Welcome back, Frontliner [name]. I hope your Shock Corps training has been doing well. Don't worry - we'll get you in tip-top shape in no time. ...Well. You didn't just come to gawk at me and Interceptor Chud Steel, right? Do you have some questions?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="2">Could you tell me more about the Shock Corps?</td>
+  <td colspan="2">...Sorry, did you say *Chud Steel* earlier?</td>
+</tr>
+<tr>
+  <td colspan="2">*<i>Augustus nods.</i>* I assume Drill Sergeant Kernel must have given you the general gist of each of the military branches. But basically, we're the elite heavy infantry. The division that goes right into the action, and gets things <b>done</b>. Only the toughest and strongest make it in the Shock Corps, and we train our members to be juggernauts in the field. We're kinda like a sledgehammer - when Warden Jericho feels a wall is beginning to cruble, he sends us in to bring it all the way down. Any other questions?</td>
+  <td colspan="2">*<i>Saying it out loud yourself, recognition tugs at the back of your mind. You remember now- the name 'Chud Steel' is plastered all over Authority recruitment posters</i>*Yeah. The very same. Did you know he's a fellow Shock Corps member? They assigned him here not long ago to serve as my assistant. Just a damned shae his deployment isn't likely to be permanent. You two should have chat once we're finished - it is good to know your comrades. Any other questions?</td>
+</tr>
+<tr>
+  <td>...Sorry, did you say *Chud Steel* earlier?</td>
+  <td>I think that's all, thank you Sentinel.</td>
+  <td>Could you tell me more about the Shock Corps?</td>
+  <td>I think that's all, thank you Sentinel.</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
+  <td>*<i>Augustus salutes you with a smirk on his face.</i>* Alright, Frontliner. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
+  <td>[See previous instance]</td>
+  <td>*<i>Augustus salutes you with a smirk on his face.</i>* Alright, Frontliner. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>
