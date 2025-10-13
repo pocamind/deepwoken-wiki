@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 165881
+revid: 165965
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -13,7 +13,7 @@ notices:
 
 | Armourer Kev | |
 |---|---|
-| name | Armourer Kev |
+| name | Kev |
 | aspect | Adret |
 | location | Fort Merit |
 

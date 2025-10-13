@@ -1,6 +1,6 @@
 ---
 title: Venn Kaelhand
-revid: 123278
+revid: 165952
 source: https://deepwoken.fandom.com/wiki/Venn_Kaelhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
@@ -15,4 +15,4 @@ categories: [Deceased characters]
 
 ## Description
 
-Venn Kaelhand was a researcher and disciple of [Amorus Pleeksty](Amorus_Pleeksty.md) who wielded the [First Light](First_Light.md). They were eaten by a [Crimson Megalodaunt](Crimson_Megalodaunt.md).
+Venn Kaelhand was a researcher and disciple of [Amorus Pleeksty](Amorus_Pleeksty.md) who wielded the [First Light](First_Light.md). They studied monsters that had been affected by exposure to Korilfiend's influence, which would result in their death when they were eaten by a [Crimson Megalodaunt](Crimson_Megalodaunt.md).

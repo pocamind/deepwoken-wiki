@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 161707
+revid: 165998
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -502,7 +502,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 -   Has a windup of 0.8 seconds and a cooldown of 11 seconds.
 -   Gives [True Hyperarmor](Status_Effects.md#true-hyperarmor) on use, also gives I-frames to victim and user during the grab animation.
 -   Has 9.65x PvE scaling (multiply damage dealt by 9.65 for PvE damage).
--   Applies 1 Medal Rod per hit.
+-   Applies 1 Metal Rod per hit.
 -   Can be upgraded with the **Metal Absorption** Talent, stealing a percentage of your opponent's armor durability on hit.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 

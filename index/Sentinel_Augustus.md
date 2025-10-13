@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 165766
+revid: 166004
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -12,7 +12,7 @@ notices:
 
 | Sentinel Augustus | |
 |---|---|
-| name | Sentinel Augustus Baaset |
+| name | Augustus Baaset |
 | aspect | Adret |
 | location | Fort Merit |
 
@@ -32,7 +32,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **No division:**
 
-**Private:**
+**Private / Corporal:**
 
 <table>
 <tbody>
@@ -40,23 +40,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Private? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Corporal:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Corporal? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
+  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanor seems polite.*</i> Hey. Aren't you a [rank]? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
 </tr>
 <tr>
   <td>End</td>
@@ -90,7 +74,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanour seems polites.*</i> Hey. Aren't you a Lance Corporal? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
+  <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanor seems polite.*</i> Hey. Aren't you a Lance Corporal? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
 </tr>
 <tr>
   <td>End</td>
@@ -322,7 +306,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td>*You salute Sentinel Agustus. He looks down at you, saluting back the gears in his headvisibly turning. * At ease, Handler. Did High inquisitor Merey send you? No? Well... Since you're here, could you pass her an important message? * He gives you a wide grin. * I want to know when the next interrogation of General Destellus will take place I'd like to participate in it, if she wouldn't mind. Could you let her know? Thanks in advance, soldier</td>
+  <td><i>*You salute Sentinel Augustus. He looks down at you, saluting back the gears in his head visibly turning.*</i> At ease, Handler. Did High inquisitor Merey send you? No? Well... Since you're here, could you pass her an important message? * He gives you a wide grin. * I want to know when the next interrogation of General Destellus will take place I'd like to participate in it, if she wouldn't mind. Could you let her know? Thanks in advance, soldier</td>
 </tr>
 <tr>
   <td>End</td>
@@ -348,20 +332,46 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **Shock Corps Division:**
 
-**Frontliner:**
+**Frontliner / Interceptor:**
 
 **First Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td colspan="6"><i>*The Sentinel sizes you up with a blank expression on his face.*</i> Three cheers once more, soldier, and welcome to the Shock Corps. I should introduce myself properly -I'm Sentinel Augustus Baaset, your division commander. The heartthrob with the blue armour there is Interceptor Chud Steel, my current aide-de-camp.. Hm. You're a <i>little skinny</i>, but we'll put some muscle on you in no time. Remind me your name, soldier?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="6">I'm [rank] [name], sir.</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*You salute the Sentinel, and he returns the favor.*</i> Very good. <b>Always</b> salute the rank. Good to know the Drill Sergeant still knows how to teach you fresh-faced recruits. Do you have any questions for me?</td>
+</tr>
+<tr>
+  <td colspan="2">Could you tell me more about the Shock Corps?</td>
+  <td colspan="2">...Sorry, did you say *Chud Steel* earlier?</td>
+  <td colspan="2">I think that's all, thank you Sentinel.</td>
+</tr>
+<tr>
+  <td colspan="2">*<i>Augustus nods.</i>* I assume Drill Sergeant Kernel must have given you the general gist of each of the military branches. But basically, we're the elite heavy infantry. The division that goes right into the action, and gets things <b>done</b>. Only the toughest and strongest make it in the Shock Corps, and we train our members to be juggernauts in the field. We're kinda like a sledgehammer - when Warden Jericho feels a wall is beginning to crumble, he sends us in to bring it all the way down. Any other questions?</td>
+  <td colspan="2">*<i>Saying it out loud yourself, recognition tugs at the back of your mind. You remember now- the name 'Chud Steel' is plastered all over Authority recruitment posters</i>*Yeah. The very same. Did you know he's a fellow Shock Corps member? They assigned him here not long ago to serve as my assistant. Just a damned shame his deployment isn't likely to be permanent. You two should have chat once we're finished - it is good to know your comrades. Any other questions?</td>
+  <td colspan="2">*<i>Augustus salutes you with a smirk on his face.</i>* Alright, [rank]. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
+</tr>
+<tr>
+  <td>...Sorry, did you say *Chud Steel* earlier?</td>
+  <td>I think that's all, thank you Sentinel.</td>
+  <td>Could you tell me more about the Shock Corps?</td>
+  <td>I think that's all, thank you Sentinel.</td>
+  <td colspan="2">End</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
+  <td>[See previous instance]</td>
+  <td>[See previous instance]</td>
+  <td>[See previous instance]</td>
 </tr>
 </tbody>
 </table>
@@ -374,15 +384,15 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">*<i>You salute the Sentinel, and he salutes you back</i>*Welcome back, Frontliner [name]. I hope your Shock Corps training has been doing well. Don't worry - we'll get you in tip-top shape in no time. ...Well. You didn't just come to gawk at me and Interceptor Chud Steel, right? Do you have some questions?</td>
+  <td colspan="4">*<i>You salute the Sentinel, and he salutes you back</i>* Welcome back, [rank] [name]. I hope your Shock Corps training has been doing well. Don't worry - we'll get you in tip-top shape in no time. ...Well. You didn't just come to gawk at me and Interceptor Chud Steel, right? Do you have some questions?</td>
 </tr>
 <tr>
   <td colspan="2">Could you tell me more about the Shock Corps?</td>
   <td colspan="2">...Sorry, did you say *Chud Steel* earlier?</td>
 </tr>
 <tr>
-  <td colspan="2">*<i>Augustus nods.</i>* I assume Drill Sergeant Kernel must have given you the general gist of each of the military branches. But basically, we're the elite heavy infantry. The division that goes right into the action, and gets things <b>done</b>. Only the toughest and strongest make it in the Shock Corps, and we train our members to be juggernauts in the field. We're kinda like a sledgehammer - when Warden Jericho feels a wall is beginning to cruble, he sends us in to bring it all the way down. Any other questions?</td>
-  <td colspan="2">*<i>Saying it out loud yourself, recognition tugs at the back of your mind. You remember now- the name 'Chud Steel' is plastered all over Authority recruitment posters</i>*Yeah. The very same. Did you know he's a fellow Shock Corps member? They assigned him here not long ago to serve as my assistant. Just a damned shae his deployment isn't likely to be permanent. You two should have chat once we're finished - it is good to know your comrades. Any other questions?</td>
+  <td colspan="2">*<i>Augustus nods.</i>* I assume Drill Sergeant Kernel must have given you the general gist of each of the military branches. But basically, we're the elite heavy infantry. The division that goes right into the action, and gets things <b>done</b>. Only the toughest and strongest make it in the Shock Corps, and we train our members to be juggernauts in the field. We're kinda like a sledgehammer - when Warden Jericho feels a wall is beginning to crumble, he sends us in to bring it all the way down. Any other questions?</td>
+  <td colspan="2">*<i>Saying it out loud yourself, recognition tugs at the back of your mind. You remember now- the name 'Chud Steel' is plastered all over Authority recruitment posters</i>*Yeah. The very same. Did you know he's a fellow Shock Corps member? They assigned him here not long ago to serve as my assistant. Just a damned shame his deployment isn't likely to be permanent. You two should have chat once we're finished - it is good to know your comrades. Any other questions?</td>
 </tr>
 <tr>
   <td>...Sorry, did you say *Chud Steel* earlier?</td>
@@ -392,45 +402,14 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tr>
 <tr>
   <td>[See previous instance]</td>
-  <td>*<i>Augustus salutes you with a smirk on his face.</i>* Alright, Frontliner. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
+  <td>*<i>Augustus salutes you with a smirk on his face.</i>*Alright, [rank]. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
   <td>[See previous instance]</td>
-  <td>*<i>Augustus salutes you with a smirk on his face.</i>* Alright, Frontliner. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
+  <td>*<i>Augustus salutes you with a smirk on his face.</i>*Alright, [rank]. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
-</tr>
-</tbody>
-</table>
-
-**Interceptor:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
+  <td></td>
   <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
+  <td></td>
   <td>End</td>
 </tr>
 </tbody>

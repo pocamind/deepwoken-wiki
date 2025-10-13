@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 165842
+revid: 165966
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -13,7 +13,7 @@ notices:
 
 | Captain Trist | |
 |---|---|
-| name | Captain Trist |
+| name | Trist |
 | aspect | Adret |
 | location | Fort Merit |
 

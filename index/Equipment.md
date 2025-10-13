@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 163896
+revid: 165996
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1674,6 +1674,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Lodestar](Lodestar.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Black, Brown, & White |
@@ -1743,6 +1744,7 @@ Found from:
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Lodestar](Lodestar.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
@@ -2101,6 +2103,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Black & White
@@ -3285,6 +3288,7 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
@@ -3475,6 +3479,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [War Mode](War_Mode.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Black & White
@@ -4436,6 +4441,7 @@ Found from:
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  | N/A |
 |  | [Whistling Periapt](Whistling_Periapt.md)  
@@ -4700,6 +4706,7 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   [Aelita](Aelita.md)
 -   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Black, Orange, Yellow, Red, Blue, Green, & White |
@@ -5191,6 +5198,7 @@ Found from:
 -   [Fishing](Fishing.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Charged Ring](Charged_Ring.md)  
@@ -5244,6 +5252,7 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Deepfire Ring](Deepfire_Ring.md)  
@@ -5335,6 +5344,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Ferryman's Ring](<Ferryman's_Ring.md>)  
@@ -5401,6 +5411,7 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>) | Allows the user to slide with little delay.
@@ -5417,6 +5428,7 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Light Eater Ring](Light_Eater_Ring.md) | Taking Flamecharm or Thundercall damage (e.g. Mantras, Burn, Surge Overloads) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
@@ -5440,6 +5452,7 @@ Found from:
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Maestro's Ring](<Maestro's_Ring.md>)  
@@ -5582,6 +5595,7 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Ring of Curses](Ring_of_Curses.md) | This ring runs the random event check more frequently and partially ignores anti-event stacking.
@@ -5617,6 +5631,7 @@ Found from:
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [War Mode](War_Mode.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Ring of Wisps](Ring_of_Wisps.md) | Double the amount of charges of Attunement Wisps.

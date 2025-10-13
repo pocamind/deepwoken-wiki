@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 165923
+revid: 165973
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -20,7 +20,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central
 
 ## Description
 
-The gaudily-dressed soldier, more commonly known as Chud Steel, is a Greymarch [Adret](Adret.md) NPC. He is part of the Shock Corps division for [The Central Authority](The_Central_Authority.md), serving as [Sentinel Augustus's](Sentinel_Augustus.md) assistant, which is signified by the [Duskguard Axe](Duskguard_Axe.md) he wields on his back. He is also the face of the Authority's propaganda. Despite this, he is not just a figurehead and is no slouch in combat.
+The gaudily-dressed soldier, more commonly known as Chud Steel, is a Greymarch [Adret](Adret.md) NPC. He is part of the Shock Corps division for [The Central Authority](The_Central_Authority.md), serving as [Sentinel Augustus](Sentinel_Augustus.md)' assistant, which is signified by the [Duskguard Axe](Duskguard_Axe.md) he wields on his back. He is also the face of the Authority's propaganda. Despite this, he is not just a figurehead and is no slouch in combat.
 
 He wears the [Authority Captain Uniform](Authority_Captain_Uniform.md) [Outfit](Outfits.md) with a blue [Authority Helm](Authority_Helm.md), [Brilliant Cape](Brilliant_Cape.md), and [Brilliant Boots](Brilliant_Boots.md), forming quite the garish outfit. Chud Steel holsters a bell at his hip, signifying his strength to obtain a [Resonance](Resonance.md).
 
@@ -203,4 +203,4 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 
 -   Surrounding his character is many letters, presumably fan-letters of aspiration as an idol of The Central Authority as referenced in his dialogue.
 -   A chud is a derogatory term for those, usually male, who hold beliefs that are seen as reactionary or to be sociopolitically regressive, particularly racism and extreme ethnonationalism.
--   Dialogue referencing him being placed in the Central Luminant and he himself stating that "Chud Steel" is a "long-running family name" may imply that "Chud Steel" is not an individual so much as an identity held by multiple individuals in order to boost morale. The fact he has 15 brothers could be a further hint, as there wouldn't be a shortage of people who share a similar appearance
+-   Dialogue referencing him being placed in the Central Luminant and he himself stating that "Chud Steel" is a "long-running family name" may imply that "Chud Steel" is not an individual, so much as an identity held by multiple individuals in order to boost morale. The fact he has 15 brothers could be a further hint, as there wouldn't be a shortage of people who share a similar appearance

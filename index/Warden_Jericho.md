@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 165609
+revid: 166006
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -12,7 +12,7 @@ notices:
 
 | Warden Jericho | |
 |---|---|
-| name | Warden Jericho |
+| name | Jericho |
 | aspect | Adret |
 | location | Fort Merit |
 
@@ -40,7 +40,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 **No division:**
 
-**Private:**
+**Private / Corporal:**
 
 <table>
 <tbody>
@@ -48,23 +48,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Private. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Corporal:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Corporal. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
+  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...[Rank]. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -238,12 +222,57 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td colspan="4">TBA <i>*The player receives Rite of Authority*</i></td>
 </tr>
 <tr>
+  <td colspan="4">May I ask you something, Warden?</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*Warden nods with a solemn air*</i> Go ahead, Seneschal. You are welcome to inquire.</td>
+</tr>
+<tr>
+  <td colspan="4">Could you tell me about yourself?</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*The Warden sighs without sighing.*</i> I am not entirely certain you will find my personal history particularly fascinating, Seneschal. &lt;y upbringing does not exactly feature tales of overcoming hardship in my upbringing. You may ask regardless.</td>
+</tr>
+<tr>
+  <td colspan="2">How did you join the Authority military?</td>
+  <td colspan="2">How did you become the Warden of Fort Merit?</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*His eyes of dulled crimson gaze towards the middle distance, his focus drifting towards the past.*</i> I grew up around military traditon. It was only natural that I'd enlist eventually. Both of my fathers served in the military. One of them, Aladrian, is a decorated veteran of high rank, who served as Warden of the East before me, overseeing a period of peaceful trade. The other, Octavius, is the former Inquisitor Maximus of the Central Authority, overseeing all High Inquisitors.</td>
+  <td colspan="2"><i>*His mind wanders in distant recollection.*</i> Once my father Aladrian retired from his position as Warden of the East, I was assigned as his successor by order of our Sovereign of Eras, Drallis Ehr. When I took upon the office, I was instructed to estabilish a spearhead in the Eastern Luminant. Determining that Fortress Cascabel, a former prison on the outer reaches of Etrean influence, would be the best position for estabilishing a foothold, we laid siege to it, and conquered it.</td>
+</tr>
+<tr>
+  <td>How did you become the Warden of Fort Merit?</td>
+  <td>That is all, Warden, thank you.</td>
+  <td colspan="2">So, Fort Merit was built on a former Etrean prison?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
+  <td>TBA</td>
+  <td colspan="2">*The Warden nods.* The defending garrison fought valiantly. But valour alone is sometimes not enough when faced with vastly overwhelming firepower. The Etrean people insist that the takeover was the display of our 'barbarity'. But I would call it a necessary, if drastic, measure. Nothing in Lumen can compare to the evil which sleeps within that Kingdom.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>End</td>
+  <td>How did you join the Authority military?</td>
+  <td>That is all, Warden, thank you.</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td>[See first instance]</td>
+  <td>TBA</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
   <td>End</td>
 </tr>
 </tbody>
@@ -371,103 +400,13 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 **Shock Corps Division:**
 
-**Frontliner:**
-
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Frontliner. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Interceptor:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>colspan="1"</td>
-  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Interceptor. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Operator:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>colspan="1"</td>
-  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Handler. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> [Rank]. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>

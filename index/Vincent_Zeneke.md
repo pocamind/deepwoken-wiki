@@ -1,11 +1,9 @@
 ---
 title: Vincent Zeneke
-revid: 165907
+revid: 165951
 source: https://deepwoken.fandom.com/wiki/Vincent_Zeneke
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Lore figures]
 ---
 
 # Vincent Zeneke
@@ -13,8 +11,8 @@ notices:
 | Vincent Zeneke | |
 |---|---|
 | name | Vincent Zeneke |
-| aspect | Felinor |
+| aspect | Ganymede |
 
 ## Overview
 
-Vincent Zeneke is a character in Deepwoken, they are a bookwriter who investigates about the background of many famous songs in Deepwoken such as The Gideshu March or The Song of Fathoms, as seen in their monographs ''Songs of the Sea''.
+Vincent Zeneke is a scholar who records the history of music across Lumen. Their monograph, 'Songs of the Sea', is an extensive work covering many different pieces, and was written in collaboration with Alloras Munet, a Central Authority navy recordkeeper, Aurelia Imari, a member of the High Convocation, and the Citadel of Markor. Vincent enjoyed a research stay in the Citadel for the purposes of research to aid with writing the monograph.

@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 163263
+revid: 165985
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,11 +15,12 @@ categories: [Equipment, Rings]
 | selling price | 25 |
 | requirements | Power 3 |
 | weight | 0.1 |
-| innate stats | +1 Uncommon Pipobtainment=Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Lodestar, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent |
+| innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
+| obtainment | Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Lodestar, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent, Authority Ensign Missions |
 | description | Flourishing an opponent has a chance to stun them automatically. |
 
 ## Description

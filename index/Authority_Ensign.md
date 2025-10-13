@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165849
+revid: 165999
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -56,7 +56,7 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 
 ### Traitor
 
-Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in the [Chime of Conflict](Chime_of_Conflict.md) and other non-overworld locations.
+Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills other non-overworld locations.
 
 Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor(Might need some testing, as it is inconsistent/Bugged).
 
@@ -113,7 +113,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   For the Miner's Landing location, the Blacksteel Pirates will be fighting the [Ignition Union Guards](Ignition_Union_Guard.md) by the time you get there. You can use this chaos to grab the hostage and flee.
         -   For the Summer Isle location, the Blacksteel Pirates are located around the front of the building, so if you sneak in through the hole in the back wall, you can avoid combat altogether.
 4.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\].. Distribute this information to your Squad._
-    -   Objective: The player and their squad are tasked with defending two Authority-branded banners from 3 waves of enemies.
+    -   Objective: The player and their squad are tasked with defending two or three Authority-branded banners from 3 waves of enemies.
     -   Potential Locations:
         -   [Miner's Landing](<Miner's_Landing.md>); 19 minute 30 second time limit
         -   [Summer Isle](Summer_Isle.md); 1 hour 5 minute 20 second time limit
@@ -145,22 +145,17 @@ This list may be incomplete.
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b><font>Light Weapons</font></b>: <a href="Central_Dirk.md">Central Dirk</a>.</li>
-    <li><b><font>Medium Weapons</font></b>: TBA</li>
-    <li><b><font>Heavy Weapons</font></b>: TBA</li>
-    <li><b><font>Offhand Weapons</font></b>: TBA</li>
+    <li><b>Light Weapons</b>: <a href="Central_Dirk.md">Central Dirk</a>.</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: TBA</li>
     <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black).</li>
     <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
     <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
     <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
-    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: TBA</li>
     <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
   </ul></td>
 </tr>
@@ -497,7 +492,7 @@ Your starting faction [reputation](Reputation.md) is:
 -   ' **_by [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)_**
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
--   You cannot gain [Etrea](Etrea.md) reputation. This restriction will be removed, should you be Exiled.
+-   You cannot gain [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled.
 
 If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 

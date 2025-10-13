@@ -1,9 +1,9 @@
 ---
 title: Zana
-revid: 163757
+revid: 165986
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests, Rings]
+categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
 ---
 
 # Zana

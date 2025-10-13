@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 165882
+revid: 165935
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -337,8 +337,9 @@ Blunt
 
 **Effect:** _User utilizes Tacet then teleports themselves above an opponent before hitting them with a kick._
 
+-   Has a base damage of 15/18/21/24/27 with 1.65 Strength scaling.
 -   Inflicts knockdown.
--   Lands 15% faster when casted while wielding Jus Karita.
+-   Lands 15% faster while wielding [Jus Karita](Jus_Karita.md).
 -   Requirements are increased if you have an Attunement.
 -   Can still be used after removing [Tacet](Murmur%253A_Tacet.md).
 
@@ -377,7 +378,10 @@ Blunt
 
 **Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
 
--   Shares a cooldown with [Grab Mantras](List_of_Grab_Mantras.md).
+-   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
+-   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
+-   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
+-   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 

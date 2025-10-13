@@ -1,18 +1,26 @@
 ---
 title: "Lance's Brother"
-revid: 159261
+revid: 165927
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, Food Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Vendors, Food Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Lance's Brother
 
-Template:NPC name
+| Lance's Brother | |
+|---|---|
+| name | Lance's Brother |
+| aspect | Etrean |
+| location | Isle of Vigils |
 
 ## Description
 
-**Lance's Brother**, also known as **(?),** is an [Etrean](Etrean.md) NPC, located in at the [Isle of Vigils](Isle_of_Vigils.md), inside of a food stand near the docks. He sells various [food](Food.md) items.
+**Lance's Brother**, also known as **(?),** is an [Etrean](Etrean.md) NPC, he sells various [food](Food.md) items at his stand.
+
+## Location
+
+Lance's Brother is located near the docks of [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Wares
 

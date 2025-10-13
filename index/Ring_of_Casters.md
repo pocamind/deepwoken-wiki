@@ -1,6 +1,6 @@
 ---
 title: Ring of Casters
-revid: 164610
+revid: 165994
 source: https://deepwoken.fandom.com/wiki/Ring_of_Casters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Etrea VS Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Saramaed Hollow, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict |
+| obtainment | Etrea VS Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Saramaed Hollow, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Authority Ensign Missions |
 | description | Mantra damage increased by 10% but reduces melee damage by 10%. |
 
 ## Description

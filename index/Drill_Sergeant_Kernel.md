@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 165743
+revid: 165948
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -31,6 +31,8 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 
 **No division:**
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
@@ -40,7 +42,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td><i>*The imposing, armoured Celtorian man looks down at you.*</i> What do we have HERE? <i>YOU</i> must be one of the ROOKIES. High Command TOLD us we'd be getting new recruits, but you look a little SCRAWNY, soldier! What is your FULL NAME AND RANK, SOLDIER?</td>
 </tr>
 <tr>
-  <td>I'm Private [Player's First and Last Name], sir!<br>
+  <td>I'm [Rank] [Player's First and Last Name], sir!<br>
   <font>[Player Salutes]</font></td>
 </tr>
 <tr>
@@ -113,7 +115,79 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Command division:**
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="16">Begin</td>
+</tr>
+<tr>
+  <td colspan="16"><i>*You salute the Drill Sergeant.*</i> <b>AT EASE</b>, [Rank] [Ensign Name]! Did you come here to <i>TRAIN</i> with your comrades, or are you here to <b>ASK</b> me something, soldier?</td>
+</tr>
+<tr>
+  <td colspan="8">I wanted to ASK about the ORDER OF THINGS again, SARGE!</td>
+  <td colspan="8">I came to TRAIN, sarge!</td>
+</tr>
+<tr>
+  <td colspan="8">Looks like I was right about your <i>TINY MUDDLED MIND</i> getting all SCRAMBLED, [Rank] [Ensign Name]! But I believe REPETITION is the mother of <b>LEARNING</b>! You have my <b>PERMISSION</b> to <b>ASK AWAY</b>, WORM!</td>
+  <td colspan="8">Then GO AHEAD, [Rank] [Ensign Name]! You have MY PERSONAL PERMISSION to beat the SNOT out of each other! MAKE ME PROUD!!!</td>
+</tr>
+<tr>
+  <td colspan="2">I'd like to hear about MISSIONS again, sergeant!</td>
+  <td colspan="2">I'd like to hear about GOING AWOL again, sergeant!</td>
+  <td colspan="2">I'd like to hear about RANKING UP again, sergeant!</td>
+  <td colspan="2">I'd like to hear about DIVISIONS again, sergeant!</td>
+  <td colspan="8">End</td>
+</tr>
+<tr>
+  <td colspan="2">LISTEN UP, [Rank] [Ensign Name]! Your main task is to <b>COMPLETE MISSIONS</b> assigned to you by <b>CAPTAIN TRIST</b>! He is your <i>MAIN</i> point of contact for all of your <b>ASSIGNMENTS</b> - LOVE} him and RESPECT him! Did you GET ALL THAT, [Rank] [Ensign Name]?</td>
+  <td colspan="2">PAY ATTENTION, [Rank] [Ensign Name]! <i>UNLESS</i> you are out on the field on an <b>ASSIGNED MISSION</b>, you may <b>NOT</b> take leave of AUTHORITY-CONTROLLED TERRITORY for longer than <b>FIFTEEN MINUTES</b>, until you are <b>ASSIGNED TO A DIVISION</b>! If you <b>BREACH</b> this rule, you will be declared <b>AWOL</b> and be <b>BRANDED A DESERTER</b>! You will become <b>AN ENEMY OF THE AUTHORITY</b>! And if you SHOW YOURSELF here <i>AFTER</i> that, may all the gods have MERCY on your <i>SOUL</i>, for I will have NONE!</td>
+  <td colspan="2">You better be ALL EARS this time, [Rank] [Ensign Name]! When you <b>COMPLETE ASSIGNMENTS</b>, you earn <b>RANK POINTS</b>! Once you earn a certain amount, you earn a <b>PROMOTON</b>, having proven you're <i>NOT AS SCRAWNY</i> as you look! You start your service as a <b>PRIVATE</b>! There are <b>THREE</b> ranks you must progress through before you are eligible to enter a <b>DIVISION</b> - <b>PRIVATE</b>, <b>CORPORAL</b>, and <b>LANCE CORPORAL</b>! Are we CLEAR on this matter, [Rank] [Ensign Name]?</td>
+  <td colspan="2">LISTEN WELL, [Rank] [Ensign Name]! The <b>SHOCK CORPS</b> division is led by <b>SENTINEL AUGUSTUS BAASET</b>, the <b>INQUISITION</b> is led by <b>HIGH INQUISITOR MEREY SCARSEN</b>, and the <b>COMMAND</b> division is led by the mighty <b>WARDEN JERICHO</b>, who is our SUPREME COMMANDER in this godforsaken region! Once you <b>ENLIST</b> with on of them, <b>THEY</b> will be <b>OVERSEEING</b> your <b>FURTHER DUTIES</b>! You better be PAYING ATTENTION, [Rank] [Ensign Name], or so help me Gods!</td>
+</tr>
+<tr>
+  <td colspan="2">YES, sergeant!</td>
+  <td colspan="2">CONTINUE, sergeant!</td>
+  <td colspan="2">OF COURSE, sergeant!</td>
+  <td colspan="2">I'M LISTENING, sergeant!</td>
+</tr>
+<tr>
+  <td colspan="2">OutSTANDING! You best keep that information <b>SAFE</b> in that <i>TINY MUDDLED MIND</i> of yours, [Rank] [Ensign Name! Do you have <b>ANY OTHER questions, worm?</b></td>
+  <td colspan="2">You may <b>AVOID</b> going <b>AWOL</b> in <i>MULTIPLE</i> way! As you already know, soldiers can <b>FORM SQUADS</b>! If you <b>JOIN A SQUAD</b> under an <b>OFFICER'S</b> command, you may accompany them on <b>INDEPENDENT MISSIONS</b>! Or, once you are <b>ASSIGNED TO A DIVISION</b>, you may <b>FEEL FREE</b> to hustle off your <i>SCRAWNY BEHIND</i> <b>OUTSIDE</b> of <a href="Glossary.md#the-central-authority">Authority</a> territory, to engage in <b>INDEPENDENT OPERATIONS</b> at your own discretion! Did you GET ALL THAT, [Rank] [Ensign Name]?</td>
+  <td colspan="2">Once you become a <b>LANCE CORPORAL</b>, you may choose to <b>ENLIST WITH A DIVISION</b> if you <b>MEET</b> their requirements! This is assessed according to your <b>PERFORMANCE ON THE FIELD</b>! You may <b>ENLIST</b> on a division by <b>TELLING</b> the respective <b>DIVISION LEADERS</b> you want to <b>JOIN</b> their ranks! Show them their DUE RESPECT, soldier, or I will SHOW YOU MY BOOT! Did you GET ALL THAT, [Rank] [Ensign Name]?</td>
+  <td colspan="2">The divisions have <b>THEIR OWN RANKS</b>! The hierarchy for the <b>INQUISITION</b> is <i>INQUISITOR</i>, <i>INQUISITOR 1ST CLASS</i>, and <b>HANDLER</b>. For the <b>SHOCK CORPS</b>, it's <i>FRONTLINER</i>, <i>INTERCEPTOR</i>, and <b>OPERATOR</b>! And for the Command division, there's FOUR - <i>WARRANT OFFICER</i>, <i>CAPTAIN</i>, <i>COMMANDER</i>, and <b>SENESCHAL</b>! Note the EXCEPTION, SOLDIER!</td>
+</tr>
+<tr>
+  <td>[See "<font>I wanted to ASK about the ORDER OF THINGS again, SARGE!</font>"]</td>
+  <td>That's ALL, THANK you, sergeant!</td>
+  <td colspan="4">YES, sergeant!</td>
+  <td colspan="2">EXCEPTION NOTED, sergeant!</td>
+</tr>
+<tr>
+  <td></td>
+  <td>That's EXCELLENT, [Rank] [Ensign Name]! You are hereby <b>DISMISSED</b>! <b>DISAPPEAR</b>, worm!</td>
+  <td colspan="4">[See previous instance]</td>
+  <td colspan="2">Once you are the <b>HIGHEST DIVISION RANK</b>, your division leaders may have <b>INTERESTING THINGS</b> to tell you! It is <b>EASIER</b> to confide occupational intricacies to your <b>TOP RANKING</b> SUBORDINATES! What is NOT easy, soldier, is repeating things! I've already explain to <i>SIEVE-BRAINS</i> like YOU! I hope you've <i>MEMORISED</i> all of that this time!</td>
+</tr>
+<tr>
+  <td></td>
+  <td>End</td>
+  <td colspan="4"></td>
+  <td colspan="2">YES, sergeant!</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="2">[See previous instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Command Division:**
+
+**Warrant Officer:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -121,7 +195,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the COMMAND division, Commander [name]! Maybe the mind of Private [Authority Name] wasn't MUDDLED after all! I hope you make us all ""REAL DAMN PROUD"" with your tactical skills! The next time you talk to ""WARDEN JERICHO"". I'd appreciate it if you could put in a ""GOOD WORD"" in favour of the TRAINING GROUNDS getting some new TRAINING WEAPONS! ""THREE CHEERS!!!""</td>
+  <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the COMMAND division, Warrant Officer [Ensign Name]! Maybe the mind of Private [Ensign Name] wasn't MUDDLED after all! I hope you make us all <b>REAL DAMN PROUD</b> with your tactical skills! The next time you talk to <b>WARDEN JERICHO</b>. I'd appreciate it if you could put in a <b>GOOD WORD</b> in favour of the TRAINING GROUNDS getting some new TRAINING WEAPONS! <b>THREE CHEERS!!!</b></td>
 </tr>
 <tr>
   <td>End</td>
@@ -129,7 +203,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Inquisiton division:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -137,7 +211,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You exchange salutes with Drill Sergeant Kernel.*</i> Looks like you've enlisted in the <b>INQUISITION</b> division, [Rank and Last name]! You must be as cunning as the proverbial <i><b>FOX</b></i>! At least, I <i>BELIEVE</i> that's the expression for the <b>HIGH INQUISITOR</b> uses! I hope you exercise <b>RESTRAINT</b> in your role!.. You know, it's hard to believe <b>HOW FAR</b> Private Flipper has come! If you see the <b>HIGH INQUISITOR</b>, tell her about you <b>CALLSIGN</b>, she'll <i><b>LOVE</b></i> it! <i><b>OORAH!!!</b></i></td>
+  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>
@@ -145,7 +219,9 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Shock Corps division:**
+**Captain:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -153,7 +229,299 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You exchange enthusiastic salutes with Drill Sergeant Kernel.*</i> I see you've enlisted in the <b>SHOCK CORPS</b>, [Rank] [Player name]! It's hard to beleive a former <i>SCRAWNY</i> recruit like Private [Authority name] is now a fellow <b>SHOCK INFANTRY</b> soldier, but I guess I've helped you <i>PUT SOME MUSCLE</i> on those bones! I'm <i><b>REAL DAMN PROUD</b></i>, soldier! The next time you talk to <b>SENTINEL AUGUSTUS</b>, tell him I send him <i><b>ALL THE BEST</b></i>! <i><b>OORAH!!!</b></i></td>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Commander:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Seneschal:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition Division:**
+
+**Inquisitor:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You exchange salutes with Drill Sergeant Kernel.*</i> Looks like you've enlisted in the <b>INQUISITION</b> division, [Rank] [Ensign Name]! You must be as cunning as the proverbial <i><b>FOX</b></i>! At least, I <i>BELIEVE</i> that's the expression for the <b>HIGH INQUISITOR</b> uses! I hope you exercise <b>RESTRAINT</b> in your role!.. You know, it's hard to believe <b>HOW FAR</b> Private [Ensign Name] has come! If you see the <b>HIGH INQUISITOR</b>, tell her about your <b>CALLSIGN</b>, she'll <i><b>LOVE</b></i> it! <i><b>OORAH!!!</b></i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition 1st Class:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Handler:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shock Corps Division:**
+
+**Frontliner:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*You exchange enthusiastic salutes with Drill Sergeant Kernel.*</i> I see you've enlisted in the <b>SHOCK CORPS</b>, [Rank] [Ensign Name]! It's hard to believe a former <i>SCRAWNY</i> recruit like Private [Ensign Name] is now a fellow <b>SHOCK INFANTRY</b> soldier, but I guess I've helped you <i>PUT SOME MUSCLE</i> on those bones! I'm <i><b>REAL DAMN PROUD</b></i>, soldier! The next time you talk to <b>SENTINEL AUGUSTUS</b>, tell him I send him <i><b>ALL THE BEST</b></i>! <i><b>OORAH!!!</b></i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Interceptor:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Operator:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>
@@ -162,8 +530,6 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </table>
 
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>
@@ -190,7 +556,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>If the <b>GODS</b> wanted you to <i>LIVE</i>, they would not have created ME!</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End, player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>

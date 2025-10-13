@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 165918
+revid: 165980
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -327,6 +327,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 10% short
 -   [Heart of Enmity](Heart_of_Enmity.md)
 -   [War Mode](War_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Authority Ensign](Authority_Ensign.md) Missions
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 6
 
  |

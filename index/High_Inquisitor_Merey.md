@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 165573
+revid: 165968
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -12,7 +12,7 @@ notices:
 
 | High Inquisitor Merey | |
 |---|---|
-| name | High Inquisitor Merey Scarsen |
+| name | Merey Scarsen |
 | aspect | Canor |
 | location | Fort Merit |
 
@@ -58,7 +58,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Corporal - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -76,7 +76,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*You recognize the shadow-clad Canor woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor Merey Scarsen. You offer a salute.*</i> ...Ah, you must be... Lance Corporal [Ensign Name] was it? Very good, I had just finished over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
+  <td colspan="2"><i>*You recognize the shadow-clad Canor woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor, Merey Scarsen. You offer a salute.*</i> ...Ah. You must be... Lance Corporal [Last Name] was it? Very good. I had just finished looking over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
 </tr>
 <tr>
   <td>Yes, High Inquisitor.</td>
@@ -84,7 +84,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tr>
 <tr>
   <td><i>*You salute the High Inquisitor. She offers a solem, graceful salute in return.*</i> Very well, Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Inquisitor of The Central Authority. You shall now serve under my supervision. May you be the faithful eyes and ears of the Authority, may you act as it's rentless, haunting shadow, and may you slice apart with measured blade the chains that seek to bind us. You may report back to me at your discretion.</td>
-  <td><i>*The High Iqnuisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.*</i> Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.</td>
+  <td><i>*The High Inquisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.*</i> Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.</td>
 </tr>
 <tr>
   <td>End, player joins Inquisition Division</td>
@@ -101,7 +101,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Lance Corporal - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
 </tr>
 <tr>
   <td>End</td>

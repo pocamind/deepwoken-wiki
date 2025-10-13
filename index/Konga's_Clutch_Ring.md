@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 153316
+revid: 165992
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -11,7 +11,7 @@ categories: [Items, Equipment, Rings]
 | Konga's Clutch Ring | |
 |---|---|
 | type | Ring |
-| rarity | Uncommon (Yellow) |
+| rarity | Uncommon |
 | selling price | 19 |
 | requirements | Lvl 3 |
 | weight | 0.1 |
@@ -20,7 +20,7 @@ categories: [Items, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Erisia, Maestro Evengarde Rest, Lodestar, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Chime of Conflict, Pure ore turn-ins |
+| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Erisia, Maestro Evengarde Rest, Lodestar, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Chime of Conflict, Pure ore turn-ins, Authority Ensign Missions |
 | description | Konga's Clutch Ring allows the user to slide with little delay.Decreases the speed reduction when entering a slide. |
 
 ## Description
