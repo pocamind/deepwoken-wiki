@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 161559
+revid: 165918
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -50,6 +50,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 1
+-   [Ministry Agent](Ministry_Agent.md)/[The Understrand](The_Understrand.md)
 
  |
 | 
@@ -80,6 +81,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 1
+-   [Ministry Agent](Ministry_Agent.md)/[The Understrand](The_Understrand.md)
 
  |
 
