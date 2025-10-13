@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 165739
+revid: 165849
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -99,7 +99,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   If there is an active prison break, this mission will be highly favored by RNG when choosing a Mission, having a very high chance that you get this one instead of any others.
         -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question. Remember to use your Horn of the Authority to locate them.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
-    -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage with V and run away with them. Once you get far enough away, the mission will be complete.
+    -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage by pressing V and run far enough away from where the hostage was being kept to complete this Mission.
     -   Potential Locations:
         -   [Derelict Highchurch](Derelict_Highchurch.md) - the hostage is behind the altar in the church; 45 minute 30 second time limit
         -   [Miner's Landing](<Miner's_Landing.md>) - the hostage is in the inn on the second floor; 21 minute 20 second time limit
@@ -482,11 +482,10 @@ Shock Corps Division
 
 -   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
 -   If you aren't on a mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
--   You cannot craft any [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
-    -   You can craft the [Authority Commander](Authority_Commander.md) Outfit if you are in the Command division however.
+-   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
-    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md), and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
--   Because the Master Armors are immediately equipped upon joining your Division, if you craft any other Outfit while Exiled, they will be lost permanently.
+    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
+-   Because the Master Armors are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
 
 ## Reputation
 

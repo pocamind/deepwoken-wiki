@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 159185
+revid: 165874
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Reputation, Factions, The Divers]
@@ -13,9 +13,9 @@ categories: [Guilds, Reputation, Factions, The Divers]
 | territory | Central Luminant, Island of Markor , The Depths |
 | goals | Research The Depths and bring the information back to the surface to The Authority |
 
-“ If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though. ”
+“ TO THE DEEPEST FATHOMS! ”
 
-― Akira
+― Motto of The Divers, per 'A Deathscribe's Journal'
 
   
 
@@ -26,6 +26,8 @@ The Divers are a faction implanted in The Central Luminant at the Island of Mark
 Their stated purpose is to learn to better understand [The Depths](The_Depths.md) in order to combat its expansion and protect the surface from the creatures of the Deep.[\[1\]](#cite-note-0-1) The Divers consist of a variety of ranks given to each and every diver based on their power and knowledge; the standard Diver is the vast majority of the Divers, typically normal scholars and researchers who are interested in various facets of the world. They do not typically live long and make up about 95% of the Divers. The other 5% consist of more powerful Divers including Black Divers, which are prestigious and extremely strong individuals who appear very few in every generation of Divers. They assist the Divers by taking on foes a normal Diver wouldn’t be able to handle, typically representing one squad of normal Divers on their own. Notable Black Divers include Amorus Pleeksty, who kept very loose relations with the Divers before his disappearance and Akira, who can be found at Castle Light after talking to him in The Scyphozia. The Divers utilize the Song to fight primarily when their lives are in danger, but some Divers are selfish and do not hesitate to fight for their own research and interest, even against other Divers. Therefore, there is frequent conflict within the ranks.
 
 The Citadel possess a mortuary wing for the Divers that specifically handles memorials and documents all Divers who pass. Black Divers get gilded memorials.[\[2\]](#cite-note-2) A, more humble, graveyard of Divers can be seen to the left when entering [Castle Light](Castle_Light.md).
+
+The official motto of The Divers is "To The Deepest Fathoms."[\[3\]](#cite-note-3)
 
 ## Gameplay
 
@@ -55,7 +57,7 @@ You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a de
 
 **[Amorus Pleeksty](Amorus_Pleeksty.md):** As a former Black Diver, Pleeksty still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He is most likely residing currently in the Third Layer of [The Depths](The_Depths.md), also known as The Vents. In his time as a Black Diver, he was the first to venture into the Third Layer (and currently is the only one that has done so) and consumed a part of the Drowned God of Fire, Korilfiend, in the form of a flower, causing him to become a **Deepwoken** and ascend to a near-godlike state. This newfound enlightenment allowed him to become the first true Flamecharmer, refining the art of pyromancy into what is commonly used today. He would then go on to establish a group known as “The Covenant of Flame,” a group of passionate Flamecharmers who wish to follow the same path as Amorus Pleeksty, almost religiously studying his books and practicing his teachings such as the Flame Within. Pleeksty, however, has come to think little of them, only now seeing them as a fan club. He would later join the Divers but would disappear into the Vents once more. Despite his tremendous power and age, he is described as a "chill" guy; if anyone encounters him, Pleeksty will most likely be very amicable.
 
-**[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who secretly possesses the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his true goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but would later reveal that he had betrayed the Divers long ago. With the assistance of the native [Kyrsgarde](Kyrsgarde.md), Chaser murdered all the Divers who went with him in the original expedition he was a part of.[\[3\]](#cite-note-3) He then slaughtered the other Divers that were involved in expeditions following that one.[\[4\]](#cite-note-4)[\[5\]](#cite-note-5) The players later encounter him as the boss of the First Floor of the Second Layer. He is for all intents and purposes Ministry aligned, having been a man on the inside for them for years.
+**[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who secretly possesses the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his true goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but would later reveal that he had betrayed the Divers long ago. With the assistance of the native [Kyrsgarde](Kyrsgarde.md), Chaser murdered all the Divers who went with him in the original expedition he was a part of.[\[4\]](#cite-note-4) He then slaughtered the other Divers that were involved in expeditions following that one.[\[5\]](#cite-note-5)[\[6\]](#cite-note-6) The players later encounter him as the boss of the First Floor of the Second Layer. He is for all intents and purposes Ministry aligned, having been a man on the inside for them for years.
 
 **[Funke, Master of Thunder](Funke,_Master_of_Thunder.md) and [Nell, Master of Frost](Nell,_Master_of_Frost.md):** Funke and Nell wear Black Diver uniforms. Nell can be found at [Etris](Etris.md) and Funke at [Summer Isle](Summer_Isle.md). Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
 
@@ -78,6 +80,7 @@ You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a de
 
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [The Song of Fathoms / Oscillation](Books.md#the-song-of-fathoms--oscillation)
 2.  [↑](#cite-ref-2) [A Deathscribe's Journal](Books.md#a-deathscribes-journal)
-3.  [↑](#cite-ref-3) [Diver Journal, I](Books.md#diver-journal-i)
-4.  [↑](#cite-ref-4) [Diver Journal, II](Books.md#diver-journal-ii)
-5.  [↑](#cite-ref-5) [Diver Journal, III](Books.md#diver-journal-iii)
+3.  [↑](#cite-ref-3) [A Deathscribe's Journal](<https://deepwoken.fandom.com/wiki/Books#A_Deathscribe's_Journal>)
+4.  [↑](#cite-ref-4) [Diver Journal, I](Books.md#diver-journal-i)
+5.  [↑](#cite-ref-5) [Diver Journal, II](Books.md#diver-journal-ii)
+6.  [↑](#cite-ref-6) [Diver Journal, III](Books.md#diver-journal-iii)

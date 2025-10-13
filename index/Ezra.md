@@ -1,14 +1,18 @@
 ---
 title: Ezra
-revid: 156886
+revid: 165861
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Ezra
 
-Template:NPC name
+| Ezra | |
+|---|---|
+| name | Ezra |
+| aspect | Capra |
+| location | Songseeker Wilds |
 
 ## Description
 

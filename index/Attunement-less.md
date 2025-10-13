@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 163224
+revid: 165882
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -667,6 +667,7 @@ Slash + [Bleed](Status_Effects.md#bleed)
 -   Can be upgraded with the **Crippling Comeuppance** Talent, which makes your Revenge put your opponent's mobility slot Mantras on a 15 second cooldown if you land your Revenge. This Talent has a 30 second cooldown.
 -   Wayward Gem does **NOT** proc on Revenge
 -   Can be upgraded with Cloud/Stratus Stones and Drift/Rush Shards to increase Revenge's range.
+-   Can be modified with a Blast Spark, however, the effects are unknown.
 
  |
 | 

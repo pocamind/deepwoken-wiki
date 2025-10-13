@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 164007
+revid: 165860
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs]
@@ -455,7 +455,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
   <td><div><p><b>Quest Location</b>: <a href="Songseeker_Wilds.md">Songseeker Wilds</a><br>
   <b>Guide</b>: Kill Songseekers at <a href="Derelict_Highchurch.md">Derelict Highchurch</a>. This quest was formerly known as "Ku's Shrine".<br>
   <b>Reward(s)</b>: EXP, Bravery</p></div></td>
-  <td><figure>File:Ezra.peengee.png<figcaption><p></p><div><a href="Ezra.md">Ezra</a></div><p></p></figcaption></figure></td>
+  <td><figure><figcaption><p></p><div><a href="Ezra.md">Ezra</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

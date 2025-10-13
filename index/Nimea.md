@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 160315
+revid: 165851
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs]
@@ -14,7 +14,7 @@ categories: [Etrean NPCs, NPCs]
 | aspect | Etrean |
 | location | The Hidden Village |
 
-“ Light is to Void as paint is to a canvas - it draws out substance. ”
+“ I had only ever wished that we could have both lived a normal life together; that they had never found her Gift. ”
 
 ― Nimea
 
@@ -28,6 +28,8 @@ Nimea is a File Etrean dressed in the [Hive Tactician Armor](Hive_Tactician_Armo
 
 Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 
+  
+
 ## Dialogue
 
 **First Encounter:**
@@ -38,7 +40,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Heavy is the burden of the <a href="Glossary.md#lightkeeper">Lightkeeper</a> for the world rests on their shoulders.</td>
+  <td colspan="12">Heavy is the burden of the Lightkeeper for the world rests on their shoulders.</td>
 </tr>
 <tr>
   <td colspan="6">Huh.</td>
@@ -49,11 +51,11 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">That's what I'm trying to figure out. It contradicts the other architecture of this <a href="Glossary.md#driftlands">Driftland</a> - as if this village was constructed by a completely different culture.</td>
 </tr>
 <tr>
-  <td colspan="6">What's a lightkeeper?</td>
+  <td colspan="6">What's a Lightkeeper?</td>
   <td colspan="6">Why do you think that is?</td>
 </tr>
 <tr>
-  <td colspan="6">A <a href="Glossary.md#lightkeeper">Lightkeeper</a> is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between <a href="Glossary.md#the-luminants">Luminants</a> - the Interstitial Lighthouses.</td>
+  <td colspan="6">A Lightkeeper is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between <a href="Glossary.md#the-luminants">Luminants</a> - the Interstitial Lighthouses.</td>
   <td colspan="6">The way the people of this village lived seems to suggest that they were salvagers. Presumably, they came here the last time this <a href="Glossary.md#driftlands">Driftland</a> appeared and made a living salvaging what they could from the ruins, much like how <a href="Glossary.md#pathfinders">Pathfinders</a> today search for objects of interest here.</td>
 </tr>
 <tr>
@@ -61,7 +63,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">What happened to them?</td>
 </tr>
 <tr>
-  <td colspan="6">Light is to Void as paint is to a canvas - it draws out substance. It can illuminate things that have long since faded. Although, these effects are quite temporary. <a href="Glossary.md#lightkeeper">Lightkeeper</a> must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
+  <td colspan="6">Light is to Void as paint is to a canvas - it draws out substance. It can illuminate things that have long since faded. Although, these effects are quite temporary. Lightkeepers must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
   <td colspan="6">There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day, they were in the Light. The next... Not.</td>
 </tr>
 <tr>
@@ -69,7 +71,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*A wistful expression plays upon her face.*</i> A childhood friend of mine was born with the Gift. The first in the <a href="Glossary.md#the-luminants">Luminant</a> in decades, so they said. <i>*She sighs.*</i> I had only ever wished that we could have both lived a normal life together; that they had never found her Gift,</td>
+  <td colspan="6"><i>*A wistful expression plays upon her face.*</i> A childhood friend of mine was born with the Gift. The first in the <a href="Glossary.md#the-luminants">Luminant</a> in decades, so they said. <i>*She sighs.*</i> I had only ever wished that we could have both lived a normal life together; that they had never found her Gift.</td>
 </tr>
 <tr>
   <td colspan="3">Duty Calls, I suppose.</td>

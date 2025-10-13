@@ -1,6 +1,6 @@
 ---
 title: Lucien
-revid: 164287
+revid: 165856
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -30,7 +30,7 @@ categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">No, no, no! Those <i>rats!</i> I can't believe this. Did you see what's going on in there? Did 'ya?!</td>
+  <td colspan="12">No, no, no! Those <i><b>rats!</b></i> I can't believe this. Did you see what's going on in there? Did 'ya?!</td>
 </tr>
 <tr>
   <td colspan="12">What happened?</td>

@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 161886
+revid: 165821
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -99,7 +99,3 @@ The slot selection menu serves as a list of all of your character slots.
 -   Clicking this button will present the prompt where you will have to type in the current name of your character.
     -   The entered name does not have to match the capitalization of your character name but does have to include spaces.
 -   Hitting enter after typing the name of the character will send the character to the Fragments of Self where you can wipe the character.
-
-## Gallery
-
-plz add

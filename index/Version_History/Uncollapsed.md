@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 159454
+revid: 165864
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -23,6 +23,617 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **October 10th, 2025**
+
+**Content & Systems**  
+💡 New MED/BDY Weapon: Kindred Edict  
+💡 Added a new random event and enemy to the Ancient Rotlands  
+💡 Added an index and a search bar to the encyclopedia glossary  
+💡 Not even Greathives are truly safe from the rising waters...  
+  
+**Balancing**  
+⏫ Nightmare Threshers now spawn across the Ancient Rotlands, not just in specific spots  
+⏫ The Ancient Rotlands now has its own event spawn pool  
+⚖️ Windwaker boost slightly reduced, massively reduced while on highway  
+  
+**Bugfixes & Optimization**  
+🩹 Fixed Battle Royale  
+🩹 Fixed being able to shrine Faction mantras  
+🩹 Fixed gripping other Authority members in Chime exiling you  
+🩹 Fixed book glossary entries not being updated if you already clicked them in a session  
+🩹 Fixed glossary entries that appear in books/dialogue failing to be recognised and hyperlinked. Would happen for terms with multiple aliases  
+🩹 Fixed glossary terms in single-quotes not being recognised and hyperlinked  
+🩹 Fixed some edgecases where glossary terms wouldn't be recognised  
+🩹 Fixed unlocking further details in a glossary entry not persisting between aliases of a term. For example, if you found out something new in the 'Authority' entry it wouldn't necessarily transfer over to your entry for the 'Central Authority', even though they both displayed as the same term  
+  
+_Small patch this week as we've been busy releasing a lot of hotfixes throughout the week for the new origin. More Authority missions are in development, as well as more QoL and bugfixes for the Faction._
+
+## **October 5th, 2025**
+
+**Verse 3 Chapter 1: "Duskguard"**  
+💡 New Origin: Authority Ensign. Defeat Titus or obtain Hero reputation with the Central Authority to unlock  
+💡 New Faction: Central Authority. Accessible by starting with the Authority Ensign origin. Ascend through the Authority's ranks, choose a division, and unlock unique abilities and gear  
+📰 **The waves continue to rise.** Tensions in the East mount as the land subsides, the struggle for territory more desperate than ever. Much of the Eastern Luminant has changed with the tides, opening up new paths to find  
+💡 New Faction Weapons & Equipment  
+💡 18 New Faction Talents  
+💡 3 New Faction Mantras  
+💡 Added a cast of 11 new Authority-adjacent NPCs in the environs of Fort Merit  
+💡 New Ambient Track: "Wardens Of The Valiant Dead", by Naktigonis  
+  
+**Movement Refresh**  
+🔧 Modernised many movement animations and added transitions for others  
+⏫ You can now air dash into a slide  
+🔧 Air Dash VFX updated  
+🔧 Sprinting while shift-locked now has your character face your movement direction instead of your camera direction. Helps you perform parkour while shift-locked  
+🔧 Moving quickly now subtly adjusts your FOV to help indicate your change in speed. This can be disabled in settings  
+🔧 Camera Smoothing is now an option in settings, disabled by default. Smooths out camera and focuses on torso movement  
+  
+**Balancing**  
+⏫ Unconscious humanoid mobs now have a counter for damage sustained while KO'd. Once they sustain more than 25% of their max health in damage, they're automatically executed. This counter depletes over time while conscious. The idea here is that you don't have to go around executing crowds of enemies one by one, which is especially annoying in the earlygame. This makes it so non-flamecharmers get to do PvE without having to manually kill every humanoid mob  
+⏫ Removed the action-locking 'flourish' instant execute when you hit a humanoid enemy with a weapon attack greater than 25% of their max HP. Now it'll instakill without locking your actions like it did for attacks greater than 50%. This flourish execute just felt bad and slowed the flow of combat to a halt  
+⏫ Non-weapon attacks can now instakill humanoid enemies if their damage is greater than 25% of the enemy's max HP  
+💣 Mercy Kill is now innate  
+⚖️ Mantras that only start ticking down their CD when on solid ground now have this behavior even when feinted/cancelled. Fixes abuseable mantra feints like Needle Barrage  
+⚖️ Tillian's Beret now gives +10 Ether. HP reduced (7 -> 3)  
+⏬ Iron Slam base damage lowered  
+  
+**Bugfixes & Optimization**  
+⚙️ Remodelled and greatly optimized the different trees in the world. Trees were a huge impact on part count so cheaper trees means more room for new map areas  
+🩹 Fixed being able to wallclip with executes  
+🩹 Disabled collisions on campfires to fix using them to cheese  
+🩹 Fixed a dupe glitch with Packmule boon  
+🩹 Fixed a rare bug where you could wipe if you died while teleporting between servers  
+🩹 Fixed all elevators giving iframes  
+🩹 Fixed NPC gestures not playing on anything but initial (greeting) dialogue  
+🩹 Reduced how long your character was recognized as sprinting for (caused issues where you would stop running and would still do a running light attack)
+
+### _**Patch 2.4.5a**_
+
+  
+**Hotfixes**  
+⏫ Improved rank point rewards for all successful missions  
+⏫ Improved EXP gain for all successful missions  
+⏫ Lowered reqs for Inquisitor division  
+🩹 Fixed various issues with missions  
+🩹 Your squad is now cleared if you leave the game  
+🩹 Added more execution lines to Warden Jericho sentencing you to death  
+🩹 Fixed the hair on Raphael and Rashet trying to escape towards the Heavens  
+🩹 Fixed being able to wield certain weapons without requirements  
+🩹 Fixed mission mobs not despawning on mission end  
+🩹 Fixed world event map markers  
+🩹 Fixed Inquisitor talents not being rollable
+
+### _**Patch 2.4.5b**_
+
+**Hotfixes & Changes**💡 Years ingame are now 8 days outside of the game, matching up to the 8 months of Lumen in lore. For historians, this came into effect in Spring/Hearthspan 1617 CE  
+💡 Slightly tweaked Warmaster's Medallions model  
+💡 Horn of Authority can now be used to call out of enemies of authority  
+💡 You now get exp from jailing as an Authority Ensign  
+💡 Adretian Aegis now recolors uniquely for the Leadership division, colors have also been slightly tweaked to be more aligned with your division.  
+⏫ Increased maximum mission durations  
+⏫ Increased time allowed for travelling to and from missions  
+⏫ Missions now give a lot more attribute training EXP  
+🩹 Fixed not getting your division mantra. You can revisit your division recruiter to get the mantra if you missed it  
+🩹 Fixed not being able to reach Seneschal rank  
+🩹 Fixed Dread Whisper's windup animation  
+🩹 Fixed Alloyed Cavalry Saber  
+🩹 Fixed Providence Coats materials being inconsistent  
+🩹 Fixed a few authority origin talents not showing up  
+🩹 Fixed Inquisitor's Greatsword, Inquisitor's Thorn, and Central Dirk not working with Oppressive Force  
+🩹 Fixed Oppressive Force doing insane PvE damage  
+🩹 Fixed squads resetting on death  
+🩹 Fixed Capture Prisoner mission not spawning
+
+### _**Patch 2.4.5c**_
+
+**Hotfixes**  
+⏫ Buster Call Buffed  
+⚖️ Resonances are now disabled when cuffed  
+🩹 Fixed character creation sometimes failing to teleport you  
+🩹 Fixed Celtor Guard dialogue  
+🩹 Fixed Hallowtide executes  
+🩹 Fixed the Ferryman's defeat dialogue  
+🩹 Fixed the tutorial  
+🩹 Fixed getting the Capture Prisoner mission even though there's no prisoners to capture  
+🩹 Starkindred's Death From Above now cancels when you get hit  
+🩹 Fixed exiled players still being able to cuff others  
+🩹 Gripping a fellow faction member now only exiles you if you execute them  
+🩹 Fixed being able to extract Rite of Authority's crit  
+🩹 Fixed Adretian Aegis not being sellable  
+🩹 Fixed faction mantras (really)  
+🩹 Fixed Secure Perimeter mission ending instantly  
+🔧 Picking a Mantra card no longer forces you with a prompt to replace it. Should help prevent data loss
+
+## **September 29th, 2025**
+
+**Content & Systems**  
+💡 Watchers have been reworked  
+🔧 You can now rebind the jump input  
+🔧 The following keywords in face accessory names now count as beards and can load in: Sideburns, Stubble, Chinstrap  
+🔧 Using gestures now procs Golden Tongue  
+  
+**Talent Scaling / Shrine of Order Buffs**  
+_As voted by the community, we've reduced the harshness of stat scaling and low investment penalties on talents._  
+⏫ Cornered Fool scaling buffed. 0s to 6s between 0 and 100 CHA -> 3s to 6s between 0 and 85 CHA  
+⏫ Underdog scaling buffed. 2% to 4% between 20 and 100 WLL -> 2.5% to 4% between 20 and 60 WLL  
+⏫ Down Comes the Claw scaling buffed. 0s to 6.75s between 0 and 100 AGL-> 4s to 6.5s between 30 and 75 AGL  
+⏫ Lasting Charisma scaling buffed. +15% to +100% between 42 and 73 CHA -> +50% to +100% between 25 and 55 CHA  
+⏫ Audacity buff scaling buffed. 0s to 40s between 0 and 150 AGL+STR -> 30s to 40s between 50 and 150 AGL+STR  
+⏫ Broken Ankles scaling buffed. 0s to 12s between 0 and 70 CHA -> 6s to 12s between 30 and 70 CHA  
+⏫ Unnecessary Theatrics scaling buffed. 0s to 7s between 0 and 75 CHA -> 4s to 7s between 30 and 75 CHA  
+⏫ Foolish Outburst scaling buffed. 0 to 40 between 0 and 50 INT -> 20 to 40 between 20 and 50 INT  
+⏫ Heretic's Sutra CD scaling buffed. 28s to 18s between 0 and 100 WLL -> 24s to 18s between 30 and 100 WLL  
+⏫ Heretic's Sutra windup scaling adjusted. 1.05s to 0.05s between 0 and 100 WLL -> 0.4s to 0.1s between 30 and 100 WLL  
+⏫ Exoskeleton resistance scaling buffed. 10% to 0% between 0 and 40 FTD -> 10% to 5% between 0 and 40 FTD  
+⏫ Pursuit now scales instead of having a 25s CD at 90 AGL and a 40s CD below. Scales from 35s base at 50 AGL to 25s at 90  
+⏫ Crippling Comeuppance now scales instead of being 15s at 100 AGL and 7.5s below. Scales from 10s base at 50 AGL to 15s at 100  
+⏫ Overflowing Dam now scales instead of being +10% at 40 INT and +5% below. Scales from 5% base at 0 INT to 10% at 40 INT  
+⏫ Piercing Will now scales instead of being +10% at 40 WLL and +5% below. Scales from 5% base at 0 WLL to 10% at 40 WLL  
+⏫ Twelve Steps Ahead max CD now scales instead of being 30s at 80 INT and 40s below. Scales from 40s base at 0 INT to 30s at 80 INT  
+⏫ To The Finish scaling buffed. 0% to 10% between 0 and 50 FTD -> 5% to 10% between 20 and 50 FTD  
+⏫ You'll Need To Get Past Me CD scaling buffed. 75s to 55s between 0 and 100 CHA. 65s to 55s between 30 and 100 CHA  
+⏫ Knuckle Guard duration scaling buffed. 0s to 15s between 0 and 80 STR+FTD -> 10s to 15s between 30 and 80 STR+FTD  
+⏫ Dancing Guard duration scaling buffed. 0s to 7s between 0 and 55 FTD -> 4s to 7s between 20 and 55 FTD  
+⏫ Down to your Level duration scaling buffed. 0s to 5s between 0 and 60 CHA -> 3s to 5s between 20 and 60 CHA  
+⏫ Defensive Reprisal duration scaling buffed. 0s to 20s between 0 and 65 CHA -> 12s to 20s between 20 and 65 CHA  
+⏫ Ghost duration scaling buffed. 0.6s to 1.2s between 0 and 40 AGL -> 0.8s to 1.2s between 10 and 40 AGL  
+⏫ Brick Wall knockdown reduction now scales with investment instead of only being active at 100 FTD && 100 WLL  
+⏫ Ether Overdrive's bonus PEN now scales with INT instead of only being active at 90 INT  
+⏫ Million Ton Piercer's bonus PEN now scales with STR instead of only being active at 90 STR  
+⏫ Unwavering Resolve now scales with STR instead of granting 33% at 40 STR and 16.5% below. Scaling is 20% to 33% between 10 and 40 STR  
+⏫ A World Without Song now requires only 4 stacks instead of 5 between 74 and 40 WND  
+⏫ Prime Ether Bullets no longer requires 60 INT to receive its INT scaling  
+⚖️ Donation Drive CD scaling adjusted. 16s to 6s between 0 and 100 CHA -> 12s to 8s between 20 and 60 CHA  
+⚖️ Cheap Shot scaling adjusted. 0% to 15% between 0 and 100 AGL -> 5% to 10% between 20 and 65 AGL. (it was 15% due to a bug)  
+  
+**Movement Revert**  
+_Following community polling, we've reverted almost all of the changes to movement. A few changes have been kept as they don't impact the feel of movement, and these are listed below._  
+🔧 All sources of velocity have been reverted back to the old movement system. This covers all core movement mechanics, as well as rushes like Ceaseless Slashes. Movement is back to its snappy self and shouldn't feel so floaty. A lot of these should actually work on moving ships now, but we'll fix up the remainder over time  
+📰 The improved ledgehang algorithm has been kept as it just improves reliability and doesn't really change the feel of the movement  
+📰 Water resistance has been kept as most mobility was artificially adding it before the changes anyway  
+📰 The input changes have been kept as they just make the movement more intuitive. For example, being able to climb up ledges with input other than W is staying. If there's demand, we can add settings for the input behavior  
+📰 If movement still doesn't feel right to you, don't worry! It shouldn't stay that way. We're gonna be listening very closely to feedback on movement in the coming weeks and wanna make sure everything's back to how it felt before  
+🩹 Fixed a few edgecases where you could get flung or voided  
+🩹 Fixed not being able to initiate a slidejump in midair  
+🩹 Fixed slide jumps at max momentum not ending with a short slide when you land  
+🔧 Your character now has a maximum velocity, helping to prevent flings. This is simply a safety limit and shouldn't affect any intentional movement  
+  
+**"Steady the Boat"**  
+⏫ Steering ships is now MUCH quicker to change directions and will return to neutral when not holding A or D. Since steering comes back to neutral naturally now, 'Centre Steering' has been removed  
+⏫ Steering speed suffers much less of a penalty while ships are stationary  
+⏫ Ships can now reverse much more quickly and much more responsively  
+⏫ Increased steering speed for all ships  
+⏫ Greatly reduced ship cannon windup  
+⏫ Changing your sail length is now a lot quicker and more responsive  
+⚖️ Boats now rapidly come to a stop when not helmed  
+🩹 Fixed ships being easily knocked over  
+  
+**Balancing**  
+⏫ The elevator under Celtor cathedral is now free to operate, a benevolent public service provided at the behest of the Voices  
+⏫ Being Etrean no longer gives you reduced rep with the Children of Navae (didn't make sense considering the etreans were sheltering them)  
+⏫ Flow State window increased  
+⏫ Landing a move with Flow State removes the Flow State CD  
+⏫ Silentheart moves now do Oath damage again  
+⏫ Silentheart skills can now be feinted  
+⚖️ Players that glitch into the trial arena now get sent into their own trial instead of being able to hang around in the arena and jump people  
+⚖️ You now have brief iframes after teleporting up the Trial elevator to prevent getting jumped  
+⚖️ Ranged autoparry is now removed from humanoid mobs when they're not aggroed  
+⚖️ Mayhem HVY now has less vertical velocity and has more horizontal velocity  
+⚖️ Flame Ballista Spring Spark now moves you backward instead of up in the air  
+⏬ Ankle Cutter CD raised  
+⏬ Ankle Cutter doesn't scale off your primary weapon damage anymore and now has fixed damage  
+⏬ Flow State CD is slightly longer now  
+⏬ Landing an enchant proc with a silentheart skill now puts silentheart skill enchant procs on cooldown for 30 seconds  
+⏬ Mani Katti does considerably less damage than before and the range is lowered  
+⏬ Relentless Hunt CD raised to 20 seconds  
+⏬ Relentless Hunt DMG lowered for every type  
+⏬ Silentheart Rising Star, Mayhem, Mani Katti CD Increased  
+⏬ Silentheart skills now have more parry stun than before (previously they had less parry stun because they were changed to behave like m1 parry stuns with the enchant proc change)  
+⏬ Using Silentheart abilities such as Mayhem, Rising Star, Mani Katti, and Relentless Hunt with 0% Tempo will result in the skills being weaker with nerfs such as lower damage, lower posture damage, longer cooldown, windup changes, and additional stun to the user if they get parried  
+⏬ You can no longer use Flame Ballista Spring Spark in the air  
+⏬ Glacial Arc now prevents the use of Mantras for 10s outside of Layer 2 (Glacial Arc is pending a rework so this will be temporary)  
+🩹 Fixed Dread Stacks not working on Oath Mantras and Attunementless Mantras, if there are any attunementless mantras that are unaffected by Dread Stacks they should be reported  
+🩹 Fixed being able to parry during the windup of Relentless Hunt  
+🩹 Fixed movestacking Ankle Cutter with Silent Cascade  
+  
+**Bugfixes & Optimization**  
+🩹 Fixed an issue where the client would get stuck loading forever if you joined during server boot-up. This typically happened when you were the first player to join a server  
+🩹 Fixed mantra hands sometimes getting voided if you get teleported while in the slot replacement menu  
+🩹 Fixed being able to spawn ships inside terrain/behind walls  
+🩹 Fixed Command: Run repeatedly sprinting and unsprinting  
+🩹 Fixed Flamewalker bugging out  
+🩹 Fixed Jeremiah not giving Armorer's Needles  
+🩹 Fixed Mass Effect and Brain Deep Gem bonus not working with Critical Engine  
+🩹 Additional prevention to Relentless Hunt HVY sometimes leaving you in the floor if your opponent is knocked  
+🩹 Fixed being able to run during Metal Rampart windup which usually involved in missing the pillar's summoning  
+🩹 Fixed Blood Orb not spawning a blood pool  
+🩹 Fixed candles
+
+## **September 22nd, 2025**
+
+**Crafting Revamp**  
+💡 Recipes you have the materials for now have a craft button, saving the hassle of clicking and dragging  
+💡 If an item is in your Recipe Book, you can right-click it to view recipes for it  
+💡 The Recipe Book now has a search bar to search for specific ingredients or products  
+💡 The Recipe Book now shows partial recipes for undiscovered recipes if you've discovered all but one of the required ingredients. Partial recipes show their products as '???', but this indicates that there's actually a recipe to be discovered. Any undiscovered ingredients are also shown as '???'. Partial recipes should hopefully help alleviate the frustration of trial and error when we add new recipes to the game, and should make crafting a bit more intuitive for new players. NOTE: Quest recipes like bombs and bait are still hidden until their quests are completed  
+💡 Your character summary, talents, and recipe books are now accessed through a tab system. This will let us expand the menus in future  
+🔧 Recipes that produce multiple of an item now show the quantity produced in your recipe book  
+🔧 Items you have are now highlighted in crafting recipes  
+🔧 You can now hide the old crafting window in settings to make more room for your inventory  
+  
+**Content & Systems**  
+💡 New Recipe: Scholar's Brew. Crafted with a mantra ingredient and any mushroom. Grants training to elemental attributes below 50. Especially useful for those looking to train elements without having a Mantra of said element yet  
+💡 You can now unslot motifs by right-clicking your weapon tool  
+🔧 Greatly increased the game's brightness in dark areas  
+🔧 Backpack categories are now hidden in sell mode if no items are sellable in them  
+  
+**Balancing & Tweaks**  
+⚖️ Characters under Power 10 now spawn within the walls of Celtor when sent to the Depths. The idea here is that it separates the high level Depths gankers and endgame players from earlygame players  
+⚖️ Leaving the Depths with an Idol of Yun'Shul is now only possible once per character. Having a banked supply of idols basically let you avoid ever wiping  
+⚖️ Leaving the Depths through the Shrine of Yun'Shul is now only possible once per character. Now that you can stockpile wishes, you could trivialise the Depths this way. It should be noted that the one-time use for idols is separate to this, so you get a free escape once per method  
+⚖️ Using an uppercut now clears your Heavy M1 Hyperarmor. Heavy hyperarmor is meant to compensate for slow swingspeeds, but uppercuts have a fixed swingspeed, so this change limits the hyperarmor to M1's that actually warrant it  
+⚖️ Critical windup swirl particles are now handled by the telegraph system and now reliably match the duration of the windup. They've also been toned down a bit to reduce visual clutter  
+⚖️ Titus's Raiment physical armor increased back to 30%, Overwhelming Might no longer works with Tableflip or Skyshatter Kick  
+⚖️ Reduced the insane range of Terrapod attacks  
+⏫ Ready or Not works as actually described now. Previously it required both players to be in combat instead of just the user of the talent  
+⏫ The following have gotten a pip upgrade (example: rare pip placed by a legendary pip): Ascended/Western Outlaw Robes/Hat, Evanspear/Reinforced Plate/Helm, Specialist/Shock Trooper Helmet  
+⏬ Gran Sudaruska total crit multiplier damage reduced by 30%  
+⏬ While being pulled in Reversal Spark Flaming Scourge, gain brief iframes so you are not hit as you are being pulled in  
+⏬ Rockmaller now has endlag on the ground crit (0.15s). Now also has proper telegraphing  
+⏬ Rockmaller aerial crit now has a minimum 0.4s windup. The airtime has also been made more consistent and better telegraphed  
+🔧 Mobs that are ready to despawn that are currently KO'd are instantly killed instead of hanging around  
+🩹 Fixed Viscosity bypassing Resonance activation  
+🩹 Fixed Viscosity damage over time ticks individually applying damage effects like knockback  
+🩹 Fixed Fleeting Sparks often not activating correctly, believing that there were walls between you and your target  
+  
+**Bugfixes & Optimization**  
+🩹 Fixed Air Dashes being a lot shorter than intended  
+🩹 Fixed grab moves self-hitting if you hit a destructible structure  
+🩹 Fixed lasers in Detainment Core and other sources of environmental damage not working  
+🩹 Fixed mobs that are being executed deaggroing (e.g. due to their event ending) mid-execute. This caused a rare bug where the executor would take fall damage due to the mob being unloaded suddenly  
+🩹 Fixed mobs that are made peaceful only deaggroing from their current target, and not other enemies who've attacked them but less recently  
+🩹 Made executions a lot less temperamental in general  
+🩹 Fixed Roblox's chat bar interfering with keybinds  
+🩹 Fixed summoned cauldrons defying gravity  
+🩹 Fixed missing Highway Markers in East Luminant  
+🩹 Fixed Lightning Impact not taking you in the air  
+🩹 Disguise now uses the new Campfire model  
+🩹 Fixed residual bugs with Trial of One  
+🩹 Fixed monsters hiding their animations when they extinguish flames
+
+## **September 15th, 2025**
+
+**Content & Systems**  
+📰 _A bit of a smaller update this week content-wise as we had a midweek patch and have been working on fixing all of the bugs that have cropped up in the last few weeks. Behind the scenes, we're gonna be applying a lot more caution to major reworks, but the good news is that most of the core systems are in a much better state now (barring the bugs, but these are a priority right now), so we'll be able to put more of our time towards actually adding stuff to the game._  
+💡 Added Equipment Editing. Right-click Head, Face, or Ears equipment in your journal to open up an editor that lets you move and rotate them around to your liking. Endless new drip opportunities await!  
+💡 Sev can now be given 25 Crowns to permanently unlock 'Manycolored Equipment', letting you edit your equipment's color freely on **any** character without needing to spend Dye Packets. _NOTE: This applies to Equipment only. Hair dyes and other cosmetic dyes still require packets._  
+💡 Updated Jeremiah's lootpool  
+🔧 Deep Gems can now be equipped out of combat just by using the tool, no longer requiring you to rest  
+🔧 When not in danger, you can now right-click your Mantras to unequip their deep gems  
+🔧 Shrine of Chance now uses the shop interface for its deals  
+🔀 The Shrine of Ostentation has been merged into the Shrine of Chance  
+💡 The Global Cauldron Shortage has finally come to an end  
+  
+**Movement Tweaks & Fixes**  
+🔀 Air Dashes have been reverted to the old movement system, but have received updates to work on moving ships  
+🩹 Fixed roll cancels killing your vertical mobility  
+🩹 Fixed Starkindred airdashes and regular airdashes behaving the same  
+🩹 Fixed walking around in the Depths being a skating rink  
+🩹 Fixed mantling ledges in the Depths launching you upwards  
+🩹 Fixed being able to wallhug in the Depths  
+  
+**Visual Refresh**  
+🔧 Lowered the default saturation/contrast of the game's lighting. Should make it less painful to see in the dark and bring the game's visuals a bit more in line with how they were a long time ago  
+🔧 Campfires have been revamped visually. Placing campfires is much less temperamental too, no longer requiring you to precisely click on the floor next to you  
+🔧 Lumber Axes have been slightly remodelled and now have the appropriate telegraphs for their attacks. Trees now shake slightly when you chop them  
+🔧 Remodelled Deep Shrines to be considerably more performant  
+🔧 Remodelled Cauldrons, bringing a 11k tri model down to just 770 tris and greatly reducing the number of parts. Also reworked their vfx  
+🔧 Remodelled sticks to be considerably leess laggy  
+🔧 Remodelled Trident Spear slightly, now has PBR textures. We'll likely be adding PBR texture to most weapons in the future, as they look better and let us reduce the performance impact of highly detailed weapons  
+🔧 Threshers have received a new lick of paint and some touchups to their model. In addition to looking better, the new textures respond a lot better to lighting, making them easier to read in combat. More mobs will get visual upgrades soon!  
+🔧 Added textures to a lot of equipment in the game that didn't have any, e.g. Leather Pauldrons  
+  
+**Balancing & Tweaks**  
+⏫ Blindseer now has an additional Combat Slot  
+⏫ Blood Poison's natural decay rate reduced by 33%  
+⏫ Etherguard duration increase  
+⏫ Panacea Blood Poison paused increased from 5 to 7 seconds  
+⏫ Smell of Blood now procs on opponents whenever you guardbreak them  
+⚖️ The obscure mechanic where taking any damage at 100% Posture would guardbreak you has been removed. For a while, people thought this was a bug, but it was just a very old holdover combat mechanic  
+⚖️ The extra stun incurred from being hit while in the guardbroken state has been downgraded from being a full action-locking stun with an animation to just being a regular stun. The sound for this extra stun has been pitched up to help indicate it. The duration has been lowered also (0.65s -> 0.6s)  
+⚖️ Campfires are now destructible structures and can be destroyed by regular attacks  
+⚖️ Reduced the base Knowledge cost of degrading a Rare talent to a Common talent (10 -> 5)  
+⏬ Bloodfouler's Blood Poison from criticals massively reduced (reason being here that Blood Poison as a whole got buffed, so we don't want Bloodfouler to massively perform with these blood buffs)  
+⏬ Iron Quills cooldown now scales off its range modifications  
+🔧 Mobs can now use Red Death sprinting critical  
+🔧 Ice surface area now scales up linearly instead of exponentially with its intensity  
+🔧 Deep Gems now have tooltips explaining their effects  
+🩹 Fixed Flashboil being able to proc through block, parry, and dodge  
+🩹 Fixed certain damage reductions like Entangled being applied doubly to Viscosity  
+  
+**Bugfixes & Optimization**  
+🩹 Fixed certain abilities (Prediction, Chain of Perfection, Untouchable, Whistleguard, Paralytic Dust, etc.) not accounting for damage over time since the introduction of the unified DoT system  
+🩹 Fixed Fire Stance Saintsblade  
+🩹 Fixed a bug where common -> rare talent exchanges could give you common talents  
+🩹 Fixed a lot of materials not being freezable by ice, e.g. Mud  
+🩹 Fixed being able to use Aerogliding while being in actions like Starkindred's Fire Blade  
+🩹 Fixed Bleed Damage ticking down over 0.6s instead of 0.3s  
+🩹 Fixed Burning Servants and Frozen Servants not having any endlag, allowing you to movestack the mantra with m1s and criticals  
+🩹 Fixed Shadow Gun Blast Spark not having AP frames  
+🩹 Fixed Spine Cutter not applying damage if your opponent had Viscosity  
+🩹 Fixed the parry animation clashing with a few windups  
+🩹 Fixed Vyrelda dealing much more damage than intended when she used the Red Death default critical  
+🩹 Fixed Fire Stance Blade of Saints sometimes not finishing the mantra  
+🩹 Fixed a variety of UI lists that weren't sorting correctly  
+🩹 Fixed the weird white squares popping up on some UI's  
+🩹 Fixed some residual issues with Shrine of Order  
+🩹 Fixed lingeering broken interactions between Grotesque Resilience and Viscosity
+
+## **September 6th, 2025**
+
+**The "Rock the Boat" Update**  
+💡 A new physics-based character controller has been added to the game  
+🔧 Your momentum is now preserved when you jump/leave the ground, meaning you don't just immediately fall like a rock as soon as you let go of your inputs  
+🔧 Since momentum is preserved, **you no longer fall off ships when you jump/move around on the ship.** This means combat on moving ships is finally approaching viable. This is the first and most important step to actually making ships fun and giving them new content and mechanics  
+🔧 The new controller is far more reliable, so you should see a LOT less of the weird things characters do on Roblox that most of us have just had to get used to. There's a lot more opportunities for us to finetune and tweak the controller. Previously we were stuck with a character controller that we could barely adjust the parameters on. Now, we can actually treat it as a system to be improved and not a black box where if something goes wrong we can't do anything  
+💡 Dashing backwards in midair now performs a flip that greatly reduces your velocity, letting you recover from knockback  
+💡 Ledge hangs have been reworked to have much better ledge detection  
+🔧 Ledge hang inputs are now based on whether you're moving towards/away from the ledge and not based on W/S inputs specifically  
+🔧 Most parkour now no longer resets your horizontal momentum, letting you freely move around moving ships and conserve your speed while traversing the map  
+🔧 Mounts now work using the new character controller instead of having their own custom behavior. This should make them a fair bit smoother to travel with, as well as being controlled a lot more like your own character  
+🔧 Camera Lock character rotation is now constrained by physics like other character movement/turning. Fixes some issues where character movement would be janky while camera locked  
+🔧 Greatly improved vault/mantle detection  
+🔧 Swimming behaves a lot more consistently on shores and slopes, with it now being possible to just walk out of the sea if a slope is present instead of having to walljump  
+⚖️ Thanks to the new character physics, water mobility now acts like ground mobility. As such, all water-specific mobility nerfs have been reduced  
+⚖️ Jumping now has a very short cooldown (0.05s) after landing to fix some issues where your character wouldn't be on the ground long enough for certain effects to register  
+⏫ Ships slow down to a halt much more quickly when unoccupied. Watching your ship slowly sail off into the distance isn't fun  
+🩹 Rewrote a lot of the math behind ships. Ships now rock with the waves a lot more smoothly and should have a LOT less jank to them in general  
+🔀 Triathlete has been removed with the changes to movement in water. If you had it, you'll be refunded a hand of talents  
+  
+**Progression Improvements**  
+⏫ The total EXP required to reach Power 20 and invest all of your points has been reduced by 10%. Additionally, the EXP curve has been made MUCH less steep towards the end, making the gap between points in the lategame a lot less agonising  
+⏫ The EXP rewards for most quests now scale with your current level, keeping them relevant  
+⚖️ Shrine of Order no longer gives you an additional flaw. The idea here is that going forwards with the new way of balancing SoO builds they should be on more even footing than before, so shouldn't realistically need a handicap thrown on. As it stands, we feel that the current nerfs to SoO have been sufficient to level the playing field. But going forwards, if certain talents are garbage on SoO builds we can buff them, and if in the future they end up being too powercreepy we can nerf them. We appreciate y'all's feedback on the changes and wanna find a balance where SoO isn't mandatory OR pointless  
+📰 If you have a character that used the Shrine of Order before this update, one of your flaws will be automatically removed, and you can revisit the Shrine of Order to unlock the commemorative 'Pendant of Order' item. The medal can be retrieved as a seasonal item from blacksmiths  
+🔧 Instead of having to buy a Dinghy every character you now start with one already in your shipyard  
+  
+**New Feature: Weapon Talents**  
+💡 Added Acheron's Warspear weapon talent: Vital Wound  
+💡 Added Crucible Rapier weapon talent: Punishing Riposte  
+💡 Added Forgotten Gladius weapon talent: Blitz  
+💡 Added Inquisitor's Greatsword weapon talent: Sovereign's Counter  
+💡 Added Iron Birch weapon talent: Expeditious Combo  
+💡 Added Krulian Knife weapon talent: Cruel Counter  
+💡 Added Master Hawk's Handaxe weapon talent: Battle Frenzy  
+💡 Added Messer / Alloyed Messer weapon talent: Finishing Slay  
+💡 Added Nemit's Sickle weapon talent: Curved Edge  
+💡 Added Rosen's Peacemaker weapon talent: Rosen's Technique  
+💡 Added Silver Dagger weapon talent: Assassin's Strike  
+💡 Added Steel Maul / Alloyed Steel Maul weapon talent: Bulwark Breaker  
+💡 Added Worshipper's Longsword weapon talent: Belief  
+  
+**Content & Systems**  
+💡 New Potion Type  
+💡 New Shadow Mantra Added: Umbral Slash  
+💡 You can now sell your ships at a Shipwright. They'll sell for 50% of the purchase price with any necessary repairs being deducted from the sale  
+🔧 Attunement trainers now offer replacement element vials if you manage to lose them  
+🔧 Polished up the jump animation  
+🔧 Polished water treading idle anim  
+🔧 Pressure Blast's VFX now properly scales with its size modifiers  
+🔧 Tuned up the shipyard UI to be more intuitive  
+🔧 When randomly removing excess flaws, flaws like Simple/Blind/Vegetarian are deprioritised  
+  
+**Balancing**  
+⏫ Jester's Garb and Trickster's Habit phyiscal armor increased from 20% to 25%  
+⏫ Krulian Knife's charge up critical now hits opponents around the user  
+⏫ Refreeze now reduces Orbital Ice's cooldown by 8 seconds per bottom freeze instead of 5 seconds  
+⏫ Rifle Spear now counts as a Rifle for Rifle talents  
+⏫ Static Mastery secret synergy buffed  
+⏫ Summer Dragoon physical resistance increased from 25% to 30%  
+⏫ Summer Dragoon's Sunset Ricochet now hits up to 2 people  
+⏫ Every ship larger than a sloop now has ladders on the side  
+⚖️ Added cooldown to Grounding Bolt  
+⚖️ Air Force's casting sound effect now is generally louder further away  
+⚖️ Bloodless, Wayward, and Aegis gems no longer proc on lightning clones  
+⚖️ Ring of Casters upside and downside reduced from 10% to 5%  
+⚖️ Shadow Gun Blast Spark ether multiplier reduced from 3x to 2x  
+⚖️ Shadow Gun's casting sound effect now is generally louder further away  
+⚖️ Wind Step's cooldown now scales with the amount of Gale you have  
+⏬ Air Force's cooldown now scales with size  
+⏬ Base Shadow Gun cost increased from 20 to 40  
+⏬ Clutching Shadow range nerfed, level scaling damage slightly nerfed  
+⏬ Fang and Coil base critical windup increased from 0.25s to 0.4s  
+⏬ Flame Grab base damage nerfed and scaling nerfed  
+⏬ Frost Grab range nerfed  
+⏬ Gran Sudaruska ice rain no longer applies hitstun  
+⏬ Ice Fissure cooldown massively increased  
+⏬ Jolt Grab Magnetic Spark range reduced  
+⏬ Decreased Give and Takes' damage reduction, the problem here was that people would run AoE spam builds in groups and win simply because they took less damage overall  
+⏬ Piercing Blow requirements increased from 80 strength to 100 strength  
+⏬ Reduced Firing Line Blast Spark's posture damage  
+⏬ Reduced Gran Sudaruska's active frames on crit (mainly to prevent people from using it and rolling into you)  
+⏬ Wayward gem no longer works with Grand Skewer  
+⏬ Shade Step max duration reduced by 1 second  
+⏬ Skyshatter Kick Blast Spark range reduced from 20 to 14  
+⏬ Throw Mantra no longer moves the caster forward  
+🩹 Fixed Grotesque Resilience resist being applied to Viscosity  
+🩹 Fixed Fire Forge, now uses the new projectile system  
+  
+**Bugfixes & Optimization**  
+⚙️ Greatly optimized character data loading  
+⚙️ Greatly optimized the handling of player data in general. No longer incurs as big of a performance cost to read/write your data, particularly for complex data like Mantras and Equipment  
+⚙️ Optimized damage handling by greatly cutting down on re-fetching the same data over and over  
+🩹 Fixed sea visuals being desynced with the actual physical waves  
+🩹 Fixed idle ships sitting lower in the water than ships being steered  
+🩹 Fixed mounts clipping into the floor on slopes  
+🩹 Fixed Ash Ember not having a cap, however the cap still allows for it to be pretty handy in PvE  
+🩹 Fixed Behind You dealing twice the damage if you did not meet the talent's stat requirements  
+🩹 Fixed being able to drink potions in iframes and whistleguard  
+🩹 Fixed being able to proc Meteor Impact even if your opponent dodges your Rising Flame  
+🩹 Fixed Dash mantra not playing vfx in water  
+🩹 Fixed guns Swing Speed being reduced by default  
+🩹 Fixed Keen Recovery's Ether gain being buffed for not meeting the talent's stat requirements  
+🩹 Fixed not being able to roll in True Daze when your opponent uses an unblockable move like Radiant Dawn  
+🩹 Fixed Silencer's Song not proccing on mantras  
+🩹 Fixed Soul Beam sharing a cooldown with other beams  
+🩹 Fixed Soulthorn  
+🩹 Fixed Static Withdraw with Static Mastery still stunning you  
+🩹 Fixed Winded affecting guns more than intended  
+🩹 You can fish in the Guild Base pond again  
+  
+**Note on New Movement**  
+📰 Please note that the new character controller's movement is still a work in progress. Dashes/slides/walljumps/etc. are likely to feel a bit different. We're going to be finetuning it in the coming days, so if anything feels off in meantime, don't worry, it likely won't stay like that!  
+🔧 Camera lock turning is instant again
+
+### _**Patch 2.4.1a**_
+
+**Hotfixes**  
+🔧 Sources of velocity like dash/slide/etc. now instantaneously change your velocity on application instead of having to wait for them to apply the necessary forces to change to the new velocity. This should restore a lot of the feeling of old movement  
+🩹 Fixed momentum from dashes hanging for too long. Especially noticeable in the Depths  
+🩹 Fixed rapidly changing directions causing rolls/dashes/slides to apply too much force in the new direction, launching you  
+🩹 Fixed Mantra scaling being higher than intended  
+🩹 Fixed jump input on controllers  
+🩹 Fixed jump having too high of a CD  
+🩹 Fixed vaulting/mantling  
+🩹 Fixed slide state lingering  
+🔧 Roll/dash velocity is now angled with your current surface, making them useful on slopes again  
+🩹 Jump velocity is no longer additive and instead sets your velocity. Should fix the Superjump issue  
+🩹 Fixed Chaser  
+🩹 Fixed persistent dungeons giving an "unauthorized" error code before teleporting you  
+🩹 Fixed issues with rolls/dashes/etc. launching you if an obstacle that was in the way of them is suddenly removed  
+🩹 Fixed mounts leaving you MJ'd  
+🩹 Fixed mounts being slippery when in camera lock  
+🩹 Fixed the Blacksmith event shop not being available if you only have the pendant unlock  
+🩹 Fixed not being able to use the Echo Mod/Echo Shop  
+🩹 Fixed not being able to slide under gaps  
+🩹 Fixed aerials not having velocity
+
+### _**Patch 2.4.1b**_
+
+**Hotfixes**  
+🔧 Greatly decreased the momentum in the air with the new character controller. Should eliminate the slippery feeling movement and bring the movement a LOT more in line with the old movement  
+⚖️ Wind Step's wind jump now completely resets your horizontal velocity  
+🩹 Fixed vertical air dashes being garbage  
+🩹 Fixed not being able to slide under gaps when you start your slide too close to the wall  
+🩹 Fixed not being able to Orlandeau parry Orlandeau's Orlandeau Razor Cutlass Orlandeau swing  
+🩹 Fixed Reversal Flame Leap not damaging as soon as you touch down  
+🩹 Fixed Soulwrought Axe skill placing you inside the ground  
+🩹 Fixed holding movement killing your slidejump momentum
+
+### _**Patch 2.4.1c**_
+
+**Midweek Changes**  
+🔀 Walljumps/climbing have been reverted to the old movement system, but have received updates to work on moving ships  
+🔀 Sliding has been reverted to the old movement system, but has received updates to work on moving ships  
+🔧 Dodges/dashes now change direction immediately, matching how they worked in the old movement system  
+🔧 Jumping on ships now has some corrective velocity applied to better keep you attached to the ship  
+🔧 Movement on ships is now tied to the relative velocity of where you're standing, not the velocity of the ship as a whole. This means turning shouldn't throw you off  
+🩹 Fixed jump height being slightly lower than before  
+🔧 Ship rocking has been toned down a bit to help keep players onboard better  
+⏬ If you are under the effects of Paralytic Dust, potions no longer work on you  
+🩹 Fixed not being able to wipe your character if you had disabled Echo Talents  
+🩹 Fixed not being able to re-enable Echo Talents in Character Creation  
+🔧 Made the following mantra-breakable doors into M1 destructible structures: Entropy Cave doors, Nameless Warrior door, Hidden Village door. People would just rollclip these previously  
+💡 Many Deep Shrines can now be found throughout Scyphozia, eliminating the need to glitch your way into the Temple of Hearts
+
+## **August 25th, 2025**
+
+**Content & Systems**  
+💡 New INT Talent: Critical Engine  
+💡 New INT Talent: Unwavering Focus  
+💡 NEW WEP/WND Talent: Silencer's Song  
+💡 New WEP/SDW Talent: Dark Waltz  
+💡 New WEP/SDW Talent: Night Terror  
+💡 New WEP/FLM Talent: Ash Ember  
+💡 New WEP/FLM Talent: Scorching Decay  
+💡 New WEP/LTN Talent: Grounding Bolt  
+💡 New WEP/ICE Talent: Frozen Anchor  
+💡 New WEP/ICE Talent: Stasis Strike  
+💡 New ICE/MTL/LTN Talent: Golden Age  
+💡 Added Bluestone Boots and Bluestone Pauldrons as crafting upgrades  
+💡 New Chrysid Variant: Augur  
+💡 New Chrysid Variant: Messenger  
+💡 New Fishing Drop  
+💡 Added 'Full Trainings'. Similar to 'Free Points/Free Trainings', these let you train an attribute instantly. The difference, however, is that where Free Trainings leave you at an EXP deficit that you have to catch up on, Full Trainings grant you the required EXP. This makes Full Trainings very valuable, as they let you _actually_ fast-forward your progression. Trial of One and a few quests/challenges now reward Full Trainings  
+💡 Full/Free trainings can now be spent in your TAB menu Journal, no longer requiring you to rest  
+💡 When you combat tag another player, an icon of crossed swords now pops up. You can click the swords to open up a dropdown menu with options for clearing combat tags. Should prevent you getting flagged for spamming 'mb all', and makes it a lot more intuitive  
+💡 Added a right-click context menu to your weapon tool that lets you change your stance or unequip your current offhand weapon. No more needing to start a forest fire just to unglue the gun from your hand  
+💡 Added a new teleport transition screen  
+  
+**Echo Tweaks**  
+⚖️ 'Used Enchant Stone' triumph has been changed to 'Enchanted an Item' and using Enchant Grease now grants it too  
+⚖️ A penalty is now applied to your Echoes gained if you didn't get to Power 5  
+⚖️ Banked items are no longer valid for Echo triumphs  
+🔧 Added triumph 'Cleared a World Event'  
+💣 Removed 'Obtained the Deepshore Fossil' triumph  
+  
+**Balancing & Tweaks**  
+🔧 Autoparries no longer play an animation and now have different SFX and VFX. The new VFX is less spammy, which should hide anims a lot less  
+🔧 Aegis Gem is now bankable  
+🔧 Tweaked a handful of older Chrysid variants color palettes slightly  
+🔧 Versus events in Aratel have been converted to Jobs  
+🔧 Your journal is now visible alongside your rest screen  
+🔧 Fixed some inconsistencies with To1 stat investment. No longer behaves differently with Autodidact/Maudet  
+🔧 Remodelled Kaide, The Drowned Light  
+🔧 Renamed 'Fear' to 'Fear the Dark'  
+⏫ Experience points are no longer rounded down to integers, meaning that EXP boosts and various other modifiers to your EXP rates won't be squandered on smaller EXP amounts  
+⏫ The Bulletproof talent now gives you a 5% armor reduction bonus even if the type of attack isn't coming from guns  
+⏫ Flareblood Kamas now deal blood poison on crit  
+⏫ Buffed Ciea INT training  
+⏫ Buffed Fishing EXP  
+⚖️ Shoulder Bash slot changed from Mobility to Combat  
+⚖️ Flareblood Kamas BLD Scaling added (0 -> 3). LHT scaling reduced 8 -> 6, INT scaling reduced 2.5 -> 1.5  
+⚖️ Chorus of Souls no longer multiplies campfire healing  
+⏬ Exhaustion Strike windup increased from 0.45 to 0.5  
+⏬ Shoulder Bash base damage reduced (-14%), scaling damage from leveling reduced by 50%  
+  
+**Bugfixes & Optimization**  
+⚙️ Greatly optimized EXP systems. Should help with lag in combat  
+🩹 Fixed being able to get 1 in an element at Power 20 with 0 points left by unlocking the element. Element is still unlocked account-wide, but you won't be able to get the element on the character  
+🩹 Fixed dashing/rolling putting your walljumps on CD. Behavior is now that dashing/rolling _extends_ the CD if it's active but doesn't create a CD  
+🩹 Fixed Flame Wisp gluing itself to campfires  
+🩹 Fixed irregularities with the circle placement of Teleportation resonance once again  
+🩹 Fixed not being able to manually cancel Serpent's Edge, Hero's Blade of Frost, Pyre Keeper, Imperial Staff, Crescendo, Hailbreaker and Rosen's Hellflame criticals  
+🩹 Fixed not being able to throw Potions and Bombs at all  
+🩹 Fixed Skyward Vent Husk teleport dropping you above the ocean  
+🩹 Fixed the weird offset on Autobrew slots  
+🩹 Fixed tooltips lingering after what you're hovering is no longer visible  
+🩹 Fixed tooltips not updating on overlapping UI elements even if one is displayed on top of the other  
+🩹 Fixed walljump CD being too low  
+🩹 Fixed Illusion Clones not copying vent properly (They only vent when you do)  
+🩹 Fixed Galetrap  
+🩹 Fixed being able to apply Enchant Grease in Layer 2  
+🩹 Fixed Enchant Grease not granting 'Soulbound an Item' triumph
+
+### _**Patch 2.4.0a**_
+
+**Hotfixes**  
+🩹 Fixed lingering training UI state  
+🩹 Fixed attribute editing in character creation  
+🩹 Fixed To1 softlock
+
+### _**Patch 2.4.0b**_
+
+**Midweek Hotfixes & Changes**  
+⚖️ **Posture recovery from parrying naturally increased by around 50%.** Due to all the posture nerfs recently (posture talents, spits, exhaustion strike, etc), we are now a lot more comfortable letting parries become stronger for removing posture. This should help to deal with a lot of playstyles that abuse being able to hit block (examples being airswinging/fighting a mage). The idea being that you can simply parry back your posture instead of overly relying upon things like spits and Unwavering Resolve. Naturally, the balance here is something we're gonna keep a close eye on  
+⏬ Destructive Recovery reduced from 50% to 20% (makes sure it's not extremely busted with the above change)  
+⚖️ Health regeneration buffs now stack **additively** instead of multiplicatively, much like damage multipliers. Previously, having a 20% (1.2x) regen buff and another 100% (2x) regen buff would result in a cumulative regeneration buff of 2.4x. With this change, the cumulative regeneration buff would be 2.2x instead for this example  
+⏬ Dagger critical hits no longer simultaneously count as Basic Attacks (M1s)  
+🔧 Heart of Enmity's minimum range to automatically parry ranged attacks has been doubled, which should prevent melee-range mantras from getting parried. Projectiles will still be deflected regardless of distance  
+🔧 Guild renames now preview the new name before prompting a purchase  
+🔧 Moved an arguably unreachable Medallion Chest to a more accessible location  
+🩹 Fixed not being able to remotely exile players that have usernames with more than 20 characters  
+🩹 Fixed Critical Engine coupled with Blessed Gem removing weapon critical cooldowns almost immediately after landing a hit if the critical applies its proper cooldown only after the critical ends  
+🩹 Fixed Soul Beam not being rollable  
+🩹 Fully patched infinite climbing  
+🩹 Fixed player list / leaderboard staying permanently invisible after opening the backpack  
+🩹 Fixed player combat tags counting as PvE combat tags and boss combat tags not getting applied properly. This also fixes boss health bars not showing up and attunements not getting uncapped from killing bosses  
+🩹 Fixed boss health bars not showing up  
+🩹 Actually fixed Aegis Gem not being bankable  
+🩹 Fixed every player that didnt have W rank having rank 250-1000 color in the leaderboard  
+🩹 Fixed adding mantra modifiers not taking the existing Ether cost into account. Previously, you were able to add a single ingredient to an already modified mantra to lower its Ether Cost without removing the existing modifiers  
+🩹 Fixed a good number of quests / NPC interactions and fishing not granting their EXP rewards
 
 ## **August 18th, 2025**
 
@@ -110,7 +721,7 @@ Behind the scenes, we're also investigating ways of automating some of our testi
 🩹 Fixed main menu not displaying aspects properly  
 🩹 Fixed main menu patch notes sometimes being out of date  
 ⚙️ Loading speeds for the main menu have been greatly increased  
-⚙️ When anchored, ships sway more smoothly and with less clientside lag  
+⚙️ When anchored, ships sway more smoothly and with less clientside lag
 
 ### _**Patch 2.3.9a**_
 
@@ -333,7 +944,7 @@ Q: Will there ever be a chef oath?
 **Hotfixes**  
 Fixed weird slide-jump behavior  
 Reverted autoparry getting removed on all windups, makes multihits too strong  
-Fixed Lightspeed Reflexes giving you crazy autoparry frames  
+Fixed Lightspeed Reflexes giving you crazy autoparry frames
 
 ### _**Patch 2.3.8a**_
 
@@ -480,7 +1091,7 @@ Fixed Lightspeed Reflexes giving you crazy autoparry frames
 🩹 Fixed Veinbreaker doing huge damage  
 🩹 Fixed training gear  
 🩹 Fixed Dimensional Travel dumping you out in the boonies  
-🩹 Fixed cooldown indicators not clearing  
+🩹 Fixed cooldown indicators not clearing
 
 ### _**Patch 2.3.7a**_
 
@@ -801,7 +1412,7 @@ Fixed Lightspeed Reflexes giving you crazy autoparry frames
 • Fixed Wind Gem no longer applying its speed boost on the client-side  
 • Fixed Scoundrel's Saber alloying into a completely different weapon. Your amateur smithing skills were too powerful  
 • Fixed camera lock cursor not always showing up  
-• Fixed Krulian Charge going on cd permanently  
+• Fixed Krulian Charge going on cd permanently
 
 ### _**Patch 2.3.5a**_
 
@@ -970,7 +1581,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 **Q: How often can we expect new map updates like what happened to Erisia, or just new islands in general?**  
 • As we look back on Deepwoken's map after so many years, we're seeing a lot of room for improvement. Alongside our reworks to the game's systems, we'd like to make these map changes more regularly. In many ways it keeps the exploration alive and the world fresh, which is always something people have been asking for. Also, with all the performance upgrades from our optimization work, new islands wouldn't be out of the question.  
 **Q: Will we ever see more dual attunement paths?**  
-• Yes. 😈  
+• Yes. 😈
 
 ### _**Patch 2.3.3a**_
 
@@ -1235,8 +1846,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 ## **June 9th, 2025**
 
 **Content & Systems**  
-• Years of tidal and acidic erosion have dramatically altered the shores of Erisia, opening up new routes of travel and new areas to explore  
-• A strange merchant has carved out a spot in the cliffs of Erisia  
+• Years of tidal and acidic erosion have dramatically altered the shores of Erisia, opening up new routes of travel and new areas to exploreA strange merchant has carved out a spot in the cliffs of Erisia  
 • Ziplines have been reworked. If you tap space while near a zipline and facing its direction of travel, you'll now automatically hook on and ride them  
 • Letting go of a zipline at speed now keeps your momentum, letting you launch yourself forward. Your starting speed on ziplines is now also affected by your current velocity, letting you jump-start your zipline ride  
 • Replaced Bamboo on shorelines with a new ingredient: Marram Grass. Marram grass can be processed into fibers in the same way but makes more sense than bamboo growing on beaches  
@@ -1536,7 +2146,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed some inconsistencies with NLK's behavior. Fixes the downsides being active in Chime despite the upsides being disabled  
 • Fixed some NLK downsides lingering if you switch weapons  
 • Fixed Lightning Wisp not proccing its flourish effect if enchants are disabled  
-• Fixed Scion of Ethiron's circular bone floor wave attack being completely invisible  
+• Fixed Scion of Ethiron's circular bone floor wave attack being completely invisible
 
 ### _**Patch 2.2.7a**_
 
@@ -1554,7 +2164,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed being able to spawn dodecuplets from a single ritual by spamming candles  
 • Fixed Enchant-specific crits not loading  
 • Fixed Jetstriker being unobtainable  
-• Fixed a bunch of region exclusive books not being obtainable from bookshelves  
+• Fixed a bunch of region exclusive books not being obtainable from bookshelves
 
 ### _**Patch 2.2.7b**_
 
@@ -1566,7 +2176,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Rifle aerials are now always the melee variant  
 • Greatly optimized weapon anim lookups  
 • Doubled the chances of finding books from bookshelves  
-• Fixed large bookshelves  
+• Fixed large bookshelves
 
 ### _**Patch 2.2.7c**_
 
@@ -13091,7 +13701,7 @@ Most of our work hours are going into Layer 2, and work continues to go well, th
 **Optimization**  
 • Added a new experimental Animation system to hopefully solve the current bugs with no animations on humanoid mobs. This new system is currently only being used on Humanoid mobs to first test if it fully works properly, as well as benchmark performance. If all goes well, we'll continue to replace animations in the game to use the new system, as well as extending it to player animations. Please submit any issues with humanoid mob animations you see in #bug-reports.  
 • Fixed a memory leak with parrying particles  
-• Fixed particles not clearing up upon feinting Tornado  
+• Fixed particles not clearing up upon feinting Tornado
 
 ### _**Patch 0.6.0a**_
 
@@ -13400,7 +14010,7 @@ Another weekly update, everyone. We have some long awaited changes and additions
 • Fixed Lightning Stream letting you pull people out of FF  
 • Fixed Ice Forge not applying stun  
 • Fixed weird bug where block animation would override parry visual anim  
-• Made the hive mech move's hitboxes actually come out on time with the animations  
+• Made the hive mech move's hitboxes actually come out on time with the animations
 
 ### _**Patch 0.5.4a**_
 
@@ -13741,7 +14351,7 @@ Small update for today with a little bit of new content. As an update on develop
 • Fixed being able to insta-cast Wind Eruption  
 • Fixed Ice Lance lingering hitbox  
 • Illusion Clones no longer spawn with animated equipment to lower frame drops  
-• Spike Traps, Concussive Flash, Cool Head, and Stormcaller Flash are now rollable outside of whispers  
+• Spike Traps, Concussive Flash, Cool Head, and Stormcaller Flash are now rollable outside of whispers
 
 ### _**Patch 0.4.5a**_
 
@@ -13990,7 +14600,7 @@ We understand that some of you have built your builds around the old behaviour, 
 We're listening to your feedback, and if Exoskeleton is bad in its new form we can adjust the numbers or change how it works.  
   
 • Exoskeleton durability now scales with your Power. The base is what it is currently, so this scaling will only be a positive thing.  
-• Natural Armor is now restored to full when you win a PvP Arena match.  
+• Natural Armor is now restored to full when you win a PvP Arena match.
 
 ### _**Patch 0.3.8b**_
 
@@ -14075,7 +14685,7 @@ Hi guys, just some balances and fixes to follow up last night's update.
 • Fixed Mirage from the Deep  
 • Fixed cooldown for Cheap Trick not working  
 • Fixed people queueing onto the same team in 1v1 if they share a guild  
-• Fixed Overflowing Dam not working on guns  
+• Fixed Overflowing Dam not working on guns
 
 ### _**Patch 0.3.6a**_
 
@@ -14369,7 +14979,7 @@ Enchanted effects have been reduced across the board. They're still strong and u
 • Fixed Silencer's Blade not extending suffocate duration  
 • Fixed Quickdraw requiring Int and being rolled without guns  
 • Fixed being able to receive Nullifying Clarity in a Roll 2  
-• Fixed Legion Kata grabbing through iframes  
+• Fixed Legion Kata grabbing through iframes
 
 ### _**Patch 0.3.2a**_
 
@@ -15379,7 +15989,7 @@ Fixed tiny Primadon chest Optimizations
 • If your guild name is moderated or already in use, your notes won't be consumed  
 • Fixed flame blind  
 • Fixed PVE luck gain not displaying the luck gained visual effect  
-• Some build errors fixed  
+• Some build errors fixed
 
 ### _**Patch 0.0.2a**_
 
@@ -15393,7 +16003,7 @@ Fixed tiny Primadon chest Optimizations
 • Wind Gun no longer disables sprint Quality of Life  
 • if you haven't selected your level up cards and are trying to use your free invest points, the game will now tell you to pick your cards  
 • wind gun no longer block breaks and can be blocked  
-• fixed rarity on some equipment where the ascended versions were more common than the regular  
+• fixed rarity on some equipment where the ascended versions were more common than the regular
 
 ### _**Patch 0.0.2b**_
 
@@ -15418,7 +16028,7 @@ Fixed tiny Primadon chest Optimizations
 • fixed sparring instructor gripping players  
 • fixed erisia not having a combat theme  
 • mudskipper ambushes shouldn't stack up as much over time  
-• various smaller bugfixes  
+• various smaller bugfixes
 
 ### _**Patch 0.0.1a**_
 

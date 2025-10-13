@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 165801
+revid: 165829
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -45,4 +45,4 @@ The [Battle-Hardened](Talents.md#equipment-talents) Talent grants 20% damage red
 ## Trivia
 
 -   Despite the Power and crafting requirements, this Outfit will be automatically equipped upon joining the Shock Corps Division.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/123971861365155/Shock-Corps-Shirt-Red) [Shirt(Brown)](https://www.roblox.com/catalog/86235866531228/Shock-Corps-Shirt-Brown)/ [Pants](https://www.roblox.com/catalog/72959915619973/Shock-Corps-Pants)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/86235866531228/Shock-Corps-Shirt-Brown) (Default) / [Shirt](https://www.roblox.com/catalog/123971861365155/Shock-Corps-Shirt-Red) (Red) / [Pants](https://www.roblox.com/catalog/72959915619973/Shock-Corps-Pants)

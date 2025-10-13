@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 163751
+revid: 165819
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Enemies that can wield Enchantments]
@@ -55,6 +55,14 @@ Template:Creature Infobox V3
 (★☆☆)
 
  | A swirling symbol appears around the Angel's eyes, causing a insanity shiver effect while they look at you.
+
+ |
+| 
+
+**Exhaustion Strike**  
+(★★☆)
+
+ | Quickly performs a medium ranged jab that transfers all of their posture damage onto the target.
 
  |
 | 

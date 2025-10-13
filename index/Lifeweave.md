@@ -1,6 +1,6 @@
 ---
 title: Lifeweave
-revid: 165721
+revid: 165873
 source: https://deepwoken.fandom.com/wiki/Lifeweave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement, Upcoming content]
@@ -10,4 +10,4 @@ categories: [Attunement, Upcoming content]
 
 This page was made for when Lifeweave releases, Currently it's TBA.
 
-Most likely coming out during a weekly as conquest was cancelled.
+Lifeweave will be coming out after the Hive origin is fully released and polished. Confirmed to be an attunement in the QNA.
