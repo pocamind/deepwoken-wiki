@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 164945
+revid: 165925
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry]
@@ -280,7 +280,8 @@ Exhaustive Loot Table
   <td colspan="6">The City?</td>
 </tr>
 <tr>
-  <td colspan="6">Oh you don't know? This tower sits atop <b><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></b>. There lies the so-called bedchambers of the <b><a href="Ethiron,_The_Maelstrom's_Eye.md">Drowned God Ethiron</a></b>. Together perhaps we could - [ATTACKS]</td>
+  <td colspan="6">Oh you don't know? This tower sits atop <b><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></b>. There lies the so-called bedchambers of the <b><a href="Ethiron,_The_Maelstrom's_Eye.md">Drowned God Ethiron</a></b>. Together perhaps we could -<br>
+  [ATTACKS]</td>
 </tr>
 <tr>
   <td colspan="6">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
@@ -307,8 +308,10 @@ Exhaustive Loot Table
   <td colspan="4">[Attack mid-dialogue]</td>
 </tr>
 <tr>
-  <td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams. [ATTACKS]</td>
-  <td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? Tell me. After we met in your time, did you make it to the- [ATTACKS]</td>
+  <td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams.<br>
+  [ATTACKS]</td>
+  <td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? Tell me. After we met in your time, did you make it to the-<br>
+  [ATTACKS]</td>
   <td colspan="4">Aha, the first strike? Not one to mince words are we?</td>
 </tr>
 <tr>
@@ -316,7 +319,7 @@ Exhaustive Loot Table
   <td colspan="4">End</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="8">End</td>
 </tr>
 </tbody>
 </table>

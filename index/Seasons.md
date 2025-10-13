@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 165482
+revid: 165920
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -39,7 +39,7 @@ Examples of Rootwatch.
 
 ### Seedspan
 
-Examples of Speedspan.
+Examples of Seedspan.
 
 -   Fruits and wheat will spawn slower.
 -   Rain has an average chance of appearing.
