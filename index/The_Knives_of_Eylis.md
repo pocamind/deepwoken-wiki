@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 159201
+revid: 166102
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Knives of Eylis]
@@ -21,7 +21,7 @@ categories: [Factions, The Knives of Eylis]
 
 The Knives of Eylis, also known as the Silver Whalers, are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the East Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant. They are currently one of the three factions that can be joined by the player as a guild, the other two being The Divers and The Ignition Union. The guild colour/colour of the flags of members of the guild is orange.
 
-The [Voidwalker Origin](Origins.md) is associated with this faction. It grants the player two exclusive Voidwalker items upon spawn, the Voideye and the Grasp of Eylis.
+The [Voidwalker](Voidwalker.md) [Origin](Origins.md) is associated with this faction. It grants the player two exclusive Voidwalker items upon spawn, the Voideye and the Grasp of Eylis.
 
 The Voidheart itself doesn't actually exist, it's actually a collective dream that the Knives of Eylis have while sleeping at night. The Voidheart heavily resembles the Trial of One but there's no information in-game that talks about this. It's speculated that the "deal" that the Voidmother and Eylis made granted the players the ability to travel to their bounties using the Grasp of Eylis and the Voideye.
 

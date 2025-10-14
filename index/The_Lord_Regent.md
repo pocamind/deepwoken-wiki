@@ -1,9 +1,9 @@
 ---
 title: The Lord Regent
-revid: 163303
+revid: 166096
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
+categories: [NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
 ---
 
 # The Lord Regent
@@ -11,7 +11,7 @@ categories: [Etrean NPCs, NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer
 | The Lord Regent | |
 |---|---|
 | name | Zi'eer |
-| aspect | Etrean |
+| aspect | Creature |
 | location | Etris Palace |
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”

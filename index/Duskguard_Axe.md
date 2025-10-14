@@ -1,11 +1,9 @@
 ---
 title: Duskguard Axe
-revid: 166013
+revid: 166082
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
 ---
 
 # Duskguard Axe
@@ -38,12 +36,8 @@ The Duskguard Axe is a HVY weapon in the Greataxe category that can be obtained 
 
 ## Critical
 
-The user reels the axe backwards before heavily chopping the opponent, guardbreaking them. The opponent will be lodged into the axe as the user leaps and smashes them into the ground, dazing them for 1.5 seconds in the end.
+The user reels the axe backwards before chopping the opponent and guardbreaking them. The opponent will be lodged into the axe as the user leaps and smashes them into the ground, dazing them for 1.5 seconds in the end.
 
 The initial hit does not count as a hit despite guardbreaking; this means it won't proc any Talents and does not deal damage. The second hit has a 1.375x scaled damage multiplier.
 
 The critical has a cooldown of **10 seconds**.
-
-## Trivia
-
--   The Duskguard Axe can be passed down with echoes.

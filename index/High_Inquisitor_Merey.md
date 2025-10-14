@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 166042
+revid: 166080
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -343,6 +343,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <tbody>
 <tr>
   <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. But perhaps this tool will provide you with what you need.<br>
+  <font>[Player obtains <a href="Big_Brother.md">Big Brother</a>]</font></td>
+</tr>
+<tr>
+  <td>May I ask you something, ma'am?</td>
 </tr>
 <tr>
   <td>WIP</td>

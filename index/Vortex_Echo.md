@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 160242
+revid: 166097
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Relics, Legendary Weapons, Light Weapons]
@@ -42,6 +42,8 @@ Note: Mantras that have a cooldown that's longer than 30 seconds will not displa
 | --- |
 | Windwaker
 Voideye
+
+Buster Call
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 166072
+revid: 166084
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -251,15 +251,15 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td colspan="4">Could you tell me about yourself?</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*The Warden sighs without sighing.*</i> I am not entirely certain you will find my personal history particularly fascinating, Seneschal. my upbringing does not exactly feature tales of overcoming hardship in my upbringing. You may ask regardless.</td>
+  <td colspan="4"><i>*The Warden sighs without sighing.*</i> I am not entirely certain you will find my personal history particularly fascinating, Seneschal. my upbringing does not exactly feature tales of overcoming hardship in my upbringing. But you may ask regardless.</td>
 </tr>
 <tr>
   <td colspan="2">How did you join the Authority military?</td>
   <td colspan="2">How did you become the Warden of Fort Merit?</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*His eyes of dulled crimson gaze towards the middle distance, his focus drifting towards the past.*</i> I grew up around military traditon. It was only natural that I'd enlist eventually. Both of my fathers served in the military. One of them, Aladrian, is a decorated veteran of high rank, who served as Warden of the East before me, overseeing a period of peaceful trade. The other, Octavius, is the former Inquisitor Maximus of the Central Authority, overseeing all High Inquisitors.</td>
-  <td colspan="2"><i>*His mind wanders in distant recollection.*</i> Once my father Aladrian retired from his position as Warden of the East, I was assigned as his successor by order of our Sovereign of Eras, Drallis Ehr. When I took upon the office, I was instructed to estabilish a spearhead in the Eastern Luminant. Determining that Fortress Cascabel, a former prison on the outer reaches of Etrean influence, would be the best position for estabilishing a foothold, we laid siege to it, and conquered it.</td>
+  <td colspan="2"><i>*His eyes of dulled crimson gaze towards the middle distance, his focus drifting towards the past.*</i> I grew up around military tradition. It was only natural that I'd enlist eventually. Both of my fathers served in the military. One of them, Aladrian, is a decorated veteran of high rank, who served as Warden of the East before me, overseeing a period of peaceful trade. The other, Octavius, is the former Inquisitor Maximus of the Central Authority, overseeing all High Inquisitors.</td>
+  <td colspan="2"><i>*His mind wanders in distant recollection.*</i> Once my father Aladrian retired from his position as Warden of the East, I was assigned as his successor by order of our Sovereign of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>. When I took upon the office, I was instructed to establish a spearhead in the <a href="Glossary.md#the-eastern-luminant">Eastern Luminant</a>. Determining that Fortress Cascabel, a former prison on the outer reaches of Etrean influence, would be the best position for establishing a foothold, we laid siege to it, and conquered it.</td>
 </tr>
 <tr>
   <td>How did you become the Warden of Fort Merit?</td>
@@ -268,8 +268,8 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tr>
 <tr>
   <td>[See first instance]</td>
-  <td>TBA</td>
-  <td colspan="2">*The Warden nods.* The defending garrison fought valiantly. But valour alone is sometimes not enough when faced with vastly overwhelming firepower. The Etrean people insist that the takeover was the display of our 'barbarity'. But I would call it a necessary, if drastic, measure. Nothing in Lumen can compare to the evil which sleeps within that Kingdom.</td>
+  <td><i>*You exchange stern salutes with the Warden.*</i> Very well, Seneschal. I expect you will keep me informed of your progress on the field. You may be dismissed.</td>
+  <td colspan="2"><i>*The Warden nods.*</i> The defending garrison fought valiantly. But valour alone is sometimes not enough when faced with vastly overwhelming firepower. The Etrean people insist that the takeover was the display of our 'barbarity'. But I would call it a necessary, if drastic, measure. Nothing in <a href="Glossary.md#lumen">Lumen</a> can compare to the evil which sleeps within that Kingdom.</td>
 </tr>
 <tr>
   <td></td>
@@ -278,16 +278,8 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>That is all, Warden, thank you.</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
-  <td>[See first instance]</td>
-  <td>TBA</td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>End</td>
+  <td colspan="2"></td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -300,10 +292,13 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*Warden Jericho turns to face you as you approach. You exchange salutes commanding respect. He seems wearier than usual. Has he always been like this?..*</i> Seneschal [Last Name]. It is good to see you again. It is diligent of you to report to your superiors. May your behaviour set an example for others in the Command division. I hear you have been doing well in the field. Was there something you wanted to discuss?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>May I ask you something, Warden?</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
 </tr>
 </tbody>
 </table>
