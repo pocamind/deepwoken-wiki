@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 166006
+revid: 166072
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -15,6 +15,10 @@ notices:
 | name | Jericho |
 | aspect | Adret |
 | location | Fort Merit |
+
+“ May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. ”
+
+― Warden Jericho
 
 ## Description
 
@@ -66,14 +70,14 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local Luminants. You salute him stringently.*</i><p>...You must be Lance Corporal [Last Name]. I was expecting you, I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
+  <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local <a href="Glossary.md#the-luminants">Luminants</a>. You salute him stringently.*</i><p>...You must be Lance Corporal [Last Name]. I was expecting you. I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
 </tr>
 <tr>
-  <td>Yes, Warden.</td>
   <td>I'd like some time to think about it, Warden.</td>
+  <td>Yes, Warden.</td>
 </tr>
 <tr>
-  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Officer of the Central Authority. You will server under my direct supervision from now on.May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</td>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> Lance Corporal. By the powers vested in me, in the name of our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I name you an Officer of the <a href="Glossary.md#the-central-authority">Central Authority</a>. You will server under my direct supervision from now on. May you become the light that guides the blinded in the dark, may you burn bright as the <a href="Glossary.md#the-central-authority">Authority's</a> undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</td>
   <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
 </tr>
 <tr>
@@ -111,19 +115,25 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, Warrant Officer [Player's Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
+  <td><i>*Jericho, the Warden of the East, notes your approach. You exchange stringent salutes.*</i> Welcome once more to the Command division of the <a href="Glossary.md#the-central-authority">Central Authority</a>. As you already know, I am Jericho, Warden of the East, by the grace of our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>. You would do well to quickly learn that strategic thought and steadfast leadership are key to being an Officer. I would request that you remind me your rank and name.</td>
+</tr>
+<tr>
+  <td>I am Warrant Officer [Full Name], Warden.</td>
+</tr>
+<tr>
+  <td><i>*You salute the Warden. His own salute has a peerless quality about it.*</i> Good. It is proper to salute your superior officers. Learn and respect the chain of command, Warrant Officer [Last Name]. It will serve you well not only as a soldier, but also as an Officer. I expect you to perform to the best of your abilities, and beyond. I imagine you must have questions for me.</td>
 </tr>
 <tr>
   <td>Could you tell me more about the Command division?</td>
 </tr>
 <tr>
-  <td>Drill Sergeant Kernel Senior will have given you a basic explanation of each division, I'm sure. But to elaborate on what you know, the Command division if the mind which guides the body of the <a href="Glossary.md#the-central-authority">Authority</a>. The position of an Officer demands steeled, calculated thought. You must understand not only strategic thinking and tactical methodology, but also the comrades who serve under your command - for it is your job to guide them on the field, as well as on home ground.</td>
+  <td>Drill Sergeant Kernel Senior will have given you a basic explanation of each division, I'm sure. But to elaborate on what you know, the Command division is the mind which guides the body of the <a href="Glossary.md#the-central-authority">Authority</a>. The position of an Officer demands steeled, calculated thought. You must understand not only strategic thinking and tactical methodology, but also the comrades who serve under your command - for it is your job to guide them on the field, as well as on home ground.</td>
 </tr>
 <tr>
   <td>I think that's all, thank you Warden.</td>
 </tr>
 <tr>
-  <td><i>*You exchange salutes once more.*</i> Very well. You may return to your duties, Warrant Officer [Player's Last Name]. I expect you to report to me once again soon enough. In the meantime, you will perform the tasks demanded of you by your position with utmost diligence. You may be dismissed.</td>
+  <td><i>*You exchange salutes once more.*</i> Very well. You may return to your duties, Warrant Officer [Last Name]. I expect you to report to me once again soon enough. In the meantime, you will perform the tasks demanded of you by your position with utmost diligence. You may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -139,10 +149,13 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, Warrant Officer [Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>Could you tell me more about the Command division?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -225,7 +238,8 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">TBA <i>*The player receives Rite of Authority*</i></td>
+  <td colspan="4"><i>*Warden Jericho turns to face you as you approach. You exchange salutes commanding respect. He seems wearier than usual. Has he always been like this?..*</i> Seneschal [Last Name]. It is good to see you again. It is diligent of you to report to your superiors. May your behaviour set an example for others in the Command division. <i>*He procures a pristine weapon, and gives it to you.*</i> Take this. The Rite of <a href="Glossary.md#the-central-authority">Authority</a>. It is your mark of power as a Sensechal. Treat it with respect.<br>
+  <font>[Player obtains <a href="Rite_of_Authority.md">Rite of Authority</a>]</font></td>
 </tr>
 <tr>
   <td colspan="4">May I ask you something, Warden?</td>
@@ -237,7 +251,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td colspan="4">Could you tell me about yourself?</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*The Warden sighs without sighing.*</i> I am not entirely certain you will find my personal history particularly fascinating, Seneschal. &lt;y upbringing does not exactly feature tales of overcoming hardship in my upbringing. You may ask regardless.</td>
+  <td colspan="4"><i>*The Warden sighs without sighing.*</i> I am not entirely certain you will find my personal history particularly fascinating, Seneschal. my upbringing does not exactly feature tales of overcoming hardship in my upbringing. You may ask regardless.</td>
 </tr>
 <tr>
   <td colspan="2">How did you join the Authority military?</td>

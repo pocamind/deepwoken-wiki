@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 154079
+revid: 166010
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -36,6 +36,7 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
 ## How to Use
 

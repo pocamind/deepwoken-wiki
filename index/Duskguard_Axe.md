@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 165746
+revid: 166013
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -46,4 +46,4 @@ The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   The Duskguard Axe can be passed down with echoes
+-   The Duskguard Axe can be passed down with echoes.

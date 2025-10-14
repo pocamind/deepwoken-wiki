@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 165948
+revid: 166075
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -19,17 +19,19 @@ notices:
 
 ## Description
 
-Drill Sergeant Kernel is a [Celtor](Celtor.md) NPC, he is the mentor for the freshly arrived [Authority Ensign](Authority_Ensign.md).
+Drill Sergeant Kernel is a [Celtor](Celtor.md) NPC, he is the mentor for the freshly arrived [Authority Ensigns](Authority_Ensign.md).
 
 ## Location
 
-Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.md).
+Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Merit.md).
 
 ## Dialogue
 
 **Authority Ensign:**
 
 **No division:**
+
+**Private / Corporal:**
 
 **First Encounter:**
 
@@ -183,6 +185,34 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
+**Lance Corporal:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="3">Begin</td>
+</tr>
+<tr>
+  <td colspan="3"><i>*You salute the Drill Sergeant.*</i> <b>AT EASE</b>, Lance Corporal [Ensign Name]! I scarce believe it MYSELF, but your rank means you're due for a <b>PROMOTION</b> soon! You better have done <b>WELL</b> on your <b>FIELD MISSIONS</b>, soldier, or your desire division may be OUT OF REACH! Now, have you got any QUESTIONS?</td>
+</tr>
+<tr>
+  <td>I wanted to KNOW where the DIVISION LEADERS are, sarge!</td>
+  <td>I wanted to ASK about the ORDER OF THINGS again, SARGE!</td>
+  <td>I came to TRAIN, sarge!</td>
+</tr>
+<tr>
+  <td>LISTEN WELL then, worm! <b>WARDEN JERICHO, who leads the COMAND</b> division, is usually in the <b>WAR ROOM</b> at the top of the fortress! <b>SENTINEL AUGUSTUS</b> of the <b>SHOCK CORPS</b> spends plenty of time around there, too! <b>HIGH INQUISITOR MEREY</b> of the <b>INQUISITION</b> usually tends to be busy in the <b>INTERROGATION ROOM</b> on the floor below! Did you GET ALL OF THAT, Lance Corporal [Ensign Name]?</td>
+  <td colspan="2">[See previous instance]</td>
+</tr>
+<tr>
+  <td>YES, sergeant!</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
+</tr>
+</tbody>
+</table>
+
 **Command Division:**
 
 **Warrant Officer:**
@@ -195,7 +225,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the COMMAND division, Warrant Officer [Ensign Name]! Maybe the mind of Private [Ensign Name] wasn't MUDDLED after all! I hope you make us all <b>REAL DAMN PROUD</b> with your tactical skills! The next time you talk to <b>WARDEN JERICHO</b>. I'd appreciate it if you could put in a <b>GOOD WORD</b> in favour of the TRAINING GROUNDS getting some new TRAINING WEAPONS! <b>THREE CHEERS!!!</b></td>
+  <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the <b>COMMAND</b> division, Warrant Officer [Last Name]! Maybe the mind of Private [Ensign Name] wasn't <i>MUDDLED</i> after all! I hope you make us all REAL DAMN PROUD with your tactical skills! The next time you talk to <b>WARDEN JERICHO</b>, I'd appreciate it if you could put in a GOOD WORD in favour of the <i>TRAINING GROUNDS</i> getting some new <i>TRAINING WEAPONS</i>! <b>THREE CHEERS!!!</b></td>
 </tr>
 <tr>
   <td>End</td>
@@ -505,7 +535,7 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*For the first time ever, Drill Sergeant Kernel salutes you first. It seems you finally outrank him. He sheds a tear of joy under his helmet, sniffling.*</i> Operator [Last Name]... I CONFESS, I feel like a <b>PROUD FATHER</b> knowing that ONE OF MY OWN has reached <b>THE TOP</b> of a division! I'm <b>REAL DAMN PROUD</b> OF YOU! You're an inspiration to <b>ALL</b> recruits! I only hope <b>MY SON</b>, Kernel Junior, can follow in your example! <b>THREE CHEERS!!!</b></td>
 </tr>
 <tr>
   <td>End</td>
@@ -563,4 +593,10 @@ Drill Sergeant Kernel is located on sparring grounds at [Fort Merit](Fort_Merit.
 
 ## Trivia
 
--   He is the father of [Private Kernel](Private_Kernel.md).
+-   Through his dialogue, the player can learn that he is the father of [Private Kernel](Private_Kernel.md).[\[1\]](#cite-note-1)
+-   His full name is a play on the words Corn and Kernel.[\[2\]](#cite-note-2)
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

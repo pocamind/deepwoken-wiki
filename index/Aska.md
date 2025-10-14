@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 163689
+revid: 166008
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer]

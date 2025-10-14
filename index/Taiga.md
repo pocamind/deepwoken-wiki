@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 165722
+revid: 166062
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -65,7 +65,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>The Capra sits alone, fiercely annotating a small pamphlet. You're convinced the quill is going to give way at any moment.</i> Hey, I told you to lay offjostling that leg about. If you tear those stitches again, I'll save you the trouble of having a leg at all. <b>A sharp smile runs across her face briefly. She's joking... Or at least, you assume she is.</b></td>
+  <td><i>The Capra sits alone, fiercely annotating a small pamphlet. You're convinced the quill is going to give way at any moment.</i> Hey, I told you to lay off jostling that leg about. If you tear those stitches again, I'll save you the trouble of having a leg at all. <i>*A sharp smile runs across her face briefly. She's joking... Or at least, you assume she is.</i></td>
 </tr>
 <tr>
   <td>End</td>

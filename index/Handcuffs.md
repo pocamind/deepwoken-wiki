@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 165738
+revid: 166054
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -34,7 +34,7 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 
 This weapon is automatically equipped upon being detained (gripped) by an [Authority Ensign](Authority_Ensign.md) player or by speaking to a few Authority NPCs[\[1\]](#cite-note-1) while having Enemy or lower Authority reputation. You will also be teleported into Fort Merit's prison and a 10 minute countdown to your execution will start. If the countdown reaches 0 while you still have the handcuffs on, you will be immediately drowned and sent to [the Depths](The_Depths.md).
 
-You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the Etrean Guardsmaster. Removing your cuffs via a Blacksmith requires you to have neutral or higher reputation with the faction the Blacksmith is a part of.
+You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the [Etrean Guardmaster](Etrean_Guardmaster.md). Removing your cuffs via a Blacksmith requires you to have neutral or higher reputation with the faction the Blacksmith is a part of.
 
 ## Trivia
 

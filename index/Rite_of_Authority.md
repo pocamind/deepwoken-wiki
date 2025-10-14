@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 165872
+revid: 166051
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -47,6 +47,6 @@ The critical has a cooldown of **3 seconds**.
 
 ## Trivia
 
--   Despite the Attunement requirement, this weapon is [enchantable](Enchantments.md).
+-   Despite the Attunement requirement, this weapon is [enchantable](Enchantments.md) and does not scale on Thundercall.
 -   There was a bug when this weapon released where you could [Motif](Motifs.md) it, though strangely the Rite of Authority Motif was only compatible with Rapiers.
--   If you frequently lag, have low FPS or are on a lower end device, you will often miss the second half of the critical attack.
+-   If you frequently lag, have low FPS, or are on a lower end device, you will often miss the second half of the critical attack.

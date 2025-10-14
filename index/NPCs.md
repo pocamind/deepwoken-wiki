@@ -1,9 +1,12 @@
 ---
 title: NPCs
-revid: 163524
+revid: 166068
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # NPCs

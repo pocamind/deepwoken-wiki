@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 165939
+revid: 166057
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -54,7 +54,7 @@ Dialogue: | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty)
 -   Worship of Drowned Gods is taboo across most of the [Lumen](#lumen), with their faithful being branded as cultists and heretics.
 -   The Drowned God Ethiron is thought to preside over [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer), [Yun'Shul, Keeper of Hearts](#yunshul-keeper-of-hearts)
 
 ### Ethiron, the Maelstrom's Eye
 
@@ -107,6 +107,14 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>) | B
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Celestials](#the-celestials)
 
+### Yun'Shul, Keeper of Hearts
+
+-   A [Drowned God](#the-drowned-gods) said to preside over Hearts.
+-   A broker of many deals, Yun'Shul is said to act through innumerable proxies.
+-   Though Yun'Shul's whereabouts are a mystery, their servants are particularly numerous within the [First Layer,](#scyphozia-the-first-layer) perhaps due to its proximity to the [Surface](#the-surface).
+
+Dialogue: [Jeremiah](Jeremiah.md) when giving an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) | Books: | Glossary Entries:
+
 ## Historic Events
 
 ### The Submergence of Celtor
@@ -127,7 +135,7 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Beiruul](Beiruul.md), [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Beiruul](Beiruul.md), [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -371,7 +379,7 @@ Dialogue: | Books: | Glossary Entries: [Lighthook](#lighthook)
 -   The central and largest [Luminant](#the-luminants) of all, the Central Luminant is a tumultuous region that is governed overall by the [Central Authority](#the-central-authority).
 -   Enclaves outside of the Central Authority's purview do exist within the Central Luminant, however. One such example are the [Lullaby Isles](#the-lullaby-isles), the homeland of the Chrysid and the Moonlit Faith.
 
-Dialogue: [Kelsius](Kelsius.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Luminants](#the-luminants)
+Dialogue: [Kelsius](Kelsius.md), [Sentinel Augustus](Sentinel_Augustus.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Luminants](#the-luminants)
 
 ### The Drowned City of Celtor
 
@@ -431,7 +439,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: [Lumen's Folklore: 
 -   Dangerous aquatic monstrosities roam Scyphozia, with some making their way to [Lumen's](#lumen) shores.
 -   A notabe landmark in Scyphozia is the [Drowned City](#the-drowned-city-of-celtor) of Celtor, where many make their pilgrimage in hopes of salvation.
 
-Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries:
+Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [Yun'Shul, Keeper of Hearts](#yunshul-keeper-of-hearts)
 
 ### The Heavens
 
@@ -516,7 +524,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries:
 -   The half of [Lumen](#lumen) in which you reside.
 -   The Surface is made up of the [Luminants](#the-luminants) and the [Voidsea](#the-voidsea) that surrounds them.
 
-Dialogue: [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md) | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), [The Nightsea](#the-nightsea)
+Dialogue: [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md) | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [Lumen](#lumen), [The Celestials](#the-celestials), [The Heavens](#the-heavens), [The Nightsea](#the-nightsea), [Yun'Shul, Keeper of Hearts](#yunshul-keeper-of-hearts)
 
 ### The Vents, the Third Layer
 

@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 165905
+revid: 166041
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -116,6 +116,8 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 
 **Shock Corps division:**
 
+**Frontliner / Interceptor:**
+
 <table>
 <tbody>
 <tr>
@@ -123,6 +125,22 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 </tr>
 <tr>
   <td><i>*They regard you with a half-lidded expression, reeking of haughtiness. As you salute them, they return you a distinctly uncaring, silent salute.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Operator:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*They wordlessly salute you, forcing an expressionless look.*</i></td>
 </tr>
 <tr>
   <td>End</td>
