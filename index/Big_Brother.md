@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 165337
+revid: 166173
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, Weapons with Unique Criticals]

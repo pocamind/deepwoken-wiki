@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 158740
+revid: 166155
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -87,7 +87,7 @@ The Lumber Axe at [Lower Erisia](Lower_Erisia.md) is located on a bench in the B
 
 The Lumber Axe in a [Merchant Ship](Random_Encounters.md#sea-events) is located near [Chili](Travelling_Merchant.md) on one of the counters with some luck.
 
--   Costs varying [Robux](https://roblox.fandom.com/wiki/Robux).
+-   Costs varying [Notes](Notes.md).
 -   Merchant Ships can be found in both the Etrean and Eastern [Luminants](Luminants.md) by sailing through the Etrean and Aratel Sea.
 
 (The ships Lumber Axes can be purchased from)

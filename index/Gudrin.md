@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 156372
+revid: 166158
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the First Layer, The Divers, The Depths, Reputation]
@@ -67,7 +67,7 @@ File:Gudrin map.png
   <td colspan="6">Nah, not interested.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*They tent their fingers, smiling ear to ear.* X <a href="https://roblox.fandom.com/wiki/Robux">Robux</a>.</i></td>
+  <td colspan="6"><i>*They tent their fingers, smiling ear to ear.* X .</i></td>
   <td colspan="6">You've no business sense, y'know that? Sheesh.</td>
 </tr>
 <tr>

@@ -1,9 +1,9 @@
 ---
 title: Repair Kit
-revid: 160940
+revid: 166156
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits]
+categories: [Items, Tools]
 ---
 
 # Repair Kit
@@ -27,7 +27,7 @@ Up to five Repair Kits can be held normally, but using the [Packmule](Boons_and_
 
 It requires three (3) [Iron](Ores.md#iron) and two (2) Wood to craft.
 
-Alternatively you can purchase it from [Castle Light](Castle_Light.md) next to the [Barber](Barber.md) or from [Merchant Ships](Random_Encounters.md#sea-events) occasionally for varying prices of [Robux](https://roblox.fandom.com/wiki/Robux).
+Alternatively you can purchase it from [Castle Light](Castle_Light.md) next to the [Barber](Barber.md) or from [Merchant Ships](Random_Encounters.md#sea-events) occasionally for varying prices of [Notes](Notes.md).
 
 ## Tips
 

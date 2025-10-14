@@ -1,9 +1,9 @@
 ---
 title: Chime of Dwelling
-revid: 152184
+revid: 166157
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Guilds, Items]
+categories: [Mechanics, Guilds, Items, Tools]
 ---
 
 # Chime of Dwelling
@@ -16,7 +16,7 @@ categories: [Mechanics, Guilds, Items]
 
 An open guild base with the Chime of Dwelling. The guild name is up on the door and its symbol is on the door.
 
-The Chime of Dwelling is an obtainable item added in the [Verse 2 Update](Verse_2.md) which is granted to the Officers, Lieutenants and the Leader of a Guild. It allows you to set a [Guild Base](Guild_Bases.md) in a wall, with some exceptions (see below). The Chime has a member-counterpart, the [Dwelling Charm](Dwelling_Charm.md), which can be bought inside of bases or at the [Guild Manager](Guilds.md) in various cities for in a base and in a guild hall
+The Chime of Dwelling is an obtainable item added in the [Verse 2 Update](Verse_2.md) which is granted to the Officers, Lieutenants and the Leader of a Guild. It allows you to set a [Guild Base](Guild_Bases.md) in a wall, with some exceptions (see below). The Chime has a member-counterpart, the [Dwelling Charm](Dwelling_Charm.md), which can be bought inside of bases or at the [Guild Manager](Guilds.md) in various cities for 80 in a base and 50 in a guild hall
 
 Upon using the chime on an acceptable surface (Around 90° vertically, mostly on rock or wood), a short animation will play with the Guild Door being constructed. A sign will appear above the door, showing the guild name, and the guilds emblem is showcased as a window. Multiple bases can be placed near each other, but only one base per guild can be present in the same server at one time.
 

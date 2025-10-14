@@ -1,9 +1,9 @@
 ---
 title: Crowns
-revid: 162292
+revid: 166170
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Currency]
+categories: [Currency, Mechanics]
 ---
 
 # Crowns
@@ -26,9 +26,8 @@ Crowns are an end-game currency that can be obtained from completing end game ac
 Crown can be obtained in 2 ways: [World Bosses](Bosses.md#world-bosses) or [War Mode](War_Mode.md).
 
 -   **World Bosses** (namely [Heart of Enmity](Heart_of_Enmity.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md)) will reward up to 2 Crowns (based on contribution) when defeated.
-    -   [Scion of Ethiron](Scion_of_Ethiron.md) however is exempt from that, being capped at 1 Crown.
+    -   [Scion of Ethiron](Scion_of_Ethiron.md) and [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) are capped at 1 Crown per kill, based on contribution.
 -   **War Mode** will reward Crowns to the winning guild based on individual contribution and the Warchest score.
--   **[Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md)** will also reward crowns on kill most likely capped at 1.
 
 ### **Usage**
 
@@ -146,9 +145,9 @@ Crowns are able to be exchanged for Knowledge or Notes by interacting with the i
 </tbody>
 </table>
 
-Some NPCs only deals in Crowns, these are:
+Some NPCs only exchange Crowns for goods and services, these are:
 
--   [Sev](Sev.md), the Dye Vendor, exchanging [Dye Packets](Dye_Packet.md) for 1 Crown per dye packet, or unlock the Manycolored Equipment feature for 25 Crowns, allowing free and infinite dye usage on equipment.
+-   [Sev](Sev.md), the Dye Vendor, exchanging 1 Crown per [Dye Packet](Dye_Packet.md), or 25 Crowns for the Manycolored Equipment unlock, allowing free and infinite dye usage on _equipment_.
 -   [Sordino](Sordino.md) the Tamer of Beasts, exchanging the [Thresher Mount](Mounts.md) for 3 Crowns.
 -   While [Traan Zakshun](Traan_Zakshun.md) sells goods for Notes normally, his Black Market wares are sold exclusively for Crowns.
 

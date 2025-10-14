@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 165803
+revid: 166150
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 1, Lost Celtor, Lawless Territory]
@@ -37,9 +37,9 @@ Some things can add extra Difficulty Score:
 | 1-14 (est. [Power](Power.md) 1-4)\* | Nothing (you are sent up without a fight) |
 | 15-19 (est. [Power](Power.md) 5-6)\* | [Mudskipper Knight](Mudskipper_Knight.md) |
 | 20-29 (est. [Power](Power.md) 7-9)\* | [Hollow Angel](Hollow_Angel.md) |
-| 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be Template:CorruptedColor) |
+| 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be [Corrupted](Monsters.md#scyphozia)) |
 | 50-79 (est. [Power](Power.md) 17-20)\* | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (The [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in Template:CorruptedColor, but a [Fury Nautilodaunt](Fury_Nautilodaunt.md) can only spawn Template:CorruptedColor if you have the echo modifier [Deep Champion](Echoes.md).) |
+| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (The [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in [Corrupted](Monsters.md#scyphozia), but a [Fury Nautilodaunt](Fury_Nautilodaunt.md) can only spawn [Corrupted](Monsters.md#scyphozia) if you have the echo modifier [Deep Champion](Echoes.md).) |
 | 5 or more players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
 
 \* This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.
@@ -49,10 +49,10 @@ Some things can add extra Difficulty Score:
     -   Example: Two Power 16 players will spawn two [Enforcers](Enforcer.md). One Power 7 and one Power 16 will have to fight two Enforcers.
     -   Example: One player is Power 10 and another is anywhere below Power 10. Regardless of the second player's Power, 2 [Megalodaunts](Megalodaunt.md) will still spawn.
     -   Example: One Power 1 with Vow of Thorns and one Power 20 will spawn wave defense.
--   Some monsters in the Trial have a possibility of being Template:CorruptedColor
+-   Some monsters in the Trial have a possibility of being [Corrupted](Monsters.md#scyphozia).
 -   Any monster (excluding [Mudskipper Knights](Mudskipper_Knight.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
-    -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Template:CorruptedColor.
--   The monsters in the trial will be guaranteed to be Template:CorruptedColor if any player who is escaping has the **"Vow of Thorns"** or **"Deep Champion"** [echo modifiers](Echoes.md).
+    -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** [Corrupted](Monsters.md#scyphozia).
+-   The monsters in the trial will be guaranteed to be [Corrupted](Monsters.md#scyphozia) if any player who is escaping has the **"Vow of Thorns"** or **"Deep Champion"** [echo modifiers](Echoes.md).
 -   It is highly recommended to be wary of players in the Cathedral's elevator.
 -   Once the monster spawns, you will automatically be locked in combat. The combat tag in the Depths trial takes 10 minutes to despawn.
     -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks such as Angels and Megalodaunts do not allow this. At the top of the chain, players cannot be pulled by an Enforcer unless they fall.
