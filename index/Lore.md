@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 163575
+revid: 166209
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -212,12 +212,11 @@ _"Oh, a human? Far from home are we?" -Chaser._
 _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. Carrion](Carrion,_Father_of_Evolution.md)_
 
 -   One of the founding Divers.
--   Leader of the Apothecary.
 -   Seeks to transcend people through the use of a potion named the Moonseye Vigour. (This “Transcendence” is most likely a desire to ascend his soul to the Moonseye)
 -   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
 -   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
--   He is known to the Divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
+-   He is known to the Divers by the name of Dr. Diver.
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
 -   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems, and also being seemingly immune to [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) mist that brainwashed the [Kyrsgarde](Kyrsgarde.md), as well as [New Kyrsa's](Second_Layer/New_Kyrsa.md) time dilation.
 -   He uses a unique weapon called the "Moonseye Scalpel."
@@ -1068,20 +1067,6 @@ An Authority Captain
     -   Diegetic cheering inside of the [Rat's Den](<Rat's_Den.md>) suggest there are a volume of people in there, cheering the fighting on. Though, the cheering is disembodied, since the only people in there are a few [Rat Fighters](Rat_Fighter.md).
 
 Golden Warrior Bouncer, located outside of Rat's Den.
-
-### The Apothecary
-
--   **Territory:** _None_
--   **Attunements:** _All_
--   **Alliances:** _The Divers [Diversiconfaction](The_Divers.md)_
--   **Enemies:** N/A
--   **Lore Sources:** _Carrion (Discord), The Apothecary [Discord Server](https://discord.gg/4nFgupKP)._
-
--   A group of alchemists who follow Dr. Carrion and his experiments sharing one same goal.
--   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms. Many but not all members of the Apothecary are Divers, with Dr. Carrion even being a Black Diver.
--   Their ranks consist of Bluecap Officers and regular Browncap members. Yes they are named after mushrooms.
--   The Goal of the Apothecary is to create the Moonseye Vigor, said to be able to "transcend" people.
-    -   Dr. Carrion himself drank a prototype of the Moonseye Vigor, driving him into insanity and giving him green eyes.
 
 ### Songseekers
 

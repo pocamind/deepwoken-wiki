@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 150256
+revid: 166175
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, The Depths]
@@ -32,7 +32,7 @@ Once the conditions are met, [The Depths](The_Depths.md) (current server) will t
 -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
     -   Mudskipper Broodlords have their anti-heal reduced to 50%
 
--   [King Gigamed](Gigamed.md) is removed from the spawn pool.
+-   [King Gigamed](King_Gigamed.md) is removed from the spawn pool.
 
 These conditions affect everybody currently in the server, not just the people who interacted with the bell. However, only those who rang the bell have the increased spawn rate.
 

@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 158530
+revid: 166211
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -139,7 +139,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 
   
 
-<table><caption><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a>, First Interaction, Read <a href="Books.md">Operation 'Puppet Master' Report</a> Unique Dialogue</caption>
+<table><caption><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a>, First Interaction, Read <a href="Books.md#operation-puppet-master-report">Operation 'Puppet Master' Report</a> Unique Dialogue</caption>
 <tbody>
 <tr>
   <th colspan="2"><b>Picked either "I'm sorry." / "Snooping around a tyrant's affairs. Didn't you see it coming?"</b><small>See Table above for earlier dialogue. <i>Cont. after Kennith's lines. Player dialogue options.</i></small></th>
@@ -205,7 +205,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 
 ## Trivia
 
--   Having read the [Operation 'Puppet Master' Report](Books.md) will unlock unique dialogue with Kennith in the Kyrsan Wilds.
+-   Having read the [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) will unlock unique dialogue with Kennith in the Kyrsan Wilds.
     -   Being a [Contractor](Oath%253A_Contractor.md) does not unlock any unique dialogue with him.
 -   The reason he's in the [Second Layer](Second_Layer.md) is because a [satirical video](https://www.youtube.com/watch?v=wd7Qp4SlxTM) was made, showing him bonding with and then entering in a relationship with Ambrosius. Developer Arch\_Mage saw this video, and decided to add Kennith to Layer 2 as a result.[\[1\]](#cite-note-1)
     -   Ironically, the video shows Kennith in [Firfire](Firfire.md), while he was ultimately placed in the Kyrsan Wilds.

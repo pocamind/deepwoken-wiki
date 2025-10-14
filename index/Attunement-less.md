@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 165935
+revid: 166214
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1272,7 +1272,7 @@ N/A
 
 -   Inflicts Charm on nearby entities for 10 seconds.
 -   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
--   Can be modified with stratus stones to increase range.
+-   Can be modified with cloud and stratus stones to increase range, but increase the cooldown. (1 Cloudstone = +2s CD, 1 Stratus stone = +3s CD)
 -   Shares a cooldown with [Glare](Attunement-less.md#glare).
 -   Can be upgraded with the **Encore** Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the **Propagandist** Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.

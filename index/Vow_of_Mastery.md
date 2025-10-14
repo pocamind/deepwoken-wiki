@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 165750
+revid: 166188
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -131,7 +131,7 @@ Charisma
 -   _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 -   _Can only be used on one subject at a time._.
 
- | _1 hour_ |
+ | _20 minutes. 1 hour on the last subject used on._ |
 | 
 
  | Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has ~10 seconds of windup before summoning.

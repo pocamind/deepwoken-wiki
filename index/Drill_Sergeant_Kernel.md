@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 166075
+revid: 166184
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -16,6 +16,7 @@ notices:
 | name | Cornelius Kernel Sr. |
 | aspect | Celtor |
 | location | Fort Merit |
+| family | Private Kernel (son) |
 
 ## Description
 
@@ -593,10 +594,8 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 ## Trivia
 
--   Through his dialogue, the player can learn that he is the father of [Private Kernel](Private_Kernel.md).[\[1\]](#cite-note-1)
--   His full name is a play on the words Corn and Kernel.[\[2\]](#cite-note-2)
+-   His full name is a play on the words corn kernel.[\[1\]](#cite-note-1)
 
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)

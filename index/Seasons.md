@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 166040
+revid: 166202
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-There are 4 seasons in Deepwoken that change in order from left to right: Hearthspan, Rootwatch, Seedspan and Rimefall. Each season lasts 2 real life days and transition between one another at 12am GMT+0 (Midnight, 7PM EST). Note that the timezone used to determine seasons is based off of the timezone of the server you're in.
+There are 4 seasons in Deepwoken, each lasting 2 months, meaning a year is 8 months in total. Each month lasts a real life day and transitions at Midnight UTC (7PM EST). For the months, the start of a season ends with '-span', and the end of a season ends with '-fall'.
 
 The difference between seasons are the visuals and interactions relating to items that grow in the environment. Such examples are Wheat not growing in the Winter, certain fruits unable to grow from trees, and certain mobs spawning, such as the [Blizzard Knights](Stone_Knight.md) at [Minityrsa](Minityrsa.md) only spawning during the winter (if it is not winter the [Aelita](Aelita.md) event will spawn).
 
@@ -20,41 +20,47 @@ The difference between seasons are the visuals and interactions relating to item
 
 ## Seasons
 
-### Hearthspan
+### Spring
 
-Examples of Hearthspan.
+**Months**: Hearthspan, Rootwatch
+
+Examples of Spring.
 
 -   Rain is more common.
 -   Fruits and wheat will start to spawn.
 -   Grass and Leaves are green.
 
-### Rootwatch
+### Summer
 
-Examples of Rootwatch.
+**Months**: Seedspan, Bloomfall
+
+Examples of Summer.
 
 -   Rain is less common.
 -   Abundant with fruits and wheat.
 -   Grass and Leaves are green.
 -   Sap is unlikely to appear.
 
-### Seedspan
+### Autumn
 
-Examples of Seedspan.
+**Months**: Scythespan, Ardfall
 
--   Fruits and wheat will spawn slower.
+Examples of Autumn.
+
 -   Rain has an average chance of appearing.
 -   Grass and Leaves are orange or orange variations.
 
-### Rimefall
+### Winter
 
-Examples of Rimefall.
+**Months**: Saltspan, Rimefall
+
+Examples of Winter.
 
 -   Snow will cover the grass and leaves.
--   Fruits, vegetables, etc. will not spawn on most trees.
+-   Fruits, vegetables, etc. will not spawn.
 -   [Blizzard Knights](Stone_Knight.md) will spawn if you enter the [Valley of Heroes](The_Valley_of_Heroes.md), triggered at the [Aelita Event](Aelita.md) area.
 -   [Hero Blades](Hero_Blades.md) and Ministry Cloaks may be fished up.
 -   The Trees in the [Burning Stone Gardens](Burning_Stone_Gardens.md) emit a white glow instead of their usual orange.
--   Fish don't bite or bite significantly less often (needs confirmation)
 
 ## Notes
 

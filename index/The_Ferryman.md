@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 162746
+revid: 166203
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -383,7 +383,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
 -   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that the fight music is infact, diegetic.
 -   If you take too long to initiate the fight with The Ferryman, he will leave after a certain amount of time, and leave you with nothing but a portal to leave.
--   He is considered a significant enemy of the Authority by Chainwarden progression.
+-   He is considered a significant enemy of the Authority by Chainwarden progression, likely due to his alignment with the Depths.
 -   He bears a near-identical appearance to [Korin](Korin.md), the only difference being eye coloration.
 
 ## References

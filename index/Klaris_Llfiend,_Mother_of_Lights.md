@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 165958
+revid: 166199
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -10,7 +10,7 @@ categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First La
 
 | Klaris Llfiend, Mother of Lights | |
 |---|---|
-| name | Klaris Llfiend, Mother of Lights |
+| name | Klaris Llfiend |
 | aspect | Canor |
 | location | Castle Light |
 

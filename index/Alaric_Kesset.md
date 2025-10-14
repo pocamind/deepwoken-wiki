@@ -1,6 +1,6 @@
 ---
 title: Alaric Kesset
-revid: 145135
+revid: 166207
 source: https://deepwoken.fandom.com/wiki/Alaric_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -20,4 +20,4 @@ Alaric Kesset is an [Adretian](Adret.md) Navy Captain serving in [The Central Au
 
 ## References
 
-1.  [↑](#cite-ref-1) [Operation 'Distant Light' Report](Books.md)
+1.  [↑](#cite-ref-1) [Operation 'Distant Light' Report](Books.md#operation-distant-light-report)

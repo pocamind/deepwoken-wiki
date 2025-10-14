@@ -1,6 +1,6 @@
 ---
 title: Rickard Ashet
-revid: 164836
+revid: 166206
 source: https://deepwoken.fandom.com/wiki/Rickard_Ashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -28,4 +28,4 @@ Rickard Ashet is an [Adretian](Adret.md) Fleet Admiral who served in [The Centra
 
 ## References
 
-1.  [↑](#cite-ref-1) [Operation 'Distant Light' Report](Books.md)
+1.  [↑](#cite-ref-1) [Operation 'Distant Light' Report](Books.md#operation-distant-light-report)

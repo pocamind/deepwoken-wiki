@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 164176
+revid: 166198
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -229,6 +229,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 -   [Akira](Akira.md) references the archetypal 'edgy anime character,' with much of his design and mannerisms meant to reflect this.
 -   [Rabanastre](Rabanastre.md) is a reference to Patches, a recurring character in the _soulsborne_ games produced by _Fromsoftware_.
+-   Players have the option to tell [Sev](Sev.md) that their outfit "[insists upon itself](https://en.wikipedia.org/wiki/Family_Guy)".
 -   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) is modelled after a real life player.
 
 ## Names

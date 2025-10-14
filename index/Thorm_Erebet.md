@@ -1,6 +1,6 @@
 ---
 title: Thorm Erebet
-revid: 164831
+revid: 166205
 source: https://deepwoken.fandom.com/wiki/Thorm_Erebet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -24,4 +24,4 @@ Thorm Erebet is an [Adretian](Adret.md) Fleet Admiral serving in [The Central Au
 
 ## References
 
-1.  [↑](#cite-ref-1) [Operation 'Distant Light' Report](Books.md)
+1.  [↑](#cite-ref-1) [Operation 'Distant Light' Report](Books.md#operation-distant-light-report)

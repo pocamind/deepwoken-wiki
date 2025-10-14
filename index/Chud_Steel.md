@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 165973
+revid: 166185
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central
 | name | Chud Steel |
 | aspect | Adret |
 | location | Fort Merit |
+| family | 15 unnamed brothers |
 
 “ Three cheers, citizen! Fear not, we fight for you! ”
 

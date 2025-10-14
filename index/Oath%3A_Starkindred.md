@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 165446
+revid: 166223
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -53,7 +53,7 @@ You will get a Mantra for each kill, and a chest containing [Songseeker](Songsee
 
 The order of Mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
 
-Alternatively you can pay [Samael](Samael.md) 10 to skip Starkindred's progression. However, this requires you to have fully progressed Starkindred before, including killing the Sinners.
+Alternatively you can pay [Samael](Samael.md) 10 to skip killing the Sinners. However, this requires you to have fully progressed Starkindred before, including obtaining the Mantras.
 
 ## Effects
 

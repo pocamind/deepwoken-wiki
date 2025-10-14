@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 164208
+revid: 166197
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -25,6 +25,23 @@ Manycolored Equipment **cannot** dye [Oath](Oaths.md) cosmetics, hair, eyes, [As
 ## Location
 
 Sev can be found leaning back against one of the houses with the [Blacksmith](Blacksmith.md) inside, in [Meteor Isle](Meteor_Isle.md)
+
+## Shop
+
+Sev's Boutique
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>1 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
+  <td><div>Dye Packet</div><div><i>A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
+  <td><div>Manycolored Equipment</div><div><i>Permanently unlocks the ability to edit your Equipment's Colors freely</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
@@ -96,19 +113,6 @@ Sev can be found leaning back against one of the houses with the [Blacksmith](Bl
 </tbody>
 </table>
 
-## Shop
+## Trivia
 
-Sev's Boutique
-
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>1 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
-  <td><div>Dye Packet</div><div><i>A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>25 <a href="Crowns.md">CrownsLarge</a><div>Crowns</div></center></td>
-  <td><div>Manycolored Equipment</div><div><i>Permanently unlocks the ability to edit your Equipment's Colors freely</i></div></td>
-</tr>
-</tbody>
-</table>
+-   The phrase "It insists upon itself." is a reference to a scene from the adult animation sitcom _[Family Guy](https://en.wikipedia.org/wiki/Family_Guy)_, wherein the protagonist, Peter Griffin, dismisses _[The Godfather](https://en.wikipedia.org/wiki/The_Godfather)_, a film largely considered one of the greatest movies in history, using this reasoning, much to the outrage of his family. The phrase is intended to come off as pseudo-intellectual and shallow.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 165917
+revid: 166190
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1743,7 +1743,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Ignition Union
 
 -   Union Hook \[Quest Talent\] - You can now make use of the Ignition [Union hooks](Union_Hooks.md) to ascend or descend.
-    -   Prerequsites: Save [Epsi](Epsi.md) in [New Kyrsa](Second_Layer/New_Kyrsa.md) then speak to [Alpha](Alpha.md), OR gained immediately with the [Ignition Delver](Ignition_Delver.md) Origin
+    -   Prerequsites: Save [Epsi](Epsi.md) in the entrance of Firfire then speak to [Alpha](Alpha.md), OR gained immediately with the [Ignition Delver](Ignition_Delver.md) Origin
 
 ### Immolator
 
