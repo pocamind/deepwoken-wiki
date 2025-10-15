@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 166098
+revid: 166253
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -54,7 +54,7 @@ Both criticals apply 5 [Wither](Status_Effects.md#wither) on hit if your [Starki
 
 ## Trivia
 
--   There is a bug where the stats and description of this weapon change depending on the Luminant the player is in, gaining +1 base damage, +5% PEN, 25 higher medium requirement, and having its core attribute requirement be changed from Body to Agility in the [Etrean Luminant](Luminants.md).
+-   There is a bug where the stats and description of this weapon change depending on the Luminant the player is in, gaining +1 base damage, +5% PEN, 25 higher medium requirement, and having its core attribute requirement be changed from Body to Agility in the [Etrean Luminant](Luminants.md). (Patched???)
     -   This is due to the stats in the Etrean Luminant being outdated.
     -   Also removes weapon enchants.
 -   Judging by the aerial crit and the way it looks. This could be a hollow knight reference. The aerial critical resembles the Reaper's Crest pogo from Hollow Knight: Silksong.

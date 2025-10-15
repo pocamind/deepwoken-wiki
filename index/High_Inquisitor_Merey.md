@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 166080
+revid: 166250
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -378,9 +378,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 
 **Shock Corps Division:**
 
-**Frontliner:**
-
-**First Encounter:**
+**Frontliner / Interceptor:**
 
 <table>
 <tbody>
@@ -388,57 +386,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You vigorously salute the High Inquisitor. She gives you a steely salute in return. You could swear she just sighed, if softly.*</i> I'm sorry, Frontliner, there are no joint training exercises between the Shock Corps and the Inquisition planned today. Sentinel Augustus and I are still working out the details. Now, if you'll excuse me, I have other matters to attend to. Dismissed.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Interceptor:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You vigorously salute the High Inquisitor. She gives you a steely salute in return. You could swear she just sighed, if softly.*</i> I'm sorry, [Rank], there are no joint training exercises between the Shock Corps and the Inquisition planned today. Sentinel Augustus and I are still working out the details. Now, if you'll excuse me, I have other matters to attend to. Dismissed.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -447,8 +395,6 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </table>
 
 **Operator:**
-
-**First Encounter:**
 
 <table>
 <tbody>
@@ -459,23 +405,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td><i>*The high inquisitor lets out a small, beleaguered sigh as you instinctively salute her. She returns the salute.*</i> Did Augustus send you, Operator? Please tell the Sentinel I <i>can't</i> just 'shock Destellus harder' to make him speak, as it just makes him <i>stronger</i>. Pray also tell him that I'm aware 'he can handle him', and that an interrogation's purpose isn't to start a barefist brawl. If you'll excuse me, I have matters to attend to right now.</td>
 </tr>
 <tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
+  <td>End, unlocks dialogue with <a href="Sentinel_Augustus.md">Sentinel Augustus</a></td>
 </tr>
 </tbody>
 </table>

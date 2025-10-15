@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 162441
+revid: 166239
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -88,7 +88,7 @@ The Fury Nautilodaunt is a variant of the [Nautilodaunt](Nautilodaunt.md), that 
 ### Passives
 
 -   **Fury-Fists of Thunder!** - All of the Fury Nautilodaunt's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through hyperarmor.
-    -   This passive makes the Fury Nautilodaunt significantly more dangerous than its default counterpart.
+    -   This passive makes the Fury Nautilodaunt _significantly_ more dangerous than its default counterpart, as you cannot hyperarmor your way through it's attacks.
 
 ### Finisher
 
@@ -105,9 +105,9 @@ While the normal variant of this enemy has the health equivalent to a [Megalodau
 
 While this mob can **not** be merely stat checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armor.
 
-Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1800 (which can reach numbers as small as ??? with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreak crits such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) like the [Evanspear Handaxe](Evanspear_Greataxe.md) for example will make this mob into a far easier challenge.
+Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1800 (which can reach numbers as small as ??? with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreak crits such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) like the [Evanspear Greataxe](Evanspear_Greataxe.md) for example will make this mob into a far easier challenge.
 
-However, without a "cheese weapon," such as the aforementioned Evanspear Handaxe, each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
+However, without a "cheese weapon," such as the aforementioned [Evanspear Greataxe](Evanspear_Greataxe.md), each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
 
 -   The Nautilodaunt has a wide variety of punch variations, which all possess their own speed and animations, throwing off any players who believe to have hit a rhythm. Their animations are desynced, so what could be a Parry ends up as a Block, usually with the hit coming before the animation finishes. After a punch, it can followup with any of it's other punches instead of pausing like the Enforcer would, this can be chained infinitely leading to infamous "Infinite Combos," especially from the Fury variant.
 -   Nautilodaunt's kick is basically identical to The Enforcer's. It will usually use it as an extension of his other attacks, placing it after his normal or double punches. While dealing less damage than its punches, it is painfully quick and can be difficult to parry.

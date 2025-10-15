@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 166052
+revid: 166269
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -30,7 +30,7 @@ Your guild will be automatically set to The Central Authority on that character,
 
 If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
 
-Gain the Salute [Emote](Emotes.md). All other Authority Ensign members will have a symbol above their head, to signify them being your ally.
+Gain the Salute [Emote](Emotes.md). All other Authority Ensign members will have a symbol above their head, to signify them being your ally. Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
 
 ### Horn of the Authority
 
@@ -50,9 +50,7 @@ Upon being exiled from the [Central Authority](The_Central_Authority.md), your a
 
 If you leave Authority controlled territory, a **fifteen minute** AWOL countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, exiling you from the Central Authority.
 
-To not be considered a deserter, you must be on a mission, be in a Division, or be in a squad in which the leader is in the Commander Division.
-
-The AWOL timer will reset if you leave the game, restarting from 15 minutes once you rejoin. Additionally, the timer will not appear if you are in a [Dungeon](Dungeons.md) or [the Depths](The_Depths.md).
+The AWOL timer will reset if you leave the game, restarting from 15 minutes once you rejoin. Additionally, the timer will not appear if you are on a mission, have joined a Division, are in a squad in which the leader is in the Command Division, are in a [Dungeon](Dungeons.md), or are in [the Depths](The_Depths.md).
 
 ### Traitor
 

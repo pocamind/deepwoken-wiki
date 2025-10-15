@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 159183
+revid: 166254
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -28,7 +28,7 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
-| Hero | 300 |  |
+| Hero | 300 | N/A |
 | Ally | 150 to 299 | NPCs now will greet you with your first name |
 | Friend | 1 to 149 | NPCs will call you friend |
 | Neutral | 0 | N/A |
