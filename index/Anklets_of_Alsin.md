@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 156931
+revid: 166281
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -35,10 +35,7 @@ The Anklets of Alsin are a pair of light weapon anklets, used with the [Jus Kari
 
 ## Trivia/Notes
 
--   Serves as a stat-stick to give players:
-    -   Access to [Stars](Weapons.md).
-    -   Access to [Enchants](Enchantments.md).
-    -   +10% Chip Damage.
+-   Typically used as a stat-stick to give access to weapon stars, enchantments, and +10% chip damage.
 -   This is the first weapon released for the [Jus Karita](Jus_Karita.md) fighting style.
 -   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
 -   This weapon is named after Alsin, a [Celestial](Celestial.md) that the Justicars worship.

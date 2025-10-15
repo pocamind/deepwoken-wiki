@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 166269
+revid: 166285
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -273,7 +273,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
     -   The cooldown is 24 real world hours, not one ingame day.
-    -   This is a _One Piece_ reference.
+    -   This is a _One Piece_ reference, To be more specific, to a tactic employed by the marines in the One piece world in which 10 warships are called to bombard a location, although for gameplay purposes its not the same
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
 -   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
