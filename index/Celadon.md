@@ -1,9 +1,9 @@
 ---
 title: Celadon
-revid: 161749
+revid: 166349
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, Oaths]
+categories: [Adret NPCs, NPCs]
 ---
 
 # Celadon
@@ -88,4 +88,4 @@ This dialogue is unlocked if the player has asked [Cerulean](Cerulean.md) **"Whe
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Viridian](Viridian.md).
 -   Celadon usually means the shade of the color green.
 -   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and Celadon, saying "Those eyes.. you wish to" and continue.
-    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"
+    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"\]

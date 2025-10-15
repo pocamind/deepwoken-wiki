@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 166283
+revid: 166418
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -54,7 +54,6 @@ Both criticals apply 5 [Wither](Status_Effects.md#wither) on hit if your [Starki
 
 ## Trivia
 
--   There was bug that was patched where the stats and description of this weapon change depending on the Luminant the player is in, gaining +1 base damage, +5% PEN, 25 higher medium requirement, and having its core attribute requirement be changed from Body to Agility in the [Etrean Luminant](Luminants.md).
-    -   This was due to the stats in the Etrean Luminant being outdated.
-    -   Also removed weapon enchants.
--   Judging by the aerial crit and the way it looks. This could be a hollow knight reference. The aerial critical resembles the Reaper's Crest pogo from Hollow Knight: Silksong.
+-   There was bug on this weapon's release where the stats and description of this weapon change depending on the Luminant the player was in, gaining +1 base damage, +5% PEN, 25 higher Medium requirement, and having its core attribute requirement be changed from Body to Agility in the [Etrean Luminant](Luminants.md). Additionally, it had a Unique item rarity in the Etrean Luminant, scrapping any [enchantments](Enchantments.md) you may have had on the weapon if you swapped Luminants with it.
+    -   This was due to the Etrean Luminant servers not being updated, so they still had the old version of the Kindred Edict.
+-   Judging by the aerial critical and the weapon's model, Kindred Edict could be a _Hollow Knight_ reference. The aerial critical resembles the pogo from Hollow Knight's base attack, and the weapon's model is similar to that of Hollow Knight's [Nail](https://hollowknight.fandom.com/wiki/Nail).

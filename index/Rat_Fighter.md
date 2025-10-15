@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 163749
+revid: 166392
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -20,7 +20,7 @@ Rat Fighters drop a [Gold Plate](Gold_Plate.md) upon being killed, of which 5 ca
 
 ## Moveset
 
-Their arsenal consists of a Soulwrought Greataxe and the [Galebreathe](Galebreathe.md) Attunement:
+Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [Galebreathe](Galebreathe.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -74,4 +74,4 @@ A Rat Fighter executes the player after knocking them.
 
 ## Trivia
 
--   The Rat Fighter is one of five enemies able to wield a Divine Axe, which can only be obtained by the player having the [Crazy Slots](Crazy_Slots.md) Resonance, the others being [Golden Warrior](Golden_Warrior.md), Golden Bouncer, [Immortal Guardian](Immortal_Guardian.md), and [Nightmare Immortal Guardian](Immortal_Guardian.md#nightmare).
+-   The Rat Fighter is one of five enemies able to wield a Soulwrought Axe, which can only be obtained by the player through the [Crazy Slots](Crazy_Slots.md) Resonance, the others being [Golden Warrior](Golden_Warrior.md), Golden Bouncer, [Immortal Guardian](Immortal_Guardian.md), and [Nightmare Immortal Guardian](Immortal_Guardian.md#nightmare).

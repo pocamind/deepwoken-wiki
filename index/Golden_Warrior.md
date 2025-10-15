@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 163723
+revid: 166396
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -22,7 +22,7 @@ They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldro
 
 ## Attacks
 
-Their arsenal consists of a Soulwrought Greataxe and the [Galebreathe](Galebreathe.md) Attunement:
+Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [Galebreathe](Galebreathe.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -89,5 +89,5 @@ A Golden Warrior executes the player after knocking them.
 -   It will drop a "Gold Plate" upon being killed, which, 5 of can be turned in to the Golden Rat Bouncer for mid-tier Erisia loot.
 -   It is the less durable counterpart of the Golden Bouncer.
 -   This is a [random encounter](Random_Encounters.md), not to be mistaken with the [Rat Fighters](Rat_Fighter.md) in the [Rat's Den](<Rat's_Den.md>) at [Burning Stone Gardens](Burning_Stone_Gardens.md).
--   The Divine Axe can only be obtained by the player having the [Crazy Slots Resonance](Crazy_Slots.md).
+-   The Souwlrought Axe can only be obtained by the player having the [Crazy Slots](Crazy_Slots.md) Resonance.
 -   The Golden Bouncer outside of the [Rat's Den](<Rat's_Den.md>) says he'll offer you something if you bring him 5 Gold Plates, being a small chest containing high-tier loot for Burning Stone Gardens.

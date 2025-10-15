@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 156956
+revid: 166304
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae]
@@ -14,7 +14,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Nav
 | requirements | 0 LHT |
 | damage | 12 |
 | scaling | LHT: 7 |
-| range | 7 |
+| range | 6 |
 | swing speed | 1.13x |
 | m.equip | No |
 | m.extract | No |
@@ -34,7 +34,7 @@ While Way of Navae has the same damage as other traditional fist styles, the cri
 
 **After unlocking Way of Navae, you can choose it as your starter weapon in the character menu**. Once you unlock Way of Navae, it is available on all slots.
 
-### Critical
+## Critical
 
 User raises their leg with a slow windup before firmly slamming it down, breaking the opponent's guard.
 

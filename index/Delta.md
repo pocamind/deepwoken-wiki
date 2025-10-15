@@ -1,9 +1,9 @@
 ---
 title: Delta
-revid: 162778
+revid: 166342
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, In progress without reason, InProgressPages, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oaths, Oath Trainer]
+categories: [Canor NPCs, In progress without reason, InProgressPages, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

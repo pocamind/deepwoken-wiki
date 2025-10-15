@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 166285
+revid: 166298
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -269,6 +269,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
+    -   Deals little to no pve monster damage (test if it does work on humanoids)
     -   Applies burn on hit.
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).

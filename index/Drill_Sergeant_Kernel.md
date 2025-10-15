@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 166184
+revid: 166385
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -202,7 +202,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
   <td>I came to TRAIN, sarge!</td>
 </tr>
 <tr>
-  <td>LISTEN WELL then, worm! <b>WARDEN JERICHO, who leads the COMAND</b> division, is usually in the <b>WAR ROOM</b> at the top of the fortress! <b>SENTINEL AUGUSTUS</b> of the <b>SHOCK CORPS</b> spends plenty of time around there, too! <b>HIGH INQUISITOR MEREY</b> of the <b>INQUISITION</b> usually tends to be busy in the <b>INTERROGATION ROOM</b> on the floor below! Did you GET ALL OF THAT, Lance Corporal [Ensign Name]?</td>
+  <td>LISTEN WELL then, worm! <b>WARDEN JERICHO, who leads the COMMAND</b> division, is usually in the <b>WAR ROOM</b> at the top of the fortress! <b>SENTINEL AUGUSTUS</b> of the <b>SHOCK CORPS</b> spends plenty of time around there, too! <b>HIGH INQUISITOR MEREY</b> of the <b>INQUISITION</b> usually tends to be busy in the <b>INTERROGATION ROOM</b> on the floor below! Did you GET ALL OF THAT, Lance Corporal [Ensign Name]?</td>
   <td colspan="2">[See previous instance]</td>
 </tr>
 <tr>
@@ -328,23 +328,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*For the first time ever, Drill Sergeant Kernel salutes you first. It seems you finally outrank him. He sheds a tear of joy under his helmet, sniffling.*</i> Operator [Last Name]... I CONFESS, I feel like a <b>PROUD FATHER</b> knowing that ONE OF MY OWN has reached <b>THE TOP</b> of a division! I'm <b>REAL DAMN PROUD</b> OF YOU! You're an inspiration to <b>ALL</b> recruits! I only hope <b>MY SON</b>, Kernel Junior, can follow in your example! <b>THREE CHEERS!!!</b></td>
 </tr>
 <tr>
   <td>End</td>

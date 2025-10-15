@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 163724
+revid: 166395
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -20,7 +20,7 @@ They wear a [Goldleaf Helm](Goldleaf_Helm.md), Warden Pauldrons, a recolored Etr
 
 ## Moveset
 
-Their arsenal consists of a Soulwrought Greataxe and the [Galebreathe](Galebreathe.md) Attunement:
+Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [Galebreathe](Galebreathe.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |

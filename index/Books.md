@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 163387
+revid: 166386
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -1564,7 +1564,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > > // Operation\_Description
 > > 
-> > Operation Distant Light is a Class 1 reconnaissance operation. The Captain assigned to this mission is to survey the shores and territories of The Lullaby Isles from sea as precisely as possible, in order to assess the archipelago's strategic value in the Central Luminant. The operation's findings are to be reported to Admiral Thorm Erebet post-haste. The nature of the operation's Class 1 designation permits retaliatory actions and escalation where they are tactically advantageous.
+> > Operation Distant Light is a Class I reconnaissance operation. The Captain assigned to this mission is to survey the shores and territories of The Lullaby Isles from sea as precisely as possible, in order to assess the archipelago's strategic value in the Central Luminant. The operation's findings are to be reported to Admiral Thorm Erebet post-haste. The nature of the operation's Class I designation permits retaliatory actions and escalation where they are tactically advantageous.
 > > 
 > > // Operation\_Report\_In\_Full
 > > 

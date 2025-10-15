@@ -1,9 +1,9 @@
 ---
 title: The Lord Regent
-revid: 166096
+revid: 166359
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
+categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant]
 ---
 
 # The Lord Regent
@@ -11,7 +11,6 @@ categories: [NPCs, Quests, Etrea, The Ministry, Oaths, Oath Trainer, NPCs locate
 | The Lord Regent | |
 |---|---|
 | name | Zi'eer |
-| aspect | Creature |
 | location | Etris Palace |
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”
@@ -162,7 +161,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 
 ## Gallery
 
-Lord Regent killing a player whom dared to step on his Coral Throne.
+Lord Regent killing a player whom dared to step on his Coral Throne
 
 ## Trivia
 

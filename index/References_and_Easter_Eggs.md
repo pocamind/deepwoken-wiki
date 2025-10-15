@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 166198
+revid: 166334
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -114,7 +114,7 @@ This is a page dedicated to all of the easter eggs and references to other works
         -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
     -   Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference to Sephiroth from the _Final Fantasy series_.
 -   **Silentheart** originally inspiration from the _Fire Emblem_ series:
-    -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
+    -   The ship is named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
     -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the Oath, boasts high magical resistance.
     -   [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) is a lord class in _Fire Emblem: Awakening_ and _Fire Emblem: Fates._
     -   [Mani Katti](https://fireemblem.fandom.com/wiki/Mani_Katti) is Lyn's signature weapon _Fire Emblem: The Blazing Blade_. The critical hit animation is similar to that of the Talent, slicing the enemy multiple times.

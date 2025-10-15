@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 165267
+revid: 166321
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -192,12 +192,9 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
 ## Trivia
 
 -   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md#sibexs-gale-wisp-tune) will play.
--   Sibex mentions Jericho the Warden, likely meaning he is under his orders.
-    -   He's been described as missing on duty, the Authority appears to have lost him.
-    -   Due to the fact that he is able to have some sort of reading on your bell and is still being sent on patrol, it is very likely that the authority has had access to bells for a decent amount of time, seeing as if Sibex was unique in his bell checking he would likely never be sent on any kind of mission due to his value.
+-   Sibex mentions Jericho the Warden, likely meaning he is under his orders. He's been described as missing on duty, the Authority appears to have just lost him.
 -   He used to wear [Hive Leader's Garment](<Hive_Leader's_Garment.md>); this was changed due to reasons unknown.
-    -   It may have been because the outfit's design was lifted from [an outfit in Genshin Impact](References_and_Easter_Eggs.md), but this is speculation.
+    -   It may have been because the outfit's design was lifted from [an outfit](References_and_Easter_Eggs.md) in _Genshin Impact_, but this is speculation.
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue he would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
 -   On the update of August 18th, 2025, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.
--   As of the update on October 4th, 2025, Sibex got relocated and now resides on an island, which is unmarked on the map.

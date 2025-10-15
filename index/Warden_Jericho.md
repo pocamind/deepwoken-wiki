@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 166187
+revid: 166414
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
@@ -15,7 +15,7 @@ notices:
 | name | Jericho |
 | aspect | Adret |
 | location | Fort Merit |
-| family | Aladrian(father), Octavius(father) |
+| family | Aladrian (father), Octavius (father) |
 
 “ May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. ”
 
@@ -78,12 +78,12 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Yes, Warden.</td>
 </tr>
 <tr>
-  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> Lance Corporal. By the powers vested in me, in the name of our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I name you an Officer of the <a href="Glossary.md#the-central-authority">Central Authority</a>. You will server under my direct supervision from now on. May you become the light that guides the blinded in the dark, may you burn bright as the <a href="Glossary.md#the-central-authority">Authority's</a> undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</td>
   <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> Lance Corporal. By the powers vested in me, in the name of our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I name you an Officer of the <a href="Glossary.md#the-central-authority">Central Authority</a>. You will server under my direct supervision from now on. May you become the light that guides the blinded in the dark, may you burn bright as the <a href="Glossary.md#the-central-authority">Authority's</a> undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</td>
 </tr>
 <tr>
-  <td>End, player joins Command Division</td>
   <td>End</td>
+  <td>End, player joins Command Division</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 148425
+revid: 166354
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Military personnel of The Central Authority, Oath Trainer, NPCs]
@@ -107,3 +107,7 @@ Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Morredh's age is much more advanced than [Warden Jericho](Warden_Jericho.md), suggesting he's far more likely to pass or retire than end up replacing him.

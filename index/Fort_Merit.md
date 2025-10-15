@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 165730
+revid: 166333
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Territory of The Central Authority]
@@ -43,7 +43,7 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 -   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
 -   The [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in an office in the prison.
 -   Potential to find [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages.
--   The Etrean Guardsmaster can be found off the shore in a dinghy.
+-   The [Etrean Guardmaster](Etrean_Guardmaster.md) can be found off the shore in a dinghy.
 -   Training gear can be found in the guild hall
 
 ### [The Three Cheers](The_Three_Cheers.md)

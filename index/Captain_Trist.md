@@ -1,12 +1,11 @@
 ---
 title: Captain Trist
-revid: 165966
+revid: 166420
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Captain Trist
@@ -42,74 +41,24 @@ Missions are timed objectives that vary in difficulty depending on the objective
 
 **Authority Ensign:**
 
-**No division:**
-
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td colspan="2">[Rank and Last name], are you prepared for a solo operation?</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Yes, sir</td>
+  <td>No, sir</td>
 </tr>
 <tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Command division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
+  <td>Good luck, [Rank]</td>
+  <td>Don't come back 'til you're ready for your deployment, [Rank].</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisiton division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Shock Corps division:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
+  <td>End, player receives a mission</td>
   <td>End</td>
 </tr>
 </tbody>
@@ -178,7 +127,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

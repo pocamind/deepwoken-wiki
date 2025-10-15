@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 166085
+revid: 166408
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -44,7 +44,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide](Kaide,_the_Drowned_
 -   Amorus [Pleeksty](#amorus-pleeksty) is a known Deepwoken, having taken on a flower of [Korilfiend](#korilfiend-the-infernos-provenance).
 -   Many believe that the First Prophet of the Ministry may be a Deepwoken.
 
-Dialogue: | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty)
+Dialogue: [Jeremiah](Jeremiah.md) when giving a [Deepwoken Hood](Deepwoken_Hood.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty)
 
 ### The Drowned Gods
 

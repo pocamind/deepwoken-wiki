@@ -1,6 +1,6 @@
 ---
 title: Starfield Tundra
-revid: 165162
+revid: 166355
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones, Oaths, Locations in the Etrean Luminant, Etrean Luminant]
@@ -30,11 +30,10 @@ The **Star Tree** is a large gathering of tree roots dotted with many glowing wh
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Notes & Trivia
+## Trivia
 
--   Please add image and information if you have any.
 -   This area is one of three areas that contain a Star Tree, alongside the [Starfield Veldt](Starfield_Veldt.md) and [Starfield Grove](Starfield_Grove.md).
--   The entrance to the starfield tundra is located to the right of the guild banner when facing towards the golem construct's area.
+-   The entrance to the Starfield Tundra is located to the right of the guild banner when facing towards the golem construct's area.
 -   [Stardust](Stardust.md) in here has been known to be buggy not allowing the player to pick it up at times.
     
     Map for the entrance to the starfield tundra in minityrsa.

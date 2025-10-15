@@ -1,9 +1,9 @@
 ---
 title: Viridian
-revid: 164926
+revid: 166348
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, Oaths, Oath Trainer, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
 ---
 
 # Viridian
@@ -20,7 +20,7 @@ categories: [Ganymede NPCs, NPCs, Oaths, Oath Trainer, NPCs located in the Easte
 
 ## Description
 
-Viridian is a [Ganymede](Ganymede.md) NPC, she is one of the discipled the player is required to speak to in order to obtain Oathless. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+Viridian is a [Ganymede](Ganymede.md) NPC, she is one of the discipled the player is required to speak to in order to obtain Oathless.
 
 ## Location
 
@@ -62,7 +62,6 @@ Viridian is located at [Fort Merit](Fort_Merit.md), facing opposite of [Milgram]
 
 ## Trivia
 
--   If you already have an Oath, or not on the Oathless quest line, she will only say "..."
 -   Her [Ganymede](Ganymede.md) aspect variant is Hyperion.
 -   She is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Viridian City_](https://bulbapedia.bulbagarden.net/wiki/Viridian_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Celadon](Celadon.md).

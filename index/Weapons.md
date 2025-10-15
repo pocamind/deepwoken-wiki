@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 164263
+revid: 166379
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -12757,7 +12757,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
     -   Penetration: [Shattered Katana](Shattered_Katana.md), [Nemit's Sickle](<Nemit's_Sickle.md>), [Kyrsedge](Kyrsedge.md), [Kyrstreza](Kyrstreza.md), [Flareblood Kamas](Flareblood_Kamas.md), [Pernach](Pernach.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
-    -   Scaling: [Soulwrought Gun](Crazy_Slots.md) (16)
+    -   Scaling: [Soulwrought Gun](Crazy_Slots.md#weapons) (16)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Repeater](Repeater.md), [Soulwrought Gun](Crazy_Slots.md#weapons), [Guiding Star](Guiding_Star.md) (12)
     -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)

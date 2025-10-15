@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas
-revid: 153309
+revid: 166346
 source: https://deepwoken.fandom.com/wiki/Kyrsmas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events]
@@ -23,4 +23,4 @@ Due to developmental constraints, a downplayed version was released for 2024-202
 
 ## Trivia
 
--   Unlike [Hallowtide](Hallowtide.md), Kyrsmas appears to have no in-universe justification, especially given the average denizen of Lumen would not know what a Kyrsgarde is.
+-   Unlike [Hallowtide](Hallowtide.md), Kyrsmas appears to have no in-universe justification, especially given the average denizen of Lumen would not know what a Kyrsgarde is. However, dialogue with [Sentinel Augustus](Sentinel_Augustus.md) acknowledges it, but only from the player's perspective.

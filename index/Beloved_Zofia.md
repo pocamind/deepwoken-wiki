@@ -1,9 +1,9 @@
 ---
 title: Beloved Zofia
-revid: 165141
+revid: 166335
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Oaths, Etrean Luminant, Locations in the Etrean Luminant]
+categories: [Pages with broken file links, Locations, Etrean Luminant, Locations in the Etrean Luminant]
 ---
 
 # Beloved Zofia
@@ -35,4 +35,4 @@ The Beloved Zofia can be found by hugging the Minityrsa wall and making a left t
 ## Trivia
 
 -   While the _Beloved Zofia_ is not the ship in the tutorial, they share similar - if not the exact same model. The Beloved Zofia is just a slanted version of the [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). This is likely just due to them both being the same make of ship.
--   The Dreadstar has similar visual characteristics to other [Deep Shrines](Deep_Shrines.md), but is not considered one.
+-   The ship is named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._

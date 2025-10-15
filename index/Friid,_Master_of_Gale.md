@@ -1,9 +1,9 @@
 ---
 title: "Friid, Master of Gale"
-revid: 163728
+revid: 166336
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Attunement Trainers, Oaths, NPCs, NPCs located in the Etrean Luminant]
+categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Friid, Master of Gale

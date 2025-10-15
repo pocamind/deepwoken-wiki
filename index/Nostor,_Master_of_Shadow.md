@@ -1,9 +1,9 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 163742
+revid: 166338
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Attunement Trainers, Oaths, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
+categories: [Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
 ---
 
 # Nostor, Master of Shadow

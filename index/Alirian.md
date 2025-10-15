@@ -1,9 +1,9 @@
 ---
 title: Alirian
-revid: 162581
+revid: 166339
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, Oaths, Oath Trainer, NPCs located in the Etrean Luminant]
+categories: [Celtor NPCs, NPCs, Oath Trainer, NPCs located in the Etrean Luminant]
 ---
 
 # Alirian

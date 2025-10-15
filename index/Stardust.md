@@ -1,9 +1,9 @@
 ---
 title: Stardust
-revid: 151949
+revid: 166328
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Items, Oaths]
+categories: [Mechanics, Items]
 ---
 
 # Stardust

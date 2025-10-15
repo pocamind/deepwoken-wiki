@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 158698
+revid: 166406
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -26,7 +26,7 @@ categories: [Resonances]
 
 ### _Appearance_
 
-Once used, the user extends their right arm (and left arm if Soulwrought Gun, summoning a weapon from thin air.
+Once used, the user extends their right arm (and left arm if Soulwrought Gun), summoning a weapon from thin air.
 
 ## Usage
 
@@ -43,9 +43,9 @@ When obtained, Crazy Slots will spend its points on the following stats:
 -   **Weapon Weight:** Increases the likelihood of an individual Soulwrought weapon being summoned relative to its counterparts.
 -   **Time:** Increases the time for which an individual Soulwrought weapon lasts before dematerializing.
     -   Varies between 30 seconds to 150 seconds, in 15-second intervals (30s, 45s, 60s, 75s, etc.).
-    -   Corrupted rolls may have a higher maximum durations (requires more testing)
+    -   Corrupted rolls may have higher maximum durations (requires more testing)
 
-Crazy Slots will favor its point distribution towards weapons aligned with your highest WEP attribute.
+Crazy Slots will favour its point distribution towards weapons aligned with your highest WEP attribute.
 
 ## Weapons
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 165762
+revid: 166407
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -455,7 +455,7 @@ Mocking Favor is the Outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [T
 -   **Posture Clear** - Restores 30% of your current Posture. Signified by [Rally's](Attunement-less.md#rally) shield clanging sound effect and Aelita/Tillian saying "Hit 'em while they're open!".
 -   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#traits) and Aelita/Tillian saying "First one's always free!".
 -   **Vent Reset** - Resets your Vent cooldown, allowing you to use it again. No visual effect, instead signified by Aelita/Tillian saying "Need a Break? I've got you!".
--   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you. This has a short activation window of only a few seconds. No visual effect, instead signified by Aelita/Tillian saying "Tsk, barely a flesh wound!".
+-   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you as healing. This has a short activation window of only a few seconds. No visual effect, instead signified by Aelita/Tillian saying "Tsk, barely a flesh wound!".
 -   **Take a Break** - Randomizes your spit cooldown, between 5 and 20 seconds. No visual effect, instead signified by Aelita/Tillian saying "Heh, cat got your tongue!".
 -   **Silence** - Suffocation is applied to yourself, removing your ability to cast Mantras for a short duration. Signified by the Suffocation effect and Aelita/Tillian saying "Yikes! You're out of breath.". If you have Suffocation Path, you will instead be hit with an apparition and winded.
 -   **Fatigued Swings** - Lowers your Swingspeed. Signified by black multiplication marks falling from your character and Aelita/Tillian saying "Clumsy like a sack of bricks!".

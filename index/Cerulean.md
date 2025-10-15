@@ -1,9 +1,9 @@
 ---
 title: Cerulean
-revid: 156378
+revid: 166352
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, Oaths, NPCs located in the Eastern Luminant]
+categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
 ---
 
 # Cerulean

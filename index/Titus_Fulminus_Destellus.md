@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 165924
+revid: 166299
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -453,32 +453,34 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="3">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
+  <td colspan="4">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
 </tr>
 <tr>
-  <td colspan="3">I didn't come here for your respect.</td>
+  <td colspan="4">I didn't come here for your respect.</td>
 </tr>
 <tr>
   <td>Player does not have an Oath</td>
   <td>Player already has an Oath</td>
+  <td>Player is a Blightsurger</td>
   <td>Player does not have enough The Hundred Legions Reputation</td>
 </tr>
 <tr>
   <td>Good. Your valour is noted. Then take what you've earned. My respect isn't a prize - surviving me is. Though... If Brutus is alive... tell him I sent you. Tell him this: A withering storm gathers. <b>Lightning must strike the eye of the tempest.</b></td>
   <td>In another time, we might have walked the same path. But you've already made your choice. There's no room for divided conviction.</td>
+  <td>It seems we already walk the same path. There's nothing more for me to give you.</td>
   <td>You? The Legion doesn't even know your name, sprout. Come back when your presence carries <b>weight</b>.</td>
 </tr>
 <tr>
   <td>What?</td>
-  <td>...</td>
+  <td colspan="2">...</td>
   <td>End</td>
 </tr>
 <tr>
   <td>Just deliver the words exactly as I gave them. Brutus will understand. <i>*He snickers.*</i> ...Assuming he doesn't crush your ribs before you finish the sentence.</td>
-  <td>[See Base Dialogue]</td>
+  <td colspan="2">[See Base Dialogue]</td>
 </tr>
 <tr>
   <td>End</td>
