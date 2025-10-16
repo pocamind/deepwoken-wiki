@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 165237
+revid: 166507
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in the Etrean Luminant]
@@ -12,7 +12,7 @@ categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in t
 |---|---|
 | name | Kelsius |
 | aspect | Adret |
-| location | Temple of the Blade library |
+| location | Temple of the Blade |
 
 ## Description
 
@@ -20,7 +20,7 @@ Kelsius is an Adret NPC who works as the librarian at the [Isle of Vigils](Isle_
 
 ## Location
 
-Kelsius is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in the [Temple of the Blade](Temple_of_the_Blade.md) where you can also find [Valikor](Valikor.md) and [Suyuan](Suyuan.md).
+Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Blade.md).
 
 ## Dialogue
 

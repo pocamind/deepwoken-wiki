@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 164921
+revid: 166493
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, The Ignition Union, Character]
@@ -65,7 +65,6 @@ If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you wi
 
 ### Cons
 
--   You abandon Cap’n Orlandeu
 -   Reduced EXP gain from non-Job or Dungeon sources: [Bosses](Bosses.md)/[Random Encounters](Random_Encounters.md)/[Bounty Hunting](Bounty_Hunting.md)/[Quests](Quests.md).
     -   There aren't many mid-game progression dungeons, so for most exp gain, if you're not skilled enough to take on end-game dungeons, you're gonna have to either farm Bosses or Jobs.
 

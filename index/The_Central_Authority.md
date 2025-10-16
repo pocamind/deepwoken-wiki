@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 166066
+revid: 166504
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -10,7 +10,7 @@ categories: [Factions, The Central Authority]
 
 | The Central Authority | |
 |---|---|
-| territory | Central Luminant , Eastern Luminant, Fort Merit, perhaps the Northern Luminant |
+| territory | Central Luminant, Fort Merit, Port Merit, Merit's Reach |
 | goals | Conquest of all Luminants, Destruction of the Ministry and its agents. |
 
 “ Three cheers for the cause! ”

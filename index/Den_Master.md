@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 166455
+revid: 166501
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -26,7 +26,7 @@ Theres another Den Master named [Cave Master](Cave_Master.md) in [Isle of Vigils
 
 ## Location
 
-Den Master is located in the [Etrean Wilds](Etrean_Wilds.md), To reach him you can either jump off the cliff to the right of [Kennith](Kennith.md)'s dead body or go to the Etris Docks and hug the right wall of the island. Once you make it past the tall stone peninsula, there is a small, sandy cove with a noticeable dent in the wall that can be destroyed with M1s and mantras such as [Strong Left](Attunement-less.md), [Fire Blade](Flamecharm.md), and [Thunder Kick](Thundercall.md)
+Den Master is located in the [Etrean Wilds](Etrean_Wilds.md), To reach him you can either jump off the cliff to the right of [Kennith](Kennith.md)'s dead body or go to the [Etris Docks](Etris_Docks.md) and hug the right wall of the island. Once you make it past the tall stone peninsula, there is a small, sandy cove with a noticeable dent in the wall that can be destroyed with M1s and mantras such as [Strong Left](Attunement-less.md), [Fire Blade](Flamecharm.md), and [Thunder Kick](Thundercall.md)
 
 ## Shop
 
@@ -73,8 +73,6 @@ The Den Master's Haul
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Dialogue
 

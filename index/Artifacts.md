@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 160985
+revid: 166512
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]

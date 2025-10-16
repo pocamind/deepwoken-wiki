@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 160941
+revid: 166510
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -48,7 +48,7 @@ The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. Eq
 <tr>
   <td>Crimson Blindfold</td>
   <td>+1 Common</td>
-  <td><a href="Minityrsa.md">Minityrsa</a>, <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a></td>
+  <td><a href="Minityrsa.md">Minityrsa</a>, <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="Ancient_Rotlands.md">Ancient Rotlands</a></td>
 </tr>
 </tbody>
 </table>

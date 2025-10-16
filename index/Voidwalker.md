@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 165469
+revid: 166492
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character, The Knives of Eylis]
@@ -52,7 +52,7 @@ Successfully completing a bounty grants EXP and a chest with loot. Rarity of the
 -   An ability that allows Voidwalkers to teleport near their bounties. If you go too far away from your target you will have a prompt appear on the upper side of your screen, signifying that you're about to lose your target and get teleported back to [the Voidheart](Voidheart.md).
 -   Upon using this ability a menu will appear, allowing you to choose your target. After choosing your target you will be given two choices of how you want to hunt: Ferocity and Stealth.
     -   Upon choosing the Ferocity option you will be teleported near your bounty, while their silhouette will be highlighted with red through walls every ~30 seconds. However, when teleporting a sound effect will play, and you will have a very obvious black whirling visual effect coming out from your body.
-    -   Upon choosing the Stealth option you will be teleported near your bounty. You will not have anything identifying you as a Voidwalker, howver you are not granted a vision of your target. Although, you can guess where the bounty is located just from the general location of it and if you guess wrong, you will have a prompt appear on your upper side of the screen signifying that your prey is about to escape, so you can try and change directions to catch up with them.
+    -   Upon choosing the Stealth option you will be teleported near your bounty. You will not have anything identifying you as a Voidwalker, however you are not granted a vision of your target. Although, you can guess where the bounty is located just from the general location of it and if you guess wrong, you will have a prompt appear on your upper side of the screen signifying that your prey is about to escape, so you can try and change directions to catch up with them.
 
 ## Pros and Cons
 

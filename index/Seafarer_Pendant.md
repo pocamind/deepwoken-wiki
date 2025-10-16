@@ -1,6 +1,6 @@
 ---
 title: Seafarer Pendant
-revid: 151989
+revid: 166508
 source: https://deepwoken.fandom.com/wiki/Seafarer_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -26,4 +26,4 @@ categories: [Items, Equipment, Torso, Necklaces]
 
 ## Description
 
-The Seafarer Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It is a brown necklace with a metal fishing hook tied up in the end.
+The Seafarer Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It is a brown necklace with a metal fishing hook tied up in the end. When worn, this grants +1 Legendary Pip.
