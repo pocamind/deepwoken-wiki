@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 165717
+revid: 166448
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
@@ -135,25 +135,25 @@ His old apperance simply left him with the old Angel mask that completely hid hi
   <td colspan="6">Offer?</td>
 </tr>
 <tr>
-  <td colspan="6">Do you wish to join the Starkindred, and feast upon the Holy Ichor of our <b>God</b>? It will be irreversible. You will be... born anew, lamb.</td>
+  <td colspan="6">Do you wish to join the Starkindred, and feast upon the Holy Ichor of our God? It will be irreversible. You will be... born anew, lamb.</td>
 </tr>
 <tr>
   <td colspan="6">I accept the Ichor.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*You drink upon the blood; it feels as if your entire body is refusing it, begging you to stop. The world around you shifts and bends, as if your skull was melting into a swirl of infinity. The world as you know it isn't the same. These Stars above us are more than constellations.<b>You feel as though you can feel the entire world. All at once. Everywhere.*</b></i></td>
+  <td colspan="6"><i>*You drink upon the blood; it feels as if your entire body is refusing it, begging you to stop. The world around you shifts and bends, as if your skull was melting into a swirl of infinity. The world as you know it isn't the same. These Stars above us are more than constellations. You feel as though you can feel the entire world. All at once. Everywhere.*</i></td>
 </tr>
 <tr>
   <td colspan="6">...I see.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>Your eyes are opened, Devout. You are <b>us.</b></i></td>
+  <td colspan="6">Your eyes are opened, Devout. You are us.</td>
 </tr>
 <tr>
   <td colspan="6">What must I do next?</td>
 </tr>
 <tr>
-  <td colspan="6"><b>The path you walk down now will lead you to true triumph. Destroy the three sinners within this Luminant and gorge on their blood for true enlightenment, and then.. you'll feel your heart grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow.</b></td>
+  <td colspan="6">The path you walk down now will lead you to true triumph. Destroy the three sinners within this <a href="Glossary.md#the-luminants">Luminant</a> and gorge on their blood for true enlightenment, and then.. you'll feel your heart grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow grow.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

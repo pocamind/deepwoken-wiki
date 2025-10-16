@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 146506
+revid: 166442
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -23,6 +23,8 @@ Sordino is an NPC that sells the players a rideable thresher mount that let play
 Sordino is located in [Starswept Valley](The_Starswept_Valley.md) infront of the huge wall of rocks that leads to the [Widow's Hollow](<Widow's_Hollow.md>) and [Lightkeeper Temple](Lightkeeper_Temple.md). Standing beside him is one of the tamed threshers.
 
 ## Quest Details
+
+### Sordino's Meagre Menagerie
 
 Completing Sordino's quest rewards you with the ability to buy a Thresher [mount](Mounts.md) for 3 Crowns, also gives you little EXP
 
@@ -60,7 +62,7 @@ Sordino's Marvellous Menagerie
   <td colspan="4">Err. Not much of a menagerie.</td>
 </tr>
 <tr>
-  <td colspan="4">Heh heh. Fancy bit of magic, that. Some folks end up forgin' what's known as a Vow of Companionship wit' their pets 'n' the like, yeh? They train a tame animal and build up some kinda language between 'em. Y'know. Fetch. Roll over. Yeh?</td>
+  <td colspan="4">Heh heh. Fancy bit of magic, that. Some folks end up forgin' what's known as a <a href="Glossary.md#vows">Vow</a> of Companionship wit' their pets 'n' the like, yeh? They train a tame animal and build up some kinda language between 'em. Y'know. Fetch. Roll over. Yeh?</td>
   <td colspan="4">*<i>He sighs.</i>* Naw. Times 'ave been hard on ol' Sordino. Last batch of beasties got eaten. Real big fish, it were. Were horrid. Just horrid.</td>
 </tr>
 <tr>
@@ -68,7 +70,7 @@ Sordino's Marvellous Menagerie
   <td colspan="4">Oh. Sorry.</td>
 </tr>
 <tr>
-  <td colspan="4">Heh, not <i>usually</i>, no. But if yer a Beastmaster like meself, ye can make yer voice understood by 'em and soothe 'em down just long enough to form that Vow.</td>
+  <td colspan="4">Heh, not <i>usually</i>, no. But if yer a Beastmaster like meself, ye can make yer voice understood by 'em and soothe 'em down just long enough to form that <a href="Glossary.md#vows">Vow</a>.</td>
   <td colspan="4">Naw. Don't ye be takin' any pity on me. Though... If ye were willin' to lend me a helpin' hand... Maybe these beasties wouldn't be so lonely?</td>
 </tr>
 <tr>
@@ -77,8 +79,8 @@ Sordino's Marvellous Menagerie
   <td colspan="2">Maybe some other time.</td>
 </tr>
 <tr>
-  <td colspan="4">Aye, tis a rarity to see us nowdays. We have a perchant for gettin' ourselves torn to pieces by big nasty beasties. I prefer jus' raisin' the things. Actually, speakin' of which...</td>
-  <td colspan="2">Way I do things, yeh? I need a nice fresh egg from one of their nests. Then i can work my magic on 'em 'fore they grow up and get all angry and bitey and all that.</td>
+  <td colspan="4">Aye, tis a rarity to see us nowadays. We have a penchant for gettin' ourselves torn to pieces by big nasty beasties. I prefer jus' raisin' the things. Actually, speakin' of which...</td>
+  <td colspan="2">Way I do things, yeh? I need a nice fresh egg from one of their nests. Then I can work my magic on 'em 'fore they grow up and get all angry and bitey and all that.</td>
   <td colspan="2">End</td>
 </tr>
 <tr>
@@ -86,7 +88,7 @@ Sordino's Marvellous Menagerie
   <td colspan="2">So, you want me to grab you some Thresher Eggs?</td>
 </tr>
 <tr>
-  <td colspan="6">Hah! A shrewd eye on ya. Aye, times've been hard on ol' Sordino, and me last batch' a beasties all got snapped up. If ye can fetch me a Threasher Egg, i can make sure yer rewarded.</td>
+  <td colspan="6">Hah! A shrewd eye on ya. Aye, times've been hard on ol' Sordino, and me last batch'a beasties all got snapped up. If ye can fetch me a Thresher Egg, I can make sure yer rewarded.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
@@ -99,13 +101,14 @@ Sordino's Marvellous Menagerie
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td>Any luck wi' that egg? I assume not <i>bad</i> luck on account of ye still standin' wi' all yer limbs 'n' that, but. Any <i>good</i> luck?</td>
+  <td colspan="2">Any luck wi' that egg? I assume not <i>bad</i> luck on account of ye still standin' wi' all yer limbs 'n' that, but. Any <i>good</i> luck?</td>
 </tr>
 <tr>
-  <td>No such luck.</td>
+  <td colspan="4">I got my hands on 3 thresher eggs</td>
+  <td colspan="4">No such luck.</td>
 </tr>
 <tr>
   <td>Ah... No bother, no worry. If yer strugglin', the beasties like to nest up in high places. Cliffsides and the like.</td>

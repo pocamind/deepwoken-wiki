@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 165332
+revid: 166450
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -28,7 +28,7 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 _Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
 
   
-**Authority Commander** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive the the [Authority Ensign](Authority_Ensign.md) Origin.
+**Authority Commander** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 

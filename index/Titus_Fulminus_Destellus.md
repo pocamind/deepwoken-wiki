@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 166299
+revid: 166430
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -494,3 +494,4 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   Titus was rumored to surrender to the Authority on purpose by high command in order to gain intel and break out.\[citation needed\]
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   When combat tagged by him his real name is shown as Franky Strabes. (This was a place-holder name, confirmed by Dexerius.)
+-   The theme that plays during his fight is called [Chainbreaker](https://www.youtube.com/watch?v=Q6b3_Uu-PkU).

@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 165726
+revid: 166429
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters, Enemies, Random Encounters, Eastern Luminant]
@@ -66,6 +66,4 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
 ## Trivia
 
--   Maljuror in croatian means "bad judge".
-    -   The word "maljuror" also sounds very similar to "maldoror" which means "pain" in esperanto.
 -   Maljuror's name could perhaps hint to how they became hollow, as another interpretation could be from the prefix 'Mal-' meaning bad or ill, and a juror being someone who takes an oath, combining these gives you 'Bad Oath taker', or simplified to 'Oathbreaker'.
