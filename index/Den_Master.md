@@ -1,9 +1,9 @@
 ---
 title: Den Master
-revid: 148615
+revid: 166455
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant]
+categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Den Master
@@ -28,6 +28,54 @@ Theres another Den Master named [Cave Master](Cave_Master.md) in [Isle of Vigils
 
 Den Master is located in the [Etrean Wilds](Etrean_Wilds.md), To reach him you can either jump off the cliff to the right of [Kennith](Kennith.md)'s dead body or go to the Etris Docks and hug the right wall of the island. Once you make it past the tall stone peninsula, there is a small, sandy cove with a noticeable dent in the wall that can be destroyed with M1s and mantras such as [Strong Left](Attunement-less.md), [Fire Blade](Flamecharm.md), and [Thunder Kick](Thundercall.md)
 
+## Shop
+
+The Den Master's Haul
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Cloudstone</div><div><i>Make zem big.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Stratus Stone</div><div><i>Make zem bigger.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Drift Shard</div><div><i>Make zem fast.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Rush Shard</div><div><i>Make zem faster.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Crystal Lens</div><div><i>Make zem go far.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Perfect Lens</div><div><i>Make zem go further.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Aeon Logstone</div><div><i>Make zem big.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+  
+
 ## Dialogue
 
 <table>
@@ -36,7 +84,8 @@ Den Master is located in the [Etrean Wilds](Etrean_Wilds.md), To reach him you c
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Ahhhhh purrfect, a new buyer wanders into my Den.</td>
+  <td>Ahh purrfect, a new buyer wanders into my Den.<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td>End</td>

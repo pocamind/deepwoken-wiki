@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 162005
+revid: 166461
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -65,7 +65,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     -   Limitations:
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
-        -   Does not work with rest points (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied. (Does not apply to guild base campfires)
+        -   Does not work with rest points (Lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire every use - ensure you're well-supplied. (Does not apply to guild base campfires)
         -   You need to interact with the meteor before you can teleport to them.
     -   Six meteorites can be located throughout the overworld:
         -   _Etrean Luminant:_
@@ -74,7 +74,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
             -   **Fortuna** (Above [Erisor's Church](<Erisor's_Church.md>))
         -   _Eastern Luminant:_
             -   **Hygiea** (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
-            -   **Eunomia** (Above [Sibex](Sibex.md))
+            -   **Eunomia** (On an island with a statue, south of the door to [The Lordsgrove](The_Lordsgrove.md))
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
 -   Obtained upon killing 1 player with an [Oath](Oaths.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Astra
-revid: 164085
+revid: 166454
 source: https://deepwoken.fandom.com/wiki/Astra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea]
@@ -78,7 +78,8 @@ The Armorer's Arms
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Need anything? I stock the finest arms in these parts.</td>
+  <td>Need anything? I stock the finest arms in these parts.<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td>End</td>

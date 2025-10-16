@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 166298
+revid: 166464
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -125,6 +125,12 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   For the Summer Isle location, the enemies will spawn along the southwestern shoreline, near the docks, and the southeastern shoreline, to the right of the large staircase.
         -   The Mission will be completed when enough time passes (about 2 minutes).
         -   The enemies seem to be bugged, as they will spawn without aggroing onto the banners.
+5.  **Smuggler Investigation** -
+    -   Objective: The player and their squad are tasked with taking cargo barrels off of a ship. This ship will be housing a number of enemy combatants.
+    -   Location: [Aratel Sea](The_Aratel_Sea.md)
+    -   Notes/Tips:
+        -   You do not have to place the barrels onto your boat, and only need to have it off the ship.
+        -   The smuggler ship is a moving ship, which isn't modeled after any player-accessible boats.
 
 ### Mission Lootpool
 
@@ -183,8 +189,7 @@ Each Division is unique in their themes, offering many avenues of gameplay and b
 The Command Division of the Central Authority is known for their charismatic commanders, leading the charges into the fight and empowering their fellow soldiers.
 
 -   Obtainment
-    -   Complete 10 missions as Squad leader.
-        -   Being solo counts.
+    -   Complete 10 missions as Squad leader. Being solo counts.
     -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
 -   Promotions
     
