@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 163437
+revid: 166469
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attunement, Mantras, Enemies]
@@ -122,7 +122,7 @@ He can be found inside a lab which can be reached using hidden platforms.
 
  | Adar is an [Etrean](Etrean.md) who uses [Ironsing](Ironsing.md).
 
-When fought he uses a [Darksteel Greatsword](Darksteel_Greatsword.md).
+When fought, he uses a [Darksteel Greatsword](Darksteel_Greatsword.md).
 
  |
 | 
@@ -142,7 +142,11 @@ They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_
 
 She is located in an igloo of Firfire in Layer 2. She is found treating a wounded Diver. After unlocking Bloodrend, she appears inside the Derelict Highchurch.
 
- | Vyrelda is a [Etrean](Etrean.md) who uses [Bloodrend](Bloodrend.md). |
+ | Vyrelda is an [Etrean](Etrean.md) who uses [Bloodrend](Bloodrend.md).
+
+When fought, she uses a [Red Death](Red_Death.md).
+
+ |
 
 ## Trivia
 
@@ -151,13 +155,14 @@ She is located in an igloo of Firfire in Layer 2. She is found treating a wounde
 -   [Beatra](Beatra.md) was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" means "Spark" in German.
 -   [Nostor](Nostor,_Master_of_Shadow.md) wears a Ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md), especially since they use [Shadowcast](Shadowcast.md).
--   For [Silentheart](Oath%253A_Silentheart.md) progression, the player must kill all of the main Spelltrainers, excluding Regek, Beatra and Vyrelda
+-   For [Silentheart](Oath%253A_Silentheart.md) progression, the player must kill all of the main Spelltrainers, excluding Regek and Beatra.
     -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreathe trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>).
     -   Thundercall trainer Funke wields the [Stormseye](Stormseye.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).
     -   Ironsinger trainer Adar wields a [Darksteel Greatsword](Darksteel_Greatsword.md).
+    -   Bloodrend trainer Vyrelda wields the [Red Death](Red_Death.md).
         -   Attunement-less trainer Regek is not fought as Attunement-less is not an element.
             -   Regek will actually continue to offer their services as a Trainer, despite Silenthearts being incapable of using them.
         -   Shadowcast trainer Beatra is not fought as she is too old to fight back.
