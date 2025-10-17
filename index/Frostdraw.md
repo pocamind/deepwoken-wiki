@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 163811
+revid: 166880
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1506,8 +1506,6 @@ These Talents are found in the _Glassdancer_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Crystalicon2.png
-
  | 
 
 Glass Path: Crystallization  
@@ -1527,8 +1525,6 @@ Applying chill applies red ice crystals on the enemy instead of slowing opponent
  |
 | 
 
-File:Crystalicon2.png
-
  | 
 
 Crystal Shrapnel  
@@ -1544,8 +1540,6 @@ Will also damage the target that procced the crystal explosion, increasing total
 
  |
 | 
-
-File:Crystalicon2.png
 
  | 
 

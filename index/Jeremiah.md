@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 164213
+revid: 166891
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
@@ -67,7 +67,7 @@ Potential Rewards
 </tr>
 <tr>
   <td colspan="2"><i>*The man takes a deep breath in through his nose*</i>. I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
-  <td colspan="2"><i>*The man takes a deep breath in through his nose*</i>. You smell like empty pockets. Come back if you find something interesting.</td>
+  <td colspan="2"><i>*The man takes a deep breath in through his nose*</i>. Jeez, you reek. Come back with a gem next time you talk to me, PLEASE.</td>
 </tr>
 <tr>
   <td colspan="2">Gem?</td>
@@ -117,7 +117,7 @@ Potential Rewards
 </tr>
 <tr>
   <td><i>*The man takes a deep breath in through his nose*</i>. Ah, you're back, and you've got a GEM! Looking to trade?</td>
-  <td><i>*The man takes a deep breath in through his nose*</i>. You smell like empty pockets. Come back if you find something interesting.</td>
+  <td><i>*The man takes a deep breath in through his nose*</i>. Jeez, you reek. Come back with a gem next time you talk to me, PLEASE.</td>
 </tr>
 <tr>
   <td>Yeah.</td>

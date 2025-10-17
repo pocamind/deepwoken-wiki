@@ -1,9 +1,9 @@
 ---
 title: Songwright
-revid: 160295
+revid: 166689
 source: https://deepwoken.fandom.com/wiki/Songwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, NPCs, Attunement Trainers, Guilds]
+categories: [Chrysid NPCs, NPCs, NPCs located in the Guild Base, Attunement Trainers]
 ---
 
 # Songwright
@@ -19,7 +19,7 @@ The Songwright is a Chrysid NPC found within the Guild Base Song Room. This NPC 
 
 ## Dialogue
 
-**Player is from Guild:**
+**From Guild:**
 
 <table>
 <tbody>
@@ -41,7 +41,7 @@ The Songwright is a Chrysid NPC found within the Guild Base Song Room. This NPC 
 </tbody>
 </table>
 
-**Player is not from Guild:**
+**Not from Guild:**
 
 <table>
 <tbody>

@@ -1,9 +1,9 @@
 ---
 title: The Maw of Ethiron
-revid: 119175
+revid: 166714
 source: https://deepwoken.fandom.com/wiki/The_Maw_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Layer 2]
+categories: [Pages with broken file links, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # The Maw of Ethiron
@@ -24,7 +24,3 @@ The Maw of Ethiron is a large network of stone towers within the [Second Layer](
 
 -   [Bone Keeper](Bone_Keeper.md)
 -   [Carbuncle](Carbuncle.md)
-
-## Trivia
-
--   The in-game description for this area has a typo, being spelled "unsetting" silence instead of unsettling.

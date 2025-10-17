@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 165860
+revid: 166785
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs]
@@ -357,6 +357,19 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
   <b>Reward(s)</b>: <a href="Whisper_Draw.md">Hand of Whispers</a> or 1 <a href="Knowledge.md">Knowledge</a><br>
   Note: If you have already escaped <a href="The_Depths.md">The Depths</a>, have done the <a href="Tutorial.md">Tutorial</a> or have beaten any <a href="Bosses.md">World Boss</a>, you will not gain the Whisper Draw and will instead gain 1 Knowledge.</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Kelsius.md">Kelsius</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+#### Ploom's Embers
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a><br>
+  <b>Guide</b>: Talk to <a href="Ploom.md">Ploom</a> inside of <a href="Lance.md">Lance Leshis</a> food shop.<br>
+  <b>Reward(s)</b>: <a href="Talents.md#inferno">Pleeksty's Will</a> Talent.</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Ploom.md">Ploom</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

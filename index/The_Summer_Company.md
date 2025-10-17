@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 153068
+revid: 166884
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -83,6 +83,7 @@ Neutral-Bad Reputation:
 
 ## Trivia
 
+-   Despite being on very good terms with the Central Authority, the [Authority Ensign](Authority_Ensign.md) Origin spawns with Neutral reputation with the Company. In contrast the Divers and, ironically, the Union spawn with Friend reputation.
 -   All the named members of Summer Company are named after parts of guns.
     -   [Scope](Scope.md) is named after the scope.
     -   [Trig](Trig.md) is named after the trigger.

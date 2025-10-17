@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Hierka
-revid: 165782
+revid: 166895
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Hierka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -12,10 +12,8 @@ notices:
 
 | Gunsmith Hierka | |
 |---|---|
-| name | Gunsmith Hierka |
-| aspect | ? |
-| location | ? |
+| name | Hierka |
 
 ## Description
 
-The protégé of Rosen.
+The former protégé of Rosen.

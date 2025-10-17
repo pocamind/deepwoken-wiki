@@ -1,9 +1,9 @@
 ---
 title: Gaius
-revid: 153570
+revid: 166851
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Etrean Luminant]
+categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
 ---
 
 # Gaius
@@ -36,7 +36,7 @@ Gaius is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Ja
   <td>...</td>
 </tr>
 <tr>
-  <td>Sure you agree RIGHT?! I have the most potential in all of the Legion... And here I am in the Etrean Luminant</td>
+  <td>Sure you agree RIGHT?! I have the most potential in all of the Legion... And here I am in the <a href="Glossary.md#the-etrean-luminant">Etrean Luminant</a>.</td>
 </tr>
 <tr>
   <td>Where'd you come from?</td>

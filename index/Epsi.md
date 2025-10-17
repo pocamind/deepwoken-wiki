@@ -1,6 +1,6 @@
 ---
 title: Epsi
-revid: 153735
+revid: 166857
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -28,27 +28,27 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*The boy seems completely unresponsive, he appears to be covered in snow.*</td>
+  <td colspan="12"><i>*The boy seems completely unresponsive, he appears to be covered in snow.*</i></td>
 </tr>
 <tr>
   <td colspan="6">[Attempt to help him up]</td>
   <td colspan="6">[Apply Heat]</td>
 </tr>
 <tr>
-  <td colspan="6">*Upon initiating contact the parasitic feeders are awakened, consuming the boy in his entirety.*</td>
-  <td colspan="6">*Using the latent energy stored in you from previous contact with a Burner you are able to generate enough heat to burn off the feeder eggs.*</td>
+  <td colspan="6"><i>*Upon initiating contact the parasitic feeders are awakened, consuming the boy in his entirety.*</i></td>
+  <td colspan="6"><i>*Using the latent energy stored in you from previous contact with a Burner you are able to generate enough heat to burn off the feeder eggs.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">End Dialogue, He dies.</td>
+  <td colspan="6">End, Epsi is consumed by parasites</td>
   <td colspan="6">You need to get back to the base.</td>
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">*The boy is still struggling but manages to speak.* Y-yeah.. Alpha is gonna be worried sick. I thought those feeders had me done in, started playing with my mind like I read about... I didn't even know where the base was.</td>
+  <td colspan="6"><i>*The boy is still struggling but manages to speak.*</i> Y-yeah.. Alpha is gonna be worried sick. I thought those feeders had me done in, started playing with my mind like I read about... I didn't even know where the base was.</td>
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">End Dialogue.</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +64,7 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
   <td colspan="12">Thanks for saving me out there... I really appreciate it.</td>
 </tr>
 <tr>
-  <td colspan="12">End Dialogue.</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
@@ -80,7 +80,7 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
   <td colspan="12">You got that generator working?</td>
 </tr>
 <tr>
-  <td colspan="12">End Dialogue</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

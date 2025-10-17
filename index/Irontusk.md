@@ -1,9 +1,9 @@
 ---
 title: Irontusk
-revid: 157468
+revid: 166846
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echoes]
 ---
 
 # Irontusk
@@ -24,8 +24,8 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 2 Handed, 1 Handed |
 | selling price | 7 |
 | weight | 5 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Only if enchanted |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Spear Echo Unlock |

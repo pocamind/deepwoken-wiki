@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 160946
+revid: 166771
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -8,7 +8,16 @@ categories: [Items]
 
 # Iron Bomb
 
-An Iron bomb being held
+| Bombs | |
+|---|---|
+| type | Tool |
+| bankable | No |
+| droppable | No |
+| pass down | No |
+| desc | Iron Bomb: Useful for solving problems. Can be thrown or placed. , Circus Bomb: Alleyoop! |
+| obtainment | Iron Bomb: , 2 Iron + 1 Coal at a Crafting Station (Requires Family Recipe), Carnival of HeartsCircus Bomb:, Carnival of Hearts exclusive |
+
+## Description
 
 An explosive formerly used for demolition, now used to demolish all. It can be thrown with the keybind 'E'.
 

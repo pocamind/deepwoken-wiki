@@ -1,6 +1,6 @@
 ---
 title: "Deepwoken: Original Soundtrack (Vol. I)"
-revid: 146305
+revid: 166798
 source: https://deepwoken.fandom.com/wiki/Deepwoken%3A_Original_Soundtrack_(Vol._I)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, CD Release]
@@ -14,8 +14,9 @@ categories: [Pages with broken file links, CD Release]
 | medium | CD |
 | series | Deepwoken: Original Soundtrack |
 | length | 81 min 38 sec - 36 Tracks |
+| price | $17 |
 
-_**Deepwoken: Original Soundtrack (Vol. I)**_ is an original soundtrack CD set. It was made available for purchase on April 29, 2025.
+_**Deepwoken: Original Soundtrack (Vol. I)**_ is an original soundtrack CD set. It was made available for purchase on April 29, 2025. The first campaign ran from April 29 to May 13. The second campaign ran from October 10 to October 24.
 
 ## Tracks
 

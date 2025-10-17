@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 163786
+revid: 166864
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -31,13 +31,13 @@ Shoulder to shoulder, together, tall! ”
 
 Their main base of operations is the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 
-**The Ignition Union** are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Ignition_Delver.md).
+They are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Ignition_Delver.md).
 
-They are one of the three factions contracted by [The Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
+They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
 
-**The Ignition Union** has instigated and maintains a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
+They have instigated and maintains a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
 
-The union also shares an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot.
+The union also shares an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot. According to [Alpha](Alpha.md), this rivalry stems from the Divers receiving funding from the Authority, conveniently ignoring the fact the Union are in that exact same boat.
 
 Unlike the traditional hierarchy practiced by the likes of The Divers and the Central Authority, the ranks of the Ignition Union are primarily structured on the value an individual has contributed to the collective. High-ranking Ignition Union members are known as [Ignition Deepdelvers](Ignition_Deepdelver.md), and are known for their heavy contribution and sacrifice to the Union and its members.
 
@@ -105,7 +105,7 @@ Enemy-Neutral Reputation
 ## Trivia
 
 -   Whilst being executed, Ignition Union NPCs may call the player a "scab". A [scab](https://en.wikipedia.org/wiki/Strikebreaker#) is a pejorative term for individuals hired during an ongoing labour strike to keep a company operating at the bare minimum efficiency until the strike is dissolved. Alternatively, it may just be an insult based on the substances that forms over wounds.
--   Despite the Ignition Union's feuds with the Divers and the Summer Company, they are all ironically contracted in some capacity to the Central Authority.
+-   Despite Alpha suggesting the Union are aware of the Central Authority's evils and oppose their ideology, outside of competition with the Divers, the Union shows no signs of attempting to actually subvert the Authority for their actions that they are so ready to verbally condemn. Furthermore, the [Authority Ensign](Authority_Ensign.md) Origin actually spawns with higher starting reputation with the Union than the Summer Company, despite the company being shown to have far less reservations without their partnership, suggesting that, ironically, the Union are rather easy to buy.
 -   The Ignition Union has its own [anthem](Books.md#the-hammers-call), titled "The Hammer's Call," a modern adaptation of an [Adretian](Adret.md) folk song penned by a "Gawain Corbet" in the year 1272.
 -   [Miner's Landing](<Miner's_Landing.md>) is one of two cities in-game to be focused on industrialism more than medievalism along with [Summer Isle](Summer_Isle.md).
 -   The Ignition Union is one of four factions that have an [Oath](Oaths.md) tied to them.
@@ -115,4 +115,4 @@ Enemy-Neutral Reputation
     -   **Orion** is one of the 48 constellations listed by Ptolemy, an ancient Greek astronomer.
 -   Opposed to what their name might suggest, they’re predominantly [Ironsing](Ironsing.md) users.
 -   The Ignition Union has the most Owned Territories out of every Faction at 4, and is tied with [The Divers](The_Divers.md) for the most Passive NPCs at 7.
-    -   The Ignition Union might have more by technicality, due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Karliah](Karliah.md) being former members of The Divers rather than active members.
+    -   The Ignition Union have more by technicality, due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Karliah](Karliah.md) being former members of The Divers rather than active members.

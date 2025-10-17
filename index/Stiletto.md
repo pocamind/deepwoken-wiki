@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 164097
+revid: 166769
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -27,8 +27,8 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Lower Erisia, Sold by Armorer for 16 , Sold atEtris Weaponry for 16 , Sold at Fort Merit Armory for 15 (Authority Ensign exclusive) |
-| description | A remarkably thin blade often likened to (and used as) a toothpick., <img style="" src="https://static.wikia.nocookie.net/project-deepwoken/images/1/1a/Stilettoicon.png/revision/latest?cb=20251017165044" title="Stilettoicon.png (2 KB)" class="thumbimage" alt="" height="164" width="164" data-image-name="Stilettoicon.png" data-image-key="Stilettoicon.png" data-relevant="1">The Icon in the character creation screen |
+| obtainment | Character Creation, Lower Erisia, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 15 (Authority Ensign exclusive) |
+| description | A remarkably thin blade often likened to (and used as) a toothpick. |
 
 ## Description
 

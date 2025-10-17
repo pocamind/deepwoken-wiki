@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 166251
+revid: 166858
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry, Black Divers]
@@ -259,35 +259,33 @@ Exhaustive Loot Table
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Oh, a human? Far from home are we?</td>
+  <td colspan="12">Oh, a human? Far from home aren't we?</td>
 </tr>
 <tr>
   <td colspan="6">What happened here?</td>
   <td colspan="6">[Attack mid-dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">Oh here? Well, first I disposed of my mutinous team, now I am searching for <b>the City.</b></td>
+  <td colspan="6">Oh here? Well, first I disposed of my mutinous team, now I am searching for <font>the City</font>.</td>
   <td colspan="6">Aha, the first strike? Not one to mince words are we?</td>
 </tr>
 <tr>
-  <td colspan="6">They mutinied?</td>
+  <td colspan="3">They mutinied?</td>
+  <td colspan="3">The City?</td>
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="6">Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the <b>City</b>.</td>
+  <td colspan="3">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td>
+  <td colspan="3">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a>, the Sleeping City. There lies the so-called bedchambers of the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>. Together perhaps we could -<br>
+  <font>[Chaser Attacks]</font></td>
 </tr>
 <tr>
-  <td colspan="6">The City?</td>
+  <td colspan="3">The City?</td>
+  <td colspan="3">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
 </tr>
 <tr>
-  <td colspan="6">Oh you don't know? This tower sits atop <b><a href="Second_Layer/New_Kyrsa.md">New Kyrsa, The Sleeping City</a></b>. There lies the so-called bedchambers of the <b><a href="Ethiron,_The_Maelstrom's_Eye.md">Drowned God Ethiron</a></b>. Together perhaps we could -<br>
-  [ATTACKS]</td>
-</tr>
-<tr>
-  <td colspan="6">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
-</tr>
-<tr>
-  <td colspan="6">End</td>
+  <td colspan="3">[See first instance]</td>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
@@ -308,10 +306,10 @@ Exhaustive Loot Table
   <td colspan="4">[Attack mid-dialogue]</td>
 </tr>
 <tr>
-  <td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams.<br>
-  [ATTACKS]</td>
+  <td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams.<br>
+  <font>[Chaser Attacks]</font></td>
   <td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? Tell me. After we met in your time, did you make it to the-<br>
-  [ATTACKS]</td>
+  <font>[Chaser Attacks]</font></td>
   <td colspan="4">Aha, the first strike? Not one to mince words are we?</td>
 </tr>
 <tr>

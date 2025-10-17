@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 144288
+revid: 166804
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -16,7 +16,7 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second 
 
 ## Description
 
-Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md) by the Nest Corridor.
+Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md) by the [Nest Corridor](Nest_Corridor.md).
 
 ## Dialogue
 

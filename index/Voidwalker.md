@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 166492
+revid: 166835
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character, The Knives of Eylis]
@@ -77,3 +77,12 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Enemy** of [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
 -   **Neutral** with all other factions [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Authorityiconfaction](The_Central_Authority.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
+
+## Trivia
+
+-   Both Voidwalker and [Deepbound](Deepbound.md) were suggested by user MrTheBest2, who was later made a tester for a period of time.[\[1\]](#cite-note-1)
+-   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you.
+
+## References
+
+1.  [↑](#cite-ref-1)

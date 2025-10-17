@@ -1,9 +1,9 @@
 ---
 title: Hobo
-revid: 163735
+revid: 166781
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies]
+categories: [NPCs, NPCs located in the Etrean Luminant, Enemies]
 ---
 
 # Hobo
@@ -116,6 +116,9 @@ A Hobo executes it's opponent after knocking them:
 </tr>
 </tbody>
 </table>
+
+-   Opening chest: Hey that's mine!
+-   Killing Hobo: HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!
 
 ## Trivia
 

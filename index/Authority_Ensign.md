@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 166641
+revid: 166881
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -129,7 +129,8 @@ Even if you aren't in a squad, other players may be assigned to the same mission
     -   Objective: The player and their squad are tasked with taking cargo barrels off of a ship. This ship will be housing a number of enemy combatants.
     -   Location: [Aratel Sea](The_Aratel_Sea.md)
     -   Notes/Tips:
-        -   You do not have to place the barrels onto your boat, and only need to have it off the ship.
+        -   You do not have to place the barrels onto your boat, you only need to pick them up and put them back down again.
+        -   The boat will spawn once you reach the map marker, make sure you have your graphics turned up high enough to see it.
         -   The smuggler ship is a moving ship, which isn't modeled after any player-accessible boats.
 
 ### Mission Lootpool
@@ -230,7 +231,7 @@ The Inquisition Divison of the Central Authority acts in the shadows, using thei
 The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
 
 -   Obtainment
-    -   ???
+    -   Do not fail a mission. (This can be done solo. You ARE allowed to leave during missions.)
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -503,3 +504,7 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 -   **Friend** of [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   **Enemy** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), [The Ignition Union](The_Ignition_Union.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), and [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   ' **_by [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_**
+
+## Trivia
+
+-   Despite the Summer Company being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped.

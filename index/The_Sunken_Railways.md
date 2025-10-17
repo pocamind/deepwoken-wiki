@@ -1,12 +1,9 @@
 ---
 title: The Sunken Railways
-revid: 138605
+revid: 166723
 source: https://deepwoken.fandom.com/wiki/The_Sunken_Railways
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Layer 2]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Locations, Locations in the Second Floor of the Second Layer]
 ---
 
 # The Sunken Railways
@@ -21,17 +18,15 @@ The Sunken Railways is a gloomy sub-location of [The Second Layer](Second_Layer.
 
 The top floor mostly does not have anything important, but does contain an additional Kyrsan Medallion chest and many spawns for [Kyrsgarde Crawlers](https://deepwoken.fandom.com/wiki/Kyrsgarde?so=search#Kyrsgarde_Crawler_).
 
-Not much else is known about this location, since it does not have much content.
-
 ## Contents
 
 ### NPCs
 
--   You can find [Okumay](Okumay.md), an NPC who seems to have been sent to research the railways but does not tell you much else.
+-   [Okumay](Okumay.md), an NPC who seems to have been sent to research the railways but does not tell you much else.
 
 ### Medallion Chests
 
--   You can find 2 chests here
+-   There are 2 locations within the railways that Medallion Chests can spawn in.
 
 ## Potential Enemies
 

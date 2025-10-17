@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 140155
+revid: 166878
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -35,45 +35,53 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="8">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
+  <td colspan="4">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
 </tr>
 <tr>
-  <td colspan="7">What're you trying to figure out?</td>
-  <td>End</td>
+  <td colspan="4">What're you trying to figure out?</td>
 </tr>
 <tr>
-  <td colspan="7">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's Murmur.</td>
+  <td colspan="4">Hm, well, folks 'round these parts speak of some lass by the name of 'Mur'. Say she was responsible for teaching folks how to draw out the power of a Soul's <a href="Glossary.md#soul-murmur">Murmur</a>.</td>
 </tr>
 <tr>
-  <td colspan="6">A Murmur, huh?</td>
-  <td>End</td>
+  <td colspan="4">A Murmur, huh?</td>
 </tr>
 <tr>
-  <td colspan="6">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td>
+  <td colspan="4">Mm. Thing is, I've been usin' it all me life. Won a lot of fights that way, y'know? Was wonderin' about the origins of it.</td>
 </tr>
 <tr>
-  <td colspan="5">Can you teach me how?</td>
-  <td>End</td>
+  <td colspan="4">Can you teach me how?</td>
 </tr>
 <tr>
-  <td colspan="5">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td>
+  <td colspan="4">Sure. I'll teach you Ardour if you got somethin' to drink. All this water out here, none of it is particularly nice.</td>
 </tr>
 <tr>
-  <td>[Hand him your Canteen]</td>
+  <td colspan="2">Player has a filled Canteen</td>
+  <td>Player has the Condensation Drip Talent</td>
+  <td>Player has Redd Juice</td>
+</tr>
+<tr>
+  <td colspan="2">[Hand him your Canteen]</td>
   <td>[Collect water using Condensation Drip]</td>
-  <td>[Give him Redd Juice]</td>
-  <td>End</td>
+  <td>[Hand him some Redd Juice]</td>
 </tr>
 <tr>
-  <td>Ah, good thinking! That hit the spot. Now, where were we...</td>
+  <td>Canteen contains water from a Well</td>
+  <td>Canteen contains water from sea</td>
   <td>Oh, neat trick! That hit the spot. Now, where were we...</td>
   <td>Ah, just like mama used to make! Now, where were we...</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td>Ah, good thinking! That hit the spot. Now, where were we...</td>
+  <td>Oh nah. Not drinkin' that. Keep it.</td>
+  <td colspan="2">End, player obtains Ardour</td>
+</tr>
+<tr>
+  <td>End, player obtains Ardour</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -83,14 +91,13 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Some say there's a few other applications of Ardour beyond just strengthenin' your strikes. But I've never looked into that, hah.</td>
+  <td>Some say there's a few other applications of Ardour beyond just strengthenin' your strikes. But I've never looked into that, hah.</td>
 </tr>
 <tr>
   <td>How did you unlock Ardour for me?</td>
-  <td>End</td>
 </tr>
 <tr>
   <td>Oh. Don't tell me there's somethin' else weird about me I gotta find the reasons for... Next you'll be telling me not everyone can levitate spoons with their mind, hah!</td>

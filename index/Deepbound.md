@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 164893
+revid: 166775
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers, Origins, Character]
@@ -73,3 +73,14 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), and [The Hundred Legions](The_Hundred_Legions.md)
 -   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etreaiconfaction](Etrea.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
+
+## Trivia
+
+-   The Deepbound Origin was originally a Flaw, added before Origins even existed, however this was changed into an Origin during the 8/22/2022 update.
+-   Deepbound is obtained only after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
+    -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
+-   Both [Voidwalker](Voidwalker.md) and Deepbound were suggested by user MrTheBest2, who was later made a tester for a period of time.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

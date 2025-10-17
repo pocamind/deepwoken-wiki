@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Rosen
-revid: 163323
+revid: 166890
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Lore figures, The Summer Company]
+categories: [Gunsmiths]
 ---
 
 # Gunsmith Rosen
@@ -11,7 +11,7 @@ categories: [Vesperian NPCs, Lore figures, The Summer Company]
 | Gunsmith Rosen | |
 |---|---|
 | name | Rosen |
-| aspect | Vesperian |
+| aspect | Vesperian[1] |
 | location | The Eastern Luminant |
 
 “ The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. ”
@@ -24,7 +24,7 @@ categories: [Vesperian NPCs, Lore figures, The Summer Company]
 
 He created the [Summer Company](The_Summer_Company.md) when he found old pre-Canticlysm firearms and reverse-engineered them. This explains why guns are so underpowered, because he did not perfect the original design and failed to fully reverse-engineer it.
 
-**Gunsmith Hierka** is Rosen's former protégé who deceived Rosen and hid their ranking as a member of the [Authority's Bereau of Research](The_Central_Authority.md) in order to steal the [Summer Company's](The_Summer_Company.md) Secrets, This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the [The Central Authority](The_Central_Authority.md), which sparked some tension between the two.
+[Gunsmith Hierka](Gunsmith_Hierka.md) is Rosen's former protégé who deceived Rosen and hid their ranking as a member of the [Authority's Bereau of Research](The_Central_Authority.md) in order to steal the [Summer Company](The_Summer_Company.md)'s Secrets, This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the [The Central Authority](The_Central_Authority.md).
 
 ## Trivia
 
@@ -33,3 +33,7 @@ He created the [Summer Company](The_Summer_Company.md) when he found old pre-Can
 -   The [Iron Blunderbuss](Iron_Blunderbuss.md) may be one Rosen's design but was not created by his hands.
 -   He also wore [Rosen's Ring](Equipment.md), which gives 1.2 INT scaling, but he lost it for an unknown reason, and so now the player can obtain it.
 -   The name "Gunsmith Rosen" could be a reference to the famous 90s rock band "[Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses)"
+
+## References
+
+1.  [↑](#cite-ref-1)

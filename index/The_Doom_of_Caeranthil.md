@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 166661
+revid: 166894
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses, Enemies]
@@ -54,9 +54,9 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 **Sudden Ambush**  
 (★★★)
 
- | When far enough from the Doom Serpent[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity, instantly killing them.
+ | When far enough from the Doom[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity, instantly killing them.
 
--   Keep in mind that Mobs and NPCs may aggro the Doom Serpent in ambush range to cause this.
+-   Keep in mind that Mobs and NPCs may aggro the Doom in ambush range to cause this.
 -   Auto-grips and instant kills.
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 -   Surprisingly, this is parryable with [Force Your Way](Ignition_Deepdelver.md).
@@ -103,6 +103,7 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 
 -   Auto-grips and instant kills.
 -   This attack is scripted to only be used when Caeranthil swims to [Etris](Etris.md)' docks and this attack will always be aimed at the docks.
+-   It will wait at Etris' docks, staying idle, until a player is nearby the docks to use the move.
 -   Bypasses [Celtorian Tideknight](Celtorian_Tideknight.md)'s Talent.
 
  | 
@@ -146,7 +147,7 @@ Exhaustive Loot Table
     <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
     <li><a href="Items.md">Items</a>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a> (rare, direct drop), <a href="Deep_Gems.md">Deep Gems</a> (all), <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a> (rare, direct drop)</li>
     <li>One <a href="Crowns.md">Crown</a></li>
-    <li><a href="Relics.md">Relics</a>: [[Armorer's Needle|Template:RelicColor]], [[Rain Spire|Template:RelicColor]], [[Smith's Alloy|Template:RelicColor]], [[Void Spire|Template:RelicColor]], [[Sinner's Ash|Template:RelicColor]]</li>
+    <li><a href="Relics.md">Relics</a>: [[Armorer's Needle|Template:RelicColor]], [[Rain Spire|Template:RelicColor]], [[Smith's Alloy|Template:RelicColor]], [[Void Spire|Template:RelicColor]], [[Sinner's Ash|Template:RelicColor]], <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -199,4 +200,4 @@ Exhaustive Loot Table
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://discord.com/channels/883838743172218891/883840765644660736/1321951652374253578](https://discord.com/channels/883838743172218891/883840765644660736/1321951652374253578)
+1.  [↑](#cite-ref-1)

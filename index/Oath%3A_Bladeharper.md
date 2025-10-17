@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 166015
+revid: 166847
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,7 +34,7 @@ The Bladeharper Oath is a result of the player conducting a **Reflection Ritual*
 3.  Defeat Mind's Reflection (a 1:1 copy of yourself, including weapon, Talents and mantras) to obtain the Oath.
     1.  It will use all mantras you have, not just the ones you have equipped. It's best to get rid of unwanted mantras via [Deep Shrines](Deep_Shrines.md) if you're not ready.
     2.  It seems to not have the same mantra modifiers that you may have. For example: Frostdraw's Warden Blades can become bigger using stratus stones but the mirror will have the original size and possibly the original level (not tested).
-    3.  The mirror has 3 lives, using a vent and teleporting back within the center of the Blade Within to return to neutral. This makes 9 in total to get and fully progress the oath. **NOTE:** Losing to your Bladeharper NPC _does_ result in losing a life.
+    3.  The mirror has 3 lives, using a vent and teleporting back within the center of the Blade Within to return to neutral. This makes 9 in total to obtain and fully progress the oath. **NOTE:** Losing to your Bladeharper NPC _does_ result in losing a life.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/2MkMAHH03x4)._
 
@@ -71,7 +71,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md).
     -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
     -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
--   Obtainment: Obtained with the Oath, after the first Mind Reflection fight.
+-   Obtainment: Obtained along with the Oath, after the first Mind Reflection fight.
 
 -   **Soaring Storm** - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
     -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
@@ -84,22 +84,22 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   To proc the Talent you must build up 10 Untouchable stacks by landing your attacks.
         -   Weapon attacks build up 2 stacks each, resulting in 5 hits for Untouchable to proc. You gain stacks for every hit on a multihitting critical, allowing you to instantly enter True Strength with some weapon criticals.
         -   Non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
--   Obtainment: Obtained after the second Mind Reflection fight.
+-   Obtainment: Obtained after the second Mind Reflection fight along with Soaring Storm.
 
 -   **Float Like a Butterfly** - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   It has a cooldown of 5 seconds.
     -   Deals a total of 28 Oath & Slash damage (hits 4 times with each hit dealing 7 damage).
     -   Only accessible when True Strength is active.
     -   It is movestackeable with any Mantra that can be casted mid-air.
-    -   Obtainment: Obtained after the final Mind Reflection fight.
+    -   Obtainment: Obtained after the third and final Mind Reflection fight.
 
 -   **Reveal** - Pour your heart out, and reveal your true strength.
     -   Toggle On and Off the True Strength state.
     -   While Reveal's True Strength state, you passively build up [Wither](Status_Effects.md#wither) (reduced max HP) on yourself.
     -   If you go below 10% HP, Reveal will automatically turn off.
     -   This takes about **2.5 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
-    -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#immolator) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
--   Obtainment: Obtained after the final Mind Reflection fight.
+    -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#immolator) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take effect, and other sources of Wither application/True Strength do not do this.
+-   Obtainment: Obtained after the final Mind Reflection fight along with Float Like a Butterfly
 
 ### Mantras
 
@@ -110,7 +110,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   Deals 31 Oath & Blunt damage.
     -   If True Strength is active, you'll uppercut your foe, ascending both you and your target in the air, dealing the base damage a second time and proccing a flurry of slashes which deal 16 damage total (4 slashes that deal 4 damage each).
         -   Deals a total of 78 Oath & Physical damage in True Strength (31 base hit + 31 uppercut + (4 \* 4 slashes)). The base hit and uppercut deal Oath & Blunt, while the slashes deal Oath & Slash.
-    -   Obtainment: Obtained with the Oath, after the first Mind Reflection fight.
+    -   Obtainment: Obtained with the Oath, after the first Mind Reflection fight along with Lithe Step.
 
 -   **Decimate** - Cut through your opponent.
     -   Deals 18.67 Oath & Slash damage twice (37.34 total damage).
@@ -118,7 +118,7 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
         -   Deals a total of 49.74 Oath & Slash damage in True Strength (18.67 \* 2 base hits + 0.1 teleport + (4 \* 3 slashes)).
     -   Direct hits **autogrip** players if low enough or knocked.
     -   Able to be used on fist
-    -   Obtainment: Obtained after the final Mind Reflection fight.
+    -   Obtainment: Obtained after the final Mind Reflection fight along with Reveal and Float Like a Butterfly
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
 

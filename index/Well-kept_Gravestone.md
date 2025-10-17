@@ -1,16 +1,15 @@
 ---
 title: "Well-kept Gravestone"
-revid: 166541
+revid: 166748
 source: https://deepwoken.fandom.com/wiki/Well-kept_Gravestone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Well-kept Gravestone
 
 | Well-kept Gravestone | |
 |---|---|
-| name | Well-kept Gravestone |
 | aspect | Vesperian |
 | location | Isle of Vigils |
 
@@ -57,8 +56,11 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
   <td colspan="6"><i>*A gravestone that seems to have been upket, perhaps by a relative to the deceased.*</i></td>
 </tr>
 <tr>
-  <td colspan="3">[Inspect] <i>If intact flower</i></td>
-  <td colspan="3">[Inspect] <i>If broken flower</i></td>
+  <td colspan="6">[Inspect]</td>
+</tr>
+<tr>
+  <td colspan="3">Flower is intact</td>
+  <td colspan="3">Flower is damaged</td>
 </tr>
 <tr>
   <td colspan="3"><i>*A Vesperian mask. This has to be the grave that Suri directed me to. I should lay his flower by the grave.*</i></td>

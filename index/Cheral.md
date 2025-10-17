@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 153749
+revid: 166885
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Etrean Luminant, The Children of Navae]
@@ -22,7 +22,28 @@ He wears [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with his aspect being a [Gr
 
 ## Dialogue
 
-**First Encounter:**
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Neutral Reputation with The Children of Navae</td>
+  <td>Ally Reputation with The Children of Navae</td>
+</tr>
+<tr>
+  <td>Ah, a homelander.</td>
+  <td>Ah, Bloodkin [First Name]. I am honored to have your assistance.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Already obtained Way of Navae:**
 
 <table>
 <tbody>
@@ -30,7 +51,23 @@ He wears [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with his aspect being a [Gr
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Ah, a homelander.</td>
+  <td>You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fulfill my part in prophecy, please allow me to share some of our knowledge with you...</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Returning a Hostage:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. <i>(<a href="Glossary.md#talent">Talent</a> Unlocked)</i></td>
 </tr>
 <tr>
   <td>End</td>

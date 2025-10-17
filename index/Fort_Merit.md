@@ -1,9 +1,9 @@
 ---
 title: Fort Merit
-revid: 166333
+revid: 166695
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Territory of The Central Authority]
+categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
 ---
 
 # Fort Merit

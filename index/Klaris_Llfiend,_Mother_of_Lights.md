@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 166654
+revid: 166862
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -364,18 +364,23 @@ Radiant Teachings
 <tr>
   <td colspan="4">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
   <td colspan="4">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
-  <td colspan="4">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
+  <td colspan="2">Layer 2 via Ligthook</td>
+  <td colspan="2">Layer 2 via Void</td>
   <td colspan="4">Whatever you've done has caused the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a> to destabilize! You need to get out before it's too late. I managed to call forth a <a href="Glossary.md#light-hook">Light Hook</a>, but only at the front of the City! Get to it quickly before that place is torn from eternity!</td>
 </tr>
 <tr>
   <td colspan="4">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
   <td colspan="2">Requirements Met</td>
   <td colspan="2">Not Enough Knowledge</td>
+  <td colspan="2">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
+  <td colspan="2"></td>
+  <td colspan="4">End</td>
 </tr>
 <tr>
   <td colspan="4">...How is she?</td>
   <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this Oath with you.</td>
   <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
+  <td colspan="4">End</td>
 </tr>
 <tr>
   <td colspan="4"><i>*Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding.*</i> She is... preoccupied. <a href="Glossary.md#lightkeep">Lightkeepers</a> do not get a great deal of rest, and what time she had spare she often spent writing.</td>

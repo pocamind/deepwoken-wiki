@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 166673
+revid: 166675
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, The Ignition Union, Character]
@@ -16,9 +16,11 @@ _Ignition Delver_ is a PvE-focused [origin](Origins.md), highly favoring, but no
 
 ## Obtainment
 
-Ignition Delver has one obtainment method:
+Ignition Delver has two obtainment methods:
 
 You must save [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and report to [Alpha](Alpha.md) afterwards.
+
+Alternatively, You can also complete the [Summer Goons](Orion.md) quest and return to Orion to obtain the Origin.
 
 ## Spawn
 

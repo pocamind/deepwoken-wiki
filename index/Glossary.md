@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 166631
+revid: 166889
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -62,7 +62,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_t
 -   Their gales are said to drag even Time itself into their wake.
 -   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### The High Convocation
 
@@ -135,7 +135,7 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Beiruul](Beiruul.md), [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -144,7 +144,7 @@ Dialogue: [Beiruul](Beiruul.md), [Calamus](Calamus.md), [Captain Trist](Captain_
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ## Notable Figures
 
@@ -260,7 +260,7 @@ Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: 
 -   One's Soul Murmur is broadly speaking, the 'signature' or characteristics of one's Soul.
 -   With training, one can alter the expression of their Murmur. These expressions of the Soul are often referred to as 'Murmurs'.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Old Stranger](Old_Stranger.md), [Theadre](Theadre.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries:
 
 ### Oaths
 
@@ -298,7 +298,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 -   Steward Bridges posited on his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
-Dialogue: [Sordino](Sordino.md) | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 ## Objects of Interest
 
@@ -380,7 +380,7 @@ Dialogue: | Books: [Coldheart's Journal](#coldhearts-journal) | Glossary Entries
 -   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#the-depths) below.
 
-Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
+Dialogue: [Alpha](Alpha.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
 
 ## Places
 
@@ -422,7 +422,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: [A Light in the Sky](Boo
 -   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the [Third Layer](#the-vents-the-third-layer) without ever passing through the First and [Second Layers](#the-eternal-gale-the-second-layer). This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the [Drowning](#the-drowning).
 
-Dialogue: [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), [Kaide](Kaide,_the_Drowned_Light.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Kyrsan](#kyrsan), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
+Dialogue: [Akira](Akira.md), [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), [Kaide](Kaide,_the_Drowned_Light.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Kyrsan](#kyrsan), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
 
 ### Driftlands
 
@@ -448,7 +448,7 @@ Dialogue: [Hiri](Hiri.md), [Liviu](Liviu.md) | Books: [Strange Missives](Books.m
 -   The so-called 'sub-luminant' of the [Eastern Luminant](#the-eastern-luminant) that is home to the Kingdom of Etrea and the Isle of Vigils
 -   In times past, the Kingdom of Etrea held claim over the vast majority of the [Eastern Luminant](#the-eastern-luminant), so the designation of the Etrean Luminant is a somewhat modern invention.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Eastern Luminant](#the-eastern-luminant)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Gaius](Gaius.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) | Glossary Entries: [Radiant Tones](#radiant-tones), [The Eastern Luminant](#the-eastern-luminant)
 
 ### Scyphozia, the First Layer
 
@@ -464,7 +464,7 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 -   The waters of the Heavens are known as the [Nightsea](#the-nightsea).
 -   The former home of the [Celestials](#the-celestials).
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Alpha](Alpha.md), [Kaide](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### Lighthouse
 
@@ -486,7 +486,7 @@ Dialogue: [Hiri](Hiri.md) | Books: [Operation 'Distant Light' Report](Books.md#o
 -   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
 
-Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
+Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md), [Tillian](Tillian.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
 
 ### The Luminants
 
@@ -495,14 +495,14 @@ Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventure
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants: the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Raen](Raen.md), [Sev](Sev.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Raen](Raen.md), [Sev](Sev.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The City of New Kyrsa
 
 -   The fabled city of New Kyrsa is thought to reside deep within the [Second Layer](#the-eternal-gale-the-second-layer)
 -   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
 
-Dialogue: | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light)
+Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light)
 
 ### The Nightsea
 
@@ -566,7 +566,7 @@ Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 -   The Voidsea is only reliably traversed through the use of a [Lighthouse](#lighthouse).
 
-Dialogue: [Alastir](Alastir.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Stars Above, and the Blade between](Books.md#stars-above-and-the-blade-between), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary Entries: [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Tides](#the-tides)
 
 ### The Western Luminant
 
@@ -582,7 +582,7 @@ Dialogue: | Books: | Glossary Entries: [The Celestials](#the-celestials)
 -   An expeditionary organization stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of a Apprentice Diver is staggeringly low.
 
-Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Books.md#diver-journal-i), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### The Moonlit Dialect
 
@@ -612,7 +612,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Eylis](Eylis,_the_Punished_D
 -   An ability, skill, technique, or feat you learn. On your journey, you may pick up many such talents.
 -   Some are purely products of your own prowess, others are empowered by the [Song](#the-song).
 
-Dialogue: [Eastern Camp Master](Cheral.md) | Books: | Glossary Entries:
+Dialogue: [Eastern Camp Master](Cheral.md) upon returning a hostage | Books: | Glossary Entries:
 
 ## Trivia
 

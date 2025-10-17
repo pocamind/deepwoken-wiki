@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 166659
+revid: 166784
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1783,7 +1783,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Prerequisite: "Flamecharmer Ploom" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
+    -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
 
 -   Simmerbloom \[Common Talent\] - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.

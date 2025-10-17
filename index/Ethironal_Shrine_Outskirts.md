@@ -1,9 +1,9 @@
 ---
 title: Ethironal Shrine Outskirts
-revid: 159702
+revid: 166705
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Outskirts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Layer 2, The Depths]
+categories: [Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Ethironal Shrine Outskirts

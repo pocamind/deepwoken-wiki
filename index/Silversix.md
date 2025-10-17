@@ -1,9 +1,9 @@
 ---
 title: Silversix
-revid: 161805
+revid: 166795
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
+categories: [Weapons, Pistols, Offhand Guns, Light Weapons, Echoes]
 ---
 
 # Silversix
@@ -22,8 +22,8 @@ categories: [Weapons, Pistols, Offhand Guns, Light Weapons]
 | offhand | Yes |
 | selling price | 7 |
 | weight | 1 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Only if enchanted |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Silversix Echo Unlock |
@@ -39,8 +39,6 @@ Silversix uses the default Pistol critical, an empowered shot. It has a scaled d
 
 ## Trivia
 
--   The Silversix cannot be dropped nor banked.
-    -   Silversix can be banked if [enchanted](Enchantments.md).
 -   A single Silversix can fire six shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
 -   Known for being used by 20 power players for ranged bullet shots before Silversix lost its ability to fire projectiles as a sidearm.
 -   At max LHT, the damage is (19.8)

@@ -1,9 +1,9 @@
 ---
 title: Eiris
-revid: 143869
+revid: 166888
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, NPCs, Random Encounters]
 ---
 
 # Eiris
@@ -18,13 +18,13 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, NPCs locat
 
 ― Eiris
 
-  
-
 ## Description
 
 Eiris is an NPC that you must speak to in order to unlock the [Voidwalker Origin](Origins.md#voidwalker). After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find them resting against the mast under the dock of the non-burning boat (which flies red flags) during the [Knives of Eylis vs Kingdom of Etrea random event](Random_Encounters.md#fights-between-factions).
 
 ## Dialouge
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -60,6 +60,28 @@ Eiris is an NPC that you must speak to in order to unlock the [Voidwalker Origin
 </tr>
 <tr>
   <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Player is a Voidwalker:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>It's... not worth it. Every night, I can't...</td>
+</tr>
+<tr>
+  <td>Pull yourself together.</td>
+</tr>
+<tr>
+  <td><i>*He recoils, whimpering.*</i> You took the <a href="Glossary.md#vows">Vow</a> too, you signed the Contract!... Eylis tampers with things no one should... You're as doomed as I... It's all too much...</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

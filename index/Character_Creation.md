@@ -1,9 +1,9 @@
 ---
 title: Character Creation
-revid: 165394
+revid: 166877
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Character, Attributes, Mechanics]
+categories: [Character, Attributes, Mechanics]
 ---
 
 # Character Creation
@@ -56,7 +56,7 @@ To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Irons
 
   
 
-## Obtainable Attunements
+### Obtainable Attunements
 
 Attunements requiring the completion of a quest to obtain and cannot be cheesed by selecting random
 
@@ -100,6 +100,8 @@ _(The [Weapon Manual](Weapon_Manual.md) does not teach you new weapon classes, b
 
 [Stiletto](Stiletto.md) 
 
+  
+
 ### Unlockable Starter Weapons
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
@@ -124,23 +126,23 @@ _\[More information about [weapons and combat styles](Weapons.md) can be found o
 
 [Way of Navae](Way_of_Navae.md)
 
-Way of Navae 
+[Way of Navae](Way_of_Navae.md) 
 
-Jus Karita
+[Jus Karita](Jus_Karita.md)
 
-Jus Karita 
+[Jus Karita](Jus_Karita.md) 
 
-Legion Kata
+[Legion Kata](Legion_Kata.md)
 
-Legion Kata 
+[Legion Kata](Legion_Kata.md) 
 
-Imperium Kata
+[Imperium Kata](Imperium_Kata.md)
 
-Imperium Kata 
+[Imperium Kata](Imperium_Kata.md) 
 
-Fang and Coil
+[Fang and Coil](Fang_and_Coil.md)
 
-Fang and Coil 
+[Fang and Coil](Fang_and_Coil.md) 
 
   
 

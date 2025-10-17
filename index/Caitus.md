@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 162568
+revid: 166865
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -28,6 +28,8 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 
 ## Dialogue
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
@@ -45,17 +47,17 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
   <td colspan="2">[Under Ally Reputation]</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*The Khan beams, holding your gaze cordially.*</i> Ah! Good to see you, friend, and with such brilliant timing! Listen up. Been entrusted with this errand from up high, yeah? But i don't have a spare moment to do it. You think you could do me a favor?</td>
-  <td colspan="2">Oh? Hm. Sorry, I thought you were someone i'm looking for.</td>
+  <td colspan="4"><i>*The Khan beams, holding your gaze cordially.*</i> Ah! Good to see you, friend, and with such brilliant timing! Listen up. Been entrusted with this errand from up high, yeah? But I don't have a spare moment to do it. You think you could do me a favor?</td>
+  <td colspan="2">Oh? Hm. Sorry, I thought you were someone I'm looking for.</td>
   <td colspan="2">Run along, Nemo. Got nothing you need to hear.</td>
 </tr>
 <tr>
   <td colspan="2">Of course!</td>
-  <td colspan="2">Sorry, i can't...</td>
+  <td colspan="2">Sorry, I can't...</td>
   <td colspan="4">End</td>
 </tr>
 <tr>
-  <td colspan="2">Brilliant, brilliant! Just need some correspondance delivered - a menial take, really. Just letting a certain someone in those damned Authority prisons know that we haven't forgotten him.</td>
+  <td colspan="2">Brilliant, brilliant! Just need some correspondence delivered - a menial task, really. Just letting a certain someone in those damned <a href="Glossary.md#the-central-authority">Authority</a> prisons know that we haven't forgotten him.</td>
   <td colspan="2">Damn! I really need the help... Come back when you've got a free moment, yeah?</td>
 </tr>
 <tr>
@@ -70,8 +72,30 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
   <td>I'm sorry - *sneak into an Authority prison?*</td>
 </tr>
 <tr>
-  <td colspan="2">Oh yes, if you could, please... What? Don't give me that look, you seem perfectly capable. And, knowing the Authority, I'm sure it shouldn't be too hard. He's being held in the prison beneath Fort Merit. Let me know once you've delivered the letter, yeah? It'll be worth your while, promise.<p><br>
-  </p></td>
+  <td>Yes, that's the spirit! Let me know once you've delivered it, alright? It'll be worth your while, promise.</td>
+  <td>Oh yes, if you could, please... What? Don't give me that look, you seem perfectly capable. And, knowing the <a href="Glossary.md#the-central-authority">Authority</a>, I'm sure it shouldn't be too hard. He's being held in the prison beneath Fort Merit. Let me know once you've delivered the letter, yeah? It'll be worth your while, promise.</td>
+</tr>
+<tr>
+  <td colspan="2">End, Legion Intelligence obtained</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Legion Intelligence Quest not complete</td>
+</tr>
+<tr>
+  <td>Hm? Haven't you delivered the letter yet? Gods know how much he's suffering in that cell, get to it</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 159645
+revid: 166796
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
@@ -24,8 +24,8 @@ categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
 | m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Only if enchanted |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Greatsword Echo Unlock |
@@ -41,7 +41,6 @@ Avenger uses the default Greatsword critical, an overhead swing. It has a scaled
 
 ## Trivia
 
--   Cannot be banked unless [enchanted](Enchantments.md) and cannot be dropped.
 -   At max HVY, the damage is (31.2)
 -   The [Battleaxe](Battleaxe.md) is superior in terms of DPS due to it having no endlag.
 -   The Avenger has the lowest penetration in the game, clocking in at 0%. This may be due to a mistype; someone must have forgotten to put 1 before the 0. It's also the only weapon in the game which is 0% pen, while weapons with no pen doesn't have it on the info.

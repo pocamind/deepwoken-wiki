@@ -1,9 +1,9 @@
 ---
 title: Warden Jericho
-revid: 166414
+revid: 166730
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority]
+categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

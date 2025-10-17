@@ -1,9 +1,9 @@
 ---
 title: Quickfang
-revid: 157451
+revid: 166793
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Echoes]
 ---
 
 # Quickfang
@@ -24,8 +24,8 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 1 Handed |
 | selling price | 7 |
 | weight | 4 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Only if enchanted |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon: Rapier Echo Unlock |
@@ -46,8 +46,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   This is the only Rapier that features a hand guard.
 -   Due to its comparatively low stats, it is generally used to obtain rapier Talents early-game rather than for its stats.
 -   At max LHT, the damage is (18.3)
--   The Quickfang cannot be banked unless enchanted.
--   The Quickfang cannot be dropped.
 
 ## Gallery
 

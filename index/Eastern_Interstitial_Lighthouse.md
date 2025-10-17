@@ -1,9 +1,9 @@
 ---
 title: Eastern Interstitial Lighthouse
-revid: 158736
+revid: 166698
 source: https://deepwoken.fandom.com/wiki/Eastern_Interstitial_Lighthouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Eastern Luminant]
+categories: [Locations, Locations in the Eastern Luminant]
 ---
 
 # Eastern Interstitial Lighthouse

@@ -1,9 +1,9 @@
 ---
 title: Sanctuary Gatehouse
-revid: 159999
+revid: 166720
 source: https://deepwoken.fandom.com/wiki/Sanctuary_Gatehouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Sanctuary Gatehouse
