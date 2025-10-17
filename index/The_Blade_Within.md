@@ -1,9 +1,9 @@
 ---
 title: The Blade Within
-revid: 157604
+revid: 166570
 source: https://deepwoken.fandom.com/wiki/The_Blade_Within
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Oaths]
+categories: [Locations]
 ---
 
 # The Blade Within

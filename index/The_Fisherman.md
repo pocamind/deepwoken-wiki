@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 163172
+revid: 166586
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]

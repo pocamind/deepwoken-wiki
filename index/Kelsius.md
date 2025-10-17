@@ -1,9 +1,9 @@
 ---
 title: Kelsius
-revid: 166507
+revid: 166582
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in the Etrean Luminant]
+categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Kelsius
@@ -16,7 +16,7 @@ categories: [Adret NPCs, NPCs, Quests, Etrean Luminant, Etrea, NPCs located in t
 
 ## Description
 
-Kelsius is an Adret NPC who works as the librarian at the [Isle of Vigils](Isle_of_Vigils.md). Upon accepting his quest, he tasks the player into retrieving his lost books for a 2 knowledge and access to books to instantly gain a random attribute point.
+Kelsius is an Adret NPC who works as the librarian at the [Isle of Vigils](Isle_of_Vigils.md). Upon accepting his quest, he tasks the player into retrieving his lost books for a mantra hand and access to books to instantly gain a random attribute point. If the player has already obtained an extra mantra hand, completing his quest will instead reward 2 [Knowledge](Knowledge.md).
 
 ## Location
 
@@ -204,4 +204,4 @@ If the quest was done on the account previously, Kelsius will instead ask the pl
 
 -   Despite their record, Kelsius was accepted by the Maestro to work as the vigils librarian.
 -   You are able to completely skip the quest and unlock special dialogue if you have completed the [Castaway](Origins.md#castaway) tutorial on the same character.
--   Oddly enough, having the Authority Ensign origin doesn't unlock new dialogue for him.
+-   Oddly enough, having the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) doesn't unlock new dialogue from him, despite his past as a member of the Shock Corps.

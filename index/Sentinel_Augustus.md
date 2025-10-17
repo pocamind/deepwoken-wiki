@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 166369
+revid: 166597
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -308,8 +308,6 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **Handler:**
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
@@ -319,23 +317,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td><i>*You salute Sentinel Augustus. He looks down at you, saluting back the gears in his head visibly turning.*</i> At ease, Handler. Did High inquisitor Merey send you? No? Well... Since you're here, could you pass her an important message? * He gives you a wide grin. * I want to know when the next interrogation of General Destellus will take place I'd like to participate in it, if she wouldn't mind. Could you let her know? Thanks in advance, soldier</td>
 </tr>
 <tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
+  <td>End, unlocks dialogue with <a href="High_Inquisitor_Merey.md">High Inquisitor Merey</a></td>
 </tr>
 </tbody>
 </table>
@@ -378,10 +360,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td colspan="2">End</td>
 </tr>
 <tr>
-  <td>[See previous instance]</td>
-  <td>[See previous instance]</td>
-  <td>[See previous instance]</td>
-  <td>[See previous instance]</td>
+  <td colspan="4">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -411,7 +390,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>I think that's all, thank you Sentinel.</td>
 </tr>
 <tr>
-  <td>[See previous instance]</td>
+  <td>[See first instance]</td>
   <td>*<i>Augustus salutes you with a smirk on his face.</i>*Alright, [Rank]. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
   <td>[See previous instance]</td>
   <td>*<i>Augustus salutes you with a smirk on his face.</i>*Alright, [Rank]. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>

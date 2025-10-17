@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 163307
+revid: 166584
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -36,7 +36,8 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Spawning in with the Inheritance [Regalia](Regalia.md#inheritance), which gives 50 Knowledge on spawn.
 -   Choosing your first [Resonance](Resonance.md), awarding 5 Knowledge. (Note: You have to **CHOOSE** the [Resonance](Resonance.md), meaning you're only awarded the knowledge after you pick your desired [Resonance](Resonance.md))
 -   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
--   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
+-   Finishing [Beiruul's](Beiruul.md) quest at [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
+-   Finishing [Kelsius](Kelsius.md)' quest at [Isle of Vigils](Isle_of_Vigils.md) awarding 2 Knowledge when returning to him after the quest is complete, only if the player has obtained a free mantra hand from another method.
 -   Supplying the [Diver Expedition](Random_Encounters.md#supply-the-diver-expedition), awarding 1 Knowledge after turning in the supplies.
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 1 Medallions for 1 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long as you have the medallions to afford it. **Klaris may refuse your Medallions as she will not talk to you if you are below Power 15.**_
 -   Turning in [Crowns](Crowns.md) by clicking the currency icon, awarding you 1-5 Knowledge per Crown depending on your Power. Grants 1 Knowledge per at Power 1, scaling up to 5 Knowledge per at Power 20. This can be repeated and it bypasses [Simple's](Boons_and_Flaws.md#simple) -25% Knowledge gain debuff.

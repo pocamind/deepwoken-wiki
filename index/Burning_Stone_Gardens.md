@@ -1,9 +1,9 @@
 ---
 title: Burning Stone Gardens
-revid: 165142
+revid: 166523
 source: https://deepwoken.fandom.com/wiki/Burning_Stone_Gardens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Etrean Luminant, Locations in the Etrean Luminant]
+categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant]
 ---
 
 # Burning Stone Gardens

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 166408
+revid: 166631
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -99,7 +99,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md) | Books:
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan) dwell in small villages sheltered from the gale.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>) | Books: | Glossary Entries:
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries:
 
 ### Lightborn
 
@@ -135,7 +135,7 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Beiruul](Beiruul.md), [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Beiruul](Beiruul.md), [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -152,7 +152,7 @@ Dialogue: [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md), [Sa
 
 -   The mysterious leader of the [Lullaby Isles](#the-lullaby-isles), where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the East suggest a sense of great reverence and sincerity towards her decrees.
 
-Dialogue: [Liviu](Liviu.md) | Books: [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Ossuary Maintenance](Books.md#ossuary-maintenance) | Glossary Entries: [The Counsell](#the-counsell)
+Dialogue: [Hiri](Hiri.md), [Liviu](Liviu.md) | Books: [O Pardoner of Mine](Books.md#o-pardoner-of-mine), [Ossuary Maintenance](Books.md#ossuary-maintenance) | Glossary Entries: [The Counsell](#the-counsell)
 
 ### The Counsell
 
@@ -179,7 +179,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyr
 
 ### The King of Etrea
 
--   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than mines.
+-   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than ruins.
 
 Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
 
@@ -197,7 +197,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 -   Known as the Pioneer of [Flamecharming](#flamecharm). Pleeksty developed the art of controlling flames through the [Song](#the-song) into an artform. Since then, [Flamecharm](#flamecharm) has become on of the primary attunements in use.
 -   Pleeksty is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance), becoming a [Deepwoken](#deepwoken).
 
-Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+Dialogue: [Laplace](Laplace.md) if the player is using/wielding [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
 ### The Acolyte
 
@@ -221,6 +221,13 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if you have [Soulthorn](Soulthorn
 -   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus Pleeksty, who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded to histories prior to [Pleeksty's](#amorus-pleeksty) discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
 
 Dialogue: [Amashi](Amashi,_Master_of_Flame.md), [Zana](Zana.md) | Books: [God in the Machine](Books.md#god-in-the-machine), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+
+### Hereditary Vow
+
+-   An unusual kind of [Vow](#vows) that is passed down the one's descendants.
+-   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a Hereditary Vow.
+
+Dialogue: | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects)
 
 ### Light Hook
 
@@ -289,8 +296,9 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide
 -   Advanced usage of Vows can yield incredible effects, sometimes extending even beyond the limitations of the [Song](#the-song).
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
+-   Steward Bridges posited on his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
-Dialogue: [Sordino](Sordino.md) | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Sordino](Sordino.md) | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 ## Objects of Interest
 
@@ -300,7 +308,7 @@ Dialogue: [Sordino](Sordino.md) | Books: [Studies on the Canticlysm, Vol. IV](Bo
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the Suncross.
 
-Dialogue: [Lake](Lake.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-moonseye), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Hiri](Hiri.md), [Lake](Lake.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lament of Cirryn](Books.md#lament-of-cirryn), [Neatly Embellished Notebook](Books.md#neatly-embellished-notebook), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-moonseye), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### The Suncross
 
@@ -342,6 +350,15 @@ Dialogue: | Books: [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary En
 
 ## Phenomena
 
+### Aspects
+
+-   All humans living in the possess an 'Aspect', a peculiar trait that is passed down through the generations.
+-   Many Aspects cause their inheritor to take on the traits of a particular animal. Rarely, Aspects can take on the traits of something more abstract.
+-   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the Aspects of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
+-   Bridges suggested that the traits of the Aspects could be the result of early worship of animals or of the land.
+
+Dialogue: | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Hereditary Vow](#hereditary-vow)
+
 ### The Drowning
 
 -   Since the [Tides](#the-tides), a phenomenon known as 'the Drowning' occurs on death.
@@ -350,7 +367,7 @@ Dialogue: | Books: [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary En
 -   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the [Depths](#the-depths) should they Drown.
 -   No one who has perished in the [Depths](#the-depths) has ever returned.
 
-Dialogue: | Books: | Glossary Entries: [The Tides](#the-tides)
+Dialogue: | Books: [Coldheart's Journal](#coldhearts-journal) | Glossary Entries: [The Depths](#the-depths), [The Tides](#the-tides)
 
 ### The Tides
 
@@ -424,7 +441,7 @@ Dialogue: [Hector](Hector.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lum
 
 -   A sprawling metropolis upon a central island in the Lullaby Isles archipelago. The center of activity for scholars, religious figureheads, and the Counsell. A bustling complex of archives and residences for those who live within. Notable for its pristine sandstone architecture, punctuated by elegant frescoes.
 
-Dialogue: [Liviu](Liviu.md) | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries: [The Counsell](#the-counsell)
+Dialogue: [Hiri](Hiri.md), [Liviu](Liviu.md) | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries: [The Counsell](#the-counsell)
 
 ### The Etrean Luminant
 
@@ -461,7 +478,7 @@ Dialogue: | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#t
 -   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
 -   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the [Moonseye](#the-moonseye).
 
-Dialogue: | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [Thalassis](#thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
+Dialogue: [Hiri](Hiri.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [Thalassis](#thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
 
 ### Lumen
 
@@ -469,7 +486,7 @@ Dialogue: | Books: [Operation 'Distant Light' Report](Books.md#operation-distant
 -   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
 
-Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
+Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
 
 ### The Luminants
 

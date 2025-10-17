@@ -1,9 +1,9 @@
 ---
 title: Merit Detainment Core
-revid: 166252
+revid: 166598
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Eastern Luminant, The Central Authority, Dungeons]
+categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
 ---
 
 # Merit Detainment Core

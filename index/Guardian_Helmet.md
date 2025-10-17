@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 155633
+revid: 166588
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -26,6 +26,8 @@ categories: [Equipment, Head, Helmets]
 | obtainment | Chests from:, Duke Erisia, Deep Widow, Voidwalker Bounties, Chime of ConflictFound From:, Artifact Turn-ins |
 | description | The imposing helm of a guardian. |
 
+Guardian
+
 ## Description
 
-The Guardian Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +5 health, And +1 Posture, as well as extra randomized stats based on the amount of pips.
+The Guardian Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Guardian Set. When worn, this grants +5 health and +1 Posture.

@@ -1,9 +1,9 @@
 ---
 title: Brinepool Passage
-revid: 159493
+revid: 166609
 source: https://deepwoken.fandom.com/wiki/Brinepool_Passage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Layer 1]
+categories: [Locations, Locations in the First Layer]
 ---
 
 # Brinepool Passage

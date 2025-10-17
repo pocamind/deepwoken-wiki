@@ -1,9 +1,11 @@
 ---
 title: The Vat
-revid: 150302
+revid: 166637
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, The Depths, Layer 1]
+categories: [In progress without reason, InProgressPages, Locations, The Depths, Locations in the First Layer, Dungeons]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The Vat

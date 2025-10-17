@@ -1,16 +1,14 @@
 ---
 title: "Etris: Siege"
-revid: 155505
+revid: 166585
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Random Encounters, Etrea, Etrean Luminant]
+categories: [Random Encounters, Etrea, World Event]
 ---
 
 # Etris: Siege
 
 LocationL Etris: Siege LocationR
-
-TERRITORY OF Etrea
 
 The clash of blades rings throughout the city, decaying to havoc.
 

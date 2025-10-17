@@ -1,9 +1,9 @@
 ---
 title: Mortus
-revid: 149581
+revid: 166534
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, Etrean Luminant, Vendors]
+categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, Vendors]
 ---
 
 # Mortus
@@ -74,7 +74,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
 <tr>
   <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>toughest hides</b> and it might jog me memory...</td>
   <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>gorey spines</b> and it might jog me memory...</td>
-  <td colspan="4">Ah... 2 of their <b>weirdly claws</b> might job me memory...</td>
+  <td colspan="4">Ah... 2 of their <b>weirdly claws</b> might jog me memory...</td>
 </tr>
 <tr>
   <td colspan="12">Here they are.</td>

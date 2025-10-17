@@ -1,9 +1,9 @@
 ---
 title: Apprentice Kj
-revid: 164412
+revid: 166574
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests, Isle of Vigil]
+categories: [Etrean NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

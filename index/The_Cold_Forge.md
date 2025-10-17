@@ -1,9 +1,9 @@
 ---
 title: The Cold Forge
-revid: 161144
+revid: 166636
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Layer 1, The Divers]
+categories: [Locations, Locations in the First Layer]
 ---
 
 # The Cold Forge

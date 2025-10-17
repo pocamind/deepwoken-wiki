@@ -1,22 +1,20 @@
 ---
 title: Temple of the Blade
-revid: 165129
+revid: 166591
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant, Etrea, Isle of Vigil, Temple of the Blade, Locations in the Etrean Luminant]
+categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
 ---
 
 # Temple of the Blade
 
 LocationL Temple of the Blade LocationR
 
-TERRITORY OF etrea
+TERRITORY OF Etrea
 
 A solemn sanctuary carved in the stone, where warriors hone the dancing steps of war.
 
   
-
-Temple of the Blade during Winter
 
 **Temple of the Blade** is a location in _Deepwoken_. It is a sub-location in the [Isle of Vigils](Isle_of_Vigils.md).
 

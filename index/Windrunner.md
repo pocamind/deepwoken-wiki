@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 165291
+revid: 166520
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -42,7 +42,7 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
   <td>Yeah, what are you doing up here?</td>
 </tr>
 <tr>
-  <td>Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the Authority are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an Oath... Which oath is right?</td>
+  <td>Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the <a href="Glossary.md#the-central-authority">Authority</a> are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an <a href="Glossary.md#oaths">Oath</a>... Which oath is right?</td>
 </tr>
 <tr>
   <td>End</td>
@@ -74,6 +74,6 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
 
 ## Trivia
 
--   In his dialogue, he talks about "_The Contractor that resides within the Palace_" (likely the [Lord Regent](The_Lord_Regent.md)) and "_the Warmaster in his Fortress_" (likely Warden Jericho or Drallis Ehr). He then says "_Two men attempting to keep an Oath... Which oath is right?_".
+-   In his dialogue, he talks about "The Contractor that resides within the Palace" and "the Warmaster in his Fortress" referring to [The Lord Regent](The_Lord_Regent.md) and [Warden Jericho](Warden_Jericho.md).
 -   He has green eyes.
 -   The Windrunner in name is likely a reference to the _[Order of Windrunners](https://coppermind.net/wiki/Order_of_Windrunners)_ from the _Stormlight Archives_ given other inspirations from the novels prevalent in Deepwoken_._[\[1\]](https://coppermind.net/wiki/Order_of_Windrunners)

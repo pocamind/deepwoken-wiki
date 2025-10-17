@@ -1,9 +1,9 @@
 ---
 title: Valikor
-revid: 158643
+revid: 166578
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea, Isle of Vigil]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
 ---
 
 # Valikor
@@ -74,6 +74,8 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
 </table>
 
 **Subsequent Encounters:**
+
+This dialogue only appears if the player has obtained Spell Shout.
 
 <table>
 <tbody>

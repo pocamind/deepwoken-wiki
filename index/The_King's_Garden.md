@@ -1,9 +1,9 @@
 ---
 title: "The King's Garden"
-revid: 165135
+revid: 166596
 source: https://deepwoken.fandom.com/wiki/The_King's_Garden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Etrean Luminant, Etrea]
+categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
 ---
 
 # The King's Garden

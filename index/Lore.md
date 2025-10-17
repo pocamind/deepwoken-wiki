@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 166209
+revid: 166644
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -372,17 +372,19 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
 -   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure.[\[1\]](#cite-note-rag-1) In smaller words, he is referred as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the First Floor being a shrine to them.
--   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer.
+-   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) exists sealed in New Kyrsa.
     -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.[\[2\]](#cite-note-arch-2)
     -   The Scion acts as a guardian of sorts.
     -   Probably formed by a very small piece of Ethiron himself, due to being able to use some of the drowned god's powers.
+    -   The Scion was created by Ethiron for the purpose of waking him, if fully grown, it would be able to descend and wake him up, but luckily it is not yet grown, as it was sealed (presumably by the Kyrsans who remained free)before the Kyrsans, enslaved under its will, finished it.
+    -   The Scion has the power to manipulate the effects of Drowned Gods, presumably given by Ethiron as intentional design so that it could awaken him, this becomes apparent in how it stabilizes Ethiron’s time bending, causing Kyrsa’s time loop to end until it is defeated, and once it is the instability it fought off returns.
+    -   The Scion of Ethiron has the power to create the Mist Presence, which it can use to enslave the minds of mortal beings to Ethiron’s will.
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
 -   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been in the mist long enough, making them puppets to its will, however, this mist doesn't affect those who are very insane. explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   Their physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
 -   An entity known as "The Voice of Ethiron", tries to fool the player into awakening the Scion of Ethiron so it can fully awake Ethiron. This suggests that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake its master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
--   It is possible that the Scion of Ethiron is caught in its own time dilation. Hypothetically, this would mean that failing to kill the Scion and allowing it to wake the true Ethiron would have no effect on reality, as these events would simply reset. The only thing destroyed in the process would be the player character's soul.
 
 ### Korilfiend
 

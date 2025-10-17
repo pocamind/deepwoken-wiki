@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 162477
+revid: 166514
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -78,7 +78,7 @@ Its main drop is the Lionfish Scale, which is used for crafting armor sets.
 -   **Soul Evisceration** - Should the Lionfish's Cero attack execute a player, no lootbag or body can be found post-mortem. It also makes no wipe sound effects. The victim disappears without a trace.
     -   This means that no items are recoverable from the player should they die to the attack.
 
--   **Monster Resistance** - Physical attacks deal ??? less damage to the Lionfish.
+-   **Monster Resistance** - Physical attacks deal less damage to the Lionfish.
 
 ## Finisher
 

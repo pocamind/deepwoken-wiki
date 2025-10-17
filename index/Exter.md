@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 149742
+revid: 166517
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -16,19 +16,24 @@ categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
 
 ## Description
 
-Exter is a [Gremor](Gremor.md) NPC who resides in [Meteor Isle](Meteor_Isle.md). He is just one of the residents of the village there and apparently has no connection with [The Children of Navae](The_Children_of_Navae.md) faction. You can find him centered on top of a large rock looking at some ancient ruins and a large horizon in front of it.
+Exter is a [Gremor](Gremor.md) NPC, he is a resident at [Meteor Isle](Meteor_Isle.md) who has no apparent connections with [The Children of Navae](The_Children_of_Navae.md) faction.
+
+## Location
+
+Exter is located at Meteor Isle, sitting on a rock in front of ruins.
 
 ## Dialogue
 
-Talking to him:
-
-<table><caption>Speaking to him.</caption>
+<table>
 <tbody>
 <tr>
-  <th>Something about this place... It speaks to me.</th>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td>Something about this place... It speaks to me.</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

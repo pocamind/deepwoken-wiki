@@ -1,9 +1,9 @@
 ---
 title: Etris Docks
-revid: 165152
+revid: 166593
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Etrean Luminant, Etrea, Locations in the Etrean Luminant]
+categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant, Territory of Etrea]
 ---
 
 # Etris Docks

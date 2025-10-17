@@ -1,16 +1,18 @@
 ---
 title: Temple Approach
-revid: 165126
+revid: 166592
 source: https://deepwoken.fandom.com/wiki/Temple_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Etrean Luminant, Etrea, Locations in the Etrean Luminant]
+categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
 ---
 
 # Temple Approach
 
 LocationL Temple Approach LocationR
 
-TERRITORY OF etrea
+TERRITORY OF Etrea
+
+A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 
   
 

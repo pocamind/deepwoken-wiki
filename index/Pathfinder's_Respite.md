@@ -1,9 +1,9 @@
 ---
 title: "Pathfinder's Respite"
-revid: 165160
+revid: 166539
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Etrean Luminant]
+categories: [Locations, Locations in the Etrean Luminant]
 ---
 
 # Pathfinder's Respite

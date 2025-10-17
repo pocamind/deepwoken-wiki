@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 166386
+revid: 166620
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -121,9 +121,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > 
 > At present day, the surface world is still dotted with a variety of cultures, each at a different stage of vitality. For example, the island of Etrea, the last remaining shard of a once-great kingdom of the same name, maintains its distinct way of life in relative isolation. However, their culture is growing stagnant, ossified, and inflexible due to such policies, remaining relatively unchanged for the past several centuries - an unnatural amount of time for any civilisation's lifestyle to stay so static.
 > 
-> As another example, The Navaean nomads' ways are still going strong, flourishing in the face of great adversity - somewhat of a paradox considering their culture's wandersome nature, their reliance on traditions of spoken word, and their consistent clashes with the encroaching imperial influence of the Central Authority. The Authority themselves, as yet another example, struggle to find any solid cultural ground to stand on, despite being made up of numerous varied groups of people, each with their own colourful histories and customs. Instead, they rely upon loyalty to hierarchy and on military tradition to keep their political ties from fraying.
+> As another example, The Navaean nomads' ways are still going strong, flourishing in the face of great adversity - somewhat of a paradox considering their culture's wandersome nature, their reliance on traditions of spoken word, and their consistent clashes with the encroaching imperial influence of the [Central Authority](Glossary.md#the-central-authority). The [Authority](Glossary.md#the-central-authority) themselves, as yet another example, struggle to find any solid cultural ground to stand on, despite being made up of numerous varied groups of people, each with their own colourful histories and customs. Instead, they rely upon loyalty to hierarchy and on military tradition to keep their political ties from fraying.
 > 
-> And then, of course, there are new cultures still emerging in the long wake after the Tides, forming up in response to the changed ways of the people of the New World. Where there was a lack of rooted national history and shared past, a variety of stand-ins arose - companies, labour unions, and guilds of workers and adventurers alike. Within these non-societal units, unique traditions, hierarchies, and customs take shape. They fight for their place beneath the sun, like any other.
+> And then, of course, there are new cultures still emerging in the long wake after the [Tides](Glossary.md#the-tides), forming up in response to the changed ways of the people of the New World. Where there was a lack of rooted national history and shared past, a variety of stand-ins arose - companies, labour unions, and guilds of workers and adventurers alike. Within these non-societal units, unique traditions, hierarchies, and customs take shape. They fight for their place beneath the sun, like any other.
 > 
 > Despite all this, our world remains at strife with itself, and destruction reigns over creation. We have proven, time and time again, that humanity can persevere in the face of incredible adversity, and band together during and after world-ending events. What we have woefully failed to do, however, is preserve the past - the circumstances did not allow us to do this well.
 > 
@@ -795,9 +795,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > \- writings of Apprentice Azel
 > 
 >   
-> This was never an expedition. This was a setup. Chaser has gone mad. The Kyrsgarde have gone mad. No matter what direction I run, I'm met with the same adversity from those I'm supposed to 'trust', yet it ends in catastrophe. Chaser didn't take us here to find anything, he took us here to feed on us. The Kyrsgarde on the surface are kind, but below... it's all a facade. It's always been a facade. I can't trust anyone anymore, there's nothing in this hell which could absolve me of this fear now. Even as I'm writing this, I feel eyes watching me. I know one thing for certain: today, I will die. Whether it be by the hands of my 'leader', or by the hands of those who take us for fools, or perhaps the beasts resting above me.
+> This was never an expedition. This was a setup. Chaser has gone mad. The [Kyrsgarde](Glossary.md#kyrsgarde) have gone mad. No matter what direction I run, I'm met with the same adversity from those I'm supposed to 'trust', yet it ends in catastrophe. Chaser didn't take us here to find anything, he took us here to feed on us. The [Kyrsgarde](Glossary.md#kyrsgarde) on the surface are kind, but below... it's all a facade. It's always been a facade. I can't trust anyone anymore, there's nothing in this hell which could absolve me of this fear now. Even as I'm writing this, I feel eyes watching me. I know one thing for certain: today, I will die. Whether it be by the hands of my 'leader', or by the hands of those who take us for fools, or perhaps the beasts resting above me.
 > 
-> This is my last day... alone. Alone in a wasteland, a meaningless death to be forgotten, just another number added to the infinite list of 'missing in action' Divers. Is that what all this means? Did Mother want this? Good for nothing.. rotten son, never made money or did anything for the family, dead in a cave, accomplished nothing, alone. Hopeless and abandoned, even in my final moments. I'm going to be forgotten, just as the countless times before. 'Azel Corbet' never existed.. he never did, never meant anything to anyone.. and alone. Alone! Each time I write the word I feel angrier at myself. I hate this. Maybe this is what I deserved. Maybe if I wasn't a good-for-nothing since birth, since childhood, since adolescence, since adulthood, maybe-
+> This is my last day... alone. Alone in a wasteland, a meaningless death to be forgotten, just another number added to the infinite list of 'missing in action' [Divers](Glossary.md#the-divers). Is that what all this means? Did Mother want this? Good for nothing.. rotten son, never made money or did anything for the family, dead in a cave, accomplished nothing, alone. Hopeless and abandoned, even in my final moments. I'm going to be forgotten, just as the countless times before. 'Azel Corbet' never existed.. he never did, never meant anything to anyone.. and alone. Alone! Each time I write the word I feel angrier at myself. I hate this. Maybe this is what I deserved. Maybe if I wasn't a good-for-nothing since birth, since childhood, since adolescence, since adulthood, maybe-
 > 
 > _\*The ink on the following pages are washed out and incomprehensible, streaking in lines only tears could create, smudging the ink. His last words are lost.\*_
 
@@ -1372,7 +1372,7 @@ Shoulder to shoulder, together, tall!
 > 
 > * * *
 > 
-> How I miss thee, Constellia, my dearest Constellia! Shining jewel in the skies of the night, our bulwark of the Blacksea, our ward against the Cosmos...
+> How I miss thee, [Constellia](Glossary.md#constellia-the-guiding-star), my dearest [Constellia!](Glossary.md#constellia-the-guiding-star) Shining jewel in the skies of the night, our bulwark of the [Nightsea](Glossary.md#the-nightsea), our ward against the Cosmos...
 > 
 > Most do not recall thine splendor as I do. And what of mineself?.. Though our kind ought not feel the tides of age, even I am bowed by countless time. I feel old, even older than the very stars that made me. My kin slowly wane, much like the heavens' fading light...
 > 

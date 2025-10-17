@@ -1,9 +1,9 @@
 ---
 title: Necroskipper
-revid: 163151
+revid: 166535
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Monsters, Etrean Luminant]
+categories: [Enemies, Monsters]
 ---
 
 # Necroskipper

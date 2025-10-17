@@ -1,16 +1,16 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 165775
+revid: 166553
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Map, Etrean Luminant]
+categories: [Locations, Locations in the Etrean Luminant]
 ---
 
 # The Temple of the Forgotten Flame
 
-LocationL Temple of The Forgotten Flame LocationR
+LocationL The Temple of The Forgotten Flame LocationR
 
-A temple as old as the island itself, robbed of its heart.
+A temple old as the island itself, robbed of its heart.
 
   
 
