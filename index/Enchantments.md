@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 163545
+revid: 166671
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -944,7 +944,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p></p>
   <p>Drains the target's ether on hit. This scales with your scaled damage.<br>
   <u><b>Steals 1 ether per 1.3 M1 dmg</b></u><br>
-  <u><b>ETHER DRAIN DEPENDS ON SCALED DMG (no dmg mods)</b></u><br>
+  <u><b>ETHER STEAL DEPENDS ON SCALED DMG (no dmg mods)</b></u><br>
   Critical attack is replaced with a counter that, upon use, takes away 25% ether. (if available). Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture and refunding 15% ether.<br>
   The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
   </p>Check <a href="#trivia">Trivia</a> for an explanation of its bugginess in PvE.<p></p>

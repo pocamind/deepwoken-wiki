@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 166430
+revid: 166674
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -194,6 +194,7 @@ Titus was expected to retire after a few missions prior to his capture, but may 
 -   **Quaking Presence** - The rumbling presence of Titus will break nearby campfires and cause debris to fall into the prison, dealing damage to the player.
 -   **Thorn Guard** - Titus is immune to Providence's Thorns.
 -   **Unharvestable** - Healing from Bloodless Gems are less effective.
+-   **Commanders Respite** - Titus will begin regenerating health when not actively engaged in combat
 
 ## Tips and Strategies
 

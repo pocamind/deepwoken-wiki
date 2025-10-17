@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 166493
+revid: 166673
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, The Ignition Union, Character]
@@ -16,10 +16,9 @@ _Ignition Delver_ is a PvE-focused [origin](Origins.md), highly favoring, but no
 
 ## Obtainment
 
-Ignition Delver has two obtainment methods:
+Ignition Delver has one obtainment method:
 
-1.  Completing [Orion](Orion.md)'s quest on [Miner's Landing](<Miner's_Landing.md>) and speaking back with Orion after the quest's completion.
-2.  Saving [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and reporting to [Alpha](Alpha.md) afterwards.
+You must save [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and report to [Alpha](Alpha.md) afterwards.
 
 ## Spawn
 

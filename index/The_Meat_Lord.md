@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 160930
+revid: 166670
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -14,7 +14,7 @@ categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the E
 | aspect | Adret |
 | location | The Garden Reservoir, The Hidden Village, Meteor Isle, Pathfinder's Respite, Saramaed Summit, Songseeker Wilds, Starswept Valley, Summer Isle, Temple of the Forgotten Flame, Towerstruck Lands, Upper Erisia, Viper's Jaw |
 
-“ Very well, you may rise. ”
+“ Very well, you may rise, mortal one. ”
 
 ― The Meat Lord
 
