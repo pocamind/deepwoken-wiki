@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 166286
+revid: 166659
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -346,6 +346,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
     -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, providing a free talent hand on rejoin/next power.
     -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
+    -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
     -   Prerequisites: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) (Flaw)
 
@@ -353,6 +354,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Healing is negated in PVP combat.
     -   40% tempo gain, 55% ether gain, 3% blood gain, 5% health gain.
     -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
+    -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
     -   Prerequisite: Carnivore
 
 -   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)

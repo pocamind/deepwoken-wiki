@@ -1,9 +1,9 @@
 ---
 title: The Lordsgrove
-revid: 163347
+revid: 166645
 source: https://deepwoken.fandom.com/wiki/The_Lordsgrove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Locations in the Eastern Luminant, Lawless Territory]
 ---
 
 # The Lordsgrove

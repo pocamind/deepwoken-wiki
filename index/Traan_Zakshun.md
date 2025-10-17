@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 162059
+revid: 166652
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -102,7 +102,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside a cave.
   <td colspan="3">Ugh you're carrying way too much. Come back when you're not a walking junk pile.</td>
 </tr>
 <tr>
-  <td colspan="3"><font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
+  <td colspan="3">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
   <td colspan="9">End</td>
 </tr>
 <tr>

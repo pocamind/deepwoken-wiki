@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 166643
+revid: 166660
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses, Enemies]
@@ -16,9 +16,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Interluminary Parasol (also referred to as Jellyfish/Big Jellyfish) is a giant floating jellyfish-like creature resembling the [Terrapods](Terrapod.md) in terms of physical shape/structure with the exception of a more smooth shell and flexible tentacles.
+The Interluminary Parasol is a large, brainy organism covered by a bioluminescent, umbrella-shaped bell with light blue ribs, hence its name. Four appendages stick out of the brain-like structure, ending with sharp, armored needles.
 
-According to the item description of it's exclusive drop, the Parasol emerges from the Depths, it's sole purpose being to spread the Depth's influence by bringing it's mobs up to the surface, disrupting the ecosystems on the surface.
+According to the item description of its exclusive drop, the Parasol emerges from the Depths, its sole purpose being to spread the Depth's influence by bringing its mobs up to the surface, disrupting the ecosystems on the surface.
 
 This boss is one of the [World Events](World_Events.md), spawning every odd hour of the day in the Eastern Luminant.
 
@@ -116,13 +116,11 @@ Exhaustive Loot Table
 
 -   Ship cannons are the most effective cheese method for the boss, due to their respectable damage and long range, however dealing damage on land with a party of players will prove to be a much faster way to take out the boss.
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
--   It follows Two set paths depending on where it spawns:
-    -   Path 1: Near [The Monkey's Paw](<The_Monkey's_Paw.md>) - [Ancient Rotlands](Ancient_Rotlands.md) highway it will always go towards the [Summer Isle](Summer_Isle.md) highway- then to [Miner's Landing](<Miner's_Landing.md>), Ending at the [Fort Merit](Fort_Merit.md) highway.
-    -   Path2: Near the [Songseeker Wilds](Songseeker_Wilds.md) - [Summer Isle](Summer_Isle.md) highway it will always go towards the [The Monkey's Paw](<The_Monkey's_Paw.md>) - then to [Greathive Aratel](Greathive_Aratel.md).
+-   It follows a set path, starting behind the [Rotlands](Ancient_Rotlands.md) as it slowly makes its way towards [Greathive Aratel](Greathive_Aratel.md).
 -   Having a wall to protect you is almost entirely necessary, as it allows you to deal significant damage without getting hit.
 
 ## Trivia
 
--   Currently, it will sometimes not spawn with its tentacles visible; the spike it attacks you with will instead be floating
+-   Currently, it will sometimes not spawn with its tentacles visible; the spike it attacks you with will instead be floating.
 -   Probably inspired in Metroids by Metroid series.
 -   Ragoozer accidentally leaked the existence of the parasol shortly after Verse 2's release. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.

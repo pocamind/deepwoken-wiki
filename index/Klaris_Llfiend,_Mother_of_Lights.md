@@ -1,9 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 166199
+revid: 166654
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, The Divers, Vendors, NPCs located in the First Layer, Oath Trainer, Black Divers]
+categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -27,6 +27,39 @@ She is a young Canor who has long golden hair that end onto her shoulders. Two b
 Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
 She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her and how she reacts to players under Power 15 talking to her.[\[3\]](#cite-note-3)
+
+## Shop
+
+Medallion Exchange
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Enchant Stone</div><div><i>A shard of enchantment; it can apply its given Enchant to your currently equipped weapon.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Enchant Grease</div><div><i>An oil of enchantment; it can apply its given Enchant to your Equipment.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Dye Packet</div><div><i>A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+Radiant Teachings
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Kyrsan_Medallions.md">KyrsanMedallionLarge</a><div>Kyrsan<br>
+  Medallions</div></center></td>
+  <td><div>Treading the Light</div><div><i>Enhance your skills as a Dawnwalker.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
@@ -251,7 +284,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="3">Completed Mendacia's Quest</td>
-  <td colspan="3">Spoken to Mendacia</td>
+  <td colspan="3">Denied Mendacia's Quest</td>
   <td colspan="6">Meet Deepshore Fossil Requirements</td>
 </tr>
 <tr>
@@ -299,7 +332,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 </tr>
 <tr>
   <td colspan="3"><i>*Her eyes light up briefly*</i> Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
-  <td colspan="3">Opens Shop UI</td>
+  <td colspan="3">[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
   <td colspan="6">Her nose wrinkles in a look of disgust*. I can only assume you found Dr. Carrion. Pay him no mind, hes absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
 </tr>
 <tr>
@@ -307,7 +340,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="9">End</td>
 </tr>
 <tr>
-  <td colspan="3">Opens Shop UI</td>
+  <td colspan="3">[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td colspan="3">End</td>
@@ -368,38 +401,36 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">What do you have to offer?</td>
+  <td colspan="4">What do you have to offer?</td>
 </tr>
 <tr>
-  <td colspan="12">Hmm... Check this list and tell me what you like. Prices should be listed with it.</td>
+  <td colspan="4">Hmm... Take a look and tell me if there's something you like. Prices should be listed.<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td colspan="2">Knowledge [1 Medallion]</td>
-  <td colspan="2">Enchant Stone [5 Medallions]</td>
-  <td colspan="2">Enchant Grease [5 Medallions]</td>
-  <td colspan="2">Equipment Dye [1 Medallion]</td>
-  <td colspan="2">Regarding Dawnwalker</td>
-  <td colspan="2">Not enough Medallions for any purchase</td>
+  <td>Knowledge [1 Medallion]</td>
+  <td>Purchasing Enchant Stone, Enchant Grease, or Dye Packets</td>
+  <td>Regarding Dawnwalker</td>
+  <td>Not enough Medallions for any purchase</td>
 </tr>
 <tr>
-  <td colspan="2">Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
-  <td colspan="6">Interesting. How many would you like?</td>
-  <td colspan="2">[See Dawnwalker]</td>
-  <td colspan="2">I don't think you have enough on hand.</td>
+  <td>Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
+  <td>A pleasure. Come my way if you come across any more of these things - they're fascinating.</td>
+  <td>[See Dawnwalker]</td>
+  <td>I don't think you have enough on hand.</td>
 </tr>
 <tr>
-  <td colspan="2">Slider from 1 to your max medallions</td>
-  <td colspan="4">Slider from 1, to your max medallions divided by 5 (rounded down)</td>
-  <td colspan="2">Slider from 1 to 10</td>
+  <td>Slider from 1 to 100</td>
+  <td>End</td>
 </tr>
 <tr>
-  <td colspan="8">Ah, good deal. Come my way if you come across any more of these things - they're fascinating.</td>
+  <td>A pleasure. Come my way if you come across any more of these things - they're fascinating.</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

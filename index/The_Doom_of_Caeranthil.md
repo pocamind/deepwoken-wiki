@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 163145
+revid: 166661
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses, Enemies]
@@ -16,9 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Doom of Caeranthil is a [World Event](World_Events.md) [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every odd hour of the day (For UTC/GMT).
-
-The Doom is a colossal sea serpent monster that has ravaged and destroyed islands, having earned its name when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
+The Doom of Caeranthil is a [World Event](World_Events.md) [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every odd hour of the day (For UTC/GMT). It appears as a massive deep-blue serpent with two front fins and two pairs of yellow eyes. Its back is covered in tough scales that runs along its tail. Its name was earned when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
 
 The Doom will swim across the seas of the [Etrean Luminant](Luminants.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of Erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
 
