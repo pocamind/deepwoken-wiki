@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Boots
-revid: 156199
+revid: 167128
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus |
+| obtainment | Titus Fulminus Destellus |
 | description | Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash. |
 
 ## Description

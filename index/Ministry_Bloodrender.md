@@ -1,9 +1,9 @@
 ---
 title: Ministry Bloodrender
-revid: 163691
+revid: 167102
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Ministry Enemies, The Ministry]
+categories: [Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enchantments]
 ---
 
 # Ministry Bloodrender
@@ -14,7 +14,9 @@ Template:EnemyInfobox1.0
 
 The Ministry Bloodrenders are a tri-group of blood cultists, working under the second prophet of [The Ministry](The_Ministry.md). They utilize [Bloodrend](Bloodrend.md) Mantras and their [Krulian Knives](Krulian_Knife.md) to defeat their adversaries.
 
-According to [Vyrelda](Vyrelda,_Master_of_Blood.md), they are hunting her under the Second Prophet's orders, due to having left the Ministry.
+They can spawn in the [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) if the player has hunted [reputation](Reputation.md) with [The Ministry](The_Ministry.md), or near the entrance to the [Derelict Highchurch](Derelict_Highchurch.md) if the player takes [Vyrelda's](Vyrelda,_Master_of_Blood.md) quest, as an alternative to descending to the [Second Layer](Second_Layer.md) and killing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) for [Heartstars](Heartstar.md) in order to get [Bloodrend](Bloodrend.md). (Do note that she only shows up there after obtaining [Bloodrend](Bloodrend.md).)
+
+Defeating one of them rewards the player with 1 [Heartstar](Heartstar.md) bad [Ministry](The_Ministry.md) [reputation](Reputation.md). Defeating all of them rewards the player with a [chest](Chests_&_Sacks.md) containing [Second Layer](Second_Layer.md) loot.
 
 ## Moveset
 
@@ -34,7 +36,7 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 **Critical**  
 (★★☆)
 
- | The cultist enters a stance before unleashing a flurry of slashes.
+ | The Ministry Bloodrender enters a stance before unleashing a flurry of slashes.
 
  |
 | 
@@ -42,7 +44,7 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 **Crucifixion**  
 (★☆☆)
 
- | The cultist conjures a cross, ragdolling and throwing enemies back.
+ | The Ministry Bloodrender conjures a cross, ragdolling and throwing enemies back.
 
  |
 | 
@@ -50,7 +52,7 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 **Scarlet Cyclone**  
 (★★☆)
 
- | The cultist conjures a tornado of blood where they're facing and sends it out.
+ | The Ministry Bloodrender conjures a tornado of blood where they're facing and sends it out.
 
  |
 | 
@@ -58,7 +60,7 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 **Razor Blitz**  
 (★★☆)
 
- | The cultist creates a scythe out of their own blood and swings it.
+ | The Ministry Bloodrender creates a scythe out of their own blood and swings it.
 
  |
 
@@ -66,5 +68,4 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 
 -   Strangely enough, they don't wear [Blindfolds](Blindfold.md) like their colleagues.
 -   They also are said to monitor Chaser and give him orders, meaning they have some sort of power over him, it just isn't seen or stated.
--   They can also spawn at the [Derelict Highchurch](Derelict_Highchurch.md) if you take [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest there. (Do note that she only shows up there after obtaining [Bloodrend](Bloodrend.md).)
-    -   In such quest, the chest you get from killing them is full of [Layer 2](Second_Layer.md) loot, meaning you can get rare items such as an [Evanspear Hand Axe](Evanspear_Greataxe.md).
+-   According to [Vyrelda](Vyrelda,_Master_of_Blood.md), they are hunting her under the [Second Prophet's](Lore.md#the-second-prophet) orders, due to having left the Ministry.

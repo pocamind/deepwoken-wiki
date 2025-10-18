@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 167037
+revid: 167127
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -278,6 +278,8 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Deals little to no pve monster damage (test if it does work on humanoids)
     -   Applies burn on hit.
+    -   Explosions cannot be parried and blockbreak.
+    -   Automatically grips knocked players.
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
     -   The cooldown is 24 real world hours, not one ingame day.

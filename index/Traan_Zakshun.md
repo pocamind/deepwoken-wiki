@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 166652
+revid: 167101
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -249,7 +249,14 @@ Sold Items
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b>For 100 </b>: <a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
+    <li><b>For 50 </b>:
+  <ul>
+    <li><b><font>Face</font></b>:<a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
+  </ul></li>
+    <li><b>For 100 </b>:
+  <ul>
+    <li><b><font>Arms</font></b>:<a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>

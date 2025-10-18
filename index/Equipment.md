@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 165996
+revid: 167116
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -4604,6 +4604,13 @@ Found from:
  | Set: Bloodfeather  
 Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
 Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
+|  | [Brow Stud](Brow_Stud.md) | _+1 Health_ | 
+
+Found from:
+
+-   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
+
+ | N/A |
 |  | [Citadel Frames](Citadel_Frames.md)  
 (**Series**) | +5 Health  
 \-1 or -2 Posture
@@ -4655,6 +4662,13 @@ Found from:
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
+
+ | N/A |
+|  | [Dermal Stud](Dermal_Stud.md) | _+1 Health_ | 
+
+Found from:
+
+-   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
 
  | N/A |
 |  | Duelist's Mask | _+6% Stealth_
@@ -4759,6 +4773,13 @@ Source from:
 
  | Variants:  
 Summer, Dusk & Seaglass |
+|  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | 
+
+Found from:
+
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+
+ | N/A |
 |  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | 
 
 Found from:

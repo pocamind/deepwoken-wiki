@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 166448
+revid: 167133
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
@@ -14,7 +14,7 @@ categories: [NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
 | aspect | Etrean (?) |
 | location | Derelict Highchurch |
 
-“ Do you wish to join the Starkindred, and feast upon the Holy Ichor of our God? It will be irreversible. You will be... born anew, lamb. ”
+“ There are those of the faith - like myself - who swear an Oath to the Church. Through the Ichor that runs through our veins, we dedicate our lives to its protection. We prevent it from falling into the wrong hands. ”
 
 ― Samael
 
@@ -22,9 +22,9 @@ categories: [NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
 
 Samael is an NPC that will grant you the [Starkindred](Oath%253A_Starkindred.md) Oath. He is located in the hidden area in the [Derelict Highchurch](Derelict_Highchurch.md), go down the trapdoor ladder and walk around the library interacting with a red book on a bookshelf; this will collapse the false wall hiding the large white double doors. The book is the same each time. Interact with the book again to open the doors. He will be found to the left of the unconscious [Celestial](Celestial.md).
 
-He wears a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) over a dark cloak and hood and dons a bright yellow Starkindred halo as well as a pair of black wings.
+He wears a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) over a dark cloak and hood and dons a bright yellow Starkindred halo. On his back are a pair of black wings.
 
-His old apperance simply left him with the old Angel mask that completely hid his identity while keeping the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit.
+His old appearance simply left him with the old Angel mask that completely hid his identity while keeping the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit.
 
 ## Dialogue
 
@@ -209,7 +209,7 @@ His old apperance simply left him with the old Angel mask that completely hid hi
   <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">A pilgrim enters the holy hall, with a head full of <b>false ideals</b>. Leave this place of worship, lest you seek an eternity of the unknown.</td>
+  <td colspan="6">You enter this sanctum with a mind full of <i>false ideals</i>. Savour this most holy of sights, but know that the path it promises is forever closed to you.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

@@ -1,14 +1,18 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 156125
+revid: 167115
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
+categories: [Kyrsan NPCs, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
 ---
 
 # Makolis Pariah Katatonicus
 
-Template:NPC name
+| Makolis Pariah Katatonicus | |
+|---|---|
+| name | Makolis Pariah Katatonicus |
+| species | Kyrsan |
+| location | Firfire |
 
 ## Description
 
@@ -18,7 +22,9 @@ They ask the player to rest with them, and to be friends during said time.
 
 ## Dialogue
 
-**Initial Dialogue:**
+**Base Dialogue:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -40,7 +46,7 @@ They ask the player to rest with them, and to be friends during said time.
 </tbody>
 </table>
 
-**Resting with:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -49,6 +55,42 @@ They ask the player to rest with them, and to be friends during said time.
 </tr>
 <tr>
   <td colspan="12">It's peaceful, isn't it?</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player uses the [Resting Emote](Emotes.md) while sitting next to Makolis.
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">You are a good friend.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Thank you, friend. I will remember you.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

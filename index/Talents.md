@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 167072
+revid: 167118
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2783,7 +2783,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Sanguine Wager
 
--   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+-   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain tempo health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy), Rush Hour
 
 -   Torture Mastery \[Common Talent, Bloodrend Exclusive\] - Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.

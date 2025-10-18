@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 167061
+revid: 167083
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
