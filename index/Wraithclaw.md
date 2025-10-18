@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 165472
+revid: 167017
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Cr
 | Wraithclaw | |
 |---|---|
 | type | Fist |
-| requirements | 25 LHT, 75 WND |
+| requirements | 40 LHT, 75 WND |
 | damage | 16 |
 | scaling | LHT: 4, WND: 5.5 |
 | range | 6.5 |
@@ -41,14 +41,6 @@ The Wraithclaw comes with a single passive ability:
     -   If you have the After Cut Talent, your M1 attacks will apply an After Cut dealing 10% of the initial attack instead of the usual 5%.
 
 Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but critical attacks stay unchanged and do not switch depending on your style. The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on Wraithclaw.
-
-With the minimum stat requirement (25 LHT & 75 WND) to equip the weapon, the weapon will deal 23.4 damage.
-
--   Around 24.5 damage with the 5% innate After Cut effect, and around 25.7 with the 10% After Cut effect from the Talent.
-
-With 100 LHT and 100 WND, it will deal 30.2 damage.
-
--   It will deal around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
 
 The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" which you have to defeat. Various spawn locations for the NPC are:
 
@@ -85,3 +77,7 @@ Both criticals share the cooldown of **10 seconds**.
 -   It seems as if your slot has [Mute](Regalia.md) regalia (animal king), Grudge will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
 -   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
+-   With the minimum stat requirement (40 LHT & 75 WND) to equip the weapon, the weapon will deal 22.87 damage.
+    -   Around 24 damage with the 5% innate After Cut effect, and around 25.16 with the 10% After Cut effect from the Talent.
+-   With 100 LHT and 100 WND, it will deal 30.2 damage.
+    -   It will deal around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.

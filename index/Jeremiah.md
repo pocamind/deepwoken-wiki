@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 166891
+revid: 167004
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
@@ -66,15 +66,15 @@ Potential Rewards
   <td colspan="2">Player does not have Deep Gems</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*The man takes a deep breath in through his nose*</i>. I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
-  <td colspan="2"><i>*The man takes a deep breath in through his nose*</i>. Jeez, you reek. Come back with a gem next time you talk to me, PLEASE.</td>
+  <td colspan="2"><i>*The man takes a deep breath in through his nose.*</i> I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
+  <td colspan="2"><i>*The man takes a deep breath in through his nose.*</i> Jeez, you reek. Come back with a gem next time you talk to me, PLEASE.</td>
 </tr>
 <tr>
   <td colspan="2">Gem?</td>
   <td colspan="2">End</td>
 </tr>
 <tr>
-  <td colspan="2">Yes, yes, a gem. You <i>definitely</i> have one. They're really not all that.</td>
+  <td colspan="2">Yes, yes, a gem. You <i>definitely</i> have one. They're really not all that useful or anything, but I suppose I could spare you some of my equipment if you are willing to make a deal.</td>
 </tr>
 <tr>
   <td colspan="2">What do you have to trade?</td>
@@ -90,7 +90,7 @@ Potential Rewards
   <td>Player does not have Deep Gem in hand</td>
 </tr>
 <tr>
-  <td><i>*He fidgets excitedly, tossing you your new [ITEM].*</i></td>
+  <td><i>*He fidgets excitedly, tossing you your new [Item].*</i></td>
   <td><i>*He twitches angrily.*</i> There's no gem in your hand...</td>
 </tr>
 <tr>
@@ -116,8 +116,8 @@ Potential Rewards
   <td>Player does not have Deep Gems</td>
 </tr>
 <tr>
-  <td><i>*The man takes a deep breath in through his nose*</i>. Ah, you're back, and you've got a GEM! Looking to trade?</td>
-  <td><i>*The man takes a deep breath in through his nose*</i>. Jeez, you reek. Come back with a gem next time you talk to me, PLEASE.</td>
+  <td><i>*The man takes a deep breath in through his nose.*</i>. Ah, you're back, and you've got a GEM! Looking to trade?</td>
+  <td><i>*The man takes a deep breath in through his nose.*</i>. Jeez, you reek. Come back with a gem next time you talk to me, PLEASE.</td>
 </tr>
 <tr>
   <td>Yeah.</td>

@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 161096
+revid: 167016
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items, Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Ite
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 30% |
-| special effect | Curved Edge - Increases the chip damage of all Light Weapon Mantras by 30%. |
+| special effect | Curved Edge - Increases the chip damage of all Light Weapon Mantras by 60%. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Nemit's Sickle |
@@ -38,7 +38,7 @@ The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and a
 
 ### Talent: Curved Edge
 
-Grants +30% chip damage to all [Light Weapon Mantras](Attunement-less.md#light-weapon-mantras).
+Grants +60% chip damage to all [Light Weapon Mantras](Attunement-less.md#light-weapon-mantras).
 
 ## Critical
 

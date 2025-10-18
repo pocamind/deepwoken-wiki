@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 166644
+revid: 167000
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -386,7 +386,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Their physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
 -   An entity known as "The Voice of Ethiron", tries to fool the player into awakening the Scion of Ethiron so it can fully awake Ethiron. This suggests that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake its master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
 
-### Korilfiend
+### Korilfiend, the Inferno's Provenance
 
 -   The Drowned God of Fire and creator of the Forge of Sin.
 -   The Temple of the Forgotten Flame was dedicated to him and housed the Forge.

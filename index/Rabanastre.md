@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 166804
+revid: 167005
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -59,13 +59,13 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Kehe! You- Oh. Oh, you... lived. Oh, kehe..he. *He begins to sweat nervously, looking up at you in fear.* A-all fun and games, right friend? Oh, brave warrior of mine?</td>
+  <td colspan="12">Kehe! You- Oh. Oh, you... lived. Oh, kehe..he. <i>*He begins to sweat nervously, looking up at you in fear.*</i> A-all fun and games, right friend? Oh, brave warrior of mine?</td>
 </tr>
 <tr>
   <td colspan="12">I should end you for that.</td>
 </tr>
 <tr>
-  <td colspan="12">Oh... please, brave hero of mine! Spare me, spare me! *He pleads, making a praying motion with his hands.* Just fun is all, won't you spare me, oh hero of mine?</td>
+  <td colspan="12">Oh... please, brave hero of mine! Spare me, spare me! <i>*He pleads, making a praying motion with his hands.*</i> Just fun is all, won't you spare me, oh hero of mine?</td>
 </tr>
 <tr>
   <td colspan="12">Fine.</td>

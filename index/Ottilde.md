@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 164370
+revid: 166998
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -32,7 +32,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
   <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="8">*<i>In contrast to the routine metallic rumbling and screeching of machinery around you, the Chrysid gently gazes off into distances unknown. She turn to peer at you, eyes clouded with a fog that refuses to clear. She turns to peer at you, eyes clouded with a fog that refuses to clear.</i>* Hey, was that your boat that just came in?.. Even if you're just of the sailing sort, ...would you know the way to the Lullaby Isles? I'm having trouble finding anyone whose knowledge spans any further than this Luminant.</td>
+  <td colspan="8"><i>*In contrast to the routine metallic rumbling and screeching of machinery around you, the Chrysid gently gazes off into distances unknown. She turn to peer at you, eyes clouded with a fog that refuses to clear.*</i> Hey, was that your boat that just came in?.. Even if you're just of the sailing sort, ...would you know the way to the <a href="Glossary.md#the-lullaby-isles">Lullaby Isles</a>? I'm having trouble finding anyone whose knowledge spans any further than this <a href="Glossary.md#the-luminants">Luminant</a>.</td>
 </tr>
 <tr>
   <td colspan="4">Are you trying to get home?</td>
@@ -67,7 +67,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
 </tr>
 <tr>
   <td colspan="2">Well, I hope you're alright.</td>
-  <td colspan="2">Why'd she the isles leave to come here? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
+  <td colspan="2">Why'd she the Isles leave to come here? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
 </tr>
 <tr>
   <td colspan="2"><i>*She trails off, pensive.*</i> I've my motivations to keep me going - I'll find my way there, trust me.</td>

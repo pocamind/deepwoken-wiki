@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 166784
+revid: 167015
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4070,7 +4070,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This grants a +40% damage modifier to all critical attacks, even if it isn't a Krulian Knife critical, and even if the critical they got hit by was used by someone else.
         -   This damage modifier **bypasses** the damage modifier cap, potentially allowing for absurd critical damage output.
 
--   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 30% more chip.
+-   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 60% more chip.
 
 -   Expeditious Combo: [Iron Birch](Iron_Birch.md) - Landing an uppercut will grant a buff to your [Onslaught](Attunement-less.md#onslaught) for 15 seconds, using Onslaught during this time will massively increase the speed of it.
     -   Grants the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect on uppercut. This status effect will be consumed if you cast Onslaught, massively increasing the speed of this attack.

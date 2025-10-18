@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 163034
+revid: 167010
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -11,9 +11,9 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | Gran Sudaruska | |
 |---|---|
 | type | Greataxe |
-| requirements | 75 ICE, 30 HVY, LVL 10 |
+| requirements | 75 ICE, 40 HVY, LVL 10 |
 | damage | 24 |
-| scaling | ICE: 8, HVY: 4 |
+| scaling | ICE: 6, HVY: 4 |
 | range | 8.5 |
 | swing speed | 0.83x |
 | penetration | 5% |
