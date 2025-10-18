@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 164317
+revid: 167059
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1093,133 +1093,25 @@ These Talents are found in the "_Flamecharmer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Flamecharmer  
-(1 Flamecharm)
-
- | 
-
-Grants you the ability to command Fire as a Flamecharmer.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Adept Flamecharmer  
-(20 Flamecharm)
-
- | 
-
-You can now obtain 1-star Flamecharmer Mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Expert Flamecharmer  
-(30 Flamecharm)
-
- | 
-
-You can now obtain 2-star Flamecharmer Mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Master Flamecharmer  
-(50 Flamecharm)
-
- | 
-
-You can now obtain 3-star Flamecharmer Mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Azure Flames  
-(70 Flamecharm, 40 Willpower)
-
- | 
-
-Many of your flames turn blue, signifying their increased intensity.
-
- | 
-
-Burn, Flamecharm Mantras, Flamecharm Legendary [Weapons](Weapons.md#elemental), and Eruptions turn blue,
-
+|  | Flamecharmer  
+(1 Flamecharm) | Grants you the ability to command Fire as a Flamecharmer. | N/A |
+|  | Adept Flamecharmer  
+(20 Flamecharm) | You can now obtain 1-star Flamecharmer Mantras. | N/A |
+|  | Expert Flamecharmer  
+(30 Flamecharm) | You can now obtain 2-star Flamecharmer Mantras. | N/A |
+|  | Master Flamecharmer  
+(50 Flamecharm) | You can now obtain 3-star Flamecharmer Mantras. (+5 Health) | N/A |
+|  | Azure Flames  
+(70 Flamecharm, 40 Willpower) | Many of your flames turn blue, signifying their increased intensity. | Burn, Flamecharm Mantras, Flamecharm Legendary [Weapons](Weapons.md#elemental), and Eruptions turn blue,
 Burn deals more damage, Eruptions from Lava Serpent have a shorter delay, more posture damage, and a larger AoE.
 
  |
-| 
-
- | 
-
-Intrepid Flame  
-([Flame Worshipper](Flame_Worshipper_Armor.md) outfit)
-
- | 
-
-Flames wear off twice as fast on you.
-
- | 
-
-Halves your maximum burn duration. This does not affect Flame Within.
-
- |
-| 
-
- | 
-
-Produce Spark  
-(20 Flamecharm)
-
- | 
-
-A simple production of Flame for the use of making Campfires.
-
- | 
-
-Grants the Utility tool "Produce Spark". Using Produce Spark consumes a small amount of ether to light campfires.
-
- |
-| 
-
- | 
-
-Unyielding Inferno  
-(30 Flamecharm)
-
- | 
-
-Your flames burn just as strong even in the fiercest of storms.
-
- | 
-
-Your Flamecharm Mantras and Twisted Puppets will no longer have a damage debuff while it's raining.
+|  | Intrepid Flame  
+([Flame Worshipper](Flame_Worshipper_Armor.md) outfit) | Flames wear off twice as fast on you. | Halves your maximum burn duration. This does not affect Flame Within. |
+|  | Produce Spark  
+(20 Flamecharm) | A simple production of Flame for the use of making Campfires. | Grants the Utility tool "Produce Spark". Using Produce Spark consumes a small amount of ether to light campfires. |
+|  | Unyielding Inferno  
+(30 Flamecharm) | Your flames burn just as strong even in the fiercest of storms. | Your Flamecharm Mantras and Twisted Puppets will no longer have a damage debuff while it's raining.
 
 Your lit campfires and burning effects will no longer be extinguished by rain.
 
@@ -1232,23 +1124,8 @@ _**"I seek out Amorus Pleeksty."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
-File:Flame Within.gif
-
- | 
-
-Flame Within  
-(25 Flamecharm)
-
- | 
-
-An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
-
- | 
-
-Grants the utility tool "Flame Within". Using Flame Within sets the caster ablaze for a maximum of 30 seconds, increasing strength and movement speed but dealing burn damage to the user. Can be freely cancelled by using it again while it's active. 7s cooldown that starts when the tool is first activated, effectively removing the cooldown if you let it burn long enough. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate.
-
- |
+| File:Flame Within.gif | Flame Within  
+(25 Flamecharm) | An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage. | Grants the utility tool "Flame Within". Using Flame Within sets the caster ablaze for a maximum of 30 seconds, increasing strength and movement speed but dealing burn damage to the user. Can be freely cancelled by using it again while it's active. 7s cooldown that starts when the tool is first activated, effectively removing the cooldown if you let it burn long enough. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate. |
 
 **Duelist Flame:**
 
@@ -1256,21 +1133,8 @@ These are Talents found in "_Duelist Flame_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Concussive Flash  
-(30 Flamecharm, 25 Strength, Flame Blind)
-
- | 
-
-Your blinding light now concusses foes.
-
- | 
-
-The Mantra **Flame Blind** now applies daze.
-
- |
+|  | Concussive Flash  
+(30 Flamecharm, 25 Strength, Flame Blind) | Your blinding light now concusses foes. | The Mantra **Flame Blind** now applies daze. |
 
 **Falling Star Guard:**
 
@@ -1278,39 +1142,13 @@ These are Talents found in "_Falling Star Guard_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Meteor Impact  
-(25 Flamecharm, Any "Rising" Mantra)
-
- | 
-
-Aerial moves will follow up into a devastating slam.
-
- | 
-
-After landing certain "uppercut" Mantras and weapon criticals, pressing M1 performs a Meteor Impact. This does your weapon's aerial attack damage + a flat amount unaffected by your Flamecharm investment.
-
+|  | Meteor Impact  
+(25 Flamecharm, Any "Rising" Mantra) | Aerial moves will follow up into a devastating slam. | After landing certain "uppercut" Mantras and weapon criticals, pressing M1 performs a Meteor Impact. This does your weapon's aerial attack damage + a flat amount unaffected by your Flamecharm investment.
 The Mantras that can proc this effect are as follows: Rising Flame, Flame Leap (and its spark variant), Rising Frost, Rising Wind, Lightning Impact, [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints, Rising Thunder (on Guard Break), and Wind Blade (but only the Tempest Wind variant).
 
  |
-| 
-
- | 
-
-Phoenix Impact  
-(40 Flamecharm)
-
- | 
-
-If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
-
- | 
-
-N/A
-
- |
+|  | Phoenix Impact  
+(40 Flamecharm) | If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether. | N/A |
 
 **Flame Dancer:**
 
@@ -1318,53 +1156,12 @@ These are Talents found in "_Flame Dancer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Dancing Steps  
-(35 Flamecharm)
-
- | 
-
-Fire mantras now move you in the direction you're facing.
-
- | 
-
-Gives you a lunge or dash-like movement during the windup of your Flamecharm Mantras; useful for closing distance with close ranged Mantras.
-
- |
-| 
-
- | 
-
-Graceful Steps  
-(80 Flamecharm, POWER 13, Dancing Steps)
-
- | 
-
-Your dancing steps now gives a faster speed boost.
-
- | 
-
-Increases the movement speed boost that Dancing Steps grants.
-
- |
-| 
-
- | 
-
-The Final Act  
-(60 Flamecharm, POWER 13)
-
- | 
-
-Landing a fire Mantra immediately after flourishing an opponent will cause them to explode.
-
- | 
-
-Deals 5 Flamecharm damage.
-
- |
+|  | Dancing Steps  
+(35 Flamecharm) | Fire mantras now move you in the direction you're facing. | Gives you a lunge or dash-like movement during the windup of your Flamecharm Mantras; useful for closing distance with close ranged Mantras. |
+|  | Graceful Steps  
+(80 Flamecharm, POWER 13, Dancing Steps) | Your dancing steps now gives a faster speed boost. | Increases the movement speed boost that Dancing Steps grants. |
+|  | The Final Act  
+(60 Flamecharm, POWER 13) | Landing a fire Mantra immediately after flourishing an opponent will cause them to explode. | Deals 5 Flamecharm damage. |
 
 **Flame Warden:**
 
@@ -1372,71 +1169,17 @@ These are Talents found in "_Flame Warden_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Cauterized Wounds  
-(40 Flamecharm, 5 Fortitude)
-
- | 
-
-Blood Loss from all sources are reduced. (+1 Passive Agility)
-
- | 
-
-Stacks with the [Alloyblood](Ironsing.md) Talent, which has a similar effect. The effectiveness of this talent is reduced if you have the [No Life King](Enchantments.md#curses) Enchant.
-
+|  | Cauterized Wounds  
+(40 Flamecharm, 5 Fortitude) | Blood Loss from all sources are reduced. (+1 Passive Agility) | Stacks with the [Alloyblood](Ironsing.md) Talent, which has a similar effect. The effectiveness of this talent is reduced if you have the [No Life King](Enchantments.md#curses) Enchant.
 This does **not** affect the blood cost from casting [Bloodrend](Bloodrend.md) Mantras, the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) Downside, and the [Curse of Bloodthirsty](Enchantments.md#curses) Enchant's blood loss on whiff effect.
 
  |
-| 
-
- | 
-
-Flamewalker  
-(40 Flamecharm, 25 Agility, Warding Radiance)
-
- | 
-
-When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
-
- | 
-
-When Warding Radiance is active, sliding will leave a trail of flame. If your opponent touches the flame trail, they'll be lit ablaze or an Eruption will proc if you have Lava Serpent.
-
- |
-| 
-
- | 
-
-Hell's Partisan  
-(35 Flamecharm, Fire Forge OR Warding Radiance)
-
- | 
-
-After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
-
- | 
-
-After landing **Fire Forge**, your next Flamecharm Mantra will spawn a flame spear from above that'll impale your opponent, applying burn or an Eruption.
-
- |
-| 
-
- | 
-
-Warding Radiance  
-(30 Flamecharm, 20 Agility)
-
- | 
-
-Every fire Mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+4 Sanity)
-
- | 
-
-Hell's Partisan can now be procced on Flamecharm Mantras that aren't **Fire Forge** while you have the halo active.
-
- |
+|  | Flamewalker  
+(40 Flamecharm, 25 Agility, Warding Radiance) | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) | When Warding Radiance is active, sliding will leave a trail of flame. If your opponent touches the flame trail, they'll be lit ablaze or an Eruption will proc if you have Lava Serpent. |
+|  | Hell's Partisan  
+(35 Flamecharm, Fire Forge OR Warding Radiance) | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) | After landing **Fire Forge**, your next Flamecharm Mantra will spawn a flame spear from above that'll impale your opponent, applying burn or an Eruption. |
+|  | Warding Radiance  
+(30 Flamecharm, 20 Agility) | Every fire Mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+4 Sanity) | Hell's Partisan can now be procced on Flamecharm Mantras that aren't **Fire Forge** while you have the halo active. |
 
 **Immolator:**
 
@@ -1444,53 +1187,12 @@ These Talents are found in the "_Immolator_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Immolation  
-(40 Flamecharm, Agitating Spark)
-
- | 
-
-Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
-
- | 
-
-Flamecharm Mantras cost 70% less Ether if you're burning. Take 50% less damage from self inflicted burns. If you hit someone while you're burning, apply burn; this effect procs on anything that deals physical damage (even if physical isn't the sole damage type) and anything that has the slash (blood splatter) vfx on hit. This applies burn even with Eruption Path.
-
- |
-| 
-
- | 
-
-Phoenix Flames  
-(40 Flamecharm, All Immolator Talents)
-
- | 
-
-Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-
- | 
-
-If you were to burn to death, restore a percentage of your maximum health and get back up. This percentage scales on your Flamecharm investment, being 25% at 0 Flamecharm and scaling up to 50% at 75 Flamecharm. If you were to use Flame Within while knocked to proc this effect, the healing will be halved.
-
- |
-| 
-
- | 
-
-Agitating Spark  
-(40 Flamecharm)
-
- | 
-
-If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-
- | 
-
-Hitting a burning target spreads the burn status effect to everyone nearby. This affects allies and yourself unless you have the Controlled Combustion Talent. This applies burn even with Eruption Path.
-
- |
+|  | Immolation  
+(40 Flamecharm, Agitating Spark) | Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity) | Flamecharm Mantras cost 70% less Ether if you're burning. Take 50% less damage from self inflicted burns. If you hit someone while you're burning, apply burn; this effect procs on anything that deals physical damage (even if physical isn't the sole damage type) and anything that has the slash (blood splatter) vfx on hit. This applies burn even with Eruption Path. |
+|  | Phoenix Flames  
+(40 Flamecharm, All Immolator Talents) | Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. | If you were to burn to death, restore a percentage of your maximum health and get back up. This percentage scales on your Flamecharm investment, being 25% at 0 Flamecharm and scaling up to 50% at 75 Flamecharm. If you were to use Flame Within while knocked to proc this effect, the healing will be halved. |
+|  | Agitating Spark  
+(40 Flamecharm) | If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. | Hitting a burning target spreads the burn status effect to everyone nearby. This affects allies and yourself unless you have the Controlled Combustion Talent. This applies burn even with Eruption Path. |
 
 **Inferno:**
 
@@ -1498,53 +1200,12 @@ These Talents are found in the "_Inferno_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Corpse Explosion  
-(60 Flamecharm, Agitating Spark)
-
- | 
-
-Bodies that you burn to death immediately explode dealing massive damage.
-
- | 
-
-Decreases the amount of time it takes bodies to burn to death from 8s -> 5s. The explosion is bugged and doesn't work.
-
- |
-| 
-
- | 
-
-Pleeksty's Will  
-(20 Flamecharm, Flamecharmer Ploom quest)
-
- | 
-
-You gain significantly more Ether from consuming elemental ingredients.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Pleeksty's Faith  
-(25 Flamecharm, 15 Willpower, 15 Charisma)
-
- | 
-
-When on fire, automatically quench flames at the cost of some Ether.
-
- | 
-
-Automatically removes burn at an Ether cost. Burn applied to self via Agitating Spark and Flame Within do not proc this Talent.
-
- |
+|  | Corpse Explosion  
+(60 Flamecharm, Agitating Spark) | Bodies that you burn to death immediately explode dealing massive damage. | Decreases the amount of time it takes bodies to burn to death from 8s -> 5s. The explosion is bugged and doesn't work. |
+|  | Pleeksty's Will  
+(20 Flamecharm, Flamecharmer Ploom quest) | You gain significantly more Ether from consuming elemental ingredients. | N/A |
+|  | Pleeksty's Faith  
+(25 Flamecharm, 15 Willpower, 15 Charisma) | When on fire, automatically quench flames at the cost of some Ether. | Automatically removes burn at an Ether cost. Burn applied to self via Agitating Spark and Flame Within do not proc this Talent. |
 
 **Lava Serpent:**
 
@@ -1552,71 +1213,17 @@ These are Talents found in "_Lava Serpent_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Eruption Path: Lava Serpent  
-(40 Flamecharm)
-
- | 
-
-Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.
-
- | 
-
-Eruptions have a short delay before proccing. Eruptions are procced whenever you would've applied burn (with very few exceptions).
-
+|  | Eruption Path: Lava Serpent  
+(40 Flamecharm) | Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet. | Eruptions have a short delay before proccing. Eruptions are procced whenever you would've applied burn (with very few exceptions).
 Eruption damage scales on Flamecharm investment. Eruptions have a 3 second cooldown.
 
  |
-| 
-
- | 
-
-Empowered Eruption  
-(50 Flamecharm, Eruption Path: Lava Serpent)
-
- | 
-
-Your next Eruption after landing a critical is empowered with +50% increased range and damage. 10s cooldown.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Flash Point  
-(45 Flamecharm, Eruption Path: Lava Serpent)
-
- | 
-
-Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block-breaking an enemy with a fire Mantra applies Burning.
-
- | 
-
-Increases your next Eruption's damage and AoE by 50%.
-
- |
-| 
-
- | 
-
-The Floor Is Lava  
-(100 Flamecharm, Eruption Path: Lava Serpent)
-
- | 
-
-Your eruptions leave lethal pools of lava beneath them.
-
- | 
-
-On Eruption, leave a pool of lava that deals Flamecharm damage over time. Damage dealt and duration scales on your Flamecharm investment.
-
- |
+|  | Empowered Eruption  
+(50 Flamecharm, Eruption Path: Lava Serpent) | Your next Eruption after landing a critical is empowered with +50% increased range and damage. 10s cooldown. | N/A |
+|  | Flash Point  
+(45 Flamecharm, Eruption Path: Lava Serpent) | Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block-breaking an enemy with a fire Mantra applies Burning. | Increases your next Eruption's damage and AoE by 50%. |
+|  | The Floor Is Lava  
+(100 Flamecharm, Eruption Path: Lava Serpent) | Your eruptions leave lethal pools of lava beneath them. | On Eruption, leave a pool of lava that deals Flamecharm damage over time. Damage dealt and duration scales on your Flamecharm investment. |
 
 **Pyromancer:**
 
@@ -1624,21 +1231,8 @@ These are Talents found in "_Pyromancer_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Hungry Flames  
-(30 Flamecharm, 15 Fortitude)
-
- | 
-
-When you have no Ether, consume Stomach and Water to instantly cast your next fire Mantra.
-
- | 
-
-N/A
-
- |
+|  | Hungry Flames  
+(30 Flamecharm, 15 Fortitude) | When you have no Ether, consume Stomach and Water to instantly cast your next fire Mantra. | N/A |
 
 **Tamed Flame:**
 
@@ -1646,21 +1240,8 @@ These are Talents found in "_Tamed Flame_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Controlled Combustion  
-(40 Flamecharm, 40 Charisma, Agitating Spark)
-
- | 
-
-Your Agitating Spark no longer spreads to your allies.
-
- | 
-
-Agitating spark no longer spreads burn to your allies, this includes yourself.
-
- |
+|  | Controlled Combustion  
+(40 Flamecharm, 40 Charisma, Agitating Spark) | Your Agitating Spark no longer spreads to your allies. | Agitating spark no longer spreads burn to your allies, this includes yourself. |
 
 **The Demon Blade:**
 
@@ -1668,37 +1249,10 @@ These are Talents found in "_The Demon Blade_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Explosive Finish  
-(45 Flamecharm)
-
- | 
-
-If an enemy is on fire when you flourish, blast them away with a fire blast.
-
- | 
-
-Causes an explosion, dealing 5 Flamecharm damage.
-
- |
-| 
-
- | 
-
-Flaming Flourish  
-(30 Flamecharm)
-
- | 
-
-Set enemies on fire when you flourish them.
-
- | 
-
-Your flourish and uppercuts will set your opponent ablaze/proc an Eruption.
-
- |
+|  | Explosive Finish  
+(45 Flamecharm) | If an enemy is on fire when you flourish, blast them away with a fire blast. | Causes an explosion, dealing 5 Flamecharm damage. |
+|  | Flaming Flourish  
+(30 Flamecharm) | Set enemies on fire when you flourish them. | Your flourish and uppercuts will set your opponent ablaze/proc an Eruption. |
 
 **The Emperor's Blade:**
 
@@ -1706,37 +1260,10 @@ These are Talents found in "_The Emperor's Blade_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Emperor Flame  
-(60 Flamecharm, Agitating Spark)
-
- | 
-
-Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
-
- | 
-
-Fire is absorbed from Agitating Spark procs, automatically extinguishing the burn unless Emperor Flame is on cooldown.
-
- |
-| 
-
- | 
-
-Mirage Clones  
-(65 Flamecharm)
-
- | 
-
-Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire.
-
- | 
-
-N/A
-
- |
+|  | Emperor Flame  
+(60 Flamecharm, Agitating Spark) | Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily. | Fire is absorbed from Agitating Spark procs, automatically extinguishing the burn unless Emperor Flame is on cooldown. |
+|  | Mirage Clones  
+(65 Flamecharm) | Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. | N/A |
 
 **Undying Ember:**
 
@@ -1744,37 +1271,10 @@ These Talents are found in the "_Undying Ember_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Denial Repulse  
-(40 Flamecharm, 40 Willpower, Flame of Denial)
-
- | 
-
-You now emit a delayed burst of flames after coming close to death.
-
- | 
-
-Deal a burst of fire damage when Flame of Denial procs.
-
- |
-| 
-
- | 
-
-Undying Flame  
-(40 Flamecharm, 40 Willpower, Graceful Flame)
-
- | 
-
-Your Graceful Flame burns brightly even underwater. Those that gather around it are soothed and regain sanity.
-
- | 
-
-Your Graceful Flame can now be cast in the [First Layer](First_Layer.md), additionally people who stand near it passively regenerate sanity and health.
-
- |
+|  | Denial Repulse  
+(40 Flamecharm, 40 Willpower, Flame of Denial) | You now emit a delayed burst of flames after coming close to death. | Deal a burst of fire damage when Flame of Denial procs. |
+|  | Undying Flame  
+(40 Flamecharm, 40 Willpower, Graceful Flame) | Your Graceful Flame burns brightly even underwater. Those that gather around it are soothed and regain sanity. | Your Graceful Flame can now be cast in the [First Layer](First_Layer.md), additionally people who stand near it passively regenerate sanity and health. |
 
 **Withered Flame:**
 
@@ -1782,33 +1282,10 @@ These Talents are found in the _Withered Flame_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| 
- | 
-
-Ash Flame  
-(90 Flamecharm, 90 Weapon)
-
- | 
-
-The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Scorching Decay  
-(100 Flamecharm, 100 Weapon, Emperor Flame)
-
- | 
-
-The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased.
-
- |
+|  | Ash Flame  
+(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals. | N/A |
+|  | Scorching Decay  
+(100 Flamecharm, 100 Weapon, Emperor Flame) | The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased. |
 
 **Twisted Puppets:**
 
@@ -1816,77 +1293,23 @@ These Talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-|  | 
-Wraith Path: Twisted Puppets  
-(40 Flamecharm, 40 Shadowcast)
-
- | 
-
-Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
-
- | 
-
-Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
-
+|  | Wraith Path: Twisted Puppets  
+(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
 Puppets deal 20 _typeless_ damage with no innate investment scaling and 11 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
 
  |
-|  | 
-
-Burning Puppets  
-(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
-
- | 
-
-Your puppets can now inflict burn and fire-based Talents when they explode.
-
- | 
-
-Gives your Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm. Additionally, your Puppets apply Puppet Burn on hit, allowing them to spawn more Puppets.
-
- |
-|  | 
-
-Explosive Rage  
-(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
-
- | 
-
-Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
-
- | 
-
-Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. All Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura on the Puppets.
+|  | Burning Puppets  
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast) | Your puppets can now inflict burn and fire-based Talents when they explode. | Gives your Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm. Additionally, your Puppets apply Puppet Burn on hit, allowing them to spawn more Puppets. |
+|  | Explosive Rage  
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast) | Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage. | Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. All Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura on the Puppets.
 
 The damage buff currently does not work.
 
  |
-|  | 
-
-Moths to a Flame  
-(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
-
- | 
-
-You summon a puppet of black flames that homes onto enemies with black flames.
-
- | 
-
-Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet movement speed when they get near a burning target.
-
- |
-|  | 
-
-Burning Sacrifice  
-(Wraith Path: Twisted Puppets, Emperor Flame)
-
- | 
-
-Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks, a damage boost per puppet, and a slight speed boost.
-
- | 
-
-Burning Sacrifice is an active ability in the form of a Talent tool. On use, you Gain +4% damage (caps at 12%), a speed boost, and 1 Emperor Flame Stack per Puppet sacrificed. These buffs last 6 seconds.
+|  | Moths to a Flame  
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast) | You summon a puppet of black flames that homes onto enemies with black flames. | Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet movement speed when they get near a burning target. |
+|  | Burning Sacrifice  
+(Wraith Path: Twisted Puppets, Emperor Flame) | Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks, a damage boost per puppet, and a slight speed boost. | Burning Sacrifice is an active ability in the form of a Talent tool. On use, you Gain +4% damage (caps at 12%), a speed boost, and 1 Emperor Flame Stack per Puppet sacrificed. These buffs last 6 seconds.
 
 Puppets turn purple if they've been alive for 15 seconds, signifying that they only have 10 seconds left to live.
 
@@ -1898,37 +1321,13 @@ These Talents are found in the _Vaporborne_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-|  | 
-Flashboil  
-(30 Flamecharm, 30 Frostdraw)
-
- | 
-
-Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
-
- | 
-
-Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.
-
+|  | Flashboil  
+(30 Flamecharm, 30 Frostdraw) | Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam. | Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.
 Steam clouds deal 2 damage per tick, in an AoE, at a rate similar to burn's, and are unparryable, unblockable, and bypass armor resistances. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.
 
  |
-|  | 
-
-Boiling Point  
-(Flashboil)
-
- | 
-
-Using a fire mantra near your own steam cloud detonates it
-
- | 
-
-Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE.
-
- |
-
-  
+|  | Boiling Point  
+(Flashboil) | Using a fire mantra near your own steam cloud detonates it | Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE. |
 
 ## Trivia
 

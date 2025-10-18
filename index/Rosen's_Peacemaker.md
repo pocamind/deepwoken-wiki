@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 162207
+revid: 167020
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -16,7 +16,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with T
 | scaling | MED: 8 |
 | range | 8 |
 | swing speed | 1x |
-| special effect | Rosen's Technique - Your Tactical Reload Talent has a 30 second shorter cooldown. |
+| special effect | Rosen's Technique - Your Tactical Reload Talent has a 45 second shorter cooldown. |
 | m.equip | Yes |
 | m.extract | Yes |
 | stances | 2 Handed |
@@ -37,7 +37,7 @@ Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing att
 
 ### Talent: Rosen's Technique
 
-Reduces the cooldown of your [Tactical Reload](Talents.md#marksman) Talent by 30 seconds; from 90 seconds to 60.
+Reduces the cooldown of your [Tactical Reload](Talents.md#marksman) Talent by 45 seconds; from 90 seconds to 45.
 
 ## Critical
 

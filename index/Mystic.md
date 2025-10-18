@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 163762
+revid: 167036
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -155,6 +155,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Bloodrender_ (First Blood, Crimson Fountain, Sanguine Siphon, Sheltering Grasp) **(Note; Cannot give Hemorrhaging Blow, Rush Hour)**
 -   _Bloodhound_ (Bloodwarden's Sense) **(Note; Cannot give Smell of Blood)**
 -   _Quack Doctor_ (Blood Bag, Just a Taste, Open Wound) **(Note; Cannot give Blood Transfusion)**
+-   _Sanguine Wager_ (Enhanced Flow, Torture Mastery)
 -   _Scarlet Donor_ (Blood Bank, Donation Drive, Sharing is Caring)
 -   _Septicemia_ (Hemolysis, Hemolytic Transfusion, Juicy Snack, Tainted Ground, Vasculitis, Can give: Gruesome Harvest) **(Note; Cannot give Panacea)**
 -   _Transitory Vitality_ (Cyclical Exsanguination, Embolism, Hypovolemic Focus) **(Note; Cannot give Sow and Mend - and Sow and Mend is needed for this tree to appear)**
@@ -189,7 +190,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Ironsinger_ (Alloyblood, Heavy Shoulders, Ironclad Punishment, Laced Traps, Metal Shackles, Oh The Irony, Piercing Metal, Thornmail)
 -   _Adaptive Arsenal_ (Exposed Durability) **(Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**
 -   _Metallurgist_ (Intuitive Repairs, Metal Absorption, Metal Eater, Metal Thief, Polished Armor)
--   _Rending Needle_ (Conductor's Cable) **(Note; Cannot give Rending Needle: Conductor (this is needed for the dialogue to show up), Rending Needle: Impaler, Rending Needle: Jailer)**
+-   _Rending Needle_ (Conductor's Cable) **(Note; Cannot give Rending Needle: Armement, Rending Needle: Conductor (this is needed for the dialogue to show up), Rending Needle: Impaler, Rending Needle: Jailer)**
 -   _Scrapsinger_ (Gilded Path: Scrapsinger, Refine and Reuse, Artisan's Blade, Songs Unforged, Reshape and Remold) **(Note; Cannot give Masterwork)**
 
 ### [Galebreathe](Galebreathe.md)

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 164605
+revid: 167033
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -159,7 +159,7 @@ The Summer Company cannon
 ### _The Cannon_
 
 -   An enormous cannon lying on the cliffs on the Summer Isle. If a player has negative reputation, the Summer Company will aim the cannon at them, and fire. It fires a hit-scan projectile, that launches players far away, deals a large amount of damage. A horn will play before firing, alerting the player to their imminent demise. The cannon will NOT fire if the player is swimming. If the player is sailing or on the island in front of summer isle, it will fire.
--   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then interact with the door at the base of it, and it shoots you over to the Songseeker Wilds.
+-   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then interact with the door at the base of it, and it shoots you over to the Songseeker Wilds. Upon interacting you will fly across the luminant with fire surrounding you as if you were a meteor.
 
 ### _[The Hidden Grove](The_Hidden_Grove.md)_
 
@@ -213,26 +213,12 @@ Items and equipment that can be directly bought with currency.
 
 #### _Items_
 
--   Encyclopedia
--   Math Textbook
--   [How to Make Friends](How_to_Make_Friends.md)
--   Weapon Manual
 -   [Hunter's Brace](<Hunter's_Brace.md>)
--   Self-Conducting Loop
--   Pure Heart
--   Hermafrost
--   Gale Kata
--   Hearthgem
--   Ferrofluid
--   Prayer Beads
--   Ankle Weights
--   Training Vest
--   Dumbbell
--   Wood
--   Cloth
--   Fiber
--   Flint
--   Bullet
+-   [Wood](Wood.md)
+-   [Cloth](Cloth.md)
+-   [Fiber](Fiber.md)
+-   [Flint](Flint.md)
+-   [Bullets](Bullet_Casings.md)
 
 #### _Blueprints_
 
@@ -251,25 +237,34 @@ Items and equipment that can be obtained from loot chests.
 
 #### _Weapons_
 
--   [Trident Spear](Trident_Spear.md) (0-1 star)
--   [Cavalry Saber](Cavalry_Saber.md) (0-1 star)
--   [Forge Greathammer](Forge_Greathammer.md)(0-1 star)
+-   [Trident Spear](Trident_Spear.md)
+-   [Cavalry Saber](Cavalry_Saber.md)
+-   [Forge Greathammer](Forge_Greathammer.md)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Serpent's Edge](<Serpent's_Edge.md>) (0-3 star) - Also with a higher chance of being enchanted.
--   [Iron Cestus](Iron_Cestus.md)(0-3 star)
+-   [Serpent's Edge](<Serpent's_Edge.md>)
+-   [Iron Cestus](Iron_Cestus.md)
 -   [Ritual Spear](Ritual_Spear.md)
--   [Dawnshot](Dawnshot.md) (0-2(1?) star)
--   Rockmaller
+-   [Dawnshot](Dawnshot.md)
+-   [Rockmaller](Rockmaller.md)
+-   [The Barrel](The_Barrel.md)
+-   [Summer Hullwrecker](Summer_Hullwrecker.md)
 
 #### _Equipment_
 
--   Practitioner's Earrings(0-1 star)
--   Burgundy/Beige/Slate Tophat (0-2 star)
--   Burgundy/Beige/Slate Aristocrat Coat (0-3 star)
--   Novice Boots
--   Rebel's Bandana (0-2 star)
--   (Emerald, Rose, Scarlet, Shade, Silver & Onyx) Fleet Warden Cape
--   Red Headband
+-   [Practicioner's Earrings](<Practicioner's_Earrings.md>)
+-   [Tophat](Tophat.md) (all variants)
+-   [Aristocrat Coat](Aristocrat_Coat.md) (all variants)
+-   [Novice Boots](Novice_Boots.md)
+-   [Rebel's Bandana](<Rebel's_Bandana.md>)
+-   [Fleet Warden Cape](Fleet_Warden_Cape.md) (all variants)
+-   [Headband](Headband.md) (red)
+-   [Armorer's Ring](<Armorer's_Ring.md>)
+-   [Dawnfist's Ring](<Dawnfist's_Ring.md>)
+-   [Rosen's Ring](<Rosen's_Ring.md>)
+-   [Bloodiron Ring](Bloodiron_Ring.md)
+-   [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
+-   [Ring of Wisps](Ring_of_Wisps.md)
+-   [Ring of Pestilence](Ring_of_Pestilence.md)
 
 #### _Treasury_
 
@@ -282,21 +277,11 @@ Items and equipment that can be obtained from loot chests.
 #### _Blueprints_
 
 -   [Hive Drone](Hive_Drone.md)
--   [Hive Tactician](Hive_Tactician_Armor.md)
+-   [Hive Tactician Armor](Hive_Tactician_Armor.md)
 -   [Summer Company Uniform](Summer_Company_Uniform.md)
 -   [Verdant Sniper](Verdant_Sniper.md)
 -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
 -   [Darksteel Plate](Darksteel_Plate.md)
-
-#### _Rings_
-
--   Armorer's Ring
--   Dawnfist's Ring
--   Rosen's Ring
--   Bloodiron Ring
--   Konga's Clutch Ring
--   Ring of Wisps
--   Ring of Pestilence
 
 ## Trivia
 

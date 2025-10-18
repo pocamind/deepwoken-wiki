@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 167015
+revid: 167072
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2204,7 +2204,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
     -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds.
     -   Note that you need physical bullets in your inventory for this Talent to work.
-    -   Has a 60 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
+    -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
     -   Prerequisites: 95 Medium Weapon, Rifle Equipped
 
 ### Master Survivalist
@@ -2596,6 +2596,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Rending Needle
 
+-   _Rending Needle: Augmenter_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your [Metal Armament](Ironsing.md#metal-armament) stronger while the weapon is equipped.
+    -   Equips the [Metal Greatsword](Metal_Greatsword.md) weapon on proc.
+    -   Having Metal Greatsword equipped doubles your Metal Armament damage.
+    -   Metal Greatsword lasts 10 seconds after Rending Needle proc
+    -   Maximum amount of Iron Rods you can apply to a single target is 5.
+    -   Prerequisites: 90 Ironsing, 90 Weapon (90 Medium OR 90 Light OR 90 Heavy)
+    -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer
+
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Works as default path with exception of applying a Conductor rod after 5 normal metal rods are applied.
     -   Conductor rods last 30 seconds or until an elemental mantra is used.
@@ -2610,7 +2618,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   You can't pull out Conductor rods, nor can they be consumed with Scrapsinger.
     -   Conductor's rod on proc doesn't apply pull immunity.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer
+    -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Steals 10% of your enemy's armor durability on proc
@@ -2626,7 +2634,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Best PvE Rending Needle path due to its damage output.
     -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
+    -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
@@ -2635,7 +2643,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   When restrained, victim will have 6 second rod and pull immunity, upon jailer expire immunity will be set to 1s.
     -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc
     -   Prerequisites: Master Ironsinger, 75 Ironsing
-    -   Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Conductor
+    -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Conductor
 
 ### Saboteur
 
@@ -2772,6 +2780,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Biotic Salts count yourself as an ally.
     -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), craft 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
         -   Oath Skipping Saltchemist is generally not recommended due to how easy it is to get the materials needed for the craft.
+
+### Sanguine Wager
+
+-   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+    -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy), Rush Hour
+
+-   Torture Mastery \[Common Talent, Bloodrend Exclusive\] - Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
+    -   Prerequisites: 100 Bloodrend, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 ### Sapper
 
@@ -4046,7 +4062,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) now deal extra damage based on how much Willpower you have.
     -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals physical damage.
-    -   This deals 0.0752 damage per 1 Willpower investment, dealing 3.76 additional damage at 50 Willpower and 7.52 additional damage at 100 Willpower.
+    -   This deals 0.15 damage per 1 Willpower investment. At maximum this will deal an additional 15 damage at 100 Willpower, or up to 15.45 if you have 103 Willpower.
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
@@ -4086,6 +4102,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Finishing Slay has no cooldown, allowing for multihit criticals to benefit from it multiple times. However, finishing slay can only proc once per damage instance in a critical hit, for example if you hit three targets with your critical, Finishing Slay will only proc on one of them, and the other two will not take any additional damage.
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
+-   Forced Fulfilment: [Metal Greatsword](Metal_Greatsword.md) - Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
+
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
     -   Gain various stacking buffs scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
     -   On basic attack, gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost per combat tag you have.
@@ -4096,8 +4114,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
     -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 4 seconds, making your critical guaranteed guardbreak if it hits block.
 
--   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 30 seconds less off its cooldown.
-    -   Reduces the cooldown of Tactical Reload by 30 seconds; from 90 seconds to 60.
+-   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.
+    -   Reduces the cooldown of Tactical Reload by 45 seconds; from 90 seconds to 45.
 
 -   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
     -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.

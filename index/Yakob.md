@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 165581
+revid: 167066
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -147,7 +147,13 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The Adret salutes with pride.*</i> Seneschal!</td>
+</tr>
+<tr>
+  <td>At ease, soldier.</td>
+</tr>
+<tr>
+  <td><i>*Although on the surface, you may be bound by your ranks, you catch a glimpse of a small, earnest smile, as if you were two friends sharing a private joke among yourselves.*</i></td>
 </tr>
 <tr>
   <td>End</td>

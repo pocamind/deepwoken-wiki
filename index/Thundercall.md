@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 166447
+revid: 167057
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -949,165 +949,26 @@ These Talents are found in the _Thundercaller_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Thundercaller  
-(1 Thundercall)
-
- | 
-
-Grants you the ability to command Lightning as a Thundercaller.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Adept Thundercaller  
-(20 Thundercall)
-
- | 
-
-You can now obtain 1-star Thundercaller mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Expert Thundercaller  
-(30 Thundercall)
-
- | 
-
-You can now obtain 2-star Thundercaller mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Master Thundercaller  
-(50 Thundercall)
-
- | 
-
-You can now obtain 3-star Thundercaller mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Discovery of Fire  
-(50 Thundercall)
-
- | 
-
-Flints and Flamecharm are for simpletons.
-
- | 
-
-Grants the "Discovery of Fire" Talent tool. Using Discovery of Fire lights all nearby campfires, and burns people close by.
-
- |
-| 
-
- | 
-
-Kickstart  
-(50 Thundercall, 40 Fortitude OR 40 Charisma)
-
- | 
-
-Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
-
- | 
-
-Grants the "Kickstart" Talent tool. Using Kickstart near a knocked player allows you to resuscitate them early, restoring 10% of their maximum health.
-
- |
-| 
-
- | 
-
-Shocking Finish  
-(30 Thundercall, Lightning Beam)
-
- | 
-
-Following a flourish up with a lightning beam causes it to be casted instantly.
-
- | 
-
-This works on Talents that force a flourish such as Emperor Flame.
-
- |
-| 
-
- | 
-
-Stratoshock  
-(35 Thundercall)
-
- | 
-
-Your lightning deals an additional +5% damage when in the rain.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Static Fakeout  
-(35 Thundercall, 30 Agility)
-
- | 
-
-Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Static Flash Clone  
-(35 Thundercall, 30 Agility, Lightning Clones)
-
- | 
-
-When using lightning clones you disappear leaving behind a static clone for a short duration.
-
- | 
-
-N/A
-
- |
+|  | Thundercaller  
+(1 Thundercall) | Grants you the ability to command Lightning as a Thundercaller. | N/A |
+|  | Adept Thundercaller  
+(20 Thundercall) | You can now obtain 1-star Thundercaller mantras. | N/A |
+|  | Expert Thundercaller  
+(30 Thundercall) | You can now obtain 2-star Thundercaller mantras. | N/A |
+|  | Master Thundercaller  
+(50 Thundercall) | You can now obtain 3-star Thundercaller mantras. (+5 Health) | N/A |
+|  | Discovery of Fire  
+(50 Thundercall) | Flints and Flamecharm are for simpletons. | Grants the "Discovery of Fire" Talent tool. Using Discovery of Fire lights all nearby campfires, and burns people close by. Deals 3 Thundercall damage on hit with no Thundercall scaling. Has a 1 second delay between activation and the lightning strike occurring, allowing you to movestack this ability with most attacks. |
+|  | Kickstart  
+(50 Thundercall, 40 Fortitude OR 40 Charisma) | Play the resurrector. Use your lightning to defibrillate your allies on the battlefield. | Grants the "Kickstart" Talent tool. Using Kickstart near a knocked player allows you to resuscitate them early, restoring 10% of their maximum health. |
+|  | Shocking Finish  
+(30 Thundercall, Lightning Beam) | Following a flourish up with a lightning beam causes it to be casted instantly. | This works on Talents that force a flourish such as Emperor Flame. |
+|  | Stratoshock  
+(35 Thundercall) | Your lightning deals an additional +5% damage when in the rain. | N/A |
+|  | Static Fakeout  
+(35 Thundercall, 30 Agility) | Roll cancelling immediately after a parry will cause you to teleport behind your opponent. | N/A |
+|  | Static Flash Clone  
+(35 Thundercall, 30 Agility, Lightning Clones) | When using lightning clones you disappear leaving behind a static clone for a short duration. | N/A |
 
 **Authority Interrogator:**
 
@@ -1115,69 +976,14 @@ These Talents are found in the _Authority Interrogator_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Resolve Crusher  
-(65 Thundercall, POWER 13)
-
- | 
-
-Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lighting damage, but will deal 10% less damage to you.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Authority Intimidation  
-(60 Thundercall, POWER 10)
-
- | 
-
-All moves that apply electricity slow the opponent more.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-First Interrogation  
-(65 Thundercall, POWER 13)
-
- | 
-
-Electrified attacks do 50% less posture damage to you.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Second Interrogation  
-(65 Thundercall, POWER 13)
-
- | 
-
-Attacks from opponents who are Electrified will give you ether proportional to their initial damage. Electrified attacks do 50% less damage and posture damage to you.
-
- | 
-
-N/A
-
- |
+|  | Resolve Crusher  
+(65 Thundercall, POWER 13) | Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lighting damage, but will deal 10% less damage to you. | N/A |
+|  | Authority Intimidation  
+(60 Thundercall, POWER 10) | All moves that apply electricity slow the opponent more. | N/A |
+|  | First Interrogation  
+(65 Thundercall, POWER 13) | Electrified attacks do 50% less posture damage to you. | N/A |
+|  | Second Interrogation  
+(65 Thundercall, POWER 13) | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. Electrified attacks do 50% less damage and posture damage to you. | N/A |
 
 **Javelin Lord:**
 
@@ -1185,21 +991,8 @@ These Talents are found in the _Javelin Lord_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Grand Skewer  
-(60 Thundercall, Grand Javelin)
-
- | 
-
-Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate)
-
- | 
-
-Pressing F during the windup for Grand Javelin changes it to carry those it hits, as opposed to ragdolling them.
-
- |
+|  | Grand Skewer  
+(60 Thundercall, Grand Javelin) | Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate) | Pressing F (block) during the windup for Grand Javelin changes it to carry those it hits, as opposed to ragdolling them. |
 
 **Rampant Static:**
 
@@ -1207,21 +1000,8 @@ These Talents are found in the _Rampant Static_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Jolting Current  
-(35 Thundercall)
-
- | 
-
-Your lightning attacks in water strike others near them with lightning.
-
- | 
-
-Grants +4 Ether.
-
- |
+|  | Jolting Current  
+(35 Thundercall) | Your lightning attacks in water strike others near them with lightning. | Grants +4 Ether. |
 
 **Self-Shocker:**
 
@@ -1229,53 +1009,12 @@ These Talents are found in the _Self-Shocker_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Static Withdraw  
-(25 Thundercall)
-
- | 
-
-When being carried use this Talent to shock your captor, forcing them to drop you.
-
- | 
-
-Grants the utility "Static Withdraw". Using Static Withdraw while being carried forces you to be dropped.
-
- |
-| 
-
- | 
-
-Jumpstart  
-(35 Thundercall, Static Withdraw)
-
- | 
-
-Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken.
-
- | 
-
-Grants +4 Ether. Allows Static Withdraw to be used without being knocked. Using Static Withdraw without being knocked damages you and grants a small outgoing damage and speed buff for a short duration.
-
- |
-| 
-
- | 
-
-Raging Static  
-(35 Thundercall, Jumpstart)
-
- | 
-
-Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
-
- | 
-
-Grants +4 Ether. Removes the speed buffs from Jumpstart, but reduces the self damage on use and increases the damage buffs in return.
-
- |
+|  | Static Withdraw  
+(25 Thundercall) | When being carried use this Talent to shock your captor, forcing them to drop you. | Grants the utility "Static Withdraw". Using Static Withdraw while being carried forces you to be dropped. |
+|  | Jumpstart  
+(35 Thundercall, Static Withdraw) | Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. | Grants +4 Ether. Allows Static Withdraw to be used without being knocked. Using Static Withdraw without being knocked damages you and grants a small outgoing damage and speed buff for a short duration. |
+|  | Raging Static  
+(35 Thundercall, Jumpstart) | Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart. | Grants +4 Ether. Removes the speed buffs from Jumpstart, but reduces the self damage on use and increases the damage buffs in return. |
 
 **Shock Therapy:**
 
@@ -1283,19 +1022,8 @@ These Talents are found in the _Shock Therapy_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Grounding Bolt  
-(90 Thundercall, 90 Weapon)
-
- | 
-
-Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
-
- | 
-
- |
+|  | Grounding Bolt  
+(90 Thundercall, 90 Weapon) | Anytime you summon a lightning strike on your opponent, apply knockdown if it lands. | Has a 10 second cooldown. Only lightning strikes from the following abilities proc this Talent: [Shock Trooper Specialist](Specialist_Helmet.md) set Talent, [Volt Draft](Specialist_Helmet.md) Talent, [Scorched Peak](Talents.md#heat-lightning), and [Fulgurite Formation](Talents.md#frozen-lightning). |
 
 **Static Weaver:**
 
@@ -1303,85 +1031,16 @@ These Talents are found in the _Static Weaver_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Static Link  
-(40 Thundercall, 15 Intelligence)
-
- | 
-
-Flourishing or uppercutting an enemy creates a static link between you and your enemy.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Jumper Cables  
-(40 Thundercall, 20 Fortitude, Static Link)
-
- | 
-
-Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
-
- | 
-
-Grants +1 Ether.
-
- |
-| 
-
- | 
-
-Link Conduction  
-(65 Thundercall, 15 Intelligence, Static Link)
-
- | 
-
-While you have active tethers your lightning mantras cost less ether.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Static Ace  
-(70 Thundercall, 15 Intelligence, Static Link)
-
- | 
-
-Using lightning stream with an active tether link targets your closest active link.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Static Allure  
-(50 Thundercall, Static Link)
-
- | 
-
-Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
-
- | 
-
-N/A
-
- |
+|  | Static Link  
+(40 Thundercall, 15 Intelligence) | Flourishing or uppercutting an enemy creates a static link between you and your enemy. | N/A |
+|  | Jumper Cables  
+(40 Thundercall, 20 Fortitude, Static Link) | Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked. | Grants +1 Ether. |
+|  | Link Conduction  
+(65 Thundercall, 15 Intelligence, Static Link) | While you have active tethers your lightning mantras cost less ether. | N/A |
+|  | Static Ace  
+(70 Thundercall, 15 Intelligence, Static Link) | Using lightning stream with an active tether link targets your closest active link. | N/A |
+|  | Static Allure  
+(50 Thundercall, Static Link) | Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. | N/A |
 
 **Thunderblade:**
 
@@ -1389,53 +1048,12 @@ These Talents are found in the _Thunderblade_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Gathering Electricity  
-(65 Thundercall, 25 Strength OR Agility, Static Blade)
-
- | 
-
-\[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (+10 Carry Load)
-
- | 
-
-Increases the base damage of all weapons and criticals by 3 for the duration of its effect. You can gain Static Blade charges while this effect is active or on cooldown.
-
- |
-| 
-
- | 
-
-Overcharge  
-(45 Thundercall, Gathering Electricity)
-
- | 
-
-Your next dash after activating Static Blade is enhanced by lightning.
-
- | 
-
-Lightning dashes go much further and have increased i-frames. Your lightning dash will end early should you attempt to attack.
-
- |
-| 
-
- | 
-
-Static Blade  
-(40 Thundercall, 20 Medium Weapon)
-
- | 
-
-\[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times.
-
- | 
-
-Stacks are gained from being parried, not from parrying. Each stack grants an ~2.5% speed boost and lasts 15 seconds.
-
- |
+|  | Gathering Electricity  
+(65 Thundercall, 25 Strength OR Agility, Static Blade) | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (+10 Carry Load) | Increases the base damage of all weapons and criticals by 3 for the duration of its effect. You can gain Static Blade charges while this effect is active or on cooldown. |
+|  | Overcharge  
+(45 Thundercall, Gathering Electricity) | Your next dash after activating Static Blade is enhanced by lightning. | Lightning dashes go much further and have increased i-frames. Your lightning dash will end early should you attempt to attack. |
+|  | Static Blade  
+(40 Thundercall, 20 Medium Weapon) | \[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. | Stacks are gained from being parried, not from parrying. Each stack grants an ~2.5% speed boost and lasts 15 seconds. |
 
 **Thunder Brawler:**
 
@@ -1443,21 +1061,8 @@ These Talents are found in the _Thunder Brawler_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Discharge  
-(20 Thundercall, 20 Light Weapon)
-
- | 
-
-\[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
-
- | 
-
-Deals Thundercall damage and applies 1 Surge Rod or Shock on proc.
-
- |
+|  | Discharge  
+(20 Thundercall, 20 Light Weapon) | \[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load) | Deals Thundercall damage and applies 1 Surge Rod or Shock on proc. |
 
 **Thunder Caster:**
 
@@ -1465,37 +1070,10 @@ These Talents are found in the _Thunder Caster_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Rain of Static  
-(30 Thundercall, Lightning Impact)
-
- | 
-
-After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.
-
- | 
-
-Grants +7 Carry Load. Modifies the mantra Lightning Impact, increasing it's duration but grants it a ranged attack.
-
- |
-| 
-
- | 
-
-Windup Battery  
-(30 Thundercall, 30 Intelligence)
-
- | 
-
-Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
-
- | 
-
-The windup reduction effect can be applied to non-Thundercall Mantras.
-
- |
+|  | Rain of Static  
+(30 Thundercall, Lightning Impact) | After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. | Grants +7 Carry Load. Modifies the mantra Lightning Impact, increasing it's duration but grants it a ranged attack. |
+|  | Windup Battery  
+(30 Thundercall, 30 Intelligence) | Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load) | The windup reduction effect can be applied to non-Thundercall Mantras. |
 
 **Unstable Capacitor:**
 
@@ -1503,88 +1081,19 @@ These Talents are found in the _Surge Path: Unstable Capacitor_ category.
 
 | Media | Talents | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Surge Path: Unstable Capacitor  
-(40 Thundercall)
-
- | 
-
-Your lightning no longer applies Shock, instead applying Surge. At maximum statics of Surge, your opponents will Overload, sending arcs of lightning in every direction.
-
- | 
-
-Attacks that normally apply Shock apply 1 Surge stack instead. Surge stacks are global status effects, meaning anyone with the path can utilize it, and each stack lasts 30 seconds.  
+|  | Surge Path: Unstable Capacitor  
+(40 Thundercall) | Your lightning no longer applies Shock, instead applying Surge. At maximum statics of Surge, your opponents will Overload, sending arcs of lightning in every direction. | Attacks that normally apply Shock apply 1 Surge stack instead. Surge stacks are global status effects, meaning anyone with the path can utilize it, and each stack lasts 30 seconds.  
 After applying 5 Surge stacks, land any move that would apply another to Overload the stacks.  
-Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and has an AoE that deals 2 damage per Surge stack, the AoE cannot hit the Overloaded target without the talent Closed Circuit.
-
- |
-| 
-
- | 
-
-Fried Circuits  
-(60 Thundercall)
-
- | 
-
-Overloading an enemy applies Sapped for 5s.
-
- | 
-
-The 'Sapped' effect causes the duration of the victims' mantra cooldowns to increase.
-
- |
-| 
-
- | 
-
-Closed Circuit  
-(50 Thundercall)
-
- | 
-
-Surge Overloads that fail to arc the other opponents will deal additional damage to the Overloaded enemy.
-
- | 
-
-Adds 5 damage with 5 Thundercall scaling to the Overload. Allows Overloads to hit the overloaded enemy.
-
- |
-| 
-
- | 
-
-Catalytic Strike  
-(50 Thundercall)
-
- | 
-
-Posture breaking an enemy will Overload their Surge stacks.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Human Battery  
-(60 Thundercall)
-
- | 
-
-When you're out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
-
- | 
-
-Each Surge stack equates to 10 Ether.  
-Works on Surge stacks that weren't applied by you. Does not work on Surge stacks applied to yourself.
-
- |
+Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and has an AoE that deals 2 damage per Surge stack, the AoE cannot hit the Overloaded target without the talent Closed Circuit. |
+|  | Fried Circuits  
+(60 Thundercall) | Overloading an enemy applies Sapped for 5s. | The 'Sapped' effect causes the duration of the victims' mantra cooldowns to increase. |
+|  | Closed Circuit  
+(50 Thundercall) | Surge Overloads that fail to arc the other opponents will deal additional damage to the Overloaded enemy. | Adds 5 damage with 5 Thundercall scaling to the Overload. Allows Overloads to hit the overloaded enemy. |
+|  | Catalytic Strike  
+(50 Thundercall) | Posture breaking an enemy will Overload their Surge stacks. | N/A |
+|  | Human Battery  
+(60 Thundercall) | When you're out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras. | Each Surge stack equates to 10 Ether.  
+Works on Surge stacks that weren't applied by you. Does not work on Surge stacks applied to yourself. |
 
 ## Trivia
 

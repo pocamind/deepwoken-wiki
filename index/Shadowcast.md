@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 165511
+revid: 167055
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -927,149 +927,26 @@ These are Talents found in the **Shadowcaster** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Shadowcaster  
-(1 Shadowcast)
-
- | 
-
-Harnesss the power of Shadow in your Mantra crafting.
-
- |  |
-| 
-
- | 
-
-Adept Shadowcaster  
-(20 Shadowcast)
-
- | 
-
-You can now obtain 1-Star Leveled Shadowcaster Mantras.
-
- |  |
-| 
-
- | 
-
-Expert Shadowcaster  
-(30 Shadowcast)
-
- | 
-
-You can now obtain 2-Star Leveled Shadowcaster Mantras.
-
- |  |
-| 
-
- | 
-
-Master Shadowcaster  
-(50 Shadowcast)
-
- | 
-
-You can now obtain 3-Star Leveled Shadowcaster Mantras. (+5 Health)
-
- |  |
-| 
-
- | 
-
-Shadow Travel  
-(75 Shadowcast, Dark God)
-
- | 
-
-Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
-
- | 
-
-Grants a Talent tool that allows the user to teleport to their cursor's location after a long windup. Takes Ether on teleport with the Ether cost being based on distance traveled, farther distances require a health cost instead. Windup scales on distance traveled.
-
- |
-| 
-
- | 
-
-Blossoming Darkness  
-(30 Shadowcast, Shadow Roar)
-
- | 
-
-Ether drained during Shadow Roar increases the size of it.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Fear the Dark  
-(50 Shadowcast)
-
- | 
-
-Enemies will briefly hang in place when they run from you.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Lasting Sorrow  
-(50 Shadowcast)
-
- | 
-
-Shadow lasts longer on your opponent.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Sightless Still  
-(30 Shadowcast)
-
- | 
-
-The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow Mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Singularity  
-(40 Shadowcast)
-
- | 
-
-Enemies will briefly hang in place when hit by a shadow move.
-
- | 
-
-N/A
-
- |
+|  | Shadowcaster  
+(1 Shadowcast) | Harnesss the power of Shadow in your Mantra crafting. |  |
+|  | Adept Shadowcaster  
+(20 Shadowcast) | You can now obtain 1-Star Leveled Shadowcaster Mantras. |  |
+|  | Expert Shadowcaster  
+(30 Shadowcast) | You can now obtain 2-Star Leveled Shadowcaster Mantras. |  |
+|  | Master Shadowcaster  
+(50 Shadowcast) | You can now obtain 3-Star Leveled Shadowcaster Mantras. (+5 Health) |  |
+|  | Shadow Travel  
+(75 Shadowcast, Dark God) | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. | Grants a Talent tool that allows the user to teleport to their cursor's location after a long windup. Takes Ether on teleport with the Ether cost being based on distance traveled, farther distances require a health cost instead. Windup scales on distance traveled. |
+|  | Blossoming Darkness  
+(30 Shadowcast, Shadow Roar) | Ether drained during Shadow Roar increases the size of it. | N/A |
+|  | Fear the Dark  
+(50 Shadowcast) | Enemies will briefly hang in place when they run from you. | N/A |
+|  | Lasting Sorrow  
+(50 Shadowcast) | Shadow lasts longer on your opponent. | N/A |
+|  | Sightless Still  
+(30 Shadowcast) | The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow Mantras. | N/A |
+|  | Singularity  
+(40 Shadowcast) | Enemies will briefly hang in place when hit by a shadow move. | N/A |
 
 **Darksiphon:**
 
@@ -1077,147 +954,25 @@ These are Talents found in the **Darksiphon** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Dark God  
-(20 Shadowcast)
-
- | 
-
-If a shadowcast Mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
-
- | 
-
-N/A
-
+|  | Dark God  
+(20 Shadowcast) | If a shadowcast Mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. | N/A |
+|  | Dark Hours  
+(35 Shadowcast) | Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach. | Shadowcast Mantras deal 15% more damage at night or in [The Depths](The_Depths.md). |
+|  | Dark Synergy  
+(45 Shadowcast, Dark God) | Engulf your enemy in shadows when flourishing them. | N/A |
+|  | Dark Replenishment  
+(50 Shadowcast, 25 Intelligence, Dark God) | Knocking out an enemy in combat restores a portion of your Ether. | N/A |
+|  | Dark Rift  
+(60 Shadowcast, Dark Hours) | Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. | Lasts 1.8 seconds with a 20 second cooldown. Activates at the same time as [Risky Moves](Talents.md#butterfly) and [Ghost](Talents.md#butterfly). |
+|  | Dark Waltz  
+(90 Shadowcast, 90 Weapon) | Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. | On weapon guardbreak, steal 50% of your opponent's current Tempo. |
+|  | Night Terror  
+(100 Shadowcast, 100 Weapon, Fear the Dark) | Your light attacks now proc Fear the Dark. | 
  |
-| 
-
- | 
-
-Dark Hours  
-(35 Shadowcast)
-
- | 
-
-Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
-
- | 
-
-Shadowcast Mantras deal 15% more damage at night or in [The Depths](The_Depths.md).
-
- |
-| 
-
- | 
-
-Dark Synergy  
-(45 Shadowcast, Dark God)
-
- | 
-
-Engulf your enemy in shadows when flourishing them.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Dark Replenishment  
-(50 Shadowcast, 25 Intelligence, Dark God)
-
- | 
-
-Knocking out an enemy in combat restores a portion of your Ether.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Dark Rift  
-(60 Shadowcast, Dark Hours)
-
- | 
-
-Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
-
- | 
-
-Lasts 1.8 seconds with a 20 second cooldown. Activates at the same time as [Risky Moves](Talents.md#butterfly) and [Ghost](Talents.md#butterfly).
-
- |
-| 
-
- | 
-
-Dark Waltz  
-(90 Shadowcast, 90 Weapon)
-
- | 
-
-Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.
-
- | 
-
-On weapon guardbreak, steal 50% of your opponent's current Tempo.
-
- |
-| 
-
- | 
-
-Night Terror  
-(100 Shadowcast, 100 Weapon, Fear the Dark)
-
- | 
-
-Your light attacks now proc Fear the Dark.
-
- | 
-
- |
-| 
-
- | 
-
-Overwhelming Drain  
-(40 Shadowcast, Shadow Eruption)
-
- | 
-
-If multiple enemies are hit by your Shadow Eruption, they are dazed.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Shadow Overflow  
-(55 Shadowcast, Dark God)
-
- | 
-
-Extra Ether stolen with Mantras are exerted as dark energy, damaging and absorbing Ether from those nearby.
-
- | 
-
-N/A
-
- |
+|  | Overwhelming Drain  
+(40 Shadowcast, Shadow Eruption) | If multiple enemies are hit by your Shadow Eruption, they are dazed. | N/A |
+|  | Shadow Overflow  
+(55 Shadowcast, Dark God) | Extra Ether stolen with Mantras are exerted as dark energy, damaging and absorbing Ether from those nearby. | N/A |
 
 **Death Speaker:**
 
@@ -1225,37 +980,10 @@ These are Talents found in the **Death Speaker** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Blackhole  
-(60 Shadowcast, POWER 13, Singularity)
-
- | 
-
-Your singularity pulls everyone nearby in.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Energy Siphon  
-(65 Shadowcast, Singularity)
-
- | 
-
-Your singularity now pulls Ether from the extra players affected.
-
- | 
-
-N/A
-
- |
+|  | Blackhole  
+(60 Shadowcast, POWER 13, Singularity) | Your singularity pulls everyone nearby in. | N/A |
+|  | Energy Siphon  
+(65 Shadowcast, Singularity) | Your singularity now pulls Ether from the extra players affected. | N/A |
 
 **Evil Endeavors:**
 
@@ -1263,21 +991,8 @@ These are Talents found in the **Evil Endeavors** category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Reverse Leech  
-(60 Shadowcast, Behind You)
-
- | 
-
-Anytime you proc Behind You, steal ether from your opponent too.
-
- | 
-
-Behind You is procced by feinting a Mantra then hitting your opponent's back with a basic attack.
-
- |
+|  | Reverse Leech  
+(60 Shadowcast, Behind You) | Anytime you proc Behind You, steal ether from your opponent too. | Behind You is procced by feinting a Mantra then hitting your opponent's back with a basic attack. |
 
 **Twisted Puppets:**
 
@@ -1285,77 +1000,23 @@ These Talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-|  | 
-Wraith Path: Twisted Puppets  
-(40 Flamecharm, 40 Shadowcast)
-
- | 
-
-Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
-
- | 
-
-Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
-
+|  | Wraith Path: Twisted Puppets  
+(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
 Puppets deal 20 _typeless_ damage with no innate investment scaling and 11 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
 
  |
-|  | 
-
-Burning Puppets  
-(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
-
- | 
-
-Your puppets can now inflict burn and fire-based Talents when they explode.
-
- | 
-
-Gives your Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm. Additionally, your Puppets apply Puppet Burn on hit, allowing them to spawn more Puppets.
-
- |
-|  | 
-
-Explosive Rage  
-(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
-
- | 
-
-Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
-
- | 
-
-Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. All Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura on the Puppets.
+|  | Burning Puppets  
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast) | Your puppets can now inflict burn and fire-based Talents when they explode. | Gives your Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm. Additionally, your Puppets apply Puppet Burn on hit, allowing them to spawn more Puppets. |
+|  | Explosive Rage  
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast) | Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage. | Whenever an explosion is caused from a Flamecharm talent or the [Detonation Enchant](Enchantments.md#blessings), proc this effect. All Puppets that are currently alive and all Puppets that spawn in the next 10 seconds to gain a large movement speed boost, signified by an orange swirling aura on the Puppets.
 
 The damage buff currently does not work.
 
  |
-|  | 
-
-Moths to a Flame  
-(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast)
-
- | 
-
-You summon a puppet of black flames that homes onto enemies with black flames.
-
- | 
-
-Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet movement speed when they get near a burning target.
-
- |
-|  | 
-
-Burning Sacrifice  
-(Wraith Path: Twisted Puppets, Emperor Flame)
-
- | 
-
-Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks, a damage boost per puppet, and a slight speed boost.
-
- | 
-
-Burning Sacrifice is an active ability in the form of a Talent tool. On use, you Gain +4% damage (caps at 12%), a speed boost, and 1 Emperor Flame Stack per Puppet sacrificed. These buffs last 6 seconds.
+|  | Moths to a Flame  
+(Wraith Path: Twisted Puppets, 40 Flamecharm, 40 Shadowcast) | You summon a puppet of black flames that homes onto enemies with black flames. | Your Puppets home in on targets who are burning from either of Twisted Puppets' burn types. Increases Puppet movement speed when they get near a burning target. |
+|  | Burning Sacrifice  
+(Wraith Path: Twisted Puppets, Emperor Flame) | Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks, a damage boost per puppet, and a slight speed boost. | Burning Sacrifice is an active ability in the form of a Talent tool. On use, you Gain +4% damage (caps at 12%), a speed boost, and 1 Emperor Flame Stack per Puppet sacrificed. These buffs last 6 seconds.
 
 Puppets turn purple if they've been alive for 15 seconds, signifying that they only have 10 seconds left to live.
 

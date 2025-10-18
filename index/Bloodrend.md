@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 165349
+revid: 167045
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -824,165 +824,26 @@ These are Talents found in "_Bloodrender_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Bloodrender  
-(1 Bloodrend)
-
- | 
-
-Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
-
- | 
-
-Blood poisoning is a translucent red visual effect on your blood bar.
-
- |
-| 
-
- | 
-
-Adept Bloodrender  
-(20 Bloodrend)
-
- | 
-
-You can now obtain 1-star Bloodrender mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Expert Bloodrender  
-(30 Bloodrend)
-
- | 
-
-You can now obtain 2-star Bloodrender mantras.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Master Bloodrender  
-(50 Bloodrend)
-
- | 
-
-You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace.
-
- | 
-
-+5 Health
-
- |
-| 
-
- | 
-
-Crimson Fountain  
-(40 Bloodrend)
-
- | 
-
-Blockbreaking or flourishing an enemy now spills a pool below them.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-First Blood  
-(10 Bloodrend)
-
- | 
-
-Your first blood mantra you use in combat has no blood cost.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Hemorrhaging Blow  
-(95 Bloodrend, Master Bloodrender)
-
- | 
-
-Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds.
-
- | 
-
-The damage to healing conversion is 1:1. This applies to **all** (non passive) healing and affects healing outside of combat.
-
- |
-| 
-
- | 
-
-Rush Hour  
-(50 Bloodrend)
-
- | 
-
-Stab yourself to become stronger, faster, and deal increased blood bar damage.
-
- | 
-
-Gives you a tool that passively drains your blood and health for these buffs. While buffed, you regenerate blood m1. Rush Hour can be deactivated at any time by using the tool again.
-
- |
-| 
-
- | 
-
-Sanguine Siphon  
-(40 Bloodrend)
-
- | 
-
-Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
-
- | 
-
-The damage buff is 20%, and the buff lasts 15 seconds or until you use a Bloodrend mantra.
-
- |
-| 
-
- | 
-
-Sheltering Grasp  
-(30 Bloodrend)
-
- | 
-
-Blood mantras cast within blood pools have a reduced blood cost.
-
- | 
-
-Reduces the blood cost by around 50%.
-
- |
+|  | Bloodrender  
+(1 Bloodrend) | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. | Blood poisoning is a translucent red visual effect on your blood bar. |
+|  | Adept Bloodrender  
+(20 Bloodrend) | You can now obtain 1-star Bloodrender mantras. | N/A |
+|  | Expert Bloodrender  
+(30 Bloodrend) | You can now obtain 2-star Bloodrender mantras. | N/A |
+|  | Master Bloodrender  
+(50 Bloodrend) | You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. | +5 Health |
+|  | Crimson Fountain  
+(40 Bloodrend) | Blockbreaking or flourishing an enemy now spills a pool below them. | N/A |
+|  | First Blood  
+(10 Bloodrend) | Your first blood mantra you use in combat has no blood cost. | N/A |
+|  | Hemorrhaging Blow  
+(95 Bloodrend, Master Bloodrender) | Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds. | The damage to healing conversion is 1:1. This applies to **all** (non passive) healing and affects healing outside of combat. |
+|  | Rush Hour  
+(50 Bloodrend) | Stab yourself to become stronger, faster, and deal increased blood bar damage. | Gives you a tool that passively drains your blood and health for these buffs. While buffed, you regenerate blood m1. Rush Hour can be deactivated at any time by using the tool again. |
+|  | Sanguine Siphon  
+(40 Bloodrend) | Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra. | The damage buff is 20%, and the buff lasts 15 seconds or until you use a Bloodrend mantra. |
+|  | Sheltering Grasp  
+(30 Bloodrend) | Blood mantras cast within blood pools have a reduced blood cost. | Reduces the blood cost by around 50%. |
 
 **Bloodhound:**
 
@@ -990,37 +851,21 @@ These are Talents found in "_Bloodhound_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
+|  | Bloodwarden's Sense  
+(30 Bloodrend) | Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. | N/A |
+|  | Smell of Blood  
+(65 Bloodrend) | When people touch a blood pool, briefly see their blood and blood poison. This effect also occurs whenever you blockbreak your opponent. | Their blood current blood amount will be displayed as a percentage in Red next to their character. Similarly, their current blood poisoning amount will be displayed as a percentage in Pink next to their character. |
 
-Bloodwarden's Sense  
-(30 Bloodrend)
+**Sanguine Wager:**
 
- | 
+These are Talents found in "_Sanguine Wager_" Category.
 
-Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Smell of Blood  
-(65 Bloodrend)
-
- | 
-
-When people touch a blood pool, briefly see their blood and blood poison. This effect also occurs whenever you blockbreak your opponent.
-
- | 
-
-Their blood current blood amount will be displayed as a percentage in Red next to their character. Similarly, their current blood poisoning amount will be displayed as a percentage in Pink next to their character.
-
- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+|  | Enhanced Flow  
+(90 Bloodrend, 90 Weapon, Rush Hour) | Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour. |  |
+|  | Torture Mastery  
+(100 Bloodrend, 100 Weapon) | Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on. |  |
 
 **Scarlet Donor:**
 
@@ -1028,56 +873,16 @@ These are Talents found in "_Scarlet Donor_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Blood Bank  
-(80 Bloodrend, 40 Charisma, Manipulator)
-
- | 
-
-Consuming 'Charm' now gives slight temporary health.
-
- | 
-
-Consuming Charm via Manipulator or Donation drive gives 25 temporary health.
-
- |
-| 
-
- | 
-
-Donation Drive  
-(50 Bloodrend, 55 Charisma, Manipulator)
-
- | 
-
-Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
-
- | 
-
-Manipulator will activate when block breaking with a Bloodrend mantra. Consuming Charm via this Talent or Manipulator will replenish some blood.
-
+|  | Blood Bank  
+(80 Bloodrend, 40 Charisma, Manipulator) | Consuming 'Charm' now gives slight temporary health. | Consuming Charm via Manipulator or Donation drive gives 25 temporary health. |
+|  | Donation Drive  
+(50 Bloodrend, 55 Charisma, Manipulator) | Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra. | Manipulator will activate when block breaking with a Bloodrend mantra. Consuming Charm via this Talent or Manipulator will replenish some blood.
   
 Donation Drive's cooldown scales on your Charisma investment, having a 12 second cooldown at 20 Charisma and losing 0.1s for every point in Charisma above 20. This caps at 8 seconds with 60 Charisma.
 
  |
-| 
-
- | 
-
-Sharing is Caring  
-(50 Bloodrend, 30 Charisma, Charismatic Cast)
-
- | 
-
-Your 'Charm' on opponents also slightly increases your blood drain against them.
-
- | 
-
-N/A
-
- |
+|  | Sharing is Caring  
+(50 Bloodrend, 30 Charisma, Charismatic Cast) | Your 'Charm' on opponents also slightly increases your blood drain against them. | N/A |
 
 **Septicemia:**
 
@@ -1085,117 +890,20 @@ These are Talents found in "_Septicemia_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Gruesome Harvest  
-(85 Bloodrend)
-
- | 
-
-Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
-
- | 
-
-Grants 15 temporary health on proc with a 2 second cooldown. Temporary health gain from this Talent does does not scale with the damage dealt by the mantra that procced it.
-
- |
-| 
-
- | 
-
-Hemolysis  
-(40 Bloodrend, 25 Strength)
-
- | 
-
-Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
-
- | 
-
-This applies to people who are currently at or above 25% blood poisoning. Additionally, this buffs every hit of the critical attack, unlike Manipulator.
-
- |
-| 
-
- | 
-
-Hemolytic Transfusion  
-(65 Bloodrend)
-
- | 
-
-Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Juicy Snack  
-(60 Bloodrend, 20 Fortitude)
-
- | 
-
-Eliminating enemies returns their amount of blood poison as health to you.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Panacea  
-(60 Bloodrend)
-
- | 
-
-Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Tainted Ground  
-(30 Bloodrend)
-
- | 
-
-Enemies who stand in blood pools will not decay blood poison.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Vasculitis  
-(40 Bloodrend, 35 Intelligence)
-
- | 
-
-Your opponent cannot proc deep gems if they have over 30% blood poisoning for a brief duration (Must hit them while they are over 30% BP.)
-
- | 
-
-Hitting an opponent who is over 20% blood poisoning will completely negate the effects of their deep gems for a few seconds.
-
- |
+|  | Gruesome Harvest  
+(85 Bloodrend) | Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health. | Grants 15 temporary health on proc with a 2 second cooldown. Temporary health gain from this Talent does does not scale with the damage dealt by the mantra that procced it. |
+|  | Hemolysis  
+(40 Bloodrend, 25 Strength) | Deal 20% more critical attack damage to opponents with over 25% blood poisoning. | This applies to people who are currently at or above 25% blood poisoning. Additionally, this buffs every hit of the critical attack, unlike Manipulator. |
+|  | Hemolytic Transfusion  
+(65 Bloodrend) | Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack. | N/A |
+|  | Juicy Snack  
+(60 Bloodrend, 20 Fortitude) | Eliminating enemies returns their amount of blood poison as health to you. | N/A |
+|  | Panacea  
+(60 Bloodrend) | Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly. | N/A |
+|  | Tainted Ground  
+(30 Bloodrend) | Enemies who stand in blood pools will not decay blood poison. | N/A |
+|  | Vasculitis  
+(40 Bloodrend, 35 Intelligence) | Your opponent cannot proc deep gems if they have over 30% blood poisoning for a brief duration (Must hit them while they are over 30% BP.) | Hitting an opponent who is over 20% blood poisoning will completely negate the effects of their deep gems for a few seconds. |
 
 **Transitory Vitality:**
 
@@ -1203,69 +911,14 @@ These are Talents found in "_Transitory Vitality_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Sow and Mend  
-(60 Bloodrend, Master Bloodrender)
-
- | 
-
-Sacrifice 35% of your blood for temporary health.
-
- | 
-
-Sacrifice 35% of your blood to gain 25 temporary health. 30s cooldown.
-
- |
-| 
-
- | 
-
-Cyclical Exsanguination  
-(65 Bloodrend, Sow and Mend)
-
- | 
-
-Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
-
- | 
-
-This can be procced even if you currently have no temporary health, putting it on cooldown.
-
- |
-| 
-
- | 
-
-Embolism  
-(65 Bloodrend, Sow and Mend)
-
- | 
-
-If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Hypovolemic Focus  
-(65 Bloodrend, Sow and Mend)
-
- | 
-
-While you have temporary health, your opponent regains far less posture from parrying you.
-
- | 
-
-N/A
-
- |
+|  | Sow and Mend  
+(60 Bloodrend, Master Bloodrender) | Sacrifice 35% of your blood for temporary health. | Sacrifice 35% of your blood to gain 25 temporary health. 30s cooldown. |
+|  | Cyclical Exsanguination  
+(65 Bloodrend, Sow and Mend) | Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds. | This can be procced even if you currently have no temporary health, putting it on cooldown. |
+|  | Embolism  
+(65 Bloodrend, Sow and Mend) | If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage. | N/A |
+|  | Hypovolemic Focus  
+(65 Bloodrend, Sow and Mend) | While you have temporary health, your opponent regains far less posture from parrying you. | N/A |
 
 **Quack Doctor:**
 
@@ -1273,69 +926,14 @@ These are Talents found in "_Quack Doctor_" Category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| 
- | 
-
-Blood Bag  
-(20 Bloodrend)
-
- | 
-
-You receive extra blood from knocking an enemy.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Blood Transfusion  
-(60 Bloodrend)
-
- | 
-
-Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD)
-
- | 
-
-This works on all negative status effects, including elemental ones.
-
- |
-| 
-
- | 
-
-Just a Taste  
-(20 Bloodrend)
-
- | 
-
-First Bloodrend mantra you hit in combat has increased blood drain.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Open Wound  
-(40 Bloodrend)
-
- | 
-
-Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
-
- | 
-
-N/A
-
- |
+|  | Blood Bag  
+(20 Bloodrend) | You receive extra blood from knocking an enemy. | N/A |
+|  | Blood Transfusion  
+(60 Bloodrend) | Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar. (20 second CD) | This works on all negative status effects, including elemental ones. |
+|  | Just a Taste  
+(20 Bloodrend) | First Bloodrend mantra you hit in combat has increased blood drain. | N/A |
+|  | Open Wound  
+(40 Bloodrend) | Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras. | N/A |
 
 ## Trivia
 
@@ -1344,8 +942,9 @@ N/A
 -   Blood Poison can proc effects to an enemy upon reaching a certain percentage, here they are:
     -   25% - Hemolysis Talent is Activatable
         -   _Hemolysis_ - Deal 20% more critical attack damage.
-    -   30% - Vasculitis Talent is Activatable
+    -   30% - Vasculitis and Torture Mastery Talents are Activatable
         -   _Vasculitis_ - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 30% BP.)
+        -   Torture Mastery - Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
     -   40% - Enemies are under an Anti-Heal effect
     -   50% - Enemies have their damage reduced
     -   60% - Bloodwarden's Sense Talent is Activatable

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 166379
+revid: 167051
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -12749,9 +12749,9 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.
 -   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
-    -   Base Damage: [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) (30)
+    -   Base Damage: [Metal Greatsword](Metal_Greatsword.md) (45)
     -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md), [Lumensplitter](Lumensplitter.md) (100 HVY)
-    -   Dual Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>) (100 HVY, 60 STR)
+    -   Dual Requirement: [Metal Greatsword](Metal_Greatsword.md) (90 Weapon, 90 Ironsing) due to it requiring the [Rending Needle: Augmenter](Talents.md#rending-needle) Talent
     -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
     -   Quadruple Requirement: [Red Death](Red_Death.md) (30 MED, 35 BLD, 45 SDW, 25 MND)
     -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)

@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 165411
+revid: 167070
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, The Central Authority, Authority Enemies]
