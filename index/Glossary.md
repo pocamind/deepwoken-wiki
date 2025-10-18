@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 166889
+revid: 166989
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -33,9 +33,11 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe'
 -   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
 -   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
 -   Of these religions, the Starkindred Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
+-   Celestials modify their own bodies using the [Song](#the-song).
+-   [Kaide](#kaide-the-drowned-light) described them as the 'sole architects of \[his people's\] suffering', and seemed to scoff at the notion of them being Gods.
 -   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### Deepwoken
 
@@ -62,7 +64,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_t
 -   Their gales are said to drag even Time itself into their wake.
 -   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### The High Convocation
 
@@ -287,7 +289,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
 
 ### Vows
 
@@ -411,6 +413,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftert
 ### Constellia, the Guiding Star
 
 -   One of the largest [Celestial](#the-celestials) cities in the [Heavens](#the-heavens).
+-   Constellia was reduced to rubble 77 years after it was abandoned by its [Celestial](#the-celestials) rulers.
 -   Constellia fell to a [Kyrsan](#kyrsan) invasion.
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan](#kyrsan)
@@ -486,7 +489,7 @@ Dialogue: [Hiri](Hiri.md) | Books: [Operation 'Distant Light' Report](Books.md#o
 -   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast amounts of [Voidfog](#the-voidfog).
 
-Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Merryweather](Merryweather.md), [Tillian](Tillian.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
+Dialogue: [Armourer Kev](Armourer_Kev.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Kaide](Kaide,_the_Drowned_Light.md), [Merryweather](Merryweather.md), [Tillian](Tillian.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement), [Lumen's Folklore: 'Volume North'](Books.md#lumens-folklore-volume-north), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
 
 ### The Luminants
 
@@ -502,7 +505,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Carag
 -   The fabled city of New Kyrsa is thought to reside deep within the [Second Layer](#the-eternal-gale-the-second-layer)
 -   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
 
-Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light)
+Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Mendacia](Mendacia.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light)
 
 ### The Nightsea
 

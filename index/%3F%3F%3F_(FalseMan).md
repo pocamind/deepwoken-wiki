@@ -1,6 +1,6 @@
 ---
 title: ??? (FalseMan)
-revid: 142929
+revid: 166984
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -26,7 +26,7 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*;#%#$%^*$@#@#@##@#%@#%@#</td>
+  <td colspan="12">;#%#$%^*$##%#</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 166881
+revid: 166966
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
@@ -132,6 +132,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   You do not have to place the barrels onto your boat, you only need to pick them up and put them back down again.
         -   The boat will spawn once you reach the map marker, make sure you have your graphics turned up high enough to see it.
         -   The smuggler ship is a moving ship, which isn't modeled after any player-accessible boats.
+        -   Barrels do not despawn after the mission is done, which results in the ship being bugged.
 
 ### Mission Lootpool
 

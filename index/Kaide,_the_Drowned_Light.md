@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 166680
+revid: 166975
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -38,13 +38,13 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
   <td colspan="36">What are you?</td>
 </tr>
 <tr>
-  <td colspan="36">A distinct lack of manners, though it's not like I'm surprised. I suppose my people do not often touch the <a href="Glossary.md#the-surface">Surface</a> to make contact with your kind. I am Lightborn, child of Man and <a href="Glossary.md#the-celestials">Celestial</a>. Who are you?</td>
+  <td colspan="36">A distinct lack of manners, though it's not like I'm surprised. I suppose my people do not often touch the <a href="Glossary.md#the-surface">Surface</a> to make contact with your kind. I am <a href="Glossary.md#lightborn">Lightborn</a>, child of Man and <a href="Glossary.md#the-celestials">Celestial</a>. Who are you?</td>
 </tr>
 <tr>
   <td colspan="36">[Give him your name]</td>
 </tr>
 <tr>
-  <td colspan="36">Ah, a pleasure to meet you, [PLAYER]. You surface dwellers do have such strange names. You can call me <a href="Glossary.md#kaide-the-drowned-light">Kaide</a>. It's been many centuries since I've spoken to one of your kind here, I assume you seek entrance to the Bed Chamber of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>?</td>
+  <td colspan="36">Ah, a pleasure to meet you, [First Name]. You surface dwellers do have such strange names. You can call me <a href="Glossary.md#kaide-the-drowned-light">Kaide</a>. It's been many centuries since I've spoken to one of your kind here, I assume you seek entrance to the Bed Chamber of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>?</td>
 </tr>
 <tr>
   <td colspan="36">I'm not so certain I even know what that is.</td>
@@ -56,13 +56,13 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
   <td colspan="9">What's happening with the Song?</td>
   <td colspan="9">Who are you?</td>
   <td colspan="9">How do you know all of this?</td>
-  <td colspan="9">Do you have anything could help me?</td>
+  <td colspan="9">Child of Man and Celestial?</td>
 </tr>
 <tr>
   <td colspan="9">Hmm.. I am not sure how aware you are, surface dweller, but the <i>magic</i> you make use of is not some projection of your own strength. Your power lies within the <a href="Glossary.md#the-song">Song</a>. All you can conjure is a cheap imitation of the power held within the <a href="Glossary.md#the-song">Song</a> that <a href="Glossary.md#the-drowned-gods">Drowned Gods</a> wield as their birthright. If <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> were to wake, as the projections seem to indicate, the world above would simply cease to be.</td>
   <td colspan="9">I once was Ruler of a place known as <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the <a href="Glossary.md#the-celestials">Celestials'</a> Last Gift. It was left in the hands of my forebearers, and passed to me. Unknown to me, I was to be the last king. The <a href="Glossary.md#kyrsan">Kyrsans</a>, under <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td>
-  <td colspan="9">I have been alive far longer than any living member of your kind, save for some of your... ah .. immortals. Our forebearers were once soldiers in the war to fight back the depths. But when the <a href="Glossary.md#the-celestials">Celestials</a> fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesied doom.</td>
-  <td colspan="9">Hmm... If you should return to the <a href="Glossary.md#the-surface">Surface</a>, let me impart you with a tidbit of knowledge. The Celestials were a crafty sort, and would hide many of their relics away in the <a href="Glossary.md#the-voidsea">Voidsea</a> to obscure their whereabouts. The Voidsea being what it is, of course, some of their reliquaries may have now drifted between the <a href="Glossary.md#the-heavens">Heavens</a> and <a href="Glossary.md#the-surface">Surface</a>. If you should find one... Use my blessing to take what you will from it. Note that they're likely still well-defended, however.</td>
+  <td colspan="9">I have been alive far longer than any living member of your kind, save for some of your... ah .. immortals. Our forebearers were once soldiers in the war to fight back the <a href="Glossary.md#the-depths">Depths</a>. But when the <a href="Glossary.md#the-celestials">Celestials</a> fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesied doom.</td>
+  <td colspan="9">A hybrid, you might say. Our creators had hoped to bring our disparate peoples together and combine our strengths. Our bodies were enhanced by hybrid vigor; unyielding to age or to ailment. Our minds... Well, many of us ended up just as clueless and arrogant as the templates we were created from. There are few of us now, as we cannot bear our own kin.</td>
 </tr>
 <tr>
   <td colspan="4">Who are you?</td>
@@ -70,28 +70,28 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
   <td colspan="3">What's happening with the Song?</td>
   <td colspan="3">How do you know all of this?</td>
   <td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td>
-  <td colspan="4">Immortals?</td>
-  <td colspan="5">What's happening to the Song?</td>
-  <td colspan="4">Who are you?</td>
-  <td colspan="5">Armed?</td>
+  <td colspan="3">Immortals?</td>
+  <td colspan="3">What's happening to the Song?</td>
+  <td colspan="3">Who are you?</td>
+  <td colspan="9">What did the Celestials have to gain? Aren't they gods?</td>
 </tr>
 <tr>
   <td colspan="15">[See first instance]</td>
-  <td colspan="3">No, the <a href="Glossary.md#the-depths">Depths</a> is far more sinister and cunning than a horde that simply emerges from the Sea. This realm is an all-devouring maw that exists solely to consume everything. I do not know this for certain, but you've seen the ruins here, no? They aren't of Human or <a href="Glossary.md#the-celestials">Celestial</a> make. I have a suspicion that the realms we call 'Layers', with their strange environments, may just be places consumed far before the world above - our world - ever existed...</td>
-  <td colspan="4">Yes, you don't know of them? You surface dwellers have always been a secretive lot. All so suspicious and paranoid. I imagine if they're still alive, then they no doubt occupy positions of power within your world. Behind the scenes though, I should think.</td>
+  <td colspan="3">No, the <a href="Glossary.md#the-depths">Depths</a> is far more sinister and cunning than a horde that simply emerges from the Sea. This realm is but one part of the all-encompassing maw of the <a href="Glossary.md#the-depths">Depths</a>. I do not know this for certain, but you've seen the ruins here, no? They aren't of Human or <a href="Glossary.md#the-celestials">Celestial</a> make. I have a suspicion that the realms we call 'Layers' of the <a href="Glossary.md#the-depths">Depths</a>, with their strange environments, may well be worlds that were consumed far before <a href="Glossary.md#lumen">Lumen</a> ever existed...</td>
+  <td colspan="3">Yes, you don't know of them? You surface dwellers have always been a secretive lot. All so suspicious and paranoid. I imagine if they're still alive, then they no doubt occupy positions of power within your world. Behind the scenes though, I should think.</td>
   <td colspan="9">[See first instance]</td>
-  <td colspan="4"><i>*He chuckles.*</i> A gift from our predecessors. And part of why we didn't ransack them ourselves.</td>
+  <td colspan="4"><i>*He rolls his eyes.*</i> What a web they've spun around you. We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering.</td>
 </tr>
 <tr>
   <td colspan="15"></td>
   <td colspan="3">End</td>
-  <td colspan="4">How did they reach your City? Isn't this place beneath the surface?</td>
+  <td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td>
   <td colspan="9"></td>
   <td colspan="4">End</td>
 </tr>
 <tr>
   <td colspan="18"></td>
-  <td colspan="4">[See first instance]</td>
+  <td colspan="3">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +113,20 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
   <td>Do you have anything could help me?</td>
 </tr>
 <tr>
-  <td colspan="4">[See first instance]</td>
+  <td colspan="3">[See first instance]</td>
+  <td>Hmm... If you should return to the <a href="Glossary.md#the-surface">Surface</a>, let me impart you with a tidbit of knowledge. The <a href="Glossary.md#the-celestials">Celestials</a> were a crafty sort, and would hide many of their relics away in the <a href="Glossary.md#the-voidsea">Voidsea</a> to obscure their whereabouts. The <a href="Glossary.md#the-voidsea">Voidsea</a> being what it is, of course, some of their reliquaries may have now drifted between the <a href="Glossary.md#the-heavens">Heavens</a> and <a href="Glossary.md#the-surface">Surface</a>. If you should find one... Use my blessing to take what you will from it. Note that they're likely still well-defended, however.</td>
+</tr>
+<tr>
+  <td colspan="3"></td>
+  <td>Well-defended?</td>
+</tr>
+<tr>
+  <td colspan="3"></td>
+  <td><i>*He chuckles.*</i> A gift from our predecessors. And part of why we didn't ransack them ourselves.</td>
+</tr>
+<tr>
+  <td colspan="3"></td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -137,27 +150,23 @@ This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped
   <td>I'm using it for good, don't worry.</td>
 </tr>
 <tr>
-  <td></td>
   <td><i>*He pinches his brow.*</i> Look, whatever you do with that thing isn't my business. Just keep it out of my sight.</td>
+  <td>Right. I'm sure that when <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> whispered to the <a href="Glossary.md#kyrsan">Kyrsans</a> and stole away their minds that they also felt they were doing 'good' when they burnt my city to the ground.</td>
 </tr>
 <tr>
-  <td></td>
   <td>Can I ask how long it's been?</td>
+  <td>End</td>
 </tr>
 <tr>
-  <td></td>
   <td><i>*He sighs.*</i> I'm sure you know by now that time doesn't behave itself down here. But to put it into relative terms, <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> fell some 77 years after the <a href="Glossary.md#the-celestials">Celestials</a> abandoned us. Truth be told, I don't know which calendar you're using or how long I've been down here, so I can't offer you much more than that.</td>
 </tr>
 <tr>
-  <td></td>
   <td>We use Citadel Era.</td>
 </tr>
 <tr>
-  <td></td>
-  <td>That's great, but I don't know what this 'Citadel' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and though ourselves fortunate. How ironic.</td>
+  <td>That's great, but I don't know what this '<a href="Glossary.md#the-citadel-of-markor">Citadel</a>' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and though ourselves fortunate. How ironic.</td>
 </tr>
 <tr>
-  <td></td>
   <td>End</td>
 </tr>
 </tbody>
@@ -209,20 +218,18 @@ This dialogue is unlocked if the player has the [Oath: Starkindred](Oath%253A_St
 <table>
 <tbody>
 <tr>
-  <td colspan="9">Begin</td>
+  <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="9">Hm. You bear their scent. I hesitate to ask what you did.</td>
+  <td colspan="6">Hm. You bear their scent. I hesitate to ask what you did.</td>
 </tr>
 <tr>
   <td colspan="3">I'm not surprised. I drank their ichor.</td>
   <td colspan="3">Why're you smelling me?</td>
-  <td colspan="3">What's happening with the Song?</td>
 </tr>
 <tr>
   <td colspan="3"><i>*He wrinkles his nose.*</i> You're just as depraved as they were. I had hoped better, though I'm not sure why. And just to tap into their art?</td>
   <td colspan="3">I was being polite. I can be more direct. You <i>reek</i>.</td>
-  <td colspan="3">[See first instance]</td>
 </tr>
 <tr>
   <td>They created you and yet you scorn them?</td>

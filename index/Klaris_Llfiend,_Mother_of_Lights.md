@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 166862
+revid: 166976
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -364,8 +364,8 @@ Radiant Teachings
 <tr>
   <td colspan="4">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
   <td colspan="4">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
-  <td colspan="2">Layer 2 via Ligthook</td>
-  <td colspan="2">Layer 2 via Void</td>
+  <td colspan="2">Second Layer via Ligthook</td>
+  <td colspan="2">Second Layer via Void</td>
   <td colspan="4">Whatever you've done has caused the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a> to destabilize! You need to get out before it's too late. I managed to call forth a <a href="Glossary.md#light-hook">Light Hook</a>, but only at the front of the City! Get to it quickly before that place is torn from eternity!</td>
 </tr>
 <tr>
@@ -373,7 +373,7 @@ Radiant Teachings
   <td colspan="2">Requirements Met</td>
   <td colspan="2">Not Enough Knowledge</td>
   <td colspan="2">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
-  <td colspan="2"></td>
+  <td colspan="2">It doesn't matter who you are - you've done us all a favour. Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
   <td colspan="4">End</td>
 </tr>
 <tr>

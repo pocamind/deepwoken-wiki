@@ -1,6 +1,6 @@
 ---
 title: "Augustus Baaset's sister"
-revid: 166365
+revid: 166904
 source: https://deepwoken.fandom.com/wiki/Augustus_Baaset's_sister
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -11,6 +11,7 @@ categories: [Naval personnel of The Central Authority]
 | Augustus Baaset's sister | |
 |---|---|
 | aspect | Adret |
+| affiliation | The Central Authority |
 | family | Unnamed parents (deceased), Sentinel Augustus (elder brother), Two unnamed siblings (deceased), Augustus Baaset's brother (brother) |
 
 “ Even if I still dream about that night... My surviving siblings still serve the Authority in the heartlands - my brother as a High Inquisitor, and my sister as a Navy Captain. ”

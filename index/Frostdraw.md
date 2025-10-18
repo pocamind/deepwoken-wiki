@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 166880
+revid: 166947
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1675,8 +1675,6 @@ Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration
 
  |
 | 
-
-File:Crystalicon2.png
 
  | 
 

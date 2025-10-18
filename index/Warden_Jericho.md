@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 166730
+revid: 166980
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
@@ -53,7 +53,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...[Rank]. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
+  <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every <a href="Glossary.md#the-central-authority">Authority</a> soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...[Rank]. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>

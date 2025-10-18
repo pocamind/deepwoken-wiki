@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 166582
+revid: 166971
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -70,37 +70,39 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Player has retrieved the books</td>
-  <td colspan="2">Player hasn't retrieved the books</td>
+  <td colspan="3">Player has retrieved the books</td>
+  <td colspan="3">Player hasn't retrieved the books</td>
 </tr>
 <tr>
-  <td colspan="2">Ah, excellent work! As a token of my thanks, please take these cards of mine. Perhaps you'll find some use for them? And feel free to browse through any of the books here.</td>
-  <td colspan="2">Huh. You don't have the books? That's alright, but I can't offer you any of the books here until you bring them back.</td>
+  <td colspan="3">Ah, excellent work! As a token of my thanks, please take these cards of mine. Perhaps you'll find some use for them? And feel free to browse through any of the books here.</td>
+  <td colspan="3">Huh. You don't have the books? That's alright, but I can't offer you any of the books here until you bring them back.</td>
 </tr>
 <tr>
-  <td colspan="2">What books do you have to offer?</td>
-  <td colspan="2">End</td>
+  <td colspan="3">What books do you have to offer?</td>
+  <td colspan="3">End</td>
 </tr>
 <tr>
-  <td colspan="2">Ah yes, I have information on a variety of skills. It'll cost you about [X] notes.</td>
+  <td colspan="3">Ah yes, I have information on a variety of skills. It'll cost you about [X] notes.</td>
 </tr>
 <tr>
-  <td colspan="2">Alright</td>
+  <td colspan="3">Alright.</td>
 </tr>
 <tr>
   <td>Player has enough experience</td>
   <td>Player does not have enough experience</td>
+  <td>Player has no available attributes</td>
 </tr>
 <tr>
   <td>Ah perfect, I found something just for you.</td>
   <td>I think you should go get a little more experience before hitting the books.</td>
+  <td>I don't think anything in this library would be of any use to you!</td>
 </tr>
 <tr>
   <td>End, player gains a random attribute point</td>
-  <td>End</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>
@@ -169,7 +171,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 </tr>
 <tr>
   <td></td>
-  <td>Our stated mission was to dismantle guerrilla elements in the the <a href="Glossary.md#the-central-luminant">Central Luminant</a>. Only, those 'guerrilla elements' often turned out to be peaceful protests against the <a href="Glossary.md#the-central-authority">Central Authority</a>.</td>
+  <td>Our stated mission was to dismantle guerrilla elements in the the <a href="Glossary.md#the-central-luminant">Central Luminant</a>. Only, those <i>'guerrilla elements' </i>often turned out to be peaceful protests against the <a href="Glossary.md#the-central-authority">Central Authority</a>.</td>
 </tr>
 <tr>
   <td></td>

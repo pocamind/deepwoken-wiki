@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 166420
+revid: 166986
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -41,24 +41,42 @@ Missions are timed objectives that vary in difficulty depending on the objective
 
 **Authority Ensign:**
 
+**Starting Quest:**
+
 <table>
 <tbody>
 <tr>
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">[Rank and Last name], are you prepared for a solo operation?</td>
+  <td colspan="2">[Rank] [Last name], are you prepared for a solo operation?</td>
 </tr>
 <tr>
   <td>Yes, sir</td>
   <td>No, sir</td>
 </tr>
 <tr>
-  <td>Good luck, [Rank]</td>
+  <td>Good luck, [Rank].</td>
   <td>Don't come back 'til you're ready for your deployment, [Rank].</td>
 </tr>
 <tr>
   <td>End, player receives a mission</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Finishing Quest:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Good work, [Rankl]. Go get some rest, then report back here.</td>
+</tr>
+<tr>
   <td>End</td>
 </tr>
 </tbody>
@@ -99,8 +117,6 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </table>
 
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>

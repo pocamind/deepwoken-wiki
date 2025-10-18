@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 165646
+revid: 166958
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -33,15 +33,16 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 
 ## Description
 
-Imperium Kata is an advanced form of the [Legion's martial arts](Legion_Kata.md) obtained by talking to [Caitus](Caitus.md) and defeating [Titus](Titus_Fulminus_Destellus.md) and having high reputation with [The Hundred Legions](The_Hundred_Legions.md). Its attacks consist mainly of vertical swings and swift kicks.
+Imperium Kata is an advanced form of the [Legion's martial arts](Legion_Kata.md) obtained by talking to [Caitus](Caitus.md), defeating [Titus](Titus_Fulminus_Destellus.md), and having high reputation with [The Hundred Legions](The_Hundred_Legions.md). Its attacks consist mainly of vertical swings and swift kicks.
 
 ## Obtainment
 
-Obtaining the fighting style requires above Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) and speaking to [Caitus](Caitus.md) about delivering [a message](Legion_Intelligence.md) to [Titus](Titus_Fulminus_Destellus.md). After gaining the [Legion Intelligence](Legion_Intelligence.md), you will have to progress through the [Merit Detainment Core](Merit_Detainment_Core.md) to reach Titus and deliver the message, starting the fight. After Titus is defeated, return to Caitus and obtain Imperium Kata. [Legion Kata](Legion_Kata.md) may also be required to obtain Imperium Kata, but this is not confirmed.
+-   Method 1: Obtaining the fighting style requires above Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) and speaking to [Caitus](Caitus.md) about delivering [a message](Legion_Intelligence.md) to [Titus](Titus_Fulminus_Destellus.md). After gaining the [Legion Intelligence](Legion_Intelligence.md), you will have to progress through the [Merit Detainment Core](Merit_Detainment_Core.md) to reach Titus and deliver the message, starting the fight. After Titus is defeated, return to Caitus and obtain Imperium Kata. [Legion Kata](Legion_Kata.md) may also be required to obtain Imperium Kata, but this is not confirmed.
+-   Method 2: **Imperium Kata** is also obtainable by defeating [Titus](Titus_Fulminus_Destellus.md), then speaking with [Caitus](Caitus.md).
 
 ## Critical
 
-The user performs two swift side kicks and is slowed by 60% for the duration critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds, allowing you to benefit from Talents such as [Speed Demon](Talents.md#vigil-swordsman) even after the critical ends.
+The user performs two swift side kicks and is slowed by 60% for the duration of the critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds, allowing you to benefit from Talents such as [Speed Demon](Talents.md#vigil-swordsman) even after the critical ends.
 
 Imperium Kata's critical gains 5 Thundercall Scaling if you have [Static Withdraw](Talents.md#thundercaller) active.
 
@@ -53,7 +54,6 @@ This critical has a cooldown of 5 seconds.
 
 -   Added on the July 25th, 2025 Weekly update.
 -   **Imperium Kata** did not benefit from [Legion Centurion](Legion_Centurion.md) when it was first added, this was changed in the update on August 4th, 2025.
--   **Imperium Kata** Is also obtainable by defeating [Titus](Titus_Fulminus_Destellus.md), then speaking with [Caitus](Caitus.md).
 -   The **Imperium Kata** Talent Card also gives +1 Passive Agility.
     -   When the style first released, it additionally granted +5 Health. This was patched shortly after.
 -   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped.
