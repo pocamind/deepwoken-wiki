@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 166314
+revid: 167375
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses, Voiced Characters]
@@ -215,50 +215,50 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b><font>Relic Weapons</font></b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
-    <li><b><font>Legendary Weapons</font></b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
-    <li><b><font>Alloyed Weapons</font></b>: N/A</li>
-    <li><b><font>Generic Weapons</font></b>:
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
+    <li><b>Alloyed Weapons</b>: N/A</li>
+    <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>.</li>
     <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>.</li>
     <li><b>Heavy Weapons</b>: N/A</li>
   </ol></li>
-    <li><b><font>Offhand Weapons</font></b>: N/A</li>
-    <li><b><font>Seasonal Exclusive Weapons</font></b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter).</li>
+    <li><b>Offhand Weapons</b>: N/A</li>
+    <li><b>Seasonal Exclusive Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter).</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a><b>:</b>
   <ol>
     <li><b>All Seasons</b>: N/A</li>
     <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Crimson, Gold, &amp; Mist) (Winter).</li>
   </ol></li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a><b>:</b>
   <ol>
     <li><b>All Seasons</b>: N/A</li>
     <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (All Variants) (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (All Variants) (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Crimson, Gold, &amp; Mist) (Winter), <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (All Variants) (Summer &amp; Winter).</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: N/A</li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>:
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>
     <li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li>
     <li><b>Seasonal Exclusive</b>: Scarf (Black) (Winter).</li>
   </ol></li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>:
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a><b>:</b>
   <ol>
     <li><b>All Seasons</b>: N/A</li>
     <li><b>Seasonal Exclusive</b>: <a href="Headband.md">Headband</a> (Black, Blue, Green, White) (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter).</li>
   </ol></li>
-    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>:
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:
   <ol>
     <li><b>All Seasons</b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>.</li>
     <li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn).</li>
   </ol></li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
     <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Almost all Legendary Rings.</li>
   </ol></li>
@@ -271,7 +271,7 @@ Exhaustive Loot Table
 
 **Introduction:**
 
-This is Ferryman's dialogue when he's neutral, before you fight him. Text is not Violet in game.
+This is Ferryman's dialogue when he's neutral, before you fight him.
 
 <table>
 <tbody>
@@ -279,13 +279,13 @@ This is Ferryman's dialogue when he's neutral, before you fight him. Text is not
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">The First time meeting The Ferryman on a slot</td>
+  <td colspan="6">[The First time meeting The Ferryman on that character]</td>
   <td colspan="6">Returning to The Ferryman after having already fought him once</td>
 </tr>
 <tr>
-  <td colspan="6">*<i>He yawns deeply.*</i> <font><b>Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?</b></font><br>
+  <td colspan="6">*<i>He yawns deeply.*</i> Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br>
   </td>
-  <td colspan="6"><font><b>Oh, back again? Heh, how about another wager?</b></font><br>
+  <td colspan="6">Oh, back again? Heh, how about another wager?<br>
   </td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@ This is Ferryman's dialogue when he's neutral, before you fight him. Text is not
   <td colspan="6">Deal.</td>
 </tr>
 <tr>
-  <td colspan="6"><font><b>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.</b></font><br>
+  <td colspan="6">Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br>
   </td>
   <td colspan="6">End, Fight Begins</td>
 </tr>
@@ -301,14 +301,14 @@ This is Ferryman's dialogue when he's neutral, before you fight him. Text is not
   <td colspan="6">[Tell him your name]</td>
 </tr>
 <tr>
-  <td colspan="6"><font><b>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?</b></font><br>
+  <td colspan="6">Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?<br>
   </td>
 </tr>
 <tr>
   <td colspan="6">A wager?</td>
 </tr>
 <tr>
-  <td colspan="6"><font><b>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?</b></font><br>
+  <td colspan="6">Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?<br>
   </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ This is Ferryman's dialogue when he's neutral, before you fight him. Text is not
 
 **After Fight Finishes:**
 
-This is Ferryman's dialogue when he's defeated, after you fight him. There is no dubbing for this in game. Text is not Violet in game.
+This is Ferryman's dialogue when he's defeated, after you fight him. There is no dubbing for this in game.
 
 <table>
 <tbody>
@@ -330,27 +330,27 @@ This is Ferryman's dialogue when he's defeated, after you fight him. There is no
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font></td>
-  <td colspan="6">Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font></td>
+  <td colspan="6">[Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font>]</td>
+  <td colspan="6">[Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font>]</td>
 </tr>
 <tr>
-  <td colspan="6"><font><b>Well done, well done!</b></font></td>
-  <td colspan="6"><font><b>Well done, well done!</b></font></td>
+  <td colspan="6">Well done, well done!</td>
+  <td colspan="6">Well done, well done!</td>
 </tr>
 <tr>
   <td colspan="6">Who are you?</td>
   <td colspan="6">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="6"><font><b>Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</b></font></td>
-  <td colspan="6"><font><b>Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</b></font></td>
+  <td colspan="6">Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</td>
+  <td colspan="6">Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</td>
 </tr>
 <tr>
   <td colspan="6">So, what are you?</td>
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="6"><font><b>I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</b></font></td>
+  <td colspan="6">I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

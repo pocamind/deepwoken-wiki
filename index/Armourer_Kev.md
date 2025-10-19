@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 167306
+revid: 167391
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -64,7 +64,31 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Command division:**
+**Command Division:**
+
+**Warrant Officer:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The armourer smirks at you with mild indifference.*</i> Welcome to the armoury, Warrant Officer. Looking for anything particular today? Have a browse.</td>
+</tr>
+<tr>
+  <td>I can't access some of the equipment?</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Captain:**
 
 <table>
 <tbody>
@@ -75,15 +99,12 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
   <td>WIP</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
   <td>End</td>
 </tr>
 </tbody>
 </table>
 
-**Inquisiton division:**
+**Commander:**
 
 <table>
 <tbody>
@@ -94,6 +115,19 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
   <td>WIP</td>
 </tr>
 <tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Seneschal:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
   <td>WIP</td>
 </tr>
 <tr>
@@ -102,7 +136,91 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Shock Corps division:**
+**Inquisition Division:**
+
+**Inquisitor:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Inquisition 1st Class:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Handler:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Shock Corps Division:**
+
+**Frontliner:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Interceptor:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Operator:**
 
 <table>
 <tbody>
@@ -119,8 +237,6 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </table>
 
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>

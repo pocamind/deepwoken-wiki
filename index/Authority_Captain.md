@@ -1,9 +1,9 @@
 ---
 title: Authority Captain
-revid: 167307
+revid: 167415
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Authority Enemies, Enemies that can wield Enchantments]
+categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
 ---
 
 # Authority Captain
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 An Authority Captain is an NPC found in the [Starswept Valley](The_Starswept_Valley.md) who are fighting [Hive Constructs](Hive_Construct.md). Unlike most Authority members, their face is completely unobscured.
 
-Their appearance consists of an [Authority Captain Uniform](Authority_Captain_Uniform.md) Outfit.
+Their appearance consists of a Black Parka over an [Authority Captain Uniform](Authority_Captain_Uniform.md).
 
 ## Moveset
 

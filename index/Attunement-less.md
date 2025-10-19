@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 167113
+revid: 167367
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1229,7 +1229,7 @@ N/A
 -   Affected entities receive 20% more damage, but deal 10% more damage to the caster.
     -   This is applied as a damage modifier to the person hitting the Taunted player. Meaning that Taunt is affected by the damage modifier caps.
 -   Affected entities become unable to jump.
--   Taunt cannot be parried, but will not apply Taunt if it is blocked or dodged. Taunt deals 0 posture damage.
+-   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
 -   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.

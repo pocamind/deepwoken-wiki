@@ -1,6 +1,6 @@
 ---
 title: Rashet
-revid: 152043
+revid: 167363
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority, Reputation]
@@ -109,3 +109,7 @@ File:Rashet Map.png
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Being an [Authority Ensign](Authority_Ensign.md) and exiled still lets you talk to him, but paying his fee does not raise your reputation with The Central Authority.

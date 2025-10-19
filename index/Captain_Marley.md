@@ -1,9 +1,9 @@
 ---
 title: Captain Marley
-revid: 167071
+revid: 167407
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Central Authority, Authority Enemies]
+categories: [Enemies, Central Authority Enemies]
 ---
 
 # Captain Marley

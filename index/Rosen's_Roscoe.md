@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 157450
+revid: 167432
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand Guns, Light Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Pistols, The Summer Company, Offhand Guns, Light Weapons]
 
 ## Description
 
-Rosen's Roscoe is a pistol type weapon that can be used both in both akimbo and single-handed styles. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of the [Summer Company](The_Summer_Company.md).
+Rosen's Roscoe is a pistol type weapon that can be used both in both akimbo and single-handed styles. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of [The Summer Company](The_Summer_Company.md).
 
 In comparison to most other light guns, it has a (Comparatively) low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun users.
 

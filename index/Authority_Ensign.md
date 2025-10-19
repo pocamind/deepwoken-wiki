@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 167359
+revid: 167424
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -30,7 +30,7 @@ If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
 
 Gain the Salute [Emote](Emotes.md). All other Authority Ensign members will have a symbol above their head, to signify them being your ally. Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
 
-### Horn of the Authority
+### Horn of Authority
 
 Gain a Talent Tool horn that marks escaping prisoners when blown by applying a combat tag onto them. The range of the horn is quite small, as you'll need to get fairly close to the prisoner in order for it to work.
 
@@ -93,7 +93,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   The Mission will automatically fail if you enter the prison.
             -   When this Mission fails, you only lose 10 promotion points instead of the usual 25.
         -   If there is an active prison break, this mission will be highly favored by RNG when choosing a Mission, having a very high chance that you get this one instead of any others.
-        -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question. Remember to use your Horn of the Authority to locate them.
+        -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question. Remember to use your Horn of Authority to locate them.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage by pressing V and run far enough away from where the hostage was being kept to complete this Mission.
     -   Potential Locations:
@@ -230,7 +230,7 @@ The Inquisition Divison of the Central Authority acts in the shadows, using thei
 The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
 
 -   Obtainment
-    -   Complete 5 successful missions in a row at the rank of Lance Corporal
+    -   ???
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -471,22 +471,30 @@ Shock Corps Division
 
 -   Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
 -   Have access to a party system via the use of Squads, allowing fellow ensigns to count as allies, and complete missions together.
--   Like guilds, have access to shout chat (by starting your messages with !) to talk to all fellow ensigns server wide.
--   As the punishment for killing fellow ensigns is quite major, most other ensigns will never attack you.
+-   Like guilds, have access to shout chat (by starting your messages with !) to talk to all fellow Ensigns server wide.
+-   Your player grip is replaced with imprisoning them. This increases the time before someone can spin back after a fight.
+-   As the punishment for killing fellow Ensigns is quite major, most other Ensigns will never attack you.
 -   Origin-exclusive Talents, Mantras, Weapons, and Outfits.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
--   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory.
+-   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory, though some of the later-game weapons are locked behind being a Corporal.
 -   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
 -   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change based on your current rank and your standing with the Authority as a faction.
+-   Many Authority Ensign players have a high sense of comradery; if you're being ganked, especially if it's at or around Fort Merit, there's a high likelihood of at least one of your fellow Ensigns to come to your aid. Using the shout feature to call for help will increase the odds of you receiving assistance.
 
 ### Cons
 
--   Because your guild is replaced by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md). Being Exiled will remove this restriction.
--   If you aren't on a mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
+-   Because your guild is "replaced" by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), [Dwelling Charm](Dwelling_Charm.md), or [Guild Officer](Guild_Bases.md) tools. Being Exiled will remove this restriction.
+    -   If someone from your original guild places down the [Guild Base](Guild_Bases.md) or spawns their [Ship](Ships_&_Sailing.md), you can reset and choose those as your spawn point
+    -   You are still able to access access all the NPCs that are located in the guild base.
+-   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
+-   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
+    -   Remember to report messages like these.
+-   Because your player grip is replaced with imprisoning them, you will need some kind of automatic grip in order to confirm kills.
 -   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
--   Your [Kingdom of Etrea](Etrea.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
+-   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
 -   Because the Master Armors are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
+-   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
 
 ## Reputation
 

@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 165611
+revid: 167403
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -49,7 +49,7 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
   <td>How did you come to be the landlord of the Three Cheers?</td>
 </tr>
 <tr>
-  <td><i>*A question certainly asked many times before, prompting a proud scoff from him.*</i> Pah! Couldn't stand workin' in that rotten mess hal no longer. Got one of the commanders to sweet-talk the Warden into allowin' me to brighten up some vacant shack in town, and the rest is history. He still ain't too fond of his soldiers' messin' about here, but it does wonders for morale, can't deny that.</td>
+  <td><i>*A question certainly asked many times before, prompting a proud scoff from him.*</i> Pah! Couldn't stand workin' in that rotten mess hall no longer. Got one of the commanders to sweet-talk the Warden into allowin' me to brighten up some vacant shack in town, and the rest is history. He still ain't too fond of his soldiers' messin' about here, but it does wonders for morale, can't deny that.</td>
 </tr>
 <tr>
   <td>End</td>

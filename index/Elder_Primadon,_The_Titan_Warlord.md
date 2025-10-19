@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 166275
+revid: 167377
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -220,17 +220,17 @@ Elder Primadon can also initiate a **combo** that always consists of a stomp, a 
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a>.</li>
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
   <ol>
     <li><b>Legendary Arms</b>: <a href="Star_Duster.md"><font>Star Duster</font></a></li>
     <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale).</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>.</li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>.</li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>.</li>
-    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>.</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>.</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>.</li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
     <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>.</li>
     <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>.</li>

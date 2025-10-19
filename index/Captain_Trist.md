@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 167304
+revid: 167393
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -67,6 +67,22 @@ Missions are timed objectives that vary in difficulty depending on the objective
 </tbody>
 </table>
 
+**Quest in Progress:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">You have your orders, [Rank], report back to base when your mission is complete.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 **Finishing Quest:**
 
 <table>
@@ -78,7 +94,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td colspan="2">Good work, [Rankl]. Go get some rest, then report back here.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>End, rank progress, EXP, and a small chest</td>
 </tr>
 </tbody>
 </table>

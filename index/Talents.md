@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 167342
+revid: 167419
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1031,7 +1031,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 60 Shadowcast, Dark Hours
 
 -   Night Terror \[Common Talent, Shadowcast Exclusive\] - Your light attacks now proc Fear the Dark.
-    -   Applies Fear the Dark for 1 second with no cooldown.
+    -   Despite its description, this talent applies the Fear status for 1 second with no cooldown (they are not required to run away from you).
     -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker's](Oath%253A_Dawnwalker.md) Absolute Radiance.
     -   Also procs on weapon criticals.
     -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy), Fear the Dark

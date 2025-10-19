@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 165652
+revid: 167370
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons]
@@ -92,27 +92,15 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>Every <a href="Ores.md">Ore</a> except Rock and Iron</li>
-    <li>All <a href="Mantra_Modifiers.md#deep-gems">Deep Gems</a></li>
-    <li><a href="Mantra_Modifiers.md#regular">Mantra Modifiers</a></li>
-    <li>Some <a href="Relics.md">Relics</a>:
-  <ul>
-    <li>Every <a href="Enchant_Stone.md">Enchant Stone</a> (excluding Astral)</li>
-    <li><a href="Armorer's_Needle.md">Armorer's Needle</a></li>
-    <li><a href="Pluripotent_Alloy.md">Pluripotent Alloy</a></li>
-    <li><a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Void_Spire.md">Void Spire</a></li>
-    <li><a href="Rain_Spire.md">Rain Spire</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a> (Only after 1.2km)</li>
-    <li><a href="Ouroboral_Husk.md">Ouroboral Husk</a></li>
-  </ul></li>
+    <li><a href="Items.md">Items</a>: Every <a href="Ores.md">Ore</a> except Rock and Iron, <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, All non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Ouroboral_Husk.md">Ouroboral Husk</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a> (only after 1.2km), <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a>.</li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
     <li><b>Legendary Weapons</b>: <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Iron_Requiem.md"><font>Iron Requiem</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
@@ -127,26 +115,26 @@ Exhaustive Loot Table
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
     <li><b>Unique Head</b>: <a href="Simmerbloom_Diadem.md"><font>Simmerbloom Diadem</font></a>.</li>
     <li><b>Generic Head</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
   <ol>
     <li><b>Mythic Arms</b>: <a href="Abyss_Wanderer's_Plate.md"><font>Abyss Wanderer's Plate</font></a>, <a href="Delver's_Duster.md"><font>Delver's Duster</font></a>.</li>
     <li><b>Legendary Arms</b>: <a href="Deepwoken_Cloak.md"><font>Deepwoken Cloak</font></a>, <a href="Ignition_Gauntlets.md"><font>Ignition Gauntlets</font></a>, <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a>, <a href="Warden_Pauldrons.md"><font>Warden Pauldrons</font></a>.</li>
     <li><b>Generic Arms</b>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (All Variants), <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parkas (All Variants), <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>:
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
   <ol>
     <li><b>Legendary Legs</b>: <a href="Abyss_Wanderer's_Boots.md"><font>Abyss Wanderer's Boots</font></a>.</li>
     <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>, <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, Scarf (All Variants).</li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
-    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>.</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>:
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a><b>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>, <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, Scarf (All Variants).</b></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a> (All Variants), <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a>.</li>
+    <li><a href="Equipment.md#ears"><b>Ears Equipment</b></a>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>.</li>
+    <li><a href="Equipment.md#rings"><b>Rings Equipment</b></a>:
   <ol>
     <li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>.</li>
     <li><b>Generic Rings</b>: <a href="Armorer's_Ring.md">Armorer's Ring</a>, <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Deepfire_Ring.md">Deepfire Ring</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Finisher's_Ring.md">Finisher's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>

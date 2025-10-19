@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 164663
+revid: 167398
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, NPCs, The Knives of Eylis, Vendors]
@@ -136,10 +136,10 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="5">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">Back for more of my knives? [300 Notes]</td>
+  <td colspan="5">Back for more of my knives? [300 Notes]</td>
 </tr>
 <tr>
   <td>Sure.</td>
@@ -159,23 +159,25 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
 </tr>
 <tr>
   <td></td>
-  <td colspan="2">Hey, I wouldn't mind.</td>
-  <td colspan="2">Agreed. You can keep them</td>
+  <td colspan="3">Hey, I wouldn't mind.</td>
+  <td>Agreed. You can keep them</td>
 </tr>
 <tr>
   <td></td>
-  <td colspan="2">Of course, I knew you were out of your mind, much like everyone else here. I hope you're booksmart though, 'cause I'm asking for 20 Knowledge for this exchange of information...</td>
-  <td colspan="2">End</td>
+  <td colspan="3">Of course, I knew you were out of your mind, much like everyone else here. I hope you're booksmart though, 'cause I'm asking for 20 Knowledge for this exchange of information...</td>
+  <td>End</td>
 </tr>
 <tr>
   <td></td>
-  <td>Call of the Deep[20 Knowledge]</td>
-  <td>Union Pager[20 Knowledge]</td>
+  <td>Call of the Deep</td>
+  <td>Union Pager</td>
+  <td>Horn of Authority</td>
 </tr>
 <tr>
   <td></td>
-  <td>End, Player obtains Call of the Deep ability</td>
-  <td>End, Player obtains Union Pager tool</td>
+  <td>End, Player obtains Call of the Deep</td>
+  <td>End, Player obtains Union Pager</td>
+  <td>End, Player obtains Horn of Authority</td>
 </tr>
 </tbody>
 </table>

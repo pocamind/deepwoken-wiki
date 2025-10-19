@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 167137
+revid: 167429
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -283,9 +283,7 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   "Can solo every Centurion of the 11th legion" according to Arch\_Mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
 -   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Oath%253A_Contractor.md).
 -   Writer of Journals, one of his journals can be found in the [Tomb](Tomb_of_the_Nameless_Warrior.md) [of](Tomb_of_the_Nameless_Warrior.md) [the](Tomb_of_the_Nameless_Warrior.md) [Nameless](Tomb_of_the_Nameless_Warrior.md) [Warrior](Tomb_of_the_Nameless_Warrior.md) in [Erisia](Erisia.md), also possibly leading that [Jericho](Warden_Jericho.md) was in [Erisia](Erisia.md) not so long ago
--   Possibly he is attunement-less, but has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
--   Genuinely believes in [The](The_Central_Authority.md) [Central](The_Central_Authority.md) [Authority](The_Central_Authority.md) as a force of peace.
--   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the [Eastern](Eastern_Interstitial_Lighthouse.md) [Interstital](Eastern_Interstitial_Lighthouse.md) [Lighthouse](Eastern_Interstitial_Lighthouse.md) being closed due to Viqh's reluctance to open it, being able to capture [Fort](Fort_Merit.md) [Merit](Fort_Merit.md) with his forces.
+-   Genuinely believes in [The Central Authority](The_Central_Authority.md) as a force of peace.
 -   Possible member of the Circle of Honor.
 
 ### Gunsmith Rosen
@@ -298,7 +296,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
--   It is theorized that Gunsmith Rosen was either the founding father or the creator of [Summer](The_Summer_Company.md) [Company](The_Summer_Company.md) which is a faction that consists of Gunsmiths and anything related to guns.
+-   It is theorized that Gunsmith Rosen was either the founding father or the creator of [The Summer Company](The_Summer_Company.md) which is a faction that consists of Gunsmiths and anything related to guns.
     -   Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company. However, he was able to signoff on the creation of the [Stormseye](Stormseye.md).[\[7\]](#cite-note-stormseye-7)
 -   He is a [Vesperian](Vesperian.md).[\[2\]](#cite-note-arch-2)
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the [Authority](The_Central_Authority.md).
@@ -821,12 +819,12 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between [Kingdom of Etrea](Etrea.md) and [the Authority](The_Central_Authority.md).
 -   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
--   _(Gunsmith Rosen)_ The Leader of [Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
+-   _(Gunsmith Rosen)_ The Leader of [The Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." indicates he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
     -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[7\]](#cite-note-stormseye-7)
--   [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
-    -   Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[2\]](#cite-note-arch-2)
-        -   The [Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[2\]](#cite-note-arch-2)
+-   [The Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
+    -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[2\]](#cite-note-arch-2)
+        -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[2\]](#cite-note-arch-2)
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.

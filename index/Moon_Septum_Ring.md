@@ -1,6 +1,6 @@
 ---
 title: Moon Septum Ring
-revid: 167206
+revid: 167405
 source: https://deepwoken.fandom.com/wiki/Moon_Septum_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's normal shop for 4,500 Chests from:, Mudskipper Attack |
+| obtainment | Sold in Traan Zakshun's normal shop for 50 Chests from:, Mudskipper Attack |
 | description | FEAR. IRONSINGERS. |
 
 ## Description

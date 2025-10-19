@@ -1,6 +1,6 @@
 ---
 title: Snakebite Studs
-revid: 167202
+revid: 167390
 source: https://deepwoken.fandom.com/wiki/Snakebite_Studs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer |
+| obtainment | Chests from:, First Layer, Valley of Heroes |
 | description | That's metal. |
 
 ## Description

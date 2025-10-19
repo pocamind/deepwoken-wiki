@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 163852
+revid: 167406
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -48,7 +48,7 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
 
 ### Two Faced
 
-Unlocks a special dialogue with [Rook Rethige](Rook_Rethige.md) in the [Voidheart](Voidheart.md) that lets you buy either [Call of the Deep](Deepbound.md#call-of-the-deep) or [Union Pager](Ignition_Delver.md) for 20.
+Unlocks a special dialogue with [Rook Rethige](Rook_Rethige.md) in the [Voidheart](Voidheart.md) that lets you purchase [Call of the Deep](Deepbound.md#call-of-the-deep), [Horn of Authority](Authority_Ensign.md#horn-of-authority), or [Union Pager](Ignition_Delver.md) for 20. You can only purchase one of these.
 
 ### Prodigy
 

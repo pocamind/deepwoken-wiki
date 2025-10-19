@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 166674
+revid: 167420
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -20,7 +20,9 @@ Template:Creature Infobox V3
 
 A Khan with great stature, he's around twice the height of the player. He has wrinkles on his face and greyed out dreads, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
-Titus was expected to retire after a few missions prior to his capture, but may have given up on it after receiving the message from the player.\[citation needed\]
+His sheer size creates a physical resilience against attacks, but is also mentally resilient as well.[\[1\]](#cite-note-1) Alongside this, he had a unrivaled, strategic mind, allowing him to catch The Authority off-guard, and even survive when outnumbered.[\[2\]](#cite-note-2)
+
+Upon his capture, he intentionally let his guard down to get captured by [Sentinel Augustus](Sentinel_Augustus.md), for the sake of gathering intel within the confines of the Authority.[\[3\]](#cite-note-3)[\[4\]](#cite-note-4) Titus was expected to retire after a few missions prior to his capture, but may have given up on it after receiving the message from the player.[\[5\]](#cite-note-5)
 
 ### Starting the Fight with Titus
 
@@ -255,17 +257,17 @@ Unique Loot Table
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipment</font></a></b>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a>.</li>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a>.</li>
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
   <ol>
     <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a>.</li>
     <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a>.</li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Imperator's_Fury.md">Imperator's Fury</a>.</li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a>.</li>
-    <li><b><a href="Equipment.md#ears"><font>Ear Equipment</font></a></b>: N/A</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: N/A</li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a>.</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a>.</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a>.</li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: N/A</li>
   </ul></td>
 </tr>
 </tbody>
@@ -496,3 +498,11 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   When combat tagged by him his real name is shown as Franky Strabes. (This was a place-holder name, confirmed by Dexerius.)
 -   The theme that plays during his fight is called [Chainbreaker](https://www.youtube.com/watch?v=Q6b3_Uu-PkU).
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [High Inquisitor Merey](High_Inquisitor_Merey.md): "He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods."
+2.  [↑](#cite-ref-2) [Sentinel Augustus](Sentinel_Augustus.md): "He'd catch us in ambushes, set traps for us, and always be three steps ahead of us. When outnumbered, he would often survive just through sheer strength and discipline. I couldn't stand it."
+3.  [↑](#cite-ref-3) Sentinel Augustus: "But... Something was off, when we fought in Aratel. I can't put my finger on it. It felt like he wasn't giving it his all."
+4.  [↑](#cite-ref-4) [Caitus](Caitus.md): "Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit.
+5.  [↑](#cite-ref-5) Caitus: "He was supposed to retire after his final few missions, including this one... Guess he's thrown that straight into the sea."

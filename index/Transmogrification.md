@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 152426
+revid: 167416
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment, Outfits]
@@ -12,7 +12,7 @@ categories: [Mechanics, Equipment, Outfits]
 
 Transmogrification (Transmogging for short) is a mechanic that allows you to keep the attributes of an [Equipment](Equipment.md) or [Outfit](Outfits.md) but impose the appearance of another Equipment or Outfit onto it. It's typically used for the sake of fashion and improving the aesthetics (drip) of one's character, or can also be used to hide the true power of your character.
 
-Trasmogging an outfit can be done at a [Blacksmith](Blacksmith.md) in the outfits menu. Equipment is transmogged through the process of smelting, which is done by [Jarvis](Jarvis.md) or an Artisan in the Trophy Room of a [Guild Base](Guild_Bases.md). In smelting, the 2 pieces of equipment are combined into one to keep the stats of one piece, while keeping the appearance of another.
+Trasmogging an outfit can be done at a [Blacksmith](Blacksmith.md) in the outfits menu. Equipment is transmogged through the process of smelting, which is done by [Jarvis](Jarvis.md) or an [Artisan](Artisan.md) in the Trophy Room of a [Guild Base](Guild_Bases.md). In smelting, the 2 pieces of equipment are combined into one to keep the stats of one piece, while keeping the appearance of another.
 
 ## Outfits
 
