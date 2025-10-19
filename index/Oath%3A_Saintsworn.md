@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 166391
+revid: 167159
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -78,7 +78,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-To progress Saintsworn, you need to complete [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and [Interluminary Parasol](Interluminary_Parasol.md)). The first completion will grant Ether Proselyte, Hero's Assist, and Saint's Negation. The second completion will grant Saint's Synergy and Saint's Overload.
+To progress Saintsworn, you need to complete 2 [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)). The first completion will grant Ether Proselyte, Hero's Assist, and Saint's Negation. The second completion will grant Saint's Synergy and Saint's Overload.
 
 Alternatively you can use 10 to skip the progression if you've fully progressed this Oath before, by speaking to any Obelisk after obtaining Saintsworn. Warning: this has no confirmation dialogue, entering dialogue will instantly consume your Knowledge. Additionally, this can be still performed even if your Oath is fully progressed, potentially wasting your Knowledge for no benefit.
 
@@ -118,7 +118,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also suffocating and knocking them away.
         -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
         -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing [Chill](Status_Effects.md#chill) or applying [Crystals](Status_Effects.md#crystal).
-        -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly increasing the windup, while also greatly increasing the damage of the mantra. The damage buff is currently bugged and does not work, meaning this does nothing but nerf your mantra.
+        -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly decreasing the windup.
 -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
 -   **Ether Proselyte** - All of your Elemental Mantras below Lv. 5 are 1 Mantra level higher. Your Mantras are converted to the element of your active stance.
@@ -128,7 +128,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **Dancing Steps** & **Graceful Steps**: Your attuned mantras will gain a lunge during their windup, closing distance.
             -   **Hungry Flames**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.
-            -   **Immolation**: Your attuned Mantras will cost 70% less Ether if you're burning.
+            -   **Immolation**: Your attuned Mantras will cost 70% less Ether if you're burning. (CURRENTLY BUGGED)
             -   **Scorched** **Peak**: Guard breaking your opponent with any attuned Mantra will cause them to be struck by lightning. This can also be caused if you guard break them while they are burning, but that is not exclusive to this Saint Stance.
             -   **The Final Act**: Landing an attuned Mantra after a flourish will cause an explosion.
             -   **Warding Radiance**: Your attuned Mantras will build up halo stacks.
@@ -136,18 +136,23 @@ These Talents have modified effects based on your current Saint Stance. Due to t
             -   **A World Without Song**: Your attuned Mantras will apply Suffocation.
             -   **Haunted Gale**: Every third hit of a perfect-casted attuned Mantra will spawn a Haunted Gale Ghost. These can be turned into Specter Apparitions if you have the Specter Path. [Gale Wisp](Galebreathe.md#gale-wisp) lowers the amount of hits you need to land by 1, needing 2 hits instead of 3.
             -   **Inhale**: You can inhale non-Galebreathe Mantras, however their modifiers/the inhale damage buff will not carry over to non-Galebreathe mantras.
+            -   **Shock Trooper** **Specialist**: Conjure a storm strike on your opponent by landing any attuned mantras.
+            -   **Possession**: After an apparition hits an enemy, receive 15% posture damage on all attuned mantras for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
         -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **Dark Hours**: Your attuned Mantras will gain a 15% damage buff during night or in the depths.
             -   **Pressure** **Detonation**: Block breaking with any attuned mantra will suffocate your opponent and steal their tempo.
         -   **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **Cryonis**: Your attuned Mantras will have a reduced Ether cost while standing on ice.
+            -   **Bottom Freeze:** Hitting your enemies with any attuned mantra projectiles while they are on ice freezes them to the ground.
+            -   **Frozen Legs:** Hitting anyone with a slow effect attuned mantra prevents them from rolling.
         -   **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **Link Conduction**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
             -   **Jolting Current**: Your attuned Mantras will strike nearby opponents with lightning while in water.
             -   **Voltaic** **Conductor**: Your attuned Mantras will do 20% more chip damage to opponents affected by Conductor Rods.
-        -   **Ether Proseltyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
+            -   **Shock Trooper Specialist**: Conjure a storm strike on your opponent by landing any attuned mantras.
+        -   **Ether Proselyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
             -   **Winter's Protection**: Effect _with Ether Proselyte_ is currently unknown.
-            -   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance.
+            -   **Unyielding Inferno**: Removes the innate damage debuff Flamecharm Mantras and Twisted Puppets get in the rain while outside of the Flamecharm Saint Stance
     -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
 #### Other Talents

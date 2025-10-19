@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 167118
+revid: 167180
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -653,11 +653,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Rush Hour_ \[Rare Talent\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
-    -   Drains 4.5 HP per second and 2% Blood per second. The damage taken from this **cannot** be reduced by any source.
+    -   Drains 4.5 HP per second and 2% Blood per second.
+    -   [Deepscorn Casque](Deepscorn_Casque.md) and the Enhanced Flow Talent are the only two effects in the game that can reduce the self damage taken by Rush Hour.
     -   Grants a 15% damage buff to all sources of DMG. This is affected by the damage multiplier cap.
     -   Increases blood bar damage by +35% (additive).
     -   Grants a 30% active speed boost. This counts for Talents such as Speed Demon and Cheap Shot.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
+    -   If you have the Enhanced Flow Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health).
+    -   Having Rush Hour active doubles the duration of the Torture Mastery status effect.
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
@@ -2783,10 +2786,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Sanguine Wager
 
--   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain tempo health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+-   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+    -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health).
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy), Rush Hour
 
 -   Torture Mastery \[Common Talent, Bloodrend Exclusive\] - Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
+    -   On proc, all chip damage you deal will be converted into healing.
+    -   The conversion of chip damage to healing is 1:1.
     -   Prerequisites: 100 Bloodrend, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 ### Sapper

@@ -1,6 +1,6 @@
 ---
 title: Arthur
-revid: 167064
+revid: 167150
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -13,8 +13,6 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | name | Arthur |
 | aspect | Etrean |
 | location | ErisiaBurning Stone Gardens |
-
-**❗ Currently Arthur is located inside a wall, making interaction with him impossible.**
 
 ## Description
 

@@ -1,11 +1,9 @@
 ---
 title: Authority Ensign
-revid: 167127
+revid: 167194
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, The Central Authority, Character, Origins]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [The Central Authority, Character, Origins]
 ---
 
 # Authority Ensign
@@ -72,7 +70,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
 
 ### List of Missions
 
-1.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\].. Distribute this information to your Squad._
+1.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\]._
     -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them three times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
     -   Potential Locations:
         -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
@@ -92,11 +90,11 @@ Even if you aren't in a squad, other players may be assigned to the same mission
     -   Notes/Tips:
         -   This Mission will be completed if the prisoner gets teleported back into their cell, not when they get executed.
             -   When an escapee gets low enough health to be knocked from a player attack, they will be teleported back into the prison instead.
-        -   The Mission will automatically fail if the prisoner gets uncuffed, leaves the game, or if you enter the prison.
+        -   The Mission will automatically fail if you enter the prison.
             -   When this Mission fails, you only lose 10 promotion points instead of the usual 25.
         -   If there is an active prison break, this mission will be highly favored by RNG when choosing a Mission, having a very high chance that you get this one instead of any others.
         -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question. Remember to use your Horn of the Authority to locate them.
-3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
+3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage by pressing V and run far enough away from where the hostage was being kept to complete this Mission.
     -   Potential Locations:
         -   [Derelict Highchurch](Derelict_Highchurch.md) - the hostage is behind the altar in the church; 45 minute 30 second time limit
@@ -110,7 +108,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   For the Derelict Highchurch location, the surrounding [Songseekers](Songseeker_Flamecharmer.md) will not aggro onto you, seemingly due to a bug. You can use this to your advantage by hitting them once, causing them to aggro onto the Blacksteel Pirates instead. Alternatively, the Blacksteel Pirates are all positioned where they're facing the altar, meaning you can sneak up behind them and get free assassinations.
         -   For the Miner's Landing location, the Blacksteel Pirates will be fighting the [Ignition Union Guards](Ignition_Union_Guard.md) by the time you get there. You can use this chaos to grab the hostage and flee.
         -   For the Summer Isle location, the Blacksteel Pirates are located around the front of the building, so if you sneak in through the hole in the back wall, you can avoid combat altogether.
-4.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\].. Distribute this information to your Squad._
+4.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\]._
     -   Objective: The player and their squad are tasked with defending two or three Authority-branded banners from 3 waves of enemies.
     -   Potential Locations:
         -   [Miner's Landing](<Miner's_Landing.md>); 19 minute 30 second time limit
@@ -125,14 +123,14 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   For the Summer Isle location, the enemies will spawn along the southwestern shoreline, near the docks, and the southeastern shoreline, to the right of the large staircase.
         -   The Mission will be completed when enough time passes (about 2 minutes).
         -   The enemies seem to be bugged, as they will spawn without aggroing onto the banners.
-5.  **Smuggler Investigation** -
-    -   Objective: The player and their squad are tasked with taking cargo barrels off of a ship. This ship will be housing a number of enemy combatants.
-    -   Location: [Aratel Sea](The_Aratel_Sea.md)
+5.  **Smuggler Investigation** - _There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._
+    -   Objective: The player and their squad are tasked with taking cargo barrels off of a moving ship. This ship will be housing a number of enemy combatants.
+    -   Location: [Aratel Sea](The_Aratel_Sea.md), near [Summer Isle](Summer_Isle.md); 17 minute 45 second time limit
     -   Notes/Tips:
         -   You do not have to place the barrels onto your boat, you only need to pick them up and put them back down again.
         -   The boat will spawn once you reach the map marker, make sure you have your graphics turned up high enough to see it.
-        -   The smuggler ship is a moving ship, which isn't modeled after any player-accessible boats.
         -   Barrels do not despawn after the mission is done, which results in the ship being bugged.
+        -   The smuggler ship has a unique model.
 
 ### Mission Lootpool
 

@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 166949
+revid: 167138
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Children of Navae]
@@ -19,7 +19,7 @@ categories: [Factions, The Children of Navae]
 
 ## Description
 
-A mainly nomadic tribe of mainly [Gremors](Gremor.md) who worship and are guided by [Navae](Lore.md#navae), the protector of Ice and Shadow.
+A mainly nomadic tribe of mainly [Gremors](Gremor.md) who worship and are guided by [Navae](Lore.md#navae).
 
 ## Reputation
 

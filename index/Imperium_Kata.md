@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 166958
+revid: 167161
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Above Ally reputation with The Hundred Legions, Speaking to Caitus and obtaining the Legion Intelligence, Showing the Intelligence to Titus and defeating him with proper kill credit |
+| obtainment | Defeat Titus Fulminus Destellus, Speak to Caitus |
 | description | Wield an advanced form of the Legion's martial arts. |
 
 “ Wield an advanced form of the Legion's martial arts. ”
@@ -37,8 +37,7 @@ Imperium Kata is an advanced form of the [Legion's martial arts](Legion_Kata.md)
 
 ## Obtainment
 
--   Method 1: Obtaining the fighting style requires above Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) and speaking to [Caitus](Caitus.md) about delivering [a message](Legion_Intelligence.md) to [Titus](Titus_Fulminus_Destellus.md). After gaining the [Legion Intelligence](Legion_Intelligence.md), you will have to progress through the [Merit Detainment Core](Merit_Detainment_Core.md) to reach Titus and deliver the message, starting the fight. After Titus is defeated, return to Caitus and obtain Imperium Kata. [Legion Kata](Legion_Kata.md) may also be required to obtain Imperium Kata, but this is not confirmed.
--   Method 2: **Imperium Kata** is also obtainable by defeating [Titus](Titus_Fulminus_Destellus.md), then speaking with [Caitus](Caitus.md).
+**Imperium Kata** is obtainable by defeating and speaking with [Titus](Titus_Fulminus_Destellus.md), then reporting back to [Caitus](Caitus.md).
 
 ## Critical
 
@@ -56,5 +55,4 @@ This critical has a cooldown of 5 seconds.
 -   **Imperium Kata** did not benefit from [Legion Centurion](Legion_Centurion.md) when it was first added, this was changed in the update on August 4th, 2025.
 -   The **Imperium Kata** Talent Card also gives +1 Passive Agility.
     -   When the style first released, it additionally granted +5 Health. This was patched shortly after.
--   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped.
 -   While its Talent description has a 20 LHT requirement, the fighting style can be obtained without it.

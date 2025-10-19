@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 163835
+revid: 167162
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, Enemies, The Depths]
@@ -172,6 +172,8 @@ A secondary, albeit much slower, win condition is to simply ignore the bone mech
 For health packs to spawn, you must have anchored the Scion using all nine shrines at least once. After this, multiple [Kyrsgarde snipers](Kyrsgarde_Sniper.md) will spawn during each cycle.
 
 To avoid the ultimate, you can either parry or dodge it. The dodging method involves sliding, waiting for the audio cue of the Scion firing its orb, and then jumping and air-dashing to evade the attack. To parry the ultimate, wait for the same audio cue, but begin your parry just before the orb makes contact. While these maneuvers may seem difficult initially, they will become muscle memory with practice. For players without experience, air-dashing is generally the easier method to learn.
+
+**Important:** **When carrying a bone, you are unable to use Q-dodges or slides. If the Scion's ultimate targets you while you are holding a bone, you must either drop it and run or learn to parry the ultimate.**
 
 ## Loot Table
 

@@ -1,6 +1,6 @@
 ---
 title: Deran
-revid: 157597
+revid: 167169
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -40,7 +40,9 @@ He will only grant you access if you are an [Ignition Delver](Origins.md#igniton
 
 **Unlockable Dialogue:**
 
-This dialogue is unlocked if the player has escaped the First Floor of the Second Layer with the Deepdriller at least once.
+**Ignition Delver:**
+
+This dialogue is unlocked if the player has escaped [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) with the Deepdriller and is an [Ignition Delver](Ignition_Delver.md).
 
 <table>
 <tbody>
@@ -61,6 +63,38 @@ This dialogue is unlocked if the player has escaped the First Floor of the Secon
 </tr>
 <tr>
   <td>End, Player is sent down to The Frontier Furnace</td>
+</tr>
+</tbody>
+</table>
+
+**Other Origin:**
+
+This dialogue is unlocked if the player has escaped [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) with the Deepdriller but is not an [Ignition Delver](Ignition_Delver.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Ah, you must be the one who saved our comrades. You're a real life-saver, buddy.</td>
+</tr>
+<tr>
+  <td colspan="2">Can I go down again?</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*They blink twice, looking dumbfounded before they erupt into uproarious laughter.*</i> Quite the comedian, I see!</td>
+</tr>
+<tr>
+  <td>I'm being serious.</td>
+  <td>I'm being serious.</td>
+</tr>
+<tr>
+  <td><i>*They look you up and down.*</i> Yeah, nope. I'm not quite foolish enough to send the savior of my friends to an untimely death.</td>
+  <td><i>*They wipe tears from their eyes.*</i> Ah... You almost had me a second there.</td>
+</tr>
+<tr>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

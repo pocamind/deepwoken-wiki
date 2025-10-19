@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 167000
+revid: 167137
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -343,7 +343,6 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Religious figure and Celestial.
 -   Worshipped by the [Navaen Nomads](The_Children_of_Navae.md).
--   Pioneer of [Frostdraw](Frostdraw.md).
 -   Possibly a more eldritch being.[\[2\]](#cite-note-arch-2)
 -   Exists on an island moving through the world, independent of the [Voidsea](Voidsea.md).
 -   She was rescued by a nomad who nursed her back to health after descending from Constellia, making a Hereditary Vow with her which resulted in the nomads offspring receiving Navae's guidance.

@@ -1,9 +1,9 @@
 ---
 title: "The Chariot's Spire"
-revid: 166634
+revid: 167190
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Locations, Locations in the First Layer, The Ignition Union, Lawless Territory]
+categories: [In progress without reason, InProgressPages, Locations, Locations in the First Layer, Territory of The Ignition Union, Lawless Territory]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

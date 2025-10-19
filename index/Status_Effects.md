@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 166407
+revid: 167186
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -405,6 +405,10 @@ While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant
 
 When landing a backhit with your [Big Brother](Big_Brother.md) basic attack, gain the Swift Strike status effect. The next time you use your critical, it will be replaced with a backdash into a teleporting strike to your opponent's back, proccing all [assassination Talents](Talents.md#assassin) and dealing percentage based damage. This status effect has an indefinite duration but is consumed upon critical usage. You cannot gain the Swift Strike status effect while it is on cooldown. This effect has no visual indicator.
 
+### Forced Fulfilment
+
+When landing your critical with the [Metal Greatsword](Metal_Greatsword.md), apply the Forced Fulfilment status effect, lodging a large iron rod into your opponent's leg with a heavy slowing effect.
+
 ### Pugnacious
 
 Upon landing an M1 with the [Warmonger](Warmonger.md), gain a variety of stat boosts for 5 seconds, with the potency of these effects scaling on how many combat tags you have. This status effect has no visual indicator. See the Warmonger page for more info.
@@ -668,13 +672,21 @@ Screen turns slightly black around the edges and have your vision obscured. Gain
 
 Gain 60% damage reduction for 2 seconds after dodging an attack. This damage reduction will be lost upon taking a hit. This effect is applied by the [Ironsinger's Instinct](Talents.md#adaptive-arsenal) Talent. 18 second cooldown.
 
+### Augmented
+
+Upon proccing the [Rending Needle: Augmenter](Talents.md#rending-needle) Talent, your weapon will be replaced with the [Metal Greatsword](Metal_Greatsword.md), a high damage Ironsing greatsword, for 10 seconds. While the Metal Greatsword is equipped, you will deal double damage with the [Metal Armament](Ironsing.md#metal-armament) Mantra and your critical will proc the [Forced Fulfilment](#forced-fulfilment) status effect.
+
 ### Shackled
 
 While afflicted with this status effect, you cannot gain [speed boosts](#speed-boost). Applied by being block broken by a player who has the [Metal Shackles](Talents.md#ironsinger) Talent. Signified by metal shackles on your legs, this effect lasts 5 seconds.
 
 ### Rush Hour
 
-Take 4.5 **true** damage and lose 2% of your maximum blood per second, but gain a 15% damage buff, 30% speed buff, and increased blood bar damage. Applied through the [Rush Hour](Talents.md#bloodrender) Talent. Signified by blood gushing out of your chest. Utilize the tool again to end this effect early.
+Take 4.5 damage and lose 2% of your maximum blood per second, but gain a 15% damage buff, 30% speed buff, and increased blood bar damage. If you have the [Enhanced Flow](Talents.md#sanguine-wager) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](#temporary-health). Additionally, having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect. Applied through the [Rush Hour](Talents.md#bloodrender) Talent. Signified by blood gushing out of your chest. Utilize the tool again to end this effect early.
+
+### Torture Mastery
+
+All chip damage dealt to an opponent affected by Torture Mastery will be transferred into healing for yourself. The conversion rate is 1:1 with damage dealt to healing gained. To proc this effect, you must land your critical attack on an opponent who has 30% or higher [Blood Poisoning](#blood-poison) while having the [Torture Mastery](Talents.md#sanguine-wager) Talent. Torture Mastery lasts 15 seconds, doubled to 30 if you have [Rush Hour](#rush-hour) active on Talent proc. This effect is signified by a crimson chain linking yourself and affected opponents.
 
 ## Deep Gem Applied
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 166244
+revid: 167139
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,7 @@ categories: [Oaths]
 
 **[Oath](Oaths.md): Starkindred** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
 
-“ The world around you shifts and bends, as if your skull was melting into a swirl of infinity. The world as you know it isn't the same. These Stars above us are more than constellations. You feel as though you can feel the entire world. A̸l̴l̴ ̴a̷t̶ ̴o̵n̴c̷e̸.̴ ̶E̵V̷E̵R̴Y̵W̸H̸E̵R̸E̴.̶ ”
+“ The viscous fluid singes your mouth. As it sinks into you, you feel it slowly begin to course out into your veins, pulses of agony washing over you with every heartbeat. Clutching onto the words Samael left you is all that keeps you afloat above the dark void of unconsciousness. And as your mind empties of all other thoughts, the agony finally begins to subside... ”
 
 ― Drinking the Holy Ichor
 

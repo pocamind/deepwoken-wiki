@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 166976
+revid: 167183
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -333,7 +333,7 @@ Radiant Teachings
 <tr>
   <td colspan="3"><i>*Her eyes light up briefly*</i> Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
   <td colspan="3">[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
-  <td colspan="6">Her nose wrinkles in a look of disgust*. I can only assume you found Dr. Carrion. Pay him no mind, hes absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
+  <td colspan="6"><i>*Her nose wrinkles in a look of disgust.*</i> I can only assume you found Dr. Carrion. Pay him no mind, he's absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
 </tr>
 <tr>
   <td colspan="3">What can you offer for Medallions?</td>
@@ -353,16 +353,18 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="20">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">Talked to Nimea?</td>
-  <td colspan="4">Have Dawnwalker, and have it maxed out once already</td>
+  <td colspan="4">Talked to Nimea</td>
+  <td colspan="4">Having Dawnwalker</td>
+  <td colspan="4">Maxing out Dawnwalker</td>
   <td colspan="4">Defeated Chaser</td>
   <td colspan="4">Defeated Ethiron</td>
 </tr>
 <tr>
   <td colspan="4">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+  <td colspan="4">What's the significance of the Moonseye over our heads?</td>
   <td colspan="4">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
   <td colspan="2">Second Layer via Ligthook</td>
   <td colspan="2">Second Layer via Void</td>
@@ -370,6 +372,7 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="4">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
+  <td colspan="4"><a href="Glossary.md#lightkeep">Lightkeepers</a> are not the only ones that project Light. So too does the <a href="Glossary.md#the-moonseye">Moonseye</a> cast its Light upon both halves of <a href="Glossary.md#lumen">Lumen</a>. Just as its watchful gaze keeps what little of the world that remains whole, we bear its image in the hope that we can take back what was lost.</td>
   <td colspan="2">Requirements Met</td>
   <td colspan="2">Not Enough Knowledge</td>
   <td colspan="2">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
@@ -378,17 +381,20 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="4">...How is she?</td>
+  <td colspan="4">The Moonseye projects Light? Why is that?</td>
   <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this Oath with you.</td>
   <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
   <td colspan="4">End</td>
 </tr>
 <tr>
   <td colspan="4"><i>*Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding.*</i> She is... preoccupied. <a href="Glossary.md#lightkeep">Lightkeepers</a> do not get a great deal of rest, and what time she had spare she often spent writing.</td>
+  <td colspan="4"><i>*She sighs.*</i> I'd like to know that for certain myself. As best as I can tell, it's likely something to do with its nature. Many believe that before the <a href="Glossary.md#the-tides">Tides</a>, souls departed for the <a href="Glossary.md#the-moonseye">Moonseye</a> upon the death of their corporeal forms.</td>
   <td colspan="2">End, Maxed out Dawnwalker</td>
   <td colspan="2">End</td>
 </tr>
 <tr>
   <td colspan="4">Writing?</td>
+  <td colspan="4">End</td>
 </tr>
 <tr>
   <td colspan="4"><i>*She gives a thin smile.*</i> Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the <a href="Glossary.md#lightkeep">Lightkeepers</a>. We aren't there yet.</td>

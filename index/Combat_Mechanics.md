@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 166424
+revid: 167160
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -422,7 +422,7 @@ Most monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Commander's Whirlthrow, Wrathful Stomp
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Wrathful Stomp
 
  |
 | 
@@ -459,7 +459,7 @@ Attacks with this indicator must be dodged. They will either bypass block or gua
 **Boss Attacks**
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash, Commander's Whirlthrow
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 167014
+revid: 167184
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Items, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -37,7 +37,7 @@ The Rite of Authority is a MED weapon in the Sword category that can be obtained
 
 The user performs a Thundercall-infused upslash, shocking the opponent and sending them flying. If the attack lands, the user leaps into the air and plunges downwards, striking and shocking the opponent again.
 
-The first hit has 0.7x scaled damage, The second hit additionally has 13.9 Thundercall scaling on top of its 1x scaled damage, allowing for a significant amount of damage at high investment.
+The first hit has 0.7x scaled damage, the second hit has 1x scaled damage.
 
 If the first hit is blocked, it will deal 3 posture damage and won't progress to the second hit. If the second hit is blocked, it will deal 9.5 posture damage.
 

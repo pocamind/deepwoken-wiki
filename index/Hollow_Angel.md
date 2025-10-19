@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 165827
+revid: 167158
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments, Layer 1, The Depths, Enemies]
@@ -97,3 +97,4 @@ Template:Creature Infobox V3
 -   They resemble the Malebranche demons from the _Castlevania_ animated series episode, _The Harvest_.
 -   They are internally referred to as ".angel\_lesser(ID)". The ID counts how many have spawned.
 -   They appear to wear a Yellow-dyed [Celtorian Tideknight](Celtorian_Tideknight.md) outfit.
+-   An Hollow Angel Mask will not fool them they will still attack you even if you wear one of the mask.
