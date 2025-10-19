@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 163856
+revid: 167361
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -69,6 +69,7 @@ The Parasites function as a **passive time limit** for the player, accumulating 
 
 Though, these are reducible via the following means.
 
+-   [Flame Wisp](../Flamecharm.md#flame-wisp): +1 minute(needs further testing.)
 -   [Winter Corps Parka](../Winter_Corps_Parka.md): +1.5 minutes.
 -   [Survivalist](../Boons_and_Flaws.md#survivalist) Boon: +1.5 minutes.
 -   [Wormwarder Lantern](../Wormwarder_Lantern.md): Negates parasites, movement speed penalty.
