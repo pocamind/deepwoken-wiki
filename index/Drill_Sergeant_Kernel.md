@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 166385
+revid: 167297
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -16,6 +16,7 @@ notices:
 | name | Cornelius Kernel Sr. |
 | aspect | Celtor |
 | location | Fort Merit |
+| affiliation | The Central Authority |
 | family | Private Kernel (son) |
 
 ## Description
@@ -218,8 +219,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 **Warrant Officer:**
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
@@ -227,22 +226,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 </tr>
 <tr>
   <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the <b>COMMAND</b> division, Warrant Officer [Last Name]! Maybe the mind of Private [Ensign Name] wasn't <i>MUDDLED</i> after all! I hope you make us all REAL DAMN PROUD with your tactical skills! The next time you talk to <b>WARDEN JERICHO</b>, I'd appreciate it if you could put in a GOOD WORD in favour of the <i>TRAINING GROUNDS</i> getting some new <i>TRAINING WEAPONS</i>! <b>THREE CHEERS!!!</b></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>

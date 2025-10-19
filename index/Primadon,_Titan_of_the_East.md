@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 165223
+revid: 167235
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -189,7 +189,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (rare, direct drop), <a href="Mantra_Modifiers.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Vibrant Gems</a>, <a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (rare, direct drop), <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a>, <a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
     <li>Some <a href="Relics.md">Relics</a>: [[Ardour Manifestation|Template:RelicColor]], [[Armorer's Needle|Template:RelicColor]], [[Enchantments#Curses|Template:RelicColor]], [[Idol of Yun'Shul|Template:RelicColor]], [[Moonseye Tome|Template:RelicColor]], [[Pluripotent Alloy|Template:RelicColor]], [[Rain Spire|Template:RelicColor]], [[Smith's Alloy|Template:RelicColor]], [[Void Spire|Template:RelicColor]]</li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 166313
+revid: 167252
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -269,7 +269,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></li>
-    <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Officer_Saber.md#alloyed">Alloyed Officer Saber</a></li>
+    <li><b>Alloyed Weapons</b>: <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Needle's_Eye.md">Needle's Eye</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>

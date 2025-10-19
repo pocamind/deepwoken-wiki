@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 162204
+revid: 167258
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -54,24 +54,17 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Ores.md">Astruline</a></li>
-    <li><a href="Mantra_Modifiers.md">Bloodless Gems</a></li>
-    <li><a href="Mantra_Modifiers.md">Vibrant Gems</a></li>
-    <li>Some <a href="Relics.md">Relics</a>
-  <ul>
-    <li><a href="Enchantments.md#blessings">Astral</a> Enchant Stone</li>
-    <li><a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-  </ul></li>
+    <li><a href="Items.md">Items</a>: <a href="Ores.md#astruline">Astruline</a>, <a href="Bloodless_Gem.md">Bloodless Gems</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md"><font>Dormant Splinter</font></a></li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
     <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Cavalry_Saber.md#alloyed"><font>Alloyed Cavalry Saber</font></a>, <a href="Dawnshot.md#alloyed"><font>Alloyed Dawnshot</font></a>, <a href="Katana.md#alloyed"><font>Alloyed Katana</font></a>, <a href="Officer_Saber.md#alloyed"><font>Alloyed Officer Saber</font></a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Katana.md">Alloyed Katana</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Central_Dirk.md">Central Dirk</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Dragoon.md">Dragoon</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>

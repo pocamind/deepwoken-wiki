@@ -1,6 +1,6 @@
 ---
 title: Moon Lip Ring
-revid: 167109
+revid: 167205
 source: https://deepwoken.fandom.com/wiki/Moon_Lip_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]

@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 165302
+revid: 167226
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -28,7 +28,7 @@ categories: [Pages with broken file links, Weapons, Weapons with Unique Critical
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Mudskipper Brute, Mudskipper BroodlordAlloyed:, Alloying a Coral Cestus |
-| description | Cestus fashioned from the remains of a Mudskipper Brute., You've done the unthinkable... merging nature and metal into a brutal instrument of destruction. The raw purple sheen of untreated pluripotent alloys twists through the craggy gnarled texture of the brute's skin, mirroring the crushing fists of Mudskipper Broodlords. Though not made from authentic materials, its added weight and durability are sure to leave no foe standing. |
+| description | Base, AlloyedCestus fashioned from the remains of a Mudskipper Brute.You've done the unthinkable... merging nature and metal into a brutal instrument of destruction. The raw purple sheen of untreated pluripotent alloys twists through the craggy gnarled texture of the brute's skin, mirroring the crushing fists of Mudskipper Broodlords. Though not made from authentic materials, its added weight and durability are sure to leave no foe standing. |
 
 ## Description
 

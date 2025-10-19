@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 167144
+revid: 167254
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -228,8 +228,8 @@ Sold Items
   </ul></li>
     <li><b>For 650 </b>:
   <ul>
-    <li><b><font>Medium Weapons</font></b>: <a href="Falchion.md#alloyed">Alloyed Falchion</a>, <a href="Scalesplitter.md#alloyed">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.</li>
-    <li><b><font>Heavy Weapons</font></b>: <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
+    <li><b><font>Medium Weapons</font></b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.</li>
+    <li><b><font>Heavy Weapons</font></b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>.</li>
   </ul></li>
     <li><b>For 1,000 </b>:
   <ul>
@@ -265,7 +265,7 @@ Sold Items
 
 ## Black Market
 
-Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour.
+Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
 
 ### Shop UI
 
@@ -333,7 +333,7 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
+    <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Glumfig.md">Glumfig</a>.</li>
     <li><b>For 3 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For 4 </b>: <a href="Forge_Needle.md">Forge Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>

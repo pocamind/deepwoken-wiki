@@ -1,6 +1,6 @@
 ---
 title: Private Kernel
-revid: 166182
+revid: 167298
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority]
@@ -13,6 +13,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Lu
 | name | Cornelius Kernel Jr.[1][2] |
 | aspect | Celtor |
 | location | Fort Merit |
+| affiliation | The Central Authority |
 | family | Drill Sergeant Kernel (father) |
 
 ## Description

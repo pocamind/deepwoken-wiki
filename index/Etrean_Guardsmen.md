@@ -1,9 +1,9 @@
 ---
 title: Etrean Guardsmen
-revid: 163718
+revid: 167347
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Kingdom of Etrea Enemies, NPCs, Guards, Etrea]
+categories: [Enemies, Etrea Enemies, Guards]
 ---
 
 # Etrean Guardsmen
@@ -68,4 +68,3 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 
 -   There is an Etrean Guardsmen who stands near a hole, guarding the entrance to Etris near the Blacksmith and Polis. Their pathfinding is somewhat mediocre, which often leads to them falling through the hole into the ocean below.
     -   As they were more often than not in the ocean, they were nicknamed Conditioned Swimmer, after the Conditioned Runner Talent. They were eventually modified so they would be teleported back to spawn should they fall through the hole.
--   Not much to say about these guys...

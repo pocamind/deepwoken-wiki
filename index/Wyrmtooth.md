@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 161364
+revid: 167281
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Greatswords, Heavy Weapons]
+categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Heavy Weapons, Medium Weapons]
 ---
 
 # Wyrmtooth

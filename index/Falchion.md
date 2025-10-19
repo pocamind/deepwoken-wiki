@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 165229
+revid: 167232
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords, Me
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in:, Erisia, Sea Events, Alloyed:, Sold by Traan Zakshun for 650 |
+| obtainment | Chests in:, Erisia, Sea Events, Alloyed:, Alloying a Falchion, Sold by Traan Zakshun for 650 |
 | description | A single-edged sabre often wielded by conscripted Authority militiamen due to its relative ease of production. |
 
 ## Description

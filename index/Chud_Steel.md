@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 166185
+revid: 167293
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central
 | name | Chud Steel |
 | aspect | Adret |
 | location | Fort Merit |
+| affiliation | The Central Authority |
 | family | 15 unnamed brothers |
 
 “ Three cheers, citizen! Fear not, we fight for you! ”
@@ -54,85 +55,82 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 <table>
 <tbody>
 <tr>
-  <td colspan="5">Begin</td>
+  <td colspan="20">Begin</td>
 </tr>
 <tr>
-  <td colspan="5"><i>*You salute the flashily-dressed soldier. He salutes back.*</i> HURRAH, my comrade! Interceptor Chud Steel at your service! Proud to serve the Central Authority!</td>
+  <td colspan="20"><i>*You salute the flashily-dressed soldier. He salutes back.*</i> HURRAH, my comrade! Interceptor Chud Steel at your service! Proud to serve the <a href="Glossary.md#the-central-authority">Central Authority</a>!</td>
 </tr>
 <tr>
-  <td colspan="5">Chud Steel?..</td>
+  <td colspan="20">Chud Steel?..</td>
 </tr>
 <tr>
-  <td colspan="5"><i>*A spark of recognition flashes violently in your mind. You've seen this guy before - he's plastered all over the posters in Fort Merit. You stand before Interceptor Chud Steel, a legendary Central Authority Warrior. Though, when last you checked, he was serving in the Central Luminant.*</i> That's right, comrade! My name is indeed Chud Steel! I know, I get a lot of questions about it - it's a long-running family name! What's your name, soldier?</td>
+  <td colspan="20"><i>*A spark of recognition flashes violently in your mind. You've seen this guy before - he's plastered all over the posters in Fort Merit. You stand before Interceptor Chud Steel, a legendary <a href="Glossary.md#the-central-authority">Central Authority</a> Warrior. Though, when last you checked, he was serving in the <a href="Glossary.md#the-central-luminant">Central Luminant</a>.*</i> That's right, comrade! My name is indeed <b>Chud Steel</b>! I know, I get a lot of questions about it - it's a long-running family name! What's your name, soldier?</td>
 </tr>
 <tr>
-  <td colspan="5">I am [Rank and Full name].</td>
+  <td colspan="20">I am [Rank] [Full name].</td>
 </tr>
 <tr>
-  <td colspan="5"><i>*Interceptor Steel radiates pride beyond measure, as he removes his helmet, almost supernaturally. It seems he was hiding a chiseled, flawless face, deep gold-amber eyes and an impeccably kept haircut underneath.*</i> HURRAH, comrade! It is good to make your acquaintance!</td>
+  <td colspan="20"><i>*Interceptor Steel radiates pride beyond measure, as he removes his helmet, almost supernaturally. It seems he was hiding a chiseled, flawless face, deep gold-amber eyes and an impeccably kept haircut underneath.*</i> HURRAH, comrade! It is good to make your acquaintance!</td>
 </tr>
 <tr>
-  <td>Say, I thought you were supposed to be serving in the Central Luminant?</td>
+  <td colspan="4">Say, I thought you were meant to be serving in the Central Luminant?</td>
+  <td colspan="4">You're quite famous, what's your story, soldier?</td>
+  <td colspan="4">What's the deal with all those letters, Interceptor?</td>
+  <td colspan="4">Interceptor Steel, I'm a big fan of yours - may I get an autograph?</td>
+  <td colspan="4">Interceptor Steel, may I hear one of your legendary catchphrases? You know... for the fans!</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*Interceptor Steel flashes you a brilliant smile*</i> That is true, my friend! However, I get moved around a lot! High command sends me where morale is low. They say my presence inspires the troops - and I'm told things feel quite grim in Fort Merit right now, so here I am! For now, I proudly serve as Sentinel Augustus' right-hand man! <i>*He demonstratively holds up his left hand.*</i></td>
+  <td colspan="4"><i>*He puts his chest out with pride.*</i> My family were but humble farmers, [Rank] [Last name], but we could not stand idly by while so much villainy threatened the <a href="Glossary.md#the-central-authority">Central Authority</a>. So, my 15 brothers and I enlisted in the military, to defend <a href="Glossary.md#lumen">Lumen</a> from evil! I rose through the ranks serving in the <a href="Glossary.md#the-western-luminant">Western Luminant</a>, and my commanders took note of my good looks, endless bravado, and daring achievements, so they recommended me as a poster boy! I think I make a damn good one, I do!</td>
+  <td colspan="4"><i>*He laughs with gusto.*</i> That's mail from all of my adoring admirers! This batch here is all the ones that have come in today! I usually get about 20 letters each day. I write back to each of them! Each of them has a story to tell - looks like I inspire a lot of people to do their best! Hurrah! <i>*The Interceptor winks.*</i></td>
+  <td colspan="4"><i>*He laughs heartily.*</i> I'd love to!... Er!.. Unfortunately, I don't have anything to sign with! Perhaps another time then, [Rank]!</td>
+  <td colspan="4"><i>*He chuckles*</i> Of course! Ahem... Keep on marching, soldier! Don't trip!</td>
+</tr>
+<tr>
   <td>You're quite famous, what's your story, soldier?</td>
+  <td>What's the deal with all those letters, Interceptor?</td>
+  <td>Interceptor Steel, I'm a big fan of yours - may I get an autograph?</td>
+  <td>Interceptor Steel, may I hear one of your legendary catchphrases? You know... for the fans!</td>
+  <td colspan="4">What are some of the notable things you've done? I'm curious.</td>
+  <td colspan="4">Have you ever gotten... *hate* mail?</td>
+  <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="4">Let's see! Once, I singlehandedly vanquished a platoon of enemies in a raid... One time, I swam 40 miles in armour to deliver a message to my besieged commander... I simultaneously carried 15 wounded soldiers on my back to home base after our field surgeon was killed in action... Oh, once I moved an orphanage building out of the way of a fire! Pushing it was a proper workout! <i>*Is all of that actually true?.. Despite your doubts, this man looks physically incapable of lying. There is oblivious sincerity in his voice.*</i></td>
+  <td colspan="4">Hah, plenty! Many of the foul villains of <a href="Glossary.md#lumen">Lumen</a> write to me to let me know how angry they are with me! Plenty of them have said very rude words about me!.. I write back to them, too! I say polite things, though! Gotta be the bigger guy sometimes and show sportsmanship! <i>*He shoots you a double thumbs up.*</i></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">Really? How are you still only an Interceptor after all of this?</td>
+  <td>Say, I thought you were meant to be serving in the Central Luminant?</td>
+  <td>You're quite famous, what's your story, soldier?</td>
+  <td>Interceptor Steel, I'm a big fan of yours - may I get an autograph?</td>
+  <td>Interceptor Steel, may I hear one of your legendary catchphrases? You know... for the fans!</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4"><i>*He flashes one of his sparkling trademark smiles.*</i> High command says the rank suits me! I'm told being an Interceptor is better for my inspirational image as a rank-and-file soldier - and I wouldn't wanna disappoint my comrades! Besides, it motivates me to work <i>harder</i>! One day, I'll surely become an Operator!.. But make no mistake, friend, for each of my great achievements, I've been issued a medal!</td>
+  <td colspan="4">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">How many medals do you have?</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4"><i>*Interceptor Steel winks.*</i> I have twenty three Orders of the Star, thirteen Honours of the <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a>, thirty six Orders of the Revered, and sixty eight Steel Hearts! Those ones used to be called the 'Bronze Hearts of Valour', but they renamed them after me! Hahah!</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td>Say, I thought you were meant to be serving in the Central Luminant?</td>
   <td>What's the deal with all those letters, Interceptor?</td>
   <td>Interceptor Steel, I'm a big fan of yours - may I get an autograph?</td>
   <td>Interceptor Steel, may I hear one of your legendary catchphrases? You know... for the fans!</td>
 </tr>
 <tr>
-  <td><i>*Interceptor Steel flashes you a brilliant smile*</i> That is true, my friend! However, I get moved around a lot! High command sends me where moral is low. They say my presence inspires the troops - and I'm told things feel quite grim in Fort Merit right now, so here I am! For now, I serve as Sentenel Augustus' right hand man! *He demonstratively holds up his left hand.*</td>
-  <td><i>*He puts his chest out with pride.*</i> My family were but humble farmers, [Rank and Last name], but we could not stand idly by while so much villainy threatened the Central Authority. So my 15 brothers and I enlisted in the military, to defend Lumen from the evil! I rose through the ranks serving in the Western Luminant, and my commanders took note of my good looks, endless bravado, and daring achievments, so they recommended me as a poster boy! I think I make a damn good one, I do!</td>
-  <td><i>*He laughs with gusto.*</i> That's mail from all of my adoring admirers! This batch here is all the ones that have come in today! I usually get about 20 letters each day. I write back to each of them! Each of them has a story to tell - looks like I inspire a lor of people to do their best! Hurrah! <i>*The Interceptor winks.*</i></td>
-  <td><i>*He laughs heartily.*</i> I'd love to!... Er!.. Unfortunately, I don't have anything to sign with! Perhaps another time then, [Rank]!</td>
-  <td><i>*He chuckles*</i> Of course! Ahem... Keep on marching, soldier! Don't trip!</td>
-</tr>
-<tr>
-  <td>End</td>
-  <td>What are some of the notable things you've done? Im curious.</td>
-  <td>Have you ever gotten... *hate* mail?</td>
-  <td>End</td>
-  <td>End</td>
-</tr>
-<tr>
-  <td></td>
-  <td>Let's see! Once, I singlehandedly vanquished a platoon of enemies in a raid... One time, I swam 40 miles in armour to deliver a message to my besieged commander... I simultaneously carried 15 wounded soldiers on my back to home base after our field surgeon was killed in action... Oh, once I moved an orphanage building out of the way of a fire! Pushing it was a proper workout! <i>*Is all of that actually true?.. Despite your doubts, this man looks physically incapable of lying. There is obvious sincerity in his voice.*</i></td>
-  <td>Hah, plenty! Many of the foul villains of Lumen write to me to let me know how angry they are with me! Plenty of them have said very rude words about me!.. I write back to them, too! I say polite things, though! Gotta be the bigger guy someitmes and show sportsmanship! <i>*Hes shoots you a double thumbs up.*</i></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td>Really? How are you still only an Interceptor after all of this?</td>
-  <td>End</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td><i>*He flashes one of his sparkling trademark smiles.*</i> High command says the rank suits me! I'm told being an interceptor is better for my inspirational image as a rank-and-file soldier - and I wouldn't wanna dissapoint my comrades! Besides, it motivates me to work <i>harder</i>! One day I'll surely become an Operator! But make no mistake, friend, for each of my great achievments I've been issued a medal!</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td>How many medals do you have?</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td><i>*Interceptor Steel winks.*</i> I have twenty three Orders of the Star, thirteen Honours of the Sovereign, thirty six Orders of the Revered, and sixty eight Steel Hearts! Those ones used to be called the Bronze Hearts of Valour, but they renamed them after me! Hahah!</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td>End</td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td colspan="4"></td>
+  <td colspan="4">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -181,11 +179,11 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
   <td colspan="5">Begin</td>
 </tr>
 <tr>
-  <td colspan="5"><i>*Interceptor Chud Steel and yourself exchange salutes. He removes his helmet - there's something magically supernatural about it.*</i><p>HURRAH, my comrade! Welcome back, come to chat with you friend Chud Steel, huh? Very well! Let's chat!</p></td>
+  <td colspan="5"><i>*Interceptor Chud Steel and yourself exchange salutes. He removes his helmet - there's something magically supernatural about it.*</i><p>HURRAH, my comrade! Welcome back! Come to chat with your old friend Chud Steel, huh? Very well! Let's chat!</p></td>
 </tr>
 <tr>
-  <td>Say, I thought you were supposed to be serving in the Central Luminant?</td>
-  <td>You're quite famous, what's your story, soldier?</td>
+  <td>Say, I thought you were meant to be serving in the Central Luminant?</td>
+  <td>You're quite famous. What's your story, soldier?</td>
   <td>What's the deal with all those letters, Interceptor?</td>
   <td>Interceptor Steel, I'm a big fan of yours - may I get an autograph?</td>
   <td>Interceptor Steel, may I hear one of your legendary catchphrases? You know... for the fans!</td>

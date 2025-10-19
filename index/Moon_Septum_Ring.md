@@ -1,6 +1,6 @@
 ---
 title: Moon Septum Ring
-revid: 167103
+revid: 167206
 source: https://deepwoken.fandom.com/wiki/Moon_Septum_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]

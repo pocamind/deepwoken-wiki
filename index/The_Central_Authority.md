@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 166504
+revid: 167320
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -91,3 +91,4 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 -   Though the Authority are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other; they only fight on the battlegrounds of Aratel.
 -   The Authority has an unofficial marching song called "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)", named after (and written by) the first lieutenant of The Authority, August Gideshu. The march quickly became popular among the many regiments and has therefore become a popular marching song. Some even consider it The Authority's unofficial anthem, though the more elite Authority members views on this are not entirely clear.
     -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.
+-   A very common misconception among the fandom is that the Authority is not racist. It's very bizarre that this even has to be stated, but the Central Authority are very much racist. Them employing other aspects is merely pragmatism, allowing them to annihilate any other foe with ease thanks to them not stupidly refusing free manpower and meatshields, and is something that has been done by numerous infamously racist groups in real life.

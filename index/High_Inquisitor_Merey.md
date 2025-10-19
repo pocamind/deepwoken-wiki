@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 166970
+revid: 167214
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -113,8 +113,6 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 
 **Warrant Officer:**
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
@@ -122,22 +120,6 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tr>
 <tr>
   <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, Warrant Officer. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>

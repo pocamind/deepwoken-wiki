@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 165694
+revid: 167233
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Equipment, Head, Helmets, Items, The Central Authority, Drops]
@@ -34,3 +34,4 @@ Grants the [Strong Hold](Talents.md#duelist) Talent, reducing posture damage tak
 ## Trivia
 
 -   The last part of the description "Within this dark a blazing light" is a verse from the song "Gideshu March", the Central Authority's (unofficial) marching song.
+-   Originally, this item had no description. Arch\_Mage added it in a shadow patch alongside a way to more easily obtain [Seaweed Bundles](Seaweed_Bundle.md) due to a Discord user constantly pinging him since November 2023 and requesting they be added.

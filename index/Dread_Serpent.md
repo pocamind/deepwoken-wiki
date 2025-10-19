@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 165633
+revid: 167266
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -92,7 +92,7 @@ Exhaustive Loot Table
   <ul>
     <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
     <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md#alloyed">Alloyed Inheritor</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md">Alloyed Inheritor</a>, <a href="Katana.md">Alloyed Katana</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Central_Dirk.md">Central Dirk</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Flintlock.md">Flintlock</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Tanto.md">Tanto</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>

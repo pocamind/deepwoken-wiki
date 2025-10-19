@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 163679
+revid: 167262
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths]
@@ -113,7 +113,7 @@ This lootpool may still be incomplete, we'd appreciate it if you helped gather i
   <td>
   <ul>
     <li><b>Legendary Weapons</b>: <a href="Guiding_Star.md"><font>Guiding Star</font></a> (Direct Drop, <b>Guaranteed</b>), <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Cavalry_Saber.md#alloyed">Alloyed Calvary Saber</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md#alloyed">Alloyed Inheritor</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Cavalry_Saber.md">Alloyed Calvary Saber</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Markor's_Inheritor.md">Alloyed Inheritor</a>, <a href="Katana.md">Alloyed Katana</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Central_Dirk.md">Central Dirk</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Dragoon.md">Dragoon</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Flintlock.md">Flintlock</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Tanto.md">Tanto</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>

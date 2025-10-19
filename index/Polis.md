@@ -1,9 +1,9 @@
 ---
 title: Polis
-revid: 163747
+revid: 167354
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies, Kingdom of Etrea Enemies, Etrea, Quests, Weapons, NPCs located in the Etrean Luminant]
+categories: [NPCs, Enemies, Etrea Enemies, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Polis
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is a [Vesperian](Vesperian.md) NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and follows the [Celestial](Celestial.md), Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him (which has a possibility of being starred). When The Central Authority invades [Etris](Etris.md), he fights to defend his home along with the guards.
+Polis is a [Vesperian](Vesperian.md) NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and follows the [Celestial](Celestial.md), Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him (which has a possibility of being starred). When The Central Authority invades Etris, he fights to defend his home along with the guards.
 
 ## Dialogue
 
@@ -254,13 +254,13 @@ Polis executes his opponent after knocking them:
 
 ## Trivia
 
--   Killing him will give the player negative [reputation](Reputation.md) with Etrea. (Despite Polis saying that he was not liked by the etreans.)
+-   Killing him will give the player negative [reputation](Reputation.md) with Etrea.
 -   During the event there's a bug where his face mask changes to a different pattern than the one he has while he is static.
 -   Though Polis can be killed, doing so will not affect him, as he will respawn back in his usual spot and act like nothing happened.
 -   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes, however the price may vary due to quality stars.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "I may be old, but I'm still brave, young one." "Nice try."
--   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and does not give you a Gold Ring or any other dialogue.
--   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead.
--   Polis does use Jus Karita mantras, despite wielding a Greatsword.
+-   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon...", as if you have already met, and does not give you a Gold Ring or any other dialogue.
+-   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead. This is because Jus Karita is intended to be a last resort if disarmed, a mechanic that does not exist in _Deepwoken_.
+    -   Polis does use Jus Karita Mantras though, despite wielding a Greatsword.
 -   His name historically means "Greek city state."
 -   Polis has an actual obtainable build if you utilize [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), with all of his [Talents](Talents.md) (_except Audacity_) and all [Mantras](Mantras.md) being obtainable.

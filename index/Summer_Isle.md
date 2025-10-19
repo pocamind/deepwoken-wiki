@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 167033
+revid: 167259
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -239,6 +239,7 @@ Items and equipment that can be obtained from loot chests.
 
 -   [Trident Spear](Trident_Spear.md)
 -   [Cavalry Saber](Cavalry_Saber.md)
+-   [Alloyed Cavalry Saber](Cavalry_Saber.md)
 -   [Forge Greathammer](Forge_Greathammer.md)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Serpent's Edge](<Serpent's_Edge.md>)

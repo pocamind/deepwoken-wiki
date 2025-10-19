@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 166426
+revid: 167255
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -18,7 +18,7 @@ They wear a [Darksteel Plate](Darksteel_Plate.md), a dyed black [Silver Knight's
 
 ## Moves
 
-Their arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) and the [Shadowcast](Shadowcast.md) Attunement:
+Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and the [Shadowcast](Shadowcast.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |

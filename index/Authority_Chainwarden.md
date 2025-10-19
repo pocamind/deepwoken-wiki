@@ -1,9 +1,9 @@
 ---
 title: Authority Chainwarden
-revid: 162833
+revid: 167351
 source: https://deepwoken.fandom.com/wiki/Authority_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies with Oaths, The Central Authority, Authority Enemies]
+categories: [Enemies, Enemies with Oaths, Central Authority Enemies]
 ---
 
 # Authority Chainwarden

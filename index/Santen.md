@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 165555
+revid: 167301
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -15,6 +15,7 @@ notices:
 | name | Santen |
 | aspect | Ganymede |
 | location | Fort Merit |
+| affiliation | The Central Authority |
 
 ## Description
 

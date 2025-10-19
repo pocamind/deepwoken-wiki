@@ -1,6 +1,6 @@
 ---
 title: Trimmed Overcoat
-revid: 165976
+revid: 167228
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -22,7 +22,7 @@ categories: [Items, Equipment, Arms]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle (Brown, White), Erisia (Brown, White), Duke Ishamon Erisia (Brown, White), Hell Mode (Black), Maestro Evengarde Rest (All), Lodestar (Black, White), Dread Serpent (Black, White), War Mode (White), Chaser, Scholar of the Crimson Contract (Brown, Black), Heart of Enmity (Brown, Black), Authority Ensign Missions (Black) |
-| description | A thick coat to protect you against the elements., "A thick coat to protect you against the cold." |
+| description | Brown, White / BlackA thick coat to protect you against the elements.A thick coat to protect you against the cold. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 162897
+revid: 167346
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
@@ -16,7 +16,11 @@ _The stars call you back..._
 
 Chance of obtaining aspect: **N/A**
 
-## Racial Traits
+## Description
+
+Hybrids of Humans and [Celestials](Celestial.md), they once inhabited the city of [Constellia](Lore.md#constellia). Now, they are primarily seen among the Spellhardt family, residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
+
+## Aspect Traits
 
 <table>
 <tbody>
@@ -24,7 +28,7 @@ Chance of obtaining aspect: **N/A**
   <td>File:Seaborne.png</td>
   <td><b>None</b>
   <ul>
-    <li>No innate racial Talent is given to Lightborns.</li>
+    <li>No innate Aspect Talent is given to Lightborns.</li>
   </ul></td>
 </tr>
 <tr>
@@ -48,17 +52,29 @@ Chance of obtaining aspect: **N/A**
 
   
 
-The Lightborn are considered to be fragments of the once great gods up above, hybrids formed from humans and celestials. In recent times, a family of these people known as the Spellhardts had come forth within the Eastern Luminant, rumored to be housing themselves within a [mighty castle in the sky](The_Floating_Keep.md). Although they are of Celestial origin, their reputation among the people is questioned quite often due to their less than favorable actions. Little is known about their culture and beliefs, but they are known to punish those who are tempted by Drowned Gods, exiling them from their community. The Lightborn alongside the Celestials were apparently in a war against the Drowned Gods and [The Depths](The_Depths.md) itself, having their city raided by the Kyrsgarde under Ethiron's will. The remaining Lightborn lost the motivation to fight back against the Kyrsgarde when the Celestials fled from the war, resulting in Constellia being destroyed.
+The Lightborn are said to be fragments of the once-great gods above, hybrids born from both humans and [celestials](Lore.md#celestials). A family of them known as the Spellhardts has appeared in the Eastern Luminant, rumored to live in a [great castle in the sky](The_Floating_Keep.md). Though they come from celestial origins, their reputation among the people is often questioned because of their questionable actions. Not much is known about their culture or beliefs, but they are known to punish anyone tempted by the [Drowned Gods](Lore.md#drowned-gods), banishing them from their community. The Lightborn, along with the Celestials, were once at war with the Drowned Gods and [The Depths](The_Depths.md) itself. Their city was eventually raided by the [Kyrsgarde](Kyrsgarde.md) under [Ethiron’s](Lore.md#ethiron-the-maelstorms-eye) command, and after the Celestials fled, the remaining Lightborn lost the will to fight, leading to the fall of [Constellia](Lore.md#constellia).
 
-They are also immortal, meaning that they can be thousands of years old. Also possibly meaning that if someone has this aspect, they cannot have age tiers like a normal player, not being able to gain wrinkles or any age indicator due to being immortals.
+Despite being immortal, they can show signs of aging, as seen in [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md). It’s unclear how this works with player Lightborns.
 
 **Strengths:**
 
   
 
-+2 points in every attribute +5 Points when in character creation and has 332 stats points at level 20
++2 Strength
 
-Easier to play the game, because obviously you've played it too much.
++2 Fortitude
+
++2 Agility
+
++2 Intelligence
+
++2 Willpower
+
++2 Charisma
+
++5 attribute points in character creation, has 332 attribute points at power 20.
+
+With the addition of the Echo Unlock: Multifaceted, Lightborns essentially gain 12 free points to allocate.
 
 **Surnames:**
 
@@ -70,26 +86,20 @@ Easier to play the game, because obviously you've played it too much.
 
 ## Notes
 
--   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the aspect).
--   While considered a developer aspect, the increase in stats is not significantly stronger than any other aspect.
--   Devs have mentioned plans on this becoming an **Obtainable** aspect in the future, but not via the reroll system. Instead, the player would have to do something in order to obtain it and become a Lightborn (Agamatsu mentioned in a live stream of it already being obtainable, but obviously this hasn't been proven as of yet).
-    -   Yet, obtaining the Lightborn aspect (even if it can be obtainable one day which will be unlikely) will be **difficult but possible** in terms of lore, due to the Lightborns being hybrids, meaning that creating a Lightborn is possible as long as you have contact with a celestial, being that very difficult.
+-   The Lightborn aspect is currently only obtainable by developers. However, it can also be granted to well-known and well-liked members of the Content Creator community, provided that a developer gives them the aspect.
+-   Although it is considered a developer aspect, its stat boosts are not significantly stronger than those of other aspects.
+-   Developers have stated plans for making Lightborn obtainable in the future, though not through the standard reroll system. Instead, players would need to complete a specific task or requirement to earn the aspect and become a Lightborn. Agamatsu once mentioned during a livestream that Lightborn was already obtainable, though this has yet to be confirmed.
+    -   From a lore perspective, obtaining the Lightborn aspect, while extremely difficult, is possible. Lightborns are hybrids of humans and celestials, meaning that creation of one could occur through direct contact with a celestial, though such an event would be incredibly rare.
 
 ## Trivia
 
--   There are 3 known halo variants for Lightborns, being:
-    
-    1.  Above the head
-    2.  Around the neck
-    3.  Around the arms (Halos are split in two)
-    
-    -   Currently, the position the halo(s) are in isn't able to be chosen by the player and is randomly chosen in the character creator.[\[1\]](#cite-note-1)
-    -   The positions of the halos have lore implications.[\[2\]](#cite-note-2)
--   Lightborn and Capra are the first aspects to receive a cosmetic in the UGC Avatar Shop.
-    -   It is listed under the [Deepwoken UGC group](https://www.roblox.com/groups/16769317/Deepwoken-UGC#!/about).
--   The runes on the halo roughly translate to "Be the mysterious light the few whom were chosen"
+-   Lightborns are known to possess **three distinct halo variants**:
+    1.  Above the Head
+    2.  Around the Neck
+    3.  Around the Arms
 
-## References
-
-1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
+-   The placement of the halo carries specific lore implications, reflecting unique aspects of the Lightborn’s origin and purpose.
+-   Lightborn and Capra were the first aspects to receive a cosmetic item in the **UGC Avatar Shop**.
+-   The halo is listed under the **[Deepwoken UGC group](https://www.roblox.com/communities/16769317/Deepwoken-UGC#!/about)**.
+-   The runes inscribed on the halo roughly translate to:
+    -   “Be the mysterious light the few who were chosen.”

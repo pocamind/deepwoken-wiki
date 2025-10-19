@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 167180
+revid: 167342
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1031,6 +1031,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 60 Shadowcast, Dark Hours
 
 -   Night Terror \[Common Talent, Shadowcast Exclusive\] - Your light attacks now proc Fear the Dark.
+    -   Applies Fear the Dark for 1 second with no cooldown.
+    -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker's](Oath%253A_Dawnwalker.md) Absolute Radiance.
+    -   Also procs on weapon criticals.
     -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy), Fear the Dark
 
 -   Overwhelming Drain \[Common Talent, Shadowcast Exclusive\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
@@ -2604,8 +2607,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Having Metal Greatsword equipped doubles your Metal Armament damage.
     -   Metal Greatsword lasts 10 seconds after Rending Needle proc
     -   Maximum amount of Iron Rods you can apply to a single target is 5.
+    -   You cannot obtain this Talent if you have Scrapsinger, but you _can_ obtain Scrapsinger while having this Talent.
     -   Prerequisites: 90 Ironsing, 90 Weapon (90 Medium OR 90 Light OR 90 Heavy)
-    -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer
+    -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer, Gilded Path: Scrapsinger
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Works as default path with exception of applying a Conductor rod after 5 normal metal rods are applied.
@@ -2927,22 +2931,24 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Shadowcaster
 
--   _Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster._
+-   Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster.
     -   Obtained at 1 Shadowcast or from the Shadowcast trainer [Nostor](Nostor,_Master_of_Shadow.md).
 
--   _Adept Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 1-star Leveled Shadowcaster Mantras._
+-   Adept Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 1-star Leveled Shadowcaster Mantras.
     -   Obtained at 20 Shadowcast
 
--   _Expert Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 2-star Leveled Shadowcaster Mantras._
+-   Expert Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 2-star Leveled Shadowcaster Mantras.
     -   Obtained at 30 Shadowcast
 
--   _Master Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)_
+-   Master Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)
     -   Obtained at 50 Shadowcast
 
 -   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets.
     -   Prerequisite: [Shadow Roar](Shadowcast.md#shadow-roar) (Mantra)
 
 -   Fear the Dark \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when they run from you.
+    -   After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you, they will be locked in place for 1.5 seconds.
+    -   This does not apply hitstun.
     -   Prerequisite: 50 Shadowcast
 
 -   Lasting Sorrow \[Common Talent, Shadowcast Exclusive\] - Shadows last longer on your opponent.

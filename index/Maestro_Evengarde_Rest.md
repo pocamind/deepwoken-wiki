@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 166306
+revid: 167251
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -263,7 +263,7 @@ Exhaustive Loot Table
     <li><a href="Pale_Briar.md">Pale Briar</a> (Heavy)</li>
   </ol></li>
     <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md#alloyed">Alloyed Adretian Axe</a>, <a href="Cavalry_Saber.md#alloyed">Alloyed Cavalry Saber</a>, <a href="Dawnshot.md#alloyed">Alloyed Dawnshot</a>, <a href="Katana.md#alloyed">Alloyed Katana</a>, <a href="Officer_Saber.md#alloyed">Alloyed Officer Saber</a>, <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>.</li>
+    <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Katana.md">Alloyed Katana</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
