@@ -1,6 +1,6 @@
 ---
 title: Acre
-revid: 166086
+revid: 167682
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in Starswept Valley, NPCs located in the Eastern Luminant]
@@ -69,7 +69,7 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
   <td>GO AWAY!</td>
 </tr>
 <tr>
-  <td>End, player is thrown off the cliff|}</td>
+  <td>End, player is thrown off the cliff</td>
 </tr>
 </tbody>
 </table>

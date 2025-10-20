@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 164284
+revid: 167687
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -38,6 +38,8 @@ Activating resonance marks a living being, giving it a minor speed buff for the 
 While players have a marker on them if they are knocked, they will be lifted into the air and have their health set to 40%. This will cause the resonance to go on cooldown.
 
 If not, then the star on the target will fade away and the Resonance has a chance to go on cooldown.
+
+Resurrection has per-player cooldowns meaning if someone were to be resurrected by a different player, you too will not be able to resurrect them for a short duration.
 
 **WARNING:** Resurrection **WILL NOT** activate if you are auto gripped (ex. fall damage) unless you have the auto grip variant.
 

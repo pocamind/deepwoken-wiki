@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 158583
+revid: 167684
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -44,6 +44,8 @@ At requirements, this weapon deals 26.1 damage while in Club form, and 30.8 (23.
 At 100 MED and 100 MTL, this weapon deals 30.2 damage while in Club form, and 35.7 (27.5 + 8.2 BLEED) damage while in Sword form.
 
 > To put it in perspective, even with 6 PROF and 3\* dmg that number becomes 36.5 (+5.475 if speed demon proc, making it 41.975) on Club and 42.9 (33 + 9.9 BLEED) on Sword, making this weapon have the third highest dmg among all medium weapons in the game, behind [Razor Cutlass](Razor_Cutlass.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) (more with gale's 30% bleed talent), and [Kyrswynter](Kyrswynter.md), but that does not count other mediums access to enchantments like Detonation, which gives a ~+6 m1 damage increase that bypass resistances after the first hit, which if factored in with speed demon, causes every medium weapon with 5 MED scaling or more at max medium investment to deal more average damage on m1 than Ignition Deepcrusher. In other words, this is one of the _worst_ possible weapons to make an M1 build around, due to its low scaling and legendary status.
+
+The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#scrapsinger) talent, turning golden yellow. This effect applies to criticals as well.
 
 ## Critical
 

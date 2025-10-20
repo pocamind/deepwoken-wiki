@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 167544
+revid: 167690
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Event Only Content, Hallowtide]
@@ -18,6 +18,7 @@ Instruments can be purchased, for 25 each, at:
 -   [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip and in the Pub.
 -   [Greathive Aratel](Greathive_Aratel.md) in the observatory.
 -   [The Varicosa District](Varicosa_District.md) inside one of the buildings in the southeast sector.
+-   [Port Merit](Port_Merit.md) beside the [Antiquarian](Antiquarian.md).
 
 If you are near another player, the prompt to play a song now adds Play Along, syncing your instrument with theirs. You can only play along with songs you currently have.
 
