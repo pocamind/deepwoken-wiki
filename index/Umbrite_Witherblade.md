@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 167642
+revid: 167644
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, Craftable, Medium Weapons, Relics]
@@ -63,7 +63,7 @@ The cooldown for this critical is **8** seconds.
 -   At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is 31 + [9.3 \[BLD\]](Status_Effects.md#bleed)
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to prevent datamining.
--   During it's release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat noises still stayed.
+-   During its release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat noises still stayed.
 -   While equipped, the Umbrite Witherblade will radiate heartbeat noises as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
 -   Umbrite Witherblade's apperance is extremely similar to a weapon shown in _Overlord_, specifically in the fourth season.[\[1\]](#cite-note-1) This could be a potential inspiration for the weapon we see in Deepwoken.

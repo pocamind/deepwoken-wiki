@@ -1,9 +1,9 @@
 ---
 title: "Metallica x Deepwoken '72 Seasons' Listening Party"
-revid: 157554
+revid: 167647
 source: https://deepwoken.fandom.com/wiki/Metallica_x_Deepwoken_'72_Seasons'_Listening_Party
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Deepwoken, Events]
+categories: [Event Only Content, Deepwoken, Events, Promotional Content]
 notices:
   - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
