@@ -1,6 +1,6 @@
 ---
 title: "C'lantaa"
-revid: 162819
+revid: 167631
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -41,7 +41,7 @@ A [Tiran](Tiran.md) man found in [New Kyrsa, The Sleeping City](Second_Layer/New
 </tr>
 <tr>
   <td colspan="6">So it seems. I personally think that these people have been enslaved by <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> presence, bending their wills to his own. Lacking in true free will, as <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> pawns... It disgusts me.</td>
-  <td colspan="6"><a href="Glossary.md#kyrsgarde">Kyrsgarde</a> drones wander the streets aimlessly, and I cannot understand why... I believe they seek to protect <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>, although I cannot be certain. Trying to talk to them has, well, not provided me with anything good. <i>*He glances down upon his chest, a small gash pulsing right near his heart.</i>* So... I've avoided 'peace and love' since then.</td>
+  <td colspan="6"><a href="Glossary.md#kyrsan--kyrsgarde">Kyrsgarde</a> drones wander the streets aimlessly, and I cannot understand why... I believe they seek to protect <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>, although I cannot be certain. Trying to talk to them has, well, not provided me with anything good. <i>*He glances down upon his chest, a small gash pulsing right near his heart.</i>* So... I've avoided 'peace and love' since then.</td>
   <td colspan="6">*<i>He raises his brow.</i>* The same as you, I suppose. Riches, the desire to seek the unknown, perhaps a wanting for something more in life. The Kyrsan treasures here are worth quite a lot on the <a href="Glossary.md#the-surface">Surface</a>... Although, to say if I make it back alive is a gamble.</td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ A [Tiran](Tiran.md) man found in [New Kyrsa, The Sleeping City](Second_Layer/New
   <td colspan="2">Is there anyone else down here?</td>
 </tr>
 <tr>
-  <td colspan="12">...Hm, then my theory may have more weight after all. Something isn't right in this place. The influence of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> may simply be too much for the <a href="Glossary.md#kyrsgarde">Kyrsgarde</a> to handle. Gods below only know how long <i>we</i> can stay ourselves down here...</td>
+  <td colspan="12">...Hm, then my theory may have more weight after all. Something isn't right in this place. The influence of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> may simply be too much for the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsgarde</a> to handle. Gods below only know how long <i>we</i> can stay ourselves down here...</td>
   <td colspan="2"><i>*He gives a weak smile, looking toward you with amusement.*</i> Aye, I suppose that's one way to put it. I think... life is something not everyone can get away with. Your luck runs out some day, one close call and then... You know the rest. I don't think life is something I can get away with. <i>*He looks up at you once more.*</i> You think you've already gotten away though, haven't you?</td>
   <td colspan="2">Mm. Well.. the same sky gets boring eventually. There's no thrill in living the same life as yesterday for eternity. I s'pose you could say I'm a thrillseeker of sorts... Maybe to a fault. <i>*He flashes a bright smile at you.*</i> Some call it stupidity, I can see why. But for me, there's nothing else. This is what I have to live for... And if I die by it, so be it.</td>
   <td colspan="2"><i>*He lets out a sigh, looking up at you with mournful contempt.*</i> There was. Now, only drones, and the occasional straggler like yourself.</td>

@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 166971
+revid: 167536
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -205,5 +205,5 @@ If the quest was done on the account previously, Kelsius will instead ask the pl
 ## Trivia
 
 -   Despite their record, Kelsius was accepted by the Maestro to work as the vigils librarian.
--   You are able to completely skip the quest and unlock special dialogue if you have completed the [Castaway](Origins.md#castaway) tutorial on the same character.
+-   You are able to completely skip the quest and unlock special dialogue if you have completed the [Castaway](Castaway.md) tutorial on the same character.
 -   Oddly enough, having the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) doesn't unlock new dialogue from him, despite his past as a member of the Shock Corps.

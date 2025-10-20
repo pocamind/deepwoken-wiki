@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 166605
+revid: 167541
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -10,7 +10,7 @@ categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, 
 
 Template:Location2
 
-The **Cathedral of the Interstice** is a sub-location in [The Depths](The_Depths.md). It is the main way for a player to escape the Depths through the Depths Trial. It contains the [Shrine of Courage](Shrine_of_Courage.md) that heavily increases the difficulty of the trial, randomly choosing 2 waves of monsters, each wave consisting of either a [King Thresher](King_Thresher.md), a [Fury Nautilodaunt](Fury_Nautilodaunt.md), or a [Bonekeeper](Bone_Keeper.md); as a reward it gives you enough experience to invest 15 stat points once beaten. There are few ways to enter this area, the first being a gate in the District of Commerce in the [The City of the Drowned](The_City_of_the_Drowned.md) that is opened after ringing 2 bells located at the district. The second is using an elevator located in The City of the Drowned on the opposite side of the District of Commerce, (Its usage costs 25 notes). There are other more obscure methods, such as using the [Dimensional Travel Resonance](Dimensional_Travel.md).
+The **Cathedral of the Interstice** is a sub-location in [The Depths](The_Depths.md). It is the main way for a player to escape the Depths through the Depths Trial. It contains the [Shrine of Courage](Shrine_of_Courage.md) that heavily increases the difficulty of the trial, randomly choosing 2 waves of monsters, each wave consisting of either a [King Thresher](King_Thresher.md), a [Fury Nautilodaunt](Fury_Nautilodaunt.md), or a [Bonekeeper](Bone_Keeper.md); as a reward it gives you enough experience to invest 15 stat points once beaten. There are few ways to enter this area, the first being a gate in the District of Commerce in the [The City of the Drowned](The_City_of_the_Drowned.md) that is opened after ringing 2 bells located at the district. The second is using an elevator located in The City of the Drowned on the opposite side of the District of Commerce. There are other more obscure methods, such as using the [Dimensional Travel Resonance](Dimensional_Travel.md).
 
 ## First Layer: The Trial
 
@@ -30,7 +30,7 @@ Some things can add extra Difficulty Score:
 
 -   The [Echo Modifier](Echoes.md) **Vow Of Thorns** adds 30 Difficulty Score
 -   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score
--   The **Deepbound** [Origin](Origins.md#deepbound) has an innate 50 Difficulty Score induced by Power (they count as being at least Power 17). They normally gain Difficulty Score when above that.
+-   The **Deepbound** [Origin](Origins.md) has an innate 50 Difficulty Score induced by Power (they count as being at least Power 17). They normally gain Difficulty Score when above that.
 
 | Difficulty Score | Enemy(ies) |
 | --- | --- |

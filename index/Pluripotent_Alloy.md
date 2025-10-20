@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 166010
+revid: 167519
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -42,7 +42,7 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 
 To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement, usually to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.
 
-If you have the [Ignition Delver origin](Origins.md), you are able to turn **3** of these into **1** [Smith's Alloy](<Smith's_Alloy.md>) or turn **9** of them into 1 [Armorers Needle](<Armorer's_Needle.md>) the Hollow Forge at [Miner's Landing](<Miner's_Landing.md>).
+If you have the [Ignition Delver](Ignition_Delver.md) origin, you are able to turn **3** of these into **1** [Smith's Alloy](<Smith's_Alloy.md>) or turn **9** of them into 1 [Armorer's Needle](<Armorer's_Needle.md>) the Hollow Forge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Alloyable Weapons
 

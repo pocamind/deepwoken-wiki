@@ -1,6 +1,6 @@
 ---
 title: Aristo
-revid: 130837
+revid: 167618
 source: https://deepwoken.fandom.com/wiki/Aristo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -20,8 +20,9 @@ Aristo is an Etrean and He is usually the first NPC you talk to when starting a 
 
 ## Location
 
-Aristo is located at [Isle of Vigils](Isle_of_Vigils.md) inside the inn, if you spawn with the [Isle of Vigils origin](Origins.md) you will see him instantly when coming out of the inn.
+Aristo is located at [Isle of Vigils](Isle_of_Vigils.md) inside the inn, if you spawn with the [Isle of Vigils origin](Castaway.md) you will see him instantly when coming out of the inn.
 
 ## Notes
 
-You can find [Trenti](Trenti.md), an NPC in the [Etris](Etris.md) Inn that does the same things that Aristo does.
+-   You can find [Trenti](Trenti.md), an NPC in the [Etris](Etris.md) Inn that does the same things that Aristo does.
+-   Trenti and Aristo likely share a hivemind, as you cannot receive 20 notes from both despite them being two distinct entities.

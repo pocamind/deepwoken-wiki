@@ -1,6 +1,6 @@
 ---
 title: Dungeons
-revid: 147410
+revid: 167565
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Locations]
@@ -20,7 +20,7 @@ The player is allowed to leave the dungeon either after a set goal is reached, i
 | --- | --- | --- | --- | --- |
 | [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) | Boss | Both | A section of [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) in which you fight [Duke Erisia](Duke_Ishamon_Erisia.md). Can be accessed during the [The Lord Regent's Quest.](Etris.md#the-lord-regents-quest) |  |
 | [The Ferryman's Arena](The_Ferryman.md) | Boss | Both | The arena in which you fight [The Ferryman](The_Ferryman.md), can be accessed in [Boatman's Watch](<Boatman's_Watch.md>) by placing down and lighting 4 campfires. |  |
-| [Saramaed Hollow](Saramaed_Hollow.md) | Grinding Area | Both | A mining area used by [The Ignition Union](The_Ignition_Union.md), deep under [Miner's Landing](<Miner's_Landing.md>). It is the primary progression for the [Ignition Delver origin](Origins.md#ignition-delver).
+| [Saramaed Hollow](Saramaed_Hollow.md) | Grinding Area | Both | A mining area used by [The Ignition Union](The_Ignition_Union.md), deep under [Miner's Landing](<Miner's_Landing.md>).
 The main purpose is to kill the monsters on each level, and then mine enough fuel to continue deeper. Accessed by talking to Tau.
 
  | File:Photo 2024-10-15 19-27-35.jpg |
@@ -38,4 +38,4 @@ Can be accessed by beating [Chaser, Scholar of the Crimson Contract](Chaser,_Sch
  | File:Final.png |
 | [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) | Training Area/Boss | Solo | A training area/boss arena accessed by either talking to [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (for his boss fight) or by talking to [Das](Das.md) for [Training Mode](Training_Mode.md). |  |
 | [Blade Within](Oath%253A_Bladeharper.md) | Oath Obtainment | Solo | An area in which you fight an AI version of yourself in order to obtain [Oath: Bladeharper](Oath%253A_Bladeharper.md). It can be accessed by visiting one of the [Sky Statues](Sky_Statue.md) and interacting while having the required amount of weapon points. |  |
-| [Trial of One](Trial_of_One.md) | Progression Area | Solo | An area in which you fight waves of monsters at Power One. Can be accessed as an [Origin](Origins.md), or by going to the basement of [Outpost Antumbra](Outpost_Antumbra.md) at power 1. |  |
+| [Trial of One](Trial_of_One.md) | Progression Area | Solo | An area in which you fight waves of monsters at Power One. Can be accessed through the [Lone Warrior](Lone_Warrior.md) Origin, or by going to the basement of [Outpost Antumbra](Outpost_Antumbra.md) at power 1. |  |

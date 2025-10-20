@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 166359
+revid: 167500
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -48,7 +48,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 
   
 
-<table><caption>First Meeting (<a href="Etris.md#the-lord-regents-quest">Starting His Questline</a>, <a href="Origins.md#voidwalker">Voidwalker Origin</a>), Unique Dialogue</caption>
+<table><caption>First Meeting (<a href="Etris.md#the-lord-regents-quest">Starting His Questline</a>, <a href="Voidwalker.md">Voidwalker</a> Origin), Unique Dialogue</caption>
 <tbody>
 <tr>
   <td colspan="2">1. Recruit my service?</td>

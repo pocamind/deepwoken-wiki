@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 163755
+revid: 167439
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Summer Company, Summer Company Enemies]
@@ -12,7 +12,7 @@ _This page is for the Enemy. For the Outfit, see [Summer Dragoon](Summer_Dragoon
 
 ## Description
 
-Summer Dragoons are high ranking members of the [Summer Company](The_Summer_Company.md) that wear their respective armor [Summer Dragoon](Summer_Dragoon.md) and brandish [Rosen's Peacemakers](<Rosen's_Peacemaker.md>) to gun down their foes.
+Summer Dragoons are high ranking members of [The Summer Company](The_Summer_Company.md) that wear their respective armor [Summer Dragoon](Summer_Dragoon.md) and brandish [Rosen's Peacemakers](<Rosen's_Peacemaker.md>) to gun down their foes.
 
 ## Moves
 

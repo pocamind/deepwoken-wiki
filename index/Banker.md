@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 157746
+revid: 167545
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -22,7 +22,8 @@ They can be found in:
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Castle Light](Castle_Light.md) (only those of the [Deepbound Origin](Origins.md) can interact with them)
+-   [Castle Light](Castle_Light.md) (only those of the [Deepbound](Deepbound.md) Origin can interact with them)
+-   [Chariot's Spire](<The_Chariot's_Spire.md>) (only those of the [Ignition Delver](Ignition_Delver.md) Origin can interact with them)
 -   [Fort Merit](Fort_Merit.md)
 -   [The Floating Keep](The_Floating_Keep.md)
 -   [Guild Bases](Guild_Bases.md)
@@ -32,7 +33,7 @@ They can be found in:
 
 Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player takes it out.
 
-The following item types are sorted as followed:
+The following item types are sorted as follows:
 
 -   [Weapons](Weapons.md)
 -   [Equipment](Equipment.md)

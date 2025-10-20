@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 167364
+revid: 167614
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
@@ -101,5 +101,6 @@ With the addition of the Echo Unlock: Multifaceted, Lightborns essentially gain 
 -   The placement of the halo carries specific lore implications, reflecting unique aspects of the Lightborn’s origin and purpose.
 -   Lightborn and Capra were the first aspects to receive a cosmetic item in the **UGC Avatar Shop**.
 -   The halo is listed under the **[Deepwoken UGC group](https://www.roblox.com/communities/16769317/Deepwoken-UGC#!/about)**.
+-   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
 -   The runes inscribed on the halo roughly translate to:
     -   “Be the mysterious light the few who were chosen.”

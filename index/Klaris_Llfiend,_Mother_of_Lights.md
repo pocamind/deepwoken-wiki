@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 167183
+revid: 167609
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -283,7 +283,7 @@ Radiant Teachings
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
 </tr>
 <tr>
-  <td colspan="3">Completed Mendacia's Quest</td>
+  <td colspan="3">Started Mendacia's Quest</td>
   <td colspan="3">Denied Mendacia's Quest</td>
   <td colspan="6">Meet Deepshore Fossil Requirements</td>
 </tr>

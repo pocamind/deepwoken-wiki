@@ -1,6 +1,6 @@
 ---
 title: Scope
-revid: 164138
+revid: 167604
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the Eastern Luminant, The Summer Company]
@@ -16,9 +16,9 @@ categories: [NPCs, Quests, NPCs located in the Eastern Luminant, The Summer Comp
 
 ## Description
 
-Scope is a [Vesperian](Vesperian.md) NPC, he is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive [Summer](The_Summer_Company.md) [Company](The_Summer_Company.md) reputation.
+Scope is a [Vesperian](Vesperian.md) NPC, he is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
 
-This is a good way to earn some easy reputation, much like the [Etris Wood Quest](Korin.md). This is great, because occasionally [Summer Company](The_Summer_Company.md) events will attack neutral players, but not any with more than that.
+This is a good way to earn some easy reputation, much like the [Etris Wood Quest](Korin.md). This is great, because occasionally Summer Company events will attack neutral players, but not any with more than that.
 
 ## Location
 

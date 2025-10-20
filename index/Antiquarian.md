@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 143870
+revid: 167513
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -24,7 +24,8 @@ They can be found in:
 -   [Greathive Aratel](Greathive_Aratel.md) (in the Root Plaza)
 -   [Summer Isle](Summer_Isle.md) (just to the right of the gun seller)
 -   [Miner's Landing](<Miner's_Landing.md>) (in the town)
--   [Castle Light](Castle_Light.md) (but only people with the [Deepbound Origin](Origins.md) can interact with them)
+-   [Castle Light](Castle_Light.md) (but only people with the [Deepbound](Deepbound.md) Origin can interact with them)
+-   [Chariot's Spire](<The_Chariot's_Spire.md>) (but only people with the [Ignition Delver](Ignition_Delver.md) Origin can interact with them)
 -   [Fort Merit](Fort_Merit.md)
 -   [Voidheart](Voidheart.md) (next to the spawn, opposite side of the [bounty board](Bounty_Hunting.md)).
 -   [The Floating Keep](The_Floating_Keep.md)

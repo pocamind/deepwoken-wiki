@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 167138
+revid: 167442
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Children of Navae]
@@ -19,7 +19,7 @@ categories: [Factions, The Children of Navae]
 
 ## Description
 
-A mainly nomadic tribe of mainly [Gremors](Gremor.md) who worship and are guided by [Navae](Lore.md#navae).
+A mainly nomadic tribe of mainly [Gremor](Gremor.md) who worship and are guided by [Navae](Lore.md#navae).
 
 ## Reputation
 
@@ -78,7 +78,7 @@ If you've gained max reputation or ally with The Children of Navae in a slot tha
 
 ## Trivia
 
--   Ever since the game released, Navaens attacked [Summer Company](The_Summer_Company.md) employees and members of [Etrea](Etrea.md). While this seemed strange, especially as the Etreans themselves did not aggro onto the Navaen, it was presumed to be intentional given that it could be easily explained in the context of the story, as well as it going unaddressed for so long. In reality, it was a bug, and it was patched during the 6/10/2023 update, nearly two years since the game released.
+-   Ever since the game released, Navaens attacked [The Summer Company](The_Summer_Company.md)'s employees and members of [Etrea](Etrea.md). While this seemed strange, especially as the Etreans themselves did not aggro onto the Navaen, it was presumed to be intentional given that it could be easily explained in the context of the story, as well as it going unaddressed for so long. In reality, it was a bug, and it was patched during the 6/10/2023 update, nearly two years since the game released.
 -   Children of Navae have the "best weed" according to Arch\_Mage.[\[1\]](#cite-note-1)
 
 ## References

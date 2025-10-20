@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 167157
+revid: 167494
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Lawless Territory, The Knives of Eylis]
@@ -16,13 +16,13 @@ The **Voidheart** is a location in _Deepwoken._ It is the forward base of the [T
 
 The Voidheart is the resting place of The Knives of Eylis. Located in an unknown location and only accessible in people's dreams, it represents itself as a large set of corridors and grey walls.
 
-Only players who have selected the Voidwalker [Origin](Origins.md) can access this area.
+Only players who have selected the [Voidwalker](Voidwalker.md) Origin can access this area.
 
 ## Points of Interest
 
 -   A Bounty Board
     -   It is usually always full (especially on larger servers) as very few players have positive / neutral [reputation](Reputation.md) with every required faction.
-    -   Players don't show up on the bounty board if they are neutral or allied to all the following factions: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Divers](The_Divers.md), and most importantly [The Knives of Eylis](The_Knives_of_Eylis.md).
+    -   Players don't show up on the bounty board if they are neutral or allied to all the following factions: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Divers](The_Divers.md), and most importantly [The Knives of Eylis](The_Knives_of_Eylis.md).
 -   [Raen](Raen.md), who guides the player through their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
 -   A [Chessboard](Chessboard.md)

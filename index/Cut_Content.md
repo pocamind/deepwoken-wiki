@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 164607
+revid: 167436
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -309,7 +309,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
 -   **[Serena](Serena.md)** **\-** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[3\]](#cite-note-3)
--   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [Summer Company](The_Summer_Company.md)'s castle).
+-   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under [The Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [The Summer Company](The_Summer_Company.md)'s castle).
 -   **Shrine of Dominion/Domination** - Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
@@ -317,7 +317,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Stormcaller -** An NPC in earlier versions of the game would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
 
--   **Broodlord's Muddtoss** - A move, used by [**Muddskipper Broodlord**](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
+-   **Broodlord's Muddtoss** - A move, used by [Mudskipper Broodlord](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
 -   **Shrine of Ostentation** - For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine would later be merged with the Shrine of Chance.
 
 ## Mystic

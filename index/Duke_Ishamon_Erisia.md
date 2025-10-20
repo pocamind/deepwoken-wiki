@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 167373
+revid: 167498
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["Duke of Sin" quest](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
@@ -310,58 +310,60 @@ Exhaustive Loot Table
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="18">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">So you're the one running about tripping my alarms. Care to explain yourself?<br>
+  <td colspan="18">So you're the one running about tripping my alarms. Care to explain yourself?<br>
   </td>
 </tr>
 <tr>
-  <td colspan="4">The Lord Regent sent me to retrieve the Forge.</td>
-  <td colspan="4">What are you doing with the forge?</td>
-  <td colspan="4"><b><a href="Oath%253A_Contractor.md">Contractor</a></b><br>
-  Let's skip the pleasantries, you know why I'm here.</td>
+  <td colspan="6">The Lord Regent sent me to retrieve the Forge.</td>
+  <td colspan="6">What are you doing with the forge?</td>
+  <td colspan="6">[Player has <a href="Oath%253A_Contractor.md">Contractor</a>]</td>
 </tr>
 <tr>
-  <td colspan="4">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
+  <td colspan="6">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
   </td>
-  <td colspan="4"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you <i>indolent worm</i>. With it, I turn <i>useless fools</i> like you into something of use... <i>You don't know what I do for mankind.</i></td>
-  <td colspan="4">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
-  </td>
+  <td colspan="6"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you <i>indolent worm</i>. With it, I turn <i>useless fools</i> like you into something of use... <i>You don't know what I do for mankind.</i></td>
+  <td colspan="6">Let's skip the pleasantries, you know why I'm here.</td>
 </tr>
 <tr>
-  <td colspan="4">That 'thing'? Agent?</td>
-  <td colspan="6">End</td>
-</tr>
-<tr>
-  <td colspan="4"><i>*Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
+  <td colspan="6">That 'thing'? Agent?</td>
+  <td colspan="6">End, fight starts</td>
+  <td colspan="6">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
   </td>
 </tr>
 <tr>
-  <td colspan="4">What?</td>
-</tr>
-<tr>
-  <td>Other</td>
-  <td><a href="Origins.md"><b>Deepbound</b></a></td>
-  <td><a href="Origins.md"><b>Voidwalker</b></a></td>
-</tr>
-<tr>
-  <td><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
+  <td colspan="6"><i>*Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
   </td>
-  <td><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
+  <td colspan="6"></td>
+  <td colspan="6">End, fight starts</td>
+</tr>
+<tr>
+  <td colspan="6">What?</td>
+</tr>
+<tr>
+  <td colspan="2">[Other Origin]</td>
+  <td colspan="2">[<a href="Deepbound.md">Deepbound</a> Origin]</td>
+  <td colspan="2">[<a href="Voidwalker.md">Voidwalker</a> Origin]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...<br>
   </td>
-  <td><i>*Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...<br>
+  <td colspan="2"><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
+  </td>
+  <td colspan="2"><i>*Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...<br>
   </td>
 </tr>
 <tr>
-  <td colspan="3">What are you talking about?</td>
+  <td colspan="6">What are you talking about?</td>
 </tr>
 <tr>
-  <td colspan="3">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen The Manor's layout roam free.<br>
+  <td colspan="6">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen The Manor's layout roam free.<br>
   </td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="6">End, fight starts</td>
 </tr>
 </tbody>
 </table>
@@ -381,8 +383,8 @@ Exhaustive Loot Table
   <td colspan="12">Let's get on with it.</td>
 </tr>
 <tr>
-  <td colspan="6"><b>Other</b></td>
-  <td colspan="6"><b><a href="Oath%253A_Contractor.md">Contractor</a></b></td>
+  <td colspan="6">[Other Oath]</td>
+  <td colspan="6">[<a href="Oath%253A_Contractor.md">Contractor</a>]</td>
 </tr>
 <tr>
   <td colspan="6">You're right. I'm wasting valuable time on you. <a href="Glossary.md#lumen">Lumen's</a> salvation will not wait for the fools who would deny it.<br>
@@ -391,7 +393,7 @@ Exhaustive Loot Table
   </td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">End, fight starts</td>
 </tr>
 </tbody>
 </table>

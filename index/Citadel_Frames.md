@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 156159
+revid: 167562
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, The Divers, Items]

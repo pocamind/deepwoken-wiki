@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 165602
+revid: 167553
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]

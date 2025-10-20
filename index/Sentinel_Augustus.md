@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 167290
+revid: 167640
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -60,14 +60,14 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*You offer a salute to the hulking armoured man before you - the Sentinel of the Shock Corps, Augusuts Baaset.*</i> At ease. You must be Lance Corporal [Last Name], right? Good, good. I've recently been looking over the of your mission performance, soldier. I have to say, I'm impressed. You've done well, and meet our division criteria. Would you like to join the Shock Corps, under my wing?</td>
+  <td colspan="2"><i>*You offer a salute to the hulking armoured man before you - the Sentinel of the Shock Corps, Augustus Baaset.*</i> At ease. You must be Lance Corporal [Last Name], right? Good, good. I've recently been looking over the of your mission performance, soldier. I have to say, I'm impressed. You've done well, and meet our division criteria. Would you like to join the Shock Corps, under my wing?</td>
 </tr>
 <tr>
   <td>Yes, Sentinel</td>
   <td>I'd like some time to think about it, Sentinel.</td>
 </tr>
 <tr>
-  <td></td>
+  <td><i>*You salute the Sentinel. He returns a solemn, sturdy salute.*</i> If that is your wish, Lance Corporal [Last Name], then... By the powers vested in me, in the name of our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I name you a member of the <a href="Glossary.md#the-central-authority">Central Authority</a> Shock Corps. You will now serve under my supervision. May you hold fast as the <a href="Glossary.md#the-central-authority">Authority's</a> strong arm, may you unyielding serve as its immortal sword and shield, and may you shatter hard with might the walls which bear our way. Report back to me when you've got a moment, soldier.</td>
   <td><i>*The Sentinel retains a stone-like composure.*</i> Of course. There is no need to rush such things, Lance Corporal. But remember - it is a great honour to serve in the Shock Corps. If you change your mind, let me know again. I'd be more than happy to take you under my wing, soldier.</td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td colspan="6"><i>*The Sentinel sizes you up with a blank expression on his face.*</i> Three cheers once more, soldier, and welcome to the Shock Corps. I should introduce myself properly -I'm Sentinel Augustus Baaset, your division commander. The heartthrob with the blue armour there is Interceptor Chud Steel, my current aide-de-camp.. Hm. You're a <i>little skinny</i>, but we'll put some muscle on you in no time. Remind me your name, soldier?</td>
 </tr>
 <tr>
-  <td colspan="6">I'm [Rank] [Last Name], sir.</td>
+  <td colspan="6">I'm [Rank] [Full Name], sir.</td>
 </tr>
 <tr>
   <td colspan="6"><i>*You salute the Sentinel, and he returns the favor.*</i> Very good. <b>Always</b> salute the rank. Good to know the Drill Sergeant still knows how to teach you fresh-faced recruits. Do you have any questions for me?</td>
@@ -363,26 +363,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td colspan="2">...Sorry, did you say *Chud Steel* earlier?</td>
 </tr>
 <tr>
-  <td colspan="2">*<i>Augustus nods.</i>* I assume Drill Sergeant Kernel must have given you the general gist of each of the military branches. But basically, we're the elite heavy infantry. The division that goes right into the action, and gets things <b>done</b>. Only the toughest and strongest make it in the Shock Corps, and we train our members to be juggernauts in the field. We're kinda like a sledgehammer - when Warden Jericho feels a wall is beginning to crumble, he sends us in to bring it all the way down. Any other questions?</td>
-  <td colspan="2">*<i>Saying it out loud yourself, recognition tugs at the back of your mind. You remember now- the name 'Chud Steel' is plastered all over Authority recruitment posters</i>*Yeah. The very same. Did you know he's a fellow Shock Corps member? They assigned him here not long ago to serve as my assistant. Just a damned shame his deployment isn't likely to be permanent. You two should have chat once we're finished - it is good to know your comrades. Any other questions?</td>
-</tr>
-<tr>
-  <td>...Sorry, did you say *Chud Steel* earlier?</td>
-  <td>I think that's all, thank you Sentinel.</td>
-  <td>Could you tell me more about the Shock Corps?</td>
-  <td>I think that's all, thank you Sentinel.</td>
-</tr>
-<tr>
-  <td>[See first instance]</td>
-  <td>*<i>Augustus salutes you with a smirk on his face.</i>*Alright, [Rank]. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
-  <td>[See previous instance]</td>
-  <td>*<i>Augustus salutes you with a smirk on his face.</i>*Alright, [Rank]. Keep up the good work, and maybe you'll be half as strong as me someday. If you've got any questions, feel free to come back anytime. *<i>He gives you a hard friendly clap on your shoulder, but you bear it with relative ease - at last, you're made of sterner stuff than before.</i>*</td>
-</tr>
-<tr>
-  <td></td>
-  <td>End</td>
-  <td></td>
-  <td>End</td>
+  <td colspan="4">[See previous instance]</td>
 </tr>
 </tbody>
 </table>

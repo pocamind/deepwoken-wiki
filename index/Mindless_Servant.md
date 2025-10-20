@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 163124
+revid: 167643
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -49,5 +49,5 @@ A Mindless Servant's arsenal only consists of their hands:
 ## Trivia
 
 -   When hovering over their PvE tag, Mindless Servants are named "_Something Twisted_".
--   Mindless Servants have the same AI as [Mudskippers](Mudskipper.md) except for the fact that Mudskippers still have anti-teaming AI.
+-   Although mindless, they still can block, parry and dodge, making a fight with 4 or more of them ganking on the player a nightmare, forcing the player to utilize their vents.
 -   Although their souls have departed from their bodies, souls can still be absorbed from them using Jar of Souls.

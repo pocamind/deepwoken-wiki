@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 167213
+revid: 167639
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -16,7 +16,7 @@ The Glossary is a feature that explains terminology and events in game that reve
 
 Glossary entries can be expanded when interacting with those who reveal more information on the topic. Information from different sources are separated in boxes. Glossary entries that have information yet to be found will have a puzzle icon next to their name saying, "There is more to be discovered..."
 
-The Glossary can be accessed by opening your Encyclopedia with the button on the top left of the screen.
+The Glossary can be accessed anytime by clicking on the Encyclopedia button at the top left of the screen.
 
 ## Entities
 
@@ -37,7 +37,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe'
 -   [Kaide](#kaide-the-drowned-light) described them as the 'sole architects of \[his people's\] suffering', and seemed to scoff at the notion of them being Gods.
 -   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Samael](Samael.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan](#kyrsan), [The Heavens](#the-heavens), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Samael](Samael.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Heavens](#the-heavens), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### Deepwoken
 
@@ -64,7 +64,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_t
 -   Their gales are said to drag even Time itself into their wake.
 -   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
-Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 ### The High Convocation
 
@@ -88,20 +88,14 @@ Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amor
 
 Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
 
-### Kyrsan
+### Kyrsan / Kyrsgarde
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the Kyrsans dwell in small villages sheltered from the gale.
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the Second Layer are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan).
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsgarde](#kyrsgarde)
-
-### Kyrsgarde
-
--   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan) dwell in small villages sheltered from the gale.
-
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries:
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
 
 ### Lightborn
 
@@ -138,7 +132,7 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -178,7 +172,7 @@ Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entr
 -   Beyond the histories told by the [Citadel](#the-citadel-of-markor), little is known about the man himself. His identity is one of the most enduring mysteries of the era.
 -   Some sceptics believe that the identity of the Sovereign is actually passed down in secret, and that the supposed immortality of its ruler is propaganda designed to suppress resistance.
 
-Dialogue: [Chud Steel](Chud_Steel.md), [Warden Jericho](Warden_Jericho.md) | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [The Central Authority](#the-central-authority), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Chud Steel](Chud_Steel.md), [Sentinel Augustus](Sentinel_Augustus.md), [Warden Jericho](Warden_Jericho.md) | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [The Central Authority](#the-central-authority), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ### Kaide, the Drowned Light
 
@@ -186,7 +180,7 @@ Dialogue: [Chud Steel](Chud_Steel.md), [Warden Jericho](Warden_Jericho.md) | Boo
 -   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
 -   Kaide now waits out the end of eternity.
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan](#kyrsan), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
 
 ### The King of Etrea
 
@@ -210,12 +204,12 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 
 Dialogue: [Laplace](Laplace.md) if the player is using/wielding [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
-### The Acolyte
+### The Acolyte / Thalassis
 
--   The Acolyte is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
+-   [The Acolyte](#the-acolyte--thalassis) is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
 -   This post is currently held by Thal'assis Linnaes.
 
-Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries:
+Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entries: [The Acolyte / Thalassis](#the-acolyte--thalassis)
 
 ### Zhatarn, the Moonlight Prince
 
@@ -429,7 +423,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftert
 -   Constellia was reduced to rubble 77 years after it was abandoned by its [Celestial](#the-celestials) rulers.
 -   Constellia fell to a [Kyrsan](#kyrsan) invasion.
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan](#kyrsan)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
 
 ### The Depths
 
@@ -438,7 +432,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: [A Light in the Sky](Boo
 -   In spite of mankind's attempts to apply structure, logic and order to the Depths, layers are not strictly ordered in the manner they are described. One may conceivably travel to the [Third Layer](#the-vents-the-third-layer) without ever passing through the First and [Second Layers](#the-eternal-gale-the-second-layer). This being said, the typical routes established do generally follow this order.
 -   The way most individuals reach the Depths is through the effects of the [Drowning](#the-drowning).
 
-Dialogue: [Akira](Akira.md), [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), [Kaide](Kaide,_the_Drowned_Light.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Kyrsan](#kyrsan), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
+Dialogue: [Akira](Akira.md), [Bankers](Banker.md) if you do not meet the requirements to use their [Item Bank](Item_Bank.md), [Kaide](Kaide,_the_Drowned_Light.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lament of Cirryn](Books.md#lament-of-cirryn), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Ferryman's Lullaby](Books.md#the-ferrymans-lullaby), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation) | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Divers](#the-divers), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Lost City of Celtor](#the-lost-city-of-celtor), [The Shallows](#the-shallows), [The Tides](#the-tides), [The Voidsea](#the-voidsea)
 
 ### Driftlands
 
@@ -542,7 +536,7 @@ Dialogue: | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-v
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 -   The Second Layer is home to the legendary city of New Kyrsa.
 
-Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Castle Light](#castle-light), [Kyrsgarde](#kyrsgarde), [Kyrsan](#kyrsan), [The Depths](#the-depths)
+Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Castle Light](#castle-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Depths](#the-depths)
 
 ### The Southern Luminant
 
@@ -621,7 +615,7 @@ Dialogue: [Alastir](Alastir.md), [Beiruul](Beiruul.md), [Deepdelver Gamma](Deepd
 -   A general measure of one's ability, and of your mastery of the [Song](#the-song).
 -   Increasing one's Power grants them new Talents and [Mantras](#mantra).
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Eylis](Eylis,_the_Punished_Dreamer.md), [Surge](Surge.md) | Books: | Glossary Entries:
+Dialogue: [Surge](Surge.md) | Books: | Glossary Entries:
 
 ### Talent
 
@@ -633,3 +627,9 @@ Dialogue: [Eastern Camp Master](Cheral.md) upon returning a hostage | Books: | G
 ## Trivia
 
 -   In many cases, the word "city" links to _The Drowned City of Celtor_ even if the city the dialogue was referring to wasn't Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.
+-   In some other cases, different words can be detected for the same thing, but have entirely different glossary entries when popped up.[\[1\]](#cite-note-1)
+    -   This occurs to the entries "Kyrsan / Kyrsgarde" and "The Acolyte / Thalassis."
+
+## References
+
+1.  [↑](#cite-ref-1)

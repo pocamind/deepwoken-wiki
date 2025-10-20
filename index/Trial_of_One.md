@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 165146
+revid: 167514
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -22,7 +22,7 @@ The **Trial of One** is a location in _Deepwoken_. It is currently one of the tw
 
 The Trial of One is a dungeon designed to boost experienced players progress easily through early-game progression stat wise, The Trial consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
 
-The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 to enter. Additionally, you may not enter if you put ANY investment points in, or not a [Deepbound](Origins.md), otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life (It can be done again if you die on the first parry check).**
+The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 to enter. Additionally, you may not enter if you put ANY investment points in, or not a [Deepbound](Deepbound.md), otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life (It can be done again if you die on the first parry check).**
 
 After the completion of each challenge, a glowing orb that functions similar to a campfire float down on the center of the room and gives you numbers of free points enough to power up (exact will be mentioned below) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 
@@ -109,7 +109,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching Power 6 with 85 investment point used.
     -   If you have the Autodidact Boon, you will be Power 7 with 2 investment points to the next level once you complete the Trial.
--   The [Lone Warrior Origin](Origins.md#lone-warrior) after defeating the Thresher OR alternatively, wiping once.
+-   The [Lone Warrior](Lone_Warrior.md) Origin after defeating the Thresher OR alternatively, wiping once.
 
 ### Death
 

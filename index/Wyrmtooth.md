@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 167281
+revid: 167546
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Etrea, Multiple Criticals, Heavy Weapons, Medium Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapon
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Etris: Siege, The Diluvian Mechanism, Dread Serpent, Interluminary Parasol, Voidwalker chest, Fishing, The Doom of Caeranthil |
+| obtainment | Maestro Evengarde Rest, Etris: Siege, The Diluvian Mechanism, Dread Serpent, Interluminary Parasol, Voidwalker bounties, Fishing, The Doom of Caeranthil |
 | description | An exceptionally long and unwieldy blade of Etrean make. Useless in the hands of a novice, but lethal in the hands of one who can adapt to its unnatural centre of gravity. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Harnessed Thresher
-revid: 166903
+revid: 167589
 source: https://deepwoken.fandom.com/wiki/Harnessed_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant]

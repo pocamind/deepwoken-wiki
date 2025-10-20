@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 160725
+revid: 167571
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -96,7 +96,7 @@ The fiber at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's
 The fiber at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
 
 -   Costs 3.
--   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Voidwalker.md).
 
 }}
 

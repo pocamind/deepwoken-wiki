@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 162242
+revid: 167551
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

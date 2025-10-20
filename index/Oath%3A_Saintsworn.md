@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 167159
+revid: 167641
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
@@ -223,7 +223,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 -   The 15 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 15 invest in some of your attunements.
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
 -   Saint's Synergy, Ether Proselyte('s Mantra level increasing effect), and Hero's Assist can all proc when not using the Saintsblade. The rest of the Saintsworn Oath does nothing while not using the weapon.
--   The Saintsblade has the most base M1 damage amount at 30 of all other base weapons in the game. But does not have any scaling.
+-   The Saintsblade had the most base M1 damage amount at 30 that was changed to 28 before being dethroned by the [Sovereign Bangle](Oath%253A_Blightsurger.md) and the [Metal Greatsword](Metal_Greatsword.md).
 -   Ironically, this Oath does NOT require the user to be wielding a Heroblade of any kind.
 -   Saintsworn's cosmetic, the Pseudo-Hero's Blades, cannot be dyed.
 -   Saintsworn gives the most mantra slots out of any Oath, being 5 total mantra slots, making it incredibly flexible and spammable.

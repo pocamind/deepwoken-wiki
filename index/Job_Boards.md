@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 163353
+revid: 167548
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -16,7 +16,7 @@ Job Board at Etris docks
 
 The core of a Job usually involves traveling to a designated area and fulfilling a specific objective. These objectives can range from transporting goods to eliminating enemy patrols. When interacting with a Job, right-clicking will present two options: "Forfeit Task" to abandon the quest, or "View on Map" to display the Job's location on the players map.
 
-Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs from their ruling faction. However, Job Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) provide Jobs from any faction that can generate in that area. Players with the [Ignition Delver](Origins.md#ignition-delver) origin can utilize the [Union Pager](Ignition_Delver.md) tool to accept jobs remotely.
+Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs from their ruling faction. However, Job Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) provide Jobs from any faction that can generate in that area. Players with the [Ignition Delver](Ignition_Delver.md) origin can utilize the [Union Pager](Ignition_Delver.md) tool to accept jobs remotely.
 
 ## Etrean Luminant
 
@@ -58,7 +58,7 @@ _Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_
 
 **Summer Isle:**
 
-_Jobs relating to Summer Isle can be given by the [Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md) ._
+_Jobs relating to Summer Isle can be given by [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md) ._
 
 -   **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
     -   Tasks the player with defeating [Lodestar](Lodestar.md).

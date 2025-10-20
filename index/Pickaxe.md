@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 152554
+revid: 167512
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -49,7 +49,7 @@ The pickaxe at [Lower Erisia](Lower_Erisia.md) is located on a table near the we
 The pickaxe in the [Voidheart](Voidheart.md) is located on a table next to the [Antiquarian](Antiquarian.md).
 
 -   Costs 3.
--   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Origins.md).
+-   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Voidwalker.md).
 
 **Eastern Luminant:**
 

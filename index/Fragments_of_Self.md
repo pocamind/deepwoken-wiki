@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 166613
+revid: 167493
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Death, The Depths]
@@ -18,7 +18,7 @@ What will become of us?
 
 ## Overview
 
-Fragments of Self acts as the sad purgatory of _Deepwoken_. Players are sent to it whenever they die in [The Depths](The_Depths.md), choose to wipe their character in the main menu, or selecting Obliteration in [Trial Of One.](Trial_of_One.md)
+Fragments of Self acts as the sad purgatory of _Deepwoken_. Players are sent to it whenever they die in [The Depths](The_Depths.md), choose to wipe their character in the main menu, or selecting Obliteration in [Trial of One](Trial_of_One.md).
 
 ## Contents
 
@@ -113,7 +113,7 @@ The Echoes section shows how much echoes you earned, and the Rank Based on it. R
 
 ### Captain
 
-The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and forces you to start with the [Castaway Origin](Origins.md#castaway).
+The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and forces you to start with the [Castaway](Castaway.md) Origin.
 
 ## Trivia
 

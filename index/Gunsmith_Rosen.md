@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 167193
+revid: 167597
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gunsmiths]
@@ -22,9 +22,9 @@ categories: [Gunsmiths]
 
 **Gunsmith Rosen** is the current leader of the arms company known as [The Summer Company](The_Summer_Company.md). He is responsible for reintroducing [guns](Guns.md) across the Luminants. Gunsmith Rosen or Rosen does not have a confirmed or known last name and Gunsmith is purely a title given to him, His aspect is also [Vesperian](Vesperian.md). Its unknown if Rosen resides within [Summer Isle](Summer_Isle.md) but it is assumed so due to him signing off the creation of the [Stormseye](Stormseye.md).
 
-He created the [Summer Company](The_Summer_Company.md) when he found old pre-Canticlysm firearms and reverse-engineered them. This explains why guns are so underpowered, because he did not perfect the original design and failed to fully reverse-engineer it.
+He created the Summer Company when he found old pre-Canticlysm firearms and reverse-engineered them. This explains why guns are so underpowered, because he did not perfect the original design and failed to fully reverse-engineer it.
 
-[Gunsmith Hierka](Gunsmith_Hierka.md) is Rosen's former protégé who deceived Rosen and hid their ranking as a member of [The Central Authority](The_Central_Authority.md)'s Bereau of Research in order to steal the [Summer Company](The_Summer_Company.md)'s Secrets, This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the [The Central Authority](The_Central_Authority.md).
+[Gunsmith Hierka](Gunsmith_Hierka.md) is Rosen's former protégé who deceived Rosen and hid their ranking as a member of [The Central Authority](The_Central_Authority.md)'s Bereau of Research in order to steal the Summer Company's Secrets, This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the [The Central Authority](The_Central_Authority.md).
 
 ## Trivia
 

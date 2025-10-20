@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 167357
+revid: 167503
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -109,7 +109,7 @@ Gain Temporary Health which decays at a rate of 1 Temporary health lost per seco
 
 ### Enhanced Perception
 
-A red highlight applied onto enemies, allowing you to see them through walls. Applied through [Voidwalker](Origins.md#voidwalker) bounties, [Chrysid's](Chrysid.md) Mothwing Dust, Bloodrend's [Bloodwarden's Sense](Talents.md#bloodhound), and the Heart Reverb Talent's [Rhythm](Murmur%253A_Rhythm.md) upgrade from [Soulbreaker](Oath%253A_Soulbreaker.md).
+A red highlight applied onto enemies, allowing you to see them through walls. Applied through [Voidwalker](Voidwalker.md) bounties, [Chrysid's](Chrysid.md) Mothwing Dust, Bloodrend's [Bloodwarden's Sense](Talents.md#bloodhound), and the Heart Reverb Talent's [Rhythm](Murmur%253A_Rhythm.md) upgrade from [Soulbreaker](Oath%253A_Soulbreaker.md).
 
 ### Insanity
 

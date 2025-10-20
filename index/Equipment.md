@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 167116
+revid: 167616
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -955,6 +955,7 @@ Arms: [Khan Pauldrons](Legion_Pauldrons.md)
 Legs: [Khan Boots](Legion_Boots.md) |
 |  | [Kyrsmas Hat](Kyrsmas_Hat.md)  
 (**Limited Time Event**)  
+(**Unobtainable**)  
 (**Unique**) | _+10 Health_  
 _+1 Posture_
 
@@ -1225,7 +1226,8 @@ Head: [Specialist Helmet](Specialist_Helmet.md)
 Arms: [Specialist Plate](Specialist_Plate.md)  
 Legs: [Specialist Boots](Specialist_Boots.md) |
 |  | [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
-(**Set**) | _+2 Posture_
+(**Set**)  
+(**Unobtainable**) | _+2 Posture_
 
 +1 Rare Pip  
 **Requires Power 5**
@@ -1234,10 +1236,7 @@ Legs: [Specialist Boots](Specialist_Boots.md) |
 
 Found from:
 
--   [Aratel Island](Aratel_Island.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
+-   Unobtainable
 
  | Set: Ten-Gallon  
 Head: [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
@@ -3775,6 +3774,30 @@ Found from:
 Head: [Specialist Helmet](Specialist_Helmet.md)\]  
 Arms: [Specialist Plate](Specialist_Plate.md)  
 Legs [Specialist Boots](Specialist_Boots.md) |
+|  | [Star Boots](Star_Boots.md)  
+(**Set**) | _+5 Health_
+
++2 Rare Pips  
++1 Legendary Pip **Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Deep Widow](Deep_Widow.md) (The Depths)
+-   [Starswept Valley](The_Starswept_Valley.md)
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
+-   [Lodestar](Lodestar.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [First Layer](First_Layer.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+ | Set: Star  
+Arms: [Star Duster](Star_Duster.md)  
+Legs: [Star Boots](Star_Boots.md) |
 |  | [Tracker's Boots](<Tracker's_Boots.md>)  
 (**Set**) | _+3 Health_
 
@@ -3900,23 +3923,6 @@ Found from:
  | Set: Woodland  
 Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
 Legs: [Woodland Boots](Woodland_Boots.md) |
-|  | [Star Boots](Star_Boots.md)  
-(**Unobtainable**)  
-(**Set**) | _+5 Health_
-
-+2 Rare Pips  
-+1 Legendary Pip  
-**Requires Power 10**
-
- | 
-
-Found from:
-
--   Vaulted
-
- | Set: Star  
-Arms: [Star Duster](Star_Duster.md)  
-Legs: [Star Boots](Star_Boots.md) |
 
 **Torso:**
 
@@ -4632,7 +4638,7 @@ Found from:
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Voidwalker Bounties](Origins.md#voidwalker)
+-   [Voidwalker](Voidwalker.md) Bounties
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -4761,7 +4767,7 @@ Found from:
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Lodestar](Lodestar.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Voidwalker Bounties](Origins.md#voidwalker)
+-   [Voidwalker](Voidwalker.md) Bounties
 
  | N/A |
 |  | [Nauticals](Summer_Nauticals.md)  

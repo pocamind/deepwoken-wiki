@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 152626
+revid: 167488
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -51,15 +51,15 @@ There are many means to obtain Notes, and some are better than others.
 -   1 [Knowledge](Knowledge.md) is worth 300 Notes at the [Soothsayer](Soothsayer.md), so the [Moonseye Tome](Moonseye_Tome.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)' Knowledge for [Kyrsan Medallions](Kyrsan_Medallions.md) exchanges can give a lot of notes in the long run.
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) drops a good amount of items and is very close to an Antiquarian.
 -   [Saramaed Hollow](Saramaed_Hollow.md) drops items at a very fast rate and the dungeon itself contains an Antiquarian. You can either wait until the last few chests of the dungeon in order to pick up more valuable loot, or extract immediately after reaching max Carry Load from picking up all items.
--   [Voidwalkers](Origins.md#voidwalker) specifically benefit from being able to access Antiquarians faster than other origins if farming [Primadon](Primadon,_Titan_of_the_East.md) or [The Ferryman](The_Ferryman.md) due to others being unable to access Guild Bases directly at their locations. The former drops a massive amount of items and the latter drops many high-value items. Bear in mind the Voideye cooldown, however.
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can be farmed extremely quickly, especially using an assassination-based build. Getting all 5 chests can take as little as 2 minutes if you know what you're doing. However, the rate you get items at is too fast for the [Voideye](Origins.md#voidwalker) cooldown, so unless you have a [guild base](Guild_Bases.md) with an antiquarian, it won't be as effective.
+-   [Voidwalkers](Voidwalker.md) specifically benefit from being able to access Antiquarians faster than other origins if farming [Primadon](Primadon,_Titan_of_the_East.md) or [The Ferryman](The_Ferryman.md) due to others being unable to access Guild Bases directly at their locations. The former drops a massive amount of items and the latter drops many high-value items. Bear in mind the Voideye cooldown, however.
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can be farmed extremely quickly, especially using an assassination-based build. Getting all 5 chests can take as little as 2 minutes if you know what you're doing. However, the rate you get items at is too fast for the [Voideye](Voidwalker.md#voideye) cooldown, so unless you have a [guild base](Guild_Bases.md) with an antiquarian, it won't be as effective.
 
 ##### Somewhat Efficient
 
--   Farming as a [Deepbound](Origins.md#deepbound) varies in pace and danger, but the undesired contents of chests are frequently left alone and chests drop a good amount of items. Call of the Deep can be used to return to [Castle Light](Castle_Light.md) if farming elsewhere in [the Depths](The_Depths.md), but you can also farm near [Light's Causeway](<Light's_Causeway.md>).
-    -   [Ignition Delvers](Origins.md#ignition-delver) can access jobs from anywhere in the Depths, making events even easier to encounter.
+-   Farming as a [Deepbound](Deepbound.md) varies in pace and danger, but the undesired contents of chests are frequently left alone and chests drop a good amount of items. Call of the Deep can be used to return to [Castle Light](Castle_Light.md) if farming elsewhere in [the Depths](The_Depths.md), but you can also farm near [Light's Causeway](<Light's_Causeway.md>).
+    -   [Ignition Delvers](Ignition_Delver.md) can access jobs from anywhere in the Depths, making events even easier to encounter.
     -   Experienced players with a good route and sufficient Carry Load can obtain many [Second Layer](Second_Layer/The_Ethironal_Shrine.md) chests on their way to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
--   The following are only accessible for those who can access the [Voidheart](Voidheart.md)'s Antiquarian as a [Voidwalker](Origins.md#voidwalker) or a [Guild Base](Guild_Bases.md)'s Antiquarian.
+-   The following are only accessible for those who can access the [Voidheart](Voidheart.md)'s Antiquarian as a [Voidwalker](Voidwalker.md) or a [Guild Base](Guild_Bases.md)'s Antiquarian.
     -   Taking jobs from boards that have numerous quests of the same type, like the [Starswept Valley](The_Starswept_Valley.md)'s, causes events to spawn at a faster rate and grants minor other rewards on quest clear.
     -   Reaching an area where Guild Bases can be placed does not take too long after fighting [Duke Erisia](Duke_Ishamon_Erisia.md).
 

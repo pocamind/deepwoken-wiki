@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 167320
+revid: 167624
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -19,13 +19,13 @@ categories: [Factions, The Central Authority]
 
 ## Description
 
-**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. The Authority is a militaristic, authoritarian, and expansionist regime led by a mysterious individual named Drallis Ehr, who reigns as Grand Sovereign. However, Drallis Ehr's identity is debated, and some believe he may not actually exist. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
+**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. The Authority is a militaristic, authoritarian, and expansionist regime led by a mysterious individual named Drallis Ehr, who reigns as Grand Sovereign. However, Drallis Ehr's identity is debated, and some believe he may not actually exist. The Authority is the main enemy of the\[Kingdom of [Etrea](Etrea.md).
 
 The military of The Authority consists of both real-world insignia (Private, Corporal, Lance Corporal) and more fantastical titles (Warden, Vice-Warden). The Authority has multiple 'corps' in their military structure, including the 'Shock Corps', the 'Leadership Corps', the 'Winter Corps', the 'Inquisitor Corps', and formerly the 'Expeditionary Corps'.
 
 The most commonly used attunement among Authority personnel is [Flamecharm](Flamecharm.md). There are multiple instances of [Thundercall](Thundercall.md) also being used, however only a handful of NPCs actually utilize it in-game. While uncommon, other attunments are used by The Authority. For example: [Frostdraw](Frostdraw.md) is used by [Authority Captains](Authority_Captain.md) and [Captain Marley](Captain_Marley.md), while [Galebreathe](Galebreathe.md) is used by the [Vice-Warden](Vice-Warden.md) within the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-The Authority is highly treacherous and dishonorable; they have conspired behind the backs of both the Legion and the Summer Company to get what they want. The Authority works with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
+The Authority is highly treacherous and dishonorable; they have conspired behind the backs of both the Legion and the Summer Company to get what they want. The Authority works with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
 The upper ranks of The Authority heavily favor [Adrets](Adret.md) and [Canors](Canor.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers.
 
@@ -42,7 +42,7 @@ The upper ranks of The Authority heavily favor [Adrets](Adret.md) and [Canors](C
 -   Skirmishes with [The Hive](The_Hive.md), but not direct enemies.
 -   Enemies with [The Ministry](The_Ministry.md).
 -   Provides funding for [The Divers](The_Divers.md).
--   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).
+-   Trades ammunition and arms with [The Summer Company](The_Summer_Company.md).
 -   Contracts with the [Ignition Union](The_Ignition_Union.md) to kill monsters in the Depths.
 -   Occasionally hires [The Knives of Eylis](The_Knives_of_Eylis.md) to raid Etrean ships.
 
@@ -81,7 +81,7 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 ## Trivia
 
 -   While the Logo could imply that The Authority are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to The Authority being tied to Celestials.
--   The Central Authority has clear relations with every faction except [Celtor](Lost_Celtor.md).
+-   The Central Authority has clear relations with every faction except [Lost Celtor](Lost_Celtor.md).
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer, Etrea's Lord Regent, from causing a Great Drowning in the Etrean Luminant, with the 'Warmaster' deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
     -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report makes it clear that this was not their reason for invading in the first place, and implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with [The Children of Navae](The_Children_of_Navae.md) also seem to contradict with this mission.
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.

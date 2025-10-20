@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 164895
+revid: 167593
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -43,7 +43,7 @@ Lone Warriors can use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.m
 
 Your starting faction [reputation](Reputation.md) is:
 
--   **Friend** of [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [Lost Celtor](Lost_Celtor.md)
+-   **Friend** of [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [Lost Celtor](Lost_Celtor.md)
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
 -   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._

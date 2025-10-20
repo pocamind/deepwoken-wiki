@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 166102
+revid: 167465
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Knives of Eylis]
@@ -29,7 +29,7 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 Every [Origin](Origins.md) excluding Voidwalker starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
 
-There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [Bounty Board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This Bounty Board includes bounties from all other factions with Bounty Boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted.
+There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [Bounty Board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This Bounty Board includes bounties from all other factions with Bounty Boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted.
 
 Voidwalkers can be hunted by other Voidwalkers at power 5 due to their starting negative reputation with [The Hive](The_Hive.md) and [The Kingdom of Etrea](Etrea.md), both of which are factions with Bounty Boards.
 

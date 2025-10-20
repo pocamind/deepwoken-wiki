@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 165930
+revid: 167437
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -121,7 +121,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
 </tr>
 <tr>
-  <td><b><a href="The_Summer_Company.md">Summer Company</a></b></td>
+  <td><b><a href="The_Summer_Company.md">The Summer Company</a></b></td>
   <td></td>
   <td><a href="Summer_Company_Uniform.md">Summer Company Uniform</a></td>
   <td></td>

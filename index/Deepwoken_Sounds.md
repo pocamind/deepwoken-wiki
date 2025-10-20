@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 163435
+revid: 167490
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -128,16 +128,16 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.7s | [Bomb](Iron_Bomb.md) Impact |
 |  | 0.3s | [Zipline](Ziplines.md) Loop |
 |  | 2.7s | [Chime of Conflict](Chime_of_Conflict.md) + [Shadow Vortex](Shadowcast.md#shadow-vortex) (Activation) / [Spire](Relics.md) (Deactivation) |
-|  | 4.2s | [Grasp of Eylis](Voidheart.md) + [Voideye](Origins.md#voidwalker) Loop |
+|  | 4.2s | [Grasp of Eylis](Voidwalker.md#grasp-of-eylis) + [Voideye](Voidwalker.md#voideye) Loop |
 |  | 4.3s | [Light Hook](Light_Hook.md) Usage |
 |  | 2.3s | [Firfire Caverns](Firfire_Caverns.md) Gate (Open) |
 |  | 2.9s | [Firfire Caverns](Firfire_Caverns.md) Gate (Close) |
 |  | 1.5s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Jar Broken |
 |  | 2.2s | [Kyrsan](Second_Layer/New_Kyrsa.md) Obelisk + Puzzle Pad (Interaction) |
 |  | 1.2s | [Scion of Ethiron](Scion_of_Ethiron.md) Altars (Placing Giant Femur) |
-|  | 7.2s | [Heretic's Sutra](Talents.md#heretics-sutra) Activation (Unedited) |
-|  | 10.0s | [Heretic's Sutra](Talents.md#heretics-sutra) (Loop) |
-|  | 20.1s | [Heretic's Sutra](Talents.md#heretics-sutra) (Full) |
+|  | 7.2s | [Heretic's Sutra](Talents.md#heretic) Activation (Unedited) |
+|  | 10.0s | [Heretic's Sutra](Talents.md#heretica) (Loop) |
+|  | 20.1s | [Heretic's Sutra](Talents.md#heretic) (Full) |
 |  | 8.8s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) (Unedited) |
 |  | 1.3s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) |
 |  | 0.5s | Using Map |
@@ -286,7 +286,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 | --- | --- | --- |
 |  | 5.4s | Entering Combat (Default) |
 |  | 3.6s | Entering Combat ([The Depths](The_Depths.md)) |
-|  | 4.0s | [Voidwalker](Origins.md#voidwalker) Hunting (Ferocity) |
+|  | 4.0s | [Voidwalker](Voidwalker.md) Hunting (Ferocity) |
 |  | 0.9s | Unsheathing |
 |  | 1.0s | Sheathing |
 |  | 1.5s | Unsheathing (Heavy) |
@@ -694,11 +694,11 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 | --- | --- | --- |
 |  | 1.0s | [Ardour Murmur](Murmur%253A_Ardour.md) (Activation) |
 |  | 19.4s | [Ardour Murmur](Murmur%253A_Ardour.md) Loop |
-|  | 1.0s | [Ardour Murmur](Murmur%253A_Ardour.md) (Deactivation) / [Voidwalker](Origins.md#voidwalker) Successful Hunt |
+|  | 1.0s | [Ardour Murmur](Murmur%253A_Ardour.md) (Deactivation) / [Voidwalker](Voidwalker.md) Successful Hunt |
 |  | 2.3s | [Ardour](Murmur%253A_Ardour.md) Scream |
 |  | 2.0s | [Tacet Murmur](Murmur%253A_Tacet.md) (Activation) |
 |  | 1.0s | [Tacet Murmur](Murmur%253A_Tacet.md) (Deactivation) |
-|  | 1.8s | [Tacet](Murmur%253A_Tacet.md) Drop Kick (Windup) |
+|  | 1.8s | [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) (Windup) |
 |  | 2.1s | [Rhythm Murmur](Murmur%253A_Rhythm.md) (Activation) |
 
 ### **[Enchantments](Enchantments.md)**

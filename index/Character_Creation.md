@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 166877
+revid: 167510
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -157,7 +157,7 @@ At minimum, you must have one Boon, and one Flaw to make a character, and at max
 
 ## Origins
 
-When first creating a character, the player can choose only out of two spawn locations. Over time, meeting certain requirements will unlock more Origins. Currently, there is a total of five Origins, with nine unique different spawning points. For more information visit [Origins](Origins.md). **These can be very important, and can drastically change gameplay.**
+When first creating a character, the player can choose only out of two spawn locations. Over time, meeting certain requirements will unlock more Origins. Currently, there is a total of six Origins, with nine unique different spawning points. For more information visit [Origins](Origins.md). **These can be very important, and can drastically change gameplay.**
 
 ### Starting Origins
 

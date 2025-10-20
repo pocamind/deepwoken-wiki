@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 167117
+revid: 167528
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds, Items, Tools]
@@ -32,7 +32,7 @@ The Chime of DweIIing does not work in or under the following:
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>)
 -   The Interstice ([Dimensional Travel](Dimensional_Travel.md))
 -   When under the effects of Grasp of Eylis as a void walker (actively hunting a player)
--   Character created from the [Authority origin.](Origins.md)
+-   Character created from the [Authority Ensign](Authority_Ensign.md) origin.
 
 The Guild Base Layout
 

@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 167398
+revid: 167532
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, NPCs, The Knives of Eylis, Vendors]
@@ -18,7 +18,9 @@ notices:
 
 ## Description
 
-Rook Rethige is a [Felinor](Felinor.md) NPC in the [Voidheart](Voidheart.md). He is able to sell a [Whaling Knife](Whaling_Knife.md) for 300 if the player has spoken to [Raen](Raen.md) and asked "I see. Can you help me with affording equipment? If the player has the [Two Faced Regalia](Regalia.md#two-faced), Rook will sell the [Call of the Deep](Deepbound.md#call-of-the-deep) and [Union Pager](Ignition_Delver.md) for 20 each.
+Rook Rethige is a [Felinor](Felinor.md) NPC in the [Voidheart](Voidheart.md). He is able to sell a [Whaling Knife](Whaling_Knife.md) for 300 if the player has spoken to [Raen](Raen.md) and asked "I see. Can you help me with affording equipment?
+
+If the player has the [Two Faced Regalia](Regalia.md#two-faced), Rook will sell the [Call of the Deep](Deepbound.md#call-of-the-deep), [Union Pager](Ignition_Delver.md), or [Horn of Authority](Authority_Ensign.md#horn-of-authority) for 20 each only once.
 
 ## Dialogue
 

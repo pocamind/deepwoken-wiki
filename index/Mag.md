@@ -1,6 +1,6 @@
 ---
 title: Mag
-revid: 162765
+revid: 167575
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Vendors]
@@ -16,7 +16,7 @@ categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer
 
 ## Description
 
-Mag is a Birch [Gremor](Gremor.md) NPC working for the [Summer Company](The_Summer_Company.md). He can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
+Mag is a Birch [Gremor](Gremor.md) NPC working for [The Summer Company](The_Summer_Company.md). He can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
 
 He wears a Black Hood and the [Summer Company Uniform](Summer_Company_Uniform.md).
 

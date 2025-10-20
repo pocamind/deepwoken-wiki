@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 166317
+revid: 167440
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -10,7 +10,7 @@ categories: [Canor NPCs, NPCs, The Summer Company, Quests, NPCs located in the E
 
 | The Guy | |
 |---|---|
-| name | The Guy, Guy (after renouncing his title) |
+| name | Guy (presumably) |
 | aspect | Canor |
 | location | Bluster Rift |
 
@@ -20,7 +20,7 @@ categories: [Canor NPCs, NPCs, The Summer Company, Quests, NPCs located in the E
 
 ## Description
 
-The Guy, simply The Guy, is a Canor that works for the [Summer Company](The_Summer_Company.md). He is the assumed leader of a team composed by [Mercille](Mercille.md), [Prentis](Prentis.md) and [Sierra](Sierra.md), running a mission to get some resources for the Company.
+The Guy, simply The Guy, is a Canor that works for [The Summer Company](The_Summer_Company.md). He is the assumed leader of a team composed by [Mercille](Mercille.md), [Prentis](Prentis.md) and [Sierra](Sierra.md), running a mission to get some resources for the Company.
 
 ## Location
 
@@ -128,3 +128,4 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 -   The Guy's hair ID is 4735347390, combined with his Canor sideburns.
 -   Apparently is good friends with Destroyman III. But the way Destroyman III mentions it makes it look like a lie to make the player jealous. After all, who wouldn't be jealous of someone that is friends with The Guy?
 -   After taking his sunglasses, his name changes from "The Guy," who was simply The Guy, to simply "Guy," who is simply, a Guy. Also his voice becomes high-pitched, as if he lost all of his testosterone upon losing his glasses.
+    -   This may imply "Guy" is his real name.

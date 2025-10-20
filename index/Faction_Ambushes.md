@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 153851
+revid: 167572
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Reputation, Mechanics]
@@ -127,7 +127,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 -   Upper Erisia ([Legion Soldiers](Legion_Soldier.md)
 
  |
-| [Summer Company](The_Summer_Company.md) | 
+| [The Summer Company](The_Summer_Company.md) | 
 
 -   3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>)
 -   3 [Summer Goons](Summer_Goon.md)

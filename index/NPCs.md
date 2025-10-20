@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 166068
+revid: 167492
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -24,7 +24,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Adar](Adar,_Master_of_Metal.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), in tower of the bridge | [Ironsing](Ironsing.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Adrofalis](Adrofalis.md) | The Old Stewards | [Boatman's Watch](<Boatman's_Watch.md>), Ferryman's Library | Grants the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md) |  |
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event, required to obtain the [Visionshaper](Oath%253A_Visionshaper.md) Oath | Does not spawn during Winter |
-| [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) and unlock the [Deepbound](Origins.md) origin | Choosing the second option without 75 Charisma will result in unavoidable death |
+| [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) and unlock the [Deepbound](Deepbound.md) Origin | Choosing the second option without 75 Charisma will result in unavoidable death |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives a chest to those who give him ragdolled villagers | Cannot be given [Forgotten Villagers](Forgotten_Villager.md), can be given Navaen Nomads, dialogue changes after being given a villager for the first time |
 | Alina | Unaligned | [The Floating Keep](The_Floating_Keep.md) | None |  |
 | [Alirian](Alirian.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants the [Jetstriker Oath](Oath%253A_Jetstriker.md) |  |
@@ -67,14 +67,14 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Chef Odiolavoro](Chef_Odiolavoro.md) | Unaligned | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
 | [Chili](Travelling_Merchant.md) | Unaligned | [The Etrean Sea](The_Etrean_Sea.md)[The Aratel Sea](The_Aratel_Sea.md) | Sells items on a [Merchant Schooner](Ships_&_Sailing.md) |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
-| [Con](%2543on.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | None |  |
+| [Con](%2543on.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | None |  |
 | [Das](Das.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Lets you spar with the [Blade Instructor](Blade_Instructor.md) |  |
 | [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md),[The Hidden Village](The_Hidden_Village.md),[Crypt of the Unbroken](Crypt_of_the_Unbroken.md),[The Lordsgrove](The_Lordsgrove.md),[Meteor Isle](Meteor_Isle.md),[Saramaed Summit](Saramaed_Summit.md),[Fort Merit](Fort_Merit.md),[Widow's Hollow](<Widow's_Hollow.md>),[Songseeker Wilds](Songseeker_Wilds.md),[Ancient Rotlands](Ancient_Rotlands.md),[Starfield Veldt](Starfield_Veldt.md),[Trial of One](Trial_of_One.md),[The Diluvian Mechanism](The_Diluvian_Mechanism.md) | They do a variety of things for knowledge |  |
 | [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | None |  |
 | [Delta](Delta.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Grants you the [Oath: Arcwarder](Oath%253A_Arcwarder.md) after meeting all requirements. |  |
 | [Den Master](Den_Master.md) | Unaligned | [Etris](Etris.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
 | [Diluvian Mechanism (NPC)](<Diluvian_Mechanism_(NPC).md>) | Unaligned | [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Starts [The Diluvian Mechanism](The_Diluvian_Mechanism.md) |  |
-| [Dockson](Dockson.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
+| [Dockson](Dockson.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Drefa](Drefa.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | The quest is repeatable |
 | [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), cemetery | None |  |
 | [Eastern Camp Master](Cheral.md) | [The Children of Navae](The_Children_of_Navae.md) | [Etrean Wilds](Etrean_Wilds.md) | None |  |
@@ -104,17 +104,17 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Glaive Spellhardt](Glaive_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | Green | Unaligned | [The Floating Keep](The_Floating_Keep.md) | None |  |
-| [Gunsmith](Gunsmith.md) | [Summer Company](The_Summer_Company.md) | [Guild Bases](Guild_Bases.md) | Makes bullet casing |  |
-| [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
+| [Gunsmith](Gunsmith.md) | [The Summer Company](The_Summer_Company.md) | [Guild Bases](Guild_Bases.md) | Makes bullet casing |  |
+| [The Guy](The_Guy.md) | [The Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
 
 Check the rest out for yourself, canonically smells really bad
 
  |
 | [Hiri](Hiri.md) | [The Hive](The_Hive.md) | In the Library section | None |  |
 | [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
-| [Ishan](Ishan.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
+| [Ishan](Ishan.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
 | [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |
-| [Jarvis](Jarvis.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | Smelts pieces of equipment together |  |
+| [Jarvis](Jarvis.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | Smelts pieces of equipment together |  |
 | [Jeremiah](Jeremiah.md) | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
 | [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a Talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
@@ -142,7 +142,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
 | [Lysander Spellhardt](Lysander_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
-| [Mag](Mag.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
+| [Mag](Mag.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
 | [Maedhran](Maedhran.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), On the cliff the Union hook leads to. | Sells some [mantra modifiers](Mantra_Modifiers.md). | Before accessing his shop, you have to listen to the tale he tells. |
 | [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the Miner's Landing lootpool in exchange for 350 notes. |  |
 | [Malte](Malte.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None | He talks about the Bladeharper Oath. |
@@ -151,7 +151,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Marro](Marro.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
 | [Mark Adaset](Mark_Adaset.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Swap the Deepbound defect for one of your choice | None |
-| [Mercille](Mercille.md) | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
+| [Mercille](Mercille.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
 | [Merryweather](Merryweather.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | None |  |
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants [Disguise](Attunement-less.md#disguise) mantra | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get mantra |
 | [Misérables](Misérables.md) | Unaligned | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe. Can be repeated if you have the knowledge/medallions required. |
@@ -169,7 +169,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Plath](Plath.md) | Unaligned | [Kyrsan Wilds](Kyrsan_Wilds.md) | None |  |
 | [Ploom](Ploom.md) | Unaligned | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants Talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
 | [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
-| [Prentis](Prentis.md) | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Hating on The Guy |  |
+| [Prentis](Prentis.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Hating on The Guy |  |
 | [Mr. Quarters, Halfmaster](Mr._Quarters,_Halfmaster.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
 | [Rabanastre](Rabanastre.md) | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. |
 | [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
@@ -181,13 +181,13 @@ Check the rest out for yourself, canonically smells really bad
 | [Saffron](Saffron.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |
 | [Samael](Samael.md) | Starkindred Faithful | [Derelict Highchurch](Derelict_Highchurch.md) | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
 | [Sentinel](Sentinel.md) | Unknown | [Etris](Etris.md) | Blocks the door to the house with the shadow hunter blueprint and moves aside when spoken to | Spawns in occasionally with another npc that is in the house named Khan |
-| [Scope](Scope.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
+| [Scope](Scope.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |
 | [Serendi](Serendi.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
 | [Sev](Sev.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sells dye for crowns. |  |
 | [Sibex](Sibex.md) | Unaligned | [The Aratel Sea](The_Aratel_Sea.md) ontop of a Statue on the islands infront of [Starswept Valley](The_Starswept_Valley.md) | Tells you how close you are to unlocking your [Resonance](Resonance.md) and what method is best to unlock it. |  |
-| [Sierra](Sierra.md) | [Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Hating on The Guy |  |
+| [Sierra](Sierra.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Hating on The Guy |  |
 | [Sordino](Sordino.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Sells a Thresher mount |  |
 | [The Stranger](Quiet_Stranger.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant [Murmur: Tacet](Murmur%253A_Tacet.md) to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
 | [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements |  |
@@ -197,7 +197,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |  |
 | [Theadre](Theadre.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, aspect and weapon equipped |
 | [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
-| [Trig](Trig.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
+| [Trig](Trig.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
 | [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
 | [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style |  |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |

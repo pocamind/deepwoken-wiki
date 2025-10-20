@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 166612
+revid: 167527
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the First Layer, The Depths, Layer 1, Map]
@@ -142,8 +142,8 @@ Information to keep in mind.
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allows 30 more seconds before losing it. You can last approximately 40 minutes before your character gains maximum insanity. Although impossible to die to natural insanity in the depths, insanity can severely affect your combat abilities and having max insanity will make you **die instantly when downed or below 10% health.** Willpower, Talents, and equipment grant extra sanity.
     -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and [Castle](Castle_Light.md) [Light](Castle_Light.md) do not restore sanity.
     -   [Blindseer](Oath%253A_Blindseer.md) doubles or even triples the time you can stay in the Depths.
-    -   [Deepbound](Origins.md) players can rest in [Castle Light](Castle_Light.md) at the campfire to restore sanity and craft food. Do note that only Deepbound players can use the campfire.
-    -   [Ignition Delvers](Origins.md) may use the campfire in [The Chariot's Spire](<The_Chariot's_Spire.md>), much like Deepbound.
+    -   [Deepbound](Deepbound.md) players can rest in [Castle Light](Castle_Light.md) at the campfire to restore sanity and craft food. Do note that only Deepbound players can use the campfire.
+    -   Ignition Delvers may use the campfire in [The Chariot's Spire](<The_Chariot's_Spire.md>), much like Deepbound.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 2.5x HP and 1.5x damage. These grant [Chests](Chests_&_Sacks.md) with even better loot.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing. \[Citation needed\]
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the Talent Undying Flame), you might want to consider bringing _**healing potions**_.
@@ -164,7 +164,7 @@ Information to keep in mind.
 
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
     -   You can confront [Akira](Akira.md) after he kills the [Ignition Union](The_Ignition_Union.md) goons, proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the [Divers](The_Divers.md) and unlock the origin [Deepbound](Origins.md).
+        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the [Divers](The_Divers.md) and unlock the origin [Deepbound](Deepbound.md).
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the [Ignition Union](The_Ignition_Union.md) group. Success causes him to leave, although this has no result other than that.
 
 ### [Oath: Visionshaper](Oath%253A_Visionshaper.md)
@@ -247,7 +247,7 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked, and try guard-breaking them every once in a while, as their posture is not remarkably big.
 -   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller or kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Ringing the bells (not corrupted bells) in the [The City of the Drowned](The_City_of_the_Drowned.md) will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
--   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Origins.md) origin.
+-   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Deepbound.md) origin.
 -   If you find yourself in the Depths with very little health, there are some options for you. These options include using the _Warrior's Respite_ Talent, killing a low-level mob (i.e a Jellyfish or a Mudskipper) for healthpack, or a friend that can place a Graceful Flame for you.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights and navigate the treacherous terrain.

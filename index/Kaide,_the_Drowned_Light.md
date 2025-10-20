@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 167282
+revid: 167627
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -60,7 +60,7 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 </tr>
 <tr>
   <td colspan="9">Hmm.. I am not sure how aware you are, surface dweller, but the <i>magic</i> you make use of is not some projection of your own strength. Your power lies within the <a href="Glossary.md#the-song">Song</a>. All you can conjure is a cheap imitation of the power held within the <a href="Glossary.md#the-song">Song</a> that <a href="Glossary.md#the-drowned-gods">Drowned Gods</a> wield as their birthright. If <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> were to wake, as the projections seem to indicate, the world above would simply cease to be.</td>
-  <td colspan="9">I once was Ruler of a place known as <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the <a href="Glossary.md#the-celestials">Celestials'</a> Last Gift. It was left in the hands of my forebearers, and passed to me. Unknown to me, I was to be the last king. The <a href="Glossary.md#kyrsan">Kyrsans</a>, under <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td>
+  <td colspan="9">I once was Ruler of a place known as <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the <a href="Glossary.md#the-celestials">Celestials'</a> Last Gift. It was left in the hands of my forebearers, and passed to me. Unknown to me, I was to be the last king. The <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a>, under <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td>
   <td colspan="9">I have been alive far longer than any living member of your kind, save for some of your... ah .. immortals. Our forebearers were once soldiers in the war to fight back the <a href="Glossary.md#the-depths">Depths</a>. But when the <a href="Glossary.md#the-celestials">Celestials</a> fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesied doom.</td>
   <td colspan="9">A hybrid, you might say. Our creators had hoped to bring our disparate peoples together and combine our strengths. Our bodies were enhanced by hybrid vigor; unyielding to age or to ailment. Our minds... Well, many of us ended up just as clueless and arrogant as the templates we were created from. There are few of us now, as we cannot bear our own kin.</td>
 </tr>
@@ -151,7 +151,7 @@ This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped
 </tr>
 <tr>
   <td><i>*He pinches his brow.*</i> Look, whatever you do with that thing isn't my business. Just keep it out of my sight.</td>
-  <td>Right. I'm sure that when <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> whispered to the <a href="Glossary.md#kyrsan">Kyrsans</a> and stole away their minds that they also felt they were doing 'good' when they burnt my city to the ground.</td>
+  <td>Right. I'm sure that when <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> whispered to the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> and stole away their minds that they also felt they were doing 'good' when they burnt my city to the ground.</td>
 </tr>
 <tr>
   <td>Can I ask how long it's been?</td>

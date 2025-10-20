@@ -1,6 +1,6 @@
 ---
 title: "Marauder's Entrance"
-revid: 166614
+revid: 167539
 source: https://deepwoken.fandom.com/wiki/Marauder's_Entrance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer]
@@ -14,7 +14,7 @@ Hidden into rock, the ritual mechanism shudders. Scattered papers and schemes fl
 
   
 
-**Marauder's Entrance** is a location in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It is one of the starting locations for the [Deepbound](Origins.md#deepbound) origin.
+**Marauder's Entrance** is a location in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It is one of the starting locations for the [Deepbound](Deepbound.md) origin.
 
 ## Overview
 

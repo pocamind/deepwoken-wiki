@@ -1,6 +1,6 @@
 ---
 title: Verse 3
-revid: 164877
+revid: 167537
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Upcoming content]
@@ -17,7 +17,7 @@ Verse 3 is an upcoming series of updates to Deepwoken, revealed on Sept. 23rd 20
 
 ## Upcoming Content
 
-The official reveal came with a roadmap of upcoming content, including new [Origins](Origins.md). The items on the roadmap are [the Authority Origin](Origins.md), a rework for [Saramaed Hollow](Saramaed_Hollow.md), the addition of a new character type called "Vow of Iron" that will allow the player to play a hardcore version of the game, a new addon for [Aspects](Aspects.md) called "Divergences" that will modify how Aspects work, [Ship](Ships_&_Sailing.md) modifications, new Locations to explore, and finally, Layer 3.
+The official reveal came with a roadmap of upcoming content, including new [Origins](Origins.md). The items on the roadmap are [the Authority Origin](Authority_Ensign.md), a rework for [Saramaed Hollow](Saramaed_Hollow.md), the addition of a new character type called "Vow of Iron" that will allow the player to play a hardcore version of the game, a new addon for [Aspects](Aspects.md) called "Divergences" that will modify how Aspects work, [Ship](Ships_&_Sailing.md) modifications, new Locations to explore, and finally, Layer 3.
 
 The roadmap included [Hallowtide](Hallowtide.md) 2025 in between the Authority origin and Layer 3's release.
 

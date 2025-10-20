@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 165624
+revid: 167496
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -64,8 +64,7 @@ When losing enough sanity, the player will endure negative effects.
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a Heartening potion.
 -   The [Conquer Your Fears](Talents.md#mental-fortress) Talent grants sanity when depths mobs die or when allies grip humanoid enemies near you.
--   The Castle Light sanity aura, which is exclusive to the [Deepbound](Origins.md) origin.
--   The Chariot's Spire sanity aura, which is exclusive to the [Ignition Delver](Origins.md) origin.
+-   The Castle Light and Chariot's Spire sanity aura, which are exclusive to the [Deepbound](Deepbound.md) and [Ignition Delver](Ignition_Delver.md) Origins respectively.
 
 ## Trivia
 

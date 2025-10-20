@@ -1,12 +1,9 @@
 ---
 title: Yakob
-revid: 167066
+revid: 167458
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 ---
 
 # Yakob
@@ -35,7 +32,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 
 **No division:**
 
-**Private:**
+**Private / Corporal:**
 
 <table>
 <tbody>
@@ -57,22 +54,6 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 </tbody>
 </table>
 
-**Corporal:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
 **Lance Corporal:**
 
 <table>
@@ -84,14 +65,14 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td><i>*The Adret beckons you over, feigning brushing a tear away.*</i> Hey, hey! Look at you climbing the ranks, like a Brainsucker flying the nest... Three cheers, soldier!</td>
 </tr>
 <tr>
-  <td>End, player joins [division name] Division</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
-**Command Division:**
+**Any Division:**
 
-**Warrant Officer:**
+**Division Unmaxed:**
 
 <table>
 <tbody>
@@ -99,7 +80,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Leadership giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
+  <td><i>*The Adret waves at you, cheerful.*</i> Hey, [Division] giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
 </tr>
 <tr>
   <td>End</td>
@@ -107,7 +88,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 </tbody>
 </table>
 
-**Captain:**
+**Seneschal / Handler / Operator:**
 
 <table>
 <tbody>
@@ -115,145 +96,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Leadership giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Commander:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Leadership giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Seneschal:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*The Adret salutes with pride.*</i> Seneschal!</td>
-</tr>
-<tr>
-  <td>At ease, soldier.</td>
-</tr>
-<tr>
-  <td><i>*Although on the surface, you may be bound by your ranks, you catch a glimpse of a small, earnest smile, as if you were two friends sharing a private joke among yourselves.*</i></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisition Division:**
-
-**Inquisitor:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>*The Adret waves at you, cheerful.* Hey, Inquisition giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisition 1st Class:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>*The Adret waves at you, cheerful.* Hey, Inquisition giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Handler:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Shock Corps Division:**
-
-**Frontliner:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Shock Corps giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Interceptor:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*The Adret waves at you, cheerful.*</i> Hey, Shock Corps giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Operator:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*The Adret salutes with pride.*</i> Operator!</td>
+  <td><i>*The Adret salutes with pride.*</i> [Rank]!</td>
 </tr>
 <tr>
   <td>At ease, soldier.</td>

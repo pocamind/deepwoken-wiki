@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 166864
+revid: 167568
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -13,7 +13,7 @@ notices:
 | The Ignition Union | |
 |---|---|
 | territory | Miner's Landing, The Frontier Furnace, The Chariot's Spire |
-| goals | Competing with the Summer Company and The Divers., Gain territory in and explore The Depths. |
+| goals | Competing with The Summer Company and The Divers., Gain territory in and explore The Depths. |
 
 “ Fine workers of the Union,  
 Come hear our hammer call!  
@@ -33,7 +33,7 @@ Their main base of operations is the mountainous [Miner's Landing](<Miner's_Land
 
 They are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Ignition_Delver.md).
 
-They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
+They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and [The Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
 
 They have instigated and maintains a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
 
@@ -47,7 +47,7 @@ Like other factions such as [The Summer Company](The_Summer_Company.md), having 
 
 You can reset your reputation with Maura, who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour, mobility mantras, or the Union Hook [Talent](Talents.md), and the price range is 30 to 300 Notes.
 
-The Ignition Union is among the factions to have a Bounty Board, which means that negative reputation with them leads to being hunted by [Voidwalkers](Origins.md).
+The Ignition Union is among the factions to have a Bounty Board, which means that negative reputation with them leads to being hunted by [Voidwalkers](Voidwalker.md).
 
 Having Hunted reputation will cause you to be hunted by [Arcwarders](Ignition_Union_Arcwarder.md) and [Mechalodaunts](Mechalodaunt.md).
 
@@ -88,7 +88,7 @@ Enemy-Neutral Reputation
 
 [Deepdelver Myra](Deepdelver_Myra.md): A [Tiran](Tiran.md) Deepdelver who resides in the Chariot's Spire along with Renau and Gamma, it is unknown what she does but upon interaction she is scheduled to enter the [Second Layer](Second_Layer.md) with some of her peers.
 
-[Gawain Corbet](Books.md): A presumed [Adret](Adret.md) Deepdelver of The Ignition Union who created the song "The Hammer's Call", his current whereabouts are unknown.
+[Gawain Corbet](Gawain_Corbet.md): A presumed [Adret](Adret.md) Deepdelver of The Ignition Union who created the song "The Hammer's Call", his current whereabouts are unknown.
 
 [Alpha](Alpha.md): An old Canor seeming as the leader in the Frontier Furnace.
 

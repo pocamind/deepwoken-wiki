@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 166254
+revid: 167558
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -33,7 +33,7 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 | Friend | 1 to 149 | NPCs will call you friend |
 | Neutral | 0 | N/A |
 | Enemy | ⁣-1 to -149 | NPCs tied to the relevant faction will attack on sight, including town guards.  
-Player will appear on bounty boards (starting from Power 5) and if the player is enemies with any of these factions, they can be hunted down by [Voidwalkers](Origins.md#voidwalker).
+Player will appear on bounty boards (starting from Power 5) and if the player is enemies with any of these factions, they can be hunted down by [Voidwalkers](Voidwalker.md).
 Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksmiths and Antiquarians.
 
  |
@@ -90,7 +90,7 @@ File:Nepotism.png
 
  | 
 
-[Summer Company](The_Summer_Company.md)
+[The Summer Company](The_Summer_Company.md)
 
  | [Nepo](Nepo.md) | Leaning by the archway reached by going across a series of bridges behind the Summer Isle Castle. |
 | 

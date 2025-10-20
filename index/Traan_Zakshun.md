@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 167254
+revid: 167581
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -287,6 +287,7 @@ The black market rotation always has 4 items in stock.
 His item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
 -   _A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._
+-   _Buy it you break it. Wait a sec..._
 -   _Careful. This one's got a history.. I think._
 -   _Did you know if you give me the crowns, I'll actually GIVE you the item, it's a crazy deal right?_
 -   _Don't even ask, man._
@@ -307,6 +308,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
+-   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _You want it? It's yours my friend! So long as you have enough crowns._
@@ -334,9 +336,9 @@ Sold Items
   <td>
   <ul>
     <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
-    <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Glumfig.md">Glumfig</a>.</li>
-    <li><b>For 3 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
-    <li><b>For 4 </b>: <a href="Forge_Needle.md">Forge Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>
+    <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>.</li>
+    <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+    <li><b>For 4 </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 8 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
     <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a> .</li>

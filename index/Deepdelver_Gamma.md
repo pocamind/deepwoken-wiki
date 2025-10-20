@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 167167
+revid: 167535
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -70,7 +70,7 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 
 **Unlockable Dialogue:**
 
-This dialogue is unlocked if the player is the [Ignition Delver](Origins.md#ignition-delver) [Origin](Origins.md).
+This dialogue is unlocked if the player is the [Ignition Delver](Ignition_Delver.md) [Origin](Origins.md).
 
 <table>
 <tbody>

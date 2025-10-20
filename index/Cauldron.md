@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 153810
+revid: 167543
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -37,7 +37,7 @@ The cauldron in [Guild Bases](Guild_Bases.md) can be found in the purchasable La
 
 The cauldron in the [Voidheart](Voidheart.md) is located next to the [Mystic](Mystic.md).
 
--   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Origins.md).
+-   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Voidwalker.md).
 
 **Eastern Luminant:**
 
@@ -73,7 +73,7 @@ The cauldron at [Boatman's Watch](<Boatman's_Watch.md>) is located in the hidden
 
 The cauldron in the [Voidheart](Voidheart.md) is located next to the [Mystic](Mystic.md).
 
--   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Origins.md).
+-   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Voidwalker.md).
 
 **First Layer:**
 

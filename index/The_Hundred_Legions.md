@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 166955
+revid: 167523
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -35,7 +35,7 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 ## Reputation
 
-By default, every single [Origin](Origins.md) starts with an enemy [reputation](Reputation.md) with The Hundred Legions. [Authority Ensign](Authority_Ensign.md) has less starting Hundred Legions reputation than any other Origin. Being a Khan increases your starting reputation with the Legions to neutral.
+By default, every single [Origin](Origins.md) starts with an enemy [reputation](Reputation.md) with The Hundred Legions. Notably, [Authority Ensign](Authority_Ensign.md) has less starting Hundred Legions reputation than any other Origin. Being a Khan increases your starting reputation with the Legions to neutral.
 
 There is no reputation reset NPC for The Hundred Legions and have a singular [Bounty Board](Bounty_Hunting.md) by their camp in [Lower Erisia](Lower_Erisia.md).
 

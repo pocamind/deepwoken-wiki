@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 164986
+revid: 167433
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Items]
@@ -29,5 +29,5 @@ categories: [Equipment, Rings, Items]
 
 ## Trivia
 
--   The ring was originally owned by [Gunsmith Rosen](Gunsmith_Rosen.md), the founder of the [Summer Company](The_Summer_Company.md) and the first person to re-introduce guns after [The Canticlysm](The_Canticlysm.md).
+-   The ring was originally owned by [Gunsmith Rosen](Gunsmith_Rosen.md), the founder of [The Summer Company](The_Summer_Company.md) and the first person to re-introduce guns after [The Canticlysm](The_Canticlysm.md).
 -   Part of a set of Scaling rings, along with [Akira's Ring](<Akira's_Ring.md>), [Maestro's Ring](<Maestro's_Ring.md>), [Prophet's Ring](<Prophet's_Ring.md>), and the [Dawnfist's Ring](<Dawnfist's_Ring.md>).

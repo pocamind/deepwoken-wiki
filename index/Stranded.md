@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 151553
+revid: 167507
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -24,7 +24,7 @@ categories: [Outfits, Starter Outfits]
 
 ### _Requirements_
 
-This Outfit has no cost and requires no materials to craft. Instead this is automatically equipped upon starting with the [Castaway](Origins.md#castaway) Origin.
+This Outfit has no cost and requires no materials to craft. Instead this is automatically equipped upon starting with the [Castaway](Castaway.md) or [Lone Warrior](Lone_Warrior.md) Origins.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
@@ -34,7 +34,7 @@ This Outfit has infinite durability (though is sometimes permanently empty) and 
 
 ## Trivia
 
--   Like all other Origin-exclusive Outfits, Stranded is lost upon crafting/equipping another Outfit.
+-   Like all other Origin-exclusive Outfits, Stranded is lost upon crafting another Outfit.
 -   The Stranded Outfit is removed from the Blacksmith's shop once it is unequipped.
 -   The Outfit appears to be a severely tattered version of the Grey [Traveler Cloak](<Traveller's_Jacket.md>).
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5150609038/Stranded) / [Pants](https://www.roblox.com/catalog/5150610387/Stranded-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Cloth
-revid: 158742
+revid: 167574
 source: https://deepwoken.fandom.com/wiki/Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -88,9 +88,7 @@ The cloth at [Summer Isle](Summer_Isle.md) is located inside the castle at Con's
 The cloth at the [Voidheart](Voidheart.md) is located on a table near the [Antiquarian](Antiquarian.md).
 
 -   Costs 6.
--   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Origins.md).
-
-}}
+-   The Voidheart can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by [Voidwalkers](Voidwalker.md).
 
 **First Layer:**
 
