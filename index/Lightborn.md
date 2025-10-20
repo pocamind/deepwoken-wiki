@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 167614
+revid: 167718
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
@@ -54,7 +54,7 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
 
 The Lightborn are said to be fragments of the once-great gods above, hybrids born from both humans and [celestials](Lore.md#celestials). A family of them known as the Spellhardts has appeared in the Eastern Luminant, rumored to live in a [great castle in the sky](The_Floating_Keep.md). Though they come from celestial origins, their reputation among the people is often questioned because of their questionable actions. Not much is known about their culture or beliefs, but they are known to punish anyone tempted by the [Drowned Gods](Lore.md#drowned-gods), banishing them from their community. The Lightborn, along with the Celestials, were once at war with the Drowned Gods and [The Depths](The_Depths.md) itself. Their city was eventually raided by the [Kyrsgarde](Kyrsgarde.md) under [Ethiron’s](Lore.md#ethiron-the-maelstorms-eye) command, and after the Celestials fled, the remaining Lightborn lost the will to fight, leading to the fall of [Constellia](Lore.md#constellia).
 
-Despite being immortal, they can show signs of aging, as seen in [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md). It’s unclear how this works with player Lightborns.
+Despite being immortal, they can show signs of aging, as seen in [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), and [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md). It’s unclear how this works with player Lightborns.
 
 **Strengths:**
 

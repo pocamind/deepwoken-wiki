@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 167045
+revid: 167711
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -839,7 +839,7 @@ These are Talents found in "_Bloodrender_" Category.
 |  | Hemorrhaging Blow  
 (95 Bloodrend, Master Bloodrender) | Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds. | The damage to healing conversion is 1:1. This applies to **all** (non passive) healing and affects healing outside of combat. |
 |  | Rush Hour  
-(50 Bloodrend) | Stab yourself to become stronger, faster, and deal increased blood bar damage. | Gives you a tool that passively drains your blood and health for these buffs. While buffed, you regenerate blood m1. Rush Hour can be deactivated at any time by using the tool again. |
+(50 Bloodrend) | Stab yourself to become stronger, faster, and deal increased blood bar damage. | Gives you a tool that passively drains your blood and health for these buffs. While buffed, you regenerate blood by landing m1s and gain a damage and speed boost. Rush Hour can be deactivated at any time by using the tool again. |
 |  | Sanguine Siphon  
 (40 Bloodrend) | Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra. | The damage buff is 20%, and the buff lasts 15 seconds or until you use a Bloodrend mantra. |
 |  | Sheltering Grasp  

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 167498
+revid: 167696
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -420,7 +420,7 @@ Exhaustive Loot Table
 -   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that Duke Erisia is a member of the band "The Seal Unleashed" as the vocalist.
     -   Duke Ishamon Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
--   He is able to drown; if you glitch you and him into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
+-   He is able to drown; if you manage to glitch both yourself and Duke Ishamon Erisia into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
 -   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Ishamon Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
 -   If you don't kill all the enemies in the first area, Duke Ishamon Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
 

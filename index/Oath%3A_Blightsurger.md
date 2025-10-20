@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 166301
+revid: 167700
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -55,7 +55,7 @@ _Blightsurger **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oa
 
 ## Progression
 
-To progress Blightsurger, the player will need to continue talking to [Brutus](Brutus.md).
+To progress Blightsurger, the player will need to activate **Sovereign State** multiple times.
 
 ## Abilities
 
