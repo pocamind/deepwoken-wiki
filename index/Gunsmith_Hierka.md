@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Hierka
-revid: 167195
+revid: 167892
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Hierka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Gunsmiths]
@@ -13,6 +13,7 @@ notices:
 | Gunsmith Hierka | |
 |---|---|
 | name | Hierka |
+| alias | Gunsmith |
 | affiliation | The Central Authority, Bureau of Research, The Summer Company |
 
 ## Description

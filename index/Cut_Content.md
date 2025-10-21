@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 167436
+revid: 167908
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -8,7 +8,7 @@ categories: [Cut Content]
 
 # Cut Content
 
-This page is about content that has either been removed or changed drastically in Deepwoken. An example of a drastic change is the Flame Wisp rework, while a removal would be Talents that get merged such as Heartstopper, or content that is flat removed, such as Isle of Crows.
+This page is about content that has either been removed or changed drastically in Deepwoken. An example of a drastic change is the Flame Wisp rework, while a removal would be Talents that get merged such as Heartstopper, or content that is flat out removed, such as Isle of Crows.
 
 ## Locations
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 167845
+revid: 167865
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -122,7 +122,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>After landing a few stacks of Bluster, start a countdown to an explosion that scales off your m1 damage. Land attacks during this countdown to make it explode faster. This explosion scales with your weapon investment.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Bluster is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Bluster Enchant Stone can be obtained as a chest drop from <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.<p></p></div></td>
+  <p>Bluster is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Bluster Enchant Stone can be obtained from:<div>
+  <ul>
+    <li>Chest drop from <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.</li>
+    <li>Sold by <a href="Traan_Zakshun.md">Traan Zakshun</a> for 5 .<p></p></li>
+  </ul></div></div></td>
   <td><div>Weapon is a light-grey color with smoke effects emanating from it.</div></td>
 </tr>
 <tr>

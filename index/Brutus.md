@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 155867
+revid: 167901
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern L
 | name | Brutus |
 | aspect | Khan |
 | location | Fort Merit |
+| affiliation | The Hundred Legions |
 
 “ Get out of my cell, swine. ”
 
@@ -20,7 +21,7 @@ categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern L
 
 ## Description
 
-Brutus is an imprisoned [Khan](Khan.md) in the [Fort Merit](Fort_Merit.md) prison that allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#innate-aspect-talents)/[Exoskeleton](Talents.md#freak-of-nature), and does not drain it. Based on his dialouge, and him wearing the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Khan Pauldrons](Legion_Pauldrons.md), he is most likely a high-ranking member of [The Hundred Legions](The_Hundred_Legions.md).
+Brutus is an imprisoned [Khan](Khan.md) in the [Fort Merit](Fort_Merit.md) prison that allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#innate-aspect-talents)/[Exoskeleton](Talents.md#freak-of-nature), and does not drain it. Based on his dialouge, and him wearing the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Khan Pauldrons](Legion_Pauldrons.md), he is most likely a high-ranking member of [The Hundred Legions](The_Hundred_Legions.md), and has a history with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 He is noticably larger than most other people, including you.
 
@@ -99,7 +100,7 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
 ## Trivia
 
 -   Initially, there were no bars on Brutus' cage. While it was initially speculated he was afforded certain freedoms, an interview with Arch\_Mage revealed that there were meant to be bars there, hence why there was a secret tunnel into his cell that seemingly provided no function due to the cell being wide open anyway. This lead to builder Zartania constantly being asked "Can you put bars on Brutus' cage?" by a discord user which finally culminated in their addition during the 3/8/2024 update.
-    -   At some point, the secret tunnel was also removed.
+    -   At some point, the secret tunnel was also removed, but the bars were also taken off by mistake in the process.
 -   You can use a training vest and let him beatdown you to increase fortitude.
 -   His hair ID is 5143078089.
 -   His variant is Silverback.

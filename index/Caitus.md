@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 166865
+revid: 167898
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 | name | Caitus |
 | aspect | Khan |
 | location | The Viper's Jaw |
+| affiliation | The Hundred Legions |
 
 ## Description
 

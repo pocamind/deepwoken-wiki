@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 167731
+revid: 167906
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -20,11 +20,11 @@ categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Traan Zakshun is an NPC merchant, he sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on his back, and he wears the [Carefree Garments](Carefree_Garments.md) outfit.
+Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". They wield an [Iron Twinblade](Iron_Twinblade.md) on their back, and they wear the [Carefree Garments](Carefree_Garments.md) outfit. They also wear a hat made out of kelp on their head, which they claim is for later consumption.
 
-Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of his shop consists of uncommon weapons and schematics that are geared towards mid-game.
+Traan Zakshun's shop runs on an hourly rotation. Every hour, they sell two to four items chosen at random from a list. They can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
-Once every 20 hours, from 21:00 to 22:00 Traan Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). You can only purchase **one item total** per black market visit.
+Once every 20 hours, from 21:00 to 22:00 Traan Zakshun will appear hosting a [black market](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are sold for [Crowns](Crowns.md). Only one item total can be purchased per black market visit.
 
 ## Location
 
@@ -169,6 +169,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Now see, I would buy this. From myself._
 -   _Oh haha, that's not dust that's uhm... an expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
+-   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_
@@ -177,6 +178,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This one's so valuable it's been sitting around for years!_
 -   _This usually isn't the case but I almost drowned getting this haha._
 -   _Truly a divine thingymabob._
+-   _Yes this is my real name... legally._
 -   _You got any Ongo slices? I could really go for a snack..._
 
 ## Shop Rotation
@@ -301,6 +303,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _It's Antique! Scratch that, Brand New!_
 -   _Maybe clean this when you get a minute._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
+-   _Might need to steal me a sweater, gettin 'a little chilly up here._
 -   _No questions, no returns._
 -   _Not sure if I really want to let this one go... if that makes you want it more?_
 -   _Oh this one's verrry special - I can only let you buy one._
@@ -309,11 +312,13 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
+-   _Ugh, I don't even like WANT to sell this... Unless.. I dunno~ you gave me the crowns for it?_
 -   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _You got cash for a crown? I'm running low on change here... If not it's fine._
 -   _You want it? It's yours my friend! So long as you have enough crowns._
+-   _You want my hat instead? I actually made it out of dried kelp, I'm saving it for later. Not for sale._
 -   _You wouldn't believe how hard these were to find._
 
 ## Black Market Shop Rotation
@@ -329,10 +334,11 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
+    <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Hemobloom.md">Hemobloom</a>.</li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>.</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
-    <li><b>For 4 </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>
+    <li><b>For 4 </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.<b></b></li>
+    <li><b>For 5 </b>: <a href="Enchantments.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 8 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
     <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a> .</li>
@@ -366,12 +372,11 @@ Sold Items
 ## Trivia
 
 -   Traan Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
--   Traan Zakshun changed their name to that because they're a troll.[\[1\]](#cite-note-0-1)
--   The Black Market dialogue "_You want it? It's yours my friend! So long as you have enough crowns."_ is a quote reference to Morshu in Link: The Faces of Evil.
+-   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update, as too many people were pronouncing it as "train saction" and not "transaction".
+-   The Black Market dialogue "_You want it? It's yours my friend! So long as you have enough crowns."_ is a reference to Morshu from Link: The Faces of Evil.
 -   Nuttoons, one of Deepwoken's developers, had this to say about Traan Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
     -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
--   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update.
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1)
+1.  [↑](#cite-ref-0-1-0)

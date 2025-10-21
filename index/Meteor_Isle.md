@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 167529
+revid: 167881
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Children of Navae]
@@ -20,19 +20,19 @@ Remnants of the stars themselves rain down upon this rocky spire.
 
 ## Points of Interest
 
--   [Ata](Ata.md) - Mantra Spark Vendor
--   [Beiruul](Beiruul.md), the Gremor - Quest Giver
--   [Cestis](Cestis.md), the Ganymede - Tacet Obtainment
--   [Eres](Eres.md), Etrean Outcast - Etrea Lore
--   [Exter](Exter.md), Gremor
--   Mercille, Vesperian - Meteor Isle > Starswept Sack Rewards
--   [The Guy](The_Guy.md) - Summer Isle > Cannon Quest
--   [Sekh](Sekh.md), Vesperian Hivekin - Meteor Isle Lore
--   Crafting Table, Inn
--   Blacksmith
--   Well
--   Cauldron
--   [Saffron](Saffron.md), Oathless quest req
+-   [Ata](Ata.md) - Mantra Spark Vendor.
+-   [Beiruul](Beiruul.md) - Quest Giver.
+-   [Cestis](Cestis.md) - Tacet Obtainment.
+-   [Eres](Eres.md) - Etrea Lore.
+-   [Exter](Exter.md) - Random Gremor dude idk.
+-   Mercille - Starswept Sack Rewards.
+-   [The Guy](The_Guy.md) - Summer Isle > Cannon Quest.
+-   [Sekh](Sekh.md) - Meteor Isle Lore.
+-   Crafting Table, Inn.
+-   Blacksmith.
+-   Well.
+-   Cauldron.
+-   [Saffron](Saffron.md) - Oathless quest requirement.
 
 ## Events
 
@@ -47,7 +47,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
     -   It is well known for featuring prominently in the [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70).
         -   This is referenced by Exter, who notes how familiar the area where the direct took place is.
 -   [Cestis](Cestis.md), who was previously located in [The Hidden Village](The_Hidden_Village.md) was moved here in the Verse 2 update.
--   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is entirely a neutral location due to the equilibrium of Hivekin, Etreans and Navaens.
+-   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is a "neutral" location due to the equilibrium of Hivekin, Etreans and Gremors.
     -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.
 -   You cannot set a spawn point in the Inn as they will tell the player that they are closed.
-    -   Alternatively, if you wish to set your spawn point here you may set a [Guild Base](Guild_Bases.md) or use the [Voideye](Voidwalker.md#voideye)
+    -   Alternatively, if you wish to set your spawn point here you may set a [Guild Base](Guild_Bases.md) or use the [Voideye](Voidwalker.md#voideye).

@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 167609
+revid: 167888
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -13,6 +13,7 @@ categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First La
 | name | Klaris Llfiend |
 | aspect | Canor |
 | location | Castle Light |
+| affiliation | The Divers |
 
 “ You've done a great deal for us. This is the least we can offer in gratitude. ”
 
@@ -490,14 +491,14 @@ Radiant Teachings
 
 -   You don't have to beat Chaser after you unlock the Galewax shrine for it to count to the Deepshore Fossil quest.
 -   She is the inventor of Radiant Magic.
--   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
+-   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend.
 -   Despite her appearance, she's actually a Canor without eyeliner.[\[4\]](#cite-note-4)
 -   Klaris Colors: #F0E2B6 Skin | #F0E2B6 Hair
     -   The colour of her skin is identical to that of her hair.
     -   Klaris' Hair id's are  
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them.
--   The name Klaris is likely derived from the French name Claire, which fittingly means"clear."
+-   The name Klaris is likely derived from the French name Claire, which fittingly means "clear."
 -   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
     -   Klaris uses Regular Torso, unlike [Eylis](Eylis,_the_Punished_Dreamer.md) who uses Lean.
 -   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.

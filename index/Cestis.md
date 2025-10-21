@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 153801
+revid: 167885
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, NPCs located in the Eastern Luminant]
@@ -13,10 +13,11 @@ categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, NPCs located in
 | name | Cestis |
 | aspect | Ganymede |
 | location | Meteor Isle |
+| affiliation | The Ministry |
 
 ## Description
 
-Cestis is a [Ganymede](Ganymede.md) NPC presumably working for the Ministry. His main purpose is to contract assassinations of random players, chiefly used to obtain the [Tacet](Murmur%253A_Tacet.md) [Murmur](Murmur.md).
+Cestis is a [Ganymede](Ganymede.md) NPC presumably working for [the Ministry](The_Ministry.md). His main purpose is to contract assassinations of random players, chiefly used to obtain the [Tacet](Murmur%253A_Tacet.md) [Murmur](Murmur.md).
 
 ## Location
 
@@ -133,5 +134,6 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 ## Trivia
 
 -   Cestis was originally located in [The Hidden Village](The_Hidden_Village.md).
--   For those trying to get [Murmur: Tacet](Murmur%253A_Tacet.md), Doing bounties from territories like [Etris](Etris.md), [Summer Isle](Summer_Isle.md), or even [Fort Merit](Fort_Merit.md) will count towards your required number of assassinations in order to obtain Tacet from Cestis.
-    -   Furthermore, if you already have 5 bounties completed you will still be able to obtain Tacet with positive Etrean Reputation. After teaching you he will revert to his Good Etrean Reputation Dialogue. - Note, You require Hunted reputation with Etrea, Not Enemy
+-   For those trying to get [Murmur: Tacet](Murmur%253A_Tacet.md), doing bounties from territories like [Etris](Etris.md), [Summer Isle](Summer_Isle.md), or even [Fort Merit](Fort_Merit.md) will count towards your required number of assassinations in order to obtain Tacet from Cestis.
+    -   Furthermore, if you already have 5 bounties completed you will still be able to obtain Tacet with positive Etrean Reputation. After teaching you he will revert to his Good Etrean Reputation Dialogue. - Note, You require Hunted reputation with Etrea, Not Enemy.
+-   It is unknown why you require Hunted reputation with [Etrea](Etrea.md) to get a bounty from him, given that Etrea is under the control of the Ministry..

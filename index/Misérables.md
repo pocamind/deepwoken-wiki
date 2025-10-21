@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 154055
+revid: 167876
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -110,6 +110,8 @@ _**Loop:**_
 
 1.  I seek power in my upcoming battles.
 2.  I seek clarity.
+
+  
 
 ## Trivia
 

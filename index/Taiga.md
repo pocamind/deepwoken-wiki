@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 166062
+revid: 167907
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC, she is an apprentice under Doctor Sawbones.
+Taiga is a [Capra](Capra.md) NPC, she is an apprentice under the Eastern garrison's sawbones.
 
 ## Location
 

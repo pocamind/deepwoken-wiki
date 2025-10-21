@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 167640
+revid: 167894
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -22,7 +22,7 @@ notices:
 
 Sentinel Augustus is an [Adret](Adret.md) NPC, he is part of the Shock Trooper division for [The Central Authority](The_Central_Authority.md).
 
-He wields the [Duskguard Axe](Duskguard_Axe.md). As signified by his [resonance](Resonance.md) he is moderately strong.
+He wields the [Duskguard Axe](Duskguard_Axe.md). As signified by his [resonance](Resonance.md) he is moderately strong, and was responsible for the capture of [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 ## Location
 

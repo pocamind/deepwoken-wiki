@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 164604
+revid: 167886
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae, Children of Navae Enemies]
@@ -119,11 +119,10 @@ An Eastern Tribe Nomad executes it's opponent after knocking them:
 | --- | --- |
 | Execute | Pins down opponent before impaling them through the chest with their spear. |
 
--   All of them are [Gremors](Gremor.md)
+-   All of them are [Gremor](Gremor.md).
 -   The Eastern Tribal Leader at Etrean Nomad camp has a [Novice Brace](Novice_Brace.md).
+-   They have a chance to wield enchanted weapons.
     
     A nomad with Vampirism on their spear.
     
     Eastern Tribal Leader wearing a Novice Brace.
-    
-    They have a chance to wield enchanted weapons.

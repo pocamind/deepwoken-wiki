@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 167597
+revid: 167893
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gunsmiths]
@@ -11,8 +11,9 @@ categories: [Gunsmiths]
 | Gunsmith Rosen | |
 |---|---|
 | name | Rosen |
+| alias | Gunsmith |
 | aspect | Vesperian[1] |
-| location | The Eastern Luminant |
+| affiliation | The Summer Company |
 
 “ The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. ”
 
