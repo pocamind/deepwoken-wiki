@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 167819
+revid: 167844
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -10,7 +10,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, 40 Body, 40 Galebreathe or Thundercall |
+| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, 40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
@@ -61,17 +61,12 @@ Recommend method is to do [Ferryman](The_Ferryman.md) to remain in constant comb
 
 ( **THESE ARE ALL ESTIMATES AND NEEDS MORE TESTING**)
 
-7 ~ 100% Activations - Soverign Drive
-
-7 ~ 100% Activations - Blighted Touch
-
-15 ~ 100% Activations - Skycrash/ Blight Piercer
-
-15 ~ 100% Activations - Warp Kick
-
-15 ~ 100% Activations  - Anchor Shock
-
-15 ~ 100% Activations - Blight Lash
+-   7 ~ 100% Activations - Soverign Drive
+-   7 ~ 100% Activations - Blighted Touch
+-   15 ~ 100% Activations - Skycrash/ Blight Piercer
+-   15 ~ 100% Activations - Warp Kick
+-   15 ~ 100% Activations  - Anchor Shock
+-   15 ~ 100% Activations - Blight Lash
 
 Rounded up in total would be 75~ 100% **Sovereign Mode** activations.
 

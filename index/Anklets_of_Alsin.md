@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 166281
+revid: 167856
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons, Fists, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Lodestar, Interluminary Parasol, The Depths, Starswept Valley, Polis, Maestro Evengarde Rest, Heart of Enmity, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent |
+| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Lodestar, Interluminary Parasol, Saramaed Hollow, The Depths, Starswept Valley, Polis, Maestro Evengarde Rest, Heart of Enmity, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Scion of Ethiron, Other sources:, Direct drop from Dread Serpent |
 | description | [REQUIRES A KICK STYLE] |
 
 ## Description

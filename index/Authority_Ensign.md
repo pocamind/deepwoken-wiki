@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 167767
+revid: 167859
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -493,6 +493,11 @@ Shock Corps Division
 -   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
+-   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'. Being Exiled _might_ remove this restriction (needs testing).
+    -   This means you are unable to get [Blightsurger](Oath%253A_Blightsurger.md). It may be possible as a [Khan](Khan.md) with the 'Celebrity' [talent](Talents.md) (_also_ needs testing).
+        
+        Reputation cap as every other Aspect.
+        
 -   Because the Master Armors are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 166671
+revid: 167845
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -821,7 +821,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>You take 50% more damage when being guard broken.<br>
-  </p>On Flourish, Critical, or Uppercut, apply the Authoritative status effect, increasing all posture damage taken by your opponent by 50% for 30 seconds.<p></p>
+  </p>On Flourish, Critical, or Uppercut, apply the Authoritative status effect, increasing all posture damage your opponent takes by 50% for 30 seconds.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>On critical, uppercut, or flourish, apply Authoritative on your opponent making them take 50% more posture damage. When you get guardbroken, take 50% more damage.</i></p>
   <p><strong>Obtainment:</strong></p>
