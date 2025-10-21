@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 167707
+revid: 167731
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -173,6 +173,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_
 -   _This is a real steal, probably._
+-   _This one really stood out when I was looting the guy who had it._
 -   _This one's so valuable it's been sitting around for years!_
 -   _This usually isn't the case but I almost drowned getting this haha._
 -   _Truly a divine thingymabob._
@@ -252,11 +253,11 @@ Sold Items
   <ul>
     <li><b>For 50 </b>:
   <ul>
-    <li><b><font>Face</font></b>:<a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
+    <li><b><font>Face</font></b>: <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
   </ul></li>
     <li><b>For 100 </b>:
   <ul>
-    <li><b><font>Arms</font></b>:<a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
+    <li><b><font>Arms</font></b>: <a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -346,7 +347,7 @@ Sold Items
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.</li>
     <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>.</li>
     <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
-    <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a></li>
+    <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>.</li>
     <li><b>For 10 </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>
     <li><b>For 45 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>

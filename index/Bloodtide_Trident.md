@@ -1,9 +1,9 @@
 ---
 title: Bloodtide Trident
-revid: 158411
+revid: 167721
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
+categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
 ---
 
 # Bloodtide Trident
@@ -41,6 +41,8 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 The user is able to aim the critical wherever their mouse is facing. When the trident makes contact with an object or surface, it will burst in a blood-red explosion. If the user hits an opponent with the trident, they will be sent upwards identical to the [Flareblood Kamas](Flareblood_Kamas.md) critical and will shortly be pulled to the user when further away.
 
 The critical can be landed at any range but will not affect the pull distance at far ranges. The critical has a cooldown of **8 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

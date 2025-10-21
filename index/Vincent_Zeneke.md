@@ -1,6 +1,6 @@
 ---
 title: Vincent Zeneke
-revid: 166212
+revid: 167753
 source: https://deepwoken.fandom.com/wiki/Vincent_Zeneke
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

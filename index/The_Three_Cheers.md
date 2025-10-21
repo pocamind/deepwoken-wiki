@@ -1,12 +1,9 @@
 ---
 title: The Three Cheers
-revid: 165093
+revid: 167762
 source: https://deepwoken.fandom.com/wiki/The_Three_Cheers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
 ---
 
 # The Three Cheers
@@ -18,6 +15,10 @@ TERRITORY OF The Central Authority
 The favoured haunt of a weary soldier.
 
   
+
+## Overview
+
+Run by [Fabantou](Fabantou.md), The Three Cheers is a bustling tavern for the [Central Authority](The_Central_Authority.md)'s military personnel to rest and unwind after successful missions.
 
 ## Contents
 

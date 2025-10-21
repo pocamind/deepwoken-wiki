@@ -1,6 +1,6 @@
 ---
 title: The Moonseye
-revid: 111690
+revid: 167756
 source: https://deepwoken.fandom.com/wiki/The_Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Moonseye (symbol)](<Moonseye_(symbol)%253Fredirect=no.md>)
+-   [Moonseye](Moonseye.md)

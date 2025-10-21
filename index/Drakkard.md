@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 160213
+revid: 167779
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Exclusive Aspects, Aspects, Developer Spec]
@@ -78,6 +78,10 @@ According to their description, they are "auspicious mediators of conflict", mea
 -   Drakkengard
 -   Seethehardt
     
+
+## Features
+
+Drakkards have a very limited customization range, such as the shape of their horns. There are up to five horn options available:
 
 ## Trivia
 

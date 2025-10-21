@@ -1,6 +1,6 @@
 ---
 title: Hellfire Lotus
-revid: 159654
+revid: 167771
 source: https://deepwoken.fandom.com/wiki/Hellfire_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -19,4 +19,6 @@ categories: [Items, Ingredients, Harvestables]
 | desc | A primordial Lotus, capable of producing the rawest form of power itself. |
 | obtainment | Crypt of the Unbroken, Saramaed Summit |
 
-The Hellfire Lotus can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) or [Saramaed Summit](Saramaed_Summit.md).
+## Description
+
+The Hellfire Lotus can be found in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Saramaed Summit](Saramaed_Summit.md).

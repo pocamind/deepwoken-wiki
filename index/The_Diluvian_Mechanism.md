@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 165230
+revid: 167740
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -464,7 +464,7 @@ Alternatively, if you're using Corrupted Payback, you can get rid of most of the
 
  | Use the Golem Primes as healthpacks. If you're using Corrupted [Payback](Payback.md), you can use it while they're using their Rapid Spin to deal high amounts of damage. |
 | 49 (Penultimate Powercheck) | 1 Lowly [Bandit](Bandit.md) | The only wave that actually lets you take time. However, keep in mind that while you do regain some tempo at the start of Wave 50, you do not regain all of it. If the bandit is using a dagger the dagger becomes a [Krulian Knife](Krulian_Knife.md). |
-| 50 (End of the Hell)
+| 50 (Hey so you know the battle potion from terraria, yeah no it's one cool ass potion isn't it. It's amazing for grinding stuff in Calamity like have you seen the Zerg potion variant, it's like a godsend I tell you post-Ravager, at least for me it was. Hey yeah so imagine if we took the use out of it as in the crazy drops, and just like obliterated you. Yeah you guessed it, full on complete and total extermination, like if we just said "you should be shot and killed", yeah so we like converted that into a dilluvian wave. Sounds insane doesn't it? Nah, surely they didn't, but yes, we did, do you see that "Corrupt Attuned Kyrsgarde Brutes + Fury Nautilodaunts. Yeah we made it so they can all have thunder if you're mad unlucky, I know, it sucks, like it really does. But hey at least you get relic- What's that? The drops are still ass? Well maybe you can get a pendant- No? No that's gone too? Damn. Well, at least you can have this sick ass armor piece after, use it to solo enmity sometime or whatever, if you're competent enough to do that. Maybe you'll get a thrall, but the hyperarmor is gone so, you know. Anyways, have fun getting obliterated twin.)
 
 **\*TIMEBOMB MODIFIER\***
 

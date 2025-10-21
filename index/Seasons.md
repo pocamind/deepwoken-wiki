@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 166202
+revid: 167741
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -64,12 +64,19 @@ Examples of Winter.
 
 ## Notes
 
--   As of 1/10/2025, all of these items can drop during any season, but Knowledge is only in Spring.
+-   The [Ferryman](The_Ferryman.md) rewards an additional chest on defeat, with the loot pool of this chest varying depending on the current season. During Spring, Ferryman will give 1 [Knowledge](Knowledge.md) instead.
 -   The Aelita event can spawn in Valley of Heroes if it is not winter. For more information, see [Aelita](Aelita.md).
 -   Aelita will still have a chance of spawning Snow Knights if it only recently turned to Spring in the server.
--   The one and only moment in history where the time in Deepwoken will be the exact same as the time in real life, down to the tenth of a second, is projected to be 15:15:50.4 UTC (50.4 seconds after 3:15 PM UTC) on April 15, 2030. After this moment, Deepwoken will be permanently set in the future.
+-   The one and only moment in history where the time in Deepwoken will be the exact same as the time in real life, down to the tenth of a second, is projected to be 15:15:50.4 UTC (50.4 seconds after 3:15 PM UTC) on April 15, 2030. After this moment, Deepwoken will be permanently set in the future. [\[1\]](#cite-note-1)[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)[\[4\]](#cite-note-4)
 -   During the Hallowtide Event, the map appears as Fall, regardless of the season.
 -   When the game released the time was around 1270 as said in TheRealRunchee's video 'Full Lore Timeline'
 -   As of October 7th, 2025, Deepwoken years now last 8 real life days. This took effect starting Spring/Hearthspan 1617 CE.
 
-Where x is a year in Deepwoken, f(x) is the corresponding year in real life, and g(x) is the number of days after December 31, 2021 that day will occur.
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3)
+4.  [↑](#cite-ref-4)
+    
+    Where x is a year in Deepwoken, f(x) is the corresponding year in real life, and g(x) is the number of days after December 31, 2021 that day will occur.

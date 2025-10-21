@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 167712
+revid: 167726
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -405,7 +405,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Wrath Gem</td>
-  <td>On hit, apply the <a href="Status_Effects.md#wrath">Wrath</a> status effect, this does nothing innately. This effect has a 10 second cooldown.<p><br>
+  <td>On hit, apply the <a href="Status_Effects.md#wrath">Wrath</a> status effect, granting yourself a +7.5% damage modifier on your critical attacks, but only if you're in combat. This effect lasts for 9 seconds with a 10 second cooldown.<p><br>
   Allows your Mantras to proc the <a href="Reinforced_War_Helmet.md">Reinforced War Set</a> Talent, as well as the individual equipment Talents from the <a href="Reinforced_War_Helmet.md">Helmet</a>, <a href="Reinforced_War_Plate.md">Plate</a>, and <a href="Reinforced_War_Boots.md">Boots</a> of the aforementioned set.</p></td>
 </tr>
 </tbody>

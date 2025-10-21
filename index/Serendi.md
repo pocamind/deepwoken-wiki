@@ -1,9 +1,9 @@
 ---
 title: Serendi
-revid: 137951
+revid: 167750
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs]
+categories: [Etrean NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Serendi
@@ -20,21 +20,31 @@ Serendi is a 'short' [Etrean](Etrean.md) NPC who was part of [Captain Orlandeau'
 
 ## Dialogue
 
-Talking to her:
-
-The breeze out here is lovely, isn't it? I can see an inifite blue from here! And that ship o'er horizon.. tis a beauty.
-
-1.  You're standing on creates for it?
-2.  \[End Dialogue\]
-
-_Shut up_! Not all of us are gifted with Orlandeau's height, ye rat! I was gonna offer to scoot over for ye... but, nevermind then, pff.
-
-1.  You don't need to scoot over, I can see it fine already.
-2.  \[End Dialogue\]
-
-\*_Without a word, she glares at you, piercing through your confidence. Those eyes radiate pure anger, yet, she remains upon create to be at eye contact._\*
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>The breeze out here is lovely, isn't it? I can see an infinite blue from here! And that ship o'er the horizon.. tis a beauty.</td>
+</tr>
+<tr>
+  <td>You're standing on crates for it?</td>
+</tr>
+<tr>
+  <td>Shut <i>up</i>! Not all of us are gifted with Orlandeau's height, ye rat! I was gonna offer to scoot over for ye.. but, nevermind then, pff.</td>
+</tr>
+<tr>
+  <td>You don't need to scoot over, I can see it fine already.</td>
+</tr>
+<tr>
+  <td><i>*Without a word, she glares at you, piercing through your confidence. Those eyes radiate pure anger, yet, she remains upon crates to be at eye contact.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

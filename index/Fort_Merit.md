@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 166695
+revid: 167788
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -26,45 +26,71 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 
 ## Contents
 
+-   [Santen](Santen.md), the cartographer for the Eastern Luminant's Authority.
+-   [Milgram](Milgram.md), a member of the Inquisition Division.
+-   [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), instructor for the freshly arrived [Authority Ensign](Authority_Ensign.md).
+
+### Fortress
+
+A large fortress on the peaks of the island, housing the leaders of the divisions and armoury.
+
+-   [Warden Jericho](Warden_Jericho.md), leader of the Command Division, residing in the war room.
+-   [Sentinel Augustus](Sentinel_Augustus.md), leader of the Shock Corps Division, standing on the balcony outside the War Room.
+-   [Chud Steel](Chud_Steel.md), poster boy of Authority and Interceptor of the Shock Corps, on the balcony beside Augustus.
+-   [High Inquisitor Merey](High_Inquisitor_Merey.md), leader of the Inquisition Division, hidden on in an interrogation room below the war room.
+-   [Armourer Kev](Armourer_Kev.md), runs the Fort Merit Armoury containing weapons related to the Authority.
+
 ### [Merit Detainment Core](Merit_Detainment_Core.md)
 
--   Dungeon within the prison of Fort Merit
+A large dungeon within the prison of Fort Merit containing the worst enemies of the Authority.
+
 -   Location for unlocking [Imperium Kata](Imperium_Kata.md)
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) Boss
 
+### [Merit's Reach](<Merit's_Reach.md>)
+
+Lawless area off the peak of the main territory.
+
+-   [Rashet](Rashet.md), allowing the player to reset their [Reputation](Reputation.md) with the Authority.
+
 ### [Port Merit](Port_Merit.md)
 
--   A functional port with a Shipwright to spawn, craft or recall your [boats](Ships_&_Sailing.md).
--   Guarded by an [Authority Peacekeeper](Authority_Peacekeeper.md) and an [Authority Lieutenant](Authority_Lieutenant.md).
+A functional port acting as the town for the island.
 
-### Prison
+-   Basic necessities such as the [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Mystic](Mystic.md), [Innkeep](Innkeep.md), and [Shipwright](Ships_&_Sailing.md) can be found here.
+-   Guarded by [Authority Peacekeepers](Authority_Peacekeeper.md) and an [Authority Lieutenant](Authority_Lieutenant.md).
 
--   Players can find [Brutus](Brutus.md) here, a [Legion](The_Hundred_Legions.md) soldier.
+### Prison (Small)
+
+A small prison containing enemies of the Authority.
+
 -   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
--   The [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in an office in the prison.
+-   [Brutus](Brutus.md), a soldier from [The Hundred Legions](The_Hundred_Legions.md) that can unbound [Fortitude](Attributes.md#ftd) and unlock [Oath: Blightsurger](Oath%253A_Blightsurger.md).
+-   [Vice Warden Morredh](Vice_Warden_Morredh.md) and [Authority Commanders](<Authority_Commander_(Enemy).md>) can be found in the office.
+-   [Private Kernel](Private_Kernel.md), son of [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) who briefs the Merit Detainment Core.
 -   Potential to find [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages.
--   The [Etrean Guardmaster](Etrean_Guardmaster.md) can be found off the shore in a dinghy.
--   Training gear can be found in the guild hall
+    -   The [Etrean Guardmaster](Etrean_Guardmaster.md) can be found off the shores on a Dinghy.
+
+### Prison (Large)
+
+A large towering prison branching off the main island and into the ocean.
+
+-   Players will be sent to **execution** here, instantly sending them to the [First Layer](First_Layer.md).
+    -   Many parts of cells can be broken, allowing escape.
+-   Heavily guarded by [Authority Peacekeepers](Authority_Peacekeeper.md) up and down the tower.
 
 ### [The Three Cheers](The_Three_Cheers.md)
 
--   A bar ran by [Fabantou](Fabantou.md) for [Authority Ensign](Authority_Ensign.md) to relax on their time off.
+A bar for Authority Ensign to relax on their time off.
+
+-   Ran by [Fabantou](Fabantou.md), the barkeep and vendor.
 -   Contains [Yakob](Yakob.md) and [Taiga](Taiga.md).
 
 ## Quests
 
-### **The Etrean Guardmaster** **(Rescue Quest)**
-
--   At the wooden elevator, there is a stairway. Upon following it and going forward you will find the Etrean Guardmaster on a boat. Talk to them to start the quest.
--   Pick up the [Etrean hostages](Etrean_Guardsman_Hostage.md) within the prison and talk to the Guardmaster while carrying them.
--   You will be rewarded with a chest containing great gear and loot, but you will lose [reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md)
--   After your second rescue, the Guardmaster tell you the boat is full. Meaning you have to wait 8 minutes before being able to rescue more hostages.
--   You can bypass the time limit by killing the Commander and receiving the shipping schedule. Note that this is turned in only once per character.
-
 ### **[Brutus Quest (Fortitude Uncap)](Attributes_Unbound.md)**
 
 -   Reach 75 Fortitude.
-
 -   Talk to Brutus, this will result in Brutus damaging you until you are knocked granting you Fortitude Unbound card. (As a result, you can be easily gripped, best to come with a companion)
 
 For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAbOxNk).
@@ -77,88 +103,24 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 -   Gripping at least five signifies that you have completed the quest.
 -   Return to Meteor Isle and gain 2 [knowledge](Knowledge.md).
 
-## Rep Resets
-
--   To reset your [reputation](Reputation.md) with the Authority, you can speak to Rashet in Merit's Reach. He is located next to a pillar across from a river and Fort Merit.
-    -   If you travel from [Greathive](Greathive_Aratel.md) to Fort Merit, you can find him easily.
-    -   Alternatively, if you arrive from the docks, you will have to parkour up using the geysers and run besides the fort in order to reach Rashet.
-
 ## NPCs
 
 Below is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
 
--   [Antiquarian](Antiquarian.md)
--   [Banker](Banker.md)
 -   [Brutus](Brutus.md)
 -   [Chud Steel](Chud_Steel.md)
 -   [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)
 -   [Guild Clerk](Guilds.md)
--   Innkeeper (Sets spawn)
--   [Rashet](Rashet.md)
 -   [Santen](Santen.md)
 -   [Sentinel Augustus](Sentinel_Augustus.md)
 -   [Viridian](Viridian.md)
 -   [Warden Jericho](Warden_Jericho.md)
 
-## Loot Table
-
-Below is a list of potential items that can spawn in chests in Fort Merit.
-
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
--   [Authority Captain Uniform](Authority_Captain_Uniform.md)
-
- | 
-
--   [Deepwoken Hood](Deepwoken_Hood.md)
--   [White Gumshoe Hat](Gumshoe_Hat.md)
--   [Gumshoe Hat](Gumshoe_Hat.md)
--   [Master Thief's Earrings](Master_Thief_Earrings.md)
--   [Authority Commander Coat](Authority_Commander_Coat.md)
--   [Imperial Pauldrons](Imperial_Pauldrons.md)
--   [Adjudicator's Coat](<Adjudicator's_Coat.md>)
--   [Warden Pauldrons](Warden_Pauldrons.md)
--   Akira's Ring
--   Moon Ring
--   Finisher's Ring
-
- | 
-
--   [Adretian Axe](Adretian_Axe.md)
--   [Iron Cestus](Iron_Cestus.md)
--   [Khan Shield](Legion_Shield.md)
--   [Officer Saber](Officer_Saber.md)
--   [Rifle Spear](Rifle_Spear.md)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
--   [Apprentice Rapier](Apprentice_Rapier.md)
--   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
--   [Shattered Katana](Shattered_Katana.md)
--   [Anklets of Alsin](Anklets_of_Alsin.md)
-
- | 
-
--   Amethyst
--   Gold Bar
--   Sapphire
--   Ruby
--   Emerald
-
- |
-
 ## Trivia
 
--   The music for this area is [~The Sun, Gleaming~](Deepwoken_OST.md#the-sun-gleaming) it is now [Wardens Of The Valiant Dead](https://youtu.be/rn8pSTsRmpY?si=0zmaB67j31MpMFD3) by Naktigonis.
--   Not a great location to set your spawn point at.
--   A great location to farm EXP and items.
--   Considering that there is a guaranteed Nomad hostage here. Getting [Way Of Navae](Way_of_Navae.md) by picking up the hostage from here and bringing it the whole way back to the [Eastern Tribal Leaders](Eastern_Nomad_Leader.md) in Summer Isle is possible.
--   The Isle of Crows was mentioned by an NPC here, possibly a removed island.
-    -   The NPC was later removed in shadow updates.
+-   The music for this area is [Wardens Of The Valiant Dead](https://youtu.be/rn8pSTsRmpY?si=0zmaB67j31MpMFD3) by Naktigonis.
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
 -   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authority.
 -   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "When are you gonna learn your lesson?" "Come on."
--   Right now, it doesn't have too much importance apart from grinding exp and items from the Etrean guardmaster, but in a future alongside the Authority Origin it may get way more importance that it has now.
--   Fort Merit can be an excellent place to farm early levels if you have good skills.
--   The fort, being once of Etrean influence - does not happen to match the standard Etrean architecture. With the hexagonal buildings dotted around the fort, it more closely resembles those built by the [lost Celtorian](Lost_Celtor.md) nation. However, this is more likely than not a simple error in development rather than any actual foreshadowing.
+-   The fort, being once of Etrean influence - does not happen to match the standard Etrean architecture. With the hexagonal buildings dotted around the fort, it more closely resembles those built by the [lost Celtorian](Lost_Celtor.md) nation.
 -   [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) used to be located here, but the tunnels located on the left when entering the underground portion were removed, removing the shrine as well. It is now located at [Meteor Isle](Meteor_Isle.md), neighboring Fort Merit to the east.

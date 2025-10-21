@@ -1,9 +1,9 @@
 ---
 title: Scope
-revid: 167604
+revid: 167742
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, NPCs located in the Eastern Luminant, The Summer Company]
+categories: [NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
 ---
 
 # Scope
@@ -42,7 +42,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 </tr>
 <tr>
   <td colspan="2">Yeah, out in the wilderness nearby bandits and Union members keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td>
-  <td colspan="2">This place is a war zone. Etrea and the <a href="Glossary.md#the-central-authority">Authority</a> use it as a middle-ground for this conflict of theirs. At the rate it's going, it could last for years. I wouldn't call it a very lucrative mining spot.</td>
+  <td colspan="2">That place is a war zone. Etrea and the <a href="Glossary.md#the-central-authority">Authority</a> use it as a middle-ground for this conflict of theirs. At the rate it's going, it could last for years. I wouldn't call it a very lucrative mining spot.</td>
 </tr>
 <tr>
   <td colspan="2">Sounds Good.</td>
@@ -62,7 +62,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Aye, Thanks for the help. The Authority better start sending some help before we start declining their firearm contracts.</td>
+  <td>Aye, thanks for the help. The <a href="Glossary.md#the-central-authority">Authority</a> better start sending some help before we start declining their firearm contracts.</td>
 </tr>
 <tr>
   <td>Need some help?</td>

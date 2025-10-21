@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 167706
+revid: 167764
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -217,7 +217,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 **Command Division:**
 
-**Warrant Officer:**
+**Warrant Officer / Captain:**
 
 <table>
 <tbody>
@@ -225,41 +225,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the <b>COMMAND</b> division, Warrant Officer [Last Name]! Maybe the mind of Private [Ensign Name] wasn't <i>MUDDLED</i> after all! I hope you make us all REAL DAMN PROUD with your tactical skills! The next time you talk to <b>WARDEN JERICHO</b>, I'd appreciate it if you could put in a GOOD WORD in favour of the <i>TRAINING GROUNDS</i> getting some new <i>TRAINING WEAPONS</i>! <b>THREE CHEERS!!!</b></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Captain:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the <b>COMMAND</b> division, [Rank] [Last Name]! Maybe the mind of Private [Ensign Name] wasn't <i>MUDDLED</i> after all! I hope you make us all REAL DAMN PROUD with your tactical skills! The next time you talk to <b>WARDEN JERICHO</b>, I'd appreciate it if you could put in a GOOD WORD in favour of the <i>TRAINING GROUNDS</i> getting some new <i>TRAINING WEAPONS</i>! <b>THREE CHEERS!!!</b></td>
 </tr>
 <tr>
   <td>End</td>

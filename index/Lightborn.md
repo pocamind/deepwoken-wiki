@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 167718
+revid: 167730
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
@@ -18,7 +18,7 @@ Chance of obtaining aspect: **N/A**
 
 ## Description
 
-Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Lore.md#constellia). Now, the only ones seen by the humans of Lumen is the Spellhardt ‘family’, residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
+Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Lore.md#constellia). Now, the only[\[1\]](#cite-note-1) ones seen by the humans of Lumen are the Spellhardt ‘family’, residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
 
 ## Aspect Traits
 
@@ -104,3 +104,5 @@ With the addition of the Echo Unlock: Multifaceted, Lightborns essentially gain 
 -   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
 -   The runes inscribed on the halo roughly translate to:
     -   “Be the mysterious light the few who were chosen.”
+
+1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.

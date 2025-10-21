@@ -1,9 +1,9 @@
 ---
 title: Cerulean Thread
-revid: 166240
+revid: 167723
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weapons with Unique Criticals, The Ministry, Multiple Criticals, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, The Ministry, Multiple Criticals, Light Weapons]
 ---
 
 # Cerulean Thread
@@ -42,6 +42,8 @@ For the initial critical, the user winds up before thrusting their weapon forwar
 For the follow-up critical, the user performs the normal critical, extending with an upwards strike and ending with a ragdolling backstab. This will not sever the thread upon use.
 
 The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on the follow-up.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

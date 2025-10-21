@@ -1,6 +1,6 @@
 ---
 title: Shackled Shank
-revid: 166471
+revid: 167752
 source: https://deepwoken.fandom.com/wiki/Shackled_Shank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

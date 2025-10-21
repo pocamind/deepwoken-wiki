@@ -1,13 +1,24 @@
 ---
 title: Zephyr Lotus
-revid: 159653
+revid: 167769
 source: https://deepwoken.fandom.com/wiki/Zephyr_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Harvestables]
+categories: [Items, Harvestables, Ingredients]
 ---
 
 # Zephyr Lotus
 
-The Zephyr Lotus can be found in [Ancient Rotlands](Ancient_Rotlands.md).
+| Zephyr Lotus | |
+|---|---|
+| value | 15 |
+| weight | 1 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A primordial Lotus, capable of producing the rawest form of power itself. |
+| obtainment | Ancient Rotlands |
 
-A Zephyr Lotus
+## Description
+
+The The Zephyr Lotus can be found in [Ancient Rotlands](Ancient_Rotlands.md).

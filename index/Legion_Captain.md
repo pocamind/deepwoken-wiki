@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 164110
+revid: 167743
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -116,6 +116,30 @@ A Legion Captain executes its opponent after knocking them:
 \[[Fists](Fists.md)\] Pins down opponent before firmly bashing their face.
 
  |
+
+## Dialogue
+
+This dialogue is unlocked if the player has Ally [Reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">The empire appreciates your contributions, [First Name]. As thanks I'd like to pass on word to Centurion Amara of your contributions. Please take my writ of recommendation to her, she might be willing to teach you the martial arts of the empire.</td>
+</tr>
+<tr>
+  <td colspan="12">I'd be honored.</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*You are given a small scroll of parchment to take to Centurion Amara.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">End, player obtains Captain's Rec</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

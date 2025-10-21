@@ -1,18 +1,22 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 139431
+revid: 167747
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, NPCs]
+categories: [Gremor NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Flabbernaster Filingree, the First Mate
 
 | Flabbernaster Filingree, the First Mate | |
 |---|---|
-| name | Flabbernaster Filingree, the First Mate |
+| name | Flabbernaster Filingree |
 | aspect | Gremor |
 | location | The Scoundrel's Bounty |
+
+“ Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. ”
+
+― Flabbernaster Filingree, the First Mate
 
 ## Description
 
@@ -20,28 +24,34 @@ Flabbernaster Filingree, the First Mate is a [Gremor](Gremor.md) NPC who was par
 
 ## Dialogue
 
-Talking to her:
-
-Aye, \[Name\]! Tis great to see ye again. Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. He said somethin' about fearin' for yer a ability to live in Etrea with that display.
-
-1.  We just practiced, it's settled now.
-2.  What are you doing?
-3.  \[End Dialogue\]
-
-1\. Perfect! In that case... \*_A devious, greedy smile grows upon her face._\* Ye can return to _work!_ I think Frank over there may need some swabbin' help...
-
-1.  Huh? I gotta go, Bye.
-2.  \[End Dialogue\]
-
-1.1 ...Yeah. I bet you do. Go on, then.
-
-1.  \[End Dialogue\]
-
-If you choose the second option:
-
-2. Makin' sure none of ye are slackin'! \*_The woman would call over to a crew member looking at the sea_.\* Oi! Serendi! 'Ave you refilled the cannons yet?
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Aye, [First Name]! Tis great to see ye again. Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. He said somethin' about fearin' for yer ability to live in Etrea with that display.</td>
+</tr>
+<tr>
+  <td>We just practiced, it's settled now.</td>
+  <td>What are you doing?</td>
+</tr>
+<tr>
+  <td>Perfect! In that case... <i>*A devious, greedy smile grows upon her face.*</i> Ye can return to <i>work</i>! I think Frank over there may need some swabbin' help...</td>
+  <td>Makin' sure none of ye are slackin'! <i>*The woman would call over to a crew member looking at the sea.*</i> Oi! Serendi! 'Ave you refilled the cannons yet?</td>
+</tr>
+<tr>
+  <td>Huh? I gotta go. Bye.</td>
+  <td>End</td>
+</tr>
+<tr>
+  <td>...Yeah. I bet you do. Go on, then.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia:
 

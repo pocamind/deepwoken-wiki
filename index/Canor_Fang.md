@@ -1,9 +1,9 @@
 ---
 title: Canor Fang
-revid: 161207
+revid: 167722
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
+categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Light Weapons, Items]
 ---
 
 # Canor Fang
@@ -40,6 +40,8 @@ Notably, this weapon have the highest weight stat of any daggers, at 5. Most oth
 The user shortly winds up before bursting out into a flurry of 5 slashes, inflicting [Bleed](Status_Effects.md#bleed) per slash.
 
 The critical has a cooldown of **5 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
