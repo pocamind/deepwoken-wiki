@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 167633
+revid: 167799
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", We
 | range | 12 |
 | swing speed | 0.8x |
 | endlag | 0.2s |
-| special effect | Your Metal Armament damage is doubled., Forced Fulfilment - Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them. |
+| special effect | Your Metal Armament damage is increased by 50%., Forced Fulfilment - Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |
@@ -35,7 +35,7 @@ The Metal Greatsword is a Heavy Greatsword exclusive to the [Rending Needle: Aug
 
 Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
 
-Additionally, your [Metal Armament](Ironsing.md#metal-armament) damage is doubled.
+Additionally, your [Metal Armament](Ironsing.md#metal-armament) damage is increased by 50%.
 
 ## Critical
 

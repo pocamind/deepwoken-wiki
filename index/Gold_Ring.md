@@ -1,6 +1,6 @@
 ---
 title: Gold Ring
-revid: 153554
+revid: 167812
 source: https://deepwoken.fandom.com/wiki/Gold_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Rings]
@@ -11,7 +11,7 @@ categories: [Items, Equipment, Rings]
 | Gold Ring | |
 |---|---|
 | type | Ring |
-| rarity | Uncommon (Yellow) |
+| rarity | Uncommon |
 | selling price | 19 |
 | requirements | Lvl 3 |
 | weight | 0.1 |
@@ -23,14 +23,10 @@ categories: [Items, Equipment, Rings]
 | obtainment | Chests from:, Lower Erisia, Polis, Lodestar |
 | description | A simple gold ring. |
 
-Gold Ring is an [Equipment](Equipment.md) item under the "Rings" category.
-
 ## Description
 
-Gold Ring grants the user one Uncommon Pip upon being equipped.
-
-  
+The Gold Ring is an [Equipment](Equipment.md) item under the "Rings" category. When worn, this grants 1 Uncommon Pip.
 
 ## Trivia
 
--   You can get one for free from [Polis](Polis.md)!
+-   Upon completing [Polis](Polis.md)' dialogue, he will give the player a Gold Ring.

@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 155935
+revid: 167808
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -23,9 +23,11 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Erisia, Isle of Vigils, Duke Erisia, Fort Merit, Layer 1 |
+| obtainment | Chests From:, Erisia, Isle of Vigils, Duke Erisia, Fort Merit, First Layer |
 | description | ... |
+
+Iron
 
 ## Description
 
-Iron Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Iron Boots are an [Equipment](Equipment.md) item under the "Arm" category, and is a part of the Iron Set. When worn, this grants +2 Rare Pips.

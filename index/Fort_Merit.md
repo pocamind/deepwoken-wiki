@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 167788
+revid: 167817
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -20,7 +20,7 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
 ## Overview
 
-Fort Merit was an [Etrean](Etrea.md) Prison overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages can be found in the cells of Fort Merit.
+Fort Merit was an [Etrean](Etrea.md) Prison, formerly known as Fortress Cascabel, overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages can be found in the cells of Fort Merit.
 
 It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that can be docked from the shore.
 

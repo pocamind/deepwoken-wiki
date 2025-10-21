@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 160157
+revid: 167838
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, Light Weapons, Items]
@@ -26,14 +26,14 @@ categories: [Weapons, Rapiers, Light Weapons, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict, Duke Ishamon Erisia, Saramaed Hollow, Erisia/General Sea Event Loot, Sold by Traan Zakshun for 1,000 |
+| obtainment | Chime of Conflict, Duke Ishamon Erisia, Saramaed Hollow, Fishing, Erisia/General Sea Event Loot, Sold by Traan Zakshun for 1,000 |
 | description | Not much is known about these rapiers other than the fact that they're a reproduction of Duchess Thera Erisia's rapier, which she is said to have died with in a dispute while being vastly outnumbered, the tale goes that she actually made it through the onslaught but died from blood loss in the arms of her noble son Nir, who took her mantle shortly after. |
 
 ## Description
 
 The Needle's Eye is an endgame [Rapier](Weapons.md) that requires 75 Light Weapon to use.
 
-Being a refined rapier made for royalty, its ornate design highlights its deadly capabilities. Needle's Eye has a similar stat lineup to other endgame rapiers, albeit being on the lower end in terms of raw statistical values. While very powerful in the right hands, this weapon's strength lies in its unique critical.
+Being a refined rapier made for nobility, its ornate design highlights its deadly capabilities. Needle's Eye has a similar stat lineup to other endgame rapiers, albeit being on the lower end in terms of raw statistical values. While very powerful in the right hands, this weapon's strength lies in its unique critical.
 
 The rapier was part of the former Duchess Thera Erisia's rapiers who bore the title of the Needle's Eye, as seen in her statue in Erisia.
 

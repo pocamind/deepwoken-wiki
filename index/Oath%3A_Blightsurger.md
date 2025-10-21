@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 167700
+revid: 167819
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -55,7 +55,25 @@ _Blightsurger **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oa
 
 ## Progression
 
-To progress Blightsurger, the player will need to activate **Sovereign State** multiple times.
+To progress Blightsurger, the player will need to activate **Sovereign State** multiple times **in combat**.
+
+Recommend method is to do [Ferryman](The_Ferryman.md) to remain in constant combat. Attack until your **Blight meter** is full, then activate Sovereign Mode and allow it to drain for 1 sec, then turn it off. It is not required to stay in the transformation the whole time or to attack in it.
+
+( **THESE ARE ALL ESTIMATES AND NEEDS MORE TESTING**)
+
+7 ~ 100% Activations - Soverign Drive
+
+7 ~ 100% Activations - Blighted Touch
+
+15 ~ 100% Activations - Skycrash/ Blight Piercer
+
+15 ~ 100% Activations - Warp Kick
+
+15 ~ 100% Activations  - Anchor Shock
+
+15 ~ 100% Activations - Blight Lash
+
+Rounded up in total would be 75~ 100% **Sovereign Mode** activations.
 
 ## Abilities
 

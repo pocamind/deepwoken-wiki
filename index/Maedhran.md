@@ -1,6 +1,6 @@
 ---
 title: Maedhran
-revid: 162688
+revid: 167791
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -23,12 +23,13 @@ Maedhran is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He explains
 The mantra modifiers he sells are:
 
 -   Aeon Logstones
--   Amnesic Driftwood
 -   Drift Shards
 -   Crystal Lens
 -   Cloudstones
 
 ## Dialogue
+
+After every dialogue option the player is given the option to interrupt Maedhran. This will stop his story and he will continue on to the next part starting with "Anyway..."
 
 **First Encounter:**
 
@@ -50,148 +51,119 @@ The mantra modifiers he sells are:
 </tr>
 <tr>
   <td colspan="2">Uh, sorry.</td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td>[See first instance]</td>
+  <td colspan="2">Anyway... [Story continues on the next part]</td>
   <td>They weren't actually lions. That's a metaphor. We skilled taleweavers use them to make you think things and then they're actually not those things... Cleaver I know.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>I have my eyes on the leader, by the name of Ironjaw. They called him that because of his jaw... Was made of iron.</td>
+  <td colspan="2">I have my eyes on the leader, by the name of Ironjaw. They called him that because of his jaw... Was made of iron.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>That's not a metaphor. His jaw was actually replaced by Iron. Crazy, right?...</td>
+  <td colspan="2">That's not a metaphor. His jaw was actually replaced by Iron. Crazy, right?...</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>I reached into my <i>Bag of Tricks</i> to find something to use... And realized I had left them at my secret base...</td>
+  <td colspan="2">I reached into my <i>Bag of Tricks</i> to find something to use... And realized I had left them at my secret base...</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>Where is my secret base, I hear you ask? Heh. If I told you, I'd have to kill you...</td>
+  <td colspan="2">Where is my secret base, I hear you ask? Heh. If I told you, I'd have to kill you...</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>So don't ask. Because you're a good listener. And I'd have to kill you if I told you.</td>
+  <td colspan="2">So don't ask. Because you're a good listener. And I'd have to kill you if I told you.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>So... Where was I? Ah, of course. The story that made me, Maedhran, a legend. That's Maedhran pronounced MAY-THRAN, by the way.</td>
+  <td colspan="2">So... Where was I? Ah, of course. The story that made me, Maedhran, a legend. That's Maedhran pronounced MAY-THRAN, by the way.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>You probably already knew that, though. So anyway... I have my eye trained on their leader, Ironjaw, who we've already been over.</td>
+  <td colspan="2">You probably already knew that, though. So anyway... I have my eye trained on their leader, Ironjaw, who we've already been over.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>I don't have my <i>Bag of Tricks</i>, so I have to use what my mama gave me. My fist. That's right, buddy. This is a martial arts story.</td>
+  <td colspan="2">I don't have my <i>Bag of Tricks</i>, so I have to use what my mama gave me. My fist. That's right, buddy. This is a martial arts story.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>I quickly run up the wall, and effortlessly deliver a quadruple backflip spin kick directly into Ironjaw's teeth.</td>
+  <td colspan="2">I quickly run up the wall, and effortlessly deliver a quadruple backflip spin kick directly into Ironjaw's teeth.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>I hit the guy so hard in his face that old of the screws in his jaw came loose. It was awful. For him, that is. For me it was awesome.</td>
+  <td colspan="2">I hit the guy so hard in his face that old of the screws in his jaw came loose. It was awful. For him, that is. For me it was awesome.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>The rest of his warriors, seeing how many I destroyed him with a quadruple backflip spin kick to the jaw, all ran. Probably a good idea, because they didn't have an iron jaw to protect their faces.</td>
+  <td colspan="2">The rest of his warriors, seeing how many I destroyed him with a quadruple backflip spin kick to the jaw, all ran. Probably a good idea, because they didn't have an iron jaw to protect their faces.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>What?</td>
-  <td>[Listen Intently]</td>
+  <td colspan="2">[Listen Intently]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>[See first instance]</td>
-  <td>So there ends just one of the tales of Maedhran the Strong... How'd you like it?</td>
+  <td colspan="2">So there ends just one of the tales of Maedhran the Strong... How'd you like it?</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td></td>
-  <td>Uh...</td>
+  <td colspan="2">Uh...</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td></td>
-  <td>No, say no more. I know a true appreciator of a good story when I see one. And your one of them. <b>*He winks so hard you think he might burst a blood vessel*</b></td>
+  <td colspan="2">No, say no more. I know a true appreciator of a good story when I see one. And your one of them. <i>*He winks so hard you think he might burst a blood vessel*</i></td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td></td>
-  <td>End</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

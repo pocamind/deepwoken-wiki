@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 159342
+revid: 167830
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant]
@@ -12,7 +12,7 @@ categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in t
 |---|---|
 | name | Aelita Arlekino[1] |
 | aspect | Felinor |
-| location | Valley of Heroes (During Spring, Summer and Autumn) |
+| location | Carnival of Hearts, Valley of Heroes (During Spring, Summer and Autumn) |
 
 “ See? That was fun right? You can have a lot more fun if you come back during the winter. ”
 
@@ -47,17 +47,7 @@ She is the twin sister of [Tillian](Tillian.md).
 -   [Diamonds](Treasures.md) (Common)
 -   [Platinum Bars](Treasures.md) (Common)
 -   [Justicar Defender Coat](Justicar_Defender_Coat.md) (Rare)
--   [Authority Commander Coat](Authority_Commander_Coat.md) (Rare)
--   [Adjudicator's Coat](<Adjudicator's_Coat.md>) (Rare)
--   [Shattered Katana](Shattered_Katana.md) (Rare)
--   [Iron Birch](Iron_Birch.md) (Rare)
 -   [Finisher's Ring](<Finisher's_Ring.md>) (Very rare)
--   [Moon Ring](Moon_Ring.md) (Very rare)
--   [Akira's Ring](<Akira's_Ring.md>) (Very rare)
--   [Deepfire Ring](Deepfire_Ring.md) (Very rare)
--   [Maestro's Ring](<Maestro's_Ring.md>) (Very rare)
--   [Armorer's Ring](<Armorer's_Ring.md>) (Very rare)
--   [Crescendo](Crescendo.md) (Very rare)
 -   [Assassin's Hood](<Assassin's_Hood.md>) (Mist, Gold, Crimson) (Very rare)
 -   [Assassin's Cloak](<Assassin's_Cloak.md>) (Mist, Gold, Crimson) (Extremely rare)
 

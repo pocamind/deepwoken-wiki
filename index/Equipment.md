@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 167660
+revid: 167836
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1289,14 +1289,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 Found from:
 
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [War Mode](War_Mode.md)
+-   Unobtainable via lootpool bug
 
  | N/A |
 |  | [Vigil Hood](Vigil_Hood.md) | +2 Rare Pips  

@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 167227
+revid: 167790
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
@@ -74,16 +74,16 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local <a href="Glossary.md#the-luminants">Luminants</a>. You salute him stringently.*</i><p>...You must be Lance Corporal [Last Name]. I was expecting you. I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
 </tr>
 <tr>
-  <td>I'd like some time to think about it, Warden.</td>
   <td>Yes, Warden.</td>
+  <td>I'd like some time to think about it, Warden.</td>
 </tr>
 <tr>
-  <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
   <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> Lance Corporal. By the powers vested in me, in the name of our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I name you an Officer of the <a href="Glossary.md#the-central-authority">Central Authority</a>. You will server under my direct supervision from now on. May you become the light that guides the blinded in the dark, may you burn bright as the <a href="Glossary.md#the-central-authority">Authority's</a> undying flame, and may triumphant vanquish you the foes of humankind. Report back to me at your earliest convenience.</td>
+  <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
 </tr>
 <tr>
-  <td>End</td>
   <td>End, player joins Command Division</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -163,34 +163,19 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 **Captain:**
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, Warrant Officer [Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
 </tr>
 <tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
+  <td>Could you tell me more about the Command division?</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>

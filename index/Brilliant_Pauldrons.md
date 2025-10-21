@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 155679
+revid: 167825
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -23,7 +23,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Duke Ishamon Erisia, Maestro Evengarde Rest, Lodestar, The Depths (First Layer), Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, War Mode, Primadon, Titan of the East, Heart of Enmity, Dread Serpent chest |
+| obtainment | Chests From:, Duke Ishamon Erisia, Maestro Evengarde Rest, Lodestar, First Layer, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, War Mode, Primadon, Titan of the East, Heart of Enmity, Dread Serpent |
 | description | ... |
 
 ## Description

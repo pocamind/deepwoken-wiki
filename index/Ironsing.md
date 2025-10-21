@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 167044
+revid: 167818
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -253,7 +253,7 @@ Metal + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Throws 3/4/5/6/7 Caltrops per level.
 -   Has a windup of 0.75 seconds with a 10 second CD. Caltrops last 17 seconds on the ground before dissipating.
 -   Has 9.17x PVE scaling (multiply damage dealt by 9.17 for PvE damage).
@@ -296,8 +296,8 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
--   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   The base variant deals 5 posture damage per hit while the Blast Spark variant deals 15 posture damage per hit.
 -   The base variant has a windup of 0.8 seconds, while the Blast Spark variant has a windup of 0.55 seconds.
 -   Currently has no PvE scaling.
@@ -338,7 +338,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Has a base damage of 20/22/24/26/28 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 12.5 posture damage.
 -   Has a windup of 0.45 seconds with a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -377,7 +377,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Has a base damage of 16/21.5/27/32.5/38 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 16/21.5/27/32.5/38 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 8/9/10/11/12 posture damage per level.
 -   Has a windup of 0.65 seconds and a cooldown of 12 seconds.
 -   Has 9.27x PvE scaling (multiply damage dealt by 9.27 for PvE damage).
@@ -415,7 +415,7 @@ Metal + Slash
 
 **Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
 
--   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 2 posture damage per hit.
 -   Has around 23 hits total.
 -   Has a windup of 1.2 seconds with a 20 second cooldown.
@@ -458,7 +458,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
--   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 1 posture damage per hit (10).
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -497,7 +497,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [bleed](Status_Effects.md#bleed) and 2.75 Ironsing scaling.
+-   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [Bleed](Status_Effects.md#bleed) and 2.75 Ironsing scaling.
 -   Deals 10 posture damage, canceling entirely if blocked.
 -   Has a windup of 0.8 seconds and a cooldown of 11 seconds.
 -   Gives [True Hyperarmor](Status_Effects.md#true-hyperarmor) on use, also gives I-frames to victim and user during the grab animation.
@@ -538,7 +538,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Has a base damage of 35/38.5/42/45.5/49 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 16.5 posture damage at levels 1-4, guard breaks at level 5.
 -   Has a windup of 0.73 seconds with a cooldown of 18 seconds.
 -   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](Status_Effects.md#bleed) PVE)
@@ -583,7 +583,7 @@ Metal + Slash
 -   Has 5.15x PvE scaling (multiply damage dealt by 5.15 for PvE damage).
 -   Applies very brief parry stun to user and gives very brief auto parry frames to opponent if parried.
 -   Upgrading the level increases the duration of the Mantra.
--   The damage of this Mantra is doubled if the [Metal Greatsword](Metal_Greatsword.md) is equipped.
+-   The damage of this Mantra is increased by 50% if the [Metal Greatsword](Metal_Greatsword.md) is equipped.
 -   Does not proc any "on hit" [Deep Gems](Deep_Gems.md).
 
  |
@@ -657,7 +657,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Has a base damage of 15/23/31/39/47 per level with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 15/23/31/39/47 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
@@ -729,7 +729,7 @@ Metal + Blunt + [Bleed](Status_Effects.md#bleed)
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
 -   Deals damage on placedown with a very small AoE.
--   Has a base damage of 10/14/18/22/26 with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 10/14/18/22/26 with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 8 posture damage.
 -   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
 -   The pillar lasts 6 seconds at base with a 15 second cooldown. The duration increases by 1 second per upgrade, reaching a total maximum of 10s.
@@ -770,7 +770,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
--   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds before the ball is created, and a 0.2 seconds to hit. Has a cooldown of 10.5 seconds.
 -   Applies knockdown on hit for 0.5 seconds.
@@ -992,7 +992,7 @@ These are Talents found in "_Ironsinger_" Category.
 |  | Master Ironsinger  
 (50 Ironsing) | You can now obtain 3-star Ironsinger mantras. | +5 Health FROM: Ironsinger |
 |  | Alloyblood  
-(100 Ironsing) | You don't Bleed like others do. [Bleed](Status_Effects.md#bleed) damage is reduced by 30%. Blood loss is reduced by 75%. | Alloyblood's effectiveness scales with your Ironsing, having less effectiveness if you do not meet the requirements for it. The blood visual effect when you get hit by an attack that deals [Bleed](Status_Effects.md#bleed) damage is now **light grey**. Turns Bloodrend mantras blue-ish grey. |
+(100 Ironsing) | You don't Bleed like others do. [Bleed](Status_Effects.md#bleed) damage is reduced by 30%. Blood loss is reduced by 75%. | Alloyblood's effectiveness scales with your Ironsing investment, having less effectiveness if you do not meet the requirements for it. The slash damage visual effect is now **light grey**. Turns Bloodrend mantras blue-ish grey. |
 |  | Ironclad Punishment  
 (45 Ironsing) | Your Ironsing mantras deal more posture damage to enemies the more armor durability they have. | The more % of armor enemy has the more posture buff is.  
 Each 1% of armor gives extra 0.15% posture DMG. |
@@ -1046,16 +1046,20 @@ These are Talents found in "_Rending Needle_" Category. (You can only have one o
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Rending Needle: Augmenter  
-(90 Ironsing, 90 Weapon) | If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped. | Your weapon will be replaced with the [Metal Greatsword](Metal_Greatsword.md) for a few seconds. While active, your [Metal Armament](#metal-armament) damage will be doubled. |
+(90 Ironsing, 90 Weapon) | If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your Metal Armament stronger while the weapon is equipped. | Your weapon will be replaced with the [Metal Greatsword](Metal_Greatsword.md) for a few seconds. While active, your [Metal Armament](#metal-armament) damage is increased by 50%.
+  
+Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer, Gilded Path: Scrapsinger
+
+ |
 |  | Conductor's cable  
 (75 Ironsing) | Applying Conductor rods on opponents steals 10% of their current armor durability to you. |  |
 |  | Rending Needle: Conductor  
-(75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Bloodrend, Ironsing, Attunementless, Oath Mantra, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Impaler, Rending Needle: Jailer |
+(75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Bloodrend, Ironsing, Attunementless, Oath Mantra, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer |
 |  | Rending Needle: Impaler  
 (75 Ironsing) | If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.  
- | Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer |
+ | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer |
 |  | Rending Needle: Jailer  
-(75 Ironsing) | If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. | Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler |
+(75 Ironsing) | If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Impaler |
 
 **Scrapsinger:**
 
@@ -1068,12 +1072,11 @@ These are Talents found in "_Scrapsinger_" Category.
 |  | Artisan's Blade  
 (Gilded Path: Scrapsinger, 45 Ironsing) | Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack. | Activating Scrapsinger summons a metal blade for each 2 rod consumed that will fire at the target when landing an ironsing or a metal infused attack. |
 |  | Masterwork  
-(Artisan's Blade, 60 Ironsing) | Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage. | 
- |
+(Artisan's Blade, 60 Ironsing) | Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage. |  |
 |  | Refine and Reuse  
 (Gilded Path: Scrapsinger, 45 Ironsing) | Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively. | When consuming an enemy's rod, their PEN against you is reduced for 14 seconds by 5% for each rod multiplicatively |
 |  | Songs Unforged  
-(Gilded Path: Scrapsinger, 50 Ironsing) | Your weapon criticals will now activate scrapsinger. | Your weapon's critical attack activates Scrapsinger, stealing armor and consuming Rods. |
+(Gilded Path: Scrapsinger, 50 Ironsing) | Your weapon criticals will now activate scrapsinger. | Your weapon's critical attack activates Scrapsinger on hit, stealing armor and consuming Rods. |
 |  | Reshape and Remold  
 (All Scrapsinger Talents, 70 Ironsing) | Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10. | On successful proc of Scrapsinger gain 25% extra armor drain multiplier. After reaching 10 metal rods, opponent will take extra 5% DMG until rod stacks will drop below 10. |
 
@@ -1082,11 +1085,8 @@ These are Talents found in "_Scrapsinger_" Category.
 -   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
--   Ironsing RODS lifetime is 30 seconds only.
-
-(You cant apply new rods over old ones that means you have to wait for old one to gone to apply new ones)
-
--   Iron pulls have 0.1s anim and 0.4s endlag on pull.
+-   Iron Rods 30 seconds each with no way to be refreshed unless removed and reapplied.
+-   Iron Pull has a 0.1s animation with 0.4s endlag, though it _is_ parryable.
 -   On release, Ironsing had 12 mantras and 11 Talents, making it the most content lacking Attunement during its release.
 -   Ironsing is the only Attunement to have five 3-star Mantras.
 -   **Needle Barrage** is practically identical to Autumn Rain from Monad Studios' **Rogue Lineage**.

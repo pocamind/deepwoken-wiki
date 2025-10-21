@@ -1,6 +1,6 @@
 ---
 title: Greathive Approach
-revid: 165804
+revid: 167798
 source: https://deepwoken.fandom.com/wiki/Greathive_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant, The Hive, Lawless Territory]
@@ -11,4 +11,6 @@ notices:
 
 # Greathive Approach
 
-Template:Location2 **Greathive Approach** is a location in _Deepwoken_. It is the small area in front of [Greathive Aratel](Greathive_Aratel.md) before entering into the tree.
+Template:Location2
+
+**Greathive Approach** is a sub-location in _Deepwoken_. It is the small area in front of [Greathive Aratel](Greathive_Aratel.md) before entering into the tree.
