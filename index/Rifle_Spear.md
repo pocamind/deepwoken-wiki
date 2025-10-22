@@ -1,9 +1,9 @@
 ---
 title: Rifle Spear
-revid: 167280
+revid: 168146
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
 ---
 
 # Rifle Spear
@@ -39,6 +39,8 @@ The Rifle Spear is a Medium Weapon in the Spear and Rifle categories. It is comm
 The user aims down and fires the spear, unleashing a blast and firing a bullet. The user will gain a speed boost while the critical is active.
 
 The critical has a cooldown of **5 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Trident Spear
-revid: 161629
+revid: 168150
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Spears, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons, Items]
+categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons, Items]
 ---
 
 # Trident Spear
@@ -41,6 +41,8 @@ The Trident Spear is a midgame medium weapon in the form of a three-pronged spea
 The user winds up before charging forward with the weapon, dealing damage 5 times.
 
 The critical has a cooldown of **5 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

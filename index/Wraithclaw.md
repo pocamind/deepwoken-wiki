@@ -1,9 +1,9 @@
 ---
 title: Wraithclaw
-revid: 167017
+revid: 168159
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
 ---
 
 # Wraithclaw
@@ -63,13 +63,13 @@ Standing crit DMG: 0.6x of M1 DMG (First hit) + 0.35x\*4 of M1 DMG (Middle hits)
 
 For the **aerial** critical, the user quickly whirls in front of them, dealing 2x of M1 DMG + 10% aftercut bonus and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#legion-shock-trooper).
 
-Both of these criticals are classified as _basic attacks_, which means they benefit from things like [Berserk's](Talents.md#berserker) armor nullification and [Navaen War Chief's](Navaen_War_Chief.md) PEN increase.
-
 Both criticals share the cooldown of **10 seconds**.
+
+Both criticals are able to proc M1-exclusive [Talents](Talents.md). This includes [Navaen War Chief](Navaen_War_Chief.md) and [Fists of Fortitude](Talents.md#navaen-nomad).
 
 ## Trivia
 
--   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md) or uppercut because of incredible posture damage and low windup.
+-   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md#legion-shock-trooper) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas. Or the weapon might be inspired by the Marvel comics character, Wolverine, specifically his metal claws of similar design.
 -   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and is replaced by the chained gauntlet.

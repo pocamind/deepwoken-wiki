@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 167584
+revid: 168100
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -328,7 +328,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 10% short
 -   [War Mode](War_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Authority Ensign](Authority_Ensign.md) Missions
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 6
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
 
  |
 | 
@@ -360,6 +360,7 @@ This has a 6 second cooldown and charges cannot be stacked.
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
 
  |
 | 

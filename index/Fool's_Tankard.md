@@ -1,9 +1,9 @@
 ---
 title: "Fool's Tankard"
-revid: 165410
+revid: 168156
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 ---
 
 # Fool's Tankard
@@ -35,6 +35,8 @@ Essentially just an empty tankard, the **Fool's Tankard** is a blunt Dagger Weap
 ## Critical
 
 Wind up your jug and strike your target, dealing very high posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

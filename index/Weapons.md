@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 168084
+revid: 168162
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -5698,7 +5698,7 @@ All weapons within the game have chances of being found with or without differen
 </tbody>
 </table>
 
-#### Daggers
+Daggers
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -6072,7 +6072,7 @@ All weapons within the game have chances of being found with or without differen
 </tbody>
 </table>
 
-#### Cestus
+Cestus
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -6242,11 +6242,11 @@ All weapons within the game have chances of being found with or without differen
 </tbody>
 </table>
 
-#### Rapiers
+Rapiers
 
 Template:AllFlintlockWeapons
 
-#### Pistols
+Pistols
 
   
 
@@ -7741,7 +7741,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-### Medium Weapons
+Medium Weapons
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -8454,7 +8454,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### Swords
+Swords
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -8606,7 +8606,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### Clubs
+Clubs
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -8935,7 +8935,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### Spears
+Spears
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -9068,7 +9068,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### Rifles
+Rifles
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -9182,7 +9182,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### Twinblades
+Twinblades
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -9258,7 +9258,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### Bows
+Bows
 
   
 
@@ -10367,7 +10367,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-### Heavy Weapons
+Heavy Weapons
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -10678,7 +10678,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### [Greataxes](Greataxes.md)
+[Greataxes](Greataxes.md)
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11134,7 +11134,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### [Greatswords](Greatswords.md)
+[Greatswords](Greatswords.md)
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11446,7 +11446,7 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
-#### Greathammers
+Greathammers
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11522,6 +11522,8 @@ Template:AllFlintlockWeapons
 </tbody>
 </table>
 
+Greatcannons
+
 ### Others
 
 | Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
@@ -11564,7 +11566,7 @@ ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 |
 FIR: 3  
 ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 
-#### Hybrid
+Hybrid
 
 <table><caption><a href="Attunements.md">Elemental Weapons</a></caption>
 <tbody>
@@ -12308,7 +12310,7 @@ ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 </tbody>
 </table>
 
-#### Elemental
+Elemental
 
 <table><caption><a href="Crazy_Slots.md">Crazy Slots</a></caption>
 <tbody>
@@ -12596,7 +12598,7 @@ ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 </tbody>
 </table>
 
-#### Offhand
+Offhand
 
 <table><caption><a href="Shields.md"><div>Shields</div></a></caption>
 <tbody>
@@ -12666,7 +12668,7 @@ ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 </tbody>
 </table>
 
-#### [Shields](Shields.md)
+[Shields](Shields.md)
 
 <table><caption>Parrying Daggers</caption>
 <tbody>
@@ -12688,11 +12690,11 @@ ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 </tbody>
 </table>
 
-#### Parrying Daggers
+Parrying Daggers
 
 Template:AllFlintlockWeapons
 
-#### Offhand Pistols
+Offhand Pistols
 
 | Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12719,6 +12721,8 @@ STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 |
 | **[Ebonshard Lexicon](Ebonshard_Lexicon.md)** | 200 HVY  
 150 STR | 30 | HVY: 6  
 STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 |
+
+Exclusive
 
 ## Stances
 
@@ -13137,7 +13141,7 @@ Daggers are one-handed weapons. They are fast and agile, with high attack speed 
 
 **Fists:**
 
-Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. They feature a slower swing speed than daggers but fashion with better damage. When equipping fists when you had another weapon equipped beforehand, it does an animation, striking your weapon to the ground.
+Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. They feature a slower swing speed than daggers but fashion with better damage. When equipping fists when you had another weapon equipped beforehand, you'll throw your weapon to the ground.
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -13519,7 +13523,7 @@ Template:AllFlintlockWeapons
 
 **Rapiers:**
 
-Rapiers are Light Weapons that bridge the gap between the Medium and Light playstyles. It has the rapid strikes of a Light Weapon combined with the extended range of a Medium Weapon. Utilizing the damage of a Light Weapon and the lower speed of a Medium Weapon, they boast a powerful 4 hit critical attack that deals full damage.
+Rapiers are Light Weapons that bridge the gap between the Medium and Light playstyles. It has the rapid strikes of a Light Weapon combined with the extended range of a Medium Weapon.
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -14706,7 +14710,7 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 
 **Swords:**
 
-Swords are weapons with a long metal blade and a hilt with a handguard used for cutting down opponents or creatures.
+Swords are weapons with a long metal blade and a hilt with a handguard used for cutting down opponents.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -16041,7 +16045,7 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
 
 **Twinblades:**
 
-Twinblades are medium weapons with a blade at either side of their main hilt. Uniquely, running attacks with these weapons will followup with another attack. When 2 handed, they do not perform flourish attacks.
+Twinblades are medium weapons with a blade at either side of their main hilt. Uniquely, running attacks with these weapons will followup with another attack. When two-handed, they do not perform flourish attacks.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -16157,7 +16161,7 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Un
 
 **Bows:**
 
-Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options. Bows use Ether to generate, and fire, arrows, however bows can still attack without Ether at the cost of their damage output.
+Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options. Bows use Ether to generate and fire arrows, however bows can still attack without Ether at the cost of their damage output.
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -18505,7 +18509,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
 
 **Greathammers:**
 
-Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle. These weapons, due to their very heavy hammer heads, are second to none for their high posture damage; crushing guards comes easy when you wield a Greathammer.
+Greathammers are weapons with a heavy metal head mounted at right angles at the end of a handle. These weapons are second to none for their high posture damage.
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -20004,7 +20008,7 @@ Greatcannons are large cannon weapons, wielded with both hands. These weapons ha
 
 **Hybrid:**
 
-Hybrid Weapons are weapons that require two different weapon stats, such as requiring Medium and Heavy stats. This weapon class is too diverse to be explained simply, with each weapon being uniquely itself.
+Hybrid Weapons are weapons that require and scale on two or more different weapon or attunement stats, such as requiring Medium and Heavy stats. This weapon class is too diverse to be explained simply, with each weapon being uniquely itself.
 
 | Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20048,7 +20052,7 @@ ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 
 **Elemental:**
 
-Elemental weapons scale off a certain element, but that does not mean that all of them do elemental damage. Apart from that, they share similar traits to their respective category of weapon. Elemental weapons are unable to be [Enchanted](Enchantments.md).
+Elemental weapons scale off a certain element, but that does not mean that all of them deal elemental damage. Apart from that, they share similar traits to their respective category of weapon. Almost all elemental weapons are legendary weapons, removing your ability to [enchant](Enchantments.md) them.
 
 <table><caption><a href="Attunements.md">Elemental Weapons</a></caption>
 <tbody>
@@ -20798,7 +20802,7 @@ Offhand tools/weapons, are tools/weapons that you wield in your offhand and in o
 
 **Shields:**
 
-Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Certain Talents and mantras will also require having a shield.
+Shields are defensive tools that when wielded in your offhand, apply their posture stat as a flat amount of additional posture to your character. However, your posture restoration from parrying will be reduced by 40%. Shields typically have a Fortitude requirement, and do not have any scaling. Certain Talents and Mantras will also require using a shield.
 
 <table><caption><a href="Shields.md"><div>Shields</div></a></caption>
 <tbody>
@@ -20894,7 +20898,7 @@ Miscellaneous offhands are tools that do not fit being a shield or a weapon, and
 
 **Weapons:**
 
-Offhand weapons are weapons that can be wielded at the same time along with your mainhand as long as you are one handing it. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. Currently the only offhand weapon type are pistols. Offhand pistols slightly change depending on what your main hand weapon is. If your main weapon is another pistol, the offhand pistol will adopt all stats from the main one. If your main weapon is not another pistol, your offhand pistol will have a -20% damage penalty and will adopt the scaling stat from the main weapon. For example, an offhand pistol wielded on First Light will have -20% damage with 8 Heavy Weapons scaling.
+Offhand weapons are weapons that can be wielded at the same time along with your mainhand as long as you are one handing it. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. Currently the only offhand weapon type are pistols. Offhand pistols slightly change depending on what your main hand weapon is. If your main weapon is another pistol, the offhand pistol will adopt all stats from the main one. If your main weapon is not another pistol, your offhand pistol will have a -20% damage penalty and will adopt the scaling stat from the main weapon. For example, an offhand pistol wielded on [First Light](First_Light.md) will have -20% damage with 8 Heavy Weapons scaling.
 
 Template:AllFlintlockWeapons
 

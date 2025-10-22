@@ -1,9 +1,9 @@
 ---
 title: "Needle's Eye"
-revid: 167843
+revid: 168135
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, Light Weapons, Items]
+categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Items]
 ---
 
 # Needle's Eye
@@ -44,6 +44,8 @@ The user winds up before stabbing the opponent 5 times and lunging forwards to u
 The critical has the following stats and modifiers: 0.9x (first hit) + 0.5x \* 5 (last five hits). The first five strikes deal 4 posture damage each, the final one guard breaks.
 
 The critical has a cooldown of **5 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

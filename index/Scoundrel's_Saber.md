@@ -1,9 +1,9 @@
 ---
 title: "Scoundrel's Saber"
-revid: 163495
+revid: 168111
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Items, Medium Weapons, Swords, Weapons with Unique Criticals]
+categories: [Weapons, Criticals with M1 tag, Items, Medium Weapons, Swords, Weapons with Unique Criticals]
 ---
 
 # Scoundrel's Saber
@@ -40,6 +40,8 @@ The user rushes forward, seemingly preparing to slice with the blade, instead de
 The pommel strike has a 1.1x scaled damage multiplier and Dazes for 2.5 seconds. If the user lands this critical on the opponent's back, it will gain a 10% damage bonus.
 
 The critical has a cooldown of **4 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

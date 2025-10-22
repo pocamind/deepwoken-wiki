@@ -1,9 +1,9 @@
 ---
 title: Kindred Edict
-revid: 166418
+revid: 168114
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
 ---
 
 # Kindred Edict
@@ -48,9 +48,11 @@ The standing critical does 0.55x \* 2 scaled damage.
 
 For the **aerial** critical, the user leaps above and performs a downslash that hits twice and dazes the opponent. Upon landing, the user is given a speed boost and will be sent back upwards. The critical cooldown will be cleared upon hit, and can be used multiple times. The speed boost can stack multiplicatively.
 
-The aerial critical does 0.45x \* 2 scaled damage, alongside having innate Bleed damage.
+The aerial critical does 0.45x \* 2 scaled damage, alongside having innate [Bleed](Status_Effects.md#bleed) damage.
 
 Both criticals apply 5 [Wither](Status_Effects.md#wither) on hit if your [Starkindred](Oath%253A_Starkindred.md) wings are out. Both criticals have a cooldown of **5 seconds** if whiffed.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: "Death's Reverie"
-revid: 161894
+revid: 168119
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
+categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
 ---
 
 # Death's Reverie
@@ -40,6 +40,8 @@ Bought from Glaive for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmi
 The user spins the twinblade around before performing an overhead strike that lights the opponent on fire and deals high posture. Grants a speed boost during the animation.
 
 The critical has a cooldown of **7 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

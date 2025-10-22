@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Blade"
-revid: 160717
+revid: 168122
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Heavy Weapons]
 ---
 
 # Enforcer's Blade
@@ -41,6 +41,8 @@ After a short windup, the user spins the Enforcer's Blade in a circle around the
 This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>). All hits have 0.5x scaled damage.
 
 The critical has a cooldown of **7 seconds.**
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

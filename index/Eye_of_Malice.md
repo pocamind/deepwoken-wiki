@@ -1,9 +1,9 @@
 ---
 title: Eye of Malice
-revid: 157593
+revid: 168123
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
 ---
 
 # Eye of Malice
@@ -43,6 +43,8 @@ The user leaps and thrusts the whipblade into the opponent, applying knockdown b
 Feinting during this critical will cancel momentum and allow you to more easily use this attack in close quarters combat.
 
 The critical has a cooldown of **6 seconds**.
+
+This critical is able to proc M1-exclusive [Talents](Talents.md).
 
 ## Trivia
 

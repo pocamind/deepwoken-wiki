@@ -1,9 +1,9 @@
 ---
 title: Spectral Grasp
-revid: 158409
+revid: 168149
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, Daggers, Hallowtide, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, Daggers, Hallowtide, Light Weapons]
 ---
 
 # Spectral Grasp
@@ -41,6 +41,8 @@ This item can be bought from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [
 After a short wind-up, the user slashes twice with the weapon, applying 10 Wither and dealing 1x scaled damage for each hit. This critical has innate bleed on both hits.
 
 The critical has a cooldown of **5 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

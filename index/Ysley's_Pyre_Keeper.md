@@ -1,9 +1,9 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 167692
+revid: 168161
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", The Hive, Multiple Criticals, Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", The Hive, Multiple Criticals, Heavy Weapons]
 ---
 
 # Ysley's Pyre Keeper
@@ -57,6 +57,8 @@ For the **crouching** critical, the user performs a swift slash before flipping 
 For the **sliding critical**, the user flips forward, while constantly slicing for the direction they traveled.
 
 All criticals have a cooldown of **10 seconds**.
+
+All of this weapon's criticals are able to proc M1-exclusive [Talents](Talents.md).
 
 ## Trivia
 

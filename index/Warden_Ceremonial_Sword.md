@@ -1,9 +1,9 @@
 ---
 title: Warden Ceremonial Sword
-revid: 165686
+revid: 168153
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
 ---
 
 # Warden Ceremonial Sword
@@ -40,6 +40,8 @@ The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained fro
 The user dashes forward and performs a 360° horizontal slash. Landing the first part of the critical will clear its cooldown. Using the critical after the initial hit performs a second 360° horizontal slash that hits twice.
 
 The critical has a cooldown of **6 seconds**, even after the follow-up critical is landed.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

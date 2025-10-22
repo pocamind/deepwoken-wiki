@@ -1,9 +1,9 @@
 ---
 title: Falchion
-revid: 167232
+revid: 168124
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
 ---
 
 # Falchion
@@ -40,7 +40,9 @@ The Alloyed Falchion has similar stats to the [Warden Ceremonial Sword](Warden_C
 
 After a short windup, perform a singular horizontal slash. This critical deals 1.25x of your weapon's scaled damage and 10 posture damage (11 if two-handed). This critical also has 90% chip damage. Applies [Daze](Status_Effects.md#daze) on successful hit.
 
-**This critical has a 5 second cooldown.**
+This critical has a **5 second cooldown**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

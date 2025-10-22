@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 166173
+revid: 168168
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, Weapons with Unique Criticals]
@@ -39,14 +39,17 @@ When you land an M1 on your opponent's back, your next critical attack will be e
 
 On proc, the Swift Strike status effect is granted for an indefinite duration, only being consumed upon critical cast.
 
-This critical deals % damage
+This critical deals % damage.
 
 ## Critical
 
-The critical is based on the Weapon Talent. After landing an M1 on the opponent's back, the user briefly flashes out of the frame before reappearing behind their backs and deeply gashing them.
+Big Brother uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**.
 
-The critical has a cooldown of **? seconds**.
+When landing an M1 on your opponent's back, apply the Swift Strike Status effect, drastically changing your critical attack. On critical, the user briefly flashes out of the frame before reappearing behind their opponent's backs and deeply gashing them. Deals percentage based damage and procs all [assassination](Talents.md#assassin) Talents.
+
+The default Dagger critical has a cooldown of **3 seconds**, while the Swift Strike Talent has a cooldown of **20 seconds**.
 
 ## Trivia
 
 -   Its name is a direct reference to the fictional character "Big Brother" from the novel _Nineteen Eighty-Four_ by George Orwell, signifying the concept of constant, oppressive governmental or authoritative surveillance and control over a population.
+-   Swift Strike is not a "critical," meaning things such as [Warmaster's Medallion](<Warmaster's_Medallion.md>) or [Critical Engine](Talents.md#intellisense) with [Blessed Gem](Blessed_Gem.md) cannot reduce its cooldown.

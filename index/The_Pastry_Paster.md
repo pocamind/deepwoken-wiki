@@ -1,9 +1,9 @@
 ---
 title: The Pastry Paster
-revid: 165465
+revid: 168155
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Club, Medium Weapons, "Core-Attribute based weapons"]
+categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Club, Medium Weapons, "Core-Attribute based weapons"]
 ---
 
 # The Pastry Paster
@@ -36,6 +36,8 @@ The Pastry Paster can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equ
 ## Critical
 
 Wind up your rolling pin and strike your target, dealing very high posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

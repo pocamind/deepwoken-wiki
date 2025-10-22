@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 167942
+revid: 168169
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -215,12 +215,12 @@ Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](I
 
 Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a translucent dark red effect on your blood bar. Effect varies depending on the percentage of your blood bar is Poisoned.
 
--   At 25% Blood Poisoning, [Hemolysis](Talents.md#septicemia) Talent is Activatable, granting you a 25% critical damage bonus when hitting someone at or above 25% BP.
--   At 30% Blood Poisoning, [Vasculitis](Talents.md#septicemia) Talent is Activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them.
+-   At 25% Blood Poisoning, [Hemolysis](Talents.md#septicemia) Talent is activatable, granting you a 25% critical damage bonus when hitting someone at or above 25% BP.
+-   At 30% Blood Poisoning, [Vasculitis](Talents.md#septicemia) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them. [Torture Mastery](Talents.md#sanguine-wager) Talent is also activable, proccing the status effect [Torture Mastery](#torture-mastery) upon landing a critical attack.
 -   At 40% Blood Poisoning, Enemies are under an Anti-Heal effect.
 -   At 50% Blood Poisoning, Enemies have their damage reduced.
--   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodhound) Talent is Activatable, highlighting enemies when you hit them.
--   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#septicemia) Talent is Activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
+-   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodhound) Talent is activatable, highlighting enemies when you hit them.
+-   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#septicemia) Talent is activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
 
 ## Oath Applied
 

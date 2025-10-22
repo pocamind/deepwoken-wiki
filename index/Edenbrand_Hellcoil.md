@@ -1,9 +1,9 @@
 ---
 title: Edenbrand Hellcoil
-revid: 163173
+revid: 168112
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
+categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
 ---
 
 # Edenbrand Hellcoil
@@ -45,6 +45,8 @@ This attack has a windup of 2.05s and an endlag of 0.75s with 1.5s of hyperarmor
 The critical deals 2x your weapon's scaled M1 damage, dealt as **true damage** in a range of about 20 studs.
 
 The critical has a cooldown of **14 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

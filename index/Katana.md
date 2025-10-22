@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 157338
+revid: 168132
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
+categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
 ---
 
 # Katana
@@ -32,13 +32,17 @@ categories: [Pages with broken file links, Weapons, Swords, Katanas, Weapons wit
 
 ## Description
 
-The Katana is a Medium Weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md) and [Primadon](Primadon,_Titan_of_the_East.md). Additionally, it drops from [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) at an uncommon rate and can be bought from [Chili](Travelling_Merchant.md) for around 90 notes. It has a base damage of 18 and requires 25 MED to equip. Its damage is increased by 25% (5% when Alloyed) when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#vigil)_. It is able to be upgraded with the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and adding a slight purple hue to the blade.
+The Katana is a Medium Weapon that has a base damage of 18 and requires 25 MED to equip. Its damage is increased by 25% (5% when Alloyed) when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#vigil)_.
 
-When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s and critical will be suspended until it is sheathed, at which point all of that damage is inflicted at once.
+Additionally, you can upgrade the Katana with the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and adding a slight purple hue to the blade.
+
+When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s and critical attacks will be suspended until it is sheathed, at which point all of that damage is inflicted at once. This damage cannot exceed 70% of a player's maximum health.
 
 ## Critical
 
 The user sheathes their katana before dashing forward and slashing horizontally. The crit deals 10% scaled damage and procs bleed. This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Gallery
 
@@ -46,7 +50,6 @@ Storm Enchant
 
 ## Trivia
 
--   [Paired Soul](Talents.md#vigil) only gives a +5% damage buff with the Alloyed Katana to bring it closer to the [Shattered Katana](Shattered_Katana.md).
 -   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana critical when 2 handing.
 -   Meeting the non-alloyed requirement of MED, the damage is (20)
     -   Meeting the alloyed requirement, the damage is (27.9)

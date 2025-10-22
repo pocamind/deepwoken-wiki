@@ -1,9 +1,9 @@
 ---
 title: Shattered Katana
-revid: 157058
+revid: 168163
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
 ---
 
 # Shattered Katana
@@ -40,6 +40,8 @@ Taking scaling into account, it deals 29.45 damage at 90 MED. At 100 MED, it dea
 While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. For the two handed crit, the user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
 
 The critical has a cooldown of **6 seconds**.
+
+Both of this weapon's criticals are able to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Whaling Knife
-revid: 156939
+revid: 168157
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
 ---
 
 # Whaling Knife
@@ -43,6 +43,8 @@ This weapon can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and req
 The user rushes forward while performing a horizontal slash forward, the slash having a red trail.
 
 The critical has a cooldown of **3 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

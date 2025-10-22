@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168021
+revid: 168103
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -195,16 +195,16 @@ Sold Items
   <ul>
     <li><b>For 80 </b>:
   <ul>
-    <li><b><font>Starter</font></b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>.</li>
-    <li><b><font>Adept</font></b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a>.</li>
+    <li><b>Starter</b>: <a href="Hired_Mercenary.md">Hired Mercenary</a>.</li>
+    <li><b>Adept</b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a>.</li>
+    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a>.</li>
   </ul></li>
     <li><b>For 200 </b>:
   <ul>
-    <li><b><font>Starter</font></b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>.</li>
-    <li><b><font>Adept</font></b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
-    <li><b><font>Expert</font></b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
-    <li><b><font>Master</font></b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
+    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Merchant_Robes.md">Merchant Robes</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>.</li>
+    <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>.</li>
+    <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a>, <a href="Whaler_Coat.md">Whaler Coat</a>.</li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -221,31 +221,29 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For 100 </b>: <a href="Bronze_Aspis.md">Bronze Aspis</a>.<br>
-  </li>
+    <li><b>For 100 </b>: <a href="Bronze_Aspis.md">Bronze Aspis</a>.</li>
     <li><b>For 300 </b>:
   <ul>
-    <li><b><font>Light Weapons</font></b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
-    <li><b><font>Medium Weapons</font></b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
-    <li><b><font>Heavy Weapons</font></b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
+    <li><b>Light Weapons</b>: <a href="Whaling_Knife.md">Whaling Knife</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>.</li>
   </ul></li>
     <li><b>For 650 </b>:
   <ul>
-    <li><b><font>Medium Weapons</font></b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.</li>
-    <li><b><font>Heavy Weapons</font></b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>.</li>
   </ul></li>
     <li><b>For 1,000 </b>:
   <ul>
-    <li><b><font>Light Weapons</font></b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
-    <li><b><font>Medium Weapons</font></b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a>.</li>
+    <li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Needle's_Eye.md">Needle's Eye</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a>.</li>
   </ul></li>
     <li><b>For 1,250 </b>:
   <ul>
-    <li><b><font>Medium Weapons</font></b>: <a href="Crescendo.md">Crescendo</a>.</li>
-    <li><b><font>Heavy Weapons</font></b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>.</li>
   </ul></li>
-    <li><b>For 4,500 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>.<br>
-  </li>
+    <li><b>For 4,500 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>.</li>
     <li><b>For 5,000 </b>: <a href="Night_Axe.md">Night Axe</a>.</li>
   </ul></td>
 </tr>
@@ -253,18 +251,9 @@ Sold Items
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b>For 35 </b>:
-  <ul>
-    <li><b><font>Face</font></b>: <a href="Snakebite_Studs.md">Snakebite Studs</a>.</li>
-  </ul></li>
-    <li><b>For 50 </b>:
-  <ul>
-    <li><b><font>Face</font></b>: <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
-  </ul></li>
-    <li><b>For 100 </b>:
-  <ul>
-    <li><b><font>Arms</font></b>: <a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
-  </ul></li>
+    <li><b>For 35 </b>: <a href="Snakebite_Studs.md">Snakebite Studs</a>.</li>
+    <li><b>For 50 </b>: <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
+    <li><b>For 100 </b>: <a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -341,11 +330,10 @@ Sold Items
     <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Hemobloom.md">Hemobloom</a>.</li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>.</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
-    <li><b>For 4 </b>: <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.<b></b></li>
-    <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
+    <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>.</li>
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 8 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
-    <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a> .</li>
+    <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
     <li><b>For 20 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a>.</li>
   </ul></td>
@@ -355,11 +343,10 @@ Sold Items
   <td>
   <ul>
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.</li>
-    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>.</li>
+    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
     <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>.</li>
-    <li><b>For 10 </b>: <a href="Soulthorn.md">Soulthorn</a>.</li>
     <li><b>For 45 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
   </ul></td>
 </tr>
@@ -367,7 +354,12 @@ Sold Items
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b>For 5 </b>: <a href="Aazel's_Horns.md">Aazel's Horns</a>, <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+    <li><b>For 5 </b>:
+  <ul>
+    <li><b>Head</b>: <a href="Aazel's_Horns.md">Aazel's Horns</a>.</li>
+    <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+  </ul></li>
+    <li><b>For 250 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li>
   </ul></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 167935
+revid: 168094
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, The Divers, Items]
@@ -30,7 +30,7 @@ categories: [Equipment, Face, Glasses, The Divers, Items]
 
 ## Trivia
 
--   This is only face equipment to have innate HP, and one of only two equipment items in general to grant negative stats, the other being [Dark Pearls](Dark_Pearls.md).
+-   This is one of only two equipment items in general to grant negative stats, the other being [Dark Pearls](Dark_Pearls.md).
 -   The lowest Posture you can have is 15, with base Citadel Frames and [Dark Pearls](Dark_Pearls.md).
 -   All Citadel Frames variants initially had -2 Posture, but most were buffed afterwards to have -1 Posture instead. The default Round variant still having -2 Posture is probably an oversight.
 -   These glasses have a Diver faction emblem on their hinges.

@@ -1,9 +1,9 @@
 ---
 title: Duskguard Axe
-revid: 167185
+revid: 168164
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
+categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, Weapons with Unique Criticals]
 ---
 
 # Duskguard Axe
@@ -41,3 +41,5 @@ The user reels the axe backwards before chopping the opponent and guardbreaking 
 The initial hit does not count as a hit despite guardbreaking; this means it won't proc any Talents that proc on damage dealt, and it does not deal damage. The second hit has a 1.375x scaled damage multiplier.
 
 The critical has a cooldown of **10 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.

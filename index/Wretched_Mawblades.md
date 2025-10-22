@@ -1,9 +1,9 @@
 ---
 title: Wretched Mawblades
-revid: 161381
+revid: 168160
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
 ---
 
 # Wretched Mawblades
@@ -45,6 +45,8 @@ The user leans backwards and uses the blades to "chomp" the target. If this is l
 The critical has a cooldown of **7 seconds**.
 
 Despite what is shown in the gif, this critical does **not** apply Daze.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

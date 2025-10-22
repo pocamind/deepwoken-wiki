@@ -1,9 +1,9 @@
 ---
 title: Cavalry Saber
-revid: 165681
+revid: 168137
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Alloyed Weapons, Weapons with Consecutive Criticals, Medium Weapons]
 ---
 
 # Cavalry Saber
@@ -42,6 +42,8 @@ The Cavalry Saber is a midgame weapon obtained from [the Depths](The_Depths.md) 
 The user performs a flurry of slashes, hitting up to 4 times. The first hit will deal 0.6x of scaled damage, followed by the last three hits dealing 0.5x scaled damage.
 
 The critical has a cooldown of **5** seconds.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

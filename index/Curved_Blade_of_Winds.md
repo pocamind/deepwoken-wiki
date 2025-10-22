@@ -1,9 +1,9 @@
 ---
 title: Curved Blade of Winds
-revid: 158161
+revid: 168117
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
+categories: [Weapons, Swords, Criticals with M1 tag, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
 ---
 
 # Curved Blade of Winds
@@ -40,7 +40,6 @@ The **Curved Blade of Winds** is a Legendary medium [Sword](Weapons.md) that can
 This weapon comes with two passive abilities:
 
 -   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
-    -   ~Inhaling a mantra will temporarily buff this up to the standard 10% that normal After Cut would give~. This is currently bugged and does not work.
 
 -   **Gale Affinity** - Your critical attack now applies Suffocate. If the user has Haunted Path: Specter, critical attacks will fill up the Specter gauge and summon Apparitions.
 
@@ -63,6 +62,8 @@ The user propels in a whirlwind of air, gravitating towards their cursor. Applie
 ### Two Handed Critical
 
 The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
+
+Both criticals are able to proc M1-exclusive [Talents](Talents.md).
 
 ## Trivia
 

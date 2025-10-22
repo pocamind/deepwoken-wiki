@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 167836
+revid: 168102
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -4456,6 +4456,7 @@ Found from:
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
  | N/A |
 |  | [Tied Tie](Tied_Tie.md)  

@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Hammer"
-revid: 157088
+revid: 168121
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, Weapons with Consecutive Criticals]
+categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, Weapons with Consecutive Criticals]
 ---
 
 # Enforcer's Hammer
@@ -42,6 +42,8 @@ After a short windup, the user spins the Enforcer's Hammer in a circle around th
 This critical is also shared with [Enforcer's Blade](<Enforcer's_Blade.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>). All hits have 0.5x scaled damage.
 
 The critical has a cooldown of **7 seconds.**
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

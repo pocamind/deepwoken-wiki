@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 162928
+revid: 168098
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -28,14 +28,13 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Moon's Eyrie, Voidsea (chests), Semblance, Dread Serpent, Sold in Traan Zakshun's black market for 10 |
+| obtainment | Moon's Eyrie, Voidsea (chests), Semblance, Dread Serpent, Sold in Traan Zakshun's black market for 4 |
 | description | Swirling within, the core of this blade is said to have been siphoned from the Moonseye by a Celestial traveler on their voyage across the skies. Its edge transmits a cutting anguish upon its foe, carving spiritual wounds. Its previous wielder, once known as the Moonlight Prince, is said to have been driven to madness by the voices trapped within. Holding it, you can hear it whispering speaking directly into your mind. The voices within lament their twisted fate; stolen away from their heavenly vault to ultimately meet the same fate as the Drowned. |
 
 ## Description
 
 The Soulthorn is a Legendary Weapon that can be obtained from the chest dropped by the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. It can also be obtained rarely from any sea event in the [Voidsea](Voidsea.md) and directly dropped from the [Semblance](Semblance.md) mob.
 
-  
 The maximum damage able to be achieved is 40.2 if the user has 103 Intelligence, 100 Medium, and 6 Proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.
 
 ## Critical

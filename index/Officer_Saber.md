@@ -1,9 +1,9 @@
 ---
 title: Officer Saber
-revid: 164053
+revid: 168136
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Medium Weapons]
+categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Medium Weapons]
 ---
 
 # Officer Saber
@@ -41,6 +41,8 @@ The Officer Saber is a Medium type weapon that can be obtained from [Fort Merit]
 The user performs a flurry of slashes, hitting up to 4 times. The first hit will deal 0.6x of scaled damage, followed by the last three hits dealing 0.5x scaled damage.
 
 The critical has a cooldown of **5** seconds.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
