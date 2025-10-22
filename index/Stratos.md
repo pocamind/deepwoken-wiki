@@ -1,14 +1,19 @@
 ---
 title: Stratos
-revid: 152959
+revid: 168049
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
+categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
 ---
 
 # Stratos
 
-Template:NPC name
+| Stratos | |
+|---|---|
+| name | Stratos |
+| aspect | Etrean |
+| location | Temple of the Blade |
+| affiliation | Etrea |
 
 ## Description
 

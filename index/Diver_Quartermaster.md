@@ -1,6 +1,6 @@
 ---
 title: Diver Quartermaster
-revid: 166828
+revid: 167985
 source: https://deepwoken.fandom.com/wiki/Diver_Quartermaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Random Encounters, The Divers]
@@ -12,6 +12,7 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Random Encounters, The 
 |---|---|
 | aspect | Randomized |
 | location | Aratel Sea (Random Encounter) |
+| affiliation | The Divers |
 
 ## Description
 

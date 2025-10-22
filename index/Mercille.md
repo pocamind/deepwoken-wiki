@@ -1,6 +1,6 @@
 ---
 title: Mercille
-revid: 167619
+revid: 168024
 source: https://deepwoken.fandom.com/wiki/Mercille
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, The Summer Company, NPCs located in the Eastern Luminant]
@@ -13,6 +13,7 @@ categories: [Vesperian NPCs, NPCs, Quests, The Summer Company, NPCs located in t
 | name | Mercille |
 | aspect | Vesperian |
 | location | Bluster Rift |
+| affiliation | The Summer Company |
 
 ## Description
 

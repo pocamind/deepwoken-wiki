@@ -1,6 +1,6 @@
 ---
 title: Infamous Baz
-revid: 163344
+revid: 168006
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, NPCs, NPCs located in the Etrean Luminant]
@@ -15,6 +15,7 @@ notices:
 | name | Infamous Baz |
 | aspect | Felinor |
 | location | The King's Garden |
+| affiliation | Etrea |
 
 “ Meow. ”
 

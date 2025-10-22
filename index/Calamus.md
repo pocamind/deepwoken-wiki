@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 163305
+revid: 167978
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests, The Hive]
@@ -13,6 +13,7 @@ categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests,
 | name | Calamus |
 | aspect | Vesperian |
 | location | Starswept Valley |
+| affiliation | The Hive |
 
 ## Description
 

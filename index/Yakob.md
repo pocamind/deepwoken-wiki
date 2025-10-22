@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 167458
+revid: 168065
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central
 | name | Yakob |
 | aspect | Adret |
 | location | The Three Cheers |
+| affiliation | The Central Authority |
 
 “ Soon as you lot pulled up at the dock, there was an uproar - I swear, I don't think I've ever seen the folks here be this happy. ”
 

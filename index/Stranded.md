@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 167507
+revid: 168088
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -36,5 +36,5 @@ This Outfit has infinite durability (though is sometimes permanently empty) and 
 
 -   Like all other Origin-exclusive Outfits, Stranded is lost upon crafting another Outfit.
 -   The Stranded Outfit is removed from the Blacksmith's shop once it is unequipped.
--   The Outfit appears to be a severely tattered version of the Grey [Traveler Cloak](<Traveller's_Jacket.md>).
+-   The Outfit appears to be a severely tattered version of the Brown [Traveller's Jacket](<Traveller's_Jacket.md>).
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5150609038/Stranded) / [Pants](https://www.roblox.com/catalog/5150610387/Stranded-Pants)

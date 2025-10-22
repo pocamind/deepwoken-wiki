@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 167532
+revid: 168042
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, NPCs, The Knives of Eylis, Vendors]
@@ -15,6 +15,7 @@ notices:
 | name | Rook Rethige |
 | aspect | Felinor |
 | location | Voidheart |
+| affiliation | The Knives of Eylis |
 
 ## Description
 

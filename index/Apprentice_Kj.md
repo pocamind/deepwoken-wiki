@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 166574
+revid: 167973
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -15,6 +15,7 @@ notices:
 | name | Apprentice Kj |
 | aspect | Etrean |
 | location | Temple of the Blade |
+| affiliation | Etrea |
 
 “ Thank you stranger, this is a great kindness. ”
 

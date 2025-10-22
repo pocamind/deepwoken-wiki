@@ -1,6 +1,6 @@
 ---
 title: Kaab
-revid: 162578
+revid: 168007
 source: https://deepwoken.fandom.com/wiki/Kaab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -13,6 +13,7 @@ categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant]
 | name | Kaab |
 | aspect | Vesperian |
 | location | Greathive Aratel |
+| affiliation | The Hive |
 
 ## Description
 

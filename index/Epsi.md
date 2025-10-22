@@ -1,9 +1,9 @@
 ---
 title: Epsi
-revid: 166857
+revid: 167991
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
+categories: [Gremor NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Epsi
@@ -11,6 +11,9 @@ categories: [NPCs, The Ignition Union, NPCs located in the First Floor of the Se
 | Epsi | |
 |---|---|
 | name | Epsi |
+| aspect | Gremor |
+| location | The Frontier Furnace |
+| affiliation | The Ignition Union |
 
 ## Description
 

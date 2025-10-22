@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 167535
+revid: 167979
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Laye
 | name | Deepdelver Gamma |
 | aspect | Khan |
 | location | The Chariot's Spire |
+| affiliation | The Ignition Union |
 
 ## Description
 

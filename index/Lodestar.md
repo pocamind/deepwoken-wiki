@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 167262
+revid: 168070
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths]
@@ -146,3 +146,4 @@ This lootpool may still be incomplete, we'd appreciate it if you helped gather i
 -   He has at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"
 -   The Lodestar might be mistaking us for his target shown in his spawn and grip dialogue, as the description on the Guiding Star talks of a 'trial' that the Lodestar could be going through during 'The Festival of Lights', a part of the trial is to blindly hunt a wolf unseen, with the participant failing should they suffer any wounds, with the Guiding Star 'speaking' to the participant, guiding them to completion.
     -   the Lodestar might be indirectly violating the trial by being a Blindseer, which would allow them to use their sight during the trial.
+-   Ironically, Navaen Nomads are hostile towards The Lodestar and Vice-Versa, (Tested by teleporting Lodestar to Meteor Isle using Teleportation Resonance). They also ally with monsters such as Threshers which means they could count as a monster enemy rather than humanoid.

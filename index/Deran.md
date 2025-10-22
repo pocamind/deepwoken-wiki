@@ -1,6 +1,6 @@
 ---
 title: Deran
-revid: 167560
+revid: 167983
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the First Layer, The Ignition Unio
 | name | Deran |
 | aspect | Khan |
 | location | The Chariot's Spire |
+| affiliation | The Ignition Union |
 
 ## Description
 

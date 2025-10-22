@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 151384
+revid: 168089
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -39,6 +39,8 @@ This Outfit has 1000 durability and grants +10% Physical resistance.
 ## Trivia/Notes
 
 -   Traveller's Jacket was originally named Traveler's Cloak with all variants being entirely separate from each other rather than just being cosmetic options.
--   The Red jacket had 1 extra durability a long long time ago.
+-   The Default Jacket is worn in the [Tutorial](Tutorial.md).
+    -   In previous versions, the player worn the Brown variant. It would fittingly be set up for the [tattered version](Stranded.md) that is worn after the Tutorial is completed.
+-   The Default Jacket has leftover clothing layers on the palm.
+-   The Red Jacket previously had 1 extra durability.
 -   The Lilac Jacket is missing the notches on the arms that all other variants have.
--   The Default Jacket has textures on the hands that resemble a palm.

@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 166578
+revid: 168059
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Talents, Et
 | name | Valikor |
 | aspect | Etrean |
 | location | Temple of the Blade library |
+| affiliation | Etrea |
 
 “ There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine. ”
 

@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 161636
+revid: 168057
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 | name | Theadre |
 | aspect | Etrean |
 | location | Etris |
+| affiliation | Etrea |
 
 ## Description
 

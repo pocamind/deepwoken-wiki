@@ -1,6 +1,6 @@
 ---
 title: Merryweather
-revid: 167163
+revid: 168025
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -13,6 +13,7 @@ categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Uni
 | name | Merryweather |
 | aspect | Canor |
 | location | The Chariot's Spire |
+| affiliation | The Ignition Union |
 
 ## Description
 

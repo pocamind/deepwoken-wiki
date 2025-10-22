@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 166158
+revid: 168001
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the First Layer, The Divers, The Depths, Reputation]
@@ -13,6 +13,7 @@ categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in th
 | name | Gudrin |
 | aspect | Celtor |
 | location | First Layer |
+| affiliation | The Divers |
 
 “ There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one! ”
 

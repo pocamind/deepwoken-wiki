@@ -1,6 +1,6 @@
 ---
 title: Parsnip
-revid: 156485
+revid: 168032
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -13,6 +13,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Igniti
 | name | Parsnip |
 | aspect | Celtor |
 | location | Miner's Landing |
+| affiliation | The Ignition Union |
 
 “ Oh, you know. The weather. Things and such. What the _HELL_ do you think I'm talking about?! Do you not hear that ruckus in the upper level? ”
 

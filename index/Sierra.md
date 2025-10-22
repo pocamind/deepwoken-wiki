@@ -1,6 +1,6 @@
 ---
 title: Sierra
-revid: 167430
+revid: 168046
 source: https://deepwoken.fandom.com/wiki/Sierra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer Company]
@@ -13,6 +13,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer
 | name | Sierra |
 | aspect | Celtor |
 | location | Bluster Rift |
+| affiliation | The Summer Company |
 
 ## Description
 

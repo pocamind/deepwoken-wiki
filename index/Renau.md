@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 152302
+revid: 168039
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -13,6 +13,7 @@ categories: [Canor NPCs, NPCs, The Ignition Union, NPCs located in the First Lay
 | name | Renau |
 | aspect | Canor |
 | location | The Chariot's Spire |
+| affiliation | The Ignition Union |
 
 ## Description
 

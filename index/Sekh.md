@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 167121
+revid: 168044
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -13,6 +13,7 @@ categories: [Vesperian NPCs, NPCs, The Hive, NPCs located in the Eastern Luminan
 | name | Sekh |
 | aspect | Vesperian |
 | location | Meteor Isle |
+| affiliation | The Hive |
 
 “ Besides... the praying one over there makes my idle hours more eventful. ”
 

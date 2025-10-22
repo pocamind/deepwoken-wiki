@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 167907
+revid: 168053
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -16,6 +16,7 @@ notices:
 | name | Taiga |
 | aspect | Capra |
 | location | The Three Cheers |
+| affiliation | The Central Authority |
 
 ## Description
 

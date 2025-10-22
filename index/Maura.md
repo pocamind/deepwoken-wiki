@@ -1,6 +1,6 @@
 ---
 title: Maura
-revid: 153270
+revid: 168023
 source: https://deepwoken.fandom.com/wiki/Maura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Reputation]
@@ -13,6 +13,7 @@ categories: [Tiran NPCs, Pages with broken file links, NPCs, NPCs located in the
 | name | Maura |
 | aspect | Tiran |
 | location | Miner's Landing |
+| affiliation | The Ignition Union |
 
 “ Aye, aye, all is forgiven, scab... is what I'd say, if you had a single note to your name. ”
 

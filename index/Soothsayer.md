@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 157547
+revid: 168048
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -13,6 +13,7 @@ categories: [Celtor NPCs, Reputation, NPCs, NPCs located in the Etrean Luminant,
 | name | Soothsayer |
 | aspect | Celtor |
 | location | Minityrsa |
+| affiliation | The Ministry |
 
 “ Oh! Oh oh. You see it, don't you? Won't you share your Knowledge with me? Please? ”
 

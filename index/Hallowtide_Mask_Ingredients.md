@@ -1,9 +1,9 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 165893
+revid: 167990
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Weapons, Items, Hallowtide]
+categories: [Event Only Content, Items, Hallowtide]
 notices:
   - "This page contains Event Exclusive Content This event will only likely be ran once, and as such is exclusive to those who attended the event."
 ---
@@ -13,38 +13,29 @@ notices:
 | Fine Ink | |
 |---|---|
 | type | Quest Item |
-| selling price | 5 |
-| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | A small vial of dark black ink, perfect for illustrations. |
 | obtainment | Lower Erisia Chests, Upper Erisia Chests, Depths Chests, Fishing Chests, Songseeker Chests, Lighthouse Chests (Ones that randomly spawn there) |
-| description | A small vial of dark black ink, perfect for illustrations. |
 
 | Paperette | |
 |---|---|
 | type | Quest Item |
-| selling price | 5 |
-| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Some sort of thin paper... it looks perfect for a mask. |
 | obtainment | All Chests |
-| description | Some sort of thin paper... it looks perfect for a mask. |
 
 | Shell Stock | |
 |---|---|
 | type | Quest Item |
-| selling price | 5 |
-| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | An odd shell with a cardboard like texture. Why has no one found this before? |
 | obtainment | All Chests |
-| description | An odd shell with a cardboard like texture. Why has no one found this before? |
 
 The **Fine Ink**, **Paperette** and **Shell Stock** are items used for the Deepwoken [Hallowtide](Hallowtide.md) 2022-2024 event to craft the [Hallowtide Mask](Hallowtide_Mask.md).
 

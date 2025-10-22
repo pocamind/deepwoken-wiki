@@ -1,9 +1,9 @@
 ---
 title: Amara
-revid: 166867
+revid: 167972
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Etrean Luminant]
+categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
 ---
 
 # Amara
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Etrean Lu
 | name | Amara |
 | aspect | Khan |
 | location | The Viper's Jaw |
+| affiliation | The Hundred Legions |
 
 ## Description
 

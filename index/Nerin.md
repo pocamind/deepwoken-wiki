@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 166744
+revid: 168027
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Reputation]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Reputation]
 | name | Nerin |
 | aspect | Etrean |
 | location | Etris |
+| affiliation | Etrea |
 
 “ Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer? ”
 

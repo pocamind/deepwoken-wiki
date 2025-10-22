@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 166885
+revid: 167988
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Etrean Luminant, The Children of Navae]
@@ -13,6 +13,7 @@ categories: [Gremor NPCs, NPCs, NPCs located in the Etrean Luminant, The Childre
 | name | Eastern Camp Master |
 | aspect | Gremor |
 | location | Etrean Wilds |
+| affiliation | The Children of Navae |
 
 ## Description
 

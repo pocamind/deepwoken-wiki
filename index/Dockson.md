@@ -1,6 +1,6 @@
 ---
 title: Dockson
-revid: 157271
+revid: 167986
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
 | name | Dockson |
 | aspect | Etrean |
 | location | Summer Isle |
+| affiliation | The Summer Company |
 
 ## Description
 

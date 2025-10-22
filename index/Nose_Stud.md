@@ -1,6 +1,6 @@
 ---
 title: Nose Stud
-revid: 167203
+revid: 167965
 source: https://deepwoken.fandom.com/wiki/Nose_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea VS Eylis Sea Event |
+| obtainment | Chests from:, Lower Erisia, Etrea VS Eylis Sea Event |
 | description | FEAR. IRONSINGERS. |
 
 ## Description

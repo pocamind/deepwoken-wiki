@@ -1,6 +1,6 @@
 ---
 title: Raen
-revid: 167547
+revid: 168035
 source: https://deepwoken.fandom.com/wiki/Raen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Knives of Eylis]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, The Knives of Eylis]
 | name | Raen |
 | aspect | Adret |
 | location | Voidheart |
+| affiliation | The Knives of Eylis |
 
 ## Description
 

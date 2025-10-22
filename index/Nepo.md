@@ -1,6 +1,6 @@
 ---
 title: Nepo
-revid: 153050
+revid: 168026
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
@@ -13,6 +13,7 @@ categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in th
 | name | Nepo |
 | aspect | Celtor |
 | location | Summer Isle |
+| affiliation | The Summer Company |
 
 “ Congrats, now leave me be. ”
 

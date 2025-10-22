@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 167536
+revid: 168010
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminan
 | name | Kelsius |
 | aspect | Adret |
 | location | Temple of the Blade |
+| affiliation | Etrea |
 
 ## Description
 

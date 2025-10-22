@@ -1,6 +1,6 @@
 ---
 title: Arthur
-revid: 167150
+revid: 167974
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -12,7 +12,8 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 |---|---|
 | name | Arthur |
 | aspect | Etrean |
-| location | ErisiaBurning Stone Gardens |
+| location | Burning Stone Gardens |
+| affiliation | Etrea |
 
 ## Description
 

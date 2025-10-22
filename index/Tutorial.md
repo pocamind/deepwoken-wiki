@@ -1,9 +1,9 @@
 ---
 title: Tutorial
-revid: 167525
+revid: 168090
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Guides]
+categories: [Guides, Mechanics]
 ---
 
 # Tutorial

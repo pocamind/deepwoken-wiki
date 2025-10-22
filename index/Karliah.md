@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 163279
+revid: 168008
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -12,7 +12,8 @@ categories: [Adret NPCs, The Divers, NPCs, NPCs located in the Etrean Luminant, 
 |---|---|
 | name | Karliah |
 | aspect | Adret |
-| location | A house next door to Lance's Food |
+| location | Etris |
+| affiliation | The Divers |
 
 “ Oh, sorry, I didn't see you there. I'm Karliah, apprentice Diver extraordinaire! ”
 

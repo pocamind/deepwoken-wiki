@@ -1,6 +1,6 @@
 ---
 title: Falei
-revid: 156100
+revid: 167998
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
@@ -13,6 +13,7 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second 
 | name | Falei |
 | aspect | Ganymede |
 | location | Sanctuary Gatehouse |
+| affiliation | The Divers |
 
 ## Description
 

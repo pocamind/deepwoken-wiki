@@ -1,6 +1,6 @@
 ---
 title: Kressa
-revid: 167577
+revid: 168014
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition
 | name | Kressa |
 | aspect | Khan |
 | location | Miner's Landing |
+| affiliation | The Ignition Union |
 
 ## Description
 

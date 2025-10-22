@@ -1,6 +1,6 @@
 ---
 title: Pori
-revid: 166579
+revid: 168033
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Etrea]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Etrea]
 | name | Pori |
 | aspect | Etrean |
 | location | Etris |
+| affiliation | Etrea |
 
 ## Description
 

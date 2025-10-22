@@ -1,6 +1,6 @@
 ---
 title: Gaius
-revid: 166851
+revid: 167999
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 | name | Gaius |
 | aspect | Khan |
 | location | The Viper's Jaw |
+| affiliation | The Hundred Legions |
 
 ## Description
 

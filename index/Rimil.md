@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 152026
+revid: 168040
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
@@ -12,7 +12,8 @@ categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminan
 |---|---|
 | name | Rimil |
 | aspect | Canor |
-| location | Eastern Sea, Meteor Isle |
+| location | Meteor Isle |
+| affiliation | The Ministry |
 
 ## Description
 

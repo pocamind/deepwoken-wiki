@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 163107
+revid: 168022
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the First Layer, The Divers]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the First Layer, The Divers]
 | name | Mark Adaset |
 | aspect | Adret |
 | location | Castle Light |
+| affiliation | The Divers |
 
 ## Description
 

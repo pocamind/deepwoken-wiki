@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 157356
+revid: 167975
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Khan NPCs, NPCs, The Hundred Legions, Quests, NPCs located in the E
 | name | Atra |
 | aspect | Khan |
 | location | The Viper's Jaw |
+| affiliation | The Hundred Legions |
 
 ## Description
 

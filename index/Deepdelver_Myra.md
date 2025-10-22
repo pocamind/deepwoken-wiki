@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Myra
-revid: 167916
+revid: 167980
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -13,6 +13,7 @@ categories: [Tiran NPCs, NPCs, NPCs located in the First Layer, The Ignition Uni
 | name | Deepdelver Myra |
 | aspect | Tiran |
 | location | The Chariot's Spire |
+| affiliation | The Ignition Union |
 
 ## Description
 

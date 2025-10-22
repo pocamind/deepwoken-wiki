@@ -1,6 +1,6 @@
 ---
 title: Seroth
-revid: 161643
+revid: 168045
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs in the Etrean Luminant, Quests]
@@ -10,8 +10,10 @@ categories: [Etrean NPCs, NPCs, NPCs in the Etrean Luminant, Quests]
 
 | Seroth | |
 |---|---|
+| name | Seroth |
 | aspect | Etrean |
 | location | Isle of Vigils |
+| affiliation | Etrea |
 
 ## Description
 

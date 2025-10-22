@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 164997
+revid: 167970
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, Quests, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -13,6 +13,7 @@ categories: [Canor NPCs, NPCs, Quests, The Ignition Union, NPCs located in the F
 | name | Alpha |
 | aspect | Canor |
 | location | The Frontier Furnace |
+| affiliation | The Ignition Union |
 
 ## Description
 

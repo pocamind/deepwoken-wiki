@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 163702
+revid: 168013
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -13,6 +13,11 @@ categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
 | name | Korin |
 | aspect | Etrean |
 | location | Etris |
+| affiliation | Etrea |
+
+“ Hey. We need more wood to keep the fires burning, you got any? ”
+
+― Korin
 
 ## Description
 

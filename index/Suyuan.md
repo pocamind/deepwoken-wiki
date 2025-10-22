@@ -1,6 +1,6 @@
 ---
 title: Suyuan
-revid: 156407
+revid: 168052
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -13,6 +13,11 @@ categories: [Etrean NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Lumina
 | name | Suyuan |
 | aspect | Etrean |
 | location | Temple of the Blade library |
+| affiliation | Etrea |
+
+“ Hey you! Have you seen a ghost? ”
+
+― Suyuan
 
 ## Description
 

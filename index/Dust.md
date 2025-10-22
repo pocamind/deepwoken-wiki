@@ -1,6 +1,6 @@
 ---
 title: Dust
-revid: 159760
+revid: 167987
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers, NPCs located in the First Layer]
@@ -13,6 +13,7 @@ categories: [NPCs, The Divers, NPCs located in the First Layer]
 | name | Dust |
 | aspect | Celtor |
 | location | Castle Light |
+| affiliation | The Divers |
 
 ## Description
 

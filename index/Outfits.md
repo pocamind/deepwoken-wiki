@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 167437
+revid: 168087
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -170,6 +170,9 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
 -   Most of Deepwoken's clothing is made by [Rengi](https://www.roblox.com/catalog?Category=3&CreatorName=Rengi).
 -   With Verse 2, a large number of Outfits were reworked to have an updated, more uniform art style, This caused some upset among the player base at the time. Another reason for the reworks was due to the Outfits' original creator being removed from the development team due to misconduct.[\[1\]](#cite-note-1)
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
+-   The Tempestmaker Threads, Sanguine Finery, Icebringer's Vestments, and Stormchanter's Raiment outfits all have the following in common:
+    -   The same description, albeit the first sentence is modified to match their Attunement.
+    -   A flower pattern that is present somewhere within the outfit.
 -   The durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   The Knives of Eylis and The Hive are the only two reputable factions to not have a Master tier outfit
 -   The Expert Veteran Adventurer outfit's design was based off of [Sol Badguy](https://guiltygear.fandom.com/wiki/Sol_Badguy), specifically his design from _Guilty Gear -Strive-_.

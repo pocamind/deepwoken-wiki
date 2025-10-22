@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 153844
+revid: 168038
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -13,6 +13,7 @@ categories: [Vesperian NPCs, Attunement Trainers, NPCs, The Hive, NPCs located i
 | name | Regek |
 | aspect | Vesperian |
 | location | Archives of the Greathive Aratel |
+| affiliation | The Hive |
 
 ## Description
 

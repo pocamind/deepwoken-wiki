@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 157274
+revid: 168017
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Hive]
@@ -13,6 +13,7 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern 
 | name | Laplace Diri |
 | aspect | Ganymede |
 | location | Greathive Aratel |
+| affiliation | The Hive |
 
 ## Description
 

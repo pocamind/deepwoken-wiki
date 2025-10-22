@@ -1,6 +1,6 @@
 ---
 title: Zirik
-revid: 151237
+revid: 168066
 source: https://deepwoken.fandom.com/wiki/Zirik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pages with broken file links, NPCs, Reputation, NPCs located in the Eastern Luminant, The Hive]
@@ -13,6 +13,7 @@ categories: [Ganymede NPCs, Pages with broken file links, NPCs, Reputation, NPCs
 | name | Zirik |
 | aspect | Ganymede |
 | location | The Lordsgrove |
+| affiliation | The Hive |
 
 “ \*_They seem to be sweating bullets as you approach._\* WOW! WHAT LOVELY PLANTS THESE ARE! ”
 

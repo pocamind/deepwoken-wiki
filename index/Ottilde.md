@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 166998
+revid: 168030
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -13,6 +13,7 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignit
 | name | Ottilde |
 | aspect | Chrysid |
 | location | Miner's Landing |
+| affiliation | The Ignition Union |
 
 ## Description
 

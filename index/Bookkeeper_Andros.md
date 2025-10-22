@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 166624
+revid: 167977
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | name | Andros |
 | aspect | Generic |
 | location | Etris |
+| affiliation | Etrea |
 
 ## Overview
 

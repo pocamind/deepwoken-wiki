@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 167403
+revid: 167997
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -15,6 +15,7 @@ notices:
 | name | Fabantou |
 | aspect | Felinor |
 | location | The Three Cheers |
+| affiliation | The Central Authority |
 
 ## Description
 

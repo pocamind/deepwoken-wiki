@@ -1,6 +1,6 @@
 ---
 title: Silhuett
-revid: 166783
+revid: 168047
 source: https://deepwoken.fandom.com/wiki/Silhuett
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the First Layer, Random Encounters, The Divers]
@@ -13,6 +13,7 @@ categories: [Capra NPCs, NPCs, NPCs located in the First Layer, Random Encounter
 | name | Silhuett |
 | aspect | Capra |
 | location | First Layer |
+| affiliation | The Divers |
 
 ## Description
 
