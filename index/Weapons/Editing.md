@@ -1,18 +1,15 @@
 ---
 title: Weapons/Editing
-revid: 161717
+revid: 168191
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Weapons/Editing
 
 _Go back to original page [here](../Weapons.md)_
 
-In order to edit the stats of a weapons, you'll need to make the edits on the template it is located in. Note that for all Hybrid and Legendary Weapons you'll need to edit both the template page and the location they're in.
+In order to edit the stats of a weapon, you'll need to make the edits on the template it is located in. Note that for all Hybrid and Legendary Weapons you'll need to edit both the Hybrid/Legendary template page and the location they're in in the template corresponding to its weapon type.
 
 ## Light Weapons
 

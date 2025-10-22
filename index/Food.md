@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 162915
+revid: 168178
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -156,6 +156,8 @@ OR
 (10) | N/A | ◯ | ◯ |
 |  | [Urchin Stew](Urchin_Stew.md) | 3 [Urchins](Urchin.md) | 20% | 25% | N/A | ◯ | ◯ | ✗ |
 
+  
+
 ## Notes
 
 -   Alternatively, you can regain your Food, Thirst and Blood bars by gaining a [Power](Power.md), obtaining your [Resonance](Resonance.md), or having the [Carnivore](Talents.md#apex-predator) [Talent](Talents.md).
@@ -171,7 +173,7 @@ Lifting The Meat Lord
     -   Ongo = Apple
     -   Calabash = Calabash
     -   Plumfruit = Plum
-    -   Pomar = Mango
+    -   Pomar = Mango/Pineapple
     -   Glumfig = Fig
 -   Pomar is the only fruit that will damage you.
     -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.

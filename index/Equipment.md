@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 168102
+revid: 168172
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1761,7 +1761,7 @@ Found from:
 Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
 Legs: [Bluestone Boots](Bluestone_Boots.md) |
 | File:Brigand's Cloak.png | [Brigand's Cloak](<Brigand's_Cloak.md>)  
-(_Set'_) | _+3 Health_  
+(**Set**) | _+3 Health_  
 _+4% Stealth_
 
 +2 Rare Pips  

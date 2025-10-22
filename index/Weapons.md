@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 168162
+revid: 168183
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -29,7 +29,8 @@ All weapons within the game have chances of being found with or without differen
 
 [Enchanted](Enchantments.md) weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
 
-### Total Amount of Weapons Available in the Game
+Total Amount of Weapons Available in the Game  
+All Weapons
 
 <table><caption><div>Weapons</div></caption>
 <tbody>
@@ -4324,9 +4325,7 @@ All weapons within the game have chances of being found with or without differen
 </tbody>
 </table>
 
-### All Weapons
-
-  
+Light Weapons
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -5337,7 +5336,7 @@ All weapons within the game have chances of being found with or without differen
 </tbody>
 </table>
 
-### Light Weapons
+Daggers
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -5698,7 +5697,7 @@ All weapons within the game have chances of being found with or without differen
 </tbody>
 </table>
 
-Daggers
+Cestus
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -6072,7 +6071,7 @@ Daggers
 </tbody>
 </table>
 
-Cestus
+Rapiers
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -6242,13 +6241,11 @@ Cestus
 </tbody>
 </table>
 
-Rapiers
+Pistols
 
 Template:AllFlintlockWeapons
 
-Pistols
-
-  
+Medium Weapons
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -7741,7 +7738,7 @@ Pistols
 </tbody>
 </table>
 
-Medium Weapons
+Swords
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -8454,7 +8451,7 @@ Medium Weapons
 </tbody>
 </table>
 
-Swords
+Clubs
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -8606,7 +8603,7 @@ Swords
 </tbody>
 </table>
 
-Clubs
+Spears
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -8935,7 +8932,7 @@ Clubs
 </tbody>
 </table>
 
-Spears
+Rifles
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -9068,7 +9065,7 @@ Spears
 </tbody>
 </table>
 
-Rifles
+Twinblades
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -9182,7 +9179,7 @@ Rifles
 </tbody>
 </table>
 
-Twinblades
+Bows
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -9258,9 +9255,7 @@ Twinblades
 </tbody>
 </table>
 
-Bows
-
-  
+Heavy Weapons
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -10367,7 +10362,7 @@ Bows
 </tbody>
 </table>
 
-Heavy Weapons
+[Greataxes](Greataxes.md)
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -10678,7 +10673,7 @@ Heavy Weapons
 </tbody>
 </table>
 
-[Greataxes](Greataxes.md)
+[Greatswords](Greatswords.md)
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11134,7 +11129,7 @@ Heavy Weapons
 </tbody>
 </table>
 
-[Greatswords](Greatswords.md)
+Greathammers
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11446,7 +11441,7 @@ Heavy Weapons
 </tbody>
 </table>
 
-Greathammers
+Greatcannons
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11522,9 +11517,9 @@ Greathammers
 </tbody>
 </table>
 
-Greatcannons
+Others
 
-### Others
+Hybrid
 
 | Name | Hybrid Type | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11566,7 +11561,7 @@ ICE: 3.5 | 5% | \- | 5 | 6 | 1.1x | \- | 31.4 |
 FIR: 3  
 ICE: 3 | \- | \- | 4 | 8 | 1x | \- | 29.8 |
 
-Hybrid
+Elemental
 
 <table><caption><a href="Attunements.md">Elemental Weapons</a></caption>
 <tbody>
@@ -12310,7 +12305,7 @@ Hybrid
 </tbody>
 </table>
 
-Elemental
+Soulwrought [Crazy Slots](Crazy_Slots.md)
 
 <table><caption><a href="Crazy_Slots.md">Crazy Slots</a></caption>
 <tbody>
@@ -12401,7 +12396,7 @@ Elemental
 </tbody>
 </table>
 
-#### Soulwrought [Crazy Slots](Crazy_Slots.md)
+Offhand
 
 <table><caption><a href="Shields.md"><div>Shields</div></a></caption>
 <tbody>
@@ -12598,7 +12593,7 @@ Elemental
 </tbody>
 </table>
 
-Offhand
+[Shields](Shields.md)
 
 <table><caption><a href="Shields.md"><div>Shields</div></a></caption>
 <tbody>
@@ -12668,7 +12663,7 @@ Offhand
 </tbody>
 </table>
 
-[Shields](Shields.md)
+Parrying Daggers
 
 <table><caption>Parrying Daggers</caption>
 <tbody>
@@ -12690,11 +12685,11 @@ Offhand
 </tbody>
 </table>
 
-Parrying Daggers
+Offhand Pistols
 
 Template:AllFlintlockWeapons
 
-Offhand Pistols
+Exclusive
 
 | Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -12721,8 +12716,6 @@ STR: 1 | 50% | \- | 10 | 15 | 0.92x | \- | 41.9 |
 | **[Ebonshard Lexicon](Ebonshard_Lexicon.md)** | 200 HVY  
 150 STR | 30 | HVY: 6  
 STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 |
-
-Exclusive
 
 ## Stances
 
@@ -12768,7 +12761,6 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Origin Weapon:** Weapons exclusive to a specific [Origin](Origins.md). These weapons often have unique obtainment methods.
 -   **Ability-bound Weapons:** Weapons exclusive to an [Oath](Oaths.md) or [Resonance](Resonance.md).
 -   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
-    
 
 ## Types of Weapons
 
@@ -17734,7 +17726,7 @@ Bows are one handed medium weapons that see the user fire arrows to attack. They
 
 Heavy Weapons are two-handed weapons, but they can be wielded with one hand if you have 40 stat points into heavy weapon. They are slow, but have superior range and pack quite a punch. They feature powerful critical attacks, that usually provide hyperarmor, instantly guard breaks if blocked and apply knockdown on the enemy.
 
-All Heavy Weapons uniquely possess the "return swing" function, which allows them to gain hyperarmor on a basic attack after a successful parry.
+All Heavy Weapons uniquely possess the "return swing" function, which allows them to gain [Hyperarmor](Status_Effects.md#hyperarmor) on a basic attack after a successful parry.
 
 **Greataxes:**
 
