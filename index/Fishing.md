@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 166871
+revid: 167941
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -87,12 +87,6 @@ This spot is seen on the coast of Boatman's Watch to the right of the shipyard l
 ### Mortus
 
 This spot is accessed by slipping through a crack past the left side of Mortus' shack.
-
-**Tomb of the Nameless Warrior:**
-
-### Tomb of the Nameless Warrior
-
-This spot can be seen once you enter the Strength uncap room. There are two spots on the left and right of the obelisk.
 
 **Starfield Grove:**
 
@@ -222,3 +216,4 @@ Lucky Spot
 -   During the Warring States Era fishing would give points to the aspect you had.
 -   Fishing up a golden swordfish allows you to use it as a weapon.
 -   Fishing without a lucky spot is not recommended. You cant fish lionfish and swordfishes are very rare (more than the weapon [Dormant Splinter](Dormant_Splinter.md)). Lucky spots cant gives you Seaweed/Leather boot if you have all the fishing talents.
+-   Lionfish caught in the New Kyrsa fishing spot will be capable of using their beam attack, as you're in the Depths.

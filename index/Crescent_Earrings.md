@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 158826
+revid: 167933
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -31,4 +31,4 @@ You can commonly find them from [Hell Mode](Hell_Mode.md), and [The Ferryman](Th
 
 ## Trivia
 
--   These earrings are frequently sought after due to being the only earrings that offer Health.
+-   These earrings are frequently sought after due to being one of two earrings that offer Health, the other being [Dark Pearls](Dark_Pearls.md).

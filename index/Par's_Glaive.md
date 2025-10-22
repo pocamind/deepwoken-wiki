@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 157238
+revid: 167946
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -34,7 +34,7 @@ notices:
 
 ## Description
 
-Par's Glaive is an abomination of a weapon used by the developer Par and Lead Moderator astrotrain
+Par's Glaive is an abomination of a weapon exclusively used by the developer Par and Lead Moderator astrotrain
 
 It posesses the properties of:
 
@@ -51,7 +51,3 @@ Upon getting hit, the enemy will get a purpleish pink halo on their head which w
 -   Bell (C) to Critical (R)
 -   M1 (Left Click) to M2 (Right Click)
 -   Roll (Q) stay unchanged
-
-## Trivia
-
--   Developer only weapon

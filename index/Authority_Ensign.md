@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 167883
+revid: 167955
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -230,7 +230,7 @@ The Inquisition Divison of the Central Authority acts in the shadows, using thei
 The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
 
 -   Obtainment
-    -   ???
+    -   Have a High ratio of successfully completed Missions to failed ones.
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -470,21 +470,21 @@ Shock Corps Division
 ### Pros
 
 -   Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
--   Have access to a party system via the use of Squads, allowing fellow ensigns to count as allies, and complete missions together.
--   Like guilds, have access to shout chat (by starting your messages with !) to talk to all fellow Ensigns server wide.
+-   Have access to a party system via the use of Squads, allowing you to complete missions together.
+-   Like guilds, you can use the shout feature (by starting your messages with !) to talk to all fellow Ensigns server wide.
 -   Your player grip is replaced with imprisoning them. This increases the time before someone can spin back after a fight.
 -   As the punishment for killing fellow Ensigns is quite major, most other Ensigns will never attack you.
 -   Origin-exclusive Talents, Mantras, Weapons, and Outfits.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
--   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory, though some of the later-game weapons are locked behind being a Corporal.
+-   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory, though some of the later-game weapons are locked behind being a Corporal or higher.
 -   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
--   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change based on your current rank and your standing with the Authority as a faction.
+-   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change based on your current rank and your [reputation](Reputation.md) with the Authority.
 -   Many Authority Ensign players have a high sense of comradery; if you're being ganked, especially if it's at or around Fort Merit, there's a high likelihood of at least one of your fellow Ensigns to come to your aid. Using the shout feature to call for help will increase the odds of you receiving assistance.
 
 ### Cons
 
 -   Because your guild is "replaced" by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), [Dwelling Charm](Dwelling_Charm.md), or [Guild Officer](Guild_Bases.md) tools. Being Exiled will remove this restriction.
-    -   If someone from your original guild places down the [Guild Base](Guild_Bases.md) or spawns their [Ship](Ships_&_Sailing.md), you can reset and choose those as your spawn point
+    -   If someone from your original guild places down the [Guild Base](Guild_Bases.md) or spawns their [Ship](Ships_&_Sailing.md), you can reset and choose those as your spawn point.
     -   You are still able to access access all the NPCs that are located in the guild base.
 -   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
@@ -493,11 +493,8 @@ Shock Corps Division
 -   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
--   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'. Being Exiled _might_ remove this restriction (needs testing).
-    -   This means you are unable to get [Blightsurger](Oath%253A_Blightsurger.md). It may be possible as a [Khan](Khan.md) with the 'Celebrity' [talent](Talents.md) (_also_ needs testing).
-        
-        Reputation cap as every other Aspect.
-        
+-   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
+    -   This means you are unable to get [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#public-figure) Talent.
 -   Because the Master Armors are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
 

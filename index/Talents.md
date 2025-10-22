@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 167800
+revid: 167929
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -823,6 +823,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.
     -   This charm lasts 10s (5s against Disbelief Talent).
     -   Targets _you've_ Charmed will deal 10% less damage to you.
+    -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have Chaotic Charm if you wish to get use out of Charismatic Cast during ganks and other team fights.
     -   Prerequisite: 25 Charisma
 
 -   Chaotic Charm \[Common Talent, Charisma\] - Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
@@ -847,7 +848,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
-    -   Procs through block parry and dodge.
+    -   Procs its charm through block, parry, and dodge.
+    -   This damage buff is only applied if **your** Charm is applied to the target. Due to how Charm works, it is highly recommended that you have a high Charm duration from Lasting Charisma if you wish for this Talent to function in large-scale ganks.
     -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.
     -   Prerequisites: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
@@ -4241,6 +4243,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
     -   This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
+-   Inky Pearls: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether.
+    -   Turns your Vent black and makes it steal 40 Ether on hit.
+    -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's Shadowcast flames and Sightless Still.
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
     -   Halves the maximum duration of Burn.
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed in increased.

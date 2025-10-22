@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 167727
+revid: 167942
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -209,6 +209,7 @@ Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](I
 -   Conductor: When 5 rods are applied, create a Conductor Rod. If your opponent casts a Mantra while having a Conductor Rod, they'll lose 5% of their armor and will have the elemental effect of the Mantra reversed back upon them, causing the Conductor Rod to fall off. If the Mantra is an Attunement-less, Oath, Ironsing, or Bloodrend Mantra, they will not be afflicted with any status effect, preventing the Rod from falling off; they will still take armor damage however. Pressing X will preform base Ironsing Pull, but Conductor Rods cannot be Pulled.
 -   Jailer: After applying 5 rods, Pulling your opponent will instead restrain them in place, and granting them 30% damage resistance. The Restrain effect will end early upon taking damage. Jailer's duration scales on the amount of rods applied.
 -   Impaler: After applying 5 rods, Pulling your opponent will instead deal damage. The damage dealt scales on the amount of rods applied.
+-   Augmenter: After applying 5 rods, Pulling your opponent will instead equip you with a Metal Greatsword for 10 seconds, overriding your previous weapon.
 
 ### Blood Poisoning
 
@@ -482,19 +483,21 @@ These status effects are applied as the effect of certain [Talents](Talents.md).
 
 ### Charm
 
-Deal 10% less damage to the player who charmed you. If the charmer has the Talent [Tough Love](Talents.md#charm-caster), take 10% more melee damage from the player who has charmed you. This is lowered to 5% for Mantras. Having the [Disbelief](Talents.md#mental-fortress) Talent halves the duration when applied to you. Applied by using the [Sing](Attunement-less.md#sing) Mantra, can be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm, causing you to take 10% less self-damage and get up from being knocked twice as fast. Signified by hearts around the character's head.
+Deal 10% less damage to the player who Charmed you, signified by hearts floating around the character's head. Charm duration is based on the source of the Charm, ranging from 2 seconds to 20 depending on what procced it. Having the [Disbelief](Talents.md#mental-fortress) Talent halves Charm's duration. Charm can gain many additional effects through a variety of Talents that augment your Charm status such as [Tough Love](Talents.md#charm-caster), [Cult of Personality](Talents.md#politician), [Target Focus](Talents.md#dread-imperium), and [Sharing is Caring](Talents.md#scarlet-donor).
+
+When applying Charm to an already Charmed target: if the current Charm's _remaining duration_ is less than the _total duration_ of the new Charm, then it will be replaced and the ownership of the Charm may change, if not, nothing will happen. Having a long Charm duration is important for your Talent effects to be prioritized over other people's, as many Charm-based Talents only function if you have ownership of the Charm. Charm is applied by using the [Sing](Attunement-less.md#sing) and [Dread Whisper](Attunement-less.md#dread-whisper) Mantras, proccing the [Tough Love](Talents.md#charm-caster), [Unnecessary Theatrics](Talents.md#showboater), and [Chaotic Charm](Talents.md#charm-caster) Talents, as well as the [Allure](Allure.md) Enchant, basic attacks while [Overcharm](#overcharm) is active, and [Fadetrimmer's](Oath%253A_Fadetrimmer.md#hair-sprays) Charming Spray. Charm can also be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm.
 
 #### Chaotic Charm
 
-Deal less damage to the player who Charmed you and deal 20% more damage to all other players. The effectiveness of this Talent scales on the user's Charisma investment, gaining 0.15% damage reduction per point in Charisma. This status effect is entirely separate from Charm itself and thus will be entirely unaffected by the Disbelief Talent. No visual effect. Procced when hitting a player who has [Chaotic Charm](Talents.md#charm-caster) while they are under 25% HP.
+Deal less damage to the player who Charmed you and deal 20% more damage to all other players. The effectiveness of this Talent scales on the user's Charisma investment, gaining 0.15% damage reduction per point in Charisma. This status effect is entirely separate from Charm itself and thus will be entirely unaffected by the [Disbelief](Talents.md#metal-fortress) Talent. No visual effect. Procced when hitting a player who has [Chaotic Charm](Talents.md#charm-caster) while they are under 25% HP.
 
 #### Overcharm
 
-Apply charm every basic attack and Mantra landed, even without having the Charismatic Cast or Tough Love Talents. Deal 10% more damage with basic attacks to enemies charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charmed), thereby reducing your self-damage by 10%.
+Apply Charm on every basic attack and Mantra landed and deal 10% more damage with basic attacks to enemies Charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#tyrant) Talent, using [Sing](Attunement-less.md#sing) with the [Propagandist](Talents.md#vocalist) Talent, and can also be applied to self with the [Narcissist](Talents.md#toxic-personality) Talent. All procs of Overcharm will also self proc [Charm](#charm), thereby reducing your self-damage by 10% and allowing you to get up twice as fast if you have [Charismatic Cast](Talents.md#charm-caster).
 
 #### Target Focus
 
-Applied from the [Target Focus](Talents.md#dread-imperium) Talent, your Charm increases the damage your [squadmates](Authority_Ensign.md#squads) deal to that charmed target. This effect has no visual indication.
+Applied from the [Target Focus](Talents.md#dread-imperium) Talent, your Charm increases the damage your [squadmates](Authority_Ensign.md#squads) deal to targets you Charm. This effect has no visual indication.
 
 ### Intangible
 

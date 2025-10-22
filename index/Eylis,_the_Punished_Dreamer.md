@@ -1,6 +1,6 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 167887
+revid: 167909
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Knives of Eylis]
@@ -105,7 +105,7 @@ Eylis is the leader of [The Knives of Eylis](The_Knives_of_Eylis.md). She stands
 -   Eylis Colors: #ffc592 Skin | #323232 Hair | #71dcdd Pupils | #7d5845 Scar Marking
 -   Eylis uses Lean Torso, meanwhile [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) doesn't. This likely means that, unlike Klaris[\[1\]](#cite-note-1), Eylis is not canonically muscular.
 -   Eylis refers to [Voidwalkers](Voidwalker.md) as 'Knives', hence why it's called "[The Knives of Eylis](The_Knives_of_Eylis.md)".
--   It is unknown what her epithet, "The Punished Dreamer" means, however it might have something to do with the [Voidmother](The_Voidmother.md).
+-   It is unknown what her epithet, "The Punished Dreamer", means. However it might have something to do with the [Voidmother](The_Voidmother.md).
 
 ## Navigation
 

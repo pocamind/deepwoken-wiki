@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 164695
+revid: 167931
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Watchers are environmental hazards that have a lamp-like head with a slender, appearance. Watchers cannot be damaged by any means, but will summon [Hollow Angels](Hollow_Angel.md) to attack the player. Watchers can be found in scattered across [The City of the Drowned](The_City_of_the_Drowned.md) while one only exists in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+Watchers are environmental hazards that have a lamp-like head with a slender, skeletal appearance. Watchers cannot be damaged by any means, but will summon [Hollow Angels](Hollow_Angel.md) to attack the player. Watchers can be found in scattered across [The City of the Drowned](The_City_of_the_Drowned.md) while one only exists in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 Their body is malnourished to an extent that their ribcage is visible, and their abdomen being nearly hollowed out. They have extremely long arms, with five fingers on each hand with long claws. Their legs are nearly the same length as their arms, having nearly the same characteristics. Their head appears as a flower, with the outer "petals" being a dark olive color, its outer layer being wrinkly and veiny. The inner "petals" are pink, and holds a large, glowing orb in the center that allows it to see.
 

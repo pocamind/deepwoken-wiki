@@ -1,11 +1,9 @@
 ---
 title: "The Chariot's Spire"
-revid: 167531
+revid: 167919
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Locations, Locations in the First Layer, Territory of The Ignition Union, Lawless Territory]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Locations, Locations in the First Layer, Territory of The Ignition Union, Lawless Territory]
 ---
 
 # The Chariot's Spire
@@ -49,3 +47,7 @@ _The Deepdriller, docked_
 Taking the bridge from the First floor leads to the Ignition's Deepdriller, their tool for punching into the [Eternal Gale](Second_Layer.md). Within the Drill's docking bay are two Ignition Union Guards, a NPC named [Renau](Renau.md) that mentions [Epsi](Epsi.md) in the depths, and another guard named Deran closer to the Deepdriller that declines your request to ride it. This is the room the player will spawn in to upon escaping the Eternal Gale via Deepdriller.
 
 [Ignition Delvers](Ignition_Delver.md) can take the Deepdriller down to the Eternal Gale once they've escaped it using the drill previously. Doing so will skip the generator and regular entrance and have you start Layer 2 at the [Frontier Furnace](The_Frontier_Furnace.md).
+
+## Trivia
+
+-   Despite what the game says, the Chariot's Spire is not a lawless territory. Attacking players or guards has consequences.

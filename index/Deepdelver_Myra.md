@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Myra
-revid: 158778
+revid: 167916
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -107,3 +107,4 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 ## Trivia
 
 -   Deepdelver Myra has a unique face and pose.
+-   Although somewhat hard to see due to her facial expression, Myra _does_ have pupils in her eyes.
