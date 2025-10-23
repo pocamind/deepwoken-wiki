@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 167595
+revid: 168255
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character, The Knives of Eylis]
@@ -68,8 +68,7 @@ Successfully completing a bounty grants EXP and a chest with loot. Rarity of the
 
 -   This Origin is very PvP centered. If you do not like this kind of content, this Origin will not appeal to you.
 -   To further push the above point, experience gained from non-bounty sources is reduced.
-
-## Reputation
+-   You have Enemy starting reputation with almost half of all factions in the game.
 
 Your starting faction [reputation](Reputation.md) is:
 

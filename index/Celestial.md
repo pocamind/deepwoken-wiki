@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 168224
+revid: 168258
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -43,4 +43,4 @@ Known Celestials include [Navae](The_Children_of_Navae.md) and Alsin, who have b
 -   Celestials are referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
 -   The crucified celestial may be a reference to Lilith from Evangelion; both are large crucified beings, their blood being collected and used.
 -   Additionally a "Celestial Race" was planned, however it never made it out of the testing phase of deepwoken.
--   The Kyrsans' siege of Constellia was NOT the cause of the Celestials' mass descent - the siege actually occurred long after the Celestials had vacated the city.
+-   The Kyrsans' siege of Constellia was not the cause of the Celestials' mass descent - the siege actually occurred long after the Celestials had vacated the city.
