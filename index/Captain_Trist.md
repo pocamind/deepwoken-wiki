@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 167393
+revid: 168195
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -35,7 +35,8 @@ Missions are timed objectives that vary in difficulty depending on the objective
     -   Objective: Track down and hunt a player who is attempting to escape the [Fort Merit](Fort_Merit.md) prison.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage.. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage by pressing V and run far enough away from where the hostage was being kept to complete this Mission.
-4.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\].. Distribute this information to your Squad._
+4.  **Smuggler Investigation** - Head to Summer Isle. Needs further description.
+5.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\].. Distribute this information to your Squad._
     -   Objective: The player and their squad are tasked with defending two Authority-branded banners from 3 waves of enemies.
 
 ## Dialogue

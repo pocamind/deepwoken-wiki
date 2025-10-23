@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 161622
+revid: 168197
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -39,6 +39,10 @@ The Hivelord's Hubris is a Greathammer [Heavy Weapon](Weapons.md) which is the b
 It drops from all [Golem Constructs](Hive_Construct.md).
 
 At 100 HVY it deals **49** damage and **57.2** with 6 proficiency.
+
+## Critical
+
+Hivelord's Hubris uses the default Greathammer critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
 
 ## Trivia
 

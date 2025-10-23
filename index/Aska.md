@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 166008
+revid: 168198
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A [Flamecharm](Flamecharm.md)\-wielding miniboss found in [Firfire](Firfire.md), located in a cave behind three orange [Resonance](Resonance.md) doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with him.
+A [Flamecharm](Flamecharm.md)\-wielding "[miniboss](Bosses.md#mini-bosses)" found in [Firfire](Firfire.md), located in a cave behind three orange [Resonance](Resonance.md) doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with him.
 
 Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will burn to death and wipe.
 

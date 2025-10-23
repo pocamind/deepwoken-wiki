@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 166650
+revid: 168210
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]
@@ -16,7 +16,7 @@ An Eastern Nomad Leader is an enemy NPC which can be found at the Children of Na
 
 -   Ministry Scouts vs Eastern Nomad Leader and Eastern Tribe Nomad
 
-They wear a Rebel's Bandana, Novice Brace, [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their aspect being [Gremor](Gremor.md) and can either appear younger or above 40 years old along with their gender varying
+They wear a [Rebel's Bandana](<Rebel's_Bandana.md>), [Novice Brace](Novice_Brace.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their aspect being [Gremor](Gremor.md) and can either appear younger or above 40 years old along with their gender varying
 
 ## Moveset
 
@@ -98,4 +98,4 @@ An Eastern Nomad Leader executes it's opponent after knocking them:
 
 ## Trivia
 
--   You can hand them a [Navaen Hostage](Navaen_Hostage.md) to obtain the [Way of Navae](Fists.md) fighting stance.
+-   You can hand them a [Navaen Hostage](Navaen_Hostage.md) to obtain the [Way of Navae](Fists.md) fighting style.

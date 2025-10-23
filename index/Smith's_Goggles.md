@@ -1,6 +1,6 @@
 ---
 title: "Smith's Goggles"
-revid: 162245
+revid: 168202
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Goggles]
@@ -26,9 +26,13 @@ categories: [Equipment, Face, Goggles]
 | obtainment | Deep Crucible, First Layer, Maestro Evengarde Rest, The Doom of Caeranthil |
 | description | ... |
 
+Smith
+
+Variants: [Smith's Bandana](<Smith's_Bandana.md>)
+
 ## Description
 
-Smith's Goggles are an [Equipment](Equipment.md) item under the "Face” category. They can be obtained in [Erisia](Erisia.md) Chests.
+Smith's Goggles are an [Equipment](Equipment.md) item under the "Face” category, and is a part of the Smith Set. When worn, this grants +1 Common Pip.
 
 ## Trivia
 

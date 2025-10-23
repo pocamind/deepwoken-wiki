@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 168011
+revid: 168216
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -28,10 +28,23 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 <table><caption><a href="Etris.md">Etris</a>, Neutral Reputation with <a href="Etrea.md">Etrea</a></caption>
 <tbody>
 <tr>
-  <th colspan="4">I've got an eye on you, so don't go causing any trouble around here...</th>
+  <th>I've got an eye on you, so don't go causing any trouble around here...</th>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+  
+
+<table><caption><a href="Etris.md">Etris</a>, Negative Reputation with <a href="Etrea.md">Etrea</a></caption>
+<tbody>
+<tr>
+  <th>*The strangely dressed Etrean guard spits in your general direction.*</th>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 168169
+revid: 168218
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -485,7 +485,7 @@ These status effects are applied as the effect of certain [Talents](Talents.md).
 
 Deal 10% less damage to the player who Charmed you, signified by hearts floating around the character's head. Charm duration is based on the source of the Charm, ranging from 2 seconds to 20 depending on what procced it. Having the [Disbelief](Talents.md#mental-fortress) Talent halves Charm's duration. Charm can gain many additional effects through a variety of Talents that augment your Charm status such as [Tough Love](Talents.md#charm-caster), [Cult of Personality](Talents.md#politician), [Target Focus](Talents.md#dread-imperium), and [Sharing is Caring](Talents.md#scarlet-donor).
 
-When applying Charm to an already Charmed target: if the current Charm's _remaining duration_ is less than the _total duration_ of the new Charm, then it will be replaced and the ownership of the Charm may change, if not, nothing will happen. Having a long Charm duration is important for your Talent effects to be prioritized over other people's, as many Charm-based Talents only function if you have ownership of the Charm. Charm is applied by using the [Sing](Attunement-less.md#sing) and [Dread Whisper](Attunement-less.md#dread-whisper) Mantras, proccing the [Tough Love](Talents.md#charm-caster), [Unnecessary Theatrics](Talents.md#showboater), and [Chaotic Charm](Talents.md#charm-caster) Talents, as well as the [Allure](Allure.md) Enchant, basic attacks while [Overcharm](#overcharm) is active, and [Fadetrimmer's](Oath%253A_Fadetrimmer.md#hair-sprays) Charming Spray. Charm can also be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm.
+When applying Charm to an already Charmed target: if the current Charm's _remaining duration_ is less than the _total duration_ of the new Charm, then it will be replaced and the ownership of the Charm may change, if not, nothing will happen. Having a long Charm duration is important for your Talent effects to be prioritized over other people's, as many Charm-based Talents only function if you have ownership of the Charm. Charm is applied by using the [Sing](Attunement-less.md#sing) and [Dread Whisper](Attunement-less.md#dread-whisper) Mantras, [Kyrsieger](Kyrsieger.md)'s critical attack, the [Tough Love](Talents.md#charm-caster), [Unnecessary Theatrics](Talents.md#showboater), and [Chaotic Charm](Talents.md#charm-caster) Talents, the [Allure](Allure.md) Enchant, basic attacks while [Overcharm](#overcharm) is active, and [Fadetrimmer's](Oath%253A_Fadetrimmer.md#hair-sprays) Charming Spray. Charm can also be applied to yourself with the [Narcissist](Talents.md#toxic-personality) Talent and others that grant Overcharm.
 
 #### Chaotic Charm
 

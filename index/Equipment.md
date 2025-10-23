@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 168172
+revid: 168200
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -4822,6 +4822,15 @@ Found from:
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
 Face: [Smith's Goggles](<Smith's_Goggles.md>) |
+|  | [Snakebite Studs](Snakebite_Studs.md) | _+1 Health_ | 
+
+Found from:
+
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) normal shop for 35
+-   [First Layer](First_Layer.md)
+-   [Valley of Heroes](The_Valley_of_Heroes.md)
+
+ | N/A |
 | File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
 (**Series**) | +2 Rare Pips
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 167929
+revid: 168221
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2243,7 +2243,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
     -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
         -   Tough Love: 2s -> 1s
-        -   Overcharm's Basic Attacks: 5s -> 2.5s
+        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
         -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
         -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
@@ -3438,7 +3438,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### The Knives of Eylis
 
 -   _Grasp of Eylis_ \[Origin Exclusive\] - You can temporarily teleport to locations near your bounty target, if one can be found. However, you must stay close, or be desynchronized.
-    -   Grants a Talent tool that can only be used in The Voideye.
+    -   Grants a Talent tool that can only be used in the [Voidheart](Voidheart.md).
     -   After picking up a [bounty](Bounty_Hunting.md), you can use this tool to select your bounty hunt method; stealth or ferocity.
         -   Stealth: Teleport near, but far away from your target. The bounty indication will be hidden.
         -   Ferocity: Teleport close to your target, highlighting them through walls briefly. Your character will be enveloped in shadows, signifying that you have a bounty.
@@ -3447,7 +3447,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
 
 -   _Voideye_ \[Origin Exclusive\] - Voidmother's blessing, the method to travel back to the Voidheart.
-    -   Grants a Talent tool that teleports you back to The Voideye on use.
+    -   Grants a Talent tool that teleports you back to the [Voidheart](Voidheart.md) on use.
     -   Has a short animation that can be interrupted.
     -   5 minute cooldown.
     -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
