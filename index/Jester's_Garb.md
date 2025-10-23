@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 162613
+revid: 168237
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -52,15 +52,14 @@ List of buffs being:
 -   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx. \[Don't worry - It's on the house!\]
 -   30% Posture restoration. Indicated by a metal clanging sound effect. \[Quick, they're weak!\]
 -   A free reroll, granting you an additional buff or affliction. \[Bravo, bravo!\]
--   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx. \[Hah! How embarrassing!\]
+-   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx.
 -   A percentage of the damage you've taken recently will be turned into healing. \[Wanted to give ya a quick breather!\]
 -   Vent cooldown reset, allowing you to Vent again.
 
 List of afflictions being:
 
--   Suffocation applied to self for a few seconds. \[Down on your luck, huh.\]
-    -   If you have Haunted Path: Specter it will instead spawn an apparition and apply winded.
--   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s. Indicated by black cross marks coming off your body. \[Zip it, focus on the fight!\]
+-   Suffocation applied to self for a few seconds. \[Zip it, focus on the fight!\]
+-   Longer spit cooldown with no other effect. Increases your spit cooldown to ~20s. Indicated by black cross marks coming off your body. \[Down on your luck, huh.\]
 -   Lowers your Swingspeed. Indicated by black cross marks coming off of your body. \[Hah! How embarrassing!\]
 
 ## Trivia

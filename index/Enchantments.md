@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 168175
+revid: 168243
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -77,7 +77,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <ul>
     <li>Direct drop from <a href="Star_Knight.md">Star</a> and <a href="Moon_Knight.md">Moon Knights</a>.</li>
     <li><a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest.</li>
-    <li>Sold by <a href="Traan_Zakshun.md">Traan Zakshun</a> for 20 or obtained through trading with the <a href="Weird_Trader.md">Weird Trader</a>.</li>
+    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 20 or obtained through trading with the <a href="Weird_Trader.md">Weird Trader</a>.</li>
   </ul></div><p></p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
@@ -125,7 +125,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p>Bluster is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Bluster Enchant Stone can be obtained from:<div>
   <ul>
     <li>Chest drop from <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.</li>
-    <li>Sold by <a href="Traan_Zakshun.md">Traan Zakshun</a> for 5 .<p></p></li>
+    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 5 .<p></p></li>
   </ul></div></div></td>
   <td><div>Weapon is a light-grey color with smoke effects emanating from it.</div></td>
 </tr>
@@ -602,7 +602,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
     <li><a href="Second_Layer.md">Second Layer</a></li>
     <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
     <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
+    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:</li>
+    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 5 .<p></p></li>
   </ul></div></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
@@ -751,7 +752,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
     <li><a href="Second_Layer.md">Second Layer</a></li>
     <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
     <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
+    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:</li>
+    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 5 .<p></p></li>
   </ul></div></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
