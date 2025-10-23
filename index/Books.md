@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 167126
+revid: 168252
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -2152,7 +2152,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 > -   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, The Interrogation Of Ranger Santiago Talo, Operation 'Distant Light' Report, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
 > -   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
-> -   Stars Above, and the Blade between was written by former developer iltria.
+> -   God in the Machine, Lament of Cirryn and Stars Above, and the Blade between were written by former developer iltria.
 > -   Ossuary Maintenance and Strange Missives was written by contributor Hautdesert.
 > -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, which was formerly known as Vows by the Sea.
 > -   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
@@ -2163,7 +2163,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 >     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashet fights a [Crustaceous Rex](Crustaceous_Rex.md).
 >     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
 >     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
->     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[2\]](#cite-note-2)
+>     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period, hence why he is reference as both old and being sighted in the Eastern Luminant.[\[2\]](#cite-note-2)
 > -   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
 >     -   In both stories, they are [Vesperians](Vesperian.md).
 >     -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.

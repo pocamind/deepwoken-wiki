@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 167977
+revid: 168253
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -99,7 +99,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
   <td>The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>
 </tr>
 <tr>
-  <td>End<p>}}</p></td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

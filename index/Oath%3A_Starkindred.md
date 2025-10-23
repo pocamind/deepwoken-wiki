@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 167139
+revid: 168245
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,7 +67,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
     -   Using any of your Starkindred Mantras or Death from Above will grow two pairs of wings on the user for 60 seconds.
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
-    -   If undyed, comes in the color of your aspect's hair color.
+    -   If undyed, comes in the color of your hair color.
     -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a [Reversal Spark](Mantra_Modifiers.md#sparks) to **Fire Blade**.
     -   Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian.
 

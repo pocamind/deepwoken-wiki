@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 167497
+revid: 168250
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -278,8 +278,8 @@ _"I don't know if I will be able to continue my services with in the Authority w
     -   While he is the user of the Warmaster Oath, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time. Meaning that if something of importance happens, he may leave the Authority or leave the Oath, but we have little information about this.
 -   One of the few people that knows the true intentions and identity of the Lord Regent while not being aligned with the Ministry.
 -   Very probably is under the direct command of Drallis Ehr.
--   Presumably an Adret or Canor.
--   He once had a base in the Tomb of the Nameless Warrior. His current location is unknown, as he is not present in [Fort](Fort_Merit.md) [Merit](Fort_Merit.md) or anywhere else in the Eastern Luminant, yet is directing the war as he gave [Sibex](Sibex.md) orders recently.
+-   He is an Adret.
+-   He once had a base in the Tomb of the Nameless Warrior, as that is where you find his journal.
 -   "Can solo every Centurion of the 11th legion" according to Arch\_Mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
 -   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Oath%253A_Contractor.md).
 -   Writer of Journals, one of his journals can be found in the [Tomb](Tomb_of_the_Nameless_Warrior.md) [of](Tomb_of_the_Nameless_Warrior.md) [the](Tomb_of_the_Nameless_Warrior.md) [Nameless](Tomb_of_the_Nameless_Warrior.md) [Warrior](Tomb_of_the_Nameless_Warrior.md) in [Erisia](Erisia.md), also possibly leading that [Jericho](Warden_Jericho.md) was in [Erisia](Erisia.md) not so long ago
@@ -1014,8 +1014,7 @@ An Authority Captain
     -   **Sophodon Surad** (Retired after 43 years as a Black Diver. Turned down a promotion to the High Convocation of the Citadel of Markor.)
     -   Galahad Galvigi (Deceased)
     -   Kayla Rico (Deceased)
--   Black Divers are allowed more freedom than their lower-ranked peers. This can be both a blessing and a curse for the organization, as Divers like Carrion can act without restriction, but it also leads to them prioritizing their own goals over those of the Divers.
--   Similar to [The Ignition Union](The_Ignition_Union.md) the divers employ minors in their depths based ranks as all [Deepbound](Deepbound.md) players start at 17
+-   Black Divers are allowed more freedom than their lower-ranked peers. This can be both a blessing and a curse for the organization, as Divers like Carrion can act without restriction, but it also leads to them prioritizing their own goals over those of the collective.
 
 ## Groups
 
