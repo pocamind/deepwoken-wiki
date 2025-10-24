@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 168377
+revid: 168396
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2063,16 +2063,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Lava Serpent
 
 -   Eruption Path: Lava Serpent \[Common Talent, Flamecharm Exclusive\] - Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet.
-    -   Instead of setting your target on fire, create an eruption on hit. Eruption damage scales with your Flamecharm investment (3s CD)
-    -   Despite what the talent description says, you can still proc burn with Eruption Path.
-        -   Burn can still be applied via: Agitating Spark, Flame Within (Self), Flash Point, Immolation, and hitting flammable terrain with Flamecharm Mantras.
+    -   Instead of setting your target on fire, create an eruption on hit with a 3 second cooldown. Eruption damage scales with your Flamecharm investment.
+    -   Despite what the Talent description says, you can still apply burn with Eruption Path.
+        -   Burn can still be applied via: Agitating Spark, Flame Within (Self), Flash Point, Immolation, and hitting flammable terrain with Flamecharm or Thundercall Mantras.
         -   Because of there being so few sources of burn application with Eruption path, using Talents that require burn, especially Emperor Flame, with this path is not recommended. Those Talents all still function normally though of course.
-        -   Eruptions have 15 base DMG and 5 Scaling. Formula to calculate scaled DMG: "15 \* (1 + (5/10) \* (Flamecharm invest/ 100))"
+        -   Eruptions have 15 base damage with 5 Flamecharm Scaling. Formula to calculate damage here: "15 \* (1 + (5/10) \* (Flamecharm invest/100))"
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: Flashboil, The Final Act, Wraith Path: Twisted Puppets
 
 -   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is Empowered with +50% range and damage. 10s cooldown.
     -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
+
 -   Flash Point \[Common Talent, Flamecharm & Eruption Exclusive\] - Block breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block breaking an opponent with a Fire Mantra procs Burning.
     -   Prerequisites: Eruption Path: Lava Serpent, 55 Flamecharm
 

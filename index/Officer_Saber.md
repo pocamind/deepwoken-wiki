@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 168136
+revid: 168410
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, Weapons with Consecutive Criticals, Medium Weapons]
@@ -42,7 +42,7 @@ The user performs a flurry of slashes, hitting up to 4 times. The first hit will
 
 The critical has a cooldown of **5** seconds.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+You cannot rotate your character during this critical. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

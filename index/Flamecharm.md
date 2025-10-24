@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 168379
+revid: 168395
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1331,13 +1331,21 @@ Steam clouds deal 2 damage per tick, in an AoE, at a rate similar to burn's, and
 
 ## Trivia
 
+-   All Burn types deal Flamecharm damage.
+    -   Base burn has a base damage of 3.33 per tick with 5 Flamecharm scaling, ticking 2.4 times per second. This gives base burn a DPS of 8 at 0 Flamecharm and a DPS of 12 at 100 Flamecharm.
+    -   Azure Flames burn deals 12.5% more damage than base burn with the same tick rate and scaling. This means Azure Flames burn has a DPS of 9 at 0 Flamecharm and 13.5 at 100 Flamecharm.
+    -   **White Flames** from [Corrupt Shard Bow](Shard_Bow.md) or [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) has differing stats from base burn, with 3.21 base damage per tick and 5 Flamecharm scaling, at a rate of 3 ticks per second. This gives **White Flames** a DPS of 9.6 at 0 Flamecharm and a DPS of 14.4 at 100 Flamecharm.
+        -   **White Flames** + Azure Flames has a DPS of 10.8 at 0 Flamecharm and 16.25 at 100 Flamecharm.
+    -   Puppet Burn from Twisted Puppets deals 87.5% less damage than base burn with the same tick rate and scaling. This gives Puppet Burn a DPS of 1 at 0 Flamecharm and 1.5 at 100 Flamecharm. Additionally, this burn type drains 6.25 Ether per tick (15 Ether per second) from affected targets and spawns Puppets every 4 seconds.
+    -   Shadow Burn from Twisted Puppets deals 75% less damage than base burn with the same tick rate and scaling. This gives Shadow Burn a DPS of 2 at 0 Flamecharm and 3 at 100 Flamecharm. Additionally, this burn type drains 6.25 Ether per tick (15 Ether per second) from affected targets.
+-   Burn didn't always scale on your Flamecharm investment, nor was it always affected by Flamecharm resistance. This was added in the October 31st, 2024 update.
+-   Burn benefits from **general** PEN, such as PEN from [Strength](Attributes.md#str) or [Thresher Claws](Talents.md#marauder).
 -   **Searing Snare** has the same sound effects as [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion move.
--   As of the 31/10/2024 update, Burn damage now scales on your Flamecharm investment. Additionally, Burn damage was changed to be resisted by Fire Armor in the same update.
 -   All Flamecharm Mantras and Twisted Puppets' Puppets deal reduced damage (??%) in the rain, unless the user has the _Unyielding Inferno_ Talent.
 -   Eruption delay can be reduced with the [Deepfire Ring](Deepfire_Ring.md) and the Azure Flames Talent.
     -   Eruption AoE can be increased with the Empowered Eruption buff from Empowered Eruption and Flash Point Talents as well as Azure Flames.
--   The [Deepfire Ring](Deepfire_Ring.md) Equipment increases burn tick rate, but it also decreases burn's maximum duration to even it out. This is seen as a direct upgrade from base burn due to the higher DPS when your opponent would not be burning for the full duration anyways. This ring also decreases Eruption delay.
--   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
+-   The [Deepfire Ring](Deepfire_Ring.md) Equipment increases burn tick rate, but it also decreases burn's maximum duration to even it out. This is seen as a direct upgrade from base burn due to the higher DPS, as your opponent is likely to roll off burn anyways. This ring also reduces Eruption delay.
+-   Some Mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
     -   The **Flame of Denial** Mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.wiki.fextralife.com/Power+Within) from _Dark Souls_, boosting overall damage while draining health.
     -   Although the **Fire Palm** Mantra looks similar to the "Ignis" spell from the Roblox game _Rogue Lineage_, the Mantra is actually inspired from the "Combustion" skill in _Dark Souls_ and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
@@ -1352,10 +1360,9 @@ Steam clouds deal 2 damage per tick, in an AoE, at a rate similar to burn's, and
     -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
 -   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as Undying Flames causes the user's flames work in [The Depths](The_Depths.md) and the **Flame of Denial** Mantra can restore some sanity upon use, while also allowing you to not die.
     -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
--   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
+-   The Flamecharm Attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
 -   The **Graceful Flame** Mantra allows anyone to cook food, regardless of its Level.
 -   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
--   Flamecharm's **Burn** damage scales with Flamecharm invest and can be increased further with the Azure Flames Talent. Which can lead to some icky burn damage if you are going for that.
 -   Previously, and for a long time, Flamecharm was once the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md). This changed in the **April 4, 2024 update**, which introduces the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>).
 -   If the character has the Azure Flames Talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames. It can also work with Twisted Puppets, having the critical turn black and spawn in Puppets.
 -   You cannot have both Azure Flames and Twisted Puppets at the same time.

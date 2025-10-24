@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 168375
+revid: 168397
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -44,18 +44,18 @@ While affected by knockdowns, you cannot move or cast any abilities. Knockdowns 
 
 ### Burn
 
-This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Deals 3.33 damage with 5 Flamecharm scaling per tick, ticking 2.4 times a second. Burning opponents have their passive health regeneration disabled. If an unconscious body is set on fire, they will automatically be gripped after 7 seconds if not picked up (3.5 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn benefits from **general** PEN sources, such as [Strength](Attributes.md#str) or [Threser Claws](Talents.md#marauder).
+This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Deals 3.33 damage with 5 Flamecharm scaling per tick, ticking 2.4 times a second. Burning opponents have their **base** passive health regeneration disabled. If an unconscious body is set on fire, they will automatically be gripped after 7 seconds if not picked up (3.5 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn benefits from **general** PEN sources, such as [Strength](Attributes.md#str) or [Threser Claws](Talents.md#marauder).
 
 Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Burn damage scales on the user's Flamecharm investment. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
 
 It has a few sub-variants:
 
--   Azure Burning: Increases burn damage by 12.5%. This burn type comes from [Azure Flames](Talents.md#flamecharmer).
+-   Azure Burning: Deals 12.5% more damage per tick than base burn. This burn type comes from [Azure Flames](Talents.md#flamecharmer).
 -   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets) and drain a flat 6.25 Ether per tick.
     -   Puppet Burn: Derived from any non-Shadowcast burn applicator, this burn type deals 87.5% less damage than base burn. Uniquely, this burn type will spawn Puppets with a 4 second cooldown.
     -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn but has no other unique properities.
 -   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
--   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. On the right build, White Flames can have a higher DPS than base burn, as it benefits from all of your Flamecharm Talents and the [Deepfire Ring](Deepfire_Ring.md).
+-   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents and the [Deepfire Ring](Deepfire_Ring.md).
 -   [Flamewreathed](Monsters.md#attuned-monsters): [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
 -   Self Immolation: [Flame Within](Talents.md#amoran-seeker) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
 
@@ -614,6 +614,10 @@ These status effects are applied as the effect of certain [Talents](Talents.md) 
 ### Warding Radiance
 
 Slide further, applied with the [Warding Radiance](Talents.md#flame-warden) Talent. Allows you to proc [Hell's Partisan](Talents.md#flame-warden) on all Flamecharm Mantras. Signified by an orange halo above your character's head. This effect can be upgraded with the Flamewalker Talent, creating stationary flames on the path you slide. These flames apply burn on contact.
+
+### Empowered Eruption
+
+Your next Eruption will deal 50% more damage and have a 50% larger AoE. This status effect is applied by the [Flash Point](Talents.md#lava-serpent) and [Empowered Eruption](Talents.md#lava-serpent) Talents. The Empowered Eruption status effect lasts 10 seconds or until you proc an Eruption. This status effect has no visual indication.
 
 ### Haunted
 

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 165733
+revid: 168399
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -399,7 +399,7 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 </tr>
 <tr>
   <td><b>Vow of Thorns</b></td>
-  <td>Enhance your progression and chances for rarer mob loot. However, you are faced with harder <a href="Cathedral_of_the_Interstice.md">trials</a> and every death will send you to the <a href="First_Layer.md">depths</a>.</td>
+  <td>Boost the rate of your progression. However, you are faced with harder <a href="Cathedral_of_the_Interstice.md">trials</a> and every death will send you to the <a href="First_Layer.md">depths</a>.</td>
   <td><b>+5%</b></td>
 </tr>
 <tr>
@@ -458,6 +458,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md#attribute-training-gears) training gear
     -   [Starvation](Status_Effects.md#parchedstarved)
+-   Loose Change does not make you lose Notes when you take damage from any source like the description implies, instead only attacks from humanoids reduce your Notes, though it can be inconsistent at times.
 -   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[2\]](#cite-note-2) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), and [Parliament](Parliament.md) do not reward Echoes.

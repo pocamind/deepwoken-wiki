@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 167852
+revid: 168415
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapo
 
 ## Description
 
-The Forge Greathammer is a Midgame Greathammer that can be found in chests by turning in explosive crates at Summer Isle/Summer Isle Chests, chests from [The Depths,](The_Depths.md) and from Chime. This Greathammer has a base damage of 24 and a Strength requirement of 10, as well as a Heavy Weapon requirement of 55 to equip.
+The Forge Greathammer is a midgame Greathammer [Weapon](Weapons.md) that can be Alloyed to make it a viable lategame option. When alloyed, the Forge Greathammer takes on an orange hue.
 
 ## Critical
 
@@ -37,11 +37,10 @@ The user reels the greathammer back before performing a sideways swing that knoc
 
 The critical has a cooldown of **6 seconds**.
 
+You cannot rotate your character during this critical.
+
 ## Trivia
 
--   Meeting the requirement of HVY, the damage is (31.9)
--   At max HVY, the damage is (38.4)
--   Meeting the requirement of the alloyed version, the damage is (37)
--   At max HVY, the damage of the alloy is (40.8)
+-   Meeting the requirement of HVY, the damage is 31.9/37
+-   At max HVY, the damage is 38.4/40.8
 -   When this weapon is alloyed, it does not suffer from endlag.
--   You can no longer rotate your char during the last phase of the Forge Greathammer crit.

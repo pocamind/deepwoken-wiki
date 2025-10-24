@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 158025
+revid: 168418
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects, Character]
@@ -27,9 +27,8 @@ Tiran is a rare [aspect](Aspects.md) that has a bird motif. They have special ci
   <td><figure>File:Feather glider.png<figcaption></figcaption></figure></td>
   <td><b>Feathered Glider</b>
   <ul>
-    <li><i>"As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountains peaks where they make their homes.</i>
+    <li><i>"As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountains peaks where they make their homes. You take 10% less fall damage."</i>
   <ul>
-    <li>You take 15% less fall damage.</li>
     <li>Spawn with a Feathered Glider with infinite uses. The descent rate of it is also slightly lower, making you travel slightly further than with a regular glider.</li>
   </ul></li>
   </ul></td>
@@ -47,21 +46,18 @@ Tiran is a rare [aspect](Aspects.md) that has a bird motif. They have special ci
 
 **Lore:**
 
-  
 When they reach adulthood, a Tiran will forge their own glider and fly off of the mountains they call home.
 
 **Strengths:**
 
--   +3 Agility.
--   +2 Willpower.
+-   Assuming you don't have [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers):
+    -   +3 Agility.
+    -   +2 Willpower.
 -   Reduced fall damage.
-    -   Reduces impact of [High Velocity](Echoes.md#modifiers).
--   Starts with a glider.
-    -   ~Similar to a normal Glider, it will be unusable in acid rain.~ Acid rain removes glider due to damage, survivalist boon prevents this thus allowing one to glide during acid rain.
-    -   No need to grab the glider parts.
-    -   No need to re-make gliders once they break, as the feathered glider is unbreakable.
-        -   Can be seen as redundant with the introduction of Starting Glider from [Echoes](Echoes.md)
-            
+    -   Reduces impact of [High Velocity](Echoes.md#upgrades-unlocks-and-modifiers).
+-   Starts with a glider that has infinite uses.
+    -   Spawning with a glider may seem redundant if you have the [Starting Glider](Echoes.md#upgrades-unlocks-and-modifiers) Echo Unlock.
+        
 
 **Surnames:**
 
