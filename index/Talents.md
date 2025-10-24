@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 168221
+revid: 168377
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1372,8 +1372,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Obtained at 50 Flamecharm
 
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity.
-    -   Azure Flames burn deals 9 damage per seconds.
-    -   The results from dummy testing show that the damage increase is ~10% (With no deepfire ring, at 75 flamecharm the normal burn damage lies in the range 4.41 ~ 4.59, with azure it's 4.98 ~ 5.17)
+    -   Increases burn damage by 12.5%.
     -   If you have the lava serpent path, the explosion will have less delay before proccing, more posture damage, and a bigger radius with this Talent.
     -   Prerequisites: 70 Flamecharm, 40 Willpower
 
@@ -1781,7 +1780,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Inferno
 
 -   Corpse Explosion \[Common Talent\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
-    -   Burn grip unconscious targets, even yourself, in 4 seconds (same time as a manual grip) instead of 8.
+    -   Burn grip unconscious targets, even yourself, in 3.5 seconds instead of 7.
+        -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
     -   The explosion does not work; you'll burn them to death without an explosion.
     -   Prerequisites: 60 Flamecharm, Agitating Spark
 
@@ -3641,14 +3641,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
     -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all Flamecharm mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
-    -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment and _drain_ ether from affected players.
-        -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does less damage than base Flamecharm burn, but more than Puppet Burn.
-        -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does less damage than Shadow Burn and significantly less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
+    -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment, deal Flamecharm damage, and _drain_ 6.25 Ether per tick from affected players.
+        -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does 75% less damage than base Flamecharm burn.
+        -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does 87.5% less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
     -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and Everchanging Aegis. They do **NOT** do True Damage however, as general resistances still work on them.
     -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
-    -   Puppets deal 11 posture damage.
+    -   Puppets deal 10 posture damage.
     -   Puppets spawn whenever Puppet Burn deals damage with a 4 second cooldown.
-    -   Makes your burn damage deal about 75% less than with normal burn.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames, Flashboil
 

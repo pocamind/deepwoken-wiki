@@ -1,6 +1,6 @@
 ---
 title: Fish Stew
-revid: 161611
+revid: 168358
 source: https://deepwoken.fandom.com/wiki/Fish_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -24,7 +24,7 @@ categories: [Items, Food]
 
 ## Description
 
-**Fish Stew** is a craftable [Food](Food.md) item. It is also purchased from [Mess Chef](Guild_Bases.md) for 20.
+**Fish Stew** is a craftable [Food](Food.md) item. It is also purchased from a [Mess Chef](Mess_Chef.md) for 20 and Mikhail for 15 during [Hallowtide](Hallowtide.md).
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

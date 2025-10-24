@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 165927
+revid: 168369
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Food Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, Vendors, Food Vendors, Quests, Etrea, NPCs locat
 | name | Lance's Brother |
 | aspect | Etrean |
 | location | Isle of Vigils |
+| affiliation | Etrea |
 
 ## Description
 
@@ -36,123 +37,112 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 
 ## Dialogue
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">"Welcome to Lance's Food... I guess."</td>
+  <td colspan="2">Welcome to Lance's Food... I guess.</td>
 </tr>
 <tr>
-  <td colspan="6">You okay?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>You okay?</td>
+  <td>Need some help around here?</td>
 </tr>
 <tr>
-  <td colspan="6">"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
-  <td colspan="6">End</td>
+  <td>Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name.</td>
+  <td>Yeah, funny that you should mention it. I have a box of supplies for the Vigils training in the temple. Stratos by the pond was asking after it, since I've been a bit slow to deliver... Think you could take it?</td>
 </tr>
 <tr>
-  <td colspan="6">Well, what is your name?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>Well, what is your name?</td>
+  <td>End</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it (?) Surely not. No loving parent would call their child (?)... Right?* "</i>You'll remember it, right?..."</td>
-  <td colspan="6">End</td>
+  <td><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it Richie Richard Ricardo? Surely not. No loving parent would call their child Richie Richard Ricardo... Right?*</i> You'll remember it, right?...</td>
 </tr>
 <tr>
-  <td colspan="6">Uh huh! Yep! Sure!</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>Uh huh! Yep! Sure!</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*The man seems moved by your kindness.*</i> "Oh Gods below... Thank you."</td>
-  <td colspan="6">End</td>
+  <td><i>*The man seems moved by your kindness.*</i> "Oh Gods below... Thank you.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
-  
-If spoken to again (?)'s 'name' will be displayed with a (?) at the end.
+**Subsequent Encounters:**
 
-If talked to again choosing the same dialogue options, your responses will change after the second text box.
+**Second Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">"Welcome to Lance's Food... I guess."</td>
+  <td>Welcome to Lance's Food... I guess.</td>
 </tr>
 <tr>
-  <td colspan="6">You okay?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>You okay?</td>
 </tr>
 <tr>
-  <td colspan="6">"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
-  <td colspan="6">End</td>
+  <td>"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
 </tr>
 <tr>
-  <td colspan="6">Well, what is your name?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>Well, what is your name?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*The man looks like he's been stabbed in the heart.* "</i>I... I already told you..."</td>
-  <td colspan="6">End</td>
+  <td><i>*The man looks like he's been stabbed in the heart.*</i> I... I already told you...</td>
 </tr>
 <tr>
-  <td colspan="6">UHH NO I MEANT YOUR MIDDLE NAME?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>UHH NO I MEANT YOUR MIDDLE NAME?</td>
 </tr>
 <tr>
-  <td colspan="6">"Oh... Well it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a Drowned God or something? A <a href="Vows.md">Vow</a>? What is wrong with this guy?*</i> "People always seem so interested in my middle name..."</td>
-  <td colspan="6">End</td>
+  <td>Oh... Well, it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a Drowned God or something? A Vow? What is wrong with this guy?*</i> People always seem so interested in my middle name...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
 
-After speaking to him a _third_ time, (?)'s dialogue changes again.
+**Third Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">"Welcome to Lance's Food... I guess."</td>
+  <td>Welcome to Lance's Food... I guess.</td>
 </tr>
 <tr>
-  <td colspan="6">You okay?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>You okay?</td>
 </tr>
 <tr>
-  <td colspan="6">"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
-  <td colspan="6">End</td>
+  <td>"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
 </tr>
 <tr>
-  <td colspan="6">Well, what is your name?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>Well, what is your name?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*The man looks like he's been stabbed in the heart.* "</i>I... I already told you..."</td>
-  <td colspan="6">End</td>
+  <td><i>*The man looks like he's been stabbed in the heart.*</i> I... I already told you...</td>
 </tr>
 <tr>
-  <td colspan="6">UHH NO I MEANT YOUR MIDDLE NAME?</td>
-  <td colspan="6">[End Dialogue]</td>
+  <td>UHH NO I MEANT YOUR MIDDLE NAME?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void itself. Oh Gods, we're being pulled in. Anchor the ship! Avert your eyes, damn you!*</i> "...I told you that one too..."</td>
-  <td colspan="6">End</td>
+  <td><i>*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void itself. Oh Gods, we're being pulled in. Anchor the ship! Avert your eyes, damn you!*</i> ...I told you that one too...</td>
 </tr>
 <tr>
-  <td colspan="12">[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN]</td>
+  <td>[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN]</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

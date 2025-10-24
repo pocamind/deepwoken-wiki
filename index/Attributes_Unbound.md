@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 168297
+revid: 168371
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -55,6 +55,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 6.  Go back to [The Birdcage](The_Birdcage.md) and eat 1 Bluecap. If the requirements are met, you will black out and wake up, obtaining Intelligence Unbound
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=9ggkapSThhk)._
+
+For an updated visual guide after the 10/18/2025 update watching [this video](https://youtube.com/watch?v=GCMAH5RiPmM).
 
 ### Willpower Unbound
 

@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 153282
+revid: 168349
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]
@@ -13,6 +13,7 @@ categories: [Lightborn NPCs, NPCs, Hallowtide]
 | name | Lysander Spellhardt |
 | aspect | Lightborn |
 | location | The Floating Keep |
+| affiliation | The Spellhardt Family |
 
 ## Description
 

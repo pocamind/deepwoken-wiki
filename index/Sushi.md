@@ -1,6 +1,6 @@
 ---
 title: Sushi
-revid: 161319
+revid: 168362
 source: https://deepwoken.fandom.com/wiki/Sushi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -24,7 +24,7 @@ categories: [Items, Food]
 
 ## Description
 
-**Sushi** is a craftable [Food](Food.md) item. It is also purchased from [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
+**Sushi** is a craftable [Food](Food.md) item. It is also purchased from a [Mess Chef](Mess_Chef.md) for 20, Mikhail for 20 during [Hallowtide](Hallowtide.md), and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

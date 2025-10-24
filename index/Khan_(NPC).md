@@ -1,6 +1,6 @@
 ---
 title: Khan (NPC)
-revid: 148994
+revid: 168337
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -10,8 +10,10 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 
 | Khan (NPC) | |
 |---|---|
+| name | Khan |
 | aspect | Etrean |
 | location | Etrean Wilds |
+| affiliation | Etrea |
 
 _This page is about the NPC part of the [Lost Books](Quests.md) quest. For the Aspect, see [Khan](Khan.md)._
 

@@ -1,6 +1,6 @@
 ---
 title: Glazed Fish
-revid: 161610
+revid: 168352
 source: https://deepwoken.fandom.com/wiki/Glazed_Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -26,7 +26,7 @@ categories: [Items, Food]
 
 ## Description
 
-**Glazed Fish** is a craftable [Food](Food.md) item. It is also purchased from [Mess Chef](Guild_Bases.md) for 20, and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
+**Glazed Fish** is a craftable [Food](Food.md) item. It is also purchased from [Mess Chef](Mess_Chef.md) for 20, Mikhail for 15 during [Hallowtide](Hallowtide.md), and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

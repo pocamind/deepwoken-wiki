@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 147822
+revid: 168365
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
 | name | Lake |
 | aspect | Chrysid |
 | location | Songseeker Wilds, in a small cave |
+| affiliation | The Moonlit Faith |
 
 ## Description
 

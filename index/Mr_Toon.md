@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 165495
+revid: 168328
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -26,6 +26,16 @@ notices:
 | weight | 1 |
 
 **Mr Toon** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
+
+### _Armor Stats_
+
+The Outfit has 2600 durability, grants +30% Physical Armor, +30% Elemental Armor, +20 Lightning Armor, +20% Shadow Armor, 16 Sanity, and +100% Ether Regeneration.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44% Lightning Armor, 55% Shadow Armor, and 30% Elemental.
+
+Additionally, it provides the [Vow of Mastery](Vow_of_Mastery.md) Talent. Allowing it's user to control and command subjects under its effects.
 
 ## Trivia
 

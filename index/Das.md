@@ -1,6 +1,6 @@
 ---
 title: Das
-revid: 153770
+revid: 168324
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
 | name | Das |
 | aspect | Vesperian |
 | location | Isle of Vigils |
+| affiliation | Etrea |
 
 ## Description
 

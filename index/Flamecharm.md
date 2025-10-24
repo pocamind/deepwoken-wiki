@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 167821
+revid: 168379
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1103,7 +1103,7 @@ These Talents are found in the "_Flamecharmer_" Category.
 (50 Flamecharm) | You can now obtain 3-star Flamecharmer Mantras. (+5 Health) | N/A |
 |  | Azure Flames  
 (70 Flamecharm, 40 Willpower) | Many of your flames turn blue, signifying their increased intensity. | Burn, Flamecharm Mantras, Flamecharm Legendary [Weapons](Weapons.md#elemental), and Eruptions turn blue,
-Burn deals more damage, Eruptions from Lava Serpent have a shorter delay, more posture damage, and a larger AoE.
+Burn deals 12.5% more damage, Eruptions from Lava Serpent have a shorter delay, more posture damage, and a larger AoE.
 
  |
 |  | Intrepid Flame  
@@ -1201,7 +1201,7 @@ These Talents are found in the "_Inferno_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Corpse Explosion  
-(60 Flamecharm, Agitating Spark) | Bodies that you burn to death immediately explode dealing massive damage. | Decreases the amount of time it takes bodies to burn to death from 8s -> 5s. The explosion is bugged and doesn't work. |
+(60 Flamecharm, Agitating Spark) | Bodies that you burn to death immediately explode dealing massive damage. | Decreases the amount of time it takes bodies to burn to death from 7s -> 3.5s, though the amount of time bodies take to burn is very server performance reliant. The explosion is bugged and doesn't work. |
 |  | Pleeksty's Will  
 (20 Flamecharm, Flamecharmer Ploom quest) | You gain significantly more Ether from consuming elemental ingredients. | N/A |
 |  | Pleeksty's Faith  
@@ -1294,8 +1294,8 @@ These Talents are found in the _Twisted Puppets_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Wraith Path: Twisted Puppets  
-(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** ether on affected targets.
-Puppets deal 20 _typeless_ damage with no innate investment scaling and 11 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
+(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** 6.25 Ether from affected targets per tick.
+Puppets deal 20 _typeless_ damage with no innate investment scaling and 10 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
 
  |
 |  | Burning Puppets  

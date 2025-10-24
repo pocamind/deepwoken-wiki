@@ -1,6 +1,6 @@
 ---
 title: Mushroom Bisque
-revid: 161574
+revid: 168359
 source: https://deepwoken.fandom.com/wiki/Mushroom_Bisque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -24,7 +24,7 @@ categories: [Items, Food]
 
 ## Description
 
-**Mushroom Bisque** is a craftable [Food](Food.md) item. It is also purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 20, [Mess Chef](Guild_Bases.md) for 25, [The Meat Lord](The_Meat_Lord.md) for 2, and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward.
+**Mushroom Bisque** is a craftable [Food](Food.md) item. It is also purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 20, a [Mess Chef](Mess_Chef.md) for 25, Mikhail for 20 during [Hallowtide](Hallowtide.md), [The Meat Lord](The_Meat_Lord.md) for 2, and the [Travelling Merchant](Travelling_Merchant.md), both selling it at random, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

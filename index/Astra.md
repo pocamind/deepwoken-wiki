@@ -1,6 +1,6 @@
 ---
 title: Astra
-revid: 166770
+revid: 168319
 source: https://deepwoken.fandom.com/wiki/Astra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant, Et
 | name | Astra |
 | aspect | Etrean |
 | location | Etris |
+| affiliation | Etrea |
 
 ## Description
 

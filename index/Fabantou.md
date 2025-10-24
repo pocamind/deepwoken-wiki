@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 167997
+revid: 168309
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -143,3 +143,7 @@ The Three Cheers Menu
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   His name may originate from an alias used by Monsieur Thénardier in _Les Misérables_.

@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 168255
+revid: 168346
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character, The Knives of Eylis]
@@ -79,7 +79,7 @@ Your starting faction [reputation](Reputation.md) is:
 
 ## Trivia
 
--   Both Voidwalker and [Deepbound](Deepbound.md) were suggested by user MrTheBest2, who was later made a tester for a period of time.[\[1\]](#cite-note-1)
+-   Both Voidwalker and [Deepbound](Deepbound.md) were suggested by user MrTheBest2, who was later made a tester for a period of time (On October ~13, 2025 MrTheBest2 regained tester).[\[1\]](#cite-note-1)
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you.
 
 ## References

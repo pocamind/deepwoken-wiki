@@ -1,6 +1,6 @@
 ---
 title: Argo
-revid: 145088
+revid: 168318
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Fishing, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, Fishing, NPCs located in the Etrean Luminant]
 | name | Argo |
 | aspect | Etrean |
 | location | Etris Docks |
+| affiliation | Etrea |
 
 ## Description
 

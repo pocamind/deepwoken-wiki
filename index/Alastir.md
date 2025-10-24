@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 154096
+revid: 168316
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | name | Alastir |
 | aspect | Adret |
 | location | Pathfinder's Respite |
+| affiliation | Lost Celtor |
 
 ## Description
 

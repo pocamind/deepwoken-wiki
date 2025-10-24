@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 131734
+revid: 168334
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
 | name | Joshua |
 | aspect | Etrean |
 | location | Etris |
+| affiliation | Etrea |
 
 “ Good day to you, youngster. Was there something you needed? ”
 

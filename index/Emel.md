@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 167435
+revid: 168340
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminan
 | name | Emel |
 | aspect | Adret |
 | location | Summer Isle, islet near the port |
+| affiliation | The Ministry |
 
 ## Description
 

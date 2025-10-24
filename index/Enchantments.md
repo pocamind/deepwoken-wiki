@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 168243
+revid: 168312
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -77,7 +77,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <ul>
     <li>Direct drop from <a href="Star_Knight.md">Star</a> and <a href="Moon_Knight.md">Moon Knights</a>.</li>
     <li><a href="Moon's_Eyrie.md">Moon's Eyrie</a> chest.</li>
-    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 20 or obtained through trading with the <a href="Weird_Trader.md">Weird Trader</a>.</li>
+    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 15 or obtained through trading with the <a href="Weird_Trader.md">Weird Trader</a>.</li>
   </ul></div><p></p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>

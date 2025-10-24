@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 168112
+revid: 168378
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -38,7 +38,7 @@ The Edenbrand Hellcoil is a very large [cannon Weapon](Weapons.md#greatcannons) 
 
 ## Critical
 
-With a decent wind-up, the user fires an [unparryable](Combat_Mechanics.md#telegraphed-attacks) shot towards the opponent, launching them back from the sheer firepower. The opponent will be sent flying and is afflicted with Daze and [White burn](Status_Effects.md#burn) on hit.
+With a decent wind-up, the user fires an [unparryable](Combat_Mechanics.md#telegraphed-attacks) shot towards the opponent, launching them back from the sheer firepower. The opponent will be sent flying and is afflicted with Daze and [White burn](Status_Effects.md#burn) on hit, a faster ticking variant of Burn with less base damage.
 
 This attack has a windup of 2.05s and an endlag of 0.75s with 1.5s of hyperarmor on the later half of the critical's windup. The user will be slowed down by 70% during the critical's windup.
 

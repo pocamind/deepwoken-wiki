@@ -1,6 +1,6 @@
 ---
 title: Mikhail Spellhardt
-revid: 152734
+revid: 168351
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide]
@@ -13,16 +13,17 @@ categories: [Lightborn NPCs, NPCs, Hallowtide]
 | name | Mikhail |
 | aspect | Lightborn |
 | location | The Floating Keep |
+| affiliation | The Spellhardt Family |
 
 ## Description
 
 Mikhail is a [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md). He sells the following food items:
 
--   Glazed Fish for 15
--   Sushi for 20
--   Mushroom Omelette for 15
--   Mushroom Bisque for 20
--   Fish Stew for 15
+-   [Glazed Fish](Glazed_Fish.md) for 15
+-   [Sushi](Sushi.md) for 20
+-   [Mushroom Omelette](Mushroom_Omelette.md) for 15
+-   [Mushroom Bisque](Mushroom_Bisque.md) for 20
+-   [Fish Stew](Fish_Stew.md) for 15
 
 ## Dialogue
 

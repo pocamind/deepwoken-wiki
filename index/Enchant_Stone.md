@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 168241
+revid: 168314
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -38,20 +38,20 @@ Most of the game's Enchant Stones have non-exclusive obtainment locations, meani
 -   Chance to obtain from a chest from several dungeons including: [Second Layer](Second_Layer.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Saramaed Hollow](Saramaed_Hollow.md).
 -   Chance to obtain from [War Mode](War_Mode.md) and [Hell Mode](Hell_Mode.md).
 -   Unlocking the [Galewax](Galewax.md) Room from the [Second Layer](Second_Layer.md). This room always contains three tiny chests, that have a **25%** chance of providing a random non-exclusive Enchant Stone per chest. If not an Enchant Stone, it's a random [Kyrsweapon](Weapons.md).
+-   Certain enchants, namely [Stone](Stone.md) and [Vampirism](Vampirism.md) can additionally be sold during [Traan Zakshun's](Traan_Zakshun.md) black market for 5, but are otherwise non-exclusive enchants.
 
 ### Exclusive Enchants
 
 These Enchant Stones can only be obtained through certain methods. These are: Astral, Bluster, Curse of Ysley's Ember, Curse of The Authoritative, Curse of Void, Harrowing, Nightbringer, Parasol's Blight, and Windswept.
 
--   _**[Astral](Astral.md)**_ can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 20 in [Traan Zakshun's](Traan_Zakshun.md) black market.
+-   _**[Astral](Astral.md)**_ can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 15 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Curse of the Authoritative](Curse_of_the_Authoritative.md)**_ and _**[Windswept](Windswept.md)**_ can only be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
--   _**[Bluster](Bluster.md)**_ can be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or sold by [Traan Zakshun](Traan_Zakshun.md) in his black market for 5
+-   _**[Bluster](Bluster.md)**_ can be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or bought from [Traan Zakshun](Traan_Zakshun.md) in his black market for 5.
 -   _**[Curse of Void](Curse_of_Void.md)**_ can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and 10.
 -   _**[Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Ysley's Ember can also be sold for 10 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Harrowing](Harrowing.md)**_ can be purchased from any [Blacksmith](Blacksmith.md) for 10 if you have the 2023 [Hallowtide Medallion](Seasonal_Medals.md) or bought from [Glaive Spellhardt](Glaive_Spellhardt.md) during the [Hallowtide](Hallowtide.md) event for 150 Joy.
 -   _**[Nightbringer](Nightbringer.md)**_ drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md).
 -   _**[Parasol's Blight](<Parasol's_Blight.md>)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
--   Certain enchants, namely [Stone](Stone.md) and [Vampirism](Vampirism.md) can be sold during [Traan Zakshun's](Traan_Zakshun.md) black market for 5, but are otherwise non-exclusive enchants.
 
 ## Trivia
 

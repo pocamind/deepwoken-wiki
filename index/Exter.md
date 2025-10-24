@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 166517
+revid: 168325
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -13,6 +13,7 @@ categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
 | name | Exter |
 | aspect | Gremor |
 | location | Meteor Isle |
+| affiliation | The Children of Navae |
 
 ## Description
 

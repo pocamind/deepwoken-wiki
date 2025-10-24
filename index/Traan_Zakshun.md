@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168240
+revid: 168327
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -161,6 +161,8 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Hard sell eh?.. What if it was purple?_
 -   _Hey come on now, it's not that expensive.._
 -   _Hey, you break it - you buy it._
+-   _I dropped a boulder on the guy I stole this from._
+-   _I threw the guy I stole this from into the megalodaunt nest not too far from here, easiest clean-up ever._
 -   _I stole these from local bandits, by the way._
 -   _Isn't it weird how there's like next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
@@ -335,7 +337,7 @@ Sold Items
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 8 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
     <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
-    <li><b>For 20 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
+    <li><b>For 15 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a>.</li>
   </ul></td>
 </tr>
