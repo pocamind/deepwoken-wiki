@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 168261
+revid: 168304
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses, Voiced Characters]
@@ -251,7 +251,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a><b>:</b>
   <ol>
     <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Headband.md">Headband</a> (Black, Blue, Green, White) (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Black, Blue, Green, White) (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter).</li>
   </ol></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:
   <ol>

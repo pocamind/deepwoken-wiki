@@ -1,6 +1,6 @@
 ---
 title: Moon Brow Rings
-revid: 168267
+revid: 168271
 source: https://deepwoken.fandom.com/wiki/Moon_Brow_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Upper Erisia, Voidsea, The Ferryman |
+| obtainment | Chests from:, First Layer, Upper Erisia, Voidsea, The Ferryman (Winter), Aelita |
 | description | FEAR. IRONSINGERS. |
 
 ## Description

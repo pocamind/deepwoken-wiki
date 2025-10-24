@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 168200
+revid: 168307
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -205,6 +205,7 @@ Found from:
  | Variants:  
 Normal & Big |
 | File:WesternOutlawHat.png | [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
+(**Series**)  
 (**Set**) | _+2 Posture_
 
 +1 Legendary Pip  
@@ -218,11 +219,17 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Ascended Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
+
+ |
 | File:VigilHood.png | [Assassin's Hood](<Assassin's_Hood.md>)  
 (**Series**)  
 (**Set**) | _+5% Stealth_
@@ -665,11 +672,9 @@ Found from:
 
  | Variants:  
 Black & Double |
-|  | [Evanspear War Helmet](Evanspear_War_Helmet.md)
-
-(**Set**)
-
- | _+4 Health_  
+|  | [Evanspear War Helmet](Evanspear_War_Helmet.md)  
+(**Series**)  
+(**Set**) | _+4 Health_  
 _+1 Posture_
 
 +1 Legendary Pip  
@@ -681,10 +686,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Evanspear  
+ | Variants:  
+Evanspear & Reinforced
+
+  
+Set: Evanspear  
 Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
-Legs: [Evanspear War Boots](Evanspear_War_Boots.md) |
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+
+ |
 |  | [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)  
 (**Hallowtide**)  
 (**Legendary**) | _+10 Health_
@@ -1084,6 +1095,7 @@ Found from:
 
  | N/A |
 |  | [Reinforced War Helmet](Reinforced_War_Helmet.md)  
+(**Series**)  
 (**Set**) | _+4 Health_  
 _+1 Posture_
 
@@ -1098,10 +1110,16 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Reinforced Evanspear  
+ | Variants:  
+Evanspear & Reinforced
+
+  
+Set: Reinforced Evanspear  
 Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
 Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
-Legs: [Reinforced War Boots](Reinforced_War_Boots.md) |
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+
+ |
 | File:Royal Guard's Kabuto.png | [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)  
 (**Series**) | _+8 Health_  
 
@@ -1130,6 +1148,7 @@ Found from:
 
  | N/A |
 | File:ShockTrooperHelmet.png | [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
+(**Series**)  
 (**Set**) | _+8 Health_
 
 +1 Rare Pip  
@@ -1141,10 +1160,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Shock Trooper  
+ | Variants:  
+Shock Trooper & Specialist
+
+  
+Set: Shock Trooper  
 Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
-Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md) |
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
+
+ |
 | File:KnightHelm.png | [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 (**Set**) | _+10 Health_
 
@@ -1208,6 +1233,7 @@ Head: [Smith's Bandana](<Smith's_Bandana.md>)
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
 Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 | File:ShockTrooperHelmet.png | [Specialist Helmet](Specialist_Helmet.md)  
+(**Series**)  
 (**Set**) | _+8 Health_
 
 +1 Rare Pip  
@@ -1221,10 +1247,16 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Specialist  
+ | Variants:  
+Shock Trooper & Specialist
+
+  
+Set: Specialist  
 Head: [Specialist Helmet](Specialist_Helmet.md)  
 Arms: [Specialist Plate](Specialist_Plate.md)  
-Legs: [Specialist Boots](Specialist_Boots.md) |
+Legs: [Specialist Boots](Specialist_Boots.md)
+
+ |
 |  | [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
 (**Set**)  
 (**Unobtainable**) | _+2 Posture_
@@ -1281,7 +1313,8 @@ Arms: [Aristocrat Coat](Aristocrat_Coat.md)
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-|  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>) | _+4 Health_
+|  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)  
+(**Unobtainable**) | _+4 Health_
 
 +1 Uncommon Pip
 
@@ -1289,7 +1322,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 Found from:
 
--   Unobtainable via lootpool bug
+-   Unobtainable
 
  | N/A |
 |  | [Vigil Hood](Vigil_Hood.md) | +2 Rare Pips  
@@ -1336,6 +1369,7 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
 | File:WesternOutlawHat.png | [Western Outlaw Hat](Western_Outlaw_Hat.md)  
+(**Series**)  
 (**Set**) | _+2 Posture_
 
 +1 Legendary Pip  
@@ -1347,11 +1381,17 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Western Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
+
+ |
 |  | [A Lot of Hats](A_Lot_of_Hats.md)  
 (**Unobtainable**) | _+5 Health_
 
@@ -1521,11 +1561,9 @@ Arms: [Aristocrat Coat](Aristocrat_Coat.md)
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-| File:WesternOutlawRobes.png | [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)
-
-(**Set**)
-
- | _+3 Posture_
+| File:WesternOutlawRobes.png | [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
+(**Series**)  
+(**Set**) | _+3 Posture_
 
 +1 Rare Pip  
 +1 Legendary Pip  
@@ -1539,11 +1577,17 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Ascended Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
+
+ |
 | File:Pale Assassin Cloak.png | [Assassin's Cloak](<Assassin's_Cloak.md>)  
 (**Series**)  
 (**Set**)  
@@ -1722,6 +1766,7 @@ Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
 | 
 
  | [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
+(**Series**)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
@@ -1738,12 +1783,19 @@ Found from:
 -   [Lodestar](Lodestar.md)
 -   [Authority Ensign](Authority_Ensign.md) Missions
 
- | Set: Bluesteel  
+ | Variants:  
+Bluesteel & Bluestone
+
+  
+Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
-Legs: [Bluesteel Boots](Bluesteel_Boots.md) |
+Legs: [Bluesteel Boots](Bluesteel_Boots.md)
+
+ |
 | 
 
  | [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
+(**Series**)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
@@ -1757,9 +1809,15 @@ Found from:
 
 -   Crafting
 
- | Set: Bluestone  
+ | Variants:  
+Bluesteel & Bluestone
+
+  
+Set: Bluestone  
 Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
-Legs: [Bluestone Boots](Bluestone_Boots.md) |
+Legs: [Bluestone Boots](Bluestone_Boots.md)
+
+ |
 | File:Brigand's Cloak.png | [Brigand's Cloak](<Brigand's_Cloak.md>)  
 (**Set**) | _+3 Health_  
 _+4% Stealth_
@@ -1875,6 +1933,7 @@ Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)
 Arms: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
 Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
 |  | [Champion's Cape](<Champion's_Cape.md>)  
+(**Series**)  
 (**Animated**)  
 (**Unique**) | _+10% Lightning Armor_
 
@@ -1889,7 +1948,8 @@ Found from:
 
 -   Crafting in the [Detainment Core](Merit_Detainment_Core.md)
 
- | N/A |
+ | Variants:  
+Titus's & Champion's |
 |  | [Dark Owl Cloak](Dark_Owl_Cloak.md)  
 (**Set**) | _+8% Shadow Armor_  
 _+6% Stealth_
@@ -2020,6 +2080,7 @@ Found from:
 Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
 Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
 |  | [Evanspear War Plate](Evanspear_War_Plate.md)  
+(**Series**)  
 (**Set**)  
 (**Animated**) | _+6 Health_  
 _+2 Posture_
@@ -2034,10 +2095,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Evanspear  
+ | Variants:  
+Evanspear & Reinforced
+
+  
+Set: Evanspear  
 Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
-Legs: [Evanspear War Boots](Evanspear_War_Boots.md) |
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+
+ |
 | File:Lavender First Ranger Duster.png | [First Ranger Duster](First_Ranger_Duster.md)  
 (**Series**)  
 (**Animated**) | _+10 Health_  
@@ -2674,6 +2741,7 @@ Found from:
 Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
 Legs: [Redsteel Boots](Redsteel_Boots.md) |
 |  | [Reinforced War Plate](Reinforced_War_Plate.md)  
+(**Series**)  
 (**Set**)  
 (**Animated**) | _+6 Health_  
 _+2 Posture_
@@ -2690,10 +2758,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Reinforced Evanspear  
+ | Variants:  
+Evanspear & Reinforced
+
+  
+Set: Reinforced Evanspear  
 Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
 Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
-Legs: [Reinforced War Boots](Reinforced_War_Boots.md) |
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+
+ |
 | File:Faded Royal Duelist.png | [Royal Duelist](Royal_Duelist.md)  
 (**Series**)  
 (**Animated**) | +2 Rare Pips
@@ -2770,6 +2844,7 @@ Found from:
 Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)  
 Torso: [Sandrunner Scarf](Sandrunner_Scarf.md) |
 | File:ShockTrooperPlate.png | [Shock Trooper Plate](Shock_Trooper_Plate.md)  
+(**Series**)  
 (**Set**)  
 (**Animated**) | _+5 Health_
 
@@ -2782,10 +2857,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Shock Trooper  
+ | Variants:  
+Shock Trooper & Specialist
+
+  
+Set: Shock Trooper  
 Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
-Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md) |
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
+
+ |
 | File:Static-assets-upload15149895911827136801.png | [Silver Pauldrons](Silver_Pauldrons.md)  
 (**Set**) | _+3 Health_  
 _+1 Posture_
@@ -2850,6 +2931,7 @@ Head: [Smith's Bandana](<Smith's_Bandana.md>)
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
 Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 | File:ShockTrooperPlate.png | [Specialist Plate](Specialist_Plate.md)  
+(**Series**)  
 (**Set**)  
 (**Animated**) | _+5 Health_
 
@@ -2864,10 +2946,16 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Specialist  
+ | Variants:  
+Shock Trooper & Specialist
+
+  
+Set: Specialist  
 Head: [Specialist Helmet](Specialist_Helmet.md)\]  
 Arms: [Specialist Plate](Specialist_Plate.md)  
-Legs [Specialist Boots](Specialist_Boots.md) |
+Legs [Specialist Boots](Specialist_Boots.md)
+
+ |
 |  | [Star Duster](Star_Duster.md)  
 (**Set**)  
 (**Legendary**) | _+5 Health_  
@@ -2927,6 +3015,7 @@ Found from:
  | Variants:  
 Default, Threadwork |
 |  | [Titus's Cape](<Titus's_Cape.md>)  
+(**Series**)  
 (**Animated**)  
 (**Unique**) | _+10% Lightning Armor_
 
@@ -2940,7 +3029,8 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | N/A |
+ | Variants:  
+Titus's & Champion's |
 |  | [Tracker's Brace](<Tracker's_Brace.md>)  
 (**Set**) | _+3 Health_  
 _+1 Posture_
@@ -3026,6 +3116,7 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
 | File:WesternOutlawRobes.png | [Western Outlaw Robes](Western_Outlaw_Robes.md)  
+(**Series**)  
 (**Set**) | _+3 Posture_
 
 +1 Rare Pip  
@@ -3038,11 +3129,17 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Western Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
+
+ |
 | File:White Overcoat.png | White Overcoat  
 (**Series**) | _+2 Health_
 
@@ -3206,6 +3303,7 @@ Found from:
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
 Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
 | File:WesternOutlawBoots.png | [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+(**Series**)  
 (**Set**) | _+3% Lightning Armor_  
 _+3% Wind Armor_
 
@@ -3221,11 +3319,17 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Ascended Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
+
+ |
 |  | [Autumn Boots](Autumn_Boots.md)  
 (**Set**) | _+3 Health_
 
@@ -3263,6 +3367,7 @@ Found from:
 Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
 Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
 |  | [Bluesteel Boots](Bluesteel_Boots.md)  
+(**Series**)  
 (**Set**) | _+3 Health_
 
 +2 Rare Pips  
@@ -3282,10 +3387,17 @@ Found from:
 -   [War Mode](War_Mode.md)
 -   [Authority Ensign](Authority_Ensign.md) Missions
 
- | Set: Bluesteel  
+ | Variants:  
+Bluesteel & Bluestone
+
+  
+Set: Bluesteel  
 Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
-Legs: [Bluesteel Boots](Bluesteel_Boots.md) |
+Legs: [Bluesteel Boots](Bluesteel_Boots.md)
+
+ |
 |  | [Bluestone Boots](Bluestone_Boots.md)  
+(**Series**)  
 (**Set**) | _+3 Health_
 
 +2 Rare Pips  
@@ -3299,9 +3411,15 @@ Found from:
 
 -   Crafting
 
- | Set: Bluesteel  
+ | Variants:  
+Bluesteel & Bluestone
+
+  
+Set: Bluesteel  
 Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
-Legs: [Bluestone Boots](Bluestone_Boots.md) |
+Legs: [Bluestone Boots](Bluestone_Boots.md)
+
+ |
 | File:Brilliant Boots.png | [Brilliant Boots](Brilliant_Boots.md)  
 (**Set**) | +2 Rare Pips
 
@@ -3324,7 +3442,8 @@ Found from:
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
 Torso: [Brilliant Cape](Brilliant_Cape.md) |
-|  | [Celestial Boots](Celestial_Boots.md) | +2 Rare Pips  
+|  | [Celestial Boots](Celestial_Boots.md)  
+(**Series**) | +2 Rare Pips  
 +1 Legendary Pip  
 
 _+Talent: Cosmic Connection_  
@@ -3336,7 +3455,8 @@ Found from:
 
 -   Crafting at [The Cold Forge](The_Cold_Forge.md)
 
- | N/A |
+ | Variants:  
+Star & Celestial |
 | 
 
  | [Celtorian Sabatons](Celtorian_Sabatons.md)  
@@ -3411,6 +3531,7 @@ Found from:
 Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
 Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
 |  | [Evanspear War Boots](Evanspear_War_Boots.md)  
+(**Series**)  
 (**Set**) | _+3 Health_
 
 +1 Uncommon Pip  
@@ -3422,10 +3543,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Evanspear War  
+ | Variants:  
+Evanspear & Reinforced
+
+  
+Set: Evanspear War  
 Head: [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 Arms: [Evanspear War Plate](Evanspear_War_Plate.md)  
-Legs: [Evanspear War Boots](Evanspear_War_Boots.md) |
+Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
+
+ |
 | File:Flameguard Boots.png | [Flameguard Boots](Flameguard_Boots.md)  
 (**Set**) | _+3 Health_
 
@@ -3695,6 +3822,7 @@ Found from:
 Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
 Legs: [Redsteel Boots](Redsteel_Boots.md) |
 |  | [Reinforced War Boots](Reinforced_War_Boots.md)  
+(**Series**)  
 (**Set**) | _+3 Health_
 
 +1 Uncommon Pip  
@@ -3708,11 +3836,18 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Reinforced Evanspear  
+ | Variants:  
+Evanspear & Reinforced
+
+  
+Set: Reinforced Evanspear  
 Head: [Reinforced War Helmet](Reinforced_War_Helmet.md)  
 Arms: [Reinforced War Plate](Reinforced_War_Plate.md)  
-Legs: [Reinforced War Boots](Reinforced_War_Boots.md) |
+Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
+
+ |
 | File:ShockTrooperBoots.png | [Shock Trooper Boots](Shock_Trooper_Boots.md)  
+(**Series**)  
 (**Set**) | _+1 Posture_
 
 +1 Uncommon Pip  
@@ -3724,10 +3859,16 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Shock Trooper  
+ | Variants:  
+Shock Trooper & Specialist
+
+  
+Set: Shock Trooper  
 Head: [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)  
-Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md) |
+Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
+
+ |
 | File:Silver Sabatons.png | [Silver Sabatons](Silver_Sabatons.md)  
 (**Set**) | _+3 Health_
 
@@ -3750,6 +3891,7 @@ Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
 Legs: [Silver Sabatons](Silver_Sabatons.md) |
 | File:ShockTrooperBoots.png | [Specialist Boots](Specialist_Boots.md)  
+(**Series**)  
 (**Set**) | _+1 Posture_
 
 +1 Uncommon Pip  
@@ -3763,11 +3905,18 @@ Found from:
 
 -   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Specialist  
+ | Variants:  
+Shock Trooper & Specialist
+
+  
+Set: Specialist  
 Head: [Specialist Helmet](Specialist_Helmet.md)\]  
 Arms: [Specialist Plate](Specialist_Plate.md)  
-Legs [Specialist Boots](Specialist_Boots.md) |
+Legs [Specialist Boots](Specialist_Boots.md)
+
+ |
 |  | [Star Boots](Star_Boots.md)  
+(**Series**)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
@@ -3788,9 +3937,15 @@ Found from:
 -   [First Layer](First_Layer.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
- | Set: Star  
+ | Variants:  
+Star & Celestial
+
+  
+Set: Star  
 Arms: [Star Duster](Star_Duster.md)  
-Legs: [Star Boots](Star_Boots.md) |
+Legs: [Star Boots](Star_Boots.md)
+
+ |
 |  | [Tracker's Boots](<Tracker's_Boots.md>)  
 (**Set**) | _+3 Health_
 
@@ -3854,6 +4009,7 @@ Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
 | File:WesternOutlawBoots.png | [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+(**Series**)  
 (**Set**) | _+3% Lightning Armor_  
 _+3% Wind Armor_  
 
@@ -3867,11 +4023,17 @@ Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Western Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
+
+ |
 |  | [Winter Corps Boots](Winter_Corps_Boots.md)  
 (**Set**) | _+3 Health_
 
@@ -4522,6 +4684,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
 | File:WesternOutlawMask.png | [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)  
+(**Series**)  
 (**Set**) | +1 Common Pip
 
 _+Talent: Destructive Yell_
@@ -4532,11 +4695,17 @@ Found from:
 
 -   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
- | Set: Ascended Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
 Arms: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
 Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
-Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) |
+Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
+
+ |
 |  | [Authority Prototype Mask](Authority_Prototype_Mask.md) | +1 Common Pip | 
 
 Found from:
@@ -4609,6 +4778,8 @@ Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
 Found from:
 
 -   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Aelita](Aelita.md)
 
  | N/A |
 |  | [Citadel Frames](Citadel_Frames.md)  
@@ -4669,6 +4840,8 @@ Found from:
 Found from:
 
 -   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Aelita](Aelita.md)
 
  | N/A |
 |  | Duelist's Mask | _+6% Stealth_
@@ -4764,6 +4937,51 @@ Found from:
 -   [Voidwalker](Voidwalker.md) Bounties
 
  | N/A |
+|  | [Moon Brow Rings](Moon_Brow_Rings.md)  
+(**Series**) | _+1 Health_ | 
+
+Found from:
+
+-   [First Layer](First_Layer.md)
+-   [Upper Erisia](Upper_Erisia.md)
+-   [Voidsea](Voidsea.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Aelita](Aelita.md)
+
+ | Variants:  
+Brow, Dermal, Lip & Septum |
+|  | [Moon Lip Ring](Moon_Lip_Ring.md)  
+(**Series**) | _+1 Health_ | 
+
+Found from:
+
+-   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Aelita](Aelita.md)
+
+ | Variants:  
+Brow, Dermal, Lip & Septum |
+|  | [Moon Septum Ring](Moon_Septum_Ring.md)  
+(**Series**) | _+1 Health_ | 
+
+Found from:
+
+-   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Aelita](Aelita.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
+
+ | Variants:  
+Brow, Dermal, Lip & Septum |
+|  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | 
+
+Found from:
+
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Aelita](Aelita.md)
+
+ | N/A |
 |  | [Nauticals](Summer_Nauticals.md)  
 (**Series**) | +1 Rare Pip | 
 
@@ -4773,13 +4991,6 @@ Source from:
 
  | Variants:  
 Summer, Dusk & Seaglass |
-|  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
-
- | N/A |
 |  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | 
 
 Found from:
@@ -4826,9 +5037,11 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 
 Found from:
 
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) normal shop for 35
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 -   [First Layer](First_Layer.md)
 -   [Valley of Heroes](The_Valley_of_Heroes.md)
+-   [The Ferryman](The_Ferryman.md) (Winter)
+-   [Aelita](Aelita.md)
 
  | N/A |
 | File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
@@ -4910,17 +5123,24 @@ Found from:
 
  | N/A |
 | File:WesternOutlawMask.png | [Western Outlaw Mask](Western_Outlaw_Mask.md)  
+(**Series**)  
 (**Set**) | +1 Common Pip | 
 
 Found from:
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
- | Set: Western Outlaw  
+ | Variants:  
+Western & Ascended
+
+  
+Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
 Legs: [Western Outlaw Boots](Western_Outlaw_Boots.md)  
-Face: [Western Outlaw Mask](Western_Outlaw_Mask.md) |
+Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
+
+ |
 |  | [Toon's Goggles](<Toon's_Goggles.md>)  
 (**Unobtainable**) | Confidential Information | 
 

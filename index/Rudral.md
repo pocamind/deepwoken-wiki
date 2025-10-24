@@ -1,11 +1,9 @@
 ---
 title: Rudral
-revid: 164641
+revid: 168277
 source: https://deepwoken.fandom.com/wiki/Rudral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Rudral
@@ -13,6 +11,14 @@ notices:
 | Rudral | |
 |---|---|
 | name | Rudral |
-| aspect | ? |
+| aspect | Capra |
+| location | Miner's Landing |
+| affiliation | The Ignition Union |
 
+## Description
 
+Rudral is a [Capra](Capra.md) NPC, he is the [Blacksmith](Blacksmith.md) for [Miner's Landing](<Miner's_Landing.md>). He is essential part of unlocking [Ironsing](Ironsing.md).
+
+## Location
+
+Rudral is located near the Inn and Pub at Miner's Landing.

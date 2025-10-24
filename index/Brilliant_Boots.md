@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 155680
+revid: 168285
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -26,9 +26,13 @@ categories: [Items, Equipment, Legs, Boots]
 | obtainment | Chests from:, Erisia, Songseeker Wilds, Lodestar, Minityrsa, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
+Brilliant
+
+Variants: [Brilliant Pauldron](Brilliant_Pauldrons.md)
+
 ## Description
 
-Brilliant Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. They can be found through chests in [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md) & [Minityrsa](Minityrsa.md).
+The Brilliant Boots are an [Equipment](Equipment.md) item under the "Legs" category. When worn, these grant +2 Rare Pips.
 
 ## Trivia
 

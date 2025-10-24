@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 155681
+revid: 168287
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Capes]
@@ -26,9 +26,13 @@ categories: [Items, Equipment, Torso, Capes]
 | obtainment | Other sources:, Dread Serpent drop, The Diluvian Mechanism |
 | description | ... |
 
+Brilliant
+
+Variants: [Brilliant Pauldron](Brilliant_Pauldrons.md)
+
 ## Description
 
-The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a drop from the [Dread Serpent](Dread_Serpent.md) and Wave 50 chests from [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. When worn, this grants +1 Legendary Pip. They can only be obtained as a drop from the [Dread Serpent](Dread_Serpent.md) and Wave 50 chests from [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Trivia
 

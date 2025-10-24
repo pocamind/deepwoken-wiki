@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 165978
+revid: 168279
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
@@ -26,11 +26,9 @@ categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
 | obtainment | Chests from:, Erisia, Minityrsa, Lodestar (Black), Songseeker Wilds, Starswept Valley, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode (Black), Authority Ensign Missions (White) |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Fur Boots are accessories under the "Boots" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
+The Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category. When worn, these grant +3 Health and +2 Rare Pips.
 
 ## Trivia
 

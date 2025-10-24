@@ -1,6 +1,6 @@
 ---
 title: Brow Stud
-revid: 168268
+revid: 168273
 source: https://deepwoken.fandom.com/wiki/Brow_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Mudskipper Attack, The Ferryman |
+| obtainment | Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita |
 | description | That's metal. |
 
 ## Description

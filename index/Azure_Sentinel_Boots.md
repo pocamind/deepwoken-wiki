@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Boots
-revid: 155673
+revid: 168283
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -28,4 +28,4 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Azure Royal Guard Boots are accessories under the "**Legs**" category. They can only be found through chests in [The Depths](The_Depths.md).
+The Azure Royal Guard Boots are an [Equipment](Equipment.md) item under the "Legs" category. When worn, these grant +2 Rare Pips.

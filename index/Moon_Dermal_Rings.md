@@ -1,14 +1,14 @@
 ---
-title: Moon Septum Ring
-revid: 168290
-source: https://deepwoken.fandom.com/wiki/Moon_Septum_Ring
+title: Moon Dermal Rings
+revid: 168275
+source: https://deepwoken.fandom.com/wiki/Moon_Dermal_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
 ---
 
-# Moon Septum Ring
+# Moon Dermal Rings
 
-| Moon Septum Ring | |
+| Moon Dermal Rings | |
 |---|---|
 | type | Face |
 | rarity | Rare |
@@ -21,9 +21,9 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's normal shop for 50 Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita |
+| obtainment | Chests from:, TBA |
 | description | FEAR. IRONSINGERS. |
 
 ## Description
 
-The Moon Septum Ring is an [Equipment](Equipment.md) item under the "Face" category. When worn, this grants +1 Health.
+The Moon Dermal Rings are an [Equipment](Equipment.md) item under the "Face" category. When worn, this grants +1 Health.

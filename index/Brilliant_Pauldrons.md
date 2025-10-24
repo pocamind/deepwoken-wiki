@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 167825
+revid: 168286
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -26,9 +26,13 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | obtainment | Chests From:, Duke Ishamon Erisia, Maestro Evengarde Rest, Lodestar, First Layer, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, War Mode, Primadon, Titan of the East, Heart of Enmity, Dread Serpent |
 | description | ... |
 
+Brilliant
+
+Variants: [Brilliant Pauldron](Brilliant_Pauldrons.md)
+
 ## Description
 
-The Brilliant Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you 5 Health and an unknown number of Pips. They are very rarely found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)), and extremely hard to be found in its other sources.
+The Brilliant Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. When worn, these grant +5 Health, +2 Rare Pips, and +1 Legendary Pip.
 
 ## Trivia
 

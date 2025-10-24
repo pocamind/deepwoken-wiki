@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 168265
+revid: 168297
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -101,7 +101,7 @@ Alternatively, weapon can also be unbounded by reaching 75 points on the desired
 ## Attunement Unbound
 
 1.  Reach 75 investment in an [Attunement](Attunements.md).
-2.  Defeat any [Boss](Bosses.md).
+2.  Defeat any humanoid [Boss](Bosses.md).
 
 ## Notes
 

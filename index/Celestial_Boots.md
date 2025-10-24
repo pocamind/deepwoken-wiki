@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 163887
+revid: 168289
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Legs, Boots, Items, Equipment, Craftable]
@@ -26,9 +26,9 @@ categories: [Legs, Boots, Items, Equipment, Craftable]
 
 ## Description
 
-Celestial Boots is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. These white plated boots are identical in appearance to the [Star Boots](Star_Boots.md) but lack Star Boots' 5 innate health. Celestial Boots also grants the [Cosmic Connection](Talents.md#equipment-talents) Talent, buffing Astral and celestial-related abilities.
+The Celestial Boots are an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. These white plated boots are identical in appearance to the [Star Boots](Star_Boots.md) but lack Star Boots' 5 innate health. When worn, these grant +2 Rare Pips, +1 Legendary Pip, and the [Cosmic Connection](Talents.md#equipment-talents) Talent.
 
-_Cosmic Connection_ increases [Astral](Astral.md)'s damage buff from 20% to 25% (overall ~4,16% damage buff, since 1,2 x 1,0416 = ~1,25). However, it does not increase the falling astral star's damage.
+The _Cosmic Connection_ increases [Astral](Astral.md)'s damage buff from 20% to 25% (overall ~4,16% damage buff, since 1,2 x 1,0416 = ~1,25). However, it does not increase the falling astral star's damage.
 
 ## Obtainment
 

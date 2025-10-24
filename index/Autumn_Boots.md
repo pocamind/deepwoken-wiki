@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 155671
+revid: 168282
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -28,4 +28,4 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Autumn Boots are accessories under the "_Legs_" category. They can only be found through chests in [Erisia](Erisia.md).
+The Autumn Boots are an [Equipment](Equipment.md) item under the "Legs" category. When worn, these grant +3 Health and +2 Rare Pips.

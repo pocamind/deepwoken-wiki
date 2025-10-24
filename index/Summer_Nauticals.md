@@ -1,6 +1,6 @@
 ---
 title: Summer Nauticals
-revid: 152694
+revid: 168278
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -26,7 +26,7 @@ categories: [Equipment, Face, Glasses]
 
 ## Description
 
-The Nauticals are an [Equipment](Equipment.md) item under the "Face" category. They are decently rare and found only in Summer Isle.
+The Nauticals are an [Equipment](Equipment.md) item under the "Face" category. When worn, these grant +1 Rare Pip.
 
 ## Trivia
 

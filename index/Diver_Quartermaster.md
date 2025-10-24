@@ -1,6 +1,6 @@
 ---
 title: Diver Quartermaster
-revid: 167985
+revid: 168299
 source: https://deepwoken.fandom.com/wiki/Diver_Quartermaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Random Encounters, The Divers]
@@ -58,7 +58,18 @@ The Diver Quartermaster is the leader of an expedition to retrieve a crate found
   <td colspan="2">Ah, didja get the goods? They should be waiting at Fort Merit...</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>Player has the Supply Crate</td>
+  <td>Player does not have the Supply Crate</td>
+</tr>
+<tr>
+  <td>I have the supplies.</td>
+  <td>End</td>
+</tr>
+<tr>
+  <td>Ah, great work. We managed to pick up this <b>[Item]</b> on our last dive. I figure this is worth your while, no? See you topside, friend.</td>
+</tr>
+<tr>
+  <td>End, player gains The Divers Reputation and a Relic</td>
 </tr>
 </tbody>
 </table>
