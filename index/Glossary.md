@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 167639
+revid: 168426
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -312,8 +312,9 @@ Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Studies on the Cant
 -   The Moonseye is suspended at an equal distance between the [Surface](#the-surface) and the [Heavens](#the-heavens). It is most visible at night, though can be seen during the day.
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the [Suncross](#the-suncross).
+-   The Moonseye is believed the project the same Light as [Lightkeepers](#lightkeep).
+-   A Celestial known as Zhatarn is said to have stolen from the Moonseye and been driven mad by it.
 -   The [Starkindred](#the-starkindred-faith) believe that the Moonseye is a gateway to their promised land, and that the souls of [Celestials](#the-celestials) make their way to it to make preparations for the promised day.
--   The Moonseye is believed the project the same Light as [Lightkeepers](#lightkeep)
 
 Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lament of Cirryn](Books.md#lament-of-cirryn), [Neatly Embellished Notebook](Books.md#neatly-embellished-notebook), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-lullaby-isles), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 

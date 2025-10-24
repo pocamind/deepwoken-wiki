@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 167860
+revid: 168428
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Help Legion Captains , on Aratel Island. , Step 2: Help enough of them for a , recommendation. , Step 3: Return to Amara. , (Fang and Coil)Step 1: Have 20 LHT and Friend Etris Reputation. , Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest. , Step 3: Speak to Vesque. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. , (Imperium Kata)Step 1: Obtain the Legion Intelligence. , Step 2: Defeat Titus. , Step 3: Turn in the Intelligence to Caitus. |
+| obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Gain friend reputation with The Hundred LegionsStep 2: Speak to a guard of The Hundred Legions in The Southern LuminentStep 3: Speak to Amara. , (Fang and Coil)Step 1: Have 20 LHT and Friend Etris Reputation. , Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest. , Step 3: Speak to Vesque. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. , (Imperium Kata)Step 1: Obtain the Legion Intelligence. , Step 2: Defeat Titus. , Step 3: Turn in the Intelligence to Caitus. |
 | description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "Adopt the path of the serpent." - Fang and Coil, "The traditional martial arts style of the Justicars." - Jus Karita, Wield an advanced form of the Legion's martial arts. - Imperium Kata, "Your bare fists. Worth a shot, right?" - Starting Weapon Description |
 
 Fists are a unique type of [Light Weapon](Weapons.md) in _Deepwoken_.

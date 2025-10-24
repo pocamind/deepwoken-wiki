@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 168424
+revid: 168425
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -256,9 +256,8 @@ Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice
 
  | 
 
--   [_The Diluvian Mechanism_](The_Diluvian_Mechanism.md)
--   [_Heart of Enmity_](Heart_of_Enmity.md)
--   [Hell Mode](Hell_Mode.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
 
  |
 | 

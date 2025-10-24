@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 168415
+revid: 168435
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -29,7 +29,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Alloyed Weapo
 
 ## Description
 
-The Forge Greathammer is a midgame Greathammer [Weapon](Weapons.md) that can be Alloyed to make it a viable lategame option. When alloyed, the Forge Greathammer takes on an orange hue.
+The Forge Greathammer is a mid- to endgame Greathammer [Weapon](Weapons.md) that can be Alloyed to make it a viable lategame option. When alloyed, the Forge Greathammer takes on an orange hue.
 
 ## Critical
 

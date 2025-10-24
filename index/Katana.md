@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 168132
+revid: 168434
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Primadon, Titan of the East, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Bought from Traan Zakshun for 300 , Crypt of the Unbroken, Chime of Conflict, Dread Serpent, Duke Ishamon ErisiaAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Dread Serpent, Lodestar |
+| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Bought from Traan Zakshun for 300 , Crypt of the Unbroken, Chime of ConflictAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Lodestar |
 | description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
 
 ## Description
@@ -43,10 +43,6 @@ When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s an
 The user sheathes their katana before dashing forward and slashing horizontally. The crit deals 10% scaled damage and procs bleed. This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-## Gallery
-
-Storm Enchant
 
 ## Trivia
 
