@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 168509
+revid: 168697
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -516,5 +516,4 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 -   Despite the dialogue, the version of Orlandeau that appears in the Fragments of Self is not a ghost, rather a memory.
     -   This is hinted at by the NPC's name being "The Captain" rather than "Cap'n Orlandeau."
 -   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
--   He will not be in Fragments of Self if you did not choose the [Castaway](Castaway.md) Origin.
 -   During the parrying section, he originally used a [Razor Cutlass](Razor_Cutlass.md) but now uses a regular sword.

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 168567
+revid: 168683
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -111,11 +111,11 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 
 > A trio of sayings passed down through Capran oral tradition.
 > 
-> From Jurik springs ken of sky and earth, ken of water and stone, ken of worldly making. From Jurik we take and learn of fire and smoke, glass and steel, salt and lye.
+> From [Jurik](Glossary.md#jurik-the-moonseye) springs ken of sky and earth, ken of water and stone, ken of worldly making. From [Jurik](Glossary.md#jurik-the-moonseye) we take and learn of fire and smoke, glass and steel, salt and lye.
 > 
-> From Nemit springs ken of beast and root, ken of flesh and bone, ken of blood and sap. From Nemit we take and learn of herd and pack, seed and harvest, medicine and salve.
+> From [Nemit](Glossary.md#nemit-the-first-beast) springs ken of beast and root, ken of flesh and bone, ken of blood and sap. From [Nemit](Glossary.md#nemit-the-first-beast) we take and learn of herd and pack, seed and harvest, medicine and salve.
 > 
-> And of Ku we share of our ken, learn and teach, listen and speak, see and do. Ku is of us, and we are of Ku. Always both mother and child, student and teacher, novice and sage.
+> And of [Ku](Glossary.md#ku-the-mother) we share of our ken, learn and teach, listen and speak, see and do. [Ku](Glossary.md#ku-the-mother) is of us, and we are of [Ku](Glossary.md#ku-the-mother). Always both mother and child, student and teacher, novice and sage.
 
 ### Children of the Aftertide I
 
@@ -1831,7 +1831,8 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 > ### Stars Above, and the Blade between
 > 
-> >   
+> > A historic fiction novel, concerning the fate of the last King of Etrea.
+> > 
 > > Stars scatter across the sky on this night. I’ve watched the same scenery time and time again, but for just this once I felt particularly uneased. “Truly, is this what must be done for our people? For Etrea?” I mumble to myself, clutching my blade in hand. “Each star has a story,” I remember my old companion told me upon nights similar to these. Her words echo through my head as I gaze upon this sky, although it is not the same. Upon this field, I sit without her now, as grass waves across the field with the night-touched wind. “You’re too sentimental, Rali,” I’d often reply to her, unamused by those fairy tales. After all this time though, I suppose she was right. The stars above speak more to me now than ever before, and for each gleaming light in the sky, I know there must be a being above, watching us. An audience I’ll never see, but cherish nonetheless.
 > > 
 > > “Tavi!” A man calls out to me, though I am too entranced to notice at first. “Tavi! Tavi Ytreshi! Wake up! Sire?” He calls out once more, and I’m shaken out of my trance abruptly. I look over to the voice, and recognize A’ras. “Huh? What do you need at this hour, A’ras? The stars are already out.” I reply, looking up at him with a confused expression. The man flashes a wide grin, evidently he had just finished some sort of mischievous activity. “The King requires us. One last meeting, I promise. Then, we’re off to bed for the voyage tomorrow,” A’ras said in a cheerful tone. I still cannot understand how a man of such renown can remain so carefree, despite the battles he’s fought. A’ras looks over to my hand, eying it carefully. “Quite a blade there, Tavi. What could you be doing with a weapon in such a serene place?” He chuckles as he gestures toward the Queensblade. “...Just appreciating fine craftsmanship, is all. You needn’t worry about such frivolities.” I quickly reply, although too quickly to a fault, perhaps. I don’t want to raise suspicion, especially tonight of all nights. A’ras shrugs, chuckling. “How charming. Now then, enough niceties, we have a meeting to attend... at this dreadful hour.” He pulls me up off the grass, though I struggle to gather my balance for a moment. “S’pose I’ve sat here for a while.” I mumble to myself, standing up on my feet. “Let’s get going then.” A’ras spoke hastily, dragging me along to the royal palace.

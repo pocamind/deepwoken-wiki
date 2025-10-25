@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 155631
+revid: 168704
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, The Divers]
@@ -14,7 +14,7 @@ categories: [Equipment, Head, Helmets, The Divers]
 | rarity | Mythical |
 | selling price | 100 |
 | requirements | LVL 13 |
-| innate stats | 5% Ice Armor, 5% Lightning Armor, +5 Health, 1 Legendary Pip, 1 Rare Pip |
+| innate stats | 5% Ice Armor, 5% Lightning Armor, +5 Health, +1 Legendary Pip, +1 Rare Pip |
 | innate talent | Coldseep Reactor |
 | set | Grand Fisher Helm, Grand Fisher Plate |
 | set talent | N/A |
@@ -25,11 +25,13 @@ categories: [Equipment, Head, Helmets, The Divers]
 | obtainment | Diver's Faction Job "The Fisherman" Guaranteed Drop |
 | description | ... |
 
+Grand Fisher
+
 ## Description
 
-The Grand Fisher Helm, along with the [Grand Fisher Plate](Grand_Fisher_Plate.md), are guaranteed drops from an enemy in the [Depths](First_Layer.md) called "[The Fisherman](The_Fisherman.md)." Equipping it grants 5 health, along with 5% Ice and Lightning Armor, making it a good option for those vulnerable to said attunements.
+The Grand Fisher Helm, along with the [Grand Fisher Plate](Grand_Fisher_Plate.md), are guaranteed drops from an enemy in the [Depths](First_Layer.md) called "[The Fisherman](The_Fisherman.md)." They are apart of the Grand Fisher Set. When worn, this grants 5 health, +1 Legendary Pip, +1 Rare Pip, 5% Ice Armor, and 5% Lightning Armor, and the [Coldseep Reactor](Talents.md#equipment-talents) Talent.
 
-The helmet comes with an innate Talent, _Coldseep Reactor_: "By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat." This Talent grants the user **full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.**
+The _Coldseep Reactor_ Talent grants full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.
 
   
 

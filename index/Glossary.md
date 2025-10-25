@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 168517
+revid: 168684
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -174,6 +174,13 @@ Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entr
 
 Dialogue: [Chud Steel](Chud_Steel.md), [Sentinel Augustus](Sentinel_Augustus.md), [Warden Jericho](Warden_Jericho.md) | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [The Central Authority](#the-central-authority), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
+### Jurik, the Moonseye
+
+-   Capran tradition views the [Moonseye](#the-moonseye) as an observer and an embodiment of the material forces of the world.
+-   Often, Jurik is viewed as a personification of mathematics, physics, and chemistry.
+
+Dialogue: | Books: [Capran Aphorisms](Books.md#capran-aphorisms) | Glossary Entries:
+
 ### Kaide, the Drowned Light
 
 -   The last [Lightborn](#lightborn) king of Constellia before its fall.
@@ -185,8 +192,16 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyr
 ### The King of Etrea
 
 -   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than ruins.
+-   King Rolen Vashtir I reigned through the early 6th century CE.
 
 Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
+
+### Ku, the Mother
+
+-   Capran traditions often embodies Ku as the shared knowledge of Mankind, with varying degrees of personification.
+-   The folklore and tradition surrounding Ku speak to the Capran emphasis on the proliferation of knowledge. The concept of 'lifelong learning' is represented strongly within the duality of Ku both being a student and a teacher.
+
+Dialogue: | Books: [Capran Aphorisms](Books.md#capran-aphorisms) | Glossary Entries:
 
 ### Mur of Light
 
@@ -196,6 +211,13 @@ Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Boo
 -   Andros said they hadn't seen any accounts of Mur outside of the [Etrean Luminant](#the-etrean-luminant).
 
 Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
+
+### Nemit, the First Beast
+
+-   Capran traditions holds that the flora and fauna of the world are the children of Nemit.
+-   Nemit is often interpreted as an embodiment of knowledge of the natural world, such as biology and ecology.
+
+Dialogue: | Books: [Capran Aphorisms](Books.md#capran-aphorisms) | Glossary Entries:
 
 ### Amorus Pleeksty
 
@@ -316,7 +338,7 @@ Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Studies on the Cant
 -   A [Celestial](#the-celestials) known as [Zhatarn](#zhatarn-the-moonlight-prince) is said to have stolen from the Moonseye and been driven mad by it.
 -   The [Starkindred](#the-starkindred-faith) believe that the Moonseye is a gateway to their promised land, and that the souls of [Celestials](#the-celestials) make their way to it to make preparations for the promised day.
 
-Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lament of Cirryn](Books.md#lament-of-cirryn), [Neatly Embellished Notebook](Books.md#neatly-embellished-notebook), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-lullaby-isles), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lament of Cirryn](Books.md#lament-of-cirryn), [Neatly Embellished Notebook](Books.md#neatly-embellished-notebook), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [The Lullaby Isles](#the-lullaby-isles), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### The Suncross
 

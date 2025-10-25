@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 167908
+revid: 168701
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -290,14 +290,14 @@ This page is about content that has either been removed or changed drastically i
 
 ## Other
 
--   [Chime of Conflict](Chime_of_Conflict.md) Skulls
+-   **[Chime of Conflict](Chime_of_Conflict.md) Skulls -**
     
     The skulls in question
     
     -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
--   **Damage vs Monsters and Monster Armor pips** - These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the June 24th, 2025 update, being replaced with the [Bestiary](Bestiary.md) system.
--   **Elemental Intensity** as a Talent stat - Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
--   **Ether Adept**, the Talent category - With the removal of two of the Ether Adept Talents, all Talents within the Ether Adept Talent category were moved to Ether Conduit or Elemental Rebound instead. This was done on the August 4th, 2025 update.
+-   **Damage vs Monsters and Monster Armor pips -** These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the June 24th, 2025 update, being replaced with the [Bestiary](Bestiary.md) system.
+-   **Elemental Intensity (as a Talent stat) -** Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
+-   **Ether Adept (the Talent category) -** With the removal of two of the Ether Adept Talents, all Talents within the Ether Adept Talent category were moved to Ether Conduit or Elemental Rebound instead. This was done on the August 4th, 2025 update.
 -   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
 -   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
@@ -308,17 +308,18 @@ This page is about content that has either been removed or changed drastically i
 -   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 pieces of cloth and would let the player carry chests by stuffing them inside. This was used in conjunction with the Locked Chest system.
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
--   **[Serena](Serena.md)** **\-** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[3\]](#cite-note-3)
+-   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[3\]](#cite-note-3)
 -   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under [The Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [The Summer Company](The_Summer_Company.md)'s castle).
--   **Shrine of Dominion/Domination** - Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
+-   **Shrine of Dominion/Domination -** Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
 -   **Stormcaller -** An NPC in earlier versions of the game would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
-
--   **Broodlord's Muddtoss** - A move, used by [Mudskipper Broodlord](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
--   **Shrine of Ostentation** - For 10, transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine would later be merged with the Shrine of Chance.
+-   **Broodlord's Muddtoss -** A move, used by [Mudskipper Broodlord](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
+-   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the August 25th, 2025 update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
+-   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the September 15th, 2025 update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
+-   **[Sea Highways](Sea_Highway.md) -** Removed on the October 25th, 2025 update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
 
 ## Mystic
 

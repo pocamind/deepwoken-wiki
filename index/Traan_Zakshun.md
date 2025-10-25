@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168472
+revid: 168689
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -295,7 +295,9 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
 -   _I'd wipe this for fingerprints._
 -   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
+-   _If anyone asks - you didn't get this from me. Capiche?_
 -   _It's Antique! Scratch that, Brand New!_
+-   _Man - it's been a like a whole hour, and my seafood boil isn't here yet! For all the talk The Meatlord gets, he's kind of a slowpoke._
 -   _Maybe clean this when you get a minute._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
 -   _Might need to steal me a sweater, gettin 'a little chilly up here._
@@ -304,12 +306,12 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Oh this one's verrry special - I can only let you buy one._
 -   _Oh, this one might be cursed. Like, actually._
 -   _Okay, you really have to be careful with this._
--   Thanks for looking, you know... You could actually buy it.
+-   _Thanks for looking, you know... You could actually buy it._
 -   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
 -   _Ugh, I don't even like WANT to sell this... Unless.. I dunno~ you gave me the crowns for it?_
--   Until earlier I genuinely forgot I even had this, does that make you want it more?
+-   _Until earlier I genuinely forgot I even had this, does that make you want it more?_
 -   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
@@ -331,7 +333,7 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For 1 </b>: <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Hemobloom.md">Hemobloom</a>.</li>
+    <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>.</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>

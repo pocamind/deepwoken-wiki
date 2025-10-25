@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 167726
+revid: 168680
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -78,6 +78,7 @@ Stratus Stone
  | 
 
 -   +3 Size
+-   \-1 Speed
 -   +20 Ether Cost
 
  | Increases mantra/hitbox size. | 

@@ -1,9 +1,11 @@
 ---
 title: Sea Highway
-revid: 143938
+revid: 168698
 source: https://deepwoken.fandom.com/wiki/Sea_Highway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Cut Content, Mechanics]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Sea Highway

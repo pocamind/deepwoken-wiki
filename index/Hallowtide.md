@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 168499
+revid: 168685
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -73,7 +73,7 @@ Main article: [Joy](Joy.md)
 
 -   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 40 joy for completing the Trial of the Gourdskipper, Getting 3 each wave and 16 at the final wave.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
-    -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
+    -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), [Evengarde Rest](Evengarde_Rest.md), and many others have unique interactions when you attempt to scare them.
 
 ### New Helmets
 

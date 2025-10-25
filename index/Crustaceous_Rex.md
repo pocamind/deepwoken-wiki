@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 163134
+revid: 168686
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies]
@@ -95,6 +95,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
     -   Is an almost exact copy of the foam spray, also having a slow effect when hit
 -   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal with.
 -   The crab's Crab is canonically named how it is. It wasn't a spelling mistake. It is not that the developer's intended to say Crab Crab, as all the other moves were referred to as a grab, but instead misspelled Grab, thus making it lore to cover up their mistake.[\[1\]](#cite-note-crabcrab-1)
+-   It is mentioned in the description of the [Inquisitor's Thorn](<Inquisitor's_Thorn.md>).
 
 ## References
 

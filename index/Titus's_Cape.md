@@ -1,6 +1,6 @@
 ---
 title: "Titus's Cape"
-revid: 157950
+revid: 168679
 source: https://deepwoken.fandom.com/wiki/Titus's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Capes]
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Arms, Capes]
 
 ## Description
 
-Titus's Cape is an animated [Equipment](Equipment.md) item under the "Arms" category. Worn by [Titus](Titus_Fulminus_Destellus.md), it is a dark cape with shoulder plates. Equipping it grants you +2 Rare Pips, +1 Pip, and 10% Thundercall Resistance. It is found in the exclusive chest from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+Titus's Cape is an animated [Equipment](Equipment.md) item under the "Arms" category. Worn by [Titus](Titus_Fulminus_Destellus.md), it is a dark cape with shoulder plates. Equipping it grants you +2 Rare Pips, +1 Legendary Pip, and 10% Thundercall Resistance. It is found in the exclusive chest from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 This item is used to craft the [Champion's Cape](<Champion's_Cape.md>) at the [Merit Detainment Core](Merit_Detainment_Core.md).
 

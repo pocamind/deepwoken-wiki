@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 166510
+revid: 168687
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -43,7 +43,7 @@ The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. Eq
 <tr>
   <td>Black Blindfold</td>
   <td>+1 Common</td>
-  <td><a href="Blacksmith.md">Pure Ore Turn-ins</a>, <a href="Chime_of_Conflict.md">Chime of Conflict</a>, <a href="Fishing.md">Fishing</a>, <a href="Meteor_Isle.md">Meteor Isle</a>, <a href="Minityrsa.md">Minityrsa</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a></td>
+  <td><a href="Random_Encounters.md">Pure Ore Turn-ins</a>, <a href="Chime_of_Conflict.md">Chime of Conflict</a>, <a href="Fishing.md">Fishing</a>, <a href="Meteor_Isle.md">Meteor Isle</a>, <a href="Minityrsa.md">Minityrsa</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="Random_Encounters.md">Random Encounters</a></td>
 </tr>
 <tr>
   <td>Crimson Blindfold</td>

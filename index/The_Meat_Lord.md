@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 166670
+revid: 168695
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -215,6 +215,7 @@ Sold Items
 -   Agamatsu asked Ragoozer on who would win between Big Hoss or The Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
 -   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
     -   Before the November 3rd, 2022 update, The Meat Lord would've been spooked like any other ordinary static NPC.
+-   In one of [Traan Zakshuns](Traan_Zakshun.md) shop lines, he mentions purchasing a [Seafood Boil](Seafood_Boil.md) from The Meatlord for over an hour and it still not arriving.
 
 ## References
 
