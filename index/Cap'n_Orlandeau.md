@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 167630
+revid: 168509
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -431,43 +431,57 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td>There ye go, mate! Lookin' sharp already! By raising your attributes, you can increase your <b>Power</b> in order to learn new little tricks to help ye along the way.</td>
+  <td colspan="2">There ye go, mate! Lookin' sharp already! By raising your attributes, you can increase your <b>Power</b> in order to learn new little tricks to help ye along the way.</td>
 </tr>
 <tr>
-  <td>What do you mean by Power?</td>
+  <td colspan="2">What do you mean by Power?</td>
 </tr>
 <tr>
-  <td>Once one improves enough of their physical attributes, their <b>Power</b> grows. With each level reached, one picks up further <b>abilities</b>. But enough of that, let's not keep yer crewmates waitin'.</td>
+  <td colspan="2">Once one improves enough of their physical attributes, their <b>Power</b> grows. With each level reached, one picks up further <b>abilities</b>. But enough of that, let's not keep yer crewmates waitin'.</td>
 </tr>
 <tr>
-  <td>Very well, Cap'n.</td>
+  <td colspan="2">Very well, Cap'n.</td>
 </tr>
 <tr>
-  <td>Nothing quite like the smell of the sea, aye? Ye did great in yer training today, [First Name]. Ye can take a moment to chat with yer crewmates if ye like, just come back my way when you've had enough.</td>
+  <td colspan="2">Nothing quite like the smell of the sea, aye? Ye did great in yer training today, [First Name]. Ye can take a moment to chat with yer crewmates if ye like, just come back my way when you've had enough.</td>
 </tr>
 <tr>
-  <td>Player speaks to Cap'n Orlandeau again</td>
+  <td colspan="2">Player speaks to Cap'n Orlandeau again</td>
 </tr>
 <tr>
-  <td>Ye get a good enough chinwag out there, then?</td>
+  <td colspan="2">Ye get a good enough chinwag out there, then?</td>
 </tr>
 <tr>
-  <td>Yeah, I think so.</td>
+  <td colspan="2">Yeah, I think so.</td>
 </tr>
 <tr>
-  <td>As I was sayin' earlier, you'll have an opportunity to take up new <b><a href="Glossary.md#talent">Talents</a></b>. You may also take up what're known as <b><a href="Glossary.md#mantra">Mantras</a></b>.</td>
+  <td colspan="2">As I was sayin' earlier, you'll have an opportunity to take up new <b><a href="Glossary.md#talent">Talents</a></b>. You may also take up what're known as <b><a href="Glossary.md#mantra">Mantras</a></b>.</td>
 </tr>
 <tr>
-  <td>Mantras?</td>
+  <td colspan="2">Mantras?</td>
 </tr>
 <tr>
-  <td>Aye, fragments of the <a href="Glossary.md#the-song">Song</a> that ye can call upon to wield in battle. Ye'll surely come across them as ye increase your <b>Power</b>.</td>
+  <td colspan="2">Aye, fragments of the <a href="Glossary.md#the-song"><font>Song</font></a> that ye can call upon to wield in battle. Ye'll surely come across them as ye increase your <b>Power</b>.</td>
 </tr>
 <tr>
-  <td>End, move on to Lesson 6</td>
+  <td colspan="2">[Player receives a <a href="Whisper_Draw.md">Whisper Draw</a>]</td>
+</tr>
+<tr>
+  <td>[Player speaks to the Cap'n before claiming a Mantra]</td>
+  <td>[Player claims a Mantra]</td>
+</tr>
+<tr>
+  <td>Why don't ye pick one of the cards I gave ye? I'll walk ye through how to use it next.</td>
+  <td>Ahah! A great choice. Why don't ye give it a whirl?</td>
+</tr>
+<tr>
+  <td colspan="2">[Player uses their chosen Mantra]</td>
+</tr>
+<tr>
+  <td colspan="2">End, move on to Lesson 6</td>
 </tr>
 </tbody>
 </table>
@@ -502,5 +516,5 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 -   Despite the dialogue, the version of Orlandeau that appears in the Fragments of Self is not a ghost, rather a memory.
     -   This is hinted at by the NPC's name being "The Captain" rather than "Cap'n Orlandeau."
 -   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
--   He will not be in Fragments of Self if you did not choose the Castaway Origin.
+-   He will not be in Fragments of Self if you did not choose the [Castaway](Castaway.md) Origin.
 -   During the parrying section, he originally used a [Razor Cutlass](Razor_Cutlass.md) but now uses a regular sword.

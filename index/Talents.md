@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 168500
+revid: 168530
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4201,6 +4201,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which bypass armor, deal more damage against Reinforce than they would otherwise.
 -   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
     -   This works similarly to Collapsed Lung.
+    -   Has the same effect as a guard break.
+    -   Procs on parry, block and dodge.
+    -   Has no cooldown.
+    -   Duration is 2 seconds + 0.015 seconds per point of strength.
     -   Wrath Gems last 9 seconds with no visual indication.
 -   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your ardour screams now break campfires around you.
     -   Your Ardour Scream now destroys all campfires within its range.

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 168426
+revid: 168517
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -132,7 +132,7 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Milgram](Milgram.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -216,7 +216,7 @@ Dialogue: | Books: [Strange Missives](Books.md#strange-missives) | Glossary Entr
 -   The legends say that Zhatarn was exiled from the [Heavens](#the-heavens) and forced to roam the Void forevermore.
 -   A [Celestial](#the-celestials) said to have been driven mad by his attempt to draw power from the [Moonseye.](#the-moonseye)
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if you have [Soulthorn](Soulthorn.md) equipped | Books: | Glossary Entries:
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if you have [Soulthorn](Soulthorn.md) equipped | Books: | Glossary Entries: [The Moonseye](#the-moonseye)
 
 ## Magic
 
@@ -258,7 +258,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Boo
 -   Speech isn't necessary to cast Mantras. The precise means of invoking a Mantra varies from person-to-person, but is broadly described as "speaking' from within, akin to holding an inner monologue, or to bringing a memory to the forefront of your thoughts.
 -   Often, the more one understands and is able to conjure fourth the words of a Mantra, the more effective they are at using it.
 
-Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Books: | Glossary Entries: [Power](#power), [The Song](#the-song)
+Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Nimea](Nimea.md) | Books: | Glossary Entries: [The Song](#the-song)
 
 ### Soul Murmur
 
@@ -292,7 +292,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilization \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), [Mantra](#mantra), [Power](#power), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), [Mantra](#mantra), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
 
 ### Vows
 
@@ -313,7 +313,7 @@ Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Studies on the Cant
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the [Suncross](#the-suncross).
 -   The Moonseye is believed the project the same Light as [Lightkeepers](#lightkeep).
--   A Celestial known as Zhatarn is said to have stolen from the Moonseye and been driven mad by it.
+-   A [Celestial](#the-celestials) known as [Zhatarn](#zhatarn-the-moonlight-prince) is said to have stolen from the Moonseye and been driven mad by it.
 -   The [Starkindred](#the-starkindred-faith) believe that the Moonseye is a gateway to their promised land, and that the souls of [Celestials](#the-celestials) make their way to it to make preparations for the promised day.
 
 Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lament of Cirryn](Books.md#lament-of-cirryn), [Neatly Embellished Notebook](Books.md#neatly-embellished-notebook), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [The Lullaby Isles](#the-lullaby-isles), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
@@ -610,13 +610,6 @@ Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) player name
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
 Dialogue: [Alastir](Alastir.md), [Beiruul](Beiruul.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](Books.md#archivist-journal-megalodaunt), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries:
-
-### Power
-
--   A general measure of one's ability, and of your mastery of the [Song](#the-song).
--   Increasing one's Power grants them new Talents and [Mantras](#mantra).
-
-Dialogue: [Surge](Surge.md) | Books: | Glossary Entries:
 
 ### Talent
 

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 167740
+revid: 168528
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 1]
@@ -92,7 +92,7 @@ While not required, things listed below can prove to make your experience much e
 -   Relic Chests (Wave 25 & 50)
 -   [Railblade](Railblade.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Gran Sudaruska](Gran_Sudaruska.md) and [Ignition Deepcrusher](Ignition_Deepcrusher.md) (40+)
 -   Guaranteed 2 Star Loot, Only Layer 2 Loot (40+)
--   [Celtorian Tideknight](Celtorian_Tideknight.md), [Pathfinder Elite](Pathfinder_Elite.md), [Justicar Defender](Justicar_Defender_Coat.md) (50)
+-   [Celtorian Tideknight](Celtorian_Tideknight.md), [Pathfinder Elite](Pathfinder_Elite.md), [Justicar Defender](Justicar_Defender_Coat.md) (50)((Be real ur never gonna use that fucking armor))
 
 ## Waves
 
@@ -282,7 +282,7 @@ Based on the power of the user(s), the starting wave will differ;
 1 [Corrupted](Monsters.md#scyphozia) [Mudskipper Brute](Mudskipper_Brute.md).
 
  |  |
-| 28 (Hands of Soap) | 
+| 28 (Bizra Metagaming Writing) | 
 
 1 [Corrupted](Monsters.md#scyphozia) [Golem Prime](Golem_Prime.md)  
 1 [Fury Nautilodaunt](Fury_Nautilodaunt.md)  
@@ -456,7 +456,7 @@ Alternatively, if you're using Corrupted Payback, you can get rid of most of the
 5 [Corrupted](Monsters.md#scyphozia) [Diver Husks](Diver_Husk.md) w/ Enchanted [Crypt Blades](Crypt_Blade.md)
 
  | This wave is really easy if you do not rely mainly on your mantras. However, the talent Water off a Duck's Back can remove the [Suffocation](Status_Effects.md#suffocate) from this wave. |
-| 48 (Preparation before the End) | 
+| 48 (There's no joke to this we deadass just ran out of shit to hit you with so we span a wheel and this is what we got.) | 
 
 2 [Corrupted](Monsters.md#scyphozia) [Bounders](Bounder.md)  
 1 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Deep Widow](Deep_Widow.md)  

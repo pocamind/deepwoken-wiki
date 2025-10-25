@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 167895
+revid: 168503
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -362,7 +362,55 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tbody>
 </table>
 
+**Unlockable Dialogue:**
+
 **After Speaking with Sentinel Augustus:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
+</tr>
+<tr>
+  <td colspan="12">Sentinel Agustus requested me to pass you a message, ma'am.</td>
+</tr>
+<tr>
+  <td colspan="12">*The High Inquisitor's typically inscrutable demeanour betrays a tinge of disappointment.*Is that so,[Last Name]?Most curious.Let me guess...He requests to participate in the next interrogation of General Titus Fulminus Destellus. Did i guess correctly?</td>
+</tr>
+<tr>
+  <td colspan="12">...Uncanily so,ma'am. How did you know?</td>
+</tr>
+<tr>
+  <td colspan="12">*The High Inquisitor demonstratively brushes off her shoulder. *All in a day's work, [Last name]. Gathering intel is what an Inquisitor does. *She laughs. Just for a split second, it's like she's another person entirely, before she returns to her stern self. * Of course, I jest. You are not the first Inquisitor he's sent my way with this request.</td>
+</tr>
+<tr>
+  <td colspan="12">If I may ask - who is this 'General Destellus'?</td>
+</tr>
+<tr>
+  <td colspan="12">*She leans back against the wall.*I suppose you're due for an intel briefing, [Last name]. General Titus Fulminus Destellus of the Hundred Legion, commander of the 49th Legion, is currently a prisoner in the Merit Detainment Core. Everything about his case seems unusual. Every circumstance surrounding his capture just raises more questions... Tell you what let's make this a deduction exercise. Where should I start?</td>
+</tr>
+<tr>
+  <td colspan="4">What were the circumstances of his capture?</td>
+  <td colspan="4">I assume he was interogated - what did that yield</td>
+  <td colspan="4">He seems valuable - have the Hundered Legions asked for his return?</td>
+</tr>
+<tr>
+  <td colspan="4">*The High Inquisitor thinks for a moment. * He was captured by a detachment led by Sentinel Augustus in Aratel. They were en route to a separate mission when they encountered General Destellus, with a small detachment of Legion Shock Troopers. The man is known for emerging victorious even against overwhelming odds. yet he was captured in a stray skirmish by a relatively small number of our own soldiers. What next?</td>
+  <td colspan="4">*Disapointment flashes across Merey's face as she frowns. *Not much, unfortunately. He's rather physically and mentally resilient. Conditions were further complicated by the subject's natural resistance to our traditional methods of a electrical shocks to the cerebrum - something to do with the martial techniques he has mastered. In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshhold makes it difficult to apply most other methods.</td>
+  <td colspan="4">*The High Inquisitor thumbs her chin contemplatively. *They have not. The Legions inquired on whether Destellus is alive and in our custody, but did not attempt to negotiate a prisoner exchange. Although, recent events suggest they may be engaging in acts of subterfuge concerning the prisoner. A recent commotion in the Detainment Core was linked to Legion espionage. The circumstances are still under investigation.</td>
+</tr>
+<tr>
+  <td colspan="12">WIP</td>
+</tr>
+</tbody>
+</table>
+
+**Haven't spoken to Merey since joining:**
+
+If you haven't spoken to High Inquisitor Merey since you've joined the division, you will be met with this dialogue. You can still obtain the [Big Brother](Big_Brother.md) by speaking to High Inquisitor Merey again.
 
 <table>
 <tbody>
@@ -370,49 +418,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
+  <td><i>*Despite the visor covering her eyes, the High Inquisitor notices your approach. You both exchange rigid salutes.*</i> Handler [Last Name], is it? I don't believe we've spoken since you first enlisted in my division. But I suppose stealth is the mark of a good Inquisitor. <i>*She gives you an icy smirk.*</i> I've heard good things about your work, Handler. Do you have any questions for me?</td>
 </tr>
 <tr>
   <td>May I ask you something, ma'am?</td>
-  <td>Sentinel Agustus requested me to pass you a message, ma'am.</td>
 </tr>
 <tr>
-  <td>[See First instance]</td>
-  <td>*The High Inquisitor's typically inscrutable demeanour betrays a tinge of disappointment.*Is that so,[Last Name]?Most curious.Let me guess...He requests to participate in the next interrogation of General Titus Fulminus Destellus. Did i guess correctly?</td>
-</tr>
-<tr>
-  <td></td>
-  <td>...Uncanily so,ma'am. How did you know?</td>
-</tr>
-<tr>
-  <td></td>
-  <td>*The High Inquisitor demonstratively brushes off her shoulder. *All in a day's work, [Last name]. Gathering intel is what an Inquisitor does. *She laughs. Just for a split second, it's like she's another person entirely, before she returns to her stern self. * Of course, I jest. You are not the first Inquisitor he's sent my way with this request.</td>
-</tr>
-<tr>
-  <td></td>
-  <td>If I may ask - who is this 'General Destellus'?</td>
-</tr>
-<tr>
-  <td></td>
-  <td>*She leans back against the wall.*I suppose you're due for an intel briefing, [Last name]. General Titus Fulminus Destellus of the Hundred Legion, commander of the 49th Legion, is currently a prisoner in the Merit Detainment Core. Everything about his case seems unusual. Every circumstance surrounding his capture just raises more questions... Tell you what let's make this a deduction exercise. Where should I start?</td>
-</tr>
-<tr>
-  <td></td>
-  <td>What were the circumstances of his capture?</td>
-  <td>I assume he was interogated - what did that yield</td>
-  <td>He seems valuable - have the Hundered Legions asked for his return?</td>
-</tr>
-<tr>
-  <td></td>
-  <td>*The High Inquisitor thinks for a moment. * He was captured by a detachment led by Sentinel Augustus in Aratel. They were en route to a separate mission when they encountered General Destellus, with a small detachment of Legion Shock Troopers. The man is known for emerging victorious even against overwhelming odds. yet he was captured in a stray skirmish by a relatively small number of our own soldiers. What next?</td>
-  <td>*Disapointment flashes across Merey's face as she frowns. *Not much, unfortunately. He's rather physically and mentally resilient. Conditions were further complicated by the subject's natural resistance to our traditional methods of a electrical shocks to the cerebrum - something to do with the martial techniques he has mastered. In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshhold makes it difficult to apply most other methods.</td>
-  <td>*The High Inquisitor thumbs her chin contemplatively. *They have not. The Legions inquired on whether Destellus is alive and in our custody, but did not attempt to negotiate a prisoner exchange. Although, recent events suggest they may be engaging in acts of subterfuge concerning the prisoner. A recent commotion in the Detainment Core was linked to Legion espionage. The circumstances are still under investigation</td>
-</tr>
-<tr>
-  <td></td>
-  <td>[See First instance]</td>
-  <td>I assume he was interogated - what did that yield</td>
-  <td>He seems valuable - have the Hundered Legions asked for his return?</td>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>
