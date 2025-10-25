@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 166053
+revid: 168499
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -10,7 +10,13 @@ categories: [Events, Hallowtide]
 
 | Hallowtide | |
 |---|---|
-| name | Hallowtide Caller |
+| date1 | ?? |
+| date2 | October 31st 2022, October 27th 2023, October 31st 2024, October ?? 2025 |
+| items | Hallowtide-exclusive Weapons, Outfits, and Helmets, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchantment, Pumpkin Pitch, Spectral Instruments, A Light In The Sky |
+| type | Halloween event |
+
+| Hallowtide Caller | |
+|---|---|
 | aspect | Pumpkin(?) |
 | location | Isle of Vigils, near the distant house |
 
@@ -18,65 +24,42 @@ categories: [Events, Hallowtide]
 
 ― Hallowtide Update Logs
 
-  
-
 ## Description
 
 Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th, 2022...
 
-It returned in 2023 on October 27th...
+It returned...
 
-Hallowtide returns once more for 2024, this time added on October 31st and ended on November 16th
+-   in 2023 on October 27th, ending on ??;
+-   in 2024 on October 31st, ending on November 16th;
+-   and in 2025 on ??, ending on ??.
 
 The first Hallowtide added...
 
--   **New Features**
--   [The Floating Keep](The_Floating_Keep.md)
--   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
--   The "[Joy](Joy.md)" System
--   New aspect Variants
-
--   **New Helmets**
--   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)
--   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)
--   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
-
--   **New Weapons**
--   [Skull Piercer](Skull_Piercer.md) (Rapier)
--   [Hallowscleave](Hallowscleave.md) (Sword)
--   [Skyreap Blade](Skyreap_Blade.md) (Greataxe)
+-   **New Features**:
+    -   [The Floating Keep](The_Floating_Keep.md)
+    -   A [Hallowtide Mask](Hallowtide_Mask.md) - crafted with Shell Stock, Paperette, and Fine Ink
+    -   The "[Joy](Joy.md)" System
+-   New [Aspect Variants](#aspect-variants)
+-   **New Helmets**: [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
+-   **New Weapons**: [Skull Piercer](Skull_Piercer.md) (Rapier), [Hallowscleave](Hallowscleave.md) (Sword), [Skyreap Blade](Skyreap_Blade.md) (Greataxe)
 
 The second Hallowtide added...
 
--   **New Features**
--   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
--   [Harrowing](Harrowing.md) Enchant
--   [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra
-
--   **New Helmets**
--   [Mushroom Costume](Mushroom_Costume.md)
--   [Pumpkin Head](Pumpkin_Head.md)
-
--   **New Weapons**
--   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist)
--   [Bloodtide Trident](Bloodtide_Trident.md) (Spear)
--   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer)
--   [Gourdguard](Gourdguard.md) (Shield)
+-   **New Features**:
+    -   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
+    -   [Harrowing](Harrowing.md) Enchant
+    -   [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra
+-   **New Helmets**: [Mushroom Costume](Mushroom_Costume.md), [Pumpkin Head](Pumpkin_Head.md)
+-   **New Weapons**: [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist), [Bloodtide Trident](Bloodtide_Trident.md) (Spear), [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer), [Gourdguard](Gourdguard.md) (Shield)
 
 The third Hallowtide added...
 
--   **New Features**
--   [Spectral Instrument sets](Instruments.md)
--   "A Light in the Sky" book, which also teach the shantie of the same name
-
--   **New Weapons**
--   [Death's Reverie](<Death's_Reverie.md>) (Twinblade)
--   [Spectral Grasp](Spectral_Grasp.md) (Dagger)
--   [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword)
-
--   **New Schematics**
--   [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>)
--   [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>)
+-   **New Features**:
+    -   [Spectral Instrument sets](Instruments.md)
+    -   "[A Light In The Sky](A_Light_In_The_Sky.md)" book, which also teaches the shanty of the same name
+-   **New Weapons**: [Death's Reverie](<Death's_Reverie.md>) (Twinblade), [Spectral Grasp](Spectral_Grasp.md) (Dagger), [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword)
+-   **New Schematics**: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>)
 
 ## New Content
 
@@ -95,9 +78,9 @@ Main article: [Joy](Joy.md)
 ### New Helmets
 
 -   The Familiar Priest Helmet, Familiar Heretic Helmet, and Familiar Knight Helmet can be obtained by turning in 30, 35, and 50 "Joy" respectively. Three of the helmets are references to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), Monad Studios' previous main game.
-    -   The Familiar Priest Helmet is an exact replica of the [Church Knight Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
-    -   The Familiar Heretic Helmet is an exact replica of the [Dark Sigil Knight (Wraith Knight) Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
-    -   The Familiar Knight Helmet is an exact replica of the [Sigil Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
+    -   The Familiar Priest Helmet is an exact replica of the [Church Knight Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
+    -   The Familiar Heretic Helmet is an exact replica of the [Dark Sigil Knight (Wraith Knight) Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
+    -   The Familiar Knight Helmet is an exact replica of the [Sigil Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
     -   The Shroom helmets are a remodeled version of the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) from Rogue Lineage.
     -   The Pumpkin Head is a a replica of the heads on the [Gourdskippers](Pumpkin_Head.md).
 

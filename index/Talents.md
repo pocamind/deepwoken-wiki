@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 168396
+revid: 168500
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1359,25 +1359,26 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Flamecharmer
 
--   Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer.
+-   Flamecharmer \[Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer.
     -   Obtained at 1 Flamecharm or from the Flamecharm trainer [Amashi](Amashi,_Master_of_Flame.md).
 
--   Adept Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
+-   Adept Flamecharmer \[Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
     -   Obtained at 20 Flamecharm
 
--   Expert Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
+-   Expert Flamecharmer \[Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
     -   Obtained at 30 Flamecharm
 
--   Master Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
+-   Master Flamecharmer \[Flamecharm Exclusive\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
     -   Obtained at 50 Flamecharm
 
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity.
     -   Increases burn damage by 12.5%.
-    -   If you have the lava serpent path, the explosion will have less delay before proccing, more posture damage, and a bigger radius with this Talent.
+    -   Increases the radius and posture damage of your Eruptions.
+    -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Prerequisites: 70 Flamecharm, 40 Willpower
 
--   Produce Spark \[Flamecharm Exclusive, Common Mantra Card\] - A simple production of Flame for the use of making Campfires.
-    -   Works as flint
+-   Produce Spark \[Common Talent, Flamecharm Exclusive\] - A simple production of Flame for the use of making Campfires.
+    -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
     -   Prerequisite: 20 Flamecharm
 
 -   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms.
@@ -3641,7 +3642,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Twisted Puppets
 
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
-    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Enchantments.md), and [Railblade's](Railblade.md) criticals and all Flamecharm mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
+    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Blazing.md), and [Railblade's](Railblade.md) criticals and all Flamecharm mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
     -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment, deal Flamecharm damage, and _drain_ 6.25 Ether per tick from affected players.
         -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does 75% less damage than base Flamecharm burn.
         -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does 87.5% less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
@@ -3649,6 +3650,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
     -   Puppets deal 10 posture damage.
     -   Puppets spawn whenever Puppet Burn deals damage with a 4 second cooldown.
+    -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames, Flashboil
 
@@ -3699,10 +3701,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Undying Ember
 
 -   _Denial Repulse_ \[Rare Talent, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death.
-    -   When Flame of Denial activates, release an explosion around you.
+    -   When [Flame of Denial](Flamecharm.md#flame-of-denial) activates, release an explosion around you.
+    -   This explosion deals 20 Flamecharm damage with 5 Flamecharm scaling, adding up to 30 Flamecharm damage at 100 Flamecharm.
+    -   This cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
+    -   This has a windup of 0.6 seconds.
     -   Prerequisite: 40 Willpower, 40 Flamecharm, [Flame of Denial](Flamecharm.md#flame-of-denial) (Mantra)
 
--   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your Graceful Flame burns brightly even underwater. Those that gather around it are soothed and regain sanity.
+-   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your [Graceful Flame](Flamecharm.md#graceful-flame) burns brightly even underwater. Those that gather around it are soothed and regain sanity.
     -   Graceful Flame can now be casted in the [First Layer](First_Layer.md). Graceful Flame passively restores sanity and health to those around it.
     -   Merged with the old Soundness of Mind Talent.
     -   Prerequisites: 40 Willpower, 40 Flamecharm, [Graceful Flame](Flamecharm.md#graceful-flame) (Mantra)

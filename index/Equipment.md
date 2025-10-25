@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 168400
+revid: 168483
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -142,14 +142,10 @@ Innate Effects
 
  | 
 
-Sources
-
- | 
-
 Variants/Set
 
  |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 |  | [Aazel's Horns](<Aazel's_Horns.md>)
 
 (**Legendary**)
@@ -159,12 +155,6 @@ _+8% Fire Armor_
 
 +1 Rare Pip
 
- | 
-
-Found from:
-
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
-
  | N/A |
 | File:Aegis of Enmity2.png | [Aegis of Enmity](Aegis_of_Enmity.md)  
 (**Set**)  
@@ -173,12 +163,6 @@ _+1 Posture_
 
 +2 Legendary Pip  
 **Requires Power 15, Fortitude 10**
-
- | 
-
-Found from:
-
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -191,17 +175,6 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 
 _+Talent: Apothecary_
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](Voidwalker.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
  | Variants:  
 Normal & Big |
 | File:WesternOutlawHat.png | [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
@@ -212,12 +185,6 @@ Normal & Big |
 _+Talent: Mass Effect_  
 _+Set Talent: Offensive Recovery_  
 **Requires Power 20**
-
- | 
-
-Found from:
-
--   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | Variants:  
 Western & Ascended
@@ -238,17 +205,6 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 _+Talent: Deep Wound_  
 **Requires Power 6, Agility 10**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Aelita](Aelita.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Cloaked Assassin](Cloaked_Assassin.md)
-
  | Variants:  
 Gold, Pale, Mist & Crimson
 
@@ -265,56 +221,17 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 _+Talent: Strong Hold_  
 **Requires Power 10, Fortitude 10**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
-
  | N/A |
 | File:Barrel Helmet.png | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
 
 +1 Uncommon Pip  
 **Requires Fortitude 10**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](Voidwalker.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
-Found from:
-
--   [Artifact Turn-ins](Artifacts.md)
-
  | N/A |
 | File:AlchemistHat.png | [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)  
 (**Series**) | +1 Rare Pip
 
 _+Talent: Apothecary_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [War Mode](War_Mode.md)
 
  | Variants:  
 Normal & Big |
@@ -324,35 +241,11 @@ Normal & Big |
 _+Talent: Herbivore_  
 _+Talent: Iron Gut_
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
  | Variants:  
 Normal & Big |
 | File:Black Hood.png | Black Hood  
 (**Series**) | _+1 Posture_  
-_+4% Stealth_ | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Voidwalker Bounties](Voidwalker.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
- | Variants:  
+_+4% Stealth_ | Variants:  
 Black & Brown |
 | 
 
@@ -363,19 +256,6 @@ _+1 Posture_
 +2 Rare Pips  
 _+Talent: Concussive Force_  
 **Requires Power 10, Fortitude 20**
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [First Layer](First_Layer.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [War Mode](War_Mode.md)
 
  | Variants:  
 Blackleaf & Goldleaf |
@@ -390,19 +270,6 @@ File:Blacksteel Helm(Better Lighting).png
 +1 Rare Pip  
 **Requires Power 8, Fortitude 10**
 
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Blacksteel  
 Head: [Blacksteel Helm](Blacksteel_Helm.md)  
 Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
@@ -413,16 +280,6 @@ Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
 _+Talent: The Exterminator_  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
-
  | Variants:  
 Black & Double |
 |  | [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
@@ -432,64 +289,32 @@ _+6% Stealth_
 +2 Rare Pips  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
  | Set: Bloodfeather  
 Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
 Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
 |  | [Bloodforged Crown](Bloodforged_Crown.md)  
-(**Mythical**) | _+5 Health_
+(**Mythical**) | _+5 Health_  
 
 +1 Rare Pip  
-+1 Legendary Pip _+Talent: Cauterized Wounds_ **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
++1 Legendary Pip  
+_+Talent: Cauterized Wounds_  
+**Requires Power 10**
 
  | N/A |
 | File:Static-assets-upload12843990363310254802.png | [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
-(**Set**) | _+3 Health_
+(**Set**) | _+3 Health_  
 
-+2 Rare Pips _+Talent: Emergency Repairs_  
++2 Rare Pips  
+_+Talent: Emergency Repairs_  
 _+Talent: Spare Nails_  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | Set: Brigand  
 Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
 Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
 | File:Brown Hood.png | Brown Hood  
 (**Series**) | _+1 Posture_  
-_+2% Stealth_ | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Voidwalker Bounties](Voidwalker.md)
-
- | Variants:  
+_+2% Stealth_ | Variants:  
 Black & Brown |
 | File:Bulwark Helm.png | [Bulwark Helm](Grand_Authority_Sallet.md) | _+3 Health_
 
@@ -498,34 +323,12 @@ Black & Brown |
 _+Talent: Strong Hold_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
  | N/A |
 | File:Captainskabuto.png | [Captain's Kabuto](<Captain's_Kabuto.md>)  
 (**Series**) | _+8 Health_
 
 +1 Rare Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Variants:  
 Guard's, Royal Guard's, Captain's |
@@ -536,17 +339,6 @@ Guard's, Royal Guard's, Captain's |
 +1 Legendary Pip  
 _+Talent: Grasp On Reality_  
 **Requires Fortitude 15**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Deep Widow](Deep_Widow.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
@@ -562,27 +354,9 @@ _+Talent: Gourmand_
 _+Talent: Umami_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Chef Odiolavoro](Chef_Odiolavoro.md)
-
  | N/A |
 | File:Static-assets-upload321884259233421803.png | [Dark Cowl](Dark_Cowl.md) | _+1 Posture_  
-_+4% Stealth_ | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Artifact Turn-ins](Artifacts.md)
-
- | N/A |
+_+4% Stealth_ | N/A |
 |  | [Dark Owl Chapeau](Dark_Owl_Chapeau.md)
 
 (**Set**)
@@ -594,19 +368,6 @@ _+10% Stealth_
 +1 Legendary Pip  
 _+Talent: Underdog_  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Hell Mode](Hell_Mode.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Dark Owl  
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
@@ -620,36 +381,12 @@ Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
 _+Talent: Already Dead_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Silhuett](Silhuett.md)
--   [The Understrand](The_Understrand.md)
-
  | N/A |
 | File:Deepwoken Hood1.png | [Deepwoken Hood](Deepwoken_Hood.md)  
 (**Set**) | +2 Rare Pips  
 +1 Legendary Pip
 
 **Requires Power 6, Agility 10**
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [First Layer](First_Layer.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Lodestar](Lodestar.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
 
  | Set: Deepwoken  
 Head: [Deepwoken Hood](Deepwoken_Hood.md)  
@@ -660,16 +397,6 @@ Arms: [Deepwoken Cloak](Deepwoken_Cloak.md) |
 +2 Rare Pips  
 _+Talent: The Exterminator_
 
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Variants:  
 Black & Double |
 |  | [Evanspear War Helmet](Evanspear_War_Helmet.md)  
@@ -679,12 +406,6 @@ _+1 Posture_
 
 +1 Legendary Pip  
 **Requires: Power 10, Strength 25**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | Variants:  
 Evanspear & Reinforced
@@ -704,12 +425,6 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 +1 Rare Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Hallowtide (Event)](Hallowtide.md)
-
  | N/A |
 |  | [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)  
 (**Hallowtide**)  
@@ -718,12 +433,6 @@ Found from:
 +1 Uncommon Pip  
 +1 Rare Pip  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Hallowtide (Event)](Hallowtide.md)
 
  | N/A |
 |  | [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)  
@@ -734,29 +443,10 @@ Found from:
 +1 Rare Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Hallowtide (Event)](Hallowtide.md)
-
  | N/A |
 | File:Feathertop Helm.png | [Feathertop Helm](Feathertop_Helm.md) | _+3 Health_
 
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
 | File:Gladiator Helmet.png | Gladiator Helmet
@@ -770,17 +460,6 @@ _+2 Posture_
 _+Talent: Concussive Force_  
 **Requires Power 8, Fortitude 15**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Voidwalker Bounties](Voidwalker.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
-
  | Set: Gladiator  
 Head: Gladiator Helmet  
 Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
@@ -792,21 +471,6 @@ Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
 
 +1 Rare Pip  
 **Requires Fortitude 10**
-
- | 
-
-Found from:
-
--   [Golden Warrior](Golden_Warrior.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Variants:  
 Blackleaf & Goldleaf |
@@ -821,12 +485,6 @@ _+5% Ice Armor_
 _+Talent: Coldseep Reactor_  
 **Requires Power 13**
 
- | 
-
-Found from:
-
--   [The Fisherman](The_Fisherman.md)
-
  | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
 Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
@@ -836,17 +494,6 @@ Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
 +1 Rare Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Artifact Turn-ins](Artifacts.md)
-
  | Variants:  
 Guard's, Royal Guard's, Captain's |
 | File:Guardian helm.png | [Guardian Helmet](Guardian_Helmet.md)  
@@ -855,29 +502,12 @@ _+1 Posture_
 
 **Requires Fortitude 10**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Voidwalker Bounties](Voidwalker.md)
-
  | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
 Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
 | File:Dark Gumshoe Hat1.png | [Gumshoe Hat](Gumshoe_Hat.md)  
 (**Set**)  
-(**Series**) | +1 Rare Pip | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
-
- | Variants:  
+(**Series**) | +1 Rare Pip | Variants:  
 Dark, Grey, Ochre & White
 
   
@@ -892,16 +522,6 @@ Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
 _+Talent: Herbivore_  
 _+Talent: Iron Gut_
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Voidwalker Bounties](Voidwalker.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
-
  | Variants:  
 Normal & Big |
 | File:ImmortalHelm.png | [Immortal Helm](Immortal_Helm.md)  
@@ -911,12 +531,6 @@ Normal & Big |
 _+Talent: Immortality_  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   Mob drop from [Immortal Guardian](Immortal_Guardian.md)
-
  | N/A |
 | File:Investigator's Hat1.png | [Investigator's Hat](<Investigator's_Hat.md>) | _+4 Health_
 
@@ -924,18 +538,6 @@ Found from:
 +1 Rare Pip  
 _+Talent: Give and Take_  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | 
@@ -949,17 +551,6 @@ _+2 Posture_
 +1 Uncommon Pip  
 **Requires Power 10, Fortitude 15**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
-
  | Set: Khan  
 Head: [Khan Helmet](Legion_Helmet.md)  
 Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
@@ -972,40 +563,17 @@ _+1 Posture_
 
 +1 Legendary Pip
 
- | 
-
-Found from:
-
--   [Scion of Ethiron](Scion_of_Ethiron.md)
-
  | N/A |
 |  | [Legate Helm](Legate_Helm.md) | _+5 Health_  
 _+1 Posture_
 
 **Requires Fortitude 5**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [Lodestar](Lodestar.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Voidwalker Bounties](Voidwalker.md)
--   [First Layer](First_Layer.md)
-
  | N/A |
 | File:Jaleel miner hat.png | [Miner's Hardhat](<Miner's_Hardhat.md>) | _+1 Posture_
 
 +2 Rare Pips  
 **Requires Fortitude 5**
-
- | 
-
-Found from:
-
--   Mob drop from [Mineskippers](Mudskipper.md#mineskipper)
 
  | N/A |
 | 
@@ -1019,13 +587,6 @@ File:Monastery Champion Cowl NEW.png
 +2 Rare Pips  
 _+Talent: Blade Dancer_
 
- | 
-
-Found from:
-
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
--   [Etris: Siege](Cinders_of_Etris.md)
-
  | Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
 Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
@@ -1033,21 +594,9 @@ Torso: [Monastery Beads](Monastery_Beads.md) |
 |  | [Mushroom Costume](Mushroom_Costume.md)  
 (**Series**)  
 (**Hallowtide**)  
-(**Legendary**) | N/A | 
-
-Found from:
-
--   [Hallowtide (Event)](Hallowtide.md)
-
- | Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
+(**Legendary**) | N/A | Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
 | File:Party Hat Worn.png | [Party Hat](Party_Hat.md)  
-(**Limited Time Event**) | N/A | 
-
-Found from:
-
--   [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md)
-
- | N/A |
+(**Limited Time Event**) | N/A | N/A |
 |  | [Phalanx Helmet](Phalanx_Helmet.md)  
 (**Set**) | _+3 Health_
 
@@ -1055,17 +604,6 @@ Found from:
 +1 Legendary Pip  
 _+Talent: Precise Swing_  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
@@ -1078,22 +616,10 @@ Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
 _+Talent: Grotesque Resilience_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Interluminary Parasol](Interluminary_Parasol.md)
-
  | N/A |
 |  | [Pumpkin Head](Pumpkin_Head.md)  
 (**Hallowtide**)  
-(**Legendary**) | N/A | 
-
-Found from:
-
--   [Hallowtide (Event)](Hallowtide.md)
-
- | N/A |
+(**Legendary**) | N/A | N/A |
 |  | [Reinforced War Helmet](Reinforced_War_Helmet.md)  
 (**Series**)  
 (**Set**) | _+4 Health_  
@@ -1103,12 +629,6 @@ _+1 Posture_
 _+Talent: Fatal Strike_  
 _+Set Talent: Lasting Trauma_  
 **Requires Power 20, Strength 25**
-
- | 
-
-Found from:
-
--   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | Variants:  
 Evanspear & Reinforced
@@ -1124,13 +644,8 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 (**Series**) | _+8 Health_  
 
 +1 Rare Pip  
-+1 Legendary Pip **Requires Power 10**
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
++1 Legendary Pip  
+**Requires Power 10**
 
  | Variants:  
 Guard's, Royal Guard's, Captain's |
@@ -1139,13 +654,6 @@ Guard's, Royal Guard's, Captain's |
 +1 Legendary Pip  
 _+Talent: Seamaster's Guile_
 
- | 
-
-Found from:
-
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [Voidsea](Voidsea.md) events
-
  | N/A |
 | File:ShockTrooperHelmet.png | [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
 (**Series**)  
@@ -1153,12 +661,6 @@ Found from:
 
 +1 Rare Pip  
 **Requires Power 10, Fortitude 20**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | Variants:  
 Shock Trooper & Specialist
@@ -1177,20 +679,6 @@ Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
 +1 Rare Pip  
 **Requires Power 8, Fortitude 10**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
@@ -1203,30 +691,11 @@ Legs: [Silver Sabatons](Silver_Sabatons.md) |
 _+Talent: Simmerbloom_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Saramaed Hollow](Saramaed_Hollow.md)
-
  | N/A |
 |  | [Smith's Bandana](<Smith's_Bandana.md>)  
 (**Set**) | _+4 Health_
 
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
@@ -1240,12 +709,6 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 _+Talent: Volt Draft_  
 _+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
-
- | 
-
-Found from:
-
--   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | Variants:  
 Shock Trooper & Specialist
@@ -1264,12 +727,6 @@ Legs: [Specialist Boots](Specialist_Boots.md)
 +1 Rare Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   Unobtainable
-
  | Set: Ten-Gallon  
 Head: [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
 Face: [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) |
@@ -1282,12 +739,6 @@ _+10 Ether_
 _+Talent: Cap Artist_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Carnival of Hearts](Carnival_of_Hearts.md)
-
  | N/A |
 | File:Slate Tophat.png | [Tophat](Tophat.md)  
 (**Series**)  
@@ -1296,12 +747,6 @@ Found from:
 +1 Uncommon Pip  
 +1 Rare Pip  
 _+Talent: Give and Take_
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
 
  | Variants:  
 Beige, Burgundy & Slate
@@ -1318,31 +763,11 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 +1 Uncommon Pip
 
- | 
-
-Found from:
-
--   Unobtainable
-
  | N/A |
 |  | [Vigil Hood](Vigil_Hood.md) | +2 Rare Pips  
 +1 Legendary Pip  
 
 **Requires Power 6, Agility 10**
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
  | N/A |
 | File:Navy Warlock Brim.png | [Warlock's Brim](<Warlock's_Brim.md>)  
@@ -1352,12 +777,6 @@ Found from:
 
 +2 Legendary Pips  
 **Requires Power 16**
-
- | 
-
-Found from:
-
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | Variants:  
 Lilac, Navy, Sky, Verdant
@@ -1375,12 +794,6 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 +1 Legendary Pip  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
-
  | Variants:  
 Western & Ascended
 
@@ -1397,12 +810,6 @@ Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
 +1 Uncommon Pip
 
- | 
-
-Found from:
-
--   [Mod Shop](Developer_Specs.md)
-
  | N/A |
 |  | [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>)  
 (**Unobtainable**) | _+10% Health_  
@@ -1410,23 +817,11 @@ _+5 Posture_
 
 _+Talent: Ashes on the Fire_
 
- | 
-
-Found from:
-
--   [Developer Specs](Developer_Specs.md)
-
  | N/A |
 |  | [MICROWAVETM](MICROWAVETM.md)  
 (**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Mod Shop](Developer_Specs.md)
 
  | N/A |
 |  | [Moderator Cap](Moderator_Cap.md)  
@@ -1434,33 +829,15 @@ Found from:
 
 +1 Uncommon Pip
 
- | 
-
-Found from:
-
--   [Mod Shop](Developer_Specs.md)
-
  | N/A |
 |  | [THE MACHINE](THE_MACHINE.md)  
 (**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
 
- | 
-
-Found from:
-
--   [Mod Shop](Developer_Specs.md)
-
  | N/A |
 |  | [Worldshaper's Laurel](<Worldshaper's_Laurel.md>)  
-(**Unobtainable**) | N/A | 
-
-Found from:
-
--   Prize from winning a [Fanart Contest](Developer_Specs.md)
-
- | N/A |
+(**Unobtainable**) | N/A | N/A |
 
 **Arms:**
 
@@ -1477,14 +854,10 @@ Innate Effects
 
  | 
 
-Sources
-
- | 
-
 Variants/Set
 
  |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 |  | [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
 (**Set**)  
 (**Animated**)  
@@ -1494,12 +867,6 @@ Variants/Set
 _+Talent: Braced Collapse_  
 _+Talent: Kick Off_  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | Set: Abyss Wanderer  
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
@@ -1511,14 +878,6 @@ Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
 _+Talent: Unwavering Resolve_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [Aelita](Aelita.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
-
  | Variants:  
 Ash, Pink, Rural, Sable & Tawny |
 |  | [Adventurer Coat](Adventurer_Coat.md)  
@@ -1527,12 +886,6 @@ Ash, Pink, Rural, Sable & Tawny |
 
 +2 Rare Pips  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
 
  | Variants:  
 Black, Brown, Green, White |
@@ -1544,12 +897,6 @@ Black, Brown, Green, White |
 +1 Legendary Pip  
 _+Talent: Art of the Deal_  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
 
  | Variants:  
 Beige, Burgundy & Slate
@@ -1570,12 +917,6 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 _+Talent: Ether Pinpoint_  
 _+Set Talent: Offensive Recovery_  
 **Requires Power 20**
-
- | 
-
-Found from:
-
--   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | Variants:  
 Western & Ascended
@@ -1599,20 +940,6 @@ _+3% Stealth_
 _+Talent: Lowstride_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md) (Rogue Mech)
--   [Aelita](Aelita.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aratel Island](Aratel_Island.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [First Layer](First_Layer.md)
--   [Cloaked Assassin](Cloaked_Assassin.md)
--   [Carnival of Hearts](Carnival_of_Hearts.md)
-
  | Variants:  
 Crimson, Gold, Mist & Pale
 
@@ -1629,12 +956,6 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 +2 Rare Pips  
 **Requires Power 13**
 
- | Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [Aelita](Aelita.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
-
  | Variants:  
 Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
 | File:Autumn pauldrons.png | [Autumn Pauldrons](Autumn_Pauldrons.md)  
@@ -1642,19 +963,6 @@ Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
 
 +2 Rare Pips  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [First Layer](First_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
@@ -1664,12 +972,6 @@ Legs: [Autumn Boots](Autumn_Boots.md) |
 +1 Legendary Pip  
 
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~33%**)
 
  | Set: Azure Royal Guard  
 Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
@@ -1681,12 +983,6 @@ _+2 Posture_
 
 +3 Legendary Pips  
 **Requires Power 13, Fortitude 10**
-
- | 
-
-Found from:
-
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -1701,17 +997,6 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 +1 Rare Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Hell Mode](Hell_Mode.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
-
  | Variants:  
 Black, Brown, & White |
 | File:Black Parka.png | Black Parka  
@@ -1722,21 +1007,6 @@ _+1 Posture_
 _+Talent: Steady Footing_  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Lodestar](Lodestar.md)
--   [Aratel Island](Aratel_Island.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   Mob drop from [Authority Captain](Authority_Captain.md) (**~15%**)
-
  | Variants:  
 Black, Brown & White |
 | File:Blacksteel Pauldron.png | [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)  
@@ -1745,20 +1015,6 @@ _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [First Layer](First_Layer.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Set: Blacksteel  
 Head: [Blacksteel Helm](Blacksteel_Helm.md)  
@@ -1771,17 +1027,6 @@ Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
 
 +2 Rare Pips  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Bluesteel & Bluestone
@@ -1803,12 +1048,6 @@ _+Talent: Ether Emergency_
 _+Set Talent: Etherguard_  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   Crafting
-
  | Variants:  
 Bluesteel & Bluestone
 
@@ -1825,19 +1064,6 @@ _+4% Stealth_
 +2 Rare Pips  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Brigand  
 Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
 Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
@@ -1848,41 +1074,13 @@ Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
 +1 Legendary Pip  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   Trading with [Jeremiah](Jeremiah.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [War Mode](War_Mode.md)
-
  | Set: Brilliant  
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
 Torso: [Brilliant Cape](Brilliant_Cape.md) |
 | File:Brown Overcoat.png | Brown Overcoat  
 (**Series**) | _+2 Health_  
-_+1 Posture_ | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Summer Isle](Summer_Isle.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | Variants:  
+_+1 Posture_ | Variants:  
 Black, Brown, & White |
 | File:Brown Parka.png | Brown Parka  
 (**Series**) | _+2 Health_  
@@ -1891,18 +1089,6 @@ _+1 Posture_
 +1 Rare Pip  
 _+Talent: Steady Footing_  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Lodestar](Lodestar.md)
--   [Aratel Island](Aratel_Island.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Variants:  
 Black, Brown & White |
@@ -1913,20 +1099,6 @@ Black, Brown & White |
 +1 Legendary Pip  
 _+Talent: Breathing Exercise_  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [War Mode](War_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
@@ -1942,12 +1114,6 @@ Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
 _+Talent: No Interruptions_  
 **Requires Power 20**
 
- | 
-
-Found from:
-
--   Crafting in the [Detainment Core](Merit_Detainment_Core.md)
-
  | Variants:  
 Titus's & Champion's |
 |  | [Dark Owl Cloak](Dark_Owl_Cloak.md)  
@@ -1958,19 +1124,6 @@ _+6% Stealth_
 +1 Legendary Pip  
 _+Talent: Disbelief_  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Deep Widow](Deep_Widow.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Set: Dark Owl  
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
@@ -1986,15 +1139,6 @@ _+1 Posture_
 +1 Legendary Pip  
 _+Talent: Blade Dancer_  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [Starfield Veldt](Starfield_Veldt.md)
--   [War Mode](War_Mode.md)
 
  | Variants:  
 Black & White
@@ -2013,14 +1157,6 @@ _+Talent: Braced Collapse_
 _+Talent: Kick Off_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Miner's Landing](<Miner's_Landing.md>)
-
  | N/A |
 |  | [Diver's Light Plate](<Diver's_Light_Plate.md>)  
 (**Mythical**) | _+10 Health_  
@@ -2029,12 +1165,6 @@ _+1 Posture_
 +3 Legendary Pips  
 _+Talent: Conquer Your Fears_  
 **Requires Power 13, Fortitude 5**
-
- | 
-
-Found from:
-
--   Automatically obtained when winning [Hell Mode](Hell_Mode.md) (Repeatable)
 
  | N/A |
 |  | [Enforcer Plate](Enforcer_Plate.md)  
@@ -2045,13 +1175,6 @@ Found from:
 _+Talent: Berserker_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
--   [The Enforcer](Enforcer.md)
-
  | N/A |
 | File:Etrean Siege Cuirass.png | [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
 (**Set**) | _+8 Health_
@@ -2061,20 +1184,6 @@ Found from:
 +1 Legendary Pip  
 _+Talent: Battle Tendency_  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Etrean Siege  
 Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
@@ -2088,12 +1197,6 @@ _+2 Posture_
 +1 Rare Pip  
 +1 Legendary Pip  
 **Requires Power 10, Strength 25**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | Variants:  
 Evanspear & Reinforced
@@ -2113,12 +1216,6 @@ _+2 Posture_
 +2 Rare Pips  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   Mob Drop from [King Thresher](King_Thresher.md) (**~3%**)
-
  | Variants:  
 Azure, Cloud, Jade, Lavender & Umber |
 | File:Flameguard.png | [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
@@ -2127,15 +1224,6 @@ _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Set: Flameguard  
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
@@ -2146,23 +1234,6 @@ Legs: [Flameguard Boots](Flameguard_Boots.md) |
 
 +2 Rare Pips  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Aratel Island](Aratel_Island.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Second Layer](Second_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Black & White
@@ -2180,16 +1251,6 @@ _+1 Posture_
 +1 Rare Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Voidwalker Bounties](Voidwalker.md)
-
  | Set: Gladiator  
 Head: Gladiator Helmet  
 Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
@@ -2199,14 +1260,6 @@ _+3 Posture_
 +1 Rare Pip  
 _+Talent: Lightweight_  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   Buying from [Merchant Ships](Travelling_Merchant.md)
 
  | N/A |
 | 
@@ -2222,18 +1275,6 @@ File:Gauthority.png
 _+Talent: Heavy Haul_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Second Layer](Second_Layer.md)
--   [Deep Widow](Deep_Widow.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Grand Authority  
 Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
 Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
@@ -2246,12 +1287,6 @@ _+1 Posture_
 _+Talent: Diver's Resilience_  
 **Requires Power 13**
 
- | 
-
-Found from:
-
--   [The Fisherman](The_Fisherman.md)
-
  | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
 Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
@@ -2261,44 +1296,17 @@ Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
 +2 Rare Pips  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
-
  | Set: Grand  
 Arms: [Grand Pauldrons](Grand_Pauldrons.md)  
 Legs: [Grand Boots](Grand_Boots.md) |
 |  | [Guardian Pauldrons](Guardian_Pauldrons.md)  
 (**Set**) | _+2 Health_  
-_+1 Posture_ | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](Voidwalker.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Summer Isle](Summer_Isle.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
-
- | Set: Guardian  
+_+1 Posture_ | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
 Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
 | File:Gumshoe Long Coat.png | [Gumshoe Longcoat](Gumshoe_Longcoat.md)  
 (**Series**)  
-(**Set**) | +1 Rare Pip | 
-
-Found from:
-
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
-
-Found from:
-
--   Drop from [Dread Serpent](Dread_Serpent.md)
-
- | Variants:  
+(**Set**) | +1 Rare Pip | Variants:  
 Dark, Ochre, Grey & White
 
   
@@ -2316,19 +1324,6 @@ _+2 Posture_
 _+Talent: Lowstride_  
 **Requires Power 13**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   Buying from [Merchant Ships](Travelling_Merchant.md)
-
  | N/A |
 | File:IgnitionGauntlets.png | [Ignition Gauntlets](Ignition_Gauntlets.md)  
 (**Legendary**) | _+8 Health_  
@@ -2339,15 +1334,6 @@ _+1 Posture_
 _+Talent: Force Your Way_  
 **Requires Power 13**
 
- | 
-
-Found from:
-
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
  | N/A |
 | File:Imperial Pauldrons.png | [Imperial Pauldrons](Imperial_Pauldrons.md)  
 (**Set**) | _+7 Health_  
@@ -2355,17 +1341,6 @@ _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Imperial  
 Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
@@ -2376,26 +1351,12 @@ Legs: [Imperial Boots](Imperial_Boots.md) |
 
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
-
  | Variants:  
 Brown, Dark, Navy, Smoke & Titan |
 | File:Iron Pauldrons1.png | [Iron Pauldrons](Iron_Pauldrons.md)  
 (**Set**) | +2 Rare Pips
 
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [Isle of Vigils](Isle_of_Vigils.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**~50%**)
 
  | Set: Iron  
 Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
@@ -2409,30 +1370,12 @@ _+5% Ironsing Armor_
 _+Talent: Defiant until the End_  
 **Requires Power 13, Fortitude 15**
 
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Second Layer](Second_Layer.md)
--   [War Mode](War_Mode.md)
-
  | N/A |
 | File:Faded Justicar Coat.png | Justicar Defender  
 (**Series**)  
 (**Animated**) | +2 Rare Pips
 
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Aelita](Aelita.md) **(10%)**
--   [The Ferryman](The_Ferryman.md) (Winter) **(10%)**
--   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (**~2%**)
 
  | Variants:  
 Red, Black, Faded, Jet Black, Orange & Purple |
@@ -2442,18 +1385,6 @@ Red, Black, Faded, Jet Black, Orange & Purple |
 _+Talent: Polite Awakening_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | N/A |
 |  | [Leather Gloves](Leather_Gloves.md)  
 (**Set**) | _+2 Health_  
@@ -2461,32 +1392,12 @@ _+1 Posture_
 
 +1 Common Pip
 
- | 
-
-Found from:
-
--   Obtained during the [Tutorial](Tutorial.md)
--   Obtained on spawn if you have the _Starter Equipment_ [Echo Unlock](Echoes.md)
--   [Erisia](Erisia.md)
--   [Brainsucker](Brainsucker.md)
--   [First Layer](First_Layer.md)
--   [Lodestar](Lodestar.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
  | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
 Legs: [Leather Boots](Leather_Boots.md) |
 |  | [Leather Pauldrons](Leather_Pauldrons.md)  
 (**Set**) | _+5 Health_  
-_+1 Posture_ | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Brainsucker](Brainsucker.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
-
- | Set: Leather  
+_+1 Posture_ | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
 Legs: [Leather Boots](Leather_Boots.md) |
 |  | [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
@@ -2497,18 +1408,6 @@ _+2 Posture_
 +1 Legendary Pip  
 _+Talent: Hoplite_  
 **Requires Power 13**
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
--   [War Mode](War_Mode.md)
--   [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
  | Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
@@ -2521,12 +1420,6 @@ Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
 +2 Rare Pips  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   Mob Drop from [Megalodaunts](Megalodaunt.md) (**~3%**)
-
  | Variants:  
 Red, Purple, Brown, Green, Blue & Peach |
 |  | [Mercenary's Garb](<Mercenary's_Garb.md>)  
@@ -2536,19 +1429,6 @@ Red, Purple, Brown, Green, Blue & Peach |
 +1 Legendary Pip  
 _+Talent: Kick Off_  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Hell Mode](Hell_Mode.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [War Mode](War_Mode.md)
 
  | Set: Mercenary  
 Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
@@ -2562,12 +1442,6 @@ _+10 Ether_
 +1 Legendary Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Valley of Heroes, Hero Blade Event](Minityrsa.md) (~20%)
-
  | Variants:  
 Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
 |  | [Ministry Operative Cloak](Ministry_Operative_Cloak.md) | _+6% Stealth_
@@ -2576,19 +1450,6 @@ Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
 +1 Legendary Pip  
 _+Talent: Eureka_  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
 
  | N/A |
 | 
@@ -2605,13 +1466,6 @@ _+1 Posture_
 _+Talent: Temple Guard_  
 **Requires Power 13**
 
- | 
-
-Found from:
-
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
--   [Etris: Siege](Cinders_of_Etris.md)
-
  | Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
 Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
@@ -2624,15 +1478,6 @@ _+3 Posture_
 +1 Legendary Pip  
 **Requires Power 13**
 
- | 
-
-Found from:
-
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [First Layer](First_Layer.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
  | N/A |
 |  | [Novice Brace](Novice_Brace.md)  
 (**Set**) | _+2 Health_  
@@ -2640,21 +1485,6 @@ _+1 Posture_
 
 +1 Rare Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
 
  | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
@@ -2669,12 +1499,6 @@ Legs: [Novice Boots](Novice_Boots.md) |
 +1 Legendary Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   Mob Drop from [Nautilodaunt](Nautilodaunt.md) (**~3%**)
-
  | Variants:  
 Ash, Black, Crimson, Sage & Magenta |
 |  | [Providence Coat](Providence_Coat.md)  
@@ -2685,14 +1509,6 @@ Ash, Black, Crimson, Sage & Magenta |
 _+Talent: Braced Collapse_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [War Mode](War_Mode.md)
-
  | N/A |
 |  | [Ranger's Brace](<Ranger's_Brace.md>)  
 (**Set**) | _+3 Health_  
@@ -2700,18 +1516,6 @@ _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Ranger  
 Arms: [Ranger's Brace](<Ranger's_Brace.md>)  
@@ -2722,20 +1526,6 @@ _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Second Layer](Second_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Redsteel  
 Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
@@ -2751,12 +1541,6 @@ _+2 Posture_
 _+Talent Crippling Impact_  
 _+Set Talent: Lasting Trauma_  
 **Requires Power 20, Strength 25**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | Variants:  
 Evanspear & Reinforced
@@ -2774,14 +1558,6 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
-
  | Variants:  
 Dark, Faded, Purple, Red, Rose & Stained |
 |  | [Royal Pathfinder](Royal_Pathfinder.md)  
@@ -2792,29 +1568,12 @@ Dark, Faded, Purple, Red, Rose & Stained |
 _+Talent: Ready or Not_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
-
  | N/A |
 | File:Sailor's Fleece.png | [Sailor's Fleece](<Sailor's_Fleece.md>)  
 (**Series**) | _+1 Posture_
 
 +1 Rare Pip  
 _Requires Power 2_
-
- | 
-
-Found from:
-
--   [Voidsea](Voidsea.md) Events
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
  | Variants:  
 Default, Dark |
@@ -2828,18 +1587,6 @@ _+4% Stealth_
 _+Talent: Kick Off_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [War Mode](War_Mode.md)
--   [Lodestar](Lodestar.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
-
  | Set: Sandrunner  
 Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)  
 Torso: [Sandrunner Scarf](Sandrunner_Scarf.md) |
@@ -2850,12 +1597,6 @@ Torso: [Sandrunner Scarf](Sandrunner_Scarf.md) |
 
 +2 Rare Pips  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | Variants:  
 Shock Trooper & Specialist
@@ -2874,19 +1615,6 @@ _+1 Posture_
 +2 Rare Pips  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
@@ -2896,35 +1624,12 @@ _+1 Posture_
 
 +1 Common Pip
 
- | 
-
-Found from:
-
--   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
--   [Pure Ore Turn-ins](Blacksmith.md)
--   [Summer Isle](Summer_Isle.md)
-
  | N/A |
 | File:Smithgloves.png | [Smith's Gloves](<Smith's_Gloves.md>)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
@@ -2939,12 +1644,6 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 _+Talent: Stormcall_  
 _+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
-
- | 
-
-Found from:
-
--   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | Variants:  
 Shock Trooper & Specialist
@@ -2966,17 +1665,6 @@ _+1 Posture_
 _+Talent: Star Duster_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [First Layer](First_Layer.md)
--   [War Mode](War_Mode.md)
-
  | Set: Star  
 Arms: [Star Duster](Star_Duster.md)  
 Legs: [Star Boots](Star_Boots.md) |
@@ -2986,17 +1674,6 @@ _+1 Posture_
 +1 Uncommon Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   \[\[Voidwalker|Voidwalker Bounties\]
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
-
  | N/A |
 |  | [Summer Scarf](Summer_Scarf.md)  
 (**Series**)  
@@ -3004,13 +1681,6 @@ Found from:
 
 +1 Legendary Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | Variants:  
 Default, Threadwork |
@@ -3023,12 +1693,6 @@ Default, Threadwork |
 +1 Legendary Pip  
 **Requires Power 15**
 
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
-
  | Variants:  
 Titus's & Champion's |
 |  | [Tracker's Brace](<Tracker's_Brace.md>)  
@@ -3037,18 +1701,6 @@ _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [War Mode](War_Mode.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Tracker  
 Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
@@ -3061,17 +1713,6 @@ _+1 Posture_
 _+Talent: Replenishing Knockout_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
-
  | Set: Vanguard  
 Arms: [Vanguard Brace](Vanguard_Brace.md)  
 Legs: [Vanguard Boots](Vanguard_Boots.md) |
@@ -3080,13 +1721,6 @@ _+2 Posture_
 
 +2 Legendary Pips  
 **Requires Power 13**
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Navy Warlock Mantle.png | [Warlock's Mantle](<Warlock's_Mantle.md>)  
@@ -3099,12 +1733,6 @@ Found from:
 +2 Legendary Pips  
 _+Talent: Overflowing Dam_  
 **Requires Power 13, Intelligence 5**
-
- | 
-
-Found from:
-
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 
  | Variants:  
 Lilac, Navy, Sky, Verdant
@@ -3123,12 +1751,6 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 +1 Legendary Pip  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
-
  | Variants:  
 Western & Ascended
 
@@ -3145,18 +1767,6 @@ Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
 +1 Uncommon Pip
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Summer Isle](Summer_Isle.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [War Mode](War_Mode.md)
-
  | Variants:  
 Black, Brown, & White |
 | File:White Parka.png | White Parka  
@@ -3166,20 +1776,6 @@ Black, Brown, & White |
 +1 Rare Pip  
 _+Talent: Steady Footing_  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Aratel Island](Aratel_Island.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Variants:  
 Black, Brown & White |
@@ -3196,18 +1792,6 @@ _+5% Wind Armor_
 _+Talent: Winter's Protection_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
--   [Hell Mode](Hell_Mode.md)
-
  | Set: Winter Corps  
 Arms: [Winter Corps Parka](Winter_Corps_Parka.md)  
 Legs: [Winter Corps Boots](Winter_Corps_Boots.md) |
@@ -3217,16 +1801,6 @@ Legs: [Winter Corps Boots](Winter_Corps_Boots.md) |
 +2 Rare Pips  
 _+Talent: Polite Awakening_  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Woodland  
 Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
@@ -3238,29 +1812,11 @@ _+5 Posture_
 _+Talent: Chains of Eternity_  
 _+Talent: Cognito Hazard_
 
- | 
-
-Found from:
-
--   [Developer Specs](Developer_Specs.md)
-
  | N/A |
 |  | [Stag Wraps](Stag_Wraps.md)  
-(**Unobtainable**) | Confidential Information | 
-
-Found from:
-
--   [Developer Specs](Developer_Specs.md)
-
- | N/A |
+(**Unobtainable**) | Confidential Information | N/A |
 |  | [Phoenix Duster](Phoenix_Duster.md)  
-(**Unobtainable**) | Confidential Information | 
-
-Found from:
-
--   [Developer Specs](Developer_Specs.md)
-
- | N/A |
+(**Unobtainable**) | Confidential Information | N/A |
 
 **Legs:**
 
@@ -3277,14 +1833,10 @@ Innate Effects
 
  | 
 
-Sources
-
- | 
-
 Variants/Set
 
  |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 |  | [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>)  
 (**Set**)  
 (**Legendary**) | _+5 Health_
@@ -3292,12 +1844,6 @@ Variants/Set
 +2 Rare Pips  
 +1 Legendary Pips  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Saramaed Hollow](Saramaed_Hollow.md)
 
  | Set: Abyss Wanderer  
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
@@ -3312,12 +1858,6 @@ _+3% Wind Armor_
 _+Talent: Stronger Under Pressure_  
 _+Set Talent: Offensive Recovery_  
 **Requires Power 20**
-
- | 
-
-Found from:
-
--   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | Variants:  
 Western & Ascended
@@ -3336,19 +1876,6 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
 Legs: [Autumn Boots](Autumn_Boots.md) |
@@ -3356,12 +1883,6 @@ Legs: [Autumn Boots](Autumn_Boots.md) |
 (**Set**) | +2 Rare Pips
 
 **Requires Power 4**
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
 
  | Set: Azure Royal Guard  
 Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
@@ -3372,20 +1893,6 @@ Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
 
 +2 Rare Pips  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Bluesteel & Bluestone
@@ -3405,12 +1912,6 @@ _+Talent: I'm Blue_
 _+Set Talent: Etherguard_  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   Crafting
-
  | Variants:  
 Bluesteel & Bluestone
 
@@ -3425,19 +1926,6 @@ Legs: [Bluestone Boots](Bluestone_Boots.md)
 
 **Requires Power 4**
 
- | 
-
-Found from:
-
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Hell Mode](Hell_Mode.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Brilliant  
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
@@ -3449,12 +1937,6 @@ Torso: [Brilliant Cape](Brilliant_Cape.md) |
 _+Talent: Cosmic Connection_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   Crafting at [The Cold Forge](The_Cold_Forge.md)
-
  | Variants:  
 Star & Celestial |
 | 
@@ -3463,18 +1945,6 @@ Star & Celestial |
 (**Set**) | _+4 Health_
 
 +2 Rare Pips
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
 
  | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
@@ -3485,25 +1955,11 @@ Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
 +1 Uncommon Pip  
 _+Talent: Surestep_
 
- | 
-
-Found from:
-
--   [Crafting](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
-
  | N/A |
 |  | [Enforcer Boots](Enforcer_Boots.md)  
 (**Set**) | +2 Rare Pips
 
 **Requires Power 4**
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [The Enforcer](Enforcer.md)
 
  | Set: Enforcer  
 Arms: [Enforcer Plate](Enforcer_Plate.md)  
@@ -3514,19 +1970,6 @@ Legs: [Enforcer Boots](Enforcer_Boots.md) |
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
-
  | Set: Etrean Siege  
 Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
 Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
@@ -3536,12 +1979,6 @@ Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
 
 +1 Uncommon Pip  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | Variants:  
 Evanspear & Reinforced
@@ -3559,18 +1996,6 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Hell Mode](Hell_Mode.md)
--   [Lodestar](Lodestar.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Flameguard  
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
 Legs: [Flameguard Boots](Flameguard_Boots.md) |
@@ -3580,25 +2005,6 @@ Legs: [Flameguard Boots](Flameguard_Boots.md) |
 
 +2 Rare Pips  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Hell Mode](Hell_Mode.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [War Mode](War_Mode.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  | Variants:  
 Black & White
@@ -3615,18 +2021,6 @@ Legs: [Fur Boots](Fur_Boots.md)
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
--   [War Mode](War_Mode.md)
-
  | Set: Grand Authority  
 Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
 Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
@@ -3634,14 +2028,6 @@ Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
 (**Set**) | +2 Rare Pips
 
 **Requires Power 4**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [First Layer](First_Layer.md)
 
  | Set: Grand  
 Arms: [Grand Pauldrons](Grand_Pauldrons.md)  
@@ -3653,15 +2039,6 @@ Legs: [Grand Boots](Grand_Boots.md) |
 +1 Legendary Pip  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [War Mode](War_Mode.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Starswept Valley](The_Starswept_Valley.md)
-
  | Set: Imperial  
 Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
 Legs: [Imperial Boots](Imperial_Boots.md) |
@@ -3669,13 +2046,6 @@ Legs: [Imperial Boots](Imperial_Boots.md) |
 (**Set**) | +2 Rare Pips
 
 **Requires Power 4**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
 
  | Set: Iron  
 Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
@@ -3686,37 +2056,12 @@ Legs: [Iron Boots](Iron_Boots.md) |
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Aratel Island](Aratel_Island.md)
--   [Brainsucker](Brainsucker.md)
--   [Deep Widow](Deep_Widow.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [War Mode](War_Mode.md)
-
  | Set: Khan  
 Head: [Khan Helmet](Legion_Helmet.md)  
 Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
 Legs: [Khan Boots](Legion_Boots.md) |
 | File:Leather Boots NEW.png | [Leather Boots](Leather_Boots.md)  
-(**Set**) | +1 Common Pip | 
-
-Found from:
-
--   Obtained on spawn if you have the _Starter Equipment_ [Echo Unlock](Echoes.md)
--   [Fishing](Fishing.md)
--   [Erisia](Erisia.md)
--   [Brainsucker](Brainsucker.md)
-
- | Set: Leather  
+(**Set**) | +1 Common Pip | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
 Legs: [Leather Boots](Leather_Boots.md) |
 |  | [Mercenary's Boots](<Mercenary's_Boots.md>)  
@@ -3727,20 +2072,6 @@ Legs: [Leather Boots](Leather_Boots.md) |
 _+Talent: Endurance Runner_  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Mercenary  
 Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
 Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
@@ -3749,16 +2080,6 @@ Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
 
 +2 Rare Pips  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Fort Merit](Fort_Merit.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
@@ -3769,36 +2090,12 @@ Legs: [Novice Boots](Novice_Boots.md) |
 
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
-
  | Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
 | File:Ranger Boots.png | [Ranger's Boots](<Ranger's_Boots.md>)  
-(**Set**) | +1 Rare Pip | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Aratel Island](Aratel_Island.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
- | Set: Ranger  
+(**Set**) | +1 Rare Pip | Set: Ranger  
 Arms: [Ranger's Brace](<Ranger's_Brace.md>)  
 Legs: [Ranger's Boots](<Ranger's_Boots.md>) |
 |  | [Redsteel Boots](Redsteel_Boots.md)  
@@ -3806,17 +2103,6 @@ Legs: [Ranger's Boots](<Ranger's_Boots.md>) |
 
 +2 Rare Pips  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [First Layer](First_Layer.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Redsteel  
 Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)  
@@ -3829,12 +2115,6 @@ Legs: [Redsteel Boots](Redsteel_Boots.md) |
 _+Talent: Repeated Blows_  
 _+Set Talent: Lasting Trauma_  
 **Requires Power 20**
-
- | 
-
-Found from:
-
--   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | Variants:  
 Evanspear & Reinforced
@@ -3853,12 +2133,6 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 +1 Uncommon Pip  
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
-
  | Variants:  
 Shock Trooper & Specialist
 
@@ -3875,17 +2149,6 @@ Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
  | Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
@@ -3899,12 +2162,6 @@ _+Talent: Flashwind_
 _+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
 
- | 
-
-Found from:
-
--   Crafting in the [Merit Detainment Core](Merit_Detainment_Core.md)
-
  | Variants:  
 Shock Trooper & Specialist
 
@@ -3917,25 +2174,11 @@ Legs [Specialist Boots](Specialist_Boots.md)
  |
 |  | [Star Boots](Star_Boots.md)  
 (**Series**)  
-(**Set**) | _+5 Health_
+(**Set**) | _+5 Health_  
 
 +2 Rare Pips  
-+1 Legendary Pip **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Deep Widow](Deep_Widow.md) (The Depths)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Lodestar](Lodestar.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
++1 Legendary Pip  
+**Requires Power 10**
 
  | Variants:  
 Star & Celestial
@@ -3952,19 +2195,6 @@ Legs: [Star Boots](Star_Boots.md)
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [War Mode](War_Mode.md)
-
  | Set: Tracker  
 Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
 Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
@@ -3973,17 +2203,6 @@ Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
 
 +2 Rare Pips  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Aratel Island](Aratel_Island.md)
--   [Lodestar](Lodestar.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  | Set: Vanguard  
 Arms: [Vanguard Brace](Vanguard_Brace.md)  
@@ -3995,12 +2214,6 @@ _+1 Posture_
 
 +2 Legendary Pips  
 **Requires Power 15**
-
- | 
-
-Found from:
-
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -4016,12 +2229,6 @@ _+3% Wind Armor_
 +1 Uncommon Pip  
 +1 Rare Pip  
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | Variants:  
 Western & Ascended
@@ -4040,20 +2247,6 @@ Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 +2 Rare Pips  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   Buying from [Merchant Ships](Travelling_Merchant.md)
-
  | Set: Winter Corps  
 Arms: [Winter Corps Parka](Winter_Corps_Parka.md)  
 Legs: [Winter Corps Boots](Winter_Corps_Boots.md) |
@@ -4062,18 +2255,6 @@ Legs: [Winter Corps Boots](Winter_Corps_Boots.md) |
 
 +2 Rare Pips  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Woodland  
 Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)  
@@ -4094,25 +2275,14 @@ Innate Effects
 
  | 
 
-Sources
-
- | 
-
 Variants/Set
 
  |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | File:Black Cape.png | Black Cape(**Series**) | _+3% Physical Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
 
  | Variants:  
 Black & Golden |
@@ -4121,12 +2291,6 @@ Black & Golden |
 
 +1 Legendary Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Dread Serpent](Dread_Serpent.md)
 
  | Set: Brilliant  
 Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
@@ -4138,20 +2302,6 @@ Torso: [Brilliant Cape](Brilliant_Cape.md) |
 +1 Legendary Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
-
  | N/A |
 | File:Confessors Charm.png | [Confessor's Charm](<Confessor's_Charm.md>) | _+3% Physical Armor_
 
@@ -4159,36 +2309,11 @@ Found from:
 +1 Legendary Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | N/A |
 |  | [Curseblood Pendant](Curseblood_Pendant.md) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
 
  | N/A |
 |  | [Dark Owl Cape](Dark_Owl_Cape.md)  
@@ -4198,19 +2323,6 @@ _+2% Stealth_
 
 +1 Legendary Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Lodestar](Lodestar.md)
--   [Hell Mode](Hell_Mode.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [War Mode](War_Mode.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | Set: Dark Owl  
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
@@ -4222,12 +2334,6 @@ Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
 +2 Legendary Pips
 
 **Requires Power 10**
-
- | 
-
-Found from:
-
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -4243,12 +2349,6 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 +1 Legendary Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
-
  | Variants:  
 Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 | File:Golden Cape.png | Golden Cape  
@@ -4257,13 +2357,6 @@ Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 +1 Legendary Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
-
  | Variants:  
 Black & Golden |
 |  | [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) | _+50 Carry Load_
@@ -4271,23 +2364,6 @@ Black & Golden |
 +2 Rare Pips  
 _+Talent: Robber Baron_  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md) **(Very Common)**
--   [Aratel Island](Aratel_Island.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [First Layer](First_Layer.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [War Mode](War_Mode.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 | 
@@ -4301,13 +2377,6 @@ File:Monastery Champion Beads NEW.png
 +1 Legendary Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) **(3%)**
--   [Etris: Siege](Cinders_of_Etris.md)
-
  | Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
 Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
@@ -4317,43 +2386,17 @@ Torso: [Monastery Beads](Monastery_Beads.md) |
 +1 Legendary Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
  | N/A |
 | File:Pathfinder lantern front.png | [Pathfinder Lantern](Pathfinder_Lantern.md) | _+10 Sanity_
 
 +1 Uncommon Pip  
 _+Talent: Breathing Exercise_
 
- | 
-
-Found from:
-
--   [Lower Erisia](Lower_Erisia.md)
--   [Crafting](Crafting_Station.md)
-
  | N/A |
 |  | [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) | _+35 Carry Load_
 
 +1 Uncommon Pip  
 _+Talent: Robber Baron_
-
- | 
-
-Found from:
-
--   \[\[Voidwalker|High-Tier Voidwalker Bounties\]
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
 
  | N/A |
 | File:Pendant of Order.png | [Pendant of Order](Pendant_of_Order.md) | _+3% Physical Armor_
@@ -4362,29 +2405,11 @@ Found from:
 +1 Legendary Pip  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   Sold by the [Blacksmith](Blacksmith.md)
-
  | N/A |
 |  | [Red Eye Pendant](Red_Eye_Pendant.md) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | [Sandrunner Scarf](Sandrunner_Scarf.md) | _+3% Fire Armor_
@@ -4392,16 +2417,6 @@ Found from:
 +1 Rare Pip  
 +1 Legendary Pip  
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
 
  | N/A |
 | File:Dawn Scarf.png | Scarf  
@@ -4412,31 +2427,11 @@ Found from:
 +1 Legendary Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Aelita](Aelita.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
-
  | Variants:  
 Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 |  | [Seafarer Pendant](Seafarer_Pendant.md) | +1 Legendary Pip
 
 **Requires Power 5**
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
 
  | N/A |
 | File:Static-assets-upload6078901116095484260.png | Shrouded Capes  
@@ -4448,12 +2443,6 @@ _+5% Stealth_<br
 +1 Legendary Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**100%**)
-
  | Variants:  
 Red, Black, Midnight & White |
 | File:Threadwork Kilt.png | [Threadwork Kilt](Threadwork_Kilt.md) | _+1 Posture_  
@@ -4462,12 +2451,6 @@ _+20 Carry Load_
 +1 Rare Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Carnival of Hearts](Carnival_of_Hearts.md)
-
  | N/A |
 | File:Varicosa Medallion.png | [Varicosa Medallion](Varicosa_Medallion.md) | _+3% Shadow Armor_
 
@@ -4475,64 +2458,25 @@ Found from:
 +1 Legendary Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | N/A |
 |  | [Whaler Scarf](Whaler_Scarf.md) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
-
  | N/A |
 | File:Old World Sun Pendant.png | [Wheel Pendant](Wheel_Pendant.md) | +1 Rare Pip  
-+1 Legendary Pip | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Rare**)
--   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
--   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md) (**Rare**)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
++1 Legendary Pip | N/A |
 | File:Wormwarder Lantern.png | [Wormwarder Lantern](Wormwarder_Lantern.md) | _+10 Sanity_  
 _+10 Carry Load_
 
 _+Talent: Wormwarder_
-
- | 
-
-Found from:
-
--   [Crafting](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
 
  | N/A |
 |  | [Imperator's Fury](<Imperator's_Fury.md>)  
 (**Relic**) | _+Talent: Brute Strength_
 
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  | N/A |
 |  | [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)  
@@ -4541,14 +2485,6 @@ Found from:
 _+Talent: Elegy of Light_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md) **(~1%)**
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
-
  | N/A |
 |  | [Mantle of Enmity](Mantle_of_Enmity.md)  
 (**Set**)  
@@ -4556,12 +2492,6 @@ Found from:
 (**Unique**) | +1 Rare Pip
 
 _+Talent: Heartwing Beat_
-
- | 
-
-Found from:
-
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -4576,33 +2506,12 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 _+Talent: Featherfall_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Second Layer](Second_Layer.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
-
  | N/A |
 | File:Warmaster's Medallion Equipment.png | [Warmaster's Medallion](<Warmaster's_Medallion.md>)  
 (**Relic**) | +1 Legendary Pip
 
 _+Talent: Actions Speak Louder_  
 **Requires Power 8**
-
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Hell Mode](Hell_Mode.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  | N/A |
 |  | [Whistling Periapt](Whistling_Periapt.md)  
@@ -4612,25 +2521,11 @@ _+8% Wind Armor_
 _+Talent: Whistleguard_  
 **Requires Power 8**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
-
  | N/A |
 |  | [Tied Tie](Tied_Tie.md)  
 (**Unobtainable**) | _+5 Health_
 
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Mod Shop](Developer_Specs.md)
 
  | N/A |
 
@@ -4649,31 +2544,13 @@ Innate Effects
 
  | 
 
-Sources
-
- | 
-
 Variants/Set
 
  |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 |  | [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)  
 (**Series**)  
-(**Set**) | +1 Rare Pip | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
- | Variants:  
+(**Set**) | +1 Rare Pip | Variants:  
 Default (Black), Red & White
 
   
@@ -4689,12 +2566,6 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 _+Talent: Destructive Yell_
 
- | 
-
-Found from:
-
--   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
-
  | Variants:  
 Western & Ascended
 
@@ -4706,23 +2577,11 @@ Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
-|  | [Authority Prototype Mask](Authority_Prototype_Mask.md) | +1 Common Pip | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
-
- | N/A |
+|  | [Authority Prototype Mask](Authority_Prototype_Mask.md) | +1 Common Pip | N/A |
 |  | [Authority Voltspark Mask](Authority_Voltspark_Mask.md) | _+3% Lightning Armor_
 
 +1 Common Pip  
 _+Talent: Volt Reflex_
-
- | 
-
-Found from:
-
--   Crafting at the [Merit Detainment Core](Merit_Detainment_Core.md)
 
  | N/A |
 |  | [Black Blindfold](Blindfold.md)  
@@ -4730,82 +2589,23 @@ Found from:
 
 _+Talent: Blinded_
 
- | 
-
-Found from:
-
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Pure Ore Turn-ins](Blacksmith.md)
--   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
-
  | Variants:  
 Black & Crimson |
-|  | [Blindfold](Blindfold.md) | _+Talent: Blinded_ | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Brainsucker](Brainsucker.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
+|  | [Blindfold](Blindfold.md) | _+Talent: Blinded_ | N/A |
 |  | [Bloodfeather Mask](Bloodfeather_Mask.md)  
 (**Set**) | _+5% Shadow Armor_
 
 +1 Rare Pip
 
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Second Layer](Second_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | Set: Bloodfeather  
 Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
 Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
-|  | [Brow Stud](Brow_Stud.md) | _+1 Health_ | 
-
-Found from:
-
--   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aelita](Aelita.md)
-
- | N/A |
+|  | [Brow Stud](Brow_Stud.md) | _+1 Health_ | N/A |
 |  | [Citadel Frames](Citadel_Frames.md)  
 (**Series**) | +5 Health  
 \-1 or -2 Posture
 
 +1 Rare Pip
-
- | 
-
-Found from:
-
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Voidwalker](Voidwalker.md) Bounties
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  | Variants:  
 Browline & Round  
@@ -4815,59 +2615,16 @@ Regular, Amber, & Azure |
 
 _+Talent: Blinded_
 
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
-
  | Variants:  
 Black & Crimson |
-| File:Demon Mask1.png | [Demon Mask](Demon_Mask.md) | +1 Rare Pip | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
-|  | [Dermal Stud](Dermal_Stud.md) | _+1 Health_ | 
-
-Found from:
-
--   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aelita](Aelita.md)
-
- | N/A |
+| File:Demon Mask1.png | [Demon Mask](Demon_Mask.md) | +1 Rare Pip | N/A |
+|  | [Dermal Stud](Dermal_Stud.md) | _+1 Health_ | N/A |
 |  | Duelist's Mask | _+6% Stealth_
 
 +1 Rare Pip
 
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  | N/A |
-|  | [Eyeglasses](Eyeglasses.md) | +1 Common Pip | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   \[\[Voidwalker|Low-Tier Voidwalker Bounties\]
-
- | N/A |
+|  | [Eyeglasses](Eyeglasses.md) | +1 Common Pip | N/A |
 | File:BlackHeadband.png | [Headband](Headband.md)  
 (**Series**) | Variant Based:
 
@@ -4875,232 +2632,56 @@ Black, Orange, Yellow, (+1 Common Pip)
 Red, (+1 Uncommon Pip)  
 Blue, Green, White, (+1 Rare Pip)
 
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Aratel Island](Aratel_Island.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Hell Mode](Hell_Mode.md)
--   [Lodestar](Lodestar.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Aelita](Aelita.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Authority Ensign](Authority_Ensign.md) Missions
-
  | Variants:  
 Black, Orange, Yellow, Red, Blue, Green, & White |
-|  | [Hivelord Mask](Hivelord_Mask.md) | +2 Rare Pips | 
-
-Found from:
-
--   Mob Drop from [Hive Constructs](Hive_Construct.md) (**~20%**)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Lodestar](Lodestar.md)
-
- | N/A |
+|  | [Hivelord Mask](Hivelord_Mask.md) | +2 Rare Pips | N/A |
 |  | [Hollow Angel Mask](Hollow_Angel_Mask.md)  
 (**Series**) | +1 Rare Pip
 
 _+Talent: Angel's Guise_
 
- | 
-
-Found from:
-
--   Mob Drop from [Hollow Angels](Hollow_Angel.md) (rare)
-
  | Variants:  
 Hollow, Sworn |
-|  | [Iron Mask](Iron_Mask.md) | +1 Common Pip | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Voidwalker](Voidwalker.md) Bounties
-
- | N/A |
+|  | [Iron Mask](Iron_Mask.md) | +1 Common Pip | N/A |
 |  | [Moon Brow Rings](Moon_Brow_Rings.md)  
-(**Series**) | _+1 Health_ | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Upper Erisia](Upper_Erisia.md)
--   [Voidsea](Voidsea.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aelita](Aelita.md)
-
- | Variants:  
+(**Series**) | _+1 Health_ | Variants:  
 Brow, Dermal, Lip & Septum |
 |  | [Moon Lip Ring](Moon_Lip_Ring.md)  
-(**Series**) | _+1 Health_ | 
-
-Found from:
-
--   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aelita](Aelita.md)
-
- | Variants:  
+(**Series**) | _+1 Health_ | Variants:  
 Brow, Dermal, Lip & Septum |
 |  | [Moon Septum Ring](Moon_Septum_Ring.md)  
-(**Series**) | _+1 Health_ | 
-
-Found from:
-
--   [Mudskipper Attack](Random_Encounters.md#the-depths-scyphozia)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aelita](Aelita.md)
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
-
- | Variants:  
+(**Series**) | _+1 Health_ | Variants:  
 Brow, Dermal, Lip & Septum |
-|  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aelita](Aelita.md)
-
- | N/A |
+|  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | N/A |
 |  | [Nauticals](Summer_Nauticals.md)  
-(**Series**) | +1 Rare Pip | 
-
-Source from:
-
--   [Summer Isle](Summer_Isle.md)
-
- | Variants:  
+(**Series**) | +1 Rare Pip | Variants:  
 Summer, Dusk & Seaglass |
-|  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
+|  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | N/A |
 | File:Blue.PNG | [Royal Guard](Aspirant_Mask.md)  
 (**Series**) | +1 Uncommon Pip  
-+1 Rare Pip | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   Mob drop from Masked Songseeker Enemies ~(**10%**)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
-
- | Variants:  
++1 Rare Pip | Variants:  
 Blue, Green & Red |
 | File:Smith's Goggles1.png | [Smith's Goggles](<Smith's_Goggles.md>)  
-(**Set**) | +1 Common Pip | 
-
-Found from:
-
--   [Deep Crucible](Deep_Crucible.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- | Set: Smith's  
+(**Set**) | +1 Common Pip | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
 Face: [Smith's Goggles](<Smith's_Goggles.md>) |
-|  | [Snakebite Studs](Snakebite_Studs.md) | _+1 Health_ | 
-
-Found from:
-
--   Sold by [Traan Zakshun](Traan_Zakshun.md)
--   [First Layer](First_Layer.md)
--   [Valley of Heroes](The_Valley_of_Heroes.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [Aelita](Aelita.md)
-
- | N/A |
+|  | [Snakebite Studs](Snakebite_Studs.md) | _+1 Health_ | N/A |
 | File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
 (**Series**) | +2 Rare Pips
 
 _+Talent: Angel's Guise_
 
- | 
-
-Found from:
-
--   Mob Drop from [Sworn Angels](Sworn_Angel.md) (rare)
-
  | Variants:  
 Hollow, Sworn |
-| File:Rabel Bandana.png | [Rebel's Bandana](<Rebel's_Bandana.md>) | +1 Uncommon Pip | 
-
-Found from:
-
--   [Eastern Tribe Nomad](Eastern_Nomad.md)
--   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
--   [Erisia](Erisia.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- | N/A |
-| File:TenGallonBandana.png | [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) | +1 Uncommon Pip | 
-
-Found from:
-
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Hell Mode](Hell_Mode.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
-|  | [The Guy's Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | 
-
-Source from:
-
--   [The Guy](The_Guy.md)
-
- | N/A |
+| File:Rabel Bandana.png | [Rebel's Bandana](<Rebel's_Bandana.md>) | +1 Uncommon Pip | N/A |
+| File:TenGallonBandana.png | [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) | +1 Uncommon Pip | N/A |
+|  | [The Guy's Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | N/A |
 |  | [Thrall of Enmity](Thrall_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | +1 Rare Pip
 
 _+Talent: Lose Your Mind_
-
- | 
-
-Found from:
-
--   [Heart of Enmity](Heart_of_Enmity.md)
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -5108,29 +2689,10 @@ Arms: [Bastions of Enmity](Bastions_of_Enmity.md)
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
-|  | [Warrior's Eyepatch](<Warrior's_Eyepatch.md>) | +1 Rare Pip | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   \[\[Voidwalker|Voidwalker Bounties\]
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Lodestar](Lodestar.md)
--   [Aelita](Aelita.md)
--   [The Ferryman](The_Ferryman.md) (Winter)
--   [First Layer](First_Layer.md)
-
- | N/A |
+|  | [Warrior's Eyepatch](<Warrior's_Eyepatch.md>) | +1 Rare Pip | N/A |
 | File:WesternOutlawMask.png | [Western Outlaw Mask](Western_Outlaw_Mask.md)  
 (**Series**)  
-(**Set**) | +1 Common Pip | 
-
-Found from:
-
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
-
- | Variants:  
+(**Set**) | +1 Common Pip | Variants:  
 Western & Ascended
 
   
@@ -5142,13 +2704,7 @@ Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
  |
 |  | [Toon's Goggles](<Toon's_Goggles.md>)  
-(**Unobtainable**) | Confidential Information | 
-
-Found from:
-
--   [Developer Specs](Developer_Specs.md)
-
- | N/A |
+(**Unobtainable**) | Confidential Information | N/A |
 
 **Ears:**
 
@@ -5163,86 +2719,27 @@ Armor
 
 Innate Effects
 
- | 
-
-Sources
-
  |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 |  | [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md) (**100%**)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  |
-|  | [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) | +2 Rare Pips | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- |
+|  | [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) | +2 Rare Pips |
 |  | [Dew Drop Earrings](Dew_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
  |
 | File:MasterThief.png | [Master Thief Earrings](Master_Thief_Earrings.md) | _+3% Stealth_
 
 +2 Rare Pips
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Hell Mode](Hell_Mode.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | [Moonlit Earrings](Crescent_Earrings.md) | _+2 Health_
@@ -5250,91 +2747,23 @@ Found from:
 +2 Rare Pips  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  |
 |  | [Old Blood Earrings](Old_Blood_Earrings.md) | _+5 Ether_
 
 +2 Rare Pips  
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Lodestar](Lodestar.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
-
  |
-|  | [Pendant Earrings](Pendant_Earrings.md) | +2 Rare Pips | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
- |
-|  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Summer Isle](Summer_Isle.md)
--   [First Layer](First_Layer.md) (**Rare**)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
-
- |
+|  | [Pendant Earrings](Pendant_Earrings.md) | +2 Rare Pips |
+|  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips |
 |  | [Ruby Drop Earrings](Ruby_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Starswept Valley](The_Starswept_Valley.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 
@@ -5353,33 +2782,14 @@ Rings
 
 Innate Effects
 
- | 
-
-Sources
-
  |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 |  | [Akira's Ring](<Akira's_Ring.md>)  
 (**Legendary**) | Gives every weapon 1.2 Willpower scaling when equipped.
 
   
 +1 Legendary Pip  
 **Requires Power 6**
-
- | 
-
-Found from:
-
--   [Aelita](Aelita.md) (**Extremely Rare**)
--   [The Ferryman](The_Ferryman.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Fort Merit](Fort_Merit.md) (**Extremely Rare**)
--   Trading with [Jeremiah](Jeremiah.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
  |
 |  | [Armorer's Ring](<Armorer's_Ring.md>)  
@@ -5388,42 +2798,11 @@ Found from:
   
 +1 Uncommon Pip
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Aelita](Aelita.md) **(Extremely Rare)**
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Summer Isle](Summer_Isle.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Second Layer](Second_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [War Mode](War_Mode.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
  |
 |  | [Bloodiron Ring](Bloodiron_Ring.md) | Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloodiron Spirit)
 
   
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
 |  | [Chained Ring](Chained_Ring.md) | Reduces incoming knockback but removes your ability to Air Dash. You can still backdash while having this ring equipped.
@@ -5432,33 +2811,9 @@ Found from:
 +1 Uncommon Pip  
 **Requires Power 3**
 
- | 
-
-Found from:
-
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Deep Widow](Deep_Widow.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Lodestar](Lodestar.md)
--   [Fishing](Fishing.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
-
  |
 |  | [Charged Ring](Charged_Ring.md)  
-(**Legendary**) | Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5. | 
-
-Found from:
-
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
-
- |
+(**Legendary**) | Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5. |
 |  | [Dawnfist's Ring](<Dawnfist's_Ring.md>)  
 (**Legendary**) | Gives every weapon 1.2 strength scaling when equipped.
 
@@ -5466,43 +2821,12 @@ Found from:
 +1 Legendary Pip  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
--   [Deep Widow](Deep_Widow.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   Trading with [Jeremiah](Jeremiah.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
  |
 |  | [Dazed Band](Dazed_Band.md) | Flourishing an opponent has a chance to stun them automatically.
 
   
 +1 Uncommon Pip  
 **Requires Power 3**
-
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Deepfire Ring](Deepfire_Ring.md)  
@@ -5512,43 +2836,11 @@ If using Eruption Path: Lava Serpent, eruption delay is reduced.
   
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Aelita](Aelita.md) **(Extremely Rare)**
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Second Layer](Second_Layer.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
-
  |
 |  | [Diver's Ring](<Diver's_Ring.md>) | Grants +5% damage to Monsters in the Depths.
 
   
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [Second Layer](Second_Layer.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Lodestar](Lodestar.md)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | [Finisher's Ring](<Finisher's_Ring.md>)  
@@ -5557,44 +2849,11 @@ Found from:
   
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Pure Ore Turn-ins](Blacksmith.md)
--   [Aelita](Aelita.md) (**Extremely Rare**)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [War Mode](War_Mode.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
-
  |
 |  | [Freestyler's Band](<Freestyler's_Band.md>) | Gives the user a massive increase in swimming speed while out of combat.
 
   
 **Requires Power 3**
-
- | 
-
-Found from:
-
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Ferryman's Ring](<Ferryman's_Ring.md>)  
@@ -5603,43 +2862,13 @@ Found from:
   
 +1 Legendary Pip
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
-
  |
 |  | [Gold Ring](Gold_Ring.md) |   
-+1 Uncommon Pip | 
-
-Found from:
-
--   [Mudskipper Cave](Lower_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [Pure Ore Turn-ins](Blacksmith.md)
--   Interacting with [Polis](Polis.md)' first dialogue
--   [Ancient Rotlands](Ancient_Rotlands.md)
-
- |
++1 Uncommon Pip |
 |  | [Heavy Hands Ring](Heavy_Hands_Ring.md) | Makes your "M1" attack 10% slower but do 30% more posture damage.
 
   
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | [Isshin's Ring](<Isshin's_Ring.md>) | Take 1.25x damage and deal 1.2x damage at close range.
@@ -5647,38 +2876,11 @@ Found from:
   
 **Requires Power 5**
 
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
-
  |
 |  | [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>) | Allows the user to slide with little delay.
 
   
 **Requires Power 3**
-
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Mudskipper Cave](Lower_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
 
  |
 |  | [Light Eater Ring](Light_Eater_Ring.md) | Taking Flamecharm or Thundercall damage (e.g. Mantras, Burn, Surge Overloads) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
@@ -5689,21 +2891,6 @@ _+2% Lightning Armor_
 +1 Uncommon Pip  
 **Requires Power 3**
 
- | 
-
-Found from:
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Lodestar](Lodestar.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [War Mode](War_Mode.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
-
  |
 |  | [Maestro's Ring](<Maestro's_Ring.md>)  
 (**Legendary**) | Gives every weapon 1.2 agility scaling when equipped.
@@ -5712,20 +2899,6 @@ Found from:
 +1 Legendary Pip  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Aelita](Aelita.md) **(Extremely Rare)**
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   Trading with [Jeremiah](Jeremiah.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
  |
 |  | [Moon Ring](Moon_Ring.md)  
 (**Legendary**) | Conceal your age, appearing as if you were younger than 40.
@@ -5733,55 +2906,17 @@ Found from:
   
 +2 Rare Pips
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Aelita](Aelita.md) (**Extremely Rare**)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Moon's Eyrie](<Moon's_Eyrie.md>)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Dread Serpent](Dread_Serpent.md)
-
  |
 |  | [Pariah's Keepsake](<Pariah's_Keepsake.md>) | Deal +20% extra damage to NPCs from factions that hate you.
 
   
 **Requires Power 3**
 
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
  |
 |  | [Poser's Ring](<Poser's_Ring.md>) | Damage dealt with a Katana isn't received until the user sheathes their weapon.
 
 Stuns the opponent upon a successful damaging sheathe.  
 +1 Rare Pip
-
- | 
-
-Quest from [Zana](Zana.md)
-
--   (**Located on** [Isle of Vigils](Isle_of_Vigils.md)' **Docks**)
 
  |
 |  | [Prophet's Ring](<Prophet's_Ring.md>)  
@@ -5791,39 +2926,11 @@ Quest from [Zana](Zana.md)
 +1 Legendary Pip  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   Trading with [Jeremiah](Jeremiah.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
-
  |
 |  | [Purifying Ring](Purifying_Ring.md) | Allows wearer to drink sea-water and acid without vomiting.
 
   
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
 
  |
 |  | [Ring of Casters](Ring_of_Casters.md) | Increases Mantra damage by 5%, but reduces melee damage by 5%.
@@ -5831,75 +2938,18 @@ Found from:
   
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
-
  |
 |  | [Ring of Curses](Ring_of_Curses.md) | This ring runs the random event check more frequently and partially ignores anti-event stacking.
 
   
 **Requires Power 10**
 
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
-
  |
-|  | [Ring of Pestilence](Ring_of_Pestilence.md) | Enemies you hit with melee attacks have their healing reduced by 50% for 5 seconds. | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Lodestar](Lodestar.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [War Mode](War_Mode.md)
--   [Authority Ensign](Authority_Ensign.md) Missions
-
- |
+|  | [Ring of Pestilence](Ring_of_Pestilence.md) | Enemies you hit with melee attacks have their healing reduced by 50% for 5 seconds. |
 |  | [Ring of Wisps](Ring_of_Wisps.md) | Double the amount of charges of Attunement Wisps.
 
   
 +1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Random_Encounters.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  |
 |  | [Rosen's Ring](<Rosen's_Ring.md>)  
@@ -5909,51 +2959,14 @@ Found from:
 +1 Legendary Pip  
 **Requires Power 6**
 
- | 
-
-Found from:
-
--   [The Ferryman](The_Ferryman.md)
--   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
--   [Second Layer](Second_Layer.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Pure Ore Turn-ins](Blacksmith.md) (**Extremely Rare**)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
-
  |
 |  | [Silver Ring](Silver_Ring.md) |   
-+1 Common Pip | 
-
-Found from:
-
--   [Mudskipper Cave](Lower_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Pure Ore Turn-ins](Blacksmith.md)
-
- |
++1 Common Pip |
 |  | [Waning Ring](Waning_Ring.md)  
 (**Legendary**) | Conceal your youth, appearing as if you were older than 40.
 
   
 +2 Rare Pips
-
- | 
-
-Found from:
-
--   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
--   [The Ferryman](The_Ferryman.md)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Interluminary Parasol](Interluminary_Parasol.md)
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   [War Mode](War_Mode.md)
 
  |
 |  | [Windmill Ring](Windmill_Ring.md) | Taking Frostdraw or Galebreathe damage (e.g. Mantras, Apparitions, Crystal Detonations) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
@@ -5963,17 +2976,6 @@ _+2% Ice Armor_
 _+2% Wind Armor_  
 +1 Uncommon Pip  
 **Requires Power 3**
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Lodestar](Lodestar.md)
--   [Dread Serpent](Dread_Serpent.md)
 
  |
 

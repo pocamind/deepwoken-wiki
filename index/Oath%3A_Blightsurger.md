@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 168280
+revid: 168470
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -61,7 +61,7 @@ Recommend method is to do [Ferryman](The_Ferryman.md) to remain in constant comb
 
 ( **THESE ARE ALL ESTIMATES AND NEEDS MORE TESTING**)
 
--   7 ~ 100% Activations - Soverign Drive
+-   7 ~ 100% Activations - Sovereign Drive
 -   7 ~ 100% Activations - Blighted Touch
 -   15 ~ 100% Activations - Skycrash/ Blight Piercer
 -   15 ~ 100% Activations - Warp Kick

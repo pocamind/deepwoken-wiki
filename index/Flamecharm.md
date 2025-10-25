@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 168395
+revid: 168501
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -991,12 +991,16 @@ N/A
 
 **Effect:** Caster conjures an aura of flame in their hand before forcefully inserting it in their chest. Ritual Casted.
 
--   Prevents the user from being knocked for 25 seconds, increased to 32.5 seconds with Azure Flames, if damage isn't substantial.
--   If Flame of Denial prevents lethal damage, you will restore 12%/14%/16%/18%/20% of your maximum health per level.
--   Flame stays in chest for the duration of the Mantra.
--   Freezes user in place for a brief moment after casting.
--   Restores some of the user's Sanity.
--   Can be upgraded with the **Denial Repulse** Talent, causing a small AOE explosion upon receiving lethal damage.
+-   Prevents the user from being knocked from damaging attacks for 25 seconds, also preventing auto-executes while active. Having Azure Flames or Twisted Puppets will increase the duration of Flame of Denial by 25%, up to 31.25 seconds.
+-   Flame of Denial has a 1 minute 40 second cooldown.
+-   Flame of Denial has a windup of 1.1s with 0.9s of endlag, during which you will be forced into an animation where you cannot move.
+-   If Flame of Denial prevents lethal damage, you will gain 0.1s of i-frames, be set to 1% of your maximum health, and then restore 12%/14%/16%/18%/20% of your maximum health per level. This healing cannot be reduced or negated by anti-heal.
+    -   Due to it setting you to 1% health on proc, you'll actually be at 13/15/17/19/21% health after it procs.
+-   Flame of Denial completely disables burn damage if you are below 12.5 health. Temporary Health does not count towards this health threshold and Twisted Puppets' burn will still drain your Ether.
+-   When Flame of Denial procs, any burn on your character will be extinguished.
+-   Can be upgraded with the **Denial Repulse** Talent, causing a 20 Flamecharm damage AOE explosion with a 0.6s windup upon proccing Flame of Denial. This explosion cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
+-   Denial Repulse's explosion has 5 Flamecharm scaling, dealing 30 Flamecharm damage at 100 Flamecharm.
+-   While you can modify [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
 
  |
 | 
@@ -1103,7 +1107,7 @@ These Talents are found in the "_Flamecharmer_" Category.
 (50 Flamecharm) | You can now obtain 3-star Flamecharmer Mantras. (+5 Health) | N/A |
 |  | Azure Flames  
 (70 Flamecharm, 40 Willpower) | Many of your flames turn blue, signifying their increased intensity. | Burn, Flamecharm Mantras, Flamecharm Legendary [Weapons](Weapons.md#elemental), and Eruptions turn blue,
-Burn deals 12.5% more damage, Eruptions from Lava Serpent have a shorter delay, more posture damage, and a larger AoE.
+Burn deals 12.5% more damage. Eruptions from Lava Serpent deal more posture damage and have a larger AoE. Flame of Denial lasts 25% longer.
 
  |
 |  | Intrepid Flame  

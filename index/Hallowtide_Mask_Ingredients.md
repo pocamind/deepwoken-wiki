@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 167990
+revid: 168495
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide]

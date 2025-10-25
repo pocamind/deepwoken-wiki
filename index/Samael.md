@@ -1,9 +1,9 @@
 ---
 title: Samael
-revid: 167133
+revid: 168449
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
 ---
 
 # Samael
@@ -11,7 +11,7 @@ categories: [NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
 | Samael | |
 |---|---|
 | name | Samael |
-| aspect | Etrean (?) |
+| aspect | Canor |
 | location | Derelict Highchurch |
 
 “ There are those of the faith - like myself - who swear an Oath to the Church. Through the Ichor that runs through our veins, we dedicate our lives to its protection. We prevent it from falling into the wrong hands. ”
@@ -285,7 +285,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
 
 ## Trivia
 
--   Of the current in-game playable aspects, Samael cannot be any of the following based on lacking their defining features: [Adret](Adret.md), [Capra](Capra.md), [Chrysid](Chrysid.md), [Ganymede](Ganymede.md), [Gremor](Gremor.md), [Tiran](Tiran.md), and [Vesperian](Vesperian.md).
-    -   This leaves [Canor](Canor.md), [Celtor](Celtor.md), [Etrean](Etrean.md), and [Khan](Khan.md). Clipping into his mask shows no facial features. It's possible Canor could be ruled out due to not being able to achieve that level of paleness within the character creation menu, but one could argue that his pursuit of the Celestials has taken all of his melanin. Or, he could be none of these...
-    -   It's also possible he is simply an Angel, a supposedly unobtainable aspect. Considering some Angels are Thralls of Enmity, it's possible Samael is working with the Depths itself in a sense.
-    -   Another, simpler explanation is that overdosing on Celestial Ichor simply had a huge toll on his appearance.
+-   Of the currently playable aspects in-game, Samael cannot be any of the following based on the absence of their defining traits: Adret, Capra, Chrysid, Ganymede, Gremor, Tiran, or Vesperian. This narrows the possibilities to Canor, Celtor, Etrean, and Khan.
+-   Samael is most likely a Canor, as his facial decal resembles that of one. He also appears to fall under age tier 1, roughly around the equivalent of 40 years old.
+-   Some theories suggest that Samael could be an Angel, a supposedly unobtainable aspect. Considering that certain Angels are known to be Thralls of Enmity, it’s possible that Samael maintains a working connection with the Depths itself. Although unlikely as the Starkindred do seem genuinely against the depths and on the side of the Celestials. As seen in his new dialogue.
+-   Another explanation proposes that Samael’s altered appearance is the result of prolonged or excessive exposure to Celestial Ichor, which may have drastically affected his physical form.

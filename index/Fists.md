@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 168428
+revid: 168464
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -11,21 +11,21 @@ categories: [Weapons, Fists, Light Weapons]
 | Fists | |
 |---|---|
 | type | Light Weapon |
-| requirements | 0 LHT (WN/LK/IK) , 20 LHT (Needed to obtain FC, not needed if chosen in character creation) , 40 LHT (Needed to obtain JK, not needed if chosen in character creation) |
-| damage | 12 (WN/LK/FC/IK) , 14 (JK) |
-| scaling | LHT: 7 (WN/LK/FC/IK) , LHT: 9 (JK) |
-| range | 6 (WN/LK/FC/IK)6.5 (JK) |
-| swing speed | 1.3x (WN/LK/FC/IK) , 1.14x (JK) |
-| penetration | N/A (WN/LK/FC/IK) , 20% (JK) |
+| requirements | 0 LHT (WN/LK/IK), 20 LHT (Needed to obtain FC, not needed if chosen in character creation), 40 LHT (Needed to obtain JK, not needed if chosen in character creation) |
+| damage | 12 (Ces) / 14 (JK) |
+| scaling | LHT: 7 (Ces) / LHT: 9 (JK) |
+| range | 6 (Ces) / 6.5 (JK) |
+| swing speed | 1.13x (Ces) / 1.14x (JK) |
+| penetration | N/A (Ces) / 20% (JK) |
 | m.equip | No |
 | m.extract | No |
-| weight | 3 |
+| weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | (Way of Navae)Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in Eastern Camp Master , or Eastern Tribal Leader. , (Legion Kata)Step 1: Gain friend reputation with The Hundred LegionsStep 2: Speak to a guard of The Hundred Legions in The Southern LuminentStep 3: Speak to Amara. , (Fang and Coil)Step 1: Have 20 LHT and Friend Etris Reputation. , Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest. , Step 3: Speak to Vesque. , (Jus Karita)Step 1: Have 40 LHT and be Power 5. , Step 2: Talk to Polis in Etris. , (Imperium Kata)Step 1: Obtain the Legion Intelligence. , Step 2: Defeat Titus. , Step 3: Turn in the Intelligence to Caitus. |
-| description | *"Adopt the fighting stance of the Way of Navae" - Way of Navae, "Adopt the fighting stance of the Legion Kata" - Legion Kata, "Adopt the path of the serpent." - Fang and Coil, "The traditional martial arts style of the Justicars." - Jus Karita, Wield an advanced form of the Legion's martial arts. - Imperium Kata, "Your bare fists. Worth a shot, right?" - Starting Weapon Description |
+| obtainment | Way of Navae, Legion Kata, Fang and Coil, Jus Karita, Imperium KataStep 1: Find a Navaen Hostage., Step 2: Turn it in Eastern Camp Master, Beiruul, or Eastern Tribal Leader., OR: Reach hero reputation with The Children of Navae and speak to the Eastern Camp Master.Step 1: Gain friend reputation with The Hundred Legions., Step 2: Speak to a Captain of The Hundred Legions., Step 3: Speak to Amara.Step 1: Have 20 LHT and Friend Etris Reputation., Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest., Step 3: Speak to Vesque.Step 1: Have 40 LHT and be Power 5., Step 2: Talk to Polis in Etris.Step 1: Obtain the Legion Intelligence., Step 2: Defeat Titus., Step 3: Turn in the Intelligence to Caitus. |
+| description | Way of Navae, Legion Kata, Fang and Coil, Jus Karita, Imperium Kata, GeneralAdopt the fighting stance of the Way of Navae.Adopt the fighting stance of the Legion Kata.Adopt the path of the serpent.The traditional martial arts style of the Justicars.Wield an advanced form of the Legion's martial arts.Your bare fists. Worth a shot, right? |
 
 Fists are a unique type of [Light Weapon](Weapons.md) in _Deepwoken_.
 
@@ -33,11 +33,12 @@ There are 5 different fist styles and 3 of them share the ability to be switched
 
 ## Terminology
 
+-   **Ces** - Short for "Cestus", this is Way of Navae, Legion Kata, Fang and Coil, and Imperium Kata.
 -   **WN** - Way of Navae
 -   **LK** - Legion Kata
--   **JK** - Jus Karita
 -   **FC** - Fang and Coil
 -   **IK** - Imperium Kata
+-   **JK** - Jus Karita
 
 Switching to fist stance while having a weapon is purely visual and does not remove it from the inventory.
 

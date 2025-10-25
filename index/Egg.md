@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 165438
+revid: 168467
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Harvestables]
@@ -8,7 +8,7 @@ categories: [Ingredients, Items, Harvestables]
 
 # Egg
 
-Not to be confused with Thresher Eggs, a separate item
+Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item
 
 "You don't have to tell me what happened, you just need to eat these."
 
@@ -30,7 +30,7 @@ Eggs are a food item in Deepwoken. They can be used to make [Cooked Eggs](Cooked
 -   On the leftmost cargo lift on the docks
 -   In the small trees in front of the mantra building
 -   Next to the top of the zipline going to the docks, on the left post of the Torii
--   In the Redd tree next to Vesque
+-   In the Redd tree next to [Vesque](Vesque.md)
 
 #### [Erisia](Erisia.md)
 

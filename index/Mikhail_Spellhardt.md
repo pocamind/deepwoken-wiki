@@ -1,9 +1,9 @@
 ---
 title: Mikhail Spellhardt
-revid: 168351
+revid: 168455
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, Hallowtide]
+categories: [Lightborn NPCs, NPCs, Hallowtide, Vendors, NPCs located in The Floating Keep]
 ---
 
 # Mikhail Spellhardt

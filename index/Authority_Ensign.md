@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 168213
+revid: 168486
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -236,7 +236,7 @@ The Shock Corps Division of the Central Authority sees frontliners taking the fi
     
     -   Lance Corporal -> Frontliner
     
-    1.  Frontliner -> Interceptor | 312 promotion points
+    1.  Frontliner -> Interceptor | 329 promotion points
     2.  Interceptor -> Operator | 388 promotion points
 -   Benefits
     -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor

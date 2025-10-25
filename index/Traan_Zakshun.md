@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168327
+revid: 168472
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -253,8 +253,7 @@ Sold Items
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b>For 35 </b>: <a href="Snakebite_Studs.md">Snakebite Studs</a>.</li>
-    <li><b>For 50 </b>: <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
+    <li><b>For 35 </b>: <a href="Snakebite_Studs.md">Snakebite Studs</a>, <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
     <li><b>For 100 </b>: <a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
   </ul></td>
 </tr>
@@ -305,10 +304,12 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Oh this one's verrry special - I can only let you buy one._
 -   _Oh, this one might be cursed. Like, actually._
 -   _Okay, you really have to be careful with this._
+-   Thanks for looking, you know... You could actually buy it.
 -   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
 -   _Ugh, I don't even like WANT to sell this... Unless.. I dunno~ you gave me the crowns for it?_
+-   Until earlier I genuinely forgot I even had this, does that make you want it more?
 -   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
@@ -335,7 +336,7 @@ Sold Items
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
-    <li><b>For 8 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
+    <li><b>For 7 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
     <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Gilded_Needle.md">Gilded Needle</a>.</li>
     <li><b>For 15 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a>.</li>
@@ -362,6 +363,7 @@ Sold Items
     <li><b>Head</b>: <a href="Aazel's_Horns.md">Aazel's Horns</a>.</li>
     <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
   </ul></li>
+    <li><b>For 25 </b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a>.</li>
     <li><b>For 250 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li>
   </ul></td>
 </tr>

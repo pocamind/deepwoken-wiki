@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 167360
+revid: 168461
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -87,6 +87,7 @@ Downsides do not appear to be correlated to any **Resonances**, meaning any **Re
 
 -   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Poison**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
 -   Some Talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Mania.**
+-   There is an exception to this rule, being the [Shard Bow](Shard_Bow.md) **Resonance**, which inflicts a unique Self Burn downside. This lights you on fire with white flames. This downside can be easily dealt with by dodging backwards as soon as you fire your Shard bow.
 
 In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity, but also... _luck_.
 

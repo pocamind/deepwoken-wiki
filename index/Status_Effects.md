@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 168397
+revid: 168453
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -46,14 +46,14 @@ While affected by knockdowns, you cannot move or cast any abilities. Knockdowns 
 
 This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Deals 3.33 damage with 5 Flamecharm scaling per tick, ticking 2.4 times a second. Burning opponents have their **base** passive health regeneration disabled. If an unconscious body is set on fire, they will automatically be gripped after 7 seconds if not picked up (3.5 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn benefits from **general** PEN sources, such as [Strength](Attributes.md#str) or [Threser Claws](Talents.md#marauder).
 
-Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Burn damage scales on the user's Flamecharm investment. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
+Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
 
 It has a few sub-variants:
 
 -   Azure Burning: Deals 12.5% more damage per tick than base burn. This burn type comes from [Azure Flames](Talents.md#flamecharmer).
 -   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets) and drain a flat 6.25 Ether per tick.
     -   Puppet Burn: Derived from any non-Shadowcast burn applicator, this burn type deals 87.5% less damage than base burn. Uniquely, this burn type will spawn Puppets with a 4 second cooldown.
-    -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn but has no other unique properities.
+    -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn.
 -   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
 -   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents and the [Deepfire Ring](Deepfire_Ring.md).
 -   [Flamewreathed](Monsters.md#attuned-monsters): [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
@@ -77,7 +77,7 @@ Be completely unable to dodge or move for a short duration. Applied primarily th
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon that applies bleed, [Crimson Terrapods](Terrapod.md#crimson), or Mantras that apply bleed (such as most [Ironsing](Ironsing.md) Mantras and [Revenge](Attunement-less.md#revenge)). Bleed deals 10% of the initial attack's **scaled** damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#vigil-swordsman) deals 5% of the attack's scaled damage per tick, resulting in a 15% total damage increase. Bleed damage cannot be buffed outside of increasing an attack's scaled damage. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
+This effect can be applied by being hit by a weapon, monster attack, or Mantra that applies bleed. Bleed deals 10% of the initial attack's **scaled** damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#vigil-swordsman) deals 5% of the attack's scaled damage per tick, resulting in a 15% total damage increase. Bleed damage cannot be buffed outside of increasing an attack's scaled damage. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
 
 ### Wither
 
@@ -210,10 +210,10 @@ This status effect is exclusive to the [Surge Path](Talents.md#unstable-capacito
 Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](Ironsing.md) Mantras and [Ignition Deepcrusher](Ignition_Deepcrusher.md) club basic attacks. Innately, rods don't do anything until Pulled (X), but various Talents can be used to grant your Rods various effects. Effect on pull varies depending on which path the Ironsinger uses:
 
 -   Normally: Press X to pull your opponent towards yourself. Pull effectiveness scales on the amount of rods applied.
+-   Augmenter: After applying 5 rods, Pulling your opponent will instead equip the [Metal Greatsword](Metal_Greatsword.md) for 10 seconds, overriding your previous weapon.
 -   Conductor: When 5 rods are applied, create a Conductor Rod. If your opponent casts a Mantra while having a Conductor Rod, they'll lose 5% of their armor and will have the elemental effect of the Mantra reversed back upon them, causing the Conductor Rod to fall off. If the Mantra is an Attunement-less, Oath, Ironsing, or Bloodrend Mantra, they will not be afflicted with any status effect, preventing the Rod from falling off; they will still take armor damage however. Pressing X will preform base Ironsing Pull, but Conductor Rods cannot be Pulled.
--   Jailer: After applying 5 rods, Pulling your opponent will instead restrain them in place, and granting them 30% damage resistance. The Restrain effect will end early upon taking damage. Jailer's duration scales on the amount of rods applied.
 -   Impaler: After applying 5 rods, Pulling your opponent will instead deal damage. The damage dealt scales on the amount of rods applied.
--   Augmenter: After applying 5 rods, Pulling your opponent will instead equip you with a Metal Greatsword for 10 seconds, overriding your previous weapon.
+-   Jailer: After applying 5 rods, Pulling your opponent will instead restrain them in place, and granting them 30% damage resistance. The Restrain effect will end early upon taking damage. Jailer's duration scales on the amount of rods applied.
 
 ### Blood Poisoning
 
@@ -324,7 +324,7 @@ These status effects are applied exclusively through certain [Mantras](Mantras.m
 
 ### Flame of Denial
 
-Upon casting [Flame of Denial](Flamecharm.md#flame-of-denial), gain a status effect that prevents one instance of lethal damage for 30 seconds. When lethal damage is prevented, heal 12-20% of your maximum health scaling on Mantra level. The healing is increased by 10% if the caster has the [Azure Flames](Talents.md#flamecharmer) Talent. Also negates all burn damage when at ~1% HP. Signified by a pulsing light on your chest.
+Upon casting [Flame of Denial](Flamecharm.md#flame-of-denial), gain a status effect that prevents one instance of lethal damage and auto-executes for 25 seconds. When lethal damage is prevented, heal 12-20% of your maximum health scaling on Mantra level, removing this status effect. Flame of Denial's duration is increased by 25% (up to 31.25 seconds) if the caster has the [Azure Flames](Talents.md#flamecharmer) or [Wraith Path: Twisted Puppets](Talents.md#twisted-puppets) Talents. Flame of Denial will only proc on lethal **damage**, you can still be knocked from non-damage sources, such as starvation while Flame of Denial is active. Also negates all burn damage taken when at 12.5 HP or lower, unaffected by [temporary health](#temporary-health). Signified by a pulsing light on your chest.
 
 ### Engulfed by Lightning
 

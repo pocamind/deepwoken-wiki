@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 168425
+revid: 168477
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -161,7 +161,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 10
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 7
 
  |
 | 
