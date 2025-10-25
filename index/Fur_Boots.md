@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 168279
+revid: 168541
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
@@ -13,9 +13,9 @@ categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | None |
 | weight | 1 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +3 Health, +1 Rare Pip |
 | innate talent | N/A |
 | set | Fur Pauldrons, Fur Boots |
 | set talent | N/A |
@@ -28,7 +28,7 @@ categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
 
 ## Description
 
-The Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category. When worn, these grant +3 Health and +2 Rare Pips.
+The Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category. When worn, these grant +3 Health and +1 Rare Pip.
 
 ## Trivia
 

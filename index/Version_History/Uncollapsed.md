@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 167795
+revid: 168545
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -23,6 +23,36 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **October 25th, 2025**
+
+**Content & Systems**  
+💡 Added a new system for deep/shallow waters. The further away from shore you get, the deeper the sea gets. Deep water innately grants your ship a higher speed multiplier. Shallow water is calmer and less choppy. Unlike highways where you're either on them or off them, sea depth is gradual  
+💣 Sea highways have been removed with the introduction of deep/shallow waters. They were manually placed and only enabled you to quickly travel between specific predesignated points. Now, you can benefit from faster speeds simply by sailing into deeper waters  
+🔧 Remodelled Pumpkin projectiles (i.e. Pumpkin Pitch)  
+🔧 The glow within the Pumpkin Head accessory is now dyeable  
+💡 New Book: Capran Aphorisms  
+  
+**Balancing**  
+⚖️ Tweaked the midgame equipment lootpools to have better picks for that stage of the game  
+⏫ Upgraded Leather Boots common pip to a rare pip  
+⏫ Iron Pauldrons now have +1 Posture. Moved to midgame lootpools  
+⏫ Grand Boots now has +1 Posture. LVL req increased (4 -> 6)  
+⏫ Gladiator Pauldrons now have an additional +1 rare pip, +1 HP  
+⚖️ White/Black Fur Boots, Novice Boots, Tracker's Boots, Vanguard Boots, Autumn Boots downgraded to 1 rare pip to match other earlygame boots, LVL req removed, moved to earlygame lootpools  
+⚖️ The Dark Owl set now drops from Deep Owls instead of being a L2 drop  
+⏬ Fadetrimmer Precision Cuts windup increased from 0.33 to 0.4  
+  
+**Bugfixes & Optimization**  
+⚙️ Mobs with static spawns no longer all spawn at server start and instead will wait for their chunk to be occupied before spawning in. Previously, they would spawn in and then immediately get put into their sleep state which did reduce their footprint but meant there were a lot of mobs just sitting around in memory waiting to be loaded back in. Should have good performance gains in places like the East Luminant where there's a lot of static spawns across a big map  
+⚙️ Optimized how static spawns check for nearby players, now uses the chunk system  
+🩹 Fixed npcs having shadow vents  
+🩹 Fixed richtext markup on equipment in the rest UI  
+🩹 Fixed Aelita and her clones using the old version of her outfit during the event in the Valley of Heroes  
+🩹 Fixed Adretian Maudet tattoos not being coloured correctly for most variants  
+🩹 Fixed Duke of Erisia dungeon entry not spawning in the minions at the correct location, making the dungeon inaccessible  
+  
+_Just a small patch this week as we're hard at work on getting Hallowtide and the other roadmap milestones shipshape._
 
 ## **October 18th, 2025**
 

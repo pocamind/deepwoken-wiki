@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 168483
+revid: 168573
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -1245,11 +1245,10 @@ Legs: [Fur Boots](Fur_Boots.md)
 
  |
 |  | [Gladiator Pauldrons](Gladiator_Pauldrons.md)  
-(**Set**) | _+5 Health_  
+(**Set**) | _+3 Health_  
 _+1 Posture_
 
-+1 Rare Pip  
-**Requires Power 5**
++1 Rare Pip
 
  | Set: Gladiator  
 Head: Gladiator Helmet  
@@ -1354,8 +1353,9 @@ Legs: [Imperial Boots](Imperial_Boots.md) |
  | Variants:  
 Brown, Dark, Navy, Smoke & Titan |
 | File:Iron Pauldrons1.png | [Iron Pauldrons](Iron_Pauldrons.md)  
-(**Set**) | +2 Rare Pips
+(**Set**) | _+1 Posture_
 
++2 Rare Pips  
 **Requires Power 5**
 
  | Set: Iron  
@@ -1873,8 +1873,7 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 |  | [Autumn Boots](Autumn_Boots.md)  
 (**Set**) | _+3 Health_
 
-+2 Rare Pips  
-**Requires Power 6**
++1 Rare Pip
 
  | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
@@ -2003,8 +2002,7 @@ Legs: [Flameguard Boots](Flameguard_Boots.md) |
 (**Series**)  
 (**Set**) | _+3 Health_
 
-+2 Rare Pips  
-**Requires Power 6**
++1 Rare Pip
 
  | Variants:  
 Black & White
@@ -2025,8 +2023,9 @@ Legs: [Fur Boots](Fur_Boots.md)
 Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
 Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
 | File:Grand Boots.png | [Grand Boots](Grand_Boots.md)  
-(**Set**) | +2 Rare Pips
+(**Set**) | _+1 Posture_
 
++2 Rare Pips  
 **Requires Power 4**
 
  | Set: Grand  
@@ -2061,7 +2060,7 @@ Head: [Khan Helmet](Legion_Helmet.md)
 Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
 Legs: [Khan Boots](Legion_Boots.md) |
 | File:Leather Boots NEW.png | [Leather Boots](Leather_Boots.md)  
-(**Set**) | +1 Common Pip | Set: Leather  
+(**Set**) | +1 Rare Pip | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
 Legs: [Leather Boots](Leather_Boots.md) |
 |  | [Mercenary's Boots](<Mercenary's_Boots.md>)  
@@ -2078,8 +2077,7 @@ Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
 |  | [Novice Boots](Novice_Boots.md)  
 (**Set**) | _+3 Health_
 
-+2 Rare Pips  
-**Requires Power 6**
++1 Rare Pip
 
  | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
@@ -2192,8 +2190,7 @@ Legs: [Star Boots](Star_Boots.md)
 |  | [Tracker's Boots](<Tracker's_Boots.md>)  
 (**Set**) | _+3 Health_
 
-+2 Rare Pips  
-**Requires Power 6**
++1 Rare Pip
 
  | Set: Tracker  
 Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
@@ -2201,8 +2198,7 @@ Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
 |  | [Vanguard Boots](Vanguard_Boots.md)  
 (**Set**) | _+3 Health_
 
-+2 Rare Pips  
-**Requires Power 6**
++1 Rare Pip
 
  | Set: Vanguard  
 Arms: [Vanguard Brace](Vanguard_Brace.md)  
@@ -2830,8 +2826,8 @@ Innate Effects
 
  |
 |  | [Deepfire Ring](Deepfire_Ring.md)  
-(**Legendary**) | Burn ticks at a faster rate. This does not increase the overall damage output of your flames.  
-If using Eruption Path: Lava Serpent, eruption delay is reduced.
+(**Legendary**) | Burn ticks 25% faster but has a 17.5% shorter duration and less base damage.  
+If using Eruption Path: Lava Serpent, Eruption delay is reduced.
 
   
 **Requires Power 5**

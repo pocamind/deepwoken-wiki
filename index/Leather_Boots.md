@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 155629
+revid: 168549
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Items, Equipment, Legs, Boots]
 | selling price | 7 |
 | requirements | None |
 | weight | 1 |
-| innate stats | + 2 Health, +1 Common Pip |
+| innate stats | +2 Health, +1 Rare Pip |
 | innate talent | N/A |
 | set | Leather Gloves/Leather Pauldrons, Leather Boots |
 | set talent | N/A |
@@ -32,5 +32,5 @@ Leather Boots are an [Equipment](Equipment.md) item under the "**Legs**" categor
 
 ## Trivia
 
--   Leather Boots are the ONLY Legs Equipment that use Common Pips. Although, it seems the common pip is always rolled as Health, so these boots may as well just provide an innate +3 Health.
+-   Leather Boots used to be the only leg equipment with common pips, but its innate common pip was upgraded to a rare pip on the October 25th, 2025 update.
 -   Leather Boots can be used to craft [Delver Boots](Delver_Boots.md), granting immunity to the harsh winds in the [Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md).

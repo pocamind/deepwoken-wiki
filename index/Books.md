@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 168252
+revid: 168567
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -106,6 +106,16 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose?
 > 
 > For my own purpose. For your own purpose.
+
+### Capran Aphorisms
+
+> A trio of sayings passed down through Capran oral tradition.
+> 
+> From Jurik springs ken of sky and earth, ken of water and stone, ken of worldly making. From Jurik we take and learn of fire and smoke, glass and steel, salt and lye.
+> 
+> From Nemit springs ken of beast and root, ken of flesh and bone, ken of blood and sap. From Nemit we take and learn of herd and pack, seed and harvest, medicine and salve.
+> 
+> And of Ku we share of our ken, learn and teach, listen and speak, see and do. Ku is of us, and we are of Ku. Always both mother and child, student and teacher, novice and sage.
 
 ### Children of the Aftertide I
 

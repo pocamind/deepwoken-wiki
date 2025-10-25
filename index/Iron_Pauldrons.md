@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 167808
+revid: 168547
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | selling price | 14 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Rare Pips |
+| innate stats | +1 Posture, +2 Rare Pips |
 | innate talent | None |
 | set | Iron Pauldrons, Iron Boots |
 | set talent | N/A |
@@ -30,4 +30,4 @@ Iron
 
 ## Description
 
-The Iron Boots are an [Equipment](Equipment.md) item under the "Arm" category, and is a part of the Iron Set. When worn, this grants +2 Rare Pips.
+The Iron Boots are an [Equipment](Equipment.md) item under the "Arm" category, and is a part of the Iron Set. When worn, this grants +1 Posture and +2 Rare Pips.

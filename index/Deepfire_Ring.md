@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 151315
+revid: 168572
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -24,8 +24,18 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Deepfire Ring** is a Ring [Equipment](Equipment.md) piece that causes your burn ticks to occur at a faster rate but reduce the maximum duration of the Burn status effect
+**Deepfire Ring** is a Ring [Equipment](Equipment.md) piece that increases the tickrate of your burn at the cost of duration and damage per tick. Deepfire Ring does not affect the White Burn status effect from [Corrupt Shard Bow](Shard_Bow.md) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md).
 
-Effectively, this increases the DPS of Burn since no one burns for the entire duration. It does however negatively affect Flame Within by making it run out faster.
+The tick rate of burn is increased by 25%, from 2.4 ticks per second to 3 per second. Burn's base damage per tick is reduced from 3.33 per tick to 3.21 per tick, and the duration of burn is reduced by ~17.5%.
 
-If using Explosion Path: Lava Serpent, the ring will instead reduce the delay for explosions to occur.
+If using Eruption Path: Lava Serpent, the ring will instead reduce the delay for explosions to occur.
+
+## Notes
+
+-   DPS is an incredibly effective stat for burn, as everyone is prone to remove it before the duration ends naturally, making this ring incredibly useful for Flamecharm players.
+    -   It does however negatively affect [Flame Within](Talents.md#amoran-seeeker) by making it run out faster.
+    -   Base burns DPS increases from **8** to **9.6** at 0 Flamecharm, and **12** to **14.4** at 100 Flamecharm.
+    -   [Azure Flames](Talents.md#azure-flames) burn DPS increases from **9** to **10.8** at 0 Flamecharm, and **13.5** to **16.25** at 100 Flamecharm.
+    -   [Twisted Puppets](Talents.md#wraith-path-twisted-puppets)' puppet burn DPS increases from **1** to **1.2** at 0 Flamecharm, and **1.5** to **1.8** at 100 Flamecharm.
+    -   [Twisted Puppets](Talents.md#wraith-path-twisted-puppets)' shadow burn DPS increases from **2** to **2.4** at 0 Flamecharm, and **3** to **3.6** at 100 Flamecharm.
+-   Both of Twisted Puppets' burn types heavily benefit from this Ring, as the Ether drain is _per tick_ and is unaffected by Deepfire Ring's damage debuff.

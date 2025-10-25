@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 167160
+revid: 168674
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -398,7 +398,6 @@ Most monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Relic Axe](Relic_Axe.md) critical
 -   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
 -   [Soul Beam](Oath%253A_Oathless.md#soul-beam)
--   [Throw](Attunement-less.md#throw)
 
 **Monster Attacks**
 
@@ -581,6 +580,7 @@ Attacks with this indicator cannot be dodged. They must be parried, or with high
 
 **Boss Attacks**
 
+-   [Parliament](Parliament.md): Curb Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
  |

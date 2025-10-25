@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 168389
+revid: 168570
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons]
@@ -52,6 +52,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   White Burn has a DPS of 9.6 at 0 Flamecharm, and a DPS of 14.4 at 100 Flamecharm.
     -   With [Azure Flames](Talents.md#flamecharmer), you can bring this up to 10.8 to 16.25 DPS depending on your Flamecharm investment.
+    -   [Deepfire Ring](Deepfire_Ring.md) does not affect White burn.
 -   The weapon has a "Unique" rarity, despite this it is droppable and bankable.
 -   The Edenbrand Hellcoil is the first Greatcannon to be added to Deepwoken.
 -   Edenbrand Hellcoil's critical is the only attack in the game that deals true damage, completely ignoring **all** resistances.

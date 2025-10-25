@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 166456
+revid: 168540
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -13,9 +13,9 @@ categories: [Items, Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | None |
 | weight | 1 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +3 Health, +1 Rare Pip |
 | innate talent | N/A |
 | set | Novice Brace, Novice Boots |
 | set talent | N/A |
@@ -32,4 +32,4 @@ Variants: [Novice Brace](Novice_Brace.md)
 
 ## Description
 
-Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Novice Set. When worn, this grants +3 Health and +2 Rare Pips.
+Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Novice Set. When worn, this grants +3 Health and +1 Rare Pip.

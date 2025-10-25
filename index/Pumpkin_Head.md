@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 158595
+revid: 168566
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
@@ -27,10 +27,11 @@ categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
 
 The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category. A head of a Pumpkin that was released during 2023 [Hallowtide](Hallowtide.md). You can obtain this by buying this from [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide) for 3 Knowledge anytime.
 
+When [dyed](Dye_Packet.md), the mouth and eyes will glow, with the glow color being based off the chosen dye. Just to show a few examples:
+
 ## Trivia
 
 -   This is the only Hallowtide [Equipment](Equipment.md) item that can't be obtained through the Trial of Gourdskipper.
 -   This is the same hat that [Gourdskippers](Gourdskipper.md) and Infecteds wear.
 -   This item is undroppable.
 -   Unlike the [Mushroom Costume](Mushroom_Costume.md) that turns your skin white, This hat does NOT turn your skin or equipment Orange, Despite it happening when Infected in the Trial of Gourdskippers
--   This item can be dyed, however the color will not change at all. Wasting a [dye packet](Dye_Packet.md)

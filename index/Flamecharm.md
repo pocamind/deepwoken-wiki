@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 168501
+revid: 168568
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1348,7 +1348,7 @@ Steam clouds deal 2 damage per tick, in an AoE, at a rate similar to burn's, and
 -   All Flamecharm Mantras and Twisted Puppets' Puppets deal reduced damage (??%) in the rain, unless the user has the _Unyielding Inferno_ Talent.
 -   Eruption delay can be reduced with the [Deepfire Ring](Deepfire_Ring.md) and the Azure Flames Talent.
     -   Eruption AoE can be increased with the Empowered Eruption buff from Empowered Eruption and Flash Point Talents as well as Azure Flames.
--   The [Deepfire Ring](Deepfire_Ring.md) Equipment increases burn tick rate, but it also decreases burn's maximum duration to even it out. This is seen as a direct upgrade from base burn due to the higher DPS, as your opponent is likely to roll off burn anyways. This ring also reduces Eruption delay.
+-   The [Deepfire Ring](Deepfire_Ring.md) Equipment increases burn tick rate by 25% (2.4 ticks per second to 3), but reduces burn's base damage (3.33 a tick to 3.21) and burn's maximum duration by ~17.5% to even it out. While this reduces your burn damage per tick, this is seen as a direct upgrade due to the higher DPS, as your opponent is likely to roll off burn anyways. This ring also reduces Eruption delay. **White Flames** are unaffected by this ring.
 -   Some Mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of _Deepwoken_.
     -   The **Flame of Denial** Mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.wiki.fextralife.com/Power+Within) from _Dark Souls_, boosting overall damage while draining health.
