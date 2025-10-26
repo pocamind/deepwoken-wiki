@@ -1,6 +1,6 @@
 ---
 title: Songwright
-revid: 166689
+revid: 168795
 source: https://deepwoken.fandom.com/wiki/Songwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Guild Base, Attunement Trainers]
@@ -59,7 +59,7 @@ The Songwright is a Chrysid NPC found within the Guild Base Song Room. This NPC 
 
 ## Notes
 
--   The Songwright can be hired for 2,000 in the Song Room after obtaining at least 9 rooms total.
+-   The Songwright can be hired for 20,000 in the Song Room after obtaining at least 9 rooms total.
 -   The Songwright charges 50% more Notes to level your Mantras than any other Attunement trainer.
     -   Leveling a Mantra from level 1 to level 2 costs 150 and 20 stat investment.
     -   Leveling a Mantra from level 2 to level 3 costs 300 and 40 stat investment.
