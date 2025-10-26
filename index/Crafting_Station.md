@@ -1,6 +1,6 @@
 ---
 title: Crafting Station
-revid: 154941
+revid: 168728
 source: https://deepwoken.fandom.com/wiki/Crafting_Station
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -21,7 +21,7 @@ Crafting Stations resemble typical tables with a large open space in the center.
 
 Crafting Stations can be used to build more complex items that can't be built in your hands.
 
-To use the Crafting Station, you must click E within a certain proximity of it, causing you to bend over and it and start looking around, and use the crafting section in your inventory. To see recipes that the Crafting Station can be used for, see Crafting Recipes & Alchemy.
+To use the Crafting Station, you must click E within a certain proximity of it, causing you to bend over and it and start looking around, and use the crafting section in your inventory. To see recipes that the Crafting Station can be used for, see [Crafting Recipes](Crafting_Recipes.md).
 
 You can avoid using the crafting station with the Talent "Master Craftsman", making it easier for you to craft without having to go to Etris or the Isle of Vigils.
 

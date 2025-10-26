@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 167490
+revid: 168725
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -90,9 +90,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.1s | [Pickaxe](Pickaxe.md) Mining \[3\] |
 |  | 0.8s | [Pickaxe](Pickaxe.md) Mining \[4\] |
 |  | 1.7s | [Cooking](Food.md) Success |
-|  | 1.0s | Crafting Success |
-|  | 0.8s | Crafting Failure \[1\] |
-|  | 0.8s | Crafting Failure \[2\] |
+|  | 1.0s | [Crafting](Crafting_Recipes.md) Success |
+|  | 0.8s | [Crafting](Crafting_Recipes.md) Failure \[1\] |
+|  | 0.8s | [Crafting](Crafting_Recipes.md) Failure \[2\] |
 |  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
 |  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (2) |
 |  | 0.6s | [Mantra Table](Mantra_Lectern.md) Place (3) |

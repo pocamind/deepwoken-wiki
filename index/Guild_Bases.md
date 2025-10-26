@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 166246
+revid: 168721
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -141,7 +141,7 @@ Quarters
  | 
 
 If you die or join in the server and the guild base is active you can spawn in the room. A room with a [Heat Stone Resting Spot](Campfire_Pit.md), [Crafting Station](Crafting_Station.md), and some beds.  
-(You cannot cook at the Heat Stone Resting Spot)
+(You cannot [cook](Food.md) at the Heat Stone Resting Spot)
 
  |
 | 

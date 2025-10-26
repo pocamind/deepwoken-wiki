@@ -1,6 +1,6 @@
 ---
 title: Candle
-revid: 167224
+revid: 168732
 source: https://deepwoken.fandom.com/wiki/Candle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]

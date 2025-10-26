@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 162995
+revid: 168748
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -50,4 +50,4 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 1.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
 2.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Wrath Gem](Wrath_Gem.md).
-3.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md)
+3.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).

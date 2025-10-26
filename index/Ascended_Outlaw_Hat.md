@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 162989
+revid: 168740
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]

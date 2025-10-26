@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 168530
+revid: 168726
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2128,6 +2128,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
     -   While in combat, this ability cost Ether to use.
+    -   Jump while sliding down a slope to perform a gale leap that propels you forwards.
     -   Prerequisite: 40 Galebreathe
 
 ### Liberator
@@ -2772,7 +2773,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Gives you a Talent tool-like ability that acts as a potion ingredient on use.
     -   When applied to your potions, it reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
     -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent.
-    -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), craft 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
+    -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), [craft](Crafting_Recipes.md) 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
         -   Oath Skipping Saltchemist is generally not recommended due to how easy it is to get the materials needed for the craft.
 
 -   Aromatic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
@@ -2780,7 +2781,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
     -   Lasts for roughly 10 seconds.
         -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
-    -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), craft 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
+    -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), [craft](Crafting_Recipes.md) 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
         -   Oath Skipping Saltchemist is generally not recommended due to how easy it is to get the materials needed for the craft.
 
 -   Biotic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
@@ -2789,7 +2790,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This should be used in every potion possible, as it has no downsides whatsoever.
     -   Due to how potions work, even your negative potions may have some positive effects and vice versa; this Talent is very good for diminishing those unwanted effects to basically nothing without any downsides.
     -   Biotic Salts count yourself as an ally.
-    -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), craft 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
+    -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), [craft](Crafting_Recipes.md) 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
         -   Oath Skipping Saltchemist is generally not recommended due to how easy it is to get the materials needed for the craft.
 
 ### Sanguine Wager

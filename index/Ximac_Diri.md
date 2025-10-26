@@ -1,9 +1,9 @@
 ---
 title: Ximac Diri
-revid: 165786
+revid: 168776
 source: https://deepwoken.fandom.com/wiki/Ximac_Diri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Hivelords, Lore figures]
+categories: [In progress without reason, InProgressPages, Hivelords]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -15,6 +15,7 @@ notices:
 | name | Ximac Diri |
 | alias | Hivelord Ximac Diri, Hivelord Ximac Diri of the Second |
 | aspect | Ganymede |
+| affiliation | The Hive |
 
 ## Description
 

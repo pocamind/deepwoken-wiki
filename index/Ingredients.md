@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 163235
+revid: 168727
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -12,7 +12,7 @@ This page is about Ingredients. If you are looking for Food, click [here](Food.m
 
 ## Description
 
-Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, in loot and other sources, Ingredients are used for crafting. Effects of Food and Ingredients that can be consumed are located [here](Food.md). Recipes & Alchemy are located here.
+Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, in loot and other sources, Ingredients are used for crafting. Effects of Food and Ingredients that can be consumed are located [here](Food.md). Crafting Recipes are located [here](Crafting_Recipes.md).
 
 ### Color Coding
 
@@ -39,8 +39,8 @@ Raw materials harvested from the environment.
 
 -   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
 -   [Redd](Redd.md) - Small round, orange fruit. Most commonly found in [Songseeker](Songseeker_Wilds.md) and [Vigils](Isle_of_Vigils.md).
--   Ongo - Red, roundish fruit. Basically, an apple. Commonly found in the [Etrean Wilds](Etrean_Wilds.md) and [Songseeker](Songseeker_Wilds.md).
--   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
+-   [Ongo](Ongo.md) - Red, roundish fruit. Basically, an apple. Commonly found in the [Etrean Wilds](Etrean_Wilds.md) and [Songseeker](Songseeker_Wilds.md).
+-   [Pomar](Pomar.md) - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   [Plumfruit](Plumfruit.md) - It's a plum, what did you expect?
 -   [Glumfig](Glumfig.md) - A purple fruit that's as glum as it is tart. Obtained exclusively through being bought from [Traan Zakshun](Traan_Zakshun.md)'s shop at a random chance for 2,500 or from his black market for 2.
 

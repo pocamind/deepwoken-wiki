@@ -1,9 +1,9 @@
 ---
 title: Dungeons
-revid: 167565
+revid: 168766
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics, Locations]
+categories: [Pages with broken file links, Mechanics, Dungeons, Locations]
 ---
 
 # Dungeons
@@ -18,24 +18,15 @@ The player is allowed to leave the dungeon either after a set goal is reached, i
 
 | Name | Type | Group/Solo | Description | Image |
 | --- | --- | --- | --- | --- |
-| [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) | Boss | Both | A section of [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) in which you fight [Duke Erisia](Duke_Ishamon_Erisia.md). Can be accessed during the [The Lord Regent's Quest.](Etris.md#the-lord-regents-quest) |  |
-| [The Ferryman's Arena](The_Ferryman.md) | Boss | Both | The arena in which you fight [The Ferryman](The_Ferryman.md), can be accessed in [Boatman's Watch](<Boatman's_Watch.md>) by placing down and lighting 4 campfires. |  |
-| [Saramaed Hollow](Saramaed_Hollow.md) | Grinding Area | Both | A mining area used by [The Ignition Union](The_Ignition_Union.md), deep under [Miner's Landing](<Miner's_Landing.md>).
-The main purpose is to kill the monsters on each level, and then mine enough fuel to continue deeper. Accessed by talking to Tau.
-
- | File:Photo 2024-10-15 19-27-35.jpg |
-| [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | Tutorial | Solo | The tutorial of Deepwoken. Can be accessed when playing the game for the first time, or by speaking to [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in [Fragments of Self](Fragments_of_Self.md). |  |
-| [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Grinding Area | Both | A wave-based monster slaying dungeon, featuring 50 waves. Can be accessed by talking to [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) in [Marauder's Entrance](<Marauder's_Entrance.md>). |  |
-| [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) | Grinding Area/Boss | Both | The first floor of the [Second Layer](Second_Layer.md). Features unique monsters and [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
-
-Can be accessed by jumping into the [First Layer](First_Layer.md)'s void above 50% HP, by talking to [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) above Power 15, or by using the [Ignition Deepdriller.](<The_Chariot's_Spire.md>)
-
- |  |
-| [New Kyrsa](Second_Layer/New_Kyrsa.md) | Grinding Area/Boss | Both | The second floor of the [Second Layer](Second_Layer.md). Features unique monsters such as the [Kyrsgarde](Kyrsgarde.md), [The Scion of Ethiron](Scion_of_Ethiron.md), and also [Misérables](Misérables.md).
-
-Can be accessed by beating [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) or by using the puzzle skip.
-
- | File:Final.png |
-| [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) | Training Area/Boss | Solo | A training area/boss arena accessed by either talking to [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (for his boss fight) or by talking to [Das](Das.md) for [Training Mode](Training_Mode.md). |  |
-| [Blade Within](Oath%253A_Bladeharper.md) | Oath Obtainment | Solo | An area in which you fight an AI version of yourself in order to obtain [Oath: Bladeharper](Oath%253A_Bladeharper.md). It can be accessed by visiting one of the [Sky Statues](Sky_Statue.md) and interacting while having the required amount of weapon points. |  |
-| [Trial of One](Trial_of_One.md) | Progression Area | Solo | An area in which you fight waves of monsters at Power One. Can be accessed through the [Lone Warrior](Lone_Warrior.md) Origin, or by going to the basement of [Outpost Antumbra](Outpost_Antumbra.md) at power 1. |  |
+| [Boatman's Watch](<Boatman's_Watch.md>) | Boss | Both | Found far into the [Voidsea](Voidsea.md) marks the ritual grounds to summon [The Ferryman](The_Ferryman.md). A powerful [Krulian](Krulian.md) the player can challenge in a dueling waltz. |  |
+| [Carnival of Hearts](Carnival_of_Hearts.md) | World Event | Group | A brutal series of challenges hosted by [Aelita](Aelita.md) and [Tillian](Tillian.md). The ultimate goal for the player is to be the last one standing with merciless games such as Flaming Pomar, Ice Beam Blitz, and Bomb Blitz. | File:Circus.png |
+| [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) | Boss | Both | A heavily guarded section within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) containing [Duke Ishamon Erisias](Duke_Ishamon_Erisia.md) experiments. Can be accessed during the [The Lord Regent's Quest.](Etris.md#the-lord-regents-quest) |  |
+| [Merit Detainment Core](Merit_Detainment_Core.md) | Boss | Both | A meticulous prison deep below [Fort Merit](Fort_Merit.md) housing the mighty Commander of the 49th Legion, [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), and containing those The Central Authority wish to extinguish. |  |
+| [New Kyrsa](Second_Layer/New_Kyrsa.md) | Grinding Area/Boss | Both | Deep within the [Second Layer](Second_Layer.md), a highly civilized city, home of the [Kyrsgarde](Kyrsgarde.md) remains under the enthrallment of the [Scion of Ethiron](Scion_of_Ethiron.md), which the player can defeat to collapse the floor. Accessed by defeating [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), using the power of the [Reciprocal Bonecharm](Reciprocal_Bonecharm.md), or skipping the First Floor with the puzzles inside of [Firfire Caverns](Firfire_Caverns.md). | File:Final.png |
+| [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) | Training Area/Boss | Solo | A large sparring arena to hone the players ability, accessed by either challenging the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for a sparring match boss fight or by speaking to [Das](Das.md) and [Regarde](Regarde.md) for [Training Mode](Training_Mode.md). |  |
+| [The Blade Within](The_Blade_Within.md) | Oath Obtainment | Solo | An area within the players mind in which an AI version of the player is to be defeated in order to obtain [Oath: Bladeharper](Oath%253A_Bladeharper.md). It can be accessed by speaking to any of the [Sky Statues](Sky_Statue.md) with the requirements to obtain Bladeharper. |  |
+| [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Grinding Area | Both | A wave-based monster slaying dungeon, down the halls of the [Marauder's Entrance](<Marauder's_Entrance.md>), featuring 50 waves of monsters and enemies. It can be accessed by interacting with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) in Marauder's Entrance. |  |
+| [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) | Grinding Area/Boss | Both | The harsh winds of the Eternal Gale fog the First Floor of the [Second Layer](Second_Layer.md). Featuring unique monsters and enemies such as [Bonekeepers](Bone_Keeper.md), [Bounders](Bounder.md), and the merciless [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md). It can be accessed by jumping into the [First Layer](First_Layer.md)'s void above 50% HP, speaking to [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) above Power 15, or by using the [Ignition Deepdriller.](<The_Chariot's_Spire.md>) |  |
+| [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | Tutorial | Solo | On the waters of the [Open Sea](Open_Sea.md) is the tutorial of _Deepwoken_, and the vessel for [Cap'n Orlandeaus](<Cap'n_Orlandeau.md>) crew. It can be accessed when playing the game or speaking to [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in [Fragments of Self](Fragments_of_Self.md). |  |
+| [The Vat](The_Vat.md) | Boss | Solo | A lab hidden in the [First Layer](First_Layer.md) which [The Gaunt Man](The_Gaunt_Man.md) runs their experiments and trials within. This three wave challenge has the player fight a [Fury Nautilodaunt](Fury_Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), and the multi headed [Deep Owl](Deep_Owl.md): [Parliament](Parliament.md). |  |
+| [Trial of One](Trial_of_One.md) | Progression Area | Solo | A hallway guarded by [The Ministry](The_Ministry.md) tucked inside of [Outpost Antumbra](Outpost_Antumbra.md). It challenges the player to fight waves of monsters at Power One. Can be accessed through the [Lone Warrior](Lone_Warrior.md) Origin, or by going to the basement of Outpost Antumbra at Power 1. |  |

@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 166598
+revid: 168756
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -65,6 +65,56 @@ To speak with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), you must 
 -   After navigating through the laser corridor, there is a bridge that leads to a wide room guarded by [Captain Marley](Captain_Marley.md) and Captain Solaire's Adretian Axe variant.
 -   A panel can be interacted with using the Release Key to open every cell.
 -   The Prison Crafting Station can be found here, which is unlocked after defeating Titus.
+
+## Crafting Station
+
+After defeating Titus, the Detainment Core's special crafting station will open up to you. This crafting station can craft items that cannot be crafted elsewhere.
+
+### Ascended Set
+
+-   **[Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)**
+    1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
+-   **[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)**
+    1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md).
+    2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>).
+-   **[Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)**
+    1.  1 [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
+-   **[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)**
+    1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md).
+
+### Reinforced War Set
+
+-   **[Reinforced War Helmet](Reinforced_War_Helmet.md)**
+    1.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
+    2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 2 [Wrath Gems](Wrath_Gem.md).
+    3.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 2 [Wrath Gems](Wrath_Gem.md).
+    4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
+-   **[Reinforced War Plate](Reinforced_War_Plate.md)**
+    1.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
+    2.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Wrath Gem](Wrath_Gem.md).
+    3.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
+-   **[Reinforced War Boots](Reinforced_War_Boots.md)**
+    1.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + 5 [Forge Needles](Forge_Needle.md) + 3 [Wrath Gems](Wrath_Gem.md).
+
+### Specialist Set
+
+-   **[Specialist Helmet](Specialist_Helmet.md)**
+    1.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 2 [Warden's Armor Pieces](<Warden's_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md).
+    2.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+    3.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+-   **[Specialist Plate](Specialist_Plate.md)**
+    1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md).
+    2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md).
+    3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+-   **[Specialist Boots](Specialist_Boots.md)**
+    1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).
+
+### Miscellaneous
+
+-   **[Authority Voltspark Mask](Authority_Voltspark_Mask.md)**
+    1.  1 [Authority Prototype Mask](Authority_Prototype_Mask.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 3 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md).
+-   **[Champion's Cape](<Champion's_Cape.md>)**
+    1.  1 [Titus's Cape](<Titus's_Cape.md>) + 1 [Champion's Alloy](<Champion's_Alloy.md>).
 
 ## Loot Table
 

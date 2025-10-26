@@ -1,9 +1,9 @@
 ---
 title: Suspicious Skeleton
-revid: 163534
+revid: 168751
 source: https://deepwoken.fandom.com/wiki/Suspicious_Skeleton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Hallowtide]
+categories: [NPCs, Hallowtide, NPCs located in The Floating Keep]
 ---
 
 # Suspicious Skeleton
@@ -11,7 +11,6 @@ categories: [NPCs, Hallowtide]
 | Suspicious Skeleton | |
 |---|---|
 | name | Suspicious Skeleton |
-| aspect | N/A |
 | location | The Floating Keep |
 
 ## Description

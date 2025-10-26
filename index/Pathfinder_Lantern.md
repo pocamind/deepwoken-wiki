@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 162970
+revid: 168718
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso]
@@ -29,8 +29,8 @@ categories: [Items, Equipment, Torso]
 The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" category. It can be crafted on the [Crafting Station](Crafting_Station.md) using the following materials:
 
 -   (1) [Dying Ember](Dying_Embers.md)
--   (1) [Iron](Ores.md)
--   (1) Fiber
+-   (1) [Iron](Ores.md#iron)
+-   (1) [Fiber](Fiber.md)
 
 Dyeing the Lantern dyes the colour of the light given.
 

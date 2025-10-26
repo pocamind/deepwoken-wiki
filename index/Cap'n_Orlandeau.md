@@ -1,9 +1,9 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 168697
+revid: 168746
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Cap'n Orlandeau

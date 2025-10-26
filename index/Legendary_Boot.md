@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 143852
+revid: 168755
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -11,7 +11,6 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | Legendary Boot | |
 |---|---|
 | name | Legendary Boot |
-| aspect | None |
 | location | Erisia |
 
 ## Descrition

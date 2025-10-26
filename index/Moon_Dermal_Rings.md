@@ -1,6 +1,6 @@
 ---
 title: Moon Dermal Rings
-revid: 168275
+revid: 168765
 source: https://deepwoken.fandom.com/wiki/Moon_Dermal_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, TBA |
+| obtainment | Chests from:, First Layer |
 | description | FEAR. IRONSINGERS. |
 
 ## Description

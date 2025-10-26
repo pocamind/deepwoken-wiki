@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 163662
+revid: 168730
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -15,7 +15,7 @@ categories: [Relics]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | Crafting, Carnival of Hearts, Sold in Traan Zakshun's black market for 10 |
+| obtainment | Crafting, Carnival of Hearts, Sold in Traan Zakshun's black market for 5 |
 
 ## Description
 
@@ -27,7 +27,7 @@ This Item is a Advanced version of the Armorer's Needle, Instead of the pip you 
 
 Crafted using 3 [Armorer's Needles](<Armorer's_Needle.md>) and 1 [Gold](Ores.md#gold) (Can be Pure, can be crafted without a crafting bench)
 
-Obtained rarely as a reward for completing the [Carnival of Hearts](Carnival_of_Hearts.md) [World Event](World_Events.md). Additionally, this item can be rarely sold by [Traan Zakshun](Traan_Zakshun.md) for 10 when his black market rolls around.
+Obtained rarely as a reward for completing the [Carnival of Hearts](Carnival_of_Hearts.md) [World Event](World_Events.md). Additionally, this item has a chance to be sold by [Traan Zakshun](Traan_Zakshun.md) for 5 when his black market rolls around.
 
 ## Usage
 

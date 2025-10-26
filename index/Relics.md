@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 168477
+revid: 168729
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -49,7 +49,7 @@ Can also summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Env
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 1
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 -   [Ministry Agent](Ministry_Agent.md)/[The Understrand](The_Understrand.md)
 
  |
@@ -80,7 +80,7 @@ Anyone Power 15+ that dies within its field will immediately be sent to [The Dep
 -   [Hell Mode](Hell_Mode.md)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 1
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 -   [Ministry Agent](Ministry_Agent.md)/[The Understrand](The_Understrand.md)
 
  |
@@ -113,7 +113,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 3
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -137,7 +137,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -161,7 +161,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 7
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -186,7 +186,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 6
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -214,9 +214,9 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Etris: Siege](Cinders_of_Etris.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Crafting
+-   [Crafting](Crafting_Recipes.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 1
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -227,9 +227,9 @@ It grants the user +50 knowledge on subsequent uses.
 
  | 
 
--   Crafting
+-   [Crafting](Crafting_Recipes.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 10
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -240,19 +240,23 @@ It grants the user +50 knowledge on subsequent uses.
 
  | 
 
--   Crafting
+-   [Crafting](Crafting_Recipes.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 2
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
-| 
 
+### Teleportation Relics
+
+Multi-use Relics that teleport the user directly to one of a few select locations. These Relics can have up to 10 uses total, having 5 uses when you obtain them and gaining an additional 5 uses if you obtain a copy of the same Relic.
+
+| Image | Description | Obtainment |
+| --- | --- | --- |
+| 
  | **[Baneful Syrinx](Baneful_Syrinx.md)** - An effigy to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) that is used to teleport to one of three locations in [The Depths](First_Layer.md).
 
   
 Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice](Cathedral_of_the_Interstice.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-
--   _(Consumed after 10 uses)_
 
  | 
 
@@ -267,8 +271,6 @@ Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice
   
 If used in the Second Layer, it will prompt you to skip the first floor and teleport you into the second.
 
--   _(Consumed after 10 uses)_
-
  | 
 
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -281,14 +283,14 @@ If used in the Second Layer, it will prompt you to skip the first floor and tele
   
 Locations: [Saramaed Summit](Saramaed_Summit.md), [Saramaed Hollow](Saramaed_Hollow.md)
 
--   _(Consumed after 10 uses)_
-
  | 
 
 -   [Saramaed Summit](Saramaed_Summit.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 
  |
+
+  
 
 ### Equipment Relics
 
@@ -307,7 +309,7 @@ The ability is one-time-use but is recharged by killing a boss or player of your
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -328,7 +330,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 10% short
 -   [War Mode](War_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Authority Ensign](Authority_Ensign.md) Missions
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -346,7 +348,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 -   [Second Layer](Second_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -360,7 +362,7 @@ This has a 6 second cooldown and charges cannot be stacked.
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 
@@ -400,7 +402,7 @@ _"This Umbrite blade is unlike anything you've encountered. Marked and damaged b
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [The Understrand](The_Understrand.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 45
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 167514
+revid: 168759
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -13,8 +13,6 @@ LocationL Trial of One LocationR
 And now, a road that only one may walk...
 
   
-
-Entrance hallway of the Trial. The door ahead leads to the arena, two nonfunctional glowing gates to the left and right hallways.
 
 The **Trial of One** is a location in _Deepwoken_. It is currently one of the two wave-based [dungeons](Dungeons.md) in Deepwoken, the other being [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
