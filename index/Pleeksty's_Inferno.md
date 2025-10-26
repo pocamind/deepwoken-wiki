@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 163295
+revid: 168802
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Medium Weapons]
@@ -70,7 +70,6 @@ Both criticals will instantly max out your Emperor Flame stacks after the critic
     -   In real life, macuahuitls are embedded with sharp obsidian blades, providing a sharper edge than normal swords, which is also mentioned in the description.
 -   The player does not need to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) to keep Pleeksty's Inferno, as it can be equipped immediately. In the case that the player wipes purposefully or accidentally before exiting [Layer 2](Second_Layer.md), the weapon cannot be dropped on death.
     -   If [Aska](Aska.md) falls off the map, you may defeat Chaser and be awarded with the weapon upon Chaser's death instead of Aska's.
--   Despite the Resonance Doors leading to the fight with Aska, obtaining a Resonance is not obliged as a prerequisite to acquire the weapon as it is possible to clip through the Resonance Doors. However, this is the more dangerous method, as there is a risk of falling into the void while clipping through the last door on your way back from the cave.
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
     -   These characteristics are seen in the [Deepspindle](Deepspindle.md) and the [Wraithclaw](Wraithclaw.md), which emit musical note particles.
