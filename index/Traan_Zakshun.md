@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168707
+revid: 168780
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -158,6 +158,7 @@ Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sells
 His item descriptions will change randomly each time he hits his hourly rotation:
 
 -   _A rare find indeed._
+-   _An item most regal!_
 -   _Hard sell eh?.. What if it was purple?_
 -   _Hey come on now, it's not that expensive.._
 -   _Hey, you break it - you buy it._
@@ -171,8 +172,10 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Now see, I would buy this. From myself._
 -   _Oh haha, that's not dust that's uhm... an expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
+-   _People keep asking for these to be purple? I don't get it._
 -   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
+-   _They say you should never look a gift horse in the mouth! ...Well, these aren't gift horses. Look all you want! Buy, even!_
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_
 -   _This is a real steal, probably._

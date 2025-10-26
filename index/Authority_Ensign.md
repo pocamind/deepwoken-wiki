@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 168486
+revid: 168791
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -28,7 +28,7 @@ Your guild will be automatically set to The Central Authority on that character,
 
 If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
 
-Gain the Salute [Emote](Emotes.md). All other Authority Ensign members will have a symbol above their head, to signify them being your ally. Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
+Gain the Salute [Emote](Emotes.md). All Ensigns will have an Authority insignia above their head to signify their rank, though your own insignia will be invisible to you. Most Authority-related equipment and weapons, listed here, can be equipped without meeting their normal requirements, without any penalty.
 
 ### Horn of Authority
 
