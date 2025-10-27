@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168828
+revid: 168903
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -174,6 +174,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Oof, man. Are you sure you can afford this heat?_
 -   _People keep asking for these to be purple? I don't get it._
 -   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
+-   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
 -   _They say you should never look a gift horse in the mouth! ...Well, these aren't gift horses. Look all you want! Buy, even!_
 -   _This catch your eye?_
@@ -183,6 +184,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This one's so valuable it's been sitting around for years!_
 -   _This usually isn't the case but I almost drowned getting this haha._
 -   _Truly a divine thingymabob._
+-   _Use my special offer! You can get TWO items, for the price of one-plus-one item! Isn't that a steal?_
 -   _Yes this is my real name... legally._
 -   _You got any Ongo slices? I could really go for a snack..._
 

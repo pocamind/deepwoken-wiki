@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 168670
+revid: 168909
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -116,15 +116,13 @@ Adret has a set of optional face markings that come in a variety of colors depen
 
 ## Trivia
 
--   An NPC in the [Summer Isle](Summer_Isle.md), [Ishan](Ishan.md), refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else. He also cites that they are the only aspect that is not related to an animal.
-    -   He theorizes they come from the waves.
+-   [Ishan](Ishan.md), an NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else, theorizing that they come from the waves. He also cites that they are the only aspect that is not related to an animal.
 -   There appears to be a heavy Adretian presence in the Central Authority military's upper ranks.
--   There is a fourth variant which is a slightly lighter toned version of the third variant shown.
 -   Adret are **not** fish.[\[1\]](#cite-note-1)
 -   According to Arch\_Mage, Adrets were made with some inspiration from the Goliath aspect from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's aspect name was changed to Markskipper.
 -   Adret innate Talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
--   Namesake of the [Adretian Axe](Adretian_Axe.md).
+-   Namesake of the [Adretian Axe](Adretian_Axe.md) and [Adretian Aegis](Adretian_Aegis.md).
 -   In the book "Vows by the Sea: Inheritance", it is assumed that Adrets are a 'vowless' aspect, and all of other aspects were originally Adrets, just 'bred-out'.
 
 ## References

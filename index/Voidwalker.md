@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 168346
+revid: 168913
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character, The Knives of Eylis]
@@ -80,6 +80,8 @@ Your starting faction [reputation](Reputation.md) is:
 ## Trivia
 
 -   Both Voidwalker and [Deepbound](Deepbound.md) were suggested by user MrTheBest2, who was later made a tester for a period of time (On October ~13, 2025 MrTheBest2 regained tester).[\[1\]](#cite-note-1)
+-   Having the [Two-Faced](Regalia.md#two-faced) Regalia allows you to purchase the other [Origin](Origins.md)'s exclusive tools from [Rook Rethige](Rook_Rethige.md) for 20. These include: Deepbound's [Call of the Deep](Deepbound.md#call-of-the-deep), Authority Ensign's [Horn of Authority](Authority_Ensign.md#horn-of-authority), and Ignition Delver's [Union Pager](Ignition_Delver.md).
+    -   After purchasing one of the tools, the shop will no longer be accessible to you, removing your ability to get another.
 -   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, (or unfortunately depending on who you are) this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you.
 
 ## References

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 168811
+revid: 168920
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -38,7 +38,7 @@ Gain a Talent Tool horn that marks escaping prisoners when blown by applying a c
 
 On the top left of your screen, next to the Help button, there will be an Authority Helmet icon with a red background, labeled "Squads." Clicking this will allow you to create a Squad with other Authority Ensign members. This is very similar to party systems in other games.
 
-Being in a Squad allows you to take on the Missions as a group and proc certain Authority Ensign Talents. This feature is highly recommended, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
+Being in a Squad allows you to take on the Missions as a group and proc certain Authority Ensign Talents. This feature is highly recommended, especially at lower levels, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
 
 ## Exile
 
@@ -253,7 +253,6 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 
 -   **Armored Plating** - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
     -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
-
 -   **Crossguard** - If you are using a sword, you gain 10% chip against other opponents wielding swords.
 -   **Oppressive Force** - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
     -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
@@ -264,10 +263,8 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
-
 -   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
-
 -   **Steel Tread** - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
 
 #### Command Division Talents
@@ -281,7 +278,6 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
     -   The cooldown is 24 real world hours, not one ingame day.
-    -   This is a _One Piece_ reference, To be more specific, to a tactic employed by the marines in the One piece world in which 10 warships are called to bombard a location, although for gameplay purposes its not the same
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
 -   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
@@ -297,7 +293,6 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment is 30% (+6% damage).
-
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 -   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
 -   **Tacet Minimization** - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
@@ -309,10 +304,8 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Increases your flourish posture damage from M1 posture damage + 7 to (M1 posture damage x1.5) + 10.5.
     -   Oppressive Force does not follow through on block. This means this will usually only apply +50% posture damage to the first hit of your flourish.
     -   Prerequisites: Oppressive Force
-
 -   **Amp Overdrive** - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
-
 -   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
 -   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
 
@@ -496,10 +489,7 @@ Shock Corps Division
 -   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
     -   This means you are unable to get [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#public-figure) Talent.
 -   Because the Master Armors are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
-
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
-
--   You can't go on Trial Of One when you're Authority Ensign.
 
 ## Reputation
 
@@ -521,5 +511,6 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 
 ## Trivia
 
--   Despite the Summer Company being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped.
--   Funnily enough, the Shock Trooper Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
+-   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped.
+-   Funnily enough, the Shock Corps Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
+-   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.

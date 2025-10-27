@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 168830
+revid: 168883
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -424,11 +424,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Nightbringer<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>On hit, steal a portion of your opponent's Ether.</p>
-  <p>Steals around same amount of ether as your M1 scaled DMG<br>
-  Ether steal is reduced if target has general resistances (AKA reinforce and etc)<br>
-  Procs on Critical Attack<br>
-  Additionally, your weapon attacks can proc certain <a href="Shadowcast.md">Shadowcast</a> Talents, such as Twisted Puppets' shadow burn or Sightless Still.</p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b><p></p>
+  <p>On weapon attack, steal Ether based on damage dealt. The damage dealt to Ether stolen conversion is affected by the opponent's resistances, but is not affected by damage modifiers.</p>
+  <p>Additionally, your weapon attacks can proc certain <a href="Shadowcast.md">Shadowcast</a> Talents, such as Twisted Puppets' shadow burn or Sightless Still.</p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b><p></p>
   <p><strong>In-game Description:</strong></p>
   <p>N/A</p>
   <p><strong>Obtainment:</strong></p>

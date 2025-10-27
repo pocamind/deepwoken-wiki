@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 168340
+revid: 168892
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
@@ -17,41 +17,85 @@ categories: [Adret NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminan
 
 ## Description
 
-Emel is an [Adret](Adret.md) NPC who resides in the territory of [The Summer Company](The_Summer_Company.md) faction, being a member of [the Ministry](The_Ministry.md) faction, you can find him leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
+Emel is an [Adret](Adret.md) NPC who resides in the territory of [The Summer Company](The_Summer_Company.md) faction, being a member of [the Ministry](The_Ministry.md), you can find him leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
 
 If you decide to talk to him, he will give you a quest to kill some enemies in [Songseeker Wilds](Songseeker_Wilds.md), if you complete it, you will gain morale with the Ministry and a payment for your deeds. Like the NPC in Etrean luminant on the statue island, you must grip (kill) a person on songseeker and return back to him for reputation and rewards.
 
 ## Dialogue
 
-Speaking to him:
+**First Encounter:**
 
-You, you! Little killer! Looking for some fun?
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>You, you! Little killer! Looking for some fun?</td>
+</tr>
+<tr>
+  <td>Maybe I am.</td>
+</tr>
+<tr>
+  <td>Splendid, splendid! We'll make a deal. You can do a fun little party trick for me, and I'll pay you notes and good favor.</td>
+</tr>
+<tr>
+  <td>Very well, I'm in.</td>
+</tr>
+<tr>
+  <td>Oh, great, great! You're going to kill someone. Specifically, any poor sap you find on Songseeker. Sound good? Do the job, and return to me. They'll have to be as smart as yourself, you know!</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
-1.  Maybe I am.
-2.  \[End Dialogue\]
+**Subsequent Encounters:**
 
-Splendid, splendid! We'll make a deal. You can do a fun little party trick for me, and I'll pay you notes and good favor.
+**Quest in progress:**
 
-1.  Very well, I'm in.
-2.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+</tr>
+<tr>
+  <td>I have not yet.</td>
+</tr>
+<tr>
+  <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Songseeker, and then come back to me.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
-Oh, great, great! You're going to _kill someone_. Specifically, any poor sap you find on Songseeker. Sound good? Do the job, and return to me. They'll have to be as smart as yourself, you know!
+**Quest end:**
 
-1.  I can handle it.
-2.  \[End Dialogue\]
-
-_SPLENDID!_ Your task for now is to find and eliminate a _living being_ as smart as you on Songseeker. Once you've _killed them_, come back for a surprise...
-
-If you talk to him again without having completed:
-
-Hello, fool! Have you completed your _PARTY TRICK_ for me yet?
-
-1.  I have not yet.
-2.  \[End Dialogue\]
-
-AH! Have you forgotten your _TASK_? Kill a living being as smart as you anywhere on Songseeker, and the come back to me.
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
+</tr>
+<tr>
+  <td>I've eliminated the target.</td>
+</tr>
+<tr>
+  <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

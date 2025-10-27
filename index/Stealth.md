@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 162354
+revid: 168899
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,7 @@ categories: [Mechanics]
 
 ― A basic description of a fairly useless stat.
 
-Vesperian in Stealth
+Vesperian crouched, increasing their stealth
 
 **Stealth** is a Mechanic that allows the player to stay hidden from people.
 
