@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 167058
+revid: 168960
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -898,7 +898,7 @@ Ice
 -   Has a base damage of 7.77/9.44/11.1/12.77/14.43 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   The damage is reduced if you remove Crystal Path, dealing 6.1/7.77/9.43/11.1/12.77 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 50% more damage if used after Crystal Knee or if used while airborne.
--   Applies Knockdown.
+-   Applies Knockdown when landed airborne.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), removing the knockdown.
 

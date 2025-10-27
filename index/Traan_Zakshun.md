@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168922
+revid: 168947
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -371,6 +371,7 @@ Sold Items
     <li><b>Head</b>: <a href="Aazel's_Horns.md">Aazel's Horns</a>.</li>
     <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
   </ul></li>
+    <li><b>For 20 </b>: <a href="Dark_Pearls.md">Dark Pearls</a>.</li>
     <li><b>For 25 </b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a>.</li>
     <li><b>For 250 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a>.</li>
   </ul></td>
@@ -382,7 +383,10 @@ Sold Items
 
 -   Traan Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
 -   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update, as too many people were pronouncing it as "train saction" and not "transaction".
--   The Black Market dialogue "_You want it? It's yours my friend! So long as you have enough crowns."_ is a reference to Morshu from Link: The Faces of Evil.
+-   Traan's shop dialogues contain references to other media:
+    -   "_A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._" is a reference to the turnip salesman from _Rogue Lineage_.
+    -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
+    -   "_You want it? It's yours my friend! So long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
 -   Nuttoons, one of Deepwoken's developers, had this to say about Traan Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
     -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
 
