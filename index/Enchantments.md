@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 168312
+revid: 168830
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -1008,6 +1008,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p>Curse of Ysley's Ember is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Curse of Ysley's Ember Enchant Stone can be obtained from:<div>
   <ul>
     <li>Chests from the following bosses, events, and locations: <a href="Primadon,_Titan_of_the_East.md">Primadon</a>, <a href="Elder_Primadon,_The_Titan_Warlord.md">Elder Primadon</a>, <a href="The_Starswept_Valley.md">Starswept Valley</a>, <a href="The_Diluvian_Mechanism.md">The Diluvian Mechanism</a>, and <a href="Fishing.md">Fishing</a>.</li>
+    <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 8 .</li>
     <li>Directly dropped from <a href="Hive_Construct.md">Hive</a> and <a href="Rogue_Construct.md">Rogue Constructs</a>.</li>
     <li>Turning in an <a href="Artifacts.md">Artifact</a> to bankers in the <a href="Maps.md">Eastern Luminant</a>.<p></p></li>
   </ul></div></div></td>

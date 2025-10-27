@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 168726
+revid: 168817
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2797,6 +2797,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
     -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health).
+    -   This cannot give more than 50 Temporary Health in one instance.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy), Rush Hour
 

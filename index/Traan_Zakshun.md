@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168780
+revid: 168828
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -342,7 +342,7 @@ Sold Items
     <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 6 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 7 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
-    <li><b>For 10 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
+    <li><b>For 8 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 15 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a>.</li>
   </ul></td>

@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 166952
+revid: 168823
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -33,7 +33,7 @@ The soldiers in Etris are purely [Etrean](Etrean.md), with the [Mantra Collector
 
 ## Reputation
 
-For the Castaway and Lone Warrior [Origins](Origins.md), the player spawns in with Friend [Reputation](Reputation.md) with Etrea. Deepbound players will spawn in with Neutral Reputation, Voidwalkers will spawn in with Enemy Reputation, and Authority Ensigns will spawn with hunted reputation.
+For the Castaway and Lone Warrior [Origins](Origins.md), the player spawns in with Friend [Reputation](Reputation.md) with Etrea. Deepbound players will spawn in with just below Neutral Reputation, Voidwalkers will spawn in with Enemy Reputation, and Authority Ensigns will spawn with hunted reputation.
 
 Being an [Etrean](Etrean.md) increases your starting Reputation with Etrea. This sets your starting Voidwalker enemy reputation to neutral. Authority Ensigns cannot increase their Etrea reputation.
 

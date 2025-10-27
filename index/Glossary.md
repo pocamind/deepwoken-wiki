@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 168684
+revid: 168826
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -631,7 +631,7 @@ Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) player name
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
-Dialogue: [Alastir](Alastir.md), [Beiruul](Beiruul.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](Books.md#archivist-journal-megalodaunt), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries:
+Dialogue: [Beiruul](Beiruul.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](Books.md#archivist-journal-megalodaunt), [Lumen's Folklore: 'Volume Attunement'](Books.md#lumens-folklore-volume-attunement) | Glossary Entries:
 
 ### Talent
 

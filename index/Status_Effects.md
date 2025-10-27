@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 168453
+revid: 168822
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -109,7 +109,7 @@ Your range of vision is severely reduced, with everything far away from you bein
 
 ### Temporary Health
 
-Gain Temporary Health which decays at a rate of 1 Temporary health lost per second. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), aswell as the [Vampirism](Vampirism.md) enchant. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. Temporary health capped at 100 hp. Signified by a white bar on your health bar.
+Gain Temporary Health which decays at a rate of 1 Temporary health lost per second. You cannot have more than 200 flat temporary health at any given time. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), [Enhanced Flow](Talents.md#sanguine-wager), aswell as the [Vampirism](Vampirism.md) enchant. Temporary health capped at 100 hp. Signified by a white bar on your health bar.
 
 ### Enhanced Perception
 
@@ -195,15 +195,15 @@ Have a crystal stacked on you. Upon guard breaking or applying five crystals and
 
 ### Shock
 
-Increases the hitstun of the attack that applied this status effect (0.9s to 1s). This does not affect your ability to parry. Shock's hitstun bypasses [hyperarmor](#hyperarmor), but not [true hyperarmor](#true-hyperarmor). Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
+Applies a 1 second stun that interrupts hyperarmor, this does not affect your ability to parry. Additionally applies a 25% slow (40% if you consider hitsun) and disables passive posture regeneration for 1 second on proc. Due to base hitstun being 0.9s, Shock can be seen as only adding 0.1s of additional hitstun to your attacks. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
 ### Sapped
 
-This can be applied by being flourished by someone using [Thunder Wisp](Thundercall.md#thunder-wisp), being hit by either of the [Boltcrusher](Boltcrusher.md) criticals, or by someone Overloading your Surge stacks with [Fried Circuits](Talents.md#unstable-capacitor). While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. Indicated by a lightning javelin piercing you.
+While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. This can be applied by being flourished by someone using [Thunder Wisp](Thundercall.md#thunder-wisp), being hit by either of the [Boltcrusher](Boltcrusher.md) criticals, or by someone Overloading your Surge stacks with [Fried Circuits](Talents.md#unstable-capacitor). Indicated by a lightning javelin piercing you.
 
 ### Overloaded
 
-This status effect is exclusive to the [Surge Path](Talents.md#unstable-capacitor) Talent tree. Surge Rods are inflicted primarily by [Thundercall](Thundercall.md) Mantras, but anything that would normally apply [Shock](#shock) will apply a Surge Rod instead. Upon guard breaking or applying five rods and then landing an attack that would apply a sixth, the stacked Sure Rods will violently discharge, dealing Thundercall damage per applied Surge Rod. This effect can be enhanced by several talents in the Surge Path Talent tree. Signified by a blurple rod planted in your body.
+This status effect is exclusive to the [Surge Path](Talents.md#unstable-capacitor) Talent tree. Anything that would normally apply [Shock](#shock) will apply a Surge Rod instead. Upon guard breaking or applying five rods and then landing an attack that would apply a sixth, the stacked Sure Rods will violently discharge, dealing Thundercall damage per applied Surge Rod. This effect can be enhanced by several Talents in the Surge Path Talent tree. Signified by a blurple rod planted in your body.
 
 ### Metal Rods
 

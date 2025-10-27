@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 168808
+revid: 168811
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -496,7 +496,10 @@ Shock Corps Division
 -   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
     -   This means you are unable to get [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#public-figure) Talent.
 -   Because the Master Armors are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
+
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
+
+-   You can't go on Trial Of One when you're Authority Ensign.
 
 ## Reputation
 
