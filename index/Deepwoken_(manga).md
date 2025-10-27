@@ -1,13 +1,13 @@
 ---
 title: Deepwoken (manga)
-revid: 168908
+revid: 168935
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Deepwoken (manga)
 
-_**Deepwoken**_ is a one-shot manga written by Keiichi Tsuha and illustrated by Akeji Fujimura. It was published as part of a collection of short stories serving as adaptations of _Roblox_ games. The collection was distributed during the Roblox Developers Conference of 2025.
+_**Deepwoken**_ is a one-shot manga written by Keiichi Tsuha and illustrated by Akeji Fujimura. It was published as part of a collection of short stories serving as adaptations of _Roblox_ games. The collection was a collaboration between [Dentsu](https://en.wikipedia.org/wiki/Dentsu), [Kodansha](https://en.wikipedia.org/wiki/Kodansha) and [GeekOut](https://geek-out.io/en/), distributed during the Roblox Developers Conference of 2025.
 
 ## Plot
 

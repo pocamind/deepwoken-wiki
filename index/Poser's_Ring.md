@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 162763
+revid: 168927
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -37,7 +37,7 @@ Poser's Ring grants an 8% damage bonus in PvE to your melee attacks.
 -   It cannot be dropped nor banked, as it will be soulbounded to your character.
 -   If you swap weapons through using an ability, your stored damage will be saved. Note that the Poser's Ring sheathe will only proc if your current weapon is the Katana, and no other weapons can build up Poser's damage.
     -   The aforementioned abilities include: [Crazy Slots](Crazy_Slots.md), Silentheart's [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity), Saintsworn's [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), Blightsurge's [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state), and any [Fist style](Fists.md) tool.
--   The Poser Ring sheathe damage cannot be parried or nullified in any way.
+-   The Poser Ring sheathe damage cannot be parried or nullified in any way. (Bugged, damage can get voided if attacked when sheathing: [https://youtu.be/UiZA7tRJhZc](https://youtu.be/UiZA7tRJhZc))
 -   Damage from the Poser's Ring sheathe cannot exceed 70% of a Player's Max Health.
     -   All non-player enemies are not affected by this cap, meaning with enough M1s, you are capable of depleting even boss health bars from 100% to 0% in one sheathe.
 -   All weapon [enchantments](Enchantments.md) that proc on weapon hit will proc on the basic hits of your Katana like normal. The sheathe cannot proc enchants.

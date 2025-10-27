@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 168198
+revid: 168924
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer]
@@ -159,6 +159,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Aska is a humanoid opponent. This means he uses basic attacks, a critical, mantras, etc.
 -   All of Aska's moves are ordinary player mantras, and they are all parriable.
 -   Aska can automatically parry moves that are guranteed to posture break while blocking.
+-   Currently, you can't grip Aska for more than a month due the bug, so to auto grip him, you have to hit his body a lot of times until he dies, (It can take a lot of hits but he will die eventually) or use any move that auto grips.
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.

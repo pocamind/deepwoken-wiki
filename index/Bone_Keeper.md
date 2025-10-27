@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 163129
+revid: 168921
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths, Enemies]
@@ -44,7 +44,7 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 
  | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and very high posture. The Bone Keeper skids to a stop and faces you if this is successfully parried.
 
--   It is not recommended that you block this attack, as its posture damage is very high.
+-   It is not recommended that you block this attack, as it deals just around 42-43 posture.
 
  |  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 168890
+revid: 168923
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1990,7 +1990,6 @@ Slash
 
 -   Although many Attunement-less Mantras have relatively low requirements, it’s highly recommended to spec into those stats.
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
--   Charisma Mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit 'n run" playstyle in order to defeat you.
 -   Most Attunement-less Mantras serve as utility in order to assist you in either combat or general survival.
 -   Strong Left is best used during a parry trade in order to be as close as possible to your opponent due to its lackluster range but incredibly high damage and short wind-up.
 -   Rapid Punches has a short dash and should be used when doing a combo. Keep in mind that if the punches are parried, they will not be cancelled, but the opponent is able to hit you while the barrage is still active. Highly suggested you cancel the Mantra after around 5 hits to avoid giving your opponent a free m1 on you.
