@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 168430
+revid: 169122
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -17,33 +17,41 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |
-| ??? (Coral Clump) | Unaligned | [The Depths](First_Layer.md), [Celtor Wastes](Celtor_Wastes.md) | None |  |
-| [??? (FalseMan)](<%253F%253F%253F_(FalseMan).md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None | Speaks gibberish special characters. Snaps his own neck upon talking to him. |
-| [??? (Frozen Man)](<%253F%253F%253F_(Frozen_Man).md>) | Unaligned | [Second Layer](Second_Layer.md)[Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | None |  |
-| [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Flings you off a cliff for no reason | Once thrown enough times she will stop throwing you |
-| [Adar](Adar,_Master_of_Metal.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), in tower of the bridge | [Ironsing](Ironsing.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
-| [Adrofalis](Adrofalis.md) | The Old Stewards | [Boatman's Watch](<Boatman's_Watch.md>), Ferryman's Library | Grants the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md) |  |
-| [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event, required to obtain the [Visionshaper](Oath%253A_Visionshaper.md) Oath | Does not spawn during Winter |
-| [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) and unlock the [Deepbound](Deepbound.md) Origin | Choosing the second option without 75 Charisma will result in unavoidable death |
-| [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives a chest to those who give him ragdolled villagers | Cannot be given [Forgotten Villagers](Forgotten_Villager.md), can be given Navaen Nomads, dialogue changes after being given a villager for the first time |
-| Alina | Unaligned | [The Floating Keep](The_Floating_Keep.md) | None |  |
-| [Alirian](Alirian.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants the [Jetstriker Oath](Oath%253A_Jetstriker.md) |  |
-| [Alpha](Alpha.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | Asks you to rescue [Epsi](Epsi.md), gives the [Union Hook](Talent_Quests.md) and [Delver Boots](Delver_Boots.md) recipe when turning on the generator. |  |
-| [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Grants [Legion Kata](Fists.md) fist style |  |
-| [Amashi](Amashi,_Master_of_Flame.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
-| [Andrea](Andrea.md) | Unaligned | [The Depths](First_Layer.md), [The Cathedral of Interstice](Cathedral_of_the_Interstice.md) | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
-| [Antiquarian](Antiquarian.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Fort Merit](Fort_Merit.md), [Castle Light,](Castle_Light.md) [Voidheart](Voidheart.md)[, The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Purchases/evaluates the price of various items for notes |  |
-| [Apprentice Kj](Apprentice_Kj.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Quest to release the unbound weapon with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). This quest is also a requirement to fight Maestro. | Sends you to Erisia to look for your brother [Isaac](Vigil_Isaac.md) |
-| [Argo](Argo.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Reveals information about fishing |  |
-| [Aristo](Aristo.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), Inn | Provides information to new players |  |
-| [Arthur](Arthur.md) | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon quest completion, completes 'Bravery' quest |
-| [Asius](Asius.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the Armor Piercing [quest](Quests.md) given by [Trig](Trig.md) |  |
-| [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Gives the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) if you defeat him in a fight | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 Flamecharm |
-| [Astra](Astra.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | None |  |
-| [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md) | apparently you know her from somewhere... |
-| [Atra](Atra.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Gives you a quest to go find [Lars](Lars.md)'s whereabouts | None |
-| [Avian](Avian.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |
-| [Banker](Banker.md) | Unaligned | [Etris](Etris.md)[Isle of Vigils](Isle_of_Vigils.md)[Greathive Aratel](Greathive_Aratel.md)[Summer Isle](Summer_Isle.md)[Miner's Landing](<Miner's_Landing.md>)[Fort Merit](Fort_Merit.md)[Castle Light](Castle_Light.md)[Voidheart](Voidheart.md)[The Floating Keep](The_Floating_Keep.md)[Guild Bases](Guild_Bases.md) | Lets you store items safely. |  |
+| ??? (Coral Clump) | Unaligned | [Celtor Wastes](Celtor_Wastes.md) | None |  |
+| [??? (FalseMan)](<%253F%253F%253F_(FalseMan).md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None | Speaks gibberish in special characters, snaps neck upon interaction. |
+| [??? (Frozen Man)](<%253F%253F%253F_(Frozen_Man).md>) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | None |  |
+| [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Throws player off cliff upon agitating her. | Once thrown off enough times she stops. |
+| [Adar, Master of Metal](Adar,_Master_of_Metal.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), hidden away in a tower | [Ironsing](Ironsing.md) Attunement trainer.  
+[Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression. |  |
+| [Adrofalis](Adrofalis.md) | The Old Stewards | [Boatman's Watch](<Boatman's_Watch.md>), Ferryman's Library | Grants the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md). |  |
+| [Aelita](Aelita.md) | Unaligned | [Carnival of Hearts](Carnival_of_Hearts.md)  
+[Valley of Heroes](The_Valley_of_Heroes.md) | Unique event required to obtain the [Visionshaper](Oath%253A_Visionshaper.md) Oath. | Twin of [Tillian](Tillian.md).  
+Does not spawn in Valley of Heroes during [Winter](Seasons.md). |
+| [Akira](Akira.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md)  
+[Celtor Wastes](Celtor_Wastes.md) | Willpower unbound.  
+Joining [The Divers](The_Divers.md) [Guild](Guilds.md) and unlock the [Deepbound](Deepbound.md) [Origin](Origins.md). | Picking his second dialogue option in Celtor Wastes with less than 75 Charisma will result in unavoidable death. |
+| [Alastir](Alastir.md) | Unaligned | [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Grants a chest and EXP upon returning Lost Pathfinders. | Gives lore and explanation on [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).  
+Cannot be given [Forgotten Villagers](Forgotten_Villager.md) but can be given [Navaen Hostages](Navaen_Hostage.md). |
+| Alina | The Spellhardt Familt | [The Floating Keep](The_Floating_Keep.md) | None |  |
+| [Alirian](Alirian.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants the [Jetstriker](Oath%253A_Jetstriker.md) [Oath](Oaths.md). |  |
+| [Alpha](Alpha.md) | [The Ignition Union](The_Ignition_Union.md) | [The Frontier Furnace](The_Frontier_Furnace.md) | Essential for unlocking [Arcwarder](Oath%253A_Arcwarder.md).  
+Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boots.md) recipe upon interaction after turning on the generator. | Asks the player to retreive [Epsi](Epsi.md). |
+| [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [The Viper's Jaw](<The_Viper's_Jaw.md>) | Grants the [Legion Kata](Legion_Kata.md) [Fist](Fists.md) style. |  |
+| [Amashi, Master of Flame](Amashi,_Master_of_Flame.md) | Unaligned | [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) trainer.  
+[Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression. |  |
+| [Andrea](Andrea.md) | Unaligned | [The Cathedral of Interstice](Cathedral_of_the_Interstice.md) | Reveals information about the Depths Trial. | Dialogue changes after completing the Trial once. |
+| [Antiquarian](Antiquarian.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Fort Merit](Fort_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Purchases |  |
+| [Apprentice Kj](Apprentice_Kj.md) | [Etrea](Etrea.md) | [Temple of the Blade](Temple_of_the_Blade.md) | Quest to unbound weapon and speak with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). | Sends the player to find [Vigil Isaac](Vigil_Isaac.md) in [Upper Erisia](Upper_Erisia.md). |
+| [Argo](Argo.md) | [Etrea](Etrea.md) | [Etris Docks](Etris_Docks.md) | Teaches the basics on how to [Fish](Fishing.md). |  |
+| [Aristo](Aristo.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Provides basic information to help new players. |  |
+| [Arthur](Arthur.md) | [Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon completes and talent hand for 'Bravery' quest. |
+| [Asius](Asius.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the Armor Piercing Quest given by [Trig](Trig.md). | Player can decide to help him out, will be attacked by Trig instead. |
+| [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Drops the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) upon defeat. | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 [Flamecharm](Flamecharm.md). |
+| [Astra](Astra.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Sells basic weaponry. | Only sells some of the items in the Etris Weaponry. |
+| [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md). | Apparently the player knows her from some where. |
+| [Atra](Atra.md) | [The Hundred Legions](The_Hundred_Legions.md) | [The Viper's Jaw](<The_Viper's_Jaw.md>) | Gives the Quest to find the whereabouts of [Lars](Lars.md). | None |
+| [Avian](Avian.md) | [Etrea](Etrea.md) | [Temple Sparring Hall](Temple_Sparring_Hall.md) | Gives the Quest to lend him a Weapon Manual. | Consumes one usage of the manual upon quest completion. |
+| [Banker](Banker.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Port Merit](Port_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Stores items and notes for the player to access at anytime. |  |
 | [Barber](Barber.md) | Unaligned | [Etris](Etris.md)[Isle of Vigils](Isle_of_Vigils.md)[Greathive Aratel](Greathive_Aratel.md)[Summer Isle](Summer_Isle.md)[Castle Light](Castle_Light.md)[Guild Bases](Guild_Bases.md) | Lets you change your appearance. |  |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
 | [Beatra](Beatra.md) | Unaligned | [Derelict Highchurch](Derelict_Highchurch.md) | [Shadowcast](Shadowcast.md) trainer on the surface. | She can't teach you [Shadowcast](Shadowcast.md), only level up mantras. |

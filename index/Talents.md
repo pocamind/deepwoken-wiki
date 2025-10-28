@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 169096
+revid: 169120
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -36,7 +36,7 @@ The player is given multiple types of Talents. When [powering up](Power.md), the
 
 When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonances randomly chosen based on their [Resonance Point](Resonance.md) allocation. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
 
-The maximum amount of Talents that you can have, Talent Hands giving you **47**, all 12 '**Roll 2**' cards, plus the **3** Talent Quests and the extra 2 from [Kelsius](Kelsius.md)'s Whisper Draw divided by the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) combines to a total of **76** maximum Talents, without the quests being a total of **71** Talents instead. As such, each mantra taken deduces 2 possible Talents from your total, with [Monster Mantras](Monster_Mantras.md) and the extra Whisper Draw from [Kelsius](Kelsius.md) not counting towards this deduction.
+The maximum amount of Talents that you can have, Talent Hands giving you **47**, all 12 '**Roll 2**' cards \[**24**\], plus the **3** Talent Quests and the extra **2** from [Kelsius](Kelsius.md)'s Whisper Draw divided by the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) combines to a total of **76** maximum Talents \[**47** + **24** + **3** + **2**\], without the quests being a total of **71** Talents instead. As such, each mantra taken deduces 2 possible Talents from your total, with [Monster Mantras](Monster_Mantras.md) and the extra Whisper Draw from [Kelsius](Kelsius.md) not counting towards this deduction.
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 

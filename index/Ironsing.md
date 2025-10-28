@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 167818
+revid: 169138
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -133,7 +133,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 -   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   By rotating your view, you can reangle the Mantra to catch rolls.
--   Heavily reminiscent of the legacy Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
+-   Heavily reminiscent of the Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption, but reduces posture DMG.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
 -   This mantra hits 4 times, but if it hits a person, that person would be immune to next 3 hits from metal eruption.
