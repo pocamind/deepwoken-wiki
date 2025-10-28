@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 168886
+revid: 169096
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -372,12 +372,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Allows the user to M1 while performing a dash, ending their dash early.
     -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
 
--   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive - When blockbroken with Arc Suit active, eject from the armor.
+-   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When blockbroken with Arc Suit active, eject from the armor.
     -   When block broken you instantly eject from your [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) preventing the guard break stun.
     -   Upon exiting the Arc Suit posture is set to 50%
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Guard - \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
+-   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), blocking prevents Spine Cutter from proccing and grants 360 block to all attacks.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
@@ -490,8 +490,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
             -   Base: 50% PEN vs 50% physical armor; 50 \* (1 - 0.5) = 25% resistance after PEN.
             -   Reinforced Armor: 50% PEN vs 30% RA; 50 \* (1 - 0.3) = 35% PEN. 35% PEN vs 50% physical armor = 50 \* (1 - 0.35) = 32.5% resistance after PEN.
     -   Prerequisites: 90 Fortitude, All common Bastion Talents
-
-  
 
 ### Battle Readiness
 
@@ -1070,7 +1068,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
     -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
 
--   Energy Siphon \[Common Talent, Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected.
+-   Energy Siphon \[Common Talent, Shadowcast Exclusive\] - Your singularity now pulls ether from the extra players affected.
     -   Prerequisites: Singularity, 60 Shadowcast
     -   Takes about ~15 ether from the affected opponent on proc.
 
@@ -1091,7 +1089,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Deepwoken
 
--   Spell Shout - You will now shout your mantra name upon cast.
+-   Spell Shout \[Spell Shout\] - You will now shout your mantra name upon cast.
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
     -   Renamed mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!".
     -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used. Casting a mantra named "64 palms" will say "Palms!".
@@ -1746,7 +1744,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Gain increased EXP gain from [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md), but reduced EXP gain from any other content.
     -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin
 
--   \[Origin Exclusive\] - Check up on job listings remotely.
+-   _Union Pager_ \[Origin Exclusive\] - Check up on job listings remotely.
     -   Grants a Talent tool that acts as a remote-access [Job Board](Job_Boards.md), allowing you to pick up jobs from any location.
     -   Prerequisites: [Ignition Delver](Ignition_Delver.md) Origin
 
@@ -2079,11 +2077,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Eruption Path: Lava Serpent, 55 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
-    
     -   Has slight Flamecharm scaling for its damage.[\[3\]](#cite-note-3)
     -   Duration of the lava pools scales on your Flamecharm investment.
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
-        
 
 ### Leader
 
@@ -2769,7 +2765,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Upon casting [Lethal Injection](Oath%253A_Saltchemist.md), all potions in your Distillery will be used at once unless they're on cooldown.
     -   Prerequisite: [Oath: Saltchemist](Oath%253A_Saltchemist.md)
 
--   Antithetic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive - Alter your brews to invert their effects. Does not count towards the ingredient limit.
+-   Antithetic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Alter your brews to invert their effects. Does not count towards the ingredient limit.
     -   Gives you a Talent tool-like ability that acts as a potion ingredient on use.
     -   When applied to your potions, it reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
     -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent.
@@ -3040,7 +3036,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
--   Ankle Cutter - \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+-   Ankle Cutter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
     -   Deals fixed damage with innate bleed.
     -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
@@ -3093,7 +3089,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Changes your Vent color to align with your Oath Cosmetic color. Can be [dyed](Dye_Packet.md).
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Unmatched Dexterity \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive - Press X to Quick Swap between weapons within your toolbar.
+-   Unmatched Dexterity \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Press X to Quick Swap between weapons within your toolbar.
     -   This keybind can be changed in settings.
     -   Selects a random weapon on your hotbar to equip.
     -   Works on offhand weapons.
@@ -3348,14 +3344,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Also grants the ability to assassinate players who are in combat.
     -   Prerequisites: All Assassin Talents, 90 Agility
 
--   None Left Behind \[ Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
+-   None Left Behind \[Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
     -   Utilizing the 'Carry' action on a knocked entity who's in close/medium range teleports you to them
     -   Can be used to go through walls if you can aim at the knocked entity through it.
     -   Prerequisites: Dustlunge, 100 Agility
 
 ### Sea Dog
 
--   Seamaster's Guile \[[Equipment](Equipment.md) Exclusive\]\] - While you're at the helm of a ship, it takes 25% less damage
+-   Seamaster's Guile \[[Equipment](Equipment.md) Exclusive\] - While you're at the helm of a ship, it takes 25% less damage
     -   Your boat will take 25% less damage if the person piloting it has this Talent.
     -   Obtained from the [Seamaster's Cap](<Seamaster's_Cap.md>)
 
@@ -3811,7 +3807,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Knocking an opponent turns you invisible for 2.5 seconds with no I-frames.
     -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
 
--   Reality Shift - \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.
+-   Reality Shift \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.
     -   The last non-Oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
     -   Pressing J (can be rebinded in settings) or utilizing the Reality Shift tool will make your clones use their stored ability.
     -   Clones created from Mirror Illusion or Illusory Counter's Reversal Spark will copy your opponent's last used critical or Mantra instead.
@@ -4163,44 +4159,57 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Your critical cooldown is reduced by 20%, but your Resonance cooldown is 20% longer.
     -   In 1v1 [Chime of Conflict](Chime_of_Conflict.md), your critical cooldown is reduced by 10% instead.
     -   This effect is applied before Critical Engine Blessed Gem is applied, allowing for 60% reduction in your critical cooldown (55% in Chime of Conflict).
+
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, and Static Withdraw (with child Talents).
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
+
 -   Angel's Guise: [Hollow Angel Mask](Hollow_Angel_Mask.md) & [Sworn Angel Mask](Sworn_Angel_Mask.md) - You resemble one of the Sworn Angels.
     -   Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
     -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
     -   Angels will still aggro onto you while you have this Talent.
 -   Battle-Hardened: [Shock Corps Light](Shock_Corps_Light.md) - Reduce how much damage you take from mantra guardbreaks by 20%.
+
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
+
 -   Blinded: [Blindfold](Blindfold.md) & Variants - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances
     -   Even though the [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision even with a Blindfold, the Talent still works.
     -   The Talent grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
+
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
+
 -   Brute Strength: [Imperator's Fury](<Imperator's_Fury.md>) - Your vent is replaced with a ground slam attack that knocks back enemies.
     -   Deals 45 Typeless damage with 20 Posture damage.
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.
+
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md)/[Imperium Kata](Imperium_Kata.md) attacks deal 4% more damage.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks have 10% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) basic attacks 10% more PEN. This does **NOT** apply to criticals.
     -   This bypasses the PEN cap.
     -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as Basic Attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
+
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
+
 -   Corrosive Touch: [Arachnid's Weave](<Arachnid's_Weave.md>) - Landing a successful Critical Attack or Flourish will corrode a portion of your opponent's Armor.
     -   Drain 5% of your opponent's armor after landing a Critical attack or Flourish. This has a 10 second cooldown and can only proc once per critical attack.
+
 -   Cosmic Connection: [Celestial Boots](Celestial_Boots.md) - All celestial and astral related abilities are buffed.
     -   Increases your [Astral](Astral.md) enchant damage bonus on basic attacks from +20% to +25%.
+
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-Basic Attacks have 20% PEN.
     -   Grants +20% PEN to anything that is not a weapon attack.
         -   Primarily, this is just 20% Mantra PEN, however this will also affect non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
         -   [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which bypass armor, deal more damage against Reinforce than they would otherwise.
+
 -   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
     -   This works similarly to Collapsed Lung.
     -   Has the same effect as a guard break.
@@ -4208,60 +4217,87 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Has no cooldown.
     -   Duration is 2 seconds + 0.015 seconds per point of strength.
     -   Wrath Gems last 9 seconds with no visual indication.
+
 -   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your ardour screams now break campfires around you.
     -   Your Ardour Scream now destroys all campfires within its range.
+
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.
     -   Maximum of +140 Ether (6 innate Mantra slots, +1 from Neuroplasticity, +1 from Will o' Wisp, +1 from Wisp Convergence, +5 from [Saintsworn](Oath%253A_Saintsworn.md)).
         -   Wisp Convergence will not work if you do not have Oathless, but it will still grant its additional Wisp Mantra slot.
+
 -   Diver's Resilience: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
     -   10 second cooldown.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.
+
 -   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes. Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
+
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
+
 -   Ether Emergency: [Bluestone Pauldrons](Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
     -   Instantly restores 15% of your maximum Ether as flat health at the cost of all of your Ether and the inability to cast Mantras for a short duration.
+
 -   Ether Pinpoint: [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) - Mantras that have [Might Gem](Might_Gem.md) on them now ignore fully ignore the posture bonus from shields.
     -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
+
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
+
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates fall damage up until it reaches a cap for damage negated. Then, Featherfall will go on a 2 minute cooldown.
+
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
+
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
     -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
+
 -   Flashwind: [Specialist Boots](Specialist_Boots.md) - Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.
     -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.
     -   While similar to Lightning/Gale dashes, this is its own thing and ignores their cooldowns.
+
 -   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
+
 -   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.
+
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 10% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
+
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces Burn damage by 50%
         -   If you are utilizing Flame Within, the DoT damage reduction will be reduced down to 25%.
     -   Reduces Bleed damage by 25%
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Viscosity.md), or Rush Hour from Bloodrend.
+
 -   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
     -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
     -   Heartwing Beat has a 6 second cooldown.
+
 -   Herbivore: [Herbalist's Hat](<Herbalist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) - You gain more nutrition from eating plants.
+
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
     -   Your dodge window is increased by 0.05s.
+
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
     -   This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.
+
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
+
 -   Inky Pearls: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether.
     -   Turns your Vent black and makes it steal 40 Ether on hit.
     -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's Shadowcast flames and Sightless Still.
+
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
     -   Halves the maximum duration of Burn.
+
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed in increased.
+
 -   Legendary: [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
+
 -   Lethal Dose: [Inquisition Light](Inquisition_Light.md) - The poison from your hidden blade lasts twice as long.
+
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
     -   This affects:
         -   Turning in [Artifacts](Artifacts.md) at a banker,
@@ -4269,11 +4305,14 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Turning in [Sacks](Chests_&_Sacks.md#sacks) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
         -   Handing in pure ore to a [Blacksmith](Blacksmith.md),
         -   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
+
 -   Mass Effect: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) - For every [Might Gem](Might_Gem.md) you have equipped on your mantras, slightly increase each Might Gem's power.
     -   Increases the posture damage bonus Might Gems innately grant, scaling on the amount of Might Gems you have equipped in your arsenal.
     -   Grants your Might Gems an additional 2.25% posture damage multiplier per Mantra with a Might Gem equipped. This caps at +39.25% posture damage dealt on a Might Gem-equipped Mantra, assuming you have [Saintsworn](Oath%253A_Saintsworn.md), Neuroplasticity, and Will o' Wisp with all 13 of your equipped Mantras using a Might Gem.
+
 -   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
     -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Deepbound.md) or [Ignition Delver](Ignition_Delver.md).
+
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
     -   Grants a random buff or affliction whenever you spit.
     -   List of buffs being:
@@ -4288,81 +4327,114 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Grants a random spit cooldown. This can be anywhere between 5 and 20 seconds.
         -   Suffocation applied to self for a few seconds.
         -   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
+
 -   No Interruptions: [Champion's Cape](<Champion's_Cape.md>) - When combat tagged by 2 or more players, render any ranged attack a lot less effective.
     -   Heavily increases the range falloff of attacks, reducing their damage to 0 if far enough away.
     -   Removes hitstun from attacks used from too far away.
+
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left) now guard breaks at level 5.
     -   1 minute cooldown.
+
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) - Wielding a katana with this outfit grants extra damage.
     -   Increases _[Katana](Katana.md)_ damage by 25%.
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+
 -   Primal Rage: [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) - If you are below 50%, unleash your rage and increase the amount of damage you deal for 25 seconds as well as being able to see enemy health when you hit them. \[3 minute CD\]
     -   Grants a Talent tool that can only be used while under 50% health.
     -   Grants a 25% damage buff for the duration of the buff.
     -   The health highlight on hit effect is very similar to [Soulbreaker's](Oath%253A_Soulbreaker.md) Heart Reverb Talent.
+
 -   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.
+
 -   Repeated Blows: [Reinforced War Boots](Reinforced_War_Boots.md) - Any [strength](Attunement-less.md#strength) mantra that has a [Wrath Gem](Wrath_Gem.md) on it will reset its cooldown if you land a critical while a Wrath Gem is active.
     -   Wrath Gems are active for 9 seconds with no visual indication.
+
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
+
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.
     -   Combining this Talent with excavator gives you a chance to get 4 ores at a time.
+
 -   Seamaster's Guile: [Seamaster's Cap](<Seamaster's_Cap.md>) - While you're at the helm of a ship, it takes 25% less damage
     -   Your boat will take 25% less damage if the person piloting it has this Talent.
+
 -   Serpent's Dance: [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) - Unleash the power of Fang and Coil to unlock a devastating Running Critical Attack, feint to cancel momentum.
     -   Allows you to use [Fang and Coil](Fang_and_Coil.md)'s running critical. This attack does not work on any Cestus that already has a unique crit.
+
 -   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
+
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
+
 -   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
+
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
     -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
     -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
+
 -   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your mantras with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.
+
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
+
 -   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
+
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.
     -   Grants a 20% damage bonus to your Tempest Wind [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
+
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
+
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
+
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
+
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds.
+
 -   Tidal Shock: [Cala-Mariner](Cala-Mariner.md) - Landing a successful Critical Attack will temporarily put you in a state where you dodge all mantras, as well as dazing your opponent.
     -   Your Critical attacks will apply Daze on hit.
     -   For the next 4s after landing your Critical attack, if you were to be hit by any Mantra, you'll automatically dodge the Mantra, voiding its damage. The dodge vfx is similar to [Nautilodaunt's](Nautilodaunt.md) Vent vfx, but it displaces you physically.
     -   13 second cooldown.
+
 -   Umami \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
     -   Has a 35% chance to proc with a 3 cooldown per **proc attempt**, going on cooldown even if it fails to proc.
     -   Hunger and thirst steal formula is as follows: 1.95 \* ln(D) + 1.075, where D = scaled damage dealt. A calculator is listed [here](https://www.desmos.com/calculator/yktgme7xnc).
     -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
     -   Acts similarly to and stacks additively with the Gluttony enchant.
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
+
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
     -   Reduces the normal stun duration from 1.05 seconds to 0.7 seconds.
+
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.02.
     -   Stacks additively with Action Surge.
     -   Both this and Action Surge are applied before [Lightning Cloak's](Thundercall.md#lightning-cloak) swing speed multiplier.
+
 -   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your Basic Attacks apply a storm strike. \[20 second CD\]
     -   This procs on all Basic Attacks despite what the description states.
     -   This has a proc window of 5 seconds after using Inhale.
     -   Storm Strikes from this Talent deal 0.125 \* (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 points invested in both Attunements.
+
 -   Volt Reflex: [Authority Voltspark Mask](Authority_Voltspark_Mask.md) - Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges.
     -   Increases the dodge window and cooldown of your dodges based on your [Thundercall](Thundercall.md) investment.
+
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
+
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.
     -   The wind shield lasts a few seconds or until you get hit (in which case, it will automatically parry the attack), cast any mantra, feint any attack, or use your critical attack.
     -   Some mantras, like [Mecha Gatling](Monster_Mantras.md#mecha-gatling), can build up stacks for this.
     -   If you have the wind shield active and a Talent that allows you to parry unparryable monster attacks, such as Force Your Way or Diver's Resilience, you will autoparry them.
+
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
+
 -   Winter's Protection [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Increases the time it takes for parasites to kill you.
     -   Negates damage buffs from weather. This only applies to Stratoshock.
+
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.
 
@@ -4398,9 +4470,9 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 -   Any **Rare** Talent unless it has been [frozen](Aces.md).
 -   Any attunement path's starting Talent (e.g. Wraith Path: Twisted Puppets, Eruption Path: Lava Serpent, or Glass Path: Crystallization)
--   Dancing Steps - Fire mantras now move you forward slightly.
--   Nullifying Clarity - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.
--   Agitating Spark - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
+-   [#Dancing Steps](#dancing-steps) - Fire mantras now move you forward slightly.
+-   [#Nullifying Clarity](#nullifying-clarity) - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.
+-   [#Agitating Spark](#agitating-spark) - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 
 ## Trivia
 

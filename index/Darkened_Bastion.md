@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 153772
+revid: 169100
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -21,7 +21,7 @@ categories: [Items, Outfits, Master Outfits]
 | resistances | +30% Physical Armor, +30% Elemental Armor, +20% Shadow Armor |
 | buffs | +50% Ether Regen, +50% Stealth, +16 Sanity |
 | talents | Withering Soul |
-| obtainment | The Understrand |
+| obtainment | The Understrand, Sold in Traan Zakshun's black market for 25 |
 | selling_price | 10 |
 | weight | 1 |
 

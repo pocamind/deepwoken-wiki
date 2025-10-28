@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 169021
+revid: 169104
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -159,6 +159,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 
 -   _A rare find indeed._
 -   _An item most regal!_
+-   _Colour makes us hungry - everything's connected!_
 -   _Hard sell eh?.. What if it was purple?_
 -   _Hey come on now, it's not that expensive.._
 -   _Hey, you break it - you buy it._
@@ -175,6 +176,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Oof, man. Are you sure you can afford this heat?_
 -   _People keep asking for these to be purple? I don't get it._
 -   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
+-   _Seems like a great deal, huh? But I'm NOT done yet!_
 -   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
 -   _They don't make 'em like they used to anymore, you know?_
@@ -185,11 +187,15 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This one really stood out when I was looting the guy who had it._
 -   _This one's so valuable it's been sitting around for years!_
 -   _This usually isn't the case but I almost drowned getting this haha._
+-   _This will surely have you saying: 'shut up and take my money'!_
 -   _Traan Zakshun has wares if you have coin-- erm, I mean... notes. Yes._
 -   _Truly a divine thingymabob._
+-   _Used to know a guy who made these, you know... What happened to him? Oh, he's fine. He just doesn't make these anymore._
 -   _Use my special offer! You can get TWO items, for the price of one-plus-one item! Isn't that a steal?_
+-   _What's that? Do I have a reegahl... reeg... regi... Reh-gah-lee~ yah? You're talkin' crazy, pal._
 -   _Yes this is my real name... legally._
 -   _You got any Ongo slices? I could really go for a snack..._
+-   _You know, I'm told that Drallis Ehr guy \*really\* likes this one... If that makes you any more interested?_
 
 ## Shop Rotation
 
@@ -338,6 +344,13 @@ Sold Items
 <table>
 <tbody>
 <tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>
+  <ul>
+    <li><b>For 25 </b>: <a href="Darkened_Bastion.md">Darkened Bastion</a>.</li>
+  </ul></td>
+</tr>
+<tr>
   <td><b>Miscellaneous</b><br>
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
@@ -357,8 +370,8 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For 3 </b>: <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.</li>
-    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
+    <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.</li>
+    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
     <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>.</li>
@@ -385,7 +398,8 @@ Sold Items
 ## Trivia
 
 -   Traan Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
--   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update, as too many people were pronouncing it as "train saction" and not "transaction".
+    -   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update, as too many people were pronouncing it as "train saction" and not "transaction".
+-   Traan Zakshun's hair is green.
 -   Traan's shop dialogues contain references to other media:
     -   "_A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._" is a reference to the turnip salesman from _Rogue Lineage_.
     -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
