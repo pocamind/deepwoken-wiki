@@ -1,6 +1,6 @@
 ---
 title: "Captain's Kabuto"
-revid: 153835
+revid: 169042
 source: https://deepwoken.fandom.com/wiki/Captain's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ _If you wish to see useful information on all Equipment, Go to [**Equipment**](E
 
 ## Description
 
-The Captain's Kabuto is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +8 Health, as well as extra randomized stats based on the amount of pips.
+The Captain's Kabuto is an Equipment Armor in the "_Head_" category_._
 
 ## Trivia
 

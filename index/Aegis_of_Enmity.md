@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 155586
+revid: 169027
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The **Aegis of Enmity** is a Unique [Equipment](Equipment.md) item under the "Head" category. Equipping it grants +5 Health +1 Posture and +2 Legendary Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Aegis of Enmity** is a Unique [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

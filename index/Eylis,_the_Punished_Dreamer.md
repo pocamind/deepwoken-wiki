@@ -1,6 +1,6 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 167909
+revid: 168984
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, The Knives of Eylis]
@@ -64,32 +64,27 @@ Eylis is the leader of [The Knives of Eylis](The_Knives_of_Eylis.md). She stands
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="3">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">Hey, look who it is. You got a reason for coming in here? I've got deals to make, nations to toy with, the usual.</td>
+  <td colspan="3">Hey, look who it is. You got a reason for coming in here? I've got deals to make, nations to toy with, the usual.</td>
 </tr>
 <tr>
   <td>What's our purpose here?</td>
   <td>What's your deal with the Voidmother?</td>
   <td>I heard something about an oath with you...</td>
-  <td>Can I join the Knives of Eylis as a guild member?</td>
 </tr>
 <tr>
   <td><i>*She laughs, clearly amused by your question.*</i> What is it that you want? Money? Power? To feel good about yourself? You did read the contract I gave you, yes? Go out and take jobs from the board, whelp.</td>
   <td>Oh, me and her? We go way back. Long time friendship, you see! <i>*She holds back a scoff.*</i> I'd simply been at the right place at the right time, little Knife. Anything more than that.. I'm sworn to secrecy. <i>*She holds her finger in front of her mouth, making a 'shush' expression with it.*</i> Now then, run along.</td>
   <td>Aw, you want an oath with little ol' me? Give up on that dream, you're a recruit. The powers we wield are so, so easy to abuse... I'd be a fool to give it to any Knife that asked me. Only the old guard have stuck around long enough for me to make an <a href="Glossary.md#oaths">Oath</a> with. I'd say it's best you forget that for now.</td>
-  <td><i>*She shrugs.*</i> It's not mandatory, but knock yourself out, kid.</td>
 </tr>
 <tr>
   <td>And.. the plan you mentioned?</td>
   <td colspan="2">End</td>
-  <td>[Prompt to join the Knives of Eylis Guild]</td>
 </tr>
 <tr>
   <td>Oh, that little thing... Keep it in the back of your head for now, little whelp. You're still dull, desperately in need for being tempered and refined. But, I am watching you, little Knife. You're.. different, from the rest. I'll be keeping a close eye...</td>
-  <td colspan="2"></td>
-  <td>End</td>
 </tr>
 <tr>
   <td>End</td>

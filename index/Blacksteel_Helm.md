@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 156003
+revid: 169036
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Blacksteel Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +10 Health, as well as extra randomized stats based on the amount of pips.
+The Blacksteel Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

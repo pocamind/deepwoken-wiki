@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 151452
+revid: 169024
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -21,12 +21,12 @@ categories: [Items, Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, The Aratel Sea, Aelita, The Ferryman (Winter) |
+| obtainment | Chests from:, Fort Merit(Bugged), Authority Ambush |
 | description | ... |
 
 ## Description
 
-The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Unwavering Resolve. It is commonly found in chests from [Fort Merit](Fort_Merit.md), and rarely, from [Aelita](Aelita.md).
+The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Unwavering Resolve.
 
 ## Trivia
 

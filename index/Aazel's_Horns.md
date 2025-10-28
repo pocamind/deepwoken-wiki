@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 162055
+revid: 169026
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Items]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Items]
 
 ## Description
 
-The Aazel's Horns is an [Equipment](Equipment.md) item under the "Head" category. Equipping it will give 1 Posture, 8% Flamecharm Resistance, and +1 Rare Pip. This item is exclusively sold by [Traan Zakshun](Traan_Zakshun.md) in his black market for 5.
+The Aazel's Horns is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

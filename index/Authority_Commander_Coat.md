@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 152510
+revid: 169025
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats, The Central Authority]
@@ -21,12 +21,12 @@ categories: [Items, Equipment, Arms, Coats, The Central Authority]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, Aelita, The Ferryman (Winter), Sea Random Encounters (Overrun Authority Stronghold) |
+| obtainment | Chests from:, Fort Merit(Bugged), Authority Ambush |
 | description | ... |
 
 ## Description
 
-The Authority Commander Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 10 Health and 2 Pips. It is commonly found in chests from [Fort Merit](Fort_Merit.md), and rarely, from [Aelita](Aelita.md).
+The Authority Commander Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 10 Health and 2 Pips.
 
 ## Trivia
 

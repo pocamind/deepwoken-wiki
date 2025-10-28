@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 166588
+revid: 169062
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -30,4 +30,4 @@ Guardian
 
 ## Description
 
-The Guardian Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Guardian Set. When worn, this grants +5 health and +1 Posture.
+The Guardian Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Guardian Set.

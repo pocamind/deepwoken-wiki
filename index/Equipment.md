@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 168573
+revid: 168999
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2573,13 +2573,17 @@ Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
-|  | [Authority Prototype Mask](Authority_Prototype_Mask.md) | +1 Common Pip | N/A |
-|  | [Authority Voltspark Mask](Authority_Voltspark_Mask.md) | _+3% Lightning Armor_
+|  | [Authority Prototype Mask](Authority_Prototype_Mask.md)  
+(**Series**) | +1 Common Pip | Variants:  
+Prototype & Voltspark |
+|  | [Authority Voltspark Mask](Authority_Voltspark_Mask.md)  
+(**Series**) | _+3% Lightning Armor_
 
 +1 Common Pip  
 _+Talent: Volt Reflex_
 
- | N/A |
+ | Variants:  
+Prototype & Voltspark |
 |  | [Black Blindfold](Blindfold.md)  
 (**Series**) | +1 Common Pip
 
@@ -2760,6 +2764,14 @@ Innate Effects
 |  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
+
+ |
+|  | [Dark Pearls](Dark_Pearls.md)  
+(**Relic**) | _+2 Health_  
+_\-2 Posture_
+
+_+Talent: Inky Pearls_  
+**Requires Power 15, Shadowcast 40**
 
  |
 

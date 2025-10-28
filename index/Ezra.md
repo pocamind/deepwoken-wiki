@@ -1,6 +1,6 @@
 ---
 title: Ezra
-revid: 168801
+revid: 169011
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -48,7 +48,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
 </tr>
 <tr>
   <td colspan="4">Out in the Rotlands, above the fog, there are gathered the adherents of the vile Starkindred Church... They're up to something, I just know it. But whenever I ask too many questions, they throw me out.</td>
-  <td colspan="4">Ah, forgive my manners! I am Ezra, a devout of Ku, the Mother. I travel these islands to dispense her wisdoms to those who'll lend an ear. But that's becoming awfully difficult with all of these <i>cultists</i>...</td>
+  <td colspan="4">Ah, forgive my manners! I am Ezra, a devout of <a href="Glossary.md#ku-the-mother">Ku</a>, the Mother. I travel these islands to dispense her wisdoms to those who'll lend an ear. But that's becoming awfully difficult with all of these <i>cultists</i>...</td>
 </tr>
 <tr>
   <td colspan="2">I'll take care of them.</td>
@@ -92,7 +92,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
   <td>I have not yet.</td>
 </tr>
 <tr>
-  <td>Wonderful news! I offer you my thanks, traveler. Mother Ku surely appreciates your gesture and will for her. Come back anytime if you'd like to assist me once more.</td>
+  <td>Wonderful news! I offer you my thanks, traveler. Mother <a href="Glossary.md#ku-the-mother">Ku</a> surely appreciates your gesture and will for her. Come back anytime if you'd like to assist me once more.</td>
   <td>Ah, that is okay.. They are residing in the highchurch, above the Rotlands and across the broken bridge. Please return to me once you've <i>removed</i> them.</td>
 </tr>
 <tr>

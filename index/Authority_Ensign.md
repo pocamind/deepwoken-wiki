@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 168920
+revid: 168991
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -482,6 +482,7 @@ Shock Corps Division
 -   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
     -   Remember to report messages like these.
+    -   Messages being directed from friends are unable to be seen by you, do not look schizophrenic infront of your fellow Ensigns.
 -   Because your player grip is replaced with imprisoning them, you will need some kind of automatic grip in order to confirm kills.
 -   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.

@@ -1,6 +1,6 @@
 ---
 title: Volu
-revid: 152445
+revid: 168985
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -13,6 +13,7 @@ categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, The Ministry
 | name | Volu |
 | aspect | Capra |
 | location | Outpost Antumbra |
+| affiliation | The Ministry |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 168947
+revid: 169021
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -169,6 +169,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
 -   _Looks valuable, you should buy it!_
+-   _Lovely weather for buying something exactly like this, eh?_
 -   _Now see, I would buy this. From myself._
 -   _Oh haha, that's not dust that's uhm... an expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
@@ -176,6 +177,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
 -   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
+-   _They don't make 'em like they used to anymore, you know?_
 -   _They say you should never look a gift horse in the mouth! ...Well, these aren't gift horses. Look all you want! Buy, even!_
 -   _This catch your eye?_
 -   _This could almost be an antique, I think?_
@@ -183,6 +185,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This one really stood out when I was looting the guy who had it._
 -   _This one's so valuable it's been sitting around for years!_
 -   _This usually isn't the case but I almost drowned getting this haha._
+-   _Traan Zakshun has wares if you have coin-- erm, I mean... notes. Yes._
 -   _Truly a divine thingymabob._
 -   _Use my special offer! You can get TWO items, for the price of one-plus-one item! Isn't that a steal?_
 -   _Yes this is my real name... legally._
@@ -318,7 +321,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Ugh, I don't even like WANT to sell this... Unless.. I dunno~ you gave me the crowns for it?_
 -   _Until earlier I genuinely forgot I even had this, does that make you want it more?_
 -   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
--   ...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy.
+-   _...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _You got cash for a crown? I'm running low on change here... If not it's fine._

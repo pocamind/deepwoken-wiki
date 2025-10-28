@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 168704
+revid: 169060
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, The Divers]
@@ -29,7 +29,7 @@ Grand Fisher
 
 ## Description
 
-The Grand Fisher Helm, along with the [Grand Fisher Plate](Grand_Fisher_Plate.md), are guaranteed drops from an enemy in the [Depths](First_Layer.md) called "[The Fisherman](The_Fisherman.md)." They are apart of the Grand Fisher Set. When worn, this grants 5 health, +1 Legendary Pip, +1 Rare Pip, 5% Ice Armor, and 5% Lightning Armor, and the [Coldseep Reactor](Talents.md#equipment-talents) Talent.
+The Grand Fisher Helm, along with the [Grand Fisher Plate](Grand_Fisher_Plate.md), are apart of the Grand Fisher Set.
 
 The _Coldseep Reactor_ Talent grants full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.
 

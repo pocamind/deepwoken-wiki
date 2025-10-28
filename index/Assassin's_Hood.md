@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 162019
+revid: 169030
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hoods, Head, Items]
@@ -27,7 +27,7 @@ categories: [Equipment, Hoods, Head, Items]
 
 ## Description
 
-Assassin's Hood is an [Equipment](Equipment.md) item under the "Head" category. Has the Innate Talent "Deep Wound" which procs anti-heal on assassination for 20s and gives you a speed boost for 6s. The Talent also makes your assassination damage scale to your power against mobs.
+Assassin's Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

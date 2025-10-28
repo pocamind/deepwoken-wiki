@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 168740
+revid: 169029
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -30,7 +30,7 @@ Ascended Outlaw Set
 
 ## Description
 
-The Ascended Outlaw Hat is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a green Kasa hat that originated in the Western Luminant. When worn, this grants +2 Posture, +1 Legendary Pip, and the [Mass Effect](Talents.md#equipment-talents) Talent.
+The Ascended Outlaw Hat is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a green Kasa hat that originated in the Western Luminant.
 
 The _Mass Effect_ Talent increases the strength of your [Might Gems](Might_Gem.md) for every Might Gem you have equipped on your Mantras.
 

@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 168365
+revid: 169009
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -40,8 +40,8 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
   <td colspan="6">'Our' Moonseye?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*She looks up at you puzzled.*</i> I've seen it countl'ss times from m' old home, and yet... it feels ev'n more beautiful here. <i>*She gestures to the surrounding landscape*</i> I s'ppose all of this sweet'ns the view. I've never seen build'ngs and nature like this b'fore... I wonder how far I've wandered..</td>
-  <td colspan="6"><i>*Her brow furrows, quizzically peering up at you.*</i> Uh... D' you not share in our love for our <a href="Glossary.md#the-moonseye">Moonseye</a>? Are you not... devoted.?</td>
+  <td colspan="6"><i>*She looks up at you puzzled.*</i> I've seen it countl'ss times from m' old home, and yet... it feels ev'n more beautiful here. <i>*She gestures to the surrounding landscape.*</i> I s'ppose all of this sweet'ns the view. I've never seen build'ngs and nature like this b'fore... I wonder how far I've wandered..</td>
+  <td colspan="6"><i>*Her brow furrows, quizzically peering up at you.*</i> Uh... D' you not share in our love for our <a href="Glossary.md#the-moonseye">Moonseye</a>? Are you not... devoted?</td>
 </tr>
 <tr>
   <td colspan="12">...Are you not from around here?</td>
@@ -77,7 +77,7 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
   <td colspan="12">And after that?..</td>
 </tr>
 <tr>
-  <td colspan="12">Uhhh... Let me rem'mber... I tried to talk to some other people who live here. They also have weird masks, so I thought they must be import'nt! I must've ruffled their furs though, because they got super angry at me... If it weren't f'r Arath I might've been in big trouble...</td>
+  <td colspan="12">Uhhhh... Let me rem'mber... I tried to talk to some other people who live here. They also have weird masks, so I thought they must be import'nt! I must've ruffl'd their furs though, because they got super angry at me... If it weren't f'r Arath I might've been in big trouble...</td>
 </tr>
 <tr>
   <td colspan="12">Arath?</td>

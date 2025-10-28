@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 153553
+revid: 169058
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ _If you wish to see useful information on all Equipment, Go to [**Equipment**](E
 
 ## Description
 
-The _Goldleaf Helm_ is a piece of Equipment in the "Head" category, obviously being a gold variant of the [Blackleaf Helm](Blackleaf_Helm.md). Equipping this will give you +5 Health.
+The _Goldleaf Helm_ is a piece of Equipment in the "Head" category, being a gold variant of the [Blackleaf Helm](Blackleaf_Helm.md).
 
 ## Trivia
 

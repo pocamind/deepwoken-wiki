@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 164917
+revid: 169045
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -30,7 +30,7 @@ Celtor Commander
 
 ## Description
 
-The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Celtor Commander Set. When worn, this grants +5 Health, +1 Rare Pips, +1 Legendary Pip, and the [Grasp on Reality](Talents.md#bastion) Talent.
+The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Celtor Commander Set.
 
 The _Grasp on Reality_ Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.
 

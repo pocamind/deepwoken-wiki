@@ -1,9 +1,9 @@
 ---
 title: Aster Leshi
-revid: 166221
+revid: 169003
 source: https://deepwoken.fandom.com/wiki/Aster_Leshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Deceased characters]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

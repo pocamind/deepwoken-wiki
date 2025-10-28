@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Helm"
-revid: 156160
+revid: 169054
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 
 ## Description
 
-The Familiar Knight's Helm is an [Equipment](Equipment.md) item under the "Head" category. A helm obtained through 2022 [Hallowtide](Hallowtide.md), very rare due to being an event item.
+The Familiar Knight's Helm is an [Equipment](Equipment.md) item under the "Head" category. It is very rare due to being an event item.
 
 ## Trivia
 

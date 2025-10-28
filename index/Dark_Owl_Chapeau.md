@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 168555
+revid: 169049
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Hats]
 
 ## Description
 
-The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" category. It is found mainly in [The Eternal Gale](Second_Layer.md).
+The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" category.
 
   
 

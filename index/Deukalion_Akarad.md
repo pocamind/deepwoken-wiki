@@ -1,9 +1,9 @@
 ---
 title: Deukalion Akarad
-revid: 165956
+revid: 169002
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Black Divers]
+categories: [Black Divers, Deceased characters]
 ---
 
 # Deukalion Akarad

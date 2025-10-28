@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 168826
+revid: 169067
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -149,7 +149,7 @@ Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Karlia
 -   The Starkindred Church is a powerful organisation that stands as the religious authority over the Starkindred Faith. Much of the West is held by their influence, possessing a military and political strength that rivals the Hundred Legions.
 -   Where remnants of the [Heavens](#the-heavens) have fallen to [Lumen](#lumen), the Starkindred Church is never far away, hoping to safeguard and retrieve any relics.
 
-Dialogue: [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross)
+Dialogue: [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross), [The Western Luminant](#the-western-luminant)
 
 ## Notable Figures
 
@@ -201,7 +201,7 @@ Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Boo
 -   Capran traditions often embodies Ku as the shared knowledge of Mankind, with varying degrees of personification.
 -   The folklore and tradition surrounding Ku speak to the Capran emphasis on the proliferation of knowledge. The concept of 'lifelong learning' is represented strongly within the duality of Ku both being a student and a teacher.
 
-Dialogue: | Books: [Capran Aphorisms](Books.md#capran-aphorisms) | Glossary Entries:
+Dialogue: [Ezra](Ezra.md) | Books: [Capran Aphorisms](Books.md#capran-aphorisms) | Glossary Entries:
 
 ### Mur of Light
 
@@ -511,7 +511,7 @@ Dialogue: | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#t
 -   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
 -   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the [Moonseye](#the-moonseye).
 
-Dialogue: [Hiri](Hiri.md), [Ottilde](Ottilde.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [Thalassis](#thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
+Dialogue: [Hiri](Hiri.md), [Marro](Marro.md), [Ottilde](Ottilde.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [The Acolyte / Thalassis](#the-acolyte--thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
 
 ### Lumen
 
@@ -604,7 +604,7 @@ Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned
 ### The Western Luminant
 
 -   Of a warmer and more humid climate than much of [Lumen](#lumen), the Western Luminant is a rich overgrown jungle of pillar-like mountain peaks.
--   The predominant powers within the Western Luminant are the Hundred Legions and the Starkindred Faith.
+-   The predominant powers within the Western Luminant are the Hundred Legions and the [Starkindred](#the-starkindred-faith) Faith.
 
 Dialogue: [Chud Steel](Chud_Steel.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Starkindred Faith](#the-starkindred-faith)
 

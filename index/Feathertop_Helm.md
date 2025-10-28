@@ -1,6 +1,6 @@
 ---
 title: Feathertop Helm
-revid: 153683
+revid: 169056
 source: https://deepwoken.fandom.com/wiki/Feathertop_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Feathertop Helm is an Equipment in the "_Head_" category_._ Equipping this item will give you +8 health, as well as extra randomized stats based on the number of pips.
+The Feathertop Helm is an Equipment in the "_Head_" category_._
 
 ## Trivia
 

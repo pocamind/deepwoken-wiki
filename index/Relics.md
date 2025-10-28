@@ -1,14 +1,12 @@
 ---
 title: Relics
-revid: 168729
+revid: 168996
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
 ---
 
 # Relics
-
-_**FOREWORD**: **A spreadsheet with drop locations for all Relics can be found [\[here\]](https://docs.google.com/spreadsheets/d/1gRiACBmfImek5k7PyVQ2ixDm5or5T20hecZ6fS6KLW4/edit?usp=sharing). (Needs slight changes, but is 99% accurate)**_
 
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, seeming almost ashamed. ”
 
@@ -299,7 +297,19 @@ Equipment that provides player with unique abilities in combat or exploration.
 | Image | Description | Obtainment |
 | --- | --- | --- |
 | 
- | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the ability "Elegy of Light". When activated, you are immune to all Deep Gem effects from any opponent for 3 minutes.
+ | **[Dark Pearls](Dark_Pearls.md)** - A pair of [Shadowcast](Shadowcast.md)\-exclusive earrings that grant the ability "Inky Pearls." This augments your Vent, to apply the Shadow status effect and proc certain Shadowcast Talents.
+
+  
+This works with all other "on Vent" effects.
+
+ | 
+
+-   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
+
+ |
+| 
+
+ | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the ability "Elegy of Light." When activated, you are immune to all Deep Gem effects from any opponent for 3 minutes.
 
   
 The ability is one-time-use but is recharged by killing a boss or player of your level.
@@ -316,7 +326,7 @@ The ability is one-time-use but is recharged by killing a boss or player of your
 
 File:Warmaster Medallion Relic.png
 
- | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the Talent "Actions Speak Louder", reducing Critical Attack cooldown by 20%, but increasing your [Resonance](Resonance.md) cooldown by 20%.
+ | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the Talent "Actions Speak Louder," reducing your Critical Attack cooldown by 20%, but increasing your [Resonance](Resonance.md) cooldown by 20%.
 
   
 In areas where your Resonance is suppressed, your critical cooldown is 10% shorter instead.
@@ -337,7 +347,7 @@ In areas where your Resonance is suppressed, your critical cooldown is 10% short
 
 File:Tiran Pendant Relic.png
 
- | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant that grants the Talent "Featherfall", which massively reduces fall damage.
+ | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant that grants the Talent "Featherfall," which massively reduces fall damage.
 
   
 After a certain amount of damage has been negated, the pendant will go on cooldown for 2 minute.
@@ -353,7 +363,7 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
  |
 | 
 
- | **[Whistling Periapt](Whistling_Periapt.md)** - A pendant that grants the Talent "Whistleguard" which summons a shield of gale similar to Duke's to automatically parry a single attack for you after you have landed 3 consecutive hits (5 for light weapons) on your opponent.
+ | **[Whistling Periapt](Whistling_Periapt.md)** - A pendant that grants the Talent "Whistleguard," which summons a shield of gale similar to Duke's to automatically parry a single attack for you after you have landed 3 consecutive hits (5 for light weapons) on your opponent.
 
   
 This has a 6 second cooldown and charges cannot be stacked.
@@ -367,7 +377,7 @@ This has a 6 second cooldown and charges cannot be stacked.
  |
 | 
 
- | [**Mantle Of Enmity**](Mantle_of_Enmity.md) - A set of wing resembling those of [The Heart Of Enmity](Heart_of_Enmity.md), Grants the Talent "Heartwing Beat" which transforms your aerial attack to a double hit  
+ | **[Mantle of Enmity](Mantle_of_Enmity.md)** - A set of wing resembling those of [The Heart of Enmity](Heart_of_Enmity.md), Grants the Talent "Heartwing Beat," which transforms your aerial attack to a double hit  
 hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and will scale according to your currently held weapon. | 
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
@@ -375,7 +385,12 @@ hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and
  |
 | 
 
- | **[Imperator's Fury](<Imperator's_Fury.md>)** - A Medallion that grants the Talent "Brute Strength" which transforms the user's [Vent](Combat_Mechanics.md) into a devastating slam attack that deals 45 damage and knocks enemies back. | 
+ | **[Imperator's Fury](<Imperator's_Fury.md>)** - A Medallion that grants the Talent "Brute Strength," which transforms the user's [Vent](Combat_Mechanics.md#tempo) into a devastating slam attack that deals 45 damage and knocks enemies back.
+
+  
+This works with all other "on Vent" effects.
+
+ | 
 
 -   [Titus](Titus_Fulminus_Destellus.md)
 
