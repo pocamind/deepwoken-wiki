@@ -1,6 +1,6 @@
 ---
 title: The Duke (manga)
-revid: 169075
+revid: 169118
 source: https://deepwoken.fandom.com/wiki/The_Duke_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, "Non-canon articles", Manga characters, Deceased characters]
@@ -29,3 +29,6 @@ Eventually, the Duke returned to his former kingdom and based himself in the [No
 ## Trivia
 
 -   Unlike his [canon counterpart](Duke_Ishamon_Erisia.md), the Duke is never referenced in relation to the term "Erisia", neither in the context of an island or family name. Instead, he is consistently just called "the Duke".
+-   The Duke's appearance and demeanour more closely resemble [The Lord Regent](The_Lord_Regent.md) than Duke Erisia.
+-   The Duke's monstrous transformation resembles a version of the [Scion of Ethiron](Scion_of_Ethiron.md) with red fur.
+-   When charging his fused Mantra, a magic circle appears beneath the Duke, depicting the [Star of David](https://en.wikipedia.org/wiki/Star_of_David). This may be due to the Duke's mastery of golems, which originate from Jewish folklore. Alternatively, it may simply have been a mistake when attempting to instead depict a [pentagram](https://en.wikipedia.org/wiki/Pentagram).

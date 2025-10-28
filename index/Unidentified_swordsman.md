@@ -1,6 +1,6 @@
 ---
 title: Unidentified swordsman
-revid: 169000
+revid: 169116
 source: https://deepwoken.fandom.com/wiki/Unidentified_swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, "Non-canon articles", Manga characters]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-The swordsman was part of an [adventuring party](Unidentified_adventuring_party.md).
+The swordsman was part of an [adventuring party](Unidentified_adventuring_party.md) who were tasked by the population of an island to slay [their former Duke](<The_Duke_(manga).md>).
 
   
 

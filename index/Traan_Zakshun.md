@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 169104
+revid: 169114
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -329,6 +329,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
 -   _...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
+-   Where'd I get this? Fell outta the back of a carriage, yeah?
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _You got cash for a crown? I'm running low on change here... If not it's fine._
 -   _You want it? It's yours my friend! So long as you have enough crowns._

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 168822
+revid: 169119
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -109,7 +109,7 @@ Your range of vision is severely reduced, with everything far away from you bein
 
 ### Temporary Health
 
-Gain Temporary Health which decays at a rate of 1 Temporary health lost per second. You cannot have more than 200 flat temporary health at any given time. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), [Enhanced Flow](Talents.md#sanguine-wager), aswell as the [Vampirism](Vampirism.md) enchant. Temporary health capped at 100 hp. Signified by a white bar on your health bar.
+Gain Temporary Health which decays at a rate of 1 Temporary health lost per second. You cannot have more than 200 flat temporary health at any given time. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#transitory-vitality), [Enhanced Flow](Talents.md#sanguine-wager), as well as the [Vampirism](Vampirism.md) enchant, and the [Authority Ensign](Authority_Ensign.md) Talent [Armored Plating](https://deepwoken.fandom.com/wiki/Authority_Ensign#Armored_Plating). Temporary health is capped at 100 hp. Signified by a white bar on your health bar.
 
 ### Enhanced Perception
 
