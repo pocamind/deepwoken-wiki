@@ -1,9 +1,9 @@
 ---
 title: Union Hooks
-revid: 167569
+revid: 169153
 source: https://deepwoken.fandom.com/wiki/Union_Hooks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Unique Critical]
+categories: [Mechanics]
 ---
 
 # Union Hooks

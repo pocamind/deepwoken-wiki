@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 168983
+revid: 169148
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -90,7 +90,7 @@ While not required, things listed below can prove to make your experience much e
 -   Relic Chests (Wave 25 & 50)
 -   [Railblade](Railblade.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Gran Sudaruska](Gran_Sudaruska.md) and [Ignition Deepcrusher](Ignition_Deepcrusher.md) (40+)
 -   Guaranteed 2 Star Loot, Only Layer 2 Loot (40+)
--   [Celtorian Tideknight](Celtorian_Tideknight.md), [Pathfinder Elite](Pathfinder_Elite.md), [Justicar Defender](Justicar_Defender_Coat.md) (50)((Be real ur never gonna use that fucking armor))
+-   [Celtorian Tideknight](Celtorian_Tideknight.md), [Pathfinder Elite](Pathfinder_Elite.md), [Justicar Defender](Justicar_Defender_Coat.md) (50)
 
 ## Waves
 

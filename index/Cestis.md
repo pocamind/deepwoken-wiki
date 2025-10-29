@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 167885
+revid: 169152
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, The Ministry, Quests, Murmurs, NPCs located in the Eastern Luminant]
@@ -58,28 +58,33 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td colspan="12">I'm Cestis. I have a few generous benefactors from the Western Luminant, perhaps you know who I'm speaking of?</td>
 </tr>
 <tr>
-  <td colspan="6">Yeah, I do. <b>[10 Charisma]</b></td>
-  <td colspan="6">No, I don't.</td>
+  <td colspan="8">Yeah, I do. <b>[10 Charisma]</b></td>
+  <td colspan="4">No, I don't.</td>
 </tr>
 <tr>
-  <td colspan="3"><b>[Fail Charisma Check]</b> You were really thinking about that answer, huh? Try lying to someone a little more gullible next time.</td>
-  <td colspan="3"><b>[Pass Charisma Check]</b> Oh I'm sure you have... Quite the talker I see. A silver tongue will get you quite far in this world. But I am in no need of a silver tongue. I need someone killed. Payment will be given of course. Are you interested?</td>
-  <td colspan="6">It's best it stay that way then. You'd do best not to cross your betters. *<i>He gives you a crooked smile that sends shivers down your spine.</i>*</td>
+  <td colspan="4"><b>[Fail Charisma Check]</b> You were really thinking about that answer, huh? Try lying to someone a little more gullible next time.</td>
+  <td colspan="4"><b>[Pass Charisma Check]</b> Oh I'm sure you have... Quite the talker I see. A silver tongue will get you quite far in this world. But I am in no need of a silver tongue. I need someone killed. Payment will be given of course. Are you interested?</td>
+  <td colspan="4">It's best it stay that way then. You'd do best not to cross your betters. *<i>He gives you a crooked smile that sends shivers down your spine.</i>*</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
-  <td colspan="3">I'm interested.</td>
-  <td colspan="6">End</td>
+  <td colspan="4">End</td>
+  <td colspan="4">I'm interested.</td>
+  <td colspan="4">End</td>
 </tr>
 <tr>
-  <td colspan="3"></td>
-  <td colspan="3">That's the spirit. Go find and kill [Name], the [aspect]. You'll make quick work of them, no? Word is they were last seen around [Location]...</td>
-  <td colspan="3"></td>
+  <td colspan="4"></td>
+  <td colspan="2">Available players</td>
+  <td colspan="2">No available players</td>
 </tr>
 <tr>
-  <td colspan="3"></td>
-  <td colspan="3">End</td>
-  <td colspan="3"></td>
+  <td colspan="4"></td>
+  <td colspan="2">That's the spirit. Go find and kill [Name], the [Aspect]. You'll make quick work of them, no? Word is they were last seen around [Location]...</td>
+  <td colspan="2">Hmm, that's strange... It seems there isn't anyone around for you to kill...</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">End, player obtains a bounty</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

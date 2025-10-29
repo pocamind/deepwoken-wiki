@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 169141
+revid: 169144
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -13,6 +13,10 @@ categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | name | Alastir |
 | aspect | Adret |
 | location | Pathfinder's Respite |
+
+“ Duke Erisia, the man who rules over this doomed rock of an island. From what I gather, he used to be quite reasonable. And then, of course, we drifted. And so too did his mind drift to fell endeavors. ”
+
+― Alastir
 
 ## Description
 
