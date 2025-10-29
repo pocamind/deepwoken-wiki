@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 167823
+revid: 169213
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -165,6 +165,7 @@ Lightning
 -   10 second cooldown.
 -   Can break objects.
 -   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
+-   Shares a cooldown with [Ice Beam](Frostdraw.md#ice-beam).
 
  |
 | 

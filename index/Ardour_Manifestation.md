@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 164601
+revid: 169219
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -19,7 +19,7 @@ categories: [Items, Relics]
 -   You will be unable to summon the [Dread Serpent](Dread_Serpent.md) if there is already one in the server that was spawned through another's Ardour Manifestation.
     -   Once it is slain, you will be able to summon again.
     -   Trying to use it while the [Dread Serpent](Dread_Serpent.md) is spawned will cause it to say _"The manifest pulses in anxiety. As if signalling that a greater threat is already looming within the Voidsea already._
--   Upon use, you will release a scream similar to the Talent [Ardour Scream](Talents.md) and the Ardour Manifestation will be destroyed as the [Dread Serpent](Dread_Serpent.md) rises from the water.
+-   Upon use, you will release a scream similar to the Talent [Ardour Scream](Talents.md#ardour-scream) and the Ardour Manifestation will be destroyed as the [Dread Serpent](Dread_Serpent.md) rises from the water.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 168993
+revid: 169224
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics]
@@ -26,9 +26,9 @@ categories: [Equipment, Ears, Relics]
 
 ## Description
 
-**Dark Pearls** are a Shadowcast [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ears" category. Equipping them grants +2 Health, -2 Posture, and the [Inky Pearls](Talents.md#equipment-talents) Talent.
+**Dark Pearls** are a Shadowcast [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ears" category.
 
-_Inky Pearls_ turns your [Vent](Combat_Mechanics.md#tempo) black and makes it steal 40 Ether from targets it hits. Additionally, this allows your Vent to proc Shadowcast Talents on Vent, such as [Twisted Puppets'](Talents.md#twisted-puppets) Shadowcast burn and [Sightless Still](Talents.md#shadowcaster).
+_[Inky Pearls](Talents.md#inky-pearls)_ turns your [Vent](Combat_Mechanics.md#tempo) black and makes it steal 40 Ether from targets it hits. Additionally, this allows your Vent to proc Shadowcast Talents on Vent, such as [Twisted Puppets'](Talents.md#twisted-puppets) Shadowcast burn and [Sightless Still](Talents.md#shadowcaster).
 
 ## Trivia
 
