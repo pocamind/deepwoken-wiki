@@ -1,6 +1,6 @@
 ---
 title: Okumay
-revid: 155881
+revid: 169175
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -32,7 +32,7 @@ Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md
   <td>I'm afraid not.</td>
 </tr>
 <tr>
-  <td>I thought so. I believe we do have much to learn from the Kyrsans, perhaps more than we thought. Gods, it's truly a shame we arrived here too late. I don't think they'll be willing to explain their technology to us in their current state.</td>
+  <td>I thought so. I believe we do have much to learn from the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a>, perhaps more than we thought. Gods, it's truly a shame we arrived here too late. I don't think they'll be willing to explain their technology to us in their current state.</td>
 </tr>
 <tr>
   <td>What are you doing down here?</td>

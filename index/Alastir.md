@@ -1,9 +1,9 @@
 ---
 title: Alastir
-revid: 169144
+revid: 169185
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Celtor NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Alastir
@@ -11,7 +11,7 @@ categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | Alastir | |
 |---|---|
 | name | Alastir |
-| aspect | Adret |
+| aspect | Celtor |
 | location | Pathfinder's Respite |
 
 “ Duke Erisia, the man who rules over this doomed rock of an island. From what I gather, he used to be quite reasonable. And then, of course, we drifted. And so too did his mind drift to fell endeavors. ”
@@ -20,7 +20,7 @@ categories: [Adret NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Alastir is an [Adret](Adret.md) NPC who can be found facing the statues of the Lords of [Erisia](Erisia.md). He wields a [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>) and wears the [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md).
+Alastir is a [Celtor](Celtor.md) NPC who can be found facing the statues of the Lords of [Erisia](Erisia.md). He wears the [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md).
 
 He asks for you to bring him hostages with [Stranded](Stranded.md) [Outfits](Outfits.md). When returning villagers to him, the player can ask questions about Lord Erisia and his weapon. He doesn't take the [Forgotten Villagers](Forgotten_Villager.md) who don't trust him or the Pathfinder hostage NPC.
 
@@ -119,5 +119,6 @@ The player is tasked with collecting [Forgotten Villagers](Forgotten_Villager.md
 
 ## Trivia
 
+-   Alastir was previously an [Adret](Adret.md).
 -   You can turn in [Navaen Hostages](Navaen_Hostage.md) you find for the same effect.
 -   Originally, Alastir was a Royal Pathfinder in service to Duke Erisia who eventually recognized his master's insanity and tried to stop him. This was later retconned into him simply having been a pathfinder who was unfortunate enough to be passing through, due to his claims and associated plot threads contradicting later developments.

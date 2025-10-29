@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 168478
+revid: 169158
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -99,7 +99,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   **Flow State** - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
     -   Activating Ankle Cutter, Mayhem, Relentless Hunt, or Rising Star within 2 seconds of activating Flow State will enhance these attacks.
-    -   Flow State has a 15 second cooldown, landing a Flow State-enhanced Silentheart ability will reset Flow State's cooldown.
+    -   Flow State has a 3 second cooldown, landing a Flow State-enhanced Silentheart ability will reset Flow State's cooldown.
     -   The Flow State enhanced effects on Silentheart abilities will be highlighted in red.
     -   Flow state is a Talent tool.
     -   Flow State changes the behavior of a move:

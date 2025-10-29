@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 169024
+revid: 169174
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -26,9 +26,9 @@ categories: [Items, Equipment, Arms, Coats]
 
 ## Description
 
-The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Unwavering Resolve.
+The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) [Unwavering Resolve](Talents.md#unwavering-resolve).
 
 ## Trivia
 
 -   Together with the [Authority Commander Coat](Authority_Commander_Coat.md), It used to be unsellable but this was later changed due to it clogging players' inventories.
--   This used to have the Hardened Nerves Talent, before being replaced with Unwavering Resolve in April 5th, 2024.
+-   This used to have the [Hardened Nerves](Cut_Content.md#hardened-nerves) Talent, before being replaced with [Unwavering Resolve](Talents.md#unwavering-resolve) in April 5th, 2024.

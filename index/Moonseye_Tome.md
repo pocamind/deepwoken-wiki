@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 167002
+revid: 169164
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -27,7 +27,7 @@ _(one-time use, re-obtainable)_
 
 ## Moonseye Tome Dialogue
 
-First Interaction, _"The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed."_ This will grant +75 Knowledge.
+First Interaction, _"The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed."_ This will grant +100 Knowledge.
 
 Second Interaction, _"The Voices reach out to you more gently now, offering their sympathies in a vast procession of guilt."_ This will grant +50 Knowledge.
 

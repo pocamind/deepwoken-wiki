@@ -1,32 +1,42 @@
 ---
 title: Dye Packet
-revid: 162111
+revid: 169177
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Pages with broken file links]
+categories: [Items]
 ---
 
 # Dye Packet
 
-Dye Packet's GUI
+| Dye Packet | |
+|---|---|
+| type | Treasure |
+| rarity | Common |
+| selling price | 7 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Carnival of Hearts, Merchant Ships, Exchanged with Klaris for 1 , Sold by Traan Zakshun for 1000 , Sold in Traan Zakshun's black market for 1 , Sold by Sev for 1 |
+| description | A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance. |
 
 ## Description
 
-A Dye Packet is a [Relic](Relics.md) that can be obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) by handing in one [Kyrsan Medallion](Kyrsan_Medallions.md) per packet, Buying it from [Sev](Sev.md) by exchanging [Crowns](Crowns.md), getting it from the [Weird Trader](Weird_Trader.md), a chest from the [Carnival of Hearts](Carnival_of_Hearts.md), buying it from [Traan Zakshun](Traan_Zakshun.md) for 1,000, or rarely in [Merchant Ships](Travelling_Merchant.md) for around ~90-250+. It cannot be dropped but the dyed equipment can be dropped. Dye Remover no longer comes with the Dye Packet when you purchase one. Dyes can be removed at a [Barber](Barber.md). The maximum Dye Packets that can be held per slot is 99.
+A Dye Packet is a [Relic](Relics.md) that allows the user to add a tint to their equipment. They are invented by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md).
 
-File:Pinkheart.png
+Dyes can be removed at a [Barber](Barber.md), or from [Sev](Sev.md). The maximum Dye Packets that can be held per slot is 99.
 
-Silentheart markings dyed pink
+The player can purchase the Manycolored Equipment upgrade from Sev for 25, which allows them to only dye their equipment without a Dye Packet. This upgrade is slot-wide and is purchasable once per account.
 
 ## Dye-able Components
 
 -   [Equipment](Equipment.md)
--   Hair (each hair slot can be dyed separately)
+-   Hair (each hair slot can be dyed separately or altogether)
 -   Eyes (both Pupils and Sclera)
 -   [Resonance](Resonance.md) bells
--   [Oath](Oaths.md) visuals (some Oaths, like [Starkindred](Oath%253A_Starkindred.md) come with multiple separately dyable parts)
+-   [Oath](Oaths.md) Cosmetics (some Oaths, like [Starkindred](Oath%253A_Starkindred.md) come with multiple separately dyable parts)
 -   [Outfits](Outfits.md)
--   Aspect deco EX: Gremor Horns
+-   [Aspect](Aspects.md) Features (such as Gremor horns)
 
 ## Trivia
 
@@ -38,9 +48,3 @@ Silentheart markings dyed pink
     -   Previously, Dye Packets would come with a Dye Remover item which was the only way to remove an equipment dye. If purchased from Chili's Merchant Ships, they would not come with the Remover. This item was made unobtainable on the April 5th, 2024 update and later entirely removed in a shadow update of April 2025.
 -   Dye Packets have no model, so appear invisible on Chili's ship.
 -   Choosing to "Dye All" on hairs will only use 1 dye packet.
-
-File:Dye merchant.png
-
-A Dye Packet being sold in a Merchant Ship
-
--   You can give [Sev](Sev.md) 25 Crowns to permanently unlock "Manycolored" equipment letting you edit your equipment's color freely on any character without needing to spend dye Packets

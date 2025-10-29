@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 167293
+revid: 169182
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -84,7 +84,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
   <td colspan="4"><i>*He puts his chest out with pride.*</i> My family were but humble farmers, [Rank] [Last name], but we could not stand idly by while so much villainy threatened the <a href="Glossary.md#the-central-authority">Central Authority</a>. So, my 15 brothers and I enlisted in the military, to defend <a href="Glossary.md#lumen">Lumen</a> from evil! I rose through the ranks serving in the <a href="Glossary.md#the-western-luminant">Western Luminant</a>, and my commanders took note of my good looks, endless bravado, and daring achievements, so they recommended me as a poster boy! I think I make a damn good one, I do!</td>
   <td colspan="4"><i>*He laughs with gusto.*</i> That's mail from all of my adoring admirers! This batch here is all the ones that have come in today! I usually get about 20 letters each day. I write back to each of them! Each of them has a story to tell - looks like I inspire a lot of people to do their best! Hurrah! <i>*The Interceptor winks.*</i></td>
   <td colspan="4"><i>*He laughs heartily.*</i> I'd love to!... Er!.. Unfortunately, I don't have anything to sign with! Perhaps another time then, [Rank]!</td>
-  <td colspan="4"><i>*He chuckles*</i> Of course! Ahem... Keep on marching, soldier! Don't trip!</td>
+  <td colspan="4">[Chud Steel says one of his catchphrases, check <a href="#trivia">Trivia</a> for the full list.]</td>
 </tr>
 <tr>
   <td>You're quite famous, what's your story, soldier?</td>
@@ -199,6 +199,43 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 </table>
 
 ## Trivia
+
+-   Chud Steel has an equal chance to state any of his 33 catchphrases when you ask him for one.
+    -   The following is an unexhaustive list of all of Chud Steel's catchphrases:
+
+1.  "AAIIEEEEEEEE!!!..."
+2.  "BLADE STEADY AND HEAD HIGH! Don't hold it over your head though, that's not right."
+3.  "Blades can't hurt you if you don't let them!"
+4.  "Break a leg out there, soldier! The surgeon's lovely!"
+5.  "C-H-U-D, you already know it's me - it's CHUD!! What, what!~ It's CHUD, what, what!"
+6.  "Fight to live another day, soldier!"
+7.  "**FOOOR THE CAUUUUUUUUUSEE!!!!** Oops, that was a bit loud!.."
+8.  "For the Authority we fight! Within this dark a blazing light!"
+9.  "For the manyyy, the fewww, the biiig, the smaaall!~"
+10.  "HAROO! It said that on one of the posters with my face on it!.. Er... That one might have been upside down, though!"
+11.  "**Hit 'em where it hurts**! Hahah!"
+12.  "HURRAH, last one to Etris is a rotten egg!"
+13.  "Huttah!.. Wait, that's not quite right... Er! Yes!"
+14.  "I always win rock paper scissors... Can you guess why? Haha! Hm... Steel isn't one of them, actually... Well, I'm uhh.. scissors? Yeah! I'm Scissors!"
+15.  "I once ate bugs to live!"
+16.  "Keep moving forward, soldier! Hahah!"
+17.  "Keep on keeping on, soldier!"
+18.  "Keep on marching, soldier! Don’t trip!"
+19.  "Never hold your blade by the sharp part!"
+20.  "No fear, no hesitation, no clear understanding of what's happening!"
+21.  "Ooooooooooohh yeah!"
+22.  "OORAH! Three cheers!"
+23.  "Remember, soldier; head high, chest out, shoelaces tied!"
+24.  "Serving with pride! OORAH!"
+25.  "Smile, soldier! The Depths hate confidence! Hurrah!"
+26.  "Speed is WAR!"
+27.  "Steel your nerves, soldier! Or was it.. nerve your steels? Hahah!"
+28.  "**Stick 'em with the pointy end**! That's what the Sentinel told me!"
+29.  "Sticks and stones may break my bones, but swords can never hurt me! ...It's because of the armour. It's **STEEL**, just like me!"
+30.  "Strike down the evils and villainy of this land! For the Authority!"
+31.  "Three cheers! HURRAH! HURRAH! HUURRAAAAAAAHHH!!!"
+32.  "Whistle while you work, trooper!"
+33.  "WITNESS ME!"
 
 -   Surrounding his character is many letters, presumably fan-letters of aspiration as an idol of The Central Authority as referenced in his dialogue.
 -   A chud is a derogatory term for those, usually male, who hold beliefs that are seen as reactionary or to be sociopolitically regressive, particularly racism and extreme ethnonationalism.

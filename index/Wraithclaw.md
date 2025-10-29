@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 168159
+revid: 169169
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-base
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Grudge, Sold in Traan Zakshun's black market for 5 |
+| obtainment | Grudge, Sold in Traan Zakshun's black market for 3 |
 | description | Bound and woven with hair and sinew, a spectral claw forms from the grudges of those sacrificed to create it. Across Lumen, many believe that the voices of the dead are carried by the wind. So too do many believe that the winds of Lumen originate from the swirling vortex of the Moonseye above. Perhaps these voices are those of the Old World, mourning and howling at what has become of Lumen. |
 
 ## Description
@@ -46,12 +46,10 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 
 -   [Minityrsa](Minityrsa.md)
 -   [Upper Erisia](Upper_Erisia.md)
--   [The Depths (Scyphozia)](First_Layer.md)
+-   [First Layer](First_Layer.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Bluster Rift](Bluster_Rift.md)
-
-The NPC requires [Galebreathe](Galebreathe.md) to spawn and initiate the fight with.
 
 ## Critical
 

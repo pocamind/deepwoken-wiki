@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 169155
+revid: 169167
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -169,7 +169,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Isn't it weird how there's like next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
--   Look at all those shiny colours!
+-   _Look at all those shiny colours!_
 -   _Looks valuable, you should buy it!_
 -   _Lovely weather for buying something exactly like this, eh?_
 -   _Now see, I would buy this. From myself._
@@ -305,6 +305,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _DON'T drop it..._
 -   _Don't even ask, man._
 -   _Got somethin' that might interest ya..._
+-   _I gave one of these away for free yesterday. You missed out._
 -   _I uhh, yeah I really shouldn't have these._
 -   _I barely know what I'm looking at here._
 -   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
@@ -321,6 +322,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Oh this one's verrry special - I can only let you buy one._
 -   _Oh, this one might be cursed. Like, actually._
 -   _Okay, you really have to be careful with this._
+-   _Some guy literally walked through a mirror and handed me these, it was the strangest thing..._
 -   _Thanks for looking, you know... You could actually buy it._
 -   _Try not to draw attention when you walk out of here alright?_
 -   _This isn't overpriced, it's MY SHOP!_
@@ -330,7 +332,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
 -   _...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
--   Where'd I get this? Fell outta the back of a carriage, yeah?
+-   _Where'd I get this? Fell outta the back of a carriage, yeah?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _You got cash for a crown? I'm running low on change here... If not it's fine._
 -   _You want it? It's yours my friend! So long as you have enough crowns._
@@ -372,9 +374,9 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>.</li>
+    <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
     <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
-    <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
+    <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>.</li>
     <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>.</li>
     <li><b>For 45 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 169067
+revid: 169176
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -95,7 +95,7 @@ Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | B
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
 
 ### Lightborn
 
@@ -192,6 +192,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyr
 ### The King of Etrea
 
 -   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than ruins.
+-   The King is said to have set off on a voyage with a small fleet of ships and never returned. Despite the time that has passed, many still wait for his return,
 -   King Rolen Vashtir I reigned through the early 6th century CE.
 
 Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
