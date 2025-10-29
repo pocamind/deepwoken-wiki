@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 168338
+revid: 169186
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Food Vendors, Etrea, NPCs located in the Etrean Luminant]
@@ -55,3 +55,4 @@ Lance Leshi is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside 
 -   Lance Leshi has purple eyes and black hair, which isn't actually possible as an Etrean.
 -   Lance Leshi wears the [Merchant Robes](Merchant_Robes.md) and a [Yellow Headband](Headband.md).
 -   LANCE LESHI
+-   Lance Leshi has banned Destroyman III from his restaurant.

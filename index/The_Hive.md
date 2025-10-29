@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 165635
+revid: 169188
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Hive]
@@ -83,7 +83,5 @@ Neutral-Bad Reputation:
 
 -   All Hive members/NPCs are either [Vesperians](Vesperian.md), [Ganymedes](Ganymede.md) or [Chrysids](Chrysid.md)
 -   One of two factions to create and utilize [Monsters](Monsters.md), the other being [The Ignition Union](The_Ignition_Union.md).
-
 -   They have four Greathives in Lumen, with the Greathive in the Eastern Luminant being the most recently created ones while the biggest Greathive is located in The Central Luminant.
-
 -   They use Heat stones for their resting camps instead of fire.

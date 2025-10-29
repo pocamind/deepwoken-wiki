@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 167416
+revid: 169189
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment, Outfits]
@@ -53,8 +53,8 @@ Two equipment of the same type (e.g. Leather Boots and Enforcer Boots) are combi
     -   _Do note that this means you have potential to drop this smelted item upon death if it isn't being worn._
 -   If you back out of the dialogue without completing the smelt, [Jarvis](Jarvis.md) (or the guild Artisan) will hold the items for you until you come back.
 -   Smelted items can be passed down.
--   If you smelt the first item **A1** and the second item **B2** (A1 takes the appearance of B2) and then smelt first another item **C1** with item **A1**, it'll carry over **B2'**s appearance (TLDR: Smelt A and B, A looks like B, smelt C and A, C looks like B).
-    -   If you smelt **C** as the 2nd item, you'll keep **A1'**s stats and change the appearance to **C**.
+-   If you smelt the first item **A1** and the second item **B2** (A takes the appearance of B) and then smelt another item **C1** first with item **A1**, it'll carry over **B**'s appearance (TLDR: Smelt A and B, A looks like B, smelt C and A, C looks like B).
+    -   If you smelt **C** as the 2nd item, you'll keep **A**'s stats and change the appearance to **C**.
 
 ### To smelt items
 

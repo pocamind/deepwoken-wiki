@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 168131
+revid: 169210
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -39,7 +39,7 @@ The Halberd is a Greataxe type weapon used by the Central Authority. The Halberd
 
 ## Critical
 
-The user charges forward before performing a circular slash.
+The user charges forward before performing a circular slash. This critical deals **1.25x** the weapon's scaled damage.
 
 The critical has a cooldown of **3 seconds**.
 

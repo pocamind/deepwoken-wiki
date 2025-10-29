@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 168254
+revid: 169211
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in the Eastern Luminant]
@@ -113,6 +113,36 @@ Adrofalis can be found on the island of [Boatman's Watch](<Boatman's_Watch.md>),
 </tr>
 <tr>
   <td><div>End</div></td>
+</tr>
+</tbody>
+</table>
+
+**After fully maxing Saltchemist:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4">Ah, it's good to see you again. I'm still tinkering away with this old beauty, hah. Do stop by again and share your travels with me!</td>
+</tr>
+<tr>
+  <td colspan="4">What can you tell me about the Old Stewards?</td>
+</tr>
+<tr>
+  <td colspan="4">Oh, are you interested in our work? As the name implies, we are keepers and researchers of knowledge of the Old World. This knowledge is often... <i>dangerous</i> in the wrong hands, so we take our Vow of Stewardship rather seriously. In line with this, our archives and research are not located in any one particular place, but rather in research outposts across Lumen.</td>
+</tr>
+<tr>
+  <td colspan="2">Is there any way I can join the Stewards?</td>
+  <td colspan="2">Why this level of secrecy?</td>
+</tr>
+<tr>
+  <td colspan="2">Mm. The process of recruitment is a tricky one. New recruits are accepted once every year at a different location each time, and are tasked with finding its location by their own means. Showing this level of commitment and proactivity in one's research proves a recruit's commitment. Bringing others with you or not catching a tail are grounds for immediate disqualification. We send our own tails too, of course.</td>
+  <td colspan="2">Members of the Divers, the Ministry, the Starkindred Church, and so forth... All of them seek to infiltrate our order. We cannot allow this to happen. Every time we have failed in this task, it has been disastrous... Though we believe that all knowledge of the pre-tidal world should be preserved, we do not believe that all of it is fit to be proliferated. Part of the Vow we take upon joining the order requires us to perish before we give up our secrets under interrogation.</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
 </tr>
 </tbody>
 </table>

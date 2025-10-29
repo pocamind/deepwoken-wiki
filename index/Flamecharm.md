@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 168568
+revid: 169187
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -391,14 +391,14 @@ Fire
 
 **Fire Palm** (★☆☆)
 
-_A blast of flame._
+_Conjure a cone of flames in front of you. Pressing F during windup will release a wider but shorter flame._
 
  | 
 
 ## Fire Palm (★☆☆)
 
   
-_A blast of flame._
+_Conjure a cone of flames in front of you. Pressing F during windup will release a wider but shorter flame._
 
  |
 | 

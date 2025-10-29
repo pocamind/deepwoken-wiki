@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 168245
+revid: 169192
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -57,7 +57,7 @@ Alternatively you can pay [Samael](Samael.md) 10 to skip killing the Sinners. Ho
 
 ## Effects
 
-This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) Mantra [Fire Blade](Flamecharm.md#fire-blade) is modified by this Oath, causing the user to rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
+This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) Mantra [Fire Blade](Flamecharm.md#fire-blade) is modified by this Oath, causing the user to rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white halo with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Abilities
 
