@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 162907
+revid: 169246
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics]
@@ -58,7 +58,7 @@ The main use for the **Dormant Splinter** is to be crafted into other weapons, t
 
 ## Critical
 
-The user will clutch onto the blade very closely, causing the blade to emit effects coming out of it. The critical has an abysmal hitbox and will sometimes hit when running.
+The user will clutch onto the blade closely as a small eruption of shadow bursts from it. The critical has an abysmal hitbox and will sometimes hit when running.
 
 The critical has a cooldown of **14 seconds**.
 

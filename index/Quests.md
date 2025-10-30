@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 167777
+revid: 169248
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs, Mechanics]
@@ -164,7 +164,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a><br>
-  <b>Guide</b>: Talk to <a href="Stratos.md">Stratos</a> at <a href="Temple_of_the_Blade.md">The Temple of Blade</a>. You must have Galebreathe. It is theorized that you need to sail with your mast pointed to the wind in a sea highway for an unknown amount of time to complete the quest.<br>
+  <b>Guide</b>: Talk to <a href="Stratos.md">Stratos</a> at <a href="Temple_of_the_Blade.md">The Temple of Blade</a>. You must have 50 Galebreathe and at least "Ally" reputation with Etrea. After talking to him you will receive the talent.<br>
   <b>Reward(s)</b>: <a href="Talents.md#scholar-of-the-cloud">Windwaker</a></p></div></td>
   <td><figure><figcaption><p></p><div><a href="Stratos.md">Stratos</a></div><p></p></figcaption></figure></td>
 </tr>

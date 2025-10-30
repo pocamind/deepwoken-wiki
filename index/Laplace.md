@@ -1,9 +1,9 @@
 ---
 title: Laplace
-revid: 168017
+revid: 169232
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Hive]
+categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Vendors, The Hive]
 ---
 
 # Laplace
@@ -154,7 +154,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
   <td colspan="2">Eligible weapon?</td>
 </tr>
 <tr>
-  <td colspan="4">[See any previous instances.]</td>
+  <td colspan="4">[See any previous instances]</td>
 </tr>
 </tbody>
 </table>
@@ -212,7 +212,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <tr>
   <td colspan="6">Let's proceed.</td>
   <td colspan="3">*A bright green light glows around his fingertips, and he presses them against the surface of each of the pieces of equipment in turn. Something slick and oily seems to peel off them, and with a flick of his hand, he transfer some of it to your weapon. Changing it forever.*</td>
-  <td colspan="3">[See any previous instances.]</td>
+  <td colspan="3">[See any previous instances]</td>
 </tr>
 <tr>
   <td colspan="6">[See previous instance]</td>
@@ -221,8 +221,6 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 </tr>
 </tbody>
 </table>
-
-}}
 
 **Shop UI:**
 

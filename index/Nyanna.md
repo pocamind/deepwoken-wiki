@@ -1,9 +1,9 @@
 ---
 title: Nyanna
-revid: 168028
+revid: 169233
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Vendors, NPCs located in the First Layer]
+categories: [NPCs, NPCs located in the First Layer, Vendors]
 ---
 
 # Nyanna
@@ -47,8 +47,8 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
   <td colspan="2">Oh, you must be new around here... I'm selling weapon and armor plans to anyone willing to pay premium notes.</td>
 </tr>
 <tr>
-  <td>1. What are you selling?</td>
-  <td>2. Premium notes?</td>
+  <td>What are you selling?</td>
+  <td>Premium notes?</td>
 </tr>
 <tr>
   <td>[Opens Shop UI]</td>

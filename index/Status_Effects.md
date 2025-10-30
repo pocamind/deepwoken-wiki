@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 169121
+revid: 169241
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -448,7 +448,7 @@ Applied through the [Reinforced War Set's](Reinforced_War_Helmet.md) Talent _Las
 
 ### Etherguard
 
-Applied through the [Bluestone Set's](Bluestone_Pauldrons.md) _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based off their Ether cost for a short duration.
+Applied through the [Bluestone Set's](Bluestone_Pauldrons.md) _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based off their Ether cost for 16 seconds.
 
 ### Embraced in Light
 

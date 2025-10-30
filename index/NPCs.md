@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 169122
+revid: 169237
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -27,6 +27,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Aelita](Aelita.md) | Unaligned | [Carnival of Hearts](Carnival_of_Hearts.md)  
 [Valley of Heroes](The_Valley_of_Heroes.md) | Unique event required to obtain the [Visionshaper](Oath%253A_Visionshaper.md) Oath. | Twin of [Tillian](Tillian.md).  
 Does not spawn in Valley of Heroes during [Winter](Seasons.md). |
+| [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md) |  |  |  |  |
+| [Aesalath Kalafrid](Aezeroth_Kaladin.md) |  |  |  |  |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md)  
 [Celtor Wastes](Celtor_Wastes.md) | Willpower unbound.  
 Joining [The Divers](The_Divers.md) [Guild](Guilds.md) and unlock the [Deepbound](Deepbound.md) [Origin](Origins.md). | Picking his second dialogue option in Celtor Wastes with less than 75 Charisma will result in unavoidable death. |
@@ -39,19 +41,24 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [The Viper's Jaw](<The_Viper's_Jaw.md>) | Grants the [Legion Kata](Legion_Kata.md) [Fist](Fists.md) style. |  |
 | [Amashi, Master of Flame](Amashi,_Master_of_Flame.md) | Unaligned | [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) trainer.  
 [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression. |  |
+| [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md) |  |  |  |  |
 | [Andrea](Andrea.md) | Unaligned | [The Cathedral of Interstice](Cathedral_of_the_Interstice.md) | Reveals information about the Depths Trial. | Dialogue changes after completing the Trial once. |
 | [Antiquarian](Antiquarian.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Fort Merit](Fort_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Purchases |  |
+| [Antiques Smuggler](Antiques_Smuggler.md) |  |  |  |  |
 | [Apprentice Kj](Apprentice_Kj.md) | [Etrea](Etrea.md) | [Temple of the Blade](Temple_of_the_Blade.md) | Quest to unbound weapon and speak with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). | Sends the player to find [Vigil Isaac](Vigil_Isaac.md) in [Upper Erisia](Upper_Erisia.md). |
 | [Argo](Argo.md) | [Etrea](Etrea.md) | [Etris Docks](Etris_Docks.md) | Teaches the basics on how to [Fish](Fishing.md). |  |
 | [Aristo](Aristo.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Provides basic information to help new players. |  |
+| [Armorer](Astra.md) |  |  |  |  |
+| [Armourer Kev](Armourer_Kev.md) |  |  |  |  |
 | [Arthur](Arthur.md) | [Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon completes and talent hand for 'Bravery' quest. |
+| [Artisan](Artisan.md) |  |  |  |  |
 | [Asius](Asius.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the Armor Piercing Quest given by [Trig](Trig.md). | Player can decide to help him out, will be attacked by Trig instead. |
 | [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Drops the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) upon defeat. | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 [Flamecharm](Flamecharm.md). |
-| [Astra](Astra.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Sells basic weaponry. | Only sells some of the items in the Etris Weaponry. |
 | [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md). | Apparently the player knows her from some where. |
 | [Atra](Atra.md) | [The Hundred Legions](The_Hundred_Legions.md) | [The Viper's Jaw](<The_Viper's_Jaw.md>) | Gives the Quest to find the whereabouts of [Lars](Lars.md). | None |
 | [Avian](Avian.md) | [Etrea](Etrea.md) | [Temple Sparring Hall](Temple_Sparring_Hall.md) | Gives the Quest to lend him a Weapon Manual. | Consumes one usage of the manual upon quest completion. |
-| [Banker](Banker.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Port Merit](Port_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Stores items and notes for the player to access at anytime. |  |
+| [Banker](Banker.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Port Merit](Port_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Stores items and notes for the player to access at anytime. |
+| [Baragan](Baragan.md) |  |  |  |  |
 | [Barber](Barber.md) | Unaligned | [Etris](Etris.md)[Isle of Vigils](Isle_of_Vigils.md)[Greathive Aratel](Greathive_Aratel.md)[Summer Isle](Summer_Isle.md)[Castle Light](Castle_Light.md)[Guild Bases](Guild_Bases.md) | Lets you change your appearance. |  |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
 | [Beatra](Beatra.md) | Unaligned | [Derelict Highchurch](Derelict_Highchurch.md) | [Shadowcast](Shadowcast.md) trainer on the surface. | She can't teach you [Shadowcast](Shadowcast.md), only level up mantras. |
@@ -67,60 +74,81 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
 
  | Teaches new players the basics of the game | Gives different dialogue if you have the Castaway origin who has done the tutorial |
+| [Captain Trist](Captain_Trist.md) |  |  |  |  |
+| [Caragan](Caragan.md) |  |  |  |  |
 | [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md)[New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Teaches you monster mantras. |  |
 | [Cave Master](Cave_Master.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
 | [Celadon](Celadon.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
+| [Celtorian Guard](Celtorian_Guard.md) |  |  |  |  |
 | [Cerulean](Cerulean.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | [Oathless](Oath%253A_Oathless.md) oath "trainer" |  |
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants [Murmur: Tacet](Murmur%253A_Tacet.md) |  |
 | [Chef Odiolavoro](Chef_Odiolavoro.md) | Unaligned | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
-| [Chili](Travelling_Merchant.md) | Unaligned | [The Etrean Sea](The_Etrean_Sea.md)[The Aratel Sea](The_Aratel_Sea.md) | Sells items on a [Merchant Schooner](Ships_&_Sailing.md) |  |
+| [Chud Steel](Chud_Steel.md) |  |  |  |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
+| [Commander Rayner](Commander_Rayner.md) |  |  |  |  |
 | [Con](%2543on.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | None |  |
 | [Das](Das.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Lets you spar with the [Blade Instructor](Blade_Instructor.md) |  |
 | [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md), [The Hidden Village](The_Hidden_Village.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [The Lordsgrove](The_Lordsgrove.md), [Meteor Isle](Meteor_Isle.md), [Saramaed Summit](Saramaed_Summit.md), [Widow's Hollow](<Widow's_Hollow.md>), [Songseeker Wilds](Songseeker_Wilds.md), [Ancient Rotlands](Ancient_Rotlands.md), [Starfield Veldt](Starfield_Veldt.md), [Trial of One](Trial_of_One.md). | Affect your stats, talents or whisper draws for [Robux](https://roblox.fandom.com/wiki/Robux). |  |
 | [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | Gives explanation on who Ignition Deepdelvers are. |  |
+| [Deepdelver Myra](Deepdelver_Myra.md) |  |  |  |  |
+| [Deepdelver Tau](Deepdelver_Tau.md) |  |  |  |  |
 | [Delta](Delta.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Grants you the [Oath: Arcwarder](Oath%253A_Arcwarder.md) after meeting all requirements. |  |
 | [Den Master](Den_Master.md) | Unaligned | [Etris](Etris.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
+| [Deran](Deran.md) |  |  |  |  |
+| [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md) |  |  |  |  |
 | [Diluvian Mechanism (NPC)](<Diluvian_Mechanism_(NPC).md>) | Unaligned | [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Starts [The Diluvian Mechanism](The_Diluvian_Mechanism.md) |  |
+| [Diver Quartermaster](Diver_Quartermaster.md) |  |  |  |  |
 | [Dockson](Dockson.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Drefa](Drefa.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | The quest is repeatable |
+| [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) |  |  |  |  |
+| [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) |  |  |  |  |
 | [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), cemetery | None |  |
 | [Eastern Camp Master](Cheral.md) | [The Children of Navae](The_Children_of_Navae.md) | [Etrean Wilds](Etrean_Wilds.md) | None |  |
 | [Eiris](Eiris.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [The Etrean Sea](The_Etrean_Sea.md)[The Aratel Sea](The_Aratel_Sea.md)[Knives of Eylis vs Kingdom of Etrea](Random_Encounters.md#fights-between-factions) | Lets you obtain the voidwalker origin. |  |
+| [Eltus Ferikus Pleristus Zzetchus](Eltus_Ferikus_Pleristus_Zzetchus.md) |  |  |  |  |
 | [Elykris](Elykris.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants a quest to retrieve a [ministry field report](Books.md), gives 3 aces, gives exp and it's a curiosity quest | You can actually softlock this quest by donating this book to librarian in guild base |
 | [Emel](Emel.md) | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry [reputation](Reputation.md), exp and notes. | The quest is repeatable. |
 | [Epsi](Epsi.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | He is part of the quest to obtain [Oath: Arcwarder](Oath%253A_Arcwarder.md) |  |
 | [Eres](Eres.md) | [The Kingdom of Etrea](Etrea.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) | Unaligned | [Firfire](Firfire.md), [Second Layer](Second_Layer.md) | Grants the Talent "Ethiron's Gaze" after doing the quest |  |
-| [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
+| [Etrean Guardmaster](Etrean_Guardmaster.md) |  |  |  |  |
+| [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) |  |  |  |  |
+| [Etrean Royal Guard (NPC)](<Etrean_Royal_Guard_(NPC).md>) | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Erisae](Loot_Bag_Gacha.md) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
-| [Maestro Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
+| [Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
 | Everis | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sends you back down from [The Floating Keep](The_Floating_Keep.md) |  |
 | [Exter](Exter.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Reveals lore about the knives of eylis |  |
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md) | The quest is repeatable |
 | [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives explanation on how to wake up the [Scion of Ethiron](Scion_of_Ethiron.md). |  |
+| [Fabantou](Fabantou.md) |  |  |  |  |
 | [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
 | [Flabbernaster Filingree, the First Mate](Flabbernaster_Filingree,_the_First_Mate.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
+| [Forgotten Villager](Forgotten_Villager.md) |  |  |  |  |
 | [Frank F'alzone](<Frank_F'alzone.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Friid](Friid,_Master_of_Gale.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Friendly Prisoner](Friendly_Prisoner.md) |  |  |  |  |
+| [Friid, Master of Gale](Friid,_Master_of_Gale.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives you the [Kyrswynter](Kyrswynter.md) when meeting the reqs |  |
-| [Funke](Funke,_Master_of_Thunder.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
 | [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Exchanges joy for exclusive music related items |  |
 | [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | None |  |
 | [Glaive Spellhardt](Glaive_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | Green | Unaligned | [The Floating Keep](The_Floating_Keep.md) | None |  |
+| [Gudrin](Gudrin.md) |  |  |  |  |
+| [Guild Librarian](Guild_Librarian.md) |  |  |  |  |
 | [Gunsmith](Gunsmith.md) | [The Summer Company](The_Summer_Company.md) | [Guild Bases](Guild_Bases.md) | Makes bullet casing |  |
-| [The Guy](The_Guy.md) | [The Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will belittle you by saying "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
-
-Check the rest out for yourself, canonically smells really bad
-
- |
-| [Hiri](Hiri.md) | [The Hive](The_Hive.md) | In the Library section | None |  |
+| [Harnessed Thresher](Harnessed_Thresher.md) |  |  |  |  |
+| [Hector](Hector.md) |  |  |  |  |
+| [High Inquisitor Merey](High_Inquisitor_Merey.md) |  |  |  |  |
+| [Hiri](Hiri.md) |  |  |  |  |
+| [Hobo](Hobo.md) |  |  |  |  |
 | [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
+| [Infamous Baz](Infamous_Baz.md) |  |  |  |  |
+| [Innkeep](Innkeep.md) |  |  |  |  |
 | [Ishan](Ishan.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
+| [Ivory](Ivory.md) |  |  |  |  |
 | [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |
 | [Jarvis](Jarvis.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | Smelts pieces of equipment together |  |
 | [Jeremiah](Jeremiah.md) | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
@@ -128,9 +156,11 @@ Check the rest out for yourself, canonically smells really bad
 | [Jim](Jim.md) | Unaligned | [Etris](Etris.md), Docks | Gives a Talent hand in exchange for 2 [Dying Embers](Dying_Embers.md) |  |
 | [Joshua](Joshua.md) | Unaligned | [Etris](Etris.md) | Talks about [Karliah](Karliah.md) |  |
 | [Kaab](Kaab.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Shipwright |  |
+| [Kadrivus Entomolius Auditan](Kadrivus_Entomolius_Auditan.md) |  |  |  |  |
 | [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives lore |  |
 | [Kana](Kana.md) | Unaligned, likely The Authority | [Fort Merit](Fort_Merit.md) | None |  |
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her 20 |
+| [Karthal](Karthal.md) |  |  |  |  |
 | [Kasen](Kasen.md) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |
 | [Kelsius](Kelsius.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
 | [Kennith](Kennith.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near Etris Palace | Begins Lord Regent questline | Requires positive Etrea reputation, is killed during the events of the quest, may be found in the Kyrsan Wilds afterwards |
@@ -138,20 +168,22 @@ Check the rest out for yourself, canonically smells really bad
 | [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Allows for an expedition to Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals |  |
 | [Korin](Korin.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | Quest is repeatable |
 | [Kressa](Kressa.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Dialogue changes if you're a Voidwalker |
-| [Kujae](https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC. Will give you something random from the Summer Isle lootpool in exchange for 350 notes. |  |
+| [Krile](Krile.md) |  |  |  |  |
+| [Kujae](Loot_Bag_Gacha.md) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC. Will give you something random from the Summer Isle lootpool in exchange for 350 notes. |  |
 | [Lake](Lake.md) | Moonseye faith | [Upper Erisia](Upper_Erisia.md), bridge to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) | None |  |
-| [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor |  |
+| [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | [Lars](Lars.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Part of the 'Legion Scout' [quest](Quests.md) | Is dead |
 | [Legendary Boot](Legendary_Boot.md) | Unaligned | [Erisia](Erisia.md) | It's a boot. |  |
 | [Liviu](Liviu.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | None |  |
 | [Llevyn](Llevyn.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | Brings down the deepdriller if you activated the generator |  |
-| [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
+| [Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
 | [Lysander Spellhardt](Lysander_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
-| [Mag](Mag.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
 | [Maedhran](Maedhran.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), On the cliff the Union hook leads to. | Sells some [mantra modifiers](Mantra_Modifiers.md). | Before accessing his shop, you have to listen to the tale he tells. |
+| [Mag](Mag.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
+| [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md) |  |  |  |  |
 | [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the Miner's Landing lootpool in exchange for 350 notes. |  |
 | [Malte](Malte.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None | He talks about the Bladeharper Oath. |
 | [Marae](Loot_Bag_Gacha.md) | Unaligned | [The Lordsgrove](The_Lordsgrove.md) | Gacha NPC. Will give you something random from the hive lootpool in exchange for 350 notes. |  |
