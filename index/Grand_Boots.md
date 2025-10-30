@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 168700
+revid: 169366
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -25,13 +25,9 @@ categories: [Items, Equipment, Legs, Boots]
 | obtainment | Chests from:, Duke Erisia, First Layer |
 | description | ... |
 
-Grand
-
-Variants: [Grand Pauldrons](Grand_Pauldrons.md)
-
 ## Description
 
-The Grand Boots are [Equipment](Equipment.md) items under the "Legs" category, and is a part of the Grand Set. When worn, these grant +5 Health and +1 Posture.
+The Grand Boots are [Equipment](Equipment.md) items under the "Legs" category, and is a part of the Grand Set
 
 ## Trivia
 

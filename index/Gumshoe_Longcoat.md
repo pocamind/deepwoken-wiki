@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Longcoat
-revid: 155636
+revid: 169367
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -28,4 +28,4 @@ categories: [Items, Equipment, Arms, Coats]
 
 ## Description
 
-The Gumshoe Longcoat is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 1 Rare pip. It is found in chests from the [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be dropped by the [Dread Serpent](Dread_Serpent.md).
+The Gumshoe Longcoat is an [Equipment](Equipment.md) item under the "Arms" category. It is found in chests from the [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md) and can also be dropped by the [Dread Serpent](Dread_Serpent.md).

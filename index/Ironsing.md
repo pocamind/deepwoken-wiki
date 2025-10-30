@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 169138
+revid: 169433
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -968,7 +968,7 @@ N/A
 
 **Effect:** _Conjure a metal wisp that regenerates armor durability. Ritual Casted._
 
--   Regenerates 2% armor/proc per level. 10% at 5 lvl.
+-   Regenerates 2/4/6/8/10% armor per level on proc
 -   Applies Metal Rod on vents.
 -   Can be modified with Aeon/Eternal Logstones to increase duration.
 

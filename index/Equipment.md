@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 168999
+revid: 169412
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2727,6 +2727,14 @@ Innate Effects
 
  |
 |  | [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) | +2 Rare Pips |
+|  | [Dark Pearls](Dark_Pearls.md)  
+(**Relic**) | _+2 Health_  
+_\-2 Posture_
+
+_+Talent: Inky Pearls_  
+**Requires Power 15, Shadowcast 40**
+
+ |
 |  | [Dew Drop Earrings](Dew_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
@@ -2764,14 +2772,6 @@ Innate Effects
 |  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
-
- |
-|  | [Dark Pearls](Dark_Pearls.md)  
-(**Relic**) | _+2 Health_  
-_\-2 Posture_
-
-_+Talent: Inky Pearls_  
-**Requires Power 15, Shadowcast 40**
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Starfield Veldt
-revid: 165776
+revid: 169327
 source: https://deepwoken.fandom.com/wiki/Starfield_Veldt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones]
@@ -12,7 +12,7 @@ Template:Location2
 
 File:Starfield Veldt111.jpg
 
-**Starfield Veldt** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) island found in the East Luminant.
+**Starfield Veldt** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) island found in the Eastern Luminant.
 
 ## Overview
 

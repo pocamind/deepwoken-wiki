@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 153344
+revid: 169377
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates]
@@ -21,14 +21,16 @@ categories: [Items, Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Eternal Gale, Scyphozia, Chaser, Scholar of the Crimson Contract, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
+| obtainment | Chests from:, The Eternal Gale, Scyphozia, Chaser (guaranteed on every kill), Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
 | description | ... |
 
 ## Description
 
-The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 5% Ironsing Armor, 2 Legendary Pips & 1 Rare Pip, and the [Talent](Talents.md) 'Defiant until the End', which causes your character to shout in defiance while being gripped, increasing the amount of time it takes for the grip animation to finish. It is rarely found in chests from [The Eternal Gale](Second_Layer.md), and almost guaranteed from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) and the [Scion of Ethiron](Scion_of_Ethiron.md) Chests; it can also be bought from the [Merchant Ship](Travelling_Merchant.md).
+The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category
+
+The [Defiant until the End](Talents.md#defiant-until-the-end) Talent causes your character to shout in defiance while being gripped, increasing the amount of time it takes for the grip animation to finish.
 
 ## Trivia
 
--   Almost taking the rank of 2nd place, This is the 3rd best Arms [Equipment](Equipment.md) in Deepwoken for purely stats. Second being [Diver's Light Plate](<Diver's_Light_Plate.md>), and first being the [Grand Fisher Plate](Grand_Fisher_Plate.md).
+-   This is one of the best Arms [Equipment](Equipment.md) in Deepwoken in terms of raw stats.
 -   The name implies that these plates are forged via the use of [Ironsing](Ironsing.md).

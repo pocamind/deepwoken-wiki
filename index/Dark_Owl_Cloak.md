@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 168559
+revid: 169347
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -28,11 +28,9 @@ categories: [Items, Equipment, Arms, Cloaks]
 
 ## Description
 
-The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" category. Equipping this item will give you the Talent [Disbelief](Talents.md#mental-fortress), as well as 6% Stealth, 8% Shadowcast armor, +1 Rare Pip, and +1 Legendary Pip. It can be obtained as a rare drop from [Deep Owls](Deep_Owl.md), or as a drop from [Deep Widows](Deep_Widow.md) and rarely in [Chime of Conflict](Chime_of_Conflict.md).
+The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The Disbelief Talent halves the duration of any [Charm](Status_Effects.md#charm) that is afflicted upon you.
-
-  
+The [Disbelief](Talents.md#disbelief) Talent halves the duration of any [Charm](Status_Effects.md#charm) that is afflicted upon you.
 
 ## Trivia
 

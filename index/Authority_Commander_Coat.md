@@ -1,6 +1,6 @@
 ---
 title: Authority Commander Coat
-revid: 169025
+revid: 169329
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats, The Central Authority]
@@ -16,7 +16,7 @@ categories: [Items, Equipment, Arms, Coats, The Central Authority]
 | requirements | Power 10 |
 | weight | 2 |
 | innate stats | +10 Health, +2 Rare Pips |
-| innate talent | None |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -26,7 +26,7 @@ categories: [Items, Equipment, Arms, Coats, The Central Authority]
 
 ## Description
 
-The Authority Commander Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 10 Health and 2 Pips.
+The Authority Commander Coat is an animated [Equipment](Equipment.md) item under the Arms category.
 
 ## Trivia
 

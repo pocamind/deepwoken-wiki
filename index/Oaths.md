@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 165525
+revid: 169387
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -135,7 +135,7 @@ _WEP = Any weapon stat (HVY, MED, LHT)_
 
 ## Oath Skipping
 
-If you've progressed a certain Oath once before to max, you are able to skip the progression next time you obtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a Chainwarden, Bladeharper, or Soulbreaker, you cannot skip the Oath progression with knowledge yet (will be added in the future).
+If you've progressed a certain Oath once before to max, you are able to skip the progression next time you obtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a Chainwarden, Bladeharper, Blightsurger, or Soulbreaker, you cannot skip the Oath progression with knowledge yet (will be added in the future).
 
 ## Oathbreaker - Oath Removal
 

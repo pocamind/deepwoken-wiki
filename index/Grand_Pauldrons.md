@@ -1,6 +1,6 @@
 ---
 title: Grand Pauldrons
-revid: 168702
+revid: 169365
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -18,18 +18,17 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | set | Grand Pauldrons, Grand Boots |
-| set talent | N/Aobtainment=Chests From:*Duke Erisia, The Depths (First Layer) |
+| set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
+| obtainment | Chests From:, Duke Erisia, The Depths (First Layer) |
 | description | ... |
-
-Grand
 
 ## Description
 
-The Grand Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category, and are a part of the Grand Set. When worn, these grant +2 Rare Pips.
+The Grand Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category, and are a part of the Grand Set.
 
 ## Trivia
 

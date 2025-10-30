@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 169312
+revid: 169406
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2057,7 +2057,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Hoplite \[Common Talent\] - Posture damage is reduced by 15% when wielding a spear and standing still. (+2 Passive Agility)
-    -   Stacks with shield.
     -   Was moved to Lancer class, used to be in Legion Shock Trooper.
     -   Prerequisites: 15 Fortitude, Using a spear
 
@@ -2991,12 +2990,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Emergency Repairs \[Common Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.
     -   Your repairs scale with the health of the ship by \[needs testing\].
-        -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
+    -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
 
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
     -   Repairing restores 400 HP instead of 250 HP.
-        -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
+    -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
 
 ### Shock Therapy
@@ -4214,10 +4213,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
     -   This works similarly to Collapsed Lung.
-    -   Has the same effect as a guard break.
-    -   Procs on parry, block and dodge.
-    -   Has no cooldown.
-    -   Duration is 2 seconds + 0.015 seconds per point of strength.
+    -   Procs through parry, block and dodge with no cooldown.
+    -   Duration is 2 seconds + 0.015 seconds per point of Strength, lasting 3.5 seconds at 100 Strength.
     -   Wrath Gems last 9 seconds with no visual indication.
 
 -   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your ardour screams now break campfires around you.

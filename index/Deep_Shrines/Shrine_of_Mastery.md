@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 165585
+revid: 169435
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -45,6 +45,7 @@ Shrine of Mastery has two different effects.
     -   This idea stemmed from the previously mentioned Talent investment exception.
 -   Unlike with Talents, you can re-arrange stats used to acquire almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat requirements while keeping your Oath.
     -   The only exception to this is [Arcwarder](../Oath%253A_Arcwarder.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
+        -   This can be avoided if you shrine of order to 20 thundercall and flamecharm and do not put any points into either.
     -   The theorized reason for why this works at all is that the Oath trainers do a "check" to see if you meet the requirements to obtain their Oath, but the Oath Talents themselves have no stat requirement attached to them.
     -   When this was brought to the attention of Arch\_Mage, one of Deepwoken's developers, he said "3 points aint the end of the world."
 -   If you no longer meet the requirements for your weapon after using Shrine of Mastery, you will keep it equipped, but you'll receive a penalty, lowering your weapon's damage. This debuff scales on how far below your weapon's requirements you are, up to a maximum of -25% base damage, though the math behind it makes it only really effective on lower requirement weapons.

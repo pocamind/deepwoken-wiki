@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 167659
+revid: 169396
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -21,12 +21,14 @@ categories: [Items, Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:The Depths (First Layer), Fishing, War Mode, Primadon |
+| obtainment | Chests from:, The Depths (First Layer), Fishing, War Mode, Primadon |
 | description | ... |
 
 ## Description
 
-The Providence Coat is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5 Health, 2 Pips, and the [Talent](Talents.md) Braced Collapse, which reduces the damage of the next attack that hits you after being block broken. It is commonly found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md))
+The Providence Coat is an [Equipment](Equipment.md) item under the "Arms" category.
+
+The [Braced Collapse](Talents.md#braced-collapse) Talent reduces the damage taken by attacks after being guard broken.
 
 ## Trivia
 

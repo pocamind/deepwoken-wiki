@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 152007
+revid: 169410
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -26,9 +26,11 @@ categories: [Items, Equipment, Arms]
 
 ## Description
 
-The Royal Pathfinder is an [Equipment](Equipment.md) item under the "Arms" category. Equipping under grants you 6 Health, 3 Pips, and the [Talent](Talents.md) Ready or Not, which cuts the damage of the first attack that hits you while out of combat in half. It is rarely found in chests from [Starswept Valley](The_Starswept_Valley.md) and [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Royal Pathfinder is an [Equipment](Equipment.md) item under the "Arms" category.
+
+The [Ready or Not](Talents.md#ready-or-not) Talent halves damage taken by the first attack that hits you while you're out of combat.
 
 ## Trivia
 
--   It has gained a reputation as one of the most hated equipment items in the game, due to it being associated with toxic players.
+-   It has gained a reputation as one of the most hated equipment items in the game, due to it being associated with toxic players during Verse 1.
     -   This association grew so great that [Zana](Zana.md), a parody of those players, wears it.

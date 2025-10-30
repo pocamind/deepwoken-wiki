@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 163530
+revid: 169389
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Garbs]
@@ -28,9 +28,11 @@ categories: [Items, Equipment, Arms, Garbs]
 
 ## Description
 
-The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6% Stealth, 2 Pips (One guaranteed legendary Pip), and the Talent _[Kick Off](Talents.md#acrobat)_, which increases the upward distance wall jumps send you, as well as giving a speed boost after jumping over a wall. It is commonly found in chests from the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Miner's Landing](<Miner's_Landing.md>).
+The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" category.
+
+The [Kick Off](Talents.md#kick-off) Talent grants various bonuses to climbing and parkour.
 
 ## Trivia
 
--   -   The Mercenary's Garb drops in bizarrely few places compared to the Boots.
+-   The Mercenary's Garb drops in bizarrely few places compared to the Boots.
 -   Has a cosmetic [Repeater](Repeater.md).

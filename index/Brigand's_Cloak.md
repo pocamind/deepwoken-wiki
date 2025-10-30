@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 155597
+revid: 169339
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -23,14 +23,13 @@ categories: [Items, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merchant Ships, Duke Erisia, Primadon, Lodestar, Summer Isle, Scyphozia, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Merchant Ships, Duke Erisia, Primadon, Lodestar, Summer Isle, First Layer, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description
 
-The Brigand's Cloak is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 3 Health and 1 Pip. It is commonly found in chests from [Summer Isle](Summer_Isle.md), [Scyphozia](First_Layer.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Duke Erisia](Duke_Ishamon_Erisia.md), but can also be found rarely in Sea Event chests.
+The Brigand's Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
 ## Trivia
 
--   The Brigand's Cloak is part of the “Brigand's” set; with the only other piece being the [Brigand's Bicorn](<Brigand's_Bicorn.md>).
 -   Worn by [Kennith](Kennith.md).

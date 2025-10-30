@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 155593
+revid: 169335
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -23,12 +23,12 @@ categories: [Items, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Maestro Evengarde Rest, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Other sources:, Rare drop from Blacksteel Pirates |
+| obtainment | Chests from:, Erisia, Maestro Evengarde Rest, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Other sources:, Uncommon drop from Blacksteel Pirates and Blacksteel Pirate Captains |
 | description | ... |
 
 ## Description
 
-Blacksteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you 3 Health, 1 Posture, and 3 Pips. They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained as a rare drop from [Blacksteel Pirates](Blacksteel_Pirate.md).
+Blacksteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained as an uncommon drop from [Blacksteel Pirates](Blacksteel_Pirate.md) and [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md).
 
 ## Trivia
 

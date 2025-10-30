@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 156742
+revid: 169419
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Dusters]
@@ -28,6 +28,6 @@ categories: [Items, Equipment, Arms, Dusters]
 
 ## Description
 
-The Star Duster is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5 Health, 1 Posture, +2 Rare pips, +1 Legendary Pip, and the [Star Duster](Talents.md#equipment-talents) Talent, Which decreases the damage from airborne enemies by 30%.
+The Star Duster is an [Equipment](Equipment.md) item under the "Arms" category.
 
-It is rarely found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md)), [Primadon](Primadon,_Titan_of_the_East.md), and [Fishing](Fishing.md). At [Starswept Valley](The_Starswept_Valley.md), the Star Duster drops more relatively frequently in the chests the [Threshers](Thresher.md) drop.
+The [Star Duster](Talents.md#star-duster) Talent decreases the damage from airborne enemies by 30%.

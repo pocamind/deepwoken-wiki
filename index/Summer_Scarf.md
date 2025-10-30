@@ -1,6 +1,6 @@
 ---
 title: Summer Scarf
-revid: 153950
+revid: 169421
 source: https://deepwoken.fandom.com/wiki/Summer_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Scarves, The Summer Company, World Event]
@@ -21,9 +21,9 @@ categories: [Items, Equipment, Arms, Scarves, The Summer Company, World Event]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Default, ThreadworkSaramaed Hollow, Interluminary Parasol ChestsInterluminary Parasol Chests |
+| obtainment | Saramaed Hollow (Summer), Interluminary Parasol (Both) |
 | description | A scarf adorned by the esteemed gunsmiths of the Summer Company- smells like gunpowder... |
 
 ## Description
 
-The Summer Scarf is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 5 Health. It is found in chests from [Interluminary Parasol](Interluminary_Parasol.md), and rarely, from [Saramaed Hollow](Saramaed_Hollow.md) unlike the Threadwork variant that can only be found from in chests from the [Interluminary Parasol](Interluminary_Parasol.md).
+The Summer Scarf is an animated [Equipment](Equipment.md) item under the Arms category. It is found in chests from [Interluminary Parasol](Interluminary_Parasol.md), and rarely, from [Saramaed Hollow](Saramaed_Hollow.md), unlike the Threadwork variant that can only be found from in chests from the [Interluminary Parasol](Interluminary_Parasol.md).

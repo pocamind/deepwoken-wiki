@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 163470
+revid: 169426
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, World Event]
@@ -30,11 +30,11 @@ categories: [Items, Equipment, Arms, World Event]
 
 The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md).
 
-It has the innate Talent [Overflowing Dam](Talents.md#adept-caster), causing your M1 attacks to deal 10% more damage while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
+It has the innate Talent [Overflowing Dam](Talents.md#overflowing-dam), causing your M1 attacks to deal 10% more damage while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
 
 ## Trivia
 
--   The Talent [Overflowing Dam](Talents.md#adept-caster) would usually require 40 Intelligence, but this equipment only requires 5 Intelligence, enabling you to potentially save 35 investment points.
+-   The Talent [Overflowing Dam](Talents.md#overflowing-dam) would usually require 40 Intelligence, but this equipment only requires 5 Intelligence, enabling you to potentially save 35 investment points.
     -   However, due to Overflowing Dam having nearly half its effectiveness at 5 Intelligence, this equipment Talent is overall lackluster outside of saving a Talent slot.
 -   There _used_ to be a bug where you be able to equip The Warlock's Mantle without the 5 Intelligence requirement, this of course was patched.
     -   If you are using [Khan](Khan.md) this is still possible however. Equip the Mantle with 2 or 3 Intelligence, then use the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to lower your Intelligence to 0. Even with Overflowing Dam scaling, you don't lose that much by doing this; +5.625% damage -> +5% damage isn't a large difference.

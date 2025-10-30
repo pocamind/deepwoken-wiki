@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 169319
+revid: 169418
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -32,11 +32,11 @@ Variants: [Specialist Helmet](Specialist_Helmet.md)
 
 ## Description
 
-The Specialist Plate is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Specialist Set. The Specialist Plate is a black and gold coat with a full plate chest piece and fur shoulders. When worn, this grants +5 Health, +2 Rare Pips, and the [Stormcall](Talents.md#equipmebnt-talents) Talent.
+The Specialist Plate is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Specialist Set. The Specialist Plate is a black and gold coat with a full plate chest piece and fur shoulders.
 
-_Stormcall_ - Any time you land a Storm Strike on your opponent, apply Stormcall Shock, damaging them whenever they attempt to cast a Mantra. This requires the helmet/set Talent to activate due to requiring a Storm Strike.
+The [Stormcall](Talents.md#stormcall) Talent Applies the [Stormcall Shock](Status_Effects.md#stormcall-shock) status effect on opponents when you land a Storm Strike from your other Specialist equipment Talents. Stormcall Shock deals 15 Galebreathe and Thundercall damage and applies [Shock](Status_Effects.md#shock) for 1 second and [Winded](Status_Effects.md#winded) for 2 seconds if your opponent attempts to cast a Mantra.
 
-Stormcall Shock has a 0.03 \* (Thundercall + Galebreathe investment) second duration, capping at 6 seconds with 100 investment in each Attunement. If you attempt to cast a Mantra while under Stormcall Shock, you will take 15 Thundercall and Galebreathe damage, be [Shocked](Status_Effects.md#shock) for 1 second, and be [Winded](Status_Effects.md#winded) for 2 seconds. This shock is replaced with a [Surge Rod](Thundercall.md#unstable-capacitor) if the caster has Surge Path.
+Stormcall Shock has a 0.03 \* (Thundercall + Galebreathe investment) second duration, capping at 6 seconds with 100 investment in each Attunement. The shock is replaced with a [Surge Rod](Thundercall.md#unstable-capacitor) if the caster has Surge Path.
 
 ## Set Talent
 

@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Robes
-revid: 162990
+revid: 169427
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -27,6 +27,6 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Western Outlaw Robes is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Western Outlaw Set. The Western Outlaw Robes are green and yellow wristbands that originated from the Western Luminant. When worn, this grants +3 Posture, +1 Rare Pip, and +1 Legendary Pip.
+The Western Outlaw Robes is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Western Outlaw Set. The Western Outlaw Robes are green and yellow wristbands that originated from the Western Luminant.
 
 This item is used to craft the [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

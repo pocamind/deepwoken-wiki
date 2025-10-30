@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 169279
+revid: 169363
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, The Divers]
@@ -25,13 +25,11 @@ categories: [Equipment, Head, Helmets, The Divers]
 | obtainment | Diver's Faction Job "The Fisherman" Guaranteed Drop |
 | description | ... |
 
-Grand Fisher
-
 ## Description
 
 The Grand Fisher Helm, along with the [Grand Fisher Plate](Grand_Fisher_Plate.md), are apart of the Grand Fisher Set.
 
-The _[Coldseep Reactor](Talents.md#coldseep-reactor)_ Talent grants full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.
+The [Coldseep Reactor](Talents.md#coldseep-reactor) Talent grants full immunity to the parasites of the [Eternal Gale](Second_Layer.md) without any downside.
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 161819
+revid: 169348
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -28,7 +28,9 @@ categories: [Items, Equipment, Arms, Cloaks]
 
 ## Description
 
-The Deepwoken Cloak is an [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 5 Health, 1 Posture, 3 Rare Pips, 1 Legendary Pip, and the [Talent](Talents.md) Blade Dancer, which removes your roll cooldown upon hitting an enemy.
+The Deepwoken Cloak is an [Equipment](Equipment.md) item under the Arms category.
+
+[Blade Dancer](Talents.md#blade-dancer) resets your roll cooldown upon landing an M1.
 
 ## Trivia
 

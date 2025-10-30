@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 165974
+revid: 169336
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -28,7 +28,7 @@ categories: [Items, Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Bluesteel Pauldrons are an [Equipment](Equipment.md) item under the item under the "Arms" category. Equipping them grants 5 Health +2 Rare Pips.
+The Bluesteel Pauldrons are an [Equipment](Equipment.md) item under the item under the "Arms" category.
 
 These are used to craft the [Bluestone Pauldrons](Bluestone_Pauldrons.md).
 

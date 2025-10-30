@@ -1,6 +1,6 @@
 ---
 title: Leather Gloves
-revid: 162075
+revid: 169382
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -28,9 +28,9 @@ categories: [Items, Equipment, Arms, Gloves]
 
 ## Description
 
-The **Leather Gloves** are a common piece of equipment that can be found in [Erisia](Erisia.md). On equip, these grant 2 Health, 1 Posture, and 1 Common Pip.
+The **Leather Gloves** are a common piece of equipment that can be found in [Erisia](Erisia.md).
 
 ## Trivia
 
--   Leather Gloves are given in the [Tutorial](Tutorial.md) after an update which gave the [Vanguard Brace](Vanguard_Brace.md) a Power requirement.
+-   The [Vanguard Brace](Vanguard_Brace.md) used to be given in the [Tutorial](Tutorial.md) instead, until the October 11th, 2024 update which gave the Vanguard Brace a Power requirement. Naturally, this softlocked the Tutorial and forced the developers to change the equipment item given.
 -   Other Gloves: [Glassdancer Wraps](Glassdancer_Wraps.md), [Smith's Gloves](<Smith's_Gloves.md>), [Moonseye Gauntlets](Moonseye_Gauntlets.md), [Ignition Gauntlets](Ignition_Gauntlets.md)

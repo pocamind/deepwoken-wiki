@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 155584
+revid: 169332
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment, Items]
@@ -28,7 +28,7 @@ categories: [Arms, Equipment, Items]
 
 ## Description
 
-The **Bastions of Enmity** is a Unique [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants +10 Health +2 Posture and 3 Legendary Pips. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Bastions of Enmity** is a Unique [Equipment](Equipment.md) item under the "Arms" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 169139
+revid: 169403
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-Ships and Sailing are a core gameplay mechanic introduced in _Deepwoken._ The player is introduced to sailing on their first playthrough.
+Ships and Sailing are a core gameplay mechanic introduced in _Deepwoken._ The player is introduced to sailing on their first playthrough and will automatically spawn in with a Dinghy.
 
 There are currently 6 ships the player can use, those ships being:
 
@@ -26,23 +26,29 @@ Once a ship has been purchased, the player can deploy it through a Shipwright Me
 
 The player can only have a maximum of 9 ships.
 
+Sails on the ship will default to red and its flag black, but being in a [Guild](Guilds.md) will change the sails and flag to bear the colors and emblem of the Guild. With an Ironclad, the side lining will instead change to the background color of the Guild.
+
 ## Usage
 
 ### Sailing
 
-While sailing, the player can angle their sails by pressing Z or C towards a certain direction. If their sails are facing in the same direction as the wind, their ship will gain a speed boost.
+To begin sailing, the player will have to press W to drop the sails and move forward. To move backwards and raise a boats sails, press S.
 
-As you sail farther from land, your boat will gradually increase in speed. The further you are from land, the faster you sail.
+By pressing A or D a boat will quickly turn towards left or right, indicated by a small dial. Letting go of the input, the boat will quickly readjust and continue to go straight. If the player is turning the boat while reversing, the direction will be inverted. This happens since the direction the playet attempts to sail with A or D is proportional to the rudder, not the direction wish to steered in.
+
+While sailing, the player can angle their sails by pressing Z or C towards a certain direction. If their sails are facing in the same direction as the wind, their ship will gain a speed boost. Sailing further from land will gradually increase the speed of a boat, and being closer vice-versa.
+
+When a boat is not in control by any player it will quickly decelerate and come to a stop.
 
 ### Cannons
 
 Starting with the Schooner and above, ships will contain Cannons. Cannons can be operated by pressing E. Clicking will cause the Cannon to aim towards a target and shoot with no endlag. Cannon damage will scale with the player's Power and deal double damage in PvE.
 
-If someone is controlling the wheel of the ship, they can fire Cannons without being stationed near one by clicking where they want to fire. In return, this will increase the cooldown by a certain amount.
+If someone is controlling the wheel of the ship, they can fire Cannons without being stationed near one by clicking where they want to fire. Doing this will shoot from the cannon that is best able to shoot from the point clicked. In return, this will increase the cooldown by a certain amount.
 
 Cannons can have some weird aim tracing, sometimes firing past hitboxes and firing at the sea instead.
 
-Cannons have a max distance that they are able to be fired
+Cannons have a max distance that they are able to be fired.
 
 ### Ship Health
 
@@ -50,9 +56,11 @@ Ships contain health that can be damaged by a number of environmental factors, s
 
 If a ship reaches 50% health, the player can no longer respawn on that ship and will move slower. This is signified by smoke particles coming off of the ship.
 
+[Celtor](Celtor.md)'s Aspect passive increases the base health of a boat by 10%.
+
 ### Repairing and Selling
 
-Ships can be repaired with the [Repair Hammer](Repair_Hammer.md), which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. Repair Hammers will heal ??? health upon being used, but each usage will consume Wood.  
+Ships can be repaired with the [Repair Hammer](Repair_Hammer.md), which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. Repair Hammers will heal 50 health to a boat upon being used, but each usage will consume Wood.  
 Using the [Repair Hammer](Repair_Hammer.md) 20 times will grant the Talent [Emergency Repairs](Talents.md#emergency-repairs) (+2 Carry Load).  
 Using the [Repair Hammer](Repair_Hammer.md) 50 times will grant the Talent [Spare Nails](Talents.md#spare-nails) (+2 Carry Load).  
 Although, wearing the [Brigand's Bicorn](<Brigand's_Bicorn.md>) also grants you these 2 Talents, therefore assisting you in repairing the ship to max efficiency without the need to fulfill the Talents' prerequisites. Ships can also be repaired by paying [Notes](Notes.md) at Shipwights or Posts.
@@ -63,7 +71,7 @@ Ships can be sold for half of their original price, and the price will be lower 
 
 ## List of Ships
 
-**(The square brackets refer to [Celtor](Celtor.md)'s Aspect trait)**
+**(The square brackets refer to [Celtor](Celtor.md)'s Aspect passive)**
 
 | Image | Ship | Details |
 | --- | --- | --- |
@@ -137,8 +145,6 @@ Ships can be sold for half of their original price, and the price will be lower 
 ## Trivia
 
 -   [Food](Food.md) is unable to be cooked using the ship lanterns, nor can [Campfire](Campfire_Pit.md) be placed on ships.
--   By default, a ship's sails will be red and the flag will be black
--   If the player is in a [Guild](Guilds.md), their ship will bear their emblem on its sails and flag.
 -   It is recommended to buy a ship like the Merchant Schooner, due to being the earliest with a Lantern and being cheap to repair if broken.
 -   Ironclads are always travelling at max speed, since they don't use flag sails to take advantage of the wind.
 -   Cannons are viable in combat, whether it be for PVP or PVE.

@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 153762
+revid: 169350
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, The Divers]
@@ -26,7 +26,11 @@ categories: [Items, Equipment, Arms, Plates, The Divers]
 
 ## Description
 
-The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 1 Posture, 3 Legendary Pips, and the [Talent](Talents.md) 'Conquer Your Fears', which recovers your sanity after killing depths-exclusive Monsters, and allows you to regain sanity when allies grip enemies near you. It can only be obtained by surviving [Hell Mode](Hell_Mode.md) (Given to your inventory just like [Ardour Manifestation](Ardour_Manifestation.md)). Ringing the [Hell Mode](Hell_Mode.md) bell, and staying alive until 100+ mobs are defeated, is guaranteed to grant you it.
+The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category.
+
+[Conquer Your Fears](Talents.md#conquer-your-fears) recovers your sanity when you kill depths Monsters and additionally grants sanity restoration when allies grip enemies near you.
+
+The Diver's Light Plate can only be obtained by surviving [Hell Mode](Hell_Mode.md) (Given to your inventory just like [Ardour Manifestation](Ardour_Manifestation.md)). Ringing the [Hell Mode](Hell_Mode.md) bell, and staying alive until 100+ mobs are defeated, is guaranteed to grant you it.
 
 ## Trivia
 

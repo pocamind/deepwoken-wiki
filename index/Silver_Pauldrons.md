@@ -1,6 +1,6 @@
 ---
 title: Silver Pauldrons
-revid: 160586
+revid: 169416
 source: https://deepwoken.fandom.com/wiki/Silver_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -28,4 +28,4 @@ categories: [Items, Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Silver Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you 3 Health and 2 Pips.
+The Silver Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.

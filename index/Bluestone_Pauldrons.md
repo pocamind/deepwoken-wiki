@@ -1,6 +1,6 @@
 ---
 title: Bluestone Pauldrons
-revid: 168743
+revid: 169337
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons, Items]
@@ -30,15 +30,15 @@ Bluestone Set
 
 ## Description
 
-The Bluestone Pauldrons are an **unenchantable** "arms" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a set of bulky blue and black pauldrons. When worn, these grant +5 Health, +2 Rare Pip, and the [Ether Emergency](Talents.md#equipment-talents) Talent.
+The Bluestone Pauldrons are an **unenchantable** "arms" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a set of bulky blue and black pauldrons.
 
-The _Ether Emergency_ Talent grants you a flat amount of health when hit while below 25% health in exchange for not being able to cast Mantras for a short duration. The amount of health restored is 15% of your Maximum Ether. This has a 5 minute cooldown.
+The [Ether Emergency](Talents.md#ether-emergency) Talent grants you a flat amount of health when hit while below 25% health in exchange for not being able to cast Mantras for a short duration. The amount of health restored is 15% of your Maximum Ether. This has a 5 minute cooldown.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Etherguard](Talents.md#set-talents) - [Warped Blue Gems](Warped_Blue_Gem.md) now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
+Set Talent: [Etherguard](Talents.md#etherguard) - [Warped Blue Gems](Warped_Blue_Gem.md) now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
 
 ## Obtainment
 

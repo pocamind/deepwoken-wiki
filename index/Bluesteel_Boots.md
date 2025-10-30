@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 168284
+revid: 169407
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -28,7 +28,7 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-The Bluesteel Boots are an [Equipment](Equipment.md) item under the "Leg" category. When worn, these grant +3 Health and +2 Rare Pips.
+The Bluesteel Boots are an [Equipment](Equipment.md) item under the "Leg" category.
 
 These are used to craft the [Bluestone Boots](Bluestone_Boots.md).
 

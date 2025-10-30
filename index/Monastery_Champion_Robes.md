@@ -1,6 +1,6 @@
 ---
 title: Monastery Champion Robes
-revid: 155643
+revid: 169392
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms]
@@ -28,9 +28,9 @@ categories: [Items, Equipment, Arms]
 
 ## Description
 
-The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 8 Health, 2 Legendary Pips, 1 Rare Pip and the exclusive [Talent](Talents.md#equipment-talents) "Temple Guard". It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
+The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
 
-**Temple Guard** grants 90% damage reduction to any attack that cancels your critical attack within the first 0.3s of its animation. This does not prevent your critical attack from being canceled, and does not work if the attack doesn't cancel your critical (i.e. hyper armor).
+[Temple Guard](Talents.md#temple-guard) grants 90% damage reduction to any attack that cancels your critical attack within the first 0.3s of its animation. This does not prevent your critical attack from being canceled, and does not work if the attack doesn't cancel your critical (i.e. hyper armor).
 
 ## Trivia
 

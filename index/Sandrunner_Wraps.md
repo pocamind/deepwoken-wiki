@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 155710
+revid: 169414
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Wraps]
@@ -28,4 +28,6 @@ categories: [Items, Equipment, Arms, Wraps]
 
 ## Description
 
-Sandrunner Wraps are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you +6 Health, 4% Stealth, 8% Fire Armor, the "Kick off" Talent, and 2 Pips. They are commonly found in chests in [Miner's Landing](<Miner's_Landing.md>).
+Sandrunner Wraps are an [Equipment](Equipment.md) item under the "Arms" category. They are commonly found in chests in [Miner's Landing](<Miner's_Landing.md>).
+
+The [Kick Off](Talents.md#kick-off) Talent grants various bonuses to climbing and parkour.

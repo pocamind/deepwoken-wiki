@@ -1,6 +1,6 @@
 ---
 title: Vanguard Brace
-revid: 155719
+revid: 169424
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Braces]
@@ -28,8 +28,10 @@ categories: [Items, Equipment, Arms, Braces]
 
 ## Description
 
-The Vanguard Brace is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 3 Health, 1 Posture, +3 Rare Pips, and the [Talent](Talents.md) Replenishing Knockout, which increases the amount of health and posture gained from downing enemies. It is commonly found in chests from [Erisia](Erisia.md).
+The Vanguard Brace is an [Equipment](Equipment.md) item under the "Arms" category.
+
+The [Replenishing Knockout](Talents.md#replenishing-knockout) Talent increases the amount of health and posture gained from downing enemies.
 
 ## Trivia
 
--   These used to be given to the player during the [Tutorial](Tutorial.md) by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), however during the October 11th, 2024 update, they were given a level requirement and briefly softlocked players from completing the Tutorial as they couldn't equip the armor piece. Cap'n Orlandeau now gives [Leather Gloves](Leather_Gloves.md) during the Tutorial instead.
+-   This used to be given to the player during the [Tutorial](Tutorial.md) by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), however during the October 11th, 2024 update, it was given a level requirement and briefly softlocked players from completing the Tutorial, as they couldn't equip the armor piece. Cap'n Orlandeau now gives [Leather Gloves](Leather_Gloves.md) during the Tutorial instead.

@@ -1,6 +1,6 @@
 ---
 title: Iron Boots
-revid: 167806
+revid: 169376
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -26,10 +26,6 @@ categories: [Items, Equipment, Legs, Boots]
 | obtainment | Chests from:, Layer One |
 | description | ... |
 
-Iron
-
-Variants: [Iron Pauldrons](Iron_Pauldrons.md)
-
 ## Description
 
-The Iron Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Iron Set. When worn, this grants +2 Rare Pips.
+The Iron Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Iron Set.

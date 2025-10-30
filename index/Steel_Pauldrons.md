@@ -1,6 +1,6 @@
 ---
 title: Steel Pauldrons
-revid: 151946
+revid: 169420
 source: https://deepwoken.fandom.com/wiki/Steel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Pauldrons]
@@ -26,4 +26,4 @@ categories: [Items, Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Steel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you 2 Health and 1 Pip. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) ([First Layer](First_Layer.md)), and [Erisia](Erisia.md).
+The Steel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
