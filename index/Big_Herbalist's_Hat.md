@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 169033
+revid: 169266
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -27,6 +27,8 @@ categories: [Equipment, Head, Hats]
 ## Description
 
 The Big Herbalist's Hat is an [Equipment](Equipment.md) item under the "Head" category.
+
+The [Iron Gut](Talents.md#iron-gut) Talent provides increased nutrition from consuming plant-based [food](Food.md) items. The [Iron Gut](Talents.md#iron-gut) Talent lowers the chance that you vomit when you consume food.
 
 ## Notes
 

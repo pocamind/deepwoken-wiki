@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 162243
+revid: 169305
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Hats, Items]
 
 ## Description
 
-The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category. It's a wide-brimmed cowboy hat typically made of felt or straw. Equipping this item will give you +2 posture and 1 rare pip.
+The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category. It's a wide-brimmed cowboy hat typically made of felt or straw.
 
 ## Trivia
 

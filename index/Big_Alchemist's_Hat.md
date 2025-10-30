@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 169032
+revid: 169265
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -27,6 +27,8 @@ categories: [Equipment, Head, Hats, Items]
 ## Description
 
 The Big Alchemist's Hat is an [Equipment](Equipment.md) under the "Head" category.
+
+The [Apothecary](Talents.md#apothecary) Talent provides 125% [Potion](Alchemy.md) potency.
 
 ## Trivia
 

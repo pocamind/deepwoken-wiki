@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 152433
+revid: 169308
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -26,4 +26,4 @@ categories: [Equipment, Head, Hats, Items]
 
 ## Description
 
-The Vagabond's Bicorn is an Equipment in the "_Head_" category. Equipping this item will give you +4 health and 1 Uncommon Pip.
+The Vagabond's Bicorn is an Equipment in the "_Head_" category.

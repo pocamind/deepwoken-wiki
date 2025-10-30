@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 169050
+revid: 169276
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,9 +28,9 @@ categories: [Equipment, Head, Helmets]
 
 The **Deepscorn Casque** is a Unique [Equipment](Equipment.md) Item found under the "_Head"_ category. If you entered [The Understrand](The_Understrand.md) through [Silhuett](Silhuett.md)'s event, this item along with the [Deepspindle](Deepspindle.md) and [Darkened Bastion](Darkened_Bastion.md) will be guaranteed on the first clear.
 
-Grants the user the "Already Dead" Unique Equipment [Talent](Talents.md#equipment-talents), which reduces self-damaging moves like Static Withdraw's Jumpstart buff and the [Deepspindle](Deepspindle.md) running critical. This notably works on [Linkstrider's](Oath%253A_Linkstrider.md) Symbiotic Sustain, halving received damage while still healing allies normally.
+Grants the user the "[Already Dead](Talents.md#already-dead)" Unique Equipment Talent, which reduces the self damage taken from certain abilities. These include: [Static Withdraw](Talents.md#static-withdraw)'s [Jumpstart](Talents.md#jumpstart) buff, [Flame Within](Talents.md#flame-within)'s self damage _on activation_, [Shadow Travel](Talents.md#shadow-travel), [Shade Devour](Shadowcast.md#shade-devour), and [Rush Hour](Talents.md#rush-hour). Additionally this entirely removes the self damage taken by the [Deepspindle](Deepspindle.md) running critical.
 
-This Talent also reduces the self damage/Wither application from the Poison (HP drain) and Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downsides. It also halves the damage cost from Shadow Travel.
+This Talent also reduces the self damage/Wither application from the Poison (HP drain) and Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downsides.
 
 ## Trivia
 

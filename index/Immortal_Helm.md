@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 155887
+revid: 169285
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -26,7 +26,9 @@ categories: [Equipment, Head, Helmets, Items]
 
 ## Description
 
-The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants the wearer randomized stat boosts based on the pips rolled at the item's creation and the _Immortality_ [Talent](Talents.md), which prevents the wearer from being knocked down for two seconds at 1% HP. The effect only lasts for one hit or until the duration expires.
+The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category.
+
+The _[Immortality](Talents.md#immortality)_ Talent prevents the wearer from being knocked down upon taking lethal damage for two seconds while at 1% HP. The effect only lasts for one hit or until the duration expires.
 
 The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Guardian.md) and cannot drop from a chest.
 
@@ -36,5 +38,5 @@ The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Gua
     -   The Equipment Talent, _Immortality_, also references the character.
 -   When held, the light deactivates, showing empty space rather than some sort of projector.
 -   Immortality can even protect the user from moves that instantkill instead of knocking such as the [Lionfish's](Lionfish.md) Cero.
--   The only currently known attack that can bypass Immortality's invincibility is the [Intelligence](Attunement-less.md#intelligence-mantras) [Mantra](Mantras.md) **Prediction**, which will knock out the wearer as normal if triggered.
--   Fall damage with the High Velocity [Echo Modifier](Echoes.md#upgrades-and-modifiers) will prevent Immortality from activating.
+-   The only currently known attack that can bypass Immortality's invincibility is the [Prediction](Attunement-less.md#prediction) Mantra, which will knock out the wearer as normal if triggered.
+-   Fall damage with the [High Velocity](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier will prevent Immortality from activating.

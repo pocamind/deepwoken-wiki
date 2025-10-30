@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 169045
+revid: 169270
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -26,13 +26,11 @@ categories: [Equipment, Head, Helmets]
 | obtainment | Chests from:, First Layer, Second Layer, Duke Ishamon Erisia, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Saramaed Hollow |
 | description | ... |
 
-Celtor Commander
-
 ## Description
 
 The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Celtor Commander Set.
 
-The _Grasp on Reality_ Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.
+The _[Grasp on Reality](Talents.md#grasp-on-reality)_ Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.
 
 ## Trivia
 

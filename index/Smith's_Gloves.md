@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 168204
+revid: 169302
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -26,13 +26,9 @@ categories: [Items, Equipment, Arms, Gloves]
 | obtainment | Chests from:, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Lodestar, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity |
 | description | ... |
 
-Smith
-
-Variants: [Smith's Bandana](<Smith's_Bandana.md>)
-
 ## Description
 
-Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Smith Set. When worn, this grants +5 Health and +2 Rare Pips.
+Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Smith Set.
 
 ## Trivia
 

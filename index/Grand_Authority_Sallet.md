@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sallet
-revid: 169046
+revid: 169269
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 The Bulwark Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The _Strong Hold_ Talent reduces posture damage taken by 5% when above 33% health and two-handing a medium weapon.
+The _[Strong Hold](Talents.md#strong-hold)_ Talent reduces posture damage taken by 5% when above 33% health and two-handing a medium weapon.
 
 ## Trivia
 

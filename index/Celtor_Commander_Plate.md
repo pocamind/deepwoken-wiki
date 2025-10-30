@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 164897
+revid: 169271
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Plates, Lost Celtor]
@@ -26,15 +26,11 @@ categories: [Items, Equipment, Arms, Plates, Lost Celtor]
 | obtainment | Chests from:, Duke Erisia, The Depths, Maestro Evengarde Rest, Dread Serpent, Primadon, Lodestar, Miner's Landing, War Mode |
 | description | ... |
 
-Celtor Commander
-
-Variants: [Celtor Commander Helm](Celtor_Commander_Helm.md)
-
 ## Description
 
-The Celtor Commander Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Celtor Commander Set. When worn, this grants +8 Health, +2 Rare Pips, +1 Legendary Pip, and the [Breathing Exercise](Talents.md#bastion) Talent.
+The Celtor Commander Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Celtor Commander Set.
 
-The _Breathing Exercise_ Talent increases the speed sanity recovers once out of combat. This increases passive sanity regen by 50%.
+The _[Breathing Exercise](Talents.md#breathing-exercise)_ Talent increases the speed sanity recovers once out of combat. This increases passive sanity regen by 50%.
 
 ## Trivia
 

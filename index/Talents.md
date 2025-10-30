@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 169220
+revid: 169312
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -127,8 +127,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   Causes _**all**_ falls to be considered "shorter" by 10 studs, also reducing larger falls.
-    -   Increases climb distance by ~15% when off cooldown. (needs testing)
-    -   Slide jumping now also slightly increases climb distance. (needs testing)
+    -   Increases climb distance by ~15% when off cooldown.
+    -   Slide jumping now also slightly increases climb distance.
     -   Has a cooldown of 3 seconds.
     -   Prerequisites: 20 Agility
 
@@ -140,7 +140,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 10 Agility, 10 Strength
 
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
-    -   Approximate ~35% speed bonus. (Needs testing)
+    -   Approximate ~35% speed bonus.
         -   Procs all speed boost related talents. (ex. Speed Demon)
     -   Duration is visually represented by a red glow by the user's eyes.
     -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.
@@ -1660,7 +1660,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
 -   _Sin Stacker_ \[Rare Talent, Willpower Exclusive\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.
-    -   By landing additional basic attacks on an Anti-Healed target, you can increase the duration of your Anti-Heal.
+    -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
+        -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
+    -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
     -   Prerequisites: All the Dead Gods, 90 Willpower
 
 ### Human Architecture

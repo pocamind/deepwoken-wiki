@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 153038
+revid: 169309
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea, Items]
@@ -26,9 +26,9 @@ categories: [Equipment, Head, Hoods, Etrea, Items]
 
 ## Description
 
-The Vigil Hood is an Equipment item under the "_Head_" category. Equipping it grants 2 Rare Pips and 1 Legendary Pip.
+The Vigil Hood is an Equipment item under the "_Head_" category.
 
 ## Trivia
 
--   Although not the best for HP, this is one of the 3 best equipment headears for resistance stats. Alternatives include the [Deepwoken Hood](Deepwoken_Hood.md) and the [Tillian's Beret](<Tillian's_Beret.md>). Highest Potential Stats - Phys Armor: 14%, Elm Armor: 17% (w/ 10 health)
+-   Although not the best for HP, this is one of the 3 best equipment headears for resistance stats. Alternatives include the [Deepwoken Hood](Deepwoken_Hood.md). Highest Potential Stats - Phys Armor: 14%, Elm Armor: 17% (w/ 10 health).
 -   Placing on this item while you have your headgear hidden via the equipment ui apply only the mouth cover without the hood.

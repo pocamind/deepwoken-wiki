@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 168733
+revid: 169304
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -30,9 +30,9 @@ Specialist Set
 
 ## Description
 
-The Specialist Helmet is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet. When worn, this grants +8 Health, +1 Rare Pip, and the [Volt Draft](Talents.md#equipment-talents) Talent.
+The Specialist Helmet is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet.
 
-_Volt Draft_ allows your Inhale-enhanced basic attacks to strike your opponent with a Storm Strike. This has a 5 second duration after using Inhale with a 20 Second cooldown.
+[Volt Draft](Talents.md#volt-draft) allows your Inhale-enhanced basic attacks to strike your opponent with a Storm Strike. This has a 5 second duration after using Inhale with a 20 Second cooldown.
 
 These Storm Strikes deal 0.125 \* (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 in each Attunement.
 
@@ -40,7 +40,7 @@ These Storm Strikes deal 0.125 \* (Thundercall + Galebreathe investment) Thunder
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall Mantras.
+Set Talent: [Shock Trooper Specialist](Talents.md#shock-trooper-specialist) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall Mantras.
 
 This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal 15% more damage; this is not a damage modifier and is instead a base damage increase.
 

@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 169057
+revid: 169278
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -30,12 +30,12 @@ categories: [Equipment, Head, Helmets]
 
 The Gladiator Helmet is an [Equipment](Equipment.md) item under the "Head" category.
 
-It also grants the [Talent](Talents.md) Concussive Force: Enemies you knock remain downed longer than usual.
+It also grants the [Concussive Force](Talents.md#concussive-force) Talent, extending the knock duration on enemies.
 
 ## Trivia
 
--   Despite being uncommon tier, it is considered to be one of the best Head [Equipment](Equipment.md) piece due to having innate +2 Posture & the Concussive Force Talent. However, you can argue that the following Helmets: [Blacksteel Helm](Blacksteel_Helm.md), [Silver Knight's Helm](<Silver_Knight's_Helm.md>), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), and [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) are the best headpieces due to being the only ones that can reach 30 HP.
-    -   [Khan Helmet](Legion_Helmet.md) is similar to Gladiator Helmet, but it sacrifices Concucssive Force for +5 HP.
--   If you're looking for alternate options for Head [Equipment](Equipment.md), [Deepwoken Hood](Deepwoken_Hood.md) & [Vigil Hood](Vigil_Hood.md) both offer the best pips required to reach the highest amount of DVM/Phys Armor/Elem Armor/Mons Armor, but sacrifices any innate stats.
+-   Despite being uncommon tier, it is considered to be one of the best Head [Equipment](Equipment.md) piece due to having innate +2 Posture & the Concussive Force Talent. However, you can argue that other helmets may be better due to this having a lackluster maximum health in comparison.
+    -   [Khan Helmet](Legion_Helmet.md) is similar to Gladiator Helmet, but it sacrifices Concussive Force for +5 HP.
+-   If you're looking for alternate options for Head [Equipment](Equipment.md), [Deepwoken Hood](Deepwoken_Hood.md) & [Vigil Hood](Vigil_Hood.md) both offer the best pips required to reach the highest amount of Phys Armor/Elem Armor, but sacrifices any innate stats.
 -   Worn by one of the three [Sky Statues](Sky_Statue.md).
--   October 25th, 2024, the helmet was nerfed down to 5 HP from 10 HP.
+-   On October 25th, 2024, this helmet was nerfed down to 5 HP from 10 HP.

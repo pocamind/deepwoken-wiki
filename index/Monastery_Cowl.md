@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 164578
+revid: 169291
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -28,7 +28,9 @@ categories: [Equipment, Head, Cowls]
 
 ## Description
 
-The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 5% Stealth, 2 Rare Pips and the [Talent](Talents.md) "Blade Dancer", which removes your roll's cooldown upon landing an M1. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
+The Monastery Cowl is an [Equipment](Equipment.md) item under the "Head" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
+
+The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown upon landing an M1.
 
 ## Trivia
 

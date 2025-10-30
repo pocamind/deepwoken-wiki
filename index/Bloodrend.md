@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 167831
+revid: 169260
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -955,7 +955,7 @@ These are Talents found in "_Quack Doctor_" Category.
 
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.
 -   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Curse_of_the_No_Life_King.md) users and people with the [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
--   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#ironsinger), [Cauterized Wounds](Talents.md#flame-warden), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
+-   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#alloyblood), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
 -   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.
@@ -963,4 +963,4 @@ These are Talents found in "_Quack Doctor_" Category.
 -   **Bloodcurdle** is likely a reference to bloodbending from Avatar: The Last Airbender
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.
--   Vein Tendrils could be a reference to Spider-Man, from Marvel Comics.
+-   **Vein Tendrils** could be a reference to Spider-Man, from Marvel Comics.

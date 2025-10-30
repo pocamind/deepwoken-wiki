@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 168735
+revid: 169319
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -42,13 +42,13 @@ Stormcall Shock has a 0.03 \* (Thundercall + Galebreathe investment) second dura
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Shock Trooper Specialist](Talents.md#set-talents) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
+Set Talent: [Shock Trooper Specialist](Talents.md#shock-trooper-specialist) - Empower your Mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
 
 This turns your [Grand Javelin](Thundercall.md#grand-javelin), [Thunder Kick](Thundercall.md#thunder-kick), and [Electro Carve](Thundercall.md#electro-carve) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will also deal 15% more damage; this is not a damage modifier and is instead a base damage increase.
 
-Storm Strikes from the Set Talent deal 40 damage with no scaling. To proc them, you must meet a 300 accumulative damage threshold with your Galebreathe and Thundercall Mantras. This threshold is reduced by 1 for every Galebreathe and Thundercall investment you have, having a minimum threshold of 100 damage with 100 points invested into both Attunements. Damage modifiers do not count towards this threshold, but resistances do.
+Storm Strikes from the Set Talent deal 40 damage with no scaling and no cooldown. To proc them, you must meet a 300 accumulative damage threshold with your Galebreathe and Thundercall Mantras. This threshold is reduced by 1 for every Galebreathe and Thundercall investment you have, having a minimum threshold of 100 damage, with 100 points invested into both Attunements.
 
-Storm Strikes from this Talent have no cooldown, and procs on every hit in PvE due to PvE scaling. The Storm Strikes themselves only have 1.08x PvE scaling however.
+Damage modifiers and the PvE damage multiplier do not count towards this threshold, but resistances do.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 168232
+revid: 169320
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -10,7 +10,7 @@ categories: [Lore]
 
 ## Description
 
-The Moonseye is one of the two stars that orbits between Lumen and the Heavens - standing as Deepwoken's equivalent of the moon. Orbiting alongside the [Suncross](Suncross.md), the Moonseye is partly responsible for Deepwoken's day/night cycle. The Moonseye is a common symbol in Deepwoken. It is referenced in many pieces of armor, islands, and aspect descriptions. Items like the [Moonseye Tome](Moonseye_Tome.md), [Moonseye Scalpel](Moonseye_Scalpel.md), [Soulthorn](Soulthorn.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), the [Dawnwalker Oath](Oath%253A_Dawnwalker.md), [Moon's Eyrie](<Moon's_Eyrie.md>) and [The Entropy Catalyst](The_Entropy_Catalyst.md), all share the same importance with the Moonseye. It is also referenced in the [Capra](Capra.md) aspect in the Mark of Jurik, **the Moonseye**. Yun’Shul, through the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), even tells the unworthy that "the Moonseye converges with that below."
+The Moonseye is one of the two stars that orbits between the Surface and the Heavens - standing as Deepwoken's equivalent of the moon. Orbiting alongside the [Suncross](Suncross.md), the Moonseye is partly responsible for Deepwoken's day/night cycle. The Moonseye is a common symbol in Deepwoken. It is referenced in many pieces of armor, islands, and aspect descriptions. Items like the [Moonseye Tome](Moonseye_Tome.md), [Moonseye Scalpel](Moonseye_Scalpel.md), [Soulthorn](Soulthorn.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), the [Dawnwalker Oath](Oath%253A_Dawnwalker.md), [Moon's Eyrie](<Moon's_Eyrie.md>) and [The Entropy Catalyst](The_Entropy_Catalyst.md), all share the same importance with the Moonseye. It is also referenced in the [Capra](Capra.md) aspect in the Mark of Jurik, **the Moonseye**. Yun’Shul, through the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), even tells the unworthy that "the Moonseye converges with that below."
 
 It is always seen as a white circle, with two vertical points, and another circle within. The Moonseye itself can be seen at nighttime, essentially identical to the moon.
 
@@ -26,7 +26,13 @@ The Moonseye also has an abundant relation to [insanity](Insanity.md). This can 
 
 The Moonseye, physically, is most likely the Deepwoken equivalent of the moon, although it does produce its own light, according to the [Soothsayer](Soothsayer.md).
 
-A major bit of lore that can be inferred from the Moonseye related items is that the Moonseye used to be the afterlife before it was replaced by the Depths. Supposedly there is still a way to reach it through a “staircase” in the Voidsea according to the Tome. (Although it’s possible that the “Heaven” referred to in the Tome is the location named Heaven opposite to Lumen where the Celestials lived, it’s far more likely to be the Moonseye with the Tome being named after it, and the “Heaven” referred to can simply mean “afterlife” which the Moonseye is the afterlife)
+A major bit of lore that can be inferred from the Moonseye related items is that the Moonseye used to be the afterlife before it was replaced by The Depths, apparently, the Moonseye grants eternal rest to the souls inside it, and said souls are named the Last Dead, after the Tides however, the Drowning exists as an effect which drags souls to the Depths before they can ascend to the Moonseye, it is unknown why the Moonseye acts as the natural destination for souls they try to reach, but the Depths seems to have a strong pull thanks to the Drowned Gods which is stronger than the Moonseye’s Pull.
+
+The Celestials had siphoned souls out of the Moonseye (specifically Zhatarn, albeit possibly more) for power, causing said souls pain as they are ripped away from their eternal rest.
+
+Despite the Depths having a stronger pull on souls than the Moonseye, the Moonseye still seems to be stronger in its ability to protect the souls still inside it, as the Last Dead are protected from the Drowning, unless they are forcibly ripped out by interlopers to the Moonseye such as Celestials, at which point they will also drown, assuming their souls are freed from whatever object they are trapped in now.
+
+The Moonseye still has a noticeable effect on Souls even with the Depths pulling souls in, as souls seem to visibly try to move upward, as if the Moonseye is pulling, before they do get dragged down.
 
 ## Trivia
 

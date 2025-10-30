@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 169244
+revid: 169256
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -179,6 +179,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
 -   _Seems like a great deal, huh? But I'm NOT done yet!_
 -   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
+-   _That's \*gotta\* be one of a kind, right? And it could be yours!_
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
 -   _They don't make 'em like they used to anymore, you know?_
 -   _They say you should never look a gift horse in the mouth! ...Well, these aren't gift horses. Look all you want! Buy, even!_
@@ -374,8 +375,8 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
-    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
+    <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
+    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
     <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>.</li>
     <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>.</li>

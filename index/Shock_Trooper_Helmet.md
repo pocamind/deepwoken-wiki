@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Helmet
-revid: 162996
+revid: 169298
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -27,6 +27,6 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Shock Trooper Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet. When worn, this grants +8 Health and +1 Rare Pip.
+The Shock Trooper Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet.
 
 This item is used to craft the [Specialist Helmet](Specialist_Helmet.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

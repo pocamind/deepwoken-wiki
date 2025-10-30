@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 169039
+revid: 169268
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -28,14 +28,14 @@ categories: [Equipment, Head, Ornaments]
 
 The **Bloodforged Crown** is an [Equipment](Equipment.md) item under the "Head" category. It is found as an exceedingly rare (~0.5% per Chest) drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
+The [Cauterized Wounds](Talents.md#cauterized-wounds) Talent reduces blood bar damage taken from taking damage. It does not affect blood _drain_ effects such as [Bloodrend](Bloodrend.md).
+
 When equipped, even while its visibility is toggled off, it will play an animation of a red swirling particle around the wearer's head.
 
 ## Trivia
 
--   It is one of the only equipment piece in the game to offer a Talent that is usually exclusive to a specific attunement, i.e. [Flamecharm](Flamecharm.md).
+-   The Bloodforged Crown is one of very few equipment to provide an Attunement-based Talent ([Flamecharm](Flamecharm.md) in this case) without any stat requirements.
 -   This [Equipment](Equipment.md) piece shares the same innate stats as [Celtor Commander Helm](Celtor_Commander_Helm.md).
--   Goes great with [No Life King](Enchantments.md) builds, due to the fact that the innate Talent decreases blood loss, one of No Life King's greatest weaknesses.
-    -   Like [_**Alloyblood**_](Talents.md#ironsinger), this also negates the long-term combat risk of fighting against [Flareblood Kamas](Flareblood_Kamas.md), which Chaser also drops.
-    -   Be aware that NLK has heavily reduced effectiveness from both Cauterized Wounds and Alloyblood.
--   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after
-    -   Although changed to Mythic rarity, it doesn't make it rarer than when it was Legendary.
+-   Goes great with [Curse of the No Life King](Curse_of_the_No_Life_King.md) builds, due to the fact that the innate Talent decreases blood loss, one of No Life King's greatest weaknesses.
+    -   Be aware that NLK has heavily reduced effectiveness from both [Cauterized Wounds](Talents.md#cauterized-wounds) and [Alloyblood](Talents.md#alloyblood).
+-   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after items.

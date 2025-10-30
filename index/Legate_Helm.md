@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 153300
+revid: 169289
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -24,8 +24,6 @@ categories: [Equipment, Head, Helmets, Items]
 | obtainment | Chests from:, Duke Erisia, Deep Widow, Voidwalker Bounties, First Layer, LodestarFound from:, Artifact Turn-ins |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Legate Helm is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +5 health and +2 Posture, as well as extra randomized stats based on the amount of pips.
+The Legate Helm is an Equipment item in the "_Head_" category.

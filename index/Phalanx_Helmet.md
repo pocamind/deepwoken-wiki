@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 155646
+revid: 169293
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -28,4 +28,6 @@ categories: [Equipment, Head, Helmets, Items]
 
 ## Description
 
-The Phalanx Helmet is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you randomized stats based on the amount of pips.
+The Phalanx Helmet is an [Equipment](Equipment.md) item under the "Head" category.
+
+The [Precise Swing](Talents.md#precise-swing) Talent grants +25% chip damage to your next M1 after landing your critical attack. This is additive to your weapon's innate chip stat.

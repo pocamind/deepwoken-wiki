@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 163895
+revid: 169306
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats]
@@ -26,11 +26,11 @@ categories: [Equipment, World Event, Head, Hats]
 
 ## Description
 
-Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carnival_of_Hearts.md). Equipping the beret grants the user 3 HP, 10 Ether, +1 Legendary Pip, +2 Rare Pips and the Talent [Cap Artist](Talents.md#thief).
+Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carnival_of_Hearts.md).
 
-When pressing, while crouching, activate Cap Artist, ragdolling your character and putting yourself into a sleep-like state where you cannot move or use any abilities. Press, again to deactivate this ability. Cap Artist's hotkey can be changed in settings.
+The [Cap Artist](Talents.md#cap-artist) Talent allows you to press, while crouching to ragdoll your character and put yourself into a sleep-like state where you cannot move or use any abilities. Pressing, again will deactivate this ability. Cap Artist's hotkey can be changed in settings.
 
 ## Trivia
 
--   Worn by Tillian
+-   Worn by [Tillian](Tillian.md).
 -   Until 12/29/2024, the item cannot be sold due to a bug that made Unique rarity items unsellable.

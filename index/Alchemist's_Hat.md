@@ -1,6 +1,6 @@
 ---
 title: "Alchemist's Hat"
-revid: 169028
+revid: 169262
 source: https://deepwoken.fandom.com/wiki/Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -27,6 +27,8 @@ categories: [Equipment, Head, Hats, Items]
 ## Description
 
 The Alchemist's Hat is an [Equipment](Equipment.md) in the "_Head_" category.
+
+The [Apothecary](Talents.md#apothecary) Talent grants 125% [Potion](Alchemy.md) potency.
 
 ## Trivia
 

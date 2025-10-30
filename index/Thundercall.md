@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 169213
+revid: 169259
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1118,7 +1118,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   **Emotion Wave** is a direct reference to the [_**Ancient Dragons' Lightning Strike**_](<https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike>) incantation from [_Elden Ring_](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
 -   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement.
--   Before the Perfect Cast mechanic was removed, **Jolt Grab** and [Flame Grab](Flamecharm.md#flame-grab) were among very few abilities and the only Mantras to innately have a unique interaction with it. When Perfect Casted, **Jolt Grab**'s duration would be shortened and it had an "extinguish"-like VFX unique from the regular version. This shortened variant was unaffected by duration modifiers.
+-   Before the Perfect Cast mechanic was removed, **Jolt Grab** and [Flame Grab](Flamecharm.md#flame-grab) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, the duration of these Mantras would be shortened and capped, playing "extinguish"-like VFX unique from the regular version.
     -   A video summarizing this effect can be found [here](https://youtu.be/o3AJne5Y04U?si=Jzim_sMEg3q-qTkX).
 
 Virudhaka's Sword

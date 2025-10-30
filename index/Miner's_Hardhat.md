@@ -1,6 +1,6 @@
 ---
 title: "Miner's Hardhat"
-revid: 154698
+revid: 169290
 source: https://deepwoken.fandom.com/wiki/Miner's_Hardhat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Helmets, Items]
@@ -26,11 +26,12 @@ categories: [Equipment, Head, Hats, Helmets, Items]
 
 ## Description
 
-A helmet with a chance to be dropped by Mineskippers. This [equipment's](Equipment.md) Talents, Rock Blaster and Excavator, allow you to "Doubles your ore yields when mining." and "Chance to receive two sets of ore when mining," allowing for up to four ore to be extracted. You also mine things quicker.
+A helmet with a chance to be dropped by Mineskippers.
+
+[Rock Blaster](Talents.md#rock-blaster) doubles your ore yields when mining. [Excavator](Talents.md#excavator) grants a chance to receive two sets of ore when mining and increases your mining speed. This allows you time mine up to four ore at once.
 
 ## Trivia
 
 -   The helmet provides a small, yellow light source when worn.
     -   The light is switched off while it is held.
 -   The first and currently only piece of equipment to give Talents related to mining.
--   Cannot be enchanted.

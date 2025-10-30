@@ -1,6 +1,6 @@
 ---
 title: "Seamaster's Cap"
-revid: 153920
+revid: 169297
 source: https://deepwoken.fandom.com/wiki/Seamaster's_Cap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -26,7 +26,9 @@ categories: [Equipment, Head, Hats, Items]
 
 ## Description
 
-The Seamaster's Cap is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you 1 Posture, 1 Legendary Pips, and the [Talent](Talents.md#equipment-talents) 'Seamaster's Guile' that gives your boat 25% damage reduction while you're piloting it.
+The Seamaster's Cap is an [Equipment](Equipment.md) item under the "Head" category.
+
+[Seamaster's Guile](Talents.md#seamasters-guile) gives your [boat](Ships_&_Sailing.md) 25% damage reduction while you're piloting it.
 
 ## Trivia
 

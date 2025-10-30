@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 155659
+revid: 169307
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -26,11 +26,11 @@ categories: [Equipment, Head, Hats, Items]
 | obtainment | Chests from:, Summer Isle |
 | description | While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class. |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Tophat is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, 2 Pips, And the innate [Talent](Talents.md) Give And Take. **Give and Take** allows you to give and take less damage to and from your allies.
+The Tophat is an Equipment in the "_Head_" category.
+
+[Give and Take](Talents.md#give-and-take) reduces the damage taken by and dealt to allies.
 
 ## Trivia
 

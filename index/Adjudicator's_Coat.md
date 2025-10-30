@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 169174
+revid: 169314
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Coats]
@@ -21,12 +21,14 @@ categories: [Items, Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit(Bugged), Authority Ambush |
+| obtainment | Chests from:, Authority Ambush |
 | description | ... |
 
 ## Description
 
-The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the Arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) [Unwavering Resolve](Talents.md#unwavering-resolve).
+The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the Arms category.
+
+[Unwavering Resolve](Talents.md#unwavering-resolve) reduces the posture damage taken from being parried by 33%, the effectiveness of this Talent scales on your Strength investment.
 
 ## Trivia
 

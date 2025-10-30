@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 169237
+revid: 169282
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -90,18 +90,18 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Das](Das.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Lets you spar with the [Blade Instructor](Blade_Instructor.md) |  |
 | [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md), [The Hidden Village](The_Hidden_Village.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [The Lordsgrove](The_Lordsgrove.md), [Meteor Isle](Meteor_Isle.md), [Saramaed Summit](Saramaed_Summit.md), [Widow's Hollow](<Widow's_Hollow.md>), [Songseeker Wilds](Songseeker_Wilds.md), [Ancient Rotlands](Ancient_Rotlands.md), [Starfield Veldt](Starfield_Veldt.md), [Trial of One](Trial_of_One.md). | Affect your stats, talents or whisper draws for [Robux](https://roblox.fandom.com/wiki/Robux). |  |
 | [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | Gives explanation on who Ignition Deepdelvers are. |  |
-| [Deepdelver Myra](Deepdelver_Myra.md) |  |  |  |  |
-| [Deepdelver Tau](Deepdelver_Tau.md) |  |  |  |  |
+| [Deepdelver Myra](Deepdelver_Myra.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) |  |  |
+| [Deepdelver Tau](Deepdelver_Tau.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Lets you enter [Saramaed Hollow](Saramaed_Hollow.md). |  |
 | [Delta](Delta.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Grants you the [Oath: Arcwarder](Oath%253A_Arcwarder.md) after meeting all requirements. |  |
 | [Den Master](Den_Master.md) | Unaligned | [Etris](Etris.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
 | [Deran](Deran.md) |  |  |  |  |
-| [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md) |  |  |  |  |
+| [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md) | Unaligned, Destroyman III, Bon Viviant Adventurer does not concern himself with allies. | [The Starswept Valley](The_Starswept_Valley.md) | There to remind all of us of the true power of [Destroyman III](Destroyman_III.md). |  |
 | [Diluvian Mechanism (NPC)](<Diluvian_Mechanism_(NPC).md>) | Unaligned | [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Starts [The Diluvian Mechanism](The_Diluvian_Mechanism.md) |  |
 | [Diver Quartermaster](Diver_Quartermaster.md) |  |  |  |  |
 | [Dockson](Dockson.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Drefa](Drefa.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | The quest is repeatable |
-| [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) |  |  |  |  |
-| [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) |  |  |  |  |
+| [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Gives the player explanation on how to progress the [Authority Ensign](Authority_Ensign.md) [origin](Origins.md) |  |
+| [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) | Unaligned | [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) |  |  |
 | [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), cemetery | None |  |
 | [Eastern Camp Master](Cheral.md) | [The Children of Navae](The_Children_of_Navae.md) | [Etrean Wilds](Etrean_Wilds.md) | None |  |
 | [Eiris](Eiris.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [The Etrean Sea](The_Etrean_Sea.md)[The Aratel Sea](The_Aratel_Sea.md)[Knives of Eylis vs Kingdom of Etrea](Random_Encounters.md#fights-between-factions) | Lets you obtain the voidwalker origin. |  |
@@ -121,13 +121,13 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Reveals lore about the knives of eylis |  |
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md) | The quest is repeatable |
 | [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives explanation on how to wake up the [Scion of Ethiron](Scion_of_Ethiron.md). |  |
-| [Fabantou](Fabantou.md) |  |  |  |  |
+| [Fabantou](Fabantou.md) | [The Central Authority](The_Central_Authority.md) | [The Three Cheers](The_Three_Cheers.md), [Fort Merit](Fort_Merit.md) | Sells [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and the [Fool's Tankard](<Fool's_Tankard.md>) |  |
 | [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
 | [Flabbernaster Filingree, the First Mate](Flabbernaster_Filingree,_the_First_Mate.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Forgotten Villager](Forgotten_Villager.md) |  |  |  |  |
+| [Forgotten Villager](Forgotten_Villager.md) | Unaligned |  |  |  |
 | [Frank F'alzone](<Frank_F'alzone.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Friendly Prisoner](Friendly_Prisoner.md) |  |  |  |  |
-| [Friid, Master of Gale](Friid,_Master_of_Gale.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Friendly Prisoner](Friendly_Prisoner.md) | Unaligned | Dungeon, [Merit Detainment Core](Merit_Detainment_Core.md) | Gives explanation on how to open the jail cells. |  |
+| [Friid, Master of Gale](Friid,_Master_of_Gale.md) | [The Vigils](The_Vigils.md) | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives you the [Kyrswynter](Kyrswynter.md) when meeting the reqs |  |
 | [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
@@ -141,7 +141,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Gunsmith](Gunsmith.md) | [The Summer Company](The_Summer_Company.md) | [Guild Bases](Guild_Bases.md) | Makes bullet casing |  |
 | [Harnessed Thresher](Harnessed_Thresher.md) |  |  |  |  |
 | [Hector](Hector.md) |  |  |  |  |
-| [High Inquisitor Merey](High_Inquisitor_Merey.md) |  |  |  |  |
+| [High Inquisitor Merey](High_Inquisitor_Merey.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Lets the player join the [Inquisition Division](Authority_Ensign.md#inquisition-division). |  |
 | [Hiri](Hiri.md) |  |  |  |  |
 | [Hobo](Hobo.md) |  |  |  |  |
 | [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |

@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 155649
+revid: 169299
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Items]
@@ -28,11 +28,11 @@ categories: [Equipment, Head, Helmets, Items]
 
 ## Description
 
-The Silver Knight's Helm, formerly known as the Knight's Helm, is an Equipment in the "_Head_" category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of Pips. It is also worn by the [Upgraded Celtorian Guard](Celtorian_Guard.md) found in wave 46 of the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The Silver Knight's Helm, formerly known as the Knight's Helm, is an Equipment in the "_Head_" category.
 
   
 
 ## Trivia
 
--   Considered one of the Best Head [Equipment](Equipment.md) pieces, due to being one of the 5 helmets that are able to reach 30 HP. The other 4 being: [Blacksteel Helm](Blacksteel_Helm.md), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), and [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>).
--   If you're looking for alternate options for Head [Equipment](Equipment.md), [Deepwoken Hood](Deepwoken_Hood.md) & [Vigil Hood](Vigil_Hood.md) both offer the best pips required to reach the highest amount of DVM/Phys Armor/Elem Armor/Mons Armor, but sacrifices any innate stats.
+-   Considered one of the best Head [Equipment](Equipment.md) pieces, due to it being one of the few helmets that are able to reach 30 HP.
+-   It is worn by the [Tideknights](Tideknight.md) found in wave 46 of [the Diluvian Mechanism](The_Diluvian_Mechanism.md).

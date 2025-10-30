@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 169049
+revid: 169275
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -30,12 +30,9 @@ categories: [Equipment, Head, Hats]
 
 The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" category.
 
-  
+[Underdog](Talents.md#underdog) grants a damage bonus to foes with higher current health than you, scaling on your [Willpower](Attributes.md#wll) investment, granting +2% damage at 20 Willpower and scaling up to +4% damage at 60 Willpower. Additionally, it grants +10% damage when fighting most [Monster](Monsters.md) enemies.
 
-  
+## Trivia
 
-## Tips/Trivia
-
--   Can be useful for both PvP and PvE due to the Underdog Talent.
 -   "Chapeau" is French for "Hat."
 -   The Dark Owl Chapeau is has the highest **[Stealth](Stealth.md)** stat out of any other head equipment in the game

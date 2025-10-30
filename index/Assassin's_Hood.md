@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 169030
+revid: 169263
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hoods, Head, Items]
@@ -29,7 +29,8 @@ categories: [Equipment, Hoods, Head, Items]
 
 Assassin's Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
+The [Deep Wound](Talents.md#deep-wound) Talent applies an Anti-Heal effect for 20 seconds and grants a speed boost for 6 seconds when assassinating a target. Additionally, it allows your Assassination damage to scale with your level in PvE.
+
 ## Trivia
 
--   This is part of the 'Assassin' Set, The only other piece being [Assassin's Cloak](<Assassin's_Cloak.md>).
 -   This hood comes with a face-mask.

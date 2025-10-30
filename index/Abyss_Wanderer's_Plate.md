@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 169135
+revid: 169313
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers, Items]
@@ -28,7 +28,9 @@ categories: [Equipment, Arms, Plates, The Divers, Items]
 
 ## Description
 
-The Abyss Wanderer's Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5 Health, 3 Legendary Pips, and the [Kick Off](Talents.md#kick-off) and [Braced Collapse](Talents.md#braced-collapse) [Talents](Talents.md). It is rarely found in chests from the [Saramaed Hollow](Saramaed_Hollow.md) in [Miner's Landing](<Miner's_Landing.md>)
+The Abyss Wanderer's Plate is an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found in chests from the [Saramaed Hollow](Saramaed_Hollow.md) in [Miner's Landing](<Miner's_Landing.md>).
+
+[Kick Off](Talents.md#kick-off) grants various bonuses to climbing and parkour. [Braced Collapse](Talents.md#braced-collapse) reduces the damage taken by attacks after being guard broken.
 
 ## Trivia
 
