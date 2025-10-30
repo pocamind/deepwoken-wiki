@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 165851
+revid: 169321
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs]
@@ -97,8 +97,6 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 
 **First Encounter:**
 
-<td colspan="3"Oh Viqh... You purehearted fool... _\*She smiles despite her tears.\*_
-
 <table>
 <tbody>
 <tr>
@@ -135,6 +133,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 <tr>
   <td colspan="6"></td>
   <td colspan="3"><i>*She holds her head in her hands and shakes, sobbing.*</i> I... I need a moment...</td>
+  <td colspan="3">Oh Viqh... You purehearted fool... <i>*She smiles despite her tears.*</i></td>
 </tr>
 <tr>
   <td colspan="6"></td>

@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 165301
+revid: 169324
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -13,6 +13,8 @@ _**FOREWORD**: **An up-to-date spreadsheet with every source of carry load and t
 ## Description
 
 **Carry Load** dictates how many items you can carry. It can be increased in a variety of ways, and different items contribute a different amount towards your carry load.
+
+You can view your maximum carry load on the bottom right of your inventory. It will be shown as \[ X|Y \], with X being the current space that your items are taking up and Y being your maximum carry load.
 
 ## Sources of Carry Load
 
