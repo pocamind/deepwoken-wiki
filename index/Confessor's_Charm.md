@@ -1,6 +1,6 @@
 ---
 title: "Confessor's Charm"
-revid: 163539
+revid: 169462
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -27,8 +27,6 @@ categories: [Items, Equipment, Torso, Necklaces]
 ## Description
 
 The Confessor's Charm is an [Equipment](Equipment.md) item under the "Torso" category.
-
-On equip, the Confessor's Charm grants 3% Physical Armor, +1 Rare Pip, and +1 Legendary Pip.
 
 ## Trivia
 

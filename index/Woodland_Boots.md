@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 155722
+revid: 169460
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -28,7 +28,7 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-The Woodland Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. Equipping them grants you +3 Health and +2 Rare Pips. They are commonly found in chests from [Aratel Island](Aratel_Island.md).
+The Woodland Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
 
 ## Trivia
 

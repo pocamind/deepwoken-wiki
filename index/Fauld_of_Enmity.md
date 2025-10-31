@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 155580
+revid: 169466
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Items, Torso]
@@ -28,7 +28,7 @@ categories: [Equipment, Items, Torso]
 
 ## Description
 
-The **Fauld of Enmity** is a Unique [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants 1 Rare Pip and 2 Legendary Pips. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Fauld of Enmity** is a Unique [Equipment](Equipment.md) item under the "Torso" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 

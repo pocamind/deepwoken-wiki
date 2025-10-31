@@ -1,6 +1,6 @@
 ---
 title: Parasol Planter
-revid: 169294
+revid: 169484
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Equipment, Head, Hats]
@@ -28,7 +28,7 @@ categories: [World Event, Equipment, Head, Hats]
 
 The Parasol Planter is a Unique Equipment Item found under the "Head" category. This Hat can be found in chests from the [Interluminary Parasol](Interluminary_Parasol.md) at a common-uncommon drop rate.
 
-Grants the user the "[Grotesque Resilience](Talents.md#grotesque-resilience)" Unique Equipment Talent, which reduces all damage from "Damage Over Time" effects.
+Grants the user the [Grotesque Resilience](Talents.md#grotesque-resilience) Unique Equipment Talent, which reduces damage taken from "Damage Over Time" effects.
 
 -   Grotesque Resilience works on:
     -   Burn - 50% damage reduction, Bleed - 25% damage reduction

@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 157176
+revid: 169453
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -28,7 +28,9 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Mercenary Boots are an [Equipment](Equipment.md) item under the "**Legs**" category. This equipment grants +2 health, +2 Rare Pips, +1 Legendary Pip, and the _[Endurance Runner](Talents.md#alley-cat)_ Talent, which negates the speed penalty of low health.
+Mercenary Boots are an [Equipment](Equipment.md) item under the "Legs" category.
+
+The [Endurance Runner](Talents.md#endurance-runner) Talent lessens the movement speed penalty from being at low health.
 
 ## Trivia
 

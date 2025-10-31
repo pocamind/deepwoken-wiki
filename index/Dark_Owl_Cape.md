@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cape
-revid: 168554
+revid: 169465
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Capes]
@@ -29,8 +29,6 @@ categories: [Items, Equipment, Torso, Capes]
 ## Description
 
 The Dark Owl Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in the [Miner's Landing](<Miner's_Landing.md>) and [Second Layer](Second_Layer.md).
-
-Due to resistances being combined multiplicatively rather than additively, this equipment grants 6.9% Shadowcast armor and 2% Elemental armor. That's pretty good for a torso equipment.
 
 ## Trivia
 

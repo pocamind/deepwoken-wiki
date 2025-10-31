@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 168281
+revid: 169442
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots, The Divers]
@@ -26,11 +26,9 @@ categories: [Items, Equipment, Legs, Boots, The Divers]
 | obtainment | Saramaed Hollow |
 | description | ... |
 
-Variants: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)
-
 ## Description
 
-The Abyss Wanderer's Boots are an [Equipment](Equipment.md) item under the "Legs" category. When worn, these grant +5 Health, +1 Legendary Pip, and +2 Rare Pips.
+The Abyss Wanderer's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 ## Trivia
 

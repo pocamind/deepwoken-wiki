@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 169326
+revid: 169482
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -172,6 +172,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Look at all those shiny colours!_
 -   _Looks valuable, you should buy it!_
 -   _Lovely weather for buying something exactly like this, eh?_
+-   _No change - no problem! I'll keep the difference as a tip!_
 -   _Now see, I would buy this. From myself._
 -   _Oh haha, that's not dust that's uhm... an expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
@@ -314,7 +315,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
 -   _If anyone asks - you didn't get this from me. Capiche?_
 -   _It's Antique! Scratch that, Brand New!_
--   It's just good business.
+-   _It's just good business._
 -   _Man - it's been a like a whole hour, and my seafood boil isn't here yet! For all the talk The Meatlord gets, he's kind of a slowpoke._
 -   _Maybe clean this when you get a minute._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
@@ -377,8 +378,8 @@ Sold Items
   <td>
   <ul>
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
-    <li><b>For 4 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
-    <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Stormseye.md">Stormseye</a>.</li>
+    <li><b>For 4 </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Soulthorn.md">Soulthorn</a>.</li>
+    <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Stormseye.md">Stormseye</a>.</li>
     <li><b>For 6 </b>: <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>.</li>
     <li><b>For 45 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>

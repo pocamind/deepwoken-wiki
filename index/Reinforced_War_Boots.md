@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 168737
+revid: 169441
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -32,15 +32,15 @@ Variants: [Reinforced War Helmet](Reinforced_War_Helmet.md)
 
 ## Description
 
-The Evanspear War Plate is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots. When worn, this grants +3 Health, +1 Uncommon Pip, and the [Repeated Blows](Talents.md#equipment-talents) Talent.
+The Evanspear War Plate is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots.
 
-The _Repeated Blows_ Talent will reset the cooldown of [Strength](Attunement-less.md#strength) Mantras when you land your weapon's critical if a [Wrath Gem](Wrath_Gem.md) is in effect. Wrath Gems last for 9s with a 10s CD. This Talent has no cooldown.
+The [Repeated Blows](Talents.md#repeated-blows) Talent will reset the cooldown of [Strength](Attunement-less.md#strength) Mantras when you land your weapon's critical if a [Wrath Gem](Wrath_Gem.md) is in effect. Wrath Gems last for 9s with a 10s CD. This Talent has no cooldown.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Lasting Trauma](Talents.md#set-talents) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
+Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
 
 The [Fearful](Status_Effects.md#fearful) status effect lasts for 9 seconds after landing a Mantra with a [Wrath Gem](Wrath_Gem.md) equipped.
 

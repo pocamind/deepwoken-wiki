@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 168541
+revid: 169452
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
@@ -28,7 +28,7 @@ categories: [Pages with broken file links, Items, Equipment, Legs, Boots]
 
 ## Description
 
-The Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category. When worn, these grant +3 Health and +1 Rare Pip.
+The Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category.
 
 ## Trivia
 

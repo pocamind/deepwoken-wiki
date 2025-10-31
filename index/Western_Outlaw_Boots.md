@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Boots
-revid: 156592
+revid: 169459
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -27,6 +27,6 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-The Western Outlaw Boots is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Western Outlaw Set. The Western Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant. When worn, this grants +3% Thundercall and Galebreathe resistance, +1 Uncommon Pip, and +1 Rare Pip.
+The Western Outlaw Boots is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Western Outlaw Set. The Western Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant.
 
 This item is used to craft the [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

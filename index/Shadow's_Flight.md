@@ -1,6 +1,6 @@
 ---
 title: "Shadow's Flight"
-revid: 169429
+revid: 169437
 source: https://deepwoken.fandom.com/wiki/Shadow's_Flight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Craftable]
@@ -20,10 +20,10 @@ categories: [Craftable]
 
 ## Description
 
-Shadow's Flight is a craftable item that allows the user to teleport to their mouse cursor in exchange for health and ether, functioning almost identically to the rare Talent Shadow Travel with less range.
+Shadow's Flight is a craftable item that allows the user to teleport to their mouse cursor in exchange for health and ether, functioning almost identically to the rare Talent [Shadow Travel](Talents.md#shadow-travel), but with less range and at a greater health and ether cost.
 
-These are stackable, and on use only one will be consumed, draining health and ether at a greater rate than Shadow Travel does, so caution is necessary.
+These are stackable, and only one will be consumed on use.
 
 ## Obtainment
 
-Shadow's Flight is created by crafting together 2 [Void Feathers](Dark_Feather.md) (different from dark feather, 1 void feather is 3 dark feathers and 1 umbral obsidian) and an [Umbral Obsidian](Umbral_Obsidian.md). The items will be consumed upon crafting.
+Shadow's Flight is created by crafting together 2 [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md).

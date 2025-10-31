@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 168805
+revid: 169457
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -28,4 +28,4 @@ categories: [Items, Equipment, Legs, Boots]
 
 ## Description
 
-Vanguard Boots are an [Equipment](Equipment.md) item under under the "Legs" category. These black plated boots are great for protecting one's shins in the heat of battle. On equip, they grant 3 Health and +1 Rare Pip.
+Vanguard Boots are an [Equipment](Equipment.md) item under under the "Legs" category. These black plated boots are great for protecting one's shins in the heat of battle.

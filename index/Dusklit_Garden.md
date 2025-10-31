@@ -1,6 +1,6 @@
 ---
 title: Dusklit Garden
-revid: 159676
+revid: 169464
 source: https://deepwoken.fandom.com/wiki/Dusklit_Garden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Locations]
@@ -20,7 +20,7 @@ Frozen in time, the leaves on the trees fall still. The grass doesn't wave with 
 
 ## Description
 
-The **Dusklit Gardens** are a sub-location of the [Voidheart](Voidheart.md). It's a floating island, with a small amount of parkour on your way to get there. As with [Boatman's Watch](<Boatman's_Watch.md>) and the [Voidsea](Voidsea.md), everything here is frozen in time. This location has the only accessible Blacksmith in it in the entire [Voidheart](Voidheart.md).
+The **Dusklit Gardens** was a sub-location within the [Voidheart](Voidheart.md). It was a floating island, accessed by jumping across small levitating platforms. As with [Boatman's Watch](<Boatman's_Watch.md>) and the [Voidsea](Voidsea.md), everything here is frozen in time. This location used to have the only accessible Blacksmith in the entire [Voidheart](Voidheart.md).
 
 ## Maps
 

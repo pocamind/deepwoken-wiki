@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 163536
+revid: 169463
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces]
@@ -27,5 +27,3 @@ categories: [Items, Equipment, Torso, Necklaces]
 ## Description
 
 The Curseblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
-
-On equip, the Curseblood Pendant grants 3% Elemental Armor and +1 Legendary Pip.

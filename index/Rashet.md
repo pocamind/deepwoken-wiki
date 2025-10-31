@@ -1,9 +1,9 @@
 ---
 title: Rashet
-revid: 168036
+revid: 169474
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, Eastern Luminant, The Central Authority, Reputation]
+categories: [Adret NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Central Authority, Reputation]
 ---
 
 # Rashet

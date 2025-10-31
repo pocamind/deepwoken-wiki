@@ -1,9 +1,9 @@
 ---
 title: Friendly Prisoner
-revid: 163318
+revid: 169467
 source: https://deepwoken.fandom.com/wiki/Friendly_Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Eastern Luminant]
+categories: [NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Friendly Prisoner

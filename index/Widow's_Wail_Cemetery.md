@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 151341
+revid: 169478
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Hallowtide]

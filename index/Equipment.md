@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 169412
+revid: 169461
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2275,7 +2275,8 @@ Variants/Set
 
  |
 | --- | --- | --- | --- |
-| File:Black Cape.png | Black Cape(**Series**) | _+3% Physical Armor_
+| File:Black Cape.png | Black Cape  
+(**Series**) | _+3% Physical Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**

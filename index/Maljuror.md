@@ -1,9 +1,9 @@
 ---
 title: Maljuror
-revid: 168967
+revid: 169469
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies, Random Encounters, Eastern Luminant]
+categories: [Monsters, Enemies, Random Encounters]
 ---
 
 # Maljuror

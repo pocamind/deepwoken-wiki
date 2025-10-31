@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 166632
+revid: 169444
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer]
@@ -22,8 +22,6 @@ The Temple of Hearts can be entered in two ways:
 
 -   Opening the Resonance doors, which requires a [Resonance](Resonance.md).
 -   Having the Deepbound [Origin](Origins.md), which grant access to an alternative entrance that only they can interact with.
-
-It's also possible to glitch in by sprinting, jumping and dashing into the resonance door at the same time.
 
 Entering will lead the player into an overgrown hall decorated with underwater foliage and Deep Shrines on the sides.
 
