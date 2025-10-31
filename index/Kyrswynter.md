@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 165615
+revid: 169542
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
@@ -78,6 +78,6 @@ Both criticals share a cooldown of **9 seconds**.
 -   The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release.
     -   Following enchanted weapon rules, Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
 -   The passive ability **Subzero Strike** is a reference to the [Fairfrozen](https://rogue-lineage.fandom.com/wiki/Fairfrozen) from Rogue Lineage, which is another ice-themed spear that possesses an ability of the same name. Their ability effects were also quite similar: The Fairfrozen's Subzero Strike also resulted in ragdolling the target backwards and applying ice, if landed.
--   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), **Kyrswynter,** [Kyrsieger](Kyrsieger.md))
+-   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), **Kyrswynter**, [Kyrsieger](Kyrsieger.md))
 -   The running crit is almost identical to (and probably inspired by) the Royal Greatsword's "[Wolf's Assault](<https://eldenring.wiki.fextralife.com/Wolf's+Assault>)" Skill in _Elden Ring_.
 -   This weapon bears a striking resemblance to the [Celebrant's Rib-rake](https://eldenring.wiki.fextralife.com/Celebrant%27s+Rib-Rake) spear from _Elden Ring_.

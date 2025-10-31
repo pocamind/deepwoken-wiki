@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 165308
+revid: 169531
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Fadetrimmer | |
 |---|---|
 | oath_req | Power 12, 12 haircuts |
-| effects | +1 Combat Mantra Slot, +2 Wildcard Mantra Slots |
+| effects | +2 Combat Mantra Slot, +1 Wildcard Mantra Slots |
 
 “ Yeah. We are a pretty underground Oath. You probably haven't heard of us. ”
 

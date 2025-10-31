@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 168683
+revid: 169527
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Community]
@@ -2178,6 +2178,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > -   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
 >     -   In both stories, they are [Vesperians](Vesperian.md).
 >     -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.
+> -   Stars Above, and the Blade between was initially painted as an accurate depiction of how [Rolen Vashtir](Rolen_Vashtir.md) died. However, due to several plot holes this opened, it was eventually deemed non-canon, retconned into a fictional story for those who already have the book and made unobtainable.
 > 
 > ## References
 > 

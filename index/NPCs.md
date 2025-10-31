@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 169282
+revid: 169525
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -27,11 +27,11 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Aelita](Aelita.md) | Unaligned | [Carnival of Hearts](Carnival_of_Hearts.md)  
 [Valley of Heroes](The_Valley_of_Heroes.md) | Unique event required to obtain the [Visionshaper](Oath%253A_Visionshaper.md) Oath. | Twin of [Tillian](Tillian.md).  
 Does not spawn in Valley of Heroes during [Winter](Seasons.md). |
-| [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md) |  |  |  |  |
-| [Aesalath Kalafrid](Aezeroth_Kaladin.md) |  |  |  |  |
+| [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md) | Unaligned | [Firfire](Firfire.md) | Tells the player to talk to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) |  |
+| [Aesalath Kalafrid](Aezeroth_Kaladin.md) | Unaligned | [Second Layer](Second_Layer.md), [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Tells the player the generator's location. |  |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md)  
 [Celtor Wastes](Celtor_Wastes.md) | Willpower unbound.  
-Joining [The Divers](The_Divers.md) [Guild](Guilds.md) and unlock the [Deepbound](Deepbound.md) [Origin](Origins.md). | Picking his second dialogue option in Celtor Wastes with less than 75 Charisma will result in unavoidable death. |
+Joining [The Divers](The_Divers.md) [Guild](Guilds.md) and unlock the [Deepbound](Deepbound.md) [Origin](Origins.md). | Picking his second dialogue option in Celtor Wastes with less than 80 Charisma will result in unavoidable death. |
 | [Alastir](Alastir.md) | Unaligned | [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Grants a chest and EXP upon returning Lost Pathfinders. | Gives lore and explanation on [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).  
 Cannot be given [Forgotten Villagers](Forgotten_Villager.md) but can be given [Navaen Hostages](Navaen_Hostage.md). |
 | Alina | The Spellhardt Familt | [The Floating Keep](The_Floating_Keep.md) | None |  |
@@ -110,7 +110,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Emel](Emel.md) | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry [reputation](Reputation.md), exp and notes. | The quest is repeatable. |
 | [Epsi](Epsi.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | He is part of the quest to obtain [Oath: Arcwarder](Oath%253A_Arcwarder.md) |  |
 | [Eres](Eres.md) | [The Kingdom of Etrea](Etrea.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
-| [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) | Unaligned | [Firfire](Firfire.md), [Second Layer](Second_Layer.md) | Grants the Talent "Ethiron's Gaze" after doing the quest |  |
+| [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) | Unaligned | [Firfire](Firfire.md), [Second Layer](Second_Layer.md) | Grants the Talent "Ethiron's Gaze" after doing his quest |  |
 | [Etrean Guardmaster](Etrean_Guardmaster.md) |  |  |  |  |
 | [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) |  |  |  |  |
 | [Etrean Royal Guard (NPC)](<Etrean_Royal_Guard_(NPC).md>) | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
@@ -122,9 +122,9 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md) | The quest is repeatable |
 | [F'leche](<F'leche.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives explanation on how to wake up the [Scion of Ethiron](Scion_of_Ethiron.md). |  |
 | [Fabantou](Fabantou.md) | [The Central Authority](The_Central_Authority.md) | [The Three Cheers](The_Three_Cheers.md), [Fort Merit](Fort_Merit.md) | Sells [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and the [Fool's Tankard](<Fool's_Tankard.md>) |  |
-| [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | None |  |
+| [Falei](Falei.md) | [The Divers](The_Divers.md) | [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Second Layer](Second_Layer.md) | Provides a tip to the player to fight the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md)'s winds. |  |
 | [Flabbernaster Filingree, the First Mate](Flabbernaster_Filingree,_the_First_Mate.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Forgotten Villager](Forgotten_Villager.md) | Unaligned |  |  |  |
+| [Forgotten Villager](Forgotten_Villager.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Erisor's Church](<Erisor's_Church.md>) | Spawn waves of enemies aswell as provide some lore for [Alastir](Alastir.md). |  |
 | [Frank F'alzone](<Frank_F'alzone.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Friendly Prisoner](Friendly_Prisoner.md) | Unaligned | Dungeon, [Merit Detainment Core](Merit_Detainment_Core.md) | Gives explanation on how to open the jail cells. |  |
 | [Friid, Master of Gale](Friid,_Master_of_Gale.md) | [The Vigils](The_Vigils.md) | [Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
@@ -137,16 +137,26 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
 | Green | Unaligned | [The Floating Keep](The_Floating_Keep.md) | None |  |
 | [Gudrin](Gudrin.md) |  |  |  |  |
-| [Guild Librarian](Guild_Librarian.md) |  |  |  |  |
+| [Guild Librarian](Guild_Librarian.md) | [Guilds](Guilds.md) | [Guild Bases](Guild_Bases.md) | Gives the player the option to store their books in their [Guild Bases](Guild_Bases.md) library and read the books stored by their guildmates. |  |
 | [Gunsmith](Gunsmith.md) | [The Summer Company](The_Summer_Company.md) | [Guild Bases](Guild_Bases.md) | Makes bullet casing |  |
-| [Harnessed Thresher](Harnessed_Thresher.md) |  |  |  |  |
-| [Hector](Hector.md) |  |  |  |  |
+| [Harnessed Thresher](Harnessed_Thresher.md) | Unaligned | [The Starswept Valley](The_Starswept_Valley.md) | Can be petted. | With a random chance can bite the player while petting him. |
+| [Hector](Hector.md) | [Merit Detainment Core](Merit_Detainment_Core.md) | [The Central Authority](The_Central_Authority.md) | Tells the player how to turn off lasers and cannons in the [Merit Detainment Core](Merit_Detainment_Core.md). |  |
 | [High Inquisitor Merey](High_Inquisitor_Merey.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Lets the player join the [Inquisition Division](Authority_Ensign.md#inquisition-division). |  |
 | [Hiri](Hiri.md) |  |  |  |  |
 | [Hobo](Hobo.md) |  |  |  |  |
-| [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
-| [Infamous Baz](Infamous_Baz.md) |  |  |  |  |
-| [Innkeep](Innkeep.md) |  |  |  |  |
+| [Imel](Imel.md) | [The Ministry](The_Ministry.md) | [The Etrean Sea](The_Etrean_Sea.md), Statues Islet | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
+| [Infamous Baz](Infamous_Baz.md) | [Etrea](Etrea.md) | [The King's Garden](<The_King's_Garden.md>) | Meow | 
+
+-   Named after Arch\_Mage's friend, Infamousbaz.
+-   Canonical winner of the Grand Griddy.
+
+ |
+| [Innkeep](Innkeep.md) | [Etrea](Etrea.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Hive](The_Hive.md), [The Children of Navae](The_Children_of_Navae.md) | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>), [Summer Isle](Summer_Isle.md), [Fort Merit](Fort_Merit.md), [Greathive Aratel](Greathive_Aratel.md), [Meteor Isle](Meteor_Isle.md) | Lets the player set their spawn point at the inn for. | 
+
+-   The player can't set their spawn point at the inn of an enemy faction.
+-   The [Meteor Isle](Meteor_Isle.md) [Innkeep](Innkeep.md) won't let the player set their spawn point at their inn, as they're not accepting any new residents at the time.
+
+ |
 | [Ishan](Ishan.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. |
 | [Ivory](Ivory.md) |  |  |  |  |
 | [Jeandae](Loot_Bag_Gacha.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Gacha NPC. Will give you something random from the Songseeker Wilds lootpool in exchange for 350 notes. |  |

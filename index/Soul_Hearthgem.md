@@ -1,6 +1,6 @@
 ---
 title: Soul Hearthgem
-revid: 167326
+revid: 169512
 source: https://deepwoken.fandom.com/wiki/Soul_Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item]
@@ -8,7 +8,15 @@ categories: [Items, Quest Item]
 
 # Soul Hearthgem
 
-Template:Food Template V1
+| Soul Hearthgem | |
+|---|---|
+| value | Unsellable |
+| weight | None |
+| type | Quest item |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | What could this object be for? A key of some kind? |
 
 ## Description
 

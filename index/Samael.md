@@ -1,9 +1,11 @@
 ---
 title: Samael
-revid: 168449
+revid: 169511
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, In progress with reason, InProgressPages, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
+notices:
+  - This page is currently being worked on. Majority/All dialogue on this page is outdated.Dialogue needs to be reformatted.
 ---
 
 # Samael
@@ -13,6 +15,7 @@ categories: [Canor NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Luminan
 | name | Samael |
 | aspect | Canor |
 | location | Derelict Highchurch |
+| affiliation | The Starkindred Faith |
 
 “ There are those of the faith - like myself - who swear an Oath to the Church. Through the Ichor that runs through our veins, we dedicate our lives to its protection. We prevent it from falling into the wrong hands. ”
 

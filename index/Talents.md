@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 169487
+revid: 169550
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3913,63 +3913,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Scorching Decay \[Common Talent, Flamecharm Exclusive\] - The wither dealt from your Emperor's Flame is massively increased.
     -   Increases the Wither application from your Emperor Flame from 25 to 75.
     -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
-
-### [Oath](Oaths.md)
-
--   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
-    -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
-
--   [Oath: Bladeharper](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
-    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
-
--   [Oath: Blightsurger](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
-    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
-
--   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)
-    -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
-
--   [Oath: Contractor](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slots, +1 Wildcard Mantra Slots)
-    -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to [Lord Regent](The_Lord_Regent.md).
-
--   [Oath: Chainwarden](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
-    -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower (STR + FTD + WLL ≥ 40), Authority reputation, defeat [Emar Vend](Emar_Vend.md).
-
--   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots)
-    -   Prerequisites: Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
-
--   [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: [Power](Power.md) 12, Change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)
-
--   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
-    -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
-
--   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
-    -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
-
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor)
-    -   Prerequisite: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks.
-
--   [Oath: Saintsworn](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Prerequisites: 15 Flamecharm, 15 Galebreathe, 15 Shadowcast, 15 Frostdraw, 15 Thundercall, resonate with all of the Attunement obelisks in any order.
-        -   The Flamecharm obelisk is at [Saramaed Summit](Saramaed_Summit.md), the Galebreathe obelisk is at [The Garden Reservoir](The_Garden_Reservoir.md), the Shadowcast obelisk is at [Moon's Eyrie](<Moon's_Eyrie.md>), the Frostdraw obelisk is atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), and the Thundercall obelisk is at [Boatman's Watch](<Boatman's_Watch.md>). See the [Saintsworn](Oath%253A_Saintsworn.md) page for more info.
-
--   [Oath: Saltchemist](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
-    -   Prerequisites: 75 Intelligence, complete [Ciea](Ciea.md)'s quest once.
-
--   [Oath: Silentheart](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
-    -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
-
--   [Oath: Soulbreaker](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Prerequisites: Combined 50 Charisma/Willpower total (CHA + WLL ≥ 50), and any [Murmur](Murmur.md). The rest of the requirements depends on the obtainment method.
-        -   **Yunshul method**: Additional requirements: Hero/very high Ally reputation with [Etris](Etris.md), a [Resonance](Resonance.md), and have a Yun'shul Wish. **Obtainment method**: Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's Ardour. Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
-        -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
-    -   To progress the Oath, make a deal with any with any [deep shrine](Deep_Shrines.md) that costs Knowledge.
-
--   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
-
--   [Oath: Visionshaper](Oath%253A_Visionshaper.md) - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: 50 Charisma, Complete [Aelita's Encounter](Aelita.md), Bring a Dark Feather to Surge.
 
 ### Miscellaneous
 

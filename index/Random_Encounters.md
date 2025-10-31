@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 167553
+revid: 169537
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -23,7 +23,9 @@ A King Thresher, Hive Construct, and an Authority Captain fighting each other at
 
 These events occur randomly in the world or within a location.
 
-### _Etrean Luminant_
+### Etrean Luminant
+
+* * *
 
 #### Fight between Factions
 
@@ -54,7 +56,7 @@ A group of three [thieves](Thief.md), recognizable by their black armor and the 
 
 Three to four [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) hired by the Authority are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) [Navaeiconfaction](The_Children_of_Navae.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at [Upper Erisia](Upper_Erisia.md). Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
 
-The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Cheral.md).
+-   The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Cheral.md).
 
 An Authority footsoldier
 
@@ -72,21 +74,21 @@ In Upper Erisia, the player can encounter two villager NPCs in Stranded clothes.
 
 An encounter limited to Erisia, can happen during any season, contrary to the popular belief that it only happens during Spring and Summer. A group of special [Mudskippers](Mudskipper.md) will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
 
-#### [Golden Warrior](Golden_Warrior.md)
+A Golden Warrior Bouncer in the neutral position.
 
-**A Golden Warrior Bouncer in the neutral position.**
+#### Golden Warrior
 
 A fighter hailing from The [Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invites the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and uses Galebreathe. Upon death, he will drop a Gold Plate, five of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest which spawns where he stood. Occurs in Erisia.
 
-  
+-   See [Golden Warrior](Golden_Warrior.md)
 
 A Hobo in the neutral position.
 
-#### [Hobo](Hobo.md)
+#### Hobo
 
 The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests. If you open one of their chests (you don't have to take the loot), they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned. The Hobo also uses the old AI of the Flamecharm Songseeker.
 
-  
+-   See [Hobo](Hobo.md)
 
 A Pathfinder
 
@@ -122,7 +124,9 @@ An event that happens in [Starswept Valley](The_Starswept_Valley.md) or [Minityr
 
 Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only be aggro'd if it sees a player or provoked by an attack.
 
-### _Eastern Luminant_
+### Eastern Luminant
+
+* * *
 
 #### Fight between Factions
 
@@ -138,11 +142,13 @@ Groups of NPCs from different factions will spawn in Eastern Luminant and attack
 
 In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, which will be [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
+File:Rotted Pathfinder.png
+
 #### Maljuror
 
 In the [Ancient Rotlands](Ancient_Rotlands.md), [an enemy](Maljuror.md) may spawn, that utilises the [Flamecharm](Flamecharm.md) [attunement](Attunements.md) and wields the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing him grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [spark](Mantra_Modifiers.md) or with a small chance his [signature weapon](Kindred_Edict.md).
 
-**Main page: [Maljuror](Maljuror.md)**
+-   See [Maljuror](Maljuror.md)
 
 #### Legion Sniper
 
@@ -183,7 +189,7 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an [Authority Soldier](Authority_Soldier.md). Upon killing it, a chest will spawn in the ship with mid tier loot.
 
-## _Sea Events_
+## Sea Events
 
 Across the Luminants, events will appear in the seas. Some are challenges, some are rewards.
 
@@ -191,55 +197,120 @@ Across the Luminants, events will appear in the seas. Some are challenges, some 
 
 [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
-#### Islands/Outposts
+### Etrean/Eastern Luminant
+
+* * *
 
 Various islands appear on the sea with various enemies. After defeating all enemies, two chests will spawn, one on the island and one visible after the island is sunk. Different islands have different loot tables.
 
-A Tower in the Sea
+**Tower in the Water:**
 
--   **Tower in the Water:**
-    -   A Pirate outpost stands on the sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give two Erisia-tier chests.
-    -   The tower may spawn [Cloaked Assassins](Cloaked_Assassin.md) instead of [Blacksteel Pirates](Blacksteel_Pirate.md) in the Eastern Luminant.
+<table>
+<tbody>
+<tr>
+  <td><div><p>A Pirate outpost stands on the sea. Inside the tower are 5-6 <a href="Blacksteel_Pirate.md">Blacksteel Pirates</a>. Killing all of them will give two Erisia-tier chests.</p>
+  <ul>
+    <li>The tower may spawn <a href="Cloaked_Assassin.md">Cloaked Assassins</a> instead of <a href="Blacksteel_Pirate.md">Blacksteel Pirates</a> in the Eastern Luminant.</li>
+  </ul></div></td>
+  <td><figure><figcaption><p></p><div>A tower in the sea.</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
-_You can't get into that hut anyway, don't try._
+**Isle of Outlaws:**
 
--   **Isle of Outlaws:**
-    -   The stones on both sides of the island cover the central hut like a pair of hands, which has been occupied by illegals. Defeating all of them will reward you with two large chests of [Upper Erisia](Upper_Erisia.md) loot. Possible Enemies:[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Bounty Hunter (NPC)](<Bounty_Hunter_(NPC).md>)
+<table>
+<tbody>
+<tr>
+  <td><div><p>The stones on both sides of the island cover the central hut like a pair of hands, which has been occupied by illegals. Defeating all of them will reward you with two large chests of <a href="Upper_Erisia.md">Upper Erisia</a> loot. Possible Enemies:<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td>
+  <td><figure><figcaption><p></p><div>You can't get into that hut anyway, don't try.</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
-A Fort Island
+**Overrun Authority Stronghold:**
 
--   **Overrun Authority Stronghold:**
-    -   A now overrun Authority outpost, the ruins of a tropical fortress resembling [Fort Merit](Fort_Merit.md) occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:[Thresher](Thresher.md)/[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+<table>
+<tbody>
+<tr>
+  <td><div><p>A now overrun Authority outpost, the ruins of a tropical fortress resembling <a href="Fort_Merit.md">Fort Merit</a> occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>.</p></div></td>
+  <td><figure><figcaption><p></p><div>A Fort Island</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
-_They really like hands, huh?_
+**The Depth Fragment:**
 
--   **The Depth Fragment:**
-    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of [Depths](First_Layer.md) loot and one large chest of Erisia loot. Possible Enemies: [Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Mudskipper Brute](Mudskipper_Brute.md)/[Mudskipper Broodlord](Mudskipper_Broodlord.md) (Eastern luminant only)
+<table>
+<tbody>
+<tr>
+  <td><div><p>A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of <a href="First_Layer.md">Depths</a> loot and one large chest of Erisia loot. Possible Enemies: <a href="Mudskipper.md">Bloatskipper</a>/<a href="Carbuncle.md">Carbuncle</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Mudskipper_Brute.md">Mudskipper Brute</a></p></div></td>
+  <td><figure><figcaption><p></p><div>They really like hands, huh?</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
-_Fortunately, they all end up the same - occupied by bandits._
+**The Church Ruins Island:**
 
--   **The Church Ruins Island**
-    -   It seems like a piece of Erisia broke away from it as it drifted back from the Void Sea. Defeating all enemies present will reward you with two chests with Erisia loot. Possible Enemies: [Bandit](Bandit.md)/[Bandit Leader](Bandit_Leader.md).
+<table>
+<tbody>
+<tr>
+  <td><div><p>A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of <a href="First_Layer.md">Depths</a> loot and one large chest of Erisia loot. Possible Enemies: <a href="Mudskipper.md">Bloatskipper</a>/<a href="Carbuncle.md">Carbuncle</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Mudskipper_Brute.md">Mudskipper Brute</a></p></div></td>
+  <td><figure><figcaption><p></p><div>Fortunately, they all end up the same - occupied by bandits.</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
-A Bandit Island
+**Bandits' Respite:**
 
--   **Bandits' Respite**
-    -   An island with a few trees temporarily being used as a bandit camp. Defeating the bandits will reward you with two Erisia chests. There are two variations of this island.
+<table>
+<tbody>
+<tr>
+  <td><div><p>An island with a few trees temporarily being used as a bandit camp. Defeating the bandits will reward you with two Erisia chests. There are two variations of this island.</p></div></td>
+  <td><figure><figcaption><p></p><div>A Bandit Island</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
--   **Sandstone Tower**
-    -   A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with [Starswept Valley](The_Starswept_Valley.md) loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Bounty Hunter (NPC)](<Bounty_Hunter_(NPC).md>)
+**Sandstone Tower:**
 
-_They do add new sound effects to threshers!_
+<table>
+<tbody>
+<tr>
+  <td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td>
+  <td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
--   **Sandy Remnants**
-    -   A stone island similar to [Aratel](Aratel_Island.md), with sand flowing out of the stones. Defeating all enemies on it will give you two chests filled with Starswept Valley loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)
+**Sandy Remnants:**
 
--   **Mudskipper Hive**
-    -   A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different [Mudskippers](Mudskipper.md) can spawn with the addition of a [Mudskipper Brutes](Mudskipper_Brute.md) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) (Eastern Luminant only). Defeating them will grant a Depths Chest and an Erisia Chest.
+<table>
+<tbody>
+<tr>
+  <td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td>
+  <td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+**Mudskipper Hive:**
+
+<table>
+<tbody>
+<tr>
+  <td><div><p>A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different <a href="Mudskipper.md">Mudskippers</a> can spawn with the addition of a <a href="Mudskipper_Brute.md">Mudskipper Brutes</a> or <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a> (Eastern Luminant only). Defeating them will grant a Depths Chest and an Erisia Chest.</p></div></td>
+  <td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 #### Travelling Merchant
 
 A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, Tools and very rarely, Dye Packets.
+
+-   See the full item list in [Travelling Merchant](Travelling_Merchant.md).
+-   These are commonly referred to as "Merchant Ships"
 
 #### False Merchant Ship
 
@@ -251,19 +322,26 @@ Can be identified via whether or not the antiquarian is in its usual position. I
 
 A [Dinghy](Ships_&_Sailing.md) with a lone [Ganymede](Ganymede.md). Upon talking to him, he asks you to give him three random items. Any of which could be a [weapon](Weapons.md), [mantra ingredient](Mantra_Modifiers.md), or [ingredient](Ingredients.md). Falsely claiming to have the items he asks for will send you up flying from his uppercut, dealing high damage. However if you give him the specific items he asks for, he'll reward you with a random legendary weapon, a dye packet, Sinners Ash, or an [Astral](Enchantments.md#blessings) [Enchant Stone](Enchant_Stone.md) (possibly other enchant stones, unconfirmed). He seems to be talking in broken english, without the use of proper grammar.
 
+-   See [Weird Trader](Weird_Trader.md)
+
 #### Supply the Diver Expedition
 
 One [Diver Quartermaster](Diver_Quartermaster.md) and three [Diver Journeymen](Journeyman_Diver_Guard.md) spawn on an outpost at The Aratel Sea, interacting with the Quartermaster will start a quest where you have to bring in supplies from [Port Merit](Port_Merit.md) back to the outpost in exchange for 1 [Knowledge](Knowledge.md) and the [Armorer's Needle](<Armorer's_Needle.md>) relic or [Smith's Alloy](<Smith's_Alloy.md>) relic. The supply crate will not spawn unless the Quartermaster has been spoken to. The Divers will return to the depths once this event is completed.
 
-WARNING: Dropping the supply crate into the ocean will softlock the quest; both the Quartermaster and Journeymen can die to mobs, also softlocking the quest. Do not attempt to drop the crate into the center of the structure; it'll drown the supply crate.
+-   WARNING: Dropping the supply crate into the ocean will softlock the quest; both the Quartermaster and Journeymen can die to mobs, also softlocking the quest. Do not attempt to drop the crate into the center of the structure; it'll drown the supply crate.
 
 #### Old Stranger
 
 A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur%253A_Ardour.md).
 
-Having the Talent Condensation Drip will also allow the player to obtain the Murmur without a canteen. He will also accept a [Redd Juice](Redd.md) instead of a canteen of water.
+-   Having the Talent Condensation Drip will also allow the player to obtain the Murmur without a canteen.
+-   He will also accept a [Redd Juice](Redd.md) instead of a canteen of water.
 
-### _The Depths (Scyphozia)_
+  
+
+### The Depths (Scyphozia)
+
+* * *
 
 #### Mudskipper Attack
 
@@ -273,9 +351,11 @@ In the Diver Camp in [Scyphozia](First_Layer.md), three Mudskippers can spawn in
 
 One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
 
-### [Faction Ambush](Faction_Ambushes.md)
+#### Faction Ambush
 
 A randomly occurring event in which bounty hunters or faction soldiers will ambush you without warning. Beware as these events can occur _anywhere_ in the overworld with a few exceptions. Bounty hunters will spawn for players with good rep with all factions and faction soldiers for the specific faction which you have _Hunted_ or below reputation with. Enemies will be in trios or solo and will be scaled off your current level. Beware as these enemies possess powerful weapons, mantras, and even Oaths.
+
+-   See [Faction Ambushes](Faction_Ambushes.md)
 
 ## Unique Events
 
@@ -289,7 +369,7 @@ Forgotten villagers
 
 A group of three [villager](Forgotten_Villager.md) NPCs spawn around a campfire in [Erisor's Church](<Erisor's_Church.md>). Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five [Bandit Captains](Bandit_Leader.md) will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a [Rock Golem](Rock_Golem.md) will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left. You can also get the event chest just by pushing the left villager NPC out of the view of the bandits, and then speaking to them (This will only work if the bandits have spawned, and the villager hasn't noticed the bandits)
 
-**Authority's Invasion of Etris**
+#### Authority's Invasion of Etris
 
 The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
 
@@ -299,48 +379,52 @@ Once the event is fully completed by killing all Authority NPCs, three large che
 
 During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's Winter.
 
-### [Aelita](Aelita.md)
+#### Aelita
 
-Aelita spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a [Felinor](Felinor.md) with the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
+[Aelita](Aelita.md) spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a [Felinor](Felinor.md) with the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
 
 The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Blizzard Knight](Stone_Knight.md) event.
 
-### [Akira](Akira.md)
+#### Akira
 
 An uncommon event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
-The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player.
+The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player. After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers, or obtain the origin Deepbound. If the player were to have more than 75 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 75 Charisma will get you killed.
 
-After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers, or obtain the origin Deepbound.
+-   See [Akira](Akira.md)
 
-If the player were to have more than 75 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 75 Charisma will get you killed.
+#### Blizzard Knights
 
-### [Blizzard Knights](Stone_Knight.md#blizzard-knight)
-
-Blizzard Knights is an event that only occurs in Winter, encountered in the Valley of Heroes of Minityrsa. The Blizzard Knights are huge monsters, sporting a white body, red eyes, and a menacing red sword. They're a stronger version of the Stone Knight; having more health, completely disabling healing from Bloodless gems, and spawning in a group of six.
+Blizzard Knights is an event that only occurs in Winter, encountered in the Valley of Heroes of Minityrsa. The [Blizzard Knights](Stone_Knight.md) are huge monsters, sporting a white body, red eyes, and a menacing red sword. They're a stronger version of the Stone Knight; having more health, completely disabling healing from Bloodless gems, and spawning in a group of six.
 
 Once entering the main area, your screen will start shaking as giant blue meteors come crashing from the sky. Upon impact, these meteors will explode into the aforementioned Blizzard Knights.
 
 Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five Hero Blades and/or possibly one of the many variants of the Ministry Cloak.
 
-### [Rogue Construct](Hive_Construct.md)
+#### Rogue Construct
 
 Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), a [Rogue Construct](Hive_Construct.md) will spawn.
 
-### [The Meat Lord](The_Meat_Lord.md)
+#### The Meat Lord
 
-The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md) and [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange for 2 notes each. You must bow down every time you buy from him or else he will ignore you.
+[The Meat Lord](The_Meat_Lord.md) is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md) and [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange for 2 notes each. You must bow down every time you buy from him or else he will ignore you.
 
-### Stranger NPC
+#### Stranger NPC
 
 An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Ministry Scout](Ministry_Scout.md) will reveal themselves with the Tacet effect, revealed sitting down. If you have 50 Charisma, you can initiate a dialogue to gain the murmur [Murmur: Tacet](Murmur%253A_Tacet.md) without having to go through the 5 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.
 
-### The Depths Collapse
+#### The Depths Collapse
 
 The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through the First Layer causing meteors to rain from above. 2-4 boulders slam down landing near the player and spawn monsters from each impact. These range from [Threshers](Thresher.md), [Megalodaunts](Megalodaunt.md), and [Deep Owls](Deep_Owl.md) to even [Nautilodaunts](Nautilodaunt.md). These monsters are frequently hostile to each other and are eligible to be corrupted. After you killed all the mobs, a chest will spawn for each boulder that the event spawned. The loot has an extremely high likelihood of having at least one [Master Schematic](Outfits.md) and [Deep Gem](Mantra_Modifiers.md) per chest.
 
-### Resonant Dawn
+#### Resonant Dawn
 
 A meteor crashes down into the area, spawning a [Star Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Star Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
 
 This event is **VERY RARE** and the odds of it happening are near zero. You have a better chance just getting Resonance yourself.
+
+#### Mimic
+
+A special chest can spawn at a very rare chance. Upon opening, it will spawn either a [Megalodaunt](Megalodaunt.md), [Terrapod](Terrapod.md), [Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md).
+
+-   There is no way to tell the difference from a normal chest.

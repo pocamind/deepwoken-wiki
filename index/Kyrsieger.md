@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 168220
+revid: 169544
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -52,3 +52,4 @@ The critical has a cooldown of **15 seconds**.
 -   Weapon is soulbound upon being equipped.
 -   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
 -   At max HVY and CHA, the weapon deals 40.3 damage.
+-   Speaking to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) with this equipped will unlock special dialogue.

@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 157467
+revid: 169546
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -44,7 +44,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), **Kyrsblade**, [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md))
+-   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), **Kyrsblade**, [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), [Kyrsieger](Kyrsieger.md))
 -   Widely considered to be one of the best medium weapons in the PvP meta. it shares similar stats to weapons such as the [Serpent's Edge](<Serpent's_Edge.md>) and alloyed [Shotel](Shotel.md) in damage and scaling, while having a slightly higher swing speed, good chip damage, keeping the default sword critical and only really losing out on 0.5 range in comparison.
     -   Also among the best options if you want to enchant a weapon with Providence's Thorns as a PvE swapout due to having high base damage and good chip damage.
 -   Meeting the requirement of MED, the damage is (29.4)

@@ -1,6 +1,6 @@
 ---
 title: "Maestro's Ring"
-revid: 153278
+revid: 169522
 source: https://deepwoken.fandom.com/wiki/Maestro's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Etrea]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings, Etrea]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Ferryman, Aelita (Extremely Rare), Duke Ishamon Erisia, Second Layer, Ancient Rotlands, Interluminary Parasol, The Doom of Caeranthil, Maestro Evengarde Rest, Trading with Jeremiah, Saramaed Hollow |
-| description | A ring once worn by a Maestro of the Vigils. Passed down from mentor to student, it seems the line of succession was broken for it to end up in your hands. |
+| description | A ring once worn by a Maestro of the Vigils. Passed down from mentor to student, it seems the line of succession was broken for it to end up in your hands. +1.2 AGL scaling to all weapons. |
 
 ## Description
 

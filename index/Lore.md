@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 168250
+revid: 169535
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -769,7 +769,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
 -   **Enemies:** _The Ministry [Ministryiconfaction](The_Ministry.md), The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md), The Central Authority [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
--   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other aspects also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
+-   A nomadic tribe of [Gremors](Gremor.md), they primarily worship Navae.
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
 -   Inventors of the fist style 'The Way of Navae.'
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.

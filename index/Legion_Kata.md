@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 168134
+revid: 169536
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -46,9 +46,11 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 To obtain it, you must gain Friend reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](The_Starswept_Valley.md).
 
-Alternatively, you can do the [legion scout quest](https://deepwoken.fandom.com/wiki/Quests#Lars). This way you will gain enough reputation.
+Alternatively, you can do the [legion scout quest](Quests.md#lars). This way you will gain enough reputation.
 
 Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](The_Starswept_Valley.md) to obtain the Captain's Rec item, the Legion Captain spawn is somewhat uncommon.
+
+**DO NOT CLICK ON THE ITEM WHILE HOLDING IT. YOU WILL CONSUME IT AND HAVE TO RE-OBTAIN IT.**
 
 Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 

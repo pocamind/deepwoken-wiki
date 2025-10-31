@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 169505
+revid: 169507
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -12,7 +12,7 @@ categories: [Events, Hallowtide]
 |---|---|
 | date1 | ?? |
 | date2 | October 31st 2022, October 27th 2023, October 31st 2024, October 31st 2025 |
-| items | Hallowtide-exclusive Weapons, Outfits, and Helmets, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchantment, Pumpkin Pitch, Spectral Instruments, A Light In The Sky |
+| items | Hallowtide-exclusive Weapons, Outfits, and Helmets, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchant Stone, Pumpkin Pitch, Spectral Instruments, A Light In The Sky |
 | type | Halloween event |
 
 | Hallowtide Caller | |
@@ -26,13 +26,13 @@ categories: [Events, Hallowtide]
 
 ## Description
 
-Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th, 2022...
+Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th, 2022.
 
-It returned...
+It has subsequently returned on the follow dates:
 
--   in 2023 on October 27th, ending on ??;
--   in 2024 on October 31st, ending on November 16th;
--   and in 2025 on November 1st, ending on November 15th.
+-   October 27th, 2023, ending on ??.
+-   October 31st, 2024, ending on November 16th.
+-   October 31st, 2025, ending on November 14th.
 
 The first Hallowtide added...
 

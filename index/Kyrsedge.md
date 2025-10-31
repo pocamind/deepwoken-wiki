@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 157444
+revid: 169545
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
