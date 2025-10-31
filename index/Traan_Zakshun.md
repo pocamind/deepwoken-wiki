@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 169482
+revid: 169491
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -159,6 +159,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 
 -   _A rare find indeed._
 -   _An item most regal!_
+-   _C'mon, everybody and their grandma wants to buy something like this._
 -   _Colour makes us hungry - everything's connected!_
 -   _Hard sell eh?.. What if it was purple?_
 -   _Hey come on now, it's not that expensive.._

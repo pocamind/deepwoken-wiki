@@ -1,6 +1,6 @@
 ---
 title: Plumfruit
-revid: 150452
+revid: 169495
 source: https://deepwoken.fandom.com/wiki/Plumfruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Alchemy]
@@ -8,7 +8,18 @@ categories: [Food, Harvestables, Alchemy]
 
 # Plumfruit
 
-Template:Food Template V1
+| Plumfruit | |
+|---|---|
+| weight | 1 |
+| stack | x99 |
+| type | Food |
+| food type | Plant |
+| stomach | 5%% |
+| water | 2-3%% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Sweet and juicy. |
 
 ## Description
 
@@ -16,9 +27,9 @@ A consumable fruit with a purple gradient and a curved stem. It can commonly be 
 
 ## Used in the following recipes
 
--   [Fruit Salad](Food.md) (Three fruits that are different. ex: Calabash, Pomar, Ongo)
--   Plumfruit Muffin (Plumfruit + Gathered Wheat)
--   Candied Fruit (Any Fruit, Sap)
+-   [Fruit Salad](Fruit_Salad.md) (Three fruits that are different. ex: Calabash, Pomar, Ongo)
+-   [Plumfruit Muffin](Plumfruit_Muffin.md) (Plumfruit + Gathered Wheat)
+-   [Candied Fruit](Candied_Fruit.md) (Any Fruit, Sap)
 
 ## Trivia
 

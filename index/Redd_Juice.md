@@ -1,6 +1,6 @@
 ---
 title: Redd Juice
-revid: 161615
+revid: 169501
 source: https://deepwoken.fandom.com/wiki/Redd_Juice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -36,3 +36,8 @@ When consumed, it replenishes 3% Stomach and 25% Water.
 ### Recipe
 
 -   3 [Redds](Redd.md), no [Campfire](Campfire_Pit.md) required.
+
+## Trivia
+
+-   During the [Nightwish x Deepwoken Promotional Event](Nightwish_x_Deepwoken_Promotional_Event.md) that lasted for 2 days, [The Ferryman](The_Ferryman.md) inside the [Yesterwynde Tavern](Yesterwynde_Tavern.md) would give you this drink for free.
+    -   If you already have a **Redd Juice** in your inventory, he would deny giving you any more, saying, "Hah! Finish what you have already." He will give you another drink if you drink the **Redd Juice** currently in your inventory, or if you get rid of the **Redd Juice** from your inventory by dropping it on the floor.

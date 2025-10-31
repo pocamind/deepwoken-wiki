@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 157201
+revid: 169502
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Mechanics, Currency]
@@ -25,10 +25,10 @@ Joy can be obtained in 2 ways:
 
 1.  Spooking stationary NPCs with the [Hallowtide Mask](Hallowtide_Mask.md). This gives you 3 Joy per NPC spooked, with a cooldown of 30 minutes for each NPC. Guards and similar NPCs cannot be spooked.
 2.  By doing the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>). There are 2 ways to get Joy by doing this trial.
-    -   First, by surviving each wave, which gives you 3 Joy per wave. There is a total of 8 waves, and once you complete the whole trial, you get 16 Joy on top of it. Which ultimately giving you 40 Joy per full trial.
+    -   First, by surviving each wave, which gives you 3 Joy per wave. There is a total of 8 waves, and once you complete the whole trial, you get 16 Joy on top of it, ultimately giving you 40 Joy per full trial.
     -   Second, by getting infected, and infecting other players, which gives you 3 Joy per players you infect.
 
-The most efficient method to obtain Joy is to do the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>) alone with an autoclicker. Talents like [_Carnivore_](Talents.md#apex-predator) or any equivalents will let you survive longer without having to consume [Food or Water](Food.md). More detailed tutorials can be found on _[YouTube](https://www.youtube.com/results?search_query=deepwoken+joy+farm)_.
+The most efficient method to obtain Joy is to do the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>) alone with an autoclicker while standing atop any tree or places where [Gourdskippers](Gourdskipper.md) cannot reach you. Talents like [_Carnivore_](Talents.md#apex-predator) or any equivalents will let you survive longer without having to consume [Food or Water](Food.md). More detailed tutorials can be found on _[YouTube](https://www.youtube.com/results?search_query=deepwoken+joy+farm)_.
 
 ## Usage
 

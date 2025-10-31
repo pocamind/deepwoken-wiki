@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 163121
+revid: 169496
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0**Songseeker Galebreathers** are a [humanoid enemy](Enem
 
 ## Description
 
-A Songseeker Galebreather is an enemy NPC that can be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
+A Songseeker Galebreather is an enemy NPC that can be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters, on fixed spawns, or in the Songseeker Fanactics [job](Job_Boards.md#songseeker-wilds).
 
 A Songseeker Galebreather wears a [Royal Guard Mask (Green)](Aspirant_Mask.md) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
