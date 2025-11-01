@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 167583
+revid: 169694
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -10,7 +10,7 @@ categories: [Relics]
 
 | Armorer's Needle | |
 |---|---|
-| type | Relic |
+| type | Utility |
 | rarity | Relic |
 | bankable | Yes |
 | droppable | Yes |

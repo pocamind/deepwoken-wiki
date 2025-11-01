@@ -1,23 +1,23 @@
 ---
 title: Everis Spellhardt
-revid: 168462
+revid: 169657
 source: https://deepwoken.fandom.com/wiki/Everis_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in The Floating Keep, Hallowtide]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
 ---
 
 # Everis Spellhardt
 
-| Everis | |
+| Everis Spellhardt | |
 |---|---|
 | name | Everis |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| affiliation | The Spellhardt Family |
+| family | Spellhardt family |
 
 ## Description
 
-Everis is one of many [Lightborns](Lightborn.md) scattered across [The Floating Keep](The_Floating_Keep.md). She sends you back to the Hallowtide caller, being one of two ways to leave The Floating Keep. The only other option is to server hop.
+Everis is one of many [Lightborns](Lightborn.md) scattered across [The Floating Keep](The_Floating_Keep.md). They send you back to the Hallowtide caller, being one of two ways to leave The Floating Keep. The only other option is to server hop.
 
 ## Dialogue
 

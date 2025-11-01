@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 162029
+revid: 169687
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -187,10 +187,9 @@ File:Incompetent tester.png
 ## Trivia
 
 -   The neck cosmetic is visually similar to the nack straps a saxophone player can wear.
--   Currently, this is one of three Oaths where you cannot skip progression with knowledge. (The others being [Bladeharper](Oath%253A_Bladeharper.md), and [Chainwarden](Oath%253A_Chainwarden.md))
-    -   This is probably due to the Oaths being new and the progression skip hasn't been implemented, or has been fully forgotten about.
-    -   If the knowledge progression skip were to be added it would be potentially more expensive than progressing the oath normally.
+-   Currently, this is one of three Oaths where you cannot skip progression with Knowledge.
+    -   If the knowledge progression skip were to be added it would be potentially more expensive than progressing the Oath normally.
 -   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.
 -   Rhythm Advance might be a reference to Killua's "Rhythm Echo" from HXH
--   If you have at least 40 Charisma, getting the talent '[Celebrity](Talents.md#public-figure)' makes farming reputation for [Etrea](Etrea.md) a bit easier.
+-   If you have at least 40 Charisma, getting the talent '[Celebrity](Talents.md#celebrity)' makes farming reputation for [Etrea](Etrea.md) a bit easier.
 -   There is a bug where Ardour Slicer hits through the player who parries causing unfair punishes even though they properly parried it.

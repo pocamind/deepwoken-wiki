@@ -1,6 +1,6 @@
 ---
 title: Tundra Spellhardt
-revid: 169559
+revid: 169647
 source: https://deepwoken.fandom.com/wiki/Tundra_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide, NPCs located in The Floating Keep]
@@ -13,11 +13,11 @@ categories: [Lightborn NPCs, NPCs, Hallowtide, NPCs located in The Floating Keep
 | name | Tundra |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| affiliation | The Spellhardt Family |
+| family | Spellhardt family |
 
 ## Description
 
-Tundra is female [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md). She serves no purpose aside from giving a bit of lore on Lightborns
+Tundra is female [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md).
 
 ## Dialogue
 

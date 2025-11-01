@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 161988
+revid: 169751
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -84,35 +84,36 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 #### Combat Mantras
 
 -   **Arc Wave** - Stomp the ground releasing a wave of Arc energy.
-    -   Deals 20 base Oath, Flame and Thunder damage, same as Arc Beam.
+    -   Has a base damage of 20, dealt as Flamecharm and Thundercall damage. Additionally, this scales with both Flamecharm and Thundercall.
     -   Can apply both Shock and Burning, or its Path alternate variants.
-    -   Scales with both Flamecharm and Thundercall.
+        -   Uniquely, the Shock this applies is a pink color.
     -   10s CD.
     -   While Arc Suit is active, landing Arc Wave restores 50% of your current posture.
-    -   Has 7.6x PVE scale.
+    -   Has a 7.6x PvE multiplier (multiply damage dealt by 7.6 to get PvE damage).
 -   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
 -   **Arc Beam** - Fire plasma energy. Deals additional damage in PvE.
-    -   Deals 20 base Flame and Thunder damage.
+    -   Has a base damage of 20, dealt as Flamecharm and Thundercall damage. Additionally, this with both Flamecharm and Thundercall.
     -   Can apply both Shock and Burning, or its Path alternate variants.
-    -   Scales with both Flamecharm and Thundercall.
     -   10s CD.
     -   Can be used in the air to shoot under yourself.
-        -   The aerial variant deals Oath, Flame, and Thunder damage compared to grounded Arc Beam which doesn't deal Oath damage. The damage this deals is the same as grounded Arc Beam though.
+        -   The aerial variant gains the Oath damage typing alongside its original Flame and Thunder damage typings. The damage this deals is the same as grounded Arc Beam though.
         -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
     -   Instantly grips low health players if the attack were to knock them.
     -   Can be cancelled early, letting it explode before hitting a target.
-    -   Has 17x PVE scale.
+    -   While Arc Suit is active, landing Arc Beam restores a percentage of your current posture.
+    -   Has a 17x PvE multiplier (multiply damage dealt by 17 to get PvE damage).
 
 #### Support Mantras
 
 -   **Arc Suit** - Conjure and equip your Arcwarder suit.
     -   Encases the user in durable armor for 15 seconds.
-    -   Can be modified with Aeon/Eternal Logstones to a maximum duration of 1 minute. This however also scales up its cooldown.
-    -   Can be modified with up to 3 Vibrant Gems to increase damage reduction up to 10%.
+    -   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to a maximum duration of 1 minute. This however also scales up its cooldown.
+    -   Can be modified with up to 3 [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase damage reduction up to 10%.
     -   Has i-Frames on the second half of its windup.
-    -   Orbital Ice is less effective when used alongside the Arc Suit.
-    -   Comes in Umbral, Black, Gold, Dark Gray, and Light Gray may be changed with a Dye Packet.
+    -   [Orbital Ice](Talents.md#orbital-ice) is less effective when used alongside the Arc Suit.
+    -   Comes in Umbral, Black, Gold, Dark Gray, and Light Gray. The Arc Suit and the light emitted from it may also be [dyed](Dye_Packet.md) to any color of your liking.
+    -   While Arc Suit is active, landing either of your Arcwarder Mantras will restore a percentage of your current posture.
 -   Obtained with the Oath.
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Arcwarder's attacks (except for grounded Arc Beam) deal Oath, Flame, and Thunder damage. This means they will be resisted by either your Flame or Thunder resistance (whichever is higher) unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Elemental resistance.

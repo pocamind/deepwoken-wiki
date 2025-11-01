@@ -1,9 +1,9 @@
 ---
 title: Frostdraw
-revid: 169555
+revid: 169744
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement]
+categories: [Attunement]
 ---
 
 # Frostdraw
@@ -1342,10 +1342,25 @@ These Talents are found in the _Ice Age_ category.
 
 ## Trivia
 
+-   Everything that deals Frostdraw damage will gain a 5% damage buff if it is [snowing](Environmental_Hazards.md).
 -   The [Chilling](Chilling.md) Enchantment still applies 1 second Chill in PvP per hit until it applies Bottom Freeze and then goes on cooldown until you can reapply the status.
+-   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
+-   Frostdraw has the most Mantras out of all attunements in the game.
+-   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
+-   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
+-   Prior to the January 12th, 2024 update, Glass Path: Crystallization didn't recolor your Frostdraw and the Crystals themselves were also blue.
+-   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
+-   Saint Jay and Frostbite are less effective with Glass Path: Crystallization, as they are only applied for 2 seconds after a Crystal is applied.
+-   Frozen Legs applies on all ice Mantras and has a fixed duration that can't be increased.
+-   Fragile Freeze will Freeze the opponent on Posture break from anything if they are Chilled.
+-   Similarly to every other Ritual Cast Mantra, **Frost Wisp** gives the player a finger on the hand that casts the Mantra.
+-   Bottom Freeze has a global cooldown, meaning it's not recommended to have the Chilling enchant with the Bottom Freeze Talent.
+-   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
+-   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
+-   When **Glacial Arc** is used in layer 2 of the depths, it will start falling apart piece by piece.
+-   [Navae](Lore.md#navae) is the pioneer of Frostdraw.
 -   The **Ice Fissure** Mantra is a reference to the Roblox game _Strife_, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
--   The **Warden's Blades** Mantra is likely a reference to _Devil May Cry_, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
-    
+-   The **Warden's Blades** Mantra is likely a reference to _Devil May Cry_, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing **Warden's Blades** does.
 -   The **Ice Chain** Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
 -   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in _Nioh 2_.
 -   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in _Touhou 12.3_.
@@ -1354,27 +1369,6 @@ These Talents are found in the _Ice Age_ category.
 -   The **Ice Chains** Mantra was reworked into a new ability on the 8th of February 2022.
 -   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from _[The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles)_.
 -   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in _[Overwatch](https://en.wikipedia.org/wiki/Overwatch)_.
--   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
--   Frostdraw has the most Mantras out of all attunements in the game.
--   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
--   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
--   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
--   Recommended not to abuse the Chill duration as there is a Talent that makes your enemy get 20% more dmg from light attacks if they are under an elemental status effect.(Charged Return)
--   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
--   Saint Jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
--   Frozen Legs applies on all ice Mantras and has a fixed duration that can't be increased.
--   Fragile Freeze will Freeze the opponent on Posture break from anything if they are Chilled.
--   Similarly to every other Wisp Mantra, **Frost Wisp** gives the player a finger on the hand that casts the Mantra
--   Bottom Freeze has a global cooldown, meaning it's not recommended to have the Chilling enchant with the Bottom Freeze Talent.
--   Crystal damage scales with your Frostdraw: 1 damage per 10 Frostdraw.
--   Nullifying clarity does not reduce Chilled duration. Instead, it gets rid of the Slow effect of your Chill.
--   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
--   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
--   When **Glacial Arc** is used in layer 2 of the depths, it will start falling apart piece by piece.
-    
-    File:Frost Mantras damage.png
-    
--   [Navae](Lore.md#navae) is the pioneer of Frostdraw.
 
 ## References
 

@@ -1,9 +1,9 @@
 ---
 title: Tied Tie
-revid: 152418
+revid: 169680
 source: https://deepwoken.fandom.com/wiki/Tied_Tie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Items, Equipment, Torso, Developer Spec]
+categories: [Exclusive, Items, Equipment, Torso, Developer Spec, Ties]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---

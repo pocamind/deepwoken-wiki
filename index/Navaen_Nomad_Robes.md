@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 167549
+revid: 169735
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, The Children of Navae]
@@ -35,11 +35,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1800 durability, grants +10% Physical resistance, +10% Elemental resistance, +10% Blunt resistance, +15% Ice resistance, +15% Shadow resistance, and +50% [Stealth](Stealth.md). Additionally, it provides the [Fists of Navae](Talents.md#equipment-talents) Talent.
+This Outfit has 1800 durability, grants +10% Physical resistance, +10% Elemental resistance, +10% Blunt resistance, +15% Ice resistance, +15% Shadow resistance, and +50% [Stealth](Stealth.md). Additionally, it provides the [Fists of Navae](Talents.md#fists-of-navae) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt, 10% Slash, 23.5% Frostdraw, 23.5% Shadowcast, and 10% Elemental.
 
-The [Fists of Navae](Talents.md#equipment-talents) Talent increases the user's flourish timer while using Way of Navae from 2 seconds to 3 seconds. This means you can wait 3 seconds after your third M1 before triggering a flourish.
+The [Fists of Navae](Talents.md#fists-of-navae) Talent increases the user's flourish timer while using Way of Navae from 2 seconds to 3 seconds. This means you can wait 3 seconds after your third M1 before triggering a flourish.
 
 ## Trivia
 

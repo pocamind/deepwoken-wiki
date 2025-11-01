@@ -1,19 +1,19 @@
 ---
 title: Alina Spellhardt
-revid: 168758
+revid: 169649
 source: https://deepwoken.fandom.com/wiki/Alina_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in The Floating Keep, Hallowtide]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
 ---
 
 # Alina Spellhardt
 
-| Alina | |
+| Alina Spellhardt | |
 |---|---|
 | name | Alina |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| affiliation | The Spellhardt Family |
+| family | Spellhardt family |
 
 ## Description
 

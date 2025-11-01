@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 157733
+revid: 169731
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -36,11 +36,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit grants +10% Physical resistance and +10% Blunt resistance. Additionally, it provides the [Looter](Talents.md#equipment-talents) Talent.
+This Outfit grants +10% Physical resistance and +10% Blunt resistance. Additionally, it provides the [Looter](Talents.md#looter) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt and 10% Slash.
 
-The [Looter](Talents.md#equipment-talents) Talent grants the user extra loot for items they turn in for rewards.
+The [Looter](Talents.md#looter) Talent grants the user extra loot for items they turn in for rewards.
 
 **Events this may affect:**
 

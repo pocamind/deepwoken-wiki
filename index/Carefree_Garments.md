@@ -1,6 +1,6 @@
 ---
 title: Carefree Garments
-revid: 162609
+revid: 169715
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -35,9 +35,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 6 
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability, grants +10% Physical Armor, and +15% Elemental Armor. Additionally, it provides the [Fleetfoot](Talents.md#equipment-talents) Talent.
+This Outfit has 2000 durability, grants +10% Physical Armor, and +15% Elemental Armor. Additionally, it provides the [Fleetfoot](Talents.md#fleetfoot) Talent.
 
-The [Fleetfoot](Talents.md#equipment-talents) Talent grants the user a speed boost after slide jumping.
+The [Fleetfoot](Talents.md#fleetfoot) Talent grants the user a speed boost after slide jumping.
 
 ## Trivia
 

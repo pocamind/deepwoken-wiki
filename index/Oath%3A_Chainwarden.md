@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 169613
+revid: 169684
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -147,8 +147,6 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Using a wish to break your Oath at [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), will provide the following dialogue from [Vice Warden Morredh](Vice_Warden_Morredh.md):
     -   "Another deserter? You're pathetic."
 -   Talking with [Vice Warden Morredh](Vice_Warden_Morredh.md) after Oath breaking Chainwarden will provide the following dialogue:
-    -   "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath
--   This is one of the three Oaths where you cannot skip progression with knowledge. (Others being [Bladeharper](Oath%253A_Bladeharper.md) and [Soulbreaker](Oath%253A_Soulbreaker.md))
-    -   This will most likely change in the future similar to Oaths such as [Saintsworn](Oath%253A_Saintsworn.md) which had their skip added late, although the developers most likely forgot.
+    -   "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath.
 -   Previously left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
 -   Restrain previously ignored Return to the Dark Ages, an old removed talent.

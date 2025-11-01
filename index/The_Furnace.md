@@ -1,6 +1,6 @@
 ---
 title: The Furnace
-revid: 165809
+revid: 169718
 source: https://deepwoken.fandom.com/wiki/The_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant, Lawless Territory]

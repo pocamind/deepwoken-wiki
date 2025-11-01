@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 169550
+revid: 169748
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1387,6 +1387,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Flashfreeze
 
 -   Temperature Shock \[Common Talent, Dual Attunement\] - Your fire mantras now detonate any stacked crystals.
+    -   This has a 4 second cooldown.
     -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
 
 ### Freak Of Nature
@@ -1433,8 +1434,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Frozen Lightning
 
 -   Fulgurite Formation \[Common Talent, Dual Attunement\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
-    -   The lightning strikes deal 5 typeless damage without applying Surge stacks.
-    -   The lightning strikes have a 1.08x PvE scaling, affected by Chain of Perfection.
+    -   The lightning strikes deal 5 typeless damage without applying Surge stacks. They have a 1.08x PvE scaling, dealing 5.4 PvE damage.
+    -   The lightning strikes have a cooldown of 4 seconds.
     -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
     -   Prerequisites: Glass Path: Crystallization, Surge Path: Unstable Capacitor, 50 Frostdraw, 50 Thundercall
 
@@ -3333,7 +3334,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Increases the time it takes for parasites to kill you.
-    -   Negates damage buffs from weather. This only applies to Stratoshock.
+    -   Negates damage buffs from weather.
+        -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage bonus during snow.
+        -   Stratoshock will no longer apply its 5% damage bonus during rain.
     -   Obtained by equipping [Winter Corps Parka](Winter_Corps_Parka.md).
 
 ### Swiftshade

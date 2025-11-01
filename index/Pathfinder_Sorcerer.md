@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 152564
+revid: 169709
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to have at least 5 [Intelligence](A
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +5% Physical resistance, and +10% Elemental resistance. Additionally, it provides the [Lowstride](Talents.md#assassin) Talent.
+This Outfit has 1000 durability, grants +5% Physical resistance, and +10% Elemental resistance. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
-The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
+The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
 ## Trivia/Notes
 

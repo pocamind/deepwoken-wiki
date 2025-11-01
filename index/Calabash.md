@@ -1,24 +1,37 @@
 ---
 title: Calabash
-revid: 160214
+revid: 169733
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Ingredients, Items, Harvestables, Alchemy]
+categories: [Items, Food, Ingredients, Harvestables, Food Ingredients]
 ---
 
 # Calabash
 
-Template:Food Template V1
+| Calabash | |
+|---|---|
+| weight | 1 |
+| stack | x99 |
+| type | Ingredient |
+| food type | Plant |
+| stomach | 15% |
+| water | 20% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Fleshy and rich. Holds its water well. |
 
 ## Description
 
 A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md) & [Summer Isle](Summer_Isle.md) growing on bushes in quantities of 3-5 per bush. It's a good idea to bring a few when going on excursions if you don't have a [Canteen](Canteen.md) since it replenishes a good amount of thirst relative to other starting island foods.
 
-## Recipes used in
+## Crafting
 
--   [Candied Fruit](Food.md) (Any Fruit, Sap)
--   [Canteen](Canteen.md) (Calabash, Beeswax)
--   [Fruit Salad](Food.md) (Three fruits that are different. ex: Calabash, Pomar, Ongo)
+### Used in
+
+-   [Candied Fruit](Candied_Fruit.md) - 1 Calabash and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
+-   [Canteen](Canteen.md) - 1 Calabash and 1 [Beeswax](Beeswax.md) at a [Crafting Station](Crafting_Station.md).
+-   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits), no Campfire required.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 168731
+revid: 169700
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -10,7 +10,7 @@ categories: [Relics]
 
 | Forge Needle | |
 |---|---|
-| type | Relic |
+| type | Utility |
 | rarity | Relic |
 | bankable | Yes |
 | droppable | Yes |
@@ -27,7 +27,7 @@ For rare equipment that are hard to find many 3 star versions of such as: [Simme
 
 ## Obtainment
 
-Crafted using 1 [Armorer's Needle](<Armorer's_Needle.md>) and 3 [Smith's Alloys](<Smith's_Alloy.md>) OR 1 [Gilded Needle](Gilded_Needle.md) and 1 [Smith's Alloy](<Smith's_Alloy.md>) (Can be crafted without a crafting bench). Forge Needles can also be sold in [Traan Zakshun's](Traan_Zakshun.md#black-market) black market for 2.
+Crafted using 1 [Armorer's Needle](<Armorer's_Needle.md>) and 3 [Smith's Alloys](<Smith's_Alloy.md>) OR 1 [Gilded Needle](Gilded_Needle.md) and 1 [Smith's Alloy](<Smith's_Alloy.md>) (Can be crafted without a [crafting bench](Crafting_Station.md)). Forge Needles can also be sold in [Traan Zakshun's](Traan_Zakshun.md#black-market) black market for 2.
 
 ## Trivia
 

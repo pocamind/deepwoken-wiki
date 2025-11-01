@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 162614
+revid: 169736
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +18% Physical Armor, and +8% Elemental Armor. Additionally, it provides the [Environmentalist](Talents.md#equipment-talents) Talent.
+This Outfit has 1200 durability, grants +18% Physical Armor, and +8% Elemental Armor. Additionally, it provides the [Environmentalist](Talents.md#environmentalist) Talent.
 
-The [Environmentalist](Talents.md#equipment-talents) Talent reduces the damage taken from certain weather effects like Acid Rain.
+The [Environmentalist](Talents.md#environmentalist) Talent reduces the damage taken from certain weather effects like Acid Rain.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 157552
+revid: 169712
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Starter Outfits]
@@ -29,12 +29,12 @@ categories: [Items, Outfits, Starter Outfits]
 
 ### _Requirements_
 
-This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Crystal Lens](Mantra_Modifiers.md) to craft.
+This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +12% Physical resistance, and +12% Elemental resistance. Additionally, it provides the [Apothecary](Talents.md#alchemist) Talent.
+This Outfit has 1200 durability, grants +12% Physical resistance, and +12% Elemental resistance. Additionally, it provides the [Apothecary](Talents.md#apothecary) Talent.
 
-The [Apothecary](Talents.md#alchemist) Talent causes potions that benefit the player have +125% potency. This potency is additive to potency from Intelligence investment.
+The [Apothecary](Talents.md#apothecary) Talent causes potions that benefit the player have +125% potency. This potency is additive to potency from Intelligence investment.
