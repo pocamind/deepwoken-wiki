@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 153771
+revid: 169764
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance and +25% Elemental resistance.
+This Outfit has 2500 durability and grants +25% Physical resistance and +25% Elemental resistance. Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
 
-This Outfit also grants the [Unbreakable](Talents.md#equipment-talents) Talent, reducing the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
+The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 
 ## Trivia
 

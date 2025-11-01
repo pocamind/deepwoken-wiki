@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 153377
+revid: 169970
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, The Hive]
@@ -35,11 +35,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemental resistance, +10% Wind resistance and 15% Ironsing resistance.
+This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemental resistance, +10% Wind resistance and 15% Ironsing resistance. Additionally, it provides the [Brunt](Talents.md#brunt) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 32% Ironsing, 28% Galebreathe, and 20% Elemental.
 
-Hive Tactician Armor also grants the [Brunt](Talents.md#equipment-talents) Talent, increasing posture resistance while two-handing by 10%.
+The [Brunt](Talents.md#brunt) Talent increases your posture resistance while two-handing by 10%.
 
 ## Trivia/Notes
 

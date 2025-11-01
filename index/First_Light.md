@@ -1,9 +1,9 @@
 ---
 title: First Light
-revid: 162616
+revid: 169895
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, Heavy Weapons]
+categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
 ---
 
 # First Light
@@ -52,7 +52,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of the few greatswords that have no endlag on M1s (some others being the [Kyrsieger](Kyrsieger.md), [Enforcer's Blade](<Enforcer's_Blade.md>), and [Railblade](Railblade.md) just to name a few).
--   Similar to a [Flamecharm](Flamecharm.md) Mantra, both parts of First Light's critical will receive a damage debuff during the rain unless you have the [Unyielding Inferno](Talents.md#flamecharmer) Talent.
+-   Similar to a [Flamecharm](Flamecharm.md) Mantra, both parts of First Light's critical will receive a damage debuff during the rain unless you have the [Unyielding Inferno](Talents.md#unyielding-inferno) Talent.
 -   First Light is one of two weapons to have a critical that scales solely on an attunement stat despite the weapon not requiring said attunement to wield, the other being the [Krulian Knife](Krulian_Knife.md).
 -   The swords from the sword rain on the critical are not counted as "weapon attacks" for any effect in the game. This allows them to do things like not lose damage if you have a [Ring of Casters](Ring_of_Casters.md) equipped, but also not gain a damage buff from things like [Shade Devour](Shadowcast.md#shade-devour).
 -   The weapon originally had its own unique M1 animations, but they were removed due to being "unfinished and buggy".
@@ -60,9 +60,9 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   It was given reworked animations in the 4/24/2023 update, alongside a new critical attack.
         -   Two years later, it was then given a visual remodel on the 4/26/2025 update.
 -   Currently, First Light's critical does not change colors depending on if you have Azure Flames or Twisted Puppets.
--   While it has good stats and has no endlag, it is severely held back by its okay-ish critical that has an unnecessarily high cooldown, making players opt to use [Nemesis](Enchantments.md#blessings) instead.
+-   While it has good stats and has no endlag, it is severely held back by its okay-ish critical that has an unnecessarily high cooldown, making players opt to use [Nemesis](Nemesis.md) instead.
 -   During the Deepwoken Youtuber Battle Royale Tournament on 7/1/2023, Youtuber "Trunks" used this sword to clutch out a victory during the 4th Round of the Tournament against "Floppingman" and "nogo" during the final circle.
     -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s Talent, _Actions Speak Louder_, the critical cooldown is reduced to 20 seconds.
-    -   If you add the [Critical Engine](Talents.md#intellisense) Talent with [Blessed Gem](Blessed_Gem.md) to your [Warmaster's Medallion](<Warmaster's_Medallion.md>), you can bring the First Light critical down to 10 seconds, as the Blessed Gem effect that halves your cooldown is applied **after** Warmaster's Medallion.
+    -   If you add the [Critical Engine](Talents.md#critical-engine) Talent with [Blessed Gem](Blessed_Gem.md) to your [Warmaster's Medallion](<Warmaster's_Medallion.md>), you can bring the First Light critical down to 10 seconds, as the Blessed Gem effect that halves your cooldown is applied **after** Warmaster's Medallion.
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).

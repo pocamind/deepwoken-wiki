@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 160032
+revid: 169942
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Skull Piercer is a [Light Weapon](Weapons.md) in the rapier category. It is obtained by getting [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md) or turning knowledge with Hallowtide Medals.
+The Skull Piercer is a [Light Weapon](Weapons.md) in the rapier category, with skulls on either side of the guard.
 
 ## Critical
 

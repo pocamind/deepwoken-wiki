@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 162605
+revid: 169983
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, World Event]
@@ -39,13 +39,13 @@ This Outfit isn't droppable but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Ice resistance and +75% Ether Regen.
+This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Ice resistance and +75% Ether Regen. Additionally, it provides the [Refreeze](Talents.md#refreeze) and [Orbital Ice](Talents.md#orbital-ice) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Frostdraw and 30% Elemental. Adding Orbital Ice from the Outfit Talent brings the Physical resistance up to 36.25%.
 
-It gives the [Refreeze](Talents.md#equipment-talents) and [Orbital Ice](Talents.md#frostthorn) Talents. **Refreeze** lowers your Orbital Ice cooldown by 8 seconds when landing any sort of ability that would cause a bottom freeze proc. **Orbital Ice** forms a ring of ice around your character if you parry while standing on ice. This ice ring grants 15% Physical damage resistance.
+The [Refreeze](Talents.md#refreeze) Talent lowers your [Orbital Ice](Talents.md#orbital-ice) cooldown by 8 seconds when you land any ability that would proc [Bottom Freeze](Talents.md#bottom-freeze). The [Orbital Ice](Talents.md#orbital-ice) Talent forms a ring of ice around your character if you parry while standing on ice, granting 15% physical damage resistance.
 
-This Outfit's Orbital Ice will work even if you have the "[Fists of Fortitude](Talents.md#navaen-nomad)" Talent despite it being mutually exclusive with Orbital Ice, allowing you to use both talents simultaneously. Stacking this Outfit's resistances along with with Orbital Ice and Fists of Fortitude brings your total resistances to 45.8% Physical, 55.38% Frostdraw, and 40.5% Elemental resistance.
+This Outfit's Orbital Ice Talent will work even if you have the "[Fists of Fortitude](Talents.md#fists-of-fortitude)" Talent despite these Talents normally being mutually exclusive with eachother. Stacking this Outfit's resistances along with with Orbital Ice and Fists of Fortitude brings your total resistances to 45.8% Physical, 55.38% Frostdraw, and 40.5% Elemental resistance.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 153790
+revid: 169763
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, Etrea]
@@ -35,11 +35,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +20% Physical resistance, +30% Elemental resistance and +25% Shadow resistance.
+This Outfit has 1200 durability and grants +20% Physical resistance, +30% Elemental resistance and +25% Shadow resistance. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical, 47.5% Shadowcast, 30% Elemental.
 
-The [Paired Soul](Talents.md#equipment-talents) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
+The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 
 ## Trivia/Notes
 

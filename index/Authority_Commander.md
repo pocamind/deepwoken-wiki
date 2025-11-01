@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 166450
+revid: 169977
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -40,16 +40,15 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-The Outfit has 2800 durability, grants 30% Elemental Armor, +30% Physical Armor, +10% Blunt Armor, +10% Fire Armor, and +20% Ether Regeneration. Additionally, it provides the [Riot Breaker](Talents.md#equipment-talents) Talent.
+The Outfit has 2800 durability, grants 30% Elemental Armor, +30% Physical Armor, +10% Blunt Armor, +10% Fire Armor, and +20% Ether Regeneration. Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt, 30% Slash, 37% Flamecharm, and 30% Elemental.
 
-The [Riot Breaker](Talents.md#equipment-talents) Talent makes it so that you receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
+The [Riot Breaker](Talents.md#riot-breaker) Talent makes it so that you receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 
 ## Trivia/Notes
 
 -   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
 -   This is a good outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
 -   The other two outfits of similar origin are the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
--   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>).
--   Despite being exclusive to the Command division of the [Authority Ensign](Authority_Ensign.md) origin, You do not recieve this outfit automatically or at commander rank in Leadership division.
+-   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>) NPCs.

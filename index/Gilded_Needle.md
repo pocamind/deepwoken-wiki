@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 169696
+revid: 169861
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -15,7 +15,7 @@ categories: [Relics]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| obtainment | Crafting, Carnival of Hearts, Sold in Traan Zakshun's black market for 5 |
+| obtainment | Crafting, Carnival of Hearts, Sold in Traan Zakshun's black market for 5 , Goodie Bag |
 
 ## Description
 

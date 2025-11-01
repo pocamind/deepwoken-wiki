@@ -1,9 +1,9 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 168693
+revid: 169914
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", The Hive, Multiple Criticals, Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", The Hive, Multiple Criticals, Heavy Weapons]
 ---
 
 # Ysley's Pyre Keeper

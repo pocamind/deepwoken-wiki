@@ -1,6 +1,6 @@
 ---
 title: Steel Plate
-revid: 157741
+revid: 169757
 source: https://deepwoken.fandom.com/wiki/Steel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits]
@@ -36,11 +36,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +5% Physical resistance, 20% Slash resistance, and +25% Fire resistance. Additionally, it provides the [Lowstride](Talents.md#assassin) Talent.
+This Outfit has 1000 durability and grants +5% Physical resistance, 20% Slash resistance, and +25% Fire resistance. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 5% Physical, 24% Slash, and 25% Flamecharm.
 
-The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
+The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
 ## Trivia
 

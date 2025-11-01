@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 169673
+revid: 169951
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -343,6 +343,7 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   The Aegis Gem isn't obtained from any of the above sources, it's exclusively obtained through completing [The Vat](The_Vat.md)'s trial and then trading a [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) with [The Gaunt Man](The_Gaunt_Man.md).
 -   The Wrath and Might Gems aren't obtained from any of the above sources, they're exclusively obtained from the [Merit Detainment Core](Merit_Detainment_Core.md) dungeon.
 -   The Warped Blue Gem is of [Relic](Relics.md) rarity and is obtained exclusively from [Fishing](Fishing.md).
+-   The Nocturnal Gem is of [Relic](Relics.md) rarity and is obtained exclusively from Hallowtide and the [Goodie Bag](Goodie_Bag.md) items.
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
@@ -390,7 +391,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Nocturnal Gem</td>
-  <td>WIP</td>
+  <td>On Mantra hit, bats will burst out of your opponent after a short delay, dealing additional damage. This effect has a 25 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

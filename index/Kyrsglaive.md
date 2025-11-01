@@ -1,9 +1,9 @@
 ---
 title: Kyrsglaive
-revid: 169552
+revid: 169905
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
 ---
 
 # Kyrsglaive

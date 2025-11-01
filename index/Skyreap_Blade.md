@@ -1,9 +1,9 @@
 ---
 title: Skyreap Blade
-revid: 157146
+revid: 169874
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Greataxes, Event Item, Hallowtide, Heavy Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
 ---
 
 # Skyreap Blade
@@ -25,12 +25,12 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
 | description | The ribs of this blade seem to possess an otherworldly durability, unheard of within these lands. Some rumor that they may be bones of the Edenkite themselves. |
 
 ## Description
 
-The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md). It is the second fastest Greataxe type weapons in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell. Only obtainable during [Hallowtide](Hallowtide.md).
+The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is the second fastest Greataxe type weapons in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 158410
+revid: 169868
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowti
 | damage | 15 + 4.5 BLD |
 | scaling | LHT: 7.5 |
 | range | 6 |
-| swing speed | 1.10x |
+| swing speed | 1.1x |
 | penetration | 10% |
 | chip damage | 10% |
 | m.equip | No |
@@ -27,14 +27,12 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowti
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
 | description | ... |
 
 ## Description
 
-The Drakemaw Gauntlets are a Light Weapon in the Fists category. You can obtain it from various [Hallowtide](Hallowtide.md) sources, like the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>) or [Lysander Spellhardt](Lysander_Spellhardt.md)'s Joy trade. Trading with [Glaive Spellhardt](Glaive_Spellhardt.md) for the Hallowtide '23 Medal will enable all slots to purchase the Drakemaw Guantlets from [Blacksmiths](Blacksmith.md) at the cost of 7 [Knowledge](Knowledge.md) any time of the year.
-
-Meeting the requirement of LHT, the weapon deals 21.3 damage, becoming 27.7 with bleed. At max LHT, the weapon deals 23.4 damage, becoming 30.5 with bleed.
+The Drakemaw Gauntlets are a Light Weapon in the Fists category.
 
 ## Critical
 
@@ -44,6 +42,8 @@ The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
+-   Meeting the requirement of LHT, the weapon deals 21.3 damage, becoming 27.7 with [Bleed](Status_Effects.md#bleed).
+-   At max LHT, the weapon deals 23.4 damage, becoming 30.5 with [Bleed](Status_Effects.md#bleed).
 -   Like all other Hallowtide exclusive weapons, these are not droppable.
 -   The weapon's critical has potential for M1/Mantra follow-up, especially if your enemy doesn't know how to ragdoll cancel.
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) being teased instead.

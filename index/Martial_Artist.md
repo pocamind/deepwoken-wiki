@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 159230
+revid: 169973
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, Drops]
@@ -34,11 +34,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ## Armor Stats
 
-This Outfit has 1200 durability and grants +30% Physical Armor, +20% Elemental Armor, +5% Fire Armor, +5% Ironsing Armor.
+This Outfit has 1200 durability and grants +30% Physical Armor, +20% Elemental Armor, +5% Fire Armor, +5% Ironsing Armor. Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 24% Flamecharm, 24% Ironsing, and 20% Elemental.
 
-This Outfit also grants the [Bruiser's Mixup](Talents.md#brawler) Talent, which allows your Fist attacks to inflict bleed temporarily after stance swapping.
+The [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent allows your [Fist](Fists.md) attacks to inflict [Bleed](Status_Effects.md#bleed) temporarily after style swapping (Y).
 
 ## Trivia
 

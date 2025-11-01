@@ -1,9 +1,9 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 168495
+revid: 169978
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Items, Hallowtide]
+categories: [Event Only Content, Items, Hallowtide, Event Item]
 notices:
   - "This page contains Event Exclusive Content This event will only likely be ran once, and as such is exclusive to those who attended the event."
 ---
@@ -37,7 +37,7 @@ notices:
 | desc | An odd shell with a cardboard like texture. Why has no one found this before? |
 | obtainment | All Chests |
 
-The **Fine Ink**, **Paperette** and **Shell Stock** are items used for the Deepwoken [Hallowtide](Hallowtide.md) 2022-2024 event to craft the [Hallowtide Mask](Hallowtide_Mask.md).
+The **Fine Ink**, **Paperette** and **Shell Stock** are items used for the Deepwoken [Hallowtide](Hallowtide.md) 2022-2025 event to craft the [Hallowtide Mask](Hallowtide_Mask.md).
 
 These items are found within chests of any mob (depths included). The items have no further use besides the quest at the moment. The items can be dropped.
 

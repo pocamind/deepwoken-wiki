@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 169322
+revid: 169863
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -318,8 +318,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p>Harrowing is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a></p>Harrowing Enchant Stone can be purchased from two different vendors:<div>
   <ul>
     <li>Any <a href="Blacksmith.md">Blacksmith</a> for if you have the <a href="Seasonal_Medals.md">Hallowtide '23 Medal</a>.</li>
-    <li><a href="Glaive_Spellhardt.md">Glaive Spellhardt</a> for 100 Joy during <a href="Hallowtide.md">Hallowtide</a>.<p></p></li>
-  </ul></div></div></td>
+    <li><a href="Glaive_Spellhardt.md">Glaive Spellhardt</a> for 100 Joy during <a href="Hallowtide.md">Hallowtide</a>.</li>
+  </ul>Other sources:<div>
+  <ul>
+    <li><a href="Goodie_Bag.md">Goodie Bag</a><p></p></li>
+  </ul></div></div></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
 </tr>
 <tr>

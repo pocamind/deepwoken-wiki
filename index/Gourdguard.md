@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 163985
+revid: 169873
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
@@ -20,14 +20,12 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [5 Knowledge] |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [5 Knowledge], Goodie Bag |
 | description | ... |
 
 ## Description
 
 Requiring 50 Fortitude to equip, this Jack o' Lantern-themed [shield](Weapons.md#offhands) grants the user 7 additional posture.
-
-You can obtain this by buying this from [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have bought the "Hallowtide 2023 Medal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide) for 5 Knowledge anytime.
 
 ## Trivia
 

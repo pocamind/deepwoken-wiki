@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 169192
+revid: 169778
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,6 +80,8 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
     -   Deals 25 posture damage per hit.
     -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.
 -   Obtained after the third Sinner kill.
+
+-   **Ichor Imbuement** - Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
 
 ### Mantras
 

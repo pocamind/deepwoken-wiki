@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 169242
+revid: 169966
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -40,7 +40,7 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 -   Reinforced Hunger grants certain buffs, signified by a specially colored secondary bar on top of the normal Hunger bar until it's depleted.
 -   The type of buff can be identified by hovering over the differently colored bar.
 -   Different types of buffs will replace each other. Same types of buffs will stack in duration.
--   The "Buff Strength" stat on food does not indicate the power of the buff, but instead how much of your hunger bar becomes reinforced upon consumption. For example, a Glazed Fish and Mushroom Omelette provide the same melee damage multiplier.
+-   The numbers in parenthesis after the buff type food tooltips does not indicate the potency of the buff, but instead how much of your hunger bar becomes reinforced upon consumption. For example, a Glazed Fish and Mushroom Omelette provide the same melee damage multiplier.
 
 ### Buffs
 

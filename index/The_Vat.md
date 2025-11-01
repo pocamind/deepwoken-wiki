@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 166637
+revid: 169782
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, The Depths, Locations in the First Layer, Dungeons]
@@ -22,13 +22,22 @@ The Vat is a dungeon located in a hidden cave in the depths. The room itself is 
 
 ## Contents
 
-The Vat is a arena [The Gaunt Man](The_Gaunt_Man.md) puts you in where you have to fight 3 trials that go like this:
+The Vat is an arena in which [The Gaunt Man](The_Gaunt_Man.md) subjects players to three escalating trials. Each trial features a powerful opponent, increasing in difficulty as the challenge progresses:
 
-First Trial: [Fury Nautilodaunt](Fury_Nautilodaunt.md)
+-   First Trial: [Fury Nautilodaunt](Fury_Nautilodaunt.md)
+-   Second Trial: [Prime Megalodaunt](Prime_Megalodaunt.md)
+-   Third Trial: [Parliament](Parliament.md)
 
-Second Trial: [Prime Megalodaunt](Prime_Megalodaunt.md)
+Upon completing all three trials, you'll be reunited with [The Gaunt Man](The_Gaunt_Man.md). He will have many dialogue options but most notability his shop which contains:
 
-Third Trial: [Parliament](Parliament.md)
+-   [Curse of Void Enchant Stone](Enchantments.md#curses)
+    -   25 [Void Spires](Void_Spire.md), 10 Crowns
+-   [Rain Enchant Grease](Enchantments.md#equipment)
+    -   25 [Rain Spires](Rain_Spire.md), 10 Crowns
+-   [Parasol's Blight Enchant Stone](Enchantments.md#blessings)
+    -   Parasol Part
+-   [Aegis Gem](Mantra_Modifiers.md#deep-gems)
+    -   Doom of Caeranthil's Scale
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 169100
+revid: 169980
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -37,17 +37,15 @@ This Outfit also requires the player to be at least [Power](Power.md) 15 to be c
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemental resistance, +20% Shadow resistance, +50% [Stealth](Stealth.md), +16 Sanity and +50% Ether Regen.
+This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemental resistance, +20% Shadow resistance, +50% [Stealth](Stealth.md), +16 Sanity and +50% Ether Regen. Additionally, it provides the [Withering Soul](Talents.md#withering-soul) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44% Shadowcast, and 30% Elemental.
 
-The Outfit provides the [Withering Soul](Talents.md#equipment-talents) Talent, which makes your M1's proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or the [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
-
--   The Wither applied is based off your weapon's scaled damage.
+The [Withering Soul](Talents.md#withering-soul) Talent makes your M1s deal 12.5% of their scaled damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or the [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
 
 ## Trivia
 
 -   This outfit used to be a Unique armor, but the rarity was dropped down to Master when it became droppable in the January 18th, 2025 update.
     -   This outfit used the original clothing for the [Moonseye](Moonseye.md) outfit.
--   One of the two Master outfits, the other being [Royal Etrean Guard](Royal_Etrean_Guard.md), that do not require a [Deep Gem](Mantra_Modifiers.md#deep-gems) to be crafted.
+-   One of the two Master outfits, the other being [Royal Etrean Guard](Royal_Etrean_Guard.md), that do not require a [Deep Gem](Deep_Gems.md) to be crafted.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9520632236/Sellsword) / [Pants](https://www.roblox.com/catalog/9520635195/Sellsword)

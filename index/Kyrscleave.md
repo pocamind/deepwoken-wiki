@@ -1,9 +1,9 @@
 ---
 title: Kyrscleave
-revid: 169541
+revid: 169906
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Kyrscleave

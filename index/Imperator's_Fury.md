@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 165741
+revid: 169969
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -21,14 +21,14 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Titus Fulminus Destellus |
+| obtainment | Titus Fulminus Destellus, Lysander Spellhardt |
 | description | Certain legions among the Hundred, such as the Imperators of the 77th, include members who implant physiologically altering stakes into their bodies as a part of a sacred vow to enhance their physical abilities. By embedding such a stake, they willingly sacrifice a part of themselves in exchange for heightened strength and abilities. Though this concept isn't unilaterally accepted amongst the legions as an appropriate way to acquire strength. |
 
 ## Description
 
 The Imperator's Fury is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-Equipping it grants the [Brute Strength](Talents.md#equipment-talents) Talent, replacing your Vent with a slam attack that deals 45 Typeless damage and knocks enemies back. This attack deals 20 Posture damage and has double the windup of a regular Vent (0.25s -> 0.5s).
+Equipping it grants the [Brute Strength](Talents.md#brute-strength) Talent, replacing your Vent with a slam attack that deals 45 Typeless damage and knocks enemies back. This attack deals 20 Posture damage and has double the windup of a regular Vent (0.25s -> 0.5s).
 
 This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md).
 

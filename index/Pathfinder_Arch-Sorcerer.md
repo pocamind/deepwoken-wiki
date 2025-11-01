@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 163484
+revid: 169974
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -37,15 +37,15 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +10% Physical resistance, +25% Elemental resistance, +10% Lightning resistance, +10% Ice resistance and +50% Ether Regen.
+This Outfit has 1500 durability and grants +10% Physical resistance, +25% Elemental resistance, +10% Lightning resistance, +10% Ice resistance and +50% Ether Regen. Additionally, it provides the [Devastating Power](Talents.md#devastating-power) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 32.5% Frostdraw, 32.5% Thundercall, and 25% Elemental.
 
-This Outfit also grants the [Devastating Power](Talents.md#equipment-talents) Talent, which gives the player +10 Ether for every equipped Mantra.
+The [Devastating Power](Talents.md#devastating-power) Talent gives the player +10 Ether for every _equipped_ Mantra.
 
 ## Trivia
 
--   Expect to get a minimum of +40 Ether on common builds, with an upper limit of +140 Ether with the [Neuroplasticity](Talents.md#genius-intelect), [Wisp Convergence](Talents.md#sage-of-wisps), [Will o' Wisp](Talents.md#sage-of-wisps) Talents, and the [Saintsworn](Oath%253A_Saintsworn.md) Oath.
+-   Expect to get a minimum of +40 Ether on common builds, with an upper limit of +140 Ether with the [Neuroplasticity](Talents.md#neuroplasticity), [Wisp Convergence](Talents.md#wisp-convergence), [Will o' Wisp](Talents.md#will-o-wisp) Talents, and the [Saintsworn](Oath%253A_Saintsworn.md) Oath.
     -   Wisp Convergence will not work if you do not have [Oathless](Oath%253A_Oathless.md), but it will still grant its additional Wisp Mantra slot.
 -   The outdated version is similar to [Robin's](https://fireemblem.fandom.com/wiki/Robin) outfit from the Fire Emblem series.
 -   A functionally superior version of [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).

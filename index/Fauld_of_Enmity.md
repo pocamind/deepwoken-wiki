@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 169466
+revid: 169958
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Items, Torso]
@@ -23,7 +23,7 @@ categories: [Equipment, Items, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Heart of Enmity |
+| obtainment | Heart of EnmityLysander Spellhardt |
 | description | The titanic fauld of Enmity, a grim relic said to be woven from human hair, like some kind of sick trophy, each strand steeped in the anguish and malice of its former owners. |
 
 ## Description

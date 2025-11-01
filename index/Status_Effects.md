@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 169486
+revid: 169967
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -131,7 +131,7 @@ This effect happens when your Sanity is 30% or less, aptly named "Tier 2 [Insani
 
 This effect happens when your Sanity is 10% or less, aptly named "Tier 3 [Insanity](Insanity.md)." Panicking will be replaced with your character Scratching their body and face which deals **20 damage** and stunning you for **1.5 seconds**, and then you will Shiver for 2 seconds. If you don't have enough health left when Scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. If you have the [Unfazed](Talents.md#sturdy-resolve) Talent, you will Panic instead of Scratching. Due to how long it takes to get to max insanity, (unless you have [Manic](Boons_and_Flaws.md#manic)) you will almost never get this unless you've been in [the Depths](The_Depths.md) for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a Corrupted Resonance with the Insanity downside.
 
-### Food Buffs
+### Reinforced Hunger
 
 Eating certain [food](Food.md) items can provide the user with useful buffs. The food buff you have as well as its duration can be viewed on your hunger bar, with a colored section at the top displaying the duration. The duration of food buffs are tied to the food eaten and your hunger bar as a whole, meaning if you are losing hunger from doing something like swimming, the buff will drain faster.
 

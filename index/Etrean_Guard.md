@@ -1,6 +1,6 @@
 ---
 title: Etrean Guard
-revid: 153729
+revid: 169767
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, Etrea]
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance and +20% Elemental resistance.
+This Outfit has 2000 durability and grants +25% Physical resistance, and +20% Elemental resistance. Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
 
-This Outfit also grants the [Unbreakable](Talents.md#equipment-talents) Talent, reducing the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
+The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 
 ## Trivia
 

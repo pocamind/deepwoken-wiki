@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 153541
+revid: 169768
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits]
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +20% Physical resistance, +20% Elemental resistance and +40% [Stealth](Stealth.md).
+This Outfit has 2000 durability and grants +20% Physical resistance, +20% Elemental resistance, and +40% [Stealth](Stealth.md). Additionally, it provides the [Legendary](Talents.md#legendary) Talent.
 
-This Outfit also grants the [Legendary](Talents.md#equipment-talents) Talent, granting Ether restoration on weapon attacks and parries.
+The [Legendary](Talents.md#legendary) Talent grants Ether restoration when you land weapon attacks or parry attacks.
 
 ## Trivia/Notes
 

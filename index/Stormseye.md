@@ -1,9 +1,9 @@
 ---
 title: Stormseye
-revid: 166658
+revid: 169919
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, The Summer Company, Medium Weapons]
+categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
 ---
 
 # Stormseye
@@ -26,7 +26,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fury Nautilodaunt, Fishing (Chest), First Layer, Lodestar, The Diluvian Mechanism, Weird Trader, Sold in Traan Zakshun's black market for 5 |
+| obtainment | The Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fury Nautilodaunt, Fishing (Chest), First Layer, Lodestar, The Diluvian Mechanism, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
 
 ## Description

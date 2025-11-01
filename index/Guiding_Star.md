@@ -1,9 +1,9 @@
 ---
 title: Guiding Star
-revid: 167832
+revid: 169890
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", The Children of Navae, Bows]
+categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
 ---
 
 # Guiding Star
@@ -55,6 +55,6 @@ The user slightly lowers down and fires three explosive Ether arrows in quick su
     -   The description on the Guiding Star claims that previous users of the weapon had 'talked', and were guided through their trail, with the bow, hinting at it potentially having some power with soul 'magic'.
 -   This weapon deals 26.1 damage at 75 MED and 25 MND with 3 PROF; 30.5 damage at 100 MED and 50 MND with 3 PROF; 33.5 damage at 100 MED and 60 MND with 6 PROF; 35.3 at 100 MED and 100 MND with 6 PROF.
 -   The Guiding Star is the first and (currently) only Bow in the game.
--   The Guiding Star currently is tied with the [Metal Greatsword](Metal_Greatsword.md), [Repeater](Repeater.md) and [Divine Flintlock](Crazy_Slots.md) for the longest range of any weapon in game, at 12 range.
+-   The Guiding Star currently is tied with the [Metal Greatsword](Metal_Greatsword.md), [Repeater](Repeater.md) and [Soulwrought Gun](Crazy_Slots.md#weapons) for the longest range of any weapon in game, at 12 range.
     
     The Aranea, seen in its accidental debut

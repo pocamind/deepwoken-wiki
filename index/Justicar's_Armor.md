@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 162600
+revid: 169986
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -36,11 +36,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor and 20% Ether Regen.
+This Outfit has 2800 durability and grants +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor and 20% Ether Regen. Additionally, it provides the [The Path, Unvieled](Talents.md#the-path-unvieled) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt, 30% Slash, 33.5% Frostdraw, 33.5% Shadowcast, and 30% Elemental.
 
-This Outfit grants the [The Path, Unveiled](Talents.md#equipment-talents) Talent, increasing your [Jus Karita](Jus_Karita.md) / [Anklets of Alsin](Anklets_of_Alsin.md) damage by 10%.
+The [The Path, Unveiled](Talents.md#the-path-unveiled) Talent increases your [Jus Karita](Jus_Karita.md)/[Anklets of Alsin](Anklets_of_Alsin.md) damage by 10%.
 
 ## Trivia
 

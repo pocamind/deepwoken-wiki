@@ -1,9 +1,9 @@
 ---
 title: Crescent Cleaver
-revid: 168110
+revid: 169898
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
+categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
 ---
 
 # Crescent Cleaver
@@ -44,10 +44,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of HVY, the damage is (27.9), but becomes (36.3) with bleed.
-    -   Meeting the alloyed requirement, the damage is (34.4), but becomes (44.7) with bleed.
--   At max HVY, the non-alloyed damage is (35.2), but becomes (45.8) with bleed.
-    -   At max HVY, the alloyed damage is (38.4), but becomes (49.9) with bleed
+-   Meeting the requirement of HVY, the damage is (27.9/34.4), but becomes (36.3/44.7) with [Bleed](Status_Effects.md#bleed).
+-   At max HVY, the damage is (35.2/38.4), but becomes (45.8/49.9) with [Bleed](Status_Effects.md#bleed).
 -   Its Critical Attack is probably a reference to Shadow Fight 3's Shadow Ability, "Vane", as both share similar animations.
 -   This weapon's crit is shared among a total of 3 weapons naturally, making it the most shared critical in the entire game
 -   It is likely based on the Ngulu, a type of executioner's sword historically used in Africa.

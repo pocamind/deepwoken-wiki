@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 153763
+revid: 169766
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, The Divers]
@@ -36,11 +36,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This outfit has 1000 durability and grants +20% Physical resistance, +10% Blunt resistance and +30% Elemental Armor.
+This outfit has 1000 durability and grants +20% Physical resistance, +10% Blunt resistance and +30% Elemental Armor. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt, 20% Slash, and 30% Elemental.
 
-The Diver Journeyman Robes also grant the [Lowstride](Talents.md#assassin) Talent, increasing your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
+The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
 ## Trivia/Notes
 

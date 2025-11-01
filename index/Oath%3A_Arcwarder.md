@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 169751
+revid: 169779
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -68,6 +68,8 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
     -   Upon exiting the Arc Suit posture is set to 50%
 -   Obtained after first [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
+-   **Arc Module: Enhance** - When your Arc suit is active, your Arc mantras deal increased damage.
+
 -   **Arc Module: Guard** - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   Allows the user to block attacks from all directions.
         -   Prevents Spine Cutter from occurring when blocking.
@@ -126,7 +128,7 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Arcwarder had the Mystic line "The Union is absolute."
 -   Arcwarder was originally named _Arcshifter_.[\[2\]](#cite-note-2)
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md), being the only Mantra in the game that can be directly dyed.
--   As of May 1st. 2024, The Arcwarder suit's main color and glow can now be dyed.
+-   Prior to the May 1st, 2024 update, the Arc Suit's main color could not be [dyed](Dye_Packet.md), instead it had a very specific set of colors it would choose from randomly when you obtained the Oath. The Arc Suit's light was also made dyable in this same update, and prior to that update, it would always be yellow.
 -   If you are wearing the Arc Suit while gliding and the Arc Suit breaks off, your glider will be forcibly put away.
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 -   By taking a helmet off via your inventory, hair will be visible even while Arcwarder is active.

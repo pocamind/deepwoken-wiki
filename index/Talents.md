@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 169748
+revid: 169810
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -415,7 +415,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Physically adds to the users stealth stat while crouching.
     -   Very strong synergy with "Murmur: Tacet", as it requires the user to crouch.
     -   Prerequisite: 20 Agility
-        -   The [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), and [Shadow Hunter](Shadow_Hunter.md) Outfits all have this Talent.
+        -   The [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), and [Steel Plate](Steel_Plate.md) Outfits have this Talent.
+        -   The [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants) and [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md) equipment have this Talent.
 
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
@@ -1115,6 +1116,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Applies burn on hit.
     -   Cannot knock players.
+    -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
+
+-   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown. \[20 seconds CD\]
+    -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
+    -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+    -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
 -   **Officer's Training** \[Faction Exclusive\] - While using a Sword or Rapier, take 30% less posture damage from criticals.
@@ -1905,11 +1912,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   **Fatal Stealth** \[Faction Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
-    -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
+    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
         -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage).
+        -   The maximum Stealth you can gain from Equipment is 80% (+16% damage).
+        -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Flanking Maneuvers** \[Faction Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.
@@ -4117,6 +4125,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants immunity to the [Watcher](Watcher.md)'s Watcher Gaze attack, preventing Sanity loss, vision distortion, and the spawning of [Hollow Angel](Hollow_Angel.md)(s).
     -   Grants unique dialogue with [Watchers](Watcher.md), as you cannot speak to Watchers without this Talent.
     -   Angels will still aggro onto you while you have this Talent.
+
+-   Bane: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
+    -   Grants a Talent tool that on use allows you to teleport to your opponent when you M1 for a short duration.
+
 -   Battle-Hardened: [Shock Corps Light](Shock_Corps_Light.md) - Reduce how much damage you take from mantra guardbreaks by 20%.
 
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
@@ -4162,6 +4174,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Procs through parry, block and dodge with no cooldown.
     -   Duration is 2 seconds + 0.015 seconds per point of Strength, lasting 3.5 seconds at 100 Strength.
     -   Wrath Gems last 9 seconds with no visual indication.
+
+-   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
+    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your maximum posture will be dealt to you as posture damage.
+    -   1 second cooldown.
+    -   You will not take posture damage from using this if you are not in combat.
 
 -   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your ardour screams now break campfires around you.
     -   Your Ardour Scream now destroys all campfires within its range.
@@ -4241,7 +4258,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Legendary: [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
 
--   Lethal Dose: [Inquisition Light](Inquisition_Light.md) - The poison from your hidden blade lasts twice as long.
+-   Lethal Dose: [Inquisition Light](Inquisition_Light.md) - The poison from your [hidden blade](Authority_Ensign.md#hidden-blade) lasts twice as long.
+
+-   Life Leech: [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) - Your summons now heal you each time they deal damage.
 
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
     -   This affects:
@@ -4343,7 +4362,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   For the next 4s after landing your Critical attack, if you were to be hit by any Mantra, you'll automatically dodge the Mantra, voiding its damage. The dodge vfx is similar to [Nautilodaunt's](Nautilodaunt.md) Vent vfx, but it displaces you physically.
     -   13 second cooldown.
 
--   Umami \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
+-   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
     -   Has a 35% chance to proc with a 3 cooldown per **proc attempt**, going on cooldown even if it fails to proc.
     -   Hunger and thirst steal formula is as follows: 1.95 \* ln(D) + 1.075, where D = scaled damage dealt. A calculator is listed [here](https://www.desmos.com/calculator/yktgme7xnc).
     -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
@@ -4378,7 +4397,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Winter's Protection [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Increases the time it takes for parasites to kill you.
-    -   Negates damage buffs from weather. This only applies to Stratoshock.
+    -   Negates damage buffs from weather.
+        -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage bonus during snow.
+        -   Stratoshock will no longer apply its 5% damage bonus during rain.
 
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.

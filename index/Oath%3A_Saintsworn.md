@@ -1,9 +1,9 @@
 ---
 title: "Oath: Saintsworn"
-revid: 168979
+revid: 169929
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals]
+categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
 ---
 
 # Oath: Saintsworn

@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 169725
+revid: 169985
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Central Authority]
@@ -38,7 +38,7 @@ Despite the Power and crafting requirements, this Outfit will be automatically e
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance, +35% Elemental resistance, +10% Shadow resistance, +10% Ironsing resistance, +10% Blood resistance, +15% Ether Regen, +50% Stealth, and the [Lethal Dose](Talents.md#lethal-dose) Talent.
+This Outfit has 3500 durability and grants +30% Physical resistance, +35% Elemental resistance, +10% Shadow resistance, +10% Ironsing resistance, +10% Blood resistance, +15% Ether Regen, and +50% Stealth. Additionally, it provides the [Lethal Dose](Talents.md#lethal-dose) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 41.5% Shadowcast, 41.5% Ironsing, 41.5% Bloodrend, and 35% Elemental.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 169684
+revid: 169788
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -51,6 +51,8 @@ Known humanoid bosses are:
 -   [The Ferryman](The_Ferryman.md)
 
 > (Note: If Enchained duration runs out or snaps before the target is executed, it will not count for progression, this means the target must be Enchained while beaten, which is most tricky on Maestro Evengarde Rest and The Ferryman)
+> 
+> Alternatively You can skip the Progression by speaking to [Vice Warden Morredh](Vice_Warden_Morredh.md) and pay him 10 if you have previously max out the [Oath](Oaths.md).
 
 ## Effects
 

@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 168119
+revid: 169936
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -32,8 +32,6 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Cri
 ## Description
 
 **Death's Reverie** is a medium, Hallowtide exclusive, twinblade weapon with several wax candles on each end.
-
-Bought from Glaive for 100 [Hallowtide](Hallowtide.md) Joy or from any [Blacksmith](Blacksmith.md) for 7 Knowledge if you have the [Hallowtide 2024 Medal](Seasonal_Medals.md), and can also be found in chests from [The Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
 
 ## Critical
 

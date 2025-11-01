@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 158594
+revid: 169793
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -10,16 +10,15 @@ categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
 
 | Familiar Heretic's Armor | |
 |---|---|
-| caption | A familiar set of armor said to have passed down by a wayward line of a distant land. |
+| caption | Fit only for a traitor. |
 | tier | Unique |
-| crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
-| price | 30 |
-| stat_req | Power Level 5 |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Nightbringer Enchant Stone |
+| price | 5,000 |
+| stat_req | Power 15 |
 | bankable | Yes |
 | droppable | No |
-| durability | 1300 |
-| resistances | +15% Physical Armor, +10% Slash, +25% Fire Armor |
-| talents | Lowstride |
+| durability | 4000 |
+| resistances | +35% Physical Armor+35% Elemental Armor, +5% Fire Armor, +5% Shadow Armor |
 | obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '24 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
 | selling_price | 10 |
 | weight | 1 |
@@ -30,19 +29,17 @@ categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Nightbringer Enchant Stone](Enchant_Stone.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 1300 durability and grants +15% Physical Armor, 10% Slash Armor, and 25% Fire Armor.
+This Outfit has 4000 durability and grants +35% Physical Armor, +35% Elemental Armor, +5% Fire Armor, and +5% Shadow Armor.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash, 15% Blunt, and 25% Flamecharm.
-
-The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 35% Physical, 38.25% Flamecharm, 38.25% Shadowcast, and 35% Elemental.
 
 ## Trivia/Notes
 

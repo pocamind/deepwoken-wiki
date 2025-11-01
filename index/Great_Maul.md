@@ -1,9 +1,9 @@
 ---
 title: Great Maul
-revid: 157697
+revid: 169891
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Great Maul
@@ -48,4 +48,4 @@ This critical has a cooldown of **9 seconds**.
 -   Meeting the requirement of HVY, the damage is (36.7)
 -   At max HVY, the damage is (40.6)
 -   Great Maul is the second fastest Greathammer tied with the [Alloyed Steel Maul](Steel_Maul.md), having a swing speed of 0.85x. It is succeeded by the [Boltcrusher](Boltcrusher.md) with a swing speed of 0.87x.
--   Prior to the [update on March 31st 2025](Version_History/2025.md), the Great Maul requirements was 65 HVY, 30 STR
+-   Prior to the [update on March 31st 2025](Version_History/2025.md), the Great Maul requirements was 65 HVY, 30 STR.

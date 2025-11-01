@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 168991
+revid: 169856
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -156,11 +156,11 @@ This list may be incomplete.
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#arms"><font>Arm Equipment</font></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black).</li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipment</font></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipment</font></a></b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipment</font></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
+    <li><b><a href="Equipment.md#arms"><b>Arm Equipment</b></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black).</li>
+    <li><b><a href="Equipment.md#legs"><b>Leg Equipment</b></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
+    <li><b><a href="Equipment.md#torso"><b>Torso Equipment</b></a></b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+    <li><b><a href="Equipment.md#face"><b>Face Equipment</b></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
+    <li><b><a href="Equipment.md#rings"><b>Rings</b></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -278,6 +278,11 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
     -   The cooldown is 24 real world hours, not one ingame day.
+-   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown. \[20 seconds CD\]
+    -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
+    -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+    -   The Alloyed variants of all of the above weapons proc this effect as well.
+    -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
 -   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
@@ -288,11 +293,12 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 -   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
-    -   Stealth gained from non-[Equipment](Equipment.md) sources do not count towards this Talent.
+    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
         -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-        -   The maximum Stealth you can gain from Equipment is 30% (+6% damage).
+        -   The maximum Stealth you can gain from Equipment is 80% (+16% damage).
+        -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 -   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
 -   **Tacet Minimization** - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
@@ -478,7 +484,7 @@ Shock Corps Division
 
 -   Because your guild is "replaced" by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), [Dwelling Charm](Dwelling_Charm.md), or [Guild Officer](Guild_Bases.md) tools. Being Exiled will remove this restriction.
     -   If someone from your original guild places down the [Guild Base](Guild_Bases.md) or spawns their [Ship](Ships_&_Sailing.md), you can reset and choose those as your spawn point.
-    -   You are still able to access access all the NPCs that are located in the guild base.
+    -   You are still able to access all the NPCs that are located in the guild base.
 -   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
     -   Remember to report messages like these.

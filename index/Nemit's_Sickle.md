@@ -1,9 +1,9 @@
 ---
 title: "Nemit's Sickle"
-revid: 167016
+revid: 169930
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weapons with Unique Criticals, Light Weapons, Items, Weapons with Talents]
+categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Items, Weapons with Talents]
 ---
 
 # Nemit's Sickle

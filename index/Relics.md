@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 168996
+revid: 169949
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -158,6 +158,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Goodie Bag](Goodie_Bag.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
@@ -184,7 +185,20 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Goodie Bag](Goodie_Bag.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
+
+ |
+| 
+
+ | **[Perennial Sundown](Perennial_Sundown.md)** - A book that grants the user +1 Full training on use.
+
+  
+Full Trainings can be used to instantly invest 1 attribute point into a stat, however unlike Free Trainings (what [Autodidact](Boons_and_Flaws.md#autodidact) and [Maudet](Adret.md) gives), Full trainings do not cost experience when doing so.
+
+ | 
+
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -227,6 +241,7 @@ It grants the user +50 knowledge on subsequent uses.
 
 -   [Crafting](Crafting_Recipes.md)
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
+-   [Goodie Bag](Goodie_Bag.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |
@@ -241,6 +256,21 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Crafting](Crafting_Recipes.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
+
+ |
+| 
+
+ | **[Dye Packet](Dye_Packet.md)** - A packet of dye used to customize the color of your character.
+
+  
+Dye Packets can be used on [Outfits](Outfits.md), [Equipment](Equipment.md), Eyes (sclera and iris), Hair (each hair id can be dyed separately), [Aspect](Aspects.md)\-exclusive features, [Resonance](Resonance.md) Bells, and [Oath](Oaths.md) cosmetics.
+
+ | 
+
+-   [Carnival of Hearts](Carnival_of_Hearts.md)
+-   Sold rarely in [Merchant Ships](Travelling_Merchant.md)
+-   Sold by [Traan Zakshun](Traan_Zakshun.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), and [Sev](Sev.md)
+-   [Goodie Bag](Goodie_Bag.md)
 
  |
 
@@ -260,6 +290,7 @@ Locations: [Temple of Hearts](Temple_of_Hearts.md), [Cathedral of the Interstice
 
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -272,6 +303,7 @@ If used in the Second Layer, it will prompt you to skip the first floor and tele
  | 
 
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -288,7 +320,31 @@ Locations: [Saramaed Summit](Saramaed_Summit.md), [Saramaed Hollow](Saramaed_Hol
 
  |
 
+### Deep Gem Relics
+
+Deep Gems that have the Relic rarity. These Gems are often hard to come by with low drop chances or exclusive obtainment methods.
+
+| Image | Description | Obtainment |
+| --- | --- | --- |
+| 
+ | **[Warped Blue Gem](Warped_Blue_Gem.md)** reduces the total Ether cost of your Mantras by 50% while you are in water.
+
   
+Unlike regular [Blue Gems](Blue_Gem.md), Warped Blue Gems reduce the **total** Ether cost by 50%, having full effectiveness on reducing the Ether cost of Mantra Modifiers.
+
+ | 
+
+-   [Fishing](Fishing.md)
+
+ |
+| 
+
+ | **[Nocturnal Gem](Nocturnal_Gem.md)** causes your opponent to erupt with bats after a delay, dealing damage. | 
+
+-   [Hallowtide](Hallowtide.md)
+-   [Goodie Bag](Goodie_Bag.md)
+
+ |
 
 ### Equipment Relics
 
@@ -381,6 +437,7 @@ This has a 6 second cooldown and charges cannot be stacked.
 hyperarmor slash that applies wither on hit. Which deals 22.5 damage on base and will scale according to your currently held weapon. | 
 
 -   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 
@@ -392,7 +449,8 @@ This works with all other "on Vent" effects.
 
  | 
 
--   [Titus](Titus_Fulminus_Destellus.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 

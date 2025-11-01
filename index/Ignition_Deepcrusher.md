@@ -1,9 +1,9 @@
 ---
 title: Ignition Deepcrusher
-revid: 168188
+revid: 169903
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, Swords, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
+categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
 ---
 
 # Ignition Deepcrusher
@@ -17,7 +17,7 @@ categories: [Weapons, Clubs, Swords, Legendary Weapons, "Attunement-based Weapon
 | range | 8 |
 | swing speed | 1x (Club) / 1.05x (Sword) |
 | penetration | 10% (Club) / 20% (Sword) |
-| special effect | Can switch between 2 types of weapons., 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
+| special effect | Can switch between 2 weapon types on stance swap, 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
 | m.equip | No |
 | m.extract | No |
 | selling price | 100 |
@@ -30,36 +30,30 @@ categories: [Weapons, Clubs, Swords, Legendary Weapons, "Attunement-based Weapon
 
 ## Description
 
-The **Ignition Deepcrusher** is a Legendary Club and Sword; an invention of ferrofluid that can become either a mace for clubbing, or a sword for cutting. The mace is held by a bordered hilt in both hands, under a chess piece cross that makes the club, its gambit being to inhibit with Ironsing rods. When held with one hand, it can instead slash through victims, done with a simple sword that has cause for the opponent to bleed.
+The **Ignition Deepcrusher** is a Legendary Club and Sword; an invention of ferrofluid that can become either a mace for clubbing, or a sword for cutting. The mace is held by a bordered hilt in both hands, under a chess piece cross that makes the club, its gambit being to inhibit with Ironsing rods. The sword has a sleek but effective design, optimal for cutting power and bleed application.
 
 This weapon has 1 passive by default:
 
 **Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle:
 
--   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md) per M1. This is best suited for playstyles centered around applying and taking advantage of metal rods. Note compared to its other stance it has 8 weight and 11% extra base M1 DMG.
--   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate bleed damage, increasing its unmodified damage by 30%. It also gains a slight swing speed increase compared to club. This stance is meant to be used if you are looking for more from your m1s at the expense of rod application on m1s, half of your weapon's posture damage and some base m1 damage (which may be multiplied with damage modifiers, unlike bleed damage).
+-   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md#metal-rods) on each M1. It also gains higher weight compared to the sword variant.
+-   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate [Bleed](Status_Effects.md#bleed) damage, increasing its unmodified damage by 30%. It also gains a slight swing speed and PEN increase compared to the club variant.
 
-At requirements, this weapon deals 26.1 damage while in Club form, and 30.8 (23.7 + 7.1) while in Sword form.
-
-At 100 MED and 100 MTL, this weapon deals 30.2 damage while in Club form, and 35.7 (27.5 + 8.2 BLEED) damage while in Sword form.
-
-> To put it in perspective, even with 6 PROF and 3\* dmg that number becomes 36.5 (+5.475 if speed demon proc, making it 41.975) on Club and 42.9 (33 + 9.9 BLEED) on Sword, making this weapon have the third highest dmg among all medium weapons in the game, behind [Razor Cutlass](Razor_Cutlass.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) (more with gale's 30% bleed talent), and [Kyrswynter](Kyrswynter.md), but that does not count other mediums access to enchantments like Detonation, which gives a ~+6 m1 damage increase that bypass resistances after the first hit, which if factored in with speed demon, causes every medium weapon with 5 MED scaling or more at max medium investment to deal more average damage on m1 than Ignition Deepcrusher. In other words, this is one of the _worst_ possible weapons to make an M1 build around, due to its low scaling and legendary status.
-
-The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#scrapsinger) talent, turning golden yellow. This effect applies to criticals as well.
+The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger) Talent, turning golden yellow. This effect applies to criticals as well.
 
 ## Critical
 
-The user stabs their weapon into the floor, causing a metal eruption of spikes to surround the player. Both the shove and the spike eruption deal stun and damage. If the shove is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled. This shares similarities with the critical effects of the [Hero Blade of Flame](Hero_Blades.md) and the [First Light](First_Light.md) (excluding the sword rain aspect).
+The user stabs their weapon into the floor, causing a metal eruption of spikes to surround the player. Both the plunge and spike eruption deal damage and apply hitstun. If the plunge is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled.
 
--   Bleed applied on all 3 hits of Deepcrusher's crit, doesn't matter what stance (1H or 2H)
--   1st hit of Deepcrusher's crit does Ironsing DMG and 2nd part of crit does slash DMG
--   Crit does 20 + 25 base DMG + 30% BLEED, 15 posture, Has 5 ironsing scale. (To calculate scale use this formula: base damage \* (1 + (scaling/10) \* (investment / 100))
--   Crit windup values are 0.55s first hit, 0.4s windup to second hit to come out.
--   Procs artisan's blade at any Deepcrusher attack (Sword version or Club, crit or M1)
--   **2nd** part of Deepcrusher's crit is **not affected** by any kind of AP frames and **CANNOT BE SWING THROUGH**
+The first hit has a base damage of 20 with 5 Ironsing scaling, dealing pure Ironsing damage. Additionally, it has a windup of 0.55s. The second hit has a base damage of 25 with 5 Ironsing scaling, dealing pure Slash damage. Additionally it has a windup of 0.4s. Both hits have innate [Bleed](Status_Effects.md#bleed) regardless of your weapon stance.
 
 ## Trivia
 
+-   Each variant of this weapon has their own uses.
+    -   The club variant is best suited for playstyles centered around applying and taking advantage of metal rods. Note compared to its other stance it has 8 weight and higher base damage.
+    -   The sword variant is meant to be used if you are looking for more from your M1s, even at the expense of utility and stats. In some cases however, the club variant may have higher damage output even when you consider the innate bleed of the sword variant.
+-   At requirements, this weapon deals 26.1 damage while in Club form, and 30.8 (23.7 + [7.1](Status_Effects.md#bleed)) while in Sword form.
+-   At 100 MED and 100 MTL, this weapon deals 30.2 damage while in Club form, and 35.7 (27.5 + [8.2](Status_Effects.md#bleed)) damage while in Sword form.
 -   The Ignition Deepcrusher is the first weapon to be part of two weapon categories as its stances are both Club and Blade, which you can switch between by pressing Y. This is similar to the unique stance effect used by the [Curved Blade of Winds](Curved_Blade_of_Winds.md), however it instead changes the weapon type from Club to Sword and vice versa.
 -   Currently the only legendary weapon with no description.
 -   The Sword form (at 100 MED and 100 MTL) is the second-highest damage sword in the game, second to the [Razor Cutlass](Razor_Cutlass.md) (35.7 vs. 36.6).

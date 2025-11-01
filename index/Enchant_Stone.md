@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 168829
+revid: 169864
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -49,7 +49,7 @@ These Enchant Stones can only be obtained through certain methods. These are: As
 -   _**[Bluster](Bluster.md)**_ can be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or bought from [Traan Zakshun](Traan_Zakshun.md) in his black market for 5.
 -   _**[Curse of Void](Curse_of_Void.md)**_ can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and 10.
 -   _**[Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Ysley's Ember can also be sold for 8 in [Traan Zakshun's](Traan_Zakshun.md) black market.
--   _**[Harrowing](Harrowing.md)**_ can be purchased from any [Blacksmith](Blacksmith.md) for 10 if you have the 2023 [Hallowtide Medallion](Seasonal_Medals.md) or bought from [Glaive Spellhardt](Glaive_Spellhardt.md) during the [Hallowtide](Hallowtide.md) event for 150 Joy.
+-   _**[Harrowing](Harrowing.md)**_ can be purchased from any [Blacksmith](Blacksmith.md) for 10 if you have the 2023 [Hallowtide Medallion](Seasonal_Medals.md), bought from [Glaive Spellhardt](Glaive_Spellhardt.md) during the [Hallowtide](Hallowtide.md) event for 150 Joy, or found in the [Goodie Bag](Goodie_Bag.md).
 -   _**[Nightbringer](Nightbringer.md)**_ drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md).
 -   _**[Parasol's Blight](<Parasol's_Blight.md>)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
 
