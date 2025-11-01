@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 168525
+revid: 170019
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 By clicking the cogwheel icon on the top left of the screen, you can change your in-game settings.
 
-## Interface (9)
+## Interface (11)
 
 -   Cinematic Mode On/Off : Hides the UI for screenshots and videos.
 -   Hide Names On/Off : Hides character names.
@@ -20,7 +20,9 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   Points of Interest On/Off : Enables markers in towns for points of interest.
 -   3D Icon Behavior Always/Hover/Off : Sets 3D icon behavior.
 -   Show Buff Pips On/Off : Shows buff pips on equipment without needing to hover over them.
+-   Show Player List On/Off : Toggles the visibility of the player list.
 -   Leave Game Prompt On/Off : Enables the confirmation prompt for returning to Main Menu.
+-   Streamer Mode On/Off : Makes it harder for players to find your server.
 
 ## Audio (1)
 
@@ -43,10 +45,11 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   Disable Enemy Vanity On/Off : Hides enemy equipment.
 -   Hide Spell Shouts On/Off : Disables spell shout visibility.
 
-## Accessibility (2)
+## Accessibility (3)
 
 -   Photosensitive Mode On/Off : Reduces the intensity of certain visual effects.
 -   Ping Compensation On/Off : Delays incoming damage slightly to help you react.
+-   Unlocked Sprinting On/Off : While sprinting in Camera Lock, face your movement direction.
 
 ## Controls
 

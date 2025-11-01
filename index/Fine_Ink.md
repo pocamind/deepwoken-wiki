@@ -1,6 +1,6 @@
 ---
 title: Fine Ink
-revid: 165508
+revid: 170078
 source: https://deepwoken.fandom.com/wiki/Fine_Ink
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Halloween Event Items#Fine Ink
+-   [Hallowtide Mask Ingredients](Hallowtide_Mask_Ingredients.md)

@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 169981
+revid: 169994
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons, Items]
@@ -38,7 +38,7 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 
 On critical, the user summons a spiderling companion that assists them in their fights for about 20 seconds. This spiderling can use the [Deep Widow's](Deep_Widow.md) Swipe and Bite attacks, the swipe attacks deal 35 damage and the bite attack deals 40 damage. Critical's CD is 45 seconds.
 
-## Trivia
+### Notes
 
 -   The spiderling likely has the same ai as the normal mobs which means that they will not attack anything by default unless it's a humanoid or golem.
 -   The spiderling can be hit to gain [Chain of Perfection](Talents.md#chain-of-perfection) stacks.

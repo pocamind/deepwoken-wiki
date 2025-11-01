@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 162467
+revid: 170047
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Hallowtide]

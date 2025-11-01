@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 164096
+revid: 170054
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 16 , Erisia Chests, Chime of ConflictAlloyed:, Alloying a Messer |
+| obtainment | Sold at Etris Weaponry for 16 , Erisia Chests, Chime of Conflict, Sold at The Floating Keep Blacksmith for 16 Alloyed:, Alloying a Messer |
 | description | Considered by many to be an overgrown kitchen knife, the Messer is a favourite of rangers and beast hunters the world over. |
 
 ## Description

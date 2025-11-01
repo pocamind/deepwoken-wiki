@@ -1,6 +1,6 @@
 ---
 title: Suspicious Skeleton
-revid: 168751
+revid: 170034
 source: https://deepwoken.fandom.com/wiki/Suspicious_Skeleton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide, NPCs located in The Floating Keep]
@@ -31,7 +31,7 @@ The Suspicious Skeleton is a pile of bones located near the Blacksmith in [The F
   <td>Tough luck.</td>
 </tr>
 <tr>
-  <td>Yeah Watch your back, buddy. They'll rattle you too one day.</td>
+  <td>Yeah. Watch your back, buddy. They'll rattle you too one day.</td>
 </tr>
 <tr>
   <td>End</td>

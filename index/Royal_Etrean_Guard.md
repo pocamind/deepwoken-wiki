@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 152308
+revid: 169993
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, Etrea]
@@ -39,9 +39,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance and +30% Elemental resistance.
+This Outfit has 3000 durability and grants +30% Physical resistance and +30% Elemental resistance. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
-The [Paired Soul](Talents.md#equipment-talents) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
+The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 
 ## Trivia
 

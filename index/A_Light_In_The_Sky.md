@@ -1,6 +1,6 @@
 ---
 title: A Light In The Sky
-revid: 147131
+revid: 170007
 source: https://deepwoken.fandom.com/wiki/A_Light_In_The_Sky
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

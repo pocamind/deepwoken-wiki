@@ -1,6 +1,6 @@
 ---
 title: Paperette
-revid: 165509
+revid: 170079
 source: https://deepwoken.fandom.com/wiki/Paperette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Halloween Event Items#Paperette
+-   [Hallowtide Mask Ingredients](Hallowtide_Mask_Ingredients.md)

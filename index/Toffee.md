@@ -1,6 +1,6 @@
 ---
 title: Toffee
-revid: 169954
+revid: 170087
 source: https://deepwoken.fandom.com/wiki/Toffee
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -24,11 +24,9 @@ categories: [Items, Food]
 
 ## Description
 
-**Toffee** is a [Food](Food.md) item.
+**Toffee** is a [Food](Food.md) item. It is exclusively obtained from opening a [Goodie Bag](Goodie_Bag.md).
 
 It is a type of **Generic** food.
-
-It can be obtained from opening a [Goodie Bag](Goodie_Bag.md).
 
 ### Effect
 

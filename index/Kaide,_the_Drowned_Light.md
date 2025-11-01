@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 168480
+revid: 170026
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -286,4 +286,4 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
     -   Shirt - [https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman)
     -   Pants - [https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)
 
--   Lightborns, due to being immortal, most certainly cannot show signs of aging. Despite this, Kaide has noticeable under-eye wrinkles consistent with stage 2 of the aging process. This could be due to being situated inside Layer 2 for what could be over a thousand years, Lightborns actually being able to show signs of aging albeit significantly slowed, or simply being eye bags.
+-   Lightborns, due to being immortal, most certainly cannot show signs of aging. Despite this, Kaide has noticeable under-eye wrinkles consistent with stage 2 of the aging process. This could be due to being situated inside Layer 2 for what could be over a thousand years, Lightborns actually being able to show signs of aging albeit significantly slowed, or ~simply being eye bags~ [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) very visibly shows signs of aging, despite being a Lightborn. This means that the wrinkles under Kaide's eyes are almost certainly not eye bags.

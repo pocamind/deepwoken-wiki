@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 167853
+revid: 170051
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, L
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Rogue Construct, Chime of Conflict, Lodestar, Dread Serpent, Saramaed HollowAlloyed:, Alloying a Tanto, Chime of Conflict |
+| obtainment | Chests from:, Starswept Valley, The Depths, Rogue Construct, Chime of Conflict, Lodestar, Sold at The Floating Keep Blacksmith for 100 , Dread Serpent, Saramaed HollowAlloyed:, Alloying a Tanto, Chime of Conflict |
 | description | A dagger forged by a Etrean smith, the Tanto is said to bear the same durability as the Katana, but in a smaller profile. |
 
 ### Description

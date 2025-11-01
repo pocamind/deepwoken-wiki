@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 169801
+revid: 170085
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -47,3 +47,4 @@ The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when ac
 ## Trivia/Notes
 
 -   This outfit is based on Rogue Lineage's \[WIP\] armor.
+-   The outfit requiring a Dread Serpent's Tooth to craft is likely a reference to the Oni class obtainment in Rogue Lineage requiring that you kill the Lava Snake and obtain the Serpent's Fang.

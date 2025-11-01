@@ -1,9 +1,11 @@
 ---
 title: Glaive Spellhardt
-revid: 169629
+revid: 170037
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
+categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide]
+notices:
+  - This page is currently being worked on. Add in new weapon once found next week.
 ---
 
 # Glaive Spellhardt
@@ -13,13 +15,35 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 | name | Glaive Spellhardt |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| family | Spellhardt Family |
+| family | Spellhardt family |
 
 ## Description
 
 Glaive is a male [Lightborn](Lightborn.md) located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). He sells you various [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md), though they are usually all combat-related.
 
 Here are all the possible options that you can buy from **Glaive Spellhardt**:
+
+**2025:**
+
+With 2025 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on top of the weapons from last years. Two from the first week, and one on the second week, on the [October 31st, 2025](Version_History/Uncollapsed.md#october-31st-2025) and [November 7th, 2025](Version_History/Uncollapsed.md#november-7th-2025)
+
+1.  [Master Schematic](Outfits.md#master) \[20 Joy\] - Gives you a random master outfit schematic.
+2.  [Skyreap Blade](Skyreap_Blade.md) (Greataxe) \[100 Joy\]
+3.  [Hallowscleave](Hallowscleave.md) (Sword) \[100 Joy\]
+4.  [Skull Piercer](Skull_Piercer.md) (Rapier) \[100 Joy\]
+5.  [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer) \[100 Joy\]
+6.  [Bloodtide Trident](Bloodtide_Trident.md) (Spear) \[100 Joy\]
+7.  [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist) \[100 Joy\]
+8.  [Gourdguard](Gourdguard.md) (Shield) \[80 Joy\]
+9.  [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword) \[100 Joy\]
+10.  [Death's Reverie](<Death's_Reverie.md>) (Twinblade) \[100 Joy\]
+11.  [Spectral Grasp](Spectral_Grasp.md) (Dagger) \[100 Joy\]
+12.  [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon) \[100 Joy\]
+13.  [The Weaving Web](The_Weaving_Web.md) (Spear) \[100 Joy\]
+14.  ?
+15.  [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) \[150 Joy\]
+16.  [Pumpkin Pitch](Pumpkin_Pitch.md) (Mantra) \[300 Joy\]
+    
 
 **2024:**
 
@@ -79,10 +103,10 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive weapons, and a random mas
   <td colspan="12">Oh! Look at all that Joy within you! How many souls have you scared?</td>
 </tr>
 <tr>
-  <td colspan="12">Well I'd say around... [number], maybe?</td>
+  <td colspan="12">Well I'd say around... [Number], maybe?</td>
 </tr>
 <tr>
-  <td colspan="12"><b>[number] people!</b> Very well, very well. What would you like, then?</td>
+  <td colspan="12"><b>[Number] people!</b> Very well, very well. What would you like, then?</td>
 </tr>
 <tr>
   <td colspan="6">1. Master Schematic [20 Joy]<br>
@@ -96,12 +120,14 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive weapons, and a random mas
   9. Wretched Mawblades (Greatsword) [100 Joy]<br>
   10. Death's Reverie (Twinblade) [100 Joy]<br>
   11. Spectral Grasp (Dagger) [100 Joy]<br>
-  12. Harrowing Enchant Stone [150 Joy]<br>
-  13. Pumpkin Pitch (Mantra) [300 Joy]</td>
-  <td colspan="6">Not enough Joy for any purchase</td>
+  12. Smouldering Hallow (Greatcannon) [100 Joy]<br>
+  13.The Weaving Web (Spear) [100 Joy]<br>
+  14. Harrowing Enchant Stone [150 Joy]<br>
+  15. Pumpkin Pitch (Mantra) [300 Joy]</td>
+  <td colspan="6">Here you are, your own personal Joy!</td>
 </tr>
 <tr>
-  <td colspan="6">Here you are, your own personal Joy!</td>
+  <td colspan="6">Not enough Joy for any purchase</td>
   <td colspan="6">Not quite enough for that yet, friend.</td>
 </tr>
 <tr>
@@ -151,7 +177,3 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   Glaive says the same dialogue when you succeed in buying anything.

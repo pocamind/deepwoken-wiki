@@ -1,6 +1,6 @@
 ---
 title: Dungeons
-revid: 168766
+revid: 170060
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Dungeons, Locations]
@@ -30,3 +30,4 @@ The player is allowed to leave the dungeon either after a set goal is reached, i
 | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | Tutorial | Solo | On the waters of the [Open Sea](Open_Sea.md) is the tutorial of _Deepwoken_, and the vessel for [Cap'n Orlandeaus](<Cap'n_Orlandeau.md>) crew. It can be accessed when playing the game or speaking to [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in [Fragments of Self](Fragments_of_Self.md). |  |
 | [The Vat](The_Vat.md) | Boss | Solo | A lab hidden in the [First Layer](First_Layer.md) which [The Gaunt Man](The_Gaunt_Man.md) runs their experiments and trials within. This three wave challenge has the player fight a [Fury Nautilodaunt](Fury_Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), and the multi headed [Deep Owl](Deep_Owl.md): [Parliament](Parliament.md). |  |
 | [Trial of One](Trial_of_One.md) | Progression Area | Solo | A hallway guarded by [The Ministry](The_Ministry.md) tucked inside of [Outpost Antumbra](Outpost_Antumbra.md). It challenges the player to fight waves of monsters at Power One. Can be accessed through the [Lone Warrior](Lone_Warrior.md) Origin, or by going to the basement of Outpost Antumbra at Power 1. |  |
+| [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) | Minigame | Both | A Hallowtide-exclusive dungeon taking place within a cemetery. Interacting with the ominous spire in the middle will replace all forms of combat with [Pumpkin Pitch](Pumpkin_Pitch.md) and spawn waves of [Gourdskippers](Gourdskipper.md) to defeat. Upon completion gain joy and earn themed rewards. |  |

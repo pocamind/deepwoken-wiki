@@ -1,9 +1,11 @@
 ---
 title: Outfits
-revid: 169543
+revid: 170022
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Items]
+categories: [In progress with reason, InProgressPages, Outfits, Items]
+notices:
+  - This page is currently being worked on. Change new Hallowtide Familiar Outfit images once added.
 ---
 
 # Outfits

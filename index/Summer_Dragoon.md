@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 162621
+revid: 169998
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, The Summer Company]
@@ -38,11 +38,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, 15% Metal resistance, and +20% Ether Regen.
+This Outfit has 2800 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, 15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Sunset Ricochet](Talents.md#sunset-ricochet) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 47.5% Galebreathe, 40.5% Ironsing, and 30% Elemental.
 
-This Outfit also grants the [Sunset Ricochet](Talents.md#equipment-talents) Talent, which makes your bullets ricochet to a nearby enemy when hitting an opponent. Visually, the bullets that ricochet towards a nearby opponent are signified by an orange line. Bullets that ricochet will hit targets for a certain number of times before dissipating, and applies on-hit Talents per hit.
+The [Sunset Ricochet](Talents.md#sunset-ricochet) Talent makes your bullets ricochet to a nearby enemy when hitting an opponent. Visually, the bullets that ricochet towards a nearby opponent are signified by an orange line. Bullets that ricochet will hit targets for a certain number of times before dissipating, and applies on-hit Talents per hit.
 
 ## Trivia
 

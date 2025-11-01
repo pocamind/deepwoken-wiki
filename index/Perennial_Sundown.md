@@ -1,6 +1,6 @@
 ---
 title: Perennial Sundown
-revid: 169965
+revid: 170024
 source: https://deepwoken.fandom.com/wiki/Perennial_Sundown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -23,3 +23,7 @@ categories: [Relics, Items]
 ## Description
 
 The **Perennial Sundown** is a consumable [Relic](Relics.md) item with **1 use**. Perennial Sundown's grants 1 Full training point on use, allowing you to allocate one free investment point into a stat of your choosing at no experience cost.
+
+## Trivia
+
+According to Toons, this wasn't meant to be in the game.

@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 169553
+revid: 170032
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses, Enemies]
@@ -18,7 +18,9 @@ Template:Creature Infobox V3
 
 The Interluminary Parasol is a large, brainy organism covered by a bioluminescent, umbrella-shaped bell with light blue ribs, hence its name. Four appendages stick out of the brain-like structure, ending with sharp, armored needles.
 
-According to the item description of its exclusive drop, the Parasol emerges from the Depths, its sole purpose being to spread the Depth's influence by bringing its mobs up to the surface, disrupting the ecosystems on the surface.
+The Interluminary Parasol spawns every other hour, like other [World Bosses](Bosses.md) such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md).
+
+According to the item description of its exclusive drop, the Parasol emerges from [The Depths](The_Depths.md), its sole purpose being to spread [The Depths'](The_Depths.md) influence by bringing its mobs up to the surface, disrupting the ecosystems on the surface.
 
 ## Moveset
 

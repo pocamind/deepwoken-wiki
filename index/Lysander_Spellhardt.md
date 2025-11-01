@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 169959
+revid: 170083
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
@@ -19,17 +19,15 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 
 Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_Floating_Keep.md).
 
-Lysander asks you to gather the nessecary materials to craft a [Hallowtide Mask](Hallowtide_Mask.md). Once you have all the proper ingredients, which can be found in any chests, he will craft a Hallowtide Mask for you. If you want to learn more about the items, visit the Hallowtide Mask Ingredients page.
+Lysander asks you to gather the nessecary materials to craft a [Hallowtide Mask](Hallowtide_Mask.md). Once you have all the proper [ingredients](Hallowtide_Mask_Ingredients.md), which can be found in any chests, he will craft a Hallowtide Mask for you. If you want to learn more about the items, visit the [Hallowtide Mask Ingredients](Hallowtide_Mask_Ingredients.md) page.
 
 Lysander sells you various [Hallowtide](Hallowtide.md)\-exclusive items for [Joy](Joy.md), though they are all usually comestics and or useful tools. Here are all the possible purchasable options from **Lysander Spellhardt**:
 
 **2024:**
 
-With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on top of the [equipments](Equipment.md) from last years. Buying a random [Deep Gem](Mantra_Modifiers.md#deep-gems) was replaced with buying a random [relic](Relics.md). Though, this all happened only on the second week of Hallowtide, on the [November 8th, 2024](Version_History/Uncollapsed.md#november-8th-2024) update.
+With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on top of the [equipments](Equipment.md) from last years. Buying a random [Deep Gem](Mantra_Modifiers.md#deep-gems) was replaced with buying a random [Relic](Relics.md). Though, this all happened only on the second week of Hallowtide, on the [November 8th, 2024](Version_History/Uncollapsed.md#november-8th-2024) update.
 
-1.  [Relic](Relics.md) \[100 Joy\] - Gives you a random [Relic](Relics.md). A table of what relics you can get can be seen below. All [Relics](Relics.md) have the same drop rate.
-    -   <table><tbody><tr><td><a href="Sinner's_Ash.md">Sinner's Ash</a></td><td><a href="Moonseye_Tome.md">Moonseye Tome</a></td><td><a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a></td></tr><tr><td><a href="Smith's_Alloy.md">Smith's Alloy</a></td><td><a href="Forge_Needle.md">Forge Needle</a></td><td><a href="Armorer's_Needle.md">Armorer's Needle</a></td></tr><tr><td><a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a></td><td><a href="Tiran_Pendant.md">Tiran Pendant</a></td><td><a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></td></tr></tbody></table>
-        
+1.  [Relic](Relics.md) \[100 Joy\] - Gives you a random [Relic](Relics.md). All Relics have the same drop rate.
 2.  [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
 3.  [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
 4.  [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
@@ -205,7 +203,7 @@ He will say this when this is the first time you're meeting him.
 
 **Quest Ongoing:**
 
-If you haven't collected all the ingredients yet.
+If you haven't collected all the [ingredients](Hallowtide_Mask_Ingredients.md) yet.
 
 <table>
 <tbody>

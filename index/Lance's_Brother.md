@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 168369
+revid: 170045
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Food Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -60,7 +60,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td>End</td>
 </tr>
 <tr>
-  <td><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it Richie Richard Ricardo? Surely not. No loving parent would call their child Richie Richard Ricardo... Right?*</i> You'll remember it, right?...</td>
+  <td><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it [Random Name]? Surely not. No loving parent would call their child [Random Name]... Right?*</i> You'll remember it, right?...</td>
 </tr>
 <tr>
   <td>Uh huh! Yep! Sure!</td>

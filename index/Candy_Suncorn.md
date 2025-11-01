@@ -1,6 +1,6 @@
 ---
 title: Candy Suncorn
-revid: 169956
+revid: 170017
 source: https://deepwoken.fandom.com/wiki/Candy_Suncorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -16,6 +16,8 @@ categories: [Items, Food]
 | food type | Generic |
 | stomach | 10% |
 | water | 5% |
+| buff | Heal (+17.5% health regeneration) |
+| buff strength | 15% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

@@ -1,18 +1,43 @@
 ---
 title: Egg
-revid: 168467
+revid: 170030
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Items, Harvestables]
+categories: [Items, Food, Harvestables, Food Ingredients]
 ---
 
 # Egg
 
-Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item
+| Egg | |
+|---|---|
+| weight | 1 |
+| stack | x99 |
+| type | Ingredient |
+| food type | Generic |
+| stomach | 2% |
+| water | 2% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A raw egg. |
 
-"You don't have to tell me what happened, you just need to eat these."
+Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item.
 
-Eggs are a food item in Deepwoken. They can be used to make [Cooked Eggs](Cooked_Egg.md), [Omelettes](Omelette.md), [Mushroom Omelettes](Mushroom_Omelette.md), [Noodles](Noodles.md), [Fish Omelettes](Fish_Omelette.md), and [Cake](Cake.md).
+## Description
+
+Eggs are an ingredient commonly found atop high places. They can be gathered in bunches or 4-6.
+
+## Crafting
+
+### Used in
+
+-   [Cake](Cake.md) - 1 Egg, 1 [Sap](Sap.md), and 3 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
+-   [Cooked Egg](Cooked_Egg.md) - 1 Egg at a [Campfire](Campfire_Pit.md).
+-   [Fish Omelette](Fish_Omelette.md) - 2 Eggs and 1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md).
+-   [Mushroom Omelette](Mushroom_Omelette.md) - 2 Eggs and 1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md).
+-   [Noodles](Noodles.md) - 1 Egg and 2 [Gathered Wheat](Gathered_Wheat.md), no [Campfire](Campfire_Pit.md) required.
+-   [Omelette](Omelette.md) - 2 Eggs at a [Campfire](Campfire_Pit.md).
+-   [Pumpkin Pie](Pumpkin_Pie.md) - 2 [Pumpkins](Pumpkin.md), 1 Egg, and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
 
 ## Locations
 
@@ -22,8 +47,6 @@ Eggs are a food item in Deepwoken. They can be used to make [Cooked Eggs](Cooked
 -   On a pipe near the central tree where [Polis](Polis.md) is (the one facing the Mantra shop)
 -   On a small tree near the pillars left from the cave entrance
 -   On a tower near the Antiquarian (The one facing the gremor camp)
-
-\[Add more specific locations here\]
 
 #### [Isle of Vigils](Isle_of_Vigils.md)
 

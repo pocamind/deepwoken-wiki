@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 151537
+revid: 170006
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -37,11 +37,11 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ## Armor Stats
 
-This Outfit has 2600 durability and grants +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +50% Ether Regen.
+This Outfit has 2600 durability and grants +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +50% Ether Regen. Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Galebreathe, and 30% Elemental.
 
-This Outfit also grants the [Wind Dancer](Talents.md#equipment-talents) Talent, which grants you a speed boost after roll cancelling twice in quick succession. (One of your rolls must dodge a hit in order for it to work)
+The [Wind Dancer](Talents.md#wind-dancer) Talent grants a speed boost after roll cancelling twice in quick succession, but one of your rolls must dodge a hit in order for it to activate.
 
 ## Trivia
 

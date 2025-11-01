@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 169832
+revid: 170068
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -39,14 +39,16 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental Armor, +20% Shadow Armor, and +50% Ether Regen. Additionally, it provides the [Life Leach](Talents.md#life-leach) Talent.
+This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental Armor, +20% Shadow Armor, and +50% Ether Regen. Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 40% Shadowcast, and 25% Elemental.
 
 The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summons attack enemies.
 
 -   Eligible summons include:
-    -   TBA
+    -   Monsters summoned from the Parasol's Blight enchant
+    -   The Weaving Web's critical
+    -   There may be more so further testing is advised.
 
 ## Trivia/Notes
 

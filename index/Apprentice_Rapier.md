@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 164101
+revid: 170050
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Sold at Etris Weaponry for 100 , The Floating Keep100 , Chime of Conflict, Starswept Valley, Lodestar, Dread Serpent |
+| obtainment | Erisia, Minityrsa, Sold at Etris Weaponry for 100 , Sold at The Floating Keep Blacksmith for 100 , Chime of Conflict, Starswept Valley, Lodestar, Dread Serpent |
 | description | Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey. |
 
 ## Description

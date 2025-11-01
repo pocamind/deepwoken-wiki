@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 169507
+revid: 170080
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -10,7 +10,7 @@ categories: [Events, Hallowtide]
 
 | Hallowtide | |
 |---|---|
-| date1 | ?? |
+| date1 | 2025: Rimefall, 1620 CE |
 | date2 | October 31st 2022, October 27th 2023, October 31st 2024, October 31st 2025 |
 | items | Hallowtide-exclusive Weapons, Outfits, and Helmets, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchant Stone, Pumpkin Pitch, Spectral Instruments, A Light In The Sky |
 | type | Halloween event |
@@ -71,7 +71,7 @@ The third Hallowtide added...
 
 Main article: [Joy](Joy.md)
 
--   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 40 joy for completing the Trial of the Gourdskipper, Getting 3 each wave and 16 at the final wave.
+-   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in [1 Shell Stock, 1 Paperette, and 1 Fine Ink](Hallowtide_Mask_Ingredients.md)), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 40 joy for completing the Trial of the Gourdskipper, Getting 3 each wave and 16 at the final wave.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), [Evengarde Rest](Evengarde_Rest.md), and many others have unique interactions when you attempt to scare them.
 
@@ -120,16 +120,10 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">*A lone pumpkin sits idle upon the grass. When did this get here? This seems out of place. It sounds like it's whispering.*</td>
-</tr>
-<tr>
-  <td colspan="2">[Reach out to touch it]</td>
-</tr>
-<tr>
-  <td colspan="2">*With a sudden crackle, the little pumpkin springs to life.*OI! YOU! You dare approach me... upon the eve of the Hallowtide?!</td>
+  <td>OI! YOU! You've got some nerve approaching me when Hallowtide is almost upon us!</td>
 </tr>
 <tr>
   <td>Hallowtide?</td>
@@ -151,7 +145,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>Moving into town? What are you talking about?</td>
 </tr>
 <tr>
-  <td><i>*A large booming sound emits from the sky around you. It seems something large is approaching.*</i> Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</td>
+  <td>Kehehe! Soon, we shall celebrate!</td>
 </tr>
 <tr>
   <td>End</td>
@@ -183,7 +177,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Here we go! Kehehe!</td>
+  <td>HERE WE GOOO!!! KEHEHE!</td>
 </tr>
 <tr>
   <td>End, player is transported to the Floating Keep</td>

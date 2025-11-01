@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 163181
+revid: 170004
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits, Etrea, World Event]
@@ -39,11 +39,11 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, +10% Shadow resistance, 10% Fire resistance and +25% Ether Regen.
+This Outfit has 2500 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, +10% Shadow resistance, 10% Fire resistance and +25% Ether Regen. Additionally, it provides the [Vigil's Grace](Talents.md#vigils-grace) and [Action Surge](Talents.md#action-surge) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 47.5% Galebreathe, 37% Flamecharm, 37% Shadowcast, and 30% Elemental.
 
-It gives the [Vigil's Grace](Talents.md#equipment-talents) and [Action Surge](Talents.md#vigil-swordsman) Talents. **Vigil's Grace** grants 0.02x swingspeed while you have a speed boost. **Action Surge** grants 0.04x swingspeed while you're using the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. These effects stack, granting a maximum of +0.06x swingspeed.
+The [Vigil's Grace](Talents.md#vigils-grace) Talent grants +0.02x swingspeed while you have a speed boost. The [Action Surge](Talents.md#action-surge) Talent grants +0.04x swingspeed while you're using the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. These effects stack, granting a maximum of +0.06x swingspeed.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Shell Stock
-revid: 165510
+revid: 170077
 source: https://deepwoken.fandom.com/wiki/Shell_Stock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Halloween Event Items#Shell Stock
+-   [Hallowtide Mask Ingredients](Hallowtide_Mask_Ingredients.md)
