@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 169212
+revid: 169555
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -175,7 +175,7 @@ Ice
 
 **Effect:** _Fire a penetrating beam of ice._
 
--   Has a base damage of 7/7.3/7.6/7.9/8.2 per level with 2.75 Frostdraw scaling.
+-   Has a base damage of 7/7.3/7.6/7.9/8.2 per level per hit (4) with 2.75 Frostdraw scaling.
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).

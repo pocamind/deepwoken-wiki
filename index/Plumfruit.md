@@ -1,9 +1,9 @@
 ---
 title: Plumfruit
-revid: 169495
+revid: 169588
 source: https://deepwoken.fandom.com/wiki/Plumfruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Harvestables, Alchemy]
+categories: [Items, Food, Harvestables, Food Ingredients]
 ---
 
 # Plumfruit
@@ -25,15 +25,16 @@ categories: [Food, Harvestables, Alchemy]
 
 A consumable fruit with a purple gradient and a curved stem. It can commonly be found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Songseeker](Songseeker_Wilds.md), [Summer Isle](Summer_Isle.md) and [Meteor Isle](Meteor_Isle.md) hanging on trees in quantities of 4-8.
 
-## Used in the following recipes
+## Crafting
 
--   [Fruit Salad](Fruit_Salad.md) (Three fruits that are different. ex: Calabash, Pomar, Ongo)
--   [Plumfruit Muffin](Plumfruit_Muffin.md) (Plumfruit + Gathered Wheat)
--   [Candied Fruit](Candied_Fruit.md) (Any Fruit, Sap)
+### Used in
+
+-   [Candied Fruit](Candied_Fruit.md) - 2 Plumfruit and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
+-   [Fruit Salad](Fruit_Salad.md) - 3 Plumfruit, Campfire required.
+-   [Plumfruit Muffin](Plumfruit_Muffin.md) - 1 [Gathered Wheat](Gathered_Wheat.md) and 1 Plumfruit at a Campfire.
 
 ## Trivia
 
 -   Most commonly found in Meteor Isle
--   One of 6 fruit types, along with the [Calabash](Calabash.md), [Redd](Redd.md), [Glumfig](Glumfig.md), [Ongo](Ongo.md), and [Pomar](Pomar.md).
--   Real life counterpart is the plum, obviously.
+-   Real life counterpart is the plum.
 -   If used in [Alchemy](Alchemy.md), the primary affect applied is **Grueling**; Secondary effect is **Strengthening**.

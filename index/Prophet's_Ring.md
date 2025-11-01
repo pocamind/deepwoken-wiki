@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Ring"
-revid: 169533
+revid: 169554
 source: https://deepwoken.fandom.com/wiki/Prophet's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Ministry]
@@ -25,7 +25,7 @@ categories: [Equipment, Rings, The Ministry]
 
 ## Description
 
-**Prophets's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Charisma Scaling to your [Weapon Damage](Weapons.md#calculating-damage-and-attack-speed). The most reliable way to obtain any type of weapon scaling ring is through [The Ferryman](The_Ferryman.md) and the angels inside the [Ancient Rotlands](Ancient_Rotlands.md). sigma money gang
+**Prophets's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Charisma Scaling to your [Weapon Damage](Weapons.md#calculating-damage-and-attack-speed). The most reliable way to obtain any type of weapon scaling ring is through [The Ferryman](The_Ferryman.md) and the angels inside the [Ancient Rotlands](Ancient_Rotlands.md).
 
 ## Trivia
 

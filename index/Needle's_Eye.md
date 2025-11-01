@@ -1,9 +1,9 @@
 ---
 title: "Needle's Eye"
-revid: 168412
+revid: 169603
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Items]
+categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Items, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Needle's Eye

@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 168910
+revid: 169585
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -105,6 +105,8 @@ You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood 
 [Knowledge](Knowledge.md) gain from all sources is increased.
 
 The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest number. For example, something that would reward 1 Knowledge will instead reward 2, but if it would reward 2 Knowledge it would give 3 instead.
+
+This does not work with [Moonseye Tome](Moonseye_Tome.md).
 
 ### Oscillator[\[4\]](#cite-note-archnamedrop2-4)
 

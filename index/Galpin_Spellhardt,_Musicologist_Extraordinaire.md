@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 168753
+revid: 169615
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
@@ -261,5 +261,6 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 ## Trivia
 
 -   He admits to having a **very** sweet tooth, and is also a light sleeper.
+-   The name 'Galpin' is a reference to the real-life musicologist [Francis William Galpin](https://en.wikipedia.org/wiki/Francis_William_Galpin), who was an avid collector of musical instruments.
 -   Shirt - [https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt](https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt)
 -   Pants - [https://www.roblox.com/catalog/16826351147/Frostdraw-Pants](https://www.roblox.com/catalog/16826351147/Frostdraw-Pants)

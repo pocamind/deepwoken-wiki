@@ -1,9 +1,9 @@
 ---
 title: Pale Briar
-revid: 168142
+revid: 169605
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Pale Briar

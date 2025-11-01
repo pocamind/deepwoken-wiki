@@ -1,6 +1,6 @@
 ---
 title: "Marauder's Entrance"
-revid: 167539
+revid: 169612
 source: https://deepwoken.fandom.com/wiki/Marauder's_Entrance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer]
@@ -10,7 +10,7 @@ categories: [Locations, Locations in the First Layer]
 
 LocationL Marauder's Entrance LocationR
 
-Hidden into rock, the ritual mechanism shudders. Scattered papers and schemes flit by in the current.
+Hewn into rock, the ritual mechanism shudders. Scattered papers and schemes flit by in the current.
 
   
 

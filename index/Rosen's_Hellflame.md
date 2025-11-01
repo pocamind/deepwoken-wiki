@@ -1,9 +1,9 @@
 ---
 title: "Rosen's Hellflame"
-revid: 162293
+revid: 169607
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons]
+categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Rosen's Hellflame

@@ -1,9 +1,9 @@
 ---
 title: Deepspindle
-revid: 157707
+revid: 169595
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Light Weapons]
+categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Light Weapons, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Deepspindle

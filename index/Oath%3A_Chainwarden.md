@@ -1,9 +1,9 @@
 ---
 title: "Oath: Chainwarden"
-revid: 167698
+revid: 169613
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, The Central Authority]
+categories: [Oaths, The Central Authority]
 ---
 
 # Oath: Chainwarden
@@ -150,11 +150,5 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath
 -   This is one of the three Oaths where you cannot skip progression with knowledge. (Others being [Bladeharper](Oath%253A_Bladeharper.md) and [Soulbreaker](Oath%253A_Soulbreaker.md))
     -   This will most likely change in the future similar to Oaths such as [Saintsworn](Oath%253A_Saintsworn.md) which had their skip added late, although the developers most likely forgot.
--   On release, despite Chainwarden only having 2 Mantras and no talents, Melonbeard stated the Oath was finished (In response to Arch (Arch\_Mage) calling it unfinished[\[1\]](#cite-note-1))
-    -   Afterwards, Arch\_Mage updated the Oath adding Impel and Chainlash, along with reworking Perpetual Wrath to a talent.
 -   Previously left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
 -   Restrain previously ignored Return to the Dark Ages, an old removed talent.
-
-## References
-
-1.  [↑](#cite-ref-1) File:Melonbeard finished oath.png
