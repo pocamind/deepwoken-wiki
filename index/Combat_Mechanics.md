@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 168674
+revid: 170273
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -252,7 +252,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <td><figure><figcaption></figcaption></figure><p><i>Critical Attacks</i>, or "Crit(s)" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel). Personally advised to use <kbd>R</kbd>.</p>
   <p><br>
   </p>
-  <p><i>Critical Attacks</i> have various uses. They are mainly used to deal high posture damage, especially Heavy weapons. Some work as a way to throw off/confuse your adversary's rhythm, such as with <a href="Crescendo.md">Crescendo</a> or <a href="Rifle_Spear.md">Rifle Spear</a>'s criticals. Others work as a way to help high damage, such as <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a> or <a href="Wretched_Mawblades.md">Wretched Mawblades</a>' criticals. Others can serve as utility for the player, such as <a href="Petra's_Anchor.md">Petra's Anchor</a> (Dash) or <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a> (Hyperarmor), while some others may be used to simply instill fear and/or pressure to the opponent, such as <a href="First_Light.md">First Light</a> (Zoning) and <a href="Flareblood_Kamas.md">Flareblood Kamas</a>' (Ranged) criticals. <i><b>A mass majority of Critical Attacks cannot be feinted. When you perform one, make sure you are committed to doing so.</b></i></p></td>
+  <p><i>Critical Attacks</i> have various uses. They are mainly used to deal high posture damage, especially Heavy weapons. Some work as a way to throw off/confuse your adversary's rhythm, such as with <a href="Crescendo.md">Crescendo</a> or <a href="Rifle_Spear.md">Rifle Spear</a>'s criticals. Others work as a way to help high damage, such as <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a> or <a href="Wretched_Mawblades.md">Wretched Mawblades</a>' criticals. Others can serve as utility for the player, such as <a href="Petra's_Anchor.md">Petra's Anchor</a> (Dash) or <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a> (Hyperarmor), while some others may be used to simply pressure to the opponent, such as <a href="First_Light.md">First Light</a> (Zoning) and <a href="Flareblood_Kamas.md">Flareblood Kamas</a>' (Ranged) criticals. <i><b>A mass majority of Critical Attacks cannot be feinted. When you perform one, make sure you are committed to doing so.</b></i></p></td>
 </tr>
 <tr>
   <th>Parrying</th>

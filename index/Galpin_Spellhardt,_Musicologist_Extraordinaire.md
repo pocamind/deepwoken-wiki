@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 170208
+revid: 170283
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
@@ -14,6 +14,8 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 | aspect | Lightborn |
 | location | The Floating Keep |
 | family | Spellhardt family |
+
+\`
 
 ## Description
 
@@ -31,8 +33,6 @@ Galpin is a Musicologist who was also a faculty chair at The Empyrean College of
 
 **Base Dialogue:**
 
-_**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked**_, which will then take you to the place where the block of dialogue is.
-
 <table>
 <tbody>
 <tr>
@@ -47,84 +47,37 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="4">A senior what at the *where*?</td>
 </tr>
 <tr>
-  <td colspan="4"><u><a href="#a-section">1 → A</a></u></td>
-  <td colspan="4"><u><a href="#b-section">1 → B</a></u></td>
-  <td colspan="4"><u><a href="#c-section">1 → C</a></u></td>
+  <td colspan="4">*<i>Galpin claps his hands together.</i>* Grand! Splendid! Since thou hast trundled past young Lysander at the foyer, I reckon thou art aware of what Joy is. You see, I have great need of it... If thou bringest me enough Joy by haunting the fine locals below, I wouldst be more than happy to give you something in return.</td>
+  <td colspan="4">Ah, directly to business. I had heard a-priori that the locals are quite forward in such matters. Yes, indeed my fellow! I am a musicologist, and I collect transcriptions of songs, as well as various rare musickal instruments. If thou aidest me, I shalt reward thee thusly!</td>
+  <td colspan="4">*<i>Galpin rubs the bridge of his nose with his fingertips.</i>* Ack, I had reckoned the locals would recall such fine treasures of our world... I am a Musicologist - ergo, I study musick. And, I am... or <i>used</i> to be... a faculty chair - ergo, I am a senior scholar, - at a... university. The Empyreal College of Cadence, specifically! I had heard few such institutions remain on the surface, and only one similar in size... what was it called... the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> of Markor, was it? I had heard stories - none too flattering. Now... Wouldst thou be willing to aid me in my matter?</td>
 </tr>
 <tr>
-  <th colspan="12">C</th>
+  <td colspan="2">Something in return, you say? What do you have in mind?</td>
+  <td colspan="2">Sure, I'll get right to it.</td>
+  <td colspan="4">Very well. What do you need?</td>
+  <td colspan="2">Sure. What do you need?</td>
+  <td colspan="2">Maybe. Anything in it for me?</td>
 </tr>
 <tr>
-  <td colspan="12">*<i>Galpin rubs the bridge of his nose with his fingertips.</i>* Ack, I had reckoned the locals would recall such fine treasures of our world... I am a Musicologist - ergo, I study musick. And, I am... or <i>used</i> to be... a faculty chair - ergo, I am a senior scholar, - at a... university. The Empyreal College of Cadence, specifically! I had heard few such institutions remain on the surface, and only one similar in size... what was it called... the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> of Markor, was it? I had heard stories - none too flattering. Now... Wouldst thou be willing to aid me in my matter?</td>
+  <td colspan="2">Truly, I had heard that amongst the ranks of ye locals, the fine art of musick lives on. Why, just the other day, a fine quartet paraded onward through the antechambers! If thou art interested, I couldst give thee a fine spare set of instruments from my wondrous collection, and if I am not too out of practice yet, I could teach you a song or two.</td>
+  <td colspan="2">*<i>Galpin swings his arm, and gives you a thumbs up.</i>* Most magnanimous of thee, fine fellow! Returnst to me when thou hast amassed some Joy. I shalt reward thee accordingly - a Spellhardt's promise!</td>
+  <td colspan="4">[See, Sure. What do you need?]</td>
+  <td colspan="4">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="6">Sure. What do you need?</td>
-  <td colspan="6">Maybe. Anything in it for me?</td>
+  <td>2. If I could ask - what do you need Joy for, anyway?</td>
+  <td>1. Sure, I'll get right to it.</td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
-  <td colspan="6"><u><a href="#a-section">C → A</a></u></td>
-  <td colspan="6"><u><a href="#b-section">C → B</a></u></td>
+  <td>*<i>Galpin furrows his brow frustratedly and twiddles his thumbs, his eyes darting down.</i>* It is Hallowtide tradition amongst our kin to hand out treats and sweets to our young for the festival. However, fine Lysander hath appointed himself the Minister of Treats, and decreed that nary a morsel will go to the grown ups until after the festivities, unless we bring him Joy! And, my dear fellow, I have a <b>very</b> sweet tooth. I knowst the rapscallion hath more than enough to share - but fine! I shalt play his foolish game. Wilt thou aid me?</td>
+  <td>[See first instance]</td>
 </tr>
 <tr>
-  <th colspan="12">B</th>
+  <td>Sure, I'll get right to it.</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, directly to business. I had heard a-priori that the locals are quite forward in such matters. Yes, indeed my fellow! I am a musicologist, and I collect transcriptions of songs, as well as various rare musickal instruments. If thou aidest me, I shalt reward thee thusly!</td>
-</tr>
-<tr>
-  <td colspan="12">Very well. What do you need?</td>
-</tr>
-<tr>
-  <td colspan="12"><u><a href="#a-section">B → A</a></u></td>
-</tr>
-<tr>
-  <th colspan="12">A - A.x</th>
-</tr>
-<tr>
-  <td colspan="12">*<i>Galpin claps his hands together.</i>* Grand! Splendid! Since thou hast trundled past young Lysander at the foyer, I reckon thou art aware of what Joy is. You see, I have great need of it... If thou bringest me enough Joy by haunting the fine locals below, I wouldst be more than happy to give you something in return.</td>
-</tr>
-<tr>
-  <td colspan="6">Something in return, you say? What do you have in mind?</td>
-  <td colspan="6">Sure, I'll get right to it.</td>
-</tr>
-<tr>
-  <td colspan="6"><u><a href="#diaa1">A → A.1</a></u></td>
-  <td colspan="6"><u><a href="#diaaend">A → A.end</a></u></td>
-</tr>
-<tr>
-  <td colspan="12">----- <b>A.1</b> -----</td>
-</tr>
-<tr>
-  <td colspan="12">Truly, I had heard that amongst the ranks of ye locals, the fine art of musick lives on. Why, just the other day, a fine quartet paraded onward through the antechambers! If thou art interested, I couldst give thee a fine spare set of instruments from my wondrous collection, and if I am not too out of practice yet, I could teach you a song or two.</td>
-</tr>
-<tr>
-  <td colspan="6">2. If I could ask - what do you need Joy for, anyway?</td>
-  <td colspan="6">1. Sure, I'll get right to it.</td>
-</tr>
-<tr>
-  <td colspan="6"><u><a href="#diaa11">A → A.1.1</a></u></td>
-  <td colspan="6"><u><a href="#diaaend">A → A.end</a></u></td>
-</tr>
-<tr>
-  <td colspan="12">----- <b>A.1.1</b> -----</td>
-</tr>
-<tr>
-  <td colspan="12">*<i>Galpin furrows his brow frustratedly and twiddles his thumbs, his eyes darting down.</i>* It is Hallowtide tradition amongst our kin to hand out treats and sweets to our young for the festival. However, fine Lysander hath appointed himself the Minister of Treats, and decreed that nary a morsel will go to the grown ups until after the festivities, unless we bring him Joy! And, my dear fellow, I have a <b>very</b> sweet tooth. I knowst the rapscallion hath more than enough to share - but fine! I shalt play his foolish game. Wilt thou aid me?</td>
-</tr>
-<tr>
-  <td colspan="12">Sure, I'll get right to it.</td>
-</tr>
-<tr>
-  <td colspan="12"><u><a href="#diaaend">A → A.end</a></u></td>
-</tr>
-<tr>
-  <td colspan="12">----- <b>A.end</b> -----</td>
-</tr>
-<tr>
-  <td colspan="12">*<i>Galpin swings his arm, and gives you a thumbs up.</i>* Most magnanimous of thee, fine fellow! Returnst to me when thou hast amassed some Joy. I shalt reward thee accordingly - a Spellhardt's promise!</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -173,17 +126,18 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 </tr>
 <tr>
   <td colspan="2">A task most simple, my surface dwelling friend - bringest me Joy, and in exchange, I shalt reward thee with something in return.</td>
-  <td colspan="2">[See First Encounter -&gt; Section A.1]</td>
-  <td colspan="2">[See First Encounter -&gt; Section A.1.1]</td>
-  <td colspan="2">[See First Encounter -&gt; Section C]</td>
+  <td colspan="2">[See First Encounter -&gt; Something in return, you say? What do you have in mind?]<br>
+  (Includes Follow-up dialogue choices)</td>
+  <td colspan="2">[See First Encounter -&gt; If I could ask - what do you need Joy for, anyway?]<br>
+  (Includes Follow-up dialogue choices)</td>
+  <td colspan="2">[See First Encounter -&gt; A senior what at the *where*?]</td>
 </tr>
 <tr>
   <td>Something in return, you say? What do you have in mind?</td>
   <td>If I could ask - what do you need Joy for, anyway?</td>
 </tr>
 <tr>
-  <td>[A.1]</td>
-  <td>[A.1.1]</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -231,9 +185,6 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
   <td colspan="6">Not enough Joy for any purchase</td>
   <td colspan="6">Hmmst. Nay, I am afraid that is not quite enough, friend. Go out there and scare some souls, rapscallion!</td>
 </tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
 </tbody>
 </table>
 
@@ -245,14 +196,8 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 <tbody>
 <tr>
   <td colspan="12">Begin</td>
-</tr>
-<tr>
   <td colspan="12">I've spooked about... 0 people, maybe? I'd like to trade my Joy in.</td>
-</tr>
-<tr>
   <td colspan="12">Hmpf! No Joy to tempt Lysander with, no sweets for me - and no deals for thee, I am afraid! Returnst to me when thou hast scared some people, friend.</td>
-</tr>
-<tr>
   <td colspan="12">End</td>
 </tr>
 </tbody>

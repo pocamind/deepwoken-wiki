@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 170222
+revid: 170289
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -45,7 +45,8 @@ The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation all
 
 ## Trivia/Notes
 
--   This outfit is based on the [Faceless One](https://rogue-lineage.fandom.com/wiki/Faceless_One) armor from Monad Studio's previous game, Rogue Lineage.
--   The Bane talent is based on the Bane ability from Rogue Lineage, which could be obtained by achieving the [Assassin](https://rogue-lineage.fandom.com/wiki/Assassin) super class.
+-   This outfit is based on Rogue Lineage's [Faceless One](https://rogue-lineage.fandom.com/wiki/Faceless_One) armor, the Night Lord's outfit.
+-   The Bane talent is based on the Bane ability from the [Assassin](https://rogue-lineage.fandom.com/wiki/Assassin) class in Rogue Lineage. Unlike its Deepwoken counterpart, this ability only works on daggers.
+    -   It also feature the Agility skill sound effect at first, which boosted movement speed and attack speed. The Agility + Bane combo was often used.
 -   The emerald requirement to craft this outfit is a reference to the Faceless One class obtainment in Rogue Lineage, where players had to give Shadow, the Faceless Trainer an emerald as a prerequisite to obtain the class.
 -   Initially on release, this outfit had a staggering 5000% stealth, however it was quickly toned down to 50%.

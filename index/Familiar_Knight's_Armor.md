@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 169770
+revid: 170275
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -42,7 +42,7 @@ This Outfit has 3500 durability and grants +30% Physical Armor, 40% Elemental Ar
 
 ## Trivia/Notes
 
--   This outfit is based on Rogue Lineage's [Sigil Knight Commander's armor](https://rogue-lineage.fandom.com/wiki/Sigil_Knight_Commander), the [Errant armor](https://rogue-lineage.fandom.com/wiki/Armor).
+-   This outfit is based on Rogue Lineage's [Sigil Knight Commander's](https://rogue-lineage.fandom.com/wiki/Sigil_Knight_Commander) armor, the [Errant armor](https://rogue-lineage.fandom.com/wiki/Armor).
 -   This outfit, along with its sister variant, [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), can be banked without spending any Knowledge. These are the only Hallowtide items to have this property.
 -   This outfit was bugged on release, voiding itself if you attempted to learn the schematic. This was fixed shortly after the item's addition.
 -   This outfit had a different appearance when it was first added to the game, but it was changed soon after to match its current appearance.

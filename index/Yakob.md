@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 168065
+revid: 170287
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -63,7 +63,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The Adret beckons you over, feigning brushing a tear away.*</i> Hey, hey! Look at you climbing the ranks, like a Brainsucker flying the nest... Three cheers, soldier!</td>
+  <td><i>*The Adret beckons you over, feigning brushing a tear away.*</i> Hey, hey! Look at you climbing the ranks, like a Brainsuckling flying the nest... Three cheers, soldier!</td>
 </tr>
 <tr>
   <td>End</td>

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 170252
+revid: 170267
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -101,7 +101,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [K
 
 -   Current and former inhabitants of [Heavens](#the-heavens) that resemble humans but possess a considerably longer lifespan.
 
-Dialogue: [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spellhardt.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Celestials](#the-celestials)
+Dialogue: [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spellhardt.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Celestials](#the-celestials)
 
 ### Yun'Shul, Keeper of Hearts
 
@@ -498,7 +498,7 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-inte
 -   The waters of the Heavens are known as the [Nightsea](#the-nightsea).
 -   The former home of the [Celestials](#the-celestials).
 
-Dialogue: [Alpha](Alpha.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Alpha](Alpha.md), [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Green Spellhardt](Green_Spellhardt.md), [Kaide](Kaide,_the_Drowned_Light.md), [Louie Spellhardt](Louie_Spellhardt.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### Lighthouse
 

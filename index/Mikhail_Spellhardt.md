@@ -1,6 +1,6 @@
 ---
 title: Mikhail Spellhardt
-revid: 170251
+revid: 170261
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide, Vendors, NPCs located in The Floating Keep]
@@ -10,7 +10,7 @@ categories: [Lightborn NPCs, NPCs, Hallowtide, Vendors, NPCs located in The Floa
 
 | Mikhail Spellhardt | |
 |---|---|
-| name | Mikhail |
+| name | Mikhail Spellhardt |
 | aspect | Lightborn |
 | location | The Floating Keep |
 | family | Spellhardt family |

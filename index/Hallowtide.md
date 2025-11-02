@@ -1,9 +1,11 @@
 ---
 title: Hallowtide
-revid: 170080
+revid: 170272
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Events, Hallowtide]
+categories: [In progress with reason, InProgressPages, Events, Hallowtide]
+notices:
+  - This page is currently being worked on. Info for Week 2 of Hallowtide.
 ---
 
 # Hallowtide
@@ -14,11 +16,6 @@ categories: [Events, Hallowtide]
 | date2 | October 31st 2022, October 27th 2023, October 31st 2024, October 31st 2025 |
 | items | Hallowtide-exclusive Weapons, Outfits, and Helmets, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchant Stone, Pumpkin Pitch, Spectral Instruments, A Light In The Sky |
 | type | Halloween event |
-
-| Hallowtide Caller | |
-|---|---|
-| aspect | Pumpkin(?) |
-| location | Isle of Vigils, near the distant house |
 
 “ Hallowtide arrives in Deepwoken... Seek out the mysterious Floating Keep and complete your tasks to be awarded limited edition loot and cosmetics! ”
 
@@ -61,6 +58,14 @@ The third Hallowtide added...
 -   **New Weapons**: [Death's Reverie](<Death's_Reverie.md>) (Twinblade), [Spectral Grasp](Spectral_Grasp.md) (Dagger), [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword)
 -   **New Schematics**: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>)
 
+The fourth Hallowtide added...
+
+-   **New Weapons**: ?, [The Weaving Web](The_Weaving_Web.md) (Spear), [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon)
+-   **New Items**: [Goodie Bag](Goodie_Bag.md) (Relic), [Nocturnal Gem](Mantra_Modifiers.md#deep-gems) (Deep Gem)
+-   **New Foods**: [Candy](Candy.md), [Candy Suncorn](Candy_Suncorn.md), [Toffee](Toffee.md), [Pumpkin](Pumpkin.md), [Pumpkin Pie](Pumpkin_Pie.md)
+-   **New Equipment:** [Crawling Necktie](Crawling_Necktie.md), [Death's-Head Necktie](<Death's-Head_Necktie.md>)
+-   **New Schematics**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>), [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>)
+
 ## New Content
 
 ### The Floating Keep
@@ -94,11 +99,11 @@ The Hallowtide update added a special new variant for each aspect in the game. T
 
 -   Everis
 -   [Antiquarian](Antiquarian.md)
--   [Blacksmith](Blacksmith.md)
--   [Leaf](Mantra_Collector.md)
--   Green
+-   [Louie Spellhardt](Louie_Spellhardt.md)
+-   [Leaf Spellhardt](Leaf_Spellhardt.md)
+-   [Green Spellhardt](Green_Spellhardt.md)
 -   [Tundra](Tundra_Spellhardt.md)
--   Mikhail
+-   [Mikhail Spellhardt](Mikhail_Spellhardt.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md)
 -   Alina
@@ -106,100 +111,8 @@ The Hallowtide update added a special new variant for each aspect in the game. T
 
 #### Unknown/Exclusive
 
--   Hallowtide Caller
--   [Suspicious Skeleton (Bone Rattler)](Suspicious_Skeleton.md)
-
-### The Hallowtide Calling
-
-The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment or the waterfall area at Greathive Aratel. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
-
-#### Dialogue
-
--   When first interacted with
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td>OI! YOU! You've got some nerve approaching me when Hallowtide is almost upon us!</td>
-</tr>
-<tr>
-  <td>Hallowtide?</td>
-  <td>You can talk?</td>
-</tr>
-<tr>
-  <td>THE COMING OF SCARES! The season of mischevious Joy! I did scare you, right? Did I do good? I depend on such validation for the sake of my self-confidence.</td>
-  <td>What? You've never seen a talkin' pumpkin? Oh, I used to know a real mean one. His name started with a Z, I think. But that doesn't matter, all of us called him the Big Cheese anyway. Real scary guy. We lost him the Hallowtide before last.</td>
-</tr>
-<tr>
-  <td>..Yes?</td>
-  <td>Hallowtide?</td>
-</tr>
-<tr>
-  <td>WONDERFUL! Then we shall begin the festivities immediately. My good friend, he calls himself 'Lysander', is moving into town. Right now, actually</td>
-  <td>[See first instance]</td>
-</tr>
-<tr>
-  <td>Moving into town? What are you talking about?</td>
-</tr>
-<tr>
-  <td>Kehehe! Soon, we shall celebrate!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
--   Interacting while The Floating Keep is arriving
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>He's coming, he's coming! The Floating Keep is arriving, above us! Talk to me once more upon its arrival...</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
--   When interacting with it after the Floating Keep has arrived
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>HERE WE GOOO!!! KEHEHE!</td>
-</tr>
-<tr>
-  <td>End, player is transported to the Floating Keep</td>
-</tr>
-</tbody>
-</table>
-
--   When Interacting in danger and Floating Keep is there
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>Oh! You, you! Your heart is beating too fast to travel right now, friend. High blood pressure is very serious. Come back to me when there aren't blades aimed toward you.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
+-   [Hallowtide Caller](Hallowtide_Caller.md)
+-   [Suspicious Skeleton](Suspicious_Skeleton.md)
 
 ## Trivia
 
