@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 169779
+revid: 170137
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -69,6 +69,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 -   Obtained after first [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
 -   **Arc Module: Enhance** - When your Arc suit is active, your Arc mantras deal increased damage.
+    -   This talents increases arc mantras' damage by around 25%.
 
 -   **Arc Module: Guard** - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   Allows the user to block attacks from all directions.

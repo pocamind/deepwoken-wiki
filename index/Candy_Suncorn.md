@@ -1,6 +1,6 @@
 ---
 title: Candy Suncorn
-revid: 170017
+revid: 170098
 source: https://deepwoken.fandom.com/wiki/Candy_Suncorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -22,11 +22,11 @@ categories: [Items, Food]
 | droppable | Yes |
 | pass down | No |
 | desc | A waxy sweet treat shaped after the Suncross, a favourite among the residents of the Floating Keep. |
-| obtainment | ? |
+| obtainment | Goodie Bag |
 
 ## Description
 
-**Candy Suncorn** is a [Food](Food.md) item.
+**Candy Suncorn** is a [Food](Food.md) item. It is exclusively obtained from opening a [Goodie Bag](Goodie_Bag.md).
 
 It is a type of **Generic** food.
 
@@ -34,4 +34,4 @@ It is a type of **Generic** food.
 
 When consumed, it replenishes 10% Stomach and 5% Water.  
   
-Additionally, it grants the Heal buff, affecting 5% of the Stomach bar. The buff increases health regeneration by 30%.
+Additionally, it grants the Heal buff, affecting 15% of the Stomach bar. The buff increases health regeneration by 30%.

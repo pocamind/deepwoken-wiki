@@ -1,6 +1,6 @@
 ---
 title: Toffee
-revid: 170087
+revid: 170104
 source: https://deepwoken.fandom.com/wiki/Toffee
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -27,6 +27,8 @@ categories: [Items, Food]
 **Toffee** is a [Food](Food.md) item. It is exclusively obtained from opening a [Goodie Bag](Goodie_Bag.md).
 
 It is a type of **Generic** food.
+
+Toffee comes in 3 variants: Pink, Orange, and Yellow. These variants all share the same stats.
 
 ### Effect
 

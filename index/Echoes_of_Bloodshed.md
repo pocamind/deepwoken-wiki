@@ -1,11 +1,9 @@
 ---
 title: Echoes of Bloodshed
-revid: 111773
+revid: 170122
 source: https://deepwoken.fandom.com/wiki/Echoes_of_Bloodshed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Chime of Conflict]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Locations, Chime of Conflict Arenas]
 ---
 
 # Echoes of Bloodshed
@@ -16,8 +14,12 @@ When all is said and done, all that will be remembered of this battle are the st
 
   
 
+**Echoes of Bloodshed** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the [Chime of Conflict](Chime_of_Conflict.md).
+
 ## Description
 
-**Echoes of Bloodshed** is a location in _Deepwoken_. It is a unique map in the Arena or Mission experience. To reach this area, enter [Chime of Conflict](Chime_of_Conflict.md), where it can be randomly selected.
+**Echoes of Bloodshed** is a large, gray and white area with a circular arena in the middle. It resembles the [Fragments of Self](Fragments_of_Self.md) and plays the same music.
 
-It is a large, gray and white area with a circular arena in the middle. It resembles [Fragments of Self](Fragments_of_Self.md) and plays the same music. It is notoriously not the best [Chime](Chime_of_Conflict.md) map and has issues surrounding players falling off during matches.
+## Trivia
+
+-   Notoriously the worst Chime of Conflict map due to issues surrounding players falling out of the arena during matches.

@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 167790
+revid: 170125
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
@@ -444,3 +444,5 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 ## Trivia
 
 -   The [Oath](Oaths.md) wielded by Warden Jericho, Warmaster, is unreleased.
+-   Has double the average amount of dads.
+-   He can get scared by the [Hallowtide Mask](Hallowtide_Mask.md), the same goes for all NPCs in Fort Merit.

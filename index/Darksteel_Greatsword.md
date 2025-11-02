@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 170052
+revid: 170157
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons, Heavy Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition U
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Darksteel Pirates, First Layer, Heart of Enmity, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Tower Event, Bought from Miner's Landing, Chime of Conflict, War Mode, Chaser, Scholar of the Crimson Contract, Interluminary Parasol, Moon's Eyrie, Dread Serpent, The Understrand, Pure Astruline turn-in, Sold at The Floating Keep Blacksmith for 200 Alloyed:, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity, Interluminary Parasol, Lodestar, The Doom of Caeranthil, Blacksteel Pirate Captain, Sold by Traan Zakshun for 650 |
+| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Darksteel Pirates, First Layer, Heart of Enmity, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Tower Event, Chime of Conflict, War Mode, Chaser, Scholar of the Crimson Contract, Interluminary Parasol, Moon's Eyrie, Dread Serpent, The Understrand, Pure Astruline turn-in, Sold at Miner's Landing for 200 , Sold at The Floating Keep Blacksmith for 200 Alloyed:, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity, Interluminary Parasol, Lodestar, The Doom of Caeranthil, Blacksteel Pirate Captain, Sold by Traan Zakshun for 650 |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 169802
+revid: 170156
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -271,7 +271,7 @@ Sold Items
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b>For 35 </b>: <a href="Snakebite_Studs.md">Snakebite Studs</a>, <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>.</li>
+    <li><b>For 35 </b>: <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>, <a href="Nose_Stud.md">Nose Stud</a>, <a href="Snakebite_Studs.md">Snakebite Studs</a>.</li>
     <li><b>For 100 </b>: <a href="Sailor's_Fleece.md">Dark Sailor's Fleece</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>.</li>
   </ul></td>
 </tr>

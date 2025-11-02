@@ -1,6 +1,6 @@
 ---
 title: Candy
-revid: 169955
+revid: 170114
 source: https://deepwoken.fandom.com/wiki/Candy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -16,19 +16,20 @@ categories: [Items, Food]
 | food type | Generic |
 | stomach | 10% |
 | water | 5% |
+| buff | Full (-10% natural stomach loss) |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A sweet candy gifted by the spellhardt family. |
+| desc | A sweet candy gifted by the Spellhardt family. |
 | obtainment | Goodie Bag |
 
 ## Description
 
-**Candy** is a [Food](Food.md) item.
+**Candy** is a [Food](Food.md) item. It is exclusively obtained from opening a [Goodie Bag](Goodie_Bag.md).
 
 It is a type of **Generic** food.
 
-It can be obtained from opening a [Goodie Bag](Goodie_Bag.md).
+Candy comes in 3 variants: Orange, Green, and Purple. These variants all share the same stats.
 
 ### Effect
 

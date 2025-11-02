@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 169149
+revid: 170130
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -405,6 +405,7 @@ Lord Regent killing a player whom dared to step on his Coral Throne
     -   "Take that stupid thing off."
         -   Note: You do have to go up to directly up to him if you want to get this dialogue, but Lord Regent will not kill you.
             -   Initially he would kill you for attempting it, but that feature was removed.
+            -   You must activate progress [Kennith's Questline](Kennith.md) to the point you can enter [Lord Regent's Room](Etris_Palace.md) without being executed, otherwise you will be gripped for Daring To Trespass, like normal.
 -   Zi'eer (Lord Regent) Hex Code Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
 -   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight. You can however try to dye the default blindfold into black instead of getting the actual black variant of the blindfold to replicate his.
 -   Zi'eer (Lord Regent) hair ID: 6536289312; and the link:[https://www.roblox.com/catalog/6536289312/Long-Blonde-Hair](https://www.roblox.com/catalog/6536289312/Long-Blonde-Hair)

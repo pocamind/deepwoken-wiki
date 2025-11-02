@@ -1,11 +1,9 @@
 ---
 title: Pumpkin Pie
-revid: 170025
+revid: 170147
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Items, Food]
-notices:
-  - This page is currently being worked on. Missing Image.
+categories: [Items, Food]
 ---
 
 # Pumpkin Pie

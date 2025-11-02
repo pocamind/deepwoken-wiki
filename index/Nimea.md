@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 169321
+revid: 170152
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs]
@@ -40,7 +40,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Heavy is the burden of the Lightkeeper for the world rests on their shoulders.</td>
+  <td colspan="12">Heavy is the burden of the <a href="Glossary.md#lightkeep">Lightkeeper</a> for the world rests on their shoulders.</td>
 </tr>
 <tr>
   <td colspan="6">Huh.</td>
@@ -55,7 +55,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">Why do you think that is?</td>
 </tr>
 <tr>
-  <td colspan="6">A Lightkeeper is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between <a href="Glossary.md#the-luminants">Luminants</a> - the Interstitial Lighthouses.</td>
+  <td colspan="6">A <a href="Glossary.md#lightkeep">Lightkeeper</a> is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between <a href="Glossary.md#the-luminants">Luminants</a> - the Interstitial <a href="Glossary.md#lighthouse">Lighthouses</a>.</td>
   <td colspan="6">The way the people of this village lived seems to suggest that they were salvagers. Presumably, they came here the last time this <a href="Glossary.md#driftlands">Driftland</a> appeared and made a living salvaging what they could from the ruins, much like how <a href="Glossary.md#pathfinders">Pathfinders</a> today search for objects of interest here.</td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">What happened to them?</td>
 </tr>
 <tr>
-  <td colspan="6">Light is to Void as paint is to a canvas - it draws out substance. It can illuminate things that have long since faded. Although, these effects are quite temporary. Lightkeepers must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
+  <td colspan="6">Light is to Void as paint is to a canvas - it draws out substance. It can illuminate things that have long since faded. Although, these effects are quite temporary. <a href="Glossary.md#lightkeep">Lightkeepers</a> must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
   <td colspan="6">There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day, they were in the Light. The next... Not.</td>
 </tr>
 <tr>

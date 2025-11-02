@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 170037
+revid: 170136
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide]
@@ -40,7 +40,7 @@ With 2025 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on to
 11.  [Spectral Grasp](Spectral_Grasp.md) (Dagger) \[100 Joy\]
 12.  [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon) \[100 Joy\]
 13.  [The Weaving Web](The_Weaving_Web.md) (Spear) \[100 Joy\]
-14.  ?
+14.  Yet to be released Week 2 Light weapon
 15.  [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) \[150 Joy\]
 16.  [Pumpkin Pitch](Pumpkin_Pitch.md) (Mantra) \[300 Joy\]
     

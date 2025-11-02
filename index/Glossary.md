@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 169497
+revid: 170153
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -141,7 +141,7 @@ Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Bei
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Karliah](Karliah.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Karliah](Karliah.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ### The Starkindred Faith
 
@@ -512,7 +512,7 @@ Dialogue: | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#t
 -   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
 -   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the [Moonseye](#the-moonseye).
 
-Dialogue: [Hiri](Hiri.md), [Marro](Marro.md), [Ottilde](Ottilde.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [The Acolyte / Thalassis](#the-acolyte--thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
+Dialogue: [Hiri](Hiri.md), [Marro](Marro.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report) | Glossary Entries: [The Acolyte / Thalassis](#the-acolyte--thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)
 
 ### Lumen
 
