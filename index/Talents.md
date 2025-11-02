@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 169810
+revid: 170205
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4261,6 +4261,17 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Lethal Dose: [Inquisition Light](Inquisition_Light.md) - The poison from your [hidden blade](Authority_Ensign.md#hidden-blade) lasts twice as long.
 
 -   Life Leech: [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) - Your summons now heal you each time they deal damage.
+    -   Eligible summons include:
+        -   Monsters summoned from the [Parasol's Blight](<Parasol's_Blight.md>) enchantment
+        -   Spiderlings summoned from [The Weaving Web](The_Weaving_Web.md)'s critical attack
+        -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants) and [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter)
+        -   [Lightning Clones](Thundercall.md#lightning-clones)
+        -   [Flame Sentinel](Flamecharm.md#flame-sentinel)
+    -   Ineligible summons include:
+        -   [Metal Turret](Ironsing.md#metal-turret)
+        -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Mirror Illusion](Oath%253A_Visionshaper.md#mirror-illusion)
+        -   You'll Need to Get Past Me Talent
+        -   Twisted Puppets' puppets
 
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
     -   This affects:

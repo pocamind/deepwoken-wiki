@@ -1,9 +1,11 @@
 ---
 title: Perennial Sundown
-revid: 170024
+revid: 170232
 source: https://deepwoken.fandom.com/wiki/Perennial_Sundown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items]
+categories: [Cut Content, Relics, Items]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Perennial Sundown
@@ -26,4 +28,5 @@ The **Perennial Sundown** is a consumable [Relic](Relics.md) item with **1 use**
 
 ## Trivia
 
-According to Toons, this wasn't meant to be in the game.
+-   This Relic was obtainable from Lysander Spellhardt for a short time before promptly being removed from the game.
+    -   According to Nuttoons, this wasn't meant to be in the game at all.

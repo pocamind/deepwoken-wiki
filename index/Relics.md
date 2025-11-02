@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 169949
+revid: 170233
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -187,18 +187,6 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Goodie Bag](Goodie_Bag.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
-
- |
-| 
-
- | **[Perennial Sundown](Perennial_Sundown.md)** - A book that grants the user +1 Full training on use.
-
-  
-Full Trainings can be used to instantly invest 1 attribute point into a stat, however unlike Free Trainings (what [Autodidact](Boons_and_Flaws.md#autodidact) and [Maudet](Adret.md) gives), Full trainings do not cost experience when doing so.
-
- | 
-
--   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 170014
+revid: 170180
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -21,7 +21,7 @@ categories: [Items, Outfits, Master Outfits]
 | resistances | +20% Physical Armor, +35% Elemental Armor, +15% Blood Armor, +15% Iron Armor, +10% Lightning Armor |
 | buffs | +55% Ether Regen, +10 Sanity |
 | talents | Corrosive Touch |
-| obtainment | Deep Widow (direct drop) |
+| obtainment | Deep Widow (direct drop), Glaive Spellhardt |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -41,7 +41,7 @@ This Outfit has 2100 durability, grants +20% Physical Armor, +35% Elemental Armo
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical, 44.75% Ironsing, 44.75% Bloodrend, 41.5% Thundercall, and 35% Elemental.
 
-The [Corrosive Touch](Talents.md#equipment-talents) Talent makes your Critical attacks and Flourishes corrode your opponent's armor, draining an additional 5% of their armor on proc. Corrosive Touch has a 10 second cooldown.
+The [Corrosive Touch](Talents.md#corrosive-touch) Talent makes your Critical attacks and Flourishes corrode your opponent's armor, draining an additional 5% of their armor on proc. Corrosive Touch has a 10 second cooldown.
 
 ## Trivia/Notes
 

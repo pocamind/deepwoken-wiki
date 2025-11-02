@@ -1,6 +1,6 @@
 ---
 title: Pumpkin
-revid: 170062
+revid: 170187
 source: https://deepwoken.fandom.com/wiki/Pumpkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Food, Harvestables, Food Ingredients]
@@ -16,8 +16,8 @@ notices:
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
-| stomach | TBA% |
-| water | TBA% |
+| stomach | 10% |
+| water | 10% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

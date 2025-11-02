@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 169626
+revid: 170208
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
@@ -39,7 +39,7 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*<i>The elderly-looking Lightborn starts at your approach.</i>* Hoy, a local! And not of the ocean-dwelling kind, too! Most jubilant. Joyous Hallowtide to thee! I am Galpin Spellhardt, senior musicologist and faculty chair at the... err, well, that matters not. The fine institution fell into the sea centuries ago. Wouldst thee be willing to aid me in a fine scholarly matter?</td>
+  <td colspan="12">*<i>The elderly-looking <a href="Glossary.md#lightborn">Lightborn</a> starts at your approach.</i>* Hoy, a local! And not of the ocean-dwelling kind, too! Most jubilant. Joyous Hallowtide to thee! I am Galpin Spellhardt, senior musicologist and faculty chair at the... err, well, that matters not. The fine institution fell into the sea centuries ago. Wouldst thee be willing to aid me in a fine scholarly matter?</td>
 </tr>
 <tr>
   <td colspan="4">Sure. What do you need?</td>
@@ -55,7 +55,7 @@ _**Links under this dialogue**_ (E.g. [Begin](#begin-section)) _**can be clicked
   <th colspan="12">C</th>
 </tr>
 <tr>
-  <td colspan="12">*<i>Galpin rubs the bridge of his nose with his fingertips.</i>* Ack, I had reckoned the locals would recall such fine treasures of our world... I am a Musicologist - ergo, I study musick. And, I am... or <i>used</i> to be... a faculty chair - ergo, I am a senior scholar, - at a... university. The Empyreal College of Cadence, specifically! I had heard few such institutions remain on the surface, and only one similar in size... what was it called... the Citadel of Markor, was it? I had heard stories - none too flattering. Now... Wouldst thou be willing to aid me in my matter?</td>
+  <td colspan="12">*<i>Galpin rubs the bridge of his nose with his fingertips.</i>* Ack, I had reckoned the locals would recall such fine treasures of our world... I am a Musicologist - ergo, I study musick. And, I am... or <i>used</i> to be... a faculty chair - ergo, I am a senior scholar, - at a... university. The Empyreal College of Cadence, specifically! I had heard few such institutions remain on the surface, and only one similar in size... what was it called... the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> of Markor, was it? I had heard stories - none too flattering. Now... Wouldst thou be willing to aid me in my matter?</td>
 </tr>
 <tr>
   <td colspan="6">Sure. What do you need?</td>

@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 170083
+revid: 170212
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
@@ -115,7 +115,7 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive head [equipments](Equipme
 <tr>
   <td colspan="6"><i><b>Only available after you bought Hallowtide Variant</b></i><br>
   13. Alright, could you induce the Variant transformation now?</td>
-  <td colspan="6">*<i>He hands you a vial of crimson liquid. It smells rancid. You reluctantly down it.</i>* Think happy thoughts of Hallowtide as you drink this. Just maybe don't tell the Authority about this little exchange...</td>
+  <td colspan="6">*<i>He hands you a vial of crimson liquid. It smells rancid. You reluctantly down it.</i>* Think happy thoughts of Hallowtide as you drink this. Just maybe don't tell the <a href="Glossary.md#the-central-authority">Authority</a> about this little exchange...</td>
 </tr>
 <tr>
   <td colspan="6">Not enough Joy for any purchase</td>

@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 170130
+revid: 170201
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -395,7 +395,7 @@ Lord Regent killing a player whom dared to step on his Coral Throne
     -   It is unclear if him sending Contractors to the Depths to kill Oath bearers empowers him.
 -   [A comment from ragoozer](https://gyazo.com/9c4be296352d1c88e02318fd518a8917) states that the Coral Throne Zi'eer sits on boosts his power.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the Lord Regent does the opposite for reasons unknown. However, being a Canor does not change interactions with Lord Regent. It's possible he only holds prejudices against the specific subset who deal in Attunement ingredients, due to their seeming lack of education.
--   Seemingly has a negative connection with the Knives of Eylis and its members, calling Voidwalkers "filthy, void-touched assassin."
+-   Seemingly has a negative connection with the Knives of Eylis and its members, calling Voidwalkers "filthy, void-touched assassins."
     -   This may be because of the Knives of Eylis' current deals with the Authority.
 -   There are free chests that contain [Erisia](Erisia.md) tier loot on the Throne.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines:
@@ -407,7 +407,7 @@ Lord Regent killing a player whom dared to step on his Coral Throne
             -   Initially he would kill you for attempting it, but that feature was removed.
             -   You must activate progress [Kennith's Questline](Kennith.md) to the point you can enter [Lord Regent's Room](Etris_Palace.md) without being executed, otherwise you will be gripped for Daring To Trespass, like normal.
 -   Zi'eer (Lord Regent) Hex Code Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
--   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight. You can however try to dye the default blindfold into black instead of getting the actual black variant of the blindfold to replicate his.
+-   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight. You can however try to dye the default blindfold into black instead of getting the actual black variant of the blindfold to replicate his. Alternatively, you can also edit a black headband down to your eye level.
 -   Zi'eer (Lord Regent) hair ID: 6536289312; and the link:[https://www.roblox.com/catalog/6536289312/Long-Blonde-Hair](https://www.roblox.com/catalog/6536289312/Long-Blonde-Hair)
 -   Zi'eer's outfits are the following outfits made by **SirAndrove2**
 -   [https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) - Shirt

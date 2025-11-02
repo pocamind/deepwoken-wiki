@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 169920
+revid: 170209
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Daggers, Hallowtide, Light Weapons]
@@ -27,12 +27,12 @@ categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Cri
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
 | description | ... |
 
 ## Description
 
-**Spectral Grasp** is a Hallowtide exclusive [Dagger](Weapons.md) in the Light Weapons category. This dagger appears as a hand of a humanoid, grown withered and decrepit through the passage of time.
+**Spectral Grasp** is a Hallowtide exclusive [Dagger](Weapons.md). This dagger appears as a hand of a humanoid, grown withered and decrepit through the passage of time.
 
 ## Critical
 

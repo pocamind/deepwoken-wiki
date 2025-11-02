@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 169936
+revid: 170207
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -26,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Cri
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], The Trial of the Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '24 Hallowtide Medal [7 Knowledge], The Trial of the Gourdskipper, Goodie Bag |
 | description | Have the lambs stopped screaming? |
 
 ## Description

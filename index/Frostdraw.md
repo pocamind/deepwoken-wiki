@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 169744
+revid: 170240
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 170145
+revid: 170226
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -42,9 +42,10 @@ This Outfit has 2500 durability and grants +25% Physical Armor, +25% Elemental A
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 32.5% Flamecharm, and 25% Elemental.
 
-The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when activated makes the user charge forward in a straight line, gaining i-frames. This consumes 50 Ether and deals 20% of your maximum posture as posture damage on cast.
+The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when activated makes the user charge forward in a straight line, gaining i-frames. This consumes 50 Ether and deals 20% of your maximum posture as posture damage on cast with a 1 second cooldown.
 
 ## Trivia/Notes
 
 -   This outfit is based on Rogue Lineage's Oni armor.
--   The outfit requiring a Dread Serpent's Tooth to craft is likely a reference to the Oni class obtainment in Rogue Lineage requiring that you kill the Lava Snake and obtain the Serpent's Fang.
+-   The Outfit requiring a Dread Serpent's Tooth to craft is likely a reference to the Oni class obtainment in Rogue Lineage requiring that you kill the Lava Snake and obtain the Serpent's Fang.
+-   This outfit may also be based on Akuma from Street Fighter.

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 169951
+revid: 170176
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -391,7 +391,7 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Nocturnal Gem</td>
-  <td>On Mantra hit, bats will burst out of your opponent after a short delay, dealing additional damage. This effect has a 25 second cooldown.</td>
+  <td>On Mantra hit, bats will burst out of your opponent after a short delay, dealing 10 additional physical damage. This effect has a 25 second cooldown.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

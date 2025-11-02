@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 169158
+revid: 170242
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -99,21 +99,21 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   **Flow State** - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
     -   Activating Ankle Cutter, Mayhem, Relentless Hunt, or Rising Star within 2 seconds of activating Flow State will enhance these attacks.
-    -   Flow State has a 3 second cooldown, landing a Flow State-enhanced Silentheart ability will reset Flow State's cooldown.
+    -   Flow State has a 10 second cooldown, landing a Flow State-enhanced Silentheart ability will reset Flow State's cooldown.
     -   The Flow State enhanced effects on Silentheart abilities will be highlighted in red.
     -   Flow state is a Talent tool.
     -   Flow State changes the behavior of a move:
         -   Increases the damage of most Silentheart abilities.
-        -   Mayhem autogrips.
+        -   Grants Mayhem the ability to autogrip.
         -   May add additional effects to certain Silentheart abilities.
-        -   Changes windup of some Silentheart abilities.
+        -   Shortens the windup of most Silentheart abilities.
         -   Adds a loud whooshing sound effect right before you do the move.
 
 -   **Ankle Cutter** - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
     -   Deals 37.5/52.5 damage with innate [Bleed](Status_Effects.md#bleed), adding an additional 11.1/15.75 damage.
-    -   Speed of the attack scales on your weapon's swingspeed stat.
+    -   Has a fixed attack speed across all weapon types.
     -   Can be used while sliding down slopes at no cost to your speed.
-    -   Flow State makes Ankle Cutter faster as well as increasing its damage.
+    -   Flow State shortens the windup and increases the damage.
     -   5 second cooldown.
 
 -   **Mayhem** - Initiate a special dash attack by pressing M1 during the start of your dodge.

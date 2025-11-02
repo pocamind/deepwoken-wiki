@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pie
-revid: 170147
+revid: 170193
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -22,7 +22,7 @@ categories: [Items, Food]
 | droppable | Yes |
 | pass down | No |
 | desc | A decedant slice of pie, a favorite amongst the Spellhardts. |
-| obtainment | ? |
+| obtainment | Crafting |
 
 ## Description
 
@@ -34,7 +34,7 @@ It is a type of **Generic** food.
 
 When consumed, it replenishes 50% Stomach and 20% Water.  
   
-Additionally, it grants the Heal buff, affecting 235% of the Stomach bar. The buff increases health regeneration by 30%.
+Additionally, it grants the Heal buff, affecting 35% of the Stomach bar. The buff increases health regeneration by 30%.
 
 ## Crafting
 

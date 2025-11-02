@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 168566
+revid: 170163
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
@@ -20,14 +20,12 @@ categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Purchased from Lysander Spellhardt for 50 Joy (Hallowtide exclusive), Purchased from any Blacksmith for 3 Knolwedge if you have the Hallowtide '23 Medal |
+| obtainment | Purchased from Lysander Spellhardt for 50 Joy (Hallowtide exclusive), Purchased from any Blacksmith for 3 Knolwedge if you have the Hallowtide '23 Medal, Goodie Bag |
 | description | Just make sure you still have a head after you take it off. |
 
 ## Description
 
-The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category. A head of a Pumpkin that was released during 2023 [Hallowtide](Hallowtide.md). You can obtain this by buying this from [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Medal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide) for 3 Knowledge anytime.
-
-When [dyed](Dye_Packet.md), the mouth and eyes will glow, with the glow color being based off the chosen dye. Just to show a few examples:
+The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category. When [dyed](Dye_Packet.md), the mouth and eyes will glow, with the glow color being based off the chosen dye. Just to show a few examples:
 
 ## Trivia
 

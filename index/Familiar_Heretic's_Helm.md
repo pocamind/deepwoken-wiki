@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Helm"
-revid: 169871
+revid: 170167
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -30,7 +30,7 @@ The Familiar Heretic's Helm is an [Equipment](Equipment.md) item under the "Head
 
 ## Trivia
 
--   Considered one of the Best Head [Equipment](Equipment.md) pieces, due to being one of the five helmets that are able to reach 30 HP. The other 4 being: [Silver Knight's Helm](<Silver_Knight's_Helm.md>), [Blacksteel Helm](Blacksteel_Helm.md), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), and [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>).
+-   Considered one of the best Head [Equipment](Equipment.md) pieces, due to it being one of few helmets that can reach 30 maximum health.
 -   This comes from the game [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki), being worn by the class Dark Sigil Knight (officially known as [Wraith Knight](https://rogue-lineage.fandom.com/wiki/Wraith_Knight)).
     -   The description of the Familiar Helms jokingly reference this: 'wayward' and 'line' being synonyms for rogue and lineage respectively.
 -   Like all other Hallowtide exclusive items, this is undroppable

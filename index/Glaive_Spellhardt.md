@@ -1,9 +1,9 @@
 ---
 title: Glaive Spellhardt
-revid: 170136
+revid: 170223
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide]
+categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
 notices:
   - This page is currently being worked on. Add in new weapon once found next week.
 ---
@@ -15,7 +15,9 @@ notices:
 | name | Glaive Spellhardt |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| family | Spellhardt family |
+| family | Spellhardt family, Alina (daughter)[1] |
+
+|location=[The Floating Keep](The_Floating_Keep.md) }}
 
 ## Description
 
@@ -177,3 +179,7 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) Glaive is never explicitly stated to be Alina's father. However, Glaive states he's been bothering her all day, and the only event she mentions is an attempt by her father to scare her. Glaive appears to hold a senior position among the Spellhardt family, making him the most likely candidate to be Alina's father.

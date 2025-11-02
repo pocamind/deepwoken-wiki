@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 170068
+revid: 170249
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -46,9 +46,16 @@ This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental A
 The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summons attack enemies.
 
 -   Eligible summons include:
-    -   Monsters summoned from the Parasol's Blight enchant
-    -   The Weaving Web's critical
-    -   There may be more so further testing is advised.
+    -   Monsters summoned from the [Parasol's Blight](<Parasol's_Blight.md>) enchantment
+    -   Spiderlings summoned from [The Weaving Web](The_Weaving_Web.md)'s critical attack
+    -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants) and [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter)
+    -   [Lightning Clones](Thundercall.md#lightning-clones)
+    -   [Flame Sentinel](Flamecharm.md#flame-sentinel)
+-   Ineligible summons include:
+    -   [Metal Turret](Ironsing.md#metal-turret)
+    -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Mirror Illusion](Oath%253A_Visionshaper.md#mirror-illusion)
+    -   [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me)
+    -   [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets)' puppets
 
 ## Trivia/Notes
 
