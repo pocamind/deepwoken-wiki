@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 169387
+revid: 170367
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -108,7 +108,7 @@ _WEP = Any weapon stat (HVY, MED, LHT)_
 
 [Silentheart](Oath%253A_Silentheart.md)
 
-(75 WEP + 25 STR + 25 AGL or CHA)
+(comb. 75 WEP + 25 STR + 25 AGL or CHA)
 
 [Soulbreakerfinal](Oath%253A_Soulbreaker.md)
 

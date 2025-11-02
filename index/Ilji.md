@@ -1,17 +1,18 @@
 ---
 title: Ilji
-revid: 125027
+revid: 170333
 source: https://deepwoken.fandom.com/wiki/Ilji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Quests]
+categories: [Pages requiring a cleanup, Quests]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Ilji
 
 | Ilji | |
 |---|---|
-| name | Ilji |
-| location | Unknown |
+| family | Nanji (older sibling) |
 
 “ We were eachother's closest rivals in the way of the sword. We both trained to best eachother constantly. ”
 

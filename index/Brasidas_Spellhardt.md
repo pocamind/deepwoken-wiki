@@ -1,9 +1,9 @@
 ---
 title: Brasidas Spellhardt
-revid: 170260
+revid: 170320
 source: https://deepwoken.fandom.com/wiki/Brasidas_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide]
+categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
 notices:
   - This page is currently being worked on. Missing image
 ---

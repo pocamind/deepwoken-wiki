@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 166572
+revid: 170321
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
@@ -18,9 +18,9 @@ The awe-inspiring moving keep of the mysterious Spellhardt family.
 
 ## Description
 
-The Floating Keep is a temporary location in Deepwoken. (only found during Hallowtide) It appears to be a medieval keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md) near the building that sells attunement training items or at [Greathive Aratel](Greathive_Aratel.md) near the entrance. It is controlled by [Lightborns](Lightborn.md) of the Spellhardt family, and is speculated to be a new home of the last remaining Lightborns. Here the player can interact with members of the Spellhardt family and participate in the Halloween Event. It is assumed that this location will reappear in later events.
+The Floating Keep is a temporary location in Deepwoken. (only found during Hallowtide) It appears to be a medieval keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md) near the building that sells attunement training items or at [Greathive Aratel](Greathive_Aratel.md) near the entrance. It is inhabited by [Lightborns](Lightborn.md) of the Spellhardt family. Here players can interact with members of the Spellhardt family and participate in the Halloween Event.
 
-## Cathedral
+### Cathedral
 
 In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need a Shell Stock, a Paperette and a Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander, Glaive, and Galpin for items. Joy can be exchanged for:
 
@@ -68,12 +68,12 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 #### Lightborns
 
 -   Everis
--   [Antiquarian](Antiquarian.md)
--   [Blacksmith](Blacksmith.md)
--   [Leaf](Mantra_Collector.md)
--   Green
+-   [Brasidas Spellhardt](Antiquarian.md)
+-   [Louie Spellhardt](Blacksmith.md)
+-   [Leaf Spellhardt](Mantra_Collector.md)
+-   [Green Spellhardt](Green_Spellhardt.md)
 -   [Tundra](Tundra_Spellhardt.md)
--   Mikhail
+-   [Mikhail Spellhardt](Mikhail_Spellhardt.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md)
 -   [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
@@ -107,7 +107,6 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   The music for this area is [A Light In The Sky](Deepwoken_OST.md#a-light-in-the-sky) by Naktigonis
 -   The combat music for this area is [A Darkness Beneath](Deepwoken_OST.md#a-darkness-beneath) by Naktigonis
--   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13)
 -   Initially, there was a bug where the Void Feather cost 5 Joy instead of the required 15. This was patched quickly.
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
 -   Whenever you try to spook Glaive Spellhardt with a Hallowtide Mask, he doesn't get spooked and instead says: "Oh please."

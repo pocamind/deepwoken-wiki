@@ -1,9 +1,9 @@
 ---
 title: Mikhail Spellhardt
-revid: 170261
+revid: 170360
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, Hallowtide, Vendors, NPCs located in The Floating Keep]
+categories: [Lightborn NPCs, NPCs, Hallowtide, Vendors, NPCs located in The Floating Keep, Members of the Spellhardt family]
 ---
 
 # Mikhail Spellhardt
@@ -63,7 +63,13 @@ Mikhail is a [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floati
   <td colspan="12">So, what you're saying is... He looks old because he *feels* old?</td>
 </tr>
 <tr>
-  <td colspan="12">Tsk, show some respect, land dweller. He's one of the oldest among our kin. Generations of your own kind came and went in the blink of his eye... But yes, him. He loves reminiscing about the past. He misses the homeland dearly. I don't think he enjoys all this travelling - though, he's happy the family's still together, despite the circumstances.</td>
+  <td colspan="12"><i>*Mikhail ponders for a second.*</i> I guess you <i>could</i> say that, yes. Were it not for the near-centennial Hallowtide celebrations, I'm not sure how he'd cope with the heartache from the homeland. But whenever Hallowtide swings around, it gets a lot more lively in here. And despite what Lysander might say - snobby as he can be, -we do enjoy the visitors.</td>
+</tr>
+<tr>
+  <td colspan="12">Is that why you keep the Hallowtide tradition going?</td>
+</tr>
+<tr>
+  <td colspan="12">In part, sure. But it's also a way to keep everyone together. Most of the other high {[g|Lightborn}} families have scattered to the winds. But the Spellhardt endure. Sure, we have our differences, and we have our fights - all families do. But at the end of the day, that's exactly it, isn't it? We're <i>family</i>. <i>*He smirks, wistfully.*</i> And nothing brings the family together like a good holiday tradition.</td>
 </tr>
 <tr>
   <td>End</td>

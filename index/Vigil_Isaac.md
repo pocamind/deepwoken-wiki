@@ -1,6 +1,6 @@
 ---
 title: Vigil Isaac
-revid: 168063
+revid: 170329
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -10,10 +10,11 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 
 | Vigil Isaac | |
 |---|---|
-| name | Vigil Isaac |
+| name | Isaac |
 | aspect | Etrean |
 | location | Temple of the Blade, Upper Erisia |
 | affiliation | Etrea |
+| family | Apprentice Kj (brother) |
 
 “ I'll be heading back soon, 'Walk with the Wind' stranger. ”
 

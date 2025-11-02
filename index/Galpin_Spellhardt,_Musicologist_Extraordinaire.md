@@ -1,9 +1,9 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 170283
+revid: 170324
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
 ---
 
 # Galpin Spellhardt, Musicologist Extraordinaire
@@ -14,8 +14,6 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 | aspect | Lightborn |
 | location | The Floating Keep |
 | family | Spellhardt family |
-
-\`
 
 ## Description
 
@@ -196,8 +194,14 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 <tbody>
 <tr>
   <td colspan="12">Begin</td>
+</tr>
+<tr>
   <td colspan="12">I've spooked about... 0 people, maybe? I'd like to trade my Joy in.</td>
+</tr>
+<tr>
   <td colspan="12">Hmpf! No Joy to tempt Lysander with, no sweets for me - and no deals for thee, I am afraid! Returnst to me when thou hast scared some people, friend.</td>
+</tr>
+<tr>
   <td colspan="12">End</td>
 </tr>
 </tbody>

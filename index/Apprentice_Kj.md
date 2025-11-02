@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 167973
+revid: 170328
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -12,10 +12,11 @@ notices:
 
 | Apprentice Kj | |
 |---|---|
-| name | Apprentice Kj |
+| name | Kj |
 | aspect | Etrean |
 | location | Temple of the Blade |
 | affiliation | Etrea |
+| family | Vigil Isaac (brother) |
 
 “ Thank you stranger, this is a great kindness. ”
 

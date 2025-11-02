@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 165610
+revid: 170330
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, Pages with broken file links, NPCs, Quests, Etrea, NPC
 | name | Nanji |
 | aspect | Etrean |
 | location | Etris |
+| family | Ilji (younger brother) |
 
 “ Uh... Yeah, no. ”
 
@@ -20,7 +21,7 @@ categories: [Etrean NPCs, Pages with broken file links, NPCs, Quests, Etrea, NPC
 
 ## Description
 
-Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) and the [Barber](Barber.md), Nanji is an Etrean NPC who is looking for her brother [Ilji](Ilji.md). Choosing the correct dialogue responses will begin the [Chipped Sword](Chipped_Sword.md) sidequest.
+Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) and the [Barber](Barber.md), Nanji is an Etrean NPC who is looking for their brother [Ilji](Ilji.md). Choosing the correct dialogue responses will begin the [Chipped Sword](Chipped_Sword.md) sidequest.
 
 Though it is unadvisable, you can accept the quest first before going through the trouble of getting to the [Isle of Vigils](Isle_of_Vigils.md) for the [Chipped Sword](Chipped_Sword.md), and back to Etris. It is generally recommended that first you go to Vigils for the sword, then back to Etris, therefore saving the round trip.
 
@@ -30,14 +31,14 @@ File:Image 2022-04-18 224253146.png
 
 An Etrean interacting with the sword
 
-Completing her sidequest will reward you with EXP, positive [Etrea](Etrea.md) reputation, and Compassion.
+Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) reputation, and Compassion.
 
 1.  Go to the [Isle of Vigils](Isle_of_Vigils.md).
 2.  Find the Well Preserved Grave near the attunement training gear shop.
 3.  Use the zipline on the left of the grave.
 4.  Once on the other side of the zipline, head towards the tree and turn right after passing the cliff corner.
 5.  Interact and inspect the [Katana](Katana.md) until it only gives you the option to end dialogue.
-6.  Return to Nanji and interact with her.
+6.  Return to Nanji and interact with them.
 
 ## Dialogue
 
@@ -142,5 +143,3 @@ Completing her sidequest will reward you with EXP, positive [Etrea](Etrea.md) re
 
 -   For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on Youtube.
 -   If you complete the quest, you will get a line of text that says, "Your compassion is growing..." (TAKES UP THE COMPASSION PATH AND GIVES YOU A TALENT DRAW)
--   It is also suspected that [Ilji](Ilji.md) is in the depths or could be in layer 2 floor 2 like [Kennith](Kennith.md).
--   She is a File [Etrean](Etrean.md)

@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 169525
+revid: 170336
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -41,25 +41,29 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [The Viper's Jaw](<The_Viper's_Jaw.md>) | Grants the [Legion Kata](Legion_Kata.md) [Fist](Fists.md) style. |  |
 | [Amashi, Master of Flame](Amashi,_Master_of_Flame.md) | Unaligned | [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) trainer.  
 [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression. |  |
-| [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md) |  |  |  |  |
+| [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md) | Unaligned | [Second Layer](Second_Layer.md), [Kyrsan Wilds](Kyrsan_Wilds.md) | Lets the player hear THE KYRSAN BREAK. |  |
 | [Andrea](Andrea.md) | Unaligned | [The Cathedral of Interstice](Cathedral_of_the_Interstice.md) | Reveals information about the Depths Trial. | Dialogue changes after completing the Trial once. |
-| [Antiquarian](Antiquarian.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Fort Merit](Fort_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Purchases |  |
-| [Antiques Smuggler](Antiques_Smuggler.md) |  |  |  |  |
+| [Antiquarian](Antiquarian.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Fort Merit](Fort_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Purchases items from the player. |  |
+| [Antiques Smuggler](Antiques_Smuggler.md) | Unaligned | [Lower Erisia](Lower_Erisia.md), [Path's Respite](<Path's_Respite.md>) | Behaves similarly to the [Antiquarian](Antiquarian.md), but buys items for only 50% if it's cost. |  |
 | [Apprentice Kj](Apprentice_Kj.md) | [Etrea](Etrea.md) | [Temple of the Blade](Temple_of_the_Blade.md) | Quest to unbound weapon and speak with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). | Sends the player to find [Vigil Isaac](Vigil_Isaac.md) in [Upper Erisia](Upper_Erisia.md). |
 | [Argo](Argo.md) | [Etrea](Etrea.md) | [Etris Docks](Etris_Docks.md) | Teaches the basics on how to [Fish](Fishing.md). |  |
 | [Aristo](Aristo.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Provides basic information to help new players. |  |
-| [Armorer](Astra.md) |  |  |  |  |
-| [Armourer Kev](Armourer_Kev.md) |  |  |  |  |
+| [Armorer](Astra.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Provides an assortiment of early-game weapons to the player. |  |
+| [Armourer Kev](Armourer_Kev.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Provides an assortiment of Authority weapons to the player. | 
+-   Authority Ensign exclusive
+-   The player has to rank up in order to gain access to some of the weapons in the armory.
+
+ |
 | [Arthur](Arthur.md) | [Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon completes and talent hand for 'Bravery' quest. |
-| [Artisan](Artisan.md) |  |  |  |  |
+| [Artisan](Artisan.md) | [Guilds](Guilds.md) | [Guild Bases](Guild_Bases.md) | Behaves similarly to [Jarvis](Jarvis.md), instead taking only. | Has an accent, which makes him say "z" instead of "th". |
 | [Asius](Asius.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the Armor Piercing Quest given by [Trig](Trig.md). | Player can decide to help him out, will be attacked by Trig instead. |
 | [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Drops the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) upon defeat. | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 [Flamecharm](Flamecharm.md). |
 | [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md). | Apparently the player knows her from some where. |
 | [Atra](Atra.md) | [The Hundred Legions](The_Hundred_Legions.md) | [The Viper's Jaw](<The_Viper's_Jaw.md>) | Gives the Quest to find the whereabouts of [Lars](Lars.md). | None |
 | [Avian](Avian.md) | [Etrea](Etrea.md) | [Temple Sparring Hall](Temple_Sparring_Hall.md) | Gives the Quest to lend him a Weapon Manual. | Consumes one usage of the manual upon quest completion. |
 | [Banker](Banker.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Port Merit](Port_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Stores items and notes for the player to access at anytime. |
-| [Baragan](Baragan.md) |  |  |  |  |
-| [Barber](Barber.md) | Unaligned | [Etris](Etris.md)[Isle of Vigils](Isle_of_Vigils.md)[Greathive Aratel](Greathive_Aratel.md)[Summer Isle](Summer_Isle.md)[Castle Light](Castle_Light.md)[Guild Bases](Guild_Bases.md) | Lets you change your appearance. |  |
+| [Baragan](Baragan.md) | [Etrea](Etrea.md), [The Vigils](The_Vigils.md) | [Isle of Vigils](Isle_of_Vigils.md) | Behaves similarly to a [Blacksmith](Blacksmith.md), but has a unique dialogue. | Has a brother, [Caragan](Caragan.md), who works at [Etris](Etris.md). |
+| [Barber](Barber.md) | Unaligned | [Etris](Etris.md)[Isle of Vigils](Isle_of_Vigils.md)[Greathive Aratel](Greathive_Aratel.md)[Summer Isle](Summer_Isle.md)[Castle Light](Castle_Light.md)[Guild Bases](Guild_Bases.md) | Lets the player change their appearance. |  |
 | [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
 | [Beatra](Beatra.md) | Unaligned | [Derelict Highchurch](Derelict_Highchurch.md) | [Shadowcast](Shadowcast.md) trainer on the surface. | She can't teach you [Shadowcast](Shadowcast.md), only level up mantras. |
 | [Beiruul](Beiruul.md) | [The Children of Navae](The_Children_of_Navae.md) | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
@@ -71,12 +75,13 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Calamus](Calamus.md) | [The Hive](The_Hive.md) | [Starswept Valley](The_Starswept_Valley.md) | Gives you a quest to hunt a monster. Quest completion gives Hive rep |  |
 | [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None |  |
 | [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
+
 [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
 
  | Teaches new players the basics of the game | Gives different dialogue if you have the Castaway origin who has done the tutorial |
-| [Captain Trist](Captain_Trist.md) |  |  |  |  |
-| [Caragan](Caragan.md) |  |  |  |  |
-| [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md)[New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Teaches you monster mantras. |  |
+| [Captain Trist](Captain_Trist.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Gives missions to players with the [Authority Ensign](Authority_Ensign.md) [origin](Origins.md). | Serves as the main way for [Authority Ensign](Authority_Ensign.md) players to progress through the ranks. |
+| [Caragan](Caragan.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Behaves similarly to a [Blacksmith](Blacksmith.md), but has a unique dialogue. | Has a brother, [Baragan](Baragan.md), who works at the [Isle of Vigils](Isle_of_Vigils.md). |
+| [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md)[New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Teaches the player monster mantras. |  |
 | [Cave Master](Cave_Master.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
 | [Celadon](Celadon.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
 | [Celtorian Guard](Celtorian_Guard.md) |  |  |  |  |

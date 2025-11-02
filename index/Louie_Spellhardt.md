@@ -1,11 +1,9 @@
 ---
 title: Louie Spellhardt
-revid: 170262
+revid: 170349
 source: https://deepwoken.fandom.com/wiki/Louie_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide]
-notices:
-  - This page is currently being worked on. Missing image
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
 ---
 
 # Louie Spellhardt
