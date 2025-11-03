@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 170366
+revid: 170431
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -249,4 +249,4 @@ When you complete his quest, he will say this.
 -   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Mantra_Modifiers.md#deep-gems), though the latter was replaced with buying a random [Relic](Relics.md).
     -   Buying a random [Relic](Relics.md) used to cost 30 [Joy](Joy.md), and had both Rain and Void spire relics in its lootpool.
 -   According to [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), **Lysander** is the Minister of Treats.
--   [Fauld of Enmity](Fauld_of_Enmity.md), and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.
+-   [Mantle of Enmity](Mantle_of_Enmity.md), and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.

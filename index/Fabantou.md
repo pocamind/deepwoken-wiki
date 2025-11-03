@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 168309
+revid: 170437
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -44,7 +44,7 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
   <td>I'd like to ask you something, tavernkeep.</td>
 </tr>
 <tr>
-  <td><i>*He perks to attention, and looks at you inquisitively.*</i> Yes, yes, I'm all ears! How may I serve, private?</td>
+  <td><i>*He perks to attention, and looks at you inquisitively.*</i> Yes, yes, I'm all ears! How may I serve, [Rank]?</td>
 </tr>
 <tr>
   <td>How did you come to be the landlord of the Three Cheers?</td>
@@ -59,6 +59,28 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 </table>
 
 **Any division:**
+
+**Division Unmaxed:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*The grizzled Felinor at the bar flashes you a toothy smile.*</i> My favourite tin can! Come, now, friend, what can I do for you today?<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>I'd like to ask you something, tavernkeep.</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Seneschal / Handler / Operator:**
 
 <table>
 <tbody>

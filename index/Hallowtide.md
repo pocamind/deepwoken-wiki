@@ -1,11 +1,11 @@
 ---
 title: Hallowtide
-revid: 170272
+revid: 170414
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Events, Hallowtide]
 notices:
-  - This page is currently being worked on. Info for Week 2 of Hallowtide.
+  - This page is currently being worked on. Info for Week 2 of Hallowtide 2025.
 ---
 
 # Hallowtide
@@ -14,8 +14,8 @@ notices:
 |---|---|
 | date1 | 2025: Rimefall, 1620 CE |
 | date2 | October 31st 2022, October 27th 2023, October 31st 2024, October 31st 2025 |
-| items | Hallowtide-exclusive Weapons, Outfits, and Helmets, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchant Stone, Pumpkin Pitch, Spectral Instruments, A Light In The Sky |
-| type | Halloween event |
+| items | Hallowtide-exclusive Equipment, Outfits, and Weapons, Joy, Hallowtide Mask and its ingredients, Aspect Variants, Harrowing Enchant Stone, Pumpkin Pitch, Spectral Instruments, A Light In The Sky |
+| type | Seasonal (Halloween) |
 
 “ Hallowtide arrives in Deepwoken... Seek out the mysterious Floating Keep and complete your tasks to be awarded limited edition loot and cosmetics! ”
 
@@ -31,42 +31,50 @@ It has subsequently returned on the follow dates:
 -   October 31st, 2024, ending on November 16th.
 -   October 31st, 2025, ending on November 14th.
 
+### Hallowtide 2022
+
 The first Hallowtide added...
 
 -   **New Features**:
-    -   [The Floating Keep](The_Floating_Keep.md)
-    -   A [Hallowtide Mask](Hallowtide_Mask.md) - crafted with Shell Stock, Paperette, and Fine Ink
-    -   The "[Joy](Joy.md)" System
--   New [Aspect Variants](#aspect-variants)
--   **New Helmets**: [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
--   **New Weapons**: [Skull Piercer](Skull_Piercer.md) (Rapier), [Hallowscleave](Hallowscleave.md) (Sword), [Skyreap Blade](Skyreap_Blade.md) (Greataxe)
+    -   [Joy](Joy.md) - A currency gained by scaring NPCs used to exchange for rewards.
+    -   [The Floating Keep](The_Floating_Keep.md) - The moving home of the Spellhardt family.
+    -   [Hallowtide Mask](Hallowtide_Mask.md) - A crude mask used to scare NPCs for Joy.
+-   **New [Aspect Variants](#aspect-variants)**.
+-   **New Equipment**: [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>).
+-   **New Weapons**: [Skull Piercer](Skull_Piercer.md) (Rapier), [Hallowscleave](Hallowscleave.md) (Sword), [Skyreap Blade](Skyreap_Blade.md) (Greataxe).
+
+### Hallowtide 2023
 
 The second Hallowtide added...
 
 -   **New Features**:
-    -   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
-    -   [Harrowing](Harrowing.md) Enchant
-    -   [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra
--   **New Helmets**: [Mushroom Costume](Mushroom_Costume.md), [Pumpkin Head](Pumpkin_Head.md)
--   **New Weapons**: [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist), [Bloodtide Trident](Bloodtide_Trident.md) (Spear), [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer), [Gourdguard](Gourdguard.md) (Shield)
+    -   [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) and Trial of the Gourdskipper - A eight-wave minigame that rewards the player with joy and Hallowtide loot upon blasting Gourdskippers.
+    -   [Harrowing](Harrowing.md) [Enchant Stone](Enchant_Stone.md) - An [Enchant](Enchantments.md) that obscures health, posture, and armor bars on hit.
+    -   [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra - A flaming pumpkin that can be hurled at enemies at an arc.
+-   **New Equipment**: [Mushroom Costume](Mushroom_Costume.md), [Pumpkin Head](Pumpkin_Head.md).
+-   **New Weapons**: [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist), [Bloodtide Trident](Bloodtide_Trident.md) (Spear), [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer), [Gourdguard](Gourdguard.md) (Shield).
+
+### Hallowtide 2024
 
 The third Hallowtide added...
 
 -   **New Features**:
-    -   [Spectral Instrument sets](Instruments.md)
-    -   "[A Light In The Sky](A_Light_In_The_Sky.md)" book, which also teaches the shanty of the same name
--   **New Weapons**: [Death's Reverie](<Death's_Reverie.md>) (Twinblade), [Spectral Grasp](Spectral_Grasp.md) (Dagger), [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword)
--   **New Schematics**: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>)
+    -   [Spectral Instruments](Instruments.md) - A ghastly set of instrument skins sold by [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md).
+    -   [A Light In The Sky](A_Light_In_The_Sky.md) Book - A musical notation made for a quartet composed by Galpin Spellhardt, grants A Light In The Sky shanty in the Worn Songbook.
+-   **New Weapons**: [Spectral Grasp](Spectral_Grasp.md) (Dagger), [Death's Reverie](<Death's_Reverie.md>) (Twinblade), [Wretched Mawblades](Wretched_Mawblades.md) (Greatsword).
+-   **New Schematics**: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>).
+
+### Hallowtide 2025
 
 The fourth Hallowtide added...
 
--   **New Weapons**: ?, [The Weaving Web](The_Weaving_Web.md) (Spear), [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon)
--   **New Items**: [Goodie Bag](Goodie_Bag.md) (Relic), [Nocturnal Gem](Mantra_Modifiers.md#deep-gems) (Deep Gem)
--   **New Foods**: [Candy](Candy.md), [Candy Suncorn](Candy_Suncorn.md), [Toffee](Toffee.md), [Pumpkin](Pumpkin.md), [Pumpkin Pie](Pumpkin_Pie.md)
--   **New Equipment:** [Crawling Necktie](Crawling_Necktie.md), [Death's-Head Necktie](<Death's-Head_Necktie.md>)
--   **New Schematics**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>), [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>)
+-   **New Weapons**: ?, [The Weaving Web](The_Weaving_Web.md) (Spear), [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon).
+-   **New Items**: [Goodie Bag](Goodie_Bag.md) (Relic), [Nocturnal Gem](Mantra_Modifiers.md#deep-gems) (Deep Gem).
+-   **New Foods**: [Candy](Candy.md), [Candy Suncorn](Candy_Suncorn.md), [Toffee](Toffee.md), [Pumpkin](Pumpkin.md), [Pumpkin Pie](Pumpkin_Pie.md).
+-   **New Equipment:** [Crawling Necktie](Crawling_Necktie.md), [Death's-Head Necktie](<Death's-Head_Necktie.md>).
+-   **New Schematics**: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>), [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>).
 
-## New Content
+## Content
 
 ### The Floating Keep
 
@@ -93,31 +101,29 @@ Main article: [Joy](Joy.md)
 
 The Hallowtide update added a special new variant for each aspect in the game. To unlock the Hallowtide aspect variants, you will have to turn in 70 "Joy" to [Lysander Spellhardt](Lysander_Spellhardt.md) who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their aspect variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by going to a [Barber](Barber.md) and asking them to change your variant, or by wiping and choosing your Hallowtide Variant in the character customization screen.
 
-### Exclusive NPCs and Variants
+### Exclusive NPCs
 
 #### Lightborns
 
--   Everis
--   [Antiquarian](Antiquarian.md)
--   [Louie Spellhardt](Louie_Spellhardt.md)
--   [Leaf Spellhardt](Leaf_Spellhardt.md)
--   [Green Spellhardt](Green_Spellhardt.md)
--   [Tundra](Tundra_Spellhardt.md)
--   [Mikhail Spellhardt](Mikhail_Spellhardt.md)
--   [Lysander Spellhardt](Lysander_Spellhardt.md)
--   [Glaive Spellhardt](Glaive_Spellhardt.md)
--   Alina
+-   [Alina Spellhardt](Alina_Spellhardt.md)
+-   [Brasidas Spellhardt](Brasidas_Spellhardt.md)
+-   [Everis Spellhardt](Everis_Spellhardt.md)
 -   [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
+-   [Glaive Spellhardt](Glaive_Spellhardt.md)
+-   [Green Spellhardt](Green_Spellhardt.md)
+-   [Leaf Spellhardt](Leaf_Spellhardt.md)
+-   [Louie Spellhardt](Louie_Spellhardt.md)
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Mikhail Spellhardt](Mikhail_Spellhardt.md)
+-   [Tundra Spellhardt](Tundra_Spellhardt.md)
 
-#### Unknown/Exclusive
+#### Other
 
 -   [Hallowtide Caller](Hallowtide_Caller.md)
 -   [Suspicious Skeleton](Suspicious_Skeleton.md)
 
 ## Trivia
 
--   The Floating Keep is the only place in the game where you can actually see NPC [Lightborns](Lightborn.md). (Aside from [Kaide](Kaide,_the_Drowned_Light.md) in [New Kyrsa.](Second_Layer/New_Kyrsa.md))
+-   The Floating Keep is the only place in game where the player can actually see NPC [Lightborns](Lightborn.md) (Aside from [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) in [New Kyrsa.](Second_Layer/New_Kyrsa.md)).
 -   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
--   A gif of the floating keep spawning in can be seen below
-
--   Oddly, the Third Hallowtide (2024) occured outside of the weekly update schedule, instead returning on a Thursday on Halloween Day (31st of October)
+-   Oddly, the Third Hallowtide (2024) occurred outside of the weekly update schedule, instead returning on a Thursday on Halloween Day (31st of October).

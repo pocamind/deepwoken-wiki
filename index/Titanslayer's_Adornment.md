@@ -1,9 +1,9 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 170177
+revid: 170426
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits]
+categories: [Items, Outfits, Unique Outfits]
 ---
 
 # Titanslayer's Adornment
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Master Outfits]
 | Titanslayer's Adornment | |
 |---|---|
 | caption | Your very own rightful spoils of war, a gilded adornment made of the furs and skins of Primadon, the mighty Titan of the East. Although the beast is poorly understood, one thing is for certain - its might is overwhelming. This attire is a testament to your victory against it... until the Titan rises again. |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Sinner's Ash, x1 Primadon Pelt, x5 Odd Tentacle, x5 Bloodless Gem, x3 Thresher Spine, x3 Dark Feather, x20 Umbral Obsidian, x20 Vibrant Gem |
 | price | 5,000 |
 | stat_req | 50 Strength, Power 15 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 3300 Durability |
 | resistances | +25% Physical Armor, +40% Elemental Armor |
 | buffs | +25% Ether Regen |
@@ -25,7 +25,7 @@ categories: [Items, Outfits, Master Outfits]
 | selling_price | 10 |
 | weight | 1 |
 
-**Titanslayer's Adornment** is a Master [Outfit](Outfits.md) in Deepwoken.
+**Titanslayer's Adornment** is a Unique [Outfit](Outfits.md) in Deepwoken.
 
 ## Statistics
 

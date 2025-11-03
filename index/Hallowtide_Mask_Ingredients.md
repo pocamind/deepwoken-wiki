@@ -1,45 +1,54 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 169978
+revid: 170402
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
 notices:
-  - "This page contains Event Exclusive Content This event will only likely be ran once, and as such is exclusive to those who attended the event."
+  - This page contains Event Exclusive Content These items are only available during the Hallowtide event.
 ---
 
 # Hallowtide Mask Ingredients
 
 | Fine Ink | |
 |---|---|
+| value | 5 |
+| weight | 0 |
+| stack | x99 |
 | type | Quest Item |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | A small vial of dark black ink, perfect for illustrations. |
-| obtainment | Lower Erisia Chests, Upper Erisia Chests, Depths Chests, Fishing Chests, Songseeker Chests, Lighthouse Chests (Ones that randomly spawn there) |
+| obtainment | Any Chest during Hallowtide |
 
 | Paperette | |
 |---|---|
+| value | 5 |
+| weight | 0 |
+| stack | x99 |
 | type | Quest Item |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | Some sort of thin paper... it looks perfect for a mask. |
-| obtainment | All Chests |
+| obtainment | Any Chest during Hallowtide |
 
 | Shell Stock | |
 |---|---|
+| value | 5 |
+| weight | 0 |
+| stack | x99 |
 | type | Quest Item |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | An odd shell with a cardboard like texture. Why has no one found this before? |
-| obtainment | All Chests |
+| obtainment | Any Chest during Hallowtide |
 
-The **Fine Ink**, **Paperette** and **Shell Stock** are items used for the Deepwoken [Hallowtide](Hallowtide.md) 2022-2025 event to craft the [Hallowtide Mask](Hallowtide_Mask.md).
+The **Fine Ink**, **Paperette**, and **Shell Stock** are items used for the _Deepwoken_ [Hallowtide](Hallowtide.md) 2022-2025 event to craft the [Hallowtide Mask](Hallowtide_Mask.md).
 
-These items are found within chests of any mob (depths included). The items have no further use besides the quest at the moment. The items can be dropped.
+These items are found within chests of any mob during the event The items have no other use besides crafting the Hallowtide Mask. The items can be dropped and will stay in the inventory even after Hallowtide ends.
 
 ## Trivia
 

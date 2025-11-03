@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 161806
+revid: 170385
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -26,7 +26,7 @@ categories: [Items, Harvestables]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Smoky... |
+| desc | Smoky. Used for fuel and in the production of steel. |
 
 | Iron | |
 |---|---|

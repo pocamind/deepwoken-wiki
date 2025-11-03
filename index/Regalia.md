@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 169585
+revid: 170425
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -88,6 +88,8 @@ This Regalia is not kept upon wiping at any power level.
 
 You start with 20 [Aces](Aces.md).
 
+This Regalia is kept upon wiping below Power 6.
+
 ### Joker[\[4\]](#cite-note-archnamedrop2-4)
 
 You are granted an additional [Talent](Talents.md) choice in each Talent hand.
@@ -106,7 +108,7 @@ You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood 
 
 The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest number. For example, something that would reward 1 Knowledge will instead reward 2, but if it would reward 2 Knowledge it would give 3 instead.
 
-This does not work with [Moonseye Tome](Moonseye_Tome.md).
+This does work with [Moonseye Tome](Moonseye_Tome.md). Grants 150 knowledge upon first time use.
 
 ### Oscillator[\[4\]](#cite-note-archnamedrop2-4)
 

@@ -1,9 +1,9 @@
 ---
 title: Everis Spellhardt
-revid: 170311
+revid: 170407
 source: https://deepwoken.fandom.com/wiki/Everis_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
 ---
 
 # Everis Spellhardt
@@ -27,7 +27,7 @@ Everis is one of many [Lightborn](Lightborn.md) scattered across [The Floating K
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Would you like to go home?</td>
+  <td>Hey, surface dweller! Would you like to go home?</td>
 </tr>
 <tr>
   <td>Yes.</td>

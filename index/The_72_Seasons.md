@@ -1,6 +1,6 @@
 ---
 title: The 72 Seasons
-revid: 152381
+revid: 170412
 source: https://deepwoken.fandom.com/wiki/The_72_Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Events]

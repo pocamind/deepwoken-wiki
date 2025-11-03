@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 167764
+revid: 170433
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -393,15 +393,13 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 **Frontliner:**
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You exchange enthusiastic salutes with Drill Sergeant Kernel.*</i> I see you've enlisted in the <b>SHOCK CORPS</b>, [Rank] [Ensign Name]! It's hard to believe a former <i>SCRAWNY</i> recruit like Private [Ensign Name] is now a fellow <b>SHOCK INFANTRY</b> soldier, but I guess I've helped you <i>PUT SOME MUSCLE</i> on those bones! I'm <i><b>REAL DAMN PROUD</b></i>, soldier! The next time you talk to <b>SENTINEL AUGUSTUS</b>, tell him I send him <i><b>ALL THE BEST</b></i>! <i><b>OORAH!!!</b></i></td>
+  <td><i>*You exchange enthusiastic salutes with Drill Sergeant Kernel.*</i> I see you've enlisted in the <b>SHOCK CORPS</b>, [Rank] [Last Name]! It's hard to believe a former <i>SCRAWNY</i> recruit like Private [Ensign Name] is now a fellow <b>SHOCK INFANTRY</b> soldier, but I guess I've helped you <i>PUT SOME MUSCLE</i> on those bones! I'm REAL DAMN PROUD, soldier! The next time you talk to <b>SENTINEL AUGUSTUS</b>, tell him I send him ALL THE BEST! <b>OORAH!!!</b></td>
 </tr>
 <tr>
   <td>End</td>
@@ -410,24 +408,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 </table>
 
 **Interceptor:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -445,8 +425,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 **Operator:**
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
@@ -454,22 +432,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 </tr>
 <tr>
   <td><i>*For the first time ever, Drill Sergeant Kernel salutes you first. It seems you finally outrank him. He sheds a tear of joy under his helmet, sniffling.*</i> Operator [Last Name]... I CONFESS, I feel like a <b>PROUD FATHER</b> knowing that ONE OF MY OWN has reached <b>THE TOP</b> of a division! I'm <b>REAL DAMN PROUD</b> OF YOU! You're an inspiration to <b>ALL</b> recruits! I only hope <b>MY SON</b>, Kernel Junior, can follow in your example! <b>THREE CHEERS!!!</b></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>

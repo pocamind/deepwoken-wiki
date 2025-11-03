@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 170235
+revid: 170396
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -235,6 +235,7 @@ Sold Items
     <li><b>For 100 </b>: <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, <a href="Heartstar.md">Heartstar</a>.</li>
     <li><b>For 1,000 </b>: <a href="Dye_Packet.md">Dye Packet</a>.</li>
     <li><b>For 2,500 </b>: <a href="Glumfig.md">Glumfig</a>.</li>
+    <li><b>For 15,000 </b>: <a href="Goodie_Bag.md">Goodie Bag</a>.</li>
   </ul></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 168374
+revid: 170441
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -61,7 +61,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
 </tr>
 <tr>
   <td colspan="6">I see... What are you proficient in?</td>
-  <td colspan="6"><i>*He grimaces.*</i> Be that as it may, his presence is the only thing standing in the way of a full invasion by the Central Authority. My strength alone cannot hold them back.</td>
+  <td colspan="6"><i>*He grimaces.*</i> Be that as it may, his presence is the only thing standing in the way of a full invasion by the <a href="Glossary.md#the-central-authority">Central Authority</a>. My strength alone cannot hold them back.</td>
 </tr>
 <tr>
   <td colspan="3">I'm not proficient in anything.</td>
@@ -74,7 +74,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
   <td colspan="3"><b>MED:</b> Ah, my specialty. Very well, I shall teach you the steps to become a Master.<br>
   <p><b>Other:</b> Ah, I will have to break out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.</p></td>
   <td colspan="3">They would strip our blades from our hands and destroy our way of life. Living under the thumb of Authority Peacekeepers is no life at all. I'd sooner fall upon my own blade than submit to those dogs.</td>
-  <td colspan="3">Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the Authority...</td>
+  <td colspan="3">Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the <a href="Glossary.md#the-central-authority">Authority</a>...</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -92,16 +92,16 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [name] what brings you here?</td>
+  <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [First Name] what brings you here?</td>
 </tr>
 <tr>
   <td colspan="12">I feel as if we're unprepared against the Lord Regent.</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*He raises an eyebrow.*</i> As much as I hate to admit it... You may be right. <i>*A moment of silence passes*</i></td>
+  <td colspan="12"><i>*He raises an eyebrow.*</i> As much as I hate to admit it.. You may be right. <i>*A moment of silence passes.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">...I heard you have an arsenal of weapons in this hall.</td>
+  <td colspan="12">..I heard you have an arsenal of weapons in this hall.</td>
 </tr>
 <tr>
   <td colspan="12"><i>*The Maestro appraises you, his eyes flicking towards you.*</i> I suppose I have amassed a collection over the years. However, those days are over now. Most of my blades are now collecting dust.</td>
@@ -116,18 +116,17 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">I mean, if they're not being made use of there's no harm in it right?</td>
 </tr>
 <tr>
-  <td colspan="12">Listen [name], I personally appreciate what you have done for us. However, there are no ordinary blades. They possess formidable strength behind them.</td>
+  <td colspan="12">Listen, [First Name]. I personally appreciate what you have done for us. However, there are no ordinary blades. They possess formidable strength behind them.</td>
 </tr>
 <tr>
   <td colspan="12">What if I prove myself? How about a challenge?</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The Maestro smirks, he finds the concept amusing.*</i> A challenge, hm? Very well then, I will test your strength myself.
-  <ul>
-    <li><b>HVY</b>: The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West.</li>
-    <li><b>MED</b>: The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history.</li>
-    <li><b>LHT</b>: The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread.</li>
-  </ul><p>That being said, I have no intention of going easy on you. This polearm (<b>HVY</b>) / blade (<b>MED</b>) / knife (<b>LHT</b>) cannot be handled by the faint of heart.</p></td>
+  <td colspan="12"><i>*The Maestro smirks, he finds the concept amusing.*</i> A challenge, hm? Very well then, I will test your strength myself.<p><br>
+  <b>HVY</b>: The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West.<br>
+  <b>MED</b>: The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history.<br>
+  <b>LHT</b>: The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread.<br>
+  That being said, I have no intention of going easy on you. This polearm (<b>HVY</b>) / blade (<b>MED</b>) / knife (<b>LHT</b>) cannot be handled by the faint of heart.</p></td>
 </tr>
 <tr>
   <td colspan="12">I'll do it.</td>
@@ -148,7 +147,7 @@ After having defeated [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for th
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td>*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [name]. / How's Purple Cloud/Pale Briar/Cerulean Thread treating you?</td>
+  <td>*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [First Name]. How's Purple Cloud/Pale Briar/Cerulean Thread treating you?</td>
 </tr>
 <tr>
   <td colspan="12">We've been well, thank you. Care for another round?</td>

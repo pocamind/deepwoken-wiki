@@ -1,9 +1,9 @@
 ---
 title: Vigil Sentinel
-revid: 170184
+revid: 170427
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits, Etrea, World Event]
+categories: [Items, Outfits, Unique Outfits, Etrea, World Event]
 ---
 
 # Vigil Sentinel
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Master Outfits, Etrea, World Event]
 | Vigil Sentinel | |
 |---|---|
 | caption | N/A |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x5 Gale Stone, x5 Irithine, x1 Wind Gem, x5 Vibrant Gem |
 | price | 1,000 |
 | stat_req | Power Level 10, 5 Willpower |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2500 |
 | resistances | +30% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +10% Shadow Armor, +10% Fire Armor |
 | buffs | +25% Ether Regen |
@@ -25,7 +25,7 @@ categories: [Items, Outfits, Master Outfits, Etrea, World Event]
 | selling_price | 10 |
 | weight | 1 |
 
-**Vigil Sentinel** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Vigil Sentinel** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
