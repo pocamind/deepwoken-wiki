@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 170125
+revid: 170469
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
@@ -369,7 +369,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>"*You offer a stern salute to the Warden of the East. He responds with a formal salute.*" Handler. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor. first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>

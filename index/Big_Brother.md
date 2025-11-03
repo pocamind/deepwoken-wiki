@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 169884
+revid: 170444
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -22,7 +22,7 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 | stances | 1 Handed |
 | selling price | ? |
 | weight | 4 |
-| bankable | Yes |
+| bankable | NOT FUCKING BANKABLE |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Seroth
-revid: 168045
+revid: 170449
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs in the Etrean Luminant, Quests]
@@ -88,7 +88,7 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Still here? Tch~ don't you have better thing to do than bother a working man?</td>
+  <td colspan="12">Still here? Tch... Don't you have better thing to do than bothering a working man?</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

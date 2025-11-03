@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 170413
+revid: 170443
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -132,7 +132,7 @@ Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftert
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Evengarde Rest](Evengarde_Rest.md), [Hector](Hector.md), [Joshua](Joshua.md), [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](Books.md#operation-distant-light-report), [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report), [The Gideshu March](Books.md#the-gideshu-march) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 

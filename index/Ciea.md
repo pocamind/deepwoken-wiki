@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 169492
+revid: 170474
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -60,14 +60,14 @@ Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the 
 </tr>
 <tr>
   <td colspan="6">Oh, little moth.. you remind me of myself during my golden-age. Hungry for knowledge and understanding. Do you truly wish to undergo my training? Take note that it will be.. quite difficult, if you're unexperienced with creating potions with specific effects, hehe.</td>
-  <td colspan="6">Now now.. no need for the <i>haste</i> with questions, young novice. The art of potion crafting itself takes patience, hehe. I am Ciea, an experienced tutor. When I was young, I dedicated myself to discovering new concoctions, dreaming of becoming a world-renowned apothecary. Alas, as you grow older.. dreams fall hard, heh. Now, I simply share what I know, and test the knowledge of my initiates to better their understanding of potion brewing.</td>
+  <td colspan="6">Now, now.. no need for the <i>haste</i> with questions, young novice. The art of potion crafting itself takes patience, hehe. I am Ciea, an experienced tutor. When I was young, I dedicated myself to discovering new concoctions, dreaming of becoming a world-renowned apothecary. Alas, as you grow older.. dreams fall hard, heh. Now, I simply share what I know, and test the knowledge of my initiates to better their understanding of potion brewing.</td>
 </tr>
 <tr>
   <td colspan="6">I can handle it.</td>
   <td colspan="6">I'm interested in a lesson.</td>
 </tr>
 <tr>
-  <td colspan="6">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [bring forth a surge of speed](<i><b><u>Hastening</u></b></i> potion)/[deplete the sanity of its victim](<i><b><u>Mindbreaking</u></b></i> potion)/[restore your life force](<i><b><u>Rejuvenating</u></b></i> potion)/[cause harm to its victim](<i><b><u>Disgusting</u></b></i> potion)/[restore your ether, to a satisfactory degree](<i><b><u>Soothing</u></b></i> potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
+  <td colspan="6">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [bring forth a surge of speed](<i><b><u>Hastening</u></b></i> potion)/[deplete the sanity of it's victim](<i><b><u>Mindbreaking</u></b></i> potion)/[restore your life force](<i><b><u>Rejuvenating</u></b></i> potion)/[cause harm to its victim](<i><b><u>Disgusting</u></b></i> potion)/[restore your ether, to a satisfactory degree](<i><b><u>Soothing</u></b></i> potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td>
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the 
   <td colspan="12">I've made the potion.</td>
 </tr>
 <tr>
-  <td colspan="12">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [bring forth a surge of speed]/[deplete the sanity of its victim]/[restore your life force]/[cause harm to its victim]/[restore your ether, to a satisfactory degree].</td>
+  <td colspan="12">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [bring forth a surge of speed]/[deplete the sanity of it's victim]/[restore your life force]/[cause harm to its victim]/[restore your ether, to a satisfactory degree].</td>
 </tr>
 <tr>
   <td colspan="12">Here is my creation.</td>

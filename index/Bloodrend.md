@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 169260
+revid: 170461
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -878,7 +878,7 @@ These are Talents found in "_Scarlet Donor_" Category.
 |  | Donation Drive  
 (50 Bloodrend, 55 Charisma, Manipulator) | Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra. | Manipulator will activate when block breaking with a Bloodrend mantra. Consuming Charm via this Talent or Manipulator will replenish some blood.
   
-Donation Drive's cooldown scales on your Charisma investment, having a 12 second cooldown at 20 Charisma and losing 0.1s for every point in Charisma above 20. This caps at 8 seconds with 60 Charisma.
+Donation Drive's cooldown scales on your Charisma investment, having an 8 second cooldown at 60 Charisma and gaining 0.1s for every point in Charisma below 60. This caps at 10.5 seconds with 35 Charisma.
 
  |
 |  | Sharing is Caring  

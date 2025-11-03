@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 170000
+revid: 170470
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Items]
@@ -16,23 +16,23 @@ Books are items that are found in the world of Deepwoken and are a separate cate
 
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
--   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
--   The Gideshu March: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant)[\[1\]](#cite-note-1)
--   The Interrogation Of Ranger Santiago Talo: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md)
--   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md)
--   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md)
--   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
--   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md)
--   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
--   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md)
--   Strange Missives: [Greathive Aratel](Greathive_Aratel.md)
+-   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md).
+-   The Gideshu March: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant).[\[1\]](#cite-note-1)
+-   The Interrogation Of Ranger Santiago Talo: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md).
+-   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md), [Lightkeeper Temple](Lightkeeper_Temple.md).
+-   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md).
+-   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md).
+-   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md).
+-   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md).
+-   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md).
+-   Strange Missives: [Greathive Aratel](Greathive_Aratel.md).
 
 Some books are part of specific quests, and thus cannot be obtained multiple times on a character. Such books include:
 
--   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md)
--   Diver Journal, I/II/III: [Second Layer](Second_Layer.md)
--   Legion Intelligence: Talking to [Caitus](Caitus.md)
--   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
+-   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md).
+-   Diver Journal, I/II/III: [Second Layer](Second_Layer.md).
+-   Legion Intelligence: Talking to [Caitus](Caitus.md).
+-   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
 
   
 

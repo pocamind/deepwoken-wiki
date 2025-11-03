@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 170205
+revid: 170460
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2827,8 +2827,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 80 Bloodrend, 40 Charisma, Manipulator
 
 -   Donation Drive \[Common Talent\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
-    -   Donation Drive's cooldown scales on your Charisma investment, having a 12 second cooldown at 20 Charisma and losing 0.1s for every point in Charisma above 20. This caps at 8 seconds with 60 Charisma.
-    -   Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 9.5 seconds at 35 Charisma.
+    -   Donation Drive's cooldown scales on your Charisma investment, having an 8 second cooldown at 60 Charisma and gaining 0.1s for every point in Charisma below 60.
+    -   Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 10.5 seconds at 35 Charisma.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
 
 -   Sharing is Caring \[Common Talent\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
@@ -3320,7 +3320,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   You now Scratch yourself at Tier 3 insanity instead of Tier 2.
     -   Prerequisites: Grasp on Reality, 50 Willpower, 50 Fortitude
 
-### Super Conductor
+### Superconductor
 
 -   Voltaic Conductor \[Common Talent, Dual Attunement\] - Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
     -   Prerequisites: Rending Needle: Conductor, 40 Thundercall, 75 Ironsing

@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 170005
+revid: 170447
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Items]
@@ -21,8 +21,8 @@ categories: [Equipment, Head, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | (Sold by Traan Zakshun in his black market for 5 , Goodie Bag |
-| description | An otherwordly set of faux horns. Faint scratches on the back spell something like Aazel, though weathered almost beyond reading. Whoever wore them must have long since drowned. Strangely, they're warm to the touch. |
+| obtainment | Sold by Traan Zakshun in his black market for 5 , Goodie Bag |
+| description | An otherwordly set of faux horns. Faint scratches on the back spell something like 'Aazel', though the writing is weathered almost beyond recognition. Whoever wore these must have long since drowned. Strangely, they're warm to the touch. |
 
 ## Description
 

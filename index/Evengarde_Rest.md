@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 170441
+revid: 170445
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -25,9 +25,7 @@ After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals h
 
 ## Dialogue
 
-**Requirements Unmet:**
-
-When you have not done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest) from Apprentice Kj, or have not beaten [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), or have not High-Ally reputation with [Etrea](Etrea.md), or have not [Power](Power.md) 15, or all of them.
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -43,7 +41,9 @@ When you have not done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-si
 </tbody>
 </table>
 
-**Vigil Saviour:**
+**Unlockable Dialogue:**
+
+**Vigil's Savior:**
 
 After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest) from Apprentice Kj.
 
@@ -82,9 +82,11 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
 </tbody>
 </table>
 
-**Ally+Duke:**
+**Sparring Request:**
 
 After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High-Ally reputation with [Etrea](Etrea.md).
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -132,14 +134,31 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">I'll do it.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">End, player is teleported into dungeon</td>
 </tr>
 </tbody>
 </table>
 
-**After Defeat:**
+**Leaving before Victory:**
 
-After having defeated [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for the first time, and subsequent encounters.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*The Maestro grins.*</i> I'll skip the formalities, I assume you have already practiced after our last bout. Ready for another shot?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, I'm ready.</td>
+</tr>
+<tr>
+  <td colspan="12">End, player is teleported into dungeon</td>
+</tr>
+</tbody>
+</table>
+
+**After Victory:**
 
 <table>
 <tbody>
@@ -156,7 +175,7 @@ After having defeated [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for th
   <td colspan="12">Let's see how your skills have improved, eh?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">End, player is teleported into dungeon</td>
 </tr>
 </tbody>
 </table>

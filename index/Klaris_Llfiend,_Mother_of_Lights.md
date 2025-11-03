@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 167888
+revid: 170462
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -113,18 +113,21 @@ Radiant Teachings
   <td>Light Hook? What's that?</td>
   <td colspan="3"></td>
   <td colspan="3">Why do you need competent people?</td>
-  <td colspan="3"></td>
 </tr>
 <tr>
-  <td colspan="2">Alright. Bring 5 of you tops, we can't get any more down there right now. Stand in the circle with your team, and good luck out there.</td>
+  <td>No Light Hook Active</td>
+  <td>Active Light Hook</td>
   <td>[See first instance]</td>
   <td colspan="3"></td>
   <td colspan="3">[See first instance]</td>
-  <td colspan="3"></td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="10"></td>
+  <td>Alright. Bring 5 of you tops, we can't get any more down there right now. Stand in the circle with your team, and good luck out there.</td>
+  <td>A <a href="Glossary.md#light-hook">Light Hook</a> is already active. Stand within its circle when you're ready, and you'll be sent in a moment.</td>
+</tr>
+<tr>
+  <td>End, Light Hook is placed</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 168553
+revid: 170463
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -112,6 +112,8 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 Note: The player can only speak to a Deep Owl if they are the one to spawn in it or have [Mute](Regalia.md#mute).
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
@@ -127,6 +129,22 @@ Note: The player can only speak to a Deep Owl if they are the one to spawn in it
 <tr>
   <td colspan="6">Ah. Carry on then, little mouse. I'm sure you have places to be.</td>
   <td colspan="6">My, my... Such impertinent squeaking. The mice of this land never fail to amaze me.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*The creature tilts its head curiously.*</i></td>
 </tr>
 <tr>
   <td colspan="12">End</td>
