@@ -1,6 +1,6 @@
 ---
 title: Leaf Spellhardt
-revid: 170512
+revid: 170527
 source: https://deepwoken.fandom.com/wiki/Leaf_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
@@ -17,7 +17,7 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of
 
 ## Description
 
-Brasidas Spellhardt is [Lightborn](Lightborn.md) NPC, he is the [Mantra Collector](Mantra_Collector.md) of the Spellhardt family.
+Leaf Spellhardt is [Lightborn](Lightborn.md) NPC, he is the [Mantra Collector](Mantra_Collector.md) of the Spellhardt family.
 
 He wears the [Cala-Mariner](Cala-Mariner.md) outfit.
 

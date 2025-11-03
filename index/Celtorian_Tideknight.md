@@ -1,9 +1,9 @@
 ---
 title: Celtorian Tideknight
-revid: 169979
+revid: 170557
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits, Lost Celtor]
+categories: [Items, Outfits, Unique Outfits, Lost Celtor]
 ---
 
 # Celtorian Tideknight
@@ -20,13 +20,13 @@ categories: [Items, Outfits, Master Outfits, Lost Celtor]
 | durability | 2800 Durability |
 | resistances | +30% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +10% Shadow Armor, +5% Ice Armor |
 | talents | Tidekeeper |
-| obtainment | The Diluvian Mechanism, Glaive Spellhardt |
+| obtainment | The Diluvian Mechanism |
 | selling_price | 10 |
 | weight | 1 |
 
 _Not to be confused with the NPC in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the [Tideknight](Tideknight.md)_
 
-The **Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+The **Celtorian Tideknight** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ### _Requirements_
 

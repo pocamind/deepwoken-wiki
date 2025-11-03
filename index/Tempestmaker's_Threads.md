@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 170452
+revid: 170561
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -25,7 +25,7 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | selling_price | 10 |
 | weight | 1 |
 
-**Tempestmaker's Threads** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Tempestmaker's Threads** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

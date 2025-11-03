@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 169679
+revid: 170531
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -537,7 +537,7 @@ N/A
  |
 | 
 
-**Effect:** _User buffs themselves and others in a small area around them, granting 10% damage resistance and a 10% damage buff to the user and all nearby allies. (Reinforce's damage buff is reduced to 5% if Reinforce was only used on yourself.)_
+**Effect:** _User buffs themselves and others in a small area around them, granting 10% damage resistance and a 10% damage buff to the user and all nearby allies. The damage buff will be halved to 5% if you didn't buff at least one other person with your Reinforce._
 
 -   Damage increase only applies to weapon attacks.
 -   The damage reduction can be reduced by PEN, but PEN has 25% effectiveness on it.

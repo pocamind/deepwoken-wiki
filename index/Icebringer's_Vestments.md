@@ -1,9 +1,9 @@
 ---
 title: "Icebringer's Vestments"
-revid: 169983
+revid: 170549
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits, World Event]
+categories: [Items, Outfits, Unique Outfits, World Event]
 ---
 
 # Icebringer's Vestments
@@ -25,7 +25,7 @@ categories: [Items, Outfits, Master Outfits, World Event]
 | selling_price | 10 |
 | weight | 1 |
 
-**Icebringer's Vestments** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Icebringer's Vestments** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

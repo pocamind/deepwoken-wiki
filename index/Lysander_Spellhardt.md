@@ -1,9 +1,9 @@
 ---
 title: Lysander Spellhardt
-revid: 170431
+revid: 170541
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family, Pages with broken file links]
 ---
 
 # Lysander Spellhardt
@@ -249,4 +249,11 @@ When you complete his quest, he will say this.
 -   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Mantra_Modifiers.md#deep-gems), though the latter was replaced with buying a random [Relic](Relics.md).
     -   Buying a random [Relic](Relics.md) used to cost 30 [Joy](Joy.md), and had both Rain and Void spire relics in its lootpool.
 -   According to [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), **Lysander** is the Minister of Treats.
--   [Mantle of Enmity](Mantle_of_Enmity.md), and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.
+-   [Mantle of Enmity](Mantle_of_Enmity.md), [Fauld of Enmity](Fauld_of_Enmity.md) and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.
+-   According to [Mikhail](Mikhail_Spellhardt.md), Lysander is as old, if not older, than [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), despite one looking much older than the other. Also according to Mikhail, this is because [Lightborns](Lightborn.md)' appearance reflects their feelings, which is why Galpin is so old as he reminisces about their homeland a lot.[\[1\]](#cite-note-1)
+
+## Navigation
+
+1.  [↑](#cite-ref-1)
+    
+    File:New lightborn lore just dropped chat.png

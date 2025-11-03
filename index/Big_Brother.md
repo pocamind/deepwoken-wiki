@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 170444
+revid: 170566
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -22,10 +22,10 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 | stances | 1 Handed |
 | selling price | ? |
 | weight | 4 |
-| bankable | NOT FUCKING BANKABLE |
+| bankable | No |
 | droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | High Inquisitor Merey (Inquisition Division of the Authority Ensign Origin exclusive) |
 | description | A gift from High Inquisitor Merey. Far from a weapon of war, this dagger is a perfect tool for the stealthy wetwork missions of the Inquisition. Eyes and ears may watch and listen, but must never make a sound. |
 

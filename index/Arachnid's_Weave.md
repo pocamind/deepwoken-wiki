@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 170180
+revid: 170555
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -21,11 +21,11 @@ categories: [Items, Outfits, Master Outfits]
 | resistances | +20% Physical Armor, +35% Elemental Armor, +15% Blood Armor, +15% Iron Armor, +10% Lightning Armor |
 | buffs | +55% Ether Regen, +10 Sanity |
 | talents | Corrosive Touch |
-| obtainment | Deep Widow (direct drop), Glaive Spellhardt |
+| obtainment | Deep Widow (direct drop) |
 | selling_price | 10 |
 | weight | 1 |
 
-**Arachnid's Weave** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Arachnid's Weave** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

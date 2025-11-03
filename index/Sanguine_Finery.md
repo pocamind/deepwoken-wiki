@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 170454
+revid: 170553
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -25,7 +25,7 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | selling_price | 10 |
 | weight | 1 |
 
-**Sanguine Finery** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Sanguine Finery** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

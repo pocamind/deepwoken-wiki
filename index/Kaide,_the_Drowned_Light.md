@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 170026
+revid: 170565
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]

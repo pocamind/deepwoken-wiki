@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 170453
+revid: 170560
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -25,7 +25,7 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | selling_price | 10 |
 | weight | 1 |
 
-**Stormchanter's Raiments** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Stormchanter's Raiments** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

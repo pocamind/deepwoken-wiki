@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 168233
+revid: 170544
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, The Hive]
@@ -22,7 +22,7 @@ categories: [Outfits, Items, The Hive]
 | selling_price | 10 |
 | weight | 1 |
 
-**Hive Adjudicator** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Hive Adjudicator** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

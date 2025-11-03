@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 167901
+revid: 170537
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -42,7 +42,7 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
   <td>Get out of my cell, swine.</td>
 </tr>
 <tr>
-  <td>End, you are beaten up.</td>
+  <td>End, you are beaten up</td>
 </tr>
 </tbody>
 </table>
@@ -58,12 +58,16 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
   <td>Oh, a treaty-breaker makes his way into my den... Your superiors will regret the day they broke our Pact.</td>
 </tr>
 <tr>
-  <td>End, you are beaten up.</td>
+  <td>End, you are beaten up</td>
 </tr>
 </tbody>
 </table>
 
-**Blightsurger interaction:**
+**Blightsurger:**
+
+**Blightsurger Obtainment:**
+
+This dialogue will only appear if the player has received dialogue from [Titus](Titus_Fulminus_Destellus.md) that allows them to obtain the [Blightsurger](Oath%253A_Blightsurger.md) Oath.
 
 <table>
 <tbody>
@@ -71,7 +75,7 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
   <td>Begin</td>
 </tr>
 <tr>
-  <td>*Brutus tilts his head slowly, sizing you up with dull, sunken eyes.*</td>
+  <td><i>*Brutus tilts his head slowly, sizing you up with dull, sunken eyes.*</i></td>
 </tr>
 <tr>
   <td>*Speak the Rite Titus gave you*</td>
@@ -86,13 +90,43 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
   <td>Close your eyes...</td>
 </tr>
 <tr>
-  <td>You get beaten up</td>
+  <td>[You get beaten up]</td>
 </tr>
 <tr>
   <td>Don't crawl back to me for more scraps. If you seek to amplify that new power of yours, do it to them what I did to you. He gave the word that can change the path that you walk on.</td>
 </tr>
 <tr>
-  <td>End, you obtain Blightsurger.</td>
+  <td>End, you obtain Blightsurger</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">You already carry it. If you're here begging for it twice, then you never deserved it in the first place.</td>
+</tr>
+<tr>
+  <td>[Player has not completed <a href="Oath%253A_Blightsurger.md">Blightsurger</a>'s progression on any character]</td>
+  <td>[Player has completed <a href="Oath%253A_Blightsurger.md">Blightsurger</a>'s progression on a previous character]</td>
+</tr>
+<tr>
+  <td>End</td>
+  <td>I've proven myself, just unlock it [10 Knowledge].</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Should've listened. <i>No shortcuts.</i></td>
+</tr>
+<tr>
+  <td></td>
+  <td>End, you are beaten up<br>
+  <i>(Note: this does not consume your Knowledge and your Oath will not be progressed)</i></td>
 </tr>
 </tbody>
 </table>

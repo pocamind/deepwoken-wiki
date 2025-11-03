@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 170450
+revid: 170556
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, The Central Authority]
@@ -21,14 +21,14 @@ categories: [Items, Outfits, Unique Outfits, The Central Authority]
 | resistances | +30% Elemental Armor, +30% Physical Armor, +10% Blunt Armor, +10% Fire Armor |
 | buffs | +20% Ether Regen |
 | talents | Riot Breaker |
-| obtainment | Layer 2, Scion of Ethiron, Diluvian Mechanism, Glaive Spellhardt |
+| obtainment | Layer 2, Scion of Ethiron, Diluvian Mechanism |
 | selling_price | 10 |
 | weight | 1 |
 
 _Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
 
   
-**Authority Commander** is a Master [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
+**Authority Commander** is a Unique [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 

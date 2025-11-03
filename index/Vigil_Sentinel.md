@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 170427
+revid: 170564
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Etrea, World Event]
@@ -21,7 +21,7 @@ categories: [Items, Outfits, Unique Outfits, Etrea, World Event]
 | resistances | +30% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +10% Shadow Armor, +10% Fire Armor |
 | buffs | +25% Ether Regen |
 | talents | Vigil's Grace, Action Surge |
-| obtainment | Interluminary Parasol, Carnival of Hearts, Glaive Spellhardt |
+| obtainment | Interluminary Parasol, Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
 

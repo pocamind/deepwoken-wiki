@@ -1,9 +1,9 @@
 ---
 title: "Titus's Raiment"
-revid: 169838
+revid: 170563
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits]
+categories: [Items, Outfits, Unique Outfits]
 ---
 
 # Titus's Raiment
@@ -21,11 +21,11 @@ categories: [Items, Outfits, Master Outfits]
 | resistances | +10% Lightning Armor, +10% Wind Armor, +30% Physical Armor, +35% Elemental Armor |
 | buffs | +30% Ether Regen |
 | talents | Overwhelming Might |
-| obtainment | Titus Fulminus Destellus, Glaive Spellhardt |
+| obtainment | Titus Fulminus Destellus |
 | selling_price | 10 |
 | weight | 1 |
 
-**Titus's Raiment** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Titus's Raiment** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

@@ -1,9 +1,9 @@
 ---
 title: Inquisition Light
-revid: 170009
+revid: 170550
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits, The Central Authority]
+categories: [Items, Outfits, Unique Outfits, The Central Authority]
 ---
 
 # Inquisition Light
@@ -20,11 +20,11 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 | resistances | 30% Physical Armor, 35% Elemental Armor, 10% Shadow Armor, 10% Ironsing Armor, 10% Blood Armor |
 | buffs | +15% Ether Regen+50% Stealth |
 | talents | Lethal Dose |
-| obtainment | Authority Ensign Origin, Inquisition Division (automatically crafted), Glaive Spellhardt |
+| obtainment | Authority Ensign Origin, Inquisition Division (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 
-**Inquisition Light** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Inquisition Light** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

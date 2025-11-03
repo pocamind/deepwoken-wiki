@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 168010
+revid: 170536
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -17,7 +17,7 @@ categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminan
 
 ## Description
 
-Kelsius is an Adret NPC who works as the librarian at the [Isle of Vigils](Isle_of_Vigils.md). Upon accepting his quest, he tasks the player into retrieving his lost books for a mantra hand and access to books to instantly gain a random attribute point. If the player has already obtained an extra mantra hand, completing his quest will instead reward 2 [Knowledge](Knowledge.md).
+Kelsius is an Adret NPC who works as the librarian at the [Isle of Vigils](Isle_of_Vigils.md). Upon accepting his quest, he tasks the player into retrieving his lost books for a mantra hand and access to books to instantly gain a random attribute point. If the player has already obtained an extra mantra hand, completing his quest will instead reward 1 [Knowledge](Knowledge.md).
 
 ## Location
 

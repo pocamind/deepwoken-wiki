@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 170047
+revid: 170532
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Monsters, Hallowtide]
@@ -47,3 +47,4 @@ Similar to the [Instructor](Blade_Instructor.md), this only happens if you are k
 ## Trivia
 
 -   Gourdskippers likely use the same code as Rotskippers as they lose their limbs when parried.
+-   Farming them is a very efficient method to max out your Mudskipper bestiary entry, if you haven't already.

@@ -1,9 +1,9 @@
 ---
 title: Darkened Bastion
-revid: 170181
+revid: 170559
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits]
+categories: [Items, Outfits, Unique Outfits]
 ---
 
 # Darkened Bastion
@@ -21,11 +21,11 @@ categories: [Items, Outfits, Master Outfits]
 | resistances | +30% Physical Armor, +30% Elemental Armor, +20% Shadow Armor |
 | buffs | +50% Ether Regen, +50% Stealth, +16 Sanity |
 | talents | Withering Soul |
-| obtainment | The Understrand, Sold in Traan Zakshun's black market for 25 , Glaive Spellhardt |
+| obtainment | The Understrand, Sold in Traan Zakshun's black market for 25 |
 | selling_price | 10 |
 | weight | 1 |
 
-**Darkened Bastion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Darkened Bastion** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -46,6 +46,6 @@ The [Withering Soul](Talents.md#withering-soul) Talent makes your M1s deal 12.5%
 ## Trivia
 
 -   This outfit used to be a Unique armor, but the rarity was dropped down to Master when it became droppable in the January 18th, 2025 update.
-    -   This outfit used the original clothing for the [Moonseye](Moonseye.md) outfit.
+-   This outfit used the original clothing for the [Moonseye](<Moonseye_(Outfit).md>) outfit.
 -   One of the two Master outfits, the other being [Royal Etrean Guard](Royal_Etrean_Guard.md), that do not require a [Deep Gem](Deep_Gems.md) to be crafted.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9520632236/Sellsword) / [Pants](https://www.roblox.com/catalog/9520635195/Sellsword)

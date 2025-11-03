@@ -1,9 +1,9 @@
 ---
 title: Shock Corps Light
-revid: 170011
+revid: 170554
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Master Outfits, The Central Authority]
+categories: [Items, Outfits, Unique Outfits, The Central Authority]
 ---
 
 # Shock Corps Light
@@ -20,11 +20,11 @@ categories: [Items, Outfits, Master Outfits, The Central Authority]
 | resistances | 30% Physical Armor, 30% Elemental Armor, 10% Fire Armor, 10% Ice Armor, 10% Lightning Armor |
 | buffs | +15% Ether Regen |
 | talents | Battle-Hardened |
-| obtainment | Authority Ensign Origin, Shock Corps Division (automatically crafted), Glaive Spellhardt |
+| obtainment | Authority Ensign Origin, Shock Corps Division (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 
-**Shock Corps Light** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Shock Corps Light** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

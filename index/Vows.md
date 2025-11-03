@@ -1,6 +1,6 @@
 ---
 title: Vows
-revid: 150208
+revid: 170562
 source: https://deepwoken.fandom.com/wiki/Vows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents, Character]
@@ -8,7 +8,7 @@ categories: [Mechanics, Talents, Character]
 
 # Vows
 
-Two players making a Vow of Mastery (courtesy of Tank Fish)
+Two players making a Vow of Mastery (courtesy of [Tank Fish](https://www.youtube.com/@TankFish69))
 
 ## Description
 

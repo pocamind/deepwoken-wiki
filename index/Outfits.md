@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 170448
+revid: 170543
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -51,11 +51,11 @@ _Deepwoken_ currently has 19 Expert Outfits that have been discovered.
 
 ### Master
 
-_Deepwoken_ currently has 17 Master Outfits that have been discovered.
+_Deepwoken_ currently has 10 Master Outfits that have been discovered.
 
 ### Unique
 
-_Deepwoken_ currently has 16 Unique Outfits that have been discovered.
+_Deepwoken_ currently has 23 Unique Outfits that have been discovered.
 
   
 
@@ -77,90 +77,103 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <th>Adept</th>
   <th>Expert</th>
   <th>Master</th>
+  <th>Unique</th>
 </tr>
 <tr>
-  <td><b>Pathfinders</b></td>
+  <td><center><b>Pathfinders</b></center></td>
   <td><a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a></td>
   <td><a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a></td>
   <td><a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
-  <td><b><a href="Etrea.md">Etrea</a></b></td>
+  <td><center><b><a href="Etrea.md">Etrea</a></b><p><a href="Etrea.md">Etreaiconfaction</a></p></center></td>
   <td></td>
   <td><a href="Vigil_Initiate.md">Vigil Initiate</a></td>
   <td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Etrean_Guard.md">Etrean Guard</a></td>
-  <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a>, <a href="Vigil_Sentinel.md">Vigil Sentinel</a>, <a href="Jade_Vigil's_Weave.md">Jade Vigil's Weave</a></td>
+  <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></td>
+  <td><a href="Vigil_Sentinel.md">Vigil Sentinel</a>, <a href="Jade_Vigil's_Weave.md">Jade Vigil's Weave</a></td>
 </tr>
 <tr>
-  <td><b><a href="The_Central_Authority.md">The Central Authority</a></b></td>
+  <td><center><b><a href="The_Central_Authority.md">The Central Authority</a></b><p><a href="The_Central_Authority.md">Authorityiconfaction</a></p></center></td>
   <td></td>
   <td><a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a></td>
   <td><a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a></td>
+  <td></td>
   <td><a href="Authority_Commander.md">Authority Commander</a>, <a href="Inquisition_Light.md">Inquisition Light</a>, <a href="Shock_Corps_Light.md">Shock Corps Light</a></td>
 </tr>
 <tr>
-  <td><b><a href="The_Divers.md">The Divers</a></b></td>
+  <td><center><b><a href="The_Divers.md">The Divers</a></b><p><a href="The_Divers.md">Diversiconfaction</a></p></center></td>
   <td></td>
   <td><a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a></td>
   <td><a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a></td>
   <td><a href="Black_Diver.md">Black Diver</a></td>
+  <td></td>
 </tr>
 <tr>
-  <td><b><a href="The_Hive.md">The Hive</a></b></td>
+  <td><center><b><a href="The_Hive.md">The Hive</a></b><p><a href="The_Hive.md">Hiveiconfaction</a></p></center></td>
   <td></td>
   <td></td>
   <td><a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
   <td></td>
+  <td><a href="Hive_Adjudicator.md">Hive Adjudicator</a> (unobtainable)</td>
 </tr>
 <tr>
-  <td><b><a href="The_Ignition_Union.md">The Ignition Union</a></b></td>
+  <td><center><b><a href="The_Ignition_Union.md">The Ignition Union</a></b><p></p></center></td>
   <td><a href="Union_Initiate.md">Union Initiate</a></td>
   <td><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></td>
   <td><a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Ignition_Welder.md">Ignition Welder</a></td>
   <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
+  <td></td>
 </tr>
 <tr>
-  <td><b><a href="The_Summer_Company.md">The Summer Company</a></b></td>
+  <td><center><b><a href="The_Summer_Company.md">The Summer Company</a></b><p><a href="The_Summer_Company.md">Summericonfaction</a></p></center></td>
   <td></td>
   <td><a href="Summer_Company_Uniform.md">Summer Company Uniform</a></td>
   <td></td>
   <td><a href="Summer_Dragoon.md">Summer Dragoon</a></td>
+  <td></td>
 </tr>
 <tr>
-  <td><b><a href="The_Children_of_Navae.md">The Children of Navae</a></b></td>
+  <td><center><b><a href="The_Children_of_Navae.md">The Children of Navae</a></b><p><a href="The_Children_of_Navae.md">Navaeiconfaction</a></p></center></td>
   <td></td>
   <td><a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></td>
   <td></td>
   <td><a href="Navaen_War_Chief.md">Navaen War Chief</a></td>
+  <td></td>
 </tr>
 <tr>
-  <td><b><a href="The_Hundred_Legions.md">The Hundred Legions</a></b></td>
+  <td><center><b><a href="The_Hundred_Legions.md">The Hundred Legions</a></b><p></p></center></td>
   <td></td>
   <td><a href="11th_Legion_Plate.md">11th Legion Plate</a></td>
   <td></td>
-  <td><a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Titus's_Raiment.md">Titus's Raiment</a></td>
+  <td><a href="Legion_Centurion.md">Legion Centurion</a></td>
+  <td><a href="Titus's_Raiment.md">Titus's Raiment</a></td>
 </tr>
 <tr>
-  <td><b><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></b></td>
+  <td><center><b><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></b><p><a href="The_Knives_of_Eylis.md">Knives of Eylis</a></p></center></td>
   <td><a href="Whaler_Initiate.md">Whaler Initiate</a></td>
   <td></td>
   <td><a href="Whaler_Coat.md">Whaler Coat</a></td>
   <td></td>
+  <td></td>
 </tr>
 <tr>
-  <td><b><a href="Lost_Celtor.md">Lost Celtor</a></b></td>
+  <td><center><b><a href="Lost_Celtor.md">Lost Celtor</a></b><p></p></center></td>
   <td></td>
   <td></td>
   <td><a href="Varicosan_Finery.md">Varicosan Finery</a></td>
+  <td></td>
   <td><a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></td>
 </tr>
 <tr>
-  <td><b><a href="The_Ministry.md">The Ministry</a></b></td>
+  <td><center><b><a href="The_Ministry.md">The Ministry</a></b><p><a href="The_Ministry.md">Ministryiconfaction</a></p></center></td>
   <td></td>
   <td></td>
   <td></td>
-  <td><a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Darkened_Bastion.md">Darkened Bastion</a></td>
+  <td><a href="Prophet's_Cloak.md">Prophet's Cloak</a></td>
+  <td><a href="Darkened_Bastion.md">Darkened Bastion</a></td>
 </tr>
 </tbody>
 </table>

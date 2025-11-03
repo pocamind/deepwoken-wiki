@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 170494
+revid: 170529
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons, Items]
@@ -52,6 +52,7 @@ The critical has a cooldown of **45 seconds**.
     -   The spiderling will not count as an ally if you have "No Holds Barred" enabled in settings.
         -   If "No Holds Barred" is enabled the user is able to [Taunt](Attunement-less.md#taunt) their own spiderling which causes it to attack the user.
 -   The Weaving Web shares a synergy with the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) due to the spiderling counting as a summon.
+-   In dungeons, after using critical an explosion will appear. The explosion is purely cosmetical and does no damage.
 
 ## Trivia
 

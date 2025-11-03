@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 170451
+revid: 170551
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Etrea]
@@ -25,13 +25,13 @@ categories: [Items, Outfits, Unique Outfits, Etrea]
 | selling_price | 10 |
 | weight | 1 |
 
-Jade Vigil's Weave is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Jade Vigil's Weave** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Requirements
 
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Dark Feather](Dark_Feather.md), five (5) [Gale Stones](Gale_Stone.md), one (1) [Thresher Spine](Thresher_Spine.md) and one (1) [Wind Gem](Wind_Gem.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Agility](Attributes.md#agl).
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Agility](Attributes.md#agl) to be crafted.
 
 ## Armor Stats
 
