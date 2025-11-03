@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 170460
+revid: 170499
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3341,10 +3341,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Survivor
 
 -   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
-    -   Increases the time it takes for parasites to kill you.
-    -   Negates damage buffs from weather.
-        -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage bonus during snow.
-        -   Stratoshock will no longer apply its 5% damage bonus during rain.
+    -   Increases the time it takes for the [Second Layer](Second_Layer.md)'s parasites to kill you.
+    -   Negates damage buffs from weather:
+        -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage buff during snow.
+        -   [Thundercall](Thundercall.md) will no longer gain its 5% damage buff during rain. Stratoshock will also no longer apply its additional 5% damage buff.
     -   Obtained by equipping [Winter Corps Parka](Winter_Corps_Parka.md).
 
 ### Swiftshade
@@ -3574,6 +3574,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 25 Thundercall
 
 -   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals an additional +5% damage when in the rain.
+    -   Thundercall damage innately gains a 5% damage buff during rain, with Stratoshock increasing this to +10% damage.
     -   Prerequisite: 35 Thundercall
 
 ### Toxic Personality
@@ -4407,10 +4408,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
 
 -   Winter's Protection [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
-    -   Increases the time it takes for parasites to kill you.
-    -   Negates damage buffs from weather.
-        -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage bonus during snow.
-        -   Stratoshock will no longer apply its 5% damage bonus during rain.
+    -   Increases the time it takes for the [Second Layer](Second_Layer.md)'s parasites to kill you.
+    -   Negates damage buffs from weather:
+        -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage buff during snow.
+        -   [Thundercall](Thundercall.md) will no longer gain its 5% damage buff during rain. Stratoshock will also no longer apply its additional 5% damage buff.
 
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.

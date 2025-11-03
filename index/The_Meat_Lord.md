@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 168695
+revid: 170490
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -92,7 +92,7 @@ The Meat Lord can be found at the following places:
   <td colspan="4">[Bow to the Meat Lord]</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*From beneath the Meat Lord's masking, you feel his vexed gaze weigh upon you.*</i> Do you understand how to behave properly in the face of <b>nobility</b>?</td>
+  <td colspan="4"><i>*From beneath the Meat Lord's mask, you feel his vexed gaze weigh upon you.*</i> Do you understand how to behave properly in the face of <i><b>nobility</b></i>?</td>
   <td colspan="4">You may rise. I presume you wish to see today's selection?</td>
 </tr>
 <tr>

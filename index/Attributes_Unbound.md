@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 170151
+revid: 170501
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -48,7 +48,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ### Intelligence Unbound
 
 1.  Reach 75 Intelligence.
-2.  Enter [The Garden Reservoir](The_Garden_Reservoir.md) and obtain a [Soul Hearthgem](Soul_Hearthgem.md). They are located inside a small cave with acid that must be ran through on the right wall and at ground level, not far from the [Megalodaunt](Megalodaunt.md) in the area.
+2.  Enter [The Garden Reservoir](The_Garden_Reservoir.md) and obtain a [Soul Hearthgem](Soul_Hearthgem.md). They are located in the middle of the Garden Reservoir in a ruined building near a golem turret.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brazier with the Soul Hearthgem in the following sequence: Left, Back, Front, Right.
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps.

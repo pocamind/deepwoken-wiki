@@ -1,11 +1,9 @@
 ---
 title: Pumpkin
-revid: 170187
+revid: 170492
 source: https://deepwoken.fandom.com/wiki/Pumpkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Food, Harvestables, Food Ingredients]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Food, Harvestables, Food Ingredients]
 ---
 
 # Pumpkin
@@ -25,7 +23,7 @@ notices:
 
 ## Description
 
-A pumpkin found in many places across both Luminants. They grow on the ground in large bunches with many being near each other at once.
+A pumpkin found in many places across both Luminants. They grow in groups underneath trees.
 
 ## Crafting
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 170233
+revid: 170483
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Equipment]
@@ -253,12 +253,31 @@ It grants the user +50 knowledge on subsequent uses.
   
 Dye Packets can be used on [Outfits](Outfits.md), [Equipment](Equipment.md), Eyes (sclera and iris), Hair (each hair id can be dyed separately), [Aspect](Aspects.md)\-exclusive features, [Resonance](Resonance.md) Bells, and [Oath](Oaths.md) cosmetics.
 
+-   _(Consumed upon usage)_
+
  | 
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md)
 -   Sold rarely in [Merchant Ships](Travelling_Merchant.md)
 -   Sold by [Traan Zakshun](Traan_Zakshun.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), and [Sev](Sev.md)
 -   [Goodie Bag](Goodie_Bag.md)
+
+ |
+| 
+
+ | **[Goodie Bag](Goodie_Bag.md)** - A bag made by the Spellhardt family to spread Hallowtide joy. Trick or Treat!
+
+  
+On use, the user will gain 3 to 5 [Hallowtide](Hallowtide.md)\-related items or Relics. The full loot pool can be found on the Goodie Bag page.
+
+-   _(Consumed upon usage)_
+
+ | 
+
+[Hallowtide](Hallowtide.md) Exclusive:
+
+-   Found in any chest (more common from [World Bosses](Bosses.md#world-bosses))
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
  |
 

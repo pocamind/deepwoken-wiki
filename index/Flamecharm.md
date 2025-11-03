@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 169258
+revid: 170502
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -875,6 +875,7 @@ Fire
 
 -   Has 10 base damage (5 if Reversal Spark) regardless of Mantra level with 2.75 Flamecharm scaling.
 -   Deals 10 posture damage.
+-   Drops carried players/NPCs when used.
 -   Has a windup of 0.5 seconds and a cooldown of 18 seconds.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Flame Leap can proc **Meteor Impact**, even without hitting an opponent.

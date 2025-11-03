@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 168300
+revid: 170511
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -498,10 +498,11 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   When combat tagged by him his real name is shown as Franky Strabes. (This was a place-holder name, confirmed by Dexerius.)
 -   The theme that plays during his fight is called [Chainbreaker](https://www.youtube.com/watch?v=Q6b3_Uu-PkU).
+-   It is implied that Titus is both a [Galebreather](Galebreathe.md) and [Thundercaller](Thundercall.md) due to the variant of his Chorus Divide being galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with thundercall only makes him stronger.
 
 ## References
 
-1.  [↑](#cite-ref-1) [High Inquisitor Merey](High_Inquisitor_Merey.md): "He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods."
+1.  [↑](#cite-ref-1) High Inquisitor Merey: "He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods."
 2.  [↑](#cite-ref-2) [Sentinel Augustus](Sentinel_Augustus.md): "He'd catch us in ambushes, set traps for us, and always be three steps ahead of us. When outnumbered, he would often survive just through sheer strength and discipline. I couldn't stand it."
 3.  [↑](#cite-ref-3) Sentinel Augustus: "But... Something was off, when we fought in Aratel. I can't put my finger on it. It felt like he wasn't giving it his all."
 4.  [↑](#cite-ref-4) [Caitus](Caitus.md): "Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit.

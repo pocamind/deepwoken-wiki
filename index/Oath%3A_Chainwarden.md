@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 170200
+revid: 170506
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -76,7 +76,8 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   **Perpetual Wrath** - Unleash the true power of Restrain. Each successive hit will increase its damage.
     -   Inflicting Enchained _**or**_ hitting Enchained targets with Restrain will add 1 stack of Perpetual Wrath.
     -   Stacks reset if Enchained ends.
-    -   At 4 stacks Restrain causes damage in a large AOE and won't increase in damage any further.
+    -   Grants a +8 base damage increase to Restrain per stack of Perpetual Wrath, capping at +24 damage with 3 stacks.
+    -   At 4 stacks Restrain causes damage in a large AOE.
 -   Obtainment: Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
 
 -   **Chainlash** - On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.

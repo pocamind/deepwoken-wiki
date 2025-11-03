@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 170480
+revid: 170508
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Events, Hallowtide]
@@ -48,7 +48,7 @@ The first Hallowtide added...
 The second Hallowtide added...
 
 -   **New Features**:
-    -   [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) and Trial of the Gourdskipper - A eight-wave minigame that rewards the player with joy and Hallowtide loot upon blasting Gourdskippers.
+    -   [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) and Trial of the Gourdskipper - A eight-wave minigame that rewards the player with joy and Hallowtide loot upon blasting [Gourdskippers](Gourdskipper.md).
     -   [Harrowing](Harrowing.md) [Enchant Stone](Enchant_Stone.md) - An [Enchant](Enchantments.md) that obscures health, posture, and armor bars on hit.
     -   [Pumpkin Pitch](Pumpkin_Pitch.md) Mantra - A flaming pumpkin that can be hurled at enemies at an arc.
 -   **New Equipment**: [Mushroom Costume](Mushroom_Costume.md), [Pumpkin Head](Pumpkin_Head.md).

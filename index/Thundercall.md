@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 169259
+revid: 170495
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -965,7 +965,7 @@ These Talents are found in the _Thundercaller_ category.
 |  | Shocking Finish  
 (30 Thundercall, Lightning Beam) | Following a flourish up with a lightning beam causes it to be casted instantly. | This works on Talents that force a flourish such as Emperor Flame. |
 |  | Stratoshock  
-(35 Thundercall) | Your lightning deals an additional +5% damage when in the rain. | N/A |
+(35 Thundercall) | Your lightning deals an additional +5% damage when in the rain. | All Thundercall damage innately gains a 5% damage buff when it is raining, this Talent increases that bonus to 10%. |
 |  | Static Fakeout  
 (35 Thundercall, 30 Agility) | Roll cancelling immediately after a parry will cause you to teleport behind your opponent. | N/A |
 |  | Static Flash Clone  
@@ -1098,6 +1098,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 
 ## Trivia
 
+-   All Thundercall damage receives a 5% damage buff when it is [raining](Environmental_Hazards.md). Stratoshock further increases this damage buff to 10%.
 -   **Electro Carve** was formerly a 0-star mantra.
 -   **Lightning Strike** prints out the coordinates of where the strike was in the F9 log. This means that you can use **Lightning Strike** as a makeshift or bootleg compass.
 -   **Bolt Piercer** was formerly a legendary mantra, now either rare or common.

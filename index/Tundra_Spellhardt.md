@@ -1,6 +1,6 @@
 ---
 title: Tundra Spellhardt
-revid: 170353
+revid: 170514
 source: https://deepwoken.fandom.com/wiki/Tundra_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide, NPCs located in The Floating Keep, Members of the Spellhardt family]
@@ -17,7 +17,7 @@ categories: [Lightborn NPCs, NPCs, Hallowtide, NPCs located in The Floating Keep
 
 ## Description
 
-Tundra is female [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md).
+Tundra is female [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md). She is wearing the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) outfit.
 
 ## Dialogue
 
