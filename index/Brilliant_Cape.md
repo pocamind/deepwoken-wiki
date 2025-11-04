@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 169344
+revid: 170673
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Capes]
@@ -23,7 +23,7 @@ categories: [Items, Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Other sources:, Dread Serpent drop, The Diluvian Mechanism |
+| obtainment | Other sources:, Dread Serpent drop, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 1 |
 | description | ... |
 
 ## Description

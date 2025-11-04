@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 170638
+revid: 170640
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -38,7 +38,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Strong Left**  
 (★★☆)
 
- | Duke Ishamon Erisia will charge up a punch, and teleport to his target,
+ | Duke Erisia will charge up a punch, and teleport to his target,
 
 -   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
 
@@ -68,7 +68,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Shields of Erisia**  
 (★★☆)
 
- | Duke Ishamon Erisia shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
+ | Duke Erisia shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
@@ -81,7 +81,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Feint**  
 (★★☆)
 
- | Duke Ishamon Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
+ | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
 
 -   Essentially an average Legion Kata feint.
 
@@ -91,7 +91,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Binding Tempest**  
 (★★☆)
 
- | Duke Ishamon Erisia rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, Duke Ishamon Erisia teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
+ | Duke Erisia rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, Duke Ishamon Erisia teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
 -   Telegraphed by the lack of sound while rising and longer cast time, compared to Aero Spear.
 -   Will daze targets if they hit a wall while ragdolled.
@@ -106,7 +106,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Aero Spear**  
 (★★☆)
 
- | Duke Ishamon Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
+ | Duke Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 -   Auto-grips if knocked or low health.
@@ -117,7 +117,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Gale Stomp**  
 (★★★)
 
- | Duke Ishamon Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
+ | Duke Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
 -   Auto-grips if knocked or low health.
@@ -128,7 +128,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Cyclone Bomb**  
 (★★☆)
 
- | Duke Ishamon Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried.
+ | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried.
 
 -   This attack is very rare.
 -   Covers a large Area of Effect.
@@ -140,7 +140,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Mindless Servants**  
 (★☆☆)  
 
- | Duke Ishamon Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
+ | Duke Erisia snaps his fingers, summoning [Mindless Servants](Mindless_Servant.md) from the pods around the boss room.
 
 -   Mindless Servants are essentially health-packs and serve no real threat.
 -   If fought solo, they may become a threat as they will combo you while fighting Ishamon if not killed fast enough.
@@ -377,7 +377,7 @@ Exhaustive Loot Table
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">The ruins of that city will <b>never</b> cage me. And with what's at stake... I can't stop now.<br>
+  <td colspan="12">The ruins of that city will never cage me. And with what's at stake... I can't stop now.<br>
   </td>
 </tr>
 <tr>
@@ -403,27 +403,27 @@ Exhaustive Loot Table
 
 -   The music for his bossfight is [Sin-Smelted Scoriae](Deepwoken_OST.md#sin-smelted-scoriae) by Naktigonis.
     -   Naktigonis also provides the voice of Duke Ishamon Erisia, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
--   Duke Ishamon Erisia gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
--   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] The current dialogue states "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now" when you fight Duke Ishamon Erisia after your first encounter. This dialogue shows that Duke Ishamon Erisia does in fact, escape the Depths after you kill him.
+-   Duke Erisia gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
+-   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.\[citation needed\] The current dialogue states "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now" when you fight Duke Erisia after your first encounter. This dialogue shows that Duke Erisia does in fact, escape the Depths after you kill him.
 -   In older versions of _Deepwoken_, you would have to make sure your group catches up with you. If you entered first, they would've likely been locked out of the boss room. This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
 -   This bosses attacks heavily resemble the interpretation of TOARU's [Accelerator](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in [Anime Battle Arena](https://www.roblox.com/games/1458767429/ABA)(more commonly known as ABA), a game that Par has worked on prior.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   Duke Ishamon Erisia will always laugh when his counter is activated, even if the attack is from a mob such as a prime golem.
+-   Duke Erisia will always laugh when his counter is activated, even if the attack is from a mob such as a prime golem.
 -   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
-    -   Upon being asked, Arch\_Mage said his name was "Duke Ishamon Erisia Duke Erisia."
-    -   Naktigonis said it was "Duke Ishamon Erisia Duke Ishamon Erisia Duke Erisia (Duke Erisia)."
+    -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
+    -   Naktigonis said it was "Duke Duke Erisia Erisia (of Erisia)."
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his ability capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
--   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke Ishamon Erisia states he is a Virgo.
+-   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke Erisia states he is a Virgo.
 -   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that Duke Erisia is a member of the band "The Seal Unleashed" as the vocalist.
-    -   Duke Ishamon Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
+    -   Duke Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
 -   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
--   He is able to drown; if you manage to glitch both yourself and Duke Ishamon Erisia into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
--   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Ishamon Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
--   If you don't kill all the enemies in the first area, Duke Ishamon Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
+-   He is able to drown; if you manage to glitch both yourself and Duke Erisia into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
+-   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. (Doesn't work with sing)
+-   If you don't kill all the enemies in the first area, Duke Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
 
 ## Bugs
 

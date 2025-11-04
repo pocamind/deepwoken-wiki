@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 170563
+revid: 170668
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits]
@@ -45,5 +45,5 @@ The [Overwhelming Might](Talents.md#overwhelming-might) Talent makes [Strong Lef
 
 ## Trivia
 
--   Overwhelming Might gives Strong Left the [Unblockable](Combat_Mechanics.md#telegraphs) indicator
+-   Overwhelming Might gives Strong Left the [Unblockable](Combat_Mechanics.md#telegraphed-attacks) indicator
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/128925472199186/Titus-Raiment-Shirt) / [Pants](https://www.roblox.com/catalog/112962507394675/Titus-Raiment-Pants)

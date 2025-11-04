@@ -1,6 +1,6 @@
 ---
 title: Rickard Ashet
-revid: 166206
+revid: 170651
 source: https://deepwoken.fandom.com/wiki/Rickard_Ashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority]
@@ -10,9 +10,10 @@ categories: [Naval personnel of The Central Authority]
 
 | Rickard Ashet | |
 |---|---|
-| name | Rickard Ashet |
-| alias | Retired Venerable Fleet Admiral |
+| name | Rickard Ashet[1] |
+| alias | Retired Venerable Fleet Admiral[1] |
 | aspect | Adret |
+| affiliation | The Central Authority[1] |
 
 “ Anything's a bullet if you launch it fast enough. ”
 
@@ -20,7 +21,7 @@ categories: [Naval personnel of The Central Authority]
 
 ## Description
 
-Rickard Ashet is an [Adretian](Adret.md) Fleet Admiral who served in [The Central Authority](The_Central_Authority.md) navy, before later retiring.[\[1\]](#cite-note-1)
+Rickard Ashet is an [Adretian](Adret.md) Fleet Admiral who served in [The Central Authority](The_Central_Authority.md) navy, before later retiring.[\[1\]](#cite-note-odlr-1)
 
 ## Trivia
 
@@ -28,4 +29,4 @@ Rickard Ashet is an [Adretian](Adret.md) Fleet Admiral who served in [The Centra
 
 ## References
 
-1.  [↑](#cite-ref-1) [Operation 'Distant Light' Report](Books.md#operation-distant-light-report)
+1.  ↑ [1.0](#cite-ref-odlr-1-0) [1.1](#cite-ref-odlr-1-1) [1.2](#cite-ref-odlr-1-2) [1.3](#cite-ref-odlr-1-3) [Operation 'Distant Light' Report](Books.md#operation-distant-light-report)

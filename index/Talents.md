@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 170626
+revid: 170666
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -377,6 +377,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Upon exiting the Arc Suit posture is set to 50%
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
+-   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When your [Arc suit](Oath%253A_Arcwarder.md#arc-suit) is active, your Arc mantras deal increased damage.
+    -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s damage by 25%.
+    -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s damage by 50%.
+
 -   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), blocking prevents Spine Cutter from proccing and grants 360 block to all attacks.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
@@ -707,7 +711,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
--   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown)
+-   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. \[20s CD\]
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
@@ -3275,6 +3279,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals moderate Slash damage and posture damage per hit.
     -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill all three sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10, instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
+
+-   Ichor Imbuement \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
 
 ### Static Weaver
 

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 167662
+revid: 170698
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the First Layer, The Depths, Layer 1, Map]
@@ -92,17 +92,18 @@ Some things can add extra Difficulty Score:
 -   The **Shrine of Courage** adds 50 Difficulty Score
 -   The **Deepbound** Origin has an innate 50 Difficulty Score induced by Power (they count as being at least power 17). They normally gain Difficulty Score when above that.
 
-| Difficulty Score | Enemy(ies) |
-| --- | --- |
-| 1-14 (est. [Power](Power.md) 1-4)\* | Nothing (you are sent up without a fight) |
-| 15-19 (est. [Power](Power.md) 5-6)\* | [Mudskipper Knight](Mudskipper_Knight.md) |
-| 20-29 (est. [Power](Power.md) 7-9)\* | [Hollow Angel](Hollow_Angel.md) |
-| 30-49 (est. [Power](Power.md) 10-16)\* | [Megalodaunt](Megalodaunt.md) (which can be [Corrupted](Monsters.md#scyphozia)) |
-| 50-79 (est. [Power](Power.md) 17-20)\* | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 80+ | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (The [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in [Corrupted](Monsters.md#scyphozia), but a [Fury Nautilodaunt](Fury_Nautilodaunt.md) can only spawn [Corrupted](Monsters.md#scyphozia) if you have the echo modifier [Deep Champion](Echoes.md).) |
-| 5 or more players, one having a Difficulty Score of 60+ | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
+| Difficulty Score | Estimated [Power](Power.md)  
+(It may be worse) | Enemy(ies) |
+| --- | --- | --- |
+| 1-14 | [Power](Power.md) 1-4 | Nothing (you are sent up without a fight) |
+| 15-19 | [Power](Power.md) 5-6 | [Mudskipper Knight](Mudskipper_Knight.md) |
+| 20-29 | [Power](Power.md) 7-9 | [Hollow Angel](Hollow_Angel.md) |
+| 30-49 | [Power](Power.md) 10-16 | [Megalodaunt](Megalodaunt.md) (which can be [Corrupted](Monsters.md#scyphozia)) |
+| 50-79 | [Power](Power.md) 17-20 | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 80+ | Nearing or max [Power](Power.md) + Vow of Thorns modifier | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (The [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in [Corrupted](Monsters.md#scyphozia), but a [Fury Nautilodaunt](Fury_Nautilodaunt.md) can only spawn [Corrupted](Monsters.md#scyphozia) if you have the echo modifier [Deep Champion](Echoes.md).) |
+| 5 or more players, one having a Difficulty Score of 60+ | ... | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
 
-\* This is an estimation. Depending on your drowns and other factors, you could be facing worse enemies.
+\* Estimated [Power](Power.md) section assumes that you have 0 drowns. Depending on your drowns and other factors, you could be facing worse enemies.
 
 -   Some monsters in the Trial have a possibility of being [Corrupted](Monsters.md#scyphozia).
 -   Curiously, **any** monster can be [Corrupted](Monsters.md#scyphozia) if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)

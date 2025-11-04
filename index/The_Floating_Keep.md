@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 170599
+revid: 170694
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
@@ -67,17 +67,17 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 
 #### Lightborns
 
--   Everis
--   [Brasidas Spellhardt](Antiquarian.md)
--   [Louie Spellhardt](Blacksmith.md)
--   [Leaf Spellhardt](Mantra_Collector.md)
+-   [Everis Spellhardt](Everis_Spellhardt.md)
+-   [Brasidas Spellhardt](Brasidas_Spellhardt.md)
+-   [Louie Spellhardt](Louie_Spellhardt.md)
+-   [Leaf Spellhardt](Leaf_Spellhardt.md)
 -   [Green Spellhardt](Green_Spellhardt.md)
--   [Tundra](Tundra_Spellhardt.md)
+-   [Tundra Spellhardt](Tundra_Spellhardt.md)
 -   [Mikhail Spellhardt](Mikhail_Spellhardt.md)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Glaive Spellhardt](Glaive_Spellhardt.md)
 -   [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
--   Alina
+-   [Alina Spellhardt](Alina_Spellhardt.md)
 
 #### Unknown/Exclusive
 

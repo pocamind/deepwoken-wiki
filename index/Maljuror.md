@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 169469
+revid: 170696
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies, Random Encounters]
@@ -58,10 +58,17 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
 ## Dialogue
 
+### Spawn Dialogue
+
 -   **OH, STARS... YOU BRING ME FORTUNE...**
 -   **KIN... PLEASE... GRANT ME RELEASE FROM THIS STATE...**
 -   **LET THIS DEATH PROVE ME WORTHY ONCEMORE...**
 -   **YOURS SHALL SURELY BE THE DEATH TO MAKE ME WHOLE ONCE MORE...**
+
+### Gripping Dialogue
+
+-   **THANK YOU...**
+-   **TBA**
 
 ## Trivia
 

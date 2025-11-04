@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 169435
+revid: 170681
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -36,7 +36,7 @@ Shrine of Mastery has two different effects.
 -   You cannot add more than 6 Points into a given Trait.
 -   You can only remove 3 attribute points per character.
 -   You cannot remove innate attribute points granted by your aspect.
-    -   This is not true if you have the [Multifaceted](../Echoes.md#upgrades-unlocks-and-modifiers) Echo Upgrade, as it converts innate attribute points into regular investment points.
+    -   This limitation will be removed if you have the [Multifaceted](../Echoes.md#upgrades-unlocks-and-modifiers) Echo Upgrade, as it converts innate attribute points into regular investment points.
 -   You cannot re-arrange stats if you have a Talent that requires a higher investment or equal investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and then either used the Shrine of Order to reduce your Strength or kept your Strength at 40, you wouldn't be able to remove points off Strength as long as you have Showstopper.
     -   This applies to the Attunement mastery Talents as well, such as Adept Flamecharmer; Shrine of Mastery will not allow you to go below the 1/20/30/50 Attunement investment milestones.

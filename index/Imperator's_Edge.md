@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 169601
+revid: 170676
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -26,12 +26,12 @@ categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapo
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Titus Fulminus Destellus, Sold in Traan Zakshun's black market for 6 |
+| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Titus Fulminus Destellus, Sold in Traan Zakshun's black market for 4 |
 | description | A gargantuan greatspear, its tip infused with the very essence of light, shines like a beacon of unyielding strength and fortitude. Carried at the forefront of the Hundred Legions, it illuminates their path with a blinding brilliance, a symbol of resilience that pierces the shadows and leads them to inevitable victory. |
 
 ## Description
 
-The **Imperator's Edge** is a legendary [medium](Weapons.md#medium) [spear](Weapons.md#spears) weapon that is only obtainable from Primadon or from depths chests/fishing. It is a gargantuan spear with a glowing tip infused with the very essence of light itself.
+The **Imperator's Edge** is a legendary [medium spear](Weapons.md#medium) weapon that is only obtainable from Primadon or from depths chests/fishing. It is a gargantuan spear with a glowing tip infused with the very essence of light itself.
 
 A weapon of the Hundred Legions, wielded in the frontlines to lead troops forward to "inevitable victory" with its "blinding brilliance".
 

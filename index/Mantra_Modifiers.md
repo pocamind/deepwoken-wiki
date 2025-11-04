@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 170628
+revid: 170695
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -1851,6 +1851,5 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
     -   The blue discs on the top formerly illuminated per each requirement of _Knowledge,_ a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13, 2022, persisting even after Knowledge's new reimplementation.
 -   The Falseflame, Haunting Stone and Mirage Stones are unreleased material (as confirmed by Arch\_Mage) and not meant to be in the game yet, and as such do not do anything.
 -   Revenge requires Drift/Rush Shards to reach further instead of Lenses.
--   ~Low-level mantra modifying (for example, 2 Cloudstones and a Blast Spark) does not cost notes. It only starts costing notes past a certain threshold.~ ( Now is free )
 -   Logstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun).
 -   The Blast Spark variant of Shadow Assault is very likely a reference to [Sunakiniti's Blessed](<https://rogue-lineage.fandom.com/wiki/Sunaikinti's_Blessed?so=search>)'s Rampage from Rogue Lineage, and by extension, Akuma's Shun Goku Satsu from Street Fighter.

@@ -1,6 +1,6 @@
 ---
 title: Smouldering Hallow
-revid: 170598
+revid: 170662
 source: https://deepwoken.fandom.com/wiki/Smouldering_Hallow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatcannons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Event Item, Hallowtide, Heavy Weapons]

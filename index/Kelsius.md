@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 170536
+revid: 170645
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -13,11 +13,13 @@ categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminan
 | name | Kelsius |
 | aspect | Adret |
 | location | Temple of the Blade |
-| affiliation | Etrea |
+| affiliation | The Central Authority (formerly), Etrea |
 
 ## Description
 
 Kelsius is an Adret NPC who works as the librarian at the [Isle of Vigils](Isle_of_Vigils.md). Upon accepting his quest, he tasks the player into retrieving his lost books for a mantra hand and access to books to instantly gain a random attribute point. If the player has already obtained an extra mantra hand, completing his quest will instead reward 1 [Knowledge](Knowledge.md).
+
+He is a [Thundercaller](Thundercall.md) and former member of [the Central Authority](The_Central_Authority.md)'s Shock Corps.
 
 ## Location
 

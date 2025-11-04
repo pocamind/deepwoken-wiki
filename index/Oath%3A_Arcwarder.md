@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 170137
+revid: 170663
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -69,7 +69,8 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 -   Obtained after first [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
 -   **Arc Module: Enhance** - When your Arc suit is active, your Arc mantras deal increased damage.
-    -   This talents increases arc mantras' damage by around 25%.
+    -   Increases Arc Wave's damage by 25%.
+    -   Increases Arc Beam's damage by 50%.
 
 -   **Arc Module: Guard** - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   Allows the user to block attacks from all directions.
@@ -87,11 +88,11 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 #### Combat Mantras
 
 -   **Arc Wave** - Stomp the ground releasing a wave of Arc energy.
-    -   Has a base damage of 20, dealt as Flamecharm and Thundercall damage. Additionally, this scales with both Flamecharm and Thundercall.
+    -   Deals Flamecharm and Thundercall damage, additionally this scales with both Flamecharm and Thundercall.
     -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Uniquely, the Shock this applies is a pink color.
     -   10s CD.
-    -   While Arc Suit is active, landing Arc Wave restores 50% of your current posture.
+    -   While Arc Suit is active, landing Arc Wave restores 50% of your current posture. Additionally your Arc Wave will deal 25% more damage during Arc Suit if you have the Arc Module: Enhance Talent.
     -   Has a 7.6x PvE multiplier (multiply damage dealt by 7.6 to get PvE damage).
 -   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
@@ -104,7 +105,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
         -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
     -   Instantly grips low health players if the attack were to knock them.
     -   Can be cancelled early, letting it explode before hitting a target.
-    -   While Arc Suit is active, landing Arc Beam restores a percentage of your current posture.
+    -   While Arc Suit is active, landing Arc Beam restores a percentage of your current posture. Additionally your Arc Beam will deal 50% more damage during Arc Suit if you have the Arc Module: Enhance Talent.
     -   Has a 17x PvE multiplier (multiply damage dealt by 17 to get PvE damage).
 
 #### Support Mantras
