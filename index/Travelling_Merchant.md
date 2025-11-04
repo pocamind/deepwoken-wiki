@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 160714
+revid: 170616
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -8,7 +8,7 @@ categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
 
 # Travelling Merchant
 
-| The Travelling Merchant | |
+| The Travelling Merchant, Chili | |
 |---|---|
 | aspect | Tiran |
 | location | Merchant Ships |

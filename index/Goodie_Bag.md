@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 170485
+revid: 170601
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Hallowtide]
@@ -30,25 +30,25 @@ The Goodie Bag is a consumable [Relic](Relics.md) that on use will grant the use
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a></td>
+  <td><a href="Familiar_Assassin's_Armor.md">Familiar Assassin's Armor</a>, <a href="Familiar_Demon's_Armor.md">Familiar Demon's Armor</a>, <a href="Familiar_Heretic's_Armor.md">Familiar Heretic's Armor</a>, <a href="Familiar_Knight's_Armor.md">Familiar Knight's Armor</a>.</td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="A_Light_In_The_Sky.md">A Light In The Sky</a></li>
-    <li><a href="Food.md">Food</a>: <a href="Candy.md">Candy</a> (all variants), <a href="Toffee.md">Toffee</a> (all variants), <a href="Candy_Suncorn.md">Candy Suncorn</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a> (1), <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Nocturnal_Gem.md">Nocturnal Gem</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Items.md">Items</a>: <a href="A_Light_In_The_Sky.md">A Light In The Sky</a>.</li>
+    <li><a href="Food.md">Food</a>: <a href="Candy.md">Candy</a> (all variants), <a href="Toffee.md">Toffee</a> (all variants), <a href="Candy_Suncorn.md">Candy Suncorn</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a> (1), <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Nocturnal_Gem.md">Nocturnal Gem</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Light Weapons</b>: <a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a>, <a href="Spectral_Grasp.md">Spectral Grasp</a></li>
-    <li><b>Medium Weapons</b>: <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="The_Weaving_Web.md">The Weaving Web</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Skyreap_Blade.md">Skyreap Blade</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
-    <li><b>Offhand Weapons</b>: <a href="Gourdguard.md">Gourdguard</a></li>
+    <li><b>Light Weapons</b>: <a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a>, <a href="Skull_Piercer.md">Skull Piercer</a>, <a href="Spectral_Grasp.md">Spectral Grasp</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="The_Weaving_Web.md">The Weaving Web</a>.</li>
+    <li><b>Heavy Weapons</b>: <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Skyreap_Blade.md">Skyreap Blade</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a>.</li>
+    <li><b>Offhand Weapons</b>: <a href="Gourdguard.md">Gourdguard</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -57,11 +57,15 @@ The Goodie Bag is a consumable [Relic](Relics.md) that on use will grant the use
   <ul>
     <li><b><a href="Equipment.md#head"><b>Head Equipment</b></a></b>:
   <ol>
-    <li><b>Legendary Head</b>: <a href="Aazel's_Horns.md"><font>Aazel's Horns</font></a></li>
-    <li><b>Hallowtide Head</b>: <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a> (all variants), <a href="Pumpkin_Head.md">Pumpkin Head</a></li>
+    <li><b>Legendary Head</b>: <a href="Aazel's_Horns.md"><font>Aazel's Horns</font></a>.</li>
+    <li><b>Hallowtide Head</b>: <a href="Familiar_Heretic's_Helm.md">Familiar Heretic's Helm</a>, <a href="Familiar_Knight's_Helm.md">Familiar Knight's Helm</a>, <a href="Familiar_Priest's_Helm.md">Familiar Priest's Helm</a>, <a href="Mushroom_Costume.md">Mushroom Costume</a> (all variants), <a href="Pumpkin_Head.md">Pumpkin Head</a>.</li>
   </ol></li>
-    <li><b><a href="Equipment.md#torso"><b>Torso Equipment</b></a></b>: <a href="Crawling_Necktie.md">Crawling Necktie</a>, <a href="Death's-Head_Necktie.md">Death's-Head Necktie</a></li>
+    <li><b><a href="Equipment.md#torso"><b>Torso Equipment</b></a></b>: <a href="Crawling_Necktie.md">Crawling Necktie</a>, <a href="Death's-Head_Necktie.md">Death's-Head Necktie</a>.</li>
   </ul></td>
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Attempting to open a Goodie Bag while in the [Fragments of Self](Fragments_of_Self.md) will prompt the message, "Yo. it's me, the little pumpkin on the goodie bag. Why open me here man? Not cool man, not cool."

@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 170223
+revid: 170609
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -17,8 +17,6 @@ notices:
 | location | The Floating Keep |
 | family | Spellhardt family, Alina (daughter)[1] |
 
-|location=[The Floating Keep](The_Floating_Keep.md) }}
-
 ## Description
 
 Glaive is a male [Lightborn](Lightborn.md) located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). He sells you various [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md), though they are usually all combat-related.
@@ -29,7 +27,7 @@ Here are all the possible options that you can buy from **Glaive Spellhardt**:
 
 With 2025 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on top of the weapons from last years. Two from the first week, and one on the second week, on the [October 31st, 2025](Version_History/Uncollapsed.md#october-31st-2025) and [November 7th, 2025](Version_History/Uncollapsed.md#november-7th-2025)
 
-1.  [Master Schematic](Outfits.md#master) \[20 Joy\] - Gives you a random master outfit schematic.
+1.  [Master Schematic](Outfits.md#master) \[20 Joy\] - Gives you a random master outfit schematic. (DO NOT buy this, currently it is bugged. Picking this option will take your joy, but will not give you the schematic, so beware.)
 2.  [Skyreap Blade](Skyreap_Blade.md) (Greataxe) \[100 Joy\]
 3.  [Hallowscleave](Hallowscleave.md) (Sword) \[100 Joy\]
 4.  [Skull Piercer](Skull_Piercer.md) (Rapier) \[100 Joy\]

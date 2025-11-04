@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 170499
+revid: 170623
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4177,9 +4177,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Wrath Gems last 9 seconds with no visual indication.
 
 -   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
-    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your maximum posture will be dealt to you as posture damage.
+    -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your current posture will be dealt to you as self-posture damage.
     -   1 second cooldown.
-    -   You will not take posture damage from using this if you are not in combat.
 
 -   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your ardour screams now break campfires around you.
     -   Your Ardour Scream now destroys all campfires within its range.
