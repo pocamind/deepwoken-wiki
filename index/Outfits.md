@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 170625
+revid: 170630
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -117,7 +117,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td></td>
   <td><a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
   <td></td>
-  <td></td>
+  <td><a href="Hive_Adjudicator.md">Hive Adjudicator</a> (unobtainable)</td>
 </tr>
 <tr>
   <td><center><b><a href="The_Ignition_Union.md">The Ignition Union</a></b><p></p></center></td>
@@ -149,7 +149,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><a href="11th_Legion_Plate.md">11th Legion Plate</a></td>
   <td></td>
   <td><a href="Legion_Centurion.md">Legion Centurion</a></td>
-  <td></td>
+  <td><a href="Titus's_Raiment.md">Titus's Raiment</a></td>
 </tr>
 <tr>
   <td><center><b><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></b><p><a href="The_Knives_of_Eylis.md">Knives of Eylis</a></p></center></td>

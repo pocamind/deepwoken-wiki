@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 170505
+revid: 170627
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -510,6 +510,10 @@ Applied from the [Target Focus](Talents.md#target-focus) Talent, your Charm incr
 ### Intangible
 
 Gain brief invincibility frames after dodging an attack. Applied through the [Risky Moves](Talents.md#risky-moves), [Ghost](Talents.md#ghost), and [Dark Rift](Talents.md#dark-rift) Talents. Duration and visual effect depends on the source, but all have a 20 second cooldown. This effect is removed upon attacking. Dark Rift can also be procced by using [Deepsindle's](Deepspindle.md) running critical.
+
+### Chain of Perfection
+
+Applied through the [Chain of Perfection](Talents.md#chain-of-perfection) Talent, gain a final +5% damage buff to your attacks in PvE per Perfection stack, capping at 2x damage with 20 stacks. Notably, Chain of Perfection does not count as a damage modifier, bypassing the damage modifier cap entirely. Perfection stacks are gained through dealing damage to NPCs, gaining 1 stack per hit, though you cannot get more than 3 stacks from any attack. All Perfection stacks will be lost if you take damage from any non-self damage source (excluding fall damage). Perfection stacks can also be consumed for the [Finishing Slay](Talents.md#finishing-slay) Talent from the [Messer](Messer.md), dealing raw damage based on the amount of Perfection stacks you had when your critical landed. Signified by a translucent white chain halo rotating on your head, visible only to you.
 
 ### Bloodlusted
 

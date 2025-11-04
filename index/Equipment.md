@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 169461
+revid: 170635
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2639,7 +2639,8 @@ Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | [Hollow Angel Mask](Hollow_Angel_Mask.md)  
 (**Series**) | +1 Rare Pip
 
-_+Talent: Angel's Guise_
+_+Talent: Angel's Guise_  
+**Requires Power 10**
 
  | Variants:  
 Hollow, Sworn |
@@ -2671,7 +2672,8 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 | File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
 (**Series**) | +2 Rare Pips
 
-_+Talent: Angel's Guise_
+_+Talent: Angel's Guise_  
+**Requires Power 10**
 
  | Variants:  
 Hollow, Sworn |

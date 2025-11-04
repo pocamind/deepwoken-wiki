@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 170176
+revid: 170628
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -391,7 +391,8 @@ To remove a Deep Gem from your mantra, you need to rest by a campfire, look for 
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Nocturnal Gem</td>
-  <td>On Mantra hit, bats will burst out of your opponent after a short delay, dealing 10 additional physical damage. This effect has a 25 second cooldown.</td>
+  <td>On Mantra hit, bats will burst out of your opponent after a 1 second delay, dealing 10 additional slash damage to that specific target without hitstun. This effect has a 25 second cooldown.<p><br>
+  Nocturnal Gem can be parried and blocked, dealing 0 posture damage. This Gem's damage cannot be buffed though damage modifiers. Nocturnal Gem has a 6.48x PvE damage multiplier at Power 20, dealing 64.8 damage before <a href="Talents.md#chain-of-perfection">Chain of Perfection</a> stacks.</p></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

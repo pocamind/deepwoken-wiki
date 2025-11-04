@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 170623
+revid: 170626
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1900,6 +1900,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   [Wayward Gem](Wayward_Gem.md) teleports you to your opponent after landing your critical. There is a 1 second delay between you landing your critical and teleporting.
     -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on hit.
     -   [Wrath Gem](Wrath_Gem.md) applies the [Wrath](Status_Effects.md#wrath) status effect for 9 seconds, increasing your critical damage by 7.5% per player combat tag you have. This damage bonus does not apply to the hit that procced Wrath Gem and is affected by the damage modifier cap. Additionally, this can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
+    -   [Nocturnal Gem](Nocturnal_Gem.md) will deal an additional 10 slash damage after a 1 second delay.
     -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light OR 30 Medium OR 30 Heavy)
 
 ### Inquisitive Lethality
