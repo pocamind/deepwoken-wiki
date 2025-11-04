@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 170476
+revid: 170571
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -314,6 +314,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _I barely know what I'm looking at here._
 -   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
 -   _I'd wipe this for fingerprints._
+-   It cost me an arm and a limb to get ahold of these. Not mine, of course...
 -   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
 -   _If anyone asks - you didn't get this from me. Capiche?_
 -   _It's Antique! Scratch that, Brand New!_

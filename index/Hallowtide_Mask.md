@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 170478
+revid: 170587
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -77,6 +77,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Ooo, spooky." (High Inquisitor Merey)
 -   "You can't scare [the storm that is approaching](https://www.youtube.com/watch?v=pvy9km7g6fw), surface dweller." (Brasidas Spellhardt)
 -   "You call THAT a scare? THIS is a scare!" ([Private Kernel](Private_Kernel.md))
+-   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
 
 ## Trivia
 
