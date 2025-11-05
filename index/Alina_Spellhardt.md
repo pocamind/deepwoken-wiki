@@ -1,6 +1,6 @@
 ---
 title: Alina Spellhardt
-revid: 170352
+revid: 170740
 source: https://deepwoken.fandom.com/wiki/Alina_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -10,10 +10,10 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 
 | Alina Spellhardt | |
 |---|---|
-| name | Alina Spellhardt[1][2] |
+| name | Alina Spellhardt |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| family | Spellhardt family[1][2], Glaive Spellhardt (father)[3] |
+| family | Spellhardt family, Glaive Spellhardt (father)[1] |
 
 ## Description
 
@@ -47,6 +47,4 @@ Alina is one of the several [Lightborns](Lightborn.md) scattered across [The Flo
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-tundra-1-0) [1.1](#cite-ref-tundra-1-1) [Tundra](Tundra_Spellhardt.md)
-2.  ↑ [2.0](#cite-ref-bras-2-0) [2.1](#cite-ref-bras-2-1) [Brasidas Spellhardt](Brasidas_Spellhardt.md)
-3.  [↑](#cite-ref-3) Glaive is never explicitly stated to be Alina's father. However, Glaive states he's been bothering her all day, and the only event she mentions is an attempt by her father to scare her. Glaive appears to hold a senior position among the Spellhardt family, making him the most likely candidate to be Alina's father.
+1.  [↑](#cite-ref-1) Glaive is never explicitly stated to be Alina's father. However, Glaive states he's been bothering her all day, and the only event she mentions is an attempt by her father to scare her. Glaive appears to hold a senior position among the Spellhardt family, making him the most likely candidate to be Alina's father.

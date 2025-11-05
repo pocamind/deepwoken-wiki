@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 170695
+revid: 170717
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -8,22 +8,12 @@ categories: [Mechanics, Mantras, Items]
 
 # Mantra Modifiers
 
-| Deep Gems | |
-|---|---|
-| value | 80 |
-| weight | 1 |
-| stack | x25 |
-| type | Mantra Modifier |
-| bankable | Yes |
-| droppable | Yes |
-| pass down | No |
-
 _**FOREWORD**: **An up-to-date spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1IE3KIyizxEgHfTsasO0hCGvch6yNofdgNlRR__jA7jo/edit?usp=sharing)**_  
 _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0), just incase._
 
 **Mantra Modifiers**, also known as **Mantra Ingredients** or **Mantra Materials**, are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
-There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
+There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire or from your inventory in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras compared to other mantra modifiers.
 
@@ -316,108 +306,6 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 
 -   Adds a massive AoE explosion of ice spikes for "Glacial Arc."
     
-
-**Deep Gems:**
-
-### Deep Gems
-
-**Deep Gems** are rare Gems that can be applied to mantras to improve them at no additional cost. Deep Gems can be obtained from:
-
--   [Primadon](Primadon,_Titan_of_the_East.md) (roughly 10% drop chance)
--   In any chest from [Layer 1](First_Layer.md) (very low drop chance, betters odds from corrupted monsters)
--   Ship events that spawn Depths chests
--   [Hell Mode](Hell_Mode.md) completion chest (guaranteed)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (very likely)
--   [Scion of Ethiron](Scion_of_Ethiron.md) (guaranteed)
--   Randomly bought for 15 [Joy](Joy.md) at [The Floating Keep](The_Floating_Keep.md) (limited to the Hallowtide seasonal event)
--   [Ferryman](The_Ferryman.md) (Rare/uncommon chance)
--   [Fishing](Fishing.md) (Incredibly rare, highly dependent on the location fished)
--   [Etris: Siege](Cinders_of_Etris.md) Chests (Very Common)
--   Both kinds of chests from the [Deep Crucible](Deep_Crucible.md) (Rare)
--   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>) (Uncommon, limited to the Hallowtide seasonal event)
--   Depths Collapse Event in the Depths (Common)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (Common)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Common)
--   [Saramaed Hollow](Saramaed_Hollow.md) (Common)
--   [War Mode](War_Mode.md) (common)
--   The Aegis Gem isn't obtained from any of the above sources, it's exclusively obtained through completing [The Vat](The_Vat.md)'s trial and then trading a [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) with [The Gaunt Man](The_Gaunt_Man.md).
--   The Wrath and Might Gems aren't obtained from any of the above sources, they're exclusively obtained from the [Merit Detainment Core](Merit_Detainment_Core.md) dungeon.
--   The Warped Blue Gem is of [Relic](Relics.md) rarity and is obtained exclusively from [Fishing](Fishing.md).
--   The Nocturnal Gem is of [Relic](Relics.md) rarity and is obtained exclusively from Hallowtide and the [Goodie Bag](Goodie_Bag.md) items.
-
-You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
-
-To remove a Deep Gem from your mantra, you need to rest by a campfire, look for the mantra with the Deep Gem in Mantras, and simply press **Unequip**.
-
-<table><caption>There are ten types of Deep Gems, including:</caption>
-<tbody>
-<tr>
-  <th>Image</th>
-  <th>Name</th>
-  <th>Effect</th>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Aegis Gem</td>
-  <td>On hit, Aegis Gem grants the <a href="Status_Effects.md#aegis">Aegis</a> status effect, a 10% damage reduction effect for 10 seconds. This effect has a 10 second cooldown.<p><br>
-  <b>Note: if you have not beaten <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on the character you are using this Gem on, it will not work. This gem is also not droppable, however it can be banked.</b></p></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Blessed Gem</td>
-  <td>On hit, Blessed Gem reduces the cooldown of your Mantra by 50%. This effect has a 5 second cooldown.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Bloodless Gem</td>
-  <td>On hit, heal for 30% of your Mantra's scaled damage, however your Mantra's scaled damage will be reduced by 20%. This healing has a cap of 15 health, exceeding this cap will put the Gem on a 2 second cooldown (you'll need to deal a cumulative 50 scaled damage to hit this cap). While Bloodless is on cooldown, your Mantras will revert back to their original damage and won't grant healing.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Blue Gem</td>
-  <td>Reduces the <b>base</b> Ether cost of your Mantra by 50%. Reduces the Ether cost of Mantra modifiers by 25%.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Insignia Gem</td>
-  <td>On hit, Insignia Gem lowers the windup of the next Mantra you cast by 15%. The Mantra must be cast within a 3 second timeframe to recieve this bonus. This effect has a 5 second cooldown.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Might Gem</td>
-  <td>Increases the applied Mantra's posture damage by 10%. This effect has no cooldown.<p><br>
-  Allows your Mantras to proc the <a href="Ascended_Outlaw_Hat.md">Ascended Outlaw Set</a> Talent, as well as the individual equipment Talents from the <a href="Ascended_Outlaw_Hat.md">Hat</a>, <a href="Ascended_Outlaw_Robes.md">Robes</a>, and <a href="Ascended_Outlaw_Boots.md">Boots</a> of the aforementioned set.</p></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Nocturnal Gem</td>
-  <td>On Mantra hit, bats will burst out of your opponent after a 1 second delay, dealing 10 additional slash damage to that specific target without hitstun. This effect has a 25 second cooldown.<p><br>
-  Nocturnal Gem can be parried and blocked, dealing 0 posture damage. This Gem's damage cannot be buffed though damage modifiers. Nocturnal Gem has a 6.48x PvE damage multiplier at Power 20, dealing 64.8 damage before <a href="Talents.md#chain-of-perfection">Chain of Perfection</a> stacks.</p></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Warped Blue Gem</td>
-  <td><b>While in water</b>, Warped Blue Gem reduces the Ether cost of your Mantra, post modifiers, by 50%.<p><br>
-  When paired with the full <a href="Bluestone_Pauldrons.md">Bluestone Set</a>, apply the <a href="Status_Effects.md#etherguard">Etherguard</a> status effect on hit, granting Mantra damage reduction based off the Ether cost of your opponent's Mantra. This effect has an 8 second cooldown.</p></td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Wayward Gem</td>
-  <td>On hit, Wayward Gem applies a mark to your opponent and teleporting you directly to them after a 1 second delay. This effect has an 8 second cooldown.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Wind Gem</td>
-  <td>On hit, Wind Gem grants a speed boost for 10 seconds. This speed boost is equivalent to that of sliding down a slope. This effect has a 10 second cooldown.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>Wrath Gem</td>
-  <td>On hit, apply the <a href="Status_Effects.md#wrath">Wrath</a> status effect, granting yourself a +7.5% damage modifier on your critical attacks, per player combat tag you have. This damage bonus is affected by the damage modifier cap and lasts 9 seconds with a 10 second cooldown.<p><br>
-  Allows your Mantras to proc the <a href="Reinforced_War_Helmet.md">Reinforced War Set</a> Talent, as well as the individual equipment Talents from the <a href="Reinforced_War_Helmet.md">Helmet</a>, <a href="Reinforced_War_Plate.md">Plate</a>, and <a href="Reinforced_War_Boots.md">Boots</a> of the aforementioned set.</p></td>
-</tr>
-</tbody>
-</table>
 
 **Sparks:**
 

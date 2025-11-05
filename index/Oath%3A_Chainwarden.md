@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 170506
+revid: 170701
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -36,6 +36,8 @@ Lore wise Chainwardens are strong enforcers of justice serving [The Central Auth
 2.  If obtaining this with a friend and you don't receive kill credit after dealing damage to [Emar Vend](Emar_Vend.md), head back to [Vice Warden Morredh](Vice_Warden_Morredh.md) and he will provide you the oath.
 
 _Chainwarden **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, as the Vice Warden will insult you._
+
+Guide and Showcase can be found [here](https://www.youtube.com/watch?v=-9vjPiG-iVU).
 
 ## Progression
 

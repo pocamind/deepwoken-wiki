@@ -1,6 +1,6 @@
 ---
 title: Everis Spellhardt
-revid: 170407
+revid: 170741
 source: https://deepwoken.fandom.com/wiki/Everis_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
@@ -10,10 +10,10 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of
 
 | Everis Spellhardt | |
 |---|---|
-| name | Everis Spellhardt[1][2] |
+| name | Everis Spellhardt |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| family | Spellhardt family[1][2] |
+| family | Spellhardt family |
 
 ## Description
 
@@ -40,8 +40,3 @@ Everis is one of many [Lightborn](Lightborn.md) scattered across [The Floating K
 </tr>
 </tbody>
 </table>
-
-## References
-
-1.  ↑ [1.0](#cite-ref-tundra-1-0) [1.1](#cite-ref-tundra-1-1) [Tundra](Tundra_Spellhardt.md)
-2.  ↑ [2.0](#cite-ref-bras-2-0) [2.1](#cite-ref-bras-2-1) [Brasidas Spellhardt](Brasidas_Spellhardt.md)

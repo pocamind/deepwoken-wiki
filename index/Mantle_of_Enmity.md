@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 170190
+revid: 170700
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -44,3 +44,4 @@ Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor
 -   This item is currently unable to be banked.
 -   The rates seem to have been shadow buffed during the 3/16/2025 update.
 -   Using the [Critical Engine](Talents.md#intellisense) Talent allows your Mantle of Enmity to proc [Deep Gems](Deep_Gems.md). [Blessed Gem](Blessed_Gem.md) on Mantle of Enmity does not reduce the cooldown of the Mantle, instead it halves the cooldown of your weapon critical.
+-   Mantle was able to be rolled from [Lysander Spellhardt](Lysander_Spellhardt.md) for 100 joy using his relic option within 24 hours (not confirmed the exact time) after the Hallowtide 2025 update dropped and was confirmed by Rag to be unintentional. It was removed after and as of now can't be rolled from [Lysander Spellhardt](Lysander_Spellhardt.md).

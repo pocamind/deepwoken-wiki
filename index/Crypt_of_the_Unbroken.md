@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 165220
+revid: 170751
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -85,7 +85,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   The majority of images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
 -   [Immortal Guardians](Immortal_Guardian.md) use the Divine Axe and Divine Greatsword from the [Crazy Slots](Crazy_Slots.md) resonance, but they can't use the special abilities
--   Gripping an enemy will aggro a massive amount of the enemies in the dungeon nearby, even on the floor above and including the [Alpha Megalodaunt](Megalodaunt.md), so if you can't autogrip or burn them, take enemies outside of the Crypt to grip them safely. (This still tends to aggro [Carbuncles](Carbuncle.md), but they are a minor threat.)
+-   Gripping an enemy will aggro a massive amount of the enemies in the dungeon nearby, even on the floor above, so if you can't autogrip or burn them, take enemies outside of the Crypt to grip them safely. (This still tends to aggro [Carbuncles](Carbuncle.md), but they are a minor threat.)
 -   Good place to farm books, the library has tons of bookshelves.
 -   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the [Immortal Guardians](Immortal_Guardian.md) out of the dungeon to avoid going to The Depths because it is a Voidzone.

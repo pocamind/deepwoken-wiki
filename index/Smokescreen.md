@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 167404
+revid: 170750
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -34,6 +34,8 @@ Pressing C will activate **Smokescreen**.
 **Note that smokescreen does NOT grant the user invincibility frames.**
 
 The invisibility is cancelled when using an attack.
+
+Smokescreen will give 20% Stealth when active.
 
 If Smokescreen is corrupted, it can be activated again by pressing C, which teleports the user backwards and places another smoke on the teleport location.
 

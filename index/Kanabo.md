@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 169908
+revid: 170737
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Etrea, Heavy Weapons]
@@ -51,4 +51,4 @@ Both criticals share the cooldown of **8 seconds**.
 -   A Kanabō, meaning "metal stick," was a weapon used in feudal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
 -   The weapon normal attack matches that of a greatsword.
 -   Max damage with 100 STR and 100 HVY does 52.5 damage with max proficiency.
--   The Kanabo is eligible to be turned into a [Motif](Motifs.md).
+-   The running critical is likely a reference to [The Oni's](<https://deadbydaylight.fandom.com/wiki/Kazan_Yamaoka#Power:_Yamaoka's_Wrath>) power Demon Dash from _Dead by Daylight_

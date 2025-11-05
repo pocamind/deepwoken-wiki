@@ -1,6 +1,6 @@
 ---
 title: Private Kernel
-revid: 169473
+revid: 170745
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -14,7 +14,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Centra
 | aspect | Celtor |
 | location | Fort Merit |
 | affiliation | The Central Authority |
-| family | Drill Sergeant Kernel (father) |
+| family | Drill Sergeant Kernel (father)[3] |
 
 ## Description
 
@@ -90,10 +90,11 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md), standing
 ## Trivia
 
 -   Before the player chooses the dialogue option "Why does he scare you, private?", Private Kernel is named as "Struggling Guard."
--   His full name is a play on the words corn kernel.[\[3\]](#cite-note-3)
+-   His full name is a play on the words corn kernel.[\[4\]](#cite-note-4)
 
 ## References
 
 1.  [↑](#cite-ref-1) [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)
 2.  [↑](#cite-ref-2)
-3.  [↑](#cite-ref-3)
+3.  [↑](#cite-ref-3) While Private Kernel is never explicitly stated to be Drill Sergeant Kernel's son, the fact they are the only Celtor with the surname "Kernel" found within Fort Merit all but confirms the private is Cornelius Kernel Jr.
+4.  [↑](#cite-ref-4)
