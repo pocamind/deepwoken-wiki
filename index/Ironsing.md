@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 169433
+revid: 170862
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1085,7 +1085,7 @@ These are Talents found in "_Scrapsinger_" Category.
 -   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
--   Iron Rods 30 seconds each with no way to be refreshed unless removed and reapplied.
+-   Iron Rods last 30 seconds each with no way to be refreshed unless removed and reapplied.
 -   Iron Pull has a 0.1s animation with 0.4s endlag, though it _is_ parryable.
 -   On release, Ironsing had 12 mantras and 11 Talents, making it the most content lacking Attunement during its release.
 -   Ironsing is the only Attunement to have five 3-star Mantras.

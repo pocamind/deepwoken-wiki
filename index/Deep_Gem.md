@@ -1,6 +1,6 @@
 ---
 title: Deep Gem
-revid: 170811
+revid: 170896
 source: https://deepwoken.fandom.com/wiki/Deep_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Mantra Modifiers](Mantra_Modifiers.md)
+-   [Deep Gems](Deep_Gems.md)

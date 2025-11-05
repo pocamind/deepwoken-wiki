@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 169793
+revid: 170886
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -44,5 +44,8 @@ This Outfit has 4000 durability and grants +35% Physical Armor, +35% Elemental A
 ## Trivia/Notes
 
 -   This outfit is based on Rogue Lineage's [Wraith Knight's](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor, the [Wraith Knight](https://rogue-lineage.fandom.com/wiki/Wraith_Knight) armor.
+    -   The Wraith Knight armor is notoriously very tanky, which is why this armor has very high Physical and Elemental Armor
 -   This outfit, along with its sister variant, [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>), can be banked without spending any Knowledge. These are the only Hallowtide items to have this property.
 -   This outfit was bugged on release, voiding itself if you attempted to learn the schematic. This was fixed shortly after the item's addition.
+-   The Fire and Shadow resistance granted by this armor is in reference to Wraith Knights using Dark Flames as part of their skillset. Wraith Knight's Dark Flames are also the inspiration for Wraith Path: Twisted Puppets.
+-   The description for this outfit, "Fit only for a traitor" is in reference to how in order to obtain the Wraith Knight class in Rogue Lineage, you have to start out as a Sigil Knight and then betray the order, becoming Chaotic rather than Orderly.

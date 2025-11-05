@@ -1,6 +1,6 @@
 ---
 title: Recipes
-revid: 168723
+revid: 170871
 source: https://deepwoken.fandom.com/wiki/Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Crafting Recipes & Alchemy
+-   [Crafting Recipes](Crafting_Recipes.md)

@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 168677
+revid: 170883
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses, Enemies]
@@ -60,6 +60,7 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 -   Auto-grips and instant kills.
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 -   Surprisingly, this is parryable with [Force Your Way](Ignition_Deepdelver.md).
+-   This will sink your boat if the Doom lands on you on its way down
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 160935
+revid: 170893
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -20,7 +20,7 @@ categories: [Resonances]
 
 ### Description
 
-**Teleportation**, also referred to as _Fast Travel_, _Gate_, or _Flying Raijin_ is a [Resonance](Resonance.md) or "Bell" that players can obtain and is exceedingly rare to roll.
+**Teleportation**, also referred to as _Fast Travel_, _Gate_, _Flying Raijin_ and usually _Tp Bell_ is a [Resonance](Resonance.md) or "Bell" that players can obtain and is exceedingly rare to roll.
 
 ### Appearance
 

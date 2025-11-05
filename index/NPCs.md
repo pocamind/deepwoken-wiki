@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 170336
+revid: 170882
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -70,10 +70,10 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Blacksmith](Blacksmith.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md)[Summer Isle](Summer_Isle.md)[Greathive Aratel](Greathive_Aratel.md)[Fort Merit](Fort_Merit.md)[Miner's Landing](<Miner's_Landing.md>)[Meteor Isle](Meteor_Isle.md)[Castle Light](Castle_Light.md)[The Floating Keep](The_Floating_Keep.md)[Voidheart](Voidheart.md)[Guild Bases](Guild_Bases.md) | Lets you craft [Outfits](Outfits.md) and repair them, turn in ores for chests. |  |
 | [Bookkeeper Andros](Bookkeeper_Andros.md) | Unaligned | [Etris](Etris.md), library near the inn | Part of the ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) |  |
 | [Brutus](Brutus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Fort Merit](Fort_Merit.md) | Fortitude unbound | Leaves the player knocked and vulnerable to guards |
-| [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
+| [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Provides some lore on the mist of Ethiron and gives her theory on how it controls the minds of Kyrsans. |  |
 | [Caitus](Caitus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md) | Talks about an incoming message from legion fleets |  |
 | [Calamus](Calamus.md) | [The Hive](The_Hive.md) | [Starswept Valley](The_Starswept_Valley.md) | Gives you a quest to hunt a monster. Quest completion gives Hive rep |  |
-| [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None |  |
+| [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Her changing her name serves as an allegory on being transgender. |
 | [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 
 [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
@@ -84,31 +84,31 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md)[New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Teaches the player monster mantras. |  |
 | [Cave Master](Cave_Master.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
 | [Celadon](Celadon.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
-| [Celtorian Guard](Celtorian_Guard.md) |  |  |  |  |
+| [Celtorian Guard](Celtorian_Guard.md) | [Lost Celtor](Lost_Celtor.md) | [The City of the Drowned](The_City_of_the_Drowned.md) | Serves as a guard. Also provides some lore on the [Great Drowning of the Celtor](Lore.md). |  |
 | [Cerulean](Cerulean.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | [Oathless](Oath%253A_Oathless.md) oath "trainer" |  |
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants [Murmur: Tacet](Murmur%253A_Tacet.md) |  |
 | [Chef Odiolavoro](Chef_Odiolavoro.md) | Unaligned | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
-| [Chud Steel](Chud_Steel.md) |  |  |  |  |
+| [Chud Steel](Chud_Steel.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | The face of the Authority's propaganda. If a player is an [Authority Ensign](Authority_Ensign.md), with a high enough rank he will reveal his origins. |  |
 | [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the Talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
-| [Commander Rayner](Commander_Rayner.md) |  |  |  |  |
-| [Con](%2543on.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | None |  |
+| [Commander Rayner](Commander_Rayner.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Requested the player's help. Completion of his quest required the player to find the basement on the [Isle of Crows](Cut_Content.md). | Cut out |
+| [Con](%2543on.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | Sells different crafting materials. | Con's Pawn! |
 | [Das](Das.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Lets you spar with the [Blade Instructor](Blade_Instructor.md) |  |
 | [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md), [The Hidden Village](The_Hidden_Village.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [The Lordsgrove](The_Lordsgrove.md), [Meteor Isle](Meteor_Isle.md), [Saramaed Summit](Saramaed_Summit.md), [Widow's Hollow](<Widow's_Hollow.md>), [Songseeker Wilds](Songseeker_Wilds.md), [Ancient Rotlands](Ancient_Rotlands.md), [Starfield Veldt](Starfield_Veldt.md), [Trial of One](Trial_of_One.md). | Affect your stats, talents or whisper draws for [Robux](https://roblox.fandom.com/wiki/Robux). |  |
 | [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | Gives explanation on who Ignition Deepdelvers are. |  |
-| [Deepdelver Myra](Deepdelver_Myra.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) |  |  |
+| [Deepdelver Myra](Deepdelver_Myra.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | None | Talks about how she is scared to go on an expedition to Layer 2. |
 | [Deepdelver Tau](Deepdelver_Tau.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Lets you enter [Saramaed Hollow](Saramaed_Hollow.md). |  |
 | [Delta](Delta.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Grants you the [Oath: Arcwarder](Oath%253A_Arcwarder.md) after meeting all requirements. |  |
 | [Den Master](Den_Master.md) | Unaligned | [Etris](Etris.md) | Sells some [Mantra Modifiers](Mantra_Modifiers.md) | The passage to the NPC will be blocked by a stone wall that can be broken with M1s |
-| [Deran](Deran.md) |  |  |  |  |
+| [Deran](Deran.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | Lets the player travel to Layer 2 if they ar an [Ignition Delver](Ignition_Delver.md) and have escaped from Layer 2 using the [Ignition Deepdrill](Second_Layer/The_Ethironal_Shrine.md#the-deepdrill). | Picking this option teleports the player straight to [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on. |
 | [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md) | Unaligned, Destroyman III, Bon Viviant Adventurer does not concern himself with allies. | [The Starswept Valley](The_Starswept_Valley.md) | There to remind all of us of the true power of [Destroyman III](Destroyman_III.md). |  |
 | [Diluvian Mechanism (NPC)](<Diluvian_Mechanism_(NPC).md>) | Unaligned | [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Starts [The Diluvian Mechanism](The_Diluvian_Mechanism.md) |  |
-| [Diver Quartermaster](Diver_Quartermaster.md) |  |  |  |  |
+| [Diver Quartermaster](Diver_Quartermaster.md) | [The Divers](The_Divers.md) | [The Aratel Sea](The_Aratel_Sea.md) | A random encounter. Spawns a crate at [Fort Merit](Fort_Merit.md) for the player to take it to him. Completing his quest rewards the player with and 1 [Armorer's Needle](<Armorer's_Needle.md>) / 1 [Smith's Alloy](<Smith's_Alloy.md>). |  |
 | [Dockson](Dockson.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Drefa](Drefa.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | The quest is repeatable |
 | [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Gives the player explanation on how to progress the [Authority Ensign](Authority_Ensign.md) [origin](Origins.md) |  |
-| [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) | Unaligned | [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) |  |  |
-| [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), cemetery | None |  |
-| [Eastern Camp Master](Cheral.md) | [The Children of Navae](The_Children_of_Navae.md) | [Etrean Wilds](Etrean_Wilds.md) | None |  |
+| [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) | Unaligned | [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) | Initiates a bossfight. | Has a special dialogue if the player is a [Contractor](Oath%253A_Contractor.md) |
+| [Dust](Dust.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), Cemetery | None |  |
+| [Eastern Camp Master](Cheral.md) | [The Children of Navae](The_Children_of_Navae.md) | [Etrean Wilds](Etrean_Wilds.md) | Rewards the player with the [Way of Navae](Way_of_Navae.md) fist fighting style if they have hero [Reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md). |  |
 | [Eiris](Eiris.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [The Etrean Sea](The_Etrean_Sea.md)[The Aratel Sea](The_Aratel_Sea.md)[Knives of Eylis vs Kingdom of Etrea](Random_Encounters.md#fights-between-factions) | Lets you obtain the voidwalker origin. |  |
 | [Eltus Ferikus Pleristus Zzetchus](Eltus_Ferikus_Pleristus_Zzetchus.md) |  |  |  |  |
 | [Elykris](Elykris.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants a quest to retrieve a [ministry field report](Books.md), gives 3 aces, gives exp and it's a curiosity quest | You can actually softlock this quest by donating this book to librarian in guild base |

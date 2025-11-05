@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 170718
+revid: 170898
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Hallowtide]
@@ -17,7 +17,7 @@ categories: [Relics, Items, Hallowtide]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Any chest during the Hallowtide event (more common from World Boss chests), Sold by Traan Zakshun for 15,000 during the Hallowtide event, Buying a Relic from Lysander Spellhardt at a random chance |
+| obtainment | Any chest during the Hallowtide event (more common from World Boss chests), Sold by Traan Zakshun for 15,000 or 2 during the Hallowtide event, Buying a Relic from Lysander Spellhardt at a random chance |
 | description | A gift of festive curiosities, thrown down from The Floating Keep. Joyous Hallowtide! |
 
 ## Description

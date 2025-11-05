@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 167005
+revid: 170889
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -101,3 +101,4 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
     -   Developer Arch\_Mage even attempted to get a voice for him that was similar to the iconic character, but had trouble due to it being "too nasally."
 -   Rabanastre may be a member of [The Ministry](The_Ministry.md), given he oversees and feeds people to Bounders, seems overall comfortable with his situation, is carrying out acts of homicide rather than worrying over dying to the elements and Chaser will not spawn unless the Bounders he's overseeing spawn.
     -   Furthermore, a scrapped quest meant to elaborate on Chaser's connection with the Second Prophet was meant to have players search for Ministry members in the Second Layer, so it's possible Rabanastre may have been among them.
+-   Rabanastre knocking you off a cliff into the Bounder Nest below is in possible reference to Big Hoss from Rogue Lineage, who knocks you off a cliff in the Tundra into a pack of Howlers if you don't meet the requirements to obtain the class Oni.

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 170717
+revid: 170884
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -13,7 +13,7 @@ _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d
 
 **Mantra Modifiers**, also known as **Mantra Ingredients** or **Mantra Materials**, are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
-There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire or from your inventory in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
+There are currently three types of mantra modifiers; Regular, [Deep Gems](Deep_Gems.md), and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire or from your inventory in its insignia slot. Recalling a Mantra with a Deep Gem will return the Deep Gem to your inventory.
 
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras compared to other mantra modifiers.
 
@@ -25,13 +25,11 @@ Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correc
 
 ### Regular Modifiers
 
-Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesic Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
+Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are _Vibrant Gems_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Vibrant Gems_. Upgraded modifiers will increase a Mantra stat by (+3) and will decrease a different stat by (-1).
 
-A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md)) times. Adding mods increase the ether cost of mantras by 10 and 20 Ether for T1 and T2 mods. The Talent Neuroplasticity reduce this increased cost by 20%, down to 8 and 16 Ether.
+A maximum of 18 mods total can be added to a Mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md#neural-overload)) times. Adding mods increase the ether cost of mantras by 10 and 20 Ether for T1 and T2 mods. The Talent [Neuroplasticity](Talents.md#neuroplasticity) reduce this increased cost by 20%, down to 8 and 16 Ether.
 
-After modifying a mantra and finishing its creation, uncompatible mods on the table will turn black when the mantra is granted, voiding any of their effect.
-
-Applying _Amnesic Driftwood_ on a mantra will remove all previous upgrades including sparks. Upgrading an already upgraded Mantra will stack onto the previous upgrades.
+Upgrading an already upgraded Mantra will stack onto the previous upgrades.
 
 **Note**: On the February 8th, 2022 update, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts.
 
