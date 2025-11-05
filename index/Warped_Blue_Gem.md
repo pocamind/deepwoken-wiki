@@ -1,9 +1,9 @@
 ---
 title: Warped Blue Gem
-revid: 170723
+revid: 170805
 source: https://deepwoken.fandom.com/wiki/Warped_Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Mantras, Deep Gems]
+categories: [Items, Mantras, Deep Gems, Relics]
 ---
 
 # Warped Blue Gem
@@ -21,7 +21,7 @@ categories: [Items, Mantras, Deep Gems]
 
 ## Description
 
-Warped Blue Gem is a translucent spherical orb that emits blue particles into the air when held. This Deep Gem is of [Relic](Relics.md) rarity.
+Warped Blue Gem is a translucent spherical orb that emits blue particles into the air when held. This [Deep Gem](Deep_Gems.md) is of [Relic](Relics.md) rarity.
 
 ## Effect
 

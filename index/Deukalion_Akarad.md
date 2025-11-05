@@ -1,6 +1,6 @@
 ---
 title: Deukalion Akarad
-revid: 169002
+revid: 170756
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Black Divers, Deceased characters]
@@ -13,6 +13,7 @@ categories: [Black Divers, Deceased characters]
 | name | Deukalion Akarad |
 | alias | Father Diver |
 | aspect | Capra |
+| affiliation | The Divers |
 | death | Among The Pioneers who perished during the first expedition into the Depths |
 | deathdate | 59 CE |
 
@@ -22,7 +23,7 @@ Deukalion Akarad was a member of [The Divers](The_Divers.md), active shortly aft
 
 After [Castle Light](Castle_Light.md)'s construction, a tune named "In Akarad's Steps" was composed in honor of the first leader of the Black Divers.
 
-Following his death, Akarad's name was invoked by Black Diver Ulysses Disii in an expression of frustration.
+Following his death, Akarad's name was invoked by Black Diver [Ulysses Disii](Ulysses_Disii.md) in an expression of frustration.
 
 ## Trivia
 

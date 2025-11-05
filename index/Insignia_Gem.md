@@ -1,6 +1,6 @@
 ---
 title: Insignia Gem
-revid: 170726
+revid: 170802
 source: https://deepwoken.fandom.com/wiki/Insignia_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -21,7 +21,7 @@ categories: [Items, Mantras, Deep Gems]
 
 ## Description
 
-Insignia Gem is a light blue diamond-shaped Deep Gem.
+Insignia Gem is a light blue diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 

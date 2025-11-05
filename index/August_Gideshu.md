@@ -1,6 +1,6 @@
 ---
 title: August Gideshu
-revid: 170659
+revid: 170752
 source: https://deepwoken.fandom.com/wiki/August_Gideshu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]

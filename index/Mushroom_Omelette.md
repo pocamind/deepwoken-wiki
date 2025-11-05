@@ -1,6 +1,6 @@
 ---
 title: Mushroom Omelette
-revid: 168361
+revid: 170788
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -22,11 +22,11 @@ categories: [Items, Food]
 | droppable | Yes |
 | pass down | No |
 | desc | Savory and... Savory. |
-| obtainment | Lance Leshi (15 }, Lance's Brother (15 }, Mess Chef (20 }, Travelling Merchant, Chef Odiolavoro |
+| obtainment | Lance Leshi (15 }, Lance's Brother (15 }, Mess Chef (20 }, Mikhail Spellhardt (15 during Hallowtide), Travelling Merchant, Chef Odiolavoro |
 
 ## Description
 
-**Mushroom Omelette** is a craftable [Food](Food.md) item. It is also purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 15, a [Mess Chef](Mess_Chef.md) for 20, Mikhail for 15 during [Hallowtide](Hallowtide.md), the [Travelling Merchant](Travelling_Merchant.md), sold at random, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward.
+**Mushroom Omelette** is a craftable [Food](Food.md) item. It is also purchased from [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>) for 15, a [Mess Chef](Mess_Chef.md) for 20, [Mikhail Spellhardt](Mikhail_Spellhardt.md) for 15 during [Hallowtide](Hallowtide.md), the [Travelling Merchant](Travelling_Merchant.md), sold at random, and obtained from [Chef Odiolavoro](Chef_Odiolavoro.md) as a quest reward.
 
 It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.
 

@@ -1,6 +1,6 @@
 ---
 title: Sushi
-revid: 168362
+revid: 170789
 source: https://deepwoken.fandom.com/wiki/Sushi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -20,11 +20,11 @@ categories: [Items, Food]
 | droppable | Yes |
 | pass down | No |
 | desc | Everyone knows rice neutralizes food poisoning from raw fish. |
-| obtainment | The Meat Lord (2 ) |
+| obtainment | Mess Chef (20 ), Mikhail Spellhardt (20 during Hallowtide), The Meat Lord (2 ) |
 
 ## Description
 
-**Sushi** is a craftable [Food](Food.md) item. It is also purchased from a [Mess Chef](Mess_Chef.md) for 20, Mikhail for 20 during [Hallowtide](Hallowtide.md), and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
+**Sushi** is a craftable [Food](Food.md) item. It is also purchased from a [Mess Chef](Mess_Chef.md) for 20, [Mikhail Spellhardt](Mikhail_Spellhardt.md) for 20 during [Hallowtide](Hallowtide.md), and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

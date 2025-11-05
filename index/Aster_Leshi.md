@@ -1,6 +1,6 @@
 ---
 title: Aster Leshi
-revid: 169003
+revid: 170757
 source: https://deepwoken.fandom.com/wiki/Aster_Leshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deceased characters]
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | name | Aster Leshi |
 | aspect | Etrean |
+| affiliation | Etrea |
 | death | Electrocuted to death by Inquisitor Lotus during Operation 'Puppet Master' |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Wind Gem
-revid: 170714
+revid: 170812
 source: https://deepwoken.fandom.com/wiki/Wind_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -56,4 +56,4 @@ The Wind Gem can be obtained from a variety of sources:
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [War Mode](War_Mode.md)
 
-You almost are guaranteed to get several Wind Gems from each [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) fight.
+You are guaranteed to get several Wind Gems from each [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) fight.

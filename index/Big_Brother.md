@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 170566
+revid: 170814
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -16,6 +16,7 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 | scaling | LHT: 8 |
 | range | 6 |
 | swing speed | 1.2x |
+| penetration | 15% |
 | special effect | Swift Strike - Hitting your opponent's back with an M1 will enhance your next critical, turning it into a teleporting backstab that procs assassination Talents. |
 | m.equip | No |
 | m.extract | No |

@@ -1,6 +1,6 @@
 ---
 title: Rolen Vashtir
-revid: 164834
+revid: 170754
 source: https://deepwoken.fandom.com/wiki/Rolen_Vashtir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -15,6 +15,7 @@ notices:
 | name | Rolen Vashtir |
 | alias | King Rolen Vashtir I, King of Etrea |
 | aspect | Etrean |
+| affiliation | Etrea |
 | death | Disappeared into the Voidsea |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Nose Stud
-revid: 168296
+revid: 170779
 source: https://deepwoken.fandom.com/wiki/Nose_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Etrea VS Eylis Sea Event, Aelita, The Ferryman (Winter) |
+| obtainment | Sold in Traan Zakshun's regular shop for 35 Chests from:, Lower Erisia, Etrea VS Eylis Sea Event, Aelita, The Ferryman (Winter) |
 | description | FEAR. IRONSINGERS. |
 
 ## Description

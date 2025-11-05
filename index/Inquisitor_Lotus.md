@@ -1,6 +1,6 @@
 ---
 title: Inquisitor Lotus
-revid: 166219
+revid: 170758
 source: https://deepwoken.fandom.com/wiki/Inquisitor_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Inquisitors of The Central Authority]
@@ -12,6 +12,7 @@ categories: [Inquisitors of The Central Authority]
 |---|---|
 | name | Unknown |
 | alias | Inquisitor Lotus |
+| affiliation | The Central Authority |
 
 “ Whatever this Lord Regent actually is, it is clear peace was never an option. This conflict between the Authority and Etrea is intentional and there are forces at play that we are yet to understand. Should I feel the hands of this creature pry too close to my mind, I will take the necessary measures to insure I am not captured. ”
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 170748
+revid: 170782
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -133,6 +133,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   This attack is very rare.
 -   Covers a large Area of Effect.
 -   Auto-grips if knocked or low health.
+-   More often to happen if Duke takes major damage quickly.
 
  |
 | 

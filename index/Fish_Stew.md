@@ -1,6 +1,6 @@
 ---
 title: Fish Stew
-revid: 168358
+revid: 170790
 source: https://deepwoken.fandom.com/wiki/Fish_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]
@@ -20,11 +20,11 @@ categories: [Items, Food]
 | droppable | Yes |
 | pass down | No |
 | desc | Caught from water, cooked in water. |
-| obtainment | Mess Chef (20 } |
+| obtainment | Mess Chef (20 ), Mikhail Spellhardt (15 ) during Hallowtide), The Meat Lord (2 ) |
 
 ## Description
 
-**Fish Stew** is a craftable [Food](Food.md) item. It is also purchased from a [Mess Chef](Mess_Chef.md) for 20 and Mikhail for 15 during [Hallowtide](Hallowtide.md).
+**Fish Stew** is a craftable [Food](Food.md) item. It is also purchased from a [Mess Chef](Mess_Chef.md) for 20, [Mikhail Spellhardt](Mikhail_Spellhardt.md) for 15 during [Hallowtide](Hallowtide.md), and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
 
 It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 

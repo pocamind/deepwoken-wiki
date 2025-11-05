@@ -1,6 +1,6 @@
 ---
 title: Blessed Gem
-revid: 170729
+revid: 170798
 source: https://deepwoken.fandom.com/wiki/Blessed_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -21,7 +21,7 @@ categories: [Items, Mantras, Deep Gems]
 
 ## Description
 
-Blessed Gem is a teal diamond-shaped Deep Gem.
+Blessed Gem is a teal diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
@@ -34,10 +34,11 @@ Upon landing a Mantra with a Blessed Gem equipped, the cooldown of your Mantra w
 -   [Dread Whisper](Attunement-less.md#dread-whisper) in specific is exceptionally good when paired with this Gem due to its gimmick requiring you to land it several times in a row.
     -   On the other hand, Mantras that can reset their own cooldowns (e.g. [Restrain](Oath%253A_Chainwarden.md#restrain) or [Slice 'n' Dice](Attunement-less.md#slice-n-dice)) will not be as good when paired with this Gem, it is highly recommended that you use a different Gem for them instead.
 -   For usage with [Critical Engine](Talents.md#critical-engine);
+    -   This Gem, naturally, halves your critical cooldown on hit. This is best used for criticals have have a cooldown of 10 seconds or higher.
     -   You can pair this Gem with the [Warmaster's Medallion](<Warmaster's_Medallion.md>) to gain a total 55-60% cooldown reduction on your weapon critical.
     -   Due to [Mantle of Enmity](Mantle_of_Enmity.md) counting as a critical attack for Talent effects, [Critical Engine](Talents.md#critical-engine) Blessed Gem can proc on it, though it will halve your regular critical cooldown instead of the Mantle's.
         -   This can be used to halve the cooldown of critical attacks that do not deal damage (e.g. [Vortex Echo](Vortex_Echo.md) or [The Weaving Web](The_Weaving_Web.md)).
-    -   Some weapon critical cooldowns are not considered "critical cooldowns." For example, [Big Brother](Big_Brother.md)'s Swift Strike Talent will not have its cooldown halved if used with Blessed Gem [Critical Engine](Talents.md#critical-engine).
+    -   The critical cooldowns of certain weapons are not considered "critical cooldowns." For example, [Big Brother](Big_Brother.md)'s Swift Strike Talent and [Krulian Knife](Krulian_Knife.md)'s Krulian Charge critical will not have their cooldowns reduced if used with Blessed Gem [Critical Engine](Talents.md#critical-engine).
 
 ## Crafting
 

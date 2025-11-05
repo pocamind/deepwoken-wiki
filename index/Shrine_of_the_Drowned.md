@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 159257
+revid: 170771
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics, Death]
@@ -18,7 +18,7 @@ Template:NPC name
 
 ## Description
 
-The Shrine of the Drowned is an NPC located in the [Fragments of Self](Fragments_of_Self.md) when wiping, found just in-between the two archways that lead to the Self NPC. It allows you to buy the Drowned Favour gamepass for 1000 robux if Power 2 or above. Upon buying the Drowned Favour, your character will be revived and will be returned to the [Etrean Luminant](Luminants.md) with all 3 lives, regardless of being in the Depths. Note that this can only be done **once** per slot.
+The Shrine of the Drowned is an NPC located in the [Fragments of Self](Fragments_of_Self.md) when wiping, found just in-between the two archways that lead to the Self NPC. It allows you to buy the Drowned Favour gamepass for 1000 robux if Power 2 or above. Upon buying the Drowned Favour, your character will be revived and will be returned to the [Etrean Luminant](Luminants.md) with 2 of your 3 lives, regardless of being in the Depths. Note that this can only be done **once** per slot.
 
 ## Dialogue
 
@@ -71,3 +71,4 @@ The Shrine of the Drowned is an NPC located in the [Fragments of Self](Fragments
 ## Trivia
 
 -   The Drowned Favour product used to cost 500 Robux. It was changed at a later date to 1,000.
+-   The Drowned Favour product is often reset upon big updates, many of these big updates happen around [Krysmas](Kyrsmas.md)

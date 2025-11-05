@@ -1,15 +1,16 @@
 ---
 title: Treasurer
-revid: 150557
+revid: 170783
 source: https://deepwoken.fandom.com/wiki/Treasurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Guilds]
+categories: [NPCs, NPCs located in the Guild Base]
 ---
 
 # Treasurer
 
 | Treasurer | |
 |---|---|
+| aspect | Randomized |
 
 ## Overview
 

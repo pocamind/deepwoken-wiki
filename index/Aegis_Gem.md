@@ -1,6 +1,6 @@
 ---
 title: Aegis Gem
-revid: 170721
+revid: 170797
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -21,7 +21,7 @@ categories: [Items, Mantras, Deep Gems]
 
 ## Description
 
-Aegis Gem is a light purple diamond-shaped Deep Gem.
+Aegis Gem is a light purple diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
