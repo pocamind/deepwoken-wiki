@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 170447
+revid: 170835
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Items]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Items]
 
 ## Description
 
-The Aazel's Horns is an [Equipment](Equipment.md) item under the "Head" category.
+The Aazel's Horns is an [Equipment](Equipment.md) item under the "Head" category. When worn, it emits smoke particles out of the the horns, this also changes color when dyed.
 
 ## Trivia
 

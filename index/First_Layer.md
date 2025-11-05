@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 170698
+revid: 170831
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the First Layer, The Depths, Layer 1, Map]
@@ -38,91 +38,19 @@ The **First Layer** of [the Depths](The_Depths.md), also known as **Scyphozia,**
 
 Detailed map of the entire Depths First Layer
 
-The main method to escape is by the Cathedral of the Interstice, which houses the Trial in the center of the city. The Trial must be entered through the elevator.
+There are 2 ways of escaping the First Layer.
 
-The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether, but will only work in Layer 1. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart". This method can be used only once per slot.)
+-   The first is through the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation), a challenge where the player is faced with a [Monster](Monsters.md) befitting their [abilities](Power.md).
+-   The second is through a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>), only granted once specific conditions are fulfilled.
 
-( Patched 23.9.25 )
+### Depths Trial
 
-## Reaching the Elevator
+_Main Page: [Cathedral of the Interstice](Cathedral_of_the_Interstice.md), [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation)_  
+The main and preferred method to escape is by the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) through the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) in the center of [The City of the Drowned](The_City_of_the_Drowned.md). You normally enter through one of the 2 gates present on the West and East sides of the city in the middle, and then go up the elevator to fight your trial, which changes difficulty depending on many various factors. See the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) page for more specific information.
 
-### Method 1: City Bells
+### Wishing to Yun'Shul
 
-There are 2 bells located in the District of Commerce (sloped gate). Once 2 bells are rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within. The metal gate located in the District of Commerce will then open for 10 minutes.
-
-### Method 2: Sub-Elevator / Toll
-
-A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. By interacting with the lever, the sub-elevator will rise to the main elevator. Note that if you drown when your power is lower than 10 you will be spawn right in the left side of the city near the elevator.
-
-( Patched 23.9.25 )
-
-**Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present, and the Nautilodaunt has a long spawn timer anyways. If it is present, you can usually outrun in by getting on top of the elevator and jumping up that way, but if you are inexperienced it is best to simply leave.)
-
-File:Depths Sub-Elevator.png
-
-### Method 3: Climbing Walls
-
-Although directly climbing the City's walls with barrels atop roofs was once a popular strategy, its effectiveness has been reduced. The white city columns are no longer possible to climb. It is still possible to land directly atop the walls, however, as listed below.
-
-Locate a building near the walls of the city, and create an immense tower of barrels (15-20). Alternatively, utilize vertical movement mantras, such as [Flame Leap](Flamecharm.md). Once atop the wall, you may enter the elevator room by walking to the center of the city.
-
-_This method is no longer the recommended strategy for reaching the elevator._
-
-### Method 4: Gliding
-
-Find a rock, cliff, or another high place, and use a glider to reach the top of the wall. Be careful with this method, as Gigameds (Jellyfish) can jump extremely high, and can hit you out of glide. This may send you to Layer 2, or lead to death from fall damage.
-
-## First Layer: The Trial
-
-“ As a quasi-metaphysical realm, the Depths is believed to exert a pulling force on one's soul, based on one's proximity to the deep. So to say, once one is in the Depths, their soul experiences a constant downward pull. If one tries to leave the Depths by simply physically exiting it upwards, without the aid of ritual or other preparation, they will cross what is known as 'the boundary' - a limit beyond which a soul cannot continue physically travelling in your body. Ergo, the body continues upwards, while the soul is pulled downwards, until the two are wholly separated, and the person dies. ”
-
-― "The Song of Fathoms / Oscillation"
-
-The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one power 20 player and two power 13 players will spawn three [Enforcers](Enforcer.md)).
-
-Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
-
-### _Note:_
-
-**Your Difficulty Score is calculated by "(Power x 3) + Drowns".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not Whirlpools or Deepbound's "Call of the Deep").
-
-Some things can add extra Difficulty Score:
-
--   The echo modifier **Vow Of Thorns** adds 30 Difficulty Score
--   The **Shrine of Courage** adds 50 Difficulty Score
--   The **Deepbound** Origin has an innate 50 Difficulty Score induced by Power (they count as being at least power 17). They normally gain Difficulty Score when above that.
-
-| Difficulty Score | Estimated [Power](Power.md)  
-(It may be worse) | Enemy(ies) |
-| --- | --- | --- |
-| 1-14 | [Power](Power.md) 1-4 | Nothing (you are sent up without a fight) |
-| 15-19 | [Power](Power.md) 5-6 | [Mudskipper Knight](Mudskipper_Knight.md) |
-| 20-29 | [Power](Power.md) 7-9 | [Hollow Angel](Hollow_Angel.md) |
-| 30-49 | [Power](Power.md) 10-16 | [Megalodaunt](Megalodaunt.md) (which can be [Corrupted](Monsters.md#scyphozia)) |
-| 50-79 | [Power](Power.md) 17-20 | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 80+ | Nearing or max [Power](Power.md) + Vow of Thorns modifier | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (The [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in [Corrupted](Monsters.md#scyphozia), but a [Fury Nautilodaunt](Fury_Nautilodaunt.md) can only spawn [Corrupted](Monsters.md#scyphozia) if you have the echo modifier [Deep Champion](Echoes.md).) |
-| 5 or more players, one having a Difficulty Score of 60+ | ... | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
-
-\* Estimated [Power](Power.md) section assumes that you have 0 drowns. Depending on your drowns and other factors, you could be facing worse enemies.
-
--   Some monsters in the Trial have a possibility of being [Corrupted](Monsters.md#scyphozia).
--   Curiously, **any** monster can be [Corrupted](Monsters.md#scyphozia) if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
--   Any monster (excluding [Mudskipper Knights](Mudskipper_Knight.md) and [Hollow Angels](Hollow_Angel.md)) can spawn [Attuned](Monsters.md#attuned-monsters)
--   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn [Attuned](Monsters.md#attuned-monsters) **AND** [Corrupted](Monsters.md#scyphozia).
-    -   This [Corrupted](Monsters.md#scyphozia) factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a [Corrupted](Monsters.md#scyphozia) version of a trial monster before escaping the Depths.
-        -   It is highly recommended to be wary of players in the Cathedral's elevator.
-            -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation. Note that leaving the server in the trial room will always teleport you to outside of the gate. In an unlikely but possible scenario, if the player has [Blindseer](Oath%253A_Blindseer.md) or [Rhythm](Murmur%253A_Rhythm.md) they can use it to detect any invisible players.
-                -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
--   Once the monster spawns, you will automatically be locked in combat. The combat tag in the Depths trial takes 10 minutes to despawn.
-    -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks such as Angels and Megalodaunts do not allow this. At the top of the chain, players cannot be pulled by an Enforcer unless they fall.
-    -   As of late, the combat tag is _not_ a boss tag. As such, player can close the game the instant the trial begins with zero repercussions (so long as their health is above 60%).
-        -   **Do not rely on this**. It is likely unintended, and will be patched soon.
--   If 2 or more players enter the Trial, all will fight the monster of the highest power. It will also look to see if anyone has the Vow of Thorns modifier on and apply it.
-    -   Example: Two power 16 players will spawn two enforcers. one power 7 and one power 16 will have to fight two enforcers.
-    -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn.
-    -   Example: One power 1 with Vow of Thorns and one power 20 will spawn wave defense.
--   Those with the Deepbound origin must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of power.
-    -   Curiously, a Power 1 Deepbound and Power 20 Non-Deepbound will spawn just one Enforcer.
+**This method can only be done once per character**. The alternative method is limited to players with a [Resonance](Resonance.md) and an eligible [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) or an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). Talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place.**" This method skips the trial altogether, but will only works in the **First Layer**. You can also achieve this with the use of an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**", which does not require a [Resonance](Resonance.md) nor a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) from [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>).
 
 ## Farming in First Layer
 

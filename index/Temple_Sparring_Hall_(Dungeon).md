@@ -1,9 +1,9 @@
 ---
 title: Temple Sparring Hall (Dungeon)
-revid: 166590
+revid: 170857
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Dungeon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons]
+categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons, Chime of Conflict Arenas]
 ---
 
 # Temple Sparring Hall (Dungeon)

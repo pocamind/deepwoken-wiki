@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 170820
+revid: 170833
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -10,7 +10,39 @@ categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, 
 
 Template:Location2
 
-The **Cathedral of the Interstice** is a sub-location in the [First Layer](First_Layer.md). It is the main way for a player to escape the Depths through the Depths Trial. It contains the [Shrine of Courage](Shrine_of_Courage.md) that heavily increases the difficulty of the trial significantly; as a reward it gives you enough experience to invest 15 stat points once beaten. There are few ways to enter this area, the first being a gate in East side of the District of Commerce in the [The City of the Drowned](The_City_of_the_Drowned.md) that is opened after ringing 2 bells located at the district. The second is using an elevator located in The City of the Drowned on the opposite side of the District of Commerce. There are other more obscure methods, such as using the [Dimensional Travel Resonance](Dimensional_Travel.md).
+## Overview
+
+The **Cathedral of the Interstice** is a sub-location in [The City of the Drowned](The_City_of_the_Drowned.md) located in the [First Layer](First_Layer.md). It is the main way for a player to escape the Depths through the Depths Trial. It contains the [Shrine of Courage](Shrine_of_Courage.md) and NPCs named [Andrea](Andrea.md) and [Petris](Petris.md), although Petris is technically outside the Cathedral. Inside the Trial also contains the [Voices of the Depths](Voices_of_the_Depths.md), God-like beings who are seemingly testing the player on whether they are worthy of escaping [The Depths](The_Depths.md).
+
+## Objects of Interest
+
+-   [Voices of the Depths](Voices_of_the_Depths.md)
+-   [Shrine of Courage](Shrine_of_Courage.md)
+-   [Andrea](Andrea.md)
+-   [Petris](Petris.md)
+
+## Entering the Cathedral
+
+There are 2 ways to enter the Cathedral. From the map, there are 2 entrance points: One on the West and one on the East, also called the Elevator and Gate, respectively. There are also other, more unorthodox ways to enter the Cathedral.
+
+### West Entrance: Elevator
+
+This is the preffered method of escaping the [First Layer](First_Layer.md)
+
+A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. By interacting with the lever, the sub-elevator will rise to the main elevator. Note that if you drown when your power is lower than 10 you will be spawn right in the West side of the city near the elevator.
+
+**Warning: Directly in front of this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn**, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator. If it is present, your best chances for survival is to simply leave and find a new server. Although due to the elevator's popularity and long spawn cooldown, it is likely that the Nautilodaunt will not be present.
+
+### East Entrance: City Bells
+
+There are 2 bells located in the [District of Commerce](District_of_Commerce.md), the district on the East side of [The City of the Drowned](The_City_of_the_Drowned.md), whose entrance has a sloped gate. Once 2 bells are rung, a bell choir will be heard across [Scyphozia](First_Layer.md), possibly signaling the salvation of the souls trapped within. The metal gate located in the [District of Commerce](District_of_Commerce.md) will then open for 10 minutes.
+
+You can locate the 2 bells by listening a soft humming that gets louder the closer you are to the bell. Once the bell is rung, it will stop making any noises until the large gate closes down again.
+
+### Alternate Methods
+
+-   Using the [Dimensional Travel](Dimensional_Travel.md) legendary [Resonance](Resonance.md).
+-   Entering from above [The City of the Drowned's](The_City_of_the_Drowned.md) walls, either by using vertical movement mobility mantras, stacking [Barrels](Barrel.md) atop each other for increased height, or [Gliding](Gliders.md) from a high vantage point.
 
 ## The Trial
 
@@ -18,9 +50,9 @@ The **Cathedral of the Interstice** is a sub-location in the [First Layer](First
 
 ― "The Song of Fathoms / Oscillation"
 
-The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest Power present. Every other player **WILL STILL** contribute to the enemy count (Ex. one Power 20 player and two Power 13 players will spawn three [Enforcers](Enforcer.md)).
+The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. Upon entering the Trial, the voices will speak to one another, commenting on the player who just entered. Their dialogue can be found on the [Voices of the Depths](Voices_of_the_Depths.md) page.
 
-Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
+Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar. Upon first completion of the Trial, the player will gain a [Whisper Draw](Whisper_Draw.md). Though, you may not receive this if you have already completed one of the requirements for an extra Whisper Draw. More information can be found on the [Whisper Draw](Whisper_Draw.md#info) page.
 
 ### Difficulty Calculation
 
@@ -31,7 +63,7 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 -   The **[Deepbound](Deepbound.md)** [Origin](Origins.md) has an innate 50 Difficulty Score, so they must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of [Power](Power.md). Deepbounds are still affected by other modifiers, and normal difficulty calculations returns after they have achieved at least 50 Difficulty Score.
 -   The **Deep Champion** [Echo Modifier](Echoes.md) will always enable every enemy to be [Corrupted](Monsters.md#scyphozia), regardless of Difficulty Score or Power.
 -   The **Vow Of Thorns** [Echo Modifier](Echoes.md) adds 30 Difficulty Score to the Trial.
--   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. This is similar to **Vow of Thorns**, though it can only be activated once, and once the player completes the harder Trial, they will be rewarded with 15 [Attribute](Attributes.md) points.
+-   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. This is similar to **Vow of Thorns**, though it can only be activated once. Additionally, once the player completes the harder Trial, they will be rewarded with 15 [Attribute](Attributes.md) points.
 
 | Difficulty Score | Estimated [Power](Power.md)  
 (It may be worse)\* | Enemy(ies) |
@@ -42,12 +74,12 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 | 30-39 | [Power](Power.md) 10-13 | [Megalodaunt](Megalodaunt.md) (which has chances of being [Corrupted](Monsters.md#scyphozia)) |
 | 40-49 | [Power](Power.md) 14-16 | [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md) |
 | 50-79 | [Power](Power.md) 17-20 | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 80+ | Nearing or max [Power](Power.md) + a lot of drowns | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (Only the [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in [Corrupted](Monsters.md#scyphozia))  
+| 80+ | [Power](Power.md) 20 + 20 drowns | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (Only the [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in [Corrupted](Monsters.md#scyphozia))  
   
 The number of Monsters that the player will have to fight will increase with how many people are in the trial, but the waves will always remain at 2. |
 | 5 or more players, one having a Difficulty Score of 60+ | 5 players, at least 1 with [Power](Power.md) 20 | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
 
-\* Estimated [Power](Power.md) section assumes that you have 0 drowns. Depending on your drowns and other factors, you could be facing worse enemies. Check the Difficulty Score calculation formula above for more specifics.
+\* Estimated [Power](Power.md) section assumes that you have 0 drowns and no modifiers. Depending on your drowns and other factors, you could be facing worse enemies. Check the Difficulty Score calculation formula above for more specifics.
 
 ### General Info
 
@@ -68,4 +100,9 @@ Note that leaving through the main menu or closing roblox while you are inside t
 -   In regards of other players, be wary of everyone.
     -   Players can wait near or above the elevator leading to the Trial, jumping down to backstab or sneak attack you.
     -   Players who are seemingly harmless may possess modifiers that add to your **Difficulty Score**, causing you to die to a Trial much stronger than your current strength. It is best not to enter the elevator with a random player, unless you are sure that they do not have any modifiers.
-    -   There are also cases of players using the [Disguise](Attunement-less.md#disguise) Mantra, or [Murmur: Tacet](Murmur%253A_Tacet.md) to discreetly enter the Trial with another player while possessing modifiers that make the Trial much harder. Note that real barrels will despawn prior to reaching the top, so any barrels that remains is a player using [Disguise](Attunement-less.md#disguise). This can also be counteracted by having the [Blindseer](Oath%253A_Blindseer.md) Oath.
+    -   There are also cases of players using the [Disguise](Attunement-less.md#disguise) Mantra, or [Murmur: Tacet](Murmur%253A_Tacet.md) to discreetly enter the Trial with another player while possessing modifiers that make the Trial much harder. Note that real [barrels](Barrel.md) will despawn prior to reaching the top, so any barrels that remains is a player using [Disguise](Attunement-less.md#disguise). This can also be counteracted by having the [Blindseer](Oath%253A_Blindseer.md) Oath.
+
+## Trivia
+
+-   An old preferred method of entering the Cathedral was climbing [Celtor City's](The_City_of_the_Drowned.md) walls, either through using a [Glider](Gliders.md) from a high vantage point, or by stacking [Barrels](Barrel.md) and climbing the wall that way, and then dropping down to the entrance.
+-   The west entrance of the Cathedral, where the elevator is, used to cost [Notes](Notes.md) as a toll for each use.

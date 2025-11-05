@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 167174
+revid: 170826
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
@@ -20,7 +20,7 @@ Andrea is an [Adretian](Adret.md) woman scared for her life, as she tries to dec
 
 ## Location
 
-Andrea is located inside [Celtor City](The_City_of_the_Drowned.md), sitting outside the gates of the elevator that brings you up the trial.
+Andrea is located inside [Cathedral of the Interstice](Cathedral_of_the_Interstice.md), sitting on the floor to the opposite side from the [Shrine of Courage](Shrine_of_Courage.md).
 
 ## Dialogue
 
@@ -32,7 +32,7 @@ Andrea is located inside [Celtor City](The_City_of_the_Drowned.md), sitting outs
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The young woman is muttering to herself as you approach, and then looks up at you with distant eyes.*</i> Oh... I didn't see you there.</td>
+  <td colspan="12">*<i>The young woman is muttering to herself as you approach, and then looks up at you with distant eyes.</i>* Oh... I didn't see you there.</td>
 </tr>
 <tr>
   <td colspan="12">You okay?</td>
@@ -44,16 +44,16 @@ Andrea is located inside [Celtor City](The_City_of_the_Drowned.md), sitting outs
   <td colspan="12">The trial?</td>
 </tr>
 <tr>
-  <td colspan="12">I've never been through it myself, but they say it's the only way out of this place. Without going into the Waste's, that is.</td>
+  <td colspan="12">I've never been through it myself, but they say it's the only way out of this place. Without going into the wastes, that is.</td>
 </tr>
 <tr>
   <td colspan="12">[Continue]</td>
 </tr>
 <tr>
-  <td colspan="12">Those... Things up there. The ones that loom over this city like a shadow, only a thousand times darker. They put you through a trial. To see if you're worthy of... I don't know what. But, if you pass, you can return to the surface. So they say.</td>
+  <td colspan="12">Those... <i>things</i> up there. The ones that loom over this city like a shadow, only a thousand times darker. They put you through a trial. To see if you're worthy of... I don't know what. But, if you pass, you can return to the surface. So they say.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
