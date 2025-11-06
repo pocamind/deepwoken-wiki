@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 169856
+revid: 170988
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -130,7 +130,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   You do not have to place the barrels onto your boat, you only need to pick them up and put them back down again.
         -   The boat will spawn once you reach the map marker, make sure you have your graphics turned up high enough to see it.
         -   Barrels do not despawn after the mission is done, which results in the ship being bugged.
-        -   The smuggler ship has a unique model.
+        -   The smuggler ship has a unique model. Note: Smuggler Investigation has been removed from the game. It may or may not be added back, but seeing as how it had several bugs tied to it, the mission was basically unplayable.
 
 ### Mission Lootpool
 
@@ -230,7 +230,7 @@ The Inquisition Divison of the Central Authority acts in the shadows, using thei
 The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
 
 -   Obtainment
-    -   Have a High ratio of successfully completed Missions to failed ones.
+    -   Have a High ratio of successfully completed Missions to failed ones. (Likely a ratio of 2:1 or 3:1)
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -488,7 +488,6 @@ Shock Corps Division
 -   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
     -   Remember to report messages like these.
-    -   Messages being directed from friends are unable to be seen by you, do not look schizophrenic infront of your fellow Ensigns.
 -   Because your player grip is replaced with imprisoning them, you will need some kind of automatic grip in order to confirm kills.
 -   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.

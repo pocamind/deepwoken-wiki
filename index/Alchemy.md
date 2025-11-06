@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 163774
+revid: 170948
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -64,7 +64,7 @@ Unlike the other effects, the duration of a potion is unaffected by any of these
 
 ## Ingredients
 
-There are 57 ingredients that can be added to a potion, though only 23 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
+There are 58 ingredients that can be added to a potion, though only 23 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
 
 A spreadsheet listing the effects of all potion ingredients can be found [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vTvoa3q-3DmosOWmH6AkX1bfMBq4wfbW11Kybf_vt4DaAa-FGAzTPsHn-CWR4wEqXwyEudmKeR5JwPr/pubhtml).
 
@@ -110,7 +110,7 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 
 Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 
-[Eggs](Egg.md), [Lotuses](Primordial_Lotuses.md), all types of [Fish](Fishing.md), [Fish Meat](Food.md), [Galewax](Galewax.md), [Sticks](Stick.md), [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Parasol Brain](Raw_Parasol_Brain.md), [Raw Heavy Meat](Raw_Heavy_Meat.md) and all types of [minerals](Ores.md) are also valid ingredients, but don't have any effect. This can be useful, as potions with only 1 ingredient will have their effects halved, so adding 1 ingredient with an inert effect will counteract this.
+[Eggs](Egg.md), [Lotuses](Primordial_Lotuses.md), all types of [Fish](Fishing.md), [Pumpkins](Pumpkin.md), [Fish Meat](Fish_Meat.md), [Galewax](Galewax.md), [Sticks](Stick.md), [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Parasol Brain](Raw_Parasol_Brain.md), [Raw Heavy Meat](Raw_Heavy_Meat.md) and all types of [minerals](Ores.md) are also valid ingredients, but don't have any effect. This can be useful, as potions with only 1 ingredient will have their effects halved, so adding 1 ingredient with an inert effect will counteract this.
 
 ### Salts
 

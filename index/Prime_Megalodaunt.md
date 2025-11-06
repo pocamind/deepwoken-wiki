@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 163128
+revid: 170993
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Prime Megalodaunt is a powerful [Megalodaunt](Megalodaunt.md) variant, spawning exclusively as the second trial in [The Vat](The_Vat.md).
+The Prime Megalodaunt is a powerful [Megalodaunt](Megalodaunt.md) variant, spawning as the second trial in [The Vat](The_Vat.md) or through the [Parasol's Blight](<Parasol's_Blight.md>) enchant.
 
 Primes are the strongest variant, with them hitting harder, having a much higher HP pool, and being noticeably faster at attacking compared to its normal counterparts.
 
@@ -20,21 +20,9 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 
 ## Attacks
 
-| 
-Name/Danger
-
- | 
-
-Description
-
- | 
-
-Media
-
- |
+| Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-
 **Slash**  
 (★☆☆)
 

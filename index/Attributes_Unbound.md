@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 170501
+revid: 170966
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -73,26 +73,24 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 1.  Reach 75 Charisma.
 2.  Start the "Diver Apprentice" [Quest](Quests.md) by speaking to [Karliah](Karliah.md) in [Etris](Etris.md).
 3.  In [Lower Erisia](Lower_Erisia.md), above the mines, save Karliah from the [Mudskipper](Mudskipper.md) attacking her.
-4.  Talk to Karliah and select the dialogue option "
+4.  Talk to Karliah and select the dialogue option "I don't think you're cut out for this. Mudskippers are small fry, you'll face much worse as a Diver. You need to rethink your life goals. \[Charisma\]".
+5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
 
-I don't think you're cut out for this. Mudskippers are small fry, you'll face much worse as a Diver. You need to rethink your life goals. \[Charisma\]". The first and second option will result in her demise, either by [Horseshoe Crabs](Horseshoe_Crab.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
-
-1.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
+The first and second option will result in her demise, either by [Horseshoe Crabs](Horseshoe_Crab.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
 
 _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)._
 
 ## Weapon Proficiency Unbound
 
 1.  Reach 75 investment in Heavy/Medium/Light.
-
-1.  Start the "Vigil's Savior" [Quest](Quests.md) by speaking to [Apprentice Kj](Apprentice_Kj.md) in the [Temple of the Blade](Temple_of_the_Blade.md). (You can find the brother without starting the quest)
-2.  Obtain a [Gale Stone](Gale_Stone.md).
-3.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
-4.  Find a wooden house, located deep within the area (not to be confused with the [Rat's Den](<Rat's_Den.md>))
-5.  Speak to the injured [Vigil Isaac](Vigil_Isaac.md) and give him a Gale Stone.
-6.  Return to Apprentice Kj to finish the quest.
-7.  Head on to the Sparring Arena and speak to [Evengarde Rest](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
-8.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
+2.  Start the "Vigil's Savior" [Quest](Quests.md) by speaking to [Apprentice Kj](Apprentice_Kj.md) in the [Temple of the Blade](Temple_of_the_Blade.md). (You can find the brother without starting the quest)
+3.  Obtain a [Gale Stone](Gale_Stone.md).
+4.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
+5.  Find a wooden house, located deep within the area (not to be confused with the [Rat's Den](<Rat's_Den.md>))
+6.  Speak to the injured [Vigil Isaac](Vigil_Isaac.md) and give him a Gale Stone.
+7.  Return to Apprentice Kj to finish the quest.
+8.  Head on to the Sparring Arena and speak to [Evengarde Rest](Evengarde_Rest.md), located to the left when entering, opposite to the sparring instructor.
+9.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
 
 **In-game map location of the wooden cabin:**
 

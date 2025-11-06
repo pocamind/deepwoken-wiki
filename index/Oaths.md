@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 170367
+revid: 170994
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -195,7 +195,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
     -   Starkindred **cannot** be reobtained if broken.
 
--   [Saintsworn](Oath%253A_Saintsworn.md) (needs testing, see if different levels of attunement effects dialogue or not.)
+-   [Saintsworn](Oath%253A_Saintsworn.md) - \*The connection slips away entirely, leaving you standing alone, free but at what cost?\*
     -   Saintsworn **cannot** be reobtained if broken.
 
 -   [Soulbreaker](Oath%253A_Soulbreaker.md): [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) - \*Something awful holds your mind in its grip.\* "THEN IT IS SO, YOU SHALL FORGET THE PROMISE YOU MADE, A NEW PATH OPENING IN ITS PLACE." \*The sensation departs you. Your mind is quiet once more.\*

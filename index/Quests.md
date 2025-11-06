@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 169248
+revid: 170970
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs, Mechanics]
@@ -185,7 +185,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Fort_Merit.md">Fort Merit</a><br>
-  <b>Guide</b>: Talk to <a href="Beiruul.md">Beiruul</a> at <a href="Meteor_Isle.md">Meteor Isle</a>, then go to Fort Merit. Event occurs near the lift. Kill some Authority Peacekeepers ~4-6, then return to Meteor Isle.<br>
+  <b>Guide</b>: Talk to <a href="Beiruul.md">Beiruul</a> at <a href="Meteor_Isle.md">Meteor Isle</a>, then go to Fort Merit. Event occurs near the lift. Kill some <a href="Authority_Peacekeeper.md">Authority Peacekeepers</a> (~4-6), then return to Meteor Isle.<br>
   <b>Reward(s)</b>: EXP, Bravery, 2 <a href="Knowledge.md">Knowledge</a></p></div></td>
   <td><figure><figcaption><p></p><div><a href="Beiruul.md">Beiruul</a></div><p></p></figcaption></figure></td>
 </tr>

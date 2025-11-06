@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 163140
+revid: 170980
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies]
@@ -92,7 +92,6 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 -   The rubble falls incredibly fast making it very hard to react to.
 -   Due to the above two points, this attack is generally not worth defending yourself against, as there's a chance that it won't even hit you, and even if it would hit you, the chance of you reacting to it and responding accordingly is relatively low.
 -   This can lag players on lower-end devices.
--   The rubble is parryable with [Force Your Way](Ignition_Deepdelver.md).
 
  | 
 

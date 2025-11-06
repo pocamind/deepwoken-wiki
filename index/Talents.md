@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 170829
+revid: 170990
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -387,6 +387,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
+    -   This has a 10 second cooldown.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
@@ -2224,9 +2225,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
 
 -   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
-    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds.
-    -   Note that you need physical bullets in your inventory for this Talent to work.
-    -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
+    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds, with a downtime of 75 seconds.
+    -   You do not need to have physical bullets in your inventory for this to work.
+    -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), giving it a downtime of only 30 seconds.
     -   Prerequisites: 95 Medium Weapon, Rifle Equipped
 
 ### Master Survivalist
@@ -2901,9 +2902,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   This can be resisted with Thundercall armor and by other sources of damage reduction.
         -   If you have the _Already Dead_ Talent from [Deepscorn Casque](Deepscorn_Casque.md), the self damage on cast is reduced by ~20%.
         -   If you have the _Storm Mastery_ Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self Shock/stun from casting Static Withdraw is **removed entirely**.
-    -   The damage buff and Shock/Surge application on hit **only applies to weapon attacks**, despite the description stating "physical damage" in general and not specifying for the damage multiplier.
-    -   15 second duration with a 2 minute cooldown. Has an uptime of 15 seconds with a downtime of 1 minute 45 seconds, as the cooldown starts when the buff is activated.
-    -   Self Applies Shock/1 Surge Rod with hitstun on use. This can be used to interrupt any attacks you're currently using.
+        -   If you pair [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) with the [Deepscorn Casque](Deepscorn_Casque.md), you will heal 10 flat health when you cast Static Withdraw instead.
+    -   The damage buff and Shock/Surge application on hit **only applies to weapon attacks**, despite the description stating "physical damage" in general.
+    -   15 second duration with a 2 minute cooldown. Has a downtime of 1 minute 45 seconds, as the cooldown starts when the buff is activated.
+    -   Applies Shock/1 Surge Rod with hitstun to yourself on use. This can be used to interrupt any attacks you're currently using that can't normally be feinted (e.g. weapon criticals).
     -   Prerequisites: 35 Thundercall, Static Withdraw
 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your Jumpstart physical damage is increased up to +20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
@@ -2911,9 +2913,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   This can be resisted with Thundercall armor and by other sources of damage reduction.
         -   If you have the _Already Dead_ Talent from [Deepscorn Casque](Deepscorn_Casque.md), the self damage on cast is reduced by ~20%.
         -   If you have the _Storm Mastery_ Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self Shock/stun from casting Static Withdraw is **removed entirely**.
+        -   If you pair [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) with the [Deepscorn Casque](Deepscorn_Casque.md), you will heal 10 flat health when you cast Static Withdraw instead.
     -   The damage buff and Shock/Surge application on hit **only applies to weapon attacks**, despite the description stating "physical damage" in general.
-    -   15 second duration with a 1 minute cooldown. Has an uptime of 15 seconds with a downtime of 45 seconds, as the cooldown starts when the buff is activated.
-    -   Self Applies Shock/1 Surge Rod with hitstun on use. This can be used to interrupt any attacks you're currently using.
+    -   15 second duration with a 1 minute cooldown. Has a downtime of 45 seconds, as the cooldown starts when the buff is activated.
+    -   Applies Shock/1 Surge Rod with hitstun to yourself on use. This can be used to interrupt any attacks you're currently using that can't normally be feinted (e.g. weapon criticals).
     -   Prerequisites: 35 Thundercall, Jumpstart
 
 ### Septicemia
@@ -3914,8 +3917,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra.
         -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
         -   Haunted Gale is capped at 1 ghost per Mantra.
-    -   If you cast a non-Galebraethe Mantra, land a Mantra that does not have hitstun (e.g. [Galetrap](Galebreathe.md#galetrap)), miss your Mantra, or if your Mantra is blocked, parried, or dodged, it will be _**whiffed**_, resetting all stacks of Haunted Gale.
-        -   You need to **land** three Galebreathe Mantras in a row without them being defended against in any way in order to proc Haunted Gale.
+    -   If your Mantra is blocked, parried, or dodged, it will be "_whiffed_", resetting all stacks of Haunted Gale.
     -   Haunted Gale stacks are counted **per person**, not globally.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 

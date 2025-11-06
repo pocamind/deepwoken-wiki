@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 170836
+revid: 170906
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -9,5 +9,10 @@ notices:
 ---
 
 # Ulysses Disii
+
+| Ulysses Disii | |
+|---|---|
+| name | Ulysses Disii |
+| affiliation | The Divers |
 
 

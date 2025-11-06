@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 168756
+revid: 170965
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -164,3 +164,4 @@ After defeating Titus, the Detainment Core's special crafting station will open 
 
 -   After disabling the security system, taunt is replaced with a cannon whistle used by the guards. This allows the player to use the artillery to shoot cannonballs at their cursors.
 -   After defeating [Titus](Titus_Fulminus_Destellus.md), a special crafting bench can be accessed to create exclusive items such as the [Specialist Plate](Specialist_Plate.md) and [Reinforced War Helmet](Reinforced_War_Helmet.md).
+-   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore books and song books.
