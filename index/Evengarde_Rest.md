@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 170445
+revid: 171043
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -27,6 +27,8 @@ After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals h
 
 **Base Dialogue:**
 
+Haven't done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest), nor killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and having High-Ally reputation with [Etrea](Etrea.md).
+
 <table>
 <tbody>
 <tr>
@@ -40,8 +42,6 @@ After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals h
 </tr>
 </tbody>
 </table>
-
-**Unlockable Dialogue:**
 
 **Vigil's Savior:**
 
@@ -82,7 +82,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
 </tbody>
 </table>
 
-**Sparring Request:**
+**Boss Fight Initiation:**
 
 After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High-Ally reputation with [Etrea](Etrea.md).
 
@@ -94,7 +94,7 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [First Name] what brings you here?</td>
+  <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [name] what brings you here?</td>
 </tr>
 <tr>
   <td colspan="12">I feel as if we're unprepared against the Lord Regent.</td>
@@ -124,22 +124,22 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">What if I prove myself? How about a challenge?</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The Maestro smirks, he finds the concept amusing.*</i> A challenge, hm? Very well then, I will test your strength myself.<p><br>
+  <td colspan="12"><i>*The Maestro smirks, he finds the concept amusing.*</i> A challenge, hm? Very well then, I will test your strength myself.<br>
   <b>HVY</b>: The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West.<br>
   <b>MED</b>: The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history.<br>
   <b>LHT</b>: The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread.<br>
-  That being said, I have no intention of going easy on you. This polearm (<b>HVY</b>) / blade (<b>MED</b>) / knife (<b>LHT</b>) cannot be handled by the faint of heart.</p></td>
+  That being said, I have no intention of going easy on you. This polearm (<b>HVY</b>) / blade (<b>MED</b>) / knife (<b>LHT</b>) cannot be handled by the faint of heart.</td>
 </tr>
 <tr>
   <td colspan="12">I'll do it.</td>
 </tr>
 <tr>
-  <td colspan="12">End, player is teleported into dungeon</td>
+  <td colspan="12">End, player is teleported into the dungeon</td>
 </tr>
 </tbody>
 </table>
 
-**Leaving before Victory:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -147,35 +147,22 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The Maestro grins.*</i> I'll skip the formalities, I assume you have already practiced after our last bout. Ready for another shot?</td>
+  <td colspan="6">Won against him once</td>
+  <td colspan="6">Never won against him</td>
 </tr>
 <tr>
-  <td colspan="12">Yes, I'm ready.</td>
+  <td colspan="6">*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [name]. How's "Pale Briar (<b>HVY</b>) / Purple Cloud (<b>MED</b>) / Cerulean Thread (<b>LHT</b>)" treating you?</td>
+  <td colspan="6">*<i>The Maestro grins.</i>* I'll skip the formalities, I assume you have already practiced after our last bout. Ready for another shot?</td>
 </tr>
 <tr>
-  <td colspan="12">End, player is teleported into dungeon</td>
-</tr>
-</tbody>
-</table>
-
-**After Victory:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td>*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [First Name]. How's Purple Cloud/Pale Briar/Cerulean Thread treating you?</td>
-</tr>
-<tr>
-  <td colspan="12">We've been well, thank you. Care for another round?</td>
+  <td colspan="6">We've been well, thank you. Care for another round?</td>
+  <td colspan="6">Yes, I'm ready.</td>
 </tr>
 <tr>
   <td colspan="12">Let's see how your skills have improved, eh?</td>
 </tr>
 <tr>
-  <td colspan="12">End, player is teleported into dungeon</td>
+  <td colspan="12">End, player is teleported into the dungeon</td>
 </tr>
 </tbody>
 </table>

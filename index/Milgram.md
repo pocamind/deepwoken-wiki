@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 171034
+revid: 171048
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -87,7 +87,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*They regard you with a half-lidded expression, reeking of haughtiness.*</i> Inquisitor [Last Name], isn't it? Merey mentioned your joining our cohort - I do hope you aren't struggling too much with the work. Haven't had a new member in a while, though I didn't think we were desperate for extra help. Perhaps Merey saw something in you. Perhaps you were just lucky. She's rather picky with her ensigns.</td>
+  <td><i>*They regard you with a half-lidded expression, reeking of haughtiness.*</i> [Rank] [Last Name], isn't it? Merey mentioned your joining our cohort - I do hope you aren't struggling too much with the work. Haven't had a new member in a while, though I didn't think we were desperate for extra help. Perhaps Merey saw something in you. Perhaps you were just lucky. She's rather picky with her ensigns.</td>
 </tr>
 <tr>
   <td>End</td>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 170990
+revid: 171045
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1016,10 +1016,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
 
 -   Dark Synergy \[Common Talent, Shadowcast Exclusive\] - Engulf your enemy in shadows when flourishing them.
-    -   Prerequisites: 45 Shadowcast, Dark God
-    -   Deals 5 damage on proc. (only on flourish.)
+    -   Deals 5 Shadowcast damage on proc.
     -   Does not proc any shadow Talents except Shadow Overflow.
-    -   Does not steal or halt any ether regen.
+    -   Does not steal or halt any Ether regen.
+    -   Prerequisites: 45 Shadowcast, Dark God
 
 -   Dark Waltz \[Common Talent, Shadowcast Exclusive\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo.
     -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
