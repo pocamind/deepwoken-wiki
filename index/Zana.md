@@ -1,12 +1,16 @@
 ---
 title: Zana
-revid: 165986
+revid: 171080
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
 ---
 
 # Zana
+
+“ Never forget the signature pose, my brethren. ”
+
+― Zana
 
 Template:EnemyInfobox1.0
 

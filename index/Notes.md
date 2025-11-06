@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 168699
+revid: 171077
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -8,15 +8,16 @@ categories: [Mechanics, Currency]
 
 # Notes
 
+| Notes | |
+|---|---|
+| usage | Used for buying almost everything |
+| obtainment | Selling items, Completing Jobs |
+
 “ Delicate shells with a distinct shape, Notes are the default currency of commerce within Lumen, Though their value may vary from shore to shore, few fail to recognise them. ”
 
 ― Notes' description
 
-Notes() are the standard currency in _Deepwoken_. They are used to purchase various things, such as [Food](Food.md), [Weapons](Weapons.md), and tools.
-
 ## Functions
-
-the Notes symbol
 
 Notes are the main currency used within the Lumen and can be used for a variety of things, such as [modifying](Mantra_Modifiers.md) and leveling [Mantras](Mantras.md), making [Outfits](Outfits.md), purchasing [Bank](Item_Bank.md) slots, upgrading [Guild Bases](Guild_Bases.md), buying items and paying [bribes](Reputation.md).
 

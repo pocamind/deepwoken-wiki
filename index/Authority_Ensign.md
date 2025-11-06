@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 171027
+revid: 171073
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -229,7 +229,7 @@ The Inquisition Divison of the Central Authority acts in the shadows, using thei
 The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
 
 -   Obtainment
-    -   Have a High ratio of successfully completed Missions to failed ones. (Likely a ratio of 2:1 or 3:1)
+    -   Have a High ratio of successfully completed Missions to failed ones. (Likely a ratio of 2:1)
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -276,7 +276,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Automatically grips knocked players.
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
-    -   The cooldown is 24 real world hours, not one ingame day.
+    -   The cooldown is 24 real world hours, not one ingame day. There is also a 10 minute global cooldown (limited to your server).
 -   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown. \[20 seconds CD\]
     -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
     -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).

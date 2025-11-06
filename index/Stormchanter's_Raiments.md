@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 170560
+revid: 171078
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -49,3 +49,4 @@ The [Static Mastery](Talents.md#static-mastery) Talent removes the stun and heal
 
 -   If you have the regular Kickstart Talent and this Outfit, the Kickstart tools will stack. This provides no benefits.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826412541/Stormchanters-Raiments-Shirt) / [Pants](https://www.roblox.com/catalog/16826416675/Stormchanters-Raiments-Pants)
+-   Utilizing the [Deepscorn Casque](Deepscorn_Casque.md) with the [Static Mastery](Talents.md#static-mastery) Talent will _**heal**_ you instead of dealing damage when using [Static Withdraw](Talents.md#static-withdraw).

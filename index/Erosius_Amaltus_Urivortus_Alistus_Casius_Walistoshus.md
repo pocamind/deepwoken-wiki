@@ -1,6 +1,6 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 146081
+revid: 171069
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
@@ -88,7 +88,7 @@ You need to find the spear in the [Firfire Caverns](Firfire_Caverns.md) to obtai
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Greetings <i>your Kyrsan name</i>, the way is open to you.</td>
+  <td colspan="6">Greetings <i>[your Kyrsan name]</i>, the way is open to you.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

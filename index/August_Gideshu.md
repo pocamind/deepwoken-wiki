@@ -1,6 +1,6 @@
 ---
 title: August Gideshu
-revid: 170752
+revid: 171055
 source: https://deepwoken.fandom.com/wiki/August_Gideshu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -13,7 +13,7 @@ notices:
 | August Gideshu | |
 |---|---|
 | name | August Gideshu[1] |
-| alias | First Lieutenant August Gideshu[1] |
+| alias | First Lieutenant[1] |
 | aspect | Adret[1] |
 | affiliation | The Central Authority[1] |
 | family | Gideshu family[1] |
