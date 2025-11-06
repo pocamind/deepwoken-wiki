@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 170700
+revid: 171013
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -23,7 +23,7 @@ categories: [Equipment, Torso, Items, Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Heart of Enmity, Lysander Spellhardt |
+| obtainment | Heart of Enmity |
 | description | The wings of the Heart of Enmity. As you don them, a seething dark essence courses through you, whispering forbidden truths into your mind. The corruption is subtle at first... but with each beat of these cursed wings, you feel your will slipping, weighing you down, surrendering to something far more sinister. |
 
 ## Description
@@ -43,5 +43,7 @@ Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor
 -   When worn, the wings will flow behind you if you have the Cloth Physics setting enabled.
 -   This item is currently unable to be banked.
 -   The rates seem to have been shadow buffed during the 3/16/2025 update.
+-   This item can only be dropped on death.
 -   Using the [Critical Engine](Talents.md#intellisense) Talent allows your Mantle of Enmity to proc [Deep Gems](Deep_Gems.md). [Blessed Gem](Blessed_Gem.md) on Mantle of Enmity does not reduce the cooldown of the Mantle, instead it halves the cooldown of your weapon critical.
 -   Mantle was able to be rolled from [Lysander Spellhardt](Lysander_Spellhardt.md) for 100 joy using his relic option within 24 hours (not confirmed the exact time) after the Hallowtide 2025 update dropped and was confirmed by Rag to be unintentional. It was removed after and as of now can't be rolled from [Lysander Spellhardt](Lysander_Spellhardt.md).
+-   You can pass down this item in order to use it on new slots. It does not cost echos to pass down, making it pretty easy even if you wipe.

@@ -1,11 +1,9 @@
 ---
 title: Fabantou
-revid: 170437
+revid: 171021
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 ---
 
 # Fabantou
@@ -24,6 +22,23 @@ Fabantou is a [Felinor](Felinor.md) NPC, he is the landlord of [The Three Cheers
 ## Location
 
 Fabantou is located inside The Three Cheers, standing behind the bar.
+
+## Shop
+
+The Three Cheers Menu
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Tankard_of_Ongo_Juice.md">Tankard of Ongo Juice</a></div><div><i>Food beyond compare, food beyond belief!</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Fool's_Tankard.md">Fool's Tankard</a></div><div><i>Servant to the poor, butler to the great!</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
@@ -145,23 +160,6 @@ Fabantou is located inside The Three Cheers, standing behind the bar.
 </tr>
 <tr>
   <td>End</td>
-</tr>
-</tbody>
-</table>
-
-## Shop
-
-The Three Cheers Menu
-
-<table>
-<tbody>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div><a href="Tankard_of_Ongo_Juice.md">Tankard of Ongo Juice</a></div><div><i>Food beyond compare, food beyond belief!</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div><a href="Fool's_Tankard.md">Fool's Tankard</a></div><div><i>Servant to the poor, butler to the great!</i></div></td>
 </tr>
 </tbody>
 </table>

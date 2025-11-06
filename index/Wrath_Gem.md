@@ -1,6 +1,6 @@
 ---
 title: Wrath Gem
-revid: 170808
+revid: 171019
 source: https://deepwoken.fandom.com/wiki/Wrath_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -30,7 +30,7 @@ Upon landing a Mantra with a Wrath Gem equipped, apply the [Wrath](Status_Effect
 ### Notes
 
 -   The Wrath status effect can gain additional effects through the equipment Talents in the [Reinforced War Set](Reinforced_War_Helmet.md).
--   For usage with [Critical Engine](Talents.md#critical-engine), the damage buff will not be applied to the hit that procced the Deep Gem. It is highly suggested that you use a multi-hitting critical for this Gem.
+-   For usage with [Critical Engine](Talents.md#critical-engine), the damage buff will not be applied to the hit that procced the Deep Gem, but will be applied to subsequent hits after granting the Wrath status effect. It is highly suggested that you use a multi-hitting critical for this Gem.
 -   This damage buff is affected by the damage modifier cap.
 
 ## Crafting

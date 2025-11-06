@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 170425
+revid: 171030
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -88,7 +88,7 @@ This Regalia is not kept upon wiping at any power level.
 
 You start with 20 [Aces](Aces.md).
 
-This Regalia is kept upon wiping below Power 6.
+This Regalia is kept upon wiping at or below Power 10.
 
 ### Joker[\[4\]](#cite-note-archnamedrop2-4)
 

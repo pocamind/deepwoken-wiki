@@ -1,11 +1,9 @@
 ---
 title: Warden Jericho
-revid: 170469
+revid: 171033
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Adret NPCs, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
 ---
 
 # Warden Jericho
@@ -161,7 +159,7 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 </tbody>
 </table>
 
-**Captain:**
+**Captain / Commander:**
 
 <table>
 <tbody>
@@ -169,47 +167,13 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, Warrant Officer [Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
+  <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, [Rank] [Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
 </tr>
 <tr>
   <td>Could you tell me more about the Command division?</td>
 </tr>
 <tr>
   <td>[See first instance]</td>
-</tr>
-</tbody>
-</table>
-
-**Commander:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -291,101 +255,13 @@ Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.
 
 **Inquisition Division:**
 
-**Inquisitor:**
-
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> Inquisitor. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor, first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisition 1st Class:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Handler:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>"*You offer a stern salute to the Warden of the East. He responds with a formal salute.*" Handler. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor. first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> [Rank]. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor, first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
   <td>End</td>

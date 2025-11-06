@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pie
-revid: 170193
+revid: 170995
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]

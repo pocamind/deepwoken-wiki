@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 170899
+revid: 171016
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -182,6 +182,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Seems like a great deal, huh? But I'm NOT done yet!_
 -   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
 -   _That's \*gotta\* be one of a kind, right? And it could be yours!_
+-   _The price is too steep, you say? Nonsense! I'm just wearing my Sunday Shirt of Selling. It increases my mercantile skill._
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
 -   _They don't make 'em like they used to anymore, you know?_
 -   _They say you should never look a gift horse in the mouth! ...Well, these aren't gift horses. Look all you want! Buy, even!_

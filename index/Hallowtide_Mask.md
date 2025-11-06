@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 170587
+revid: 171028
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -73,11 +73,13 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Hey, nice mask, bub! Where'd you get one?" (Sentinel Augustus)
 -   "Hoy, Well done, such joy! Now, show the world what thou canst do!" ([Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md))
 -   "HUTTAH- Oh, it's just you! Be careful, I almost knocked you out there!" ([Chud Steel](Chud_Steel.md))
+-   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
 -   "Joyous Hallows to all!" ([Brasidas Spellhardt](Brasidas_Spellhardt.md))
 -   "Ooo, spooky." (High Inquisitor Merey)
+-   "SHOW ME YOUR WAR FACE!" ([Drill Sergeant Kernel](Drill_Sergeant_Kernel.md))
+-   "Take that stupid thing off." ([Jarvis](Jarvis.md))
 -   "You can't scare [the storm that is approaching](https://www.youtube.com/watch?v=pvy9km7g6fw), surface dweller." (Brasidas Spellhardt)
--   "You call THAT a scare? THIS is a scare!" ([Private Kernel](Private_Kernel.md))
--   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
+-   "You call THAT a scare? THIS is a scare!" (Drill Sergeant Kernel)
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Rook Rethige
-revid: 168042
+revid: 171005
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, In progress without reason, InProgressPages, NPCs, The Knives of Eylis, Vendors]
+categories: [Felinor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Vendors]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -56,6 +56,8 @@ If the player has the [Two Faced Regalia](Regalia.md#two-faced), Rook will sell 
 </table>
 
 **Unlockable Dialogue:**
+
+**Whaling Knives:**
 
 **First Encounter:**
 
@@ -132,52 +134,44 @@ This dialogue is unlocked if the player had asked [Raen](Raen.md) **"I see. Can 
 </tbody>
 </table>
 
-**Player has the Two Faced Regalia:**
+**Two-Faced Regalia:**
 
 This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) and bought a [Whaling Knife](Whaling_Knife.md) from Rook Rethige.
 
 <table>
 <tbody>
 <tr>
-  <td colspan="5">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="5">Back for more of my knives? [300 Notes]</td>
+  <td colspan="4">Back for more of my knives? [300 Notes]</td>
 </tr>
 <tr>
-  <td>Sure.</td>
   <td colspan="4">I have a feeling that you don't belong here.</td>
 </tr>
 <tr>
-  <td>[See first instance]</td>
   <td colspan="4">TBA</td>
 </tr>
 <tr>
-  <td></td>
   <td colspan="4">TBA</td>
 </tr>
 <tr>
-  <td></td>
   <td colspan="4">Which means that you can have them! They're useless! Why would anyone run with an annoying buzzer in their backpack or <b>Gods above</b> willingly wish to delve into the Depths?</td>
 </tr>
 <tr>
-  <td></td>
   <td colspan="3">Hey, I wouldn't mind.</td>
   <td>Agreed. You can keep them</td>
 </tr>
 <tr>
-  <td></td>
   <td colspan="3">Of course, I knew you were out of your mind, much like everyone else here. I hope you're booksmart though, 'cause I'm asking for 20 Knowledge for this exchange of information...</td>
   <td>End</td>
 </tr>
 <tr>
-  <td></td>
   <td>Call of the Deep</td>
   <td>Union Pager</td>
   <td>Horn of Authority</td>
 </tr>
 <tr>
-  <td></td>
   <td>End, Player obtains Call of the Deep</td>
   <td>End, Player obtains Union Pager</td>
   <td>End, Player obtains Horn of Authority</td>

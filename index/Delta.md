@@ -1,11 +1,9 @@
 ---
 title: Delta
-revid: 167982
+revid: 171035
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, In progress without reason, InProgressPages, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
 ---
 
 # Delta
@@ -28,6 +26,8 @@ Delta is a young, Interior variant [Canor](Canor.md), wearing the [Union Initiat
 You are required to speak with him to obtain and progress the [Arcwarder](Oath%253A_Arcwarder.md) Oath after you rescue [Epsi](Epsi.md) and speak with [Alpha](Alpha.md).
 
 ## Dialogue
+
+**Not Arcwarder:**
 
 **Requirements not met:**
 
@@ -65,15 +65,21 @@ You are required to speak with him to obtain and progress the [Arcwarder](Oath%2
   <td colspan="6">Alright.</td>
 </tr>
 <tr>
-  <td colspan="6">Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite <i>attuned</i> to you yet. Nothing you can't figure out, I'm sure.</td>
+  <td colspan="3">[Player does not have an <a href="Oaths.md">Oath</a>]</td>
+  <td colspan="3">[Player has an <a href="Oaths.md">Oath</a>]</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="3">Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite <i>attuned</i> to you yet. Nothing you can't figure out, I'm sure.</td>
+  <td colspan="3">Hm. Sorry pal, even with Alpha's advocacy it doesn't seem like I can do much for you. You already got some sort of Vow, or somethin' like that. He doesn't tell me much.</td>
+</tr>
+<tr>
+  <td colspan="3">End, player obtains <a href="Oath%253A_Arcwarder.md">Arcwarder</a></td>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
 
-**Already Oathsworn, Requirements met.:**
+**Arcwarder:**
 
 <table>
 <tbody>
@@ -81,28 +87,47 @@ You are required to speak with him to obtain and progress the [Arcwarder](Oath%2
   <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Hm? Sorry traveller, you aren't quite who I am looking for. I'll be...</td>
+  <td colspan="6">How's the Arc Suit treatin' you? I think the more challenges you overcome with it the stronger your bond with it will get. I should think giving a helping hand to our comrades down below would go a great way!</td>
 </tr>
 <tr>
-  <td colspan="6">Alpha sent me.</td>
+  <td colspan="2">[Player's <a href="Oath%253A_Arcwarder.md">Arcwarder</a> is fully progressed]</td>
+  <td colspan="2">[Player has not maxed <a href="Oath%253A_Arcwarder.md">Arcwarder</a> on a different character]</td>
+  <td colspan="2">[Player has maxed <a href="Oath%253A_Arcwarder.md">Arcwarder</a> on a different character]</td>
 </tr>
 <tr>
-  <td colspan="6">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted...</td>
+  <td colspan="4">End</td>
+  <td colspan="2">I think I've got this thing figured out. [10 Knowledge]</td>
 </tr>
 <tr>
-  <td colspan="6">Alright.</td>
+  <td colspan="4"></td>
+  <td>[Player does not have enough <a href="Knowledge.md">Knowledge</a>]</td>
+  <td>[Player has enough <a href="Knowledge.md">Knowledge</a>]</td>
 </tr>
 <tr>
-  <td colspan="6">Hm. Sorry pal, even with Alpha's advocacy it doesn't seem like I can do much for you. You already got some sort of Vow, or somethin' like that. He doesn't tell me much.</td>
+  <td colspan="4"></td>
+  <td>Uh... Well, your boot's not fitted properly, for starters.</td>
+  <td>Hah! A natural, aren't you? You sure you haven't done this before?</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td>End</td>
+  <td>End, player loses 10 and receives all <a href="Oath%253A_Arcwarder.md">Arcwarder</a> Talents and Mantras</td>
+</tr>
+</tbody>
+</table>
+
+**Oathbroke Arcwarder:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin</td>
+</tr>
+<tr>
+  <td colspan="6">You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an <i>Oath</i> for a reason, mate.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
-File:Dialog of skip.png
-
-Dialogue for skipping the oath progression.

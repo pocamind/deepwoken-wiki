@@ -1,6 +1,6 @@
 ---
 title: Prisoner
-revid: 163748
+revid: 171004
 source: https://deepwoken.fandom.com/wiki/Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Prisoners can only be found in the [Merit Detainment Core](Merit_Detainment_Core.md).They become hostile once the cells have been opened and will attack the player and any Authority NPCs.
+Prisoners can only be found in the [Merit Detainment Core](Merit_Detainment_Core.md). They become hostile once the cells have been opened and will attack the player and any Authority NPCs.
 
 ## Moves
 
@@ -45,3 +45,7 @@ A Prisoner executes its opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent before firmly bashing their face. |
+
+## Trivia
+
+-   When inside their cells, they will perform random emotes, including emotes found in the premium packs.

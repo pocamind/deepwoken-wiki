@@ -1,12 +1,9 @@
 ---
 title: Taiga
-revid: 170435
+revid: 171001
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 ---
 
 # Taiga

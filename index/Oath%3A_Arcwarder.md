@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 170991
+revid: 171036
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -53,6 +53,12 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 ## Effects
 
 This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light. The suit gives total resistance to [parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in Layer 2 and allows you to walk on parasite pools.
+
+### Variants
+
+The following is a list of the default color variants of the Arc Suit, granted when you obtain the Oath. Arc Suit and the Suit's light can be [dyed](Dye_Packet.md) to any color of your choosing.
+
+_Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light is dyed by choosing "Arcwarder Cosmetic" in the dye ui._
 
 ## Abilities
 

@@ -1,11 +1,9 @@
 ---
 title: Santen
-revid: 167301
+revid: 171012
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 ---
 
 # Santen
@@ -84,8 +82,6 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </table>
 
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>

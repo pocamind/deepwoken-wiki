@@ -1,12 +1,11 @@
 ---
 title: Drill Sergeant Kernel
-revid: 170744
+revid: 171023
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Celtor NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page is currently being worked on. Missing Dialogue
 ---
 
 # Drill Sergeant Kernel
@@ -235,24 +234,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 **Commander:**
 
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
 <table>
 <tbody>
 <tr>
@@ -268,8 +249,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 </table>
 
 **Seneschal:**
-
-**First Encounter:**
 
 <table>
 <tbody>
@@ -289,8 +268,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 **Inquisitor:**
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
@@ -305,41 +282,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 </tbody>
 </table>
 
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
 **Inquisition 1st Class:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -356,24 +299,6 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 </table>
 
 **Handler:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -466,7 +391,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
   <td>If the <b>GODS</b> wanted you to <i>LIVE</i>, they would not have created ME!</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b></td>
+  <td>End, player is jailed and sent to <b>execution</b><p>}}</p></td>
 </tr>
 </tbody>
 </table>

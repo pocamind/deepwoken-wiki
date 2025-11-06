@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 170988
+revid: 171027
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -174,15 +174,14 @@ Enlistment Ranks
 
 1.  **Private** (PVT); This is the standard rank that is granted upon obtaining the Origin.
 2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points.
-    -   You will gain access to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of other weapons that can be found at the Armory.
 3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points.
-    -   Allows you to join one of the Divisions: Shock Corps, Command, or Inquisition.
+    -   Allows you to join one of the Divisions: Command, Inquisition, or Shock Corps.
 
 ### Divisions
 
-Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Master [Outfits](Outfits.md), and [Talents](Talents.md). Once you choose a Division, you cannot go back.
+Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Master [Outfits](Outfits.md), and [Talents](Talents.md). You will also gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons.
 
-Each Division is unique in their themes, offering many avenues of gameplay and build diversity. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please. Additionally, most Authority NPCs will salute you when you approach them.
+Each Division is unique in their themes, offering many avenues of gameplay and build diversity, but be warned as once you join a Division, you **cannot** go back or choose a different one. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please. Additionally, most Authority NPCs will salute you when you approach them.
 
 #### Command Division
 

@@ -1,12 +1,9 @@
 ---
 title: Milgram
-revid: 170586
+revid: 171034
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, In progress without reason, InProgressPages, Stub pages without reason, StubPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
 ---
 
 # Milgram
@@ -46,7 +43,9 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 </tbody>
 </table>
 
-**Command division:**
+**Command / Shock Corps division:**
+
+**Division Unmaxed:**
 
 <table>
 <tbody>
@@ -62,9 +61,25 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 </tbody>
 </table>
 
+**Seneschal / Operator:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*They wordlessly salute you, forcing an expressionless look.*</i></td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
 **Inquisiton division:**
 
-**Inquisitor:**
+**Inquisitor / Inquisition 1st Class:**
 
 <table>
 <tbody>
@@ -73,25 +88,6 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 </tr>
 <tr>
   <td><i>*They regard you with a half-lidded expression, reeking of haughtiness.*</i> Inquisitor [Last Name], isn't it? Merey mentioned your joining our cohort - I do hope you aren't struggling too much with the work. Haven't had a new member in a while, though I didn't think we were desperate for extra help. Perhaps Merey saw something in you. Perhaps you were just lucky. She's rather picky with her ensigns.</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisition 1st Class:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>
@@ -115,43 +111,7 @@ Milgram is located at [Fort Merit](Fort_Merit.md), next to some scaffolding.
 </tbody>
 </table>
 
-**Shock Corps division:**
-
-**Frontliner / Interceptor:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*They regard you with a half-lidded expression, reeking of haughtiness. As you salute them, they return you a distinctly uncaring, silent salute.*</i></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Operator:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*They wordlessly salute you, forcing an expressionless look.*</i></td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
 **Not Authority Ensign:**
-
-**Good Authority Reputation:**
 
 <table>
 <tbody>
