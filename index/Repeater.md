@@ -1,9 +1,9 @@
 ---
 title: Repeater
-revid: 160782
+revid: 171130
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pistols, Offhand Guns, The Summer Company, Light Weapons]
+categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
 ---
 
 # Repeater

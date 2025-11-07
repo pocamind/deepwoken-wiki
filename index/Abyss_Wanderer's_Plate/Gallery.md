@@ -1,9 +1,9 @@
 ---
 title: "Abyss Wanderer's Plate/Gallery"
-revid: 152641
+revid: 171123
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Galleries]
+categories: [Equipment Galleries]
 ---
 
 # Abyss Wanderer's Plate/Gallery

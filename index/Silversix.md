@@ -1,9 +1,9 @@
 ---
 title: Silversix
-revid: 166795
+revid: 171132
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pistols, Offhand Guns, Light Weapons, Echoes]
+categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
 ---
 
 # Silversix

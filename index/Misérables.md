@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 167876
+revid: 171087
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -8,13 +8,18 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 
 # Misérables
 
+| Misérables | |
+|---|---|
+| name | Misérables |
+| alias | Interceptor Steel |
+| species | ??? |
+| location | New Kyrsa |
+
 “ Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse. ”
 
 ― Misérables
 
-Template:NPC name
-
-**Misérables** is an enigmatic entity located at the outskirts of [New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md), found in a valley behind a fence near large shrine-activated door. It holds a close resemblance and connection to [Deep Owls](Deep_Owl.md).
+**Misérables** is an enigmatic avian entity located at the outskirts of [New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md), found in a valley behind a fence near large shrine-activated door.
 
 ## Description
 

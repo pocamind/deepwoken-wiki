@@ -1,9 +1,9 @@
 ---
 title: Mudskipper Broodlord/Gallery
-revid: 165294
+revid: 171119
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Galleries]
+categories: [Monster Galleries]
 ---
 
 # Mudskipper Broodlord/Gallery

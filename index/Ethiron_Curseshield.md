@@ -1,9 +1,9 @@
 ---
 title: Ethiron Curseshield
-revid: 163984
+revid: 171142
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields, Offhand]
+categories: [Weapons, Shields, Offhand, Items]
 ---
 
 # Ethiron Curseshield

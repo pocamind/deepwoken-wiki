@@ -1,9 +1,9 @@
 ---
 title: Legion Shield
-revid: 163986
+revid: 171144
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields, The Hundred Legions, Offhand]
+categories: [Weapons, Shields, The Hundred Legions, Offhand, Items]
 ---
 
 # Legion Shield

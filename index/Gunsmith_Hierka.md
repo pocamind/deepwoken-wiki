@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Hierka
-revid: 170654
+revid: 171109
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Hierka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Gunsmiths]
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-The former protégé of Rosen, Hierka was really loyal to the [The Central Authority](The_Central_Authority.md)'s Bereau of Research and had aligned himself with [The Summer Company](The_Summer_Company.md) to steal their secrets. Hierka modified Rosen's designs to produce the [Rifle Spear](Rifle_Spear.md), but his deception was eventually discovered.[\[1\]](#cite-note-rs-1)[\[2\]](#cite-note-2)
+The former protégé of Rosen, Hierka was really loyal to the [The Central Authority](The_Central_Authority.md)'s [Bureau of Research](Bureau_of_Research.md) and had aligned himself with [The Summer Company](The_Summer_Company.md) to steal their secrets. Hierka modified Rosen's designs to produce the [Rifle Spear](Rifle_Spear.md), but his deception was eventually discovered.[\[1\]](#cite-note-rs-1)[\[2\]](#cite-note-2)
 
 ## References
 

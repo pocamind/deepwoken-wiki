@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 118313
+revid: 171088
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Death]
@@ -8,9 +8,11 @@ categories: [Mechanics, Death]
 
 # Hippocampal Pool
 
+Template:NPC name
+
 ## Description
 
-Template:NPC name Found in the [Fragments of Self](Fragments_of_Self.md), the **Hippocampal Pool** allows you to pass down 2 items (can be increased at the cost of [Echoes](Echoes.md), up to 4 additional pass-downs for a maximum of 6,) from your current character to your next character (in the same slot) **after wiping**. Using a Drowned Favour will **not** grant you the items already deposited.
+Found in the [Fragments of Self](Fragments_of_Self.md), the **Hippocampal Pool** allows you to pass down 2 items (can be increased at the cost of [Echoes](Echoes.md), up to 4 additional pass-downs for a maximum of 6,) from your current character to your next character (in the same slot) **after wiping**. Using a Drowned Favour will **not** grant you the items already deposited.
 
 You may also obtain the [False Memory](False_Memory.md) from the Hippocampal Pool, which acts as a temporary weapon that you can equip in order to pass down your current weapon.
 

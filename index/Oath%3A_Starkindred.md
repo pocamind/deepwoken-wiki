@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 169778
+revid: 171085
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -121,6 +121,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Starkindred had the Mystic line "I speak for my masters above."
 -   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain; they also have a long history of bloodshed in the name of their faith.
     -   This "history of bloodshed" is elaborated on by the existence of the [Pale Briar](Pale_Briar.md).
+-   Despite your grip being replaced with imprisoning the person on [Authority Ensign](Authority_Ensign.md), it will still count as a grip for Starkindred's requirements.
 -   This Oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The Oath's icon resembles the Suncross (also known as the Sun, as opposed to the Moonseye being the Moon)
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.

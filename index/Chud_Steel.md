@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 170830
+revid: 171086
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -11,6 +11,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central
 | Chud Steel | |
 |---|---|
 | name | Chud Steel |
+| alias | Interceptor Steel |
 | aspect | Adret |
 | location | Fort Merit |
 | affiliation | The Central Authority |

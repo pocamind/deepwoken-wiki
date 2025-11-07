@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Duster/Gallery"
-revid: 153943
+revid: 171124
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster/Gallery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Galleries]
+categories: [Equipment Galleries]
 ---
 
 # Inquisitor's Duster/Gallery

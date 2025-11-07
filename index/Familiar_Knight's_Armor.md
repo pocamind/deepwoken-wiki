@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 170885
+revid: 171137
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -12,7 +12,7 @@ categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
 |---|---|
 | caption | You don't know why but a certain Murmur is making you very angry. |
 | tier | Unique |
-| crafting_req | x5 Cloth, x5 Fiber, x3 Gold, x6 Heroism Enchant Stones |
+| crafting_req | x5 Cloth, x5 Fiber, x3 Gold, x5 Heroism Enchant Stones |
 | price | 5,000 |
 | stat_req | Power 15 |
 | bankable | Yes |
@@ -30,7 +30,7 @@ categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
 
 ### _Requirements_
 
-This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Gold](Ores.md#gold), and six (6) [Heroism Enchant Stones](Enchant_Stone.md) to craft.
+This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Gold](Ores.md#gold), and five (5) [Heroism Enchant Stones](Enchant_Stone.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 

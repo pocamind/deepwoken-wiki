@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 169148
+revid: 171114
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -461,7 +461,11 @@ Alternatively, if you're using Corrupted Payback, you can get rid of most of the
 2 [Corrupted](Monsters.md#scyphozia) [Golem Primes](Golem_Prime.md)
 
  | Use the Golem Primes as healthpacks. If you're using Corrupted [Payback](Payback.md), you can use it while they're using their Rapid Spin to deal high amounts of damage. |
-| 49 |  | 1 [Bandit](Bandit.md) | The only wave that actually lets you take time. However, keep in mind that while you do regain some tempo at the start of Wave 50, you do not regain all of it. If the bandit is using a dagger the dagger becomes a [Krulian Knife](Krulian_Knife.md). |
+| 49 | 
+
+1 [Bandit](Bandit.md)
+
+ | The only wave that actually lets you take time. However, keep in mind that while you do regain some tempo at the start of Wave 50, you do not regain all of it. If the bandit is using a dagger the dagger becomes a [Krulian Knife](Krulian_Knife.md). |
 | 50
 
 **\*TIMEBOMB MODIFIER\***

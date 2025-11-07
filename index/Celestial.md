@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 168258
+revid: 171147
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -23,6 +23,8 @@ The People of the Stars, so to speak. They are not to be confused with [Lightbor
 Known Celestials include [Navae](The_Children_of_Navae.md) and Alsin, who have become religious figures in modern times. The [Starkindred](Oath%253A_Starkindred.md) Church gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. This Celestial in particular intentionally resembles the Suncross, Deepwoken's sun.
 
 ## Dialogue
+
+This dialogue is from the Celestial located in the [Derelict Highchurch](Derelict_Highchurch.md).
 
 <table>
 <tbody>

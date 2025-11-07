@@ -1,9 +1,11 @@
 ---
 title: Blacksmith
-revid: 167603
+revid: 171115
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vendors, NPCs]
+categories: [In progress with reason, InProgressPages, Vendors, NPCs]
+notices:
+  - This page is currently being worked on. Missing all Dialogue
 ---
 
 # Blacksmith
@@ -13,6 +15,10 @@ categories: [Vendors, NPCs]
 | name | Etris: Caragan, Isle of Vigils: Baragan, Summer Isle: Blacksmith, Greathive Aratel: Blacksmith, Fort Merit: Blacksmith, Miner's Landing: Rudral, Meteor Isle:, Castle Light:, Voidheart:, Guild Bases: Blacksmith, The Floating Keep: Blacksmith |
 | aspect | Etrean, Vesperian, Chrysid, Capra, Gremor, Lightborn, Celtor |
 | location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Miner's Landing, Meteor Isle, Castle Light, The Floating Keep, Voidheart, Guild Bases |
+
+“ Oh? Did you need something? ”
+
+― Blacksmith
 
 ## Description
 
