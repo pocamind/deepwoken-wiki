@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 170595
+revid: 171428
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -155,4 +155,4 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   This Oath was accidentally released early in Battle Royale, allowing players to play a very barebones version of the Oath.
 -   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
 -   Blightsurger's requirements have changed three times since it's addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.
--   The BlightSurger Oath once had a game ruining bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly (similar to AA-gun deaths).
+-   The BlightSurger Oath once had a game ruining bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly (similar to [AA-gun deaths](<Terminology_(game).md#aa-gunaa-gunned>)).

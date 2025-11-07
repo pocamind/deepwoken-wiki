@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 167548
+revid: 171332
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -22,7 +22,7 @@ Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.
 
 **Erisia:**
 
-_Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Navae.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
+_Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
 
 -   **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
     -   Tasks the player with slaying a [Megalodaunt](Megalodaunt.md).

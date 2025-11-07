@@ -1,9 +1,9 @@
 ---
 title: Chime of Conflict
-revid: 169143
+revid: 171318
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Talents, Items, Game]
+categories: [Items, Game Modes]
 ---
 
 # Chime of Conflict

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 171073
+revid: 171310
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -238,7 +238,7 @@ The Shock Corps Division of the Central Authority sees frontliners taking the fi
     1.  Frontliner -> Interceptor | 329 promotion points
     2.  Interceptor -> Operator | 388 promotion points
 -   Benefits
-    -   [Shock Corps Light](Shock_Corps_Light.md) Master Armor
+    -   [Shock Corps Light](Shock_Corps_Light.md) Unique Armor
     -   At Operator rank, you can speak to Sentinel Augustus and receive the [Duskguard Axe](Duskguard_Axe.md) weapon
     -   [Grand Warden's Axe](#division-mantras) Mantra
     -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to red

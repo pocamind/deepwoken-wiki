@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 167839
+revid: 171281
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -220,8 +220,6 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 -   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Training_Gear.md#attunement-training-gears), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
 
 ## Tips
-
-Stat export window during Verse One
 
 -   A useful site to help plan out your build is [https://deepwoken.co/builder](https://deepwoken.co/builder). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.
     -   You are able to export the contents of your character, including your [Mantras](Mantras.md) and [Talents](Talents.md), using the "Export Character" button in the top right corner of the screen, to then be used in external tools such as the Deepwoken Builder. When the window opens, click the text 3 times in quick succession (or until it all becomes highlighted) and then press CTRL + C on your keyboard, copying it all to be pasted elsewhere.

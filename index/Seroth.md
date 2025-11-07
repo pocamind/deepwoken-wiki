@@ -1,9 +1,9 @@
 ---
 title: Seroth
-revid: 170449
+revid: 171342
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Seroth

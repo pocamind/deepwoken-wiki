@@ -1,9 +1,9 @@
 ---
 title: Training Gear
-revid: 171074
+revid: 171286
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Attributes, Attunement]
+categories: [Items, Attributes, Attunement, Training Gear]
 ---
 
 # Training Gear

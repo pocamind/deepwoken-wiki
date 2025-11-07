@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 159016
+revid: 171327
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -1259,7 +1259,7 @@ Power 13
 Duelist Flame  
 4-DU2-1 | 30FIR  
 25STR  
-Flame Bind(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
+[Flame Blind](Flamecharm.md#flame-blind)(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
 
 ### Fortitude Hybrids 4.1.3
 

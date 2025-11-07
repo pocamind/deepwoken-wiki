@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 167576
+revid: 171495
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers, Origins, Character]
@@ -34,7 +34,7 @@ You can enter the [Temple of Hearts](Temple_of_Hearts.md) through a hidden creva
 
 ### Deepbound Contract
 
-Your experience gain while in the Depths is greatly increased, While your experience gain in overworld is greatly decreased. While below power 15, you'll gain another experience multiplier.
+Your experience gain while in the Depths is greatly increased, while your experience gain in overworld is greatly decreased. While below power 15, you'll gain another experience multiplier.
 
 You can restore your sanity in the Depths by going to [Castle Light](Castle_Light.md) or defeating Monsters. Castle Light will always be open to you, even if you've drowned. Additionally, all NPCs and amenities at Castle Light will be accessible (e.g. the Banker, Antiquarian, and Stove).
 

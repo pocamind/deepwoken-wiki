@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 170334
+revid: 171435
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Mechanics, Currency]
@@ -17,7 +17,7 @@ Joy is used as a currency in the [Hallowtide](Hallowtide.md) event, and can be t
 
 Joy is bound to your character. If your slot wipes, and you make a new character, Joy will **NOT** be transferred over.
 
-Generally, it is recommended for you to to buy the [**Hallowtide '22, '23, and '24 Medals**](Seasonal_Medals.md#hallowtide) and the _Hallowtide Aspect Variants_ first, as the all the yearly medals will allow you to unlock Hallowtide-exclusive weapons and equipment with knowledge later _**after the event is over**_. Which also includes the [Harrowing](Enchantments.md) enchantment, [Pumpkin Pitch](Pumpkin_Pitch.md) mantra, and the [Spectral Instrument Set](Instruments.md#spectral-instruments).
+Generally, it is recommended for you to to buy the [**Hallowtide '22, '23, and '24 Medals**](Seasonal_Medals.md#hallowtide) and the _Hallowtide Aspect Variants_ first, as the all the yearly medals will allow you to unlock Hallowtide-exclusive weapons and equipment with knowledge later _**after the event is over**_. Which also includes the [Harrowing](Harrowing.md) enchantment, [Pumpkin Pitch](Pumpkin_Pitch.md) mantra, and the [Spectral Instrument Set](Instruments.md#spectral-instruments).
 
 ## Obtainment
 
@@ -28,8 +28,6 @@ Joy can be obtained in 2 ways:
     -   First, by surviving each wave, which gives you 3 Joy per wave. There is a total of 8 waves, and once you complete the whole trial, you get 16 Joy on top of it, ultimately giving you 40 Joy per full trial.
     -   Second, by getting infected, and infecting other players, which gives you 3 Joy per players you infect.
 
-The most efficient method to obtain Joy is to do the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>) alone with an autoclicker while standing atop any tree or places where [Gourdskippers](Gourdskipper.md) cannot reach you. Talents like [_Carnivore_](Talents.md#apex-predator) or any equivalents will let you survive longer without having to consume [Food or Water](Food.md). More detailed tutorials can be found on _[YouTube](https://www.youtube.com/results?search_query=deepwoken+%22joy%22+farm+%222026%22)_.
-
 ## Usage
 
 Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive items. Mainly with 3 NPCs. [Lysander Spellhardt](Lysander_Spellhardt.md), [Glaive Spellhardt](Glaive_Spellhardt.md), and [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md). Each of their options can be viewed below:
@@ -39,20 +37,20 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
         -   You can also buy 2 Unique Outfits: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>).
     2.  For **50 Joy**: You can buy the [Pumpkin Head](Pumpkin_Head.md) Head equipment.
     3.  For **70 Joy**: You can buy a _Hallowtide Variant_ for all of your aspects. This purchase is account-wide, unlocking for your current and future slots and aspects. You can talk to Lysander again to activate the variants immediately.
-    4.  For **100 Joy**: You can buy random [Relics](Relics.md), Enchant relics, Gilded Needle, and the [Whistling Periapt](Whistling_Periapt.md). All chances for any relics are the same.
+    4.  For **100 Joy**: You can buy random [Relics](Relics.md). All chances for any relics are the same.
         -   You can also buy a Head Equipment for the same price: [Mushroom Costume](Mushroom_Costume.md).
     5.  For **200 Joy**: You can buy the [**Hallowtide '22 and '23 Medals**](Seasonal_Medals.md#hallowtide).
     6.  For **300 Joy**: You can buy the [**Hallowtide '24 Medal**](Seasonal_Medals.md#hallowtide).
         -   **This is a must-buy**. Each medal will allow you to purchase [Hallowtide](Hallowtide.md)\-exclusive items released in its respective year using [Knowledge](Knowledge.md) instead of Joy **after the event is over**. More information can be found on its respective page here, [Hallowtide Medals](Seasonal_Medals.md#hallowtide).
 
--   [Glaive Spellhardt](Glaive_Spellhardt.md): Sells you Hallowtide-exclusive [weapons](Weapons.md) and [mantras](Pumpkin_Pitch.md), along with the [Harrowing Enchant](Enchantments.md), and a master [outfit](Outfits.md) gacha.
+-   [Glaive Spellhardt](Glaive_Spellhardt.md): Sells you Hallowtide-exclusive [weapons](Weapons.md) and [Pumpkin Pitch](Pumpkin_Pitch.md), along with the [Harrowing](Harrowing.md) Enchant, and a master [outfit](Outfits.md) gacha.
     1.  For **20 Joy**: You can buy a random Master [Outfit](Outfits.md). Useful to get [Celtorian Tideknight](Celtorian_Tideknight.md).
     2.  For **80 Joy**: You can buy a Hallowtide-exclusive shield, the [Gourdguard](Gourdguard.md).
     3.  For **100 Joy**: You can buy All Hallowtide-exclusive weapons. The cost is 100 Joy per weapon.
         -   **Light Weapons**: [Skull Piercer](Skull_Piercer.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Spectral Grasp](Spectral_Grasp.md).
         -   **Medium Weapons**: [Hallowscleave](Hallowscleave.md), [Bloodtide Trident](Bloodtide_Trident.md), [Death's Reverie](<Death's_Reverie.md>).
         -   **Heavy Weapons**: [Skyreap Blade](Skyreap_Blade.md), [Putrid Edenstaff](Putrid_Edenstaff.md), [Wretched Mawblades](Wretched_Mawblades.md).
-    4.  For **150 Joy**: You can buy a [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md).
+    4.  For **150 Joy**: You can buy a [Harrowing](Harrowing.md) [Enchant Stone](Enchant_Stone.md).
     5.  For **300 Joy**: You can buy the [Pumpkin Pitch](Pumpkin_Pitch.md) mantra.
 
 -   [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md): Sells you a Hallowtide-exclusive [Instrument](Instruments.md) skin, the [_Spectral Instrument Set_](Instruments.md#spectral-instruments), and some [Shanties](Books.md).
@@ -63,5 +61,5 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
 
 ## Trivia
 
--   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Mantra_Modifiers.md#deep-gems) from [Lysander Spellhardt](Lysander_Spellhardt.md).
+-   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md) from [Lysander Spellhardt](Lysander_Spellhardt.md).
 -   Joy given from all sources was buffed in the [November 8th, 2024 Hotfixes update](Version_History/2026.md#patch-202a).

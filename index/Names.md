@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 165814
+revid: 171292
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1902,7 +1902,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.
 -   The name "Orpheus" is a reference to the "Master of Strings" of the same name from Greek Mythology, and could possibly be a reference to [Orpheus from the Persona series](https://megamitensei.fandom.com/wiki/Orpheus)
 -   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
--   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus.
+-   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus or Marius Marius.
 -   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).
 -   The names "Teshin", "Incarnon", and "Lotus" are references to [Warframe](https://www.warframe.com).
 -   The name "Ohma" might be a reference to Ohma Tokita from Kengan Asura.

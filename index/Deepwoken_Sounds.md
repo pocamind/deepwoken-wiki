@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 168725
+revid: 171429
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -78,7 +78,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.9s | Placing Utility / Building [Guild Bases|Guild Base](Guild_Bases.md) (1st Sound) |
 |  | 1.2s | Building [Guild Base](Guild_Bases.md) (2nd Sound) |
 |  | 0.6s | [Flint](Flint.md) (Usage) |
-|  | 3.9s | [Produce Spark](Talents.md#flamecharmer) (Usage) |
+|  | 3.9s | [Produce Spark](Talents.md#produce-spark) (Usage) |
 |  | 1.0s | [Object](Barrel.md) Placement |
 |  | 2.3s | [Repair Kit](Repair_Kit.md) (Usage) |
 |  | 0.7s | [Glider](Gliders.md) (Usage) |
@@ -135,9 +135,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.5s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Jar Broken |
 |  | 2.2s | [Kyrsan](Second_Layer/New_Kyrsa.md) Obelisk + Puzzle Pad (Interaction) |
 |  | 1.2s | [Scion of Ethiron](Scion_of_Ethiron.md) Altars (Placing Giant Femur) |
-|  | 7.2s | [Heretic's Sutra](Talents.md#heretic) Activation (Unedited) |
-|  | 10.0s | [Heretic's Sutra](Talents.md#heretica) (Loop) |
-|  | 20.1s | [Heretic's Sutra](Talents.md#heretic) (Full) |
+|  | 7.2s | [Heretic's Sutra](Talents.md#heretics-sutra) Activation (Unedited) |
+|  | 10.0s | [Heretic's Sutra](Talents.md#heretics-sutra) (Loop) |
+|  | 20.1s | [Heretic's Sutra](Talents.md#heretics-sutra) (Full) |
 |  | 8.8s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) (Unedited) |
 |  | 1.3s | [Alloying](Pluripotent_Alloy.md) & [Enchanting](Enchantments.md) [Weapons](Weapons.md) |
 |  | 0.5s | Using Map |
@@ -273,12 +273,12 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 0.6s | Locked [Attribute](Attributes.md) \[1\] |
 |  | 0.8s | Locked [Attribute](Attributes.md) \[2\] |
 |  | 6.0s | [Power](Power.md) Increase |
-|  | 1.9s | [Bear Trap](Talents.md#vigil-swordsman) (Proc) |
-|  | 7.1s | [Aerogliding](Talents.md#aeromancer) |
-|  | 1.2s | [Audacity](Talents.md#tyrant) Talent (proc) |
-|  | 1.2s | [Dark Rift](Talents.md#dark-siphon) Activation |
-|  | 0.8s | [Dark Rift](Talents.md#dark-siphon) Activation (Alt) |
-|  | 1.5s | [Dark Rift](Talents.md#dark-siphon) Exit |
+|  | 1.9s | [Bear Trap](Talents.md#bear-trap) (Proc) |
+|  | 7.1s | [Aerogliding](Talents.md#aerogliding) |
+|  | 1.2s | [Audacity](Talents.md#audacity) Talent (proc) |
+|  | 1.2s | [Dark Rift](Talents.md#dark-rift) Activation |
+|  | 0.8s | [Dark Rift](Talents.md#dark-rift) Activation (Alt) |
+|  | 1.5s | [Dark Rift](Talents.md#dark-rift) Exit |
 
 ### **[Combat](https://deepwoken.fandom.com/wiki/Combat_Mechanics)**
 
@@ -406,12 +406,12 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.8s | [Dash](Attunement-less.md#agile-dash) Mantra |
 |  | 0.8s | [Rally](Attunement-less.md#rally) Mantra |
 |  | 1.5s | [Reinforce](Attunement-less.md#reinforce) Mantra |
-|  | 1.8s | [Prediction](Attunement-less.md#prediction) Mantra / [Golden Tongue](Talents.md#silvertongue) |
+|  | 1.8s | [Prediction](Attunement-less.md#prediction) Mantra / [Golden Tongue](Talents.md#golden-tongue) |
 |  | 1.6s | [Glare](Attunement-less.md#glare) Mantra |
 |  | 3.2s | [Taunt](Attunement-less.md#taunt) Mantra |
-|  | 2.8s | [Sing](Attunement-less.md#sing) Mantra + [Capra Racial Buffs](Capra.md#strengths) Loop |
+|  | 2.8s | [Sing](Attunement-less.md#sing) Mantra + [Capra Racial Buffs](Capra.md) Loop |
 |  | 2.1s | [Graceful Flame](Flamecharm.md#graceful-flame) Loop |
-|  | 0.2s | [Flame Blind](Flamecharm.md#flame-blind), [Discovery of Fire](Talents.md#thundercaller), [Judgement](Oath%253A_Contractor.md) (Activation) |
+|  | 0.2s | [Flame Blind](Flamecharm.md#flame-blind), [Discovery of Fire](Talents.md#discovery-of-fire), [Judgement](Oath%253A_Contractor.md#judgement) (Activation) |
 |  | 2.3s | [Fire Eruption](Flamecharm.md#fire-eruption) (Windup) / [Shard Bow](Shard_Bow.md) & [Shadow Seekers](Shadowcast.md#shadow-seekers) (Launch) |
 |  | 1.9s | [Ice Daggers](Frostdraw.md#ice-daggers) (Windup) / [Trial of One](Trial_of_One.md) Parry Test |
 |  | 1.4s | [Ash Slam](Flamecharm.md#ash-slam) (Windup) / [Gravity Field](Gravity_Field.md) (Repulse) |
@@ -420,7 +420,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.5s | [Vow of Mastery](Vow_of_Mastery.md) / [Shadow Assault](Shadowcast.md#shadow-assault) (Windup) |
 |  | 2.3s | Generic Attunement [Mantra](Mantras.md) Cast |
 |  | 1.4s | [Flamecharm](Flamecharm.md) Mantras \[1\] |
-|  | 1.2s | [Flamecharm](Flamecharm.md) Mantras \[2\] / [Mirage Clones](Talents.md#the-emperors-blade) |
+|  | 1.2s | [Flamecharm](Flamecharm.md) Mantras \[2\] / [Mirage Clone](Talents.md#mirage-clone) |
 |  | 4.4s | [Fire Blade](Flamecharm.md#fire-blade) (Impact) |
 |  | 1.3s | [Flame of Denial](Flamecharm.md#flame-of-denial) (Activation) \[1\] |
 |  | 2.5s | [Flame of Denial](Flamecharm.md#flame-of-denial) (Activation) \[2\] |
@@ -430,8 +430,8 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.3s | [Fire Gun](Flamecharm.md#fire-gun) (Activation/Trigger) |
 |  | 2.1s | [Fire Eruption](Flamecharm.md#fire-eruption) + [Flame Leap](Flamecharm.md#flame-leap) (Unleash) |
 |  | 1.5s | [Flare Volley](Flamecharm.md#flare-volley) Mantra |
-|  | 1.7s | [Warding Radiance](Talents.md#flame-warden) (Activation) |
-|  | 1.1s | [Warding Radiance](Talents.md#flame-warden) Spear (Impact) |
+|  | 1.7s | [Warding Radiance](Talents.md#warding-radiance) (Activation) |
+|  | 1.1s | [Warding Radiance](Talents.md#warding-radiance) Spear (Impact) |
 |  | 1.5s | [Frostdraw](Frostdraw.md) Mantras \[1\] |
 |  | 1.7s | [Frostdraw](Frostdraw.md) Mantras \[2\] |
 |  | 2.4s | Ice Raining / Ice Shattering |
@@ -475,19 +475,19 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.6s | [Thunder Kick](Thundercall.md#thunder-kick) (Unleash) |
 |  | 1.6s | [Thunder Wisp](Thundercall.md#thunder-wisp) (Zap) |
 |  | 1.3s | [Thunder Wisp](Thundercall.md#thunder-wisp) (Proc) |
-|  | 0.6s | [Electrified](Status_Effects.md#electrified) (Proc) / [Static Withdraw](Talents.md#self-shocker) |
+|  | 0.6s | [Electrified](Status_Effects.md#electrified) (Proc) / [Static Withdraw](Talents.md#static-withdraw) |
 |  | 2.1s | [Astral Wind](Galebreathe.md#astral-wind) |
-|  | 0.8s | [Galebreathe](Galebreathe.md) Mantras / [Gale Leap](Talents.md#cloudwalker) |
+|  | 0.8s | [Galebreathe](Galebreathe.md) Mantras / [Gale Leap](Talents.md#gale-leap) |
 |  | 0.7s | [Winded](Status_Effects.md#winded) (Hit Proc) |
-|  | 2.2s | [Air Force](Galebreathe.md#air-force) / [Meteor Impact](Talents.md#falling-star-guard) |
+|  | 2.2s | [Air Force](Galebreathe.md#air-force) / [Meteor Impact](Talents.md#meteor-impact) |
 |  | 5.1s | [Galetrap](Galebreathe.md#galetrap) (Activation) |
 |  | 0.8s | [Gale Wisp](Galebreathe.md#gale-wisp) (Proc) \[1\] |
 |  | 0.7s | [Gale Wisp](Galebreathe.md#gale-wisp) (Proc) \[2\] / [Zart's Barrier](Developer_Specs.md#zartania-stannis-caesar) (Whoosh) |
 |  | 1.1s | [Wind Blade](Galebreathe.md#wind-blade) (Windup) |
 |  | 1.5s | [Heavenly Wind](Galebreathe.md#heavenly-wind) (Impact) |
 |  | 1.4s | [Twister Kicks](Galebreathe.md#twister-kicks) |
-|  | 1.1s | [Haunted Gale](Talents.md#whisper) (Proc) \[1\] |
-|  | 0.9s | [Haunted Gale](Talents.md#whisper) (Proc) \[2\] |
+|  | 1.1s | [Haunted Gale](Talents.md#haunted-gale) (Proc) \[1\] |
+|  | 0.9s | [Haunted Gale](Talents.md#haunted-gale) (Proc) \[2\] |
 |  | 0.7s | [Wind Gun](Galebreathe.md#wind-gun) (Windup) / [Gravity Field](Gravity_Field.md) (Grounded) |
 |  | 1.4s | [Winded](Status_Effects.md#winded) Status / [Gale Punch](Galebreathe.md#gale-punch) + [Air Force](Galebreathe.md#air-force) (Windup) |
 |  | 0.9s | [Tornado](Galebreathe.md#tornado) Mantra |
@@ -793,7 +793,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.4s | Character Climbing Ladder (Loop) |
 |  | 8.3s | Character Falling (Loop) |
 |  | 5.1s | [Chime](Chime_of_Conflict.md) Match Found (Mental Trauma) |
-|  | 2.3s | [Command: Live](Talents.md#vow-of-mastery) |
+|  | 2.3s | [Command: Live](Talents.md#command-live) |
 |  | 1.1s | Sea Gate Opening |
 |  | 1.4s | Sea Gate Closing |
 |  | 0.8s | [Lifeweave](Oaths.md#lifeweave) |
