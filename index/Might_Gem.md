@@ -1,6 +1,6 @@
 ---
 title: Might Gem
-revid: 170804
+revid: 171193
 source: https://deepwoken.fandom.com/wiki/Might_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,6 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | A sign of strength...Increases a Mantra's posture damage by 10%. |
+| obtainment | Titus Fulminus Destellus |
 
 ## Description
 
@@ -38,7 +39,3 @@ The posture damage of your Mantra will be increased by 10%.
 This Gem can also be used to craft a variety of items.
 
 -   [Equipment](Equipment.md): [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md), and [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md).
-
-## Obtainment
-
-The Might Gem is exclusively obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).

@@ -1,9 +1,9 @@
 ---
 title: Mudskipper Knight
-revid: 169471
+revid: 171240
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies]
+categories: [Enemies]
 ---
 
 # Mudskipper Knight
@@ -19,6 +19,8 @@ Template:Creature Infobox V3
 ## Description
 
 Found commonly where the drowned reside, Mudskipper Knights are the decayed remnants of those who knew basic combat. They appear in the [Depths](First_Layer.md) within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and during the fight in the Depths Trial at power levels 3-6.
+
+While similar in appearance, they're nothing like regular [Mudskippers](Mudskipper.md). They are able to utilize defensive mechanics - blocking, parrying, and dodging - and can see in a 360 degree field of view around them.
 
 Outside of the Depths, they can be found in both the Etrean and Eastern Luminants. In the former, they are located in graves at the [Burning Stone Gardens](Burning_Stone_Gardens.md), while in the latter, they can be found crashing into [Meteor Isle](Meteor_Isle.md). Here, they are a slightly buffed version of the earlier ones you would have encountered, compensating for the change in [Luminants](Luminants.md).
 
@@ -48,10 +50,6 @@ Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Fal
     -   Most notably [Falchion](Falchion.md)'s critical has very high chip damage and [Zweihander](Zweihander.md)'s critical is unblockable.
 
  |
-
-### Boons
-
--   Warrior Remnants - Are able to use the basic defense mechanics at a high level (Blocking, Parrying, Dodging), along with the ability to see in a 360 field of view around them.
 
 ## Tips
 

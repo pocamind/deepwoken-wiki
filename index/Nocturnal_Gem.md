@@ -1,6 +1,6 @@
 ---
 title: Nocturnal Gem
-revid: 170809
+revid: 171192
 source: https://deepwoken.fandom.com/wiki/Nocturnal_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
@@ -18,6 +18,7 @@ categories: [Items, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
 | droppable | Yes |
 | pass down | No |
 | desc | A strange gem you aren't sure is even from this world. As you listen closely, you hear faint squeaking noises.On hit, summons bats on your enemies, dealing damage to your opponents. (25s CD) |
+| obtainment | Goodie Bag |
 
 ## Description
 
@@ -36,7 +37,3 @@ Upon landing a Mantra with a Noctural Gem equipped, an eruption of bats will occ
 -   Nocturnal Gem does not have hitstun and cannot trigger shaky block.
 -   The damage this Gem deals cannot be increased with damage modifiers.
 -   Nocturnal Gem has a 6.48x PvE multiplier, dealing 64.8 damage in PvE at Power 20 before [Chain of Perfection](Talents.md#chain-of-perfection).
-
-## Obtainment
-
-The Nocturnal Gem is obtained exclusively from [Goodie Bags](Goodie_Bag.md).

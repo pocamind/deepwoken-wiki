@@ -1,6 +1,6 @@
 ---
 title: Wayward Gem
-revid: 170807
+revid: 171190
 source: https://deepwoken.fandom.com/wiki/Wayward_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,6 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It's phasing in and out of existence...On hit, activate Wayward Warp and teleport to your opponent after a 1s delay. (8s CD) |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, In any chest from the First Layer or sea events that drop First Layer chests, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
 
 ## Description
 
@@ -37,21 +38,3 @@ Upon landing a Mantra with a Wayward Gem equipped, you will be teleported to you
 This Gem can also be used to craft a variety of items.
 
 -   [Outfits](Outfits.md): [Heretic's Memento](<Heretic's_Memento.md>), [Inquisition Light](Inquisition_Light.md), and [Justicar's Armor](<Justicar's_Armor.md>).
-
-## Obtainment
-
-The Wayward Gem can be obtained from a variety of sources:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Ferryman](The_Ferryman.md)
--   In any chest from the [First Layer](First_Layer.md) or sea events that drop First Layer chests
--   [Fishing](Fishing.md)
--   [Etris: Siege](Cinders_of_Etris.md)
--   [Deep Crucible](Deep_Crucible.md)
--   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [War Mode](War_Mode.md)

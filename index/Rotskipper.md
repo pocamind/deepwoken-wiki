@@ -1,9 +1,9 @@
 ---
 title: Rotskipper
-revid: 163750
+revid: 171228
 source: https://deepwoken.fandom.com/wiki/Rotskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Monsters]
+categories: [Monsters, Humanoid Monsters]
 ---
 
 # Rotskipper

@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 169942
+revid: 171176
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]

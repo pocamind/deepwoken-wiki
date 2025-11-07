@@ -1,6 +1,6 @@
 ---
 title: Aegis Gem
-revid: 170797
+revid: 171197
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,6 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It's unnaturally dense...On hit, grants Aegis, reducing damage by 10% for 10 seconds. (10s CD) |
+| obtainment | The Gaunt Man for 1 Doom of Caeranthil's Scale. |
 
 ## Description
 
@@ -31,7 +32,3 @@ Upon landing a Mantra with an Aegis Gem equipped, gain a pink shield around your
 
 -   This Gem is best used on Mantras that have a short cooldown, to make sure you can upkeep the Gem's effect as much as possible.
 -   This Gem will **not** work unless you've completed [The Gaunt Man](The_Gaunt_Man.md)'s experiments on your character.
-
-## Obtainment
-
-The Aegis Gem is obtained exclusively from [the Gaunt Man](The_Gaunt_Man.md) for 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>).

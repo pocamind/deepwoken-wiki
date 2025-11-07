@@ -1,6 +1,6 @@
 ---
 title: Blue Gem
-revid: 170801
+revid: 171194
 source: https://deepwoken.fandom.com/wiki/Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,6 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It oozes Ether.Reduces the base Ether cost of a Mantra by 50% and the Ether cost of modifiers by 25%. |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, In any chest from the First Layer or sea events that drop First Layer chests, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
 
 ## Description
 
@@ -40,21 +41,3 @@ Blue Gem has a unique effect with the [Critical Engine](Talents.md#critical-engi
 This Gem can also be used to craft a variety of items.
 
 -   [Outfits](Outfits.md): [Cala-Mariner](Cala-Mariner.md), [Legion Centurion](Legion_Centurion.md), [Icebringer's Vestments](<Icebringer's_Vestments.md>), and [Ignition Deepdelver](Ignition_Deepdelver.md).
-
-## Obtainment
-
-The Blue Gem can be obtained from a variety of sources:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Ferryman](The_Ferryman.md)
--   In any chest from the [First Layer](First_Layer.md) or sea events that drop First Layer chests
--   [Fishing](Fishing.md)
--   [Etris: Siege](Cinders_of_Etris.md)
--   [Deep Crucible](Deep_Crucible.md)
--   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [War Mode](War_Mode.md)

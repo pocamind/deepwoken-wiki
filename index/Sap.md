@@ -1,6 +1,6 @@
 ---
 title: Sap
-revid: 161618
+revid: 171161
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy]
@@ -26,10 +26,10 @@ For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.m
 
 ## Recipes
 
--   [Sticky Bun](Sticky_Bun.md) - 1 Sap, 3 Gathered Wheat
--   [Candied Fruit](Candied_Fruit.md) - 1 Pomar/Calabash, 2 of any other fruit, 1 Sap
--   [Glazed Fish](Glazed_Fish.md) - 1 Fish Meat, 1 Sap
--   [Cake](Cake.md) - 1 Egg, 3 Gathered Wheat, 1 Sap
+-   [Cake](Cake.md) - 1 Egg, 3 Gathered Wheat, 1 Sap.
+-   [Candied Fruit](Candied_Fruit.md) - 2 of any [Fruits](Ingredients.md#fruits).
+-   [Glazed Fish](Glazed_Fish.md) - 1 Fish Meat, 1 Sap.
+-   [Sticky Bun](Sticky_Bun.md) - 1 Sap, 3 Gathered Wheat.
 
 For more information, you can read [Food](Food.md).
 

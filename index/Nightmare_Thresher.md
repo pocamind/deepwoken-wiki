@@ -1,9 +1,9 @@
 ---
 title: Nightmare Thresher
-revid: 169472
+revid: 171201
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies]
+categories: [Monsters]
 ---
 
 # Nightmare Thresher

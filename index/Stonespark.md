@@ -1,9 +1,9 @@
 ---
 title: Stonespark
-revid: 164598
+revid: 171207
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Enemies]
+categories: [Monsters]
 ---
 
 # Stonespark

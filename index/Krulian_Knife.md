@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 169907
+revid: 171221
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Multiple Criticals, Light Weapons, Weapons with Talents]
@@ -44,13 +44,11 @@ Critical attacks gain a +40% damage modifier to anyone who is under the Cruel Co
 
 ## Critical
 
-The user raises the knife into the sky, causing pink lightning to strike the weapon and dealing 15 Thundercall damage in a small AoE. This grants the [Krulian Charge](Status_Effects.md#krulian-charge) status effect, causing their weapon to be electrified with pink lightning for 10 seconds.
+The user raises the knife into the sky, causing pink lightning to strike the weapon and dealing 15 Thundercall damage with 5 Thundercall scaling in a small AoE. This grants the [Krulian Charge](Status_Effects.md#krulian-charge) status effect, causing their weapon to be electrified with pink lightning for 10 seconds.
 
-While under the Krulian Charge effect, using basic attacks applies a purple [Shock](Status_Effects.md#shock) effect, and you gain a speed boost for the full duration of this effect. Additionally, this replaces your critical with a Thundercall rush-down attack, similar to [Lightning Assault](Thundercall.md#lightning-assault).
+While under the Krulian Charge effect, using basic attacks applies a purple [Shock](Status_Effects.md#shock) effect, and you gain a speed boost for the full duration of this effect. Additionally, this replaces your critical with a Thundercall rush-down attack, similar to [Lightning Assault](Thundercall.md#lightning-assault). This attack has 30 base damage with **5 Thundercall** scaling, increasing by 0.15 per point in Thundercall.
 
-This attack has 30 base damage with **5 Thundercall** scaling, increasing by 0.15 per point in Thundercall.
-
-Using your critical attack while Krulian Charge is on cooldown will use the default Dagger critical. Unlike the default dagger critical, this critical is able to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
+Using your critical attack while Krulian Charge is on cooldown will use the default Dagger critical. Unlike the normal default dagger critical, this critical is able to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
 
 Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assault critical has a 5 second cooldown. The default dagger critical has a 3 second cooldown.
 

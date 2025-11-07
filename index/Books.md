@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 170470
+revid: 171230
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Items]
@@ -218,7 +218,7 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > You keep asking for it.  
 > No matter how many blades I present you, it's never enough.  
 >   
-> It was never enough. Was I was\[_sic_\]never enough?  
+> It was never enough. Was I never enough?  
 > How can I apologize to you if you never hear me?  
 > It's not my fault you don't have ears. Or a mouth. Or eyes.  
 > I miss when we could just talk. Wasn't that enough?  
@@ -816,7 +816,7 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > \- writings of Journeyman Skeli
 > 
 >   
-> First of Moonveil, Entry #2. Curse Klaris for sending me to this godsforsaken place. This snow sticks like tar and doesn't melt from your warmth... Even knowing this, there was no reason to lose more than a single expedition team. According to the locals one of our own has occupied the tower above. It has to be Chaser.. He volunteered to lead the first expedition team with a fervor that I've never seen from him. If he's the only one left alive from the team, I can only imagine what became of the others. We can no longer trust _that man_. Should the Forbidden City fall into his hands, it could spell doom for all of us.
+> First of Hearthspan, Entry #2. Curse Klaris for sending me to this godsforsaken place. This snow sticks like tar and doesn't melt from your warmth... Even knowing this, there was no reason to lose more than a single expedition team. According to the locals one of our own has occupied the tower above. It has to be Chaser.. He volunteered to lead the first expedition team with a fervor that I've never seen from him. If he's the only one left alive from the team, I can only imagine what became of the others. We can no longer trust _that man_. Should the Forbidden City fall into his hands, it could spell doom for all of us.
 > 
 > _\*The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.\*_
 
@@ -933,7 +933,7 @@ For the many, the few, the big, the small -
 We would give our lives for the cause!  
 We would give our lives for the cause!  
 
-> The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1180 by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.
+> The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1227 CE by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.
 > 
 > Not much is known about First Lieutenant August Gideshu, the author of the song, himself. Supposedly an Adretian in origin, his unusual surname seems to indicate an older lineage, likely one reaching back to the Pre-Tidal epochs, when the Adretian peoples were contained within their mountain homelands, squabbling as scattered tribes. The Gideshu family name appears several times in various historical Authority records, though never in a rank higher than First Lieutenant.
 > 
@@ -1738,7 +1738,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > We're workers of Summer Company,  
 > We work for the Summer Company...
 > 
-> > "Our Fortress", also known as "Our Fortress Of Smoke And Steel" or simply "The Summer Company Song" is a song and composition written by Gunsmith Severin Smolkin in the year 1062 CE. Smolkin, a smith of small arms and expert flamecharmer, often experimented with utilising flamecharming in small-scale steel smithing, producing thin steel wires for the firing mechanisms of his weapons. While testing the testion of such wires in a clamp set atop a half-open barrel, he noticed that they often made a pleasant resonant sound when pulled or plucked.
+> > "Our Fortress", also known as "Our Fortress Of Smoke And Steel" or simply "The Summer Company Song" is a song and composition written by Gunsmith Severin Smolkin in the year 1062 CE. Smolkin, a smith of small arms and expert flamecharmer, often experimented with utilising flamecharming in small-scale steel smithing, producing thin steel wires for the firing mechanisms of his weapons. While testing the tension of such wires in a clamp set atop a half-open barrel, he noticed that they often made a pleasant resonant sound when pulled or plucked.
 > > 
 > > Intrigued by this property, Smolkin experimented further. Realising that the barrel acted as a sort of amplifier for the sound's volume, he tested out various designs, before settling on a rather unusual one. The instrument's body consists of an oblong round wooden resonation chamber with a convex back, covered in a membrane of fine animal skin at the front, with a long neck attached to the top, and a small retractable peg at the bottom. The neck has six thin steel strings attached to it, spanning from its top where it is wrapped around pegs, to the bottom where it is fastened to a metal plate bed.
 > > 
@@ -2042,7 +2042,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > We settled inside,  
 > And briefly did rest,  
 > But fear gripped us quickly again in our chests;  
-> For we felt the cave stirr  
+> For we felt the cave stir  
 > And a few boulders shake -  
 > A beast in the cavern was coming awake!  
 >   
@@ -2124,7 +2124,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > > Though not mentioned by name, the descriptions suggest the ballad's narrator and their crew faced off against some beasts still around in our days. Namely, the 'four chitinous beasts' seem to indicate the presence of giant recluse spiders not unlike the so-called Deep Widow found underneath the surface of Aratel (though perhaps smaller), while the 'snub shark-like head' implies a deadly encounter with what we now know as a Megalodaunt.
 > > 
-> > The unfamiliar landscape and unusual fauna described in the song's narrative - a high-cliffed island some distance away from civilisation, with the presence of several giant nesting spiders in close proximity to the territorial Megalodaunts' breeidng grounds, - suggests that the surface world inhabited by the ballad's original author may have been much different to the one we live in today.
+> > The unfamiliar landscape and unusual fauna described in the song's narrative - a high-cliffed island some distance away from civilisation, with the presence of several giant nesting spiders in close proximity to the territorial Megalodaunts' breeding grounds, - suggests that the surface world inhabited by the ballad's original author may have been much different to the one we live in today.
 > > 
 > > While some claim this ballad is a sailor's tall-tale, some scholars argue that this story may have taken place in a now-lost Driftland, a type of migratory island that shifts in and out of the precarious Voidsea - though this hypothesis remains a matter of contentious debate. Some have suggested the names 'Beliran' or 'The Iron Isle' for this hypothetical land.
 > > 

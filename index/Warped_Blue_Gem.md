@@ -1,6 +1,6 @@
 ---
 title: Warped Blue Gem
-revid: 170805
+revid: 171191
 source: https://deepwoken.fandom.com/wiki/Warped_Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems, Relics]
@@ -18,6 +18,7 @@ categories: [Items, Mantras, Deep Gems, Relics]
 | droppable | Yes |
 | pass down | No |
 | desc | Warn down and clouded by the tides, this Blue Gem's full power is only available to those in tune with the sea. Perhaps it can be used for something else?While in water, reduces the total Ether cost of a Mantra by 50%. |
+| obtainment | Fishing (extremely rare) |
 
 ## Description
 
@@ -37,7 +38,3 @@ While you are swimming, the **total** Ether cost of your Mantra will be reduced 
 This Gem can also be used to craft a variety of items.
 
 -   [Equipment](Equipment.md): [Bluestone Pauldrons](Bluestone_Pauldrons.md) and [Bluestone Boots](Bluestone_Boots.md).
-
-## Obtainment
-
-The Warped Blue Gem is exclusively obtained from [Fishing](Fishing.md), though it is extremely rare.

@@ -1,6 +1,6 @@
 ---
 title: Wrath Gem
-revid: 171019
+revid: 171189
 source: https://deepwoken.fandom.com/wiki/Wrath_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,6 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It hurts to hold...On hit, apply Wrath. |
+| obtainment | Titus Fulminus Destellus |
 
 ## Description
 
@@ -38,7 +39,3 @@ Upon landing a Mantra with a Wrath Gem equipped, apply the [Wrath](Status_Effect
 This Gem can also be used to craft a variety of items.
 
 -   [Equipment](Equipment.md): [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), and [Reinforced War Boots](Reinforced_War_Boots.md).
-
-## Obtainment
-
-The Wrath Gem is exclusively obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
