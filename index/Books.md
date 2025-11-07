@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 171230
+revid: 171252
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Items]
@@ -805,11 +805,11 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > \- writings of Apprentice Azel
 > 
 >   
-> This was never an expedition. This was a setup. Chaser has gone mad. The [Kyrsgarde](Glossary.md#kyrsgarde) have gone mad. No matter what direction I run, I'm met with the same adversity from those I'm supposed to 'trust', yet it ends in catastrophe. Chaser didn't take us here to find anything, he took us here to feed on us. The [Kyrsgarde](Glossary.md#kyrsgarde) on the surface are kind, but below... it's all a facade. It's always been a facade. I can't trust anyone anymore, there's nothing in this hell which could absolve me of this fear now. Even as I'm writing this, I feel eyes watching me. I know one thing for certain: today, I will die. Whether it be by the hands of my 'leader', or by the hands of those who take us for fools, or perhaps the beasts resting above me.
+> This was never an expedition. This was a setup. Chaser has gone mad. The [Kyrsgarde](Glossary.md#kyrsan--kyrsgarde) have gone mad. No matter what direction I run, I'm met with the same adversity from those I'm supposed to 'trust', yet it ends in catastrophe. Chaser didn't take us here to find anything, he took us here to feed on us. The [Kyrsgarde](Glossary.md#kyrsan--kyrsgarde) on the surface are kind, but below... it's all a facade. It's always been a facade. I can't trust anyone anymore, there's nothing in this hell which could absolve me of this fear now. Even as I'm writing this, I feel eyes watching me. I know one thing for certain: today, I will die. Whether it be by the hands of my 'leader', or by the hands of those who take us for fools, or perhaps the beasts resting above me.
 > 
 > This is my last day... alone. Alone in a wasteland, a meaningless death to be forgotten, just another number added to the infinite list of 'missing in action' [Divers](Glossary.md#the-divers). Is that what all this means? Did Mother want this? Good for nothing.. rotten son, never made money or did anything for the family, dead in a cave, accomplished nothing, alone. Hopeless and abandoned, even in my final moments. I'm going to be forgotten, just as the countless times before. 'Azel Corbet' never existed.. he never did, never meant anything to anyone.. and alone. Alone! Each time I write the word I feel angrier at myself. I hate this. Maybe this is what I deserved. Maybe if I wasn't a good-for-nothing since birth, since childhood, since adolescence, since adulthood, maybe-
 > 
-> _\*The ink on the following pages are washed out and incomprehensible, streaking in lines only tears could create, smudging the ink. His last words are lost.\*_
+> \[The ink on the following pages are washed out and incomprehensible, streaking in lines only tears could create, smudging the ink. His last words are lost.\]
 
 ### Diver Journal, II
 

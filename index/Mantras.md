@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 161699
+revid: 171244
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -84,7 +84,7 @@ To modify a Mantra, the player needs to go to a Mantra Modification table, typic
             -   Ex. Fleeting Sparks with a blast spark changes the mantra to chase down a detonate on foes instead of shocking them from range.
     -   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most of, if not all, of a player's ether upon one use.
     -   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
--   Mantras can also be modified with [Deep Gems](Mantra_Modifiers.md#deep-gems) at a campfire, providing new effects depending on the gem applied.
+-   Mantras can also be modified with [Deep Gems](Deep_Gems.md) at a campfire, providing new effects depending on the gem applied.
     -   Deep Gems show up under 'Misc' in the inventory.
 -   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
 
