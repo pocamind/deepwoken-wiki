@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 171045
+revid: 171625
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2416,7 +2416,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Only procs on M1s with the exceptions of a few weapons.
         -   Can proc on [Wraithclaw](Wraithclaw.md)'s and [Legion Kata](Legion_Kata.md)'s criticals due to them being classified as Basic Attacks, with Wraithclaw's neutral critical proccing it almost instantly due to being a multihit.
     -   This Talent also **works** with [Jus Karita](Jus_Karita.md), but won't come out on your Talent hands unless you have any **Fist Style** equipped.
-    -   Prerequisites: Fists, 20 Fortitude, 20 Light Weapon
+    -   Prerequisites: Any [Fist Style](Fists.md#styles), 20 Fortitude, 20 Light Weapon
     -   Mutual Exclusive: Orbital Ice
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 

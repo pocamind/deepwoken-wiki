@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 168325
+revid: 171645
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -41,5 +41,6 @@ Exter is located at Meteor Isle, sitting on a rock in front of ruins.
 
 ## Trivia
 
--   Exter's racial variant appears to be Redwood.
--   In his dialogue he says that he has a connection with the place, this happens because he is a [Gremor](Gremor.md), as they have a connection with the celestial figure Navae.
+-   Exter's aspect variant appears to be Redwood.
+-   In his dialogue he says that he has a connection with the place, this happens because he is secretly old.
+-   He also references the first Deepwoken Direct video, as if he has seen it personally.

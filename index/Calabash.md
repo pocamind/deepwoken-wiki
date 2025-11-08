@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 171609
+revid: 171613
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food, Ingredients, Harvestables, Food Ingredients]
@@ -31,7 +31,7 @@ A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
 
 -   [Candied Fruit](Candied_Fruit.md) - 2 Calabash and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
 -   [Canteen](Canteen.md) - 1 Calabash and 1 [Beeswax](Beeswax.md) at a [Crafting Station](Crafting_Station.md).
--   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits), no Campfire required.
+-   [Fruit Salad](Fruit_Salad.md) - 1 Calabash and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire_Pit.md) required.
 
 ## Trivia
 

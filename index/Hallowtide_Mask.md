@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 171028
+revid: 171635
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -39,6 +39,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Bah! Shoo, shoo! I have a bad heart.."
 -   "BAH! You're cruel!"
 -   "GET AWAY FROM ME!"
+-   "Gods below!"
 -   "Gods below! Awful, awful display! Go away!"
 -   "Help, help!"
 -   "I HATE HALLOWTIDE- AHHHHHHH!"
@@ -61,6 +62,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Nice try."
 -   "Oh please."
 -   "Oooh, I'm so scared- that's what you want me to say, right?"
+-   "Take that stupid thing off."
 -   "What a nice tradition."
 -   "When are you gonna learn your lesson?"
 
@@ -71,15 +73,21 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 -   "Hahah, good one! Hey, Interceptor, check this out!" ([Sentinel Augustus](Sentinel_Augustus.md))
 -   "...Happy Hallowtide." (Warden Jericho)
 -   "Hey, nice mask, bub! Where'd you get one?" (Sentinel Augustus)
--   "Hoy, Well done, such joy! Now, show the world what thou canst do!" ([Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md))
+-   "Ho ho! That's the spirit! Now do that unto someone else." ([Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md))
+-   "Hoy, Well done, such joy! Now, show the world what thou canst do!" (Galpin Spellhardt, Musicologist Extraordinaire)
 -   "HUTTAH- Oh, it's just you! Be careful, I almost knocked you out there!" ([Chud Steel](Chud_Steel.md))
 -   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
 -   "Joyous Hallows to all!" ([Brasidas Spellhardt](Brasidas_Spellhardt.md))
+-   "Nothing compared to what I've seen." ([Akira](Akira.md))
+-   "Oh, you like to take different forms too?" ([The Ferryman](The_Ferryman.md))
 -   "Ooo, spooky." (High Inquisitor Merey)
+-   "Oorah! Joyous festivities to you too, citizen!" (Chud Steel)
 -   "SHOW ME YOUR WAR FACE!" ([Drill Sergeant Kernel](Drill_Sergeant_Kernel.md))
--   "Take that stupid thing off." ([Jarvis](Jarvis.md))
+-   "Such a funny little tradition. I do like a game." (The Ferryman)
+-   "What was that? I felt a calm breeze..." ([Stratos](Stratos.md))
 -   "You can't scare [the storm that is approaching](https://www.youtube.com/watch?v=pvy9km7g6fw), surface dweller." (Brasidas Spellhardt)
 -   "You call THAT a scare? THIS is a scare!" (Drill Sergeant Kernel)
+-   "You'll find I'm being very merciful right now." ([The Lord Regent](The_Lord_Regent.md))
 
 ## Trivia
 

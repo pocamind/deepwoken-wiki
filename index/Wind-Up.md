@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 158721
+revid: 171624
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -24,13 +24,17 @@ categories: [Resonances]
 
 ### _Appearance_
 
-When used, small circles appear around your right arm. Per use, more circles will appear indicating an increase in level. The circles can be multiple different colors, such as green or gold, and red when charged in combat
+When used, small circles appear around your right arm. Per use, more circles will appear indicating an increase in level. The circles can be multiple different colors, such as gold and red when charged in combat.
 
 ## Usage
 
 Pressing C will activate the **Wind-Up** Resonance.
 
-**Wind-Up** will store a charge that will strengthen your next attack. These charges have a duration of roughly one minute, after which the effect will disappear, and the Resonance will go on a short cooldown of around ten seconds. **Wind-Up's** max charges is 5 while in combat, but can only be charged up to 2 when out of combat. When a physical attack is landed while a charge is stored, the attack will be accompanied by a blast that deals additional damage and ragdolls. If a charged attack gets parried, it will cancel the blast, inflict major damage to the attacker's posture (though, it will not guardbreak), and knock back the enemy who parried it. A dodged attack will only cancel the blast. If a charged attack gets parried by an NPC, posture damage received will be treated like a parried uncharged attack. **Wind-Up** can execute NPCs and players if a certain amount of charges are stored.
+**Wind-Up** will store a charge that will strengthen your next attack. These charges have a duration of roughly one minute, after which the effect will disappear, and the Resonance will go on a short cooldown of around ten seconds. **Wind-Up's** max charges is 5 while in combat, but can only be charged up to 2 when out of combat.
+
+When a physical attack is landed while a charge is stored, the attack will be accompanied by a blast that deals additional damage and ragdolls. If a charged attack gets parried, it will cancel the blast, inflict major damage to the attacker's posture (though, it will not guardbreak), and knock back the enemy who parried it. A dodged attack will only cancel the blast. If a charged attack gets parried by an NPC, posture damage received will be treated like a parried uncharged attack.
+
+**Wind-Up** can execute NPCs and players if a certain amount of charges are stored.
 
 If Wind-Up is corrupted, the ability to execute knocked entities only requires 1 charge.
 
@@ -45,10 +49,8 @@ When obtained, Wind-Up will spend its points on the following stats:
 
 -   Similar to Phink's "Ripper Cyclotron" from _Hunter X Hunter_.
 -   Corrupted Wind-Up can have a one-charge shot, though it is questionable to use as the damage is quite bad.
--   You cannot charge while you are in Tacet.
+-   You cannot charge while you are in [Tacet](Murmur%253A_Tacet.md).
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left.
--   Especially devastating on heavy.
+-   Especially devastating on heavy weapons.
 -   When Corrupted, this Resonance is one of the best executors there are in the game. It only takes around one second to execute a downed player and it will out-speed [Preservation](Preservation.md) or [Blood Scourge](Blood_Scourge.md) Resonances.
--   It does not proc on Mantras. [Kyrsieger](Kyrsieger.md), [Wyrmtooth](Wyrmtooth.md), and [Imperator's Edge](<Imperator's_Edge.md>) critical also can't proc Wind-Up; It doesn't seem to work on criticals that ragdoll. Some Knockdown criticals work (Railblade), while other criticals like Darksteel Greatsword do not (not fair).
--   As stated, Wind-up has different colors, though the only two _currently known_ are gold and green.
-    -   Since the added changes, your in-combat charges will be signified by the color red.
+-   It does not proc on Mantras. [Kyrsieger](Kyrsieger.md), [Wyrmtooth](Wyrmtooth.md), and [Imperator's Edge](<Imperator's_Edge.md>) critical also can't proc Wind-Up; It doesn't seem to work on criticals that ragdoll. Some Knockdown criticals work (like [Railblade](Railblade.md)), while other criticals like [Darksteel Greatsword](Darksteel_Greatsword.md) do not.

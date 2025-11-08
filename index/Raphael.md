@@ -1,6 +1,6 @@
 ---
 title: Raphael
-revid: 159726
+revid: 171631
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, Quests]
@@ -95,7 +95,7 @@ Raphael is located in [The Depths](The_Depths.md) within [The City of the Drowne
   <td colspan="12">You've been down here for a hundred years?</td>
 </tr>
 <tr>
-  <td colspan="12">Give or take a few. The Tides truly were a miracle... Or, well, given the right connections...</td>
+  <td colspan="12">Give or take a few. The <a href="Glossary.md#the-tides">Tides</a> truly were a miracle... Or, well, given the right connections...</td>
 </tr>
 <tr>
   <td colspan="12">What kind of connections?</td>

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 167600
+revid: 171659
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -240,8 +240,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
 -   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
 -   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
--   The name **Aldrich** is a reference to the boss of the same name from _Dark Souls III_.
--   The names **Shabriri**, **Vyke**, **Maliketh**, and **Godfrey** are references to _Elden Ring_.
+-   The names **Aldrich, Midir**, **Lorian**, **Lothric**, **Halflight**, **Gael, Wolnir**, and **Oceiros** are references to the bosses of the same names from _Dark Souls III_.
+-   The names **Shabriri**, **Vyke**, **Maliketh**, **Godrick**, and **Godfrey** are references to _Elden Ring_.
 -   The names **Laios**, **Falin**, **Senshi**, **Izutsumi, Chilchuck** and **Marcille** are a reference to the manga _Dungeon Meshi_.
 -   The names **Frieren**, **Fern**, **Stark**, and **Eisen** are a reference to the manga _Sousou no Frieren_.
 -   The names "**Angela**," "**Binah**," "**Chesed**," "**Gebura**," "**Hokma**," "**Netzach**," "**Tiphereth**," "**Roland**," "**Argalia**", "**Xiao**", "**Zena**", and "**Iori**", while references to older media such as the _Kabbalah Tree of Life_, and _Orlando Furioso,_ were added in reference to the games _Lobotomy Corporation_ and _Library of Ruina_.

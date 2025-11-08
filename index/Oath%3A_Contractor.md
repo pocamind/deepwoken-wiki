@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 171580
+revid: 171654
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -122,8 +122,10 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   Dialogue with the Etrean Royal Guard changes to "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
 -   May be considered as one of the more iconic oaths, with Judgement being featured in the randomizer games Allusions and Item Asylum.
 -   The Oath, before its release, was first mentioned in the Windrunner's dialogue where he speaks of observing the war between Etrea and the Authority.
+-   This Oath was created by Melon\_Seensei/Par. [\[3\]](#cite-note-3)
 
 ## References
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3)

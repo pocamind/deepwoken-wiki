@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 169911
+revid: 171627
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Multiple Criticals, Light Weapons, The Ignition Union]
@@ -30,7 +30,7 @@ categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, 
 
 ## Description
 
-The Iron Requiem is a [Legendary](https://deepwoken.fandom.com/wiki/Category:Legendary_Weapons) [Ironsing](Ironsing.md)\-Scaling Pistol obtained within Ignition Union territories, most commonly through the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. Unlike other Pistols, it may only be used as a **Main Hand** weapon.
+The Iron Requiem is a [Legendary](https://deepwoken.fandom.com/wiki/Category:Legendary_Weapons) [Ironsing](Ironsing.md)\-Scaling Pistol obtained within Ignition Union territories, most commonly through the [Saramaed Hollow](Saramaed_Hollow.md) dungeon. Unlike other Pistols, it may only be used as a **Main Hand** weapon, but an offhand weapon can still be used alongside it.
 
 The Iron Requiem has a [Bullet](Bullet_Casings.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 

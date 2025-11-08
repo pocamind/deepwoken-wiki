@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 168986
+revid: 171616
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Knives of Eylis]
@@ -32,7 +32,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="2">I want to become strong.</td>
@@ -56,25 +56,25 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">What are you?</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Formless, shapeless now. Once like you, but of a different kind. A droplet of endless potential that fell into an endless void. A moment of agony kept in perpetuity; no beginning, nor end. I exist, I am here as the all-beyond of a dream you once had.</b></i></td>
+  <td colspan="12">Formless, shapeless now. Once like you, but of a different kind. A droplet of endless potential that fell into an endless void. A moment of agony kept in perpetuity; no beginning, nor end. I exist, I am here as the all-beyond of a dream you once had.</td>
 </tr>
 <tr>
   <td colspan="12">What does that mean?</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Worry not, dull knife. You are but the fleeting emotions of a dream longer than a time you could comprehend. All that you must understand is, I am here as I am beyond, and I will do as I have done.</b></i></td>
+  <td colspan="12">Worry not, dull knife. You are but the fleeting emotions of a dream longer than a time you could comprehend. All that you must understand is, I am here as I am beyond, and I will do as I have done.</td>
 </tr>
 <tr>
   <td colspan="12">What is this place?</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I am this 'place'. This 'place' does not exist, your emotions simply give form to a dream of what this 'place' feels like. You are floating amidst a sea of eternal void, dreaming as she once did. When you wake up from the dream, and see light... then you will know what 'this' truly is.</b></i></td>
+  <td colspan="12">I am this 'place'. This 'place' does not exist, your emotions simply give form to a dream of what this 'place' feels like. You are floating amidst a sea of eternal void, dreaming as she once did. When you wake up from the dream, and see light... then you will know what 'this' truly is.</td>
 </tr>
 <tr>
   <td colspan="12">She?</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Eylis, a Dreamer. Seek her chambers and consult with her as you wish. Now, is there anything else?</b></i></td>
+  <td colspan="12">Eylis, a Dreamer. Seek her chambers and consult with her as you wish. Now, is there anything else?</td>
 </tr>
 <tr>
   <td colspan="12">I wish to depart.</td>
@@ -84,7 +84,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="6">In combat</td>
 </tr>
 <tr>
-  <td colspan="6"><i><b>Very well, Knife.</b></i></td>
+  <td colspan="6">Very well, Knife.</td>
 </tr>
 <tr>
   <td colspan="6">End (You get teleported)</td>
@@ -101,13 +101,13 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="12">I want to become strong.</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I see. You are full of passion then, I assume. Perhaps you'll find more tangible purpose here. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
+  <td colspan="12">I see. You are full of passion then, I assume. Perhaps you'll find more tangible purpose here. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</td>
 </tr>
 <tr>
   <td colspan="12">What are you?</td>
@@ -129,13 +129,13 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="12">I want to make ends meet.</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I see. A determined sea... you've faced hardship, and struggle to continue. As all humans do, struggle and crawl for but a droplet of happiness in an ocean of misery. Perhaps you'll find something beyond that mortal desire here. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
+  <td colspan="12">I see. A determined sea... you've faced hardship, and struggle to continue. As all humans do, struggle and crawl for but a droplet of happiness in an ocean of misery. Perhaps you'll find something beyond that mortal desire here. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</td>
 </tr>
 <tr>
   <td colspan="12">What are you?</td>
@@ -157,13 +157,13 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="12">I want to be known.</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I see. For a fresh knife, you already possess dull desires. Seek a future worth living instead, Knife. You'll leave a life behind worth living if you abandon that hope. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
+  <td colspan="12">I see. For a fresh knife, you already possess dull desires. Seek a future worth living instead, Knife. You'll leave a life behind worth living if you abandon that hope. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</td>
 </tr>
 <tr>
   <td colspan="12">What are you?</td>
@@ -185,13 +185,13 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="12">I have someone to take care of.</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I see. Benevolent tides, indeed. You can find naught but hope in an opportunity such as this, I presume. Perhaps that one you hold so dear may be freed of their ailments, should the time come. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
+  <td colspan="12">I see. Benevolent tides, indeed. You can find naught but hope in an opportunity such as this, I presume. Perhaps that one you hold so dear may be freed of their ailments, should the time come. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</td>
 </tr>
 <tr>
   <td colspan="12">What are you?</td>
@@ -213,13 +213,13 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="12">I go where the winds take me.</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I see. Prevailing westerlies, your soul takes you where you see fit. Freedom is desirable amongst your species, is it not? Why settle for this contract when you had freedom? You are unaware of what the future holds for you, Knife. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
+  <td colspan="12">I see. Prevailing westerlies, your soul takes you where you see fit. Freedom is desirable amongst your species, is it not? Why settle for this contract when you had freedom? You are unaware of what the future holds for you, Knife. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</td>
 </tr>
 <tr>
   <td colspan="12">What are you?</td>
@@ -241,13 +241,13 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="12">I tire of my old life.</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I see. Tired, tired soul. The trails you must travels are unending, are they not? Fear not, Knife, this contract will bring you to the end of your trails sooner than one may believe, or even want. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
+  <td colspan="12">I see. Tired, tired soul. The trails you must travels are unending, are they not? Fear not, Knife, this contract will bring you to the end of your trails sooner than one may believe, or even want. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</td>
 </tr>
 <tr>
   <td colspan="12">What are you?</td>
@@ -269,13 +269,13 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="12">It doesn't matter.</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>I see. A soul that's already given up, or perhaps does not wish to share with me? Alas, I already know your heart's intentions. I can feel the turmoil in the air surrounding you; with each step. Keep your secrets to yourself, punished soul, but know that many can see through them. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</b></i></td>
+  <td colspan="12">I see. A soul that's already given up, or perhaps does not wish to share with me? Alas, I already know your heart's intentions. I can feel the turmoil in the air surrounding you; with each step. Keep your secrets to yourself, punished soul, but know that many can see through them. But enough about your purpose. Your species is of selfish desire only, what do you come to me for?</td>
 </tr>
 <tr>
   <td colspan="12">What are you?</td>
@@ -297,14 +297,14 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i><b>Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</b></i></td>
+  <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
 </tr>
 <tr>
   <td colspan="6">I wish to depart.</td>
   <td colspan="6">What are you?</td>
 </tr>
 <tr>
-  <td colspan="6"><i><b>Very well, Knife.</b></i></td>
+  <td colspan="6">Very well, Knife.</td>
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>

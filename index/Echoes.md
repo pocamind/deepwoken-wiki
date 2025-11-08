@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 168399
+revid: 171658
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -72,9 +72,6 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 | --- | --- | --- |
 | 
 
- | 0.75 (per Power level) | Gaining [Power](Power.md), awarding 0.75 Echoes per Power level (15 Echoes at Power 20). |
-| 
-
  | 1 | Crafting a [Food](Food.md) item. |
 | 
 
@@ -126,7 +123,19 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
  | 5 | Obtaining a [Murmur](Murmur.md). |
 | 
 
- | 5 | Defeating [Dread Serpent](Dread_Serpent.md) OR [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)[\[1\]](#cite-note-1), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) OR [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) — 5 Echoes each. |
+ | 5 | Defeating [Dread Serpent](Dread_Serpent.md) OR [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)[\[1\]](#cite-note-1) |
+| 
+
+ | 5 | Defeating [Duke Erisia](Duke_Ishamon_Erisia.md) |
+| 
+
+ | 5 | Defeating [The Ferryman](The_Ferryman.md) |
+| 
+
+ | 5 | Defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) |
+| 
+
+ | 5 | Defeating [Primadon](Primadon,_Titan_of_the_East.md) OR [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md)[\[2\]](#cite-note-2) |
 | 
 
  | 5 | Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md). |
@@ -139,6 +148,9 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 | 
 
  | 10 | Completing [Layer 2](Second_Layer.md) floor 1 without [Light Hook](Light_Hook.md). |
+| 
+
+ | 15 | Gaining 20 [Power](Power.md) (every Power level up will award you with 0.75 Echoes, being 15 at 20 Power level) |
 | 
 
  | 15 | Obtaining a [Resonance](Resonance.md). (You must CHOOSE it. If you reroll in Fragments of Self, it resets the task, even if you had one before.) |
@@ -460,7 +472,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   [Starvation](Status_Effects.md#parchedstarved)
 -   Loose Change does not make you lose Notes when you take damage from any source like the description implies, instead only attacks from humanoids reduce your Notes, though it can be inconsistent at times.
 -   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
--   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[2\]](#cite-note-2) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
+-   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[3\]](#cite-note-3) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), and [Parliament](Parliament.md) do not reward Echoes.
     -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
@@ -482,4 +494,5 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 ## References
 
 1.  [↑](#cite-ref-1) Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting 5 Echoes. Killing both does not grant extra Echoes.
-2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)
+2.  [↑](#cite-ref-2) Defeating [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) will also count for defeating the [Primadon](Primadon,_Titan_of_the_East.md), granting 5 Echoes. Killing both does not grant extra Echoes.
+3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)

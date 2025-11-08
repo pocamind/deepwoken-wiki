@@ -1,9 +1,11 @@
 ---
 title: Beatra
-revid: 158993
+revid: 171641
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pages with broken file links, Attunement Trainers, NPCs]
+categories: [Tiran NPCs, Pages with broken file links, In progress with reason, InProgressPages, Attunement Trainers, NPCs]
+notices:
+  - This page is currently being worked on. Missing all dialogue
 ---
 
 # Beatra

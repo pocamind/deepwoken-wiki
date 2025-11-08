@@ -1,6 +1,6 @@
 ---
 title: Kasen
-revid: 148379
+revid: 171633
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
@@ -30,7 +30,7 @@ By talking to him with at least 80 Willpower and have **had** tier 1 [insanity](
   <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="6"><b>THE VOICES</b>... Can you hear them? Those who are <b>empowered</b> by the voices are those who are most insusceptible to its <b>fallacies. I SEE... THE VOICES SAY YOU WILL DO.</b> Recite this chant and the voices will reach out to you.</td>
+  <td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. I SEE... THE VOICES SAY YOU WILL DO. Recite this chant and the voices will reach out to you.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
@@ -46,7 +46,7 @@ By talking to him with at least 80 Willpower and have **had** tier 1 [insanity](
   <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="6"><b>THE VOICES</b>... Can you hear them? Those who are <b>empowered</b> by the voices are those who are most insusceptible to its <b>fallacies</b>. It seems you can endure the strain the voices [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>], but you've never left your mind astray long enough for them to reach out to you.</td>
+  <td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. It seems you can endure the strain the voices [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>], but you've never left your mind astray long enough for them to reach out to you.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>
@@ -62,7 +62,7 @@ By talking to him with at least 80 Willpower and have **had** tier 1 [insanity](
   <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="6"><b>THE VOICES</b>... Can you hear them? Those who are <b>empowered</b> by the voices are those who are most insusceptible to its <b>fallacies</b>. The voices may be familiar with you but it might be too much for someone with such a <b>WEAK</b> will.</td>
+  <td colspan="6">THE VOICES... Can you hear them? Those who are empowered by the voices are those who are most insusceptible to its fallacies. The voices may be familiar with you but it might be too much for someone with such a WEAK will.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

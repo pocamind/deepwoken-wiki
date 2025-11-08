@@ -1,6 +1,6 @@
 ---
 title: Marram Grass
-revid: 162737
+revid: 171630
 source: https://deepwoken.fandom.com/wiki/Marram_Grass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables, Ingredients, Alchemy]
@@ -20,7 +20,7 @@ categories: [Items, Harvestables, Ingredients, Alchemy]
 | desc | Coarse to the touch, this grass is excellent at retaining its moisture and keeping its shape. |
 | obtainment | Found on shores of most islands |
 
-**Sticks** are an [Ingredient](Ingredients.md) used to craft tools and other materials.
+**Maramm Grass** is an [Ingredient](Ingredients.md) used to craft tools and other materials.
 
 ## Obtainment
 
@@ -39,4 +39,4 @@ Marram Grass can be used for the following:
 
 ## Trivia
 
--   Marram Grass was added to replace Bamboo growing on shorelines as it makes more sense.
+-   Marram Grass was added to replace Bamboo growing on shorelines as it made more sense.
