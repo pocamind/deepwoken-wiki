@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 169219
+revid: 171808
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -10,18 +10,21 @@ categories: [Items, Relics]
 
 “ A manifestation of dark energy. While holding it, you feel drawn to the Voidsea itself, as if... something were calling to you, waiting for you there. ”
 
-― In game description
+― In-game description
 
-**Ardour Manifestation** is a rare reward granted upon killing any [boss](Bosses.md), even the [Dread Serpent](Dread_Serpent.md) themselves. This item is also sold by [Traan Zakshun](Traan_Zakshun.md) for 2 in their black market. **Upon use within the Voidsea, the [Dread Serpent](Dread_Serpent.md) will rise from the waters and combat with it shall ensue.**
+  
 
--   You can hold a max of four.
--   You can still obtain an Ardour Manifestation while currently having a [Murmur](Murmur.md)\- including [Ardour](Murmur%253A_Ardour.md) itself. _The only time this item is not granted is if you already own four of the item in your inventory._
--   You will be unable to summon the [Dread Serpent](Dread_Serpent.md) if there is already one in the server that was spawned through another's Ardour Manifestation.
-    -   Once it is slain, you will be able to summon again.
-    -   Trying to use it while the [Dread Serpent](Dread_Serpent.md) is spawned will cause it to say _"The manifest pulses in anxiety. As if signalling that a greater threat is already looming within the Voidsea already._
--   Upon use, you will release a scream similar to the Talent [Ardour Scream](Talents.md#ardour-scream) and the Ardour Manifestation will be destroyed as the [Dread Serpent](Dread_Serpent.md) rises from the water.
+## Description
+
+**Ardour Manifestation** is a rare reward granted upon killing most [Boss](Bosses.md), even from [Dread Serpents](Dread_Serpent.md). This item is also sold by [Traan Zakshun](Traan_Zakshun.md) for 2 in their Black Market. Upon use within the Voidsea, the Dread Serpent will rise from the waters and combat with it ensues.
+
+-   The player can hold a max of four Ardour Manifestations.
+-   The player can still obtain an Ardour Manifestation while currently having a [Murmur](Murmur.md)\- including [Ardour](Murmur%253A_Ardour.md) itself.
+-   Attempting to an Ardour Manifestation while another Dread Serpent was through another player's Ardour Manifestation will prompt the message "The manifest pulses in anxiety. As if signalling that a greater threat is already looming within the Voidsea already."
+    -   Once the existing Dread Serpent is slain, it can be used again.
+-   Upon use, the player release VFX and SFX similar to the [Ardour Scream](Talents.md#ardour-scream) Talent, and the Ardour Manifestation is destroyed as the Dread Serpent rises from the tides.
 
 ## Trivia
 
--   The Ardour Manifestation has no model, but is still held out like any other item.
--   When using the item it will release the same effects when using Ardour Scream.
+-   Ardour Manifestation has no model, but is still held out like any other item.
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) strangely doesn't drop Ardour Manifestation nor [Pluripotent Alloy](Pluripotent_Alloy.md).

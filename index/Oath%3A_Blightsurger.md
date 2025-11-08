@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 171500
+revid: 171819
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -10,7 +10,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, 40 Galebreathe or Thundercall |
+| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, 40 Body, 40 Galebreathe or Thundercall |
 | effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
@@ -49,7 +49,7 @@ Blightsurger draws most of its power from Sacred Lightning, a result of [Galebre
 
 To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Afterwards, approach Titus and select his second dialogue option. Finally, leave the [Merit Detainment Core](Merit_Detainment_Core.md) and speak to [Brutus](Brutus.md) to obtain the Oath.
 
-The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
+The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, You also need at least 40 Body as well as 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
 _Blightsurger **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
@@ -150,9 +150,13 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 
 -   If you speak to [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) while meeting Blightsurger's requirements and chose the correct dialogue options, you can still obtain the Oath even if you don't meet its requirements afterwards.
     -   For example, if you use [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) or [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to lower your stats below Blightsurger's requirements or lose [Hundred Legions](The_Hundred_Legions.md) reputation, you will still obtain Blightsurger upon speaking to [Brutus](Brutus.md).
--   You cannot skip Blightsurger's Oath progression with Knowledge. Attempting to do so will result in [Brutus](Brutus.md) beating you up, with him stating: "Should've listened. _No shortcuts_." This is because, for some reason, doing so would leave Dexerius unable to give the Oath buffs, somehow, for unknown reasons.
+-   You cannot skip Blightsurger's Oath progression with Knowledge. Attempting to do so will result in [Brutus](Brutus.md) beating you up, with him stating: "Should've listened. _No shortcuts_." This is because, for some reason, doing so would leave Dexerius unable to give the Oath buffs, somehow, for unknown reasons.[\[1\]](#cite-note-1)
 -   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).
 -   This Oath was accidentally released early in Battle Royale, allowing players to play a very barebones version of the Oath.
 -   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
 -   Blightsurger's requirements have changed three times since it's addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.
 -   The BlightSurger Oath once had a game ruining bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly (similar to [AA-gun deaths](<Terminology_(game).md#aa-gunaa-gunned>)).
+
+## References
+
+1.  [↑](#cite-ref-1)

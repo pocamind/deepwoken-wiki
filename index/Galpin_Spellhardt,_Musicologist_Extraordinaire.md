@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 171049
+revid: 171792
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -156,24 +156,24 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
   <td colspan="12">Hmmst.. <b>[number] people</b>, you say? My intuition was true, then! Brilliant! Veritable numbers! What wouldst thou like, then? Have a gander at my musickal collection.</td>
 </tr>
 <tr>
-  <td colspan="6">2. Eggs In A Basket [20 Joy]<br>
-  3. Our Fortress (Of Smoke And Steel) [20 Joy]<br>
-  4. Tale of the Storm [20 Joy]<br>
-  7. The Hammer's Call [20 Joy]<br>
-  8. The Song of Fathoms / Oscillation [20 Joy]</td>
+  <td colspan="6">2. Eggs In A Basket [12 Joy]<br>
+  3. Our Fortress (Of Smoke And Steel) [12 Joy]<br>
+  4. Tale of the Storm [12 Joy]<br>
+  7. The Hammer's Call [12 Joy]<br>
+  8. The Song of Fathoms / Oscillation [12 Joy]</td>
   <td colspan="6">At last, sweets ahoy! I thank thee. Enjoy the fine musick, my friend, and a Joyous Hallowtide to thee!</td>
 </tr>
 <tr>
-  <td colspan="6">1. A Light In The Sky [50 Joy]</td>
+  <td colspan="6">1. A Light In The Sky [25 Joy]</td>
   <td colspan="6">*<i>Galpin's hand trembles slightly as he hands you the musical broadsheet.</i>* This one has great sentimental value to me... But worry not! 'Tis merely a copy. Enjoy thine song, and Joyous Hallowtide!</td>
 </tr>
 <tr>
-  <td colspan="6">5. The Ferryman's Lullaby [20 Joy]</td>
+  <td colspan="6">5. The Ferryman's Lullaby [12 Joy]</td>
   <td colspan="6">*<i>Galpin scratches his head with mild frustration.</i>* Hmpf! This one always vexed me. 'Tis such a melancholy song, and the words ring so prettily... But, they sing of such foul fellow! Blech! Why, shan't anyone write fine songs of <i>our</i> kind? Us Spellhardts alone are worth a ditty or two!.. Ah, but I forget myself - enjoy thine tune, and Joyous Hallowtide!</td>
 </tr>
 <tr>
-  <td colspan="6">6. The Gideshu March [20 Joy]</td>
-  <td colspan="6">*<i>Galpin gives you a strange, suspicious look.</i>* Hmst... Speak not of this exchange to the Authority, yes? The last thing I need is those book-burning blockheads pilfering my beloved broadsheet collection. Nonetheless - enjoy thine musick, and Joyous Hallowtide!</td>
+  <td colspan="6">6. The Gideshu March [12 Joy]</td>
+  <td colspan="6">*<i>Galpin gives you a strange, suspicious look.</i>* Hmst... Speak not of this exchange to the <a href="Glossary.md#the-central-authority">Authority</a>, yes? The last thing I need is those book-burning blockheads pilfering my beloved broadsheet collection. Nonetheless - enjoy thine musick, and Joyous Hallowtide!</td>
 </tr>
 <tr>
   <td colspan="6">9. Galpin's Spectral Instrument Set [200 Joy]</td>

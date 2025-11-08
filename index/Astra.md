@@ -1,6 +1,6 @@
 ---
 title: Astra
-revid: 168319
+revid: 171780
 source: https://deepwoken.fandom.com/wiki/Astra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea]
@@ -10,7 +10,7 @@ categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant, Et
 
 | Astra | |
 |---|---|
-| name | Astra |
+| name | Armorer |
 | aspect | Etrean |
 | location | Etris |
 | affiliation | Etrea |
@@ -90,4 +90,4 @@ The Armorer's Arms
 
 ## Trivia
 
--   The armorer was originally refered to as Astra.
+-   The Armorer was originally referred to as Astra.

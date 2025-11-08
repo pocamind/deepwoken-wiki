@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 171643
+revid: 171807
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -41,7 +41,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [The Viper's Jaw](<The_Viper's_Jaw.md>) | Grants the [Legion Kata](Legion_Kata.md) [Fist](Fists.md) style. |  |
 | [Amashi, Master of Flame](Amashi,_Master_of_Flame.md) | Unaligned | [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) trainer.  
 [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression. |  |
-| [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md) | Unaligned | [Second Layer](Second_Layer.md), [Kyrsan Wilds](Kyrsan_Wilds.md) | Lets the player hear THE KYRSAN BREAK. |  |
+| [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md) | Unaligned | [Second Layer](Second_Layer.md), [Kyrsan Wilds](Kyrsan_Wilds.md) | Lets the player hear **THE KYRSAN BREAK**. |  |
 | [Andrea](Andrea.md) | Unaligned | [The Cathedral of Interstice](Cathedral_of_the_Interstice.md) | Reveals information about the Depths Trial. | Dialogue changes after completing the Trial once. |
 | [Antiquarian](Antiquarian.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Fort Merit](Fort_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Purchases items from the player. |  |
 | [Antiques Smuggler](Antiques_Smuggler.md) | Unaligned | [Lower Erisia](Lower_Erisia.md), [Path's Respite](<Path's_Respite.md>) | Behaves similarly to the [Antiquarian](Antiquarian.md), but buys items for only 50% if it's cost. |  |
@@ -64,7 +64,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Banker](Banker.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), [Port Merit](Port_Merit.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [The Floating Keep](The_Floating_Keep.md), [Guild Bases](Guild_Bases.md) | Stores items and notes for the player to access at anytime. |
 | [Baragan](Baragan.md) | [Etrea](Etrea.md), [The Vigils](The_Vigils.md) | [Isle of Vigils](Isle_of_Vigils.md) | Behaves similarly to a [Blacksmith](Blacksmith.md), but has a unique dialogue. | Has a brother, [Caragan](Caragan.md), who works at [Etris](Etris.md). |
 | [Barber](Barber.md) | Unaligned | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Summer Isle](Summer_Isle.md), [Castle Light](Castle_Light.md), [Guild Bases](Guild_Bases.md) | Lets the player change their appearance. |  |
-| [Bari](Bari.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
+| [Bari](Bari.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Gives tips to new players |  |
 | [Beatra](Beatra.md) | Unaligned | [Derelict Highchurch](Derelict_Highchurch.md) | [Shadowcast](Shadowcast.md) trainer on the surface. | She can't teach you [Shadowcast](Shadowcast.md), only level up mantras. |
 | [Beiruul](Beiruul.md) | [The Children of Navae](The_Children_of_Navae.md) | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
 | [Blacksmith](Blacksmith.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md) | Lets you craft [Outfits](Outfits.md) and repair them, turn in ores for chests. |  |
@@ -114,13 +114,13 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Elykris](Elykris.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants a quest to retrieve a [ministry field report](Books.md), gives 3 aces, gives exp and it's a curiosity quest | You can actually softlock this quest by donating this book to librarian in guild base |
 | [Emel](Emel.md) | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry [reputation](Reputation.md), exp and notes. | The quest is repeatable. |
 | [Epsi](Epsi.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | He is part of the quest to obtain [Oath: Arcwarder](Oath%253A_Arcwarder.md) |  |
-| [Eres](Eres.md) | [The Kingdom of Etrea](Etrea.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
+| [Eres](Eres.md) | [Etrea](Etrea.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) | Unaligned | [Firfire](Firfire.md), [Second Layer](Second_Layer.md) | Grants the Talent "Ethiron's Gaze" after doing his quest |  |
 | [Etrean Guardmaster](Etrean_Guardmaster.md) | [Etrea](Etrea.md) | [The Aratel Sea](The_Aratel_Sea.md), near [Port Merit](Port_Merit.md) | Removes the player's handcuffs and turns in [Etrean Guardsman Hostages](Etrean_Guardsman_Hostage.md). | Turning in hostages gives the player negative [Authority](The_Central_Authority.md) [Reputation](Reputation.md). |
 | [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) | [Etrea](Etrea.md) | [Fort Merit](Fort_Merit.md) | Can be turned in for rewards at the [Etrean Guardmaster](Etrean_Guardmaster.md). |  |
-| [Etrean Royal Guard (NPC)](<Etrean_Royal_Guard_(NPC).md>) | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
+| [Etrean Royal Guard (NPC)](<Etrean_Royal_Guard_(NPC).md>) | [Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Erisae](Loot_Bag_Gacha.md) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
-| [Evengarde Rest](Evengarde_Rest.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
+| [Evengarde Rest](Evengarde_Rest.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
 | [Everis Spellhardt](Everis_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sends you back down from [The Floating Keep](The_Floating_Keep.md) |  |
 | [Exter](Exter.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Reveals lore about the knives of eylis |  |
@@ -177,83 +177,88 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest. | Having 10 Charisma allows you to charge her 20. |
 | [Karthal](Karthal.md) | [The Divers](The_Divers.md) | [First Layer](First_Layer.md), [Celtor Wastes](Celtor_Wastes.md) | Gives a brief explanation on the [Hell Mode](Hell_Mode.md) and how to activate it. |  |
 | [Kasen](Kasen.md) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |
-| [Kelsius](Kelsius.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
-| [Kennith](Kennith.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near [Etris Palace](Etris_Palace.md), [Second Layer](Second_Layer.md), [Kyrsan Wilds](Kyrsan_Wilds.md) | Begins the [Duke of Sin questline](Quests.md#duke-of-sin). | Requires high friend [Etrea](Etrea.md) [reputation](Reputation.md), is killed during the events of the quest, can be found in the [Kyrsan Wilds](Kyrsan_Wilds.md) afterwards. |
+| [Kelsius](Kelsius.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
+| [Kennith](Kennith.md) | [Etrea](Etrea.md) | [Etris](Etris.md), steps near [Etris Palace](Etris_Palace.md), [Second Layer](Second_Layer.md), [Kyrsan Wilds](Kyrsan_Wilds.md) | Begins the [Duke of Sin questline](Quests.md#duke-of-sin). | Requires high friend [Etrea](Etrea.md) [reputation](Reputation.md), is killed during the events of the quest, can be found in the [Kyrsan Wilds](Kyrsan_Wilds.md) afterwards. |
 | [Khan](<Khan_(NPC).md>) | Unaligned | [Etris](Etris.md) | He is part of [Kelsius](Kelsius.md)'s [quest](Quests.md) |  |
 | [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Allows for an expedition to Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals |  |
-| [Korin](Korin.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | Quest is repeatable |
+| [Korin](Korin.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | Quest is repeatable |
 | [Kressa](Kressa.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None | Dialogue changes if you're a Voidwalker. |
 | [Krile](Krile.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Resets the chess pieces. |  |
 | [Kujae](Loot_Bag_Gacha.md) | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC. Will give you something random from the Summer Isle lootpool in exchange for 350 notes. |  |
-| [Lake](Lake.md) | Moonseye faith | [Upper Erisia](Upper_Erisia.md), bridge to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) | None |  |
-| [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor |  |
-| [Lance's Brother](<Lance's_Brother.md>) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
+| [Lake](Lake.md) | The Moonlit Faith | [Songseeker Wilds](Songseeker_Wilds.md) | Provides lore on [The Moonlit Faith](Moonseye.md#lore). |  |
+| [Lance Leshi](Lance.md) | [Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor |  |
+| [Lance's Brother](<Lance's_Brother.md>) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | [Lars](Lars.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | Part of the 'Legion Scout' [quest](Quests.md) | Is dead |
-| [Legendary Boot](Legendary_Boot.md) | Unaligned | [Erisia](Erisia.md) | It's a boot. |  |
-| [Liviu](Liviu.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | None |  |
+| [Legendary Boot](Legendary_Boot.md) | Unaligned | [Upper Erisia](Upper_Erisia.md) | It's a legendary boot, waiting for the worthy one to claim it... | The dialogue changes if the player is [worthy](Regalia.md#worthy). |
+| [Liviu](Liviu.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Talks about The Acolyte and provides lore on the affairs of [The Central Authority](The_Central_Authority.md) and [The Hive](The_Hive.md). |  |
 | [Llevyn](Llevyn.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | Brings down the deepdriller if you activated the generator |  |
-| [Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
+| [Lord Regent](The_Lord_Regent.md) | [Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
-| [Lysander Spellhardt](Lysander_Spellhardt.md) | Unaligned | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
-| [Maedhran](Maedhran.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), On the cliff the Union hook leads to. | Sells some [mantra modifiers](Mantra_Modifiers.md). | Before accessing his shop, you have to listen to the tale he tells. |
+| [Lysander Spellhardt](Lysander_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
+| [Maedhran](Maedhran.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), On the cliff the Union hook leads to. | Sells some [Mantra Modifiers](Mantra_Modifiers.md). | Before accessing his shop, you have to listen to the tale he tells. |
 | [Mag](Mag.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
-| [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md) |  |  |  |  |
+| [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md) | Unaligned | [Second Layer](Second_Layer.md), [Firfire](Firfire.md) | Asks the player to sit with them for a moment. | Their dialogue changes after the player sits with them. |
 | [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the Miner's Landing lootpool in exchange for 350 notes. |  |
-| [Malte](Malte.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None | He talks about the Bladeharper Oath. |
+| [Malte](Malte.md) | [Etrea](Etrea.md) | [Temple of the Blade](Temple_of_the_Blade.md), Library | None | He talks about the Bladeharper Oath. |
 | [Marae](Loot_Bag_Gacha.md) | Unaligned | [The Lordsgrove](The_Lordsgrove.md) | Gacha NPC. Will give you something random from the hive lootpool in exchange for 350 notes. |  |
-| [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | Chill rock golem | Marcus. |
-| [Marro](Marro.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
-| [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
-| [Mark Adaset](Mark_Adaset.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Swap the Deepbound defect for one of your choice | None |
+| [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | Chill stonespark. | Marcus. |
+| [Marro](Marro.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Talks about the [Moonlit](Moonseye.md#lore) Faith of the [Chrysids](Chrysid.md) and their culture. | His dialogue changes if the player spoke to [Lake](Lake.md). |
+| [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor. | 
+
+-   Apparently is the strongest in all of Deepwoken.
+-   Exists as a running joke about [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
+
+ |
+| [Mark Adaset](Mark_Adaset.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Swap the Deepbound defect for one of your choice |  |
 | [Mercille](Mercille.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
-| [Merryweather](Merryweather.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | None |  |
-| [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants [Disguise](Attunement-less.md#disguise) mantra | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get mantra |
+| [Merryweather](Merryweather.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | Studying the Worms. Talks about them a lot. | Her dialogue changes if the player is Hero [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md). |
+| [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants the [Disguise](Attunement-less.md#disguise) [mantra](Mantras.md). | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get the [mantra](Mantras.md). |
 | [Misérables](Misérables.md) | Unaligned | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe. Can be repeated if you have the knowledge/medallions required. |
-| [Nanji](Nanji.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Grants finding Ilji quest | Ilji's katana is found on a cliff near the [Isle of Vigils](Isle_of_Vigils.md) |
-| [Nell](Nell,_Master_of_Frost.md) | [The Divers](The_Divers.md) | [Etris](Etris.md), Alchemist hut | [Frostdraw](Frostdraw.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Nanji](Nanji.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Grants finding Ilji quest | Ilji's katana is found on a cliff near the [Isle of Vigils](Isle_of_Vigils.md) |
+| [Nell, Master of Frost](Nell,_Master_of_Frost.md) | [The Divers](The_Divers.md) | [Etris](Etris.md), Alchemist hut | [Frostdraw](Frostdraw.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [The Nestmind](The_Nestmind.md) | Unaligned |  | Grants [Oath: Visionshaper](Oath%253A_Visionshaper.md) |  |
-| [Nostor](Nostor,_Master_of_Shadow.md) | [The Ministry](The_Ministry.md) | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
-| [Nyanna](Nyanna.md) | Unaligned, possible The Divers | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes every 1 hour, weapons and armor can be bought enchanted |
-| [Okumay](Okumay.md) | Unaligned | [The Sunken Railways](The_Sunken_Railways.md), [Second Layer](<https://deepwoken.fandom.com/wiki/Second_Layer#New_Kyrsa,_The_Sleeping_City_(F2)>) | None |  |
-| [Old Stranger](Old_Stranger.md) | Unaligned | Any Ocean | If you give him redd juice or 5/5 canteen he will either grant you with Ardour or a Smith's alloy. Quest Locked out per event if already given reward. |  |
+| [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md) | [The Ministry](The_Ministry.md) | [Varicosa District](Varicosa_District.md), under a building | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Nyanna](Nyanna.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes every 1 hour, weapons and armor can be bought enchanted |
+| [Okumay](Okumay.md) | Unaligned | [Second Layer](Second_Layer.md), [The Sunken Railways](The_Sunken_Railways.md) | None |  |
+| [Old Stranger](Old_Stranger.md) | Unaligned | Any Ocean | Satisfying his thirst will grant the player [Ardour](Murmur%253A_Ardour.md) or a [Smith's Alloy](<Smith's_Alloy.md>). | Quest Locked out per event if already given reward. |
 | [Orion](Orion.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Quest to kill 5 Summer Guards. Rep, EXP and Bravery. |  |
-| [Ottilde](Ottilde.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Lore |  |
+| [Ottilde](Ottilde.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Talks about her family and provides [Lore](Lore.md) on the culture of the [Lullaby Isles](Lullaby_Isles.md). |  |
 | [Pete](Pete.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | [Petris](Petris.md) | Unaligned | [The Depths](First_Layer.md), [The City of the Drowned](The_City_of_the_Drowned.md) | Gives clues to summon [The Ferryman](The_Ferryman.md) |  |
 | [Plath](Plath.md) | Unaligned | [Kyrsan Wilds](Kyrsan_Wilds.md) | None |  |
 | [Ploom](Ploom.md) | Unaligned | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants Talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
-| [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
-| [Prentis](Prentis.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Hating on The Guy |  |
-| [Mr. Quarters, Halfmaster](Mr._Quarters,_Halfmaster.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
-| [Rabanastre](Rabanastre.md) | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. |
-| [Raphael](Raphael.md) | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
-| [Regarde](Regarde.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Sparring instructor at hive |  |
-| [Regek](Regek.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
-| [Renau](Renau.md) | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |  |
-| [Rimil](Rimil.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
-| [Rook Rethige](Rook_Rethige.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | None | Speaks like a discord user |
+| [Polis](Polis.md) | Unaligned | Etris | Gives a free Gold Ring and teaches Jus Karita. | 40 LHT is required to learn Jus Karita. |
+| [Prentis](Prentis.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Hating on [The Guy](The_Guy.md). |  |
+| [Mr. Quarters, Halfmaster](Mr._Quarters,_Halfmaster.md) | Orlandeau's Crew | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None. | There is no such thing as a Halfmaster. |
+| [Rabanastre](Rabanastre.md) | Unaligned | [Nest Corridor](Nest_Corridor.md) | Throws the player into the Nest Corridor, prompting them to sprint across with onslaughts of Bounders. | After throwing the player into the Nest Corridor twice, any other encounters will instantly throw the player off the cliff. |
+| [Raphael](Raphael.md) | [The Ministry](The_Ministry.md) | [Varicosa District](Varicosa_District.md) | Starts the [Find Morning](Quests.md#find-morning) Quest. | The quest is still in development. |
+| [Regarde](Regarde.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Sparring instructor at hive. |  |
+| [Regek](Regek.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. | Gives info on The Hives attempt to escape the waves and build a new world. |
+| [Renau](Renau.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | Gives some info on the Ignition Union team that can be found in [The Frontier Furnace](The_Frontier_Furnace.md). |  |
+| [Rimil](Rimil.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants a [Quest](Quests.md) to kill a player in the [Starswept Valley](The_Starswept_Valley.md). Upon completion it rewards positive Ministry reputation, EXP, and [Notes](Notes.md). | The Quest is repeatable. |
+| [Rook Rethige](Rook_Rethige.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Sells [Whaling Knives](Whaling_Knife.md) for 300 after asking [Raen](Raen.md) to help afford some equipment. | Sells the [Union Pager](Ignition_Delver.md), [Horn of Authority](Authority_Ensign.md#horn-of-authority), and [Call of the Deep](Deepbound.md#call-of-the-deep) for 20 if the player has the [Two-Faced](Regalia.md#two-faced) Regalia. |
 | [Saffron](Saffron.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |
-| [Samael](Samael.md) | Starkindred Faithful | [Derelict Highchurch](Derelict_Highchurch.md) | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
+| [Samael](Samael.md) | The Starkindred Faith | [Derelict Highchurch](Derelict_Highchurch.md) | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
 | [Sentinel](Sentinel.md) | Unknown | [Etris](Etris.md) | Blocks the door to the house with the shadow hunter blueprint and moves aside when spoken to | Spawns in occasionally with another npc that is in the house named Khan |
 | [Scope](Scope.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
-| [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Grants [Repair Kit](Repair_Kit.md) recipe |  |
-| [Serendi](Serendi.md) | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
-| [Sev](Sev.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sells dye for crowns. |  |
-| [Sibex](Sibex.md) | Unaligned | [The Aratel Sea](The_Aratel_Sea.md) ontop of a Statue on the islands infront of [Starswept Valley](The_Starswept_Valley.md) | Tells you how close you are to unlocking your [Resonance](Resonance.md) and what method is best to unlock it. |  |
-| [Sierra](Sierra.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Hating on The Guy |  |
-| [Sordino](Sordino.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Sells a Thresher mount |  |
-| [The Stranger](Quiet_Stranger.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant [Murmur: Tacet](Murmur%253A_Tacet.md) to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
-| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements |  |
+| [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Sells starter equipment. | Unique dialogue when a [Etris: Siege](Cinders_of_Etris.md) is approaching. |
+| [Serendi](Serendi.md) | Orlandeau's Crew | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
+| [Sev](Sev.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sells [Dye Packet](Dye_Packet.md) and the [Manycolored Equipment](Sev.md#shop) for crowns. |  |
+| [Sibex](Sibex.md) | Unaligned | [The Aratel Sea](The_Aratel_Sea.md), on edges of [The Starswept Valley](The_Starswept_Valley.md) | Listens to the players Soul to give info on how close they are to unlocking their [Resonance](Resonance.md) and what method is best to unlock it. |  |
+| [Sierra](Sierra.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Part of a team mission sent by the Summer Company. | Hates on [The Guy](The_Guy.md). |
+| [Sordino](Sordino.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Sells a [Thresher Mount](Mounts.md) for [Crowns](Crowns.md). | Gives info on [Vows of Companionship](Vows.md). |
+| [Quiet Stranger](Quiet_Stranger.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Grants [Murmur: Tacet](Murmur%253A_Tacet.md) to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
+| [Stratos](Stratos.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements |  |
 | [Sunway](Sunway.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | He explains how parasites work |  |
 | [Surge](Surge.md) | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
 | [Suri](Suri.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |
-| [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |  |
-| [Theadre](Theadre.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, aspect and weapon equipped |
-| [Trenti](Trenti.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), inn | Provides information to new players |  |
-| [Trig](Trig.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
-| [Valikor](Valikor.md) | [The Kingdom of Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
+| [Suyuan](Suyuan.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |  |
+| [Theadre](Theadre.md) | [Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, aspect and weapon equipped |
+| [Trenti](Trenti.md) | [Etrea](Etrea.md) | [Etris](Etris.md) Inn | Provides information to new players. | Different dialogue depending on [Origin](Origins.md). |
+| [Trig](Trig.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](Talents.md#gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
+| [Valikor](Valikor.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
 | [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style |  |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
 | [Voidmother](The_Voidmother.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Sends you out of Voidheart |  |

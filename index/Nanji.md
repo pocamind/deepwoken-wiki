@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 170330
+revid: 171782
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -138,6 +138,8 @@ Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) 
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Trivia
 

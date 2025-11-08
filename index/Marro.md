@@ -1,6 +1,6 @@
 ---
 title: Marro
-revid: 169150
+revid: 171802
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -101,7 +101,7 @@ This dialogue is unlocked if the player has spoken to [Lake](Lake.md).
   <td colspan="12">Was it your community that Lake spoke to?</td>
 </tr>
 <tr>
-  <td colspan="12"><i>He breaks into a guffaw, grinning.*</i> That one won't survive a minute out here - I'm convinced she believes this it the <a href="Glossary.md#the-lullably-isles">Lullably Isles</a>, and that she's only a five minute walk from home. Don't think she really gets that she ain't seeing that family of hers again - they <i>don't</i> let people back in, unless your leave is sanctioned by the Faith, y'know?. And she didn't take nicely to us trying to help her out, either. But... I mean, not every Chrysid adapts well to the outside world. She's definitely that sort.</td>
+  <td colspan="12"><i>He breaks into a guffaw, grinning.*</i> That one won't survive a minute out here - I'm convinced she believes this is the <a href="Glossary.md#the-lullably-isles">Lullably Isles</a>, and that she's only a five minute walk from home. Don't think she really gets that she ain't seeing that family of hers again - they <i>don't</i> let people back in, unless your leave is sanctioned by the Faith, y'know?. And she didn't take nicely to us trying to help her out, either. But... I mean, not every Chrysid adapts well to the outside world. She's definitely that sort.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

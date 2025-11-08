@@ -1,6 +1,6 @@
 ---
 title: Seroth
-revid: 171342
+revid: 171785
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -37,15 +37,15 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
   <td colspan="16">Begin</td>
 </tr>
 <tr>
-  <td colspan="16"><i>*The man startles almost dropping a small vial of dried blood*</i> Wh- you arent supposed to be here - ahem - Official Guard business - nothing you need to trouble yourself with pathfinder.</td>
+  <td colspan="16"><i>*The man startles almost dropping a small vial of dried blood*</i> Wh- you arent supposed to be here -- ahem! Official Guard business. Nothing you need to trouble yourself with, <a href="Glossary.md#pathfinders">Pathfinder</a>!.</td>
 </tr>
 <tr>
   <td colspan="8">Guard business? In here?</td>
   <td colspan="8">You look... jumpy</td>
 </tr>
 <tr>
-  <td colspan="8">Yes. Guard business. Royal Etrean Guard blood... analysis.. very delicate-you wouldnt understand obviously,just move along.</td>
-  <td colspan="8">Jumpy?! Hah no, I'm focused, I have an eye for the tiniest splatter, details you couldnt dream of grasping. Now kindly stop breathing down my neck.</td>
+  <td colspan="8">Yes. Guard business. Royal Etrean Guard blood... analysis.. Very delicate - you wouldn't understand obviously, just move along.</td>
+  <td colspan="8">Jumpy?! Hah, no, I'm focused. I have an eye for the tiniest splatter, details you couldnt dream of grasping. Now, kindly stop breathing down my neck.</td>
 </tr>
 <tr>
   <td colspan="4">Not until you tell me what youre doing</td>
@@ -54,8 +54,8 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
   <td colspan="4">Alright alright</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*Seroth fumbles glancing at the corpse beside him*</i> W-what Im doing is beyond your clearance civilian, tell you what-here... take this and disappear hm.</td>
-  <td colspan="4">Good, then we understand eachother, still, if it keeps you quiet.. here, take this and be gone</td>
+  <td colspan="4"><i>*Seroth fumbles glancing at the corpse beside him.*</i> W-what Im doing is beyond your clearance, civilian, tell you what - here... Take this and disappear, hm?</td>
+  <td colspan="4">Good, then we understand each other. Still, if it keeps you quiet.. Here, take this and be gone.</td>
   <td colspan="4">[See first instance]</td>
   <td colspan="4">[See "Relax I was just asking"]</td>
 </tr>
@@ -66,8 +66,8 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
   <td colspan="2">Fine hand it over</td>
 </tr>
 <tr>
-  <td colspan="2">A worthless lump of scrap from what looks to be his old weapon, nothing of consequence to me, though some grubby pawnbroker might toss you coin for it. Take it.</td>
-  <td colspan="2"><i>*Seroth shoves the brittle fragments in your hands wiping his gloves as though the thing disgusts him* Pawn it toss it I dont care.. just leave me to my work.</i></td>
+  <td colspan="2">A worthless lump of scrap from what looks to be his old weapon - nothing of consequence to me. Though, some grubby pawnbroker might toss you coin for it. Take it.</td>
+  <td colspan="2"><i>*Seroth shoves the brittle fragments in your hands, wiping his gloves as though the thing disgusts him.*</i> Pawn it toss it I don't care.. Just leave me to my work.</td>
   <td colspan="4">[See first instance]</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 170898
+revid: 171821
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Hallowtide]
@@ -37,7 +37,7 @@ The Goodie Bag is a consumable [Relic](Relics.md) that on use will grant the use
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="A_Light_In_The_Sky.md">A Light In The Sky</a>.</li>
-    <li><a href="Food.md">Food</a>: <a href="Candy.md">Candy</a> (all variants), <a href="Toffee.md">Toffee</a> (all variants), <a href="Candy_Suncorn.md">Candy Suncorn</a>.</li>
+    <li><a href="Food.md">Food</a>: <a href="Candy.md">Candy</a> (all variants), <a href="Toffee.md">Toffee</a> (all variants), <a href="Candy_Suncorn.md">Candy Suncorn</a>, <a href="Pumpkin.md">Pumpkin</a>.</li>
     <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a> (1), <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Nocturnal_Gem.md">Nocturnal Gem</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
   </ul></td>
 </tr>

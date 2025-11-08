@@ -1,6 +1,6 @@
 ---
 title: Legion Intelligence
-revid: 155079
+revid: 171801
 source: https://deepwoken.fandom.com/wiki/Legion_Intelligence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item]
@@ -22,3 +22,5 @@ categories: [Items, Quest Item]
 The Legion Intelligence is a quest item obtained from [Caitus](Caitus.md). It is required for the obtainment of the [Imperium Kata](Imperium_Kata.md) fighting style. which can be done through defeating [Titus](Titus_Fulminus_Destellus.md) inside the [Detainment Core](Merit_Detainment_Core.md).
 
 Upon defeating Titus, the Legion Intelligence will become [readable](Books.md#legion-intelligence).
+
+The letters contents. (im sure theres a better place on the page for this)

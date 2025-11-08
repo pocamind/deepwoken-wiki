@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 171728
+revid: 171816
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -31,12 +31,17 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 
 ## Description
 
-Moppet is a [Light Weapon](Weapons.md) in the dagger category. This voodoo doll takes the appearance of your opponent when it hits them, storing the damage you deal with your M1s.
+Moppet is a [Light Weapon](Weapons.md) in the dagger category. It deals no damage on M1, instead it stores the damage you should've dealt with your M1s.
 
 ## Critical
 
-Your M1s do not deal damage directly, instead the damage they would have dealt is stored in the target. Upon using your critical, stab the voodoo doll, dealing all of the stored damage to the opponent at once.
+Your M1s do not deal damage directly, instead the damage they would have dealt is stored in the target. Upon using your critical, stab the doll, dealing all of the stored damage to the opponent at once.
 
 This critical has a **3 second** cooldown.
 
-This is very similar to the [Poser's Ring](<Poser's_Ring.md>) in function. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This is similar to the [Poser's Ring](<Poser's_Ring.md>) in function. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Trivia
+
+-   This weapon is likely based on the concept of voodoo dolls.
+-   The appearance of the effigy changes based on the appearance of the target you last hit with an M1.

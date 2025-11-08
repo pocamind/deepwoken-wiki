@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 168334
+revid: 171781
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]

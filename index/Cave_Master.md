@@ -1,6 +1,6 @@
 ---
 title: Cave Master
-revid: 166776
+revid: 171788
 source: https://deepwoken.fandom.com/wiki/Cave_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -27,23 +27,6 @@ Theres another Cave Master named [Den Master](Den_Master.md) in [Etris](Etris.md
 ## Location
 
 Cave Master is located in [Isle of Vigils](Isle_of_Vigils.md), his cave is located beside the barber and infront of [Well-kept Gravestone](Well-kept_Gravestone.md).
-
-## Dialogue
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td><i>*Yawn.*</i> What's that? Y'here to buy somethin'? I'm tryin' to keep a low profile, so be quick about it.<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
 
 ## Shop
 
@@ -87,6 +70,23 @@ Fruits of the Cave
 <tr>
   <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td><i>*Yawn.*</i> What's that? Y'here to buy somethin'? I'm tryin' to keep a low profile, so be quick about it.<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
