@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 171187
+revid: 171671
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 169324
+revid: 171701
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -54,7 +54,7 @@ In order of carry load given:
 -   _Strong Stern_ gives 9 carry load.
 -   _Strong Hold_ gives 9 carry load.
 -   _Concussive Flash_ gives 10 carry load.
--   _Berserker_ gives 10 carry load.
+-   _Brassneck_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
 
 All of these [Talents](Talents.md) combined would theoretically provide 191 carry load.

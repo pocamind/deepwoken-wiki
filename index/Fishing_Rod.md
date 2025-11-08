@@ -1,6 +1,6 @@
 ---
 title: Fishing Rod
-revid: 153675
+revid: 171693
 source: https://deepwoken.fandom.com/wiki/Fishing_Rod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -24,7 +24,7 @@ The **Fishing Rod** is a tool used to cast lines into most bodies of water for f
 The Fishing Rod can be obtained in a few ways:
 
 -   Bought for 30 or 35 depending on the vendor.
--   Crafting with two (2) [Sticks](Stick.md) and one (1) [Fiber](Fiber.md) at a [Crafting Station](Crafting_Station.md).
+-   Crafting with two (2) [Sticks](Stick.md) and one (1) [Fiber](Fiber.md).
 
 ## Uses
 

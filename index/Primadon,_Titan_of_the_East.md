@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 171179
+revid: 171680
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -67,15 +67,15 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 
 _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)._
 
-| Name | Description | Media |
-| --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 **Stomp**  
 (★☆☆)
 
  | Primadon raises its **right** foot and stomps once.
 
- |  |
+ |
 | 
 
 **Trample**  
@@ -83,7 +83,7 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
  | Primadon performs 3 quick stomps with its **left** foot.
 
- |  |
+ |
 | 
 
 **Punch**  
@@ -93,7 +93,7 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 -   Only used against players that are in front of him but not near his legs.
 
- |  |
+ |
 | 
 
 **Kick**  
@@ -104,7 +104,7 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 -   If close enough to a wall, Daze upon impact.
 -   If the enemy is above his waist, he will instead swat away the enemy, dealing an incredibly hard to react punch version of the kick.
 
- |  |
+ |
 | 
 
 **Grab**  

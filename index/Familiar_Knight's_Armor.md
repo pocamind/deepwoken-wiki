@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 171137
+revid: 171723
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -20,6 +20,7 @@ categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
 | durability | 3500 |
 | resistances | +30% Physical Armor, +40% Elemental Armor |
 | buffs | +10% Ether Regen |
+| talents | Hyperbody |
 | obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '24 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
 | selling_price | 10 |
 | weight | 1 |
@@ -38,7 +39,9 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical Armor, 40% Elemental Armor, and 10% Ether Regen.
+This Outfit has 3500 durability and grants +30% Physical Armor, 40% Elemental Armor, and 10% Ether Regen. Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed while equipped.
+
+The [Hyperbody](Talents.md#hyperbody) Talent apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff it with. This has a 2 minute cooldown. The speed buff is considered a speed boost for Talent effects.
 
 ## Trivia/Notes
 

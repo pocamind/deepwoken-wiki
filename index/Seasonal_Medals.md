@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 171177
+revid: 171732
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -56,6 +56,14 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
     -   [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) \[3 Knowledge\]
     -   [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) \[3 Knowledge\]
 
+-   **Hallowtide '25 Medal**: Allows you to craft _most_ [Hallowtide](Hallowtide.md)\-exclusive items released during 2025.
+    -   [The Weaving Web](The_Weaving_Web.md) \[7 Knowledge\]
+    -   [Smouldering Hallow](Smouldering_Hallow.md) \[7 Knowledge\]
+    -   [Moppet](Moppet.md) \[7 Knowledge\]
+    -   [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) \[3 Knowledge\]
+    -   [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) \[3 Knowledge\]
+    -   [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) \[3 Knowledge\]
+
 ### Festival of a Billion Souls
 
 To celebrate Deepwoken reaching 1 Billion visits on Roblox, the [**Festival of a Billion Souls**](Festival_of_a_Billion_Souls.md) event was released, and anyone who joined the game during event will automatically unlock this medal. More information can be found on its respective page.
@@ -70,4 +78,5 @@ To celebrate Shrine of Order no longer granting an additional flaw, the [Orderge
 
 ## Trivia
 
--   During 2022's [Hallowtide](Hallowtide.md), there were no medals to purchase. The Hallowtide '22 Medal was only purchasable during 2023's [Hallowtide](Hallowtide.md), as well has Hallowtide of 2024
+-   During 2022's [Hallowtide](Hallowtide.md), there were no medals to purchase. The Hallowtide '22 Medal was only purchasable during 2023's [Hallowtide](Hallowtide.md) and all future Hallowtides after that.
+-   Notably, the [Goodie Bag](Goodie_Bag.md) and all exclusive items it contains ([Candy](Candy.md), [Candy Suncorn](Candy_Suncorn.md), [Toffee](Toffee.md), [Crawling Necktie](Crawling_Necktie.md), [Death's-Head Necktie](<Death's-Head_Necktie.md>), and the [Nocturnal Gem](Nocturnal_Gem.md)) were not included in the 2025 Hallowtide Medal despite releasing with that year's Hallowtide.

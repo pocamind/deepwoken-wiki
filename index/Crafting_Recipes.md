@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 168764
+revid: 171702
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -27,6 +27,7 @@ These are recipes that are not used to produce food or potions.
 -   [Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Rock](Ores.md#rock)_
 -   [Umbral Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
 -   [Bullets](Bullets.md) (20x) - _1 [Iron](Ores.md#iron)_
+-   [Fishing Rod](Fishing_Rod.md) - _2 [Stick](Stick.md), 1 [Fiber](Fiber.md)_.
 -   [Chum](Chum.md) - _2 [Fish Meat](Fish_Meat.md) / 2 [Crustacean Meat](Crustacean_Meat.md) / 1 [Pufferfish](Fishing.md)_
 -   [Monster Bait](Monster_Bait.md) - (Can be obtained from [Mortus](Mortus.md)) 2/3 _[Chum](Chum.md)_
 -   [Void Feather](Dark_Feather.md#void-feather) - _3 [Dark Feathers](Dark_Feather.md), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
@@ -45,7 +46,6 @@ Picture of a Crafting Bench
 -   [Sharkscale Glider](Gliders.md) - _2 [Sticks](Stick.md), 2 [Megalodaunt Hide](Megalodaunt_Hide.md)_.
 -   [Lumber Axe](Lumber_Axe.md) - _2 [Wood](Wood.md), 2 [Iron](Ores.md#iron)_.
 -   [Pickaxe](Pickaxe.md) - _2 [Wood](Wood.md), 2 [Iron](Ores.md#iron)_.
--   [Fishing Rod](Fishing_Rod.md) - _2 [Stick](Stick.md), 1 [Fiber](Fiber.md)_.
 -   [Repair Kit](Repair_Kit.md) - _3 [Iron](Ores.md#iron), 2 [Wood](Wood.md)_.
 -   [Iron Bomb](Iron_Bomb.md) (requires the [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) - _2 [Iron](Ores.md#iron), 1 [Coal](Ores.md#coal)_.
 -   **Flask of Strength** - _2 [Hellfire Lotus](Primordial_Lotuses.md#hellfire-lotus)_.
@@ -54,8 +54,8 @@ Picture of a Crafting Bench
 -   **Flask of Intelligence** - _2 [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus)_.
 -   **Flask of Willpower** - _2 [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus)_.
 -   **Flask of Charisma** - _2 [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus)_.
--   [Pathfinder Lantern](Pathfinder_Lantern.md) - _1 [Dying Embers](Dying_Embers.md), 1 [Iron](Ores.md#iron), 1 [Fiber](Fiber.md)_.
--   [Delver Boots](Delver_Boots.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or [Master Craftsman](Talents.md#artisan) Talent) - _[Leather Boots](Leather_Boots.md), 2 [Galewax](Galewax.md), 2 [Umbrite](Ores.md#umbrite)_.
+-   [Pathfinder Lantern](Pathfinder_Lantern.md) - _1 [Dying Embers](Dying_Embers.md) or [Spark Gland](Spark_Gland.md), 1 [Iron](Ores.md#iron), 1 [Fiber](Fiber.md)_.
+-   [Delver Boots](Delver_Boots.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or [Master Craftsman](Talents.md#master-craftsman) Talent) - _[Leather Boots](Leather_Boots.md), 2 [Galewax](Galewax.md), 2 [Umbrite](Ores.md#umbrite)_.
 -   [Wormwarder Lantern](Wormwarder_Lantern.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 [Galewax](Galewax.md), 4 [Irithine](Ores.md#irithine), 4 [Spark Gland](Spark_Gland.md)_.
 -   [Vortex Echo](Vortex_Echo.md) - _[Kyrsan Schematic](Kyrsan_Schematic.md), [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md)_
 -   [Candle](Candle.md) - 1 _[Fiber](Fiber.md) 1 [Beeswax](Beeswax.md)_.

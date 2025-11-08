@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 171648
+revid: 171740
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1842,7 +1842,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The surnames of Ganymede and Vesperian are the same, only with different suffixes (-e and -i).
     -   This hints at the two species being of the same genetic origin, and is confirmed by the Ganymede model under the vesperian mask (viewable through clipping).
 -   The surnames of Felinors are, of course, relating to cat species.
--   The name "Olie" could be a reference to 'Olieware, whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
+-   The names "Omar" and "Olie" are references to community members omar\_io and Olieware respectfully, the latter of whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The name Dante is a reference to Vergil's brother and the main character of Devil May Cry.
 -   The names "Usopp", "Luffy" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
@@ -1860,9 +1860,13 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
 -   The names "Zote", "Ogrim" and "Isma" are a reference to the indie game _[Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)_ by Team Cherry.
 -   The name "Link" is a reference to - [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
--   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" are likely in reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>).
--   "Roland" and "Argalia" are likely in reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato).
--   Many names are derived from classic literature. Faust is from [Goethe's Faust](https://en.wikipedia.org/wiki/Goethe%27s_Faust) _(which is based on a [German folktale](https://en.wikipedia.org/wiki/Faust)),_ Ishmael and Ahab are from [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick), Heathcliff and Catherine are from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) and Gregor is from [The Metamorphosis.](https://en.wikipedia.org/wiki/The_Metamorphosis)
+-   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
+    -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
+    -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
+    -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
+    -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
+-   Additionally, the names "Faust", "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are likely references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina. (Yet no Don Quixote.. or at least Quixote...)_
+    -   These names, like most from Limbus Company, are derived from classic literature. Faust is from [Goethe's Faust](https://en.wikipedia.org/wiki/Goethe%27s_Faust) _(which is based on a [German folktale](https://en.wikipedia.org/wiki/Faust)),_ Ishmael and Ahab are from [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick), Heathcliff and Catherine are from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) and Gregor is from [The Metamorphosis.](https://en.wikipedia.org/wiki/The_Metamorphosis)
     -   Faust may be an exception due to said name existing since release, unlike the others mentioned from above, and is a commonly used name in real life.
 -   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
 -   The names "Luka", "Yugo" and "Faris" could be references to _[Steins; Gate](https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki)_.

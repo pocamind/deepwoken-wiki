@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 170966
+revid: 171720
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -19,12 +19,7 @@ Character attributes will permanently be unbounded if you have previously done t
 ### Strength Unbound
 
 1.  Reach 75 Strength.
-2.  Enter the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
-3.  Open the hidden door behind the fallen pylon. Can be achieved with Strong Left or any similar skill that can break down rock doors.
-4.  Use Strong Left on the coffin in the room, and then climb down the ladder within.
-5.  Read the book on the ground, and Strength Unbound will be granted.
-
-_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=O8XC5zqrUPI&feature=youtu.be)._
+2.  (they have changed this as of recently)
 
 ### Fortitude Unbound
 

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 168718
+revid: 171686
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso]
@@ -21,14 +21,14 @@ categories: [Items, Equipment, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Crafting:, (1) Dying Ember, (1) Iron, (1) Fiber |
+| obtainment | Chests from:, Lower Erisia, Crafting:, (1) Dying Ember or Spark Gland, (1) Iron, (1) Fiber |
 | description | A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost. |
 
 ## Description
 
 The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" category. It can be crafted on the [Crafting Station](Crafting_Station.md) using the following materials:
 
--   (1) [Dying Ember](Dying_Embers.md)
+-   (1) [Dying Ember](Dying_Embers.md) or [Spark Gland](Spark_Gland.md)
 -   (1) [Iron](Ores.md#iron)
 -   (1) [Fiber](Fiber.md)
 

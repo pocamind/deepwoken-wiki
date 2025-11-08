@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 171584
+revid: 171747
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Items]
@@ -27,12 +27,13 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md).
 -   Strange Missives: [Greathive Aratel](Greathive_Aratel.md).
 
-Some books are part of specific quests, and thus cannot be obtained multiple times on a character. Such books include:
+Some books are part of specific quests or are physically in the world, and thus cannot be obtained multiple times on a character. Such books include:
 
 -   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md).
 -   Diver Journal, I/II/III: [Second Layer](Second_Layer.md).
 -   Legion Intelligence: Talking to [Caitus](Caitus.md).
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
+-   Jericho's Journal: [Fort Merit](Fort_Merit.md).
 
   
 
@@ -186,7 +187,7 @@ Coldheart's Journal
 > I couldn't just as well walk up to a Prophet now, could I?  
 > He did a lot in getting me that recommendation, but... You never liked those sorts did you?  
 > But that witch didn't get it either. Not that she would. Liars sink furthest.  
-> Their souls are heavier. Burdened by all the lies they're keeping up. So when they Drown...  
+> Their souls are heavier. Burdened by all the lies they're keeping up. So when they [Drown...](Glossary.md#the-drowning)  
 > She told me enough. There's much she doesn't understand about this art.  
 > There are many metals within the human body. Within blood, too.  
 > You're finally cold enough. But that's not enough, is it?  
@@ -235,7 +236,7 @@ Coldheart's Journal
 > How to breathe true life - a soul, you keep saying - into a blade.  
 > It can't be done. Not here. We drown too readily.  
 > Pry a soul free of its vessel and it drops like a stone.  
-> Maybe in the Old World they did it. Maybe out there all those ruins.  
+> Maybe in the [Old World](Glossary.md#the-old-world) they did it. Maybe out there all those ruins.  
 > But no. Everything's gone. It all came down here. They city. Celtor. The whole lot of it.  
 > Nothing remains. The surface has nothing for me.  
 > It never did.
@@ -309,6 +310,8 @@ Coldheart's Journal
 > i'm so sorry.  
 >   
 > i miss you so much
+
+  
 
 ### 
 
@@ -420,7 +423,7 @@ A Deathscribe's Journal
 > 
 > • Rhys Nemira
 > 
-> • Black Diver Selim (no surname? old Helsen says he was a solo agent with no fanuly. gild the name)
+> • [Black Diver](Glossary.md#black-divers) Selim (no surname? old Helsen says he was a solo agent with no fanuly. gild the name)
 > 
 > • Carol Palo
 > 
@@ -582,7 +585,7 @@ A Deathscribe's Journal
 > 
 > • Timur Dise
 > 
-> • Fox Palo ('fox', like the old world animal? i remember Scholar Tullius giving a public lecture on those. what else will they come up with next? am i going to be carving 'Horse Etudi' on the monument with the next batch of names? or maybe 'Thresher Tarsus' in a few years? groan)
+> • Fox Palo ('fox', like the [old world](Glossary.md#the-old-world) animal? i remember Scholar Tullius giving a public lecture on those. what else will they come up with next? am i going to be carving 'Horse Etudi' on the monument with the next batch of names? or maybe 'Thresher Tarsus' in a few years? groan)
 > 
 > • Andros Zeneke
 > 
@@ -616,7 +619,7 @@ A Deathscribe's Journal
 > 
 > • Gabbro Scarsen (black diver, gild the name)
 > 
-> note to self: ask old Helsen to teach the new apprentices how to work new monoliths into shape; we've got only a couple left in storage, and Song knows well fill its sides up with names soon enough. Uriel came back this week; i don't know what he's been doing on his time off, but he smells awful, like really bad and stagnant morning breath. Svarn's away on a depths work summons, apparently castle light had an emergency and needs extra hands for maintenance. and then young Helsen nicked her finger quite badly while working with a chisel, so she's out of commission for a week or so. there go the two people i could have a decent conversation with in this place during lunch, aside from whenever old Helsen graces me with his brief presence, once in a blue moonseye. lousy week!
+> note to self: ask old Helsen to teach the new apprentices how to work new monoliths into shape; we've got only a couple left in storage, and [Song](Glossary.md#the-song) knows well fill its sides up with names soon enough. Uriel came back this week; i don't know what he's been doing on his time off, but he smells awful, like really bad and stagnant morning breath. Svarn's away on a depths work summons, apparently castle light had an emergency and needs extra hands for maintenance. and then young Helsen nicked her finger quite badly while working with a chisel, so she's out of commission for a week or so. there go the two people i could have a decent conversation with in this place during lunch, aside from whenever old Helsen graces me with his brief presence, once in a blue [moonseye](Glossary.md#the-moonseye). lousy week!
 > 
 > also note to self: buy celebratory dinner for the memorial mason crew when you finish crossing out names in the old notebook!
 > 
@@ -720,7 +723,7 @@ A Deathscribe's Journal
 > 
 > • Joseph Theus - MIA
 > 
-> • Sophodon Surad (THIS ONE'S IMPORTANT! black diver, gilded name, two symbols of rank either side, add sub-heading - "Retired after 43 years of honourable service in the Black Divers' Division, turning down a promotion to the High Convocation of the Citadel of Markor." add motto "TO THE DEEPEST FATHOMS". oh my!!!)
+> • Sophodon Surad (THIS ONE'S IMPORTANT! black diver, gilded name, two symbols of rank either side, add sub-heading - "Retired after 43 years of honourable service in the [Black Divers'](Glossary.md#black-divers) Division, turning down a promotion to the [High Convocation](Glossary.md#the-high-convocation) of the [Citadel](Glossary.md#the-citadel-of-markor) of Markor." add motto "TO THE DEEPEST FATHOMS". oh my!!!)
 > 
 > • Romeo Janus (some luck, to be some random death right under \*a retirement name\*! good thing us memorial masons get our own individual carved monuments...)
 > 
@@ -742,7 +745,7 @@ A Deathscribe's Journal
 > 
 > • Kayla Rico (black diver, gild the name)
 > 
-> my my, it's been literal years since i've seen someone retire! didn't think old Surad was going to see the day, heard from old Helsen that the fellow's been getting on in years now. thought he'd have died either on the field, or of old age. figured he wouldn't become a convocant if he lasted this long, though. Svarn's not here today, i'll have to tell him all about it when he's back!
+> my my, it's been literal years since i've seen someone retire! didn't think old Surad was going to see the day, heard from old Helsen that the fellow's been getting on in years now. thought he'd have died either on the field, or of old age. figured he wouldn't become a [convocant](Glossary.md#the-high-convocation) if he lasted this long, though. Svarn's not here today, i'll have to tell him all about it when he's back!
 > 
 > running out of space on the notebook now. Will have to get a new one from young Helsen over at storage before old Helsen dumps more names on Uriel and i. who am i kidding, he Will be dumping them on \*me\* - Uriel's away somewhere, being useless as usual. which notebook is this? my fourth one this year? i'm losing track...
 
@@ -901,7 +904,7 @@ I hear the tides are beckoning and calling -
 "Turn to sea, and ne'er return again!"  
 Whispers the ocean to me a lullaby, secretive and slow -  
 "Pray the Ferryman never takes your soul  
-To the Depths below..."  
+To the [Depths](Glossary.md#the-depths) below..."  
   
 Heave-ho, up-row, crossing the ocean slowly,  
 Crow's nest is signaling to us, 'nothing is out here, not a fuss!'  
@@ -912,7 +915,7 @@ I hear the tides still beckoning and calling -
 "Now you'll never see the shore again!"  
 Follow the wind and the gale, and perhaps we shall live to tell our tale,  
 Unless the Ferryman gently takes our souls  
-To the Depths below...  
+To the [Depths](Glossary.md#the-depths) below...  
   
 Heave-ho, up-row, piercing the sea-fog slowly,  
 No more the wind will kiss our sails, no more we'll ride on stormy gales.  
@@ -923,7 +926,9 @@ I hear my kin and comrades' distant calling,
 But I can never turn to shore again!  
 Lower my bones to the ocean and let them drift all alone and slow,  
 May the Ferryman gently take my soul  
-To the Depths below...
+To the [Depths](Glossary.md#the-depths) below...
+
+  
 
 ### 
 
@@ -937,7 +942,7 @@ from Vincent Zeneke's monograph cycle 'Songs of the Sea'
    
 We're masters of the oceans wide,  
 Custodians of relentless tide!  
-For the Authority we fight -  
+For the [Authority](Glossary.md#the-central-authority) we fight -  
 Within this dark a blazing light.  
   
 Hurrah, hurrah, three cheers for the cause!  
@@ -957,17 +962,19 @@ For the many, the few, the big, the small -
 We would give our lives for the cause!  
 We would give our lives for the cause!  
 
-> The Gideshu March is a popular marching song of the Central Authority - the iron-fisted guardians of the Central Luminant. Written in the year 1227 CE by August Gideshu, an Authority officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the Authority's unofficial anthem - though the Authority elites' stance on this is not entirely clear.
+> The Gideshu March is a popular marching song of the [Central Authority](Glossary.md#the-central-authority) - the iron-fisted guardians of the [Central Luminant](Glossary.md#the-central-luminant). Written in the year 1227 CE by August Gideshu, an [Authority](Glossary.md#the-central-authority) officer, the march quickly became popular among the rank and file soldiers, with many regiments choosing the song as their marching tune. Some even consider it to be the [Authority's](Glossary.md#the-central-authority) unofficial anthem - though the [Authority](Glossary.md#the-central-authority) elites' stance on this is not entirely clear.
 > 
-> Not much is known about First Lieutenant August Gideshu, the author of the song, himself. Supposedly an Adretian in origin, his unusual surname seems to indicate an older lineage, likely one reaching back to the Pre-Tidal epochs, when the Adretian peoples were contained within their mountain homelands, squabbling as scattered tribes. The Gideshu family name appears several times in various historical Authority records, though never in a rank higher than First Lieutenant.
+> Not much is known about First Lieutenant August Gideshu, the author of the song, himself. Supposedly an Adretian in origin, his unusual surname seems to indicate an older lineage, likely one reaching back to the Pre-Tidal epochs, when the Adretian peoples were contained within their mountain homelands, squabbling as scattered tribes. The Gideshu family name appears several times in various historical [Authority](Glossary.md#the-central-authority) records, though never in a rank higher than First Lieutenant.
 > 
-> Authority records indicate that August Gideshu served aboard the Central Authority Sailing-Ship (or CASS) 'Zephyr', under Captain Hector Corbet. Little else is known about this ship's crew or specifications, aside from the fact that it served in the Eastern Luminant, and experienced several clashes involving the Etrean Navy, in which they emerged victorious. Gideshu himself is noted as having distinguished himself in one battle by bolstering crew morale during an Etrean boarding - possibly by starting to sing the eponymous march, suggesting his fellow crew were familiar with his penmanship.
+> [Authority](Glossary.md#the-central-authority) records indicate that August Gideshu served aboard the [Central Authority](Glossary.md#the-central-authority) Sailing-Ship (or CASS) 'Zephyr', under Captain Hector Corbet. Little else is known about this ship's crew or specifications, aside from the fact that it served in the [Eastern Luminant](Glossary.md#the-eastern-luminant), and experienced several clashes involving the Etrean Navy, in which they emerged victorious. Gideshu himself is noted as having distinguished himself in one battle by bolstering crew morale during an Etrean boarding - possibly by starting to sing the eponymous march, suggesting his fellow crew were familiar with his penmanship.
 > 
-> It is believed August Gideshu may have penned several more songs during his service aboard the CASS 'Zephyr', though any potential copies of the written texts have not survived to reach our time. Indeed, a substantial trove of records kept by the crew was lost when the ship ran aground in the outskirts of the Starswept Valley, whereupon the Authority force was ambushed by a unit of the Hundred Legions.
+> It is believed August Gideshu may have penned several more songs during his service aboard the CASS 'Zephyr', though any potential copies of the written texts have not survived to reach our time. Indeed, a substantial trove of records kept by the crew was lost when the ship ran aground in the outskirts of the Starswept Valley, whereupon the [Authority](Glossary.md#the-central-authority) force was ambushed by a unit of the Hundred Legions.
 > 
 > August Gideshu's fate remains uncertain, but official records note the crew were 'thoroughly defeated'. The CASS 'Zephyr' was subsequently captured, looted, stripped for parts, and wholly destroyed.
 > 
-> I would like to thank Alloras Munet, a Central Authority navy recordkeeper, for allowing me access to certain relevant texts kept within Authority archives. This monograph would not have been possible without their invaluable help.
+> I would like to thank Alloras Munet, a [Central Authority](Glossary.md#the-central-authority) navy recordkeeper, for allowing me access to certain relevant texts kept within [Authority](Glossary.md#the-central-authority) archives. This monograph would not have been possible without their invaluable help.
+
+  
 
 ### 
 
@@ -1079,7 +1086,25 @@ Shoulder to shoulder, together, tall!
 > 
 > Of interest to present day scholars is the emergence of this song in the context of the Union's identity - similarly to the Central Authority, the Ignition Union is also a boiling pot of ethnicities and cultures. Unlike the Central Authority, however, the Union's identity is not defined wholly by internal hierarchy, lingering military traditions, and loyalty to power. Instead, it is rooted in the solidarity of toil - a sense of kinship among those working for the same goal.
 
-  
+### 
+
+Jericho's Journal
+
+> I'm torn. Torn between my position - the torch passed to me - and the [Vows](Glossary.md#vows) I have made.
+> 
+> I am but one, but I stretch myself paper-thin. Perhaps I must accept that things are out of my hands now.
+> 
+> My hearts twists knowing that the people of this land will soon be casualties in a war beyond their reckoning. A war we could have stopped.
+> 
+> The strings that bind this land, and the hand that moves them. They belong to that _thing_ that deigns to call itself a Lord.
+> 
+> We, the Circle, have failed. Zi'eer has resurfaced. How short-sighted we must be, for it was in the arms of our old enemy that we found him. Surely now, the Contractors must be gathering in their ranks.
+> 
+> And in our lack of vision, the machines we swore to hold in checks now move beyond us, set now upon the tracks laid by the Prophets.
+> 
+> All we can do now is struggle - see how far we can jam our limbs into the spokes of the war engine before they break us too.
+> 
+> Failing that, we must make good on the vengeances owed to us. Or there can be no honour.
 
 ### 
 
@@ -1576,25 +1601,25 @@ Neatly Embelished Notebook
 > 
 > \------------
 > 
-> \- Week's s'pply of rations for the j'rney. Moonseye knows how long it'll take. - Make sure Konrad r'quests his new unif'rm upon arrival. He will forget. - Counsell doc'ments. MAKE SURE THEY'RE ORGANISED. Liviu has the right crates and bindings. Ens're the job is done. - Have the rest pr'pare the cargo at LEAST two days b'fore. We will not be forg'tting half our doc'ments again like last year. - Aud'ence with our Confessor. Perhaps He will let us in to speak with her this time.
+> \- Week's s'pply of rations for the j'rney. [Moonseye](Glossary.md#the-moonseye) knows how long it'll take. - Make sure Konrad r'quests his new unif'rm upon arrival. He will forget. - [Counsell](Glossary.md#the-counsell) doc'ments. MAKE SURE THEY'RE ORGANISED. Liviu has the right crates and bindings. Ens're the job is done. - Have the rest pr'pare the cargo at LEAST two days b'fore. We will not be forg'tting half our doc'ments again like last year. - Aud'ence with our [Confessor](Glossary.md#the-lady-confessor). Perhaps He will let us in to speak with her this time.
 > 
 > Turning to the next page reveals a short diary entry, scribbled furiously.\]
 > 
 > \---
 > 
-> Not allow'd in. Again. Act'ng as if the Central Chamber is some exclus've little suite for Him and our Confessor only. OUR Confessor, Not his. Must be spectac'lar comp'ny, that damn'd sarcoph'gus. (Forgive me.) Counsell still trying t' appease me with some sec'nd-hand 'Good lucks' and 'May She prot'ct your j'rneys', but they know how much it'd mean to these new scholars t' receive her own pers'nal bless'ng b'fore this trip.
+> Not allow'd in. Again. Act'ng as if the Central Chamber is some exclus've little suite for Him and our [Confessor](Glossary.md#the-lady-confessor) only. OUR [Confessor](Glossary.md#the-lady-confessor), Not his. Must be spectac'lar comp'ny, that damn'd sarcoph'gus. (Forgive me.) Counsell still trying t' appease me with some sec'nd-hand 'Good lucks' and 'May She prot'ct your j'rneys', but they know how much it'd mean to these new scholars t' receive her own pers'nal bless'ng b'fore this trip.
 > 
 > Especially consid'ring that we're lik'ly to have those Author'ty terrors breath'ng down our necks. Those scholars don't ev'n have a clue that there's ev'n a risk of our ship being pumm'lled by those barb'rous brutes as soon 's we leave the archipelago. They've no idea what an 'Author'ty is! W'ldn't it be nice to put th'm in a good mood? Instill th'm with good morale? No. Th' Vox refus's to see a soul.
 > 
-> Some oracle! Insists th' Confessor keeps her words f'r 'Nostri Eclipse or any oth'r grand ev'nt Moonseye's sake. He bar'ly even allows the Counsell in! They're flounder'ng without any substant'l decrees on the progress of th' Isles this year, but it seems the Vox is content with that. Or, well, it seems th' Confessor is content with that.
+> Some oracle! Insists th' [Confessor](Glossary.md#the-lady-confessor) keeps her words f'r 'Nostri Eclipse or any oth'r grand ev'nt where he can preach to her public. [Moonseye's](Glossary.md#the-moonseye) sake. He bar'ly even allows the [Counsell](Glossary.md#the-counsell) in! They're flounder'ng without any substant'l decrees on the progress of th' Isles this year, but it seems the Vox is content with that. Or, well, it seems th' [Confessor](Glossary.md#the-lady-confessor) is content with that.
 > 
 > I'm not sure wh'ch. Some oracle, hm? Perf'ct at whipp'ng up tired crowds at the end of their pilgr'mage, but not at deliv'r'ng the most import'nt of advices? Or when he does, it's some impassion'd and nonsens'cal garble on "Th' danger of her'tics!!
 > 
 > No! We need this year's harv'st dates, not paranoid rambling!
 > 
-> Gah! What mess. I can only pray our j'rney is uninterrupted. May th' Confessor prot'ct us, whether we hear it from her or not. From all this examination of our own past, th' Acolyte has always been entitled t' receive an aud'ence with the Confessor, and her Vox. And now it's all d'fferent. Everything's d'fferent.
+> Gah! What mess. I can only pray our j'rney is uninterrupted. May th' [Confessor](Glossary.md#the-lady-confessor) prot'ct us, whether we hear it from her or not. From all this examination of our own past, th' Acolyte has always been entitled t' receive an aud'ence with the [Confessor](Glossary.md#the-lady-confessor), and her Vox. And now it's all d'fferent. Everything's d'fferent.
 > 
-> I'm convinced s'mething's awry. With the Vox, that is - I daren't quest'n our Confessor, I pray th' Counsell checks on that man's tinn'd brain, or whatever's left behind that clamp of a mask. Or perhaps this is just th' Confessor's will, and we ought t' follow it. Perhaps time will just need to tell. I've my own probl'ms at hand.
+> I'm convinced s'mething's awry. With the Vox, that is - I daren't quest'n our [Confessor](Glossary.md#the-lady-confessor), I pray th' [Counsell](Glossary.md#the-counsell) checks on that man's tinn'd brain, or whatever's left behind that clamp of a mask. Or perhaps this is just th' [Confessor's](Glossary.md#the-lady-confessor) will, and we ought t' follow it. Perhaps time will just need to tell. I've my own probl'ms at hand.
 
   
 
@@ -2230,6 +2255,8 @@ Operation 'Distant Light' Report
 > > This may have happened over some generations - the mechanism of how Hereditary Vows are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the Vow’s terms naturally evolved to be more explicit in its inclusion of the animal traits.
 > > 
 > > If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
+> 
+>   
 > 
 > ## Trivia
 > 

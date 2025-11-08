@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 171625
+revid: 171721
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -550,7 +550,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Bladeharper
 
--   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+2 Combat Mantra Slot)
+-   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+3 Combat Mantra Slot)
     -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
@@ -3937,8 +3937,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Miscellaneous
 
--   Berserker \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
+-   Brassneck \[Common Talent\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
+    -   This Talent was previously named "Berserker."
     -   Prerequisites: 35 Fortitude, 30 Strength
         -   The arms equipment "[Enforcer Plate](Enforcer_Plate.md)" has this Talent.
 
@@ -4079,9 +4080,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.
-    -   This deals 5 **typeless** damage per Chain of Perfection stack. Deals 118 **typeless** damage per Chain of Perfection stack in PvE.
+    -   This deals 7 **typeless** damage per Chain of Perfection stack. Deals 166 **typeless** damage per Chain of Perfection stack in PvE.
+    -   The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 150 typless PvP damage or 3.5k typeless PvE damage at maximum chain stacks.
     -   The damage this deals can be increased with damage modifiers, though it is not considered weapon damage so it is fairly difficult to buff.
-    -   The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 120 typless PvP damage or 2.8k typeless PvE damage at maximum chain stacks.
     -   Finishing Slay has no cooldown, allowing for multihit criticals to benefit from it multiple times. However, finishing slay can only proc once per damage instance in a critical hit, for example if you hit three targets with your critical, Finishing Slay will only proc on one of them, and the other two will not take any additional damage.
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
@@ -4095,7 +4096,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   The speed boost has no cap and is applied **per M1**. For example, if you land 5 m1s and are combat tagged by 5 people, you will gain +250% speed. Each speed boost stack lasts 5 seconds and does not refresh upon acquiring another. Additionally, being hit by an attack will also proc this bonus.
 
 -   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
-    -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 4 seconds, making your critical guaranteed guardbreak if it hits block.
+    -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 15 seconds, making your critical guaranteed guardbreak if it hits block.
+    -   The Punishing Riposte status effect lasts 15 seconds, though the Talent's description was never updated.
 
 -   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.
     -   Reduces the cooldown of Tactical Reload by 45 seconds; from 90 seconds to 45.
@@ -4251,6 +4253,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - You have a slightly larger dodge window.
     -   Your dodge window is increased by 0.05s.
 
+-   Hyperbody: [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) - Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it. \[2 min CD\]
+    -   Grants a Talent tool that applies buffs to yourself and allies.
+    -   The speed buff is counted as a speed boost, allowing you to proc Talents like Speed Demon.
+
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
     -   This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.
 
@@ -4348,6 +4354,12 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Simmerbloom: [Simmerbloom Diadem](Simmerbloom_Diadem.md) - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
+
+-   Soul Rip: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) - Kill a player to gain 2 runes. Activate a rune when using this talent, and gain immense physical power, defense, and infinite ether for 25 seconds. Beware its strenuous downside.
+    -   Killing a player will give you 2 Runes, and using this Talent's Talent tool will consume 1 Rune, granting you buffs in exchange.
+    -   Increases your damage by 50%, gives ?% damage reduction, and grants infinite Ether for 25 seconds, at the cost of passively, severely, slowing you for the same duration.
+    -   Additionally, once the buff wears off, one of your legs will break, removing your ability to sprint for 30 seconds.
+    -   Though not stated in the Talent's description, this also gives a speed boost for the full effect's duration. You'll still be at a net negative in terms of movement speed, but you'll be able to benefit from speed boost reliant Talents such as Speed Demon.
 
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
 

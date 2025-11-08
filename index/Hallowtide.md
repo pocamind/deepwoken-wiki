@@ -1,11 +1,9 @@
 ---
 title: Hallowtide
-revid: 170508
+revid: 171726
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Events, Hallowtide]
-notices:
-  - This page is currently being worked on. Info for Week 2 of Hallowtide 2025.
+categories: [Events, Hallowtide]
 ---
 
 # Hallowtide
@@ -68,7 +66,7 @@ The third Hallowtide added...
 
 The fourth Hallowtide added...
 
--   **New Weapons**: ?, [The Weaving Web](The_Weaving_Web.md) (Spear), [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon).
+-   **New Weapons**: [Moppet](Moppet.md) (Dagger), [The Weaving Web](The_Weaving_Web.md) (Spear), [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon).
 -   **New Items**: [Goodie Bag](Goodie_Bag.md) (Relic), [Nocturnal Gem](Nocturnal_Gem.md) (Deep Gem).
 -   **New Foods**: [Candy](Candy.md), [Candy Suncorn](Candy_Suncorn.md), [Toffee](Toffee.md), [Pumpkin](Pumpkin.md), [Pumpkin Pie](Pumpkin_Pie.md).
 -   **New Equipment:** [Crawling Necktie](Crawling_Necktie.md), [Death's-Head Necktie](<Death's-Head_Necktie.md>).

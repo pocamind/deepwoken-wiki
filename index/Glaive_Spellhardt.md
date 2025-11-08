@@ -1,11 +1,9 @@
 ---
 title: Glaive Spellhardt
-revid: 170609
+revid: 171734
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
-notices:
-  - This page is currently being worked on. Add in new weapon once found next week.
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
 ---
 
 # Glaive Spellhardt
@@ -25,7 +23,7 @@ Here are all the possible options that you can buy from **Glaive Spellhardt**:
 
 **2025:**
 
-With 2025 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on top of the weapons from last years. Two from the first week, and one on the second week, on the [October 31st, 2025](Version_History/Uncollapsed.md#october-31st-2025) and [November 7th, 2025](Version_History/Uncollapsed.md#november-7th-2025)
+With 2025 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on top of the weapons from last years. Two from the first week, and one on the second week, on the [October 31st, 2025](Version_History/Uncollapsed.md#october-31st-2025) and [November 8th, 2025](Version_History/Uncollapsed.md#november-8th-2025)
 
 1.  [Master Schematic](Outfits.md#master) \[20 Joy\] - Gives you a random master outfit schematic. (DO NOT buy this, currently it is bugged. Picking this option will take your joy, but will not give you the schematic, so beware.)
 2.  [Skyreap Blade](Skyreap_Blade.md) (Greataxe) \[100 Joy\]
@@ -40,7 +38,7 @@ With 2025 Hallowtide, came with 3 newly-added Hallowtide-exclusive weapons on to
 11.  [Spectral Grasp](Spectral_Grasp.md) (Dagger) \[100 Joy\]
 12.  [Smouldering Hallow](Smouldering_Hallow.md) (Greatcannon) \[100 Joy\]
 13.  [The Weaving Web](The_Weaving_Web.md) (Spear) \[100 Joy\]
-14.  Yet to be released Week 2 Light weapon
+14.  [Moppet](Moppet.md) (Dagger) \[100 Joy\]
 15.  [Harrowing](Enchantments.md) [Enchant Stone](Enchant_Stone.md) \[150 Joy\]
 16.  [Pumpkin Pitch](Pumpkin_Pitch.md) (Mantra) \[300 Joy\]
     

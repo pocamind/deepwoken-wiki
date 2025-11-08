@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 170627
+revid: 171706
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -400,7 +400,7 @@ Applied if your attack gets interrupted by the [Krulian Knife's](Krulian_Knife.m
 
 ### Punishing Riposte
 
-After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.md), gain the Punishing Riposte status effect for 4 seconds, making your critical attack automatically guardbreak if blocked. This is signified by a special vfx on parry.
+After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.md), gain the Punishing Riposte status effect for 15 seconds, making your critical attack automatically guardbreak if blocked. This is signified by a special vfx on parry.
 
 ### Vital Wound
 
