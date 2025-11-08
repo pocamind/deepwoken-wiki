@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 171334
+revid: 171499
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -8,8 +8,9 @@ categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
 
 # Travelling Merchant
 
-| The Travelling Merchant, Chili | |
+| Travelling Merchant | |
 |---|---|
+| name | Chili |
 | aspect | Tiran |
 | location | Merchant Ships |
 
@@ -75,6 +76,7 @@ Sold Items
 The Travelling Merchant's Ship
 
 -   You can place a [Guild Base](Guild_Bases.md) within The Travelling Merchant's boat.
+-   The Travelling Merchant
 -   The Travelling Merchant is similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
 -   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from The Travelling Merchant.[\[1\]](#cite-note-1)

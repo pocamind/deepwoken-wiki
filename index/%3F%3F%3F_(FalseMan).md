@@ -1,6 +1,6 @@
 ---
 title: ??? (FalseMan)
-revid: 166984
+revid: 171513
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -10,7 +10,6 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 
 | ??? (FalseMan) | |
 |---|---|
-| name | "???" |
 | aspect | Felinor |
 | location | New Kyrsa, The Sleeping City |
 
@@ -36,4 +35,4 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 
 ## Trivia
 
-He is named "FalseMan" within the game files.
+-   He is named "FalseMan" within the game files.

@@ -1,9 +1,9 @@
 ---
 title: "Oath: Contractor"
-revid: 170438
+revid: 171580
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths, The Ministry]
+categories: [Oaths, The Ministry]
 ---
 
 # Oath: Contractor
@@ -99,9 +99,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 
 ## Trivia
 
--   File:Contractor 10 knowledge.png
-    
-    If you have progressed Contractor on your slot, you can now skip Contractor's progression with 10 knowledge, despite the fact that Lord Regent would kill you previously.
+-   Contractor took inspiration from [Darkstalker Kaathe](https://darksouls.fandom.com/wiki/Darkstalker_Kaathe).[\[1\]](#cite-note-1)
 -   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be moderately lowered. If you had neutral reputation, it would be set to Hunted. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
     -   Reputation, however, can no longer be bought for The Divers. You will still get the dialog option for it but it will do nothing.
     -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
@@ -110,11 +108,11 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
         -   When trying to equip the weapon as a Contractor, the game will state "The weapon rejects your very soul, the antithesis to your ideals."
 -   Progressing Contractors will send victims it kills to Layer 2 instead of wiping. Only applies if the contractor does not have 3 Oath grips
     -   Counts as a drown
--   Before 25/08/23, four specific [Deep Shrines](Deep_Shrines.md) deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
+-   Before the September 25th, 2023 update, four specific [Deep Shrines](Deep_Shrines.md) deals were required for Contractor, those being [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md), [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md), [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md), and [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
 -   The Deep Shrines in [Temple of Hearts](Temple_of_Hearts.md) are able to be used to meet Contractor requirements.
--   Despite popular belief you can get Contractor without directly gripping [Duke Erisia](Duke_Ishamon_Erisia.md), you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
+-   Despite popular belief, Contractor can still be obtained without directly gripping [Duke Erisia](Duke_Ishamon_Erisia.md), you just have to be present in the dungeon when he is gripped and do enough damage to get kill credit.
 -   Contractor strings are not actually solid dark red or black; the string's outside is red, and the interior is black.
--   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.
+-   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.[\[2\]](#cite-note-2)
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
 -   Changes dialogue with Duke Erisia.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
@@ -124,3 +122,8 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   Dialogue with the Etrean Royal Guard changes to "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
 -   May be considered as one of the more iconic oaths, with Judgement being featured in the randomizer games Allusions and Item Asylum.
 -   The Oath, before its release, was first mentioned in the Windrunner's dialogue where he speaks of observing the war between Etrea and the Authority.
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

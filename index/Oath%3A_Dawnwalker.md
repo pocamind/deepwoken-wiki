@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 170770
+revid: 171602
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -102,3 +102,4 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
 -   Dawnwalker originally also had a mode bar which, when active, would give the user instant tp dashes, this was also scrapped.
 -   Dawnwalker is the only Oath besides [Fadetrimmer](Oath%253A_Fadetrimmer.md) that can be fully obtained and progressed without leaving the Depths.
 -   When photosensitive mode is turned on in the settings, Dawnwalker's mantras are white rather than rainbow.
+-   [Maestro](Maestro_Evengarde_Rest.md) is a user of this oath according to Agamatsu on a discord message (see below)

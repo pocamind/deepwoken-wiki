@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 147592
+revid: 171554
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -49,9 +49,11 @@ As the utilization of the Song grows and understanding of it deepens, it culmina
 
 During this transformative era, significant advancements lead to the creation of the four primary attunements known as Flamecharm, Frostdraw, Thundercall, Galebreathe, and the newly emerging attunement called Ironsing. The formation and development of Ironsing began after the discovery of pluripotent alloys, marking a significant milestone in the understanding and manipulation of metallic objects.[\[8\]](#cite-note-8) Additionally, legendary weapons of rare and mysterious nature, such as the Crypt Blade and the Curved Blade of Winds, are said to have been forged, along with many others whose existence remains shrouded in mystery.
 
+It is believed that, despite how it seems the four primary Attunements were created during the Canticlysm, that they, Shadowcast, and other Attunements possibly, were actually merely discovered, as they seem to come from the Drowned Gods and be inherent to the Song, however other Attunements were created by mankind, artificial to the Song, such as Lifeweave and Ironsing.
+
 ## The Tides
 
-An event that happened near the end of The Canticlysm and continued a few years afterwards, it was called the first Great Drowning. Its cause was the Drowned Gods, who were almost woken up by the overuse of The Song. They exerted their power over Lumen, corrupting the Sea. This caused immense destruction, dividing the world into the 6 Luminants. Alongside this, they caused the Voidfog to be drawn to the Sea, merging them into the Voidsea. Raging on, it led to the formation of [the Ministry](The_Ministry.md). The tides ended with the Great Drowning of Celtor, in which the Celtorian Horror dragged The City of Celtor underwater and into the first layer of [The Depths](The_Depths.md) - [Scyphozia](First_Layer.md). It caused [The Moonseye](Moonseye.md), a symbol of the afterlife, to be replaced with the Depths; When you die, rather than ascending, you now [drown](Death.md), taken into the depths. Escape is only possible through the [Depths trial](First_Layer.md#escaping-first-layer) or by making [a wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but doing so will pull you back in eventually due to the pull on your soul, but certain rituals can negate this effect.
+An event that happened near the end of The Canticlysm and continued a few years afterwards, it was called the first Great Drowning. Its cause was the Drowned Gods, who were almost woken up by the overuse of The Song. They exerted their power over Lumen, corrupting the Sea. This caused immense destruction, dividing the world into the 5 Luminants. Alongside this, they caused the Voidfog to be drawn to the Sea, merging them into the Voidsea. Raging on, it led to the formation of [the Ministry](The_Ministry.md). The tides ended with the Great Drowning of Celtor, in which the Celtorian Horror dragged The City of Celtor underwater and into the first layer of [The Depths](The_Depths.md) - [Scyphozia](First_Layer.md). It caused [The Moonseye](Moonseye.md), a symbol of the afterlife, to be replaced with the Depths; When you die, rather than ascending, you now [drown](Death.md), taken into the depths. Escape is only possible through the [Depths trial](First_Layer.md#escaping-first-layer) or by making [a wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but doing so will pull you back in eventually due to the pull on your soul, but certain rituals can negate this effect.
 
 ## New World
 

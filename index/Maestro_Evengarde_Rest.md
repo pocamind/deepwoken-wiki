@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 169214
+revid: 171603
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -370,3 +370,4 @@ This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https:/
 -   His Hair ID is 6101425666.
 -   He has heterochromia, meaning both his eyes are different colors. It is unknown if he is born with this or it's somehow gained from his powers.
 -   On the humanoid AI update, Maestro used to be bugged as his AI was swapped with a bugged version of the Bladeharper AI, he couldn't m1 or parry properly and did not even attack the player unless they used a critical attack or mantras, his **Mortal Draw: Floating Passage** was nerfed so that the final swing could be parriable as well. As of the 06/15/2025 patch, his AI was fixed and Maestro fights properly once more.
+-   On the deepwoken official discord, Agamatsu hinted that Maestro is a user of the [Dawnwalker](Oath%253A_Dawnwalker.md) oath (see below).

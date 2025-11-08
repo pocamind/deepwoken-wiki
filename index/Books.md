@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 171299
+revid: 171584
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Items]
@@ -17,7 +17,7 @@ Books are items that are found in the world of Deepwoken and are a separate cate
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md).
--   The Gideshu March: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant).[\[1\]](#cite-note-1)
+-   The Gideshu March: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant).
 -   The Interrogation Of Ranger Santiago Talo: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md).
 -   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md), [Lightkeeper Temple](Lightkeeper_Temple.md).
 -   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md).
@@ -38,7 +38,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 
 ## Books
 
-### Archivist Journal: 'Megalodaunt'
+### 
+
+Archivist Journal: 'Megalodaunt'
 
 > by Archivist Caliban Sr.
 > 
@@ -107,7 +109,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > 
 > For my own purpose. For your own purpose.
 
-### Capran Aphorisms
+### 
+
+Capran Aphorisms
 
 > A trio of sayings passed down through Capran oral tradition.
 > 
@@ -117,7 +121,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > 
 > And of [Ku](Glossary.md#ku-the-mother) we share of our ken, learn and teach, listen and speak, see and do. [Ku](Glossary.md#ku-the-mother) is of us, and we are of [Ku](Glossary.md#ku-the-mother). Always both mother and child, student and teacher, novice and sage.
 
-### Children of the Aftertide I
+### 
+
+Children of the Aftertide I
 
 > \- a foreword by Mira Sokolof
 > 
@@ -143,7 +149,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > 
 > This is my ember, brought to the altar of time. Never again may we suffer alone, in the dark.
 
-### Coldheart's Journal
+### 
+
+Coldheart's Journal
 
 > Or: a dead end
 > 
@@ -302,7 +310,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 >   
 > i miss you so much
 
-### A Deathscribe's Journal
+### 
+
+A Deathscribe's Journal
 
 > Journal belongs to Memorial Mason Simeon Rasimof, of the Citadel of Markor
 > 
@@ -738,7 +748,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 
   
 
-### Debriefing Log on Operator Polaris Enigvidion
+### 
+
+Debriefing Log on Operator Polaris Enigvidion
 
 > "Operator Enigvidion, are you listening? Ignoring me isn’t making this any easier for the both of us" A stern voice snaps me back from me back from wandering thoughts, raising my head from the floor I see an aged man sitting before me on an equally as aged wooden stool. "Apologies… I wasn’t paying attention for a moment." The man tilts his head down, giving the illusion of a menacing shadow falling over his weathered mask as a barely audible sigh fills the room. "That’s apologies 'Sir' to you." He continues before I have a chance to retort. "Alright, start over from the beginning. I want to know exactly how everything went, with explicit details, am I understood?"
 > 
@@ -800,7 +812,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 
   
 
-### Diver Journal, I
+### 
+
+Diver Journal, I
 
 > \- writings of Apprentice Azel
 > 
@@ -811,7 +825,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > 
 > \[The ink on the following pages are washed out and incomprehensible, streaking in lines only tears could create, smudging the ink. His last words are lost.\]
 
-### Diver Journal, II
+### 
+
+Diver Journal, II
 
 > \- writings of Journeyman Skeli
 > 
@@ -820,7 +836,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > 
 > _\*The remaining pages are scribbled out frantically, no words can be made out from the mess, as if there was something to hide.\*_
 
-### Diver Journal, III
+### 
+
+Diver Journal, III
 
 > \- writings of Apprentice Hero
 > 
@@ -845,7 +863,9 @@ Some books are part of specific quests, and thus cannot be obtained multiple tim
 > 
 > There's something-
 
-### Eggs In A Basket
+### 
+
+Eggs In A Basket
 
 A broadsheet of a popular sailor song  
     
@@ -865,7 +885,9 @@ I'll tell you, though no one asked it:
 Do as they say,  
 And don't put all your eggs inside one basket!
 
-### The Ferryman's Lullaby
+### 
+
+The Ferryman's Lullaby
 
 or 'I Hear The Tides' - an Etrean folk song  
     
@@ -903,7 +925,9 @@ Lower my bones to the ocean and let them drift all alone and slow,
 May the Ferryman gently take my soul  
 To the Depths below...
 
-### The Gideshu March
+### 
+
+The Gideshu March
 
   
 from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
@@ -945,7 +969,9 @@ We would give our lives for the cause!
 > 
 > I would like to thank Alloras Munet, a Central Authority navy recordkeeper, for allowing me access to certain relevant texts kept within Authority archives. This monograph would not have been possible without their invaluable help.
 
-### God in the Machine
+### 
+
+God in the Machine
 
 > by the Keeper of Truths
 > 
@@ -991,7 +1017,9 @@ We would give our lives for the cause!
 
   
 
-### The Hammer's Call
+### 
+
+The Hammer's Call
 
 from Vincent Zeneke's monograph cycle 'Songs of the Sea'
 
@@ -1053,7 +1081,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### The Interrogation Of Ranger Santiago Talo
+### 
+
+The Interrogation Of Ranger Santiago Talo
 
 > (SUNSDAWN, 9TH BLOOMFALL, 904 CE)
 > 
@@ -1199,7 +1229,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### Lament of Cirryn
+### 
+
+Lament of Cirryn
 
 > compiled by the Emerald Scholar
 > 
@@ -1352,7 +1384,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### Legion Intelligence
+### 
+
+Legion Intelligence
 
 > SALVETE, LEGATE FVLMINVS
 > 
@@ -1362,7 +1396,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### A Light In The Sky
+### 
+
+A Light In The Sky
 
 > by Prof. Galphin Spellhardt
 > 
@@ -1392,7 +1428,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### Lumen's Folklore: Volume 'Attunement'
+### 
+
+Lumen's Folklore: Volume 'Attunement'
 
 > A compilation of tales by the Scholars of the Citadel
 > 
@@ -1418,7 +1456,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### Lumen's Folklore: Volume 'North'
+### 
+
+Lumen's Folklore: Volume 'North'
 
 > A compilation of tales by the Scholars of the Citadel
 > 
@@ -1469,13 +1509,17 @@ Shoulder to shoulder, together, tall!
 
   
 
-### Ministry Field Report
+### 
+
+Ministry Field Report
 
 >   
 > 
 > _\*The text on the page is scrawled frantically, difficult to decipher. The words 'Celtor' and 'Trial' can be made out from the mess, although the surrounding text is incomprehensible.\*_
 
-### Munet Journal, XIV
+### 
+
+Munet Journal, XIV
 
 > by Wakeguard Winona Munet
 > 
@@ -1494,7 +1538,11 @@ Shoulder to shoulder, together, tall!
 >   
 > Yet it doesn't happen as much as I would like it to. More often than not, I am dozing off to the buzzing of flies, hoping to awake to a returned vessel asking for guidance. But I never do. Here, with the flies and maggots, I am faced with mortality at its rawest. Here, I wonder when I will be a part of the stockyard, vacant body laid out on the dirt, glassy eyes staring up at the vast sky above.
 
-### My Warm Blood
+  
+
+### 
+
+My Warm Blood
 
 > \- Another sinful kin of Merit
 > 
@@ -1518,7 +1566,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### Neatly Embelished Notebook
+### 
+
+Neatly Embelished Notebook
 
 > This notebook is neatly bound, embossed with rich iconographies of the Moonseye.
 > 
@@ -1548,7 +1598,9 @@ Shoulder to shoulder, together, tall!
 
   
 
-### O Pardoner of Mine
+### 
+
+O Pardoner of Mine
 
   
 Sincerely, Eneka's Heir  
@@ -1566,7 +1618,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 
   
 
-### Operation 'Distant Light' Report
+### 
+
+Operation 'Distant Light' Report
 
 > > \[CLASSIFIED - ADMIRAL THORM EREBET'S EYES ONLY\]
 > > 
@@ -1635,7 +1689,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 >   
 > 
-> ### Operation 'Puppet Master' Report
+> ### 
+> 
+> Operation 'Puppet Master' Report
 > 
 > > \[CLASSIFIED\]
 > > 
@@ -1668,7 +1724,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 >   
 > 
-> ### Ossuary Maintenance
+> ### 
+> 
+> Ossuary Maintenance
 > 
 > > A set of esoteric notes
 > > 
@@ -1684,7 +1742,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 >   
 > 
-> ### Our Fortress (Of Smoke And Steel)
+> ### 
+> 
+> Our Fortress (Of Smoke And Steel)
 > 
 >   
 > from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
@@ -1752,7 +1812,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 >   
 > 
-> ### The Song of Fathoms / Oscillation
+> ### 
+> 
+> The Song of Fathoms / Oscillation
 > 
 > > from Vincent Zeneke's monograph cycle "Song of the Sea"
 > > 
@@ -1829,7 +1891,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 >   
 > 
-> ### Stars Above, and the Blade between
+> ### 
+> 
+> Stars Above, and the Blade between
 > 
 > > A historic fiction novel, concerning the fate of the last King of Etrea.
 > > 
@@ -1847,7 +1911,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > > We depart from the Etris docks, to a celebrated fanfare. Many Etrean citizens gather around and wave and cheer as we depart, wishing the king a safe journey. As our home fades from the sight of all of us onboard, I’m reminded once more of our city, and what the king has taken from it. Yet they cheer him on... blissfully unaware. Unaware and controlled, all of his people. Bephalos’ truth echoes throughout my head as I sit upon the deck, watching the waves of the Etrean waters roll by whilst the day passes. I wait patiently for the arrival of the Voidsea. “This, this is when you strike,” Bephalos instructed me during one of our initial meetings. The search for the lighthouse takes priority for all crew members, and for the others it is a time for rest. But for me, it is when the final hour begins. Upon the arrival of the Voidsea waters, the others become busy or fatigued. I’ve remained in my place throughout the entire first day of our voyage, watching the waves. I look up at the sky, and just as was foretold, no stars are to be seen.
 > 
-> ### Strange Missives
+> ### 
+> 
+> Strange Missives
 > 
 > > A collection of mysterious letters \*The book itself is littered with pages of letters and notes, some stray sheets within in an unintelligible language, scrawled in an unknown print. Some documents are easy to make out - archived correspondence.\*
 > > 
@@ -1874,7 +1940,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > > \*The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*
 > 
-> ### Studies on Canticlysm, Vol. IV
+> ### 
+> 
+> Studies on Canticlysm, Vol. IV
 > 
 > > compiled by Steward Amross, Steward Bridges, et. al
 > > 
@@ -1932,7 +2000,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > >   
 > 
-> ### Tale of the Storm
+> ### 
+> 
+> Tale of the Storm
 > 
 >   
 > from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
@@ -2130,7 +2200,9 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > > 
 > > Furthermore, it has been proposed that it may have existed during the Shallows - the era in our world's history when the peoples of the world were stuck suffering atop former mountain peaks after the Tides rose. It is known, through scarce remaining texts, that Driftland shift was most prominent and fast-paced immediately after the era of the Tides. However, the Shallows are notorious for being a dark spot in the annals of history, for its lack of preserved records.
 > 
-> ### Vows by the Sea: Inheritance
+> ### 
+> 
+> Vows by the Sea: Inheritance
 > 
 > > by Steward Bridges
 > > 
@@ -2174,7 +2246,7 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 >     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashet fights a [Crustaceous Rex](Crustaceous_Rex.md).
 >     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
 >     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
->     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period, hence why he is reference as both old and being sighted in the Eastern Luminant.[\[2\]](#cite-note-2)
+>     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period, hence why he is reference as both old and being sighted in the Eastern Luminant.[\[1\]](#cite-note-1)
 > -   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
 >     -   In both stories, they are [Vesperians](Vesperian.md).
 >     -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.
@@ -2182,5 +2254,4 @@ O pardoner of mine, you are a fool. This faith toys with us, it enchants us, it 
 > 
 > ## References
 > 
-> 1.  [↑](#cite-ref-1) [https://deepwoken.fandom.com/f/p/4400000000000464924](https://deepwoken.fandom.com/f/p/4400000000000464924)
-> 2.  [↑](#cite-ref-2)
+> 1.  [↑](#cite-ref-1)

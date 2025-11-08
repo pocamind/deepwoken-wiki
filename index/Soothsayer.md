@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 169516
+revid: 171607
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -68,5 +68,6 @@ The Soothsayer is an NPC wearing a [Prophet's Cloak](<Prophet's_Cloak.md>), loca
 
 ## Trivia
 
+-   It would take ~10 knowledge to reach neutral from base reputation.
 -   It takes 45 Knowledge from enemy rank to become hero rank.
 -   It would take 334 knowledge to get 0-100,000 notes.

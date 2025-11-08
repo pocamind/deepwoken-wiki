@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 168331
+revid: 171591
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea]
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea]
 | name | Ishan |
 | aspect | Etrean |
 | location | Summer Isle |
+| affiliation | The Summer Company |
 
 ## Description
 
@@ -61,4 +62,4 @@ He has unique dialogue if spoken to as an Adret.
 
 ## Trivia
 
--   His assumptions are a bit of a red herring, as Adret already existed prior to their spread, and have no actual link to the ocean. Their sudden appearance was due to rising sea levels bringing their mountaintop homes closer to the ground.
+-   His assumptions are a bit of a red herring, as Adret already existed prior to their spread, and have no actual link to the ocean. Their sudden appearance was due to rising sea levels bringing their mountaintop homes closer to the ground. While their spread was motivated by the ocean, the ocean is not responsible for their existence.

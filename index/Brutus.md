@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 170537
+revid: 171504
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -27,7 +27,7 @@ He is noticably larger than most other people, including you.
 
 ## Location
 
-Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that can only be accessed by breaking the walls around the bars with a mantra, or by roll-clipping.
+Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that can only be accessed by breaking the walls around the bars with a Mantra, or by roll-clipping.
 
 ## Dialogue
 
@@ -135,6 +135,6 @@ This dialogue will only appear if the player has received dialogue from [Titus](
 
 -   Initially, there were no bars on Brutus' cage. While it was initially speculated he was afforded certain freedoms, an interview with Arch\_Mage revealed that there were meant to be bars there, hence why there was a secret tunnel into his cell that seemingly provided no function due to the cell being wide open anyway. This lead to builder Zartania constantly being asked "Can you put bars on Brutus' cage?" by a discord user which finally culminated in their addition during the 3/8/2024 update.
     -   At some point, the secret tunnel was also removed, but the bars were also taken off by mistake in the process.
--   You can use a training vest and let him beatdown you to increase fortitude.
+-   You can use a training vest and let him beatdown you to increase Fortitude.
 -   His hair ID is 5143078089.
 -   His variant is Silverback.

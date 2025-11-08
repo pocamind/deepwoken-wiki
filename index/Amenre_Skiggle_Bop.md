@@ -1,9 +1,9 @@
 ---
 title: Amenre Skiggle Bop
-revid: 171437
+revid: 171507
 source: https://deepwoken.fandom.com/wiki/Amenre_Skiggle_Bop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Kyrsan NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Amenre Skiggle Bop
@@ -11,14 +11,12 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 | Amenre Skiggle Bop | |
 |---|---|
 | name | Amenre Skiggle Bop |
-| aspect | Kyrsan |
+| species | Kyrsan |
 | location | Kyrsan Wilds |
 
 “ ppssccth tttss kkrrtccht ppsst ts kkrrt ts pprrcckkt ts kkrrt ts oooohohooo bars. ”
 
 ― Amenre Skiggle Bop
-
-  
 
 ## Description
 

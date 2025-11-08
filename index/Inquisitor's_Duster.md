@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Duster"
-revid: 169373
+revid: 171604
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Dusters]
@@ -30,5 +30,5 @@ The **Inquisitor's Duster** is an [Equipment](Equipment.md) item in the "Arms" c
 
 ## Trivia
 
--   Given it's name, it's likely tied to Authority Inquisitors in some way.
+-   Worn by Authority Inquisitors.
 -   The Inquisitor's Duster used to be unobtainable and exclusive to Moderators/Developers, but was made obtainable during the World Events update.

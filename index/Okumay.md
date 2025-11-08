@@ -1,6 +1,6 @@
 ---
 title: Okumay
-revid: 169175
+revid: 171523
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -13,6 +13,7 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second 
 | name | Okumay |
 | aspect | Chrysid |
 | location | The Sunken Railways |
+| family | Okumay's family, Unnamed grandparents (deceased), Unnamed father (deceased) |
 
 ## Description
 
