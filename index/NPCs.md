@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 171807
+revid: 172036
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -69,6 +69,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Beiruul](Beiruul.md) | [The Children of Navae](The_Children_of_Navae.md) | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
 | [Blacksmith](Blacksmith.md) | Unaligned | [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [The Floating Keep](The_Floating_Keep.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md) | Lets you craft [Outfits](Outfits.md) and repair them, turn in ores for chests. |  |
 | [Bookkeeper Andros](Bookkeeper_Andros.md) | Unaligned | [Etris](Etris.md), library near the inn | Part of the ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) |  |
+| [Brasidas Spellhardt](Brasidas_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | The [Antiquarian](Antiquarian.md) of [The Floating Keep](The_Floating_Keep.md). Talks about himself and his brother [Lysander Spellhardt](Lysander_Spellhardt.md). | **HE IS THE STORM THAT IS APPROACHING!** |
 | [Brutus](Brutus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Fort Merit](Fort_Merit.md) | Fortitude unbound | Leaves the player knocked and vulnerable to guards |
 | [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Provides some lore on the mist of Ethiron and gives her theory on how it controls the minds of Kyrsans. |  |
 | [Caitus](Caitus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md) | Talks about an incoming message from legion fleets |  |
@@ -213,6 +214,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Mark Adaset](Mark_Adaset.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Swap the Deepbound defect for one of your choice |  |
 | [Mercille](Mercille.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
 | [Merryweather](Merryweather.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | Studying the Worms. Talks about them a lot. | Her dialogue changes if the player is Hero [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md). |
+| [Mikhail Spellhardt](Mikhail_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Sells food and talks a bit about the Spellhardt Family's story. Reveals information about [Lightborns](Lightborn.md) aging. |  |
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants the [Disguise](Attunement-less.md#disguise) [mantra](Mantras.md). | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get the [mantra](Mantras.md). |
 | [Misérables](Misérables.md) | Unaligned | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe. Can be repeated if you have the knowledge/medallions required. |
 | [Nanji](Nanji.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Grants finding Ilji quest | Ilji's katana is found on a cliff near the [Isle of Vigils](Isle_of_Vigils.md) |
@@ -240,8 +242,8 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Rook Rethige](Rook_Rethige.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Sells [Whaling Knives](Whaling_Knife.md) for 300 after asking [Raen](Raen.md) to help afford some equipment. | Sells the [Union Pager](Ignition_Delver.md), [Horn of Authority](Authority_Ensign.md#horn-of-authority), and [Call of the Deep](Deepbound.md#call-of-the-deep) for 20 if the player has the [Two-Faced](Regalia.md#two-faced) Regalia. |
 | [Saffron](Saffron.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |
 | [Samael](Samael.md) | The Starkindred Faith | [Derelict Highchurch](Derelict_Highchurch.md) | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
-| [Sentinel](Sentinel.md) | Unknown | [Etris](Etris.md) | Blocks the door to the house with the shadow hunter blueprint and moves aside when spoken to | Spawns in occasionally with another npc that is in the house named Khan |
 | [Scope](Scope.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
+| [Sentinel](Sentinel.md) | Unknown | [Etris](Etris.md) | Blocks the door to the house with the shadow hunter blueprint and moves aside when spoken to | Spawns in occasionally with another npc that is in the house named Khan |
 | [Sekh](Sekh.md) | [The Hive](The_Hive.md) | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Seraphina](Seraphina.md) | Unaligned | [Etris Docks](Etris_Docks.md) | Sells starter equipment. | Unique dialogue when a [Etris: Siege](Cinders_of_Etris.md) is approaching. |
 | [Serendi](Serendi.md) | Orlandeau's Crew | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
@@ -251,15 +253,18 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Sordino](Sordino.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Sells a [Thresher Mount](Mounts.md) for [Crowns](Crowns.md). | Gives info on [Vows of Companionship](Vows.md). |
 | [Quiet Stranger](Quiet_Stranger.md) | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Grants [Murmur: Tacet](Murmur%253A_Tacet.md) to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
 | [Stratos](Stratos.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a Talent to those who meet his requirements |  |
-| [Sunway](Sunway.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | He explains how parasites work |  |
+| [Sunway](Sunway.md) | [The Ignition Union](The_Ignition_Union.md) | [Second Layer](Second_Layer.md), [The Frontier Furnace](The_Frontier_Furnace.md) | Explains how parasites work. |  |
 | [Surge](Surge.md) | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
 | [Suri](Suri.md) | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |
+| [Suspicious Skeleton](Suspicious_Skeleton.md) | Unaligned, The Spellhardt Family (Previously) | [The Floating Keep](The_Floating_Keep.md) | None | Serves no purpose, because he was fired from his bone rattling job. |
 | [Suyuan](Suyuan.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |  |
 | [Theadre](Theadre.md) | [Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, aspect and weapon equipped |
+| [Tolkat](Tolkat.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Strength unbound. |  |
 | [Trenti](Trenti.md) | [Etrea](Etrea.md) | [Etris](Etris.md) Inn | Provides information to new players. | Different dialogue depending on [Origin](Origins.md). |
 | [Trig](Trig.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](Talents.md#gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
+| [Tundra Spellhardt](Tundra_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Talks about disputes in the Spellhardt Family. |  |
 | [Valikor](Valikor.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Library | Gives Spellshout Talent |  |
-| [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style |  |
+| [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style after meeting the requirements |  |
 | [Viridian](Viridian.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the [Oathless](Oath%253A_Oathless.md) obtainment quest |  |
 | [Voidmother](The_Voidmother.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Sends you out of Voidheart |  |
 | [Volu](Volu.md) | [The Ministry](The_Ministry.md) | [Outpost Antumbra](Outpost_Antumbra.md) | Grants you the [Bloodfouler](Bloodfouler.md) upon giving him all 3 [Strange Tomes](Strange_Tomes.md) |  |

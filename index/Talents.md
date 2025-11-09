@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 171937
+revid: 172019
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -917,6 +917,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Critical Specialist
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
+    -   Your critical must knock the opponent for this Talent to proc.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
 
 -   _Knife's Journey_ \[Rare Talent, Light\] - \[Daggers\] Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage

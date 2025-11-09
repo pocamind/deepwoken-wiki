@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 171978
+revid: 171979
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family, Pages with broken file links]
@@ -127,14 +127,15 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive head [equipments](Equipme
   Here you are... a very, very special Joy! Since I'm feeling generous today, I can induce the transformation now if you wish. Just pay me another visit.</td>
 </tr>
 <tr>
-  <td colspan="6">10. Hallowtide '24 Medal [300 Joy]<br>
-  11. Hallowtide '23 Medal [200 Joy]<br>
-  12. Hallowtide '22 Medal [200 Joy]</td>
+  <td colspan="6">10. Hallowtide '25 Medal [300 Joy]<br>
+  11. Hallowtide '24 Medal [200 Joy]<br>
+  12. Hallowtide '23 Medal [200 Joy]<br>
+  13. Hallowtide '22 Medal [200 Joy]</td>
   <td colspan="6">Here you are... a very, very special Joy! With this medal, seek out a Blacksmith and they should be able to assist you in recreating the joys of Hallowtide at any time.</td>
 </tr>
 <tr>
   <td colspan="6"><i><b>Only available after you bought Hallowtide Variant</b></i><br>
-  13. Alright, could you induce the Variant transformation now?</td>
+  14. Alright, could you induce the Variant transformation now?</td>
   <td colspan="6">*<i>He hands you a vial of crimson liquid. It smells rancid. You reluctantly down it.</i>* Think happy thoughts of Hallowtide as you drink this. Just maybe don't tell the <a href="Glossary.md#the-central-authority">Authority</a> about this little exchange...</td>
 </tr>
 <tr>

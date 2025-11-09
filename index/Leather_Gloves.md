@@ -1,6 +1,6 @@
 ---
 title: Leather Gloves
-revid: 169382
+revid: 171984
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Gloves]
@@ -23,7 +23,7 @@ categories: [Items, Equipment, Arms, Gloves]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Chime of Conflict, Brainsucker, Lodestar, Other sources:, Tutorial, Starter Equipment Echo Unlock |
+| obtainment | Erisia, Chime of Conflict, Brainsucker, Lodestar, First Layer, Sea Events, Other sources:, Tutorial, Starter Equipment Echo Unlock |
 | description | ... |
 
 ## Description

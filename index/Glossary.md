@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 171793
+revid: 171991
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -37,7 +37,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe'
 -   [Kaide](#kaide-the-drowned-light) described them as the 'sole architects of \[his people's\] suffering', and seemed to scoff at the notion of them being Gods.
 -   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Samael](Samael.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Heavens](#the-heavens), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Samael](Samael.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Lightborn](#lightborn), [The Heavens](#the-heavens), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 ### Deepwoken
 
@@ -100,6 +100,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [K
 ### Lightborn
 
 -   Current and former inhabitants of [Heavens](#the-heavens) that resemble humans but possess a considerably longer lifespan.
+-   Kaide said that his kind were a hybrid of Man and [Celestial](#the-celestials).
 
 Dialogue: [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spellhardt.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Celestials](#the-celestials)
 

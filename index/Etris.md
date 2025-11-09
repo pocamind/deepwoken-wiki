@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 165099
+revid: 172031
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -302,3 +302,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
     -   If you are not requested to an audience with the Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.
 -   The discount from the Apprentice Quest does not appear until you start purchasing materials.
 -   You can prevent from dying on the spot after telling the Lord Regent that you've failed to drive out the Duke by taking the \[End Dialogue\] option.
+-   During early testing its caption read as "The scattered embers of a former capital are only kept aglow by the hope give by prophecy."
+    -   This most likely refers to the [King of Etrea](Rolen_Vashtir.md), the last king before disappearing into the [Voidsea](Voidsea.md).

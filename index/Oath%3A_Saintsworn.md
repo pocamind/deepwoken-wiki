@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 171905
+revid: 171980
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -10,7 +10,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 | Oath: Saintsworn | |
 |---|---|
-| oath_req | 25 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
+| oath_req | 15 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
 | effects | +2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot |
 
 | Saintsblade | |
@@ -42,7 +42,7 @@ The Five Heroes were considered to be the Saints of their respective [attunement
 
 ### Obtainment
 
-Saintsworn obtainment requires 25 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
+Saintsworn obtainment requires 15 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
 
 After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Flamecharm -> Thundercall -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement if starting from the [Etrean Luminant](Luminants.md).
 

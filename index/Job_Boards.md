@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 171332
+revid: 171986
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests]
@@ -29,6 +29,9 @@ _Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Et
 
 -   **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
+
+-   **Black Feathers**:
+    -   Tasks the player with slaying a [Deep Owl](Deep_Owl.md).
 
 -   **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
     -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).

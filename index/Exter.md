@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 171645
+revid: 172020
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -13,11 +13,10 @@ categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
 | name | Exter |
 | aspect | Gremor |
 | location | Meteor Isle |
-| affiliation | The Children of Navae |
 
 ## Description
 
-Exter is a [Gremor](Gremor.md) NPC, he is a resident at [Meteor Isle](Meteor_Isle.md) who has no apparent connections with [The Children of Navae](The_Children_of_Navae.md) faction.
+Exter is a [Gremor](Gremor.md) NPC, he is a resident at [Meteor Isle](Meteor_Isle.md).
 
 ## Location
 
@@ -31,7 +30,7 @@ Exter is located at Meteor Isle, sitting on a rock in front of ruins.
   <td>Begin</td>
 </tr>
 <tr>
-  <td>Something about this place... It speaks to me.</td>
+  <td>Something about this place... It speaks to me. I sense something important happened here in the past... Like a fight between great warriors, a spectacle to many...</td>
 </tr>
 <tr>
   <td>End</td>
@@ -41,6 +40,5 @@ Exter is located at Meteor Isle, sitting on a rock in front of ruins.
 
 ## Trivia
 
+-   The empty where Exter recalls something important happening is where the first [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70) was held. This showed off Deepwoken's combat for the first time, and is arguably the most iconic piece of pre-release Deepwoken footage.
 -   Exter's aspect variant appears to be Redwood.
--   In his dialogue he says that he has a connection with the place, this happens because he is secretly old.
--   He also references the first Deepwoken Direct video, as if he has seen it personally.

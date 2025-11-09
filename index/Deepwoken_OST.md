@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 171915
+revid: 172034
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -16,7 +16,7 @@ _For the Deepwoken sound effects, see [Deepwoken Sounds](Deepwoken_Sounds.md)._
 
 ## Overview
 
-There are currently two albums in **Deepwoken**, with 40 songs in each of them combined. There are also extra songs that are undiscovered or not inserted into the game.
+There are currently three albums in **Deepwoken**, with 73 total songs combined. There are also extra songs that are undiscovered or not inserted into the game.
 
 Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_, the composer of the **Deepwoken** original soundtrack, on these platforms:
 
@@ -73,8 +73,8 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 | 32 | [The End.](https://soundcloud.com/naktigonis/the-end) | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
 | 33 | [On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants) | 5:24 | N/A (Celebrating Deepwoken's launch) | File:On The Shoulders Of Giants.mp3 |
 | 34 | [A Memory of Tides](https://soundcloud.com/naktigonis/a-memory-of-tides) | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) | File:A Memory Of Tides.mp3 |
-| 35 | [Masters of the House](https://soundcloud.com/naktigonis/masters-of-the-house) | 2:06 | N/A (Cut track originally intended for use in [Corvus Manor](Cut_Content.md)) | File:Masters of the House.mp3 |
-| 36 | [The Gideshu March](https://soundcloud.com/naktigonis/the-gideshu-march) | 1:57 | N/A (a short edit of the track can be heard at the end of the [tutorial](Tutorial.md)) | File:The Gideshu March.mp3 |
+| 35 | [Masters of the House](https://soundcloud.com/naktigonis/masters-of-the-house) | 2:06 | N/A (Cut track originally intended for use in [Corvus Manor](Corvus_Manor.md)) | File:Masters of the House.mp3 |
+| 36 | [The Gideshu March](https://soundcloud.com/naktigonis/the-gideshu-march) | 1:57 | N/A (a short edit of the track can be heard at the end of the [Tutorial](Tutorial.md) in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>).) | File:The Gideshu March.mp3 |
 
 ### Deepwoken: Original Soundtrack (Vol. II)
 
@@ -83,7 +83,7 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 | 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war) | 2:48 | [Arena](Chime_of_Conflict.md) | File:The Games Of War.mp3 |
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) | File:Catwhisker.mp3 |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Duke Erisia](Duke_Ishamon_Erisia.md) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
-| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md) Authority Raid | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
+| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris: Siege](Cinders_of_Etris.md) | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
 | 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [Ethironal Shrine Sanctuary](Second_Layer.md) | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
 | 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | [Tutorial](Tutorial.md) | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
@@ -113,6 +113,11 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 | 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | File:11 59.mp3 |
 | 29 | [The Better Part Of Valour](https://soundcloud.com/naktigonis/the-better-part-of-valour) | 3:33 | [Merit Detainment Core](Merit_Detainment_Core.md) | File:The Better Part Of Valour.mp3 |
 | 30 | [Chainbreaker](https://soundcloud.com/naktigonis/chainbreaker) | 2:21 | [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) | File:Chainbreaker.mp3 |
+| 31 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md)
+
+[Port Merit](Port_Merit.md)
+
+ | File:Wardens Of The Valiant Dead.mp3 |
 | TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
@@ -124,9 +129,10 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 
  | TBA |
 | TBA | _Untitled Conquest Lobby Theme[\[1\]](#cite-note-naktimessage2-1)_ | TBA | TBA | TBA |
-| TBA | Wardens of the Valiant Dead[\[1\]](#cite-note-naktimessage2-1) | TBA | [Fort Merit](Fort_Merit.md) | TBA |
 | TBA | Our Fortress (Of Smoke And Steel) | TBA | TBA | TBA |
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
+| TBA | ? | TBA | [Vow of Iron](Vow_of_Iron.md) | TBA |
+| TBA | ? | TBA | [Heart of Enmity](Heart_of_Enmity.md) | TBA |
 
 ### Additional Songs
 
@@ -160,6 +166,6 @@ Boss Theme
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-naktimessage2-1-0) [1.1](#cite-ref-naktimessage2-1-1) [1.2](#cite-ref-naktimessage2-1-2) [1.3](#cite-ref-naktimessage2-1-3) [1.4](#cite-ref-naktimessage2-1-4) [1.5](#cite-ref-naktimessage2-1-5) Mentioned in a roadmap for Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
+1.  ↑ [1.0](#cite-ref-naktimessage2-1-0) [1.1](#cite-ref-naktimessage2-1-1) [1.2](#cite-ref-naktimessage2-1-2) [1.3](#cite-ref-naktimessage2-1-3) [1.4](#cite-ref-naktimessage2-1-4) Mentioned in a roadmap for Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
 2.  ↑ [2.0](#cite-ref-naktimessage-2-0) [2.1](#cite-ref-naktimessage-2-1) [2.2](#cite-ref-naktimessage-2-2) [2.3](#cite-ref-naktimessage-2-3) Mentioned in an update from Naktigonis about Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
 3.  [↑](#cite-ref-3) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

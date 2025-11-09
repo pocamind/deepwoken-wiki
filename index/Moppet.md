@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 171968
+revid: 172016
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -49,7 +49,8 @@ This is similar to the [Poser's Ring](<Poser's_Ring.md>) in function. This criti
 
 ## Trivia
 
--   This weapon is based on the concept of voodoo dolls.
+-   This weapon is based on the concept of voodoo dolls, effigies, that ironically have no link to neither Voodoo nor Vodou, which are frequently depicted in media as dolls made to resemble individuals by those seeking to do them harm. These are then used as a medium to harm the individual by inflicting damage onto the doll.
+-   Their name may derive from poppets, a more obscure make of doll that is frequently depicted being used for the same purposes as voodoo dolls in media, and is speculated to be the reason for the existence of the false concept of voodoo dolls.
 -   Despite having a sewing needle as an offhand, the player can still equip offhand weapons.
 -   Moppet and [Poser's Ring](<Poser's_Ring.md>) share stacks. If you land M1s with Moppet then swap to [Katana](Katana.md) (or [Shattered Katana](Shattered_Katana.md)) and sheathe, it will deal the stored Moppet damage and vice versa.
 -   For usage with [Critical Engine](Talents.md#critical-engine):

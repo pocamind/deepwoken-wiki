@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 171970
+revid: 171992
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Hallowtide]
@@ -46,7 +46,7 @@ The Goodie Bag is a consumable [Relic](Relics.md) that on use will grant the use
   <td>
   <ul>
     <li><b>Light Weapons</b>: <a href="Drakemaw_Gauntlets.md">Drakemaw Gauntlets</a>, <a href="Moppet.md">Moppet</a>, <a href="Skull_Piercer.md">Skull Piercer</a>, <a href="Spectral_Grasp.md">Spectral Grasp</a>.</li>
-    <li><b>Medium Weapons</b>: <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="The_Weaving_Web.md">The Weaving Web</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Bloodtide_Trident.md">Bloodtide Trident</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="Hallowscleave.md">Hallowcleave</a>, <a href="The_Weaving_Web.md">The Weaving Web</a>.</li>
     <li><b>Heavy Weapons</b>: <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Skyreap_Blade.md">Skyreap Blade</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a>.</li>
     <li><b>Offhand Weapons</b>: <a href="Gourdguard.md">Gourdguard</a>.</li>
   </ul></td>
