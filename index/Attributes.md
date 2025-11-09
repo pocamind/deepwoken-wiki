@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 171281
+revid: 171853
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -56,7 +56,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   Many heavy weapons require an amount of Strength to be held, such as a _[Petra's Anchor](<Petra's_Anchor.md>)_ needing 10 STR, or a _[Hivelord's Hubris](<Hivelord's_Hubris.md>)_ needing 60 STR.
 -   Unlocks Strength-related [Talents](Talents.md) and [Mantras](Attunement-less.md#strength-mantras).
 -   Gain Strength EXP via cutting down trees, using the Boulder (this will train your Fortitude at the same time), parrying, blocking, or dealing damage.
--   _**[Unbounded](Attributes_Unbound.md#strength-unbound) by going to the [Tomb of The Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), breaking the coffin lid, and reading the journal.**_
+-   _**[Unbounded](Attributes_Unbound.md) by going to [Miner's Landing](<Miner's_Landing.md>) and helping [Tolkat](Tolkat.md) by punching the rock up the hill.**_
 
 ### Fortitude (FTD)
 

@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 168755
+revid: 171838
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -100,3 +100,7 @@ The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is i
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The Legendary Boot is mentioned as "trash" in one of [Traan Zakshun's](Traan_Zakshun.md) Black Market lines.

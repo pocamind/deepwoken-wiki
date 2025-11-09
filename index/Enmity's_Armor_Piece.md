@@ -1,6 +1,6 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 160648
+revid: 171824
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-**Enmity's Armor Piece** is a direct drop from [Heart of Enmity](Heart_of_Enmity.md). Only one can drop per kill, making this item incredibly rare and sought after.
+**Enmity's Armor Piece** is a direct drop from [Heart of Enmity](Heart_of_Enmity.md). Only one can drop per kill.
 
 ## Uses
 

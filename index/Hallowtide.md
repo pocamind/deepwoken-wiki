@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 171726
+revid: 171862
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -101,7 +101,7 @@ The Hallowtide update added a special new variant for each aspect in the game. T
 
 ### Exclusive NPCs
 
-#### Lightborns
+#### The Spellhardt Family
 
 -   [Alina Spellhardt](Alina_Spellhardt.md)
 -   [Brasidas Spellhardt](Brasidas_Spellhardt.md)

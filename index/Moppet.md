@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 171816
+revid: 171877
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -16,7 +16,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | scaling | LHT: 8.5 |
 | range | 6 |
 | swing speed | 1.25x |
-| special effect | On M1, the puppet will take the appearance (hair) of the opponent.M1s deal no damage, instead the damage is stored until you use your critical. |
+| special effect | On M1, the puppet will take the appearance of the opponent.M1s deal no damage, instead the damage is stored until you use your critical. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -31,17 +31,20 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 
 ## Description
 
-Moppet is a [Light Weapon](Weapons.md) in the dagger category. It deals no damage on M1, instead it stores the damage you should've dealt with your M1s.
+The Moppet is a [Light Weapon](Weapons.md) in the dagger category, appearing as an old doll with a crudely-stitched frown alongside a large sewing needle on the offhand.
+
+The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. It will also take the appearance of the opponent, copying their hair and [Aspect](Aspects.md) features.
 
 ## Critical
 
-Your M1s do not deal damage directly, instead the damage they would have dealt is stored in the target. Upon using your critical, stab the doll, dealing all of the stored damage to the opponent at once.
+The user impales the doll with the needle. If the Moppet has stored damage on an opponent, the opponent will be impaled as well, gashing with blood.
 
-This critical has a **3 second** cooldown.
+The critical has a cooldown of **3 seconds**.
 
 This is similar to the [Poser's Ring](<Poser's_Ring.md>) in function. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
 -   This weapon is likely based on the concept of voodoo dolls.
+-   Despite having a sewing needle as an offhand, the player can still equip offhand weapons.
 -   The appearance of the effigy changes based on the appearance of the target you last hit with an M1.

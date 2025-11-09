@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 171720
+revid: 171854
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -19,7 +19,9 @@ Character attributes will permanently be unbounded if you have previously done t
 ### Strength Unbound
 
 1.  Reach 75 Strength.
-2.  (they have changed this as of recently)
+2.  Go to [Miner's Landing](<Miner's_Landing.md>)
+3.  Find [Tolkat](Tolkat.md) near the docks on a small hill, who's endlessly pushing a rock up the hill.
+4.  Help him, by punching the rock he's pushing up the hill. This will grant you Strength Unbound if the requirements are met.
 
 ### Fortitude Unbound
 
