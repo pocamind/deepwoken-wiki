@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 171635
+revid: 171922
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -97,6 +97,7 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
     -   [Evengarde Rest](Evengarde_Rest.md)
     -   [Polis](Polis.md)
     -   [The Meat Lord](The_Meat_Lord.md)
+    -   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
     -   [Akira](Akira.md)
     -   [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md)
     -   [The Ferryman](The_Ferryman.md)

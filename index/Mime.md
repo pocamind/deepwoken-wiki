@@ -1,9 +1,9 @@
 ---
 title: Mime
-revid: 147429
+revid: 171903
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Ganymede NPCs, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Mime
@@ -11,29 +11,84 @@ categories: [Pages with broken file links, Mantras, NPCs, NPCs located in the Ea
 | Mime | |
 |---|---|
 | name | Mime |
+| aspect | Ganymede |
 | location | Songseeker Wilds |
-
-**Mime** is a [Ganymede](Ganymede.md) NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
-
-File:Mime location.png
-
-_Mime's location on the map_
 
 ## Description
 
+**Mime** is a [Ganymede](Ganymede.md) NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
+
 He appears around a lot of [Mineskippers](Mudskipper.md) disguised as barrels, which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Attunement-less.md#disguise), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied. The requirement for this mantra changes depending on aspect, though this needs further experimenting to find out the exact requirements for each aspect.
 
-Disguise yourself as an unassuming object for a seemingly indefinite amount of time.
+## Location
 
-_"Take on an unimaginable disguise."_
+Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main island, instead on the middle one (not the one attached to the luminant gate wall). He is inside of a mineshaft through the left path sitting atop a cave shelf.
 
-File:Kdfjghdsoiguherpoiknerhdfhrth.png
+## Dialogue
 
-Applying Sparks to the mantra will alter what you disguise as, variations are listed ahead.
+**No Charisma:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">HAHAHAHA, oh my GOODNESS! You're so <i>gullible</i>! <i>*He struggles to contain his overwhelming laughter, clearly amused by his prank*</i> Wasn't that good?</td>
+</tr>
+<tr>
+  <td colspan="12">..Very funny.</td>
+</tr>
+<tr>
+  <td colspan="12">I can't believe you fell for that... Pfft, the look on your face! Now THAT was something. Okay, okay, I've had my fun...</td>
+</tr>
+<tr>
+  <td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td>
+</tr>
+<tr>
+  <td colspan="12">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Charisma:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">HAHAHAHA, oh my GOODNESS! You're so <i>gullible</i>! <i>*He struggles to contain his overwhelming laughter, clearly amused by his prank*</i> Wasn't that good?</td>
+</tr>
+<tr>
+  <td colspan="12">..Very funny.</td>
+</tr>
+<tr>
+  <td colspan="12">I can't believe you fell for that... Pfft, the look on your face! Now THAT was something. Okay, okay, I've had my fun...</td>
+</tr>
+<tr>
+  <td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td>
+</tr>
+<tr>
+  <td colspan="12">Hehe! Yeah, yeah! Play around with this mantra, you'll find how <i>marvelous</i> it works with trickery!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+## Mantra Modifications
+
+### Disguise
 
 | Sparks | Image |
 | --- | --- |
-| Barrel: no sparks | 
+| Barrel: None | 
  |
 | Statue: 1 Reversal |  |
 | Crate: 1 Tornado |  |

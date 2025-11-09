@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 171721
+revid: 171890
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -58,18 +58,6 @@ There are certain Talents that you receive automatically upon meeting their requ
 -   [Oath](#oath) Talents
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
-
-_When it comes to mutually exclusive Talents, you can have either (unexhaustive list):_
-
--   _Risky Moves_ **or** _Safety Dance/Observation;_
--   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
--   _Orbital Ice_ **or** _Fists of Fortitude;_
--   _Singularity_ **or** _Sightless Still;_
--   _Million Ton Piercer_ **or** _Ether Overdrive;_
--   _Bulldozer_ **or** _Dazing Finisher;_
--   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent;_
--   _Wraith Path: Twisted Puppets_ **or** _Azure Flames;_
--   _Tough Love_ **or** _Narcissist_
 
 Certain Talents lie in "Priority Talents" - the type of Talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards more often upon powering up.
 

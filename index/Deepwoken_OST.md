@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 148334
+revid: 171915
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # Deepwoken OST
 
-_If you are interested about the descriptions of the songs, see [here](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)._ _For the Deepwoken sound effects, see [Deepwoken Sounds](Deepwoken_Sounds.md)._
+_For the Deepwoken sound effects, see [Deepwoken Sounds](Deepwoken_Sounds.md)._
 
 **A gallery of Deepwoken's official soundtracks.**
 
@@ -100,10 +100,19 @@ Using [Moonseye Tome](Moonseye_Tome.md)
 | 15 | [The Song Of Fathoms (Band Version)](https://soundcloud.com/naktigonis/the-song-of-fathoms-band-version) | 2:50 | [Instruments](Instruments.md) | File:The Song Of Fathoms (Band Version).mp3 |
 | 16 | [The Gideshu March (Band Version)](https://soundcloud.com/naktigonis/naktigonis-the-gideshu-march-band-version) | 2:43 | [Instruments](Instruments.md) | File:The Gideshu March (Band Version).mp3 |
 | 17 | [Carol of Resonances](https://soundcloud.com/naktigonis/carol-of-resonances) | 2:43 | [Instruments](Instruments.md) | File:Carol of Resonances.mp3 |
-| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), The Blade Within | File:TheWindsinger'sDance.mp3 |
+| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [The Blade Within](The_Blade_Within.md) | File:TheWindsinger'sDance.mp3 |
 | 19 | [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) | 4:32 | [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) | File:A God, Manufactured.mp3 |
-| 20 | [ELEISON](https://soundcloud.com/naktigonis/eleison) | 6:00 | [Scion of Ethiron](Scion_of_Ethiron.md) | File:ELEISON.mp3 |
-| 21 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | File:11 59.mp3 |
+| 20 | [Call of the Deep](https://soundcloud.com/naktigonis/call-of-the-deep) | 0:30 | Theme for [Deepwoken's 2024 Roblox Trailer](https://www.youtube.com/watch?v=kkERJc-Qe4o) | File:Call Of The Deep (Deepwoken Trailer).mp3 |
+| 21 | [Blackdamp Ballad](https://soundcloud.com/naktigonis/blackdamp-ballad) | 5:32 | [Saramaed Hollow](Saramaed_Hollow.md) (Group) | File:Blackdamp Ballad.mp3 |
+| 22 | [Blackdamp Ballad (Lonesome Version)](https://soundcloud.com/naktigonis/blackdamp-ballad-lonesome-version) | 5:32 | [Saramaed Hollow](Saramaed_Hollow.md) (Solo) | File:Blackdamp Ballad.mp3 |
+| 23 | [A Light In The Sky (Band Version)](https://soundcloud.com/naktigonis/a-light-in-the-sky-band-version) | 3:05 | [Instruments](Instruments.md) | File:A Light In The Sky (Band Version).mp3 |
+| 24 | [Joyous Hallows To All!](https://soundcloud.com/naktigonis/joyous-hallows-to-all) | 3:07 | Theme for [Hallowtide](Hallowtide.md) 2024 [Title Screen](Loading_Screen.md) | File:A Light In The Sky (Band Version).mp3 |
+| 25 | [Bigtop Breakbeat](https://soundcloud.com/naktigonis/bigtop-breakbeat) | 3:21 | [Carnival of Hearts](Carnival_of_Hearts.md) Intermission | File:Bigtop Breakbeat.mp3 |
+| 26 | [A Carousel Of Hearts](https://soundcloud.com/naktigonis/a-carousel-of-hearts) | 2:59 | [Carnival of Hearts](Carnival_of_Hearts.md) Minigame | File:A Carousel Of Hearts.mp3 |
+| 27 | [ELEISON](https://soundcloud.com/naktigonis/eleison) | 6:00 | [Scion of Ethiron](Scion_of_Ethiron.md) | File:ELEISON.mp3 |
+| 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | File:11 59.mp3 |
+| 29 | [The Better Part Of Valour](https://soundcloud.com/naktigonis/the-better-part-of-valour) | 3:33 | [Merit Detainment Core](Merit_Detainment_Core.md) | File:The Better Part Of Valour.mp3 |
+| 30 | [Chainbreaker](https://soundcloud.com/naktigonis/chainbreaker) | 2:21 | [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) | File:Chainbreaker.mp3 |
 | TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
@@ -148,7 +157,6 @@ Boss Theme
 | --- | --- | --- | --- | --- |
 | N/A | [Ash For The Altar](https://soundcloud.com/naktigonis/ash-for-the-altar) | 0:56 | Flamecharm Showcase Theme | File:Ash For The Altar (Flamecharm Showcase Theme).mp3 |
 | N/A | [To Sleep, Layer 2 Bell](https://www.youtube.com/watch?v=OccD-F1UNvE) | 1:45 | Main Menu Theme for 2023 April Fools | File:To Sleep, Layer 2 Bell.mp3 |
-| N/A | [Call of the Deep](https://soundcloud.com/naktigonis/call-of-the-deep) | 0:30 | Theme for [Deepwoken's 2024 Roblox Trailer](https://www.youtube.com/watch?v=kkERJc-Qe4o) | File:Call Of The Deep (Deepwoken Trailer).mp3 |
 
 ## References
 

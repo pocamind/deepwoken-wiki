@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 171675
+revid: 171930
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -23,7 +23,7 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
 | Name/Danger | Description | GIF |
 | --- | --- | --- |
 | 
-**Punch**  
+**Right Hook**  
 (★☆☆)
 
  | The Broodlord throws a brutal and powerful punch.

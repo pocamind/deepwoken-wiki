@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 169594
+revid: 171910
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Criticals with M1 tag, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -45,11 +45,11 @@ This weapon comes with two passive abilities:
 
 When using the weapon one-handed, it becomes two swords, changing its swing speed, criticals, and animations.
 
-With the minimum stat requirement to equip the weapon, the weapon will deal 24.1 damage.
+With the minimum stat requirement to equip the weapon, the weapon will deal ~25.1 damage.
 
--   Around 25.3 damage with the 5% innate After Cut effect, and around 26.5 with the 10% After Cut effect from the Talent.
+-   Around 26.3 damage with the 5% innate After Cut effect, and around 27.6 with the 10% After Cut effect from the Talent.
 
-With 100 MED and 100 WND, it will deal 30.6 damage.
+With 100 MED and 100 WND, it will deal ~30.6 damage.
 
 -   It deals around 32.2 damage with the 5% innate After Cut effect, and around 33.7 with the 10% After Cut effect from the Talent.
 

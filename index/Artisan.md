@@ -1,6 +1,6 @@
 ---
 title: Artisan
-revid: 167607
+revid: 171909
 source: https://deepwoken.fandom.com/wiki/Artisan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Guild Base]
@@ -14,7 +14,7 @@ categories: [NPCs, NPCs located in the Guild Base]
 
 ## Description
 
-The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable of [smelting](Transmogrification.md) items for 800. They have the same function [Jarvis](Jarvis.md).
+The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable of [smelting](Transmogrification.md) items for 800. They have the same function as [Jarvis](Jarvis.md).
 
 ## Dialogue
 
@@ -43,7 +43,7 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
 </tr>
 <tr>
   <td colspan="6">Here's the item I want to keep the appearance of.</td>
-  <td colspan="6">[Player has <a href="Ganymede.md">Ganymede</a>] Can you style it after my Ganymede Hat?</td>
+  <td colspan="6">[Player is <a href="Ganymede.md">Ganymede</a>] Can you style it after my Ganymede Hat?</td>
 </tr>
 <tr>
   <td colspan="12">*The two pieces of equipment are merged into a shiny new item.*</td>
@@ -67,7 +67,7 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
 <tr>
   <td colspan="4">Here's the item I want to keep the appearance of.</td>
   <td colspan="4">Uh, actually, can I have it back?</td>
-  <td colspan="4">[Player has <a href="Ganymede.md">Ganymede</a>] Can you style it after my Ganymede Hat?</td>
+  <td colspan="4">[Player is <a href="Ganymede.md">Ganymede</a>] Can you style it after my Ganymede Hat?</td>
 </tr>
 <tr>
   <td colspan="4">*The two pieces of equipment are merged into a shiny new item.*</td>
@@ -91,6 +91,19 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
 </tr>
 <tr>
   <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
+**Nothing in Armors:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="4'">'Allo... I zee you do not have anythink i can fuse... Tsk!</td>
 </tr>
 </tbody>
 </table>

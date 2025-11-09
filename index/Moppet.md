@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 171877
+revid: 171925
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -33,18 +33,19 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 
 The Moppet is a [Light Weapon](Weapons.md) in the dagger category, appearing as an old doll with a crudely-stitched frown alongside a large sewing needle on the offhand.
 
-The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. It will also take the appearance of the opponent, copying their hair and [Aspect](Aspects.md) features.
+The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. It will also take the appearance of the opponent, copying their hair and [Aspect](Aspects.md) features, such as a [Gremor](Gremor.md)'s horns or a [Vesperian](Vesperian.md)'s mask.
 
 ## Critical
 
-The user impales the doll with the needle. If the Moppet has stored damage on an opponent, the opponent will be impaled as well, gashing with blood.
+The user impales the doll with the needle. If the Moppet has stored damage on an opponent through landing m1s, the opponent will be impaled as well, gashing with blood and taking all of the stored damage at once.
 
 The critical has a cooldown of **3 seconds**.
 
 This is similar to the [Poser's Ring](<Poser's_Ring.md>) in function. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
+Moppet penetration scales with the more hits you do, eventually becoming 100%
+
 ## Trivia
 
 -   This weapon is likely based on the concept of voodoo dolls.
 -   Despite having a sewing needle as an offhand, the player can still equip offhand weapons.
--   The appearance of the effigy changes based on the appearance of the target you last hit with an M1.

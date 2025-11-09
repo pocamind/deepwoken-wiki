@@ -1,6 +1,6 @@
 ---
 title: Firfire Cliffs
-revid: 169019
+revid: 171924
 source: https://deepwoken.fandom.com/wiki/Firfire_Cliffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Floor of the Second Layer]

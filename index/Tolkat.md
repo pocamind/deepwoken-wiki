@@ -1,6 +1,6 @@
 ---
 title: Tolkat
-revid: 171864
+revid: 171920
 source: https://deepwoken.fandom.com/wiki/Tolkat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -20,7 +20,7 @@ categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant]
 
 ## Description
 
-Tolkat is a [Canor](Canor.md) NPC who can unbound the player's [Strength](Attributes.md#str). Being a muscular Canor, he was given a job by 'Boss man' to push a boulder up the hill, though he struggles. With (75) Strength, the player can punch the boulder straight up the hill.
+Tolkat is a [Canor](Canor.md) NPC who can unbound the player's [Strength](Attributes.md#str). Being a muscular Canor, he was given a job by 'Boss man' to push a [Boulder](Training_Gear.md#attribute-training-gears) up a hill, though he struggles. With (75) Strength, the player can punch the boulder straight up the hill.
 
 ### Location
 
@@ -43,7 +43,7 @@ Tolkat is located at [Miner's Landing](<Miner's_Landing.md>), he is found near t
   <td colspan="8">I think you might be in the wrong line of work.</td>
 </tr>
 <tr>
-  <td colspan="4">End, cutscene initiates of player punching the boulder</td>
+  <td colspan="4">End, cutscene initiates with the player attempting to punch the boulder</td>
   <td colspan="8">Huh? But I've got muscles. This is what people with muscles do, right? Eat rocks, push boulders... Y'know?</td>
 </tr>
 <tr>
@@ -106,6 +106,7 @@ Tolkat is located at [Miner's Landing](<Miner's_Landing.md>), he is found near t
 
 ## Trivia
 
+-   He is voice acted by an unknown person.
 -   Most likely a reference to Sisyphus, a king punished by the gods to eternally push massive boulder up a mountain.
 -   Attempting to punch the boulder up the hill below seventy-five strength will cause the player to take 10% of their max HP as damage.
 -   The word "tolkat'" ("толкать") in most slavic languages means "to push", which might be where his name stems from.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 169929
+revid: 171905
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -10,7 +10,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 | Oath: Saintsworn | |
 |---|---|
-| oath_req | 15 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
+| oath_req | 25 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
 | effects | +2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot |
 
 | Saintsblade | |
@@ -42,7 +42,7 @@ The Five Heroes were considered to be the Saints of their respective [attunement
 
 ### Obtainment
 
-Saintsworn obtainment requires 15 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
+Saintsworn obtainment requires 25 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
 
 After acquiring the needed stats, you then need to resonate (interact with) every obelisk. Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Flamecharm -> Thundercall -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement if starting from the [Etrean Luminant](Luminants.md).
 
@@ -78,7 +78,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-To progress Saintsworn, you need to complete 2 [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)). The first completion will grant Ether Proselyte, Hero's Assist, and Saint's Negation. The second completion will grant Saint's Synergy and Saint's Overload.
+To progress Saintsworn, you need to complete 3 [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)). The first completion will grant Ether Proselyte, Hero's Assist. The second completion will grant Saint's Synergy, Saint's Overload, and Saint's Negation
 
 Alternatively you can use 10 to skip the progression if you've fully progressed this Oath before, by speaking to any Obelisk after obtaining Saintsworn. Warning: this has no confirmation dialogue, entering dialogue will instantly consume your Knowledge. Additionally, this can be still performed even if your Oath is fully progressed, potentially wasting your Knowledge for no benefit.
 
@@ -102,7 +102,7 @@ Alternatively you can use 10 to skip the progression if you've fully progressed 
     -   For each Stance, the Saintsblade has a unique Critical that it shares with the [Hero Blades](Hero_Blades.md), gives you access to element-specific passive abilities as given by Hero's Assist and Ether Proselyte, and modifies the Blade of Saints Mantra.
     -   The cycle order of stances is based off of your highest-invested attunements, with the stance when you first equip the Saintsblade being your highest one, the second one your second highest, and so on.
         -   Unequipping the Saintsblade will reset the cycle order.
-    -   One of the [Chorus Divide](Chorus_Divide.md) Resonance's beams will change attunements to match your current Saint Stance.
+    -   One of the [Chorus Divide](Chorus_Divide.md) Resonance's beams will cycle through all your saint stances.
 
 ### Talents
 
