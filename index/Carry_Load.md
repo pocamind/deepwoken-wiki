@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 171701
+revid: 171939
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -38,7 +38,6 @@ In order of carry load given:
 -   _Pocket Bombs_ gives 5 carry load.
 -   _Spine Cutter_ gives 6 carry load.
 -   _Face Cutter_ gives 6 carry load.
--   _Turning of the Wheel_ gives 6 carry load.
 -   _Ether Absorption_ gives 7 carry load.
 -   _Everchanging Aegis_ gives 7 carry load.
 -   _Eureka_ gives 7 carry load.
@@ -57,7 +56,7 @@ In order of carry load given:
 -   _Brassneck_ gives 10 carry load.
 -   _Gathering Electricity_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 191 carry load.
+All of these [Talents](Talents.md) combined would theoretically provide 185 carry load.
 
 ### Other Sources
 
@@ -92,7 +91,7 @@ All of these miscellaneous sources combined would theoretically provide 375 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **566**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **679**.
+Combining both Talents and other sources, the total amounts to **560**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **672**.
 
 Due to attribute limitations, the current best carry load build can only get 536/643 carry load, found [here](https://deepwoken.co/builder?id=Db429pN6).
 
@@ -108,3 +107,4 @@ Due to attribute limitations, the current best carry load build can only get 536
     -   _Pitcher_ and _Duelist's Dance_ granted 3 and 4 carry load respectively, but were removed on April 15th, 2025.
     -   _Lootskipper_ granted 4 carry load, but was removed on July 15th, 2025.
     -   _Ether Conduit_ granted 7 carry load, but was removed on August 4th, 2025.
+    -   _Turning of the Wheel_ granted 6 carry load, but that bonus was taken away at some point (shadow update).

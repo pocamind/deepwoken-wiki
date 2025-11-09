@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 168918
+revid: 171962
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -40,6 +40,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   This is the first dagger class weapon to deal blunt damage.
+-   This is the first dagger weapon to deal blunt damage.
 -   The critical activates all club talents on hit, which may not be very useful considering it is a light weapon.
     -   This is likely because the critical is shared with [the Pastry Paster](The_Pastry_Paster.md).

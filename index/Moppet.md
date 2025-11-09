@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 171925
+revid: 171968
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -26,26 +26,37 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
 | description | Just as we see likeness in objects, Vows can often be empowered by the imitative correspondence between an effigy and its target. |
 
 ## Description
 
 The Moppet is a [Light Weapon](Weapons.md) in the dagger category, appearing as an old doll with a crudely-stitched frown alongside a large sewing needle on the offhand.
 
-The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. It will also take the appearance of the opponent, copying their hair and [Aspect](Aspects.md) features, such as a [Gremor](Gremor.md)'s horns or a [Vesperian](Vesperian.md)'s mask.
+The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. The Moppet will also gain increased PEN per stored M1 with no cap, eventually reaching 100%. On hit, the Moppet will take the appearance of the opponent, copying their hair and [Aspect](Aspects.md) features, such as a [Gremor](Gremor.md)'s horns or a [Vesperian](Vesperian.md)'s mask.
 
 ## Critical
 
-The user impales the doll with the needle. If the Moppet has stored damage on an opponent through landing m1s, the opponent will be impaled as well, gashing with blood and taking all of the stored damage at once.
+The user impales the doll with the needle. If the Moppet has stored damage on an opponent through landing m1s, the opponent will be impaled as well, taking all of the stored damage at once.
+
+The damage this critical deals cannot be directly increased; you must increase the damage of your M1s to increase the damage output of the critical. "On-critical" Talents proc on Moppet's critical, but as you cannot directly increase the critical's damage, your options will be limited.
+
+This critical cannot be parried, blocked, or dodged. You cannot deal more than 70% of a player's maximum health with one critical attack.
 
 The critical has a cooldown of **3 seconds**.
 
 This is similar to the [Poser's Ring](<Poser's_Ring.md>) in function. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
-Moppet penetration scales with the more hits you do, eventually becoming 100%
-
 ## Trivia
 
--   This weapon is likely based on the concept of voodoo dolls.
+-   This weapon is based on the concept of voodoo dolls.
 -   Despite having a sewing needle as an offhand, the player can still equip offhand weapons.
+-   Moppet and [Poser's Ring](<Poser's_Ring.md>) share stacks. If you land M1s with Moppet then swap to [Katana](Katana.md) (or [Shattered Katana](Shattered_Katana.md)) and sheathe, it will deal the stored Moppet damage and vice versa.
+-   For usage with [Critical Engine](Talents.md#critical-engine):
+    -   [Blue Gem](Blue_Gem.md) has no cap for the Ether it can restore, potentially restoring all of your Ether on crit.
+    -   [Bloodless Gem](Bloodless_Gem.md) has a cap of 15 health restored, making this a not-so-great pick.
+    -   [Wayward Gem](Wayward_Gem.md) has a range limit, though it is very good for this weapon in most scenarios.
+    -   All other [Deep Gems](Deep_Gems.md) work, but they aren't very notable.
+-   [Visionshaper](Oath%253A_Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
+-   Because [Spine Cutter](Talents.md#spine-cutter) procs on this critical, and it deals a separate instance of damage, it is possible to effectively bypass the critical's damage cap of 70% of a player's maximum health.
+    -   You do not need to land M1s on your opponent's back for the critical to backstab, instead you just need to be behind your opponent when you use the critical.

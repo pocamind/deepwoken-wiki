@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Helm"
-revid: 170166
+revid: 171972
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Hallowtide |
+| obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag |
 | description | A familiar helm said to have been passed down by a wayward line of a distant land. |
 
 ## Description

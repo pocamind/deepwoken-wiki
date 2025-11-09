@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 171890
+revid: 171937
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2845,6 +2845,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
+    -   The description is missing a period in game too, that's not a wiki error.
     -   Prerequisites: 35 Light Weapon, 20 Strength
 
 ### Scrapsinger
@@ -3642,7 +3643,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Twinblade
 
--   _Face Cutter_ \[Rare Talent\] \[Twinblades\] - Your Spine Cutter now deals an additional hit.
+-   _Face Cutter_ \[Rare Talent\] \[Twinblades\] - Your Spine Cutter now deals an additional hit. (+6 Carry Load, +2 Passive Agility)
     -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
 
 -   _Turning of the Wheel_ \[Rare Talent\] \[Twinblades\] - After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.

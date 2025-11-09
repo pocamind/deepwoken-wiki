@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 171829
+revid: 171975
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
@@ -20,7 +20,7 @@ categories: [Head, Helmets, Equipment, Event Item, Items, Hallowtide]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Purchased from Lysander Spellhardt for 50 Joy (Hallowtide exclusive), Purchased from any Blacksmith for 3 Knolwedge if you have the Hallowtide '23 Medal, Goodie Bag |
+| obtainment | Lysander Spellhardt [50 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag |
 | description | Just make sure you still have a head after you take it off. |
 
 ## Description

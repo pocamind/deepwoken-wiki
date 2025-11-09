@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 171735
+revid: 171948
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, Items, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -44,4 +44,5 @@ The critical has a cooldown of **5.5 seconds.**
 -   For a while after the weapons release, its critical hit was unparriable. This was later confirmed to be a bug and fixed.
 -   Prior to having its hyperarmor removed, players using this weapon could immediately use the critical even after getting parried which lead the enemy to get hit for parrying and m1ing.
 -   Its hyperarmor was removed in exchange for a faster windup on the second part of the attack.
--   Due to it's horrendous stats of 0.92x swing speed with 7.5 range combined with twinblades having endlag at the end of their running attacks it is considered as, if not the **worst** end game weapon in game.
+-   Due to its horrendous stats of 0.92x swing speed with 7.5 range combined with twinblades having endlag at the end of their running attacks it is considered as, if not the **worst** end game weapon in game.
+-   Its critical sound was changed on November 8th 2025 (Hallowtide Week 2), giving it a higher pitch on both swings.

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 171245
+revid: 171963
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,8 +48,6 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
-
-  
 
 ## Attribute Mantras
 
