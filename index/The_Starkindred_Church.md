@@ -1,6 +1,6 @@
 ---
 title: The Starkindred Church
-revid: 172147
+revid: 172159
 source: https://deepwoken.fandom.com/wiki/The_Starkindred_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Starkindred Church]
@@ -17,10 +17,6 @@ As powerful as the [Oath](Oath%253A_Starkindred.md) may seem, if the Oathtaker's
 [The Hundred Legions](The_Hundred_Legions.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) once went on an excursion against the Starkindred Church, coming back victorious with the [Pale Briar](Pale_Briar.md) as a trophy, which afterwards fell into the hands of [Maestro](Maestro_Evengarde_Rest.md) and can be obtained by the player by defeating him.
 
 In the [Eastern Luminant](Luminants.md#eastern-luminant) their only base is the [Derelict Highchurch](Derelict_Highchurch.md) above the [Ancient Rotlands](Ancient_Rotlands.md)
-
-## Reputation
-
-The faction is not currently present in-game fully, but it can only be assumed, that the Starkindred Church is on very bad with [The Hundred Legions](The_Hundred_Legions.md) and [Etrea](Etrea.md).
 
 ## Notable Members
 

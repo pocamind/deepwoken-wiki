@@ -1,9 +1,9 @@
 ---
 title: Spellhardt family
-revid: 172142
+revid: 172157
 source: https://deepwoken.fandom.com/wiki/Spellhardt_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions, Hallowtide]
+categories: [Hallowtide]
 ---
 
 # Spellhardt family
@@ -15,12 +15,6 @@ The Spellhardt Family are a noble family of [Lightborns](Lightborn.md), originat
 Before the [fall of Constellia](Lore.md#constellia), [The Floating Keep](The_Floating_Keep.md) was very well-manned. Shortly after the aforementioned event, [The Floating Keep](The_Floating_Keep.md) was left at the hands of the family, to be managed by themselves.
 
 The Spellhardt Family has a tradition, called [Hallowtide](Hallowtide.md), which they still keep going purely for their own entertainment, as it gets lively in [The Floating Keep](The_Floating_Keep.md).
-
-## Reputation
-
-Unlike many non-agressive [factions](Factions_&_Groups.md), the player cannot gain, or lose reputation with The Spellhardt Family.
-
-The Spellhardt Family does not have relations to any [factions](Factions_&_Groups.md), besides Constellia, which is not present in-game, but mentioned in the [lore](Lore.md).
 
 ## Notable members
 
@@ -35,6 +29,8 @@ The Spellhardt Family does not have relations to any [factions](Factions_&_Group
 ## Trivia
 
 -   The Spellhardt Family are the only [Lightborn](Lightborn.md) NPCs, besides [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), that the player can currently meet in-game.
+
+  
 
 ## Navigation
 

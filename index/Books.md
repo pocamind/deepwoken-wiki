@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 171751
+revid: 172168
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Items]
@@ -18,7 +18,7 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md).
 -   The Gideshu March: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), or rarely on [Merchant Ships](Random_Encounters.md#traveling-merchant).
--   The Interrogation Of Ranger Santiago Talo: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md).
+-   The Interrogation Of Ranger Santiago Talo: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md).
 -   Neatly Embelished Notebook: [Greathive Aratel](Greathive_Aratel.md), [Lightkeeper Temple](Lightkeeper_Temple.md).
 -   Operation 'Distant Light' Report: [Fort Merit](Fort_Merit.md).
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md).
@@ -29,6 +29,7 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 
 Some books are part of specific quests or are physically in the world, and thus cannot be obtained multiple times on a character. Such books include:
 
+-   A Light In The Sky: [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) (Hallowtide exclusive).
 -   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md).
 -   Diver Journal, I/II/III: [Second Layer](Second_Layer.md).
 -   Legion Intelligence: Talking to [Caitus](Caitus.md).

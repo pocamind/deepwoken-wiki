@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 172138
+revid: 172161
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -46,7 +46,7 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
 
 ### Celestial Crash Site
 
--   At a corner of the Rotlands lies a crash site of a particular Celestial that captured the attention of a [certain zealous group](Oath%253A_Starkindred.md).
+-   At a corner of the Rotlands lies a crash site of a particular Celestial that captured the attention of a [certain zealous group](The_Starkindred_Church.md).
 
 ### Derelict Highchurch
 

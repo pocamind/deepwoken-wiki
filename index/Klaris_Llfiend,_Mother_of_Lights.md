@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 170462
+revid: 172176
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -181,18 +181,20 @@ Radiant Teachings
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">Player returning to Klaris immediately after a Layer 2 run</td>
-  <td colspan="4">Player returning to Klaris after going into Layer 2 with no Light Hook?</td>
-  <td colspan="4">Player is in danger</td>
+  <td colspan="3">Player returning to Klaris after a Layer 2 run</td>
+  <td colspan="3">Player returning to Klaris after a Layer 2 run with no Light Hook</td>
+  <td colspan="3">Player Oathbreaks Dawnwalker</td>
+  <td colspan="3">Player is in danger</td>
 </tr>
 <tr>
-  <td colspan="4">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a></td>
-  <td colspan="4">Wait. You're back? After pulling you out of that pit, I figured you'd be out the door and on to somewhere else. So what brings you back, what did you find down there?</td>
-  <td colspan="4">Gods Below, dont bring your troubles to me.</td>
+  <td colspan="3">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a></td>
+  <td colspan="3">Wait. You're back? After pulling you out of that pit, I figured you'd be out the door and on to somewhere else. So what brings you back, what did you find down there?</td>
+  <td colspan="3">Ah, the flake is back again. What do you want?</td>
+  <td colspan="3">Gods Below, dont bring your troubles to me.</td>
 </tr>
 <tr>
-  <td colspan="8">Dialogue continues as normal</td>
-  <td colspan="4">End</td>
+  <td colspan="9">Dialogue continues as normal</td>
+  <td colspan="3">End</td>
 </tr>
 </tbody>
 </table>
@@ -468,21 +470,19 @@ Radiant Teachings
 <tr>
   <td colspan="3">Requirements Met</td>
   <td colspan="3">Already having an Oath</td>
-  <td colspan="3">Progressing Dawnwalker</td>
-  <td colspan="3">Finished Dawnwalker</td>
+  <td colspan="6">Progressing Dawnwalker</td>
 </tr>
 <tr>
-  <td colspan="3">Hm. Perhaps. you have the potential. Child, do you swear to carry the Light as a weapon against the Deep? To weild the Song only as a Radiant Blade against that which it beckons?</td>
+  <td colspan="3">Hm. Perhaps. you have the potential. Child, do you swear to carry the Light as a weapon against the Deep? To weild the <a href="Glossary.md#the-song">Song</a> only as a Radiant Blade against that which it beckons?</td>
   <td colspan="3">Your soul belongs to another. I cannot teach you.</td>
-  <td colspan="3">I will teach you the next stages of the morning light. Now, listen...</td>
-  <td colspan="3">I have taught you all I know. Go forth and bring Light to the world, my student.</td>
+  <td colspan="6">I will teach you the next stages of the morning light. Now, listen...</td>
 </tr>
 <tr>
   <td colspan="3">I vow it.</td>
   <td colspan="9">End</td>
 </tr>
 <tr>
-  <td colspan="3">Very well. You shall connect with the Light around us, surrounding all of Lumen.</td>
+  <td colspan="3">Very well. You shall connect with the Light around us, surrounding all of <a href="Glossary.md#lumen">Lumen</a>.</td>
 </tr>
 <tr>
   <td colspan="3">End</td>
@@ -506,6 +506,7 @@ Radiant Teachings
     -   Klaris uses Regular Torso, unlike [Eylis](Eylis,_the_Punished_Dreamer.md) who uses Lean.
 -   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
     -   The old version of the dialogue can be viewed [here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D).
+-   Attempting to enhance your skills as a [Dawnwalker](Oath%253A_Dawnwalker.md) while fully progressed will prompt the message, "Your mastery can go no further."
 
 ## Footnotes
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 170994
+revid: 172175
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -163,6 +163,7 @@ Upon breaking an Oath, unique effects will occur:
     -   Chainwarden **cannot** be reobtained after breaking it, as the Vice Warden will insult you upon interaction
 
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
+    -   You lose some reputation with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
     -   You **can** reobtain Dawnwalker after breaking it. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
 

@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 170738
+revid: 172174
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
@@ -18,11 +18,11 @@ The awe-inspiring moving keep of the mysterious Spellhardt family.
 
 ## Description
 
-The Floating Keep is a temporary location in Deepwoken. (only found during Hallowtide) It appears to be a medieval keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md) near the building that sells attunement training items or at [Greathive Aratel](Greathive_Aratel.md) near the entrance. It is inhabited by [Lightborns](Lightborn.md) of the Spellhardt family. Here players can interact with members of the Spellhardt family and participate in the Halloween Event.
+The Floating Keep is a temporary location in Deepwoken. (only found during Hallowtide) It appears to be a medieval keep, and very grand in appearance. The entire island is floating in the air next to the the Isle of Vigils. You can reach this place by interacting with the Jack'o Lantern in the [Isle of Vigils](Isle_of_Vigils.md) near the building that sells attunement training items or at [Greathive Aratel](Greathive_Aratel.md) near the entrance. It is inhabited by [Lightborns](Lightborn.md) of the Spellhardt family. Here players can interact with members of the [Spellhardt family](Spellhardt_family.md) and participate in the Halloween Event.
 
 ### Cathedral
 
-In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need a Shell Stock, a Paperette and a Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander, Glaive, and Galpin for items. Joy can be exchanged for:
+In the Cathedral, you can talk to [Lysander Spellhardt](Lysander_Spellhardt.md) to start the quest to craft yourself [a mask](Hallowtide_Mask.md). To create [the mask](Hallowtide_Mask.md), you need a [Shell Stock](Hallowtide_Mask_Ingredients.md), a [Paperette](Hallowtide_Mask_Ingredients.md) and a [Fine Ink](Hallowtide_Mask_Ingredients.md). When creating [the mask](Hallowtide_Mask.md), there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with [Lysander](Lysander_Spellhardt.md), [Glaive](Glaive_Spellhardt.md), and [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) for items. [Joy](Joy.md) can be exchanged for:
 
 -   [Eggs In A Basket](Books.md#eggs-in-a-basket) \[20 Joy\]
 -   [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel) \[20 Joy\]

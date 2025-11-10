@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 171817
+revid: 172171
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -360,7 +360,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td>It's as I've said from the start...</td>
 </tr>
 <tr>
-  <td><b>From shore to shore, void to void...</b></td>
+  <td>From shore to shore, void to void...</td>
 </tr>
 <tr>
   <td><b><i>THE WEAK MUST FALL FOR THE STRONG TO PROSPER!</i></b></td>

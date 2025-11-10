@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 171903
+revid: 172155
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -26,7 +26,7 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
 
 ## Dialogue
 
-**No Charisma:**
+**First Encounter:**
 
 <table>
 <tbody>
@@ -46,15 +46,21 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
   <td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td>
 </tr>
 <tr>
-  <td colspan="12">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
+  <td colspan="6">Sufficient Charisma</td>
+  <td colspan="6">Requirements Unmet</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="6">Hehe! Yeah, yeah! Play around with this mantra, you'll find how <i>marvelous</i> it works with trickery!</td>
+  <td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
+</tr>
+<tr>
+  <td colspan="6">End, quest starts</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>
 
-**Charisma:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -62,19 +68,7 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">HAHAHAHA, oh my GOODNESS! You're so <i>gullible</i>! <i>*He struggles to contain his overwhelming laughter, clearly amused by his prank*</i> Wasn't that good?</td>
-</tr>
-<tr>
-  <td colspan="12">..Very funny.</td>
-</tr>
-<tr>
-  <td colspan="12">I can't believe you fell for that... Pfft, the look on your face! Now THAT was something. Okay, okay, I've had my fun...</td>
-</tr>
-<tr>
-  <td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td>
-</tr>
-<tr>
-  <td colspan="12">Hehe! Yeah, yeah! Play around with this mantra, you'll find how <i>marvelous</i> it works with trickery!</td>
+  <td colspan="12">WIP</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

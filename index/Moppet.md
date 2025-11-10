@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 172110
+revid: 172153
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -59,3 +59,5 @@ This is similar to the [Poser's Ring](<Poser's_Ring.md>) in function. This criti
     -   [Wayward Gem](Wayward_Gem.md) has a range limit, though it is very good for this weapon in most scenarios.
     -   All other [Deep Gems](Deep_Gems.md) work, but they aren't very notable.
 -   [Visionshaper](Oath%253A_Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
+-   Despite having the M1 tag on its critical, Moppet's critical cannot proc [Spine Cutter](Talents.md#spine-cutter).
+    -   When this weapon initially released, it _could_ proc Spine Cutter on its critical however, allowing it to effectively bypass its damage cap by dealing a separate instance of damage.

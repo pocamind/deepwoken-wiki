@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Caller
-revid: 171362
+revid: 172170
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Caller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -33,7 +33,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td colspan="2">[Reach out to touch it]</td>
 </tr>
 <tr>
-  <td colspan="2">OI! YOU! You've got some nerve approaching me when Hallowtide is almost upon us!</td>
+  <td colspan="2"><i>*With a sudden crackle, the little pumpkin springs to life.*</i> OI! YOU! You've got some nerve approaching me when Hallowtide is almost upon us!</td>
 </tr>
 <tr>
   <td>Hallowtide?</td>
