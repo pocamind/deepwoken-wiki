@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 171991
+revid: 172059
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -33,8 +33,11 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe'
 -   When the [Tides](#the-tides) came, the Celestials were driven from the [Heavens](#the-heavens) down to the [Surface](#the-surface) below.
 -   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
 -   Of these religions, the [Starkindred](#the-starkindred-faith) Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
+
 -   Celestials modify their own bodies using the [Song](#the-song).
+
 -   [Kaide](#kaide-the-drowned-light) described them as the 'sole architects of \[his people's\] suffering', and seemed to scoff at the notion of them being Gods.
+
 -   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
 
 Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Samael](Samael.md) | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Lightborn](#lightborn), [The Heavens](#the-heavens), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
@@ -54,6 +57,7 @@ Dialogue: [Jeremiah](Jeremiah.md) when giving a [Deepwoken Hood](Deepwoken_Hood.
 -   Many believe that the [Song](#the-song) has stirred them from their sleep and brought about the [Tides](#the-tides). Should a Drowned God wake, it's also believed that it would result in [Lumen's](#lumen) undoing.
 -   The names of Drowned Gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
 -   Worship of Drowned Gods is taboo across most of the [Lumen](#lumen), with their faithful being branded as cultists and heretics.
+
 -   The Drowned God Ethiron is thought to preside over [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
 Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer), [Yun'Shul, Keeper of Hearts](#yunshul-keeper-of-hearts)
@@ -62,6 +66,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_t
 
 -   A [Drowned God](#the-drowned-gods) said to preside over Wind.
 -   Their gales are said to drag even Time itself into their wake.
+
 -   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
 Dialogue: [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md), [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
@@ -83,7 +88,9 @@ Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amor
 ### Krulians
 
 -   Enigmatic beings thought to be envoys of the [Drowned Gods](#the-drowned-gods).
+
 -   The Ferryman referred to them as 'the closest bridge between the Gods below and your kind'.
+
 -   The Gaunt Man used the analogy 'if you are a stalk of wheat, then I am a loaf of bread', which likely has some relevance to the nature of Krulians. Probably.
 
 Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
@@ -91,8 +98,10 @@ Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | B
 ### Kyrsan / Kyrsgarde
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the Kyrsans dwell in small villages sheltered from the gale.
+
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the Second Layer are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan).
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
+
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
 Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
@@ -100,6 +109,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [K
 ### Lightborn
 
 -   Current and former inhabitants of [Heavens](#the-heavens) that resemble humans but possess a considerably longer lifespan.
+
 -   Kaide said that his kind were a hybrid of Man and [Celestial](#the-celestials).
 
 Dialogue: [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spellhardt.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Celestials](#the-celestials)
@@ -118,6 +128,7 @@ Dialogue: [Jeremiah](Jeremiah.md) when giving an [Idol of Yun'Shul](<Idol_of_Yun
 
 -   In the year 904 CE, the Celtorian capital, the Great [City of Celtor](#the-drowned-city-of-celtor), was devastated and sunk by a colossal sea monster known only as the 'Celtorian Horror'.
 -   Following the submergence of Celtor, much of the rest of the [Southern Luminant](#the-southern-luminant) was pulled under the waves and consumed by the [Voidsea](#the-voidsea).
+
 -   Some of the Celtor Guard seem to have persisted since the Submergence.
 
 Dialogue: | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i) | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Southern Luminant](#the-southern-luminant)
@@ -185,6 +196,7 @@ Dialogue: | Books: [Capran Aphorisms](Books.md#capran-aphorisms) | Glossary Entr
 ### Kaide, the Drowned Light
 
 -   The last [Lightborn](#lightborn) king of Constellia before its fall.
+
 -   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
 -   Kaide now waits out the end of eternity.
 
@@ -194,6 +206,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyr
 
 -   A legendary figure from Etrean history. Revered as the heroic king who brought prosperity to Etrea, rejuvenating what was once little more than ruins.
 -   The King is said to have set off on a voyage with a small fleet of ships and never returned. Despite the time that has passed, many still wait for his return,
+
 -   King Rolen Vashtir I reigned through the early 6th century CE.
 
 Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Bade between](Books.md#stars-above-and-the-blade-between) | Glossary Entries:
@@ -209,7 +222,9 @@ Dialogue: [Ezra](Ezra.md) | Books: [Capran Aphorisms](Books.md#capran-aphorisms)
 
 -   A Goddess worshipped by many in the [Etrean Luminant](#the-etrean-luminant).
 -   Many believe that Mur was responsible for bringing about the knowledge that [Murmurs](#soul-murmur) to the Kingdom of Etrea.
+
 -   As with many Gods, the contemporary understanding is that Mur may have been a [Celestial](#the-celestials).
+
 -   Andros said they hadn't seen any accounts of Mur outside of the [Etrean Luminant](#the-etrean-luminant).
 
 Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
@@ -254,6 +269,7 @@ Dialogue: [Amashi](Amashi,_Master_of_Flame.md), [Zana](Zana.md) | Books: [God in
 ### Hereditary Vow
 
 -   An unusual kind of [Vow](#vows) that is passed down the one's descendants.
+
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a Hereditary Vow.
 
 Dialogue: | Books: [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects)
@@ -270,7 +286,9 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 -   A scant few are born with the Gift of [Lightkeeping](#lightkeep), with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
 -   Lightkeepers are afforded little freedom, when spending their lives wasting away in their [Lighthouses](#lighthouse) guarded by a legion of soldiers.
 -   A nation's economy rests on its Lightkeepers, with passage between the [Luminants](#the-luminants) being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
+
 -   Nimea mentioned that Lightkeepers are incapable of using the [Song](#the-song).
+
 -   The [Radiant Tones](#radiant-tones) utilised by adherents of the Dawnwalker [Oath](#oaths) are based on research into [Lightkeeping](#lightkeep), though are incapable of Illuminating the Void.
 
 Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Radiant Tones](#radiant-tones), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye)
@@ -301,7 +319,9 @@ Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Puni
 ### Radiant Tones
 
 -   Discovered by Klaris, the Radiant Tones are the foundations behind the Dawnwalker [Oath](#oaths).
+
 -   Klaris said she worked with Viqh, a [Lightkeeper](#lightkeep) from the [Etrean Luminant](#the-etrean-luminant).
+
 -   The Radiant Tones are said to be a Verse of the [Song](#the-song) that can reproduce Light.
 -   According to research conducted by the [Divers](#the-divers), they believe that [Lightkeepers](#lightkeep) use it latently for their abilities.
 -   Dawnwalkers emulate [Lightkeepers](#lightkeep), and while unable to produce Light, their abilities are very effective in fighting back the Deep.
@@ -325,6 +345,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Advanced usage of Vows can yield incredible effects, sometimes extending even beyond the limitations of the [Song](#the-song).
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
+
 -   Steward Bridges posited on his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
 Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Jericho's Journal](Books.md#jerichos-journal), [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
@@ -336,8 +357,11 @@ Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Jericho's Journal](
 -   The Moonseye is suspended at an equal distance between the [Surface](#the-surface) and the [Heavens](#the-heavens). It is most visible at night, though can be seen during the day.
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the [Suncross](#the-suncross).
+
 -   The Moonseye is believed the project the same Light as [Lightkeepers](#lightkeep).
+
 -   A [Celestial](#the-celestials) known as [Zhatarn](#zhatarn-the-moonlight-prince) is said to have stolen from the Moonseye and been driven mad by it.
+
 -   The [Starkindred](#the-starkindred-faith) believe that the Moonseye is a gateway to their promised land, and that the souls of [Celestials](#the-celestials) make their way to it to make preparations for the promised day.
 
 Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Lament of Cirryn](Books.md#lament-of-cirryn), [Neatly Embellished Notebook](Books.md#neatly-embellished-notebook), [O Pardoner of Mine](Books.md#o-pardoner-of-mine) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [The Lullaby Isles](#the-lullaby-isles), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
@@ -349,6 +373,7 @@ Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake]
 -   The Suncross follows a elliptical path over [Lumen](#lumen), with the ventre of its orbit seemingly beyond the [Voidfog](#the-voidfog).
 -   It's orbit is roughly equidistant between the [Surface](#the-surface) and the [Heavens](#the-heavens), though it oscillates on its lateral axis yearly, pitching towards the [Surface](#the-surface) in summer, and the [Heavens](#the-heavens) in winter. As a matter of course, the climate is typically colder and more changeable in Northern Lumen, and a more consistently warm temperature in Southern Lumen.
 -   The [Moonseye](#the-moonseye) can be seen as the Suncross's counterpart.
+
 -   Some [Starkindred](#the-starkindred-faith) believe the Suncross to be a [The Celestials](#the-celestials), though others disagree. To all of the faith, however, it is sacred.
 
 Dialogue: [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
@@ -360,12 +385,12 @@ Dialogue: [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: | Glossary E
 -   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the [Song](#the-song) within [Lumen](#lumen).
 -   A time of great expansion, discovery, and conflict.
 
-Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
+Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Old World](#the-old-world), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
 
 ### The Old World
 
 -   The times before the [Tides](#the-tides) arrived.
--   The Canticlysm is often thought of as the defining era of the Old World.
+-   The [Canticlysm](#the-canticlysm) is often thought of as the defining era of the Old World.
 
 Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](Books.md#a-deathscribes-journal), [Children of the Aftertide I](Books.md#children-of-the-aftertide-i), [Coldheart's Journal](Books.md#coldhearts-journal), [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-volume-north), [Our Fortress (Of Smoke And Steel)](Books.md#our-fortress-of-smoke-and-steel), [Studies on Canticlysm, Vol. IV](Books.md#studies-on-canticlysm-vol-iv), [The Song Fathoms / Oscillation](Books.md#the-song-fathoms--oscillation), [Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance) | Glossary Entries: [The Luminants](#the-luminants)
 
@@ -388,6 +413,7 @@ Dialogue: | Books: [Tale of the Storm](Books.md#tale-of-the-storm) | Glossary En
 
 -   All humans living in the possess an 'Aspect', a peculiar trait that is passed down through the generations.
 -   Many Aspects cause their inheritor to take on the traits of a particular animal. Rarely, Aspects can take on the traits of something more abstract.
+
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the Aspects of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 -   Bridges suggested that the traits of the Aspects could be the result of early worship of animals or of the land.
 
@@ -437,6 +463,7 @@ Dialogue: [Chud Steel](Chud_Steel.md), [Kelsius](Kelsius.md), [Sentinel Augustus
 -   Formerly the capital of the Celtor peoples, now a site of pilgrimage for those lost to the [Depths](#the-depths).
 -   At the centre lies the Cathedral of the Interstice, to which many travel in the hopes of succeeding in its Trial.
 -   The City of Celtor was dragged down from the Surface to the Depths in an event known as the [Submergence of Celtor](#the-submergence-of-celtor) in 904 CE.
+
 -   The City Guard speak of a deal, presumably a [Vow,](#vows) that they struck in order to keep the City safe.
 -   The guards are prevented from dispatching the monstrosities that stalk the city by the deal they struck.
 
@@ -445,7 +472,9 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftert
 ### Constellia, the Guiding Star
 
 -   One of the largest [Celestial](#the-celestials) cities in the [Heavens](#the-heavens).
+
 -   Constellia was reduced to rubble 77 years after it was abandoned by its [Celestial](#the-celestials) rulers.
+
 -   Constellia fell to a [Kyrsan](#kyrsan) invasion.
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spellhardt.md) | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
@@ -489,7 +518,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Gaius](Gaius.md) | Books: 
 
 -   The layers closest to [Lumen](#lumen) more closely resemble it, with the closest, Scyphozia resembling an undersea cave. Bubbles rise from [vents](#the-vents-the-third-layer), fish swim through the air, though those who find themselves there can still draw breath.
 -   Dangerous aquatic monstrosities roam Scyphozia, with some making their way to [Lumen's](#lumen) shores.
--   A notabe landmark in Scyphozia is the [Drowned City](#the-drowned-city-of-celtor) of Celtor, where many make their pilgrimage in hopes of salvation.
+-   A notable landmark in Scyphozia is the [Drowned City](#the-drowned-city-of-celtor) of Celtor, where many make their pilgrimage in hopes of salvation.
 
 Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](Books.md#the-interrogation-of-ranger-santiago-talo) | Glossary Entries: [Yun'Shul, Keeper of Hearts](#yunshul-keeper-of-hearts)
 
@@ -535,6 +564,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Carag
 ### The City of New Kyrsa
 
 -   The fabled city of New Kyrsa is thought to reside deep within the [Second Layer](#the-eternal-gale-the-second-layer)
+
 -   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
 
 Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Mendacia](Mendacia.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light)
@@ -543,6 +573,7 @@ Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Mendacia](Menda
 
 -   The inky black seas of the [Heavens](#the-heavens) above. Studded with twinkling points of light known as Stars.
 -   When night falls and the [Suncross](#the-suncross) retreats into the [Voidfog](#the-voidfog), the Nightsea becomes visible from the [Surface](#the-surface) below.
+
 -   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
 
 Dialogue: | Books: [A Light in the Sky](Books.md#a-light-in-the-sky) | Glossary Entries: [The Heavens](#the-heavens)
@@ -557,8 +588,10 @@ Dialogue: | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-v
 ### The Eternal Gale, the Second Layer
 
 -   Said to be a snow-torn hellscape buffeted by the Winds of [Ethiron](#ethiron-the-malestroms-eye), the Second Layer makes the First seem safe by comparison.
+
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the Second Layer are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan).
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
+
 -   The Second Layer is home to the legendary city of New Kyrsa.
 
 Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Castle Light](#castle-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Depths](#the-depths)
@@ -589,6 +622,7 @@ Dialogue: [Ploom](Ploom.md) | Books: [Lumen's Folklore: Volume 'Attunement'](Boo
 
 -   The impenetrable mists that surround and obscure [Lumen's](#lumen) skies.
 -   At a passing glance, they resemble clouds.
+
 -   On a closer observation, one can tell them apart by the way that light passes through them. Voidfog has subtle shimmering iridescence due to its distortion of light.
 
 Dialogue: | Books: [Studies on the Canticlysm, Vol. IV](Books.md#studies-on-the-canticlysm-vol-iv) | Glossary Entries: [Lumen](#lumen), [The Nightsea](#the-nightsea), [The Suncross](#the-suncross)

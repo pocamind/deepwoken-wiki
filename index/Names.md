@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 171740
+revid: 172054
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1908,6 +1908,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The name "Ohma" might be a reference to Ohma Tokita from Kengan Asura.
 -   The name "Gaius" might be a reference to one of the colossi from [Shadow of the Colossus](https://en.wikipedia.org/wiki/Shadow_of_the_Colossus).
 -   The name "Alucard" might be a reference to various media, though the most likely would be from [Castlevania](https://castlevania.fandom.com/wiki/Alucard) or [Hellsing](https://hellsing.fandom.com/wiki/Alucard).
+-   The name "Arthas" is a reference to [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil) from [Warcraft 3](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne)
 
 ## References
 

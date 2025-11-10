@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 170019
+revid: 172069
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -45,11 +45,12 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   Disable Enemy Vanity On/Off : Hides enemy equipment.
 -   Hide Spell Shouts On/Off : Disables spell shout visibility.
 
-## Accessibility (3)
+## Accessibility (4)
 
 -   Photosensitive Mode On/Off : Reduces the intensity of certain visual effects.
 -   Ping Compensation On/Off : Delays incoming damage slightly to help you react.
 -   Unlocked Sprinting On/Off : While sprinting in Camera Lock, face your movement direction.
+-   Sprint Input Behavior Hold/Toggle : Change whether you have to hold the sprint input, or whether you toggle it with each input.
 
 ## Controls
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 171963
+revid: 172037
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -48,6 +48,8 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
+
+  
 
 ## Attribute Mantras
 
@@ -1940,6 +1942,7 @@ Slash (1st Hit), Blunt (Kicks)
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
 -   Contrary to what's shown in the gif, the wind-up before the first hit does **not** have hyperarmor.
+-   The great axe, Iron Birch, has a talent named expeditious combo regarding this mantra where it will come out faster after an uppercut.
 
  |
 | 

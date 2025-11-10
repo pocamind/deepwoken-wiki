@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 168085
+revid: 172079
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -24,6 +24,7 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
 
 -   Has two exclusive [enemies](Enemies.md): [Nightmare Thresher](Nightmare_Thresher.md) and [Maljuror](Maljuror.md).
 -   "Brains" consisting of pulsating masses embedded with eyes that are chained up across the Rotlands. They aren't too common, but there's enough to cover a significant portion of the area.
+-   As of writing this (November Ninth, 2025) it appears that the "brains" (should've been called meatballs but whatever) are nowhere to be seen.
     
     One of the "Brains" found pulsating throughout the Rotlands.
     

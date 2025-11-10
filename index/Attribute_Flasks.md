@@ -1,6 +1,6 @@
 ---
 title: Attribute Flasks
-revid: 156749
+revid: 172080
 source: https://deepwoken.fandom.com/wiki/Attribute_Flasks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Ingredients, Items]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links, Ingredients, Items]
 ## Primordial Lotuses
 
 2 of the same Primordial Lotuses can be used to create attribute flasks of a specific stat (excluding attunements and weapons)
+
+Warning: This WILL take up an attribute point as though you used the training gear that related to the stat.
 
 ### Miasmic Lotus
 

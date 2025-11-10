@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 171659
+revid: 172071
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -194,6 +194,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Blood and Iron** is a reference to the [Roblox game](https://roblox-blood-iron.fandom.com/wiki/) of the same name.
 -   The [Mystic](Mystic.md) quote for the Talent category **Quack Doctor** is "[My cure is most effective](https://scp-wiki.wikidot.com/scp-049)."
 -   **Mythic Stability** is a reference to the [Sigil Knight Commander](https://rogue-lineage.fandom.com/wiki/Sigil_Knight_Commander) class from Rogue Lineage, which has a similarly named passive that also prevent executions.
+-   **Buster Call**, an [Authority Ensign](Authority_Ensign.md) [origin](Origins.md) exclusive talent, is most likely a reference to an ultimate military attack used by [the Marines](https://onepiece.fandom.com/wiki/Marines) in [One Piece](https://onepiece.fandom.com/wiki/One_Piece_Wiki), the [Buster Call](https://onepiece.fandom.com/wiki/Buster_Call), which calls forth a fleet consisting of 10 battleships led by 5 Vice Admirals.
 
 ## Weapons
 
@@ -266,7 +267,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 ### The Eastern Luminant
 
 -   [**Suri's Quest**](Suri.md) is probably a reference to the [Delicate Flower Quest](<https://hollowknight.fandom.com/wiki/Delicate_Flower_(Quest)>) from Hollow Knight due to having the same mechanic and both involving leaving a flower at a grave.
--   The [Shrine of Order](Deep_Shrines.md) might be a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
+-   The [Shrine of Order](Deep_Shrines.md) is a reference to the [Shrine of Order](https://riskofrain2.fandom.com/wiki/Shrine_of_Order) from _Risk of Rain 2._
 -   The [Derelict Highchurch's](Derelict_Highchurch.md) hidden library has a crystal in the celestial's room, which is the same model used for [Ya'Alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) in _Rogue Lineage_.
 -   The [Saramaed Hollow](Saramaed_Hollow.md) and [Ignition Delver](Ignition_Delver.md) Origin are a homage to the 2020 video game [Deep Rock Galactic](https://en.m.wikipedia.org/wiki/Deep_Rock_Galactic), in which players are tasked with mining ore while monsters are attempting to kill them.
 
