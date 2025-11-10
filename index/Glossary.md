@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 172082
+revid: 172183
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -594,7 +594,7 @@ Dialogue: | Books: [Lumen's Folklore: Volume 'North'](Books.md#lumens-folklore-v
 
 -   The Second Layer is home to the legendary city of New Kyrsa.
 
-Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Castle Light](#castle-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Depths](#the-depths)
+Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Castle Light](#castle-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Depths](#the-depths)
 
 ### The Southern Luminant
 

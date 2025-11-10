@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 171685
+revid: 172193
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1149,11 +1149,11 @@ These are Talents found in "_Falling Star Guard_" Category.
 | --- | --- | --- | --- |
 |  | Meteor Impact  
 (25 Flamecharm, Any "Rising" Mantra) | Aerial moves will follow up into a devastating slam. | After landing certain "uppercut" Mantras and weapon criticals, pressing M1 performs a Meteor Impact. This does your weapon's aerial attack damage + a flat amount unaffected by your Flamecharm investment.
-The Mantras that can proc this effect are as follows: Rising Flame, Flame Leap (and its spark variant), Rising Frost, Rising Wind, Lightning Impact, [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints, Rising Thunder (on Guard Break), and Wind Blade (but only the Tempest Wind variant).
+The Mantras that can proc this effect are as follows: Rising Flame, Flame Leap (and its spark variant), Rising Frost, Rising Wind, Lightning Impact, Flashfire Sweep, [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints, Rising Thunder (on Guard Break), and Wind Blade (but only the Tempest Wind variant).
 
  |
 |  | Phoenix Impact  
-(40 Flamecharm) | If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether. | N/A |
+(40 Flamecharm) | If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether. | It heals 4% max HP and restores 20 ether. |
 
 **Flame Dancer:**
 

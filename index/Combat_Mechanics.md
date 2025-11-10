@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 170273
+revid: 172182
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -553,7 +553,6 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 **Player Attacks**
 
 -   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
--   [Kanabo](Kanabo.md) critical (is parryable and dodgable despite having this indicator)
 
 **Boss Attacks**
 

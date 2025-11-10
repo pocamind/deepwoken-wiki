@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 171737
+revid: 172212
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -297,6 +297,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Pitcher \[Common Talent, Strength, Agility\] -** You can throw things further. (+3 Carry Load, +1 Passive Agility)
     -   In the April 15th, 2025 update, Pitcher has been made innate.
 
+-   **Prevailing Westerlies \[Oath Talent\] -** You gain maximum momentum faster while running. (+5 Ether, +5 Passive Agility)
+    -   In the March 29th, 2024 update, Prevailing Westerlies was merged into the base Jetstriker Oath Talent.
+
 -   **Pyromania \[Common Talent, Flamecharm\] -** Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
     -   In the October 6th, 2023 update, Pyromania was merged into Immolation.
 
@@ -419,7 +422,6 @@ This page is about content that has either been removed or changed drastically i
 -   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the August 25th, 2025 update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
 -   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the September 15th, 2025 update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
 -   **[Sea Highways](Sea_Highway.md) -** Removed on the October 25th, 2025 update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
--   **[Journal of Warden Jericho](Journal_of_Warden_Jericho.md) -** Removed on the November 8th, 2025 update, it was made no longer a requirement to unbound strength and can now be found as an actual [Book](Books.md) in [Fort Merit](Fort_Merit.md).
 
 ## Mystic
 

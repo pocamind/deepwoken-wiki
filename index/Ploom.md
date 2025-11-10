@@ -1,9 +1,9 @@
 ---
 title: Ploom
-revid: 157388
+revid: 172208
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame]
 ---
 
 # Ploom
@@ -16,7 +16,7 @@ categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 
 ## Overview
 
-Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.md). He provides the [Talent](Talents.md) [Pleeksty's Will](Talents.md#inferno), which allows the player to gain significantly more ether from consuming elemental ingredients. This requires either fifty (50) [Charisma](Attributes.md#cha), forty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
+Ploom is a Ganymede reading a book located within Lance's Food in [Etris](Etris.md). He provides the [Talent](Talents.md) [Pleeksty's Will](Talents.md#inferno), which allows the player to gain significantly more ether from consuming elemental ingredients. This requires either fifty (50) [Charisma](Attributes.md#cha), fourty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
 
 He wears the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 
