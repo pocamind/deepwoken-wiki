@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 167972
+revid: 172125
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -29,6 +29,8 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 
 ## Dialogue
 
+**First Encounter:**
+
 <table>
 <tbody>
 <tr>
@@ -56,7 +58,55 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 <tr>
   <td colspan="4"></td>
   <td colspan="2">End</td>
-  <td colspan="2">End</td>
+  <td colspan="2">End, player obtains the Legion Kata fighting style.</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+**Player obtained the fighting style from her:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8">Good to see you again comrade(Friend rep)/[Name](Ally rep), What brings you back to the camp?</td>
+</tr>
+<tr>
+  <td colspan="8">What business does the Legion have here?</td>
+</tr>
+<tr>
+  <td colspan="8">[See "First Encounter"]</td>
+</tr>
+<tr>
+  <td colspan="8">End</td>
+</tr>
+</tbody>
+</table>
+
+**Player doesn't have the fighting style yet:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8">Good to see you traveler (Low Rep) /comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td>
+</tr>
+<tr>
+  <td colspan="4">What business does the Legion have here?</td>
+  <td colspan="4">What do I need to do to learn your martial arts?</td>
+</tr>
+<tr>
+  <td colspan="4">[See "First Encounter"]</td>
+  <td>[See "First Encounter"]</td>
+</tr>
+<tr>
+  <td colspan="8">End</td>
 </tr>
 </tbody>
 </table>

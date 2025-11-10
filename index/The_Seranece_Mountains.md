@@ -1,6 +1,6 @@
 ---
 title: The Seranece Mountains
-revid: 172023
+revid: 172088
 source: https://deepwoken.fandom.com/wiki/The_Seranece_Mountains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Stub pages without reason, StubPages, Locations]
@@ -14,3 +14,9 @@ notices:
 LocationL The Seranece Mountains LocationR
 
 The cloud-piercing peaks of the Seranece Mountains beckon those who would seek refuge from the rising sea.
+
+  
+
+## Description
+
+A snowy, mountainous location, vaguely resembling [Minityrsa](Minityrsa.md). Supposedly, one of the mid-game grinding locations, as it can be seen in multiple Deepwoken test clips.

@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 170582
+revid: 172116
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones, Dungeons]
@@ -15,10 +15,6 @@ Template:Location2
 Boatman's Watch is a small island located in the [Voidsea](Voidsea.md). The island is covered in vegetation and an arena can be found in the center.
 
 -   Boatman's Watch can be found in the Eastern Luminant, by sailing through the gate to the right of [Miner's Landing](<Miner's_Landing.md>), then taking a left off the highway and sailing past the left side of a giant rock you'll see in the ocean. If you see multiple whirlpools or floating trees, you're in the right direction.
-
-## Potential Enemies
-
--   [The Ferryman](The_Ferryman.md)
 
 ## Missions
 

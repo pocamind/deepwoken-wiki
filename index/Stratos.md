@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 168049
+revid: 172137
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -17,17 +17,17 @@ categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs loca
 
 ## Description
 
-**Stratos** is the second-in-command of the Blade Temple, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md), otherwise he refuses to talk to you UNLESS you have his [delivery](<Lance's_Brother.md#crate-delivery-quest>). In which case, he will pay you 25 Notes for the trouble. He says that he will teach you once you feel the "essence of the wind", starting his [quest](#windwaker-quest).
+**Stratos** is the second-in-command of the Blade Temple, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md) (around ~75 reputation, in the middle of neutral and ally points), otherwise he refuses to talk to you UNLESS you have his [delivery](<Lance's_Brother.md#crate-delivery-quest>). In which case, he will pay you 25 Notes for the trouble. He says that he will teach you once you feel the "essence of the wind", starting his [quest](#windwaker-quest).
 
 ## Windwaker Quest
 
 To complete the quest, you need to sail for ≈15 minutes total on sea highways. This quest cannot be progressed on an Ironclad, as it lacks sails. You may also need to have the wind backing your sails on the sea highways.
 
-**Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md) with a minimum of 50 points invested, also you need to have "Friend" reputation with Etrea.** You can complete the quest, just without reward.
+**Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md) with a minimum of 20 points invested, also you need to have "Friend" reputation with Etrea (75).** You can complete the quest, just without reward.
 
 ### The Reward
 
-After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](Talents.md#flamecharmer)", "[Flame Within](Talents.md#amoran-seeker)" and "[Discovery of Fire](Talents.md#thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
+After reaching 20 Galebreath and around ~75 reputation with Etrea, return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](Talents.md#flamecharmer)", "[Flame Within](Talents.md#amoran-seeker)" and "[Discovery of Fire](Talents.md#thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
 
 File:Arch proof.png
 
@@ -95,3 +95,4 @@ Food Delivery quest
 
 -   The name of the Talent is taken from _The Legend of Zelda: The Wind Waker_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines: "Nice try." "What was that? I felt a calm breeze..."
+-   The quest previously wanted you to sail on wind highways for a certain amount of time, but after the removal of sea highways, Stratos will just give you the talent after returning to him.

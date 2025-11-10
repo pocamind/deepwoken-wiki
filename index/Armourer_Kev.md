@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 171026
+revid: 172115
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -17,7 +17,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, The Central
 
 ## Description
 
-Armourer Kev is a [Adret](Adret.md) NPC, he is the armorer for [The Central Authority](The_Central_Authority.md) and sells a variety of [Weapons](Weapons.md).
+Armourer Kev is a [Adret](Adret.md) NPC, he is the armorer for [The Central Authority](The_Central_Authority.md) and sells a variety of [Weapons](Weapons.md) related to the faction that are locked behind the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 
 ## Location
 

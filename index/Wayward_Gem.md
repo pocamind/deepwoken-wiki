@@ -1,6 +1,6 @@
 ---
 title: Wayward Gem
-revid: 171190
+revid: 172118
 source: https://deepwoken.fandom.com/wiki/Wayward_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -31,7 +31,8 @@ Upon landing a Mantra with a Wayward Gem equipped, you will be teleported to you
 ### Notes
 
 -   This Gem is best used on high knockback Mantras or Mantras that displace either your own or your opponent's location. This Mantra is also a great choice for ranged Mantras.
--   Wayward Gem cannot be procced on [Revenge](Attunement-less.md#revenge).
+-   Wayward Gem has a range cap of ~500 studs, though no Mantras will reach this cap.
+-   Wayward Gem cannot be procced on [Revenge](Attunement-less.md#revenge) and [Ascension](Oath%253A_Starkindred.md#combat-mantras).
 
 ## Crafting
 

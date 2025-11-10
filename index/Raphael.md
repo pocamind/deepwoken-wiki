@@ -1,6 +1,6 @@
 ---
 title: Raphael
-revid: 171631
+revid: 172107
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, Quests]
@@ -16,11 +16,13 @@ categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, Quests]
 
 ## Description
 
-Raphael is a mysterious [Celtor](Aspects.md). He offers the player the unfinished quest to find 'Morning'. Based on his dialogue after accepting the quest but not completing it, it can be assumed that he works for some sort of shadow organization. It is hinted that he is a member of [The Ministry](The_Ministry.md) as he has different dialogue when you have neutral+ ministry rep.
+Raphael is a mysterious [Celtor](Celtor.md) NPC. He offers the player the unfinished quest to find 'Morning'.
+
+Based on his dialogue after accepting the quest but not completing it, it can be assumed that he works for some sort of shadow organization. It is hinted that he is a member of [The Ministry](The_Ministry.md) as he has different dialogue with neutral or higher Ministry Reputation.
 
 ## Location
 
-Raphael is located in [The Depths](The_Depths.md) within [The City of the Drowned](The_City_of_the_Drowned.md) in a house inside the [Varicosa District](Varicosa_District.md).
+Raphael is located in [The City of the Drowned](The_City_of_the_Drowned.md) inside a building within the [Varicosa District](Varicosa_District.md).
 
 ## Dialogue
 

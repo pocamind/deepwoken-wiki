@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 172059
+revid: 172082
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -14,7 +14,7 @@ _This page is about the dialogue-related mechanic. If you were looking for a glo
 
 The Glossary is a feature that explains terminology and events in game that reveal information about certain topics. Glossary entries can be accessed by clicking underlined words or phrases in NPC dialogue.
 
-Glossary entries can be expanded when interacting with those who reveal more information on the topic. Information from different sources are separated in boxes. Glossary entries that have information yet to be found will have a puzzle icon next to their name saying, "There is more to be discovered..."
+Glossary entries can be expanded when interacting with those who reveal more information on the topic. Information from different sources are separated in boxes. Glossary entries that have information yet to be found will have a puzzle icon next to their name saying, _"There is more to be discovered..."_
 
 The Glossary can be accessed anytime by clicking on the Encyclopedia button at the top left of the screen.
 

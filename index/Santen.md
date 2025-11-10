@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 171012
+revid: 172114
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
@@ -73,7 +73,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*She pauses at your approach, a little stilted.*</i> If Jericho's sent you, Warrant Officer, the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</td>
+  <td><i>*She pauses at your approach, a little stilted.*</i> If Jericho's sent you, [Rank], the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</td>
 </tr>
 <tr>
   <td>End</td>
