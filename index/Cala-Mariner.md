@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 162607
+revid: 172476
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Master Outfits]
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Master Outfits]
 | Cala-Mariner | |
 |---|---|
 | caption | The tattoo sprawling across your chest serves as a physical memory of the aquatic foes you have felled, and as a keen warning to those who would stand in your way. |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x3 Cloth , x4 Fiber, x5 Odd Tentacles, x1 Blue Gem, x1 Nautilodaunt Beak, x10 Vibrant Gems |
 | price | 1,000 |
 | stat_req | Power 155 Willpower |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2200 |
 | resistances | +25% Physical Armor, +35% Elemental Armor, +30% Wind Armor, +25% Blood Armor |
 | buffs | +45% Ether Regen, +20 Sanity |
@@ -25,7 +25,7 @@ categories: [Items, Outfits, Master Outfits]
 | selling_price | 10 |
 | weight | 1 |
 
-**Cala-Mariner** is a Master [Outfit](Outfits.md) in _Deepwoken_.
+**Cala-Mariner** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

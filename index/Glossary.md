@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 172239
+revid: 172479
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -145,6 +145,8 @@ Dialogue: | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vo
 
 -   Some of the Celtor Guard seem to have persisted since the Submergence.
 
+Dialogue: [Celtorian Guard](Celtorian_Guard.md)
+
 ## Factions
 
 ### The Central Authority
@@ -224,6 +226,8 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md) | Glossary Entries:
 
 -   King Rolen Vashtir I reigned through the early 6th century CE.
+
+Books: [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
 
 ### Ku, the Mother
 
@@ -313,6 +317,8 @@ Dialogue: [Nimea](Nimea.md)
 
 -   The [Radiant Tones](#radiant-tones) utilised by adherents of the Dawnwalker [Oath](#oaths) are based on research into [Lightkeeping](#lightkeep), though are incapable of Illuminating the Void.
 
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+
 ### Mantra
 
 -   A small passage of the [Song](#the-song) that can be 'spoken' in order to invoke its effects into being.
@@ -350,6 +356,8 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 -   According to research conducted by the [Divers](#the-divers), they believe that [Lightkeepers](#lightkeep) use it latently for their abilities.
 -   Dawnwalkers emulate [Lightkeepers](#lightkeep), and while unable to produce Light, their abilities are very effective in fighting back the Deep.
 
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep)
+
 ### The Song
 
 -   Thought to be the source of much of the 'magic' of [Lumen](#lumen), its wielders often invoke its magic through the use of [Mantras](#mantra).
@@ -386,7 +394,11 @@ Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake]
 
 -   The Moonseye is believed the project the same Light as [Lightkeepers](#lightkeep).
 
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+
 -   A [Celestial](#the-celestials) known as [Zhatarn](#zhatarn-the-moonlight-prince) is said to have stolen from the Moonseye and been driven mad by it.
+
+Glossary Entries: [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 -   The [Starkindred](#the-starkindred-faith) believe that the Moonseye is a gateway to their promised land, and that the souls of [Celestials](#the-celestials) make their way to it to make preparations for the promised day.
 
@@ -601,6 +613,8 @@ Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Mendacia](Menda
 
 -   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
 
+Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+
 ### The Nightsea
 
 -   The inky black seas of the [Heavens](#the-heavens) above. Studded with twinkling points of light known as Stars.
@@ -609,6 +623,8 @@ Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Mendacia](Menda
 Dialogue: | Books: [A Light In The Sky](A_Light_In_The_Sky.md) | Glossary Entries: [The Heavens](#the-heavens)
 
 -   Seeing them through the telescope, you know that the Stars of the Nightsea are in reality the ruins of Celestial civilization.
+
+Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2)
 
 ### The Northern Luminant
 

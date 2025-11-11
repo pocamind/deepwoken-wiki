@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 172441
+revid: 172466
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -38,4 +38,4 @@ When equipped, even while its visibility is toggled off, it will play an animati
 -   This [Equipment](Equipment.md) piece shares the same innate stats as [Celtor Commander Helm](Celtor_Commander_Helm.md).
 -   Goes great with [Curse of the No Life King](Curse_of_the_No_Life_King.md) builds, due to the fact that the innate Talent decreases blood loss, one of No Life King's greatest weaknesses.
     -   Be aware that NLK has heavily reduced effectiveness from both [Cauterized Wounds](Talents.md#cauterized-wounds) and [Alloyblood](Talents.md#alloyblood).
--   Used to be one of, if not the most valuable items in the game. It was also one of the rarest and therefore most sought after items, and still is but has been overshadowed by new and rarer items.
+-   Due to its rarity, age, and prevalence within the trading community, this item is seen as the baseline item for trading, where the value of other items is often measured in comparison to the Bloodforged Crown. However, the Bloodforged Crown's value has declined over time, as rarer and more sought after items have been added to the game.

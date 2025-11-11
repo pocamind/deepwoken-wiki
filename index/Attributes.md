@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 171853
+revid: 172482
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -83,9 +83,9 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   Reduces the vision cone of NPCs and Monsters.
     -   [Parrying Daggers](Parrying_Dagger.md) and [Kyrstears](Kyrstear.md) have an Agility requirement to wield.
 -   Unlocks Agility-related [Talents](Talents.md) and [Mantras](Attunement-less.md#agility-mantras).
--   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the Ankle Weights.
+-   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the [Ankle Weights](Training_Gear.md#attribute-training-gears).
 -   _**[Unbounded](Attributes_Unbound.md#agility-unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).**_
-    -   _You can watch a guide to get to the Windrunner with [Jetstriker](Oath%253A_Jetstriker.md) and 75 agility [here](https://youtu.be/RoDUDMDaK_g) ._
+    -   _You can watch a guide to get to the [Windrunner](Windrunner.md) with [Jetstriker](Oath%253A_Jetstriker.md) and 75 agility [here](https://youtu.be/RoDUDMDaK_g) ._
 
 ### Intelligence (INT)
 
@@ -93,9 +93,9 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   One point in Intelligence gives 2 Ether.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [Talents](Talents.md) and [Mantras](Attunement-less.md#intelligence-mantras).
--   Gain Intelligence EXP via foraging, [fishing](Fishing.md), [brewing potions](Alchemy.md), discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
+-   Gain Intelligence EXP via foraging, [Fishing](Fishing.md), [brewing potions](Alchemy.md), opening unread [Books](Books.md), discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
     -   If you are using the Math Textbook, you will have to do a math problem.
--   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
+-   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a [Bluecap](Bluecap.md).**_
 
 ### Willpower (WLL)
 
@@ -104,7 +104,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
         -   [Ganymede](Ganymede.md) has a 1.2x Sanity gain multiplier, meaning they gain 3.6 Sanity per point in Willpower.
 -   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras).
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, regenerating sanity, having an empty stomach, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
--   _**[Unbounded](Attributes_Unbound.md#willpower-unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
+-   _**[Unbounded](Attributes_Unbound.md#willpower-unbound) by talking to [Akira](Akira.md) in [Celtor Wastes](Celtor_Wastes.md) and then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 -   It takes around 35 seconds to level up your Willpower without any xp using Prayer Beads. Therefore about 8 minutes and 45 seconds for [15 investment points](Character_Stats.md).
 
 ### Charisma (CHA)

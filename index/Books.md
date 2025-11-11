@@ -1,11 +1,9 @@
 ---
 title: Books
-revid: 172384
+revid: 172478
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, Items]
-notices:
-  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
+categories: [Items]
 ---
 
 # Books
