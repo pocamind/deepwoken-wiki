@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 168746
+revid: 172406
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty"]
@@ -180,7 +180,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsgarde</a>! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old Kyrsan Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
+  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsgarde</a>! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
 </tr>
 <tr>
   <td colspan="6"></td>
@@ -233,7 +233,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <tr>
   <td colspan="3"><i>*The man backs off, readjusting his cap once more.*</i> Aye. Aye, I can tell that. So, 'yer not a <i>government agent</i>, you've proven that much. Now.. who are you? Why are you <i>really</i> down here? Surely that mission of yours was a jest to fool me.</td>
   <td colspan="3"></td>
-  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsgarde</a>! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old Kyrsan Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
+  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsgarde</a>! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
 </tr>
 <tr>
   <td colspan="3">I spoke the truth.</td>
@@ -261,12 +261,12 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td>I see. And you are?</td>
 </tr>
 <tr>
-  <td><i>*He slams his chest with pride, his armor clanging loudly from the impact.*</i> Call me Orlandeau! <i>Cap'n</i> Orlandeau! I may not have a crew-family anymore, but I have my heart to guide me. Despite the less than ideal circumstances... I'll keep my bicorn high. My crew's will lives on with with me, and this city... <i>*A feint glint in his eye sparks, as a wide grin spreads across his face*...</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] is our final plunder.</td>
+  <td>[See <font>"My name is [First Name]. And you are?"</font>]</td>
   <td>Aye. What's there to like about those who see you as insects? What's there to like about those who send you into a hell no sorry soul could walk out of? <i>*He gestures to the area around him, waving his hands as if to go 'see, see'*</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh, I don't wanna be down here till I die, [First Name]. But the powers that be deem me to be <i>slaughtered</i> should I show my face up above! So, I die as a fugitive on the run forever... or I die here. <i>*His expression turns more somber for a moment, before shaking his head.*</i> I'll try to escape eventually, [First Name], but even with the wealth of this city in my pockets, I'd have numbered days.</td>
   <td>[See first instance]</td>
 </tr>
 <tr>
-  <td>[See first instance]</td>
+  <td></td>
   <td>End</td>
 </tr>
 </tbody>

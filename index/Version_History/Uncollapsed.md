@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 168545
+revid: 172445
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -23,6 +23,145 @@ Something is considered a patch if it's added after an update but doesn't contai
 The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
 
   
+
+## **November 8th, 2025**
+
+**Hallowtide '25: Week 2**  
+💡 New Hallowtide Weapon: Moppet  
+💡 New Outfit Talent: Hyperbody  
+💡 New Outfit Talent: Soul Rip  
+💡 Hallowtide '25 Medal now available to purchase  
+🔧 Suddenly remembering that they're from a wealthy and noble lineage, the Spellhardt Family have decided to dress fancy, giving themselves a visual refresh. New members of the family have also come out to enjoy the festivities. Farewell, random Antiquarian, Blacksmith, and Mantra Collector - and welcome Brasidas, Louie, and Leaf Spellhardt!  
+  
+**Improved Matchmaking**  
+💡 Overworld places now matchmake you into servers with players that have a similar amount of experience in the game to you. This is based on account-wide milestones, not specific slots. A third of players have had this matchmaking enabled for the last week, and it's resulted in a better new player experience by a pretty big statistical margin  
+  
+**Content & Systems**  
+💡 Added a new method for uncapping your strength. Out by Miner's Landing, a man pushes a boulder up a hill endlessly  
+💡 Added a setting for held-input sprinting  
+🔀 'Berserker' talent renamed to 'Brassneck' to avoid confusion with 'Berserk' talent  
+🔧 Jericho's Journal is now readable as a book and has been moved to Fort Merit. The journal is no longer a method for uncapping strength  
+🔧 Changed the appearances of certain minor NPCs in order to fix certain lore inconsistencies (e.g. Nanji, an Etrean, wearing a Navaen outfit)  
+🔧 Made the boon/flaw selection in character creation a lot easier to use  
+🔧 Pumpkin pie can now also be crafted with Thresher Eggs  
+  
+**Balancing**  
+⏫ Bladeharper combat mantra slots increased 2 -> 3  
+⏫ Bladeharper multislash buffed from a total of 24 oath & slash damage to 39  
+⏫ Braced Collapse no longer gets used up unless the hit it reduces the damage for actually deals damage  
+⏫ Duration for Acheron Warspear's Vital Wound and Crucible Rapier's Punishing Riposte massively increased  
+⏫ Goodie Bag drop rates have been slightly increased for the last week of Hallowtide  
+⏫ Messer's Finishing Slay's damage increased  
+⏫ You can now make Fishing Rods without a Craft Station  
+⚖️ Nemesis now does set damage instead of being based on weapon damage  
+⚖️ Kanabo homerun now has hyperarmor after the stomp sequence. Deceptive telegraph has been removed  
+⚖️ Kanabo running attack no longer applies knockdown. Last hit now ragdolls and has knockback  
+⚖️ Soulthorn non-teleport crit tweaked to pull enemies towards you more efficiently  
+⏬ Smouldering Hallow base range reduced 8 -> 7.5  
+⏬ Toned down Smouldering Hallow's critical significantly in all areas, cooldown increased 10s -> 15s  
+⏬ Worldpiercer Gauntlets base damage reduced from 18 to 16.5  
+  
+**Bugfixes & Optimization**  
+⚙️ Fixed a few memory leaks with character instances  
+⚙️ Optimized Silent Cascade VFX  
+🩹 Fixed a sneaky way of skipping the Kennith quest  
+🩹 Fixed Campfire Disguise locking you from being able to move  
+🩹 Fixed Celtor markings having eye cutouts  
+🩹 Fixed certain NPCs getting scared by the Hallowtide Mask in cases where they shouldn't have been spooked  
+🩹 Fixed instanced areas missing 2 points of the Suncross  
+🩹 Fixed Sailor's Fleece & Mist Assassin Cloak being unsellable  
+🩹 Fixed Soulthorn sometimes giving you lingering Hyperarmor  
+🩹 Fixed the ambience in character creation  
+🩹 Fixed the Hide Names setting  
+🩹 Fixed the NPCs in The Floating Keep constantly changing their appearance at random  
+🩹 Fixed world event map pointers  
+🩹 Fixed friends not showing on the server list  
+🩹 Fixed the 'Previous Server' option not appearing
+
+## **October 31st, 2025**
+
+**Hallowtide 2025: Week 1**  
+_Hallowtide returns once again! The famed floating keep of the Spellhardt family has once again made an appearance, with unique rewards both old and new ready for the taking!  
+As always, Week 2 will have even more in store!_  
+💡 New Hallowtide Gem: Nocturnal Gem  
+💡 New Hallowtide Outfit Talent: Bane  
+💡 New Hallowtide Outfit Talent: Demon Step  
+💡 New Hallowtide Outfit Talent: Life Leech  
+💡 New Hallowtide Outfit: Familiar Assassin's Armor  
+💡 New Hallowtide Outfit: Familiar Demon's Armor  
+💡 New Hallowtide Outfit: Familiar Occultist's Armor  
+💡 New Hallowtide Relic: Goodie Bag  
+💡 New Hallowtide Torso Equipments: Crawling Necktie & Death's-Head Necktie (thanks iiPessimystic for design help)  
+💡 New Hallowtide Weapon: Smouldering Hallow  
+💡 New Hallowtide Weapon: The Weaving Web  
+💡 New Ingredient: Pumpkin  
+  
+**Content & Systems**  
+💡 New Arcwarder Talent: Arc Module: Enhance  
+💡 New Starkindred Talent: Ichor Imbuement  
+💡 Added Streamer Mode setting. Alters the behavior of certain UI's to make it harder for players to find your server  
+💡 Added a setting to hide the player list  
+💡 Added icons for different Authority ranks  
+💡 New Recipe: Pumpkin Pie  
+🔧 Implemented new VFX for Strong Left  
+  
+**Balancing**  
+⚖️ The hitbox for rectangular hitbox weapons (e.g. spears) has been adjusted. Of the 2 hitboxes, the second is now slightly longer and slightly thinner. This should help keep the attack ranges consistent with spherical hitbox weapons and also reduce the 'phantom range' effect sometimes experienced  
+⏫ Arcwarder's Arc Beam now also reduces your posture when you are in your suit similar to Arc Wave  
+⏫ Familiar Knight's Armor / Familiar Heretic's Armor stats buffed up, crafting requirements / level / cost adjusted to reflected this. They will get their talents at another time  
+⏫ Frost Wisp intensity increased  
+⏫ I'm Blue equipment talent buffed  
+⏫ Inquisition Light now has 50 stealth  
+⏫ Lasting Trauma duration buffed  
+⏫ Parasol's Blight now no longer attacks the owner and now no longer despawns  
+⏫ Rending Needle: Augmenter lasts a bit longer  
+⏫ Wretched Mawblades initial hitbox range increased somewhat  
+⚖️ Authority Vice Warden no longer uses Jumper Cables  
+⚖️ Heavenly Wind now has consistent speed across all ranges, should stop it acting weird and sometimes delaying the attack while also serving as a potential buff for consistency  
+⏬ Arcwarder's Arc Module: Leap cooldown increased  
+⏬ Fulgurite Formation now has a 4 second cooldown  
+⏬ Glare windup increased 0.45 -> 0.49  
+⏬ Iron Quills now has proper endlag, you were able to attack while the quills were still on you  
+⏬ Starkindred now only gets 1 boosted dash while in the air, this gets reset whenever they touch the ground  
+⏬ Temperature Shock now has a 4 second cooldown  
+⏬ Throw range reduced 12 -> 10  
+⏬ Tornado posture reduced  
+⏬ Twinblades now have slight endlag at the end of their running attacks  
+🔧 Effigy Teleport relics as well as other dungeon group teleporters will no longer teleport players who are in spawn protection  
+🔧 Reduced the amount of falling Debris from Titus Second Phase  
+🔧 Reduced the ragdoll duration on Titus Warp Kick  
+  
+💡 Added subtle range indicator VFX for spherical hitbox weapons  
+  
+**Bugfixes & Optimization**  
+🩹 Fixed Character Creation being seven leagues under the sea sometimes  
+🩹 Fixed Oathskips for Bladeharper, Chainwarden  
+🩹 ACTUALLY fixed Officer's Slash being unobtainable  
+🩹 Fixed a longstanding bug where dropping notes would drop them where your character stood when the button was first pressed, instead of where your character stands after having selected the amount of notes to drop  
+🩹 Fixed Authority Origin spawn location not being properly set to Merit's Reach  
+🩹 Fixed Crystal Impale not knocking opponents down  
+🩹 Fixed feinting Ice Fissure not cancelling the animation, allowing it to hide anims  
+🩹 Fixed Galetrap going through parry and dodge  
+🩹 Fixed Golden Age not actually detonation Surge or Crystal stacks  
+🩹 Fixed Parasol's pathing  
+🩹 Fixed Providence's Thorns bypassing Heart of Enmity's enchant immunity  
+🩹 Fixed Razor Blitz going through parry  
+🩹 Fixed Rising Wind sometimes hitting through block  
+🩹 Fixed Royal Pathfinder not being in lootpool  
+🩹 Fixed Shadow Eruption having a bigger hitbox than VFX  
+🩹 Fixed Slice 'n' Dice not moving you forward when your camera was below a certain angle  
+🩹 Fixed some issues with loading in that have persisted since a few months ago  
+🩹 Fixed Starkindred's Fire Blade variant not working and now has a bit more leeway so you can use it after you jump  
+🩹 Fixed Steel Tread not working  
+🩹 Fixed Stratos Step not working  
+🩹 Fixed Temp HP's cap being overridden in certain instances
+
+### _**Patch 2.4.9a**_
+
+**Hotfixes**  
+🩹 Fixed hitting Gourdskippers hitting you instead  
+🩹 Fixed new outfits having 5000% stealth  
+🩹 Fixed spoilers 🤫
 
 ## **October 25th, 2025**
 
@@ -53,6 +192,13 @@ The update highest on the webpage (the one right below the legend) is the most r
 🩹 Fixed Duke of Erisia dungeon entry not spawning in the minions at the correct location, making the dungeon inaccessible  
   
 _Just a small patch this week as we're hard at work on getting Hallowtide and the other roadmap milestones shipshape._
+
+### _**Patch 2.4.8a**_
+
+**Balance Hotfix**  
+⏬ Temporary health is now capped to a flat value of 200  
+⏬ Enhanced Flow is now capped to a maximum of 50 temp HP per proc  
+🩹 Fixed Poser's Ring proccing Engage/Enhanced Flow twice (once on 'stored' hit, once on sheathe hit)
 
 ## **October 18th, 2025**
 

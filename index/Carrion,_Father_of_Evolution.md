@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 167890
+revid: 172398
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
@@ -86,7 +86,7 @@ His wild white hair and unique green eyes are side effects of a Moonseye Vigour 
   <td>What's your name?</td>
 </tr>
 <tr>
-  <td><i>*He pauses as if giving the question some thought.*</i> You can call me.... Dr. <a href="Glossary.md#the-divers">Diver</a>. <i>*He says looking at you, grinning from eat to ear.*</i></td>
+  <td><i>*He pauses as if giving the question some thought.*</i> You can call me.... <b>Dr. <a href="Glossary.md#the-divers">Diver</a></b>. <i>*He says looking at you, grinning from eat to ear.*</i></td>
 </tr>
 <tr>
   <td>I mean a real name.</td>

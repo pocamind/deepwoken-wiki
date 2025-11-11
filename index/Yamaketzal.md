@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 166310
+revid: 172397
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -119,7 +119,7 @@ These two behaviors implies that, combined with his general knowledge of the wor
 </tr>
 <tr>
   <td colspan="6">Me? Songmast'r Tz'araan, I am... The mighty Songseeker mistress... Think free for yerself, student... But not outside th' box!... Heh heh...</td>
-  <td colspan="6">Mentions <a href="Lore.md#songmaster-tzaraan">Songmaster Tz'araan</a>, the Songseeker mistress.</td>
+  <td colspan="6">Mentions <a href="Tz'araan.md">Songmaster Tz'araan</a>, the Songseeker mistress.</td>
 </tr>
 </tbody>
 </table>

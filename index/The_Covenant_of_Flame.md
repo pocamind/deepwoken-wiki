@@ -1,9 +1,12 @@
 ---
 title: The Covenant of Flame
-revid: 172393
+revid: 172438
 source: https://deepwoken.fandom.com/wiki/The_Covenant_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions, The Covenant of Flame]
+categories: [Stub pages without reason, StubPages, Pages requiring a cleanup, Factions, The Covenant of Flame]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # The Covenant of Flame
@@ -16,7 +19,7 @@ categories: [Factions, The Covenant of Flame]
 
 The Covenant of Flame are a group of people, who worship [Amorus Pleeksty](Amorus_Pleeksty.md), the [Deepwoken](Lore.md#deepwoken) and creator of Flamecharm, and study his way of using [Flamecharm](Flamecharm.md).
 
-There's not much currently known about this [faction](Factions_&_Groups.md), as they don't appear in-game very much and do not hold any global power; it is expected that more information on them will appear when Layer 3, the Carnal Vents, is released.
+There's not much currently known about this [faction](Factions_&_Groups.md), as they don't appear in-game very much and do not hold any global power.
 
 They mainly wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) (though there is one known exception), due to it is featuring their emblem and their name.
 

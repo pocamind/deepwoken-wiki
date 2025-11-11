@@ -1,6 +1,6 @@
 ---
 title: Suspicious Skeleton
-revid: 170034
+revid: 172416
 source: https://deepwoken.fandom.com/wiki/Suspicious_Skeleton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide, NPCs located in The Floating Keep]
@@ -11,11 +11,12 @@ categories: [NPCs, Hallowtide, NPCs located in The Floating Keep]
 | Suspicious Skeleton | |
 |---|---|
 | name | Suspicious Skeleton |
+| alias | The Bone Rattler |
 | location | The Floating Keep |
 
 ## Description
 
-The Suspicious Skeleton is a pile of bones located near the Blacksmith in [The Floating Keep](The_Floating_Keep.md). It appears to serve no purpose as it was fired from it's previous bone rattling job.
+The Suspicious Skeleton is a pile of bones located near the Blacksmith in [The Floating Keep](The_Floating_Keep.md). It appears to serve no purpose as it was fired from its previous bone rattling job.
 
 ## Dialogue
 

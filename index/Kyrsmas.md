@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas
-revid: 170211
+revid: 172427
 source: https://deepwoken.fandom.com/wiki/Kyrsmas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles", Events]

@@ -1,9 +1,9 @@
 ---
 title: "Adar, Master of Metal"
-revid: 167683
+revid: 172440
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Attunement Trainers, NPCs, Ignition Union Enemies, The Ignition Union, NPCs located in the Eastern Luminant]
+categories: [Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
 ---
 
 # Adar, Master of Metal

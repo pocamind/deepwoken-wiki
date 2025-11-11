@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 172327
+revid: 172422
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -8,12 +8,13 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 
 # Galpin Spellhardt, Musicologist Extraordinaire
 
-| Galpin Spellhardt | |
+| Galpin Spellhardt, Musicologist Extraordinaire | |
 |---|---|
 | name | Galpin Spellhardt |
-| alias | G. |
+| alias | Professor Galpin Spellhardt, G. |
 | aspect | Lightborn |
 | location | The Floating Keep |
+| affiliation | Empyreal College of Cadence (formerly) |
 | family | Spellhardt family |
 
 ## Description
@@ -21,8 +22,6 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 Galpin is a male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md), on a walkway on the right side of the castle. From his wrinkles, he seems to be at least 70 years old, due to how [Aging](Age.md) works. He is also wearing the [Icebringer's Vestments outfit](<Icebringer's_Vestments.md>).
 
 Once you have enough [Joy](Joy.md), you can exchange it with him for exclusive 2024 [Hallowtide](Hallowtide.md) rewards related to [instruments](Instruments.md) and [music](Books.md). You can obtain the Spectral Instrument Set from him for 200 Joy, alongside some books and music sheets.
-
-### Lore
 
 Galpin is a Musicologist who was also a faculty chair at The Empyrean College of Cadence. He collects various pieces of instruments and music sheets for his collection. Due to an arrangement [Lysander Spellhardt](Lysander_Spellhardt.md) made, kids can be allowed candy for Hallowtide as usual, but adults were not allowed any unless they bring Lysander some [Joy](Joy.md), which is the main reason why Galpin asks the player to get him some Joy.
 
