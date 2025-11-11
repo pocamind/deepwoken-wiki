@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 166406
+revid: 172230
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -160,7 +160,7 @@ Strike forward with your elbow, following up with three Soulwrought slashes, the
 
 ### Soulwrought Spear
 
-Jump up and fire three Soulwrought beams. Also used by [Angels](Hollow_Angel.md). Deals **typeless** damage.
+Jump up and fire three Soulwrought beams. Also used by [Sworn Angels](Sworn_Angel.md). Deals **typeless** damage.
 
 ### Soulwrought Greataxe
 

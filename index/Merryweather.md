@@ -1,6 +1,6 @@
 ---
 title: Merryweather
-revid: 168025
+revid: 172255
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -17,7 +17,7 @@ categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Uni
 
 ## Description
 
-Merryweather is a Canor NPC that appears to be working for [The Ignition Union](The_Ignition_Union.md), she seems to be studying the Worms next to her.
+Merryweather is a Canor NPC that appears to be working for [The Ignition Union](The_Ignition_Union.md). She seems to be studying the [worms](Worm.md) next to her.
 
 ## Location
 

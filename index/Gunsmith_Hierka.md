@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Hierka
-revid: 171109
+revid: 172390
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Hierka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Gunsmiths]
+categories: [In progress without reason, InProgressPages, Gunsmiths, Bureau of Research personnel]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

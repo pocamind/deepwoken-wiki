@@ -1,9 +1,9 @@
 ---
 title: Ordergeddon
-revid: 164614
+revid: 172293
 source: https://deepwoken.fandom.com/wiki/Ordergeddon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Events, Deepwoken]
+categories: [Event Only Content, Events]
 notices:
   - "This page contains Event Exclusive Content This event requires having a character that used the Shrine of Order at any point before Ordergeddon, and can theoretically be run forever."
 ---

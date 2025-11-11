@@ -1,9 +1,9 @@
 ---
 title: Silver Dagger
-revid: 163352
+revid: 172269
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons With Talents]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
 ---
 
 # Silver Dagger

@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 166997
+revid: 172242
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Lost Celtor]
@@ -31,6 +31,6 @@ Their dialogue does not change with reputation.
 
 ## Trivia
 
--   If you have Hunted reputation, Angels will spawn around certain places for you even if you were not seen by a [Watcher](Watcher.md).\[citation needed\]
--   They used to attack [Angels](Hollow_Angel.md) on sight, but this was changed in the 10/6/23 update.
--   They will attack monsters if hit by them in the crossfire in pursuit of another target, but neither will target each other directly.
+-   If you have Hunted reputation, Hollow Angels will spawn around certain places for you even if you were not seen by a [Watcher](Watcher.md).\[citation needed\]
+-   Celtorian Guards used to attack Hollow Angels on sight, but this was changed in the October 6th, 2023 update.
+-   Celtorian Guards will attack monsters if hit by them in the crossfire in pursuit of another target, but neither will target each other directly.

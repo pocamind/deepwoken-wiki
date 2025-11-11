@@ -1,16 +1,16 @@
 ---
 title: Worm
-revid: 149964
+revid: 172260
 source: https://deepwoken.fandom.com/wiki/Worm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Layer 1]
+categories: [Layer 1, "Non-sentient species"]
 ---
 
 # Worm
 
 | Worm | |
 |---|---|
-| name | Worms |
+| name | Worm |
 | habitat | First Layer |
 
 ## Description

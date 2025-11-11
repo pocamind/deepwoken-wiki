@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 166602
+revid: 172259
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -20,7 +20,7 @@ The main city at the center of [The Depths](The_Depths.md) housing two main dist
 
 The City of the Drowned is composed of large circular walls over a city, guarded by Celtor soldiers. There are a couple gates in the walls, guarded by two Celtor guards each.
 
-The city is patrolled by watchers that summon pairs of [Lesser Angels](Hollow_Angel.md) when they catch sight of players, as well as having the occasional Depths creature found inside.
+The city is patrolled by watchers that summon pairs of [Hollow Angel](Hollow_Angel.md) when they catch sight of players, as well as having the occasional Depths creature found inside.
 
 ## Contents
 
@@ -41,7 +41,7 @@ The city is patrolled by watchers that summon pairs of [Lesser Angels](Hollow_An
 
 ## Potential Enemies
 
--   [Hollow Angels](Hollow_Angel.md) (Summoned by Watchers)
+-   [Hollow Angel](Hollow_Angel.md) (Summoned by [Watchers](Watcher.md))
 -   [Nautilodaunt](Nautilodaunt.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Deep Owl](Deep_Owl.md)

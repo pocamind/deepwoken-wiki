@@ -1,6 +1,6 @@
 ---
 title: Festival of a Billion Souls
-revid: 162773
+revid: 172294
 source: https://deepwoken.fandom.com/wiki/Festival_of_a_Billion_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Events, Deepwoken]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | date1 | 1524-1526 |
 | date2 | September 27th, 2024 - October 4th, 2024 |
-| effects | A unique party hat was given out, along with 4x chest sizes. |
+| effects | A unique party hat was given out, along with 4x chest sizes |
 | type | Celebration Update |
 
 ## Description

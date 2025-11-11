@@ -1,6 +1,6 @@
 ---
 title: "Munet Journal, XIV"
-revid: 147135
+revid: 172330
 source: https://deepwoken.fandom.com/wiki/Munet_Journal%2C_XIV
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Books#Munet Journal, XIV](Books.md#munet-journal-xiv)
+-   [Munet Journal](Munet_Journal.md)

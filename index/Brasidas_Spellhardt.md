@@ -1,6 +1,6 @@
 ---
 title: Brasidas Spellhardt
-revid: 171640
+revid: 172249
 source: https://deepwoken.fandom.com/wiki/Brasidas_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
@@ -42,3 +42,7 @@ He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thau
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Brasidas is a reference to Vergil from the _Devil May Cry_ franchise.

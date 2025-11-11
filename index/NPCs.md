@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 172129
+revid: 172253
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -15,7 +15,7 @@ notices:
 
 NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) or Intelligence stat will unlock special interactions with them.
 
-| NPC | Faction | Location | Purpose | Notes |
+| NPC | Faction | Location | Mechanical Purpose | Notes |
 | --- | --- | --- | --- | --- |
 | ??? (Coral Clump) | Unaligned | [Celtor Wastes](Celtor_Wastes.md) | None |  |
 | [??? (FalseMan)](<%253F%253F%253F_(FalseMan).md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None | Speaks gibberish in special characters, snaps neck upon interaction. |
@@ -209,7 +209,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
  |
 | [Mark Adaset](Mark_Adaset.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Swap the Deepbound defect for one of your choice |  |
 | [Mercille](Mercille.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
-| [Merryweather](Merryweather.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | Studying the Worms. Talks about them a lot. | Her dialogue changes if the player is Hero [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md). |
+| [Merryweather](Merryweather.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | None | Her dialogue changes if the player is Hero [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md). |
 | [Mikhail Spellhardt](Mikhail_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Sells food and talks a bit about the Spellhardt Family's story. Reveals information about [Lightborns](Lightborn.md) aging. |  |
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants the [Disguise](Attunement-less.md#disguise) [mantra](Mantras.md). | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get the [mantra](Mantras.md). |
 | [Misérables](Misérables.md) | Unaligned | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe. Can be repeated if you have the knowledge/medallions required. |

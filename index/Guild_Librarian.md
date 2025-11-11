@@ -1,6 +1,6 @@
 ---
 title: Guild Librarian
-revid: 166747
+revid: 172354
 source: https://deepwoken.fandom.com/wiki/Guild_Librarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Guild Base]
@@ -34,7 +34,7 @@ The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md
   <td colspan="8">I'd like to donate a book to the Library.</td>
 </tr>
 <tr>
-  <td colspan="4">Ah, which book would you like to peruse? And <i>please</i> for the Star Above don't dogear the pages. We're not post-tidal savages.<br>
+  <td colspan="4">Ah, which book would you like to peruse? And <i>please</i>, God below, don't dog-ear the pages. Show some respect to these texts.<br>
   <font>[Opens list of donated books]</font></td>
   <td colspan="2">Player is holding out a book</td>
   <td colspan="2">Player is not holding out a book</td>

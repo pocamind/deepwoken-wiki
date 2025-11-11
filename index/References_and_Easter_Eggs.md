@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 172071
+revid: 172261
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -107,11 +107,11 @@ This is a page dedicated to all of the easter eggs and references to other works
         Arch's tweet
         
     -   The different characters met for this Oath have mythological or religious origins:
-        -   The trainer, **Samael**, is an angel in Judaism.
-        -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam.
-        -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss.
-        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death.
-        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
+        -   The trainer, **[Samael](Samael.md)**, is an angel in Judaism.
+        -   **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md)** is named after Iblis, the leader of the devils in Islam.
+        -   **[Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md)** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss.
+        -   **[Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md)** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death.
+        -   **[Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md)** is named after Astaroth "Great Duke of Hell" in Demonology.
     -   Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference to Sephiroth from the _Final Fantasy series_.
 -   **Silentheart** originally inspiration from the _Fire Emblem_ series:
     -   The ship is named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
@@ -133,7 +133,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The [**Mudskippers**](Mudskipper.md), [**Mudskipper Brute**](Mudskipper_Brute.md), and [**Broodlord**](Mudskipper_Broodlord.md) are both based on Clickers from _The Last of Us_.
     -   The Mudskipper Bestiary Challenges, "Dawn of the Drowned" and "Night of the Living Drowned" are named after the horror films _Dawn of the Dead_ and _Night of the Living Dead._
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half-Life_ series.
--   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
+-   **[Hollow Angels](Hollow_Angel.md) and [Sworn Angels](Sworn_Angel.md)** used to be nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
 -   **[The Dread Serpent](Dread_Serpent.md)** is inspired by [Kaidou's Beast Form](https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu), from _One Piece_.
     -   While Kaidou's beast form is indeed based on Dragons from Eastern Mythology, The Dread Serpent shares many similarities with Kaidou, in specific.
     -   The Dread Serpent's roar comes from Monster hunter 4 Ultimate. its the same audio as Gore Magala's roar.

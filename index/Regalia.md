@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 171030
+revid: 172241
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,21 +30,21 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
     -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md), (Mute does not work on initial aggro. Waiting 15 seconds will unaggro most monsters in Dilluvian.)
     -   Most Dungeons, such as the [Second Layer](Second_Layer.md) or [Trial of One](Trial_of_One.md)
 -   Mute does **not** work against some monsters (mostly automations and robots).
-    -   [Desert Knights](Stone_Knight.md#desert-knight)
-    -   [Blizzard Knights](Stone_Knight.md)
+    -   [Stone Knights](Stone_Knight.md)
+    -   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
     -   [Rock Golems](Rock_Golem.md)
-    -   [Prime Golems](Rock_Golem.md#golem-prime)
-    -   [Rogue Constructs](Hive_Construct.md#rogue-construct)
+    -   [Prime Golems](Golem_Prime.md)
+    -   [Rogue Constructs](Rogue_Construct.md)
     -   [Enforcers](Enforcer.md)
     -   Ambush [Mechalodaunts](Mechalodaunt.md)
     -   [Bone Keepers](Bone_Keeper.md)
 
 -   Mute does work against some humanoids.
-    -   [Lesser Angel](Hollow_Angel.md#lesser-angel) (if not summoned by a Watcher)
+    -   [Hollow Angels](Hollow_Angel.md) (if not summoned by a [Watcher](Watcher.md))
 
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
-    -   [King Threshers](Thresher.md#king-thresher)
-    -   [Deep Owl](Deep_Owl.md)
+    -   [King Threshers](King_Thresher.md)
+    -   [Deep Owls](Deep_Owl.md)
 
 ### Two-Faced
 

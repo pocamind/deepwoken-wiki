@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 172193
+revid: 172257
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -298,6 +298,7 @@ Fire
 -   Inflicts Burn.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size.
 -   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
+-   Can be modified with a Blast Spark, seems to have no effect?
 
  |
 | 

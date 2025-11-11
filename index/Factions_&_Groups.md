@@ -1,6 +1,6 @@
 ---
 title: "Factions & Groups"
-revid: 169102
+revid: 172352
 source: https://deepwoken.fandom.com/wiki/Factions_%26_Groups
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -38,7 +38,9 @@ Other factions that are not classified as primary and reputable but hold some pr
 
 | Faction | Description |
 | --- | --- |
-| The Starkindred Faith | A predominant power in the Western Luminant. They are zealous worshippers of the [Celestials](Celestial.md), using their Holy Ichor to prevent it from falling into the wrong hands. |
+| [Songseeker](Songseeker.md) | Song worshippers, who wish to learn the ways of the [Old World](Timeline.md) Mantracasters. |
+| [Spellhardt family](Spellhardt_family.md) | A noble family of [Lightborns](Lightborn.md), originating from the city of [Constellia](Lore.md#constellia). Every year they host a tradition, named [Hallowtide](Hallowtide.md), so don't miss out! |
+| [The Starkindred Faith](The_Starkindred_Church.md) | A predominant power in the [Western Luminant](Luminants.md#western-luminant). They are zealous worshippers of the [Celestials](Celestial.md), using their Holy Ichor to prevent it from falling into the wrong hands. |
 | The Citadel of Markor | The most prominent research organization in all of Lumen, occupying the Central Luminant alongside The Authority. |
-| The Lullaby Isles | The Chrysids' homeland in an archipelago in the Central Luminant, which split off from the Hive to set their focus on religion dedicated to the Moonseye. |
-| The Justicars | Hailing from the North, the Justicar seek to walk a path they interpret on their own and see fit. |
+| The Lullaby Isles | The Chrysids' homeland in an archipelago in the [Central Luminant](Luminants.md#central-luminant), which split off from the Hive to set their focus on religion dedicated to the [Moonseye](Moonseye.md). |
+| The Justicars | Hailing from the [North](Luminants.md#northern-luminants), the Justicar seek to walk a path they interpret on their own and see fit. |
