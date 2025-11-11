@@ -1,9 +1,9 @@
 ---
 title: Fabantou
-revid: 171021
+revid: 172575
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Fabantou
@@ -17,7 +17,7 @@ categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant, 
 
 ## Description
 
-Fabantou is a [Felinor](Felinor.md) NPC, he is the landlord of [The Three Cheers](The_Three_Cheers.md). He sells the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) if the player is an [Authority Ensign](Authority_Ensign.md).
+Fabantou is a [Felinor](Felinor.md) NPC, he is the landlord of [The Three Cheers](The_Three_Cheers.md). Formerly in charge of [the Central Authority](The_Central_Authority.md)'s mess hall, he left to start a civilian career with The Three Cheers, though he only serves military personnel. He sells the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) if the player is an [Authority Ensign](Authority_Ensign.md).
 
 ## Location
 
@@ -166,4 +166,4 @@ The Three Cheers Menu
 
 ## Trivia
 
--   His name may originate from an alias used by Monsieur Thénardier in _Les Misérables_.
+-   His name originates from an alias used by Monsieur Thénardier in _Les Misérables_. The phrases he says when purchasing drinks are lyrics taken from Master of the House, a song sung by Thénardier.

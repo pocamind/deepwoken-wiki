@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 170553
+revid: 172640
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | Sanguine Finery | |
 |---|---|
 | caption | An elegant outfit favoured by expert Bloodrenders. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture. |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x5 Heartstar, x8 Umbrite, x1 Bloodless Gem, x5 Vibrant Gem |
 | price | 1,000 |
 | stat_req | Power 15, 45 Bloodrend |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2600 |
 | resistances | +25% Blood Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |

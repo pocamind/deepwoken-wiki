@@ -1,9 +1,9 @@
 ---
 title: Deepdelver Myra
-revid: 167980
+revid: 172647
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
+categories: [Tiran NPCs, NPCs, NPCs located in the First Layer, Deepdelvers]
 ---
 
 # Deepdelver Myra

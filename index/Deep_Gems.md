@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 171185
+revid: 172496
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deep Gems, Mantras, Mechanics]
@@ -16,7 +16,7 @@ You can equip Deep Gems onto Mantras either from your inventory or from the [cam
 
 ## Effects
 
-There are currently 11 Deep Gems in Deepwoken, each with their own distinct effects.
+There are currently 11 Deep Gems in Deepwoken, each with their own distinct effects. The effectiveness or efficiency of each Gem can be increased by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), as it applies the Brain [food buff](Status_Effects.md#reinforced-hunger).
 
 ## Compatibility
 

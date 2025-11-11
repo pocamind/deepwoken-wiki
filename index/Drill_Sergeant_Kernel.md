@@ -1,9 +1,9 @@
 ---
 title: Drill Sergeant Kernel
-revid: 171023
+revid: 172629
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Celtor NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 notices:
   - This page is currently being worked on. Missing Dialogue
 ---
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Drill Sergeant Kernel is a [Celtor](Celtor.md) NPC, he is the mentor for the freshly arrived [Authority Ensigns](Authority_Ensign.md).
+Drill Sergeant Kernel is a [Celtor](Celtor.md) NPC. He is the mentor for the freshly arrived [Authority Ensigns](Authority_Ensign.md).
 
 ## Location
 

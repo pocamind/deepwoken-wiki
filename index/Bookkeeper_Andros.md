@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 168777
+revid: 172546
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]
@@ -13,10 +13,11 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | name | Andros |
 | location | Etris |
 | affiliation | Etrea |
+| family | Andros' Grandfather |
 
 ## Overview
 
-Bookkeeper Andros offers lore related to The Old World. He is crucial towards the obtainment for [Soulbreaker](Oath%253A_Soulbreaker.md) telling you about the King's Ardour and his abilities providing a lot of information about him, and provides information about [The Lord Regent](The_Lord_Regent.md) in the quest to defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+Bookkeeper Andros offers information related to The Old World. He is crucial towards the obtainment for [Soulbreaker](Oath%253A_Soulbreaker.md) telling you about the King's Ardour and his abilities providing a lot of information about him, and provides information about [The Lord Regent](The_Lord_Regent.md) in the quest to defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Location
 
@@ -224,6 +225,5 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 
 ## Trivia
 
--   Prior to the 31st of March 2025 update, Andros' aspect was unknown. It was theorised to be Celtor, but it was unconfirmed.
 -   Bookkeeper Andros is the only NPC with the 'Generic' aspect, which is used ingame when your aspect does not load properly, as of the 8th of June 2025 you can see 'Generic' in the actual game via having a Kiron in the title screen.
 -   Bookkeeper Andros was one of the first NPCs added to Deepwoken closed community testing.

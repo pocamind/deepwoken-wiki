@@ -1,16 +1,15 @@
 ---
 title: Friendly Prisoner
-revid: 169467
+revid: 172666
 source: https://deepwoken.fandom.com/wiki/Friendly_Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant]
+categories: [NPCs, NPCs located in the Eastern Luminant, Prisoners of The Central Authority]
 ---
 
 # Friendly Prisoner
 
 | Friendly Prisoner | |
 |---|---|
-| name | Friendly Prisoner |
 | aspect | Tiran |
 | location | Merit Detainment Core |
 

@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 170869
+revid: 172653
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -37,7 +37,7 @@ They are one of the three factions contracted by [The Central Authority](The_Cen
 
 They have instigated and maintains a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
 
-The union also shares an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot. According to [Alpha](Alpha.md), this rivalry stems from the Divers receiving funding from the Authority, conveniently ignoring the fact the Union are in that exact same boat.
+The union also shares an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot. According to [Alpha](Alpha.md), this rivalry stems from the Divers receiving funding from the Authority, conveniently ignoring the fact the Union are in that exact same boat. Deepdelver Gamma implies it also stems from the Divers' seeming callousness towards the lives of their members.
 
 Unlike the traditional hierarchy practiced by the likes of The Divers and the Central Authority, the ranks of the Ignition Union are primarily structured on the value an individual has contributed to the collective. High-ranking Ignition Union members are known as [Ignition Deepdelvers](Ignition_Deepdelver.md), and are known for their heavy contribution and sacrifice to the Union and its members.
 

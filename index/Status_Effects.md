@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 171706
+revid: 172518
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -135,13 +135,24 @@ This effect happens when your Sanity is 10% or less, aptly named "Tier 3 [Insani
 
 Eating certain [food](Food.md) items can provide the user with useful buffs. The food buff you have as well as its duration can be viewed on your hunger bar, with a colored section at the top displaying the duration. The duration of food buffs are tied to the food eaten and your hunger bar as a whole, meaning if you are losing hunger from doing something like swimming, the buff will drain faster.
 
--   Power: +5% M1 damage; _"A hearty meal that'll empower your melee strikes!"_ Applied by consuming the [Glazed Fish](Glazed_Fish.md), [Megurger](Megurger.md), or [Mushroom Omelette](Mushroom_Omelette.md).
+-   Power: +5% M1 damage; _"A hearty meal that'll empower your melee strikes!"_ Applied by consuming the [Glazed Fish](Glazed_Fish.md), [Megurger](Megurger.md), [Mushroom Omelette](Mushroom_Omelette.md), or [Toffee](Toffee.md).
 -   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
 -   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
 -   Ether: Increases Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
--   Heal: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md) or the [Fruit Salad](Fruit_Salad.md).
--   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Seafood Boil](Seafood_Boil.md).
--   Brain: Effect currently unknown; _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
+-   Heal: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Candy Suncorn](Candy_Suncorn.md), [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md), [Fruit Salad](Fruit_Salad.md), or [Pumpkin Pie](Pumpkin_Pie.md).
+-   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Candy](Candy.md) or [Seafood Boil](Seafood_Boil.md).
+-   Brain: Increases the effectiveness or efficiency of your [Deep Gems](Deep_Gems.md); _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
+    -   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
+    -   [Blessed Gem](Blessed_Gem.md): Cooldown reduction is increased from -50% to -66%.
+    -   [Bloodless Gem](Bloodless_Gem.md): Heal cap increased from 15 to ?.
+    -   [Blue Gem](Blue_Gem.md): Unknown effect.
+    -   [Insignia Gem](Insignia_Gem.md): Unknown effect.
+    -   [Might Gem](Might_Gem.md): Posture damage buff increased from +10% to +20%.
+    -   [Nocturnal Gem](Nocturnal_Gem.md): Damage is increased from 10 to 15.
+    -   [Warped Blue Gem](Warped_Blue_Gem.md): Unknown effect.
+    -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 5s.
+    -   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration increased from 10s to 15s.
+    -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
 -   Scale: Effect currently unknown; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
 -   Throat: Increases your [Taunt](Attunement-less.md#taunt) (Mantra)'s duration by 8 seconds, increases your [Sing's](Attunement-less.md#sing) range, and increases your [Vow Command: Fight](#fight) duration by 7.5 seconds; _"An odd meal that soothes your throat!"_ Applied by consuming the [Dread Filet](Dread_Filet.md).
 -   Strength: Effect currently unknown; _"An invigorating meal that strengthens your muscles!"_ Applied by consuming the [Primal Cutlet](Primal_Cutlet.md).
@@ -713,11 +724,11 @@ These status effects are applied when landing a Mantra with a certain [Deep Gem]
 
 ### Wrath
 
-Procced from landing a Mantra with the [Wrath Gem](Wrath_Gem.md) equipped, this effect increases the damage of your critical attack by 7.5% per player combat tag you have. Additionally, this allows you to proc the Talents from the [Reinforced War Set](Reinforced_War_Helmet.md). Wrath lasts 9 seconds with the Wrath Gem having a 10 second cooldown. This effect has no visual indicator.
+Procced from landing a Mantra with the [Wrath Gem](Wrath_Gem.md) equipped, this effect increases the damage of your critical attack by 7.5% per player combat tag you have. This damage bonus will be increased to 15% per player combat tag if you have the Brain [food buff](#reinforced-hunger). Additionally, this allows you to proc the Talents from the [Reinforced War Set](Reinforced_War_Helmet.md). Wrath lasts 9 seconds with the Wrath Gem having a 10 second cooldown. This effect has no visual indicator.
 
 ### Aegis
 
-Gain 10% damage reduction for 10 seconds, applied by landing a Mantra with the [Aegis Gem](Aegis_Gem.md) equipped. Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character. Signified by a pink translucent, cylindrical dome on your character.
+Gain 10% damage reduction for 10 seconds, applied by landing a Mantra with the [Aegis Gem](Aegis_Gem.md) equipped, signified by a pink translucent, cylindrical dome on your character. This duration of this effect will be increased to 15 seconds if you have the Brain [food buff](#reinforced-hunger). Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character.
 
 ## NPC Exclusive
 

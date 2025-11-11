@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 171078
+revid: 172642
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | Stormchanter's Raiments | |
 |---|---|
 | caption | An elegant outfit favoured by expert Thundercallers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture. |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Insignia Gem, x8 Iron, x5 Spark Gland, x5 Vibrant Gem |
 | price | 1,000 |
 | stat_req | Power 15, 45 Thundercall |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2600 |
 | resistances | +25% Lightning Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |

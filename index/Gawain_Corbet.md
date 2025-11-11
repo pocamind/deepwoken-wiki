@@ -1,9 +1,8 @@
 ---
 title: Gawain Corbet
-revid: 171330
+revid: 172657
 source: https://deepwoken.fandom.com/wiki/Gawain_Corbet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore figures]
 ---
 
 # Gawain Corbet
@@ -16,4 +15,4 @@ categories: [Lore figures]
 
 ## Description
 
-Gawain Corbet is a presumed Adret Deepdelver of [The Ignition Union](The_Ignition_Union.md) who created the song "The Hammer's Call", his current whereabouts are unknown.
+Gawain Corbet is a presumed Adret Deepdelver of [The Ignition Union](The_Ignition_Union.md) who created the song "The Hammer's Call".

@@ -1,6 +1,6 @@
 ---
 title: Marquis
-revid: 169558
+revid: 172537
 source: https://deepwoken.fandom.com/wiki/Marquis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, "Non-canon articles", Manga characters]
@@ -11,4 +11,9 @@ notices:
 
 # Marquis
 
+| Marquis | |
+|---|---|
 
+## Trivia
+
+-   Despite having no relevance to the plot whatsoever, Marquis is the only character in the _[Deepwoken](<Deepwoken_(manga).md>)_ manga with a name.

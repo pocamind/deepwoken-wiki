@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 170490
+revid: 172606
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [Adret NPCs, Vendors, Random Encounters, NPCs, NPCs located in the E
 
 ## Description
 
-The Meat Lord is an NPC merchant who is also a [Random Encounter](Random_Encounters.md). He sells various meat dishes and weapons labelled as "The Meat Lord's Selection." He is wearing the [Authority Captain Uniform](Authority_Captain_Uniform.md) with [Grand Pauldrons](Grand_Pauldrons.md), [Grand Boots](Grand_Boots.md), and a dyed version of the [Blackleaf Helm](Blackleaf_Helm.md).
+The Meat Lord is an NPC merchant who is also a [Random Encounter](Random_Encounters.md). He sells various meat dishes and weapons labelled as "The Meat Lord's Selection." He is wearing the [Authority Captain Uniform](Authority_Captain_Uniform.md), which he killed members of [The Central Authority](The_Central_Authority.md) for, with [Grand Pauldrons](Grand_Pauldrons.md), [Grand Boots](Grand_Boots.md), and a dyed version of the [Blackleaf Helm](Blackleaf_Helm.md).
 
 ## Locations
 
@@ -211,9 +211,9 @@ Sold Items
     -   "Dress up as a salad and maybe then you'll get a reaction from me."
 -   Acting in ways he deems disrespectful will result in him refusing to sell items to you until you find another random event of him or server-hop.
 -   This character exists because of a running joke within the Rogue Lineage community about [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan), a meat vendor in Sentinel.
--   Stated by Par that The Meat Lord can "low diff any Drowned God." [\[1\]](#cite-note-1)
--   Agamatsu asked Ragoozer on who would win between Big Hoss or The Meat Lord. Ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
--   Ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
+-   Stated by par that The Meat Lord can "low diff any Drowned God." [\[1\]](#cite-note-1)
+-   Agamatsu asked ragoozer on who would win between Big Hoss or The Meat Lord. ragoozer said that the fight would be a stalemate, due to Big Hoss being stronger (in terms in muscles) by a bit but The Meat Lord has infinite endurance. ([https://www.youtube.com/watch?v=HUvFVu8nt7w](https://www.youtube.com/watch?v=HUvFVu8nt7w))
+-   ragoozer said that Big Hoss gets his McChickens from The Meat Lord.
     -   Before the November 3rd, 2022 update, The Meat Lord would've been spooked like any other ordinary static NPC.
 -   In one of [Traan Zakshuns](Traan_Zakshun.md) shop lines, he mentions purchasing a [Seafood Boil](Seafood_Boil.md) from The Meatlord for over an hour and it still not arriving.
 

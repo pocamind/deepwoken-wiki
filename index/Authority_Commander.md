@@ -1,9 +1,9 @@
 ---
 title: Authority Commander
-revid: 172473
+revid: 172622
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Unique Outfits, The Central Authority]
+categories: [Items, Outfits, Unique Outfits, Outfits of The Central Authority]
 ---
 
 # Authority Commander
@@ -51,5 +51,5 @@ The [Riot Breaker](Talents.md#riot-breaker) Talent makes it so that you receive 
 -   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
 -   This is a good outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
 -   The other two outfits of similar origin are the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
--   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>) NPCs. #
+-   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>) NPCs.
 -   Prior to the release of Duskguard, the schematic was not Soulbound and could be banked/traded.

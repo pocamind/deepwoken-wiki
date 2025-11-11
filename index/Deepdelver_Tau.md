@@ -1,16 +1,16 @@
 ---
 title: Deepdelver Tau
-revid: 171434
+revid: 172661
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Tau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
+categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Deepdelvers]
 ---
 
 # Deepdelver Tau
 
 | Deepdelver Tau | |
 |---|---|
-| name | Deepdelver Tau |
+| name | Tau |
 | aspect | Ganymede |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |

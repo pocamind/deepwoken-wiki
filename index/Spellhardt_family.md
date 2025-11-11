@@ -1,9 +1,9 @@
 ---
 title: Spellhardt family
-revid: 172437
+revid: 172490
 source: https://deepwoken.fandom.com/wiki/Spellhardt_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Families]
+categories: [Families, Hallowtide]
 ---
 
 # Spellhardt family

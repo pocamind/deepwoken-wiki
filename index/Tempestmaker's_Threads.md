@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 170561
+revid: 172644
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | Tempestmaker's Threads | |
 |---|---|
 | caption | An elegant outfit favoured by expert Galebreathers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which is to imbue elemental resistances into the very fabrics they manufacture. |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x5 Gale Stone, x8 Iron, x5 Vibrant Gem, x1 Wind Gem |
 | price | 1,000 |
 | stat_req | Power 1545 Galebreathe |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2600 Durability |
 | resistances | +25% Physical Armor, +25% Wind Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |

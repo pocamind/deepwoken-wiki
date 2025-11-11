@@ -1,16 +1,16 @@
 ---
 title: Deepdelver Gamma
-revid: 167979
+revid: 172652
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
+categories: [Khan NPCs, NPCs, NPCs located in the First Layer, Deepdelvers]
 ---
 
 # Deepdelver Gamma
 
 | Deepdelver Gamma | |
 |---|---|
-| name | Deepdelver Gamma |
+| name | Gamma |
 | aspect | Khan |
 | location | The Chariot's Spire |
 | affiliation | The Ignition Union |
@@ -93,4 +93,3 @@ This dialogue is unlocked if the player is the [Ignition Delver](Ignition_Delver
 ## Trivia
 
 -   Gamma's racial variant is Capuchin.
--   Gamma also mentions the other entry to enter the Second Layer and the relationship that [The Ignition Union](The_Ignition_Union.md) has with [The Divers](The_Divers.md).

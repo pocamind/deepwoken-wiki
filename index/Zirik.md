@@ -1,6 +1,6 @@
 ---
 title: Zirik
-revid: 168066
+revid: 172670
 source: https://deepwoken.fandom.com/wiki/Zirik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pages with broken file links, NPCs, Reputation, NPCs located in the Eastern Luminant, The Hive]
@@ -21,7 +21,7 @@ categories: [Ganymede NPCs, Pages with broken file links, NPCs, Reputation, NPCs
 
 ## Description
 
-Zirik is the NPC who accepts a bribe for [The Hive](The_Hive.md); you can pay him up to 1,200 to restore your reputation to neutral.
+Zirik is the NPC who accepts a bribe for [The Hive](The_Hive.md); you can pay them up to 1,200 to restore your reputation to neutral.
 
 ## Location
 

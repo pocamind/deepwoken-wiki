@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 171796
+revid: 172624
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Lost Celtor]
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Unique Outfits, Lost Celtor]
 | Celtorian Tideknight | |
 |---|---|
 | caption | N/A |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x1 Dark Feather, x1 Odd Tentacle, x5 Vibrant Gems, x1 Bloodless Gem, x1 Thresher Spine, x5 Umbral Obsidian |
 | price | 1,000 |
 | stat_req | Power 15 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2800 Durability |
 | resistances | +30% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +10% Shadow Armor, +5% Ice Armor |
 | talents | Tidekeeper |

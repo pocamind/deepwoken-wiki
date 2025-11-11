@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 171310
+revid: 172638
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]

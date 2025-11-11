@@ -1,6 +1,6 @@
 ---
 title: Might Gem
-revid: 171193
+revid: 172525
 source: https://deepwoken.fandom.com/wiki/Might_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -26,13 +26,14 @@ Might Gem is an orange diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
-The posture damage of your Mantra will be increased by 10%.
+Grants a +10% posture damage modifier to the Mantra it is applied on.
 
 ### Notes
 
 -   This Gem is best used on high posture damage Mantras, due to it being a percentage increase in posture damage.
+-   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Might Gem's posture damage modifier will be increased from +10% to +20%.
 -   Might Gem can gain additional effects and more potency on its posture damage buff through the equipment Talents in the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md).
--   A 10% increase in posture damage is a very low amount, as even high posture damage Mantras that deal 30 or more posture damage will only have their posture damage increased by around 3. Because of this, this Gem is not recommended for usage unless you're using the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md).
+-   A 10% increase in posture damage is a very low amount, as even high posture damage Mantras that deal 30 or more posture damage will only have their posture damage increased by around 3. Because of this, this Gem is not recommended for usage unless you're using the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md) or the Brain [Food Buff](Status_Effects.md#food-buff).
 
 ## Crafting
 

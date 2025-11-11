@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 170551
+revid: 172639
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Etrea]
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Unique Outfits, Etrea]
 | Jade Vigil's Weave | |
 |---|---|
 | caption | Masters of the ancient Fang and Coil technique wear this robe as a tribute to their rich heritage. Its verdant weave once served as subtle camouflage, blending seamlessly into the wilds of a forgotten era. |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x1 Dark Feather, x5 Fiber, x5 Gale Stone, x1 Thresher Spine, x1 Wind Gem |
 | price | 1,000 |
 | stat_req | Power 1510 Agility |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2800 |
 | resistances | +25% Blood Armor, +25% Elemental Armor, +30% Physical Armor, +15% Wind Armor |
 | buffs | +25% Ether Regen |

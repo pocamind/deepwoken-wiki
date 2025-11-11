@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 170951
+revid: 172633
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -32,7 +32,7 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 
 **Handcuffs** are a pair of heavily rusted handcuffs worn by prisoners of the Authority. While this weapon is equipped, you will not be able to swim, use [Mantras](Mantras.md), your Resonance, hold any item in your hands, and your movement speed will be heavily reduced.
 
-This weapon is automatically equipped upon being detained (gripped) by an [Authority Ensign](Authority_Ensign.md) player or by speaking to a few Authority NPCs[\[1\]](#cite-note-1) while having Enemy or lower Authority reputation. You will also be teleported into Fort Merit's prison and a 10 minute countdown to your execution will start. If the countdown reaches 0 while you still have the handcuffs on, you will be immediately drowned and sent to [the Depths](The_Depths.md).
+This weapon is automatically equipped upon being detained (gripped) by an [Authority Ensign](Authority_Ensign.md) player or by speaking to a few Authority NPCs ([Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [High Inquisitor Merey](High_Inquisitor_Merey.md), [Sentinel Augustus](Sentinel_Augustus.md), and [Warden Jericho](Warden_Jericho.md)) while having Enemy or lower Authority reputation. You will also be teleported into Fort Merit's prison and a 10 minute countdown to your execution will start. If the countdown reaches 0 while you still have the handcuffs on, you will be immediately drowned and sent to [the Depths](The_Depths.md).
 
 You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the [Etrean Guardmaster](Etrean_Guardmaster.md). Removing your cuffs via a Blacksmith requires you to have neutral or higher reputation with the faction the Blacksmith is a part of.
 
@@ -43,5 +43,3 @@ You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the
 -   While handcuffed, if you get knocked by any player (including yourself through self damage), you will be teleported back into the prison.
 -   You gain a perpetual PvE combat tag while the handcuffs are equipped.
 -   Despite your hands being bound, you can still pilot a [boat](Ships_&_Sailing.md) and use their cannons.
-
-1.  [↑](#cite-ref-1) [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [High Inquisitor Merey](High_Inquisitor_Merey.md), [Sentinel Augustus](Sentinel_Augustus.md), and [Warden Jericho](Warden_Jericho.md)

@@ -1,9 +1,9 @@
 ---
 title: Finnegan The Lost
-revid: 166237
+revid: 172658
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Depths, Random Encounters]
+categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
 ---
 
 # Finnegan The Lost

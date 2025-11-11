@@ -1,9 +1,9 @@
 ---
 title: Private Kernel
-revid: 170745
+revid: 172554
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Private Kernel

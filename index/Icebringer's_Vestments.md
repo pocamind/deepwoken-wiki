@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 170549
+revid: 172635
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, World Event]
@@ -11,12 +11,12 @@ categories: [Items, Outfits, Unique Outfits, World Event]
 | Icebringer's Vestments | |
 |---|---|
 | caption | An elegant outfit favoured by expert Frostdrawers. The weavers and seamsters who typically make outfits of this kind are known for their secret techniques, which they use to imbue elemental resistances into the very fabrics they manufacture. |
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Blue Gem, x8 Iron, x5 Frigid Prism, x5 Vibrant Gem |
 | price | 1,000 |
 | stat_req | Power 15, 45 Frostdraw |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2600 |
 | resistances | +25% Ice Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |

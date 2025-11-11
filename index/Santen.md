@@ -1,9 +1,9 @@
 ---
 title: Santen
-revid: 172114
+revid: 172578
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Santen
@@ -14,6 +14,7 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, The Cent
 | aspect | Ganymede |
 | location | Fort Merit |
 | affiliation | The Central Authority |
+| family | Unnamed parents |
 
 ## Description
 

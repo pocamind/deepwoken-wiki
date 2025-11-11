@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 171666
+revid: 172669
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -10,9 +10,9 @@ categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemie
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._ Template:Creature Infobox V3
 
-## **Description**
+## Description
 
-The Mechalodaunt is a weapon produced by [The Ignition Union](The_Ignition_Union.md) by enhancing Megalodaunts with iron shells, machinery and a powerful Gatling gun. They are found in [Miner's Landing](<Miner's_Landing.md>), its Voidzone [Saramaed Summit](Saramaed_Summit.md), later stages of [Saramaed Hollow](Saramaed_Hollow.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are unfinished and were activated prematurely by [The Summer Company](The_Summer_Company.md), thus defaulting to their natural behavior, resulting in them attacking both friend and foe. The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the sheer damage output they can have, easily ending high level players in a few attacks.
+The Mechalodaunt is a weapon produced by [The Ignition Union](The_Ignition_Union.md) by enhancing Megalodaunts with iron shells, machinery and a powerful Gatling gun. They are found in [Miner's Landing](<Miner's_Landing.md>), its Voidzone [Saramaed Summit](Saramaed_Summit.md), later stages of [Saramaed Hollow](Saramaed_Hollow.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are unfinished and were activated prematurely by [The Summer Company](The_Summer_Company.md), thus defaulting to their natural behavior, resulting in them attacking both "friend" and foe.[\[1\]](#cite-note-1) The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the sheer damage output they can have, easily ending high level players in a few attacks.
 
 Mechalodaunts in the Saramaed Summit often spawn in groups of two, only spawning a chest after both have been defeated. Its recommended that you are careful when exploring the area as aggroing both Mechalodaunts can make them significantly more difficult to kill off. They are relatively easy to cheese in Miner's Landing by going past doorways, which are too short for them to pass through, and setting up campfires. This can also be done in Saramaed Summit, however due to the fact that voidzones cause all campfires to last significantly less and all healing is reduced, this strategy is much less effective.
 
@@ -125,4 +125,8 @@ A Mechalodaunt, finally back under control, can also ambush players who have Hun
 
 ## Trivia
 
--   Mechalodaunts probably have a radio built into them, as if you were to get ambushed by the Ignition Union with hunted rep it could say " \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\* " Alternatively, they could also have the ability to talk (although this is probably not true).
+-   Mechalodaunts probably have a radio built into them, as if you were to get ambushed by the Ignition Union with hunted rep it could say " \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\* " Alternatively, they could also have the ability to talk, although this is probably not true.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [Parsnip](Parsnip.md)

@@ -1,9 +1,9 @@
 ---
 title: Taiga
-revid: 171001
+revid: 172583
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, The Central Authority]
+categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Taiga
@@ -17,7 +17,7 @@ categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, The Central
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC, she is an apprentice under the Eastern garrison's sawbones.
+Taiga is a [Capra](Capra.md) NPC. She works with the Eastern garrison's sawbones.
 
 ## Location
 

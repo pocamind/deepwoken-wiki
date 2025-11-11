@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 172440
+revid: 172552
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -18,7 +18,7 @@ In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ore
 
 ## Location
 
-Adar can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
+Adar can be found inside a tower on the left side at the end of the [Saramaed Crossing](Saramaed_Crossing.md).
 
 ## Moveset
 

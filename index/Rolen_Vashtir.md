@@ -1,9 +1,9 @@
 ---
 title: Rolen Vashtir
-revid: 170754
+revid: 172589
 source: https://deepwoken.fandom.com/wiki/Rolen_Vashtir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Kings of Etrea]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -12,16 +12,24 @@ notices:
 
 | Rolen Vashtir | |
 |---|---|
-| name | Rolen Vashtir |
-| alias | King Rolen Vashtir I, King of Etrea |
+| name | Rolen Vashtir[1] |
+| alias | King Rolen Vashtir I[1], King of Etrea |
 | aspect | Etrean |
 | affiliation | Etrea |
 | death | Disappeared into the Voidsea |
 
 ## Description
 
-Rolen Vashtir, first of his name, was the final King of [Etrea](Etrea.md), who reigned through the early 6th century CE. He disappeared during an expedition into the Voidsea.
+Rolen Vashtir, first of his name, was the final King of [Etrea](Etrea.md), who reigned through the early 6th century CE.[\[1\]](#cite-note-andy-1)
 
-## Trivia
+Rolen later disappeared during an expedition into the [Voidsea](Voidsea.md).
 
--   The [Star Above, and the Blade between](Books.md#stars-above-and-the-blade-between) book seems to suggest he was assassinated, but the book itself being a matter of fact or fiction could be disputed due to both how prevalent it is, which would be strange considering it should be a secret, and the first person perspective being odd if it was indeed an autobiography, considering the assassin would be unlikely to escape themselves, along with the fact [The Ministry](The_Ministry.md) would certainly not want to publish their crimes.
+### Legacy
+
+Despite having disappeared, many in Etrea believed he would still return as far as 600 years[\[2\]](#cite-note-date-2) after his death. He is also the subject of a prayer meant to ward off evil.[\[3\]](#cite-note-3)
+
+## References
+
+1.  ↑ [1.0](#cite-ref-andy-1-0) [1.1](#cite-ref-andy-1-1) [1.2](#cite-ref-andy-1-2) [Bookkeeper Andros](Bookkeeper_Andros.md)
+2.  [↑](#cite-ref-date-2-0) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md).
+3.  [↑](#cite-ref-3) [Eres](Eres.md)

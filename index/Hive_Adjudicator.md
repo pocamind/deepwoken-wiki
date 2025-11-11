@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 170544
+revid: 172654
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, The Hive]
@@ -10,12 +10,12 @@ categories: [Outfits, Items, The Hive]
 
 | Hive Adjudicator | |
 |---|---|
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
 | price | 30 |
 | stat_req | Power 15 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 1000 |
 | resistances | +25% Physical Armor, +25% Elemental Armor |
 | talents | Lowstride |
@@ -34,9 +34,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance and +25% Elemental resistance.
+This Outfit has 1000 durability and grants +25% Physical resistance and +25% Elemental resistance. Additionally it provides the [Lowstride](Talents.md#lowstride) Talent.
 
-The [Lowstride](Talents.md#assassin) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
+The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
 ## Trivia
 
