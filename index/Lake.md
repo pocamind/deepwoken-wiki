@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 169009
+revid: 172691
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -93,7 +93,7 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
 
   
 
-### Old Dialogue **RETCONNNED**
+### Old Dialogue **(Retconned / Cut Content)**
 
 <table>
 <tbody>

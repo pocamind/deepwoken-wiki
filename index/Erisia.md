@@ -1,6 +1,6 @@
 ---
 title: Erisia
-revid: 166525
+revid: 172683
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant]
@@ -10,11 +10,11 @@ categories: [Locations, Locations in the Etrean Luminant]
 
 ## Description
 
-Erisia is a large island found in the Etrean Luminant, it was designed to be accessible via sailing straight from both the [Isle of Vigils](Isle_of_Vigils.md) and [Etris Docks](Etris_Docks.md).
+**Erisia** is a large island found in the Etrean Luminant, it was designed to be accessible by sailing straight from both the [Isle of Vigils](Isle_of_Vigils.md) and [Etris Docks](Etris_Docks.md).
 
-Erisia is a driftland, an island that moves in and out of the Voidsea,[\[1\]](#cite-note-1) but has currently settled in the east.
+Erisia is a [Driftland](Glossary.md#driftlands), an island that moves in and out of [Voidsea](Voidsea.md),[\[1\]](#cite-note-1) but has currently settled in the east.
 
-It is divided into two sections, being [Upper](Upper_Erisia.md) and [Lower Erisia](Lower_Erisia.md).
+It is divided into two sections, being [Upper Erisia](Upper_Erisia.md) and [Lower Erisia](Lower_Erisia.md).
 
 ## Trivia
 

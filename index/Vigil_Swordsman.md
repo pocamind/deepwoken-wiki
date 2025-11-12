@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 167329
+revid: 172694
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies, Ambush Enemies]

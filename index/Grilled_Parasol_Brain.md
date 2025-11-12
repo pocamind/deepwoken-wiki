@@ -1,6 +1,6 @@
 ---
 title: Grilled Parasol Brain
-revid: 161305
+revid: 172700
 source: https://deepwoken.fandom.com/wiki/Grilled_Parasol_Brain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]

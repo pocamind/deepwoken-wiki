@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 167003
+revid: 172682
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -30,6 +30,7 @@ Gale Stones can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.m
 -   Killing [Songseeker Galebreather](Songseeker_Galebreather.md) can also drop Gale Stones.
 -   Killing [Legion Soldier](Legion_Soldier.md) at the Legion Camp is probably the fastest way to grind Gale Stones, due to having 2 [Legion Soldier](Legion_Soldier.md) always spawned upon joining.
 -   Killing [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) may directly drop Gale Stones.
+-   Sold by [Traan Zakshun](Traan_Zakshun.md)
 
 ## Trivia
 

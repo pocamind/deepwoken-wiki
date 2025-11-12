@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 163726
+revid: 172684
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -37,6 +37,28 @@ Ghosts can be found on board of the [Beloved Zofia](Beloved_Zofia.md). They are 
 ## Finisher
 
 A Ghost cannot execute their opponent.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Player has gripped another player</td>
+  <td>Player has not gripped another player</td>
+</tr>
+<tr>
+  <td>...Did you think we'd forget?</td>
+  <td><i>*The spirit smiles kindly.*</i> ...Remember the dead.</td>
+</tr>
+<tr>
+  <td>End, ghosts attack player</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
