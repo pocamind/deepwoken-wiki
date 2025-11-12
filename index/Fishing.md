@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 168810
+revid: 172773
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -198,6 +198,26 @@ Lucky Spot
 | 100 Urchin | 0 | 56 | 10 | 1 | 17 | 16 | 0 |
 | 100 Fish Meat | 0 | 60 | 19 | 0 | 9 | 12 | 0 |
 | 100 Seaweed | 0 | 62 | 10 | 0 | 11 | 17 | 0 |
+
+## Chest Lootpool
+
+100 Chests with and without a lucky spot.
+
+| Items | With Lucky spot | Without Lucky spot |
+| --- | --- | --- |
+| Curse of Ysleys Ember |  | 5 |
+| Enchanted Items |  | 1 |
+| Legendary Weapons |  |  |
+| Imperial Staff |  | 4 |
+| Stormseye |  | 2 |
+| Imperators Edge |  | 4 |
+| Wyrmtooth |  | 2 |
+| Relics |  |  |
+| Armorer's Needle |  | 5 |
+| Tiran Pendant |  | 1 |
+| Idol of Yunshul |  | 3 |
+| Smiths Alloy |  | 4 |
+| Void/Rain Spire |  | 2/4 |
 
 ## Trivia
 

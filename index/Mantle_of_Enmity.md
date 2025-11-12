@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 171013
+revid: 172775
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Items, Relics]
@@ -42,8 +42,8 @@ Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor
 
 -   When worn, the wings will flow behind you if you have the Cloth Physics setting enabled.
 -   This item is currently unable to be banked.
--   The rates seem to have been shadow buffed during the 3/16/2025 update.
--   This item can only be dropped on death.
--   Using the [Critical Engine](Talents.md#intellisense) Talent allows your Mantle of Enmity to proc [Deep Gems](Deep_Gems.md). [Blessed Gem](Blessed_Gem.md) on Mantle of Enmity does not reduce the cooldown of the Mantle, instead it halves the cooldown of your weapon critical.
--   Mantle was able to be rolled from [Lysander Spellhardt](Lysander_Spellhardt.md) for 100 joy using his relic option within 24 hours (not confirmed the exact time) after the Hallowtide 2025 update dropped and was confirmed by Rag to be unintentional. It was removed after and as of now can't be rolled from [Lysander Spellhardt](Lysander_Spellhardt.md).
--   You can pass down this item in order to use it on new slots. It does not cost echos to pass down, making it pretty easy even if you wipe.
+-   The drop rate seems to have been shadow buffed during the March 16th, 2025 update.
+-   Because the Mantle of Enmity can proc "on critical" Talents, it can also proc [Critical Engine](Talents.md#critical-engine), allowing it to proc and benefit from [Deep Gems](Deep_Gems.md).
+    -   [Blessed Gem](Blessed_Gem.md) on Mantle of Enmity halves your weapon's critical cooldown instead of the Mantle's cooldown. This is very useful for weapons with non traditional criticals that don't have hit registry (e.g. [The Weaving Web](The_Weaving_Web.md) or [Vortex Echo](Vortex_Echo.md)).
+-   Due to a bug or oversight, the Mantle of Enmity was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relics.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.
+-   You can [pass down](Hippocampal_Pool.md) this item in order to use it on new slots. Interesting enough, this does not cost [Echoes](Echoes.md).
