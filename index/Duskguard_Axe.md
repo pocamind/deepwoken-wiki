@@ -1,9 +1,9 @@
 ---
 title: Duskguard Axe
-revid: 172636
+revid: 172764
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Items, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
+categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
 ---
 
 # Duskguard Axe

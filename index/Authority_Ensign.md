@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 172724
+revid: 172767
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -16,7 +16,7 @@ _Authority Ensign_ is an immersive, faction-based Origin that progresses mostly 
 
 ## Obtainment
 
-Upon reaching maximum [The Central Authority](The_Central_Authority.md) reputation or defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), this Origin will be automatically unlocked. If your reputation is already maxed with the Authority and you do not have this Origin yet, commit a crime to lower your reputation and then do an event to raise it again.
+Upon reaching maximum reputation with [The Central Authority](The_Central_Authority.md) or defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), this Origin will be automatically unlocked. If your reputation is already maxed with the Authority and you do not have this Origin yet, commit a crime to lower your reputation and then do an event to raise it again.
 
 ## Spawn
 

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 172704
+revid: 172766
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -451,7 +451,7 @@ Gain +25% more damage for 25 seconds. All of your attacks highlight enemy health
 
 ### Tidekeeper
 
-Gain 15% more damage, 20% damage reduction, and the inability to be knocked for a short duration. This effect activates if you take 15% or more of your maximum health as damage within 3 seconds with the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit.
+Gain 15% more damage, 20% damage reduction, and the inability to be knocked for a short duration. This effect activates if you take 25% or more of your maximum health as damage within 3 seconds with the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit.
 
 ### Stormcall Shock
 

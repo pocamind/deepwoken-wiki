@@ -1,9 +1,9 @@
 ---
 title: Books
-revid: 172539
+revid: 172763
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Books]
 ---
 
 # Books
@@ -33,8 +33,6 @@ Some books are part of specific quests or are physically in the world, and thus 
 -   Legion Intelligence: Talking to [Caitus](Caitus.md).
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
 -   Jericho's Journal: [Fort Merit](Fort_Merit.md).
-
-  
 
 ## Books
 
@@ -73,8 +71,6 @@ Currently there are 33 books and book collections:
 -   [Studies on Canticlysm](Studies_on_Canticlysm.md)
 -   [Tale of the Storm](Tale_of_the_Storm.md)
 -   [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
-
-  
 
 ## Trivia
 

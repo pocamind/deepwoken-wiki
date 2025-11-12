@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 171895
+revid: 172771
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons]
@@ -34,6 +34,8 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requires 65 LHT and 65 CHA, being crafted with a [Weathered Timepiece](Weathered_Timepiece.md), [Temporal Crux](Temporal_Crux.md), and [Kyrsan Schematic](Kyrsan_Schematic.md) using a Crafting Table. The weapon matches your current [Fists](Fists.md) style and harnesses the power of space-time distortions from the [Second Layer](Second_Layer.md), allowing you to use your many abilities again.
 
 ## Critical
+
+**Vortex Echo critical sound effect**
 
 The Critical attack will reduce almost all active cooldowns by 30 seconds (Mantras, Talents, Resonances, etc.) while applying 40 flat Wither damage to the user. This attack has no hitbox and deals no damage. 30 seconds cooldown (named Temporal Fatigue).
 
