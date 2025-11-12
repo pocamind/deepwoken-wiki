@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 172518
+revid: 172704
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -483,6 +483,22 @@ Mocking Favor is the Outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [T
 -   **Take a Break** - Randomizes your spit cooldown, between 5 and 20 seconds. No visual effect, instead signified by Tillian saying "Down on your luck, huh." / Aelita saying "Heh, cat got your tongue!".
 -   **Silence** - Suffocation is applied to yourself, removing your ability to cast Mantras for a short duration. Signified by the Suffocation effect and Tillian saying "Zip it, focus on the fight!" / Aelita saying "Yikes! You're out of breath.".
 -   **Fatigued Swings** - Lowers your Swingspeed. Signified by black multiplication marks falling from your character and Tillian saying "Hah! How embarrassing!" / Aelita saying "Clumsy like a sack of bricks!".
+
+### Soul Rip
+
+Applied through using the Soul Rip Talent tool from the [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), gain the Soul Rip status effect. Soul Rip grants a [speed boost](#speed-boost), a 20% defense buff, infinite Ether, and increases your melee damage by 50% for 25 seconds. Once the duration of Soul Rip ends, your [leg will break](#broken-leg). The Soul Rip Talent tool consumes one Rune on usage. Runes are a resource exclusive to the Familiar Heretic's Armor that is gained upon killing another player. Soul Rip is signified by teal Runes emanating from your character and a sound effect on proc.
+
+#### Broken Leg
+
+When the [Soul Rip](#soul-rip) status effect ends, your leg will break. This removes your ability to sprint for 30 seconds. The Broken Leg status effect has no visual indicator.
+
+### Hyperbody
+
+Gain a [speed boost](#speed-boost), health regeneration, and damage reduction for 25 seconds. This effect is applied to yourself and your allies through using the Hyperbody Talent tool from the [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>). The potency of these bonuses will be lessened if you buff multiple people, with the effectiveness inversely scaling on the amount of players that have been buffed. Signified by your character producing a bright yellow light from their chest, with a wide cylindrical beam of light coming from your character on proc.
+
+### Bane
+
+Upon using an M1, teleport to any opponent within range. This effect is applied through using the Bane Talent Tool from the [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>). The Bane status effect lasts 20 seconds and additionally grants a [speed boost](#speed-boost) for that same duration. Signified by blue particle effects and smoke pouring out of your character.
 
 ## Resonance Applied
 

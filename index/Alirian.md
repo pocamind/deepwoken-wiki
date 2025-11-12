@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 166339
+revid: 172736
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, Oath Trainer, NPCs located in the Etrean Luminant]
@@ -59,7 +59,8 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 <tr>
   <td colspan="2">My whole life has been building up to this moment. I'm ready.</td>
   <td colspan="2">Sorry what was that? My other ear is deaf too, actually.</td>
-  <td colspan="2">Beacon? What beacon? I'm near-sighted, ma'am. [Unlocks after pressing 2]</td>
+  <td colspan="2">[Unlocks after saying "Sorry what was that? My other ear is deaf too, actually."]<br>
+  Beacon? What beacon? I'm near-sighted, ma'am.</td>
 </tr>
 <tr>
   <td colspan="2">YEAAAAH!!</td>
@@ -106,7 +107,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
   <td colspan="12">How can I use Jetstriking to grow stronger?</td>
 </tr>
 <tr>
-  <td colspan="12">Aha! Curious little rival thinks they can keep up with me? Well, well, it's simple! Find more beacons such as the one we raced for out in the world, and then come back to me each time! I'll show you all their tricks, teehee..</td>
+  <td colspan="12">Aha! Curious little rival thinks they can keep up with me? Well, well, it's simple! Find more beacons such as the one we raced for out in the world,<p>and then come back to me each time! I'll show you all their tricks, teehee..</p></td>
 </tr>
 <tr>
   <td colspan="12">End</td>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 171698
+revid: 172734
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -25,7 +25,7 @@ categories: [Oaths, The Ministry]
 
 ― [Zi'eer](The_Lord_Regent.md)
 
-The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent.md). You Vow yourself with the malevolent King of Etrea, and to [The Ministry](The_Ministry.md) by extension, as a Contractor in order to assist Zi'eer in his plan to eventually sink Etrea into [The Depths](The_Depths.md), causing another Great Drowning in the process. You become a puppet to The Ministry, literally and figuratively.
+The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent.md). You Vow yourself with the malevolent Regent of Etrea, and to [The Ministry](The_Ministry.md) by extension, as a Contractor in order to assist Zi'eer in his plan to eventually sink Etrea into [The Depths](The_Depths.md), causing another Great Drowning in the process. You become a puppet to The Ministry, literally and figuratively.
 
 ## Obtainment
 
@@ -53,7 +53,7 @@ As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and ma
 -   2nd Grip - Equalizer
 -   3rd Grip - String Trick and Judgement
 
-Alternatively you may spend 10 knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the 26/04/2024 update, or you have logged in on an already progressed Contractor slot after that date.
+Alternatively you may spend 10 knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024 update](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
 
 ## Effects
 

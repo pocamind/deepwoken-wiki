@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 172638
+revid: 172724
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -52,9 +52,9 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 
 ### Traitor
 
-Upon killing another Authority Ensign member, you will be marked as a traitor, exiling you from the Central Authority. This includes kills other non-overworld locations.
+Upon killing another Authority Ensign member of equal or higher rank, you will be marked as a traitor, exiling you from the Central Authority. This includes kills other non-overworld locations.
 
-Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor. (Completely bugged you cannot be exiled this way as of 26/10/2025.)
+Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor. You cannot be marked as a tratior if your Division is maxed.
 
 ## Progression
 
@@ -179,7 +179,7 @@ Enlistment Ranks
 
 ### Divisions
 
-Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Master [Outfits](Outfits.md), and [Talents](Talents.md). You will also gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons.
+Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Unique [Outfits](Outfits.md), and [Talents](Talents.md). You will also gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons.
 
 Each Division is unique in their themes, offering many avenues of gameplay and build diversity, but be warned as once you join a Division, you **cannot** go back or choose a different one. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please. Additionally, most Authority NPCs will salute you when you approach them.
 
@@ -229,7 +229,7 @@ The Inquisition Divison of the Central Authority acts in the shadows, using thei
 The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
 
 -   Obtainment
-    -   Have a High ratio of successfully completed Missions to failed ones. (Likely a ratio of 2:1)
+    -   Have a High ratio of successfully completed Missions to failed ones. (The ratio is 1 completed mission to 3 failed ones)
     -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
 -   Promotions
     
@@ -253,6 +253,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   **Armored Plating** - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
     -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
 -   **Crossguard** - If you are using a sword, you gain 10% chip against other opponents wielding swords.
+    -   This applies only to Medium swords, meaning Greatswords are completely unaffected.
 -   **Oppressive Force** - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
     -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
     -   The first hit deals your regular M1 posture damage, the second hit deals 7 posture damage regardless of your weapon stats.
