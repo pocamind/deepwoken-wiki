@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 170242
+revid: 172837
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -158,7 +158,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 ## Notes
 
--   If you have no Tempo, your Rising Star, Relentless Hunt, and Mayhem deal reduced damage, posture damage, and will have longer windups.
+-   If you have 0% Tempo, your Rising Star, Relentless Hunt, and Mayhem deal reduced damage, posture damage, and will have longer windups.
     -   Heavy: -15 damage, -5 posture damage / Medium: -15 damage, -4 posture damage / Light: -7.5 damage, -1 posture damage.
 -   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
 -   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.

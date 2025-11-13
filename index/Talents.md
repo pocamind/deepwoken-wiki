@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 172681
+revid: 172838
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -691,6 +691,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Brawler
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
+    -   Lasts for ~4 seconds and procs 30% Bleed.
     -   Procs by pressing Y (Works even if you only have one Fist Style)
     -   8 Second cooldown between style change.
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
@@ -2081,7 +2082,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Eruption Path: Lava Serpent, 55 Flamecharm
 
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them. Don't fall in.
-    -   Has slight Flamecharm scaling for its damage.[\[3\]](#cite-note-3)
+    -   Has slight Flamecharm scaling for its damage.
     -   Duration of the lava pools scales on your Flamecharm investment.
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
@@ -2288,7 +2289,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage boost.[\[4\]](#cite-note-4)
+    -   Can stack up to 20 times, for a 100% damage boost.[\[3\]](#cite-note-3)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -2881,7 +2882,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
     -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
     -   5% DMG bonus currently bugged. (Since Summer 2023)
-    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[5\]](#cite-note-5)
+    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[4\]](#cite-note-4)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Self-Shocker
@@ -4485,6 +4486,5 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2) File:Neuro.png
-3.  [↑](#cite-ref-3)
-4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
-5.  [↑](#cite-ref-5)
+3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
+4.  [↑](#cite-ref-4)
