@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 172257
+revid: 172832
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -426,6 +426,7 @@ Fire
 -   Inflicts Burn.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
+-   Pressing F during the mantra's windup will release a wider but shorter flame.
 
  |
 | 

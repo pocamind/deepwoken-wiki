@@ -1,6 +1,6 @@
 ---
 title: The Covenant of Flame
-revid: 172438
+revid: 172825
 source: https://deepwoken.fandom.com/wiki/The_Covenant_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages requiring a cleanup, Factions, The Covenant of Flame]
@@ -25,7 +25,7 @@ They mainly wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) (though
 
 ## Notable Members
 
-[Amorus Pleeksty](Amorus_Pleeksty.md): The [Deepwoken](Lore.md#deepwoken) and creator of [Flamecharm](Flamecharm.md). He would travel to the 3rd Layer, and come across Korilfiend's garden, where he consumed a flower (assumed to be a [Simmerbloom](Simmerbloom_Diadem.md)) imbued with a fragment of [Korilfiend, the Inferno's Provenance](<Korilfiend,_the_Inferno's_Provenance.md>), granting him the ability to "charm" fire. This would allow him to create the [Flamecharm](Flamecharm.md) attunement, and give it to the rest of humanity.
+[Amorus Pleeksty](Amorus_Pleeksty.md): The [Deepwoken](Lore.md#deepwoken) and pioneer of [Flamecharm](Flamecharm.md). He would travel to the 3rd Layer, and come across Korilfiend's garden, where he consumed a flower (assumed to be a [Simmerbloom](Simmerbloom_Diadem.md)) imbued with a fragment of [Korilfiend, the Inferno's Provenance](<Korilfiend,_the_Inferno's_Provenance.md>), granting him the ability to "charm" fire. This would allow him to use the [Flamecharm](Flamecharm.md) [attunement](Attunements.md) much more efficiently, and give that knowledge to the rest of the world.
 
 [Ploom](Ploom.md): Grants the [Pleeksty's Will](Talents.md#inferno) [talent](Talents.md), and reveals [lore](Lore.md#amorus-pleeksty) on [Amorus Pleeksty](Amorus_Pleeksty.md).
 

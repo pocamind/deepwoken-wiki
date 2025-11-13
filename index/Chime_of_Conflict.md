@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 171993
+revid: 172833
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Game Modes]
@@ -109,3 +109,5 @@ Ranked **(Top 1000-251)**
 -   The lowest Elo possible is 500
 
 -   You get a ranking once you are in the top 2500
+
+-   Originally, Chime featured a system with three skulls — losing all three by being defeated in three matches would send players to the Depths. However, following popular demand and outcry from players and figures such as Eclipse, the skull system was ultimately removed.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 163763
+revid: 172834
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,7 +67,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 ### Passives
 
 -   **Shaper Swap** - Press X to swap position with your clones.
-    -   Swaps your position with your clone, teleporting you to their current position and them to yours, very large range of ~250 studs.
+    -   Swaps your position with your clone, teleporting you to their current position and them to yours, very large range of ~350 studs.
     -   You can use Shaper Swap within up to 0.2 seconds after using a move.
         -   You can also use Shaper Swap during the middle of an attack with negative endlag. (Ex. before the second slash of [Umbrite Witherblade](Umbrite_Witherblade.md)'s crit)
     -   The keybind for Shaper Swap can be configured in settings.
@@ -84,17 +84,17 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
             -   While the user _will_ be hidden, wisps and any lighting VFX (Ex. [enchantment](Enchantments.md) glows), will _not_ be hidden.
         -   Will not spawn in a clone.
         -   Works in PvE however has no real benefit. (Mobs/NPCS will still see you)
-        -   Has 2 second cooldown, as it cannot be re-activated during its duration.
+        -   Has 3 second cooldown, as it cannot be re-activated during its duration.
     -   _**Upon being hit below 50% health:**_
         -   The user will clear hitstun, shortly turn invisible, get pushed back, and spawn in a clone. (In that order)
-            -   The clone lasts 15 seconds, and cannot be [modified](Mantra_Modifiers.md). (7.5 seconds on targets with disbelief)
+            -   The clone lasts 15 seconds, and cannot be [modified](Mantra_Modifiers.md). (6.5 seconds on targets with disbelief)
             -   The invisibility lasts 0.5 seconds, does not grant I-frames, and also doesn't hide any wisps or any lighting VFX.
             -   Will forcibly push the user backwards from the direction they're facing, removing user directional input and ignoring all [slow effects](Status_Effects.md).
                 -   This will also cause the player to move upwards if they are somehow facing downwards.
         -   Immediately after getting hit the user clears hitstun and is instantly allowed to block/dodge freely.
             -   However this will only activate on the very first tick of damage, causing [grabs](https://deepwoken.fandom.com/wiki/List_of_Grab_Mantras)/multihits to ignore this.
         -   Can be repeatedly activated by the user as long as they're hit below 50% health so long it's off cooldown. (No need to get back above 50% to reactivate)
-        -   Has 60 second cooldown.
+        -   Has 50 second cooldown.
 
 -   **Reality Shift** - Command the closest conjured servant to attack their hallucinating target, using either a Critical Attack or a Mantra.
     -   Pressing J or utilizing the Reality Shift tool will make your clones use their stored ability.
@@ -103,7 +103,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Clones will copy your attunement path and mantra modifiers (currently bugged) when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
     -   Reality Shift cannot be activated if no targets are nearby.
     -   Clones will only copy the standing critical or aerial of weapons and cannot trigger any other alternate criticals. (Ex. running/sliding/crouch exclusive crits)
-    -   Has a cooldown of 7 seconds.
+    -   Has a cooldown of 5 seconds.
 
 -   **Shaper Mimicry** - The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
     -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying.
@@ -120,7 +120,6 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Cancelling an attack will still count as "using it", causing the clone to store feinted/interrupted moves.
     -   The name of currently stored attacks is written above the clone's head in white text with a purple outline. (Clears on use)
     -   The [modifiers](Mantra_Modifiers.md) of mantras will be copied.
-    -   The clones appear to do half of the caster's damage.
     -   Clones disappear in 3 hits, but are immune to damage over time effects.
     -   Clones cannot copy enchantments/talents.
     -   If the targeted player has the Disbelief Talent, clone duration is halved.
@@ -131,7 +130,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   **Illusory Counter** - Fool others into striking and retaliate.
     -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone in place of your previous location.
     -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion.
-    -   User can move while using Illusory Counter.
+    -   User can't move while using Illusory Counter.
 
 #### Support Mantras
 
