@@ -1,8 +1,9 @@
 ---
 title: "Archivist Journal: 'Megalodaunt'"
-revid: 172303
+revid: 172786
 source: https://deepwoken.fandom.com/wiki/Archivist_Journal%3A_'Megalodaunt'
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Archivist Journal: 'Megalodaunt'

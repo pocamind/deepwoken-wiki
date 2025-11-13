@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 172323
+revid: 172824
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Black Divers]
@@ -15,4 +15,6 @@ notices:
 | name | Ulysses Disii |
 | affiliation | The Divers |
 
+## Description
 
+Ulysses Disii was a Black Diver. In the year 904 CE, Disii carried out an interrogation of fellow Diver Santiago Talo.

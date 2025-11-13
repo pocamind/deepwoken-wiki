@@ -1,8 +1,9 @@
 ---
 title: "Operation 'Puppet Master' Report"
-revid: 172340
+revid: 172814
 source: https://deepwoken.fandom.com/wiki/Operation_'Puppet_Master'_Report
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Operation 'Puppet Master' Report

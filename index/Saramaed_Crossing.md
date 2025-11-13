@@ -1,6 +1,6 @@
 ---
 title: Saramaed Crossing
-revid: 172730
+revid: 172779
 source: https://deepwoken.fandom.com/wiki/Saramaed_Crossing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Lawless Territory, Territory of The Ignition Union]

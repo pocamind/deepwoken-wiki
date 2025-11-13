@@ -1,8 +1,9 @@
 ---
 title: Ossuary Maintenance
-revid: 172341
+revid: 172823
 source: https://deepwoken.fandom.com/wiki/Ossuary_Maintenance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Ossuary Maintenance

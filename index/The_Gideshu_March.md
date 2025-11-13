@@ -1,8 +1,9 @@
 ---
 title: The Gideshu March
-revid: 172318
+revid: 172798
 source: https://deepwoken.fandom.com/wiki/The_Gideshu_March
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # The Gideshu March

@@ -1,8 +1,9 @@
 ---
 title: Lament of Cirryn
-revid: 172324
+revid: 172802
 source: https://deepwoken.fandom.com/wiki/Lament_of_Cirryn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Lament of Cirryn

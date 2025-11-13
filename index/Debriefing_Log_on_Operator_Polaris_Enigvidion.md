@@ -1,8 +1,9 @@
 ---
 title: Debriefing Log on Operator Polaris Enigvidion
-revid: 172311
+revid: 172792
 source: https://deepwoken.fandom.com/wiki/Debriefing_Log_on_Operator_Polaris_Enigvidion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Debriefing Log on Operator Polaris Enigvidion

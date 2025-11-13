@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 156273
+revid: 172778
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer]
@@ -10,9 +10,8 @@ categories: [NPCs, NPCs located in the First Layer]
 
 | ??? (Coral Clump) | |
 |---|---|
-| name | "???" |
-| aspect | Mudskipper |
-| location | The Depths |
+| species | Mudskipper |
+| location | Celtor Wastes |
 
 ## Description
 

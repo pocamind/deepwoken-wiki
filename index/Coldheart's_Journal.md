@@ -1,8 +1,9 @@
 ---
 title: "Coldheart's Journal"
-revid: 172309
+revid: 172789
 source: https://deepwoken.fandom.com/wiki/Coldheart's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Coldheart's Journal

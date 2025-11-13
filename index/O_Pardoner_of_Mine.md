@@ -1,8 +1,9 @@
 ---
 title: O Pardoner of Mine
-revid: 172334
+revid: 172812
 source: https://deepwoken.fandom.com/wiki/O_Pardoner_of_Mine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # O Pardoner of Mine

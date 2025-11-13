@@ -1,8 +1,9 @@
 ---
 title: Eggs In A Basket
-revid: 172316
+revid: 172796
 source: https://deepwoken.fandom.com/wiki/Eggs_In_A_Basket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Eggs In A Basket

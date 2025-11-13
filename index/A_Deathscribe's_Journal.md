@@ -1,8 +1,9 @@
 ---
 title: "A Deathscribe's Journal"
-revid: 172383
+revid: 172791
 source: https://deepwoken.fandom.com/wiki/A_Deathscribe's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # A Deathscribe's Journal
@@ -458,5 +459,7 @@ A Deathscribe's Journal
     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period, hence why he is reference as both old and being sighted in the Eastern Luminant.[\[1\]](#cite-note-1)
+
+## References
 
 1.  [↑](#cite-ref-1)

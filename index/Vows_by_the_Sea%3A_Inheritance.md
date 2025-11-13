@@ -1,8 +1,9 @@
 ---
 title: "Vows by the Sea: Inheritance"
-revid: 172385
+revid: 172815
 source: https://deepwoken.fandom.com/wiki/Vows_by_the_Sea%3A_Inheritance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Vows by the Sea: Inheritance

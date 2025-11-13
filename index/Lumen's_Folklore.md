@@ -1,8 +1,9 @@
 ---
 title: "Lumen's Folklore"
-revid: 172328
+revid: 172805
 source: https://deepwoken.fandom.com/wiki/Lumen's_Folklore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Book Collections]
 ---
 
 # Lumen's Folklore
@@ -89,3 +90,7 @@ Lumen's Folklore: Volume 'North'
 >   
 > 
 > Today, Scholars still debate on if the Edenkite exist. They ruminate on if they simply fled, or had gone extinct over the years of the tides. With the Voidsea continuing to grow, they've thus shifted their goals to preventing the spread of the Voidsea, for it is all hope they have left. The only records known to man of the Edenkite' existence resides only within the archives of Markor, the sin sealed away, never to be seen by the common folk ever again.
+
+## Trivia
+
+-   This is the only Book Collection that contains more than one volume.

@@ -1,8 +1,9 @@
 ---
 title: Our Fortress (Of Smoke And Steel)
-revid: 172343
+revid: 172822
 source: https://deepwoken.fandom.com/wiki/Our_Fortress_(Of_Smoke_And_Steel)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Our Fortress (Of Smoke And Steel)

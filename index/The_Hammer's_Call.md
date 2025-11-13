@@ -1,8 +1,9 @@
 ---
 title: "The Hammer's Call"
-revid: 172320
+revid: 172800
 source: https://deepwoken.fandom.com/wiki/The_Hammer's_Call
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # The Hammer's Call

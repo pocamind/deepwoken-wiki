@@ -1,8 +1,9 @@
 ---
 title: Capran Aphorisms
-revid: 172304
+revid: 172787
 source: https://deepwoken.fandom.com/wiki/Capran_Aphorisms
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Capran Aphorisms

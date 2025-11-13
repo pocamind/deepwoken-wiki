@@ -1,8 +1,9 @@
 ---
 title: "Operation 'Distant Light' Report"
-revid: 172335
+revid: 172813
 source: https://deepwoken.fandom.com/wiki/Operation_'Distant_Light'_Report
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Operation 'Distant Light' Report

@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 172631
+revid: 172809
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits]
@@ -45,7 +45,6 @@ The [Withering Soul](Talents.md#withering-soul) Talent makes your M1s deal 12.5%
 
 ## Trivia
 
--   This outfit used to be a Unique armor, but the rarity was dropped down to Master when it became droppable in the January 18th, 2025 update.
 -   This outfit used the original clothing for the [Moonseye](<Moonseye_(Outfit).md>) outfit.
 -   One of the two Master outfits, the other being [Royal Etrean Guard](Royal_Etrean_Guard.md), that do not require a [Deep Gem](Deep_Gems.md) to be crafted.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9520632236/Sellsword) / [Pants](https://www.roblox.com/catalog/9520635195/Sellsword)

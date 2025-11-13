@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 167530
+revid: 172780
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -28,7 +28,9 @@ It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md). It also conta
 
 ### Docks
 
-The Docks is what greets you after the highway. It has a guard and a shipwright.
+The Docks has a guard and a shipwright.
+
+Past the gate, [Tolkat](Tolkat.md), the NPC who unbounds the player's [Strength](Attributes.md#str), can be found.
 
 To the right of the Docks, the NPC for the [Oathless](Oath%253A_Oathless.md) [Oath](Oaths.md) quest is in a cave.
 

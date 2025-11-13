@@ -1,8 +1,9 @@
 ---
 title: The Song of Fathoms / Oscillation
-revid: 172363
+revid: 172821
 source: https://deepwoken.fandom.com/wiki/The_Song_of_Fathoms_/_Oscillation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # The Song of Fathoms / Oscillation

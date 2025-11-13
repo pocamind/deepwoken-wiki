@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 172695
+revid: 172816
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -32,7 +32,7 @@ W Rank being obtained
 
 Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list. The emerald name overrides Silver & Gold names from [Chime of Conflict](Chime_of_Conflict.md).
 
--   A Rank now gives 1 character slot for free.
+-   A Rank gives 1 character slot for free.
 -   S Rank is achievable by doing all Echoes tasks (listed below).
 -   A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns and Glass Bones.
 

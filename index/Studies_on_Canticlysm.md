@@ -1,8 +1,9 @@
 ---
 title: Studies on Canticlysm
-revid: 172373
+revid: 172818
 source: https://deepwoken.fandom.com/wiki/Studies_on_Canticlysm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Book Collections]
 ---
 
 # Studies on Canticlysm

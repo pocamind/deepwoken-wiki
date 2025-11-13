@@ -1,8 +1,9 @@
 ---
 title: Strange Missives
-revid: 172367
+revid: 172819
 source: https://deepwoken.fandom.com/wiki/Strange_Missives
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Strange Missives

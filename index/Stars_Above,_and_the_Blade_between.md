@@ -1,9 +1,9 @@
 ---
 title: "Stars Above, and the Blade between"
-revid: 172540
+revid: 172820
 source: https://deepwoken.fandom.com/wiki/Stars_Above%2C_and_the_Blade_between
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, "Non-canon articles"]
+categories: [Cut Content, "Non-canon articles", Books]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
   - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."

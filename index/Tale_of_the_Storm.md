@@ -1,8 +1,9 @@
 ---
 title: Tale of the Storm
-revid: 172376
+revid: 172817
 source: https://deepwoken.fandom.com/wiki/Tale_of_the_Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Tale of the Storm
