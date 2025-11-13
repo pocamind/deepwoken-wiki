@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 172767
+revid: 172849
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -26,7 +26,7 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md).
 
-If you grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md).
+After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md). This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 10 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape.
 
 Gain the Salute [Emote](Emotes.md). All Ensigns will have an Authority insignia above their head to signify their rank, though your own insignia will be invisible to you. Most Authority-related equipment and weapons, listed here, can be equipped without meeting their normal requirements, without any penalty.
 
@@ -92,8 +92,9 @@ Even if you aren't in a squad, other players may be assigned to the same mission
             -   When an escapee gets low enough health to be knocked from a player attack, they will be teleported back into the prison instead.
         -   The Mission will automatically fail if you enter the prison.
             -   When this Mission fails, you only lose 10 promotion points instead of the usual 25.
-        -   If there is an active prison break, this mission will be highly favored by RNG when choosing a Mission, having a very high chance that you get this one instead of any others.
+        -   This mission is only available when there's an active fugitive on the loose. If such is the case, the mission is very likely to be assigned over other type of mission.
         -   The location marker for this Mission does not follow the prisoner, instead it stays at the prison. You may need to search around for the prisoner in question. Remember to use your Horn of Authority to locate them.
+            -   The primary, intended escape route is located at the top of the prison. More daring prisoners might attempt to make a run throught the bridge leading to the prison. Those with outside help can instead escape near the lower part of the prison, being picked up by a boat.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage._
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage by pressing V and run far enough away from where the hostage was being kept to complete this Mission.
     -   Potential Locations:

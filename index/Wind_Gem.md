@@ -1,6 +1,6 @@
 ---
 title: Wind Gem
-revid: 172532
+revid: 172860
 source: https://deepwoken.fandom.com/wiki/Wind_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]

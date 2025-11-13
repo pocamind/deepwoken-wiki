@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 172422
+revid: 172897
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -153,7 +153,7 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
   <td colspan="12">I've spooked about... [number] people, maybe? I'd like to trade my Joy in.</td>
 </tr>
 <tr>
-  <td colspan="12">Hmmst.. <b>[number] people</b>, you say? My intuition was true, then! Brilliant! Veritable numbers! What wouldst thou like, then? Have a gander at my musickal collection.</td>
+  <td colspan="12">Hmmst.. [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] <b>[number] people</b>, you say? My intuition was true, then! Brilliant! Veritable numbers! What wouldst thou like, then? Have a gander at my musickal collection.</td>
 </tr>
 <tr>
   <td colspan="6">2. Eggs In A Basket [12 Joy]<br>

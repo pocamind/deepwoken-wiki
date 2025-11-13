@@ -1,6 +1,6 @@
 ---
 title: Blue Gem
-revid: 171194
+revid: 172853
 source: https://deepwoken.fandom.com/wiki/Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]

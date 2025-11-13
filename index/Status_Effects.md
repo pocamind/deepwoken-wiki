@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 172766
+revid: 172873
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -459,11 +459,11 @@ Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whene
 
 ### Fearful
 
-Applied through the [Reinforced War Set's](Reinforced_War_Helmet.md) Talent _Lasting Trauma_; be unable to use your weapon critical for **9 seconds** after being hit by a [Strength](Attunement-less.md#strength) Mantra that has a [Wrath Gem](Wrath_Gem.md) equipped. Note: you need to be wearing the **full** Reinforced War set for this to proc, this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) all need to be equipped. Indicated by pink shard effects rapidly escaping your character.
+Applied through the Reinforced War Set's Talent _Lasting Trauma_; be unable to use your weapon critical for **9 seconds** after being hit by a [Strength](Attunement-less.md#strength) Mantra that has a [Wrath Gem](Wrath_Gem.md) equipped. Note: you need to be wearing the **full** Reinforced War set for this to proc, this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) all need to be equipped. Indicated by pink shard effects rapidly escaping your character.
 
 ### Etherguard
 
-Applied through the [Bluestone Set's](Bluestone_Pauldrons.md) _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based off their Ether cost for 16 seconds.
+Applied through the Bluestone Set's _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based on their Ether cost for 16 seconds.
 
 ### Embraced in Light
 

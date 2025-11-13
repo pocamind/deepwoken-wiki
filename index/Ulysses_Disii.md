@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 172824
+revid: 172884
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Black Divers]
@@ -14,6 +14,10 @@ notices:
 |---|---|
 | name | Ulysses Disii |
 | affiliation | The Divers |
+
+“ How resolute of you. Should we clap? Should the High Convocation throw you a party? Should we invite Drallis Ehr? ”
+
+― Ulysses Disii admonishing Ranger Talo
 
 ## Description
 

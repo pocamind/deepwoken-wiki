@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 165314
+revid: 172894
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -41,7 +41,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 -   Any points that cannot be evenly distributed during the averaging process will be returned to you as free points.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
--   If you no longer meet the requirements of your equipped weapon after using Shrine of Order, it will be unequipped and replaced with the [Sword](<../Sword_(weapon).md>). Equipped offhands you don't meet the requirements of will just be unequipped.
+-   Equipped offhands you don't meet the requirements of will just be unequipped.
 -   If you no longer meet the requirements of your [Outfit](../Outfits.md) after using Shrine of Order, it will stay equipped and you will be able to unequip/reequip it at any time as Outfit stat requirements are only enforced when crafting them.
 -   Does not progress towards the [Contractor Oath](../Oath%253A_Contractor.md) obtainment.
 -   If needed, there are a few ways to get around Shrine of Order's Power 8 requirement.
