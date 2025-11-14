@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 172875
+revid: 173135
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2455,6 +2455,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 -   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
+    -   This effect requires your opponent to be within 90 studs of you
     -   For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.125 seconds with 55 Intelligence.
     -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
@@ -3124,7 +3125,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 40 Charisma
 
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent \[_[sic](https://en.wikipedia.org/wiki/sic)_\] description, I can't stop you.
-    -   Gain 40% more notes from selling items.
+    -   Gain 50% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
 ### Songmaster

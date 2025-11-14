@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 172734
+revid: 173133
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -81,13 +81,13 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   The target gains invincibility frames while active.
     -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.
     -   Can be vented out of, and can also be parried as soon as you hear the 'snap' sound.
-    -   Deals 59.93 (6.38+53.55) Oath DMG.
+    -   Deals 59.93 (6.38+53.55) Oath DMG, 7 posture if blocked.
 -   Obtained after gripping 3 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
 -   **Lord's Slice** - The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions.
     -   Can slam people into walls.
     -   Only usable if Hidden Tendril is applied to the target.
-    -   Deals 44 Oath DMG
+    -   Deals 44 Oath DMG and 28 posture if blocked
 -   Obtained after gripping 1 player with an [Oath](Oaths.md) in [The Depths](First_Layer.md).
 
 -   **Equalizer** - Whip forward a tendril. If it connects, it deals damage to the target, and gives the user a blue aura.

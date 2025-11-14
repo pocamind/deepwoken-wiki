@@ -1,12 +1,11 @@
 ---
 title: Shrine of Winter
-revid: 172051
+revid: 173057
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Winter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Stub pages without reason, StubPages, Locations]
+categories: [Cut Content, Locations]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Shrine of Winter
@@ -17,11 +16,11 @@ Winter's call beckons you to join its frozen embrace.
 
   
 
-The Shrine of Winter being activated.
+## Description
 
 The **Shrine of Winter** was a location in Deepwoken's Pre-Release phase used to enter the Depths without having to die, similarly to [Whirlpools](Whirlpools.md). The Shrine was most likely located in either [Etris](Etris.md) or the [Isle of Vigils](Isle_of_Vigils.md) due to the soundtrack [Peregrine](Deepwoken_OST.md) playing in the area.
 
-To activate the shrine, a user in its proximity of activation would use a wisp-type ritual (most likely the [Frost Wisp](Frostdraw.md),) and would be teleported to [The Depths](First_Layer.md) instantly.
+To activate the shrine, a user in its proximity of activation would use a wisp-type ritual (most likely the [Frost Wisp](Frostdraw.md),) and would be teleported to [Scyphozia](First_Layer.md) instantly.
 
 ## Trivia
 

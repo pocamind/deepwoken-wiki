@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 168380
+revid: 173143
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -515,8 +515,8 @@ Shadow, Mul. Spark: Blunt (1st Hit), Shadow
 
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
--   Has a base damage of 65/77.5/90/102.5/115 per level with 2.75 Shadowcast scaling.
--   The Multiplying Spark variant's kick has a base damage of 5/6/7/8/9 per level. The main Eclipse Kick's damage is reduced however, having a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
+-   Has a base damage of 65/77.5/90/102.5/115 per level with 2.5 Shadowcast scaling.
+-   The Multiplying Spark variant's kick has a base damage of 5/6/7/8/9 per level. The main Eclipse Kick's damage is reduced however, having a base damage of 52/62/72/82/92 per level. Both hits have 2 Shadowcast scaling.
 -   Has a 1 second windup with hyperarmor and a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   The axe kick does not proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does.

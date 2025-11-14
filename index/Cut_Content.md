@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 172722
+revid: 173074
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -138,14 +138,20 @@ This page is about content that has either been removed or changed drastically i
 -   **Boulder Climb \[Common Talent, Agility\] -** Your climb height increases when you slide jump.
     -   In the August 23rd, 2024 update, Boulder climb was merged into Kick Off.
 
+-   **Command: Fight \[Common Talent, Charisma\] -** Command your servants to fight for their master, granting them enhanced stats for a duration.
+    -   In the June 21st, 2024 update, Command: Fight became a base Vow of Mastery command.
+
 -   **Command: Leech \[Common Talent, Charisma\] -** Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
     -   In the March 13th, 2023 update, Command: Leech became a base Vow of Mastery command.
 
 -   **Command: Locate \[Common Talent, Charisma\] -** Locate one of your vow members (+4 Ether, +3 Health)
     -   In the December 6th, 2022 update, Command: Locate became a base Vow of Mastery command.
 
--   **Command: Return \[Rare Talent, Charisma\] -**
+-   **Command: Return \[Rare Talent, Charisma\] -**Command your servant to obey your vow and return to your side.
     -   In the August 30th, 2024 update, Command: Return became a base Vow of Mastery command.
+
+-   **Command: Sacrifice \[Rare Talent, Charisma\] -** Sacrifice the health of a servant in order to restore your own.
+    -   In the June 21st, 2024 update, Command: Sacrifice became a base Vow of Mastery command.
 
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
     -   In the October 24nd, 2022 update, Concentrated Reload and Ether Bullets were removed due to their functionality being irrelevant.
@@ -288,6 +294,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Molten Defence \[Common Talent, Flamecharm\] -** Upon being guard broken, you erupt. 30s cooldown.
     -   In the July 14th, 2025 update, Molten Defence was removed due to rewarding you for playing poorly and punishing your opponents for playing well.
 
+-   **Morale Booster \[Common Talent, Charisma\] -** Allies recover from being knocked twice as quickly when charmed by you.
+    -   In the June 21st, 2024 update, Morale Booster was merged into Charismatic Cast.
+
 -   **Now You See Me \[Common Talent, Agility\] -** Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   In the January 13th, 2024 update, Now You See Me was merged into Lowstride.
 
@@ -323,6 +332,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Salesperson \[Common Talent, Charisma\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
+
+-   **Scorched Earth \[Common Talent, Flamecharm\] -** Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
+    -   In the June 21st, 2024 update, Scorched Earth was merged into Flash Point.
 
 -   **Shatter Spear \[Rare Talent, Frostdraw\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   In the May 15, 2023 update, Shatter Spear was removed as it became a base behavior for Ice Lance.

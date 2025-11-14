@@ -1,6 +1,6 @@
 ---
 title: Summer Hullwrecker
-revid: 162869
+revid: 173139
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons]
@@ -11,14 +11,14 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatca
 | Summer Hullwrecker | |
 |---|---|
 | type | Greatcannon |
-| requirements | 55 HVY, 25 STR |
+| requirements | 50 HVY, 25 STR |
 | damage | 24.5 |
 | scaling | HVY: 8.2 |
 | range | 8.5 |
 | swing speed | 0.81x |
 | endlag | 0.1s |
 | penetration | 10% |
-| chip damage | 5% |
+| chip damage | 15% |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
