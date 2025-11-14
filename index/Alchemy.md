@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 173142
+revid: 173154
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Ingredients, Items, Alchemy]
@@ -79,23 +79,23 @@ A spreadsheet listing the effects of all potion ingredients can be found [here](
 
 | Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Instant Blood | Duration |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.5% | \-5% |  | +0.2\* |  |  |  |  |  |
-| [Bamboo](Bamboo_Bundle.md) |  | \-22 |  |  | +10% |  |  |  |  |  |  |
-| [Beeswax](Beeswax.md) |  |  |  |  |  | \-2,5%\*\* | +85% |  |  |  |  |
-| [Bluecap](Bluecap.md) | \-5 | +22 |  |  |  |  |  |  | +3.75/s |  |  |
+| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.75% | \-5% |  | +0.25\* |  |  |  |  |  |
+| [Bamboo](Bamboo_Bundle.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |
+| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |
+| [Bluecap](Bluecap.md) | \-5 | +23 |  |  |  |  |  |  | +3.75/s |  |  |
 | [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |  |
 | [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-5%\*\*\* |  |  |  |
 | [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
 | [Crustacean Meat](Crustacean_Meat.md) |  |  | \-1.75% |  |  |  |  |  |  |  | +20% |
-| [Dentifilo](Dentifilo.md) | \-3 | +20 |  |  |  |  |  |  |  |  |  |
+| [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |  |
 | [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |  |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |
 | [Hemobloom](Hemobloom.md) | ? | ? | ? | ? | ? | ? | ? | ? | ? | +? | ? |
-| [Marram Grass](Marram_Grass.md) |  | \-22 |  |  | +10% |  |  |  |  |  |  |
+| [Marram Grass](Marram_Grass.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |  |
-| [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-15% |  |  |  |  |
-| [Pomar](Pomar.md) |  |  |  |  |  | +0.25\* |  |  |  |  |  |
-| [Redd](Redd.md) | +3 |  |  |  |  |  |  | \-5%\*\*\* |  |  | \-25% |
+| [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |  |
+| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |  |
+| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-5%\*\*\* |  |  | \-25% |
 | [Sap](Sap.md) |  |  |  |  |  | \-5%\* |  | +90% |  |  |  |
 | [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
 | [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
@@ -128,7 +128,7 @@ Potion effectiveness can be calculated like this:
 
 Potion = ((n1 + n2 + n3 + n4 + n5) \* a) \* ((1 + (p/100) + A) \* t)
 
-Desmos Calculator [here](https://www.desmos.com/calculator/sdpkutl5cs).
+**Desmos Calculator [here](https://www.desmos.com/calculator/sdpkutl5cs).**
 
 Key:
 

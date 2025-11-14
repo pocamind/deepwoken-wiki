@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 172907
+revid: 173156
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -19,6 +19,13 @@ Glossary entries can be expanded when interacting with those who reveal more inf
 The Glossary can be accessed anytime by clicking on the Encyclopedia button at the top left of the screen.
 
 ## Entities
+
+### Aeod, the Waking God
+
+-   An entity spoken of by [Lightkeepers](#lightkeep).
+-   The Unspoken [Vow](#vows) of [Lightkeeping](#lightkeep) is tied to Aeod, who may have something to do with its origins.
+
+Dialogue: Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) | Books: | Glossary Entries: [Lightkeep](#lightkeep)
 
 ### Black Divers
 
@@ -311,6 +318,10 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 
 Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Radiant Tones](#radiant-tones), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye)
 
+-   Accessing the faintest spark of [Lightkeeping](#lightkeep) through the Lightkeeper's Medallion, the name ['Aeod'](#aeod-the-waking-god) makes itself known.
+
+Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
+
 -   Nimea mentioned that Lightkeepers are incapable of using the [Song](#the-song).
 
 [Nimea](Nimea.md)
@@ -376,7 +387,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 -   Steward Bridges posited on his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
