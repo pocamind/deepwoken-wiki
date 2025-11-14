@@ -1,9 +1,9 @@
 ---
 title: Mur Of Light
-revid: 164838
+revid: 173255
 source: https://deepwoken.fandom.com/wiki/Mur_Of_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, Lore figures]
+categories: [Celestials]
 ---
 
 # Mur Of Light

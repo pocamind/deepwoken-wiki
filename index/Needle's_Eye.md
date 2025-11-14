@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 169603
+revid: 173216
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Items, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -31,11 +31,11 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Items, Weap
 
 ## Description
 
-The Needle's Eye is an endgame [Rapier](Weapons.md) that requires 75 Light Weapon to use.
+Needle's Eyes are endgame [Rapiers](Weapons.md) that require 75 Light Weapon to use.
 
-Being a refined rapier made for nobility, its ornate design highlights its deadly capabilities. Needle's Eye has a similar stat lineup to other endgame rapiers, albeit being on the lower end in terms of raw statistical values. While very powerful in the right hands, this weapon's strength lies in its unique critical.
+Being a refined rapier made for nobility, its ornate design highlights its deadly capabilities. A Needle's Eye has a similar stat lineup to other endgame rapiers, albeit being on the lower end in terms of raw statistical values. While very powerful in the right hands, this weapon's strength lies in its unique critical.
 
-The rapier was part of the former Duchess Thera Erisia's rapiers who bore the title of the Needle's Eye, as seen in her statue in Erisia.
+Needle's Eyes are replicas of the former Duchess [Thera Erisia](Thera_Erisia.md)'s famed personal rapier. Thera bore the title of the Needle's Eye.[\[1\]](#cite-note-1)
 
 ## Critical
 
@@ -54,3 +54,7 @@ You cannot rotate your character during this critical. This critical has the M1 
 -   The Needle's Eye is the slowest rapier ever, having a swingspeed of 1.05x.
 -   Needle's Eye and the [Golden Swordfish](Golden_Swordfish.md) are the only two non-legendary rapiers to have a unique critical attack.
 -   This rapier has the same name as the [Whisperer's](https://rogue-lineage.fandom.com/wiki/Whisperer) skill from [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage).
+
+## References
+
+1.  [↑](#cite-ref-1) [Pathfinder's Respite](<Pathfinder's_Respite.md>)

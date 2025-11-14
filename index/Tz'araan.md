@@ -1,9 +1,9 @@
 ---
 title: "Tz'araan"
-revid: 172388
+revid: 173257
 source: https://deepwoken.fandom.com/wiki/Tz'araan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Songseekers, Lore figures]
+categories: [Stub pages without reason, StubPages, Songseekers]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

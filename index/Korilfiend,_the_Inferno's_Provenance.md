@@ -1,9 +1,9 @@
 ---
 title: "Korilfiend, the Inferno's Provenance"
-revid: 150103
+revid: 173242
 source: https://deepwoken.fandom.com/wiki/Korilfiend%2C_the_Inferno's_Provenance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore figures, Drowned Gods]
+categories: [Drowned Gods]
 ---
 
 # Korilfiend, the Inferno's Provenance

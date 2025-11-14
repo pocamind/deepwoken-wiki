@@ -1,6 +1,6 @@
 ---
 title: Marquis
-revid: 172537
+revid: 173160
 source: https://deepwoken.fandom.com/wiki/Marquis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, "Non-canon articles", Manga characters]
@@ -13,6 +13,10 @@ notices:
 
 | Marquis | |
 |---|---|
+
+## Description
+
+Marquis was an inhabitant of [The Duke](<The_Duke_(manga).md>)'s country.
 
 ## Trivia
 

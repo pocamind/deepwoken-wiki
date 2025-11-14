@@ -1,9 +1,11 @@
 ---
 title: Nocturnal Gem
-revid: 172856
+revid: 173191
 source: https://deepwoken.fandom.com/wiki/Nocturnal_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
+categories: [Event Only Content, Items, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
+notices:
+  - "This page contains Event Exclusive Content This item is exclusive to Goodie Bags, which are only obtainable during the Hallowtide event."
 ---
 
 # Nocturnal Gem

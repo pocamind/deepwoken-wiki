@@ -1,9 +1,11 @@
 ---
 title: Candy
-revid: 170114
+revid: 173194
 source: https://deepwoken.fandom.com/wiki/Candy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Event Only Content, Items, Food]
+notices:
+  - "This page contains Event Exclusive Content This item is exclusive to Goodie Bags, which are only obtainable during the Hallowtide event."
 ---
 
 # Candy

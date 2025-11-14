@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 155010
+revid: 173234
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -35,7 +35,7 @@ It's currently known to drop from [Ferryman](The_Ferryman.md) and [Scion of Ethi
 ## Trivia
 
 -   The medallion used to recharge if you gripped someone on their last skull in the [Chime of Conflict](Chime_of_Conflict.md) and are sent to the [Depths](First_Layer.md), but this is no longer possible due to the removal of chime skulls.
--   Many elements of the medallion resemble the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), which is currently stationed by Viqh under the [Authority's](The_Central_Authority.md) control.
+-   Many elements of the medallion resemble the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), which is currently stationed by [Viqh](Viqh.md) under the [Authority's](The_Central_Authority.md) control.
     -   The holder resembles the roof of the Lighthouse.
     -   The embellishment appears to be in the shape of the Lighthouse as a whole.
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Imperator's Fury](<Imperator's_Fury.md>), and the [Whistling Periapt](Whistling_Periapt.md).

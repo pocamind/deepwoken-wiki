@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 163361
+revid: 173240
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -119,4 +119,4 @@ Kiron have optional face markings. The color of these markings is based on your 
 -   The surname Vaatu may be a nod to [Vaatu](https://avatar.fandom.com/wiki/Vaatu) from the _Avatar_ franchise.
 -   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both characters are vampires.
 -   The surname Draatu may be a nod to Dracula.
--   You can combine the names ‘Nosfer’ and either ‘Ratu’ or ‘Aatu’ to get a name that sounds similar to ‘Nosferatu’, the original vampire horror movie from 1922.
+-   You can combine the names ‘Nosfa’ and ‘Ratu’ to get a name that sounds similar to ‘Nosferatu’, the original vampire horror movie from 1922.

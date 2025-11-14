@@ -1,9 +1,9 @@
 ---
 title: Vincent Zeneke
-revid: 172698
+revid: 173250
 source: https://deepwoken.fandom.com/wiki/Vincent_Zeneke
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore figures]
+categories: [Scholars and researchers]
 ---
 
 # Vincent Zeneke
@@ -17,7 +17,7 @@ categories: [Lore figures]
 
 Vincent Zeneke is a musicologist who records the history of music across Lumen. Their monograph, 'Songs of the Sea', is an extensive work covering many different pieces, and was written in collaboration with Alloras Munet, a Central Authority navy recordkeeper, Aurelia Imari, a member of the High Convocation, and the Citadel of Markor. Vincent enjoyed a research stay in the Citadel for the purposes of research to aid with writing the monograph.
 
-Vincent Zeneke's known works are listed below:
+Songs included within Zeneke's monograph include:
 
 -   [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
 -   [Tale of the Storm](Tale_of_the_Storm.md)

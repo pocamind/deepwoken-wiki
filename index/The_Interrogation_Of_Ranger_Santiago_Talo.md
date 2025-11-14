@@ -1,8 +1,9 @@
 ---
 title: The Interrogation Of Ranger Santiago Talo
-revid: 172322
+revid: 173172
 source: https://deepwoken.fandom.com/wiki/The_Interrogation_Of_Ranger_Santiago_Talo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # The Interrogation Of Ranger Santiago Talo

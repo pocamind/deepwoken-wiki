@@ -1,6 +1,6 @@
 ---
 title: Unidentified Canor warlord
-revid: 172892
+revid: 173245
 source: https://deepwoken.fandom.com/wiki/Unidentified_Canor_warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,4 +19,4 @@ After the hammer had gained a reputation, the [Pale Morning](Pale_Morning.md) wa
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-pm-1-0) [1.1](#cite-ref-pm-1-1) [1.2](#cite-ref-pm-1-2) [Pale Morning](Pale_Morning.md)
+1.  ↑ [1.0](#cite-ref-pm-1-0) [1.1](#cite-ref-pm-1-1) [1.2](#cite-ref-pm-1-2) [Pale Morning](Pale_Morning.md) description

@@ -1,9 +1,11 @@
 ---
 title: "Death's-Head Necktie"
-revid: 170227
+revid: 173189
 source: https://deepwoken.fandom.com/wiki/Death's-Head_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Ties, Hallowtide, Event Item]
+categories: [Event Only Content, Items, Equipment, Torso, Ties, Hallowtide, Event Item]
+notices:
+  - "This page contains Event Exclusive Content This item is exclusive to Goodie Bags, which are only obtainable during the Hallowtide event."
 ---
 
 # Death's-Head Necktie

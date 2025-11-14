@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 171682
+revid: 173231
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -10,10 +10,9 @@ categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, T
 
 _This is the boss encountered at the end of [Layer 2, Floor 2](Second_Layer/New_Kyrsa.md). For its puppeteer and namesake, see [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
-“ They're puppets now, just like him.  
-Eternally bound to guard his shrine... ”
+“ The egg hatches soon, little diver. The wails of the screaming child born under the snow will bring it all crashing down. ”
 
-― [Naerotiv](Naerotiv.md)
+― Carrion
 
 Template:Creature Infobox V3
 
@@ -253,6 +252,7 @@ This list may be missing items, please help us by filling in the gaps.
 ## Trivia
 
 -   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>).
+-   It's heavily implied that it's appearance, consisting of bones, no skin, and large dendrite structures rather than a full brain, is actually the result of a lack of development. Carrion refers to the Scion as a "screaming child" and given the context of its name, the Scion is most likely still in an "infant" stage. Given its feathers and the shape of its skull, a "mature" Scion of Ethiron would likely take the form a bird-like humanoid.
 -   The song that plays during the fight is ELEISON [\[1\]](https://www.youtube.com/watch?v=tbBwELgDPD8&pp=ygUKbmFrdGlnb25pcw%3D%3D) by Naktigonis.
     -   This song get updated to 11:59 [\[2\]](https://www.youtube.com/watch?v=g4aVbN4nE6U&pp=ygUKbmFrdGlnb25pcw%3D%3D) (also by Naktigonis) for the escape.
 -   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the Restore Rulebook before [being changed in 2023](https://discord.com/channels/920707638034067486/1096623256200560771/1126711224021831821).

@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 169611
+revid: 173167
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Summer Isle, Moon's Eyrie, Depths, Chime of Conflict, LodestarAlloyed, Alloying a Cavalry Saber, Summer Isle, Moon's Eyrie, Lodestar, Heart of Enmity, Fort Merit Armory for 60 (Authority Ensign exclusive) |
-| description | To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as a effective blade for raiding. |
+| description | To those of the current world, the notion of cavalry is farfetched. Still, the cavalry saber lives on as an effective blade for raiding. |
 
 ## Description
 

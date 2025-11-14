@@ -1,8 +1,9 @@
 ---
 title: "Jericho's Journal"
-revid: 172321
+revid: 173174
 source: https://deepwoken.fandom.com/wiki/Jericho's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Books]
 ---
 
 # Jericho's Journal

@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 172398
+revid: 173232
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
@@ -57,7 +57,7 @@ His wild white hair and unique green eyes are side effects of a Moonseye Vigour 
 <tr>
   <td colspan="4">I really must be getting old, it slipped my mind that no one has been to this City in decades. The egg hatches soon, little diver. The wails of the screaming child born under the snow will bring it all crashing down. <b>ANYWAY</b>, do you happen to have any rare monster parts?</td>
   <td>Tehehehehe. That's the spirit! Now, if you happen to be in the area with some rare monster parts, then you be sure to let me know.</td>
-  <td>No no no. NO. I am not about to get caught up in the affairs of Klaris and her little superhero group. I want nothing to do with stopping <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> or anything of that nature. Look, you went toe to toe with Chaser. He's probably one of the strongest <a href="Glossary.md#the-divers">Divers</a> that the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> has ever produced, save [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] for Akira and Klaris. You have this completely under control... probably. Anyway, if you ever happen to find some rare monster parts, you be sure to bring them to me.</td>
+  <td>No no no. NO. I am not about to get caught up in the affairs of Klaris and her little superhero group. I want nothing to do with stopping <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> or anything of that nature. Look, you went toe to toe with Chaser. He's probably one of the strongest <a href="Glossary.md#the-divers">Divers</a> that the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> has ever produced, save for Akira and Klaris. You have this completely under control... probably. Anyway, if you ever happen to find some rare monster parts, you be sure to bring them to me.</td>
 </tr>
 <tr>
   <td colspan="4">Don't you care the world is ending?</td>
