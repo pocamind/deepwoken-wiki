@@ -1,6 +1,6 @@
 ---
 title: The Covenant of Flame
-revid: 172825
+revid: 172918
 source: https://deepwoken.fandom.com/wiki/The_Covenant_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages requiring a cleanup, Factions, The Covenant of Flame]
@@ -35,4 +35,4 @@ They mainly wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) (though
 
 ## Trivia
 
--   [Aska](Aska.md) is currently the only disciple or follower of [Amorus Pleeksty](Amorus_Pleeksty.md), who isn't shown wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md); instead, he wears a orange-dyed outfit of chainmail and cloth. (For future editors: make a better descriptor for his outfit)
+-   [Aska](Aska.md) is currently the only disciple or follower of [Amorus Pleeksty](Amorus_Pleeksty.md), who isn't shown wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md); instead, he wears a orange-dyed outfit of chainmail and cloth.

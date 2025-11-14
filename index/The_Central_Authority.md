@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 170865
+revid: 172906
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -19,7 +19,7 @@ categories: [Factions, The Central Authority]
 
 ## Description
 
-**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. The Authority is a militaristic, authoritarian, and expansionist regime led by a mysterious individual named Drallis Ehr, who reigns as Grand Sovereign. However, Drallis Ehr's identity is debated, and some believe he may not actually exist. The Authority is the main enemy of the Kingdom of [Etrea](Etrea.md).
+**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. Founded in 65 BCE by the remains of the [Adretian Empire](Adretian_Empire.md) as a coalition of nations, the Authority's goal is global unity. In practice, the Authority is a militaristic, authoritarian, and expansionist regime, far more imperialist than the empires it opposes. The empire is led by a mysterious individual named Drallis Ehr, who reigns as Grand Sovereign. However, Drallis Ehr's identity is debated, and some believe he may not actually exist. The Authority is the main enemy of the Kingdom of [Etrea](Etrea.md).
 
 The military of The Authority consists of both real-world insignia (Private, Corporal, Lance Corporal) and more fantastical titles (Warden, Vice-Warden). The Authority has multiple 'corps' in their military structure, including the 'Shock Corps', the 'Leadership Corps', the 'Winter Corps', the 'Inquisitor Corps', and formerly the 'Expeditionary Corps'.
 
@@ -28,6 +28,8 @@ The most commonly used attunement among Authority personnel is [Flamecharm](Flam
 The Authority is highly treacherous and dishonorable; they have conspired behind the backs of their allies to get what they want. The Authority works with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
 The upper ranks of The Authority heavily favor [Adrets](Adret.md) and [Canors](Canor.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers, excluding a handful of extreme situations. This is also notable in the lyrics of the Gideshu March, which frames the Authority's acts as partially motivated by the desire to spread specifically "Adretian" fame. Given its origins and popularity, this implies this sentiment is well known and held among the low ranking infantry.
+
+The side effect of their practices is the Authority are far more fragile than one might think. Due to the number of cultures they have subsumed into their collective, the Authority lack any culture outside of the military hierarchy, which constantly threatens to deepen divides within the organization and result in in-fighting.[\[1\]](#cite-note-1)
 
 ## Gameplay
 
@@ -92,3 +94,7 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 -   The Authority has an unofficial marching song called "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)", named after (and written by) the first lieutenant of The Authority, [August Gideshu](August_Gideshu.md). The march quickly became popular among the many regiments and has therefore become a popular marching song. Some even consider it The Authority's unofficial anthem, though the more elite Authority members views on this are not entirely clear.
     -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.
 -   A very common misconception among the fandom is that the Authority is not racist. It's very bizarre that this even has to be stated, but the Central Authority are very much racist. Them employing other aspects is merely pragmatism, allowing them to annihilate any other foe with ease thanks to them not stupidly refusing free manpower and meatshields, and is something that has been done by numerous infamously racist groups in real life.
+
+## References
+
+1.  [↑](#cite-ref-1) [Children of the Aftertide I](Children_of_the_Aftertide.md)

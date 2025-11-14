@@ -1,6 +1,6 @@
 ---
 title: Constellia
-revid: 172874
+revid: 172910
 source: https://deepwoken.fandom.com/wiki/Constellia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, Locations, Celestial Cities]
@@ -10,7 +10,7 @@ categories: [Lore, Locations, Celestial Cities]
 
 ## Description
 
-The city of Constellia, once a gleaming City of Light, and the biggest of the Celestial Cities[\[1\]](#cite-note-glossary-1), gifted to the [Lightborn](Lightborn.md) by the [Celestials](Celestial.md) as a last gift.[\[2\]](#cite-note-kaide-2) Shortly after, the [Celestials](Celestial.md) abandoned the city to never return.[\[2\]](#cite-note-kaide-2) The Lumensfolk referred to the city as "The Guiding Star" and used it to traverse Lumen.[\[2\]](#cite-note-kaide-2)
+The city of Constellia, once a gleaming City of Light, and the biggest of the Celestial Cities[\[1\]](#cite-note-glossary-1), gifted to the [Lightborn](Lightborn.md) by the [Celestials](Celestial.md) as a last gift. Shortly after, the [Celestials](Celestial.md) abandoned the city to never return. The Lumensfolk referred to the city as "The Guiding Star" and used it to traverse Lumen.[\[2\]](#cite-note-kaide-2)
 
 Constellia was guarded by [Stone Knights](Stone_Knight.md) created by the [Celestials](Celestial.md), which appeared in Lumen by falling from [The Nightsea](Glossary.md#the-nightsea) in radiant meteors.
 
@@ -29,4 +29,4 @@ After the [Celestials](Celestial.md) fled the city, it was invaded by the [Kyrsa
 ## References
 
 1.  [↑](#cite-ref-glossary-1-0) [Glossary](Glossary.md#constellia)
-2.  ↑ [2.0](#cite-ref-kaide-2-0) [2.1](#cite-ref-kaide-2-1) [2.2](#cite-ref-kaide-2-2) [2.3](#cite-ref-kaide-2-3) [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)
+2.  ↑ [2.0](#cite-ref-kaide-2-0) [2.1](#cite-ref-kaide-2-1) [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)

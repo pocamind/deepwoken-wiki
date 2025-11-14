@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 172253
+revid: 172915
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -34,7 +34,7 @@ Does not spawn in Valley of Heroes during [Winter](Seasons.md). |
 Joining [The Divers](The_Divers.md) [Guild](Guilds.md) and unlock the [Deepbound](Deepbound.md) [Origin](Origins.md). | Picking his second dialogue option in Celtor Wastes with less than 80 Charisma will result in unavoidable death. |
 | [Alastir](Alastir.md) | [Lost Celtor](Lost_Celtor.md) | [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Grants a chest and EXP upon returning Lost Pathfinders. | Gives lore and explanation on [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).  
 Cannot be given [Forgotten Villagers](Forgotten_Villager.md) but can be given [Navaen Hostages](Navaen_Hostage.md). |
-| [Alina Spellhardt](Alina_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | None |  |
+| [Alina Spellhardt](Alina_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | None |  |
 | [Alirian](Alirian.md) | Unaligned | [Minityrsa](Minityrsa.md) | Grants the [Jetstriker](Oath%253A_Jetstriker.md) [Oath](Oaths.md). |  |
 | [Alpha](Alpha.md) | [The Ignition Union](The_Ignition_Union.md) | [The Frontier Furnace](The_Frontier_Furnace.md) | Essential for unlocking [Arcwarder](Oath%253A_Arcwarder.md).  
 Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boots.md) recipe upon interaction after turning on the generator. | Asks the player to retreive [Epsi](Epsi.md). |
@@ -69,7 +69,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Beiruul](Beiruul.md) | [The Children of Navae](The_Children_of_Navae.md) | [Meteor Isle](Meteor_Isle.md) | If the player gets the right answers she gives you a sidequest called Navae's Retribution. |  |
 | [Blacksmith](Blacksmith.md) | Unaligned | [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Meteor Isle](Meteor_Isle.md), [Castle Light](Castle_Light.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md) | Lets you craft [Outfits](Outfits.md) and repair them, turn in ores for chests. |  |
 | [Bookkeeper Andros](Bookkeeper_Andros.md) | [Etrea](Etrea.md) | [Etris](Etris.md) Book Store | Part of the ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) |  |
-| [Brasidas Spellhardt](Brasidas_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | The [Antiquarian](Antiquarian.md) of [The Floating Keep](The_Floating_Keep.md). Talks about himself and his brother [Lysander Spellhardt](Lysander_Spellhardt.md). | **HE IS THE STORM THAT IS APPROACHING!** |
+| [Brasidas Spellhardt](Brasidas_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | The [Antiquarian](Antiquarian.md) of [The Floating Keep](The_Floating_Keep.md). Talks about himself and his brother [Lysander Spellhardt](Lysander_Spellhardt.md). | **HE IS THE STORM THAT IS APPROACHING!** |
 | [Brutus](Brutus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Fort Merit](Fort_Merit.md) | Fortitude unbound | Leaves the player knocked and vulnerable to guards |
 | [C'lantaa](<C'lantaa.md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Provides some lore on the mist of Ethiron and gives her theory on how it controls the minds of Kyrsans. |  |
 | [Caitus](Caitus.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md) | Talks about an incoming message from legion fleets |  |
@@ -118,7 +118,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Etrean Royal Guard (NPC)](<Etrean_Royal_Guard_(NPC).md>) | [Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Erisae](Loot_Bag_Gacha.md) | Unaligned | Inside [Erisor's Church](<Erisor's_Church.md>) | Gacha NPC, in exchange for 350, she will give you something random from the Erisia lootpool out of her bag |  |
 | [Evengarde Rest](Evengarde_Rest.md) | [Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Weapon proficiency unbound, also a bossfight |  |
-| [Everis Spellhardt](Everis_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Sends you back down from [The Floating Keep](The_Floating_Keep.md) |  |
+| [Everis Spellhardt](Everis_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | Sends you back down from [The Floating Keep](The_Floating_Keep.md) |  |
 | [Exter](Exter.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | None |  |
 | [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) | [The Knives of Eylis](The_Knives_of_Eylis.md) | [Voidheart](Voidheart.md) | Reveals lore about the knives of eylis |  |
 | [Ezra](Ezra.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md) | The quest is repeatable |
@@ -133,11 +133,11 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Gives the player the [Kyrswynter](Kyrswynter.md) after meeting the requirements. |  |
 | [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Gaius](Gaius.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Erisia](Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>) | None | None |
-| [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Exchanges joy for exclusive music related items |  |
+| [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | Exchanges joy for exclusive music related items |  |
 | [Gild](Gild.md) | [Lost Celtor](Lost_Celtor.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | None |  |
-| [Glaive Spellhardt](Glaive_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
+| [Glaive Spellhardt](Glaive_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Graha](Graha.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md), next to the stove | None |  |
-| [Green Spellhardt](Green_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | None |  |
+| [Green Spellhardt](Green_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | None |  |
 | [Gudrin](Gudrin.md) | [The Divers](The_Divers.md) | [First Layer](First_Layer.md), [Light's Causeway](<Light's_Causeway.md>) | Divers reputation reset. |  |
 | [Guild Librarian](Guild_Librarian.md) | [Guilds](Guilds.md) | [Guild Bases](Guild_Bases.md) | Gives the player the option to store their books in their [Guild Bases](Guild_Bases.md) library and read the books stored by their guildmates. |  |
 | [Gunsmith](Gunsmith.md) | [The Summer Company](The_Summer_Company.md) | [Guild Bases](Guild_Bases.md) | Makes bullet casing |  |
@@ -192,7 +192,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Lord Regent](The_Lord_Regent.md) | [Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
-| [Lysander Spellhardt](Lysander_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
+| [Lysander Spellhardt](Lysander_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | Sells you [Hallowtide](Hallowtide.md) exclusive items for [Joy](Joy.md) |  |
 | [Maedhran](Maedhran.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), On the cliff the Union hook leads to. | Sells some [Mantra Modifiers](Mantra_Modifiers.md). | Before accessing his shop, you have to listen to the tale he tells. |
 | [Mag](Mag.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
 | [Makolis Pariah Katatonicus](Makolis_Pariah_Katatonicus.md) | Unaligned | [Second Layer](Second_Layer.md), [Firfire](Firfire.md) | Asks the player to sit with them for a moment. | Their dialogue changes after the player sits with them. |
@@ -210,7 +210,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Mark Adaset](Mark_Adaset.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Swap the Deepbound defect for one of your choice |  |
 | [Mercille](Mercille.md) | [The Summer Company](The_Summer_Company.md) | [Bluster Rift](Bluster_Rift.md) | Gives a chest and positive Summer Company reputation to those who give carriable loot sacks/bags |  |
 | [Merryweather](Merryweather.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | None | Her dialogue changes if the player is Hero [Reputation](Reputation.md) with [The Ignition Union](The_Ignition_Union.md). |
-| [Mikhail Spellhardt](Mikhail_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Sells food and talks a bit about the Spellhardt Family's story. Reveals information about [Lightborns](Lightborn.md) aging. |  |
+| [Mikhail Spellhardt](Mikhail_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | Sells food and talks a bit about the [Spellhardt family](Spellhardt_family.md)'s story. Reveals information about [Lightborns](Lightborn.md) aging. |  |
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants the [Disguise](Attunement-less.md#disguise) [mantra](Mantras.md). | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get the [mantra](Mantras.md). |
 | [Misérables](Misérables.md) | Unaligned | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe. Can be repeated if you have the knowledge/medallions required. |
 | [Nanji](Nanji.md) | [Etrea](Etrea.md) | [Etris](Etris.md) | Grants finding Ilji quest | Ilji's katana is found on a cliff near the [Isle of Vigils](Isle_of_Vigils.md) |
@@ -259,7 +259,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Tolkat](Tolkat.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Strength unbound. |  |
 | [Trenti](Trenti.md) | [Etrea](Etrea.md) | [Etris](Etris.md) Inn | Provides information to new players. | Different dialogue depending on [Origin](Origins.md). |
 | [Trig](Trig.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) Inn | Grants Loansharking quest and the chance to learn one of two Talents from the [Gunslinger](Talents.md#gunslinger) Talent tree. | Extorting Adret will give you positive Summer Company reputation and a chance to get [Armor Piercing](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up, not doing so will give you negative reputation, force you to fight two [Summer Company Guards](Summer_Company_Guard.md) and a chance to get [Bulletproof](https://deepwoken.fandom.com/wiki/Talents#Gunslinger) when you level up. |
-| [Tundra Spellhardt](Tundra_Spellhardt.md) | The Spellhardt Family | [The Floating Keep](The_Floating_Keep.md) | Talks about disputes in the Spellhardt Family. |  |
+| [Tundra Spellhardt](Tundra_Spellhardt.md) | [Spellhardt family](Spellhardt_family.md) | [The Floating Keep](The_Floating_Keep.md) | Talks about disputes in the [Spellhardt family](Spellhardt_family.md). |  |
 | [Valikor](Valikor.md) | [Etrea](Etrea.md) | [Temple of the Blade](Temple_of_the_Blade.md) Library | Gives Spellshout Talent |  |
 | [Vesque](Vesque.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md) | Gives you the [Fang and Coil](Fang_and_Coil.md) fist style after meeting the requirements |  |
 | [Vigil Isaac](Vigil_Isaac.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Upper Erisia](Upper_Erisia.md) | Part of the [Vigil's Savior](Quests.md#vigils-savior) quest. Asks for one [Gale Stone](Gale_Stone.md). |  |

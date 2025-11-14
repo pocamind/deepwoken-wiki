@@ -1,6 +1,6 @@
 ---
 title: "A Deathscribe's Journal"
-revid: 172791
+revid: 172926
 source: https://deepwoken.fandom.com/wiki/A_Deathscribe's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -453,9 +453,9 @@ A Deathscribe's Journal
 ## Trivia
 
 -   The book contains numerous Easter Eggs and references.
-    -   Black Diver Selim is a reference to Houseless Selim, a member of the _Rogue Lineage_ community who desired to be, but was not made, a part of the game's lore.
+    -   Black Diver Selim is a reference to Houseless Selim, a member of the _Rogue Lineage_ community who desired to be, but was not made, a part of the game's lore. His lack of house translated into Selim having no family to speak of.
     -   Douglas Douglas Vondren is a reference to YouTuber and streamer DougDoug.
-    -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashet fights a [Crustaceous Rex](Crustaceous_Rex.md).
+    -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashet fights a [Crustaceous Rex](Crustaceous_Rex.md), hence his death being bisection at the hands of a crab.
     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
     -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period, hence why he is reference as both old and being sighted in the Eastern Luminant.[\[1\]](#cite-note-1)

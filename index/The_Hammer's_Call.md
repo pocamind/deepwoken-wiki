@@ -1,6 +1,6 @@
 ---
 title: "The Hammer's Call"
-revid: 172800
+revid: 173053
 source: https://deepwoken.fandom.com/wiki/The_Hammer's_Call
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -27,7 +27,7 @@ We'll stand in solidarity -
 Shoulder to shoulder, together, tall!  
 Shoulder to shoulder, together, tall!  
   
-The Old World sank beneath the tide,  
+The [Old World](Glossary.md#the-old-world) sank beneath the tide,  
 Yet workers, shore to shore,  
 Together toil, and never hide -  
 Mighty, united, like none before!  
@@ -74,4 +74,4 @@ Shoulder to shoulder, together, tall!
 > 
 > Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
 > 
-> Of interest to present day scholars is the emergence of this song in the context of the Union's identity - similarly to the Central Authority, the Ignition Union is also a boiling pot of ethnicities and cultures. Unlike the Central Authority, however, the Union's identity is not defined wholly by internal hierarchy, lingering military traditions, and loyalty to power. Instead, it is rooted in the solidarity of toil - a sense of kinship among those working for the same goal.
+> Of interest to present day scholars is the emergence of this song in the context of the Union's identity - similarly to the [Central Authority](Glossary.md#the-central-authority), the Ignition Union is also a boiling pot of ethnicities and cultures. Unlike the [Central Authority](Glossary.md#the-central-authority), however, the Union's identity is not defined wholly by internal hierarchy, lingering military traditions, and loyalty to power. Instead, it is rooted in the solidarity of toil - a sense of kinship among those working for the same goal.

@@ -1,6 +1,6 @@
 ---
 title: Debriefing Log on Operator Polaris Enigvidion
-revid: 172792
+revid: 172908
 source: https://deepwoken.fandom.com/wiki/Debriefing_Log_on_Operator_Polaris_Enigvidion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -38,7 +38,7 @@ Debriefing Log on Operator Polaris Enigvidion
 > 
 > "This is where things got a little complicated, as I was looking around for answers, a young Hivekin was running directly towards it." I pause to gather my breathing again. As the man nods he says "Continue." In a firm tone, commanding no debates. "Then… I grabbed him before he could get any closer to it. He looked at me confused and asked if there was anything I needed, but I could not answer, as I did not know either."
 > 
-> "Then, more of them started to appear in seemingly random clusters around everyone, I knew something dreadful was about to happen. I knew there were more people in danger. So I had to act, I quickly reached into my bag and pulled out one of the devices I had been working on before raising it into the air and yelling with all my might: 'EVERYONE, OUT!. Instantly the room went quiet, and although it took a few seconds for everyone to register what I was holding in my hand, some of the smarter ones were already running. Afte-"
+> "Then, more of them started to appear in seemingly random clusters around everyone, I knew something dreadful was about to happen. I knew there were more people in danger. So I had to act, I quickly reached into my bag and pulled out one of the devices I had been working on before raising it into the air and yelling with all my might: 'EVERYONE, OUT!' Instantly the room went quiet, and although it took a few seconds for everyone to register what I was holding in my hand, some of the smarter ones were already running. Afte-"
 > 
 > I stop my story again, this time from the man simply raising his hand to get my attention. "You know it’s against Operator Code of Conduct to bring any materials used inside, outside. Right? Not just because they are dangerous if used in wrong hands, but because accidents can happen too." He says with a heavy tone, filling the room with a deadly atmosphere. "Yes, I understand." I respond, without breaking eye contact with him, I can feel my heart begin to beat faster and sweat starts to develop on my brow as I struggle to keep any of my inner thoughts from showing. Many breaths go by in silence before he finally relinquishes the pressure in the room, waving his hand again to signify I may continue. I let out a dry cough before I resume "…After everyone cleared out, which took less than a minute at most, the voids had grown to the point I could barely find a way out myself. And to make matters worse, I had forgotten to let go of the young Hivekin that I had stopped earlier, still holding his hand I began to sprint for the nearest exit while maneuvering between these growing chasms of nothingness. He asked why we were running as I continued to drag him out into safety, but I couldn’t afford to respond as I was using every breath to run faster. As soon as I reached the exit, the guard I had seen earlier had already come back with reinforcements to stop me. He barked a command to halt at me, and demanded I hand over the child and surrender before I made things worse for myself."
 > 

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 171668
+revid: 173055
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -99,4 +99,5 @@ A Stone Knight executes the player:
 -   During the early stages of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn [corrupted](Monsters.md#scyphozia) as early as the third wave in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Stone Knights.
 -   Stone Knights can actually swim in water, however it makes their moves way harder to react to, so be careful when fighting them in water.
 -   Blizzard Knights will under no circumstance fight a [Rogue Construct](Rogue_Construct.md), instead choosing to team up on you.
--   on 1/11/2025, their animations were reworked as with the previous update overhauling the model making them shorter and more "stone-like"
+-   The animations and model of the Stone Knight were overhauled on the January 11th, 2025 Update.
+-   Note: They are extremely likely to animation bug with attacks just being outright hidden at times.

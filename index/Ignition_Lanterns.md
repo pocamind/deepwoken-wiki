@@ -1,6 +1,6 @@
 ---
 title: Ignition Lanterns
-revid: 149393
+revid: 172928
 source: https://deepwoken.fandom.com/wiki/Ignition_Lanterns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
@@ -11,6 +11,10 @@ categories: [Mechanics, Layer 2, Floor 1, The Ignition Union]
 | Ignition Lanterns | |
 |---|---|
 | usage | Clear your parasites |
+
+“ Think of it as... hm, blasting the eggs with an absurd level of heat enough to shock it, forcing it to let go of your body. ”
+
+― Sunway
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Brasidas Spellhardt
-revid: 172249
+revid: 172899
 source: https://deepwoken.fandom.com/wiki/Brasidas_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
@@ -13,11 +13,13 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of
 | name | Brasidas Spellhardt |
 | aspect | Lightborn |
 | location | The Floating Keep |
-| family | Spellhardt family |
+| family | Spellhardt family, Lysander Spellhardt (elder brother) |
 
 ## Description
 
-Brasidas Spellhardt is [Lightborn](Lightborn.md) NPC, he is the Treasurer and [Antiquarian](Antiquarian.md) for the Floating Keep and Spellhardt family.
+Brasidas Spellhardt is [Lightborn](Lightborn.md) NPC. He is the Treasurer and [Antiquarian](Antiquarian.md) for the Floating Keep and Spellhardt family.
+
+He appears fond of metaphors to do with storms.
 
 He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) [Outfit](Outfits.md) underneath.
 

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 172785
+revid: 172907
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -728,7 +728,7 @@ Dialogue: [Eastern Camp Master](Cheral.md) upon returning a hostage | Books: | G
 
 ## Trivia
 
--   In many cases, the word "city" links to _The Drowned City of Celtor_ even if the city the dialogue was referring to wasn't Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.
+-   In many cases, words may end up linking to terms entirely unrelated to their contextual meaning. For example, the word "city" links to _The Drowned City of Celtor_ even if the city the dialogue was referring to wasn't Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.
 -   In some other cases, different words can be detected for the same thing, but have entirely different glossary entries when popped up.[\[1\]](#cite-note-1)
     -   This occurs to the entries "Kyrsan / Kyrsgarde" and "The Acolyte / Thalassis."
 

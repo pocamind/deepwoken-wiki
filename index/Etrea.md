@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 172543
+revid: 172901
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -12,7 +12,7 @@ notices:
 
 | Etrea | |
 |---|---|
-| leader | King (formerly) |
+| leader | King (formerly), Rolen Vashtir |
 | territory | EtrisIsle of Vigils |
 | goals | Survival, Collecting artifacts and the Forge of Sin, Defeat The Central Authority |
 
@@ -22,7 +22,7 @@ notices:
 
 ## Description
 
-A kingdom of primarily [Etreans](Etrean.md) that are the main ruling faction in the [Etrean Luminant](Luminants.md). They reside in their capital of [Etris](Etris.md).
+Etrea, also known as the Kingdom of Etrea, is a nation of primarily [Etreans](Etrean.md) that are the main ruling faction in the [Etrean Luminant](Luminants.md). They reside in their capital of [Etris](Etris.md).
 
 The [Isle of Vigils](Isle_of_Vigils.md) is also part of Etrea, acting as its military school, though Etrea's attitude toward the Isle is much more hands-off.
 

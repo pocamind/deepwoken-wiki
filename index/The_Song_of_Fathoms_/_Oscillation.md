@@ -1,6 +1,6 @@
 ---
 title: The Song of Fathoms / Oscillation
-revid: 172821
+revid: 173056
 source: https://deepwoken.fandom.com/wiki/The_Song_of_Fathoms_/_Oscillation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -38,7 +38,7 @@ The Song of Fathoms / Oscillation
 >   
 >    Onward, to the darkest chasms!  
 >    May you never falter,  
->    And may your way be led by Song!  
+>    And may your way be led by [Song](../Glossary.md#the-song)!  
 >   
 >    Onward, to the deepest fathoms!  
 >    May the light protect you,  
@@ -47,9 +47,9 @@ The Song of Fathoms / Oscillation
 > 
 > \------------
 > 
-> "The Song of Fathoms", colloquially also known as "Oscillation", is a popular tune well-known around Lumen. Despite this, it remains a musical piece surrounded by discussion and dispute. In spite of the fact that we know exactly how old the piece is, and who the original author is, certain events and clauses of history mean that we cannot reliably verify its true arrangement and original text. Thanks to the robust access to the Citadel of Markor's historic archives provided to this monograph's author, this and more shall be elaborated on in the following paragraphs, with useful historical context provided for the reader.
+> "The [Song](../Glossary.md#the-song) of Fathoms", colloquially also known as "Oscillation", is a popular tune well-known around [Lumen](../Glossary.md#lumen). Despite this, it remains a musical piece surrounded by discussion and dispute. In spite of the fact that we know exactly how old the piece is, and who the original author is, certain events and clauses of history mean that we cannot reliably verify its true arrangement and original text. Thanks to the robust access to the [Citadel](../Glossary.md#the-citadel-of-markor) of Markor's historic archives provided to this monograph's author, this and more shall be elaborated on in the following paragraphs, with useful historical context provided for the reader.
 > 
-> The roots of "The Song of Fathoms" reach to the first days of the Divers organisation, and the early attempts at Depths-delving made by the Citadel of Markor. After the Citadel was founded in what is now broadly considered to be Year o, or o CE (Citadel Era), the institution's research to better understand the Depths for the purpose of combatting them reached a plateau within mere decades. To further their knowledge in the area, the High Convocation of the Citadel - a council of Citadel's seniority, composed of Convocants, retired high-ranking officers of the Citadel's various divisions, - turned to some of the surviving Old World treatises they had access to. These texts, it should be noted, were obtained via a tentative cooperation project with the Society of Luminance (often abbreviated as 'The Solum'), one of the now-defunct precursor organisations to the Old Stewards. The Old World records and writings on the Song were some benefit, as they offered some theoretical insights on how a realm such as the Depths may function.
+> The roots of "The [Song](../Glossary.md#the-song) of Fathoms" reach to the first days of the [Divers](../Glossary.md#the-divers) organisation, and the early attempts at Depths-delving made by the [Citadel](../Glossary.md#the-citadel-of-markor) of Markor. After the [Citadel](../Glossary.md#the-citadel-of-markor) was founded in what is now broadly considered to be Year 1, or 1 CE ([Citadel](../Glossary.md#the-citadel-of-markor) Era), the institution's research to better understand the [Depths](../Glossary.md#the-depths) for the purpose of combatting them reached a plateau within mere decades. To further their knowledge in the area, the [High Convocaion](../Glossary.md#the-high-convocation) of the [Citadel](../Glossary.md#the-citadel-of-markor) - a council of [Citadel's](../Glossary.md#the-citadel-of-markor) seniority, composed of [Convocants](../Glossary.md#the-high-convocation), retired high-ranking officers of the [Citadel's](../Glossary.md#the-citadel-of-markor) various divisions, - turned to some of the surviving [Old World](../Glossary.md#the-old-world) treatises they had access to. These texts, it should be noted, were obtained via a tentative cooperation project with the Society of Luminance (often abbreviated as 'The Solum'), one of the now-defunct precursor organisations to the Old Stewards. The [Old World](../Glossary.md#the-old-world) records and writings on the [Song](../Glossary.md#the-song) were some benefit, as they offered some theoretical insights on how a realm such as the [Depths](../Glossary.md#the-depths) may function.
 > 
 > Nonetheless, despite the initial usefulness of these sources, they were still problematic. The Old World texts touched more so on the metaphysical concepts of the Song than the practicalities of the Depths, and did not prove of much use beyond understanding some of the elementary forces that work within them. Realising the stagnation that befell their efforts of fighting the Depths, the High Convocation launched the first inquiries into a more practical approach towards combating the Depths. Scholars and agents were soon dispatched to scour the Luminants for any knowledge regarding the dead and the drowned.
 > 

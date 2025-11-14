@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 171180
+revid: 172925
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Rock Golem
 
-“ [He](Duke_Ishamon_Erisia.md) could give life to stone with that thing on his hip, though he never explained how. ”
+“ One by one, the townsfolk went missing. Every time, great big tracks were left in the mud. The kind his stone men leave. ”
 
-― Alastir, Pathfinder of Erisia
+― Alastir
 
   
 _Also referred to as Erisia Golem, Duke's Golems, or simply, Golems._ Template:Creature Infobox V3
