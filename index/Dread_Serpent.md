@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 167379
+revid: 173266
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -128,14 +128,13 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
+-   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon). Specifically tts general design is very smiliar to [Kaidou](https://onepiece.fandom.com/wiki/Kaidou) from One Piece in his dragon form. According to Arch\_Mage, this is a result of _Deepwoken_ employing far more modelers via contracts prior to its release, resulting in lower quality work that was frequently stolen from other sources with no credit (such as with the [repeater](Repeater.md) and [Enforcer's Blade](<Enforcer's_Blade.md>)). As a result, Arch\_Mage has expressed distaste to using the name and wishes that people call it Dread Serpent, while being very vocal about wanting the creature to be remodeled.\[citation needed\]
 -   Anyone can get the Murmur as long as you did any damage, it doesn't matter how many people hit him, everyone will get the Murmur unless they already have one
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
 -   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
 -   It is highly implied that a Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a [Lightkeeper's](Lightkeep.md) Gift, as the Petra's Anchor is one of its drops.
 -   The Dread Serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
 -   Its appearance is supposedly exactly what an Elder Edenkite once looked like, only wingless.
--   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.\[citation needed\]
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.\[citation needed\]
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
 -   Another bug was present since release until around October 2023, which made the Dread Serpent unable to spawn if anyone contained "(any letter)drago". This was because Ardour Manifestation checked for ".drago" which allowed anyone with drago at the start of their name to spawn but not drago with a letter before it.

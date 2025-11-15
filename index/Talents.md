@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 173135
+revid: 173316
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1562,7 +1562,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \* (1 - 0.1))) \* 100 = effective PEN against blunt armor.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
-        -   For [Rifle Spear](Rifle_Spear.md), this will only proc during Tactical Reload and on critical, due to Rifle Spear being a slash based weapon.
+        -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
         -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
             -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
@@ -2217,6 +2217,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds, with a downtime of 75 seconds.
     -   You do not need to have physical bullets in your inventory for this to work.
     -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), giving it a downtime of only 30 seconds.
+    -   This talent has no effect on [Rifle Spear](Rifle_Spear.md).
     -   Prerequisites: 95 Medium Weapon, Rifle Equipped
 
 ### Master Survivalist

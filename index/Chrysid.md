@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 160006
+revid: 173290
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -28,7 +28,7 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
   <ul>
     <li>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
   <ul>
-    <li>Once per combat instance, the first person to attack you is highlighted red for 10 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li>
+    <li>Once per combat instance, the first person to attack you is highlighted red for 30 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li>
     <li>The angles at which you can be assassinated or backstabbed are reduced.</li>
   </ul></li>
   </ul></td>

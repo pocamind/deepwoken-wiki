@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 172020
+revid: 173268
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the Eastern Luminant]
@@ -40,5 +40,5 @@ Exter is located at Meteor Isle, sitting on a rock in front of ruins.
 
 ## Trivia
 
--   The empty where Exter recalls something important happening is where the first [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70) was held. This showed off Deepwoken's combat for the first time, and is arguably the most iconic piece of pre-release Deepwoken footage.
+-   The empty space where Exter recalls something important happening is where the first [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70) was held. This showed off Deepwoken's combat for the first time, and is arguably the most iconic piece of pre-release Deepwoken footage.
 -   Exter's aspect variant appears to be Redwood.

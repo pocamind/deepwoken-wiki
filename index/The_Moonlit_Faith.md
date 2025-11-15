@@ -1,0 +1,37 @@
+---
+title: The Moonlit Faith
+revid: 173308
+source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress without reason, InProgressPages, Lore, Religious groups]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+---
+
+# The Moonlit Faith
+
+| The Moonlit Faith | |
+|---|---|
+| leader | The Lady Confessor, The Counsell of the Moonlit Faith |
+| territory | Lullaby Isles, Echelon |
+| goals | Worshipping the Moonseye. |
+
+## Description
+
+**The Moonlit Faith** is a religion, members of which worship the [Moonseye](Moonseye.md). The Faith originates from the [Chrysids](Chrysid.md) of the [Lullaby Isles](Lullaby_Isles.md).
+
+Devotees of the Moonlit Faith believe that the [Moonseye](Moonseye.md) is the gate to the afterlife, from which their ancestors look down on them from it.
+
+With The Lady Confessor's ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith. Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).
+
+## Notable Members
+
+[The Lady Confessor](The_Lady_Confessor.md): The mysterious leader of the [Lullaby Isles](Lullaby_Isles.md), where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the [East](Luminants.md#etrean-and-eastern-luminants) suggest a sense of great reverence and sincerity towards her decrees.
+
+The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a lead ambassador for the [Lullaby Isles](Lullaby_Isles.md), leading groups of scholars to and from the [Greathive Aratel](Greathive_Aratel.md) in order to exchange knowledge, updates and information.
+
+[Mystics](Mystic.md): Affect the player's [Whisper Draws](Whisper_Draw.md) and [Talent](Talents.md) Hands for.
+
+## Trivia
+
+-   The act of [Chrysids](Chrysid.md) setting themselves ablaze in the name of the [Moonseye](Moonseye.md) is most likely a reference to Moths accidentally setting themselves on flames in real life by flying too close to a fire.

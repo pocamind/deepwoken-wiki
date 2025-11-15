@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 173201
+revid: 173309
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -313,7 +313,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _I gave one of these away for free yesterday. You missed out._
 -   _I uhh, yeah I really shouldn't have these._
 -   _I barely know what I'm looking at here._
--   _I need to use these crowns to buy some earplugs for that ear bleeding sea snake.._
+-   _I need to use these crowns to buy some earplugs, for that eardrum-rupturing sea snake..._
 -   _I'd wipe this for fingerprints._
 -   _It cost me an arm and a limb to get ahold of these. Not mine, of course..._
 -   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
@@ -325,11 +325,12 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Maybe clean this when you get a minute._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
 -   _Might need to steal me a sweater, gettin 'a little chilly up here._
--   Never again will I make the mistake of using one of these.
+-   _Never again will I make the mistake of using one of these._
 -   _No questions, no returns._
 -   _Not sure if I really want to let this one go... if that makes you want it more?_
 -   _Oh this one's verrry special - I can only let you buy one._
 -   _Oh, this one might be cursed. Like, actually._
+-   _Ohh yeah, this has gotta be one a kind, just look at the uhh... look at it!_
 -   _Okay, you really have to be careful with this._
 -   _Some guy literally walked through a mirror and handed me these, it was the strangest thing..._
 -   _Thanks for looking, you know... You could actually buy it._
@@ -344,7 +345,8 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Where'd I get this? Fell outta the back of a carriage, yeah?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
--   _You got cash for a crown? I'm running low on change here... If not it's fine._
+-   _You buy it - you break it. Wait a sec..._
+-   _You got cash for a crown? I'm running low on change here... If not, it's fine._
 -   _You want it? It's yours my friend! So long as you have enough crowns._
 -   _You want my hat instead? I actually made it out of dried kelp, I'm saving it for later. Not for sale._
 -   _You wouldn't believe how hard these were to find._
@@ -369,7 +371,7 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
+    <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide exclusive</a>).</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
     <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
@@ -385,8 +387,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Wraithclaw.md">Wraithclaw</a>.</li>
-    <li><b>For 4 </b>: <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a>.</li>
-    <li><b>For 5 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>.</li>
+    <li><b>For 4 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a>.</li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a>.</li>
     <li><b>For 40 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
   </ul></td>

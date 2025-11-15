@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 168759
+revid: 173321
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -112,37 +112,33 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 ### Death
 
 -   Dying in Trial of One gives you 2 options.
-    -   Death, and Obliteration, death makes you lose a life and spawn on [Minityrsa Shore](Minityrsa.md), Obliteration sends you to [Fragments Of Self](Fragments_of_Self.md)
+    -   Death or Obliteration; death makes you lose a life and spawn on [Minityrsa Shore](Minityrsa.md), Obliteration sends you to [Fragments of Self](Fragments_of_Self.md).
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the Trial.
 
 ## Tips and Tricks
 
--   It is recommended to first enter when you can relatively consistently kill a Megalodaunt without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take days, weeks, or even (hopefully not) months to master the Trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The Trial is almost a necessity for improving past a certain point.
--   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching Power 6 in roughly 10 minutes.
+-   It is recommended to first enter when you can relatively consistently kill a [Megalodaunt](Megalodaunt.md) without requiring a stat check. Don’t be ashamed if you die on the first few trials—it happens to everyone. It can take days, weeks, or even months to master the Trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The Trial is almost a necessity for improving past a certain point.
+-   Keep in mind this challenge is entirely optional, and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching Power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective Power scaling that they are encountered at.
--   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch even the best of players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
--   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resistance.
--   if you spawn into the Trial using the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with Talents/mantra choosing early on.
--   If one angel dies the other despawns, allowing you to instantly win the angel trial. This can be done by burning a knocked angel.
--   2 Training Gear Cabinets can be found throughout the map, with one next to the Shrine of Solitude, and another in the corridor of the arena entrance. Equipment can be purchased and used post-Trial to speed up the transition to Power progression (without the need of travelling to Etris or Isle of Vigils to purchase training gear.)
+-   Any mob can spawn Attuned. This can catch even the best of players off-guard and they might die to an unexpected [Thunderstruck](Monsters.md#attuned-monsters) or [Flamewreathed](Monsters.md#attuned-monsters) Enforcer.
+    -   If you are playing [attunement-less](Attunement-less.md) and encounter a [Shadowmeld](Monsters.md#attuned-monsters) version of any monster, play it safe, as they will effectively have double health, due to their 50% Physical Resistance.
+-   If you are using the [Lone Warrior](Lone_Warrior.md) Origin, you may use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) inside the Trial. The Shrine of Solitude acts as a free [Mystic](Mystic.md), allowing you to heavily influence the chances of you getting the Talent or Mantra cards you want.
+-   Once one of the [Sworn Angels](Sworn_Angel.md) dies, the other will despawn. It is highly recommended to attack the knocked body of one Angel while defending yourself against the other to execute the knocked Angel and clear this challenge faster.
+-   Two [Training Gear Cabinets](Training_Gear.md) can be found in the Trial of One [Dungeon](Dungeons.md), with one next to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md), and the other in the corridor of the arena entrance. Training Gear can be purchased and used either pre or post-Trial to speed up the transition to conventional progression.
 
 ## Trivia
 
 -   Sworn Angels use _[Crazy Slots's](Crazy_Slots.md)_ Divine Spears, which differentiate them from [Hollow Angels](Hollow_Angel.md).
 -   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the Trial of One, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
--   If you hold an armor piece in your hand when the Trial would force you to discard it, it will allow you to keep it. (this might be a bug)
--   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive Talent that allows you to use a stackable free point upon leveling up.
--   If you lose the Trial with extra investment points and no exp, the entrance to the Trial will deny you and instead fling you back.
--   Beating the Trial as an Adret and with Autodidact gets you to Power 8, but you're not allowed to invest the last points from killing the Alpha Sharko.
--   Deepbounds that somehow make it out of The Depths at Power 1 are not able to enter the Trial of One.
--   If you're Attunement-less, the white "campfire" allows you to allocate the 10 points before starting the Trial.
--   You can have enchanted weapons during the Trial via passing down or the Bank (If you can't beat the Trial, you could enchant a Starter Weapon with the [Providence Thorns](Enchantments.md) enchant because Trial of One is centered around parrying)
--   For a short duration, the [Megalodaunt](Megalodaunt.md) was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
--   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
+-   Beating the Trial as an [Adret](Adret.md) and with [Autodidact](Boons_and_Flaws.md#autodidact) gets you to Power 8, but you're not allowed to invest the last points from killing the [Alpha Megalodaunt](Alpha_Megalodaunt.md).
+-   [Deepbounds](Deepbound.md) that somehow make it out of The Depths at Power 1 are not able to enter the Trial of One.
+-   You can have enchanted weapons during the Trial via passing down or the Bank. (If you can't beat the Trial, you could enchant a Starter Weapon with the [Providence's Thorns](<Providence's_Thorns.md>) enchant because Trial of One is centered around parrying.)
+-   For a short duration, after the addition of the [Mudskipper Brute](Mudskipper_Brute.md), the [Megalodaunt](Megalodaunt.md) trial was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
+-   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md).
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   When you get danger bug from "fearsome enemy" it shows that you are in danger by ".hostage\_nomad9".[\[1\]](#cite-note-1)
--   The orbs during the parrying trials seem to be tied to an entity, as having [Providence Thorns](Enchantments.md) lets you "kill" them and stop it while it's happening.(proof needed)
+    -   Having [Providence's Thorns](<Providence's_Thorns.md>) lets you "kill" them and stop the orb attacks.
 
 ## References
 
