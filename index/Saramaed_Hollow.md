@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 170285
+revid: 173593
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -105,7 +105,7 @@ Exhaustive Loot Table
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Needle's_Eye.md">Needle's Eye</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Dragoon.md">Dragoon</a>.</li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Scalesplitter.md">Scalesplitter</a>.</li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Scalesplitter.md">Scalesplitter</a>, <a href="Summer_Rifle.md">Summer Rifle</a>.</li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>.</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a>, <a href="Worshipper's_Shield.md">Worshipper's Shield</a>, <a href="The_Path's_Defender.md">The Path's Defender</a>.</li>

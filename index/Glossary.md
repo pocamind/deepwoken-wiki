@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 173156
+revid: 173460
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -268,7 +268,7 @@ Dialogue: | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glossary Entries:
 -   Known as the Pioneer of [Flamecharming](#flamecharm). Pleeksty developed the art of controlling flames through the [Song](#the-song) into an artform. Since then, [Flamecharm](#flamecharm) has become on of the primary attunements in use.
 -   Pleeksty is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance), becoming a [Deepwoken](#deepwoken).
 
-Dialogue: [Laplace](Laplace.md) if the player is using/wielding [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+Dialogue: [Aska](Aska.md), [Laplace](Laplace.md) if the player is using/wielding [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
 ### The Acolyte / Thalassis
 

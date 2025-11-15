@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 172389
+revid: 173461
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame]
@@ -124,7 +124,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td colspan="15">...</td>
 </tr>
 <tr>
-  <td colspan="15">Ah... I-is that you, Pleeksty?</td>
+  <td colspan="15">Ah... I-is that you, <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>?</td>
 </tr>
 <tr>
   <td colspan="6">I am not the one you have been waiting for.</td>
@@ -142,7 +142,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td colspan="6"></td>
   <td colspan="3">Oh, my lord... What a state...<br>
   <b>[Didn't meet requirements and sets you on fire]</b></td>
-  <td colspan="3">Though.. If you really are Pleeksty... Then you should have no trouble putting this old servant out of their long service.<br>
+  <td colspan="3">Though.. If you really are <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>... Then you should have no trouble putting this old servant out of their long service.<br>
   <b>[Did meet requirements, starting a fight with Aska]</b></td>
   <td colspan="3">Our fates, finally crossing once more... And mine, coming to an end...<br>
   <b>[Did meet requirements with the Destined echo modifier, sets you on fire but lets you survive and grant the weapon]</b></td>

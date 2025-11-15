@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 169610
+revid: 173517
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -55,7 +55,3 @@ For the running critical, the user casts a barrage of strikes with their spears,
 For the aerial critical, the user jumps into the air and strike down the opponent with three Shadowcast-infused slashes.
 
 **All three criticals have a 10 second cooldown.**
-
-## Trivia
-
--   Originally teased in EttheKing's Twitter post [https://x.com/iKingEtXI/status/1902683933009134032](https://x.com/iKingEtXI/status/1902683933009134032)

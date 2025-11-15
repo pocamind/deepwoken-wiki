@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 167978
+revid: 173538
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests, The Hive]
@@ -53,4 +53,4 @@ Calamus is in the Starswept Valley, located on top of a cliff. There are several
 
 ## Trivia
 
--   The player was able to assist Calamus in defending Greathive previously, these included defeating:
+-   The player used to be able to assists Calamus in defending Greathive from threats, this included: [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Authority Captain](Authority_Captain.md), [Brainsucker](Brainsucker.md), [Deep Widow](Deep_Widow.md), [King Thresher](King_Thresher.md), [Stone Knight](Stone_Knight.md), [Thresher](Thresher.md)

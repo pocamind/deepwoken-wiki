@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 167857
+revid: 173494
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Offhand, Shields]
@@ -20,7 +20,7 @@ categories: [Weapons, Items, Offhand, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Deep Widow, Dread Serpent, Duke Ishamon Erisia, First Layer, Fishing, Heart of Enmity, Interluminary Parasol, Lodestar, Maestro Evengarde Rest, Merchant Ships, Saramaed Hollow, Second Layer, The Diluvian Mechanism, The Doom of Caeranthil, War Mode |
+| obtainment | Chaser, Deep Widow, Dread Serpent, Duke Ishamon Erisia, First Layer, Fishing, Heart of Enmity, Interluminary Parasol, Lodestar, Maestro Evengarde Rest, Merchant Ships, Saramaed Hollow, Second Layer, The Diluvian Mechanism, The Starswept Valley, The Doom of Caeranthil, War Mode |
 | description | A venerated shield, donned only by those who have walked their own Path as they see fit. |
 
 ## Description
