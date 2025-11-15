@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 167854
+revid: 173396
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 |---|---|
 | type | Club |
 | requirements | 75 MED |
-| damage | 18.5 + 5.5 BLD |
+| damage | 19 + 2.75 BLD |
 | scaling | MED: 6 |
 | range | 8 |
 | swing speed | 0.98x |
@@ -42,7 +42,6 @@ Pernach uses the default Club critical, an overhead swing. It has a scaled damag
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 24.7 damage, but it becomes 32.1 with bleed.
--   At max MED, the weapon deals 26.8 damage, but it becomes 34.8 with bleed.
--   This weapon can be used as a mid to endgame club.
+-   Meeting the requirement of MED, the weapon deals 25.41 damage, but it becomes 29.22 with bleed.
+-   At max MED, the weapon deals 27.55 damage, but it becomes 31.68 with bleed.
 -   Most likely based off the real life Pernach, a flanged mace.

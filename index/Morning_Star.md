@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 157475
+revid: 173397
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -12,8 +12,8 @@ categories: [Weapons, Clubs, Medium Weapons]
 |---|---|
 | type | Club |
 | requirements | 50 MED |
-| damage | 16 + 4.8 BLD |
-| scaling | MED: 5.5 |
+| damage | 16 + 2.4 BLD |
+| scaling | MED: 6 |
 | range | 7.5 |
 | swing speed | 0.98x |
 | penetration | 20% |
@@ -42,6 +42,6 @@ Morning Star uses the default Club critical, an overhead swing. It has a scaled 
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 19.3 damage, but it becomes 25.9 with bleed.
--   At max MED, the weapon deals 22.6 damage, but it becomes 29.4 with bleed.
+-   Meeting the requirement of MED, the weapon deals 19.6 damage, but it becomes 22.54 with bleed.
+-   At max MED, the weapon deals 23.2 damage, but it becomes 26.68 with bleed.
 -   Assumed to be based off of the real-life Morning Star weapon.

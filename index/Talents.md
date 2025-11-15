@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 173316
+revid: 173456
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2120,7 +2120,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
     -   Does not have a cooldown, lasts for 3s.
     -   Also procs from Phantom Step dashes.
-    -   Despite the talent description stating "Light attack", it also grants bleed to weapon criticals and Mantras.
+    -   Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards, and the guard break deal 25% more damage. (+8 Carry Load, +2 Passive Agility)
@@ -2155,7 +2155,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Stacks with Last Second Negotiation. (with both a grip takes about 6.5 seconds)
     -   Prerequisite: 20 Willpower
 
--   Last Resort \[Common Talent\] - Deal +10% more damage when your health is below 25%. (+10 Sanity)
+-   Last Resort \[Common Talent\] - Deal +5% more damage when your health is below 25%. (+10 Sanity)
     -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
 
@@ -2351,12 +2351,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Ardour's activation keybind can be configured in settings.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
+-   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
     -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey.
         -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
-    -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
+    -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
     -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
@@ -3619,7 +3619,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Trickster
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
-    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN. This can bypass the 50% PEN cap.
+    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN.
+    -   Cheap Shot cannot bypass the PEN cap.
     -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.
     -   Prerequisite: 65 Agility
 
@@ -3804,8 +3805,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
-    -   "Bleed" from Speed Demon gives a 15% damage bonus.
-        -   Bleed from other sources is a 30% damage bonus.
+    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 
@@ -4147,7 +4147,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 
 -   Brute Strength: [Imperator's Fury](<Imperator's_Fury.md>) - Your vent is replaced with a ground slam attack that knocks back enemies.
-    -   Deals 45 Typeless damage with 20 Posture damage.
+    -   Deals 35 Blunt damage with 20 Posture damage.
+    -   Cannot be buffed through damage modifiers.
     -   Increases your Vent's windup from 0.25s to 0.5s.
     -   Procs all "on Vent" Talents and effects.
 

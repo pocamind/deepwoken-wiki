@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 170207
+revid: 173421
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons, Items]
@@ -12,7 +12,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Cri
 |---|---|
 | type | Twinblade |
 | requirements | 75 MED |
-| damage | 18 + 5.4 BLD |
+| damage | 18 + 2.6 BLD |
 | scaling | MED: 5 |
 | range | 8 |
 | swing speed | 1.01x |

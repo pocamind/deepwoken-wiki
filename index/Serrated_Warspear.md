@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 171050
+revid: 173405
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 |---|---|
 | type | Spear |
 | requirements | 65 MED |
-| damage | 18 + 5.4 BLD |
+| damage | 18 + 2.7 BLD |
 | scaling | MED: 6.5 |
 | range | 9 |
 | swing speed | 0.93x |
@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](Thresher.md), corrupted [Threshers](Thresher.md) and Void Threshers. It is on the rarer side of weapons due to being a direct drop from a mob, next to the True Seraph's Spear (from Corrupted King Threshers.)
+The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](King_Thresher.md), corrupted [Threshers](Thresher.md) and [Void Threshers](Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob.
 
 ## Critical
 
@@ -46,8 +46,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 23.7 damage, but it becomes 30.8 with bleed.
--   At max MED, the weapon deals 26.8 damage, but it becomes 34.8 with bleed.
--   Heavily resembles the [Acheron's Warspear](<Acheron's_Warspear.md>).
--   Direct upgrade of the [Acheron's Warspear](<Acheron's_Warspear.md>)
+-   Meeting the requirement of MED, the weapon deals 23.7 damage, but it becomes 27.26 with bleed.
+-   At max MED, the weapon deals 26.8 damage, but it becomes 30.8 with bleed.
+-   Heavily resembles the [Acheron's Warspear](<Acheron's_Warspear.md>). It is also seen as a direct upgrade to this weapon.
 -   This weapon used to be dropped by [Duke Erisia](Duke_Ishamon_Erisia.md), although it was removed in favor of the [Stoneheart](Stoneheart.md).

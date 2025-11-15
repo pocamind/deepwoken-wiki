@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 172485
+revid: 173453
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Items]
@@ -2882,7 +2882,7 @@ If using Eruption Path: Lava Serpent, Eruption delay is reduced.
 +1 Uncommon Pip
 
  |
-|  | [Isshin's Ring](<Isshin's_Ring.md>) | Take 1.25x damage and deal 1.2x damage at close range.
+|  | [Isshin's Ring](<Isshin's_Ring.md>) | Take 1.2x damage and deal 1.15x damage at close range.
 
   
 **Requires Power 5**

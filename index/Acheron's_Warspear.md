@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 166233
+revid: 173406
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
@@ -12,7 +12,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 |---|---|
 | type | Spear |
 | requirements | 40 MED |
-| damage | 18 + 5.4 BLD |
+| damage | 18 + 2.7 BLD |
 | scaling | MED: 6 |
 | range | 9 |
 | swing speed | 0.93x |
@@ -50,9 +50,9 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 21.2 damage, but it becomes 27.6 damage with bleed.
--   At max MED, the weapon deals 26.1 damage, but it becomes 33.9 with bleed.
--   Basically a downgraded Kyrsglaive, still a very good weapon if your build can't reach 90 MED to use the Kyrsglaive.
+-   Meeting the requirement of MED, the weapon deals 21.2 damage, but it becomes 24.4 damage with bleed.
+-   At max MED, the weapon deals 26.1 damage, but it becomes 30 with bleed.
+-   Basically a downgraded [Kyrsglaive](Kyrsglaive.md), though still a very good weapon if your build can't meet Kyrsglaive's requirements.
 -   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph's Spear.
 -   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md). The spear likely belonged to them.
 

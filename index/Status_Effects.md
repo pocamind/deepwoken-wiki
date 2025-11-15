@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 172873
+revid: 173451
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -363,7 +363,7 @@ Have your movement and parkour speed increased by 15% and your swing speed incre
 
 ### Reinforced
 
-Applied from the [Reinforce](Attunement-less.md#reinforce) Mantra and [Golden Tongue](Talents.md#golden-tongue) Talent, gain 10% general damage reduction. If applied from [Reinforce](Attunement-less.md#reinforce), you will also deal 5% more damage, buffing other players will increase this damage buff to +10%. Allies near you will automatically gain the same effect. You can hold your block key during Reinforce's windup to apply Reinforce to non-allies. Signified by pale yellow/lime green particles surrounding the body.
+Applied from the [Reinforce](Attunement-less.md#reinforce) Mantra and [Golden Tongue](Talents.md#golden-tongue) Talent, gain 10% general damage reduction. If applied from [Reinforce](Attunement-less.md#reinforce), you and affected allies will also deal 5% more damage. Allies near you will automatically gain the same effect. You can hold your block key during Reinforce's windup to apply Reinforce to non-allies. Signified by pale yellow/lime green particles surrounding the body.
 
 #### Lord's Tithe
 
@@ -572,7 +572,7 @@ While affected by Paused Posture, your posture cannot be restored from passive p
 
 ### Last Resort
 
-Gain +10% damage when your health is below 25%. This effect is applied through the [Last Resort](Talents.md#last-resort) Talent and is signified by orange and red swirling particles on your character's arms.
+Gain +5% damage when your health is below 25%. This effect is applied through the [Last Resort](Talents.md#last-resort) Talent and is signified by orange and red swirling particles on your character's arms.
 
 ### Gone Berserk
 

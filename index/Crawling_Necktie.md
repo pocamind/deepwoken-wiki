@@ -1,6 +1,6 @@
 ---
 title: Crawling Necktie
-revid: 173190
+revid: 173458
 source: https://deepwoken.fandom.com/wiki/Crawling_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Equipment, Torso, Ties, Hallowtide, Event Item]
@@ -34,4 +34,4 @@ Crawling Necktie is a spider-themed white and black torso [Equipment](Equipment.
 
 -   Crawling Necktie can grant some of the highest maximum health out of any torso equipment due to having two innate legendary pips.
 -   Notably, this shares stats with its sister tie, the [Death's-Head Necktie](<Death's-Head_Necktie.md>).
--   It is a reference to the 1988 horror-comedy _Bettlejuice_.
+-   It is a reference to the 1988 horror-comedy _Beetlejuice_.

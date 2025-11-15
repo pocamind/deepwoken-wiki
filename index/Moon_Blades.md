@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 152712
+revid: 173426
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, "Core-Attribute based weapons", Daggers]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | type | Dagger |
 | requirements | 60 LHT, 30 INT |
-| damage | 13 + |
+| damage | 13 + 1.95 BLD |
 | scaling | LHT: 8, INT: 2 |
 | range | 6 |
 | swing speed | 1.25x |

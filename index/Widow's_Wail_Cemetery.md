@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 171941
+revid: 173457
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Hallowtide, Dungeons]
@@ -105,3 +105,4 @@ In previous years you were able to stand on the trees and stack barrels to chees
 -   The amount of players in the trial increases the amount of Gourdskippers that spawn. If you're the only player in the trial, only 1-3 spawn making it insanely easy.
 -   The name, "Widow's Wail", comes from Joffrey Baratheon's Valerian steel sword from Game of Thrones.
 -   Yes, you can hide from the Gourdskippers in Tacet.
+-   With the talent Death From Above, Starkindred wings can still be summoned in an active wave even if mantras are disabled from use. This provides a massive mobility boost with the increased dashes and the attack from the talent itself.

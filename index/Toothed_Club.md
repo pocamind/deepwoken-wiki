@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 157474
+revid: 173398
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 |---|---|
 | type | Club |
 | requirements | 30 MED |
-| damage | 15 + 4.5 BLD |
+| damage | 16 + 2.4 BLD |
 | scaling | MED: 5 |
 | range | 7.5 |
 | swing speed | 0.98x |
@@ -42,5 +42,5 @@ Toothed Club uses the default Club critical, an overhead swing. It has a scaled 
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 16.6 damage, but it becomes 21.7 with bleed.
--   At max MED, the weapon deals 20.6 damage, but it becomes 26.8 with bleed.
+-   Meeting the requirement of MED, the weapon deals 17.8 damage, but it becomes 20.47 with bleed.
+-   At max MED, the weapon deals 22 damage, but it becomes 25.3 with bleed.

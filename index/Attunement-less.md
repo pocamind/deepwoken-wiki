@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 172037
+revid: 173455
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -537,7 +537,7 @@ N/A
  |
 | 
 
-**Effect:** _User buffs themselves and others in a small area around them, granting 10% damage resistance and a 10% damage buff to the user and all nearby allies. The damage buff will be halved to 5% if you didn't buff at least one other person with your Reinforce._
+**Effect:** _User buffs themselves and others in a small area around them, granting 10% damage resistance and a 2.5% damage buff to the user and all nearby allies._
 
 -   Damage increase only applies to weapon attacks.
 -   The damage reduction can be reduced by PEN, but PEN has halved effectiveness on it.
@@ -546,6 +546,7 @@ N/A
     -   Reinforce lasts 20/21.5/23/24.5/26 seconds per level.
     -   Reinforce has a 55/50/45/40/35 second cooldown per level.
 -   When holding your block button during Reinforce's wind-up, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
+-   If you buff someone with Reinforce, you both will get 5% damage buff instead of 2.5% and 10% damage resistance.
 -   Shares a cooldown with [Iceberg](Frostdraw.md#iceberg).
 -   Can be upgraded with the [Grand Support](Talents.md#grand-support) Talent, healing yourself and allies when you buff at least one ally with your Reinforce. This heals 3% of affected players' maximum HP.
 -   Can be upgraded with the [Lord's Tithe](Talents.md#lords-tithe) Talent, stealing up to 20% of affected people's Ether to regenerate your own.

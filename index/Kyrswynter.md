@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 169904
+revid: 173410
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Multiple Criticals, Medium Weapons]
@@ -12,10 +12,10 @@ categories: [Weapons, Layer 2, Spears, "Attunement-based Weapons", Legendary Wea
 |---|---|
 | type | Spear |
 | requirements | 50 MED, 75 ICE |
-| damage | 16 + 4.8 BLD |
+| damage | 16 + 2.4 BLD |
 | scaling | MED: 5, ICE: 3 |
 | range | 9 |
-| swing speed | 0.96x |
+| swing speed | 0.97x |
 | penetration | 20% |
 | special effect | Upon flourishing, unleash a frigid explosion. Procs chilled and ragdolls your opponent. |
 | m.equip | No |
@@ -36,7 +36,7 @@ The **Kyrswynter** is a Legendary Spear; an intricate curved and wrapped white p
 
 The Kyrswynter comes with a single passive ability:
 
--   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#charm-caster)/[Bulldozer](Talents.md#raging-bull) do not proc)
+-   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#dazing-finisher)/[Bulldozer](Talents.md#bulldozer) do not proc)
 
 ## Obtainment
 

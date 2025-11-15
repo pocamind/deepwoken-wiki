@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 168406
+revid: 173393
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -12753,7 +12753,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
     -   **GS**, **Dagger**, and **Both**: Terms used for [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), as the dagger M1s have light scaling instead of heavy. Both have Flamecharm scaling however. This is (currently) exclusive to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
 -   **War Weapon/War Stats:** Similar to Alloyed weapons, these weapons are enhanced variants of a weapon, having unique traits and differing stats from their base variants. Stats which remain white are the same as the non-war version.
--   [**Bleed:**](Status_Effects.md#bleed) 10% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
+-   [**Bleed:**](Status_Effects.md#bleed) 5% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 15% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.87 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md).
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound).
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
@@ -25440,9 +25440,7 @@ M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e 
 
 The formula to calculate the damage of a weapon including bleed is
 
-B l e e d D a m a g e \= S c a l e d D a m a g e × 1.3 {\\displaystyle BleedDamage=ScaledDamage\\times 1.3} {\\displaystyle BleedDamage=ScaledDamage\\times 1.3} **or** B l e e d M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) + ( S c a l e d D a m a g e × 0.3 ) {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.3)} {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.3)}
-
--   Replace the 1.3 or 0.3 in the above equation with 1.15 or 0.15 respectively for [Speed Demon](Talents.md#vigil-swordsman).
+B l e e d D a m a g e \= S c a l e d D a m a g e × 1.15 {\\displaystyle BleedDamage=ScaledDamage\\times 1.15} {\\displaystyle BleedDamage=ScaledDamage\\times 1.15} **or** B l e e d M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) + ( S c a l e d D a m a g e × 0.15 ) {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.15)} {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.15)}
 
 ### Miscellaneous
 

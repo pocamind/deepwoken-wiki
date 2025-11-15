@@ -1,6 +1,6 @@
 ---
 title: Vows
-revid: 170562
+revid: 173454
 source: https://deepwoken.fandom.com/wiki/Vows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents, Character]
@@ -22,7 +22,7 @@ The **Vow of Mastery** allows a master to make other people their subject, being
 
 ### Vow of Allegiance
 
-The Vow of Allegiance allows a person to be considered an ally by one's abilities, taking reduced damage and being able to be affected by supporting skills such as Reinforce and [Blindseer's](Oath%253A_Blindseer.md) Mindsoothe. Your guildmates are already considered allies and thus do not need to perform a Vow of Allegiance with you. Friends on Roblox are automatically allies as well. This can be activated by saying "Would you like to make a vow of allegiance, \[Player Name\]?"
+The Vow of Allegiance allows a person to be considered an ally by one's abilities, taking reduced damage and being able to be affected by supporting skills such as Reinforce and [Blindseer's](Oath%253A_Blindseer.md) Mindsoothe. Your guildmates are already considered allies and thus do not need to perform a Vow of Allegiance with you. Friends on Roblox are automatically allies as well. This can be activated by saying "Wanna make a vow of allegiance, \[Player Name\]?"
 
 ### Vow of Safekeeping
 

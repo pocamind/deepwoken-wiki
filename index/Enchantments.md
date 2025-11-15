@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 171730
+revid: 173423
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -192,9 +192,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Detonation<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>After hitting a target<br>
-  (LHT: 5, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 17.5 damage to them and others around beside the user. The damage from explosions is not affected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.</p><br>
+  <p>After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, dealing an additional 10 typeless damage to them and others around beside the user. The damage from explosions is not affected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.</p><br>
   <b>Explosions can execute.</b><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Once enough stacks have been applied, an explosion is detonated.</i></p>

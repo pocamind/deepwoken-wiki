@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 169916
+revid: 173420
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics]
@@ -12,7 +12,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique
 |---|---|
 | type | Sword |
 | requirements | 65 MED, 10 WLL, LVL 10 |
-| damage | 13 + 3.9 BLD |
+| damage | 13 + 1.95 BLD |
 | scaling | 12 MED |
 | range | 8 |
 | swing speed | 1.02x |
@@ -37,7 +37,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within [The Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
-It deals 50% of its scaled damage (before modifiers) as Wither every basic attack, dealing from **10.3** Wither (65MED) to **15.5** Wither (100 MED, 6 PROF, 3\* DMG).
+It deals 50% of its scaled damage (before modifiers) as Wither every basic attack.
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
@@ -59,8 +59,8 @@ The cooldown for this critical is **8** seconds.
 
 ## Trivia
 
--   Meeting the Requirement of 65 MED, the damage is 20.6 + [6.2 \[BLD\]](Status_Effects.md#bleed)
--   At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is 31 + [9.3 \[BLD\]](Status_Effects.md#bleed)
+-   Meeting the Requirement of 65 MED, the damage is 20.6 + [3.1 \[BLD\]](Status_Effects.md#bleed) & 10.3 [Wither](Status_Effects.md#wither).
+-   At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is 31 + [4.65 \[BLD\]](Status_Effects.md#bleed) & 16 [Wither](Status_Effects.md#wither).
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to prevent datamining.
 -   During its release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat noises still stayed.

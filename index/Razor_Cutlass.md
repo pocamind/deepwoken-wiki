@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 170824
+revid: 173418
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
@@ -12,8 +12,8 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 |---|---|
 | type | Sword |
 | requirements | 60 MED |
-| damage | 18 + 5.4 BLD |
-| scaling | MED: 7.5 |
+| damage | 18 + 2.6 BLD |
+| scaling | MED: 8 |
 | range | 8 |
 | swing speed | 0.94x |
 | penetration | 25% |
@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 
 ## Description
 
-The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md).
+The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md#crimson).
 
 Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Status_Effects.md#bleed) effect and good PEN.
 
@@ -51,5 +51,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   This weapon is notably one of the slowest available swords in the game, its swing speed only being .01 faster than the [Messer](Messer.md), and the starter-tier club, [Mace](Mace.md), which the [Messer](Messer.md) shares its swing speed stat with.
--   Meeting the requirement of MED, the weapon deals 24.1 damage, but it becomes 31.3 with bleed.
--   At max MED, the weapon deals 28.1 damage, but it becomes 36.6 with bleed.
+-   Meeting the requirement of MED, the weapon deals 24.48 damage, but it becomes 28.15 with bleed.
+-   At max MED, the weapon deals 28.8 damage, but it becomes 33.12 with bleed.

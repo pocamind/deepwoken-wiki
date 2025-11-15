@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 169562
+revid: 173389
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -12,7 +12,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weap
 |---|---|
 | type | Dagger |
 | requirements | 60 LHT, 30 INT |
-| damage | 13 + 3.9 BLD |
+| damage | 14 + 2.1 BLD |
 | scaling | LHT: 6, INT: 1.5, BLD: 3 |
 | range | 6 |
 | swing speed | 1.25x |
@@ -52,5 +52,5 @@ This critical is able to proc M1-exclusive [Talents](Talents.md).
 -   While its damage is high, it is only rivaled by the [Alloyed Whaling Knife](Whaling_Knife.md) and the [Alloyed Tanto](Tanto.md). The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blades](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken [Battle Royale](Battle_Royale.md) tournament.
--   Meeting the requirement of LHT and INT, the weapon deals 16.9 damage, but it becomes 22 damage with bleed. At 100 LHT and INT the weapon deals 20.3 damage, but it becomes 26.4 damage with bleed.
-    -   If you have 100 attribute points invested into LHT, INT, BLD and 6 proficiency you will achieve a total damage of 27.2 + [**8.2 BLD**](Status_Effects.md#bleed) for 35.4 total damage.
+-   Meeting the requirement of LHT and INT, the weapon deals 18.25 + [**2.74 BLD**](Status_Effects.md#bleed) damage. At 100 LHT and INT the weapon deals 21.88 + [**3.28 BLD**](Status_Effects.md#bleed) damage.
+    -   If you have 100 attribute points invested into LHT, INT, BLD and 6 proficiency you will achieve a total damage of 29.32 + [**4 BLD**](Status_Effects.md#bleed).

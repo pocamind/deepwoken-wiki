@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 166443
+revid: 173429
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 |---|---|
 | type | Greataxe |
 | requirements | 70 HVY |
-| damage | 25 + 7.8 BLD |
+| damage | 24 + 3.6 BLD |
 | scaling | HVY: 9.5 |
 | range | 8.5 |
 | swing speed | 0.73x |
@@ -34,7 +34,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 
 The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional [**Bleed damage**](Status_Effects.md#bleed), balanced out by its subpar swing speed.
 
-It can be obtained from multiple sources, primarily from [Second Layer](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md).
+It can be obtained from multiple sources, primarily from [Second Layer](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md#crimson) and [Legion Captains](Legion_Captain.md).
 
 ## Critical
 
@@ -44,7 +44,7 @@ Evanspear Greataxe uses the default Greataxe critical, an overhead swing. It has
 
 -   The **Evanspears** are the 77th legion of [The Hundred Legions](The_Hundred_Legions.md), as described in the [Imperator's Fury](<Imperator's_Fury.md>) item description.
     -   The [Evanspear War Set](Evanspear_War_Helmet.md) is another part of their combat gear alongside the **Evanspear Greataxe**.
--   Meeting the requirements, this weapon deals 37.5 +, for a total of 48.8 damage. With 6 Proficiency, 100 HVY, and an additional +6% damage from stars, this weapon deals 52.7 + [**15.8 BLD**](Status_Effects.md#bleed), for a total of 68.5 damage.
+-   Meeting the requirements, this weapon deals 36 +, for a total of 48.8 damage. With 6 Proficiency, 100 HVY, and an additional +6% damage from stars, this weapon deals 50.6 + [**7.6 BLD**](Status_Effects.md#bleed), for a total of 68.5 damage.
 -   Keep in mind that while using this weapon, you will not be able to experience the effects of some bleed [Talents](Talents.md) such as Speed Demon, as they do not stack.
 -   While this weapon used to be referred to as the "best PvE weapon," Its absurd damage was confirmed to be a bug in the June 21st, 2024 changelogs, which made it deal approximately +270% of its intended damage due to bleed scaling twice off PvE scaling. It is still a good option, but not overwhelmingly so.
 -   It was originally named Evanspear Hand Axe.
