@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 173310
+revid: 173616
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -144,6 +144,7 @@ This list may be incomplete.
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Treasures.md">Gems</a>, basic <a href="Mantra_Modifiers.md">Mantra Modifiers</a>, all <a href="Mantra_Modifiers.md#sparks">Sparks</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Warped_Blue_Gem.md">Warped Blue Gem</a></li>
   </ul></td>
 </tr>
 <tr>

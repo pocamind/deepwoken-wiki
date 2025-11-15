@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 170751
+revid: 173602
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -96,5 +96,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
     -   Tacet and/or the Mute Regalia are extremely useful for assassination.
 -   The Crypt of the Unbroken may be the resting place of [Sudaruska](Gran_Sudaruska.md), as her epithet was "the Unbroken," not to mention the fact that Gran Sudaruska can drop in the Crypt.
 -   You should always check your blood and food bars, because NPC's in Crypt of Unbroken will drain your blood very fast.
--   [Immortal Guardians](Immortal_Guardian.md) in the upper floor don’t give chests when they are gripped.
+-   [Immortal Guardians](Immortal_Guardian.md) in the upper floor don’t give chests when they are gripped, making farming them less efficient as the ones downstairs as chests give a lot of exp.
 -   [Immortal Guardians](Immortal_Guardian.md) are able to spawn on top of Crypt of the Unbroken, it can happen by de-aggroing the enemy or by natural causes.

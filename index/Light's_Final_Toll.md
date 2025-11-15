@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 166513
+revid: 173614
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Light Weapons]
@@ -31,11 +31,11 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md) (and also light weapons). Meeting the requirement of WLL and LHT, the weapon deals 19 damage, the weapon deals 25.1 damage at 100 WLL and max LHT, and deals 25.3 at 103 WLL and max LHT.
+Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md#wll).
 
-The maximum damage that this weapon can reach with with 6 Proficiency, 103 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 34.
+Works with _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, _[Imperium Kata](Imperium_Kata.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Light's Final Toll is not compatible with [Jus Karita](Jus_Karita.md).**_
 
-Works with _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, _[Imperium Kata](Imperium_Kata.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_ The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
+The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
 
 The color of the lantern signifies what Critical will be used next:
 
@@ -64,6 +64,7 @@ All criticals have a cooldown of **5 seconds**.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Before October 20th, 2023, the weapon used the base critical for the active fist style.
 -   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).
--   [Fang and Coil](Fang_and_Coil.md) is the only traditional [Fist Style](Fists.md) to lack a critical variant for Light's Final Toll. Using Fang and Coil with the Light's Final Toll will utilize the Navae critical.
-    -   This is probably due to them being added after Light's Final Toll released.
 -   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Light's Final Toll.
+-   When [Jus Karita](Jus_Karita.md) is equipped on the Light's Final Toll, the first critical will default to the "Way of Navae" critical, being the lantern strike.
+-   Meeting the requirement of WLL and LHT, the weapon deals 19 damage, the weapon deals 25.1 damage at 100 WLL and max LHT, and deals 25.3 at 103 WLL and max LHT.
+-   The maximum damage that this weapon can reach with with 6 Proficiency, 103 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 34.

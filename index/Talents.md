@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 173456
+revid: 173612
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2359,7 +2359,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
     -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
-    -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills, obstructing animations.
+    -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills.
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._

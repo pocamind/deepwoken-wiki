@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 167020
+revid: 173598
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -51,7 +51,7 @@ Rosen's Peacemaker uses a modified variant of the default Rifle critical, dealin
 -   At max MED, the damage is (28.8)
 -   First shown in combat in Agamatsu's 1v1 between him and Nuttoons.
 -   The critical's speed is very similar to the regular swing speed yet a tiny bit slower.
--   The maker of both the [Iron Blunderbuss](Iron_Blunderbuss.md) and the Rosen's Peacemaker is [Gunsmith Rosen](Lore.md).
+-   The maker of both the [Iron Blunderbuss](Iron_Blunderbuss.md) and the Rosen's Peacemaker is [Gunsmith Rosen](Gunsmith_Rosen.md).
 -   It is considered a direct upgrade to the [Summer Rifle](Summer_Rifle.md) as they share the same swing speed but has more superior stats.
 -   Unlike its swing M1, the shot M1 has a straight line hitbox making it generally harder to hit enemies.
 -   The critical can still proc [Critical Attack](Talent_Quests.md) even if it gets blocked.

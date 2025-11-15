@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 173595
+revid: 173619
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items, Pages that use a deprecated format of the math tags]
@@ -12723,8 +12723,8 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 -   **Light Weapons** are locked to the One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between the [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), [Imperium Kata](Imperium_Kata.md), and [Fang and Coil](Fang_and_Coil.md) fighting styles.
--   All **Medium Weapons** except for Bows, Rifles, the [Imperial Staff](Imperial_Staff.md), the [Purple Cloud](Purple_Cloud.md), and the [Wyrmtooth](Wyrmtooth.md) can freely switch between One Handed and Two Handed stances.
--   All **Heavy Weapons** except for [Gran Sudaruska](Gran_Sudaruska.md) which is locked to Two Handed stances along with Wyrmtooth and Railblade which are locked to One Handed stances; however, this can be changed through obtaining 40 HVY, which allows players to freely exchange between One Handed and Two Handed stances when wielding a heavy weapon. This allows you to use an offhand weapon along with your heavy.
+-   All **Medium Weapons** except for Bows, Rifles, [Imperial Staff](Imperial_Staff.md), [Purple Cloud](Purple_Cloud.md), and [Wyrmtooth](Wyrmtooth.md) can freely switch between One-Handed and Two-Handed stances.
+-   All **Heavy Weapons** are locked to the two-handed stance unless you have 40 or higher Heavy Weapon investment, only then will you be able to stance swap freely. Exceptions to this are the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), which are locked into the One-Handed stance.
 
 ### One-Handed (1H)
 
@@ -12734,6 +12734,14 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 -   Deal 10% more posture damage with M1s and Criticals.
 -   Cannot use offhand weapons.
+    -   Your Shield will be equipped onto your back, allowing you to use [Turtle Shell](Talents.md#turtle-shell).
+
+### Dual Wield
+
+-   The Dual Wield "stance" shares properties of both the One-Handed and Two-Handed stances.
+-   Most notably, the game refers to this "stance" as One-Handed, and as such, you will not gain the posture damage bonus of the Two-Handed stance.
+-   Similar to a Two-Handed Weapon, you cannot use offhand weapons, with your Shield being equipped onto your back. This allows you to use [Turtle Shell](Talents.md#turtle-shell) on Dual Wielded Light Weapons.
+-   Only specific weapons have access to this "stance." These weapons can be found here.
 
 ## Key Terminology
 

@@ -1,6 +1,6 @@
 ---
 title: The Moonlit Faith
-revid: 173308
+revid: 173611
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Lore, Religious groups]
@@ -22,7 +22,7 @@ notices:
 
 Devotees of the Moonlit Faith believe that the [Moonseye](Moonseye.md) is the gate to the afterlife, from which their ancestors look down on them from it.
 
-With The Lady Confessor's ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith. Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).
+With The Lady Confessor's ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith.[\[1\]](#cite-note-marro-1) Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).[\[2\]](#cite-note-pardoner-2)
 
 ## Notable Members
 
@@ -35,3 +35,8 @@ The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a le
 ## Trivia
 
 -   The act of [Chrysids](Chrysid.md) setting themselves ablaze in the name of the [Moonseye](Moonseye.md) is most likely a reference to Moths accidentally setting themselves on flames in real life by flying too close to a fire.
+
+## References
+
+1.  [↑](#cite-ref-marro-1-0) [Marro](Marro.md)'s dialogue after talking to [Lake](Lake.md).
+2.  [↑](#cite-ref-pardoner-2-0) [O Pardoner of Mine](O_Pardoner_of_Mine.md)
