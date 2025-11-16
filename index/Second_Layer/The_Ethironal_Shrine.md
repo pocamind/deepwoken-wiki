@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 167361
+revid: 173651
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -108,7 +108,7 @@ There are three different methods to escape the second layer, however all of whi
 
 -   This may only be used if you have accessed Layer 2 via [Klaris](../Klaris_Llfiend,_Mother_of_Lights.md) and her light hook.
 -   You may **Die** or **use the Lighthook** in order to escape.
--   However, you will lose **all loot** if you use this method to escape.
+-   However, you will lose **all loot you collected in that run** if you use this method to escape.
 
 ### The Deepdrill
 

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 168461
+revid: 173620
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -19,6 +19,8 @@ Obtaining a Resonance will also allow the opening of Resonance Doors around [The
 You can also obtain a Resonance from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Voidsea](Voidsea.md), and will be protected by a [Star Knight](Star_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random Resonance.
 
 Resonances can also be obtained through the Ancient Soul [Regalia](Regalia.md).
+
+See the [Obtaining](#obtaining) section for how to obtain a **Resonance**.
 
 | 
 **NORMAL RESONANCES**

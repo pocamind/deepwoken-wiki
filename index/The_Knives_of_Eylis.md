@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 167874
+revid: 173648
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Knives of Eylis]
@@ -19,7 +19,7 @@ categories: [Factions, The Knives of Eylis]
 
 ## Description
 
-The Knives of Eylis, also known as the Silver Whalers, are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the East Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant. They are currently one of the three factions that can be joined by the player as a guild, the other two being The Divers and The Ignition Union. The guild colour/colour of the flags of members of the guild is orange.
+The Knives of Eylis, also known as the Silver Whalers, are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the East Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant.
 
 The [Voidwalker](Voidwalker.md) [Origin](Origins.md) is associated with this faction. It grants the player two exclusive Voidwalker items upon spawn, the Voideye and the Grasp of Eylis.
 
@@ -27,7 +27,7 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 ## Reputation
 
-Every [Origin](Origins.md) excluding Voidwalker starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
+Every [Origin](Origins.md) excluding Voidwalker and Authority Ensign starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
 
 There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [Bounty Board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This Bounty Board includes bounties from all other factions with Bounty Boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted.
 

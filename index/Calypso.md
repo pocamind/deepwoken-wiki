@@ -1,9 +1,9 @@
 ---
 title: Calypso
-revid: 168322
+revid: 173652
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Pages with broken file links]
+categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]
 ---
 
 # Calypso
@@ -82,10 +82,4 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
 
 ## Trivia
 
--   Calypso's story, with them choosing a new name for themself, is likely an allegory for being transgender.[\[1\]](#cite-note-1)
-
-## Navigation
-
-1.  [↑](#cite-ref-1)
-    
-    File:TRASNGENDER.png
+-   Calypso's story, with them choosing a new name for themself to better fit their identity while not being accepted by their family, is likely an allegory for being transgender.

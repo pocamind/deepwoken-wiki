@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Unification
-revid: 165588
+revid: 173625
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Unification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

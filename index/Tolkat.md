@@ -1,9 +1,9 @@
 ---
 title: Tolkat
-revid: 171920
+revid: 173646
 source: https://deepwoken.fandom.com/wiki/Tolkat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
 ---
 
 # Tolkat

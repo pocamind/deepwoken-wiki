@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 160337
+revid: 173640
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -20,7 +20,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-**Parasol Part** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md). Only one can drop per kill, making this item rare and sought after.
+**Parasol Part** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md). This a rare drop, making this item highly sought after.
 
 ## Uses
 

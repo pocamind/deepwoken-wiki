@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 173616
+revid: 173655
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -124,14 +124,6 @@ Even if you aren't in a squad, other players may be assigned to the same mission
         -   For the Summer Isle location, the enemies will spawn along the southwestern shoreline, near the docks, and the southeastern shoreline, to the right of the large staircase.
         -   The Mission will be completed when enough time passes (about 2 minutes).
         -   The enemies seem to be bugged, as they will spawn without aggroing onto the banners.
-5.  **Smuggler Investigation** - _There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._
-    -   Objective: The player and their squad are tasked with taking cargo barrels off of a moving ship. This ship will be housing a number of enemy combatants.
-    -   Location: [Aratel Sea](The_Aratel_Sea.md), near [Summer Isle](Summer_Isle.md); 17 minute 45 second time limit
-    -   Notes/Tips:
-        -   You do not have to place the barrels onto your boat, you only need to pick them up and put them back down again.
-        -   The boat will spawn once you reach the map marker, make sure you have your graphics turned up high enough to see it.
-        -   Barrels do not despawn after the mission is done, which results in the ship being bugged.
-        -   The smuggler ship has a unique model. Note: Smuggler Investigation has been removed from the game. It may or may not be added back, but seeing as how it had several bugs tied to it, the mission was basically unplayable.
 
 ### Mission Lootpool
 
@@ -314,6 +306,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Prerequisites: Oppressive Force
 -   **Amp Overdrive** - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
+    -   While guardbreaks cannot be vented, the extended stun (starting at 1.05s) can be vented.
 -   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
 -   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
 
