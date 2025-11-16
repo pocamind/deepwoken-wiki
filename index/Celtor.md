@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 172882
+revid: 173676
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -18,7 +18,7 @@ Chance of obtaining aspect: **15%**
 
 ## Description
 
-Celtors are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family, consisting of weasels, badgers, and otters, among others. Celtors have a charisma and intelligence bonus, as well as perks related to ships. Celtors are portrayed as rich, greedy and prideful. They formerly had a place to call home, the Celtorian City, but was sunken into [The Depths](First_Layer.md).
+Celtor are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair and a racoon-like marking on their face. Celtor variants are based on the real life [Mustelidae](https://en.wikipedia.org/wiki/Mustelidae) family, consisting of weasels, badgers, and otters, among others. Celtor have a charisma and intelligence bonus, as well as perks related to ships. Celtor are portrayed as rich, greedy and prideful. They formerly had a place to call home, the City of Celtor, but was sunken into [The Depths](First_Layer.md).
 
 ## Traits
 
@@ -31,7 +31,7 @@ Celtors are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair 
     <li>"<i>You have a keen understanding of ships and their maintenance.</i>"
   <ul>
     <li>Owned ships have <b>+10% HP</b>.</li>
-    <li>Ships helmed by Celtors turn <b>20%</b> faster.</li>
+    <li>Ships helmed by Celtor turn <b>20%</b> faster.</li>
     <li><b>20%</b> discount at the shipwright.</li>
   </ul></li>
   </ul></td>
@@ -99,7 +99,7 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 
 ### Facial Markings
 
-Celtors are most known for their unique racoon-like facial markings. These change color based on your variant, but they can also be [dyed](Dye_Packet.md). Optionally, the player can opt for no markings as well.
+Celtor are most known for their unique racoon-like facial markings. These change color based on your variant, but they can also be [dyed](Dye_Packet.md). Optionally, the player can opt for no markings as well.
 
 **Marten:**
 
@@ -115,14 +115,14 @@ Celtors are most known for their unique racoon-like facial markings. These chang
 
 Nametag of a Celtor during Mudwoken.
 
--   Half of the surnames of the Celtors are of Russian origin \[Baranof (Baran=Ram/Sheep), Kotof (Kot=Cat), Bykof (Byk=Bull), Kalinof (Kalina=Viburnum), Sokolof (Sokol=Falcon), Petrof (Russian Name+of), Pavel (Russian Name as Surname)\].
+-   Half of the surnames of the Celtor are of Russian origin \[Baranof (Baran=Ram/Sheep), Kotof (Kot=Cat), Bykof (Byk=Bull), Kalinof (Kalina=Viburnum), Sokolof (Sokol=Falcon), Petrof (Russian Name+of), Pavel (Russian Name as Surname)\].
 -   During the 4/1/2022 April Fools update (Mudwoken), the Celtor aspect name was changed to Mustskipper.
 -   Celtor is tied with Adret and Etrean for the most common aspect.
--   Celtors are known to gamble often at shipyards and docks they find.[\[1\]](#cite-note-1)
--   According to Arch\_Mage, the correct pronunciation of "Celtor" is "Keltor," and not "Seltor."
+-   Celtor are known to gamble often at shipyards and docks they find.[\[1\]](#cite-note-1)
+-   According to Arch\_Mage, the correct pronunciation of "Celtor" is "Keltor", and not "Seltor".
 
 ## References
 
 1.  [↑](#cite-ref-1)
     
-    Arch\_Mage stating that Celtors frequently gamble at Shipyards and Docks
+    Arch\_Mage stating that Celtor frequently gamble at Shipyards and Docks

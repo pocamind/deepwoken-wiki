@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 171087
+revid: 173705
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -11,7 +11,6 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 | Misérables | |
 |---|---|
 | name | Misérables |
-| alias | Interceptor Steel |
 | species | ??? |
 | location | New Kyrsa |
 

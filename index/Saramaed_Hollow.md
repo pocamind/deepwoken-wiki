@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 173593
+revid: 173666
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -118,7 +118,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
     <li><b>Unique Head</b>: <a href="Simmerbloom_Diadem.md"><font>Simmerbloom Diadem</font></a>.</li>
-    <li><b>Generic Head</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>.</li>
+    <li><b>Generic Head</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>.</li>
   </ol></li>
     <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
   <ol>

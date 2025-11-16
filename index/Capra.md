@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 163355
+revid: 173679
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,7 +17,7 @@ Chance of obtaining aspect: **2%**
 
 ## Description
 
-Capras are an [aspect](Aspects.md) similar to goats, exhibiting various goat-like characteristics such as horns, rectangular pupils, and even masks shaped like a goat’s skull. Capra NPCs are rarely found in the Lumen of Deepwoken, and their characteristics are unspecified. Capras start with an intelligence and willpower bonus along with the ability to buff the regeneration of others at a campfire, with each buff having more potency dependent on the aspect variant.
+Capra are an [aspect](Aspects.md) similar to goats, exhibiting various goat-like characteristics such as horns, rectangular pupils, and even masks shaped like a goat’s skull. Capra NPCs are rarely found in the Lumen of Deepwoken, and their characteristics are unspecified. Capra start with an intelligence and willpower bonus along with the ability to buff the regeneration of others at a campfire, with each buff having more potency dependent on the aspect variant.
 
 ## Traits
 
@@ -86,7 +86,7 @@ Capras are an [aspect](Aspects.md) similar to goats, exhibiting various goat-lik
 
 Not much has been revealed about the aspect but it is described to be more aware of the world around them, having old knowledge and experience to offer. They also align with three symbols or entities that are presumably the sources of their racial abilities, the Moonseye, the Mother and the First Beast.
 
-A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat the Songseekers in Derelict Highchurch. He also calls himself a follower of Ku, and his Capra variant is also the one called Ku. If this guy isn't insane, it's most likely the reason why Capras have different abilities depending on their variant is because each variant has the power of a Celestial or similarly powerful being. Jurik would have powers related to insanity/sanity gain, and Nemit would most likely be a god of farming and food, further proven with the weapon Nemit's Sickle; sickles are mostly used as farming tools.
+A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat the Songseekers in Derelict Highchurch. He also calls himself a follower of Ku, and his Capra variant is also the one called Ku. If this guy isn't insane, it's most likely the reason why Capra have different abilities depending on their variant is because each variant has the power of a Celestial or similarly powerful being. Jurik would have powers related to insanity/sanity gain, and Nemit would most likely be a god of farming and food, further proven with the weapon Nemit's Sickle; sickles are mostly used as farming tools.
 
 **Strengths:**
 
@@ -125,7 +125,7 @@ A Capra named [Ezra](Ezra.md) in Songseeker Wilds gives you a quest to defeat th
 
 ### Masks
 
-Capras have masks made of bone that closely resemble the skull structures of goats. These can be [dyed](Dye_Packet.md), though their color will match that of your horns.
+Capra have masks made of bone that closely resemble the skull structures of goats. These can be [dyed](Dye_Packet.md), though their color will match that of your horns.
 
 **Jurik:**
 
@@ -163,11 +163,11 @@ These are no longer in the game as of 1/22/2023.
 -   If you do not have any hair on your avatar as a Capra, you will be given a type of hair.
 -   Once you mark another player, you will gain extra health regen, and presumably sanity/food buffs linked to the corresponding Mark.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), the Capra aspect name was changed to Skullskipper.
--   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the aspect having wider eyes than average because they lack epicanthic folds.[\[1\]](#cite-note-inspo-1)
+-   According to Arch\_Mage, Capra are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the aspect having wider eyes than average because they lack epicanthic folds.[\[1\]](#cite-note-inspo-1)
 -   The latin word "Capra" is representative of Goats.
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
--   Capras look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
--   The Capras had their appearance reworked on 1/22/2023
+-   Capra look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
+-   The Capra had their appearance reworked on 1/22/2023.
 -   As of the 2/20202 patch, each Capra variant's mark grants the buffs that the other two have, but with less effectiveness. Additionally, each Capra mark was given the hp regen buff.
 
 ## References

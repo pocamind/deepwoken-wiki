@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 173655
+revid: 173667
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -514,4 +514,5 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 
 -   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped.
 -   Funnily enough, the Shock Corps Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
+-   The Hidden Blade mantra has a poison affect that was stated by developer Agamatsu to be very powerful but it isn't known what that effect is.
 -   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.

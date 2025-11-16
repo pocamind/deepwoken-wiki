@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 172460
+revid: 173675
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -8,7 +8,7 @@ categories: [Attunement]
 
 # Bloodrend
 
-“ Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet... But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even willing to share what they know of the mysteries of Blood? ”
+“ Casting your mind back, you may recall a Black Diver of note was unveiled as the treacherous Crimson Scholar of Burning Blood, a student of the Second Prophet... But what of the Second Prophet's other students? Perhaps one of them might be more sympathetic; perhaps they might even be willing to share what they know of the mysteries of Blood? ”
 
 ― Hallowtide 2024 Patch Notes
 

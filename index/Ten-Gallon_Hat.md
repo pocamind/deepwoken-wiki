@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 173654
+revid: 173660
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | The Depths |
 | description | ... |
 
 ## Description

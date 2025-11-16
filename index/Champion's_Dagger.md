@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 157442
+revid: 173691
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -28,12 +28,12 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Cloaked Assassin, The Diluvian Mechanism, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Lodestar, Interluminary Parasol, The Doom of Caeranthil, Duke Ishamon Erisia, War Mode, Scion of Ethiron |
+| obtainment | Chests from:, Saramaed Hollow, Voidwalker Bounties |
 | description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
 
 ## Description
 
-The Champion's Dagger is a Dagger, and it is tied for the third highest tier dagger in the game before the [Nemit's Sickle](<Nemit's_Sickle.md>) and the [Krulian Knife](Krulian_Knife.md), it is found at [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md).
+The Champion's Dagger is a light weapon in the [dagger](Weapons.md) category.
 
 ## Critical
 

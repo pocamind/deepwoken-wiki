@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 159488
+revid: 173704
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -179,3 +179,4 @@ _Please note that it is possible that some locations may have been missed, as Ro
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, and Wind Gem have their first names as server adjectives.
 -   When joining layer 2 the server loading screen will sometimes be white instead of the usual dark green.
 -   Inside dungeons, the only way to control which server location you connect to is to rejoin.
+-   If you clicked on the wrong server by accident, you can right click before you to connect to cancel joining that server.

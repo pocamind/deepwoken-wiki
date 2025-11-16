@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 167779
+revid: 173680
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Exclusive Aspects, Aspects, Developer Spec]
@@ -81,7 +81,7 @@ According to their description, they are "auspicious mediators of conflict", mea
 
 ## Features
 
-Drakkards have a very limited customization range, such as the shape of their horns. There are up to five horn options available:
+Drakkard have a very limited customization range, such as the shape of their horns. There are up to five horn options available:
 
 ## Trivia
 
@@ -92,6 +92,6 @@ Drakkards have a very limited customization range, such as the shape of their ho
 -   Drakkard bears a striking resemblance to the [Gremor](Gremor.md) aspect, except with more colourful horns.
 -   The origin of the name "[Drakkard](https://en.wikipedia.org/wiki/Longship)" comes from the Nordic Drakkar, its a type of Ship that has the head of a [Níðhöggr](https://en.wikipedia.org/wiki/N%c3%ad%c3%b0h%c3%b6ggr) (Viking dragon) on its prow.
     -   It may be also the reason why the aspect is a dragon and/or they decided to give this name to the aspect.
-    -   In the deepwoken lore, Drakkards come from the northern luminant, so makes sense that they have a nordic/viking name/origin and wouldn't be wrong to assume that in the lore they had a similar culture.
+    -   In the deepwoken lore, Drakkard come from the northern luminant, so makes sense that they have a nordic/viking name/origin and wouldn't be wrong to assume that in the lore they had a similar culture.
         
         The Drakkard prompt.

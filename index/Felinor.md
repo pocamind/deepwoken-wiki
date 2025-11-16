@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 160918
+revid: 173686
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -96,8 +96,8 @@ Felinors have cat ears with optional ear fluff. The color of the fluff, as well 
     -   This _may_ be because of the disdain the community shows towards them.
 -   The [stealth](Stealth.md) gain multiplier applies to negative stealth gain as well, making the [Obvious](Boons_and_Flaws.md#obvious) Flaw grant -24% stealth. This becomes a net -4% stealth due to the innate 20% stealth that Felinor's start with.
 -   "Felinor" comes from the word _Feline_, which means cat or another member of the cat family i.e. lion, tiger, lynx.
--   Felinor wasn't even intended to be added to the game, and was more or less added to appease those seeking that niche, as Felinor was originally an inside joke.[\[1\]](#cite-note-1)
--   Felinors will say things such as "Me-ow!" when engaging combat, as opposed to other aspects.
+-   Felinor wasn't even intended to be added to the game, and was originally an inside joke mocking cat-themed Kemonomimis, a concept very popular in anime and thus widely looked down upon outside of it.[\[1\]](#cite-note-1)
+-   Felinor will say things such as "Me-ow!" when engaging combat, as opposed to other aspects.
 
 ## References
 

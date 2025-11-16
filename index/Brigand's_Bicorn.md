@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 169341
+revid: 173692
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Chaser, Sea Events |
+| obtainment | Chests from:, Sea Events, The Depths, Saramaed Hollow, Duke Ishamon Erisia, Voidwalker Bounties |
 | description | Even outlaws need style. |
 
 ## Description

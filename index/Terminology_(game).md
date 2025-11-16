@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 171427
+revid: 173690
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -818,7 +818,16 @@ _noun_
 1.  Short form of "Damage versus Monsters". An equipment attribute that increases your damage towards monsters by percentage stated.
     1.  Ex. "There is a possibility that a player can reach 60% DvM in a build"
 
-### GS
+### GB
+
+_noun_
+
+1.  A shortened variant of guard break, an event that occurs when a player's posture exceeds 100% or is hit with a select mantra that can automatically shatter one's posture.
+    1.  Ex. "I got him with a GB, he's vulnerable!"
+2.  A term to describe a placed guild base.
+    1.  Ex. "Hey, enter the GB!"
+
+### **GS**
 
 _noun_
 

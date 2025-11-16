@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 163705
+revid: 173668
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -143,6 +143,15 @@ A Black Diver's arsenal consists of the [Dawnwalker](Oath%253A_Dawnwalker.md) Oa
 -   Protagonist Syndrome - The grasp of shadow is meaningless in the face of the Black Diver's blinding light. The Black Diver's Dawnwalker mantras are empowered after being hit by Shadowcast.
 -   Luminous Flash - After dealing a certain amount of damage while in "Absolute Radiance", the Black Diver gains a chance to empower their strikes with pure light.
 -   Absolute Radiance - Dealing damage with Dawnwalker mantras briefly makes the Black Diver's immune to all elemental effects for a short period.
+
+Dialogues
+
+Upon gripping:
+
+See you on the other side. Hah!
+
+  
+Upon spawning:
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 173612
+revid: 173688
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1431,6 +1431,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Cold Front \[Common Talent, Frostdraw Exclusive\] - Your vent is imbued with glacial frost.
     -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
+    -   Increases your Vent damage by 40% and changes its damage type to Frostdraw.
+        -   This also applies to the [Imperator's Fury](<Imperator's_Fury.md>)'s Talent despite its damage being otherwise unmodifiable.
     -   Prerequisites: Cryonis, 25 Frostdraw
 
 ### Frozen Lightning

@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 168909
+revid: 173684
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -17,7 +17,7 @@ Chance of obtaining aspect: **15%**
 
 ## Description
 
-Adrets are a common [aspect](Aspects.md) that have blue skin with orange eyes and face markings. Adrets have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up similar to the Autodidact boon. Additionally, you get a higher starting reputation across all factions. Adrets are considered a new aspect and originate from the Central Luminant. Unlike other aspects, Adrets do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
+Adret are a common [aspect](Aspects.md) that have blue skin with orange eyes and face markings. Adret have a willpower and charisma bonus upon selection, as well as three extra points to be able to use when powering up similar to the Autodidact boon. Additionally, you get a higher starting reputation across all factions. Adret are considered a new aspect and originate from the Central Luminant. Unlike other aspects, Adret do not have a distinct animal feature, and instead have tattoos on their face as a unique feature.
 
 ## Traits
 
@@ -48,7 +48,7 @@ Adrets are a common [aspect](Aspects.md) that have blue skin with orange eyes an
 **Lore:**
 
   
-The Adrets are a historically recently arrived aspect of spiritually adept individuals that make up the bulk of the greatest force in the world; The Central Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
+The Adret are a historically recently arrived aspect of spiritually adept individuals that make up the bulk of the greatest force in the world; The Central Authority. The spirituality derives from the markings that are upon their face, representing future in life/what they are to be. When gaining these markings, it is up to the Adret on what they mean. Others will always interpret their own markings one way or another.
 
 **Strengths:**
 
@@ -92,9 +92,9 @@ The Adrets are a historically recently arrived aspect of spiritually adept indiv
 
 ## Family
 
--   Siblings - For Adrets, siblings have to be the same racial variant, have the same last name, and same tattoos.
--   Cousins - For Adrets, cousins have to be the same racial variant, have different last names, yet different tattoos.
--   Twins - For Adrets, twins have to be the same racial variant, have the same last name, and possibly the same age. (The age part is not fully confirmed.)
+-   Siblings - For Adret, siblings have to be the same racial variant, have the same last name, and same tattoos.
+-   Cousins - For Adret, cousins have to be the same racial variant, have different last names, yet different tattoos.
+-   Twins - For Adret, twins have to be the same racial variant, have the same last name, and possibly the same age. (The age part is not fully confirmed.)
 
 ## Features
 
@@ -116,14 +116,13 @@ Adret has a set of optional face markings that come in a variety of colors depen
 
 ## Trivia
 
--   [Ishan](Ishan.md), an NPC in the [Summer Isle](Summer_Isle.md) refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else, theorizing that they come from the waves. He also cites that they are the only aspect that is not related to an animal.
+-   [Ishan](Ishan.md), an NPC in the [Summer Isle](Summer_Isle.md) refers to the Adret as "_different_", stating that they did not come from the "Old World", but rather from somewhere else, theorizing that they come from the waves. He also cites that they are the only aspect that is not related to an animal.
 -   There appears to be a heavy Adretian presence in the Central Authority military's upper ranks.
 -   Adret are **not** fish.[\[1\]](#cite-note-1)
--   According to Arch\_Mage, Adrets were made with some inspiration from the Goliath aspect from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
+-   According to Arch\_Mage, Adret were made with some inspiration from the Goliath aspect from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's aspect name was changed to Markskipper.
 -   Adret innate Talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
 -   Namesake of the [Adretian Axe](Adretian_Axe.md) and [Adretian Aegis](Adretian_Aegis.md).
--   In the book "Vows by the Sea: Inheritance", it is assumed that Adrets are a 'vowless' aspect, and all of other aspects were originally Adrets, just 'bred-out'.
 
 ## References
 
