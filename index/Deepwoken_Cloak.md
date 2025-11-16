@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 173482
+revid: 173733
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Cloaks]
@@ -30,7 +30,7 @@ categories: [Items, Equipment, Arms, Cloaks]
 
 The Deepwoken Cloak is an [Equipment](Equipment.md) item under the Arms category.
 
-[Blade Dancer](Talents.md#blade-dancer) resets your roll cooldown upon landing an M1.
+The [Blade Dancer](Talents.md#blade-dancer) Talent resets your roll cooldown upon landing an M1.
 
 ## Trivia
 

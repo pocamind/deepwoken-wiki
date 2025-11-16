@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 173451
+revid: 173710
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -576,7 +576,7 @@ Gain +5% damage when your health is below 25%. This effect is applied through th
 
 ### Gone Berserk
 
-Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Berserker](Talents.md#berserker). Signified by a yellow hue surrounding your character upon being hit.
+Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Brassneck](Talents.md#brassneck). Signified by a yellow hue surrounding your character upon being hit.
 
 ### Berserking Rage
 

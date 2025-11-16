@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 169061
+revid: 173758
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items, Equipment, Head]
@@ -24,11 +24,9 @@ categories: [Helmets, Items, Equipment, Head]
 | obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread SerpentFound from:, Artifact Turn-ins |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Captain's Kabuto is an Equipment item under the Head category_._
+The Captain's Kabuto is an Equipment item under the Head category.
 
 ## Trivia
 

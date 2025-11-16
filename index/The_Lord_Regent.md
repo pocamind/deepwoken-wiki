@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 173260
+revid: 173711
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -425,6 +425,7 @@ Lord Regent killing a player whom dared to step on his Coral Throne
             -   You must activate progress [Kennith's Questline](Kennith.md) to the point you can enter [Lord Regent's Room](Etris_Palace.md) without being executed, otherwise you will be gripped for Daring To Trespass, like normal.
 -   Zi'eer (Lord Regent) Hex Code Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
 -   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight. You can however try to dye the default blindfold into black instead of getting the actual black variant of the blindfold to replicate his. Alternatively, you can also edit a black headband down to your eye level.
+    -   This is due to the blindfold he wears being worn backwards, hiding the curved part.
 -   Zi'eer (Lord Regent) hair ID: 6536289312; and the link:[https://www.roblox.com/catalog/6536289312/Long-Blonde-Hair](https://www.roblox.com/catalog/6536289312/Long-Blonde-Hair)
 -   Zi'eer's outfits are the following outfits made by **SirAndrove2**
 -   [https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) - Shirt
