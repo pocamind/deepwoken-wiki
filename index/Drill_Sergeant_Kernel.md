@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 172629
+revid: 173905
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]

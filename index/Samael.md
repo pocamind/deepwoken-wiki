@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 172149
+revid: 173886
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress with reason, InProgressPages, NPCs, Oath Trainer, NPCs located in the Eastern Luminant, The Starkindred Church]

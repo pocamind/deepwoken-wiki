@@ -1,9 +1,9 @@
 ---
 title: Constellia
-revid: 172910
+revid: 173869
 source: https://deepwoken.fandom.com/wiki/Constellia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, Locations, Celestial Cities]
+categories: [Lore, Locations, Celestial Cities, The Heavens]
 ---
 
 # Constellia
@@ -24,7 +24,7 @@ After the [Celestials](Celestial.md) fled the city, it was invaded by the [Kyrsa
 
 ## Trivia
 
--   Currently, the only named Celestial City in The Heavens.
+-   Currently, the only named Celestial City in [The Heavens](The_Heavens.md).
 
 ## References
 

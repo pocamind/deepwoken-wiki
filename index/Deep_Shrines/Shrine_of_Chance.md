@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 170592
+revid: 173897
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs, Mechanics]

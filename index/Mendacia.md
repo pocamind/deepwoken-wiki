@@ -1,6 +1,6 @@
 ---
 title: Mendacia
-revid: 167629
+revid: 173885
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]

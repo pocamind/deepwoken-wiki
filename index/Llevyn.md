@@ -1,6 +1,6 @@
 ---
 title: Llevyn
-revid: 168019
+revid: 173879
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -205,7 +205,7 @@ This is an Easter Egg that happens when you glitch inside to enter [The Frontier
   <td colspan="12">Hey, you wouldn't happen to know a way out of this place, would you?</td>
 </tr>
 <tr>
-  <td colspan="12">Oh me? Yeah I do. However, it happens to be a <i>useless piece of junk</i> without any power. You see a generator around here? It's on top of one of the towers- wait, how did you even get in here? Huh? <i><b>I know what you are.</b></i></td>
+  <td colspan="12">Oh me? Yeah I do. However, it happens to be a <i>useless piece of junk</i> without any power. You see a generator around here? It's on top of one of the towers- wait, how did you even get in here? Huh? I know what you are.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

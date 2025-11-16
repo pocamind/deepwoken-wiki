@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Temptation
-revid: 172431
+revid: 173895
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Temptation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

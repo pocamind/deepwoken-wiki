@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Conceit
-revid: 165586
+revid: 173899
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Conceit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

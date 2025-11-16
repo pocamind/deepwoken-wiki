@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 170474
+revid: 173874
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -38,7 +38,7 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
 
 ## Location
 
-Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the [shrine of mastery](Deep_Shrines.md).
+Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 170681
+revid: 173896
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

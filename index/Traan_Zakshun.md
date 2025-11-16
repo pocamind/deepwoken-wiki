@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 173526
+revid: 173857
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -419,8 +419,7 @@ Sold Items
     -   "_A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._" is a reference to the turnip salesman from _Rogue Lineage_.
     -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
     -   "_You want it? It's yours my friend! So long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
--   Nuttoons, one of Deepwoken's developers, had this to say about Traan Zakshun: "they are a weirdo, they mug freshies for their garbage and bring it back to their little hoarding cave to sell off to schmucks". [\[1\]](#cite-note-0-1)
-    -   This is much like the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect the loot off of corpses rather than getting their hands dirty themselves.
+-   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in their regular shop rotation[\[1\]](#cite-note-0-1). This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
 
 ## References
 

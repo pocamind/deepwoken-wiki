@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 162785
+revid: 173863
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -22,7 +22,7 @@ These bullets give a 10% PEN bonus, because they are considered normal bullets, 
 
 **Gold:**
 
-The Bullet will slow down the target on hit (Bugged), however at a downside of dealing 20% less damage (Still applies) and the speed of the bullet being reduced (Bugged).
+The Bullet will slow down the target on hit, however at a downside of dealing 20% less damage (Still applies) and the speed of the bullet being reduced (Possibly bugged).
 
 **Umbrite:**
 

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Caller
-revid: 172170
+revid: 173906
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Caller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]

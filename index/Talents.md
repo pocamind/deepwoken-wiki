@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 173688
+revid: 173855
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -140,7 +140,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   After dodging, for the next 2 seconds, reduce the next instance of DMG by 60%.
         -   This effect only works on the first hit, therefore much less effective against multi-hit attacks.
     -   The user visually gains a grey metallic shine upon for the duration, clearing on hit.
-        -   The shine's color changes to gold with "Gilded Path: Scrapsinger"
+        -   The shine's color is static and doesn't change with "Gilded Path: Scrapsinger"
     -   Has a cooldown of 18 seconds, starting immediately upon dodge.
     -   Prerequisite: 75 Ironsing
 
