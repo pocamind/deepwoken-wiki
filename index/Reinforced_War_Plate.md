@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 169405
+revid: 174044
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -42,7 +42,7 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
 
-The [Fearful](Status_Effects.md#fearful) status effect lasts for 9 seconds after landing a Mantra with a [Wrath Gem](Wrath_Gem.md) equipped.
+The [Fearful](Status_Effects.md#fearful) status effect lasts for 18 seconds.
 
 ## Obtainment
 

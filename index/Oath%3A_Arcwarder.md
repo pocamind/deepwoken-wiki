@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 171904
+revid: 174051
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -29,18 +29,15 @@ The Arc Suit is a defence orientated piece of semi-sentient armour that [the Uni
 
 ## Obtainment
 
--   Go to [Layer 2](Second_Layer/The_Ethironal_Shrine.md) and Complete Alpha's quest.
-    
+1.  Go to [Layer 2](Second_Layer/The_Ethironal_Shrine.md) and Complete Alpha's quest.
     1.  Activate the Generator.
     2.  Talk to [Alpha](Alpha.md).
     3.  Retrieve injured [Epsi](Epsi.md).
-    
-    -   Choose option 2 when you talk to him.
-        -   Option 1 causes [Epsi](Epsi.md) to perish due to the parasites, he will always be outside of [Firfire Caverns](Firfire_Caverns.md) when you repeat [Floor 1](Second_Layer.md), so you may choose the right option until the questline is completed.
-    -   Dying while the quest is active will not require the player to talk to him again.
--   Talk to Alpha again. (WARNING: You HAVE to return to Alpha for this quest, or else Delta will not give you Arcwarder.)
--   20 Fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
--   Return to surface and talk to [Delta](Delta.md) at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the Oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)
+        -   Choose option 2 when you talk to Epsi.
+            -   Option 1 causes [Epsi](Epsi.md) to perish due to the parasites. Epsi will always be outside of [Firfire Caverns](Firfire_Caverns.md) when you repeat [Floor 1](Second_Layer.md), so you may go back and choose the right option if you messed up the first time.
+2.  Talk to Alpha again.
+3.  Have at least 20 Fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
+4.  Return to surface and talk to [Delta](Delta.md) at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the Oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/joHZD3rZVkM)._
 
@@ -71,12 +68,13 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
 
 -   **Arc Module: Eject** - When blockbroken with Arc Suit active, eject from the armor.
     -   When block broken you instantly eject from your Arc Suit preventing it.
-    -   Upon exiting the Arc Suit posture is set to 30%
+    -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
 -   Obtained after first [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
 -   **Arc Module: Enhance** - When your Arc suit is active, your Arc mantras deal increased damage.
-    -   Increases Arc Wave's damage by 35%.
-    -   Increases Arc Beam's damage by 40%.
+    -   Increases Arc Wave's damage by 25%.
+    -   Increases Arc Beam's damage by 50%.
+    -   These damage bonuses are applied as an increase to the Mantra's base damage, meaning it bypasses the damage modifier cap.
 
 -   **Arc Module: Guard** - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   Allows the user to block attacks from all directions.
@@ -85,7 +83,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
 
 -   **Arc Module: Leap** - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
     -   Allows you to double jump.
-    -   Has a 15 second cooldown.
+    -   Has a 10 second cooldown. The cooldown will be increased to 15 seconds if you are in combat.
 
 -   **Arc Module: Null** - When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
     -   Can be toggled by pressing N when Arc Suit is active.
@@ -99,7 +97,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
     -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Uniquely, the Shock this applies is a pink color.
     -   12s CD.
-    -   While Arc Suit is active, landing Arc Wave restores 50% of your current posture. Additionally your Arc Wave will deal 25% more damage during Arc Suit if you have the Arc Module: Enhance Talent.
+    -   While Arc Suit is active, using Arc Wave restores 50% of your current posture. Additionally your Arc Wave will gain a +25% **base** damage buff damage during Arc Suit if you have the Arc Module: Enhance Talent.
     -   Has a 7.2x PvE multiplier (multiply damage dealt by 7.2 to get PvE damage).
 -   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
@@ -112,7 +110,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
         -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
     -   Instantly grips low health players if the attack were to knock them.
     -   Can be cancelled early, letting it explode before hitting a target.
-    -   While Arc Suit is active, using Arc Beam restores 70% of your current posture. Additionally your Arc Beam will deal 50% more damage during Arc Suit if you have the Arc Module: Enhance Talent.
+    -   While Arc Suit is active, using Arc Beam restores 70% of your current posture. Additionally your Arc Beam will gain a +50% **base** damage buff during Arc Suit if you have the Arc Module: Enhance Talent.
     -   Has a 15x PvE multiplier (multiply damage dealt by 15 to get PvE damage).
 
 #### Support Mantras

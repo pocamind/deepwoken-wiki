@@ -1,9 +1,9 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 164492
+revid: 174022
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Enemies, Enemies with Oaths]
+categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Starkindred Church]
 ---
 
 # Iblis, The Fallen Angel

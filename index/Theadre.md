@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 174003
+revid: 174034
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -68,7 +68,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 </tr>
 <tr>
   <td>The King who will cast aside the aspersions fabricated by your kind...</td>
-  <td>Who else, Kin? The King of Prophecy. He who shall rise Etrea from the waves of obscurity... And bring us back to those bygone days of the Old World.</td>
+  <td>Who else, Kin? The King of prophecy. He who shall rise Etrea from the waves of obscurity... And bring us back to those bygone days of the <a href="Glossary.md#the-old-world">Old World</a>.</td>
   <td colspan="2">End</td>
 </tr>
 <tr>

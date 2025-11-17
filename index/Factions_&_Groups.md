@@ -1,6 +1,6 @@
 ---
 title: "Factions & Groups"
-revid: 172492
+revid: 174032
 source: https://deepwoken.fandom.com/wiki/Factions_%26_Groups
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -39,9 +39,8 @@ Other factions that are not classified as primary and reputable but hold some pr
 | Faction | Description |
 | --- | --- |
 | [Songseeker](Songseeker.md) | Song worshippers, who wish to learn the ways of the [Old World](Timeline.md)'s Mantracasters. |
-| [Spellhardt family](Spellhardt_family.md) | A noble family of [Lightborns](Lightborn.md), originating from the city of [Constellia](Constellia.md). Every year they host a tradition, named [Hallowtide](Hallowtide.md), so don't miss out! |
 | [The Covenant of Flame](The_Covenant_of_Flame.md) | A group of people worshipping [Amorus Pleeksty](Amorus_Pleeksty.md) as the pioneer of [Flamecharm](Flamecharm.md) and a [Deepwoken](Deepwoken.md). |
-| [The Starkindred Faith](The_Starkindred_Church.md) | A predominant power in the [Western Luminant](Luminants.md#western-luminant). They are zealous worshippers of the [Celestials](Celestial.md), using their Holy Ichor to prevent it from falling into the wrong hands. |
-| The Citadel of Markor | The most prominent research organization in all of Lumen, occupying the Central Luminant alongside The Authority. |
-| The Lullaby Isles | The Chrysids' homeland in an archipelago in the [Central Luminant](Luminants.md#central-luminant), which split off from the Hive to set their focus on religion dedicated to the [Moonseye](Moonseye.md). |
-| The Justicars | Hailing from the [North](Luminants.md#northern-luminants), the Justicar seek to walk a path they interpret on their own and see fit. |
+| [The Citadel of Markor](The_Citadel_of_Markor.md) | The most prominent research organization in all of Lumen, occupying the Central Luminant alongside The Authority. |
+| [The Starkindred Church](The_Starkindred_Church.md) | A predominant power in the [Western Luminant](Luminants.md#western-luminant). They are zealous worshippers of the [Celestials](Celestial.md), using their Holy Ichor to prevent it from falling into the wrong hands. |
+| [The Moonlit Faith](The_Moonlit_Faith.md) | The [Chrysids](Chrysid.md) on an [archipelago](Lullaby_Isles.md) in the [Central Luminant](Luminants.md#central-luminant), which split off from [the Hive](The_Hive.md) to set their focus on [religion](The_Moonlit_Faith.md) dedicated to the [Moonseye](Moonseye.md). |
+| [The Justicars](The_Justicar.md) | Hailing from the [North](Luminants.md#northern-luminants), the Justicar seek to walk a path they interpret on their own and see fit. |

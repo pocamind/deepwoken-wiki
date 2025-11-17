@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 173460
+revid: 174016
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -351,7 +351,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Old Stranger](Old_Stranger
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [Barbers](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vow](#vows)
+Dialogue: [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Samael](Samael.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vow](#vows)
 
 ### Radiant Tones
 
@@ -387,7 +387,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Eiris](Eiris.md), [Sordino](Sordino.md) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Eiris](Eiris.md), [Samael](Samael.md), [Sordino](Sordino.md) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 -   Steward Bridges posited on his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
@@ -590,7 +590,7 @@ Dialogue: [Alpha](Alpha.md), [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Cel
 -   At the edges of the [Luminants](#the-luminants), Lighthouses serve as the only reliable means of travelling between [Luminants](#the-luminants).
 -   Lighthouses require the talents of a [Lightkeeper](#lightkeep) to operate. In essence, Lighthouses are a lens through which a [Lightkeeper](#lightkeep) can focus their Light. By illuminating the void between [Luminants](#the-luminants), a thin stretch of navigable ocean is brought back into existence and can be traversed by ships.
 
-Dialogue: | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#the-voidsea)
+Dialogue: [Samael](Samael.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#the-voidsea)
 
 ### The Lullaby Isles
 

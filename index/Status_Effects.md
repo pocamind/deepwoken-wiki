@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 173910
+revid: 174042
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -459,7 +459,7 @@ Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whene
 
 ### Fearful
 
-Applied through the Reinforced War Set's Talent _Lasting Trauma_; be unable to use your weapon critical for **9 seconds** after being hit by a [Strength](Attunement-less.md#strength) Mantra that has a [Wrath Gem](Wrath_Gem.md) equipped. Note: you need to be wearing the **full** Reinforced War set for this to proc, this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) all need to be equipped. Indicated by pink shard effects rapidly escaping your character.
+Applied through the Reinforced War Set's Talent _Lasting Trauma_; be unable to use your weapon critical for **18 seconds** after being hit by a [Strength](Attunement-less.md#strength) Mantra that has a [Wrath Gem](Wrath_Gem.md) equipped. Note: you need to be wearing the **full** Reinforced War set for this to proc, this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) all need to be equipped. Indicated by pink shard effects rapidly escaping your character.
 
 ### Etherguard
 

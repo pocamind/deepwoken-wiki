@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 173993
+revid: 174041
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -362,12 +362,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When blockbroken with Arc Suit active, eject from the armor.
     -   When block broken you instantly eject from your [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) preventing the guard break stun.
-    -   Upon exiting the Arc Suit posture is set to 50%
+    -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When your [Arc suit](Oath%253A_Arcwarder.md#arc-suit) is active, your Arc mantras deal increased damage.
-    -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s damage by 25%.
-    -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s damage by 50%.
+    -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
+    -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
 
 -   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), blocking prevents Spine Cutter from proccing and grants 360 block to all attacks.
@@ -375,7 +375,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
-    -   This has a 10 second cooldown.
+    -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
@@ -4443,7 +4443,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
 
 -   Lasting Trauma: Reinforced War Set - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
-    -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 9 seconds.
+    -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 18 seconds.
     -   Wrath gems have a 10 second cooldown, making this Talent only have a 1 second downtime.
     -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
 

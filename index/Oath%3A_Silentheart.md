@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 173354
+revid: 174073
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -162,7 +162,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Heavy: -15 damage, -5 posture damage / Medium: -15 damage, -4 posture damage / Light: -7.5 damage, -1 posture damage.
 -   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
 -   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
--   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCOMFIRMED)**
+-   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCONFIRMED)**
 -   While all Mantras are voided and the Mantra tab becomes unavailable, the character will still have them within their character data. Consult the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) to convert them into 2 random Talents.
     -   You're also still able to be given a [Whisper Draw](Whisper_Draw.md) on level up.
 -   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.

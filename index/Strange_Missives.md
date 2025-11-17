@@ -1,6 +1,6 @@
 ---
 title: Strange Missives
-revid: 172819
+revid: 174036
 source: https://deepwoken.fandom.com/wiki/Strange_Missives
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -35,10 +35,10 @@ Strange Missives
 > 
 > Th'armati of Aratel, most insistent greetings from the Echelon.
 > 
-> We regretfully have to inform of a mishap with your academics you have entrusted us with. The consell assures you that it was nothing of malicious practise - it seems that one, when being blessed with an exploration within our most belov'd crypts, has run astray. We intend this to be received in the most comforting sense - one individual intended to make a 'sourvenir' of our heritage laid upon our walls, and henceforth shall not be reutnring to your Greathive. For their trespass againsst our most sacred space, the Lachrymosa waits their attendance, and their repentance will be witnessed.
+> We regretfully have to inform of a mishap with your academics you have entrusted us with. The consell assures you that it was nothing of malicious practise - it seems that one, when being blessed with an exploration within our most belov'd crypts, has run astray. We intend this to be received in the most comforting sense - one individual intended to make a 'souvenir' of our heritage laid upon our walls, and henceforth shall not be returning to your Greathive. For their trespass against our most sacred space, the Lachrymosa waits their attendance, and their repentance will be witnessed.
 > 
 > We have since sent the other ambassadors onto their return, and they have been equipped with the requested copies of our archives - we hope the reminder of our common ancestry contained within them will kindle our distant friendships.
 > 
-> We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acoltye.
+> We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acolyte.
 > 
 > \*The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*

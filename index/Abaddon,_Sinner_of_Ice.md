@@ -1,9 +1,9 @@
 ---
 title: "Abaddon, Sinner of Ice"
-revid: 166568
+revid: 174021
 source: https://deepwoken.fandom.com/wiki/Abaddon%2C_Sinner_of_Ice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Quests]
+categories: [Enemies, Quests, The Starkindred Church, Enemies with Oaths]
 ---
 
 # Abaddon, Sinner of Ice
