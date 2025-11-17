@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 172259
+revid: 173966
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -12,7 +12,7 @@ notices:
 
 Template:Location2
 
-**The City of the Drowned** (also known as The Drowned City of Celtor) is a location in _Deepwoken_. It is a landmark of the [Celtor Wastes](Celtor_Wastes.md).
+**The City of the Drowned** (also known as The Drowned City of Celtor) is a location in _Deepwoken_. It is a landmark of the [Celtor Wastes](Celtor_Wastes.md) and what remains of the [City of Celtor](City_of_Celtor.md).
 
 ## Overview
 

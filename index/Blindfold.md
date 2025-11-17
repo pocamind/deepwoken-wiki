@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 168687
+revid: 173992
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -26,7 +26,9 @@ categories: [Equipment, Face, Blindfolds]
 
 ## Description
 
-The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. Equipping this item gives you the [Blinded](Talents.md#equipment-talents) Talent. A Blindfold or the [Blind](Boons_and_Flaws.md#flaws) Flaw is required to unlock the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md), but not required when using it.
+Blindfolds are rare [Equipment](Equipment.md) items under the "Face" category. Equipping any of them will give you the [Blinded](Talents.md) talent, which is required to unlock the [Blindseer oath](Oath%253A_Blindseer.md).
+
+Standard blindfolds are the most difficult to obtain, however they are all still obtainable. The easiest variant to obtain is the Crimson variant.
 
 <table><caption></caption>
 <tbody>
@@ -38,12 +40,12 @@ The Blindfolds are [Equipment](Equipment.md) items under the "Face" category. Eq
 <tr>
   <td>Blindfold</td>
   <td>No innate Pips</td>
-  <td><a href="Erisia.md">Erisia</a>, <a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a>, <a href="Lodestar.md">Lodestar</a>, <a href="Dread_Serpent.md">Dread Serpent</a></td>
+  <td><a href="Erisia.md">Erisia</a>, <a href="Random_Encounters.md">Sea Event brown chests</a></td>
 </tr>
 <tr>
   <td>Black Blindfold</td>
   <td>+1 Common</td>
-  <td><a href="Random_Encounters.md">Pure Ore Turn-ins</a>, <a href="Chime_of_Conflict.md">Chime of Conflict</a>, <a href="Fishing.md">Fishing</a>, <a href="Meteor_Isle.md">Meteor Isle</a>, <a href="Minityrsa.md">Minityrsa</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="Random_Encounters.md">Random Encounters</a></td>
+  <td><a href="Random_Encounters.md">Pure Ore Turn-ins</a>, <a href="Chime_of_Conflict.md">Chime of Conflict</a>, <a href="Fishing.md">Fishing</a>, <a href="Meteor_Isle.md">Meteor Isle</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Depths Island Sea Events</a></td>
 </tr>
 <tr>
   <td>Crimson Blindfold</td>

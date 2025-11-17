@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 173855
+revid: 173993
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3278,6 +3278,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill all three sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10, instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
 
 -   Ichor Imbuement \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
+    -   Doubles the damage of your Starkindred Mantras if they are casted without your wings out.
+    -   This Talent is extremely situational, as your wings will be equipped upon casting a Starkindred Mantra or using Death From Above, regardless of it hits or not, and there is no way to deactivate your wings once they are out.
+    -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill all three sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10, instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
 
 ### Static Weaver
 
@@ -4463,9 +4466,9 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 -   Any **Rare** Talent unless it has been [frozen](Aces.md).
 -   Any attunement path's starting Talent (e.g. Wraith Path: Twisted Puppets, Eruption Path: Lava Serpent, or Glass Path: Crystallization)
--   [#Dancing Steps](#dancing-steps) - Fire mantras now move you forward slightly.
--   [#Nullifying Clarity](#nullifying-clarity) - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.
--   [#Agitating Spark](#agitating-spark) - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
+-   [Dancing Steps](#dancing-steps) - Fire mantras now move you forward slightly.
+-   [Nullifying Clarity](#nullifying-clarity) - Deal more damage to enemies with status effects on them with your Basic Attacks but remove the effect on hit.
+-   [Agitating Spark](#agitating-spark) - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 
 ## Trivia
 

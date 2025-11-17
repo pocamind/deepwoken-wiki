@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 169735
+revid: 173983
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Adept Outfits, The Children of Navae]
@@ -43,4 +43,4 @@ The [Fists of Navae](Talents.md#fists-of-navae) Talent increases the user's flou
 
 ## Trivia
 
--   Despite not appearing to be affiliated with the Nomads, [Nanji](Nanji.md) wears this outfit.
+-   Despite not appearing to be affiliated with the Nomads, [Nanji](Nanji.md) used to wear this outfit.

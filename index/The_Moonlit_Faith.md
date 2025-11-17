@@ -1,17 +1,17 @@
 ---
 title: The Moonlit Faith
-revid: 173865
+revid: 173980
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, Religious groups]
+categories: [Lore, Religious groups, The Moonlit Faith]
 ---
 
 # The Moonlit Faith
 
 | The Moonlit Faith | |
 |---|---|
-| leader | The Lady Confessor, Council of the Moonlit Faith |
-| territory | Lullaby Isles |
+| leader | The Lady Confessor, The Counsell of the Moonlit Faith |
+| territory | Lullaby Isles, Echelon |
 | goals | Worshipping the Moonseye. |
 
 ## Description
@@ -20,7 +20,7 @@ categories: [Lore, Religious groups]
 
 Devotees of the Moonlit Faith believe that the [Moonseye](Moonseye.md) is the gate to the afterlife, from which their ancestors look down on them from it.
 
-With [The Lady Confessor](The_Lady_Confessor.md)'s ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith.[\[1\]](#cite-note-marro-1) Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).[\[2\]](#cite-note-pardoner-2)
+With The Lady Confessor's ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith.[\[1\]](#cite-note-marro-1) Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).[\[2\]](#cite-note-pardoner-2)
 
 ## Notable Members
 

@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 168057
+revid: 174003
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
@@ -17,7 +17,7 @@ categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Theadre is an Etrean NPC, he is very old and talks about the old King of Etrea and gives lore about the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
+Theadre is an Etrean NPC. He is very old and talks about the old King of Etrea and gives lore about the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
 
 ## Location
 
@@ -52,18 +52,24 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Oh King... Won't ye lift your people from this watery grave?...</td>
+  <td colspan="4">Oh King... Won't ye lift your people from this watery grave?...</td>
 </tr>
 <tr>
-  <td>Who is this king you speak of?</td>
-  <td>What do you think of The Lord Regent?</td>
+  <td colspan="2">Who is this king you speak of?</td>
+  <td colspan="2">What do you think of The Lord Regent?</td>
+</tr>
+<tr>
+  <td>[Player is not an <a href="Etrean.md">Etrean</a>]</td>
+  <td>[Player is an <a href="Etrean.md">Etrean</a>]</td>
+  <td colspan="2">He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
 </tr>
 <tr>
   <td>The King who will cast aside the aspersions fabricated by your kind...</td>
-  <td>He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
+  <td>Who else, Kin? The King of Prophecy. He who shall rise Etrea from the waves of obscurity... And bring us back to those bygone days of the Old World.</td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
   <td colspan="2">End</td>
@@ -72,26 +78,6 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 </table>
 
 **Unlockable Dialogues:**
-
-**Player has Soulbreaker:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin</td>
-</tr>
-<tr>
-  <td colspan="2">Oh... The light of you... it's as if the King were standing before me... Truly, you are blessed by Mur's light...</td>
-</tr>
-<tr>
-  <td>Who is this king you speak of?</td>
-  <td>This King - is he some kind of god?</td>
-</tr>
-<tr>
-  <td colspan="2">[See first instance]</td>
-</tr>
-</tbody>
-</table>
 
 **Player meets the requirements for Soulbreaker:**
 
@@ -119,6 +105,26 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 </tr>
 <tr>
   <td colspan="2">End</td>
+</tr>
+</tbody>
+</table>
+
+**Player has Soulbreaker:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Oh... The light of you... it's as if the King were standing before me... Truly, you are blessed by Mur's light...</td>
+</tr>
+<tr>
+  <td>Who is this king you speak of?</td>
+  <td>This King - is he some kind of god?</td>
+</tr>
+<tr>
+  <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
 </table>

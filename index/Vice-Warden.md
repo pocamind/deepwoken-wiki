@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 172745
+revid: 173932
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, Central Authority Enemies, Enemies that can wield Enchantments]

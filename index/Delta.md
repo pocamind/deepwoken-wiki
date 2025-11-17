@@ -1,6 +1,6 @@
 ---
 title: Delta
-revid: 171035
+revid: 173954
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]

@@ -1,11 +1,9 @@
 ---
 title: Nir Erisia
-revid: 173219
+revid: 173965
 source: https://deepwoken.fandom.com/wiki/Nir_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Members of the Erisia family]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Members of the Erisia family]
 ---
 
 # Nir Erisia

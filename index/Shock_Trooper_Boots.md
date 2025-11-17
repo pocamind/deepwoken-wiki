@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Boots
-revid: 169454
+revid: 173926
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]

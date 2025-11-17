@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 173710
+revid: 173910
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -77,7 +77,7 @@ Be completely unable to dodge or move for a short duration. Applied primarily th
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon, monster attack, or Mantra that applies bleed. Bleed deals 10% of the initial attack's **scaled** damage in three damage ticks, totaling to a 30% total damage increase. Bleed from [Speed Demon](Talents.md#speed-demon) deals 5% of the attack's scaled damage per tick, resulting in a 15% total damage increase. Bleed damage cannot be buffed outside of increasing an attack's scaled damage. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
+This effect can be applied by being hit by a weapon, monster attack, or Mantra that applies bleed. Bleed deals 5% of the initial attack's **scaled** damage in three damage ticks, totaling to a 15% total damage increase. Bleed from [Speed Demon](Talents.md#speed-demon) deals 2.5% of the attack's scaled damage per tick, resulting in a 7.5% total damage increase. Bleed damage cannot be buffed outside of increasing an attack's scaled damage. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
 
 ### Wither
 

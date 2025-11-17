@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 171131
+revid: 173953
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]

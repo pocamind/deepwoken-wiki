@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 167102
+revid: 173949
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enchantments]

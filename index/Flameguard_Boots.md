@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 173701
+revid: 173972
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots]
@@ -23,12 +23,12 @@ categories: [Items, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Saramaed Hollow |
+| obtainment | The Depths, Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East |
 | description | ... |
 
 ## Description
 
-Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through Hell Mode.
+Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 173854
+revid: 173984
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church]
@@ -57,10 +57,10 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
  |
 | 
 
-**Maljuror Grab**  
+**Hollow Embrace**  
 (★☆☆)
 
- | The Maljuror lunges forwards and grabs you and whispers into your ears, greatly draining your sanity.
+ | The Maljuror lunges forwards and grabs you, whispering into your ears and greatly draining your sanity.
 
 -   This attack shares an animation with [Dread Whisper](Attunement-less.md#dread-whisper), though the visual and sound effects are entirely unique.
 

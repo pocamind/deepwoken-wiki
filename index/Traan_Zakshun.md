@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 173857
+revid: 173974
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -161,6 +161,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _An item most regal!_
 -   _C'mon, everybody and their grandma wants to buy something like this._
 -   _Colour makes us hungry - everything's connected!_
+-   _DON'T drop it..._
 -   _Hard sell eh?.. What if it was purple?_
 -   _Hey come on now, it's not that expensive.._
 -   _Hey, you break it - you buy it._
@@ -182,6 +183,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Seems like a great deal, huh? But I'm NOT done yet!_
 -   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
 -   _That's \*gotta\* be one of a kind, right? And it could be yours!_
+-   _The Legendary Boot?.. Pff, good joke pal, I don't sell trash._
 -   _The price is too steep, you say? Nonsense! I'm just wearing my Sunday Shirt of Selling. It increases my mercantile skill._
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._
 -   _They don't make 'em like they used to anymore, you know?_

@@ -1,6 +1,6 @@
 ---
 title: Erisia family
-revid: 173285
+revid: 173967
 source: https://deepwoken.fandom.com/wiki/Erisia_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Families]

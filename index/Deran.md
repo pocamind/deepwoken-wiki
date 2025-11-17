@@ -1,6 +1,6 @@
 ---
 title: Deran
-revid: 167983
+revid: 173948
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]

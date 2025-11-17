@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 173513
+revid: 173990
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -182,20 +182,22 @@ Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accorda
 
 -   **Blade of Saints: Flamecharm Saint Stance**
     -   Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.
+    -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to leap further.
 
 -   **Blade of Saints: Galebreathe Saint Stance**
     -   You propel yourself forwards with the winds, uppercutting anyone in your wake.
-    -   Procs [Meteor Impact](Talents.md#falling-star-guard).
+    -   Procs [Meteor Impact](Talents.md#meteor-impact).
 
 -   **Blade of Saints: Shadowcast Saint Stance**
     -   The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path.
 
 -   **Blade of Saints: Frostdraw Saint Stance**
     -   Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback.
+    -   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) to reduce the windup.
 
 -   **Blade of Saints: Thundercall Saint Stance**
     -   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
-    -   Can be modified with [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Cloudstones](Mantra_Modifiers.md#regular-modifiers) to increase the amount of lightning strikes.
+    -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the amount of lightning strikes.
 
 ### Talent Cards:
 

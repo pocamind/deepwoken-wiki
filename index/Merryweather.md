@@ -1,6 +1,6 @@
 ---
 title: Merryweather
-revid: 172255
+revid: 173918
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]

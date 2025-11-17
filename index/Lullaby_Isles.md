@@ -1,11 +1,9 @@
 ---
 title: Lullaby Isles
-revid: 173868
+revid: 173981
 source: https://deepwoken.fandom.com/wiki/Lullaby_Isles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Locations in the Central Luminant, Locations]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Locations in the Central Luminant, Locations, The Moonlit Faith]
 ---
 
 # Lullaby Isles
@@ -24,7 +22,7 @@ The Lullaby Isles are the territory of [The Moonlit Faith](The_Moonlit_Faith.md)
 
 The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a lead ambassador for the Lullaby Isles, leading groups of scholars to and from the [Greathive Aratel](Greathive_Aratel.md) in order to exchange knowledge, updates and information.[\[4\]](#cite-note-missives-4)
 
-[The Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): Council, which resides in the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[4\]](#cite-note-missives-4)
+[Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): Council, which resides in the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[4\]](#cite-note-missives-4)
 
 ## References
 

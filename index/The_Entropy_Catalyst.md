@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 173169
+revid: 173908
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -13,6 +13,8 @@ Template:Location2
 File:Catalyst.png
 
 ## Description
+
+Location of The Entropy Catalyst in the map
 
 The Entropy Catalyst is a location within [The Aratel Sea](The_Aratel_Sea.md), in an island next to a sea highway and a Luminant gate. It is protected by 2 walls that can be broken through using Mantras that break objects.
 

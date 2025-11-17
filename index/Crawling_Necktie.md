@@ -1,6 +1,6 @@
 ---
 title: Crawling Necktie
-revid: 173458
+revid: 173977
 source: https://deepwoken.fandom.com/wiki/Crawling_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Equipment, Torso, Ties, Hallowtide, Event Item]

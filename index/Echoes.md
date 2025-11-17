@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 172816
+revid: 174005
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -433,8 +433,6 @@ Other than replayability, Echoes can also be Talents and Items; all acquired und
 Echo Talents or Items, once acquired for the first time, can be obtained in later Power Levels per Character after. If you've obtained an Echo Talent on a different slot, you can talk to [Yamaketzal](Yamaketzal.md) to unlock the Talent on your current slot. This is useful for power 20 slots as they cannot level up to obtain the Echo Talents you've already obtained previously.
 
 ### Echo Quests
-
-**(Power 1)** Glider - _Gain the Glider Recipe at Power 1. **Obtained by asking Elite Pathfinder [Alastir](Alastir.md) at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider**_
 
 **(Power 2)** Chain of Perfection \[Echo Talent\] - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
 

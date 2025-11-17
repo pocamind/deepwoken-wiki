@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (NPC)
-revid: 167993
+revid: 173942
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrea, NPCs, NPCs located in the Etrean Luminant]

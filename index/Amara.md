@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 172125
+revid: 173968
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -25,7 +25,7 @@ Her and the 11th Scouting Legion arrived in the East from the Western Luminant t
 
 ## Location
 
-Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Jaw.md>) far inside in a Legion hideout with other legionnaires, the entrance to the cave is located to the right of the bandit camp
+Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Jaw.md>) far inside in a Legion hideout with other legionnaires, the entrance to the cave is located to the right of the [Path's Respite](<Path's_Respite.md>).
 
 ## Dialogue
 
