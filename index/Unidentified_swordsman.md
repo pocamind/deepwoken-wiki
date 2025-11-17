@@ -1,11 +1,12 @@
 ---
 title: Unidentified swordsman
-revid: 170647
+revid: 174114
 source: https://deepwoken.fandom.com/wiki/Unidentified_swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, "Non-canon articles", Manga characters]
+categories: [In progress without reason, InProgressPages, Articles with conjectural titles, "Non-canon articles", Manga characters]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
+  - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
   - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
 ---
 

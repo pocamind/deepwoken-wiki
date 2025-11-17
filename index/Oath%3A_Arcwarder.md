@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 174051
+revid: 174123
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -62,24 +62,23 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
 ### Talents
 
 -   **Arc Module: Dash** - When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
-    -   Allows your Air Dash to go much farther.
-    -   Allows the user to attack while performing a dash.
+    -   Jet dashes go much further than regular dashes.
+    -   Also allows the user to M1 while performing a dash, ending their dash early.
 -   Obtained with the Oath
 
 -   **Arc Module: Eject** - When blockbroken with Arc Suit active, eject from the armor.
-    -   When block broken you instantly eject from your Arc Suit preventing it.
+    -   If your posture would reach 100% while in the Arc Suit, you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
     -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
 -   Obtained after first [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
 -   **Arc Module: Enhance** - When your Arc suit is active, your Arc mantras deal increased damage.
-    -   Increases Arc Wave's damage by 25%.
-    -   Increases Arc Beam's damage by 50%.
-    -   These damage bonuses are applied as an increase to the Mantra's base damage, meaning it bypasses the damage modifier cap.
+    -   Increases Arc Wave's base damage by 25%.
+    -   Increases Arc Beam's base damage by 50%.
+    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
 
 -   **Arc Module: Guard** - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
-    -   Allows the user to block attacks from all directions.
-        -   Prevents Spine Cutter from occurring when blocking.
-    -   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
+    -   While in Arc Suit, blocking prevents [Spine Cutter](Talents.md#spine-cutter) from proccing and grants 360 block to all attacks.
+-   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
 -   **Arc Module: Leap** - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
     -   Allows you to double jump.
@@ -106,6 +105,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
     -   Can apply both Shock and Burning, or its Path alternate variants.
     -   12s CD.
     -   Can be used in the air to shoot under yourself.
+        -   The Aerial variant has homing properties.
         -   The aerial variant gains the Oath damage typing alongside its original Flame and Thunder damage typings. The damage this deals is the same as grounded Arc Beam though.
         -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
     -   Instantly grips low health players if the attack were to knock them.

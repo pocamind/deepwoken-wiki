@@ -1,9 +1,11 @@
 ---
 title: Unidentified Erisia noble
-revid: 173284
+revid: 174105
 source: https://deepwoken.fandom.com/wiki/Unidentified_Erisia_noble
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Members of the Erisia family]
+categories: [Articles with conjectural titles, Members of the Erisia family]
+notices:
+  - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
 
 # Unidentified Erisia noble

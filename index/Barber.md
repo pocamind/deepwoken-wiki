@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 174059
+revid: 174119
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -125,6 +125,7 @@ The Top Shelf
 ## Trivia
 
 -   The Barber's own hair ID is 4735346886.
+    -   This hair id is shared with [Kennith](Kennith.md) and [Ministry Necromancer](Ministry_Necromancer.md).
 -   Strangely, all of the overworld barbers, excluding the one in the guild base, are completely identical in appearance. It is unknown what this implies about the barbers and the Fadetrimmer Oath as a whole.
 -   The Barber is the only NPC that can customize your character in any meaningful way.
 -   Around the beginning of their addition, there were bugs that allowed certain aspects ([Celtor](Celtor.md), [Adret](Adret.md) and [Khan](Khan.md)) to have otherwise inaccessible faces when asked to reroll their face, such as the dead face and the Mudskipper face from the [Mudwoken](Mudwoken.md) update.

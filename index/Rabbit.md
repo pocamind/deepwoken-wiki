@@ -1,6 +1,6 @@
 ---
 title: Rabbit
-revid: 172923
+revid: 174124
 source: https://deepwoken.fandom.com/wiki/Rabbit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-sentient species"]
@@ -11,7 +11,7 @@ categories: ["Non-sentient species"]
 | Rabbit | |
 |---|---|
 | name | Rabbit[1] |
-| habitat | Woodland |
+| habitat | Woodland[1] |
 
 ## Description
 
@@ -19,4 +19,4 @@ The rabbit is a species of animal. They are small, furry creatures found in the 
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-deus-1-0) [1.1](#cite-ref-deus-1-1) [God in the Machine](God_in_the_Machine.md)
+1.  ↑ [1.0](#cite-ref-deus-1-0) [1.1](#cite-ref-deus-1-1) [1.2](#cite-ref-deus-1-2) [God in the Machine](God_in_the_Machine.md)

@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 173461
+revid: 174149
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame]
@@ -36,79 +36,77 @@ A Resonance is required to get through the doors to Aska, but is not a requireme
 
 Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as his weapon.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Name/Danger</th>
-  <th>Description</th>
-</tr>
-<tr>
-  <td><center><b>Assault</b><br>
-  (★☆☆)</center></td>
-  <td>Aska performs 3 basic attacks before sending the opponent away with a flourish.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Critical</b><br>
-  (★★☆)</center></td>
-  <td>Aska plunges the weapon into the ground, creating a small eruption and flourishing the weapon afterwards.
-  <ul>
-    <li>The first part of this move resembles the first part of the Flamecharm Mantra, <i>Fire Eruption</i>.</li>
-  </ul><div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Flame Grab</b><br>
-  (★★☆)</center></td>
-  <td>Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Flame Sentinel</b><br>
-  (★★☆)</center></td>
-  <td>Aska creates an orb that will shoot fireballs at the player.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Flaming Scourge</b><br>
-  (★★★)</center></td>
-  <td>Aska gathers flames in his hand and spins it like a whip grabbing the player, before slamming them into the ground.
-  <ul>
-    <li>This move has a tendency to glitch the player into a wall. Be careful.</li>
-  </ul><div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Ash Slam</b><br>
-  (★★★)</center></td>
-  <td>Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Relentless Flames</b><br>
-  (★★☆)</center></td>
-  <td>Aska releases a flurry of seven slashes.
-  <ul>
-    <li>Cancels if parried.</li>
-  </ul><div>
-  <ul>
-  </ul></div></td>
-</tr>
-<tr>
-  <td><center><b>Flare Volley</b><br>
-  (★★☆)</center></td>
-  <td>Aska fires a blast of flames at the player.<div>
-  <ul>
-  </ul></div></td>
-</tr>
-</tbody>
-</table>
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Aska performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Aska plunges the weapon into the ground, creating a small eruption and flourishing the weapon afterwards.
+
+-   The first part of this move resembles the first part of the Flamecharm Mantra, _Fire Eruption_.
+
+ |
+| 
+
+**Flame Grab**  
+(★★☆)
+
+ | Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.
+
+ |
+| 
+
+**Flame Sentinel**  
+(★★☆)
+
+ | Aska creates an orb that will shoot fireballs at the player.
+
+ |
+| 
+
+**Flaming Scourge**  
+(★★★)
+
+ | Aska gathers flames in his hand and spins it like a whip grabbing the player, before slamming them into the ground.
+
+-   This move has a tendency to glitch the player into a wall. Be careful.
+
+ |
+| 
+
+**Ash Slam**  
+(★★★)
+
+ | Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.
+
+ |
+| 
+
+**Relentless Flames**  
+(★★☆)
+
+ | Aska releases a flurry of seven slashes.
+
+-   Cancels if parried.
+
+ |
+| 
+
+**Flare Volley**  
+(★★☆)
+
+ | Aska fires a blast of flames at the player.
+
+ |
 
 ## Dialogue
 

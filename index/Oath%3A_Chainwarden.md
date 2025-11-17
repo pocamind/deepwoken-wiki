@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 170701
+revid: 174147
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -138,12 +138,19 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
         -   Not sped up by [Insignia Gem](Insignia_Gem.md).
         -   The _**anti-roll**_ effect currently procs through block. (Bug)
-        -   ~Has some form of hyperarmor.~ (Bugged)
-            -   "Rupture now only has hyperarmor on its second chained hit, as opposed to all of its hit types." -(1/11/25) patch notes
-    -   Has a cooldown of 15 seconds.
-    -   Obtainment: Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
+        -   ~Has hyperarmor on its second chained hit.~
+    ~-   Has a cooldown of 15 seconds.
+    -   Obtainment: Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.~
+
+~
+
+## Gallery
+
+~~
 
 ## Trivia
+
+~~
 
 -   The Chained Captive NPC has unique dialogue if you no longer meet the requirements of the Oath when speaking to them. In all cases, your only dialogue option is to end dialogue.
     -   "..." - If you have an Oath, or if you already rescued the NPC and rejoined.
@@ -155,3 +162,13 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath.
 -   Previously left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
 -   Restrain previously ignored Return to the Dark Ages, an old removed talent.
+
+~~
+
+## References
+
+~~
+
+## Navigation
+
+~
