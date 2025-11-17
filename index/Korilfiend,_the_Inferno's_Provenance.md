@@ -1,6 +1,6 @@
 ---
 title: "Korilfiend, the Inferno's Provenance"
-revid: 173242
+revid: 174096
 source: https://deepwoken.fandom.com/wiki/Korilfiend%2C_the_Inferno's_Provenance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -8,7 +8,7 @@ categories: [Drowned Gods]
 
 # Korilfiend, the Inferno's Provenance
 
-**Korilfiend** is a [Drowned God](https://deepwoken.fandom.com/wiki/Category:Drowned_Gods).
+**Korilfiend** is a [Drowned God](https://deepwoken.fandom.com/wiki/Category:Drowned_Gods) presiding over Heat, sleeping deep within the Third Layer.
 
 ## Overview
 
