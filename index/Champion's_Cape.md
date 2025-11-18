@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 169346
+revid: 174221
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Arms, Capes, Craftable]
@@ -28,9 +28,11 @@ categories: [Items, Equipment, Arms, Capes, Craftable]
 
 Champion's Cape is an animated **unenchantable** [Equipment](Equipment.md) item under the "Arms" category. It is a dark cape with shoulder plates, visually the same as [Titus's Cape](<Titus's_Cape.md>).
 
-The [No Interruptions](Talents.md#no-interruptions) Talent reduces damage taken by ranged attacks while in combat from 2 or more players. This heavily increases the damage falloff with range from attacks and removes hitstun from attacks that are a certain distance away, the falloff can scale to point of you taking zero damage.
+The [No Interruptions](Talents.md#no-interruptions) Talent reduces damage taken by ranged attacks while you have at least two combat tags.
 
-The damage falloff works in PvE if you are combat tagged by at least one player and can resist certain environmental effects such as the [Detainment Core Lasers](Merit_Detainment_Core.md) and [Titus Debris](Titus_Fulminus_Destellus.md).
+This grants a scaling damage reduction effect based on how far your opponent is away from you, starting at 25% damage reduction with 15 studs of distance, and gaining +1% damage reduction per additional stud. Additionally, this grants [true hyperarmor](Status_Effects.md#true-hyperarmor) to attacks that are coming from attackers who are at least 15 studs away from you.
+
+The damage reduction works in PvE if you are combat tagged by at least one player and can resist certain environmental effects such as the [Detainment Core Lasers](Merit_Detainment_Core.md) and [Titus Debris](Titus_Fulminus_Destellus.md).
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 173538
+revid: 174225
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests, The Hive]
@@ -17,11 +17,11 @@ categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests,
 
 ## Description
 
-Calamus is a member of [The Hive](The_Hive.md). She is a guardian of [Greathive Aratel](Greathive_Aratel.md), sworn to protect the [Lordsgrove](The_Lordsgrove.md) and [The Valley](The_Starswept_Valley.md).
+Calamus is a member of [The Hive](The_Hive.md). They are a guardian of [Greathive Aratel](Greathive_Aratel.md), sworn to protect the [Lordsgrove](The_Lordsgrove.md) and [The Valley](The_Starswept_Valley.md).
 
 ## Location
 
-Calamus is in the Starswept Valley, located on top of a cliff. There are several jump pads that can be used to reach her.
+Calamus is located on top of a cliff in the [Starswept Valley](The_Starswept_Valley.md). There are several jump pads that can be used to reach them.
 
 ## Dialogue
 
@@ -53,4 +53,4 @@ Calamus is in the Starswept Valley, located on top of a cliff. There are several
 
 ## Trivia
 
--   The player used to be able to assists Calamus in defending Greathive from threats, this included: [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Authority Captain](Authority_Captain.md), [Brainsucker](Brainsucker.md), [Deep Widow](Deep_Widow.md), [King Thresher](King_Thresher.md), [Stone Knight](Stone_Knight.md), [Thresher](Thresher.md)
+-   The player used to be able to assists Calamus in defending Greathive from threats, this included: [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Authority Captain](Authority_Captain.md), [Brainsucker](Brainsucker.md), [Deep Widow](Deep_Widow.md), [King Thresher](King_Thresher.md), [Stone Knight](Stone_Knight.md), [Thresher](Thresher.md).

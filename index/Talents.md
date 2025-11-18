@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174209
+revid: 174219
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4324,8 +4324,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Lowers your Swingspeed. Indicated by black 'x' marks coming off of your body.
 
 -   No Interruptions: [Champion's Cape](<Champion's_Cape.md>) - When combat tagged by 2 or more players, render any ranged attack a lot less effective.
-    -   Heavily increases the range falloff of attacks, reducing their damage to 0 if far enough away.
-    -   Removes hitstun from attacks used from too far away.
+    -   This grants +25% damage reduction against attacks from opponents who are at least 15 studs away from you. This damage reduction is increased by 1% per additional stud of distance.
+    -   Grants [true hyperarmor](Status_Effects.md#true-hyperarmor) against attacks from opponents who are at least 15 studs away from you.
+    -   Despite what the description states, this Talent can activate if you have one PvE combat tag and one PvP combat tag.
 
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left) now guard breaks at level 5.
     -   1 minute cooldown.

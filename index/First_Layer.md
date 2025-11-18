@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 172258
+revid: 174215
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the First Layer, The Depths, Layer 1, Map]
@@ -50,7 +50,7 @@ The main and preferred method to escape is by the [Depths Trial](Cathedral_of_th
 
 ### Wishing to Yun'Shul
 
-**This method can only be done once per character**. The alternative method is limited to players with a [Resonance](Resonance.md) and an eligible [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) or an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). Talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place.**" This method skips the trial altogether, but will only works in the **First Layer**. You can also achieve this with the use of an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**", which does not require a [Resonance](Resonance.md) nor a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) from [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>).
+**This method can only be done once per character**. The alternative method is limited to players with a [Resonance](Resonance.md) and an eligible [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) or an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). Talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place.**" This method skips the trial altogether, but will only work in the **First Layer**. You can also achieve this with the use of an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**", which does not require a [Resonance](Resonance.md) nor a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) from [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>).
 
 ## Farming in First Layer
 
