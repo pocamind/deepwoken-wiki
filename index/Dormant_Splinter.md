@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 173205
+revid: 174290
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics]
@@ -35,7 +35,7 @@ _This might have not been the page you were looking for; if you were looking for
 
 The **Dormant Splinter** is a Relic rarity [Sword](<Sword_(weapon).md>); a black, voided twisted blade.
 
-The Dormant Splinter can be acquired as an insanely rare drop from a Ministry Cache Agent, or by chance from a random event in the [Voidsea](Voidsea.md). To get it from a Ministry Cache:
+The Dormant Splinter can be acquired as an super rare drop from a Ministry Cache Agent, or by chance from a random event in the [Voidsea](Voidsea.md). To get it from a Ministry Cache:
 
 1.  Obtain the [Shadow Travel](Talents.md#shadowcaster) talent or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
@@ -67,7 +67,7 @@ The critical has a cooldown of **14 seconds**.
 -   Meeting the requirement of MED and LVL, the damage is (**5.1**)
 -   At max MED, The damage totals up to (**7.6**)
 -   If you have 100 attribute points invested into MED, and having 6 proficiency you will achieve a total damage of (**8.6**)
--   The second worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage. The only weapons worse than this are the [Formless Shard](Formless_Shard.md), which has the same base damage of 5 with no scaling.
+-   The second worst weapon in the entire game for both PvE and PvP due to its unbearable 5 base damage. The only weapon worse than this is the [Formless Shard](Formless_Shard.md), which has the same base damage of 5 with no scaling.
 -   The Splinter emits a sound that resembles breathing and a heartbeat. The Splinter also has an animation when equipped that resembles lungs expanding.
 -   It was inspired by the Broken Hero Sword from _Terraria_.[\[1\]](#cite-note-1)
 -   The Wither application on [some](Umbrite_Witherblade.md) [weapons](Sanguine_Transfuser.md) made using the Dormant Splinter is derived from being composed of Umbrite, which contains withering properties.[\[2\]](#cite-note-2)

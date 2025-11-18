@@ -1,9 +1,9 @@
 ---
 title: My Warm Blood
-revid: 172920
+revid: 174287
 source: https://deepwoken.fandom.com/wiki/My_Warm_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Book Collections]
+categories: [Books]
 ---
 
 # My Warm Blood

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 172763
+revid: 174289
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -41,6 +41,7 @@ Currently there are 33 books and book collections:
 -   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>)
 -   [Capran Aphorisms](Capran_Aphorisms.md)
 -   [Children of the Aftertide](Children_of_the_Aftertide.md)
+    -   Children of the Aftertide I
 -   [Coldheart's Journal](<Coldheart's_Journal.md>)
 -   [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)
 -   [Debriefing Log on Operator Polaris Enigvidion](Debriefing_Log_on_Operator_Polaris_Enigvidion.md)
@@ -56,8 +57,11 @@ Currently there are 33 books and book collections:
 -   [Lament of Cirryn](Lament_of_Cirryn.md)
 -   [A Light In The Sky](A_Light_In_The_Sky.md)
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
+    -   Lumen's Folklore: Volume 'Attunement'
+    -   Lumen's Folklore: Volume 'North'
 -   [Ministry Field Report](Ministry_Field_Report.md)
 -   [Munet Journal](Munet_Journal.md)
+    -   Munet Journal, XIV
 -   [My Warm Blood](My_Warm_Blood.md)
 -   [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md)
 -   [O Pardoner of Mine](O_Pardoner_of_Mine.md)
@@ -69,6 +73,7 @@ Currently there are 33 books and book collections:
 -   [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
 -   [Strange Missives](Strange_Missives.md)
 -   [Studies on Canticlysm](Studies_on_Canticlysm.md)
+    -   Studies on Canticlysm, Vol. IV
 -   [Tale of the Storm](Tale_of_the_Storm.md)
 -   [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 

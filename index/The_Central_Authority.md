@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 172906
+revid: 174260
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -10,6 +10,8 @@ categories: [Factions, The Central Authority]
 
 | The Central Authority | |
 |---|---|
+| leader | Drallis Ehr |
+| subunits | Bureau of Research |
 | territory | Central Luminant, Fort Merit, Port Merit, Merit's Reach |
 | goals | Conquest of all Luminants, Destruction of the Ministry and its agents. |
 

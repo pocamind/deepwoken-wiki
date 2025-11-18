@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 171203
+revid: 174277
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-It has a purple-ish wood-like appearance, with blue-ish foliage around its legs, resembling wires. It also sports a Hive logo made of wood on its torso. It is powered by the Lifeweaving technology of the Hive but is seemingly rogue for unknown reasons, it going rogue has caused the rings around its arms to glow red instead of green. The rogue mech can only spawn on [Minityrsa](Minityrsa.md). Deals high damage, enough to eradicate a good chunk of most player's health in one hit. It cannot climb, but does walk very fast, so if you're unlucky enough to encounter it, it is recommended to run away. It can be tipped over, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape. They respawn every 15 minutes on [Minityrsa](Minityrsa.md).
+It has a purple-ish wood-like appearance, with blue-ish foliage around its legs, resembling wires. It also sports a Hive logo made of wood on its torso. It is powered by the Lifeweaving technology of the Hive but is rogue due to a [Ministry](The_Ministry.md) virus. It going rogue has caused the rings around its arms to glow red instead of green. The rogue mech can only spawn on [Minityrsa](Minityrsa.md). Deals high damage, enough to eradicate a good chunk of most player's health in one hit. It cannot climb, but does walk very fast, so if you're unlucky enough to encounter it, it is recommended to run away. It can be tipped over, so if you have [Grand Javelin](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras) or [Wind Gun](https://deepwoken.fandom.com/wiki/Thundercall#Combat_Mantras), you can use them to stun it to aid your escape. They respawn every 15 minutes on [Minityrsa](Minityrsa.md).
 
 ## Spawn Locations
 

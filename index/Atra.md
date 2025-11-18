@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 173955
+revid: 174269
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -17,7 +17,7 @@ categories: [Khan NPCs, NPCs, The Hundred Legions, Quests, NPCs located in the E
 
 ## Description
 
-Atra is a NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion, she stays with her group composed of [Caitus](Caitus.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md). She gives you the 'Legion Scout' [quest](Quests.md), urging you to find [Lars](Lars.md), another scout of the 11th Legion.
+Atra is a NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. She stays with her group composed of [Caitus](Caitus.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md). She gives you the 'Legion Scout' [quest](Quests.md), urging you to find [Lars](Lars.md), another scout of the 11th Legion.
 
 ## Location
 
@@ -25,11 +25,11 @@ Atra is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Jaw
 
 ## Quest Details
 
-Completing his quest rewards you with EXP, positive [The Hundred Legions](The_Hundred_Legions.md) reputation, and Compassion.
+Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hundred_Legions.md) reputation, and Compassion.
 
-1.  To start his quest you'll have to just finish his dialogue, where he will ask you to find Lars.
+1.  To start her quest you'll have to just finish her dialogue, where she will ask you to find Lars.
 2.  Lars is located in the bluecap library, where you'll find his dead body in a corner inbetween some bookshelves.
-3.  You'll have to then return to Atra to tell him about your findings, then you will be rewarded.
+3.  You'll have to then return to Atra to tell her about your findings, then you will be rewarded.
 
 ## Dialogues
 

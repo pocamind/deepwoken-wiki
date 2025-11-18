@@ -1,6 +1,6 @@
 ---
 title: Gaius
-revid: 173956
+revid: 174267
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -17,7 +17,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 
 ## Description
 
-Gaius is a NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion, he's staying with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Caitus](Caitus.md) and [Amara](Amara.md) and rants about how he has the most potential in all of the [Legion](The_Hundred_Legions.md) and shouldn't be stationed in the Etrean Luminant.
+Gaius is a NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. He's staying with his group composed of [Atra](Atra.md), [Lars](Lars.md), [Caitus](Caitus.md) and [Amara](Amara.md) and rants about how he has the most potential in all of the [Legion](The_Hundred_Legions.md) and shouldn't be stationed in the Etrean Luminant.
 
 ## Location
 

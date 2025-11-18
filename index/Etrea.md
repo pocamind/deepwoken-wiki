@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 173707
+revid: 174265
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Factions, Etrea]
@@ -12,7 +12,7 @@ notices:
 
 | Etrea | |
 |---|---|
-| leader | King (formerly), Rolen Vashtir |
+| leader | King (formerly), Rolen Vashtir, Acting regents, Lord Guardians, The Lord Regent |
 | territory | EtrisIsle of Vigils |
 | goals | Survival, Collecting artifacts and the Forge of Sin, Defeat The Central Authority |
 
@@ -30,7 +30,7 @@ Being the largest land ruling faction in the Etrean [Luminant](Luminants.md), th
 
 The kingdom has faced much hardship over the years. [The Central Authority](The_Central_Authority.md) has deemed them their next target for conquest, and they are far better armed and equipped than the Etrean people. Meanwhile, the Lord Regent is actually a [Contractor](Oath%253A_Contractor.md) and Ministry Prophet, essentially making them a puppet state for [the Ministry](The_Ministry.md), which has since only bolstered the Authority's resolve to destroy them.
 
-The soldiers in Etris are purely [Etrean](Etrean.md), with the [Mantra Collector](Mantra_Collector.md) sitting at the bottom near the docks being a [Canor](Canor.md). If you go up to Schnitzel and talk to them, you will be given the normal dialogue options, as well as a third, "Why aren't you up in town?" Upon asking this question, Schnitzel will say "Canor no allowed to buy in town, new leader very strange." While many take this to mean they are racist, the Etreans welcomed three [Adrets](Adret.md) into their capital, two of whom were [Divers](The_Divers.md), as well as a [Vesperian](Vesperian.md), implying there was a different reason for Schnitzel's banishment that is currently unknown.
+The soldiers in Etris are purely [Etrean](Etrean.md), with the [Mantra Collector](Mantra_Collector.md) sitting at the bottom near the docks being a [Canor](Canor.md). If you go up to Schnitzel and talk to them, you will be given the normal dialogue options, as well as a third, "Why aren't you up in town?" Upon asking this question, Schnitzel will say "Canor no allowed to buy in town, new leader very strange." While many take this to mean they are racist, the Etreans welcomed three [Adret](Adret.md) into their capital, two of whom were [Divers](The_Divers.md), as well as a [Vesperian](Vesperian.md), implying there was a different reason for Schnitzel's banishment that is currently unknown.
 
 ## Reputation
 
