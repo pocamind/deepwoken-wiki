@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 172235
+revid: 174229
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -50,7 +50,7 @@ Brings up the dialogue, "Hollow... empty..." Makes the death of mobs not give he
 
 ### Timebomb
 
-If during the waves, the text "Tick tick tick..." appears, white orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs.
+If during the waves, the text "Tick tick tick..." appears, white orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs. These bombs also may start spawning if you spend too long on one wave.
 
 ### Ghostly Reminiscence
 
