@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 173902
+revid: 174173
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -96,7 +96,6 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  | Titus firmly grabs his opponent, spins around, and sends them flying.
 
 -   Almost always leads to Warp Kick if Titus lands this move.
--   This attack will autogrip when the player is low.
 
  | 
 
@@ -496,16 +495,17 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   Titus' middle and last names, "Fulminus Destellus" means "Starlight Lightning" in Latin, mirroring the origins of where he earned his name.
 -   Titus was rumored to surrender to the Authority on purpose by high command in order to gain intel and break out.\[citation needed\]
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
--   When combat tagged by him his real name is shown as Franky Strabes. (This was a place-holder name, confirmed by Dexerius.)
+-   The placeholder name "Franky Strabes" will appear on Titus' combat tag.
 -   The theme that plays during his fight is called [Chainbreaker](https://www.youtube.com/watch?v=Q6b3_Uu-PkU).
--   It is implied that Titus is both a [Galebreather](Galebreathe.md) and [Thundercaller](Thundercall.md) due to the variant of his Chorus Divide being galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with thundercall only makes him stronger.
--   Strangely enough, unlike other bosses Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md).
-    -   This is because Titus is not 'officially' registered as a boss, which means he does not uncap any stats either.
+-   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.
+-   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md).
+    -   This is because Titus does not actually die nor despawn when you defeat him most of the time. If you do manage to autogrip him however, he will appropriately grant these rewards.
+-   Titus second phase can be bypassed when the player uses [Poser's Ring](<Poser's_Ring.md>) (if quick enough) or the [Moppet](Moppet.md) weapon. When this happens, a loot chest will drop and Titus' health will fall to zero. He will then enter his second phase animation and his health will return, but he will stay completely docile and will not attack the player. Killing him again will not give any extra loot.
 
 ## References
 
-1.  [↑](#cite-ref-1) High Inquisitor Merey: "He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods."
+1.  [↑](#cite-ref-1) [High Inquisitor Merey](High_Inquisitor_Merey.md): "He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods."
 2.  [↑](#cite-ref-2) [Sentinel Augustus](Sentinel_Augustus.md): "He'd catch us in ambushes, set traps for us, and always be three steps ahead of us. When outnumbered, he would often survive just through sheer strength and discipline. I couldn't stand it."
-3.  [↑](#cite-ref-3) Sentinel Augustus: "But... Something was off, when we fought in Aratel. I can't put my finger on it. It felt like he wasn't giving it his all."
+3.  [↑](#cite-ref-3) [Sentinel Augustus](Sentinel_Augustus.md): "But... Something was off, when we fought in Aratel. I can't put my finger on it. It felt like he wasn't giving it his all."
 4.  [↑](#cite-ref-4) [Caitus](Caitus.md): "Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit.
-5.  [↑](#cite-ref-5) Caitus: "He was supposed to retire after his final few missions, including this one... Guess he's thrown that straight into the sea."
+5.  [↑](#cite-ref-5) [Caitus](Caitus.md): "He was supposed to retire after his final few missions, including this one... Guess he's thrown that straight into the sea."

@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 174149
+revid: 174150
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame]
@@ -138,16 +138,22 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="3">Oh, my lord... What a state...<br>
-  <b>[Didn't meet requirements and sets you on fire]</b></td>
-  <td colspan="3">Though.. If you really are <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>... Then you should have no trouble putting this old servant out of their long service.<br>
-  <b>[Did meet requirements, starting a fight with Aska]</b></td>
-  <td colspan="3">Our fates, finally crossing once more... And mine, coming to an end...<br>
-  <b>[Did meet requirements with the Destined echo modifier, sets you on fire but lets you survive and grant the weapon]</b></td>
+  <td colspan="3">[Requirements Met, <a href="Echoes.md#upgrades-unlocks-and-modifiers">Destined</a> Echo Modifier]</td>
+  <td colspan="3">[Requirements Met, no <a href="Echoes.md#upgrades-unlocks-and-modifiers">Destined</a>]</td>
+  <td colspan="3">[Requirements Unmet]</td>
 </tr>
 <tr>
-  <td colspan="3"></td>
-  <td colspan="12">End</td>
+  <td colspan="6"></td>
+  <td colspan="3">Our fates, finally crossing once more... And mine, coming to an end...</td>
+  <td colspan="3">Though.. If you really are <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>... Then you should have no trouble putting this old servant out of their long service.</td>
+  <td colspan="3">Oh, my lord... What a state...</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="3">End, you start to build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> but are spared before your demise.<br>
+  You are given <a href="Pleeksty's_Inferno.md">Pleeksty's Inferno</a></td>
+  <td colspan="3">End, the fight starts</td>
+  <td colspan="3">End, you build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> and <b>die, wiping you</b></td>
 </tr>
 </tbody>
 </table>

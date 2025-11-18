@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 168727
+revid: 174178
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -25,7 +25,7 @@ Ingredients are scattered throughout Deepwoken. Where it is in the wilderness, i
 
 ### Harvestables
 
-Raw materials harvested from the environment.
+Raw materials harvested from the environment (dependent on the season).
 
 #### Mushrooms
 

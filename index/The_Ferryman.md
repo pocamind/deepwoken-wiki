@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 171629
+revid: 174159
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses, Voiced Characters]
@@ -38,8 +38,8 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 ## Moves
 
-| Name | Description | Media |
-| --- | --- | --- |
+| Name | Description |
+| --- | --- |
 | 
 **Displacement**  
 (☆☆☆)
@@ -50,7 +50,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   He cannot teleport close to you, and if he does so, he will teleport again.
 -   In Phase 2, this will be accompanied by a small pulse akin to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulsion move.
 
- |  |
+ |
 | 
 
 **Lightning Clones**  
@@ -63,7 +63,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   He grants an attack opportunity whilst summoning his clones, but there is no ending attack opportunity afterward. This attack opportunity duration is shared with Grand Volley.
 -   Killing the clones while having the [Grand Feast](Talents.md#apex-predator) Talent will replenish health, Ether and Tempo.
 
- |  |
+ |
 | 
 
 **Lightning Strike**  
@@ -76,7 +76,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
 -   Due to the attack being faster in the second phase, a much "longer" attack opportunity will be given afterward.
 
- |  |
+ |
 | 
 
 **Lightning Assault**  
@@ -91,7 +91,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   The Ferryman has auto-parry frames during this attack, nullifying any hits that may be about to hit him while executing Lightning Assault.
 -   Parrying any of these hits after two parries of the Ferryman's attacks in quick succession, including via. previous failed instances of this attack, will grant an attack opportunity. Otherwise, gives no attack opportunity.
 
- |  |
+ |
 | 
 
 **Grand Volley**  
@@ -106,7 +106,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   In a similar manner to his Lightning Assault attack, the Ferryman will give a (although much briefer) attack opportunity should any of these javelins be parried following _four_ successful parries—this requires this attack to be chained more than once, an intentionally failed Lightning Assault for one to two recent parries, or multiple players parrying at once. Otherwise, gives no attack opportunity.
 -   Can be ragdoll-cancelled.
 
- |  |
+ |
 | 
 
 **Vent**
@@ -115,7 +115,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 -   He always vents when an attack would daze him.
 
- |  |
+ |
 
 ### Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 173858
+revid: 174200
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -135,7 +135,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
-  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). 14 second cooldown.</p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b><p></p>
+  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). 14 second cooldown.</p>
+  <p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p>Chilling stacks can also be applied from critical attacks if they have the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Chill for foes. Applies Bottom Freeze once enough stacks have been applied.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -220,7 +221,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
-  <p>On hit inflict <a href="Status_Effects.md#tethered">Tethered</a>, causing a pink string connecting the weapon and your target to appear, pulling the target towards you (doesn't work with bullets).</p>
+  <p></p>
+  <p>On M1, inflict <a href="Status_Effects.md#tethered">Tethered</a>, causing a pink string connecting the weapon and your target to appear, pulling the target towards you.</p>This doesn't proc on bullets, but does proc on criticals with the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Opponents are pulled towards you on hit.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -279,8 +281,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p></p>
   <p><br>
   After hitting the target up to (LHT: 5, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  The target is afflicted with <a href="Status_Effects.md#grim">Grim</a> for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.</p><br>
-  Instead of making those affected take more damage, it buffs the damage of the person attacking them, meaning grim <b>is</b> affected by the damage modifier cap.<p></p>
+  The target is afflicted with <a href="Status_Effects.md#grim">Grim</a> for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
+  Instead of making those affected take more damage, it buffs the damage of the person attacking them, meaning grim <b>is</b> affected by the damage modifier cap.</p>Grim stacks can also be gained from critical attacks that have the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%.</i></p>
   <p><strong>Obtainement:</strong></p>
@@ -308,7 +310,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Harrowing<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a>, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, which hides how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.</p>This effect lasts for 12 seconds and is refreshed upon landing another hit.<p></p>
+  <p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a> on M1, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, which hides how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.</p>
+  <p>This effect lasts for 12 seconds and is refreshed upon landing another hit.</p>Harrowing also procs on criticals with the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Obscures your opponent's health, posture, and armor bars.</i></p>
   <p><strong>Obtainment:</strong></p>

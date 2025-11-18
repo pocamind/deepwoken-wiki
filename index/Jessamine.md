@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 174013
+revid: 174175
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -81,8 +81,8 @@ Jessamine is located underneath some ruins. He is near the Legion Camp that is j
   <td colspan="4">Friend, I've been waiting for the opportunity to see you again!</td>
 </tr>
 <tr>
-  <td colspan="2">Player has killed a King Thresher</td>
   <td colspan="2">Player has not killed a King Thresher</td>
+  <td colspan="2">Player has killed a King Thresher</td>
 </tr>
 <tr>
   <td colspan="2">The pleasure is mine.</td>

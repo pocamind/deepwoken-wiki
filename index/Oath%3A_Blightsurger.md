@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 173922
+revid: 174195
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -101,7 +101,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
     -   Sovereign State does not automatically activate at 100% Blight Meter
     -   The Blight Meter gain has no cooldown, and never decays. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   There is a 10 second cooldown on activating Sovereign State, started once it ends.
-    -   The Sovereign State lasts 12.5 seconds if activated at full Blight Meter.
+    -   The Sovereign State lasts 23.5 seconds if activated at full Blight Meter.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated once active.
         -   This keybind can be changed in settings.
     -   Skycrash activates a second time when landed while in this state.
@@ -131,6 +131,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 -   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
     -   Deals 35 Blunt & Oath damage, the followup strike deals 20 Blunt & Oath damage. Both hits have 1.65 Strength scaling.
     -   Ragdolls and applies Daze on hit.
+    -   During the leap, you will have hyperarmor for 1 second.
     -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
 
 -   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.

@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 174058
+revid: 174191
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -25,7 +25,9 @@ categories: [Resonances]
 
 **Pressing C will activate the "Shard Bow" Resonance. User summons a shimmering-white bow and kicks off of the floor, firing explosive arrow(s) at the cursor from midair.**
 
-If Shard Bow is corrupted, on hit, your Shard Bow will deal an additional 5 posture damage and apply White Flames to your opponent. The White Flames are like base Burn, but they tick 25% faster than base burn (3 ticks per second compared to 2.4) at the cost of having slightly lower base damage per tick (3.21 compared to 3.33). White Flames benefits from all of your Flamecharm Talents that augment the Burn status effect. Additionally, the Corrupt variant of this Resonance appears to make you jump further back and higher up. Corrupted Shard Bow always makes you burn when you use it.
+If Shard Bow is corrupted, your Shard Bow will deal an additional 5 posture damage and apply White Flames to your opponent. The White Flames are like base Burn, but they tick 25% faster than base burn (3 ticks per second compared to 2.4) at the cost of having slightly lower base damage per tick (3.21 compared to 3.33). White Flames benefits from all of your Flamecharm Talents that augment the Burn status effect. Additionally, the Corrupt variant of this Resonance appears to make you jump further back and higher up.
+
+Corrupt Shard Bow will always have the self burn downside, applying white burn to the caster on use.
 
 ### _Resonance Point Usage_
 
@@ -37,17 +39,16 @@ When obtained, Shard Bow will spend its points on the following stats:
 
 #### _**Variants**_
 
--   **Variant 1** allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. The damage can vary depending on the user's and their opponents stats. It does 70 base damage. does 15 posture damage (20 corrupted)
+-   **Variant 1** allows the user to leap backward into the air, before firing a single explosive arrow at their cursor. The damage can vary depending on the user's and their opponents stats. It has a base damage of 70 with 15 posture damage (20 posture damage if Corrupted).
 
--   **Variant 2** allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. It does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed. does 7.5 posture damage per shot (10 if corrupted)_
-
-_**It is affected by “Wyvern’s Claw” which gives 10% damage while airborne, greatly increasing the damage.**_
+-   **Variant 2** allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. It deals 46.75 damage per shot with 7.5 posture damage per shot (10 posture damage per if Corrupted).
 
 ## Trivia
 
 -   White Burn has a DPS of 9.6 at 0 Flamecharm, and a DPS of 14.4 at 100 Flamecharm.
-    -   With [Azure Flames](Talents.md#flamecharmer), you can bring this up to 10.8 to 16.25 DPS depending on your Flamecharm investment.
+    -   With [Azure Flames](Talents.md#azure-flames), you can bring this up to 10.8 to 16.25 DPS depending on your Flamecharm investment.
     -   [Deepfire Ring](Deepfire_Ring.md) does not affect White burn.
+-   Shard Bow can be buffed with [Wyvern's Claw](Talents.md#wyverns-claw), greatly increasing its damage.
 -   Both variants of Shard Bow do typeless damage, bypassing **armor** resistances. Shard Bow does **not** deal true damage.
 -   Reference to _The Stormlight Archive'_s Grandbows.
 -   The self burn Corrupt Resonance downside is exclusive to Shard Bow.

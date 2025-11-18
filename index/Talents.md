@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174122
+revid: 174209
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -725,8 +725,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Down to your Level \[Common Talent\] - While you have a speed debuff, your Basic Attacks slow your enemies for 5s.
     -   Down to your Level's duration will be reduced by 0.05s for every point in Fortitude below 60, capping at a minimum of 3.75s with 35 Fortitude.
+    -   The slow only procs on M1s and criticals with the M1 tag.
     -   Procs from Entaglement, Daze, Chill and most other things that slow you down.
-    -   Does not proc from Grand Fisher Plate or Wormwarder Lantern despite them reducing your movement speed.
+    -   Does not proc from [Grand Fisher Plate](Grand_Fisher_Plate.md) or [Wormwarder Lantern](Wormwarder_Lantern.md) despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
 -   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 15s.
@@ -1151,10 +1152,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
-    -   5 second cooldown per enemy,
-    -   The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
+    -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   The second slash has no PEN.
-    -   Can proc from some physical Mantras.
+    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
     -   Prerequisites: 20 Strength, 25 Agility
 
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
@@ -1640,6 +1640,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
     -   Does not work on allies.
     -   Does not affect healthpacks.
+    -   Also procs on criticals with the M1 tag.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
 -   _**All Above, Gods Below**_ \[Advanced Talent, Willpower Exclusive\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you. (+20 Sanity)
@@ -1903,6 +1904,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Inquisitive Lethality
 
 -   **Backstabber** \[Faction Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
+    -   This Talent does not have a range limit.
+    -   Applies daze and ragdolls.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, 30 Agility
 
 -   **Executioner's Frenzy** \[Faction Exclusive\] - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
@@ -1912,9 +1916,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
     -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
         -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
+        -   [Felinor](Felinor.md)'s stealth gain multiplier does not apply to this Talent's damage buff.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-        -   The maximum Stealth you can gain from Equipment is 80% (+16% damage).
+        -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
         -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
@@ -2347,10 +2352,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### [Murmur](Murmur.md)
 
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
-    -   Increase outgoing M1 posture damage by 20% and reduce incoming posture damage by 15%.
-    -   Gain a +15% damage modifier when posture breaking with an M1.
+    -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
+    -   Gain a +15% damage modifier when posture breaking with an M1 or critical with the M1 tag.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
-    -   Deactivated when having 0% ether, or upon using Ardour Scream.
+    -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Ardour's activation keybind can be configured in settings.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
@@ -2406,10 +2411,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
-    -   Only procs on M1s with the exceptions of a few weapons.
-        -   Can proc on [Wraithclaw](Wraithclaw.md)'s and [Legion Kata](Legion_Kata.md)'s criticals due to them being classified as Basic Attacks, with Wraithclaw's neutral critical proccing it almost instantly due to being a multihit.
+    -   Only procs on M1s and criticals with the M1 tag.
+        -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
     -   This Talent also **works** with [Jus Karita](Jus_Karita.md), but won't come out on your Talent hands unless you have any **Fist Style** equipped.
-    -   Prerequisites: Any [Fist Style](Fists.md#styles), 20 Fortitude, 20 Light Weapon
+    -   Prerequisites: Any [fist style](Fists.md), 20 Fortitude, 20 Light Weapon
     -   Mutual Exclusive: Orbital Ice
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
@@ -2427,6 +2432,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.
     -   While active, also grants +25% chip damage.
+    -   Also applies to criticals with the M1 tag.
     -   Prerequisites: Using Rapier, 40 Light Weapon
 
 ### Nimble Blade
@@ -3030,7 +3036,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Silencer
 
 -   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] - Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
-    -   Landing M1 attacks on suffocated targets apply a new stack of suffocation that lasts 5 seconds.
+    -   Landing M1 attacks or criticals with the M1 tag on suffocated targets applies a new stack of suffocation that lasts 5 seconds.
     -   Grants an ~22.5% speed boost for 3 seconds.
     -   [Bleed](Status_Effects.md#bleed) damage can proc this effect.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
@@ -3160,12 +3166,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
     -   To progress the Oath, make a deal with any with any [deep shrine](Deep_Shrines.md) that costs Knowledge.
 
--   (OATH) Ardour \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
+-   (OATH) Murmur: Ardour \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
     -   Has a unique visual compared to base Ardour, your weapon crackling with purple and black lightning.
-    -   Increase outgoing M1 posture damage by 20% and reduce incoming posture damage by 15%.
-    -   Gain a +15% damage modifier when posture breaking with an M1.
+    -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
+    -   Gain a +15% damage modifier when posture breaking with an M1 or critical with the M1 tag.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
-    -   Deactivated when having 0% ether, or upon using Ardour Scream.
+    -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Ardour's activation keybind can be configured in settings.
     -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
 
@@ -3186,7 +3192,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Reaper](Blood_Scourge.md).
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
--   (OATH) Tacet \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
+-   (OATH) Murmur: Tacet \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
     -   Tacet's activation keybind can be configured in settings.
     -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
     -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have. However, it's bugged where if you go above 100% Stealth, the bubble gets larger.
@@ -3205,7 +3211,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Outside of Tacet's innate cooldown, the speed boost for activating it has no cooldown.
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
--   (OATH) Rhythm \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
+-   (OATH) Murmur: Rhythm \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPCs, and players, through walls while gray-scaling your screen.
     -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
@@ -3389,6 +3395,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Punishing Blow_ \[Rare Talent\] - \[Heavy Weapons\] Daze opponents for 1s when you interrupt their Basic Attack with your own.
     -   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
+    -   Also procs if you land a critical with the M1 tag during their M1 animation.
     -   Prerequisite: 20 Heavy Weapon
 
 -   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
@@ -3398,7 +3405,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 20 Intelligence
 
 -   Water off a Duck's Back \[Common Talent\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
-    -   Transfer ANY elemental status effects (Suffocation, Winded, Chill, Shock) and potion effects to your enemy.
+    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
     -   Prerequisite: 50 Intelligence
 
 ### Tamed Flame
@@ -4162,9 +4169,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks have 10% additional penetration.
-    -   Gives [Way of Navae](Way_of_Navae.md) basic attacks 10% more PEN. This does **NOT** apply to criticals.
-    -   This bypasses the PEN cap.
-    -   [Wraithclaw](Wraithclaw.md)'s criticals are classified as Basic Attacks, making them the only fist style criticals to benefit from this Talent's PEN bonus.
+    -   Gives [Way of Navae](Way_of_Navae.md) M1s 10% more PEN. This does **NOT** apply to criticals unless it has the M1 tag.
+    -   This bypasses the 50% PEN cap.
 
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.

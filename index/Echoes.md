@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 174005
+revid: 174184
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -63,97 +63,110 @@ Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in
 
  | E | 0-29 |
 
-### Ways of Obtaining Echoes
+### Echo Triumphs
 
 Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of Echoes, and with a small number of exceptions, each Triumph can only be achieved once.
+
+Any item stored within your [bank](Item_Bank.md) will not count for its respective Echo Triumph. For example, you cannot store an [Enchant Stone](Enchant_Stone.md) and use that to complete the "Enchant an item" or "Soulbound an item" tasks.
 
 | 
  | Echo Reward | Task/Requirement |
 | --- | --- | --- |
 | 
 
- | 1 | Crafting a [Food](Food.md) item. |
+ | 1 | Craft a [Food](Food.md) item. |
 | 
 
- | 1 | Catching a [Fish](Fishing.md) (or anything using a [Fishing Rod](Fishing_Rod.md)). |
+ | 1 | Catch a [Fish](Fishing.md).  
+Catching anything with a [Fishing Rod](Fishing_Rod.md) counts.  
+ |
 | 
 
- | 1 | Modifying a [Mantra](Mantras.md). |
+ | 1 | Modify a [Mantra](Mantras.md). |
 | 
 
- | 1 | Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md). (except for pure iron) |
+ | 1 | Turn in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md).  
+[Pure Iron](Ores.md#iron) does not count. |
 | 
 
- | 1 | Winning [Chime of Conflict](Chime_of_Conflict.md) match. |
+ | 1 | Win a [Chime of Conflict](Chime_of_Conflict.md) match. |
 | 
 
- | 2 | Drinking an [Attribute Flask](Ingredients.md#lotuses) (NOT an [Attunement Potion](Attunement_Potions.md)). |
+ | 2 | Drink an [Attribute Flask](Ingredients.md#lotuses).  
+[Attunement Potions](Attunement_Potions.md) do not count. |
 | 
 
- | 2 | Crafting a [Master Armor](Outfits.md). |
+ | 2 | Craft a [Master Armor](Outfits.md). |
 | 
 
- | 2 | Using a [Deep Shrine](Deep_Shrines.md). |
+ | 2 | Use a [Deep Shrine](Deep_Shrines.md). |
 | 
 
- | 2 | Making a deal with [Misérables](Misérables.md). |
+ | 2 | Make a deal with [Misérables](Misérables.md). |
 | 
 
- | 2 | Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (e.g., rerolling [Resonance](Resonance.md)). ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts.) |
+ | 2 | Bargain with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).  
+E.g. rerolling [Resonance](Resonance.md). Also the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this Triumph. |
 | 
 
- | 5 | Unbounding an [Attribute](Attributes.md). |
+ | 5 | Unbound an [Attribute](Attributes.md). |
 | 
 
- | 5 | Obtaining an [Oath](Oaths.md). |
+ | 5 | Obtain an [Oath](Oaths.md). |
 | 
 
- | 5 | Soul-bounding an [enchanted](Enchantments.md) or legendary item (e.g., [Hero Blade of Frost](<Hero's_Blade_of_Frost.md>), [Crypt Blade](Crypt_Blade.md)). |
+ | 5 | Soul-bound an [enchanted](Enchantments.md) or legendary item. |
 | 
 
- | 5 | Enchanting an Item with an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) (Do not use it on an enchanted weapon). |
+ | 5 | Enchant an Item with an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md).  
+Do not use these items on an already enchanted item. |
 | 
 
- | 5 | Obtaining an enchant from [Laplace](Laplace.md). |
+ | 5 | Obtain an enchant from [Laplace](Laplace.md). |
 | 
 
- | 5 | Using [Pluripotent Alloy](Pluripotent_Alloy.md) (requires 75 weapon requirement for most weapons). |
+ | 5 | Clear a [World Event](World_Events.md).  
+Defeat [Interluminary Parasol](Interluminary_Parasol.md) OR [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR complete the [Carnival of Hearts](Carnival_of_Hearts.md). |
 | 
 
- | 5 | Obtaining a [Murmur](Murmur.md). |
+ | 5 | Use a [Pluripotent Alloy](Pluripotent_Alloy.md) to alloy a weapon.  
+Most alloyed weapons have a 75 weapon requirement. |
 | 
 
- | 5 | Defeating [Dread Serpent](Dread_Serpent.md) OR [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)[\[1\]](#cite-note-1) |
+ | 5 | Obtain a [Murmur](Murmur.md). |
 | 
 
- | 5 | Defeating [Duke Erisia](Duke_Ishamon_Erisia.md) |
+ | 5 | Defeat the [Dread Serpent](Dread_Serpent.md) OR the [Doom of Caeranthil](The_Doom_of_Caeranthil.md). |
 | 
 
- | 5 | Defeating [The Ferryman](The_Ferryman.md) |
+ | 5 | Defeat [Duke Erisia](Duke_Ishamon_Erisia.md). |
 | 
 
- | 5 | Defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) |
+ | 5 | Defeat [The Ferryman](The_Ferryman.md). |
 | 
 
- | 5 | Defeating [Primadon](Primadon,_Titan_of_the_East.md) OR [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md)[\[2\]](#cite-note-2) |
+ | 5 | Defeat [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md). |
 | 
 
- | 5 | Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md). |
+ | 5 | Defeat [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) OR [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md). |
 | 
 
- | 10 | Defeating [Scion of Ethiron](Scion_of_Ethiron.md). |
+ | 10 | Defeat the [Scion of Ethiron](Scion_of_Ethiron.md). |
 | 
 
- | 10 | Completing [Hell Mode](Hell_Mode.md). |
+ | 10 | Complete [Hell Mode](Hell_Mode.md). |
 | 
 
- | 10 | Completing [Layer 2](Second_Layer.md) floor 1 without [Light Hook](Light_Hook.md). |
+ | 10 | Complete [Layer 2](Second_Layer.md) floor 1 without a [Light Hook](Light_Hook.md).  
+You will need to leave through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)'s escape portal for this to count. |
 | 
 
- | 15 | Gaining 20 [Power](Power.md) (every Power level up will award you with 0.75 Echoes, being 15 at 20 Power level) |
+ | 15 | [Power](Power.md) up.  
+Every Power level up will award you with 0.75 Echoes, totaling to 15 Echoes at Power 20 |
 | 
 
- | 15 | Obtaining a [Resonance](Resonance.md). (You must CHOOSE it. If you reroll in Fragments of Self, it resets the task, even if you had one before.) |
+ | 15 | Obtain a [Resonance](Resonance.md).  
+You must CHOOSE it. If you reroll in [Fragments of Self](Fragments_of_Self.md), it resets the task, even if you had one before. |
 
 ## Upgrades, Unlocks, and Modifiers
 
@@ -470,7 +483,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   [Starvation](Status_Effects.md#parchedstarved)
 -   Loose Change does not make you lose Notes when you take damage from any source like the description implies, instead only attacks from humanoids reduce your Notes, though it can be inconsistent at times.
 -   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
--   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[3\]](#cite-note-3) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
+-   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), and [Parliament](Parliament.md) do not reward Echoes.
     -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
@@ -491,6 +504,4 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## References
 
-1.  [↑](#cite-ref-1) Defeating [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) will also count for defeating the [Dread Serpent](Dread_Serpent.md), granting 5 Echoes. Killing both does not grant extra Echoes.
-2.  [↑](#cite-ref-2) Defeating [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) will also count for defeating the [Primadon](Primadon,_Titan_of_the_East.md), granting 5 Echoes. Killing both does not grant extra Echoes.
-3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)

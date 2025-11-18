@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 173667
+revid: 174207
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -283,6 +283,9 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 #### Inquisition Division Talents
 
 -   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
+    -   This Talent does not have a range limit.
+    -   Applies daze and ragdolls.
     -   Prerequisite: 30 Agility
 -   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 -   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
@@ -291,7 +294,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
         -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-        -   The maximum Stealth you can gain from Equipment is 80% (+16% damage).
+        -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
         -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 -   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.

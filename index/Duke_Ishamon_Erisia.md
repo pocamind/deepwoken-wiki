@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 174148
+revid: 174158
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -65,6 +65,17 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  |
 | 
 
+**Feint**  
+(★★☆)
+
+ | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
+
+-   Essentially an average Legion Kata feint.
+-   Duke Erisia will **only** feint his "Assault".
+
+ |
+| 
+
 **Shields of Erisia**  
 (★★☆)
 
@@ -74,16 +85,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   No range limit, damage is always induced if the counter is hit.
 -   Can deflect [Providence's Thorns](<Providence's_Thorns.md>).
 -   Only used once the posture shield is down. (Phase 2).
-
- |
-| 
-
-**Feint**  
-(★★☆)
-
- | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
-
--   Essentially an average Legion Kata feint.
 
  |
 | 
@@ -98,7 +99,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Projectiles have good tracking but have a limited turn angle, possibly delaying the hit if it orbits around you.
 -   If evaded for long enough and then you get hit by them, the Duke will not teleport nor deal any damage.
 -   Block breaking duke while he is rising into the air cancels it.
--   Auto-grips if knocked or low health.
 
  |
 | 
@@ -109,7 +109,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Duke Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
--   Auto-grips if knocked or low health.
 
  |
 | 
@@ -120,7 +119,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Duke Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
--   Auto-grips if knocked or low health.
 
  |
 | 
@@ -132,7 +130,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   This attack is very rare.
 -   Covers a large Area of Effect.
--   Auto-grips if knocked or low health.
 -   More often to happen if Duke takes major damage quickly.
 
  |

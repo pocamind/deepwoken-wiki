@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 173266
+revid: 174165
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -48,7 +48,6 @@ _For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)
  | Swipes two times in quick succession
 
 -   Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe.
--   If the opponent is low enough, It will **AUTO-GRIP** the player.
 
  |
 | 

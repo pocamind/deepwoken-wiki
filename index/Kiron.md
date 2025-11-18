@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 173521
+revid: 174154
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Aspects]
 
 Template:Races-Main
 
-"_Once Isolated in the subterranean caverns that straddle the boundary, the bat-like Kirons are perceptive and shrewd spelunkers..._"
+"_Once isolated in the subterranean caverns that straddle the boundary, the bat-like Kirons are perceptive and shrewd spelunkers..._"
 
 Chance of obtaining aspect: **4%**
 

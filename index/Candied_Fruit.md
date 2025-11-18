@@ -1,6 +1,6 @@
 ---
 title: Candied Fruit
-revid: 172011
+revid: 174164
 source: https://deepwoken.fandom.com/wiki/Candied_Fruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food]

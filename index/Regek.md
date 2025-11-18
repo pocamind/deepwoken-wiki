@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 168038
+revid: 174194
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -17,7 +17,7 @@ categories: [Vesperian NPCs, Attunement Trainers, NPCs, The Hive, NPCs located i
 
 ## Description
 
-Regek is an [Vesperian](Vesperian.md) NPC who acts as [Attunement-less](Attunement-less.md) trainer. They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md).
+Regek is a [Vesperian](Vesperian.md) NPC, who acts as [Attunement-less](Attunement-less.md) trainer. They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md).
 
 In order for the player to upgrade their mantras they must first complete quest given by Regek in which you need to collect sap from 3 Soulblooms (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)
 
@@ -161,3 +161,8 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 ## Trivia
 
 -   They also tell you some lore about [The Hive](The_Hive.md).
+-   Regek along with [Nostor](Nostor,_Master_of_Shadow.md), are non-binary.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)
