@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 174207
+revid: 174348
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -52,7 +52,7 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 
 ### Traitor
 
-Upon killing another Authority Ensign member of equal or higher rank, you will be marked as a traitor, exiling you from the Central Authority. This includes kills other non-overworld locations.
+Upon killing another Authority Ensign member of equal or higher rank, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in other non-overworld locations.
 
 Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor. You cannot be marked as a traitor if your Division is maxed.
 

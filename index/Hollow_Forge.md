@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 151680
+revid: 174347
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,3 +28,37 @@ The Hollow Forge has the following recipes
 -   9 Pluripotent Alloy -> 1 Armorer's Needle
 -   3 Smith's Alloy -> 1 Armorer's Needle
 -   1 Armorer's Needle -> 3 Smith's Alloy
+
+## Dialogue
+
+**Usage:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">[Forge] 3 Pluripotent Alloy → 1 Smith's Alloy</td>
+  <td colspan="2">[Forge] 9x Pluripotent Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 3 Smith's Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 1 Armorer's Needle → 3 Smith's Alloy</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*You work the forge, suffocating heat washing over you.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">[Return to the Forge]</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">[See first instance]</td>
+</tr>
+</tbody>
+</table>
