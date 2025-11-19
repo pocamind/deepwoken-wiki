@@ -1,9 +1,9 @@
 ---
 title: Celtorian Tideknight
-revid: 174167
+revid: 174370
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Unique Outfits, Lost Celtor]
+categories: [Items, Outfits, Master Outfits, Lost Celtor]
 ---
 
 # Celtorian Tideknight
@@ -11,22 +11,22 @@ categories: [Items, Outfits, Unique Outfits, Lost Celtor]
 | Celtorian Tideknight | |
 |---|---|
 | caption | N/A |
-| tier | Unique |
+| tier | Master |
 | crafting_req | x5 Cloth, x1 Dark Feather, x1 Odd Tentacle, x5 Vibrant Gems, x1 Bloodless Gem, x1 Thresher Spine, x5 Umbral Obsidian |
 | price | 1,000 |
 | stat_req | Power 15 |
 | bankable | Yes |
-| droppable | No |
+| droppable | Yes |
 | durability | 2800 Durability |
 | resistances | +30% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +10% Shadow Armor, +5% Ice Armor |
 | talents | Tidekeeper |
-| obtainment | The Diluvian Mechanism |
+| obtainment | The Diluvian Mechanism, Sold in Traan Zakshun's black market for 75 |
 | selling_price | 10 |
 | weight | 1 |
 
 _Not to be confused with the NPC in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the [Tideknight](Tideknight.md)_
 
-The **Celtorian Tideknight** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+The **Celtorian Tideknight** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ### _Requirements_
 
@@ -34,7 +34,7 @@ This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), one (1) [Bloodl
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
-This Outfit's schematic is not droppable, but it is bankable, costing 1 knowledge.
+This Outfit's schematic is not droppable, but it is bankable, costing 1 Knowledge.
 
 ### _Armor Stats_
 
@@ -48,4 +48,3 @@ The [Tidekeeper](Talents.md#tidekeeper) Talent procs if you lose 25% or more of 
 
 -   The [Viscosity](Viscosity.md) Enchantment will make Tidekeeper extremely hard to proc, though an [Isshin's Ring](<Isshin's_Ring.md>) might help.
 -   The Outfit has the same ingredients as the [Prophet's Cloak](<Prophet's_Cloak.md>).
--   The Outfit's schematic is soulbound.

@@ -1,6 +1,6 @@
 ---
 title: Constellia
-revid: 173869
+revid: 174378
 source: https://deepwoken.fandom.com/wiki/Constellia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, Locations, Celestial Cities, The Heavens]
@@ -10,7 +10,7 @@ categories: [Lore, Locations, Celestial Cities, The Heavens]
 
 ## Description
 
-The city of Constellia, once a gleaming City of Light, and the biggest of the Celestial Cities[\[1\]](#cite-note-glossary-1), gifted to the [Lightborn](Lightborn.md) by the [Celestials](Celestial.md) as a last gift. Shortly after, the [Celestials](Celestial.md) abandoned the city to never return. The Lumensfolk referred to the city as "The Guiding Star" and used it to traverse Lumen.[\[2\]](#cite-note-kaide-2)
+The city of Constellia, once a gleaming City of Light, and the biggest of the Celestial Cities[\[1\]](#cite-note-glossary-1), gifted to the [Lightborn](Lightborn.md) by the [Celestials](Celestial.md) as a last gift. Shortly after, the [Celestials](Celestial.md) abandoned the city to never return. The [Surface](Surface.md) folk referred to the city as "The Guiding Star" and used it to traverse Lumen.[\[2\]](#cite-note-kaide-2)
 
 Constellia was guarded by [Stone Knights](Stone_Knight.md) created by the [Celestials](Celestial.md), which appeared in Lumen by falling from [The Nightsea](Glossary.md#the-nightsea) in radiant meteors.
 

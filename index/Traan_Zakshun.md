@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 173974
+revid: 174368
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -366,6 +366,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 25 </b>: <a href="Darkened_Bastion.md">Darkened Bastion</a>.</li>
+    <li><b>For 75 </b>: <a href="Celtorian_Tideknight.md">Celtorian Tideknight</a>.</li>
   </ul></td>
 </tr>
 <tr>
@@ -376,7 +377,7 @@ Sold Items
     <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Strange_Tomes.md">Strange Tome #3</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide exclusive</a>).</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
-    <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
+    <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a>.</li>
     <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
     <li><b>For 7 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a>.</li>
     <li><b>For 8 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>

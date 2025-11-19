@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 174260
+revid: 174357
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -58,7 +58,7 @@ The Central Authority is a [bounty board](Bounty_Hunting.md) faction. The Author
 
 The Central Authority has [jobs](Job_Boards.md) on almost every job board in the game, making Authority reputation very easy to gain.
 
-While The Authority lacks in reputation beneficial quests, it benefits from having the most [Random Encounters](Random_Encounters.md) of any other faction in the game. Assisting The Authority in any of these events will grant you positive reputation:
+Not only does The Authority have reputation beneficial quests, it also benefits from having the most [Random Encounters](Random_Encounters.md) of any other faction in the game. Assisting The Authority in any of these events will also grant you positive reputation:
 
 -   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) ([Erisia](Erisia.md))
 -   [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) vs [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) ([Upper Erisia](Upper_Erisia.md))

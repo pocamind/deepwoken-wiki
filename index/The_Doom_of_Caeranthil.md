@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 171209
+revid: 174364
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -57,9 +57,8 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
  | When far enough from the Doom[\[1\]](#cite-note-1), giant bubbles will emerge from underneath the player for a couple of seconds, before the Doom dives up and eats any player caught in its vicinity, instantly killing them.
 
 -   Keep in mind that Mobs and NPCs may aggro the Doom in ambush range to cause this.
--   Auto-grips and instant kills.
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
--   Surprisingly, this is parryable with [Force Your Way](Ignition_Deepdelver.md).
+-   Surprisingly, though not recommended, this is parryable with [Force Your Way](Talents.md#force-your-way).
 -   This will sink your boat if the Doom lands on you on its way down
 
  | 
@@ -102,7 +101,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
 
  | The Doom charges a bright green attack for 15-20 seconds, before firing a giant laser that obliterates everything in it's path.
 
--   Auto-grips and instant kills.
 -   This attack is scripted to only be used when Caeranthil swims to [Etris](Etris.md)' docks and this attack will always be aimed at the docks.
 -   It will wait at Etris' docks, staying idle, until a player is nearby the docks to use the move.
 -   Bypasses [Celtorian Tideknight](Celtorian_Tideknight.md)'s Talent.
@@ -110,8 +108,6 @@ Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md
  | 
 
  |
-
-  
 
 ## Tips and Strategies
 

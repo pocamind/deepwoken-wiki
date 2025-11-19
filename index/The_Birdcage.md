@@ -1,6 +1,6 @@
 ---
 title: The Birdcage
-revid: 173601
+revid: 174358
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant]
@@ -22,7 +22,7 @@ File:New birdcage after Erisia's redesign.png
 
 The Birdcage resembles a lighthouse-like structure. It is on the furthest bottom right side the Erisia island, to the direct south south-east of the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
-Inside the Birdcage, there are four firepits that can only be lit with a Soul Hearthgem. You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order.
+Inside the Birdcage, there are four firepits that can only be lit with a [Soul Hearthgem](Soul_Hearthgem.md). You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order.
 
 -   Using the second picture in gallery as reference; you must light the left firepit, then the bottom firepit, then the top firepit and finally the right firepit.
 -   Failing to light these in a character order will fling your character and drain you of your Ether. The firepits will be reset.

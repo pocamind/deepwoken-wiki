@@ -1,6 +1,6 @@
 ---
 title: Aegis Gem
-revid: 173151
+revid: 174367
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,7 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It's unnaturally dense...On hit, grants Aegis, reducing damage by 10% for 10 seconds. (10s CD) |
-| obtainment | The Gaunt Man for 1 Doom of Caeranthil's Scale. |
+| obtainment | The Gaunt Man for 1 Doom of Caeranthil's Scale |
 
 ## Description
 

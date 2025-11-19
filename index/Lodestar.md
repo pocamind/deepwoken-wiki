@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 168070
+revid: 174373
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths]
@@ -14,9 +14,9 @@ Template:EnemyInfobox1.0
 
 The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their Aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon, the [Guiding Star](Guiding_Star.md) and outfit, [Navaen War Chief](Navaen_War_Chief.md) upon death.
 
-His outfit consists of a [Black Blindfold](Blindfold.md), and a [Navaen War Chief](Navaen_War_Chief.md) [Outfit](Outfits.md).
+Their outfit consists of a [Black Blindfold](Blindfold.md), and a [Navaen War Chief](Navaen_War_Chief.md) [Outfit](Outfits.md).
 
-His chest's lootpool is similar to a [Scyphozia](First_Layer.md) chest, seemingly having heightened [Relic](Relics.md) and [Deep Gem](Mantra_Modifiers.md) rates. See [loot table](#loot-table) for more info.
+Their chest's lootpool is similar to a [Scyphozia](First_Layer.md) chest, seemingly having heightened [Relic](Relics.md) and [Deep Gem](Mantra_Modifiers.md) rates. See [loot table](#loot-table) for more info.
 
 ## Moveset
 
@@ -142,8 +142,8 @@ This lootpool may still be incomplete, we'd appreciate it if you helped gather i
 ## Trivia
 
 -   A "Lodestar" is an archaic word for stars used to help travellers find their way. In other words: a guiding star.
--   He has at least four dialogues on spawn, with those being "Loathsome fate...", "So our paths finally cross." ,"Bear your Fangs, wolf." and "Let the trials begin."
--   He has at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"
--   The Lodestar might be mistaking us for his target shown in his spawn and grip dialogue, as the description on the Guiding Star talks of a 'trial' that the Lodestar could be going through during 'The Festival of Lights', a part of the trial is to blindly hunt a wolf unseen, with the participant failing should they suffer any wounds, with the Guiding Star 'speaking' to the participant, guiding them to completion.
+-   They have at least four dialogues on spawn, with those being "Loathsome fate...", "So our paths finally cross." ,"Bear your Fangs, wolf." and "Let the trials begin."
+-   They have at least two dialogues on grip, with those being "So it ends in failure..." and "Do I take the blindfold off now?"
+-   The Lodestar might be mistaking us for the target shown in their spawn and grip dialogue, as the description on the Guiding Star talks of a 'trial' that the Lodestar could be going through during 'The Festival of Lights', a part of the trial is to blindly hunt a wolf unseen, with the participant failing should they suffer any wounds, with the Guiding Star 'speaking' to the participant, guiding them to completion.
     -   the Lodestar might be indirectly violating the trial by being a Blindseer, which would allow them to use their sight during the trial.
 -   Ironically, Navaen Nomads are hostile towards The Lodestar and Vice-Versa, (Tested by teleporting Lodestar to Meteor Isle using Teleportation Resonance). They also ally with monsters such as Threshers which means they could count as a monster enemy rather than humanoid.

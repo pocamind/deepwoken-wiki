@@ -1,6 +1,6 @@
 ---
 title: Smouldering Hallow
-revid: 172470
+revid: 174360
 source: https://deepwoken.fandom.com/wiki/Smouldering_Hallow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Event Item, Hallowtide, Heavy Weapons]
@@ -38,7 +38,9 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 
 ## Critical
 
-The user winds up with a purple telegraph before firing a volley of pumpkin projectiles onto the opponent, emitting a spray of autumn leaves and jack o' lantern faces. The shockwave applies daze and has a scaled damage multiplier of **0.75x**. The projectiles are mouse aim-able and explodes on contact, applying [Burn](Status_Effects.md#burn) with a scaled damage multiplier of **0.45x**.
+The user winds up with a purple telegraph before firing a volley of pumpkin projectiles onto the opponent, emitting a spray of autumn leaves and jack o' lantern faces. The shockwave applies daze and has a scaled damage multiplier of **0.75x**.
+
+The critical will then fire three mouse aim-able jack o' lantern projectile that explode on contact. If shift lock is on, the projectiles will have auto aim instead. The projectiles apply [Burn](Status_Effects.md#burn) on hit and have a scaled damage multiplier of **0.45x** each.
 
 The critical has a cooldown of **15 seconds**.
 

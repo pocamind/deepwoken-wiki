@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174314
+revid: 174362
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2677,7 +2677,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Because bombs deal typeless damage, they ignore physical and elemental resistances.
     -   Press E while holding a bomb to throw it. Press M1 while holding a bomb to drop it at your feet.
     -   Bombs do not deal self damage.
-    -   BOmbs have a 5 second cooldown on throw.
+    -   Bombs have a 5 second cooldown on throw.
     -   It is highly recommended that you use the [Miner's Hardhat](<Miner's_Hardhat.md>) when farming for the crafting materials, as it doubles your mining output with a chance to quadruple it.
     -   Prerequisite: Complete [Lucien](Lucien.md)'s quest.
 

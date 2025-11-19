@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 166771
+revid: 174361
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -36,7 +36,7 @@ To gain this recipe, you will have to talk to [Lucien](Lucien.md) at [Songseeker
 The iron bomb is a great damaging tool for those who wish to put time and effort into crafting them.
 
 -   Pressing M1 or your left mouse button lets you place your bomb down, it detonates after 3 seconds of being placed down.
--   Pressing E on your keyboard allows you to throw your bomb in the direction of your cursor.
+-   Pressing E on your keyboard allows you to throw your bomb in the direction of your cursor. This has a 5 second cooldown.
     -   You cannot use bombs mid-animation and vice versa.
     -   These keybinds cannot be changed.
 
@@ -74,10 +74,10 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 ## Tips
 
 -   Getting Family Recipe early on in your progression and using the [Mystic](Mystic.md) will help immensely, as these Talents often have very low weighting.
--   Just like any other burn source, you can increase the effectiveness of your bomb-applied burn with Talents such as [Azure Flames](Talents.md#flamecharmer) or [Corpse Explosion](Talents.md#inferno).
-    -   Your Incendiary Formula bombs will apply Puppet Burn, spawning puppets if you have [Twisted Puppets](Hybrid_Abilities.md#flamecharm) or create [Eruptions](Flamecharm.md#lava-serpent) if you have Eruption Path.
--   The Talent [Excavator](Talent_Quests.md) will greatly help with gathering materials for bombs as it has a chance to double your mining output.
--   The [Miner's Hardhat](<Miner's_Hardhat.md>) equipment grants two Talents, one of which being the aforementioned Excavator with the second being [Rock Blaster](Talents.md#equipment-talents); this will double your mining output with a chance to quadruple it. This equipment is a must have when it comes to farming for bombs.
+-   Just like any other burn source, you can increase the effectiveness of your bomb-applied burn with Talents such as [Azure Flames](Talents.md#azure-flames) or [Corpse Explosion](Talents.md#corpse-explosion).
+    -   Your Incendiary Formula bombs will apply Puppet Burn, spawning puppets if you have [Twisted Puppets](Talents.md#wraith-path-twisted-puppets) or create [Eruptions](Talents.md#lava-serpent) if you have Eruption Path.
+-   The [Excavator](Talents.md#excavator) Talent will greatly help with gathering materials for bombs, as it has a chance to double your mining output.
+-   The [Miner's Hardhat](<Miner's_Hardhat.md>) equipment grants two Talents, one of which being the aforementioned Excavator with the second being [Rock Blaster](Talents.md#rock-blaster); this will double your mining output with a chance to quadruple it through Excavator. This equipment is a must have when it comes to farming for bombs.
 -   [Coal](Ores.md#coal) can be purchased from any [Blacksmith](Blacksmith.md) for 15.
 -   [The Viper's Jaw](<The_Viper's_Jaw.md>) is home to many materials needed to create bombs, having a rich balance of coal and iron.
     -   An alternative to [The Viper's Jaw](<The_Viper's_Jaw.md>) is the [Widow's Hollow](<Widow's_Hollow.md>), above the Starswept sands.

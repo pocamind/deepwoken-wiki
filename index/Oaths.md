@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 172175
+revid: 174356
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -257,5 +257,5 @@ Proof of Time Magic's existence and it being an "Oath"
 -   There are 6 Oaths that dont have any Power requirements, these are: [Oathless](Oath%253A_Oathless.md), [Contractor](Oath%253A_Contractor.md), [Linkstrider](Oath%253A_Linkstrider.md), [Chainwarden](Oath%253A_Chainwarden.md), [Blindseer](Oath%253A_Blindseer.md), and [Starkindred](Oath%253A_Starkindred.md).
     -   Some oaths can be obtained at Power 1, these are: [Oathless](Oath%253A_Oathless.md), [Contractor](Oath%253A_Contractor.md), and [Linkstrider](Oath%253A_Linkstrider.md)
     -   Because [Blindseer](Oath%253A_Blindseer.md) requires you to have the 3 Talents from the [Mental Fortress](Talents.md#mental-fortress) Talent tree, you'll need to complete [Bravery/Compassion/Curiosity](Quests.md) Quests and/or [Shrine](Deep_Shrines/Shrine_of_Division.md) off the free Mantra you get from [Kelsius](Kelsius.md) or the [Tutorial](Tutorial.md). Using a [Mystic](Mystic.md) will prove very helpful for this.
--   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Chainwarden](Oath%253A_Chainwarden.md), [Bladeharper](Oath%253A_Bladeharper.md), and [Soulbreaker](Oath%253A_Soulbreaker.md).
+-   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Bladeharper](Oath%253A_Bladeharper.md), and [Soulbreaker](Oath%253A_Soulbreaker.md).
     -   This is probably due to the Oaths being added after the Oath skip update.
