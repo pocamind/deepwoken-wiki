@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 156946
+revid: 174329
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -38,3 +38,4 @@ categories: [Weapons, Fists, Light Weapons]
 -   Best cestus to use for early and mid-game.
 -   Meeting the LHT requirement, the damage is (18)
 -   At max LHT, the damage is (25.1)
+-   Incredibly low drop chance for some unknown reason.

@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 173290
+revid: 174310
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Aspects]
@@ -46,13 +46,13 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
 
 **Lore:**
 
--   The Chrysid used to be part of the Greathive aspects, alongside Vesperians and Ganymedes. However, they split off due to their belief of faith over technology.
--   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by Hiri, there are "no hard feelings" between the Greathives and Chrysids.
--   Many Chrysids choose to reside in the Lullaby Isles, an archipelago surrounded by the Stoneseye Range, a dense ring of mountains outside the coast of Markor. The Isles hold fertile soil, resulting in rich agriculture, being directly supported by the Stoneseye Range's volcanic activity. This location is not seen in-game and only mentioned.
--   Chrysids native to the Isles are known as Aecta (Aecti in plural), and speak in the Moonlit Dialect.
--   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
--   Within the central isles of the Lullaby Isles is a city-state where the council of the Moonlit Faith resides.
--   [Hiri](Hiri.md), [Liviu](Liviu.md), [Lake](Lake.md), [Ottilde](Ottilde.md), and [Marro](Marro.md) reveal lore about the Chrysid.
+-   The Chrysid used to be part of the Greathive aspects, alongside [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md). However, they split off due to their belief of [faith](The_Moonlit_Faith.md) over technology.
+-   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by [Hiri](Hiri.md), there are "no hard feelings" between the Greathives and Chrysids.
+-   Many Chrysids choose to reside in the [Lullaby Isles](Lullaby_Isles.md), an archipelago surrounded by [the Stoneseye Range](Lore.md#the-stoneseye-range), a dense ring of mountains outside the coast of [Markor](Markor.md). [The Isles](Lullaby_Isles.md) hold fertile soil, resulting in rich agriculture, being directly supported by the [the Stoneseye Range](Lore.md#the-stoneseye-range)'s volcanic activity. This location is not seen in-game and only mentioned.
+-   Chrysids native to the [Isles](Lullaby_Isles.md) are known as Aecta (Aecti in plural), and speak in the Moonlit Dialect.
+-   Every village in the [Lullaby Isles](Lullaby_Isles.md) serves [the Lady Confessor](The_Lady_Confessor.md), a theocratic dictator which decides what is sin, and punishes those who stand in her way.
+-   Within the central isles of the [Lullaby Isles](Lullaby_Isles.md) is a city-state where the [council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md) resides.
+-   [Hiri](Hiri.md), [Liviu](Liviu.md), [Lake](Lake.md), [Ottilde](Ottilde.md), and [Marro](Marro.md) reveal lore about the Chrysids.
 -   Many Chrysids believe that the appearance of a collar signifies that one of their own has attained wisdom, possibly a form of Elder identification.
     
 
@@ -60,7 +60,7 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
 
 -   +2 Agility
 -   +3 Charisma
--   When attacked, release a mist that highlights your attacker for 10 seconds.
+-   When attacked, release a mist that highlights your attacker for 30 seconds.
     
 
 **Surnames:**

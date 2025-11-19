@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 172691
+revid: 174309
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -17,7 +17,7 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) inside a cave within [Songseeker Wilds](Songseeker_Wilds.md). She speaks about how she ended up within the Wilds.
+Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) inside a cave within [Songseeker Wilds](Songseeker_Wilds.md). She speaks about [The Moonlit Faith](The_Moonlit_Faith.md) how she thinks the [Songseeker Wilds](Songseeker_Wilds.md) are the [Lullaby Isles](Lullaby_Isles.md).
 
 ## Dialogue
 

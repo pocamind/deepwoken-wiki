@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 169902
+revid: 174295
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, The Ignition Union, "Attunement-based Weapons", Multiple Criticals, Heavy Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons
 | type | Greathammer |
 | requirements | 55 HVY, 20 STR, 80 LTN |
 | damage | 25 |
-| scaling | HVY: 4.2 HVY, LTN: 7 |
+| scaling | HVY: 4.2, LTN: 7 |
 | range | 8.5 |
 | swing speed | 0.87x |
 | endlag | 0.15s |

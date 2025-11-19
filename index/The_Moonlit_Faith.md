@@ -1,6 +1,6 @@
 ---
 title: The Moonlit Faith
-revid: 174024
+revid: 174324
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, Religious groups, The Moonlit Faith]
@@ -24,11 +24,11 @@ With The Lady Confessor's ascension to power, she took the society in her hands 
 
 ## Notable Members
 
-[The Lady Confessor](The_Lady_Confessor.md): The mysterious leader of the Lullaby Isles, where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the [East](Luminants.md#etrean-and-eastern-luminants) suggest a sense of great reverence and sincerity towards her decrees.[\[2\]](#cite-note-pardoner-2)
+[The Lady Confessor](The_Lady_Confessor.md): The mysterious leader of the Lullaby Isles, where her word is law. Not much is known externally of her location, or condition, but interactions with scholars visiting the [East](Luminants.md#etrean-and-eastern-luminants) suggest a sense of great reverence and sincerity towards her decrees.[\[2\]](#cite-note-pardoner-2)[\[3\]](#cite-note-glossary-3)
 
-The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a lead ambassador for the Lullaby Isles, leading groups of scholars to and from the [Greathive Aratel](Greathive_Aratel.md) in order to exchange knowledge, updates and information.[\[3\]](#cite-note-missives-3)
+The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a lead ambassador for the Lullaby Isles, leading groups of scholars to and from the [Greathive Aratel](Greathive_Aratel.md) in order to exchange knowledge, updates and information.[\[4\]](#cite-note-missives-4)[\[5\]](#cite-note-glossary1-5)
 
-[Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): Council, which resides in the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[3\]](#cite-note-missives-3)
+[Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): Council, which resides in the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[4\]](#cite-note-missives-4)
 
 [Mystics](Mystic.md): Affect the player's [Whisper Draws](Whisper_Draw.md) and [Talent](Talents.md) Hands for.
 
@@ -40,4 +40,6 @@ The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a le
 
 1.  [↑](#cite-ref-marro-1-0) [Marro](Marro.md)'s dialogue after talking to [Lake](Lake.md).
 2.  ↑ [2.0](#cite-ref-pardoner-2-0) [2.1](#cite-ref-pardoner-2-1) [O Pardoner of Mine](O_Pardoner_of_Mine.md)
-3.  ↑ [3.0](#cite-ref-missives-3-0) [3.1](#cite-ref-missives-3-1) [Strange Missives](Strange_Missives.md)
+3.  [↑](#cite-ref-glossary-3-0) [The Lady Confessor glossary entry](Glossary.md#the-lady-confessor)
+4.  ↑ [4.0](#cite-ref-missives-4-0) [4.1](#cite-ref-missives-4-1) [Strange Missives](Strange_Missives.md)
+5.  [↑](#cite-ref-glossary1-5-0) [Thal'assis glossary entry](Glossary.md#the-acolyte--thalassis)

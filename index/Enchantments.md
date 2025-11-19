@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 174200
+revid: 174293
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -1533,8 +1533,7 @@ Viscosity
 **Effect:**
 
 Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.  
-No longer apply any protection from getting knocked below 10% (needs more testing) as of at least Nov 18th 24. (Used to make it the user couldn't be knocked or executed unless they were hit while at 1% HP.)  
-Pairs well with [Run It Back](Run_It_Back.md) as it nullifies all currently incoming damage.  
+No longer apply any protection from getting knocked below 10% (needs more testing) as of at least Nov 18th 24. Pairs well with [Run It Back](Run_It_Back.md) as it nullifies all currently incoming damage.  
 
 **Disabled if using Curse of the No Life King and/or Immortal Helm.**
 

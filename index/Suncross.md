@@ -1,6 +1,6 @@
 ---
 title: Suncross
-revid: 173947
+revid: 174312
 source: https://deepwoken.fandom.com/wiki/Suncross
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]

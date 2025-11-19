@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174264
+revid: 174314
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2353,7 +2353,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
-    -   Gain a +15% damage modifier when posture breaking with an M1 or critical with the M1 tag.
+    -   Gain a +7.5% damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
     -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Ardour's activation keybind can be configured in settings.
@@ -3169,7 +3169,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   (OATH) Murmur: Ardour \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
     -   Has a unique visual compared to base Ardour, your weapon crackling with purple and black lightning.
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
-    -   Gain a +15% damage modifier when posture breaking with an M1 or critical with the M1 tag.
+    -   Gain a +10% damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
     -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Ardour's activation keybind can be configured in settings.

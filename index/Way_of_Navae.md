@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 166837
+revid: 174317
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae]
@@ -34,6 +34,8 @@ While Way of Navae has the same damage as other traditional fist styles, the cri
 
 **After unlocking Way of Navae, you can choose it as your starter weapon in the character menu**. Once you unlock Way of Navae, it is available on all slots.
 
+If you have Way of Navae and other [Fist Styles](Fists.md) (except for [Jus Karita](Jus_Karita.md)) obtained, you can switch and cycle between them quickly by pressing Y. This has a 7 second cooldown.
+
 ## Critical
 
 User raises their leg with a slow windup before firmly slamming it down, breaking the opponent's guard.
@@ -53,4 +55,3 @@ Completing either of these methods will grant you the Way of Navae Talent which 
 
 -   Slide jumping with using the **Way of Navae** critical can make it easier to land.
     -   You'll use your sliding momentum to dash forward.
--   If you have Way of Navae and another 'Cestus Style' ([Legion Kata](Legion_Kata.md), [Imperium Kata](Imperium_Kata.md), or [Fang and Coil](Fang_and_Coil.md)), you can switch between them quickly by pressing Y. This has a 7 second cooldown.

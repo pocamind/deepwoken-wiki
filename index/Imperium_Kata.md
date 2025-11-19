@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 173924
+revid: 174326
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -34,6 +34,8 @@ categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals"
 ## Description
 
 Imperium Kata is an advanced form of the [Legion's martial arts](Legion_Kata.md) obtained by talking to [Caitus](Caitus.md), defeating [Titus](Titus_Fulminus_Destellus.md), and having high reputation with [The Hundred Legions](The_Hundred_Legions.md). Its attacks consist mainly of vertical swings and swift kicks.
+
+If you have Imperium Kata and other [Fist Styles](Fists.md) (except for [Jus Karita](Jus_Karita.md)) obtained, you can switch and cycle between them quickly by pressing Y. This has a 7 second cooldown.
 
 ## Obtainment
 

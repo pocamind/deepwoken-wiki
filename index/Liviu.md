@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 173959
+revid: 174307
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Hive]
@@ -13,10 +13,11 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Hive]
 | name | Liviu |
 | aspect | Chrysid |
 | location | Greathive Aratel |
+| affiliation | The Moonlit Faith |
 
 ## Description
 
-Liviu is a [Chrysid](Chrysid.md) next to the Mystic. Seeming to be involved with world around them as they talk a lot about the "Acolyte" and how they're watched to at least "seem busy."
+Liviu is a [Chrysid](Chrysid.md) next to the [Mystic](Mystic.md). Seeming to be involved with world around them as they talk a lot about the "[Acolyte](<Thal'assis_Linnaes.md>)" and how they're watched to at least "seem busy."
 
 ## Location
 
