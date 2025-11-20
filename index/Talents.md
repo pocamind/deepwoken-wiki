@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174362
+revid: 174393
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2489,7 +2489,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 -   **Shocking Reverb** \[Faction Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
-    -   Land 5 [lightning](Thundercall.md) mantras without getting hit to proc this talent.
+    -   You need to reach a threshold of 150 damage dealt with [Thundercall](Thundercall.md) Mantras will proc this Talent.
+    -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
+    -   Being hit will reset the built up damage.
+    -   Also negates damage from critical attacks and [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 ### Outlaw

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Hide
-revid: 159284
+revid: 174397
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -12,6 +12,7 @@ categories: [Items, Drops, Ingredients]
 |---|---|
 | value | 15 |
 | weight | None |
+| stack | x10 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |

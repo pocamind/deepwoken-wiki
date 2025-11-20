@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 174053
+revid: 174395
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -60,7 +60,7 @@ _Soulbreaker **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oat
 
 ## Progression
 
-This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) (excluding for [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)) or making wishes with the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) up to 5 times to max it.
+This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md) (excluding the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md)) or making wishes with the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). You will need to make a total of 5 deals or wishes to complete the Oath's progression.
 
 ## Effects
 

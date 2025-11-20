@@ -1,9 +1,9 @@
 ---
 title: Naerotiv
-revid: 148591
+revid: 174424
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Floor 2, Layer 2]
+categories: [Kyrsan NPCs, NPCs, Floor 2, Layer 2]
 ---
 
 # Naerotiv
@@ -11,7 +11,7 @@ categories: [NPCs, Floor 2, Layer 2]
 | Naerotiv | |
 |---|---|
 | name | Naerotiv |
-| aspect | Kyrsan |
+| species | Kyrsan |
 | location | Kyrsan Wilds |
 
 “ ...The spirit of my brother and the spirit of Kyrsa will stand with you should you invoke their blessings. ”

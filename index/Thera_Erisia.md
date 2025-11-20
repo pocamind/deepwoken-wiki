@@ -1,6 +1,6 @@
 ---
 title: Thera Erisia
-revid: 173246
+revid: 174389
 source: https://deepwoken.fandom.com/wiki/Thera_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Members of the Erisia family, Deceased characters]
@@ -21,7 +21,7 @@ As a member of the [Erisia family](Erisia_family.md), Thera served as the duches
 
 The exact circumstances of Thera's death are unclear. However, it's widely believed that she found herself in a dispute that turned violent, during which she was attacked by numerous other individuals. Allegedly, she survived the assault, only to succumb to her wounds in the arms of her son.[\[2\]](#cite-note-ne-2)
 
-[Needle's Eyes](<Needle's_Eye.md>) were produeced as replicas of her famed rapier.[\[2\]](#cite-note-ne-2)
+[Needle's Eyes](<Needle's_Eye.md>) were produced as replicas of her famed rapier.[\[2\]](#cite-note-ne-2)
 
 ## References
 

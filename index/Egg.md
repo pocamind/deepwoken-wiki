@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 170030
+revid: 174407
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Food, Harvestables, Food Ingredients]
@@ -37,7 +37,7 @@ Eggs are an ingredient commonly found atop high places. They can be gathered in 
 -   [Mushroom Omelette](Mushroom_Omelette.md) - 2 Eggs and 1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md).
 -   [Noodles](Noodles.md) - 1 Egg and 2 [Gathered Wheat](Gathered_Wheat.md), no [Campfire](Campfire_Pit.md) required.
 -   [Omelette](Omelette.md) - 2 Eggs at a [Campfire](Campfire_Pit.md).
--   [Pumpkin Pie](Pumpkin_Pie.md) - 2 [Pumpkins](Pumpkin.md), 1 Egg, and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
+-   [Pumpkin Pie](Pumpkin_Pie.md) - 2 [Pumpkins](Pumpkin.md), 1 Egg or [Thresher Egg](Thresher_Egg.md), and 1 [Gathered Wheat](Gathered_Wheat.md).
 
 ## Locations
 

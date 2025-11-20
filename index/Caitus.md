@@ -1,9 +1,11 @@
 ---
 title: Caitus
-revid: 172674
+revid: 174392
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
+categories: [Khan NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
+notices:
+  - This page is currently being worked on. Missing dialogue.
 ---
 
 # Caitus
@@ -87,16 +89,57 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="9">Begin</td>
 </tr>
 <tr>
-  <td>Legion Intelligence Quest not complete</td>
+  <td colspan="3">[Defeated <a href="Titus_Fulminus_Destellus.md">Titus</a>]</td>
+  <td colspan="3">[Player has <a href="Imperium_Kata.md">Imperium Kata</a>]</td>
+  <td colspan="3">[Legion Intelligence Quest not complete]</td>
 </tr>
 <tr>
-  <td>Hm? Haven't you delivered the letter yet? Gods know how much he's suffering in that cell, get to it</td>
+  <td colspan="3">Salvete, friend, good to see you!... Uh... What's with that look? Something bothering you?</td>
+  <td colspan="3"><i>*The Khan is deep in thought, their brow furrowing periodically.*</i></td>
+  <td colspan="3">Hm? Haven't you delivered the letter yet? Gods know how much he's suffering in that cell, get to it</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[Defeated Titus solo]</td>
+  <td>[Defeated Titus in a group, with the Legion Intelligence]</td>
+  <td>[Defeated Titus in a group, without the Legion Intelligence]</td>
+  <td colspan="3">Hello...?</td>
+  <td colspan="3">End</td>
+</tr>
+<tr>
+  <td colspan="2">WIP</td>
+  <td>You sent my friend to deliver a letter, and the guy nearly killed us.</td>
+  <td colspan="3"><i>*They turn to briefly, yet amicably, acknowledge you.*</i> Ah, salvete once again! Hope you're enjoying your reward, friend? Thanks again for the help, on behalf of the Hundred Legions.</td>
+</tr>
+<tr>
+  <td colspan="3"><i>*Their brow furrows, before they pinch the bridge of their nose tightly.*</i> Are you telling me... He kicked off? Over a polite message to wait? And here I thought Titus was a man of great strategic patience. Well! Well... This is <i>quite</i> unexpected, I suppose.</td>
+  <td colspan="3">End</td>
+</tr>
+<tr>
+  <td colspan="3">You don't seem too bothered by his fate?</td>
+</tr>
+<tr>
+  <td colspan="3">Hey, hey! Don't presume me to be heartless, yeah? I've heard enough to know that a warrior of his calibre doesn't die that easily. And judging by the fact that you're not dead, I'm guessing he let you go. A happy ending for you, right? I don't think the higher-ups will appreciate his actions, though... I can certainly mourn his loyalty.</td>
+</tr>
+<tr>
+  <td colspan="3">Just who was that man?</td>
+</tr>
+<tr>
+  <td colspan="3"><b>Titus Fulminus Destellus</b>, a prolific general amongst our ranks. Just this absolutely mythical figure to most, you know... Incredibly strong, with an unrivalled strategic mind. He was supposed to peacefully retire after his final missions, including this one... Guess he's thrown that straight into the sea.</td>
+</tr>
+<tr>
+  <td colspan="3">He said he'd play along for now, or something.</td>
+</tr>
+<tr>
+  <td colspan="3"><i>*They raise an eyebrow with interest.*</i> ...Really? Suppose I underestimated the both of you, then. I've heard nothing can change Titus' mind when he's set on something. But I guess you're stronger than you look, if the beatdown you gave him made him reconsider things.</td>
+</tr>
+<tr>
+  <td colspan="3">How did someone like him end up in the Fort Merit dungeons?</td>
+</tr>
+<tr>
+  <td colspan="3">WIP</td>
 </tr>
 </tbody>
 </table>

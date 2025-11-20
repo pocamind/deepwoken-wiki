@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 174348
+revid: 174414
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -54,7 +54,7 @@ The AWOL timer will reset if you leave the game, restarting from 15 minutes once
 
 Upon killing another Authority Ensign member of equal or higher rank, you will be marked as a traitor, exiling you from the Central Authority. This includes kills in other non-overworld locations.
 
-Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor. You cannot be marked as a traitor if your Division is maxed.
+Non-direct kills, such as dropping someone in water or blowing someone up from cannon fire do not mark you as a Traitor.
 
 ## Progression
 
@@ -312,6 +312,10 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   While guardbreaks cannot be vented, the extended stun (starting at 1.05s) can be vented.
 -   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
 -   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+    -   You need to reach a threshold of 150 damage dealt with [Thundercall](Thundercall.md) Mantras will proc this Talent.
+    -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
+    -   Being hit will reset the built up damage.
+    -   Also negates damage from critical attacks and [Silentheart](Oath%253A_Silentheart.md) abilities.
 
 ### Division Mantras
 
