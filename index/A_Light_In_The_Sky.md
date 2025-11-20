@@ -1,12 +1,18 @@
 ---
 title: A Light In The Sky
-revid: 172803
+revid: 174475
 source: https://deepwoken.fandom.com/wiki/A_Light_In_The_Sky
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
 ---
 
 # A Light In The Sky
+
+## Description
+
+_**A Light In The Sky**_ is a [Book](Books.md) obtained from [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md).
+
+## Text
 
 ### 
 

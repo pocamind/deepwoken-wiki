@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 174216
+revid: 174495
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Ministry]
@@ -28,6 +28,8 @@ Many years ago, they conquered Minityrsa and made it their own territory. After 
 They are responsible for the drowning of [Celtor](Lost_Celtor.md). The city was drowned as an offering to Yun’Shul, though they did not care for the surprise gift and did not give the Ministry any reward for it.
 
 They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
+
+They are refered to as originating from the [Western Luminant](Luminants.md#western-luminant).[\[1\]](#cite-note-1)
 
 ## Reputation
 
@@ -63,3 +65,7 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 -   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), [Ministry Agent](Ministry_Agent.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Ministry Heartbleeders](Ministry_Heartspiller.md).
 -   The Ministry's emblem appears as a polar opposite to Lost Celtor, especially being associated in [drowning the latter's capital](Lost_Celtor.md) as well as the "arrow" motifs.
+
+## References
+
+1.  [↑](#cite-ref-1) [Cestis](Cestis.md)

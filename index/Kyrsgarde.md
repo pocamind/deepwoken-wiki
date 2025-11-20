@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 164843
+revid: 174519
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -8,17 +8,20 @@ categories: [Sentient species]
 
 # Kyrsgarde
 
+| Kyrsgarde | |
+|---|---|
+| name | Kyrsgade, Kyrsan |
+| habitat | Second Layer |
+
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._
 
 “ The strange inhabitants of the Eternal Gale. In contrast to the ferocious beasts that stalk its wastes, the Kyrsans dwell in small villages sheltered from the gale. ”
 
 ― Glossary description
 
-Template:Creature Infobox V3
-
 ## Description
 
-Also known as Kyrsans, the Kyrsgarde are an intelligent form of species unlike the Humans (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol in their society. Those residing in [Firfire](Firfire.md) and the surrounding [outskirts](Second_Layer/The_Ethironal_Shrine.md) are peaceful towards Fringewalkers, while the ones laying in the depths of [New Kyrsa](Second_Layer/New_Kyrsa.md) prove hostile towards the player, protecting Ethiron from threats with fanatical zealotry.
+Also known as Kyrsans, the Kyrsgarde are an intelligent form of species unlike the Humans (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol in their society. However, this worship is ultimately skin-deep, or in their case bone-deep, as they ultimately fear Ethiron's power and had been taking measures to prevent his revival. Those residing in [Firfire](Firfire.md) and the surrounding [outskirts](Second_Layer/The_Ethironal_Shrine.md) are peaceful towards Fringewalkers, while the ones laying in the depths of [New Kyrsa](Second_Layer/New_Kyrsa.md) prove hostile towards the player, protecting Ethiron from threats with fanatical zealotry.
 
 ## Kyrsans
 

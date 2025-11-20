@@ -1,9 +1,11 @@
 ---
 title: The Great Sharko Rumbling
-revid: 173132
+revid: 174465
 source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, Events]
+categories: ["Non-canon articles", Events]
+notices:
+  - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
 ---
 
 # The Great Sharko Rumbling

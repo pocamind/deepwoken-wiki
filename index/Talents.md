@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174442
+revid: 174525
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2483,9 +2483,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   **Amp Overdrive** \[Faction Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the guardbreak stun duration from 1.05 seconds to 2.1 seconds.
+    -   While guardbreaks normally cannot be vented, the extended stun (starting at 1.05s) can be vented.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 -   **Martial Brutality** \[Faction Exclusive\] - The less health your opponent has, the more posture damage you deal to them.
+    -   Increases your posture damage by 0.1% per 1% health missing, up to a maximum of +10% posture damage against someone at 0% health.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 -   **Shocking Reverb** \[Faction Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]

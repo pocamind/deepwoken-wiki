@@ -1,6 +1,6 @@
 ---
 title: Galvika
-revid: 174322
+revid: 174464
 source: https://deepwoken.fandom.com/wiki/Galvika
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Lore, The Moonlit Faith]
@@ -16,7 +16,6 @@ notices:
 | alias | The Acolyte[1] |
 | aspect | Chrysid |
 | affiliation | The Moonlit Faith, Council of the Moonlit Faith |
-| death | Dead, post is now taken by Thal'assis Linnaes. |
 
 ## Description
 

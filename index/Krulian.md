@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 152926
+revid: 174522
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -14,13 +14,13 @@ categories: [Sentient species]
 
 ## Description
 
-Krulians are a mysterious [aspect](Aspects.md) that possesses demigod-like powers. They are essentially the missing link between the [Drowned Gods](Lore.md#drowned-gods) and the people of Lumen.
+Krulians are a mysterious species that possesses demigod-like powers. They are essentially the missing link between the [Drowned Gods](Lore.md#drowned-gods) and the people of Lumen.
 
 According to [The Ferryman](The_Ferryman.md), not many Krulians have been seen by the people of The Etrean Luminant, implying that Krulians are either from [The Depths](The_Depths.md) or some islands in the [Voidsea](Voidsea.md). He also mentions that they are the "next step in the evolutionary chain" and that they are "the superior aspect that will live on after the Drowned Gods awake."
 
 They have no set appearance, shapeshifting into whatever they see fit. In the Ferryman's case, he appears as a white-haired Etrean wearing the [Ferryman's Coat](<Ferryman's_Coat.md>). Whereas [The Gaunt Man](The_Gaunt_Man.md) is a tall pale humanoid who doesn't appear to be trying to take the appearance of any of Lumen's aspects. He wears the [Varicosan Finery](Varicosan_Finery.md) outfit.
 
-They are ranked as either Lesser or Greater Krulians. It has been stated by the devs that "Every Krulian has a purpose." and that they are also servants of the Drowned Gods, therefore it could be interpreted that they would be what the Lightborns are to Celestials, just with Drowned Gods.
+It has been stated by the devs that "Every Krulian has a purpose." and that they are also servants of the Drowned Gods, therefore it could be interpreted that they would be what the Lightborns are to Celestials, just with Drowned Gods.
 
 While weaker on the surface, they become far more powerful in [The Depths](The_Depths.md).
 
@@ -28,7 +28,7 @@ The [Krulian Knife](Krulian_Knife.md) seems to originate from them. Additionally
 
 Krulians do not take [Oaths](Oaths.md).
 
-Krulians were described as "amalgamations of souls" by Ragoozer. It is unclear how they come to be, or if the Ferryman's degree of individuality is shared by every Krulian.
+Krulians were described as "amalgamations of souls" by ragoozer. It is unclear how they come to be, or if the Ferryman's degree of individuality is shared by every Krulian.
 
 ## Trivia
 

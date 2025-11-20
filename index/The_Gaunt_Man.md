@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 163284
+revid: 174520
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, NPCs, Vendors]
@@ -234,4 +234,4 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 -   If you've beaten [The Ferryman](The_Ferryman.md) during Spring and have asked what he is, a new dialogue option for The Gaunt Man will appear after his experiment, in which he confirms that he's a [Krulian](Krulian.md).
     -   This may mean that Krulians are made up of more than just souls, as in a previous dialogue line, he uses an analogy to compare the player as a single stalk of wheat, but himself to bread. This can be inferred to meaning the stalk wheat = a singular soul, but as bread is made up of more than just wheat, Krulians may be made up of more than just souls.
 -   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here, not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."
--   The Gaunt Man may be a young/recently formed Krulian. This is evident by his sense of self not being completely there, stating "Yes, some portion of me knows this to be true" when asked if he's a Krulian. On top of this, his unnatural speech and him "still learning the interplay of muscle groups required for speech" - akin to a child learning how to speak. Him experimenting on the player characters and monsters could also tie into this theory, being similar to a childlike hunger for learning or sense of curiosity.
+-   The Gaunt Man may be a young/recently formed Krulian. This is evident by his sense of self not being completely there, stating "Yes, some portion of me knows this to be true" when asked if he's a Krulian. On top of this, he has unnatural speech and is "still learning the interplay of muscle groups required for speech" - akin to a child learning how to speak. Him experimenting on the player characters and monsters could also tie into this theory, being similar to a childlike hunger for learning or sense of curiosity. Furthermore, his guise does not resemble any aspect on Lumen, showing he still has an imperfect grasp of humanity, though this may be more due to personal preference as well.

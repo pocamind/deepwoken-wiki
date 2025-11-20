@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 174388
+revid: 174487
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -51,13 +51,13 @@ Dash forward while performing a kick.
 
 ## Mantras
 
-Jus Karita users gain access to its own unique Mantras, obtained through [Whisper Draws](Whisper_Draw.md). With this it can help the user maneuver through the kick style's difficulties and weaknesses, possessing three separate Mantras that are effective for comboing.
+Jus Karita users gain access to its own unique Mantras, obtained through [Whisper Draws](Whisper_Draw.md). These can help the user maneuver through the kick style's difficulties and weaknesses, possessing three separate Mantras that are effective for comboing.
 
 -   [Karita Leap](Attunement-less.md#karita-leap) is a flying kick, useful as a quick burst option to catch your opponent off-guard. When colliding with a wall, you'll bounce back.
 -   [Karita Divebomb](Attunement-less.md#karita-divebomb) is an attack where you jump into the air and dive down onto your opponent. Its wind-up is heavily reduced upon being used directly after Karita Leap, demonstrating the ability to chain the two mantras together to create a quick combo.
 -   [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) requires [Murmur: Tacet](Murmur%253A_Tacet.md) to unlock. It's an overhead, teleporting dropkick used to knockdown opponents and confuse them of your position.
 
-For more information on these Matnras, such as their requirements and other in-depth information, visit their pages.
+For more information on these Mantras, such as their requirements and other in-depth information, visit their pages.
 
 ## Talents
 

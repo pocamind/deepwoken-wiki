@@ -1,9 +1,9 @@
 ---
 title: Samael
-revid: 174455
+revid: 174457
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
+categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
 ---
 
 # Samael
@@ -11,9 +11,8 @@ categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Traine
 | Samael | |
 |---|---|
 | name | Samael |
-| aspect | Canor |
 | location | Derelict Highchurch |
-| affiliation | The Starkindred Faith |
+| affiliation | The Starkindred Church |
 
 “ There are those of the faith - like myself - who swear an Oath to the Church. Through the Ichor that runs through our veins, we dedicate our lives to its protection. We prevent it from falling into the wrong hands. ”
 
@@ -370,6 +369,3 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 ## Trivia
 
 -   Of the currently playable aspects in-game, Samael cannot be any of the following based on the absence of their defining traits: Adret, Capra, Chrysid, Ganymede, Gremor, Tiran, or Vesperian. This narrows the possibilities to Canor, Celtor, Etrean, and Khan.
--   Samael is most likely a Canor, as his facial decal resembles that of one. He also appears to fall under age tier 1, roughly around the equivalent of 40 years old.
--   Some theories suggest that Samael could be an Angel, a supposedly unobtainable aspect. Considering that certain Angels are known to be Thralls of Enmity, it’s possible that Samael maintains a working connection with the Depths itself. Although unlikely as the Starkindred do seem genuinely against the depths and on the side of the Celestials. As seen in his new dialogue.
--   Another explanation proposes that Samael’s altered appearance is the result of prolonged or excessive exposure to Celestial Ichor, which may have drastically affected his physical form.

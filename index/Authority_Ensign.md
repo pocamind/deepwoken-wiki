@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 174414
+revid: 174524
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -309,8 +309,9 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Prerequisites: Oppressive Force
 -   **Amp Overdrive** - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
-    -   While guardbreaks cannot be vented, the extended stun (starting at 1.05s) can be vented.
+    -   While guardbreaks normally cannot be vented, the extended stun (starting at 1.05s) can be vented.
 -   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
+    -   Increases your posture damage by 0.1% per 1% health missing, up to a maximum of +10% posture damage against someone at 0% health.
 -   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
     -   You need to reach a threshold of 150 damage dealt with [Thundercall](Thundercall.md) Mantras will proc this Talent.
     -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
