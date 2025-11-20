@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 170419
+revid: 174431
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -122,7 +122,7 @@ An event that happens in [Starswept Valley](The_Starswept_Valley.md) or [Minityr
 
 #### Ministry Necromancer
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only be aggro'd if it sees a player or provoked by an attack.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use [Shadowcast](Shadowcast.md) and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only be aggro'd if it sees a player or provoked by an attack.
 
 ### Eastern Luminant
 
@@ -154,10 +154,6 @@ In the [Ancient Rotlands](Ancient_Rotlands.md), [an enemy](Maljuror.md) may spaw
 
 A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to (with a good reputation) and can also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
 
-#### Serena
-
-A NPC called [Serena](Serena.md) will spawn in [Starswept Valley](The_Starswept_Valley.md) sitting down, asking for water from a [Canteen](Canteen.md). Upon giving her a canteen, she will either attack the player or accept the drink. If she accepts the water or if you beat her in a fight, a chest will spawn. She may also attack the player if she is not given a canteen.
-
 #### Summer Isle Bandit Raid
 
 Groups of bandits engage the guards of [Summer Isle](Summer_Isle.md) in various locations. There are two main types:
@@ -179,7 +175,7 @@ Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_
 
 #### Meteor Isle Meteor
 
-A meteor will hit [Meteor Isle](Meteor_Isle.md), spawning [Meteorskippers](Mudskipper.md) in waves. Killing all of them will despawn the meteor and award XP and a golden chest at the center of the meteor.
+A meteor will hit [Meteor Isle](Meteor_Isle.md), spawning [Mudskipper Knights](Mudskipper_Knight.md) in waves. Killing all of them will despawn the meteor and award XP and a golden chest at the center of the meteor.
 
 #### Alpha Megalodaunt vs Desert Knight
 
@@ -389,7 +385,7 @@ The first order is to use a mantra, the second order is to choose a clone that i
 
 An uncommon event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
-The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player. After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers, or obtain the origin Deepbound. If the player were to have more than 75 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 75 Charisma will get you killed.
+The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player. After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to obtain the origin Deepbound. If the player were to have 100 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 100 Charisma will get you killed.
 
 -   See [Akira](Akira.md)
 
@@ -407,7 +403,7 @@ Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Hero
 
 #### The Meat Lord
 
-[The Meat Lord](The_Meat_Lord.md) is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md) and [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange for 2 notes each. You must bow down every time you buy from him or else he will ignore you.
+[The Meat Lord](The_Meat_Lord.md) is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>), [Saramaed Summit](Saramaed_Summit.md), [Songseeker Wilds](Songseeker_Wilds.md), [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md), [The Garden Reservoir](The_Garden_Reservoir.md), [The Hidden Village](The_Hidden_Village.md), [Towerstruck Lands](Towerstruck_Lands.md), [Viper's Jaw](<The_Viper's_Jaw.md>) and, [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange for 2 notes each. You must bow down every time you buy from him or else he will ignore you.
 
 #### Stranger NPC
 
@@ -419,7 +415,7 @@ The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble thro
 
 #### Resonant Dawn
 
-A meteor crashes down into the area, spawning a [Star Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Star Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
+A meteor crashes down into the area, spawning a [Star Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Star Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Saramaed Summit](Saramaed_Summit.md), [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
 
 This event is **VERY RARE** and the odds of it happening are near zero. You have a better chance just getting Resonance yourself.
 

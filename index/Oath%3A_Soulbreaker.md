@@ -1,9 +1,9 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 174395
+revid: 174435
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Oaths]
+categories: [Oaths]
 ---
 
 # Oath: Soulbreaker
@@ -181,8 +181,6 @@ February 8th 2025
 -   Mobility mantra slot is replaced by Wildcard mantra slot.
 -   Rhythm Advance's posture damage is increased.
 -   Ardour Slicer's endlag is increased slightly.
-
-File:Incompetent tester.png
 
 ## Trivia
 

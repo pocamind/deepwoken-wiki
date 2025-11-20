@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174393
+revid: 174442
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3520,7 +3520,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Thunder Brawler
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - \[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
-    -   Damage scales with Thundercall investment. ~5 base damage, with 5 Thundercall scaling (0.025 per point)
+    -   Has base DMG of 5 and Thundercall scaling 5 (Formula to calculate scaled DMG: "base damage \* (1 + (scaling / 10) \* (Thundercall Investment / 100))")
+    -   Has 6.48x PVE scale (5.35 DMG PVP, 34,78 DMG PVE), affected by chain of perfection.
     -   The effect lasts for 30 seconds.
     -   Prerequisites: 20 Light Weapon, 15 Thundercall
 
@@ -3667,6 +3668,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
 
 -   _Turning of the Wheel_ \[Rare Talent\] \[Twinblades\] - After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.
+    -   This Talent is currently bugged and does not increase your swingspeed on proc.
     -   Prerequisites: 75 Medium Weapon, Twinblade equipped.
 
 ### Twisted Puppets
