@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 174368
+revid: 174453
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -322,11 +322,12 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _If anyone asks - you didn't get this from me. Capiche?_
 -   _It's Antique! Scratch that, Brand New!_
 -   _It's just good business._
--   _Just warning ya, you 'might' be a wanted person in multiple places after buying this. Don't go wavin' that around._
+-   _Just warning ya, you \*might\* be a wanted person in multiple places after buying this. Don't go wavin' that around._
 -   _Man - it's been a like a whole hour, and my seafood boil isn't here yet! For all the talk The Meatlord gets, he's kind of a slowpoke._
 -   _Maybe clean this when you get a minute._
 -   _Maybe I should get into mystery boxes... You'd buy one right?_
 -   _Might need to steal me a sweater, gettin 'a little chilly up here._
+-   _Next time, if you come wearing a full clown outfit, I might give you a discount... Pff!_
 -   _Never again will I make the mistake of using one of these._
 -   _No questions, no returns._
 -   _Not sure if I really want to let this one go... if that makes you want it more?_

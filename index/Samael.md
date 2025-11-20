@@ -1,11 +1,9 @@
 ---
 title: Samael
-revid: 174014
+revid: 174455
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
-notices:
-  - This page is currently being worked on. Oathbreak Dialogue Missing
+categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
 ---
 
 # Samael
@@ -341,6 +339,27 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 </tr>
 <tr>
   <td colspan="4">You enter this sanctum with a mind full of <i>false ideals</i>. Savour this most holy of sights, but know that the path it promises is forever closed to you.</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
+</tr>
+</tbody>
+</table>
+
+**Oathbreaking Starkindred:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Initial dialogue in Temple of Hearts</td>
+  <td colspan="2">Subsequent Encounters with Samael</td>
+</tr>
+<tr>
+  <td colspan="2">The Stars were never yours to lay claim to. You're just another heretic rejected by the blood.</td>
+  <td colspan="2">Treacherous worm. Leave.</td>
 </tr>
 <tr>
   <td colspan="4">End</td>

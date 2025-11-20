@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 172176
+revid: 174446
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -328,8 +328,8 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="3">Obtain Kyrsan Medallions</td>
-  <td colspan="3">Already showed Klaris Medallions?</td>
-  <td colspan="6">Met Carrion? Saw Carrion? Talked to Carrion? Completed Carrion dialogue?</td>
+  <td colspan="3">Shown Kyrsan Medallions previously</td>
+  <td colspan="6">Meet Dr. Carrion in the Grand Library of New Kyrsa</td>
 </tr>
 <tr>
   <td colspan="3">Know anything about this? [Show Kyrsan Medallion]</td>
@@ -473,7 +473,7 @@ Radiant Teachings
   <td colspan="6">Progressing Dawnwalker</td>
 </tr>
 <tr>
-  <td colspan="3">Hm. Perhaps. you have the potential. Child, do you swear to carry the Light as a weapon against the Deep? To weild the <a href="Glossary.md#the-song">Song</a> only as a Radiant Blade against that which it beckons?</td>
+  <td colspan="3">Hm. Perhaps. you have the potential. Child, do you swear to carry the Light as a weapon against the Deep? To wield the <a href="Glossary.md#the-song">Song</a> only as a Radiant Blade against that which it beckons?</td>
   <td colspan="3">Your soul belongs to another. I cannot teach you.</td>
   <td colspan="6">I will teach you the next stages of the morning light. Now, listen...</td>
 </tr>

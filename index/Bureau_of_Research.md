@@ -1,8 +1,9 @@
 ---
 title: Bureau of Research
-revid: 173221
+revid: 174450
 source: https://deepwoken.fandom.com/wiki/Bureau_of_Research
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [The Central Authority, Lore]
 ---
 
 # Bureau of Research

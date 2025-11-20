@@ -1,8 +1,9 @@
 ---
 title: Gawain Corbet
-revid: 172657
+revid: 174451
 source: https://deepwoken.fandom.com/wiki/Gawain_Corbet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Lore, The Ignition Union]
 ---
 
 # Gawain Corbet

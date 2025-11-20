@@ -1,9 +1,9 @@
 ---
 title: Job Boards
-revid: 171986
+revid: 174452
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Quests]
+categories: [Quests, Mechanics]
 ---
 
 # Job Boards
