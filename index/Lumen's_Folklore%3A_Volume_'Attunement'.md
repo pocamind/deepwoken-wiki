@@ -1,6 +1,6 @@
 ---
 title: "Lumen's Folklore: Volume 'Attunement'"
-revid: 147132
+revid: 174604
 source: https://deepwoken.fandom.com/wiki/Lumen's_Folklore%3A_Volume_'Attunement'
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Books#Lumen's Folklore: Volume 'Attunement'](Books.md#lumens-folklore-volume-attunement)
+-   [Lumen's Folklore#Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>)

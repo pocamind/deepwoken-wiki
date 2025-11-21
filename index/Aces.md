@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 162281
+revid: 174620
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Skills, Talents]
@@ -17,6 +17,8 @@ categories: [Character, Skills, Talents]
 5.  Having the [Ace of Spades](Regalia.md#ace-of-spades) Regalia grants an additional 20 starting Aces.
 
 With all sources combined, you can have a maximum of 28 Aces per character, 48 if you have Ace of Spades.
+
+_**NOTE: Currently, upon burning a card, the burn and freeze buttons will disappear. This is fixed by closing and reopening the Talent card selection menu.**_
 
 ## Burns
 
