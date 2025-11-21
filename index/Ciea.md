@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 173874
+revid: 174596
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -12,7 +12,7 @@ categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 |---|---|
 | name | Ciea |
 | aspect | Vesperian |
-| location | Starswept Valley(Near Widow's Hollow and next to Shrine of Mastery |
+| location | Starswept Valley (Near Widow's Hollow and next to Shrine of Mastery) |
 
 “ My protege! Care to undergo another lesson? I'll put your intellect to the test! ”
 
@@ -41,6 +41,8 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
 Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
 
 ## Dialogue
+
+These colors in dialogue are for convenience. They do not appear in-game.
 
 **First Encounter:**
 
@@ -104,7 +106,7 @@ Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the 
 <tr>
   <td colspan="3">No, no. Please hold out a fine concoction.</td>
   <td colspan="3">No, no, this isn't a potion dear apprentice! Surely you're not attempting to prank me, hehe.</td>
-  <td colspan="3">Ah, dear apprentice.. it seems your knowledge is lacking. Experiment with your creations, hehe! This potion lacks the ability to cause harm to its victim. Perhaps you've shown me the wrong one? Please, hold out another and I'll inspect it.</td>
+  <td colspan="3">Ah, dear apprentice.. it seems your knowledge is lacking. Experiment with your creations, hehe! This potion lacks the ability to [bring forth a surge of speed]/[deplete the sanity of it's victim]/[restore your life force]/[cause harm to its victim]/[restore your ether, to a satisfactory degree]. Perhaps you've shown me the wrong one? Please, hold out another and I'll inspect it.</td>
   <td colspan="3">A protege! Dear apprentice, this is it! You truly are an inspiring apothecary! I hope you've gained newfound knowledge of this unique art. Please, I insist you return to me if you ever seek additional lessons; I'm available anytime.</td>
 </tr>
 <tr>
@@ -135,7 +137,3 @@ Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the 
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   The colors in Dialogue are for convenience. They do not display in-game.

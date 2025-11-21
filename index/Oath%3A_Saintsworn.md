@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 173990
+revid: 174601
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -94,7 +94,7 @@ Alternatively you can use 10 to skip the progression if you've fully progressed 
     -   By pressing 'L', your weapon changes to the Saintsblade, which is required to use anything related to this Oath. The Saintsblade boasts a staggering **28** Damage, **10%** Penetration, a swing speed of **1.04x**, a weight of **7**, and a range of **8.5**.
         -   The Saintsblade doesn't scale off of any attribute or trait, nor does it apply elemental status effects. It does, however, gain extra PEN from Proficiency.
         -   The Saintsblade shares the star value from your normal weapon, but it won't carry over the Enchant due to effectively being a Legendary Weapon.
-            -   However, if you have an Enchantment that applies a status effect onto the enemy (e.g. Grim, Sear, or Solar), they will stay active upon switching back to the Saintsblade.
+            -   However, if you have an Enchantment that applies a status effect onto the enemy (e.g. Grim, Sear, or Solar), they will stay active upon switching back to the Saintsblade. (But this is not reccomended, cause usually enchant effect wears off your main weapon too) Visually saintblade can be enchanted, but that does not proc effects of the enchant
     -   Criticals - The critical of your Saintsblade will match the corresponding [Hero Blade](Hero_Blades.md) for your current Saint Stance. Using your critical will cycle your Saint Stance.
 
 -   **Saint Stances**
@@ -218,6 +218,10 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 **Frostdraw Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
 
 **Thundercall Obelisk**: "Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
+
+## Gallery
+
+**Harrowing Enchanted Saintblade**
 
 ## Trivia
 

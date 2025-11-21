@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 172898
+revid: 174600
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Mechanics, Currency]
@@ -47,9 +47,9 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
     1.  For **20 Joy**: You can buy a random Master [Outfit](Outfits.md). Useful to get [Celtorian Tideknight](Celtorian_Tideknight.md).
     2.  For **80 Joy**: You can buy a Hallowtide-exclusive shield, the [Gourdguard](Gourdguard.md).
     3.  For **100 Joy**: You can buy All Hallowtide-exclusive weapons. The cost is 100 Joy per weapon.
-        -   **Light Weapons**: [Skull Piercer](Skull_Piercer.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Spectral Grasp](Spectral_Grasp.md).
-        -   **Medium Weapons**: [Hallowscleave](Hallowscleave.md), [Bloodtide Trident](Bloodtide_Trident.md), [Death's Reverie](<Death's_Reverie.md>).
-        -   **Heavy Weapons**: [Skyreap Blade](Skyreap_Blade.md), [Putrid Edenstaff](Putrid_Edenstaff.md), [Wretched Mawblades](Wretched_Mawblades.md).
+        -   **Light Weapons**: [Skull Piercer](Skull_Piercer.md), [Drakemaw Gauntlets](Drakemaw_Gauntlets.md), [Spectral Grasp](Spectral_Grasp.md), [Moppet](Moppet.md).
+        -   **Medium Weapons**: [Hallowscleave](Hallowscleave.md), [Bloodtide Trident](Bloodtide_Trident.md), [Death's Reverie](<Death's_Reverie.md>), [The Weaving Web](The_Weaving_Web.md).
+        -   **Heavy Weapons**: [Skyreap Blade](Skyreap_Blade.md), [Putrid Edenstaff](Putrid_Edenstaff.md), [Wretched Mawblades](Wretched_Mawblades.md), [Smouldering Hallow.](Smouldering_Hallow.md)
     4.  For **150 Joy**: You can buy a [Harrowing](Harrowing.md) [Enchant Stone](Enchant_Stone.md).
     5.  For **300 Joy**: You can buy the [Pumpkin Pitch](Pumpkin_Pitch.md) mantra.
 
@@ -62,4 +62,4 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
 ## Trivia
 
 -   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md) from [Lysander Spellhardt](Lysander_Spellhardt.md).
--   Joy given from all sources was buffed in the [November 8th, 2024 Hotfixes update](Version_History/2026.md#patch-202a).
+-   Joy given from all sources was buffed in the [November 8th, 2024 Hotfixes update](Version_History/2024.md#patch-202a).
