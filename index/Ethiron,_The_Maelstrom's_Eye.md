@@ -1,6 +1,6 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 174429
+revid: 174585
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -24,6 +24,8 @@ Ethiron is one of the most powerful beings in Deepwoken due to being a Drowned G
 
 Ethiron has a personal domain of his own in the depths being the Second Layer. Despite having a lot of control in the Second Layer, showing how in the first floor, [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md), is constantly showing its effects, some other powers of Ethiron have less effects in certain parts of the Second Layer, for example the time dilatation effects can only be seen in Floor 2 and in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md) in the Second Floor in the weakest way. This can probably mean that some parts of the Second Layermhe has less control over, for example the Ignition Union base and the multiple safepoints in the Second Layer are unaffected by Ethiron's powers, at least in his weakened state.
 
+During Ethiron's slumber, he collected information present and assembled a crude form to resemble a Black Diver, which he dubbed [Mendacia](Mendacia.md), though several of the details were wrong. He also awakens the Scion of Ethiron to do his bidding against his enemies.[\[2\]](#cite-note-2)
+
 ## Trivia
 
 -   The true boss' of the Second Layer is named The Scion of Ethiron. Scion has two definitions. The first being "descendant of royalty," which suggests this "final boss" of the Second Layer may only be apart of a bloodline of these monsters. The second being "a young shoot or twig of a plant," likely referring to the fact that the Scion of Ethiron is just a small part of the Drowned God it resembles.
@@ -32,3 +34,4 @@ Ethiron has a personal domain of his own in the depths being the Second Layer. D
 ## References
 
 1.  [↑](#cite-ref-1) [Naerotiv](Naerotiv.md)
+2.  [↑](#cite-ref-2)

@@ -1,42 +1,73 @@
 ---
 title: Item Bank
-revid: 173322
+revid: 174586
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Item Bank
 
-File:Item bank.png
-
-Hallowtide items stored in item bank.
-
-File:1 Knowledge offering to put in enchanted sacred hammer in the item bank.png
-
-1 Knowledge offering to put in enchanted sacred hammer in the item bank
-
 ## Overview
 
-The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any [Banker](Banker.md) (NPCs that you turn in artifacts to), or a hired Banker inside the Trophy room of the [Guild Base](Guild_Bases.md). You start off with 6 item slots which can be expanded by paying 1,000 /2500 /5000 /10000, increasing every 6 slots for a maximum slot count of 102 (17 rows). To store an item, drag an item from your inventory to a slot in the bank.
+The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any [Banker](Banker.md), including the one found in the [Guild Base](Guild_Bases.md). To store an item, click and drag an item from your inventory to a slot in the bank.
+
+Item Banks initially have 6 item slots, though you can purchase more with Notes. The Note cost per slot increases based on the amount of slots you have. The item slot count caps at 102, being 17 full rows.
+
+#### Cost Per Slot
+
+Unlocking every slot in the Item Bank costs 411,000.
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th># of slots</th>
+  <th>per slot</th>
+</tr>
+<tr>
+  <td>1-6</td>
+  <td>Free</td>
+</tr>
+<tr>
+  <td>7-12</td>
+  <td>500</td>
+</tr>
+<tr>
+  <td>13-18</td>
+  <td>1,000</td>
+</tr>
+<tr>
+  <td>19-24</td>
+  <td>2,500</td>
+</tr>
+<tr>
+  <td>25-60</td>
+  <td>5,000</td>
+</tr>
+<tr>
+  <td>61-102</td>
+  <td>10,000</td>
+</tr>
+</tbody>
+</table>
 
 ## Restrictions
 
 Along with this ability comes several limitations, being that certain items of significance are treated differently or have requirements to be stored in the bank.
 
--   When storing any items that are not droppable, such as Relics, Rare Monster Parts, or **Soul-bounded** Hero Blades, Legendary [weapons](Weapons.md) and [enchants](Enchantments.md), you will be prompted to spend 1 [Knowledge](Knowledge.md) to perform a "Vow of Safekeeping".
--   When storing any eligible [Relics](Relics.md), each individual relic will have to be deposited one at a time, however will stack in the bank.
--   When storing weapons or armor, they will take up their own slot and cannot stack like regular items do.
--   Starter echoed items cannot be stored.
--   You can store food that can be stacked.
--   You can have a max of 100,000 notes in your bank account at a time.
+-   When storing any items that are not droppable, such as most [Relics](Relics.md), Rare [Monster Parts](Monster_Mantras.md), **Soul-bounded** [weapons](Weapons.md) or [equipment](Equipment.md), or [Hallowtide](Hallowtide.md) exclusive items, you will be prompted to spend 1 [Knowledge](Knowledge.md) to perform a "Vow of Safekeeping" to bank the item.
+    -   Some Unique or Legendary tier items will require a Vow of Safekeeping to be banked, even if it hasn't been soulbound.
+-   When storing any eligible [Relics](Relics.md), each individual Relic will have to be deposited one at a time, however will stack in the bank.
+-   When storing weapons or equipment items, they will take up their own slot and cannot stack like regular items do.
+-   Starter weapons obtained from [Echoes](Echoes.md) cannot be banked unless they are [enchanted](Enchantments.md).
+-   You can have a max of 100,000 Notes in your bank account at a time.
+-   Attempting to stack an item that you already have stored while having all slots filled will not work, and you will have to take an item out to complete your stack.
+    -   For example, if you have 5 [Mushroom Soup](Mushroom_Soup.md) stored in your bank, and you are trying to stack another 5, you may need to remove a different item first.
 
 ## Miscellaneous
 
 -   The item bank follows the rules of how items are displayed in chests: if an item in a chest stacks, then it can stack in the bank.
--   [Hallowtide](Hallowtide.md) weapons and equipment can be stored but will follow the soulbound rule regardless if they are enchanted or not.
--   Starter advanced weapons can be stored by enchanting them.
--   You cannot store [Campfires](Campfire_Pit.md)... or any other tool.
+-   You cannot store any item in the tools category.
+-   Most quest rewards (like the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) and [Poser's Ring](<Poser's_Ring.md>)) cannot be banked.
 -   You cannot be attacked while in the GUI.
--   Unlocking every slot in the Item Bank costs a total of 411,000 notes.
--   You cannot store [Pleeksty's Inferno](<Pleeksty's_Inferno.md>).
+-   [Food](Food.md) items can be banked.

@@ -1,6 +1,6 @@
 ---
 title: Tillian
-revid: 172911
+revid: 174588
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, NPCs, Pages with broken file links]
@@ -11,7 +11,7 @@ categories: [World Event, NPCs, Pages with broken file links]
 | Tillian | |
 |---|---|
 | name | Tillian Arlekino[1] |
-| aspect | Canor (Albino) |
+| aspect | Canor |
 
 ## Description
 

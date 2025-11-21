@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 171099
+revid: 174568
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
@@ -27,15 +27,13 @@ He appears as an aged Adretian man with red eyes and markings, with a faded scar
 
 Much like the rest of him, his personality is still a mystery. Unlike most members of The Authority, he appears to actually pity the [Etreans](Etrea.md), knowing that [The Lord Regent](The_Lord_Regent.md) is dragging them into this 'war they cannot understand' and sees their Lord Regent as a 'thing' rather than a person.
 
-At one point he was positioned in the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), but he left it and his [journal](Journal_of_Warden_Jericho.md) behind after the Etrean navy became wise to its position.
-
-He dons a [Red Royal Duelist](Royal_Duelist.md) and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on one hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields the Rite of Authority saber.
+He dons a Red Royal Duelist and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on his hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields the [Rite of Authority](Rite_of_Authority.md).
 
   
 
 ## Location
 
-Warden Jericho is located inside of the large castle at [Fort Merit](Fort_Merit.md).
+Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fort_Merit.md).
 
 ## Dialogue
 

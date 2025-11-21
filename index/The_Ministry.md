@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 174495
+revid: 174592
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Ministry]
@@ -23,13 +23,13 @@ notices:
 
 The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to achieve Godhood. They are led by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who pioneered [Bloodrend](Bloodrend.md) and spread it to their followers in the form of an Oath, and the Fourth, Zi'eer, being the current Lord Regent of Etrea. They have some sort of hostility against [The Children of Navae](The_Children_of_Navae.md) and desire to clear them out of [Summer Isle](Summer_Isle.md), presumably due to The Children of Navae's allegiance with a [Celestial](Celestial.md), Navae, while the Ministry seeks the favor of the Drowned Gods. This is a rather one-sided rivalry.
 
-Many years ago, they conquered Minityrsa and made it their own territory. After the King of Etrea disappeared, which they may well have had a hand in, they installed the Fourth Prophet as its [Lord Regent](The_Lord_Regent.md).
+The exact time frame for their founding is unclear, but by 1272,[\[1\]](#cite-note-1) the original incarnation of the Ministry who had fought to conquer [Minityrsa](Minityrsa.md) were considered ancient.[\[2\]](#cite-note-2)
 
 They are responsible for the drowning of [Celtor](Lost_Celtor.md). The city was drowned as an offering to Yun’Shul, though they did not care for the surprise gift and did not give the Ministry any reward for it.
 
 They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
 
-They are refered to as originating from the [Western Luminant](Luminants.md#western-luminant).[\[1\]](#cite-note-1)
+They are refered to as originating from the [Western Luminant](Luminants.md#western-luminant).[\[3\]](#cite-note-3)
 
 ## Reputation
 
@@ -68,4 +68,6 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 ## References
 
-1.  [↑](#cite-ref-1) [Cestis](Cestis.md)
+1.  [↑](#cite-ref-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
+2.  [↑](#cite-ref-2) [Gran Sudaruska](Gran_Sudaruska.md) description
+3.  [↑](#cite-ref-3) [Cestis](Cestis.md)

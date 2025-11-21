@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174550
+revid: 174573
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4094,7 +4094,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.
     -   This deals 7 **typeless** damage per Chain of Perfection stack. Deals 166 **typeless** damage per Chain of Perfection stack in PvE.
-    -   The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 150 typless PvP damage or 3.5k typeless PvE damage at maximum chain stacks.
+    -   The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 150 typeless PvP damage or 3.5k typeless PvE damage at maximum chain stacks.
     -   The damage this deals can be increased with damage modifiers, though it is not considered weapon damage so it is fairly difficult to buff.
     -   Finishing Slay has no cooldown, allowing for multihit criticals to benefit from it multiple times. However, finishing slay can only proc once per damage instance in a critical hit, for example if you hit three targets with your critical, Finishing Slay will only proc on one of them, and the other two will not take any additional damage.
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
@@ -4440,6 +4440,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   If you have the wind shield active and a Talent that allows you to parry unparryable monster attacks, such as Force Your Way or Diver's Resilience, you will autoparry them.
 
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
+    -   Grants a 10% speed boost for 8 seconds.
+    -   10 second cooldown.
 
 -   Winter's Protection [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Increases the time it takes for the [Second Layer](Second_Layer.md)'s parasites to kill you.

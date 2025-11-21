@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 172913
+revid: 174595
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons, Items]
@@ -54,8 +54,9 @@ The critical has a cooldown of **45 seconds**.
 -   The spiderling won't despawn if it attacks someone, allowing to spawn more than one if you manage to keep them agroed on someone.
 -   The Weaving Web shares a synergy with the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) due to the spiderling counting as a summon.
 -   In dungeons, after using critical an explosion will appear. The explosion is purely cosmetical and does no damage.
+-   Spiderling's spawned by a [Visionshaper](Oath%253A_Visionshaper.md) clones or [Lightning Clones](Thundercall.md#lightning-clones) will be able to target you, as they're technically not _your_ summon.
 
 ## Trivia
 
--   The weapon uses the [Skyreap Blade](Skyreap_Blade.md) two attack animations when one handed and the [Imperial Staff](Imperial_Staff.md) animations when one handed.
+-   The weapon uses the [Skyreap Blade](Skyreap_Blade.md) M1 animations when two-handed and the [Imperial Staff](Imperial_Staff.md) animations when one-handed.
 -   This is the second spear to deal blunt damage.
