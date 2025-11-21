@@ -1,6 +1,6 @@
 ---
 title: Warped Blue Gem
-revid: 173615
+revid: 174549
 source: https://deepwoken.fandom.com/wiki/Warped_Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems, Relics]
@@ -18,7 +18,7 @@ categories: [Items, Mantras, Deep Gems, Relics]
 | droppable | Yes |
 | pass down | No |
 | desc | Warn down and clouded by the tides, this Blue Gem's full power is only available to those in tune with the sea. Perhaps it can be used for something else?While in water, reduces the total Ether cost of a Mantra by 50%. |
-| obtainment | Fishing (extremely rare), Authority Ensign Missions (extremely rare) |
+| obtainment | Fishing (extremely rare), Authority Ensign Missions (extremely rare), Sea Events (extremely rare) |
 
 ## Description
 

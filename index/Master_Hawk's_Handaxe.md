@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 163842
+revid: 174552
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -18,7 +18,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | swing speed | 0.8x |
 | penetration | 5% |
 | chip damage | 25% |
-| special effect | Battle Frenzy - Gain posture resistance against Mantras, with the resistance scaling on how many combat tags you have. |
+| special effect | Battle Frenzy - Reduces the posture damage of Mantras based on the amount of combat tags you have. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |
@@ -39,7 +39,9 @@ Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. 
 
 ### Talent: Battle Frenzy
 
-Gain posture resistance to Mantras, with this effect scaling on how many combat tags you have. This effect also works in PvE, but because you cannot stack PvE combat tags, it will be much less effective as it cannot scale.
+Reduces the posture damage of incoming Mantras by 1 (flat) per combat tag you have. This is applied per hit, and can go into the negatives if the posture damage on the attack is lower than the amount of combat tags you have. When this happens, the Mantra will restore your posture instead.
+
+This effect also works in PvE, but because you cannot stack PvE combat tags, it will be much less effective.
 
 ## Critical
 

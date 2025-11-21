@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174525
+revid: 174550
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4053,8 +4053,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 
 -   Battle Frenzy: [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character.
-    -   Grants Posture resistance against Mantras, scaling up in effectiveness based on how many combat tags you have.
-    -   Works in PvE, but you cannot have more than 1 PvE combat tag, unlike what you can do with PvP ones, leading to lessened potential effectiveness.
+    -   This reduces the posture damage of incoming Mantras by 1 (flat) per hit, per combat tag you have.
+    -   If you have more combat tags than the Mantra does posture damage, this can go into the negatives and your posture will be restored instead.
+    -   Works in PvE, but you cannot have more than 1 PvE combat tag, so it won't be very effective.
 
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) now deal extra damage based on how much Willpower you have.
     -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals physical damage.

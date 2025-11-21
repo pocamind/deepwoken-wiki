@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 169442
+revid: 174539
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Legs, Boots, The Divers]
@@ -15,7 +15,7 @@ categories: [Items, Equipment, Legs, Boots, The Divers]
 | selling price | 50 |
 | requirements | Level 10 |
 | weight | 1 |
-| innate stats | +5 Health, +1 Legendary Pip, +2 Rare Pips |
+| innate stats | +5 Health, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Abyss Wanderer's Plate, Abyss Wanderer's Boots |
 | set talent | N/A |

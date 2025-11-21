@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 170622
+revid: 174546
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -38,7 +38,7 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical Armor, +25% Elemental Armor, and +10% Shadow Armor. Additionally, it provides the [Demon Step](Talents.md#demon-step) Talent.
+This Outfit has 2500 durability and grants +25% Physical Armor, +25% Elemental Armor, and +10% Fire Armor. Additionally, it provides the [Demon Step](Talents.md#demon-step) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 32.5% Flamecharm, and 25% Elemental.
 

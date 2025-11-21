@@ -1,9 +1,9 @@
 ---
 title: Tiran
-revid: 168418
+revid: 174558
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects, Character]
+categories: [Pages with broken file links, Aspects]
 ---
 
 # Tiran

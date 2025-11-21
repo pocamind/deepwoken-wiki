@@ -1,6 +1,6 @@
 ---
 title: Nocturnal Gem
-revid: 173191
+revid: 174556
 source: https://deepwoken.fandom.com/wiki/Nocturnal_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
@@ -40,3 +40,7 @@ Upon landing a Mantra with a Noctural Gem equipped, an eruption of bats will occ
 -   Nocturnal Gem does not have hitstun and cannot trigger shaky block.
 -   The damage this Gem deals cannot be increased with damage modifiers. The Brain [Food Buff](Status_Effects.md#food-buff) is the only way to directly increase its damage outside of [Chain of Perfection](Talents.md#chain-of-perfection).
 -   Nocturnal Gem has a 6.48x PvE multiplier, dealing 64.8 damage in PvE at Power 20 before [Chain of Perfection](Talents.md#chain-of-perfection).
+
+## Trivia
+
+-   Despite being [Relic](Relics.md) rarity, Nocturnal Gems can be banked without a Vow of Safekeeping.
