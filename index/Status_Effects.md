@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 174670
+revid: 174705
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -179,6 +179,7 @@ Special brews created by Alchemists. Potion effects vary heavily based on the in
 -   **Sanity Deprecation** - Reduces your sanity over time. Applied through Mindbreaker Banes/Blights/Potions.
 -   **Speed Boost** - Grants a [speed boost](#speed-boost). Applied through Hastening Potions/Elixirs/Salves/Tinctures.
 -   **Slowing** - Grants a speed debuff. Applied through Slowing Blights.
+-   **Blood Restoration** - Restores blood. Applied through Revitalizing Potions.
 
 ## Attunement Applied
 
