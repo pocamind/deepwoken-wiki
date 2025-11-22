@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 173527
+revid: 174685
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Event Only Content, Hallowtide]
@@ -26,9 +26,9 @@ If you are near another player, the prompt to play a song now adds Play Along, s
 
 To access songs, you must read the corresponding book. These books can be obtained from either searching through a bookshelf or buying them from a [Merchant Ship](Travelling_Merchant.md). The current books in the game that give you shanties are:
 
--   [The Song of Fathoms / Oscillation](Books.md#the-song-of-fathoms--oscillation)
--   [The Gideshu March](Books.md#the-gideshu-march)
--   [A Light In The Sky](Books.md#a-light-in-the-sky)
+-   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
+-   [The Gideshu March](The_Gideshu_March.md)
+-   [A Light In The Sky](A_Light_In_The_Sky.md)
 
 **The following songs can be played on the instruments:**
 

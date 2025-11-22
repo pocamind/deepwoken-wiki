@@ -1,9 +1,9 @@
 ---
 title: Naerotiv
-revid: 174424
+revid: 174700
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, NPCs, Floor 2, Layer 2]
+categories: [Kyrsan NPCs, NPCs, Floor 2, Layer 2, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Naerotiv

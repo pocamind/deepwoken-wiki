@@ -1,0 +1,26 @@
+---
+title: Vow of Iron
+revid: 174695
+source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Upcoming content, Mementos, Character]
+notices:
+  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
+---
+
+# Vow of Iron
+
+“ Wield the memories of the fallen.  
+The path ahead is not a forgiving one. ”
+
+― Memento description
+
+## Description
+
+Each Memento plays differently and has its own pool of Talents and Mantras to purchase.
+
+Face greater challenges. Surpass the memories you inherit.
+
+Any death will send you to the Depths.
+
+Banking and trading are disabled.

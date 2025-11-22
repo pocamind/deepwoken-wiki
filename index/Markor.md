@@ -1,6 +1,6 @@
 ---
 title: Markor
-revid: 174639
+revid: 174676
 source: https://deepwoken.fandom.com/wiki/Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations in the Central Luminant, Locations, Territory of The Central Authority]

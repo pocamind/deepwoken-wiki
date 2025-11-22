@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 170870
+revid: 174673
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -79,11 +79,12 @@ Neutral-Bad Reputation:
 
 [Trig](Trig.md): A Gremor located near the Inn in Summer Isle who tasks the player to find Asius, an Adret who hasn't been paying the Summer Company his dues.
 
-[Mag](Mag.md): A Gremor inside the bowels of the Summer Castle who can turn ores into bullet casings, he is implied to be an Ironsinger due to to being the only one who deals with metals.
+[Mag](Mag.md): A Gremor inside the bowels of the Summer Castle who can turn ores into bullet casings, he is implied to be an Ironsinger due to to being the only member who deals with metals.
 
 ## Trivia
 
 -   Despite being on very good terms with the Central Authority, the [Authority Ensign](Authority_Ensign.md) Origin spawns with Neutral reputation with the Company. In contrast the Divers and, ironically, the Union spawn with Friend reputation.
+-   There is presumably an **[Ironsinger](Ironsing.md)** among their ranks because the [Summer Dragoon](Summer_Dragoon.md) armor has Ironsing resistances and is implied to be Mag due to how he can make bullet casings with ore.
 -   All the named members of Summer Company are named after parts of guns.
     -   [Scope](Scope.md) is named after the scope.
     -   [Trig](Trig.md) is named after the trigger.

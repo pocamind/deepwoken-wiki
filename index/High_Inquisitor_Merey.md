@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 168503
+revid: 174677
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -232,7 +232,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 
 **Inquisition Division:**
 
-**Inquisitor:**
+**Inquisitor / Inquisitor 1st Class:**
 
 **First Encounter:**
 
@@ -245,10 +245,10 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td><i>*The High Inquisitor nods at you, but her demeanor remains steeled.*</i> Once again, welcome to the Inquisition of the Central Authority, soldier. I must offer a proper introduction. -I am High Inquisitor Merey, the leader of your division. I advise you to learn and understand the weight and importance of your position within the Authority's ranks and to represent me and my team adequately. Restraint and conscientiousness are the most important values an Inquisitor can have. Remind me your name and rank, Inquisitor?</td>
 </tr>
 <tr>
-  <td>I am [Rank and Full name], ma'am.</td>
+  <td>I am [Rank] [Full Name], ma'am.</td>
 </tr>
 <tr>
-  <td>*You give the High Inquisitor your most rigid salute. She responds kind, in her typical austere fashion.* Good to have you on board, Inquisitor, Is there anything you'd like to know about?</td>
+  <td>*You give the High Inquisitor your most rigid salute. She responds kind, in her typical austere fashion.* Good to have you on board, [Rank], Is there anything you'd like to know about?</td>
 </tr>
 <tr>
   <td>Could you tell me more about the Inquisition?</td>
@@ -260,7 +260,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>I see. That is all for now, ma'am, thank you.</td>
 </tr>
 <tr>
-  <td>Very well, I hope that was informative enough. I expect to see you more around more often, [Rank and Second name]. I will be observing your career with interest - even if you won't be aware of it. <i>*Uncharacteristically to herself, she chuckles.*</i> If you have any other questions in the future - do not hesitate to stop by. Dismissed. *You once again exchange stern salutes with the High Inquisitor.*</td>
+  <td>Very well, I hope that was informative enough. I expect to see you more around more often, [Rank] [Last Name]. I will be observing your career with interest - even if you won't be aware of it. <i>*Uncharacteristically to herself, she chuckles.*</i> If you have any other questions in the future - do not hesitate to stop by. Dismissed. *You once again exchange stern salutes with the High Inquisitor.*</td>
 </tr>
 <tr>
   <td>End</td>
@@ -276,44 +276,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*You salute the High Inquisitor. She returns a rigid salute herself.*</i> Welcome back, [Rank] [Last Name]. I hope your work is keeping up to our standards. Remember - restraint and conscientiousness are the most important values an Inquisitor can have. Now... Do you have something on your mind?</td>
 </tr>
 <tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisition 1st Class:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
+  <td>Could you tell me more about the Inquisition?</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>

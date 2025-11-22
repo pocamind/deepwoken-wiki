@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 172032
+revid: 174681
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -29,3 +29,6 @@ Location of lightkeeper Temple on the Eastern Luminant Map
 -   Before the stairs leading up to the fountain used to wash your face there is an Obelisk that glows purple. A similar one that glows green can be found at [Songseeker Wilds](Songseeker_Wilds.md), and one that glows blue can be found underneath the coffin inside the Tomb of the Nameless Warrior (both have no apparent use).
 -   Falling into the fog in the room where you wash your face will kill you and send you to the [First Layer](First_Layer.md), as it is a [Voidzone](Voidzones.md).
 -   During early testing, this area was called "Stormcaller Temple," with its caption being "???"
+-   There could be a boss/miniboss fight with Vow of Iron
+    
+    File:Boss fight in lightkeeper temple.png

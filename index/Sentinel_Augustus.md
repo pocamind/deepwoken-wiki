@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 172521
+revid: 174678
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -222,9 +222,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **Inquisition Division:**
 
-**Inquisitor:**
-
-**First Encounter:**
+**Inquisitor / Inquisition 1st Class:**
 
 <table>
 <tbody>
@@ -232,57 +230,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Inquisition 1st Class:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You salute the Sentinel. He looks down at you with mild confusion on his face, saluting back.*</i> At ease. Huh, I don't think we've got any business with the Inquisition scheduled for today, [Rank]?.. Oh, I get it. You're here to fawn over young Interceptor Steel there like all the others, huh. Well, don't loiter around too long. I don't think the High Inquisitor appreciates that kind of idling, and we at the Shock Corps have business to get to today.</td>
 </tr>
 <tr>
   <td>End</td>

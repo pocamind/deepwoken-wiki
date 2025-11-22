@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 168305
+revid: 174696
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant]
@@ -98,8 +98,8 @@ She is the twin sister of [Tillian](Tillian.md).
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
 -   Her outfit was the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but has received a rework due to the misconduct of the original's creator.
 -   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
--   If killed by her during the Carnival of Hearts, she will use the “A Fearsome Enemy” tag.
--   When she puts you in danger during the Carnival of Hearts, her tag is .aelita4693.
+-   If killed by her during the [Carnival of Hearts](Carnival_of_Hearts.md), she will use the “A Fearsome Enemy” tag.
+-   When she puts you in danger during the [Carnival of Hearts](Carnival_of_Hearts.md), her tag is .aelita4693.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174642
+revid: 174698
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -500,14 +500,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   **Oppressive Force** \[Faction Exclusive\] - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
-    -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
-    -   The first hit deals your regular M1 posture damage, the second hit deals 7 posture damage regardless of your weapon stats.
+    -   The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
+    -   The damage and posture damage of the second hit cannot be buffed.
     -   The second hit will only happen if the first one lands. This means it does not follow through on block.
-    -   Both hits proc "on flourish" Talents.
+    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, it cannot proc [enchants](Enchantments.md), and it cannot proc any "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
     -   These weapons are: [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Adretian Axe](Adretian_Axe.md), Battle Axe, [Cavalry Saber](Cavalry_Saber.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+    -   Despite being found in the armory, the [Adretian Axe](Adretian_Axe.md), [Battleaxe](Battleaxe.md), [Cavalry Saber](Cavalry_Saber.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   **Steel Tread** \[Faction Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
@@ -2477,8 +2477,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Operator's Technique
 
 -   **Absolute Force** \[Faction Exclusive\] - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Increases your flourish posture damage from M1 posture damage + 7 to (M1 posture damage x1.5) + 10.5.
-    -   Oppressive Force does not follow through on block. This means this will usually only apply +50% posture damage to the first hit of your flourish.
+    -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division, Oppressive Force
 
 -   **Amp Overdrive** \[Faction Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.

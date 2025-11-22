@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 174627
+revid: 174699
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -150,11 +150,11 @@ This list may be incomplete.
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#arms"><b>Arm Equipment</b></a></b>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black).</li>
-    <li><b><a href="Equipment.md#legs"><b>Leg Equipment</b></a></b>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
-    <li><b><a href="Equipment.md#torso"><b>Torso Equipment</b></a></b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
-    <li><b><a href="Equipment.md#face"><b>Face Equipment</b></a></b>: <a href="Headband.md">Headband</a> (Blue).</li>
-    <li><b><a href="Equipment.md#rings"><b>Rings</b></a></b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a> (White), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black).</li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a> (Blue).</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -249,10 +249,10 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 -   **Crossguard** - If you are using a sword, you gain 10% chip against other opponents wielding swords.
     -   This applies only to Medium swords, meaning Greatswords are completely unaffected.
 -   **Oppressive Force** - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
-    -   The first hit deals your regular M1 damage, the second hit deals 80% of your weapon's scaled damage, and it cannot be buffed through damage modifiers.
-    -   The first hit deals your regular M1 posture damage, the second hit deals 7 posture damage regardless of your weapon stats.
+    -   The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
+    -   The damage and posture damage of the second hit cannot be buffed.
     -   The second hit will only happen if the first one lands. This means it does not follow through on block.
-    -   Both hits proc "on flourish" Talents.
+    -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, it cannot proc [enchants](Enchantments.md), and it cannot proc any "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
     -   These weapons are: [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
@@ -304,8 +304,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
 #### Shock Corps Division Talents
 
 -   **Absolute Force** - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Increases your flourish posture damage from M1 posture damage + 7 to (M1 posture damage x1.5) + 10.5.
-    -   Oppressive Force does not follow through on block. This means this will usually only apply +50% posture damage to the first hit of your flourish.
+    -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
     -   Prerequisites: Oppressive Force
 -   **Amp Overdrive** - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
     -   Doubles the default guardbreak stun duration from 1.05s to 2.1s.
