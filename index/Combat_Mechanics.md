@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 172182
+revid: 174772
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -229,11 +229,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th>Attack</th>
   <td><figure><figcaption></figcaption></figure><p>Left clicking (<kbd>M1</kbd>) allows you to swing your weapon, dealing damage to whoever is hit unless they block, parry, or dodge your attack.</p>
-  <p><br>
-  </p>
   <p>In the case of getting your attack blocked, your attack will instead deal a different type of damage in the form of "Posture Damage", taking into account the weight of your weapon rather than your damage output.</p>
-  <p><br>
-  </p>
   <p>When 4 hits are swung consecutively without pauses, your character will kick your adversary away in an action called a Flourish. This is an "end" to your string of swings, and has a small amount of endlag before you can swing again- which can be circumvented by casting a Mantra directly after the Flourish. Landing a Flourish causes the target hit to be launched away from you, essentially preventing an infinite combo. Flourishes can only be feinted by casting a Mantra.</p>
   <ul>
     <li><i>Many Talents modify your Flourish in different ways, from blurring someone's screen when they get pushed into a wall with the Concussion Talent, burning someone with the Flaming Flourish Talent or placing down Ice with the Chilling Flourish Talent.</i></li>

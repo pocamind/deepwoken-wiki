@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 172780
+revid: 174760
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -107,46 +107,42 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 
 ## Loot Table
 
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
--   [Ignition Welder](Ignition_Welder.md)
--   [Summer Dragoon](Summer_Dragoon.md)
-
- | 
-
--   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
--   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
--   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
--   [Mercenary's Garb](<Mercenary's_Garb.md>)
--   [Mercenary's Boots](<Mercenary's_Boots.md>)
--   [Nomad Pendant](Nomad_Pendant.md)
--   [Red Eye Pendant](Red_Eye_Pendant.md)
--   [Sandrunner Scarf](Sandrunner_Scarf.md)
--   Duelist Mask
--   [Deepwoken Cloak](Deepwoken_Cloak.md)
--   [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
--   [Seafarer Pendant](Seafarer_Pendant.md)
--   [Deepwoken Cloak](Deepwoken_Cloak.md) (Both black and white)
--   [Delvers Duster](<Delver's_Duster.md>)
--   [Sandrunner Wraps](Sandrunner_Wraps.md)
-
- | 
-
--   [Vigil Longsword](Vigil_Longsword.md)
--   [Old World Greatshield](Old_World_Greatshield.md)
--   [Legion Cestus](Legion_Cestus.md)
--   [Trident Spear](Trident_Spear.md)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Iron Blunderbuss](Iron_Blunderbuss.md)
--   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
--   [Rockmaller](Rockmaller.md)
-
- | 
-
--   Platinum Bar
-
- |
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics</a></td>
+  <td><a href="Summer_Dragoon.md">Summer Dragoon</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Light Weapons</b>: <a href="Legion_Cestus.md">Legion Cestus</a>,</li>
+    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Rockmaller.md">Rockmaller</a></li>
+    <li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Delver's_Duster.md">Delver's Duster</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Maps
 

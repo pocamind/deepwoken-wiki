@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 170893
+revid: 174781
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -68,6 +68,9 @@ In the Eastern Luminant, you are given permanent preset waypoints at the followi
 -   [Fort Merit](Fort_Merit.md), near the [Blacksmith](Blacksmith.md)
 -   [Boatman's Watch](<Boatman's_Watch.md>), at the front shore
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>), next to the bonfire
+-   [The Aratel Sea](The_Aratel_Sea.md), On a rock near Boatman's watch
+-   [Port Merit](Port_Merit.md), Next to the shipwright
+-   [Saramaed Summit](Saramaed_Summit.md), On a platform above the lava.
 
 ### Resonance Points
 

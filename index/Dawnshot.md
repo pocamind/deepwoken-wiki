@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 171135
+revid: 174780
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
@@ -57,6 +57,6 @@ Dawnshot uses the default Pistol critical, an empowered shot. It has a scaled da
 -   The Dawnshot is the fastest weapon to receive compatibility with the [Pluripotent Alloy](Pluripotent_Alloy.md), receiving it in the same update as it was released.
 -   The Dawnshot is the only gun to possess both chip damage and penetration.
 -   The Dawnshot is the only gun in the game that can be alloyed
--   The Dawnshot bears a resemblance to [Retort](https://criticalrole.miraheze.org/wiki/Retort), a pistol used by [Percival de Rolo](https://criticalrole.miraheze.org/wiki/Percival_de_Rolo) in the Amazon Prime show, [The Legend of Vox Machina](https://criticalrole.miraheze.org/wiki/The_Legend_of_Vox_Machina).
+-   The Dawnshot is based off of four barrel flintlocks.
 -   Meeting the LHT requirement for this weapon will make it deal 19/26.8 damage.
     -   At max LHT, it will deal 26.6/30.4 damage.

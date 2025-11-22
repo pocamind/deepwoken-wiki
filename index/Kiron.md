@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 174154
+revid: 174735
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -47,7 +47,7 @@ Kirons are a rare [aspect](Aspects.md) with bat-like features. Their Agility and
 **Lore:**
 
   
-Kiron were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly influencing their bat-like appearance.
+Kirons were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly influencing their bat-like appearance.
 
 **Strengths:**
 
@@ -79,7 +79,7 @@ Whenever nearby enemies unsheathe their weapons or an event spawns, ping the dan
 
 ## Features
 
-Kiron has a very small range of ornament choice, with the only two options being fluff or no fluff, it does however have three unique mouth options, six different facial marking variants, and four unique eyebrow options.
+Kirons have a very small range of ornament choice, with the only two options being fluff or no fluff, it does however have three unique mouth options, six different facial marking variants, and four unique eyebrow options.
 
 ### Ears
 
@@ -87,15 +87,15 @@ Kirons have large bat ears with their color being based on your skin color. Addi
 
 ### Mouth
 
-While Kiron loses access to most universally accessible mouths, they gain these three unique ones.
+While Kirons lose access to most universally accessible mouths, they gain these three unique ones.
 
 ### Eyebrows
 
-Kiron has 4 exclusive eyebrow options.
+Kirons have 4 exclusive eyebrow options.
 
 ### Markings
 
-Kiron have optional face markings. The color of these markings is based on your variant, but they can also be [dyed](Dye_Packet.md).
+Kirons have optional face markings. The color of these markings is based on your variant, but they can also be [dyed](Dye_Packet.md).
 
 **Kerivoula:**
 
@@ -120,3 +120,4 @@ Kiron have optional face markings. The color of these markings is based on your 
 -   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both characters are vampires.
 -   The surname Draatu may be a nod to Dracula.
 -   You can combine the names ‘Nosfa’ and ‘Ratu’ to get a name that sounds similar to ‘Nosferatu’, the original vampire horror movie from 1922.
+-   Kirons shouldn't be able to exist canonically, as in Vows by the Sea: Inheritance, it states children can only take genetics from one parent. Kirons are stated to have evolved from living in caves, but evolution would be impossible without genetic variety. Food for thought.

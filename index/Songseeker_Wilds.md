@@ -1,11 +1,9 @@
 ---
 title: Songseeker Wilds
-revid: 160074
+revid: 174755
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Locations, Locations in the Eastern Luminant]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Locations, Locations in the Eastern Luminant]
 ---
 
 # Songseeker Wilds
@@ -69,49 +67,42 @@ Shrine of Order path
 
 Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
--   [Hive Tactician Armor](Hive_Tactician_Armor.md)
--   [Cloak of Winds](Cloak_of_Winds.md)
-
- | 
-
--   [Blindfold](Blindfold.md)
--   [Eyeglasses](Eyeglasses.md)
--   [Polarized Eyeglasses](Eyeglasses.md)
--   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
--   [Glassdancer Wraps](Glassdancer_Wraps.md)
--   [Brilliant Boots](Brilliant_Boots.md)
--   [Khan Boots](Legion_Boots.md)
--   [Ranger's Boots](<Ranger's_Boots.md>)
--   [Crimson Blindfold](Blindfold.md)
--   Gold and Black Cape
--   [Royal Duelist (Series)](Royal_Duelist.md)
-
- | 
-
--   [Apprentice Rapier](Apprentice_Rapier.md)
--   [Canorian Axe](Canorian_Axe.md)
--   [Canor Fang](Canor_Fang.md)
--   [Crescent Cleaver](Crescent_Cleaver.md)
--   [Iron Cestus](Iron_Cestus.md)
--   [Katana](Katana.md)
--   [Legion Cestus](Legion_Cestus.md)
--   [Nemit's Sickle](<Nemit's_Sickle.md>)
--   [Razor Cutlass](Razor_Cutlass.md)
--   [Sacred Hammer](Sacred_Hammer.md)
--   [Shotel](Shotel.md)
--   [Vigil Longsword](Vigil_Longsword.md)
-
- | 
-
--   Three to seven Gold Bars
--   Four to six Sapphires
--   Four to five Amethysts
--   Three to 10 Emeralds
-
- |
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics</a></td>
+  <td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Light Weapons</b>: <a href="Canor_Fang.md">Canor Fang</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a></li>
+    <li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Shotel.md">Shotel</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a>, <a href="Royal_Duelist.md">Royal Duelist</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: Capes,</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 170613
+revid: 174716
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -47,7 +47,6 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 
 -   Similarly to The Crimson Megalodaunt, the First Light's critical attack is a reference to Gilgamesh's Gates of Babylon from the Fate series.
 -   Deals 37 M1 damage at 75 HVY, and 40.8 M1 damage at 100 HVY.
--   The First Light's critical has the second longest cooldown, being directly behind the [Vortex Echo](Vortex_Echo.md) at a 30 second cooldown.
 -   The critical First Light uses was previously a flame mantra referred to as "The Potato" in Deepwoken Direct.
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.

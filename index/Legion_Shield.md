@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 171144
+revid: 174777
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, The Hundred Legions, Offhand, Items]
@@ -29,4 +29,4 @@ A Khan Shield is a [side weapon](Weapons.md) in the Shield category. It can be o
 
 ## Trivia
 
--   The practions of decorating Khan Shields with face may be a reference to the shield of Athena, which sported the head of Medusa on it.
+-   The practions of decorating Khan Shields with face may reference the [aegis](https://en.wikipedia.org/wiki/Aegis), a weapon wielded by [Athena](https://en.wikipedia.org/wiki/Athena) and is usually depicted as a shield, often with the head of [Gorgons](https://en.wikipedia.org/wiki/Gorgons).

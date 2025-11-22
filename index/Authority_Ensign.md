@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 174699
+revid: 174738
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -150,7 +150,7 @@ This list may be incomplete.
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a> (White), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), Overcoats (Black).</li>
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a> (White), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (White), <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, Overcoats (Black).</li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (White)</li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a>.</li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a> (Blue).</li>

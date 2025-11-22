@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 163292
+revid: 174731
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -20,7 +20,7 @@ Template:Creature Infobox V3
 
 The Isopod is an unused monster that only appears during the [Charisma Unbound](Attributes_Unbound.md) quest, or by developer interaction.
 
-Isopods are small, brown creatures with a spike protruding out of their head. They have a hard shell on top, with a mouth underneath, presumably used for slaughtering their foes.
+Isopods are small, brown creatures with a long tail. They have a hard shell on top, with a mouth underneath, presumably used for slaughtering their foes.
 
 ## Moves
 

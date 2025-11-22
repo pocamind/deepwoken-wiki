@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 167625
+revid: 174758
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -235,54 +235,47 @@ Items and equipment that can be directly bought with currency.
 
 Items and equipment that can be obtained from loot chests.
 
-#### _Weapons_
-
--   [Trident Spear](Trident_Spear.md)
--   [Cavalry Saber](Cavalry_Saber.md)
--   [Alloyed Cavalry Saber](Cavalry_Saber.md)
--   [Forge Greathammer](Forge_Greathammer.md)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Serpent's Edge](<Serpent's_Edge.md>)
--   [Iron Cestus](Iron_Cestus.md)
--   [Ritual Spear](Ritual_Spear.md)
--   [Dawnshot](Dawnshot.md)
--   [Rockmaller](Rockmaller.md)
--   [The Barrel](The_Barrel.md)
--   [Summer Hullwrecker](Summer_Hullwrecker.md)
-
-#### _Equipment_
-
--   [Practicioner's Earrings](<Practicioner's_Earrings.md>)
--   [Tophat](Tophat.md) (all variants)
--   [Aristocrat Coat](Aristocrat_Coat.md) (all variants)
--   [Novice Boots](Novice_Boots.md)
--   [Rebel's Bandana](<Rebel's_Bandana.md>)
--   [Fleet Warden Cape](Fleet_Warden_Cape.md) (all variants)
--   [Headband](Headband.md) (red)
--   [Armorer's Ring](<Armorer's_Ring.md>)
--   [Dawnfist's Ring](<Dawnfist's_Ring.md>)
--   [Rosen's Ring](<Rosen's_Ring.md>)
--   [Bloodiron Ring](Bloodiron_Ring.md)
--   [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
--   [Ring of Wisps](Ring_of_Wisps.md)
--   [Ring of Pestilence](Ring_of_Pestilence.md)
-
-#### _Treasury_
-
--   Amethyst(4-5)
--   Ruby(3-4)
--   Saphire(3-4)
--   Emerald(3-4)
--   Gold Bar(4)
-
-#### _Blueprints_
-
--   [Hive Drone](Hive_Drone.md)
--   [Hive Tactician Armor](Hive_Tactician_Armor.md)
--   [Summer Company Uniform](Summer_Company_Uniform.md)
--   [Verdant Sniper](Verdant_Sniper.md)
--   [Navaen Nomad Robes](Navaen_Nomad_Robes.md)
--   [Darksteel Plate](Darksteel_Plate.md)
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics</a></td>
+  <td>
+  <ul>
+    <li><b>Adept</b>: <a href="Summer_Company_Uniform.md">Summer Company Uniform</a></li>
+    <li><b>Expert</b>: <a href="Verdant_Sniper.md">Verdant Sniper</a></li>
+    <li><b>Master</b>: <a href="Summer_Dragoon.md">Summer Dragoon</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Light Weapons</b>: <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Dawnshot.md">Dawnshot</a></li>
+    <li><b>Medium Weapons</b>: <a href="Trident_Spear.md">Trident Spear</a>, <a href="Cavalry_Saber.md">Cavalry Saber</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Ritual_Spear.md">Ritual Spear</a>, <a href="Gremorian_Longspear.md">Gremorian Longspear</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="The_Barrel.md">The Barrel</a>, <a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></li>
+    <li><b>Offhand Weapons</b>: <a href="Dawnshot.md">Dawnshot</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Tophat.md">Tophat</a> (All Variants)</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Aristocrat_Coat.md">Aristocrat Coat</a> (All Variants), <a href="Sailor's_Fleece.md">Sailor's Fleece</a>, <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Novice_Boots.md">Novice Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Fleet_Warden_Cape.md">Fleet Warden Cape</a> (All Variants)</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Summer_Nauticals.md">Nauticals</a> (All Variants), <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants)</li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

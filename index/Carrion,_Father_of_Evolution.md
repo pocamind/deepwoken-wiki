@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 173232
+revid: 174717
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
@@ -169,18 +169,23 @@ His wild white hair and unique green eyes are side effects of a Moonseye Vigour 
 </tbody>
 </table>
 
-**Player has not spoken to him in New Kyrsa:**
+**Other:**
 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Haven't spoken to in New Kyrsa</td>
+  <td>Spoken to in New Kyrsa but no possible dialogues</td>
 </tr>
 <tr>
   <td><i>*You can barely make out the sounds of laughter as you approach*.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh? Salutations! Do you need something?</td>
+  <td>Ah. I don't think you have anything I can work with...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

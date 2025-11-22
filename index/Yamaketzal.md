@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 174656
+revid: 174720
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -86,11 +86,11 @@ These two behaviors implies that, combined with his general knowledge of the wor
   <td colspan="6"><b>Reference</b></td>
 </tr>
 <tr>
-  <td colspan="6">Drowned... Just like you. *He looks you dead in the eyes and gives you a wry smile.*</td>
+  <td colspan="6">Drowned. Just like you. <i>*He looks you dead in the eyes and gives you a wry smile.*</i></td>
   <td colspan="6">Mentions the act of Drowning, being sent to <a href="The_Depths.md">The Depths</a>.</td>
 </tr>
 <tr>
-  <td colspan="6">Me? I'm Duke Erisia... Yeh... That one who done made all those rocks move... Heh heh...</td>
+  <td colspan="6">Me? I'm Duke Erisia, yeh, that one who made all those rocks move...</td>
   <td colspan="6">Mentions <a href="Duke_Ishamon_Erisia.md">The Duke</a>, who got the ability to create <a href="Rock_Golem.md">Rock Golems</a> with his Resonance.</td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ These two behaviors implies that, combined with his general knowledge of the wor
   <td colspan="6">Might tie in with the <a href="Origins.md">origins</a> of the players, being found, washed up on the shore.</td>
 </tr>
 <tr>
-  <td colspan="6">Me? Ferryman's what I am... Dredged up from the dregs of the dregs... Tormenting mortal spirits 'n' that... Ironic... Coz they were the ones tormenting me...</td>
+  <td colspan="6">Me? Ferryman's what I am... Dredged up from the dregs of the dregs, tormenting mortal spirits 'n' that... Ironic, coz they were the ones tormenting me...</td>
   <td colspan="6">Mentions <a href="The_Ferryman.md">The Ferryman</a> and his possible origins. "Dredged" refers to the act of cleaning the bed (bottom) part of a body of water, be it a lake, a river or the sea.</td>
 </tr>
 <tr>
@@ -110,11 +110,11 @@ These two behaviors implies that, combined with his general knowledge of the wor
   <td colspan="6">Mentions Gunsmith Rosen, the inventor of <a href="Guns.md">Guns</a></td>
 </tr>
 <tr>
-  <td colspan="6">Me? Driver's what I am... Got some horses... Real nice ones... Travel way over land we do... Not a puddle in sight... Heh heh...</td>
+  <td colspan="6">Me? Driver's what I am, got some horses, real nice ones, travel way over land we do. Not a puddle in sight...</td>
   <td colspan="6">Mentions the Drivers, people riding horses in the other Luminants</td>
 </tr>
 <tr>
-  <td colspan="6">Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle... Heh heh...</td>
+  <td colspan="6">Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle...</td>
   <td colspan="6">Mentions the Wardens of <a href="The_Central_Authority.md">The Central Authority</a>. Mainly just talking about his drinking habits, though.</td>
 </tr>
 <tr>

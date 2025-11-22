@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 166532
+revid: 174753
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Ministry, Locations in the Etrean Luminant]
@@ -36,58 +36,42 @@ Minityrsa is a mostly uninhabited island perpetually blanketed in snow. It can b
 
 Below is a list of potential items that can spawn in chests in Minityrsa.
 
-| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
-| --- | --- | --- | --- |
-| 
--   [Hive Tactician](Hive_Tactician_Armor.md)
--   [Cloak of Winds](Cloak_of_Winds.md)
--   [Darksteel Plate](Darksteel_Plate.md)
-
- | 
-
--   [Blindfold](Blindfold.md)
--   [Crimson Blindfold](Blindfold.md)
--   [Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
--   [Eyeglasses](Eyeglasses.md)
--   [Polarized Eyeglasses](Eyeglasses.md)
--   Golden Cape
--   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
--   [Glassdancer Wraps](Glassdancer_Wraps.md)
--   [Brilliant Boots](Brilliant_Boots.md)
--   [Khan Boots](Legion_Boots.md)
--   [Ranger's Boots](<Ranger's_Boots.md>)
--   [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) (Possibly rogue construct only)
-
- | • [Vigil Longsword](Vigil_Longsword.md) (Uncommon)
-
--   [Canorian Axe](Canorian_Axe.md) (Rare)
--   [Crescent Cleaver](Crescent_Cleaver.md) (Rare)
--   [Iron Cestus](Iron_Cestus.md) (Common)
--   [Legion Cestus](Legion_Cestus.md) (Rare)
--   [Katana](Katana.md) (Rare)
--   [Nemit's Sickle](<Nemit's_Sickle.md>) (Common)
--   [Hero Blades](Hero_Blades.md) (Guaranteed drop from Blizzard Knights)
--   [Apprentice Rapier](Apprentice_Rapier.md) (Rare)
--   [Razor Cutlass](Razor_Cutlass.md) (Uncommon)
--   [Sacred Hammer](Sacred_Hammer.md) (VERY rare drop from Rogue Construct)
--   [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) (Uncommon from Rogue)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Rare drop from Rogue Construct)
--   [Shattered Katana](Shattered_Katana.md) (Rare drop from Aelita and Rogue Construct)
--   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) (Rogue Construct chest)
--   [Night Axe](Night_Axe.md) (Rare drop from Necromancers or Brainsuckers)
--   [Gran Sudaruska](Gran_Sudaruska.md) (Extremely rare drop in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md))
--   [Hivelord's Hubris](<Hivelord's_Hubris.md>) (Rare drop from [Rogue Constructs](Hive_Construct.md))
--   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (VERY rare drop from Rogue Construct)
-
- | 
-
--   Three to nine Gold Bars
--   Four to eight Sapphires
--   Three to seven Amethysts
--   Five to twelve Rubies
--   Six to eight Emeralds
-
- |
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics</a></td>
+  <td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Darksteel_Plate.md">Darksteel Plate</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Light Weapons</b>: <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a> <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
+    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Legion_Boots.md">Khan Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: Capes, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>,<a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Maps
 
