@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 174042
+revid: 174670
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -214,7 +214,7 @@ While Sapped, your Mantra cooldowns are increased, you will also be shocked when
 
 ### Overloaded
 
-This status effect is exclusive to the [Surge Path](Talents.md#unstable-capacitor) Talent tree. Anything that would normally apply [Shock](#shock) will apply a Surge Rod instead. Upon guard breaking or applying five rods and then landing an attack that would apply a sixth, the stacked Sure Rods will violently discharge, dealing Thundercall damage per applied Surge Rod. This effect can be enhanced by several Talents in the Surge Path Talent tree. Signified by a blurple rod planted in your body.
+This status effect is exclusive to the [Surge Path](Talents.md#unstable-capacitor) Talent tree. Anything that would normally apply [Shock](#shock) will apply a Surge Rod instead. Upon guard breaking or applying five rods and then landing an attack that would apply a sixth, the stacked Surge Rods will violently discharge, dealing Thundercall damage per applied Surge Rod. This effect can be enhanced by several Talents in the Surge Path Talent tree. Signified by a blurple rod planted in your body.
 
 ### Metal Rods
 

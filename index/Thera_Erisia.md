@@ -1,6 +1,6 @@
 ---
 title: Thera Erisia
-revid: 174389
+revid: 174665
 source: https://deepwoken.fandom.com/wiki/Thera_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Members of the Erisia family, Deceased characters]

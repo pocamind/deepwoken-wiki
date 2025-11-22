@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174617
+revid: 174642
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -505,9 +505,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The second hit will only happen if the first one lands. This means it does not follow through on block.
     -   Both hits proc "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
-    -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+    -   These weapons are: [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+    -   Despite being found in the armory, the [Adretian Axe](Adretian_Axe.md), Battle Axe, [Cavalry Saber](Cavalry_Saber.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   **Steel Tread** \[Faction Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
@@ -3329,7 +3329,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 25 Fortitude, 5 Willpower
     -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" has this Talent.
 
--   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration. Being hit increases Ether regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
+-   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
     -   Prerequisites: 40 Willpower, Battle Tendency
 
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.

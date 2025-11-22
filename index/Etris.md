@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 172031
+revid: 174633
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -18,7 +18,7 @@ Highest amongst the peaks of the mountains, a proud fortress of a city stands ag
 
 ## Overview
 
-Etris is the capital of the [Kingdom of Etrea](Etrea.md), being on top of a tall mountain with amazing views and dangerous, possibly life-threatening falls. It marks the beginning of the adventures of many, as it is one of the two spawn locations new players can choose. It resides on a tall mountain. To get to the docks, you must take a short walk past the Navaen camp and pass the Etrean Wilderness.
+Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall mountain with amazing views and dangerous, possibly life-threatening falls. It marks the beginning of the adventures of many, as it is one of the two spawn locations new players can choose. It resides on a tall mountain. To get to the docks, you must take a short walk past the Navaen camp and pass the Etrean Wilderness.
 
 ## Landmarks & Sub locations
 

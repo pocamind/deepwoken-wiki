@@ -1,6 +1,6 @@
 ---
 title: Unidentified Flamepriest
-revid: 174113
+revid: 174668
 source: https://deepwoken.fandom.com/wiki/Unidentified_Flamepriest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles]

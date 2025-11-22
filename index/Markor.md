@@ -1,6 +1,6 @@
 ---
 title: Markor
-revid: 174614
+revid: 174639
 source: https://deepwoken.fandom.com/wiki/Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations in the Central Luminant, Locations, Territory of The Central Authority]
@@ -13,9 +13,9 @@ notices:
 
 ## Description
 
-**Markor** is a savannah region in [the Central Luminant](Luminants.md#the-central-luminant), the homeland of [Felinor](Felinor.md),[\[1\]](#cite-note-studies-1) and currently a territory conquered by [the Central Authority](The_Central_Authority.md).[\[2\]](#cite-note-citation-2)
+**Markor** is a savannah region in [the Central Luminant](Luminants.md#the-central-luminant), the homeland of [Felinor](Felinor.md),[\[1\]](#cite-note-studies-1) and currently a territory conquered by [the Central Authority](The_Central_Authority.md).[\[2\]](#cite-note-scimitardesc-2)
 
-Along with the [Felinor](Felinor.md) originating from here, Markor is also the origin of [Scimitars](Scimitar.md) and similar blades.[\[2\]](#cite-note-citation-2) The Sea Highways also come from here, made by a company of [Thundercallers](Thundercall.md), known as [the Golden Link](The_Golden_Link.md).
+Along with the [Felinor](Felinor.md) originating from here, Markor is also the origin of [scimitars](Scimitar.md) and similar blades.[\[2\]](#cite-note-scimitardesc-2) The Sea Highways also come from here, made by a company of [Thundercallers](Thundercall.md), known as [the Golden Link](The_Golden_Link.md).
 
 ## Contents
 
@@ -26,5 +26,5 @@ Felinor fieldfolk: A kingdom of [Felinor](Felinor.md) was once located in Markor
 ## References
 
 1.  [↑](#cite-ref-studies-1-0) [Studies on Canticlysm#Vol. IV](Studies_on_Canticlysm.md#vol-iv)
-2.  ↑ [2.0](#cite-ref-citation-2-0) [2.1](#cite-ref-citation-2-1) Citation needed
+2.  ↑ [2.0](#cite-ref-scimitardesc-2-0) [2.1](#cite-ref-scimitardesc-2-1) [Scimitar](Scimitar.md) description
 3.  [↑](#cite-ref-glosscitadel-3-0) [Glossary](Glossary.md): [The Citadel of Markor](Glossary.md#the-citadel-of-markor)

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Unification
-revid: 173901
+revid: 174671
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Unification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -30,9 +30,9 @@ For 5 and 2 Talents of your choice, get a Whisper Draw.
 
 ### Details
 
--   If you are out of Mantra Draws but need more mantras and don't want to get rid of mantras you already have, you can use this shrine.
--   You can trade common and rare cards to get a mantra.
-    -   Not recommended to trade rare Talents as you can only get them from leveling up or very expensive deals/trading other rare Talents at the [Shrine of Chance](Shrine_of_Chance.md).
+-   If you are out of Mantra Draws but need more Mantras, you can use this shrine.
+-   You can trade cards of differing rarities to get a Mantra.
+-   It is not recommended to trade Rare Talents as you can only get them from leveling up or the [Shrine of Chance](Shrine_of_Chance.md).
 
 ## Dialogue
 

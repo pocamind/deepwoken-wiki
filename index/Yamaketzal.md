@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 172397
+revid: 174656
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]

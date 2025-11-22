@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 174212
+revid: 174638
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -96,7 +96,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   0.45s windup, [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
             -   Has a 360° hitbox, can't be whiffed by turning around, but you can kick targets back to you.
         -   Using the kick too quickly will have increased endlag, due to the Pull's endlag. (Bug)
-        -   Not treated as a mantra or an M1, bypassing Return to the Dark Ages and ignoring Champion's Regalia.
+        -   Not treated as a mantra or an M1, ignoring Champion's Regalia.
         -   **Movestack**: Using The Kick at the _very last moment_ provides a small movestack with mantras/attacks.
 -   Obtainment: Obtained after the second _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
 

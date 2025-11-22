@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Hierka
-revid: 173267
+revid: 174661
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Hierka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gunsmiths, Bureau of Research personnel]
