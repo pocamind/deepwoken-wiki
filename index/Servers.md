@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 173704
+revid: 175046
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -22,7 +22,7 @@ Example hellmode server
 
 ## Server Locations
 
-There are currently 20 possible locations:
+There are currently 21 possible locations:
 
 -   NSW, AU (Australia)
 -   Hesse, DE (Germany)
@@ -34,6 +34,7 @@ There are currently 20 possible locations:
 -   England, UK (United Kingdom)
 -   Maharashtra, IN (India)
 -   Leinster, IE (Ireland)
+-   São Paulo, BR (Brazil)
 
 USA has 9 different regions:
 
@@ -176,7 +177,7 @@ _Please note that it is possible that some locations may have been missed, as Ro
 -   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
 -   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
 -   Every [aspect](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are aspect variants, and not their own independent aspect.
--   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, and Wind Gem have their first names as server adjectives.
+-   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, Nocturnal Gem, and Wind Gem have their first names as server adjectives.
 -   When joining layer 2 the server loading screen will sometimes be white instead of the usual dark green.
 -   Inside dungeons, the only way to control which server location you connect to is to rejoin.
 -   If you clicked on the wrong server by accident, you can right click before you to connect to cancel joining that server.

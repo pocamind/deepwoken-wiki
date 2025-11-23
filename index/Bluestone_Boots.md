@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 175002
+revid: 175025
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots, Items]
@@ -47,3 +47,7 @@ Set Talent: [Etherguard](Talents.md#etherguard) - [Warped Blue Gems](Warped_Blue
 This item is crafted using the following recipe:
 
 1.  1 [Bluesteel Boots](Bluesteel_Boots.md) + 1 [Warped Blue Gem](Warped_Blue_Gem.md).
+
+## Trivia
+
+The [I'm Blue](Talents.md#im-blue) Talent used to increases the effectiveness of your [Blue Gems](Blue_Gem.md) by 10% but was later buffed to 40% on October 31st, 2025.

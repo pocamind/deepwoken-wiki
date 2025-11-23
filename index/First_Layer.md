@@ -1,14 +1,12 @@
 ---
 title: First Layer
-revid: 174215
+revid: 175052
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the First Layer, The Depths, Layer 1, Map]
+categories: [Locations, Locations in the First Layer, The Depths, Layer 1, Map]
 ---
 
 # First Layer
-
-File:Depths New Lightning.png
 
 ## Overview
 

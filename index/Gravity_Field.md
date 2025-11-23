@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 158700
+revid: 175048
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,3 +52,4 @@ When obtained, Gravity Field will spend its points on the following stats:
 -   Useful to use when you know your opponent is low and want to trap them to ensure their demise.
 -   Notable for being used as part of one of Agamatsu's gimmick builds utilizing a Round Spark-modified Ice Eruption and this bell, along with being used with the term "Domain Expansion: True Ice Hell".
 -   Doing a running attack against the field will make you escape the field (probably a bug)
+-   Certain mantras, such as permafrost prison, will cancel gravity field whether used before or after activating it.

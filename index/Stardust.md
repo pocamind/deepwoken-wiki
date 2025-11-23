@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 166328
+revid: 175045
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -31,7 +31,7 @@ It is also used for the obtainment of the [Saltchemist Oath](Oath%253A_Saltchemi
 -   This item cannot be passed down at the Hippocampal Pool in the Fragments of Self.
 -   Current known teleportation locations are...
     1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md)).
-    2.  Eunomia (Above [Sibex](Sibex.md)).
+    2.  Eunomia (Near the [Lifevent](Lifevents.md) that allows you to glide down to [Starswept Valley](The_Starswept_Valley.md)).
     3.  Ceres (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop).
     4.  Europa (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right).
     5.  Pallas (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s gate).

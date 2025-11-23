@@ -1,6 +1,6 @@
 ---
 title: Meteor
-revid: 174541
+revid: 175030
 source: https://deepwoken.fandom.com/wiki/Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,6 +24,8 @@ Upon interacting with a meteor, it will give you a message: "_Deep within your s
 
 You can teleport to each meteor by calling out its name whilst sitting at a campfire, "campfires" such as [Graceful Flame](Flamecharm.md#graceful-flame-) do not count (guild base campfires do work however).
 
+You can also rest at a meteor site as if it were a campfire (Note: you cannot cook food on meteors)
+
 The currently known meteor names and locations are as follows:
 
 ## Etrean Luminant
@@ -40,4 +42,4 @@ Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md), by the sea gate going towa
 
 Pallas (Near [Miner's Landing](<Miner's_Landing.md>), on a tiny island in front of the [Oathless](Oath%253A_Oathless.md) trainer, [Cerulean](Cerulean.md), next to the sea gate to the Etrean Luminant)
 
-Eunomia (Above [Sibex](Sibex.md))
+Eunomia (Near the [Lifevent](Lifevents.md) that allows you to glide to [The Starswept Valley](The_Starswept_Valley.md))

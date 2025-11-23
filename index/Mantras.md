@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 171244
+revid: 175044
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -8,7 +8,7 @@ categories: [Mantras, Character, Attunement, Mechanics]
 
 # Mantras
 
-_**NOTE: You can search a Mantra's name using the search bar and it'll take you directly to that Mantra. Though, this currently doesn't work for Oath Mantras or on mobile.**_
+_**NOTE: You can search a Mantra's name using the search bar and it'll take you directly to that Mantra. Though, this currently doesn't work on mobile.**_
 
 ## Description
 
