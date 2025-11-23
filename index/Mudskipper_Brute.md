@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 171674
+revid: 174810
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -51,18 +51,6 @@ File:Mudskipper Brute Punch2.gif
  | 
 
 File:Mudskipper Brute Thrust.gif
-
- |
-| 
-
-**Lumbering Smash**  
-(★★★)
-
- | Leaps forward and raises its arms into the air, swinging down on its prey with an unparriable slam. This move autogrips knocked enemies.
-
- | 
-
-File:Mudskipper Brute Slamdown.gif
 
  |
 | 

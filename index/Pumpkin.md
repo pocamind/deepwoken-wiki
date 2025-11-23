@@ -1,6 +1,6 @@
 ---
 title: Pumpkin
-revid: 174783
+revid: 174784
 source: https://deepwoken.fandom.com/wiki/Pumpkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Food, Harvestables, Food Ingredients]

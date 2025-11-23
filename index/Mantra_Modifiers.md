@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 170884
+revid: 174813
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Items]
@@ -391,6 +391,7 @@ Multiplying Spark
 -   Iron Tether
 -   Scarlet Cyclone
 -   Bloodcurdle
+-   Iron Skin
 
  | 
 

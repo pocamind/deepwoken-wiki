@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 174293
+revid: 174888
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -193,8 +193,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Detonation<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, dealing an additional 10 typeless damage to them and others around beside the user. The damage from explosions is not affected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.</p><br>
-  <b>Explosions can execute.</b><p></p>
+  <p>After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, dealing an additional 10 typeless damage to them and others around beside the user. You cannot increase the damage of the explosions through damage modifiers.</p>
+  <p>Does not deal knockback. Regardless of the hit count, all critical attacks only apply 1 stack of detonation total. You cannot gain stacks from hitting knocked players.</p><b>Explosions can execute.</b><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Once enough stacks have been applied, an explosion is detonated.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -251,7 +251,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  The formula is as follows: 0.15 * weapon scaled damage + 2.</p><b>(Gluttony's sustenance steal is NOT AFFECTED by <a href="Gluttony.md">Gluttony</a> Flaw or damage modifiers, but it IS affected by damage resistances.)</b><p></p>
+  The formula is as follows: 0.15 * weapon scaled damage + 2.</p>Gluttony's sustenance steal is NOT AFFECTED by <a href="Gluttony.md">Gluttony</a> Flaw or damage modifiers, but it IS affected by damage resistances.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Steals Water and Stomach from those you hit.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -279,13 +279,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Grim<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p><br>
-  After hitting the target up to (LHT: 5, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  The target is afflicted with <a href="Status_Effects.md#grim">Grim</a> for 6 seconds, which increases all damage taken by 1.25x, and all posture damage by 1.5x.<br>
-  Instead of making those affected take more damage, it buffs the damage of the person attacking them, meaning grim <b>is</b> affected by the damage modifier cap.</p>Grim stacks can also be gained from critical attacks that have the M1 tag.<p></p>
+  <p>After hitting the target up to (LHT: 5, MED: 5, HVY: 4) times, <a href="Status_Effects.md#grim">Grim</a> will be applied for 6 seconds. This status effect applies a +25% damage and +50% posture damage modifier to all incoming attacks.</p>
+  <p>Grim <b>is</b> affected by the damage modifier cap.</p>Grim stacks can also be gained from critical attacks that have the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%.</i></p>
-  <p><strong>Obtainement:</strong></p>
+  <p><strong>Obtainment:</strong></p>
   <p></p>
   <p>Grim can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Grim enchanted weapon from a chest.</p>Grim <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
   <ul>
@@ -333,8 +331,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p></p>
   <p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (20% more damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (20% more damage at 0% HP)<br>
-  In PVE the damage buff is 0.25x the damage buff in PVP (8% - &gt; 2%, 20% - &gt; 5%).<br>
-  Hero's Reflection: Landing M1s while in the Heroism health range (≤25%, ≥75%) will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental <a href="Status_Effects.md">Status Effects</a> (Burn, Chill, Suffocation, Winded, Shock, and Fear), <a href="Status_Effects.md#anti-heal">Antiheal</a>, and <a href="Attunement-less.md#taunt">Taunt</a>.</p>Note: This does not clear the status effect from yourself. Additionally, the reflected Burn status effect is applied as if it were your own; with your own Flamecharm investment and Talents.<p></p>
+  In PVE the damage buff is 0.25x the damage buff in PVP (4% - &gt; 1%, 20% - &gt; 5%)</p>
+  <p>Landing weapon attacks while in the Heroism's health range (≤25%, ≥75%) will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental <a href="Status_Effects.md">Status Effects</a> (Burn, Chill, Suffocation, Winded, Shock, and Fear), <a href="Status_Effects.md#anti-heal">Antiheal</a>, and <a href="Attunement-less.md#taunt">Taunt</a>.</p>Note: This does not clear the status effect from yourself. Additionally, the reflected Burn status effect is applied as if it were your own; with your own Flamecharm investment and Talents.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>When above 75% HP, gain 4% damage for every 5% HP above 75%. When below 25% HP, gain 4% damage for every 5% HP below 25% HP. You can reflect negative status effects with light attacks or criticals to your opponent while in these health ranges.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -362,12 +360,13 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Metal<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  Formula for Metal enchant drain: 0.0021 * Scaled DMG * ARMOR DURABILITY OF VICTIM * Armor drain modifiers (Steadfast/Armor conserver)<br>
-  For armor recovery: 0.0021 * SCALED DMG * YOUR OWN ARMOR DURABILITY.<br>
-  Metal drain has 200 durability cap and armor recovery has 150 durability cap.<br>
-  Calculator for Metal: <a href="https://www.desmos.com/calculator/ucfiwui0q4">https://www.desmos.com/calculator/ucfiwui0q4</a> (By Inteque)<br>
-  </p>You can still gain armor off even if target has none.<p></p>
+  <p>On hit, drain the target's armor durability to restore your own. Metal can still restore your armor even if the target has no armor durability left.</p>
+  <p>Metal cannot drain more than 200 armor durability in one hit. Similarly, Metal cannot restore more than 150 armor in one hit.</p>Metal formulas:<br>
+  <small>Desmos calculator <a href="https://www.desmos.com/calculator/ucfiwui0q4">here</a></small><div>
+  <ul>
+    <li><u>Armor drain</u> = 0.0021 * scaled damage * target's armor durability * armor drain modifiers (<a href="Boons_and_Flaws.md#steadfast">Steadfast</a>, <a href="Talents.md#armor-conserver">Armor conserver</a>, &amp; <a href="Armorer's_Ring.md">Armorer's Ring</a>)</li>
+    <li><u>Armor recovery</u> = 0.0021 * scaled weapon damage * your armor durability.</li>
+  </ul></div><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Steal Armor durability on hit.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -395,10 +394,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Nemesis<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>The weapon's critical becomes a katana's but deals no damage.<br>
-  On hit, a <a href="Status_Effects.md#nemesis-mark">red eye marker</a> is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing 25 flat damage, regardless of the weapon you're using Nemesis' critical does not benefit from damage modifiers. Deals 18 posture damage regardless of your weapon's Weight stat.<br>
-  If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
-  </p>
+  <p>The weapon's critical changes to be similar to the <a href="Katana.md">Katana</a>'s, though it does not deal damage.</p>
+  <p>On M1, a <a href="Status_Effects.md#nemesis-mark">red eye marker</a> is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing 25 flat damage, regardless of the weapon you're using Nemesis' critical does not benefit from damage modifiers. Deals 18 posture damage regardless of your weapon's Weight stat.</p>
+  <p>If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.</p>
   <p>The critical can still trigger critical Talents like Bear Trap and Manipulator, but it will not benefit from any damage modifiers these Talents may grant.<br>
   </p><b>The range cap of the teleportation is 65-70 studs.</b><p></p>
   <p><strong>In-game Description:</strong></p>
@@ -442,8 +440,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Obfuscation<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>Gain LHT: 5%, MED: 10%, HVY: 15% chip damage. The chip obfuscation grants <b>heavily</b> diminishes based on the amount of innate chip your weapon has.<br>
-  The formula is as follows: C<sub>innate</sub> + C<sub>obf</sub> * (1 - min (1, C<sub>innate</sub>/(2 * C<sub>obf</sub>))). Desmos calculator <a href="https://www.desmos.com/calculator/codwr8t9cy">here</a>.</p>
+  <p>Gain (LHT: 5%, MED: 10%, HVY: 15%) chip damage. The chip obfuscation grants <b>heavily</b> diminishes based on the amount of innate chip your weapon has.<br>
+  The formula is as follows: C<sub>innate</sub> + C<sub>obf</sub> * (1 - min (1, C<sub>innate</sub>/(2 * C<sub>obf</sub>))).<br>
+  <small>Desmos calculator <a href="https://www.desmos.com/calculator/codwr8t9cy">here</a></small></p>
   <p>Key:<br>
   C<sub>innate</sub> = your weapon's innate chip damage.<br>
   C<sub>obf</sub> = the amount of chip obfuscation would give you if your weapon has no innate chip (LHT: 5%, MED: 10%, HVY: 15% chip), however this number will be 0 if your weapon has twice that amount of innate chip.</p><b>Obfuscation will do nothing if your weapon's innate chip is at or over LHT: 10%, MED: 15%, HVY: 30%.</b><p></p>
@@ -475,7 +474,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>On weapon attack, apply the Parasol Blight status effect. This effect has no visual indicator and lasts for 15 seconds. If a player who is affected by Parasol's Blight dies, their corpse will explode and a monster will spawn.</p>
-  <p>The monster can be a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, <a href="Thresher.md">Void Thresher</a>, <a href="Nautilodaunt.md">Nautilodaunt</a>, or a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>. These monsters can be <a href="Monsters.md#scyphozia">Corrupted</a> if used in <a href="The_Depths.md">The Depths</a>.</p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b><p></p>
+  <p>The monster can be a <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a>, <a href="Alpha_Megalodaunt.md">Alpha Megalodaunt</a>, <a href="Thresher.md">Void Thresher</a>, <a href="Nautilodaunt.md">Nautilodaunt</a>, or a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>. These monsters can be <a href="Monsters.md#scyphozia">Corrupted</a> if used in <a href="The_Depths.md">The Depths</a>.</p>
+  <p>Monsters spawned from this enchantment will count as a summon for the <a href="Familiar_Occultist's_Armor.md">Familiar Occultist's Armor</a>.</p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's Minions.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -489,9 +489,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>PVE: Parrying an attack deals damage to the attacker after a delay. This deals 35% of the attack's damage you parried * your Power level, capping at 500 damage per proc.<br>
-  PVP: Parrying 3 attacks within 7 seconds deals damage to the attacker after a delay. This deals 4% of their maximum hp as damage.<br>
-  Providence Thorns is parryable.</p>
-  <p><b>Providence Thorns does not proc on autoparry frames.</b></p>Certain bosses are <b>entirely immune</b> to Providence Thorns. These are: <a href="Maestro_Evengarde_Rest.md">Maestro Evangarde Rest</a> and <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.<p></p>
+  PVP: Parrying 3 attacks within 7 seconds deals damage to the attacker after a delay. This deals 4% of their maximum hp as damage.</p>
+  <p>Providence's Thorns is parryable, but it does not grant autoparry frames.</p>Certain bosses are <b>entirely immune</b> to Providence Thorns. These are: <a href="Maestro_Evengarde_Rest.md">Maestro Evangarde Rest</a> and <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Parrying attacks damages your foes.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -519,9 +518,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Sear<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>Your weapon gains 5% PEN and applies <a href="Status_Effects.md#cauterized">Cauterize</a> on hit. Cauterized targets have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.45%, MED: 8%, HVY: 10% per hit). The PEN bonus is applied to all damage sources like Mantras. Additionally, Sear bypasses the 50% PEN cap.</p>
-  <p>Additionally, drain your opponent's thirst equal to 20% of your weapon's scaled damage.<br>
-  </p>Sear stacks lasts 15 seconds each. Applying a new stack does not refresh this timer.<p></p>
+  <p>Your weapon gains 5% PEN and applies stacks of <a href="Status_Effects.md#cauterized">Cauterize</a> on hit. Cauterized targets take increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 5.45%, MED: 8%, HVY: 10% per hit).</p>
+  <p>The PEN bonus is applied to all damage sources like Mantras. Additionally, Sear bypasses the 50% PEN cap.</p>
+  <p>Additionally, drain your opponent's thirst equal to 20% of your weapon's scaled damage.</p>Sear stacks lasts 15 seconds each. Applying a new stack does not refresh this timer.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Weapon gains +5% PEN. Applies Cauterize on hit for 15s, as well as draining their Water. Cauterized foes take more PEN the more stacks are applied.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -549,9 +548,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Solar<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>Applies <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Critical or Flourish.<br>
-  Solar Mark lasts 8 seconds and reduces Tempo gain/Ether regeneration.</p><br>
-  If you hit a marked enemy with a <a href="Combat_Mechanics.md#tempo">Vent</a>, steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo. This effect also procs on <a href="Imperator's_Fury.md">Imperator's Fury</a>'s Vent.<p></p>
+  <p>Applies a <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Critical or Flourish.</p>
+  <p>Solar Mark lasts 8 seconds and reduces Tempo gain/Ether regeneration.</p>If you hit a marked enemy with a <a href="Combat_Mechanics.md#tempo">Vent</a>, steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo. This effect also procs on <a href="Imperator's_Fury.md">Imperator's Fury</a>'s Vent.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Applies a Solar Mark on critical attack or flourish. Solar Marks last 8s and reduce Tempo gain and Ether regeneration. Your Vent drains the Tempo of those you've marked.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -580,11 +578,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>Grants increased posture damage to M1s. Your M1 guard breaks deal additional damage.<br>
-  Stone doesn't give extra chip damage despite what the In-game Description states.</p>
+  <small>Stone doesn't give extra chip damage despite what the In-game Description states.</small></p>
   <p>Stone's posture calculation is 3.5 * (weapon investment/100), capping at 3.5 additional posture with 100 weapon investment. This is additive to your weapon's base posture.<br>
-  Stone's additional damage on guard break is 25% of your weapon's weight stat (with Stone's posture damage included) before modifiers added to your guard break. Because this is effectively an increase to your weapon's scaled damage on guard break, damage modifiers will be based off the posture break damage with Stone included.</p>
-  <p><small>The additional guard break damage would look like this: scenario: 100 heavy investment Sovereign's Punishment = 13 innate Weight + 3.5 from Stone. (13 + 3.5) * 0.25 = 4.55 additional guard break damage on M1s.</small></p><br>
-  <b>Stone only works on M1s</b><p></p>
+  Stone's additional damage on guard break is 25% of your weapon's weight stat (with Stone's posture damage included) before modifiers added to your guard break. Because this is effectively an increase to your weapon's scaled damage on guard break, damage modifiers will be based off the posture break damage with Stone included.</p><small>The additional guard break damage would look like this: scenario: 100 heavy investment Sovereign's Punishment = 13 innate Weight + 3.5 from Stone. (13 + 3.5) * 0.25 = 4.55 additional guard break damage on M1s.</small><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Deal increased posture damage on your light attacks. Increases chip damage and damage on block break.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -613,7 +609,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Storm<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>On weapon hit, Storm deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it's raining. On proc, this also applies <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a>. This effect has a 5 second cooldown.</p>
+  <p>On weapon hit, Storm deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a>. This effect has a 5 second cooldown.</p>
   <p>The damage this deals is based off your weapon's damage after resistances, and <b>it cannot be enhanced with damage modifiers</b>. Storm's damage can be resisted by Thundercall resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.</p>
   <p>Because Storm deals a percentage of your attack's damage after resistances, can be <b>double resisted</b>.</p><br>
   <small>For example, if your weapon attack dealt 100 Physical damage, Storm would deal 16.5 damage. If your opponent had 50% physical resistance, your weapon attack would deal 50 damage instead, halving Storm's damage to 8.25. If your opponent also had 50% Thundercall resistance, it'd lower Storm's damage further, down to 4.125.</small><p></p>
@@ -644,7 +640,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Stormbreaker<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>On M1, Stormbreaker deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it's raining. On proc, this also applies <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a>. This effect has a 5 second cooldown.</p>
+  <p>On M1, Stormbreaker deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a>. This effect has a 5 second cooldown.</p>
   <p>The damage this deals is based off your weapon's damage, and <b>it cannot be enhanced with damage modifiers</b>. Stormbreaker's damage can be resisted by Thundercall resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.</p>Stormbreaker replaces your weapon critical with a new one that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 25 <b>flat</b> Thundercall damage on throw and then 18.75 <b>flat</b> Thundercall damage on return. Stormbreaker can hit the same target twice on throw or recall and it deals less than 1 posture damage per hit. You are unable to attack until your weapon returns. Completely halts the user's movement while the weapon is being recalled.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Your attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above.</i></p>
@@ -673,9 +669,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Tears of the Edenkite<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>On Flourish or Critical, create 5 bubbles around you that home onto an enemy, dealing damage and stunning. These bubbles are parryable. (20 seconds cooldown)<br>
-  Bubble scale with weapon investment and deals DMG that bypasses armor (NOT TRUE DMG), does 11 DMG per bubble at 100 weapon.<br>
-  </p>Has 7.55x PVE scale<p></p>
+  <p>On Flourish or Critical, create 5 bubbles around you that home onto an enemy, dealing damage and applying hitstun. This effect has a 20 second cooldown.</p>
+  <p>The bubbles' damage scales with your weapon investment, dealing 11 damage at 100 weapon. Additionally they have 7.55x PvE scaling. The bubbles deal typeless damage, bypassing armor resistances.</p>The bubbles are parryable, blockable, and dodgeable.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>On critical attacks and flourishes, produce homing bubble projectiles. 20s CD.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -703,9 +698,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p><br>
-  On hit, a red slash will follow up after a successful m1 on the target with a 0.25s delay after the initial hit, before it goes on a short cooldown of 5 seconds.</p><br>
-  The slash of Umbral Knight deals 20% damage of the weapon and is parryable.<p></p>
+  <p>On hit, a red slash will follow up after a 0.25s delay, dealing 20% of your weapon's scaled damage. This has a 5 second cooldown.</p>Umbral Knight can be parried, blocked, and dodged.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>On hit, the Umbral Knight will strike your foes for 20% of your weapon's damage after a 0.25s delay. 5s CD.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -763,12 +756,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Wild<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>When landing weapon attacks, deal 85% of your scaled damage in an AoE. This does not hit the initial victim.<br>
-  The AoE has a radius of ~18.25 studs.<br>
-  Only one AoE can proc at a time, two enemies can't be hit at once to proc two AoEs.<br>
-  If you hit two people with the same attack, one person will get hit with both Wild and your attack, dealing much more damage.<br>
-  Wild's damage is typeless.</p><br>
-  Allies only take 50% of your scaled damage from the Wild procs instead of the full 85%.<p></p>
+  <p>When landing weapon attacks, deal 85% of your scaled damage in an ~18.25 stud AoE as typeless damage. This does not hit the initial victim.</p>
+  <p>Only one AoE can proc at a time, two enemies can't be hit at once to proc two AoEs. If you hit two people with the same attack, one person will get hit with both Wild and your attack at the same time.</p>Allies only take 50% of your scaled damage from the Wild procs instead of the full 85%.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>On hit, deal 85% of your weapon's damage in an AoE. This AoE cannot hit allies or the enemy originally hit. Reduces your damage against allies by 50%.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -802,7 +791,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   When between 0 and 10 weapon investment, the duration will always be 0.5s, as the Enchant has a starting value of 0s, but the minimum duration this Enchant actually can be active is always 0.5s.</p>
   <p>In the case of <a href="Wyrmtooth.md">Wyrmtooth</a>, your Medium investment will take priority over your Heavy investment.</p>
   <p>Windswept's stacks do not decay over time.</p><br>
-  Criticals with the M1 tag will count each hit as 1 stack each, while all other criticals are entirely unable to proc this Enchant. Full list of what critical attacks have the M1 tag is listed <a href="https://docs.google.com/document/d/e/2PACX-1vSPmulQoA5H3OTyzC8SVCCy2kx6o97dlqCvkif7uR0ihoIBOWQ9Mv2OAyb0eMB-EU4CzPW8u1asvaIE/pub">here</a>.<p></p>
+  Criticals with the M1 tag can build up stacks for Windswept.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>After landing enough stacks, proc winded on your opponent. The duration scales with your weapon investment.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -881,17 +870,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>While held, gain increased passive health regen scaling with your weapon stat investment. Every M1 adds 2% insanity to the opponent.<br>
-  <br>
-  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life. Unequipping it from your character will restore that life, (assuming NLK actually took one away in the first place.))<br>
-  The health regeneration caps at 100 total weapon investment.<br>
-  Take 2x blood damage from all sources when in the overworld.<br>
-  Healing potions heal you less.<br>
-  When held in The Depths, lose 2 sanity per second.<br>
-  While held, losing all your sanity result in an automatic death.</p>
-  <p><abbr><b>Some Talents are disabled or reduced in efficiency.</b></abbr><br>
-  <b>Viscosity is disabled with this enchant.</b></p><br>
-  <b>Disabled in <a href="Chime_of_Conflict.md">Chime of Conflict</a>.</b><p></p>
+  <p>While held, gain increased passive health regen that scales on your weapon investment. Every M1 deals 2% sanity damage to your opponent.<br>
+  </p>
+  <p>Your healthbar is permanently stained while your weapon is equipped, making every death send you to <a href="The_Depths.md">the Depths</a>. Your healthbar will be unstained upon unequipping this weapon, assuming that it's what stained you in the first place.</p>
+  <p>While your weapon is unsheathed in <a href="The_Depths.md">the Depths</a>, lose 2 <a href="Insanity.md">Sanity</a> per second. Additionally, reaching 0% <a href="Insanity.md">Sanity</a> while having a Curse of the No Life King weapon equipped will result in your head rupturing (instant death).</p>
+  <p>The health regeneration caps at 100 total weapon investment.<br>
+  You take 2x blood damage from all sources when in the overworld.<br>
+  Healing potions heal you less.</p>
+  <p>The Viscosity armor enchantment is disabled if you have Curse of the No Life King on your weapon. Additionally, this enchantment does not work in the <a href="Chime_of_Conflict.md">Chime of Conflict</a>.</p><abbr><b>Some Talents are disabled or have reduced efficiency while this enchantment is equipped.</b></abbr><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Grants passive regen and damages the sanity of your foes, but succumb to the insanity much faster, lose twice as much blood, and never be more than a step away from death. The amount of healing scales with your weapon stat invested.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -920,8 +906,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse Of Repulsion<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>While blocking, take 30% chip DMG only if the enchant procs.<br>
-  Successful proc will push attacker backwards and put the enchant on 2.5 second cooldown.</p><b>NO RANGE LIMIT, AFFECTED BY ANY ATTACK</b><p></p>
+  <p>Upon blocking an attack, push the attacker backwards. Additionally, you take 30% chip damage from the attack that procced this enchant.</p>Curse of Repulsion has a 2.5 second cooldown. Curse of Repulsion has no range limit.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>When you block attacks, you knock your attacker backwards. You receive +30% chip damage.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -949,12 +934,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>Drains the target's ether on hit. This scales with your scaled damage.<br>
-  <u><b>Steals 1 ether per 1.3 M1 dmg</b></u><br>
-  <u><b>ETHER STEAL DEPENDS ON SCALED DMG (no dmg mods)</b></u><br>
-  Critical attack is replaced with a counter that, upon use, takes away 25% ether. (if available). Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% posture and refunding 15% ether.<br>
-  The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
-  </p>Check <a href="#trivia">Trivia</a> for an explanation of its bugginess in PvE.<p></p>
+  <p>Drains the target's <a href="Ether.md">Ether</a> on hit, based on scaled damage dealt.</p>
+  <p>This drains 1 Ether per 1.3 scaled M1 damage.</p>
+  <p>Your critical attack is replaced with a counter that drains 25% of your Ether on use. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent, as well as restoring 30% of your Posture and refunding 15% of your maximum Ether.<br>
+  The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.</p>Check <a href="#trivia">Trivia</a> for an explanation of its bugginess in PvE.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Your critical attack is replaced with Unbidden Counter, restoring posture and stunning your attacker. Your attacks drain Ether on hit.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -983,8 +966,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 30 seconds.</p>
-  <p>For the duration of the status effect, the target is under a 30% Anti-Heal effect. Additionally, if they die while affected by Void, they will instantly drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
-  <p>Permanently stained health bar while the enchant is equipped.</p>
+  <p>For the duration of the status effect, the target is under a 30% Anti-Heal effect. Additionally, if they die while affected by Void, they will drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
+  <p>Your healthbar is permanently stained while the enchant is equipped, making all deaths send you to <a href="The_Depths.md">the Depths</a>.</p>
   <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing.</i></p>
@@ -1001,7 +984,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p>After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying <font>Flames of Life</font> and Temporary Health to them and other nearby targets.</p>
   <p>The damage of explosion and amount of Temporary Health given are randomized.<br>
   <b>Damage:</b> 5.5-33 typeless damage, averaging 18.7 out of 100 procs. This cannot be buffed, and the explosions cannot execute.<br>
-  <b>Temporary Health:</b> 0-50, averaging 25.77 out of 100 procs. Temporary health given cannot have decimals, as it is always whole numbers.</p>The explosion has 7.56x PvE scaling, the green fire has 6.66x PvE scaling; multiply PvP damage dealt by this amount to get PvE damage. Temporary Health does not scale in PvE.<p></p>
+  <b>Temporary Health:</b> 0-50, averaging 25.77 out of 100 procs. Temporary health given cannot have decimals, as it is always whole numbers.</p>The explosion has 7.56x PvE scaling, the green fire has 6.66x PvE scaling; multiply PvP damage dealt by this amount to get PvE damage. Temporary Health given does not scale in PvE.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Once enough stacks have been applied, the Fire of Life geminates. The explosion deals a random amount of damage and grants temporary health to the affected targets.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -1019,12 +1002,14 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p><strong>Effect:</strong></p>
-  <p></p>
-  <p>On proc, <b>add</b> (LHT: 3%, MED: 4.5%, HVY:6%) of your max health to your damage. 12 second CD per victim.<br>
-  On proc, this enchant takes your M1 DMG (with no DMG mods) adds up&nbsp;% of your max health and then applies DMG multipliers. (If there is any)<br>
-  Rarely, you lose 7% of your max health as downside during the proc<br>
-  </p>Can autogrip if it procs self damage at low enough health.<br>
-  <p></p>
+  <p>On weapon attack, there is a chance that one of two things will happen:</p><div>
+  <ol>
+    <li>A percentage (LHT: 3%, MED: 4.5%, HVY: 6%) of your maximum health will be added to your attack's scaled damage.
+  <ul>
+    <li>This is applied before damage modifiers.</li>
+  </ul></li>
+    <li>You lose 7% of your maximum health instead. This can autogrip you.</li>
+  </ol></div>Curse of Yun'Shul has a 12 second cooldown per victim.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Has a chance to inflict a curse that deals percentage damage, but who it falls upon is often down to luck.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -1495,10 +1480,10 @@ Stench
 
 **Effect:**
 
-On proc, release a cloud of blockable gas that deals damage to nearby enemies who stand in it. Gradually drains 3% of the total HP of all enemies who stand in the cloud.
+On proc, release a cloud of blockable gas that deals damage to nearby enemies who stand in it. This deals 1% of your opponent's maximum health per tick and ticks 3 times. Stench cannot deal more than 10 damage in a singular tick.
 
   
-20% Chance to proc
+20% Chance to proc when being hit.
 
 **In-game Description:**
 
@@ -1533,7 +1518,7 @@ Viscosity
 **Effect:**
 
 Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.  
-No longer apply any protection from getting knocked below 10% (needs more testing) as of at least Nov 18th 24. Pairs well with [Run It Back](Run_It_Back.md) as it nullifies all currently incoming damage.  
+Pairs well with [Run It Back](Run_It_Back.md) as it nullifies all currently incoming damage.  
 
 **Disabled if using Curse of the No Life King and/or Immortal Helm.**
 

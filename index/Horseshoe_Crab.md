@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 174731
+revid: 174889
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -14,6 +14,7 @@ notices:
 
 ― A group of Isopods on their way to kill an innocent Adret Diver Apprentice
 
+  
 Template:Creature Infobox V3
 
 ## Description
@@ -22,9 +23,17 @@ The Isopod is an unused monster that only appears during the [Charisma Unbound](
 
 Isopods are small, brown creatures with a long tail. They have a hard shell on top, with a mouth underneath, presumably used for slaughtering their foes.
 
-## Moves
+## Moveset
 
--   **Leech** - The Isopod latches on to the player, slowly consuming their blood for roughly 10 seconds.
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Leech**  
+(★★★)
+
+ | The Isopod latches on to the player, slowly consuming their blood for roughly 10 seconds.
+
+ |  |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 174750
+revid: 174787
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant]
@@ -44,6 +44,7 @@ Events that spawn in Upper Erisia that could potentially involve combat. For mor
 -   [Etrean Soldiers](Etrean_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
 -   [Legion Soldiers](Legion_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
 -   [Knives of Eylis](Knife_of_Eylis.md) beating up [Nomad Hostage](Navaen_Hostage.md)
+-   Rock Golem vs Terrapod
 
 ## Events
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 174738
+revid: 174796
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -75,7 +75,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
     -   Potential Locations:
         -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
         -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 38 minute 30 second time limit
-        -   The water highway gate between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 1 hour 40 second time limit
+        -   [The Aratel Sea](The_Aratel_Sea.md) - near the [Sea Highway](Sea_Highway.md) in between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 1 hour 40 second time limit
     -   Notes/Tips:
         -   When the Mission completes, the Legion Soldiers will immediately lose aggression.
         -   The Legion Soldiers and Captain will be completely passive if you have neutral or higher [Hundred Legions](The_Hundred_Legions.md) reputation.
@@ -173,7 +173,7 @@ Enlistment Ranks
 
 ### Divisions
 
-Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Unique [Outfits](Outfits.md), and [Talents](Talents.md). You will also gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons.
+Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Unique [Outfits](Outfits.md), and [Talents](Talents.md). You will also gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons. Additionally, NPCs affiliated with The Central Authority that are located in either Port or Fort Merit will salute you when walking by them.
 
 Each Division is unique in their themes, offering many avenues of gameplay and build diversity, but be warned as once you join a Division, you **cannot** go back or choose a different one. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please. Additionally, most Authority NPCs will salute you when you approach them.
 

@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 174680
+revid: 174807
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Items]
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Hats, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Primadon, Titan of the East, Duke Ishamon Erisia, Voidwalker Bounties |
+| obtainment | The Depths, Primadon, Titan of the East, Duke Ishamon Erisia, Voidwalker Bounties, Fishing |
 | description | ... |
 
 ## Description

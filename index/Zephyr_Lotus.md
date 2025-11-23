@@ -1,6 +1,6 @@
 ---
 title: Zephyr Lotus
-revid: 167769
+revid: 174831
 source: https://deepwoken.fandom.com/wiki/Zephyr_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables, Ingredients]
@@ -21,4 +21,4 @@ categories: [Items, Harvestables, Ingredients]
 
 ## Description
 
-The The Zephyr Lotus can be found in [Ancient Rotlands](Ancient_Rotlands.md).
+The Zephyr Lotus can be found in [Ancient Rotlands](Ancient_Rotlands.md).

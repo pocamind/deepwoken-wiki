@@ -1,109 +1,117 @@
 ---
 title: Attribute Flasks
-revid: 172080
+revid: 174847
 source: https://deepwoken.fandom.com/wiki/Attribute_Flasks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Ingredients, Items]
+categories: [Items, Ingredients, Harvestables]
 ---
 
 # Attribute Flasks
 
-## Primordial Lotuses
+| Flask of Strength | |
+|---|---|
+| value | 30 |
+| weight | N/A |
+| type | Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
 
-2 of the same Primordial Lotuses can be used to create attribute flasks of a specific stat (excluding attunements and weapons)
+| Flask of Fortitude | |
+|---|---|
+| value | 30 |
+| weight | N/A |
+| type | Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
 
-Warning: This WILL take up an attribute point as though you used the training gear that related to the stat.
+| Flask of Agility | |
+|---|---|
+| value | 30 |
+| weight | N/A |
+| type | Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
 
-### Miasmic Lotus
+| Flask of Intelligence | |
+|---|---|
+| value | 30 |
+| weight | N/A |
+| type | Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
 
-Can be found in the [Ancient Rotlands](Ancient_Rotlands.md) or have a chance to spawned from the fountain in [The Hidden Grove](The_Hidden_Grove.md).
+| Flask of Willpower | |
+|---|---|
+| value | 30 |
+| weight | N/A |
+| type | Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
 
-File:PinkRizzyLotus.png
+| Flask of Charisma | |
+|---|---|
+| value | 30 |
+| weight | N/A |
+| type | Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
 
-Miasmic Lotus
+## Description
 
-Gives Charisma
+Two of the same Primordial Lotuses can be crafted together to create Attribute Flasks. Attribute Flasks increases the user's respective core attribute stat by +1, consuming an investment point on use.
 
-  
+Attribute Flasks will not provide stat bonuses if there are no available investment points to spend.
 
-  
+## Flask of Strength
 
-  
+Crafted from two [Hellfire Lotuses](Primordial_Lotuses.md#hellfire-lotus), this Attribute Flask increases your [Strength](Attributes.md#str) Attribute by +1.
 
-### Brilliant Lotus
+[Hellfire Lotuses](Primordial_Lotuses.md#hellfire-lotus) can be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Saramaed Summit](Saramaed_Summit.md).
 
-Can be found in [Saramaed Summit](Saramaed_Summit.md) or [Deep Thresher Nest](Deep_Thresher_Nest.md) or have a chance to spawned from the fountain in [The Hidden Grove](The_Hidden_Grove.md).
+## Flask of Fortitude
 
-File:Wasn't always yellow.png
+Crafted from two [Empyrean Lotuses](Primordial_Lotuses.md#empyrean-lotus), this Attribute Flask increases your [Fortitude](Attributes.md#ftd) Attribute by +1.
 
-Brilliant Lotus
+[Empyrean Lotuses](Primordial_Lotuses.md#empyrean-lotus) can be found at the [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
-Gives Intelligence
+## Flask of Agility
 
-  
+Crafted from two [Zephyr Lotuses](Primordial_Lotuses.md#zephyr-lotus), this Attribute Flask increases your [Agility](Attributes.md#agl) Attribute by +1.
 
-  
+[Zephyr Lotuses](Primordial_Lotuses.md#zephyr-lotus) can be found at the [Ancient Rotlands](Ancient_Rotlands.md).
 
-### Skyvalor Lotus
+## Flask of Intelligence
 
-Can be found in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) or [Starfield Grove](Starfield_Grove.md) or have a chance to spawned from the fountain in [The Hidden Grove](The_Hidden_Grove.md).
+Crafted from two [Brilliant Lotuses](Primordial_Lotuses.md#brilliant-lotus), this Attribute Flask increases your [Intelligence](Attributes.md#int) Attribute by +1.
 
-Skyvalor Lotus
+[Brilliant Lotuses](Primordial_Lotuses.md#brilliant-lotus) can be found at the [Saramaed Summit](Saramaed_Summit.md) and [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
-Gives Willpower
+## Flask of Willpower
 
-  
+Crafted from two [Skyvalor Lotuses](Primordial_Lotuses.md#skyvalor-lotus), this Attribute Flask increases your [Willpower](Attributes.md#wll) Attribute by +1.
 
-  
+[Skyvalor Lotuses](Primordial_Lotuses.md#skyvalor-lotus) can be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Starfield Grove](Starfield_Grove.md).
 
-  
+## Flask of Charisma
 
-### Empyrean Lotus
+Crafted from two [Miasmic Lotuses](Primordial_Lotuses.md#miasmic-lotus), this Attribute Flask increases your [Charisma](Attributes.md#cha) Attribute by +1.
 
-Can be found in the [Deep Thresher Nest](Deep_Thresher_Nest.md) or have a chance to spawned from the fountain in [The Hidden Grove](The_Hidden_Grove.md).
-
-File:This was always this color.png
-
-Empyrean Lotus
-
-Gives Fortitude
-
-  
-
-  
-
-  
-
-### Hellfire Lotus
-
-Can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) or [Saramaed Summit](Saramaed_Summit.md) or have a chance to spawned from the fountain in [The Hidden Grove](The_Hidden_Grove.md).
-
-File:THIS IS FIRE🔥🔥🔥.png
-
-Hellfire Lotus
-
-Gives Strength
-
-  
-
-  
-
-  
-
-### Zephyr Lotus
-
-Can be found in [Ancient Rotlands](Ancient_Rotlands.md) or have a chance to spawned from the fountain in [The Hidden Grove](The_Hidden_Grove.md).
-
-File:☢️BIOHAZARD☢️ ahh lotus.png
-
-Zephyr Lotus
-
-Gives Agility
-
-  
-
-  
+[Miasmic Lotuses](Primordial_Lotuses.md#miasmic-lotus) can be found at the [Ancient Rotlands](Ancient_Rotlands.md).
 
 ## Trivia
 
--   Does not give any stats if there are no available points.
+-   The [Hidden Grove](The_Hidden_Grove.md), a now cut location, was able to produce any of the Primordial Lotuses depending on the season.
+-   Using any Attribute Flask will award the "Drink an Attribute Flask" [Echo Triumph](Echoes.md#echo-triumphs), even if the Flask did not provide any stat increases (e.g. using an Attribute Flask while fully invested).
+-   Strangely, the colors of the Willpower, Intelligence, and Fortitude Flasks are entirely different from that of their respective Lotuses.

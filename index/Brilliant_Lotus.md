@@ -1,6 +1,6 @@
 ---
 title: Brilliant Lotus
-revid: 167772
+revid: 174835
 source: https://deepwoken.fandom.com/wiki/Brilliant_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables, Ingredients]

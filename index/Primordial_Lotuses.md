@@ -1,11 +1,11 @@
 ---
-title: Lotuses
-revid: 174817
-source: https://deepwoken.fandom.com/wiki/Lotuses
+title: Primordial Lotuses
+revid: 174816
+source: https://deepwoken.fandom.com/wiki/Primordial_Lotuses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Lotuses
+# Primordial Lotuses
 
 Redirect to:
 

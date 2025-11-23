@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 173508
+revid: 174814
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]

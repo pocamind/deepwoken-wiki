@@ -1,6 +1,6 @@
 ---
 title: Skyvalor Lotus
-revid: 167773
+revid: 174838
 source: https://deepwoken.fandom.com/wiki/Skyvalor_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
