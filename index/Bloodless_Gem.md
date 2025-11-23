@@ -1,6 +1,6 @@
 ---
 title: Bloodless Gem
-revid: 172852
+revid: 174900
 source: https://deepwoken.fandom.com/wiki/Bloodless_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,7 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It bleeds...On hit, heal for 30% of the unscaled damage dealt, but reduce the damage dealt to your opponent by 20%. After healing 15 HP, goes on cooldown for 2s. |
-| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, In any chest from the First Layer or sea events that drop First Layer chests, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
 
 ## Description
 
@@ -26,7 +26,9 @@ Bloodless Gem is a dark red diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
-Upon landing a Mantra with a Bloodless Gem equipped, heal for 30% of the scaled damage dealt at the cost of your Mantra's scaled damage being reduced by 20%. This has a healing cap of 15, reaching this cap will put Bloodless Gem on cooldown for 2 seconds.
+Upon landing a Mantra with a Bloodless Gem equipped, heal for 30% of the scaled damage dealt at the cost of your Mantra's scaled damage being reduced by 20%.
+
+This has a healing cap of 15 health. Reaching this cap will put Bloodless Gem on cooldown for 2 seconds.
 
 ### Notes
 

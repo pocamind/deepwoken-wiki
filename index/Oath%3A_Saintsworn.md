@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 174851
+revid: 174912
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -209,7 +209,7 @@ File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Sa
 
 ## Dialogue
 
-See [Saintsworn Obelisks#Dialogue](Saintsworn_Obelisks.md#dialogue).
+See [Saintsworn Obelisks](Saintsworn_Obelisks.md#dialogue).
 
 ## Trivia
 

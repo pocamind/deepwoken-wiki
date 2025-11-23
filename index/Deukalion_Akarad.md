@@ -1,6 +1,6 @@
 ---
 title: Deukalion Akarad
-revid: 170756
+revid: 174941
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Black Divers, Deceased characters]
@@ -28,3 +28,4 @@ Following his death, Akarad's name was invoked by Black Diver [Ulysses Disii](Ul
 ## Trivia
 
 -   It's unknown whether Akarad was among the Divers killed within the Depths, or the survivors who all died after they resurfaced improperly.
+-   Akarad's name is said in [11:59](https://www.youtube.com/watch?v=g4aVbN4nE6U), an OST that plays after defeating the Scion of Ethiron.

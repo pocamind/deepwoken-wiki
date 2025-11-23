@@ -1,6 +1,6 @@
 ---
 title: Wind Gem
-revid: 172860
+revid: 174906
 source: https://deepwoken.fandom.com/wiki/Wind_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,11 +18,11 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It breathes...On hit, apply a speed boost for 10s (10s CD) |
-| obtainment | Maestro Evengarde Rest (several guaranteed), Primadon, Chaser, Scion of Ethiron, Ferryman, In any chest from the First Layer or sea events that drop First Layer chests, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
+| obtainment | Maestro Evengarde Rest (several guaranteed), Primadon, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
 
 ## Description
 
-Wind Gem is a white diamond-shaped Deep Gem.
+Wind Gem is a white diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 166321
+revid: 174950
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -71,25 +71,27 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
   <td colspan="12">Oh? Then what are you?</td>
 </tr>
 <tr>
-  <td colspan="3">None of your business.</td>
   <td colspan="3">A Pathfinder</td>
   <td colspan="3">A Warrior.</td>
   <td colspan="3">A Scholar.</td>
+  <td colspan="3">None of your business.</td>
 </tr>
 <tr>
-  <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?</td>
   <td colspan="9">Wow... You really are full of yourself, huh?</td>
+  <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?</td>
 </tr>
 <tr>
+  <td colspan="9">End</td>
   <td>Sure.</td>
   <td colspan="2">No.</td>
-  <td colspan="9">End</td>
 </tr>
 <tr>
+  <td colspan="9"></td>
   <td>Great! See you soon!</td>
   <td colspan="2">End</td>
 </tr>
 <tr>
+  <td>colspan="9"</td>
   <td>End</td>
 </tr>
 </tbody>
@@ -109,7 +111,7 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
   <td colspan="15">A Thresher Spine?</td>
 </tr>
 <tr>
-  <td colspan="15">Riiiight Riiight... Well, I don't really need one of those anymore, I found a toothpick in my pack, but how about this? As a reward for your brave deed of going to that dark and horrible temple, I'll listen to your soul.</td>
+  <td colspan="15">Riiiight riiight... Well, I don't really need one of those anymore, I found a toothpick in my pack, but how about this? As a reward for your brave deed of going to that dark and horrible temple, I'll listen to your soul.</td>
 </tr>
 <tr>
   <td colspan="15">Listen to my Soul?</td>
@@ -144,7 +146,7 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
   <td colspan="3">PVP Preferred<br>
   Ah... I can hear the drumbeats of war within your soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the <b>Depths</b> is known to draw out song within all of us...</td>
   <td colspan="3">Depths Preferred<br>
-  Ah... an Inquisitive Soul... Your Soul's Curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you...</td>
+  Ah... An Inquisitive Soul... Your Soul's Curiosity must be quenched. What lies within the <a href="Glossary.md#the-depths">Depths</a>? Delving into that realm will surely bear fruit for you...</td>
   <td colspan="3">Bosses Preferred<br>
   Ah... I can hear your soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the <b>Depths</b> is known to draw out the song within all of us...</td>
   <td colspan="3">Inspired <a href="Regalia.md">Regalia</a><br>

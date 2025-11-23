@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 172613
+revid: 174965
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits, Expert Outfits, Outfits of The Central Authority]
@@ -34,6 +34,8 @@ This Outfit costs 500 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 and to have at least 25 [Strength](Attributes.md#str).
 
 Alternatively, joining the Command Division of the [Authority Ensign](Authority_Ensign.md) Origin will grant it for free, ignoring all requirements.
+
+Some [origins](Origins.md) are unable to craft this armor. (Needs more testing, currently Voidwalker and Lone Warrior are unable to craft)
 
 ### _Armor Stats_
 

@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 171504
+revid: 174924
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -134,7 +134,7 @@ This dialogue will only appear if the player has received dialogue from [Titus](
 ## Trivia
 
 -   Initially, there were no bars on Brutus' cage. While it was initially speculated he was afforded certain freedoms, an interview with Arch\_Mage revealed that there were meant to be bars there, hence why there was a secret tunnel into his cell that seemingly provided no function due to the cell being wide open anyway. This lead to builder Zartania constantly being asked "Can you put bars on Brutus' cage?" by a discord user which finally culminated in their addition during the 3/8/2024 update.
-    -   At some point, the secret tunnel was also removed, but the bars were also taken off by mistake in the process.
+    -   At some point, the secret tunnel was also removed, but the bars were made destructible in exchange.
 -   You can use a training vest and let him beatdown you to increase Fortitude.
 -   His hair ID is 5143078089.
 -   His variant is Silverback.

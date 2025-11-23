@@ -1,6 +1,6 @@
 ---
 title: Nocturnal Gem
-revid: 174556
+revid: 174908
 source: https://deepwoken.fandom.com/wiki/Nocturnal_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
@@ -24,11 +24,11 @@ notices:
 
 ## Description
 
-Nocturnal Gem is a black crystalline [Deep Gem](Deep_Gems.md), not too dissimilar to the real world quartz crystal in shape, being several hexagonal prisms that converge at the bottom. This Gem is exclusive to the [Hallowtide](Hallowtide.md) event and is of [Relic](Relics.md) rarity.
+Nocturnal Gem is a black crystalline [Deep Gem](Deep_Gems.md) made up of several hexagonal prisms that converge at the bottom, not too dissimilar to the real-world quartz in shape. This Gem is exclusive to the [Hallowtide](Hallowtide.md) event and is of [Relic](Relics.md) rarity.
 
 ## Effect
 
-Upon landing a Mantra with a Noctural Gem equipped, an eruption of bats will occur after a 1 second delay, dealing 10 slash damage.
+Upon landing a Mantra with a Nocturnal Gem equipped, an eruption of bats will occur after a 1 second delay, dealing 10 slash damage.
 
 ### Notes
 

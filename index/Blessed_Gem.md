@@ -1,6 +1,6 @@
 ---
 title: Blessed Gem
-revid: 172851
+revid: 174901
 source: https://deepwoken.fandom.com/wiki/Blessed_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,7 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | A frequency emits from within like a choir...On hit, reduces the cooldown of a Mantra by 50%. (5s CD) |
-| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, In any chest from the First Layer or sea events that drop First Layer chests, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
 
 ## Description
 

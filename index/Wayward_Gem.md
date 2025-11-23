@@ -1,6 +1,6 @@
 ---
 title: Wayward Gem
-revid: 172858
+revid: 174904
 source: https://deepwoken.fandom.com/wiki/Wayward_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -18,7 +18,7 @@ categories: [Items, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It's phasing in and out of existence...On hit, activate Wayward Warp and teleport to your opponent after a 1s delay. (8s CD) |
-| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, In any chest from the First Layer or sea events that drop First Layer chests, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
 
 ## Description
 

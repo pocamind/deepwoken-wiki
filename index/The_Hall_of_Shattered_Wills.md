@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 149488
+revid: 174917
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -22,7 +22,7 @@ Image of The Hall of Shattered Wills.
 
 ## Overview
 
-The Hall of Shattered Wills is an office workspace filled with cubicles and also posses a large room to fight in. This location is inaccessible to non-moderators, attempting to enter will result in a death by "The Office Creature" (no visuals, you are simply killed on the spot with this kill reason)
+The Hall of Shattered Wills is an office workspace. This location is inaccessible to non-moderators, attempting to enter will result in a death by "The Office Creature" (no visuals, you are simply killed on the spot with this kill reason)
 
 It has some basic functions but merely acts as a safe place for moderators to work undisturbed.
 
@@ -34,13 +34,13 @@ It has some basic functions but merely acts as a safe place for moderators to wo
 
 ### Gallery
 
--   A gallery containing the illustrations of Moderators is hung around the walls.
+-   A gallery containing portraits of Moderators are hung across the walls.
 -   At the end of the hall, there is a sword in a stone.
 -   Other than being a gallery, this also serves as an arena for Moderators to fight.
 
-### Kindergarden
+### Kindergarten
 
-A place of where the moderators learn..?
+A place of where the moderators learn..
 
 Do tickets or go to detention
 
@@ -57,7 +57,7 @@ An area where the moderators can [fish](Fishing.md), however if you fall down in
 ### Kitchen
 
 -   An ordinary kitchen you would find in an office.
--   A fridge, with 2 signs on it.
+-   A fridge manufactured by "Horror Corp." The top door has a magnet of the Transgender flag.
 
 -   Motivational posters are hung, all of these reading:
 
@@ -106,7 +106,8 @@ A map can be found at [Maps#The Hall of Shattered Wills](Maps.md#the-hall-of-sha
 -   The music for this area is [The Hall of Shattered Wills](Deepwoken_OST.md#the-hall-of-shattered-wills) by Naktigonis.
 -   The sword is from one of Nuttoon's previous projects.[\[1\]](#cite-note-1)
 -   The room is located at the coordinates X 40000, Y 40000, Z 40000.
--   The cooldown and nutritional values of the YUM YUM BAR are made in such a way that it is impossible to sustain oneself with just YUM YUM BAR. Mods often accidently starve to death while performing moderation work.
+-   The computer screens depict the Discord interface.
+-   The cooldown and nutritional values of the YUM YUM BAR are made in such a way that it is impossible to sustain oneself with just YUM YUM BAR. Mods often accidentally starve to death while performing moderation work.
 -   The "Kindergarten" area is a reference to the Indie Mascot-Horror series "Garten of Banban", including the name itself.
 -   The block above the ropes holding the "Fish" sign is the same model as the microwave in the kitchen.
 -   Moderator can use the points they gain through moderation actions to:

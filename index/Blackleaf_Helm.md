@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 169035
+revid: 174967
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -32,3 +32,4 @@ The _Blackleaf Helm_ is a piece of Equipment in the "Head" category, being a bla
 
 -   The [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) at Etris wear this helmet.
 -   A very strong helmet. At full potential, it can grant +25 HP, +1 posture, and the Concussive Force Talent which can be beneficial in ganks without spending another talent.
+-   Worn by [The Meat Lord](The_Meat_Lord.md) (Dyed #8E8F90)

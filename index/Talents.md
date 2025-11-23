@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174698
+revid: 174952
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2847,8 +2847,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Scholar of the Cloud
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
-    -   Unintuitive to most the community, using Windwaker is meant to grant a further speed boost only inside a Wind Gate.
-    -   Prerequisites: Sail with your mast pointed towards the wind in a sea highway for an unknown amount of time, 20 Galebreathe
+    -   Prerequisites: Sail with your mast pointed towards the wind for an unknown amount of time, 20 Galebreathe
 
 ### Scoundrel
 
