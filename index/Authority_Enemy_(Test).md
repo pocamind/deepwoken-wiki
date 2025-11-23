@@ -1,6 +1,6 @@
 ---
 title: Authority Enemy (Test)
-revid: 174958
+revid: 174978
 source: https://deepwoken.fandom.com/wiki/Authority_Enemy_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, The Central Authority, Central Authority Enemies]

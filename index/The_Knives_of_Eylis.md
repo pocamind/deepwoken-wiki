@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 173648
+revid: 174980
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Knives of Eylis]
@@ -19,29 +19,29 @@ categories: [Factions, The Knives of Eylis]
 
 ## Description
 
-The Knives of Eylis, also known as the Silver Whalers, are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the East Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant.
+**The Knives of Eylis**, also known as the **Silver Whalers**, are an organization of ruthless mercenaries. They serve Eylis, the Punished Dreamer. They are hired by [The Central Authority](The_Central_Authority.md) to cause carnage in the East Luminant, raiding Etrean naval vessels. Their base is found in the [Voidheart](Voidheart.md), a mysterious location said to exist within the [Voidsea](Voidsea.md). They are also said to live in the sewers in the Central Luminant.
 
-The [Voidwalker](Voidwalker.md) [Origin](Origins.md) is associated with this faction. It grants the player two exclusive Voidwalker items upon spawn, the Voideye and the Grasp of Eylis.
+The [Voidwalker](Voidwalker.md) [Origin](Origins.md) is associated with this faction. It grants the player two exclusive [Voidwalker](Voidwalker.md) items upon spawn, the [Voideye](Voidwalker.md#voideye) and the [Grasp of Eylis](Voidwalker.md#grasp-of-eylis).
 
 The Voidheart itself doesn't actually exist, it's actually a collective dream that the Knives of Eylis have while sleeping at night. The Voidheart heavily resembles the Trial of One but there's no information in-game that talks about this. It's speculated that the "deal" that the Voidmother and Eylis made granted the players the ability to travel to their bounties using the Grasp of Eylis and the Voideye.
 
 ## Reputation
 
-Every [Origin](Origins.md) excluding Voidwalker and Authority Ensign starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
+Every [Origin](Origins.md) excluding [Voidwalker](Voidwalker.md) and [Authority Ensign](Authority_Ensign.md) starts with an enemy [reputation](Reputation.md) with the Knives of Eylis. If you are a Voidwalker, you start with a friend reputation.
 
-There is no reputation reset NPC for the Knives of Eylis. Despite this, they still have a [Bounty Board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This Bounty Board includes bounties from all other factions with Bounty Boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted.
+There is no [reputation](Reputation.md) reset NPC for the Knives of Eylis. Despite this, they still have a [Bounty Board](Bounty_Hunting.md), located in the [Voidheart](Voidheart.md). This Bounty Board includes bounties from all other factions with Bounty Boards, which include [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), and **The Knives of Eylis**. The default negative reputation with the Knives that every non-Voidwalker player has makes players susceptible to being hunted.
 
 Voidwalkers can be hunted by other Voidwalkers at power 5 due to their starting negative reputation with [The Hive](The_Hive.md) and [The Kingdom of Etrea](Etrea.md), both of which are factions with Bounty Boards.
 
-If you are a Voidwalker, you may gain reputation by completing Knives of Eylis bounties on the Voidheart Bounty Board.
+If you are a [Voidwalker](Voidwalker.md), you may gain reputation by completing Knives of Eylis bounties on the [Voidheart](Voidheart.md) Bounty Board.
 
-If you are not a Voidwalker, there is only one event in which you may help the Knives of Eylis and gain reputation:
+If you are not a [Voidwalker](Voidwalker.md), there is only one event in which you may help the Knives of Eylis and gain reputation:
 
 -   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
-There is no dialogue that changes depending on the reputation with the Knives of Eylis. If you gain negative reputation with the Knives as a Voidwalker, you may lose access to certain amenities in the Voidheart, such as the [Antiquarian](Antiquarian.md) or [Banker](Banker.md).
+There is no dialogue that changes depending on the reputation with the Knives of Eylis. If you gain negative reputation with the Knives as a [Voidwalker](Voidwalker.md), you may lose access to certain amenities in the Voidheart, such as the [Antiquarian](Antiquarian.md) or [Banker](Banker.md).
 
-You do not need positive reputation to obtain the Voidwalker Origin.
+You do not need positive reputation to obtain the [Voidwalker](Voidwalker.md) [Origin](Origins.md).
 
 ## Notable Members
 

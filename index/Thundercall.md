@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 170495
+revid: 175000
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1117,6 +1117,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   During the early days of Deepwoken, Grand Skewer was notorious for a bug that allowed it to instantly kill whatever it hit if an entity was already stuck on it. This often occurred when the already-skewered victim died. Dying to this bug would take lives in the overworld and wipe you in [The Depths](The_Depths.md), and it was fixed a little over two months after the game's release.
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
 -   **Emotion Wave** is a direct reference to the [_**Ancient Dragons' Lightning Strike**_](<https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike>) incantation from [_Elden Ring_](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
+-   Thundercall is needed for every [Oath](Oaths.md) that requires an [attunement](Attunements.md), those being: [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md) and [Saintsworn](Oath%253A_Saintsworn.md).
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
 -   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement.
 -   Before the Perfect Cast mechanic was removed, **Jolt Grab** and [Flame Grab](Flamecharm.md#flame-grab) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, the duration of these Mantras would be shortened and capped, playing "extinguish"-like VFX unique from the regular version.

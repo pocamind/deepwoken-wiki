@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174952
+revid: 174968
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2131,7 +2131,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals, but not Mantras.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
--   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards, and the guard break deal 25% more damage. (+8 Carry Load, +2 Passive Agility)
+-   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)
     -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreathe
 
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.

@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 174677
+revid: 174988
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -467,3 +467,4 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 ## Trivia
 
 -   Due to her rank, Merey does not have floral-themed codenames other Inquisitors have.
+-   As a Handler, reading the [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) will unlock a new dialogue (TBA).

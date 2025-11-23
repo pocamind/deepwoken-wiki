@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 173445
+revid: 174990
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Equipment, Torso, Necklaces, Relics]
@@ -21,7 +21,7 @@ categories: [Items, Equipment, Torso, Necklaces, Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Titus Fulminus Destellus, Lysander Spellhardt |
+| obtainment | Titus Fulminus Destellus |
 | description | Certain legions among the Hundred, such as the Imperators of the 77th, include members who implant physiologically altering stakes into their bodies as a part of a sacred vow to enhance their physical abilities. By embedding such a stake, they willingly sacrifice a part of themselves in exchange for heightened strength and abilities. Though this concept isn't unilaterally accepted amongst the legions as an appropriate way to acquire strength. |
 
 ## Description
@@ -41,3 +41,4 @@ This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), [Warmaster's Medallion](<Warmaster's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).
 -    Estimated to have a 0.1% droprate, though it might be lower.
 -   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after items.
+-   Due to a bug or oversight, Imperator's Fury was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relics.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.

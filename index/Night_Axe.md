@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 174553
+revid: 174982
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -49,4 +49,5 @@ The critical has a cooldown of **3 seconds**.
 -   Has the highest amount of Chip Damage of any weapon in the entire game.
     -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
 -   The Night Axe was given a unique critical on the January 25, 2025 update.
--   The description mentions a weapon called the Daycleave, as of now its not in the game
+-   The description mentions a weapon called the Daycleave, as of now its not in the game.
+-   For whatever reason, the weapon is not droppable or bankable.
