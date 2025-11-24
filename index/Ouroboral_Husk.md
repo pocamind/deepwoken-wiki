@@ -1,9 +1,9 @@
 ---
 title: Ouroboral Husk
-revid: 175405
+revid: 175726
 source: https://deepwoken.fandom.com/wiki/Ouroboral_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items]
+categories: [Relics, Items, Effigies]
 ---
 
 # Ouroboral Husk

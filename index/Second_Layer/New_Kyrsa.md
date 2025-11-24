@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 166722
+revid: 175727
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -36,7 +36,7 @@ Due to the instability of New Kyrsa, there is a hard-set time limit displayed th
 -   If this timer reaches 0 **three times**, you die instantly. This gives you **48 minutes** in order to complete the floor before instantly wiping.
 -   If all Obelisks are activated, this timer will **stop**, allowing you as long as you need to investigate the floor.
 
-After the Scion is defeated, another collapse will happen in 3 minutes. Failing to reach the escape point will slowly cover your screen in white before you die instantly after ~5 seconds~ 10 seconds (minimum, as shown near the end of the video; [https://youtu.be/YwiBjmDwsh0](https://youtu.be/YwiBjmDwsh0)).
+After the Scion is defeated, another collapse will happen in 3 minutes. Failing to reach the escape point will slowly cover your screen in white before you die instantly after 10 seconds (minimum, as shown near the end of the video; [https://youtu.be/YwiBjmDwsh0](https://youtu.be/YwiBjmDwsh0)).
 
 -   [Immortal helm](../Immortal_Helm.md)'s Immortality talent or gaining a [Resonance](../Resonance.md) will save you, but your screen will stay as **pure white**, most likely leading to your death anyways (ex. blindly wandering and falling off a cliff, being attack by enemies you can’t see, etc).
 

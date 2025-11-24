@@ -1,11 +1,10 @@
 ---
 title: Alsin
-revid: 175063
+revid: 175722
 source: https://deepwoken.fandom.com/wiki/Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, The Heavens, Celestials]
+categories: [Stub pages without reason, StubPages, The Heavens, Celestials]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mendacia
-revid: 174587
+revid: 175742
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]
@@ -33,34 +33,38 @@ Upon arriving to New Kyrsa she will be in front of the first obelisk near the sp
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Wait.. You can see me?</td>
+  <td colspan="4">Wait.. You can see me?</td>
 </tr>
 <tr>
-  <td colspan="2">Yeah?</td>
+  <td colspan="4">Yeah?</td>
 </tr>
 <tr>
-  <td colspan="2">Oh, thank Alsin, finally! Are you here with Klaris?</td>
+  <td colspan="4">Oh, thank Alsin, finally! Are you here with Klaris?</td>
 </tr>
 <tr>
-  <td colspan="2">I was sent by her.</td>
+  <td colspan="4">I was sent by her.</td>
 </tr>
 <tr>
-  <td colspan="2">That means theres a chance! I'm Mendacia, Arch-Diver in charge of the expedition to the Interstice of Skies. <i>*She appears to smile briefly for a moment, then frowns.*</i> Before my crew was killed, that is. I'm glad I could finally get in contact with someone.</td>
+  <td colspan="4">That means theres a chance! I'm Mendacia, Arch-Diver in charge of the expedition to the Interstice of Skies. <i>*She appears to smile briefly for a moment, then frowns.*</i> Before my crew was killed, that is. I'm glad I could finally get in contact with someone.</td>
 </tr>
 <tr>
   <td colspan="2">How are you talking to me?</td>
+  <td colspan="2">Arch-Diver? You mean Black Diver?</td>
 </tr>
 <tr>
   <td colspan="2">Right now I'm projecting an image of myself from my prison. Down below this place I am being held by the <a href="Glossary.md#kyrsan-kyrsgarde">Kyrsans</a>, they may appear kind... but do not trust them.</td>
+  <td colspan="2"><i>*She furrows her brow, confounded.*</i> What Klaris said about this place's effects on time must have been right...</td>
 </tr>
 <tr>
   <td colspan="2">How can I help you?</td>
+  <td colspan="2">How are you talking to me?</td>
 </tr>
 <tr>
   <td colspan="2"><i>*She frowns.*</i> You must make it past this place. Far below the Cloud Sea is a temple I've been taken to. Promise me, will you find a way to save me?</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td>I promise.</td>

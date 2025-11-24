@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 174446
+revid: 175749
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -90,9 +90,9 @@ Radiant Teachings
   <td colspan="6">Radiant Tones?</td>
 </tr>
 <tr>
-  <td colspan="3">We can't afford to keep sending more <a href="Glossary.md#the-divers">Divers</a> down, we're thin on our numbers as it is. If you and a team are willing to go, I will bless you with a 'Light Hook' so you can make your way down. Also, if you can retrieve any of the <a href="Glossary.md#the-divers">Divers</a> we sent down we would really appreciate it.</td>
-  <td colspan="3">The Drowned God of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a>. The one responsible for not only the harsh conditions of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, but also possibly the key we need to further understand the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
-  <td colspan="6">The Radiant Tones are a Verse of the <a href="Glossary.md#the-song">Song</a> that can reproduce Light. According to our research, we believe <a href="Glossary.md#lightkeep">Lightkeepers</a> have used it latently for centuries to Illuminate pathways through the <a href="Glossary.md#the-voidsea">Voidsea</a>, but I found a way to reproduce the Verse and wield it against the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
+  <td colspan="3">We can't afford to keep sending more <a href="Glossary.md#the-divers">Divers</a> down, we're thin on our numbers as it is. If you and a team are willing to go, I will bless you with a '<a href="Glossary.md#light-hook">Light Hook</a>' so you can make your way down. Also, if you can retrieve any of the <a href="Glossary.md#the-divers">Divers</a> we sent down we would really appreciate it.</td>
+  <td colspan="3">The <a href="Glossary.md#the-drowned-gods">Drowned God</a> of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a>. The one responsible for not only the harsh conditions of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>, but also possibly the key we need to further understand the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
+  <td colspan="6">The <a href="Glossary.md#radiant-tones">Radiant Tones</a> are a Verse of the <a href="Glossary.md#the-song">Song</a> that can reproduce Light. According to our research, we believe <a href="Glossary.md#lightkeep">Lightkeepers</a> have used it latently for centuries to Illuminate pathways through the <a href="Glossary.md#the-voidsea">Voidsea</a>, but I found a way to reproduce the Verse and wield it against the <a href="Glossary.md#the-depths">Depths</a> itself.</td>
 </tr>
 <tr>
   <td colspan="2">Light Hook? What's that?</td>
@@ -102,8 +102,8 @@ Radiant Teachings
   <td colspan="3">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
 </tr>
 <tr>
-  <td colspan="2">The Light Hook is a special technique of the <a href="Glossary.md#radiant-tones">Radiant Tones</a>. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no <a href="Glossary.md#light-hook">Light Hook</a> will save you then.</td>
-  <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the <a href="Glossary.md#scyphozia-the-first-layer">First Layer</a> are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the 'Light Hook' is ready.</td>
+  <td colspan="2">The <a href="Glossary.md#light-hook">Light Hook</a> is a special technique of the <a href="Glossary.md#radiant-tones">Radiant Tones</a>. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no <a href="Glossary.md#light-hook">Light Hook</a> will save you then.</td>
+  <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the <a href="Glossary.md#scyphozia-the-first-layer">First Layer</a> are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the '<a href="Glossary.md#light-hook">Light Hook</a>' is ready.</td>
   <td colspan="3">[See first instance]</td>
   <td colspan="3">The landscape here... It <i>reacts</i>. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.</td>
   <td colspan="3">[See Unlockable Dialogues --&gt; Others]</td>
@@ -289,7 +289,7 @@ Radiant Teachings
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
 </tr>
 <tr>
-  <td colspan="3">Started Mendacia's Quest</td>
+  <td colspan="3">Spoken to Mendacia</td>
   <td colspan="3">Denied Mendacia's Quest</td>
   <td colspan="6">Meet Deepshore Fossil Requirements</td>
 </tr>
@@ -308,7 +308,7 @@ Radiant Teachings
   <td colspan="9">End</td>
 </tr>
 <tr>
-  <td colspan="3">Or something much more troubling. If someone's story doesn't add up down there... Get away. Get away as quickly as possible. Tug on the Light Hook if needs be.</td>
+  <td colspan="3">Or something much more troubling. If someone's story doesn't add up down there... Get away. Get away as quickly as possible. Tug on the <a href="Glossary.md#light-hook">Light Hook</a> if needs be.</td>
 </tr>
 <tr>
   <td colspan="3">End</td>

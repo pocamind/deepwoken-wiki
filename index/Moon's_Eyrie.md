@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 174771
+revid: 175752
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -102,3 +102,4 @@ Exhaustive Loot Table
 -   For regular players, it is located at x: -4713, z: -13751
 -   [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) gives some insight on where to find this island, as well as some lore about it.
 -   If you're stuck inside the room, you can spam the interact hotkey to open the door while dashing and jumping at the same time.
+-   After Killing the Moon Knight, the door closes in 4 minutes and the stone pillars glows again

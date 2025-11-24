@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 169535
+revid: 175756
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -232,7 +232,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 
 -   Currently residing in the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 -   In charge of connecting the East Luminant to the rest of the Luminants from the Voidsea.
--   Childhood friend of [Nimea](The_Hidden_Village.md) and teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+-   Childhood friend of [Nimea](Nimea.md) and teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Her hobby is writing poetry.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
 -   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to the Central Authority.
@@ -243,7 +243,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
 -   Black Diver of the Canor aspect.[\[2\]](#cite-note-arch-2) The creator of light hooks.
--   Former student of Viqh, Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
+-   Former student of [Viqh](Viqh.md), Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people along Nimea to have known Viqh.
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
 -   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[5\]](#cite-note-firstlight-5)
@@ -282,7 +282,6 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   He once had a base in the Tomb of the Nameless Warrior, as that is where you find his journal.
 -   "Can solo every Centurion of the 11th legion" according to Arch\_Mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
 -   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Oath%253A_Contractor.md).
--   Writer of Journals, one of his journals can be found in the [Tomb](Tomb_of_the_Nameless_Warrior.md) [of](Tomb_of_the_Nameless_Warrior.md) [the](Tomb_of_the_Nameless_Warrior.md) [Nameless](Tomb_of_the_Nameless_Warrior.md) [Warrior](Tomb_of_the_Nameless_Warrior.md) in [Erisia](Erisia.md), also possibly leading that [Jericho](Warden_Jericho.md) was in [Erisia](Erisia.md) not so long ago
 -   Genuinely believes in [The Central Authority](The_Central_Authority.md) as a force of peace.
 -   Possible member of the Circle of Honor.
 
@@ -319,7 +318,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
 -   Previous king of Constellia.
--   Apparently he fought against the [Kyrsgarde](Kyrsgarde.md) alongside the [Celestials](Celestial.md) and other [Lightborn](Lightborn.md), but stopped fighting when the [Celestials](Celestial.md) fled, resulting in his capture and imprisonment in [New](Second_Layer/New_Kyrsa.md) [Kyrsa](Second_Layer/New_Kyrsa.md).
+-   Apparently he fought against the [Kyrsgarde](Kyrsgarde.md) alongside the [Celestials](Celestial.md) and other [Lightborn](Lightborn.md), but stopped fighting when the [Celestials](Celestial.md) fled, resulting in his capture and imprisonment in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 -   When the player asks [Kaide](Kaide,_the_Drowned_Light.md) about his aspect, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
 -   Apparently he despises the [Celestials](Celestial.md), stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
 -   Kaide has great knowledge of the Song as he knows how the Song manifests through humans and throughout New Kyrsa.
@@ -537,7 +536,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   A place which the Songseekers migrate to in order to enhance their mantra abilities.
 -   It can be assumed that this island has some sort of connection to the Song.
--   [Amashi](Amashi,_Master_of_Flame.md), the trainer for [Flamecharm](Flamecharm.md) owns a [temple](Songseeker_Temple.md) on one of the islands.
+-   [Amashi](Amashi,_Master_of_Flame.md), the trainer for [Flamecharm](Flamecharm.md) resides in the [Songseeker Temple](Songseeker_Temple.md) on one of the islands.
 
 #### Ancient Rotlands (Eastern Luminant)
 
@@ -601,7 +600,7 @@ The Citadel
 
 -   The city of Celtor was once located here, though the Great Drowning has consumed it.
 -   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
--   The [Doom of Caeranthil](The_Doom_of_Caeranthil.md) was named after a region of the Southern Luminant it dragged beneath the waves.
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) was named after a region of the Southern Luminant it dragged beneath the waves.
 -   The "Submergence of the Southern Luminant" was not caused solely the Great Drowning of Celtor but rather by many countless smaller tragedies that were overshadowed by the event.
 -   The Great Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[2\]](#cite-note-arch-2)
 
@@ -623,7 +622,7 @@ The Citadel
 
 **Lore Sources:**
 
--   A sea filled with nothing but null. The [Voidsea](Voidsea.md) is a gateway between [Luminants](Luminants.md) and [The Depths](The_Depths.md), either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is [the Dread Serpent](Dread_Serpent.md).
+-   A sea filled with nothing but null. The [Voidsea](Voidsea.md) is a gateway between [Luminants](Luminants.md) and [The Depths](The_Depths.md), either through drowning or sucked into their Whirlpools. It is a home to a variety of sea monsters, but the one most notorious is the [Dread Serpent](Dread_Serpent.md).
 -   The Voidsea always existed as in the Old World it was known as The World's Edge, but with the Canticlysm, it began to increase in size, eventually blocking off the Luminants from each other.
 -   Islands that reside within the Voidsea have their time stopped; all life and flora halted due to the effects of the Voidsea. An example is [Boatman's Watch](<Boatman's_Watch.md>). Islands who drift away from this sea are called "Driftlands", named by the people of Deepwoken.
 -   Luminants can decay to become a part of it, gradually increasing its size as the years go by.
@@ -646,7 +645,7 @@ Arch using a crude map to explain where the boundary is.
 
 _"A place remembered only by the waves"_
 
--   The [Ferryman](The_Ferryman.md) can be found here, as well as a secret library.
+-   [The Ferryman](The_Ferryman.md) can be found here, as well as a secret library.
 
 ### Constellia
 
@@ -808,10 +807,10 @@ Amara, a Member of The Legion.
 _"Aye, thanks for the help. The Authority better start sending some help before we start declining their firearm contracts." - Scope_
 
 -   **Territory:** _[Summer Isle](Summer_Isle.md)_
--   **Encountered In:** _[Summer Isle](Summer_Isle.md), [Miner’s Landing](<Miner's_Landing.md>)_
+-   **Encountered In:** _[Summer Isle](Summer_Isle.md), Miner’s Landing_
 -   **Attunements:** _N/A_
 -   **Alliances:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
--   **Enemies:** _The Ignition Union, [The Ministry](Minityrsa.md) [Ministryiconfaction](The_Ministry.md)_
+-   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_
 -   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), [Arch\_Mage](https://www.roblox.com/users/4416634/profile) (Discord)_
 
 -   A Faction that resides at Summer Isle. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
@@ -844,7 +843,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md)_
 -   **Alliances:** _Etrea (Neutral)_
--   **Enemies:** _[Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), The Central Authority._
+-   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md). [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:**
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
@@ -856,7 +855,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   Essentially enemies with every major faction in the game until proven otherwise.
 -   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[9\]](#cite-note-gran-9)
--   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
+-   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
 -   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.

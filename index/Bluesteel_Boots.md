@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 175207
+revid: 175748
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, Maestro Evengarde Rest, Lodestar, Dread Serpent, War Mode, Authority Ensign Missions |
+| obtainment | Chests from:, War Mode, Authority Ensign Missions, Fishing |
 | description | ... |
 
 ## Description

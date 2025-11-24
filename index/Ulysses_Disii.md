@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 175123
+revid: 175723
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Black Divers, The Divers]
@@ -22,7 +22,7 @@ notices:
 
 ## Description
 
-**Ulysses Disii** was a Black Diver. on Sunsdawn, 9th [Bloomfall](Seasons.md), 904 CE, Disii carried out an interrogation of a Ranger [Santiago Talo](Santiago_Talo.md) on the case of insubordination.[\[2\]](#cite-note-interrogation-2)
+**Ulysses Disii** was a Black Diver. on Sunsdawn, 9th [Bloomfall](Seasons.md), 904 CE, Disii carried out an interrogation of Ranger [Santiago Talo](Santiago_Talo.md) on the case of insubordination.[\[2\]](#cite-note-interrogation-2)
 
 He seems to be very caring about his subordinates, as he was seemingly angry specifically because [Santiago Talo](Santiago_Talo.md) put others' lives at risk. But even after that, he still tried to recommend the aforementioned Ranger to a lesser punishment. He also seemed to be enthusiastic of setting up a [functioning operation base](Castle_Light.md) in [the Depths](The_Depths.md) and mounting rescue operations in [the City of the Drowned](The_City_of_the_Drowned.md).[\[2\]](#cite-note-interrogation-2)
 

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 169966
+revid: 175741
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -50,7 +50,18 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 -   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
 -   _"A soothing meal to recover your strength!"_ The Heal buff increases the user's health regeneration speed. (17.5% of your base regen added on top of your current health regen)
 -   _"A filling meal to keep you fed for longer!"_ The Full buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
--   _"A strange meat that empowers your Deep Gem knowledge."_ The Brain buff grants a currently unknown effect.
+-   _"A strange meat that empowers your Deep Gem knowledge."_ The Brain buff enhances the effect of your [Deep Gems](Deep_Gems.md):
+    -   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
+    -   [Blessed Gem](Blessed_Gem.md): Cooldown reduction is increased from -50% to -66%.
+    -   [Bloodless Gem](Bloodless_Gem.md): Heal cap increased from 15 to 20.
+    -   [Blue Gem](Blue_Gem.md): No noticeable difference.
+    -   [Insignia Gem](Insignia_Gem.md): No noticeable difference.
+    -   [Might Gem](Might_Gem.md): Posture damage buff increased from +10% to +15%.
+    -   [Nocturnal Gem](Nocturnal_Gem.md): Damage is increased from 10 to 15.
+    -   [Warped Blue Gem](Warped_Blue_Gem.md): No noticeable difference.
+    -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 3s.
+    -   [Wind Gem](Wind_Gem.md): Speed boost duration increased from 10s to 15s.
+    -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
 -   _"A heavy meat that hardens your skin!"_ The Scale buff grants a pen reduction all around
 -   _"An odd meal that soothes your throat!"_ The Throat buff increases your [Taunt](Attunement-less.md#taunt) duration by 8 seconds, your [Command: Fight](Vow_of_Mastery.md) duration by 7.5 seconds, and grants [Sing](Attunement-less.md#sing) a noticeable range increase.
 -   _"An invigorating meal that strengthens your muscles!_" The Strength buff grants a posture buff
