@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 175051
+revid: 175079
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, The Depths]

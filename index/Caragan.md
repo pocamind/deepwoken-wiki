@@ -1,6 +1,6 @@
 ---
 title: Caragan
-revid: 167598
+revid: 175093
 source: https://deepwoken.fandom.com/wiki/Caragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -14,7 +14,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Etris |
 | affiliation | Etrea |
-| family | Baragan (brother), Unnamed father (deceased), Unnamed children |
+| family | Baragan (brother), Unnamed grandfather (deceased), Unnamed father (deceased), Unnamed children |
 
 “ It's the same reason so many people remain here - tradition. ”
 
@@ -75,3 +75,7 @@ This dialogue is unlocked if the player has spoken to [Baragan](Baragan.md).
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Baragan mentions materials on a table, but due to the centralization of purchasable materials with NPC interfaces, there are no tables to be over there.

@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 170854
+revid: 175074
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Etrea, NPCs located in the Etrean Luminant]
@@ -8,20 +8,21 @@ categories: [Etrean NPCs, NPCs, Vendors, Etrea, NPCs located in the Etrean Lumin
 
 # Lance
 
-| Lance Leshi | |
+| Lance | |
 |---|---|
 | name | Lance Leshi |
 | aspect | Etrean |
 | location | Etris |
 | affiliation | Etrea |
+| family | Lance's Brother (brother) |
 
 “ LANCE LESHI. ”
 
-― Lance Leshi
+― Lance
 
 ## Description
 
-Lance Leshi is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside a building in front the General Store. He sells various [food](Food.md) items.
+Lance is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside a building in front the General Store. He sells various [food](Food.md) items.
 
 ## Dialogue
 

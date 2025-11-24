@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 167354
+revid: 175062
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Etrea Enemies, Quests, NPCs located in the Etrean Luminant]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Polis is a [Vesperian](Vesperian.md) NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of the Justicars and follows the [Celestial](Celestial.md), Alsin. He gives a [Gold Ring](Outfits.md) to those who interact with him (which has a possibility of being starred). When The Central Authority invades Etris, he fights to defend his home along with the guards.
+Polis is a [Vesperian](Vesperian.md) NPC normally found sitting below the white tree in the center of [Etris](Etris.md). He is a member of [the Justicar](The_Justicar.md) and follows the [Celestial](Celestial.md), [Alsin](Alsin.md). He gives a [Gold Ring](Outfits.md) to those who interact with him (which has a possibility of being starred). When [The Central Authority](The_Central_Authority.md) invades [Etris](Etris.md), he fights to defend his home along with the guards.
 
 ## Dialogue
 
@@ -150,7 +150,7 @@ Polis is a [Vesperian](Vesperian.md) NPC normally found sitting below the white 
 
 ## Moveset
 
-Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**Jus Karita**) along with the [Galebreathe](Galebreathe.md) attunement:
+Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**[Jus Karita](Jus_Karita.md)**) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name/Danger | Description |
 | --- | --- |

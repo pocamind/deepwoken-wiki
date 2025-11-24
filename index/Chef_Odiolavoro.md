@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 175053
+revid: 175081
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -10,7 +10,7 @@ categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in t
 
 | Chef Odiolavoro | |
 |---|---|
-| name | Chef Odiolavoro |
+| name | Odiolavoro |
 | aspect | Felinor |
 | location | Etris |
 
@@ -166,7 +166,7 @@ File:Grilled Parasol Brain Witherald.png
   <td>Why work for you when I can just set up my own shop?</td>
 </tr>
 <tr>
-  <td>Now! I have received an order for one - ah... <b>Mushroom Bisque</b>... Think you can make that for me?</td>
+  <td>Now! I have received an order for one - ah... <b>[FOOD]</b>... Think you can make that for me?</td>
   <td>Ah... Well. The Leshi brothers are quite formidable. There are two of them. And there will be one of you. Yes? Very bad for business.</td>
 </tr>
 <tr>

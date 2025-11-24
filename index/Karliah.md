@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 168008
+revid: 175089
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -65,7 +65,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 </tr>
 <tr>
   <td colspan="12"><i>*Karliah grimaces slightly.*</i> I lost a childhood friend of mine to mudskippers a few years ago. I want to do my part in creating a safer world through understanding the dangers of the <a href="Glossary.md#the-depths">Depths</a>.</td>
-  <td colspan="12">I'll be heading into the Erisian mines to sample some of the cave flora. I don't imagine I'll run into too much trouble, but going on my own is a little out of my depths...</td>
+  <td colspan="12">I'll be heading into the Erisian mines to sample some of the cave flora. I don't imagine I'll run into too much trouble, but going on my own is a little out of my depth...</td>
 </tr>
 <tr>
   <td colspan="12">What are you doing here in Etrea?</td>

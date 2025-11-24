@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 169444
+revid: 175068
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer]

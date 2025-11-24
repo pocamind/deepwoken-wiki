@@ -1,6 +1,6 @@
 ---
 title: Barber (Glumbo)
-revid: 174959
+revid: 175111
 source: https://deepwoken.fandom.com/wiki/Barber_(Glumbo)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Vendors, NPCs]
@@ -71,7 +71,7 @@ Glumbo is one of many entities that reside in the Hall of Shattered Wills. They 
 <tr>
   <td colspan="4">Could you remove some of my dyes?</td>
   <td colspan="4">How are you able to do all of this stuff?</td>
-  <td colspan="2">TBH</td>
+  <td colspan="2"><i>*Glumbo appears contemplative.*</i> Glurhghhh... Glurhguhghhhh. Grughlughughrgulh gruhglhl. Gruglug, grlugh. <i>*Glumbo puts its hands inside its own shadowy silhouette, procuring a pair of scissors, and handing them to you.*</i></td>
   <td colspan="2"><i>*Glumbo looks you up and down briefly. They give you a thumbs down.*</i> Glurghuhg, ghurlguhg. Gurhughlg, gruglugluh</td>
 </tr>
 <tr>

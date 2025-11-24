@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 174657
+revid: 175088
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -14,18 +14,18 @@ notices:
 |---|---|
 | leader | The High Convocation |
 | subunits | The Citadel Divers[1], Pioneer Divers (formerly)[1], Black Divers division[1], Memorial Masons[1] |
-| territory | Markor |
+| territory | Markor[2] |
 | goals | Learning about the Lumen and the Depths., Overcoming the Depths and stopping the Voidsea from consuming all of the Surface. |
 
 ## Description
 
-**The Citadel of Markor** is possibly the most prominent research organization in Lumen, the Citadel pride themselves as the foremost keepers of knowledge, history, and research into Lumen and the surrounding [Depths](The_Depths.md). The Citadel was founded 500 years into [the Resurgence](The_Resurgence.md)[\[2\]](#cite-note-glossresurge-2) and receives the majority of its funding from [the Central Authority](The_Central_Authority.md), a contribution that [the Authority](The_Central_Authority.md) claims falls in line with their desire for global unity, and for a united front against [the Depths](The_Depths.md).[\[3\]](#cite-note-glosscitadel-3)
+**The Citadel of Markor** is possibly the most prominent research organization in Lumen, the Citadel pride themselves as the foremost keepers of knowledge, history, and research into Lumen and the surrounding [Depths](The_Depths.md). The Citadel was founded 500 years into [the Resurgence](The_Resurgence.md)[\[3\]](#cite-note-glossresurge-3) and receives the majority of its funding from [the Central Authority](The_Central_Authority.md), a contribution that [the Authority](The_Central_Authority.md) claims falls in line with their desire for global unity, and for a united front against [the Depths](The_Depths.md).[\[4\]](#cite-note-glosscitadel-4)
 
-Their researches include: History documentation,[\[4\]](#cite-note-studies-4) [Depths](The_Depths.md)\-delving,[\[1\]](#cite-note-fathoms-1) restoration of ancient texts,[\[5\]](#cite-note-vows-5) attunement usage in the everyday life of the Lumensfolk,[\[6\]](#cite-note-attunement-6) different cultures of the Lumen.[\[7\]](#cite-note-north-7)
+Their researches include: History documentation,[\[5\]](#cite-note-studies-5) [Depths](The_Depths.md)\-delving,[\[1\]](#cite-note-fathoms-1) restoration of ancient texts,[\[6\]](#cite-note-vows-6) attunement usage in the everyday life of the Lumensfolk,[\[7\]](#cite-note-attunement-7) different cultures of the Lumen.[\[8\]](#cite-note-north-8)
 
-As well as an archive, the Citadel is also an institute of education where people can take courses to improve their skills, such as cosmetic surgery.[\[8\]](#cite-note-cosmetic-8)
+As well as an archive, the Citadel is also an institute of education where people can take courses to improve their skills, such as cosmetic surgery.[\[9\]](#cite-note-cosmetic-9)
 
-Due to the cultural and historical importance of the Citadel, the global calendar calculates the date based on the time relative to the founding of the Citadel. Years after its founding use "CE" (Citadel Era),[\[3\]](#cite-note-glosscitadel-3) while those after it are designated "BCE".[\[2\]](#cite-note-glossresurge-2)[\[9\]](#cite-note-glossauth-9)
+Due to the cultural and historical importance of the Citadel, the global calendar calculates the date based on the time relative to the founding of the Citadel. Years after its founding use "CE" (Citadel Era),[\[4\]](#cite-note-glosscitadel-4) while those after it are designated "BCE".[\[3\]](#cite-note-glossresurge-3)[\[10\]](#cite-note-glossauth-10)
 
 57 years after its initial founding, the Citadel established [The Citadel Divers](The_Divers.md) in response to reports of individuals returning from the Depths, theorizing that they could deploy agents to the Depths directly to coordinate research, recon, and offensive action.[\[1\]](#cite-note-fathoms-1)
 
@@ -40,11 +40,12 @@ In 108 CE, a fire broke out in the Citadel's archives, destroying some of their 
 ## References
 
 1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [1.3](#cite-ref-fathoms-1-3) [1.4](#cite-ref-fathoms-1-4) [1.5](#cite-ref-fathoms-1-5) [1.6](#cite-ref-fathoms-1-6) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
-2.  ↑ [2.0](#cite-ref-glossresurge-2-0) [2.1](#cite-ref-glossresurge-2-1) [Glossary](Glossary.md): [The Resurgence](Glossary.md#the-resurgence)
-3.  ↑ [3.0](#cite-ref-glosscitadel-3-0) [3.1](#cite-ref-glosscitadel-3-1) [Glossary](Glossary.md): [The Citadel of Markor](Glossary.md#the-citadel-of-markor)
-4.  [↑](#cite-ref-studies-4-0) [Studies on Canticlysm](Studies_on_Canticlysm.md)
-5.  [↑](#cite-ref-vows-5-0) [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
-6.  [↑](#cite-ref-attunement-6-0) [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>)
-7.  [↑](#cite-ref-north-7-0) [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>)
-8.  [↑](#cite-ref-cosmetic-8-0) [Version History: October 17th, 2022](Version_History/Uncollapsed.md#october-17th-2022)
-9.  [↑](#cite-ref-glossauth-9-0) [Glossary](Glossary.md): [The Central Authority](Glossary.md#the-central-authority)
+2.  [↑](#cite-ref-2) [Karliah](Karliah.md)
+3.  ↑ [3.0](#cite-ref-glossresurge-3-0) [3.1](#cite-ref-glossresurge-3-1) [Glossary](Glossary.md): [The Resurgence](Glossary.md#the-resurgence)
+4.  ↑ [4.0](#cite-ref-glosscitadel-4-0) [4.1](#cite-ref-glosscitadel-4-1) [Glossary](Glossary.md): [The Citadel of Markor](Glossary.md#the-citadel-of-markor)
+5.  [↑](#cite-ref-studies-5-0) [Studies on Canticlysm](Studies_on_Canticlysm.md)
+6.  [↑](#cite-ref-vows-6-0) [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
+7.  [↑](#cite-ref-attunement-7-0) [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>)
+8.  [↑](#cite-ref-north-8-0) [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>)
+9.  [↑](#cite-ref-cosmetic-9-0) [Version History: October 17th, 2022](Version_History/Uncollapsed.md#october-17th-2022)
+10.  [↑](#cite-ref-glossauth-10-0) [Glossary](Glossary.md): [The Central Authority](Glossary.md#the-central-authority)

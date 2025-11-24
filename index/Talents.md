@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 174968
+revid: 175055
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2128,7 +2128,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
     -   Does not have a cooldown, lasts for 3s.
     -   Also procs from Phantom Step dashes.
-    -   Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals, but not Mantras.
+    -   Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)

@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 171044
+revid: 175095
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -134,7 +134,7 @@ Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
   <td colspan="12">I splinter the tree and leave no usable lumber behind when I punch it down.</td>
 </tr>
 <tr>
-  <td colspan="12">Huh? I.. What? You're kidding, surely.</td>
+  <td colspan="12">Huh? I... What? You're kidding, surely.</td>
 </tr>
 <tr>
   <td colspan="12">No, I wouldn't kid about not getting wood from trees when I punch them.</td>

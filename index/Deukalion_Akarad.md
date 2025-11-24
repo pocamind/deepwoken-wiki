@@ -1,6 +1,6 @@
 ---
 title: Deukalion Akarad
-revid: 174941
+revid: 175094
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Black Divers, Deceased characters]
@@ -14,7 +14,7 @@ categories: [Black Divers, Deceased characters]
 | alias | Father Diver |
 | aspect | Capra |
 | affiliation | The Divers |
-| death | Among The Pioneers who perished during the first expedition into the Depths |
+| death | Among The Pioneer Divers who perished during the first expedition into the Depths |
 | deathdate | 59 CE |
 
 ## Description

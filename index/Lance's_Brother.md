@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 170855
+revid: 175082
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -10,10 +10,11 @@ categories: [Etrean NPCs, NPCs, Vendors, Quests, Etrea, NPCs located in the Etre
 
 | Lance's Brother | |
 |---|---|
-| name | Lance's Brother |
+| name | Leshi (presumably; first name unknown) |
 | aspect | Etrean |
 | location | Isle of Vigils |
 | affiliation | Etrea |
+| family | Lance (brother) |
 
 ## Description
 

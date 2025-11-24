@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 174969
+revid: 175056
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -984,7 +984,7 @@ These Talents are found in the _Legion Shock Trooper_ category.
 |  | Air Pressure  
 (50 Galebreathe, 20 Agility) | Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility) | N/A |
 |  | Cyclone Blade  
-(55 Galebreathe, 30 Agility, Air Pressure) | After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility) | Despite what the Talent description states, the bleed will also be applied to non-basic attacks, such as Mantras or weapon criticals. Also procs on Phantom Step dashes. |
+(55 Galebreathe, 30 Agility, Air Pressure) | After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility) | Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals. This lasts 3 seconds with no cooldown and also procs on Phantom Step dashes. |
 |  | Pressure Break  
 (65 Galebreathe, 30 Strength OR 30 Agility, Air Pressure) | Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility) | N/A |
 |  | Wind Step  
