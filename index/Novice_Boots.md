@@ -1,9 +1,9 @@
 ---
 title: Novice Boots
-revid: 169394
+revid: 175370
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Novice Boots

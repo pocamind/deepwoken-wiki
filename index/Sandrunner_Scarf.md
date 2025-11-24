@@ -1,9 +1,9 @@
 ---
 title: Sandrunner Scarf
-revid: 155711
+revid: 175423
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Scarves]
+categories: [Equipment, Torso, Scarves]
 ---
 
 # Sandrunner Scarf

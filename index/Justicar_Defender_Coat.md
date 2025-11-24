@@ -1,9 +1,9 @@
 ---
 title: Justicar Defender Coat
-revid: 171835
+revid: 175325
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Coats]
+categories: [Equipment, Arms, Coats]
 ---
 
 # Justicar Defender Coat

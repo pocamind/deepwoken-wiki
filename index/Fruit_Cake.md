@@ -1,9 +1,9 @@
 ---
 title: Fruit Cake
-revid: 161301
+revid: 175636
 source: https://deepwoken.fandom.com/wiki/Fruit_Cake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Fruit Cake

@@ -1,9 +1,9 @@
 ---
 title: Bloodfeather Mask
-revid: 155595
+revid: 175205
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Masks, Items]
+categories: [Equipment, Face, Masks]
 ---
 
 # Bloodfeather Mask

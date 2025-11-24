@@ -1,9 +1,9 @@
 ---
 title: Martial Artist
-revid: 169973
+revid: 175544
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Expert Outfits, Drops]
+categories: [Outfits, Expert Outfits, Drops]
 ---
 
 # Martial Artist

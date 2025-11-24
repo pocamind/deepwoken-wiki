@@ -1,9 +1,9 @@
 ---
 title: Novice Brace
-revid: 169393
+revid: 175371
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Braces]
+categories: [Equipment, Arms, Braces]
 ---
 
 # Novice Brace

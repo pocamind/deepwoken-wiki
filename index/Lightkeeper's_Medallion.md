@@ -1,9 +1,9 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 173234
+revid: 175342
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Necklaces, Relics]
+categories: [Equipment, Torso, Necklaces, Relics]
 ---
 
 # Lightkeeper's Medallion

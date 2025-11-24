@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 175055
+revid: 175687
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1447,9 +1447,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Frostthorn
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
-    -   Durability of Orbital Ice is equal to "Frostdraw investment ÷ 4", reaching 25 at 100 Frostdraw.
+    -   Durability of Orbital Ice is equal to "Frostdraw investment +10".
     -   Cooldown of 90 seconds.
-    -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 5 seconds. This procs regardless of Bottom Freeze's cooldown.
+    -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 8 seconds. This procs regardless of Bottom Freeze's cooldown.
     -   Mutual Exclusive: Fists of Fortitude
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Fists of Fortitude.
     -   Prerequisite: 65 Frostdraw
@@ -1506,7 +1506,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   After Cut deals damage based on your **final** damage dealt, after resistances and multipliers.
         -   For example, if you deal 100 M1 damage, you'll deal 10 After Cut damage, but if your opponent has 50% physical damage reduction, meaning your M1 now deals 50 damage, this'll also lower your After Cut damage to 5 (10% of 50). On the other hand, if you deal 100 M1 damage and have +50% damage from damage modifiers, After Cut will deal damage based on your modified damage, dealing 15 damage (10% of 150).
     -   After Cut deals Galebreathe damage, and thus it can be resisted by Galebreathe resistance and Everchanging Aegis.
-        -   This leads to After Cut being double resisted. For example, if you deal 100 M1 damage (10 After Cut dmg) and your opponent as 50% general resistance, your M1 damage will be reduced down to 50 (5 After Cut dmg), then After Cut will be resisted again down to 2.5 damage.
     -   Prerequisites: 40 Galebreathe
 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
@@ -1949,10 +1948,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Obtained at 50 Ironsing
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
-    -   Bleed damage now only deals 20% more damage. Bleed from Speed Demon now only does 10.5% more damage.
-    -   Blood loss reduction is less effective if using Curse of the No Life King.
+    -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
+    -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchantment.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
-    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood loss reduction.
+    -   Alloyblood's effects linearly scale with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
     -   Makes your blood a shade of light grey when being attacked by a bleed damage attack. Additionally, it changes your [Bloodrend](Bloodrend.md) mantras to the same grey.
     -   Prerequisite: 100 Ironsing
 
@@ -2927,7 +2926,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Gruesome Harvest**_ \[Advanced Talent\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
     -   Grants 15 flat temporary health on proc.
-    -   Has a 2 second of cooldown between procs to prevent multi-hits give you insane amounts of temporary health.
+    -   Has a 2 second cooldown between procs.
     -   Prerequisite: 85 Bloodrend
 
 -   Hemolysis \[Common Talent\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.

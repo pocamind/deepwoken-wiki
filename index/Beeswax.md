@@ -1,9 +1,9 @@
 ---
 title: Beeswax
-revid: 147213
+revid: 175689
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Items, Alchemy]
+categories: [Ingredients, Items, Alchemy, Consumable with Termite]
 ---
 
 # Beeswax

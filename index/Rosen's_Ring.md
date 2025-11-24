@@ -1,9 +1,9 @@
 ---
 title: "Rosen's Ring"
-revid: 167433
+revid: 175399
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings, Items]
+categories: [Equipment, Rings]
 ---
 
 # Rosen's Ring

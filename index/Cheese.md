@@ -1,9 +1,9 @@
 ---
 title: Cheese
-revid: 168360
+revid: 175623
 source: https://deepwoken.fandom.com/wiki/Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food, Food Ingredients]
+categories: [Food, Food Ingredients]
 ---
 
 # Cheese

@@ -1,6 +1,6 @@
 ---
 title: Khan (NPC)
-revid: 168337
+revid: 175141
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -35,7 +35,7 @@ Khan is an NPC located underneath [Etris](Etris.md) in the [Etrean Wilds](Etrean
   <td colspan="12">Yeah, Kelsius sent me to grab a few books.</td>
 </tr>
 <tr>
-  <td colspan="12">Oh, so Kelsius sent you to grab some books? ... But may I ask why you're here?</td>
+  <td colspan="12">Oh, so Kelsius sent you to grab some books?... But may I ask why you're here?</td>
 </tr>
 <tr>
   <td colspan="12">For the books...</td>
@@ -61,7 +61,7 @@ Khan is an NPC located underneath [Etris](Etris.md) in the [Etrean Wilds](Etrean
   <td colspan="12"><b>Obey</b> (This takes up 30 choices.)</td>
 </tr>
 <tr>
-  <td colspan="12">Once the player has chosen Obey, a shadowy figure will appear behind them, snapping their neck, once they can see again, the figure and Khan will be gone.</td>
+  <td colspan="12">Once the player has chosen Obey, a shadowy figure will appear behind them, slashing their neck, once they can see again, the figure and Khan will be gone.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -70,3 +70,7 @@ Khan is an NPC located underneath [Etris](Etris.md) in the [Etrean Wilds](Etrean
 </table>
 
 After this, you can return to Kelsius to complete the quest.
+
+## Trivia
+
+-   After selecting "For the books...", the in-game music gradually dims and the sound of a door creaking plays. Then, after selecting "Doing what?", sounds akin to bubbling play.

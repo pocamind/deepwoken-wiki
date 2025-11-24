@@ -1,9 +1,9 @@
 ---
 title: Stick
-revid: 162583
+revid: 175686
 source: https://deepwoken.fandom.com/wiki/Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Craftable, Ingredients, Harvestables]
+categories: [Items, Craftable, Ingredients, Harvestables, Consumable with Termite]
 ---
 
 # Stick

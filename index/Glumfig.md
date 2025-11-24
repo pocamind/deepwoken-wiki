@@ -1,9 +1,9 @@
 ---
 title: Glumfig
-revid: 171250
+revid: 175582
 source: https://deepwoken.fandom.com/wiki/Glumfig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Ingredients, Alchemy]
+categories: [Consumables, Alchemy]
 ---
 
 # Glumfig
@@ -24,8 +24,6 @@ categories: [Food, Ingredients, Alchemy]
 “ What in Alsin's name is a Glumfig.. ”
 
 ― A Puzzled Bandit
-
-  
 
   
 

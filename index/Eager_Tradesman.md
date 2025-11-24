@@ -1,9 +1,9 @@
 ---
 title: Eager Tradesman
-revid: 174643
+revid: 175566
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Outfits, Starter Outfits]
+categories: [Pages with broken file links, Outfits, Starter Outfits]
 ---
 
 # Eager Tradesman
@@ -46,6 +46,7 @@ File:A player seen wearing Eager Tradesman dyed Red..png
 ## Trivia
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) and [Barbers](Barber.md) wear Eager Tradesman.
+-   Dying Eager Tradesman black will make the entire outfit pitch black.
 
 ## Changes
 

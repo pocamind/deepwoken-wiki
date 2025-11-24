@@ -1,9 +1,9 @@
 ---
 title: Mushroom Omelette
-revid: 170788
+revid: 175645
 source: https://deepwoken.fandom.com/wiki/Mushroom_Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Mushroom Omelette

@@ -1,9 +1,9 @@
 ---
 title: Seafood Boil
-revid: 161339
+revid: 175657
 source: https://deepwoken.fandom.com/wiki/Seafood_Boil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Seafood Boil

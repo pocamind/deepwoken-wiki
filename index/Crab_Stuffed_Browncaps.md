@@ -1,9 +1,9 @@
 ---
 title: Crab Stuffed Browncaps
-revid: 161297
+revid: 175628
 source: https://deepwoken.fandom.com/wiki/Crab_Stuffed_Browncaps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Crab Stuffed Browncaps

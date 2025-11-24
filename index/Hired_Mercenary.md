@@ -1,9 +1,9 @@
 ---
 title: Hired Mercenary
-revid: 153521
+revid: 175511
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Starter Outfits]
+categories: [Outfits, Starter Outfits]
 ---
 
 # Hired Mercenary

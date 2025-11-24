@@ -1,9 +1,9 @@
 ---
 title: "Ranger's Boots"
-revid: 157399
+revid: 175392
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Ranger's Boots

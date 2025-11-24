@@ -1,9 +1,9 @@
 ---
 title: Redsteel Boots
-revid: 159561
+revid: 175395
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Redsteel Boots

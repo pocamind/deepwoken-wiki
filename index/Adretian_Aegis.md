@@ -1,9 +1,9 @@
 ---
 title: Adretian Aegis
-revid: 171141
+revid: 175184
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Shields, Offhand, Items]
+categories: [Authority Faction Item, Weapons, Shields, Offhand]
 ---
 
 # Adretian Aegis

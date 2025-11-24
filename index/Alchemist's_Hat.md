@@ -1,9 +1,9 @@
 ---
 title: "Alchemist's Hat"
-revid: 169262
+revid: 175186
 source: https://deepwoken.fandom.com/wiki/Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Items]
+categories: [Equipment, Head, Hats]
 ---
 
 # Alchemist's Hat

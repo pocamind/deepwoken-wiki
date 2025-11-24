@@ -1,9 +1,9 @@
 ---
 title: Bounty Hunter
-revid: 169714
+revid: 175536
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Adept Outfits, Bandits]
+categories: [Outfits, Adept Outfits, Bandits]
 ---
 
 # Bounty Hunter

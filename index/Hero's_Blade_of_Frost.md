@@ -1,9 +1,9 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 169600
+revid: 175294
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Items, Medium Weapons, "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Hero's Blade of Frost

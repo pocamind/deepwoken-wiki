@@ -1,9 +1,9 @@
 ---
 title: Scholar
-revid: 169710
+revid: 175427
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Starter Outfits]
+categories: [Outfits, Starter Outfits]
 ---
 
 # Scholar

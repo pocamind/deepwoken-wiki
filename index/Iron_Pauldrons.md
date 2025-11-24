@@ -1,9 +1,9 @@
 ---
 title: Iron Pauldrons
-revid: 169375
+revid: 175321
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Pauldrons]
+categories: [Equipment, Arms, Pauldrons]
 ---
 
 # Iron Pauldrons

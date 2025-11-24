@@ -1,6 +1,6 @@
 ---
 title: Baneful Syrinx
-revid: 169937
+revid: 175407
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -13,16 +13,16 @@ categories: [Relics, Items]
 | type | Effigy |
 | rarity | Relic |
 | selling price | 100 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Diluvian Mechanism, Hell Mode, Heart of Enmity, Lysander Spellhardt |
-| description | "A vile effigy fashioned in reverence of Yun'Shul. In its sockets you see glimpses of Scyphozia, where Servants and Voices of the Keeper are numerous. All that is lost makes its way through nets cast by their many fingers." |
+| description | A vile effigy fashioned in reverence of Yun'Shul. In its sockets you see glimpses of Scyphozia, where Servants and Voices of the Keeper are numerous. All that is lost makes its way through nets cast by their many fingers. |
 
 ## Description
 
-The **Baneful Syrinx** is a consumable [Relic](Relics.md) with **10 uses**. Baneful Syrinx's usage is teleporting you to various locations within [The Depths](First_Layer.md). Short cooldown upon usage.
+The **Baneful Syrinx** is a consumable [Relic](Relics.md) with **10 uses**. Baneful Syrinx's usage is teleporting you to various locations within [Scyphozia](First_Layer.md). Short cooldown upon usage.
 
 Upon usage, the user will be slowed and is prompted to select one of three locations:
 

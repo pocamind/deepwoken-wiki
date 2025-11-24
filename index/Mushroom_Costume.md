@@ -1,9 +1,9 @@
 ---
 title: Mushroom Costume
-revid: 172685
+revid: 175363
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Equipment, Head, Helmets, Event Item, Items, Hallowtide]
+categories: [Event Only Content, Equipment, Head, Helmets, Event Item, Hallowtide]
 notices:
   - "This Page contains items ONLY obtainable through an event. The unique variants of the Costume are only obtainable through the Gourdskipper event, and as such, are no longer obtainable until Hallowtide."
 ---

@@ -1,9 +1,9 @@
 ---
 title: Ignition Union Uniform
-revid: 157735
+revid: 175549
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Adept Outfits, The Ignition Union]
+categories: [Outfits, Adept Outfits, The Ignition Union]
 ---
 
 # Ignition Union Uniform

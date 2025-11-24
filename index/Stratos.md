@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 172137
+revid: 175125
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -71,19 +71,19 @@ Food Delivery quest
   <td colspan="6">Yep.</td>
 </tr>
 <tr>
-  <td colspan="6">Ah, thank you, here is something for your troubles. Did <b>@#$%&amp;</b> send you?<i>*Wait, what was that last bit. Was that a name?!*</i></td>
+  <td colspan="6">Ah, thank you, here is something for your troubles. Did @#$%&amp; send you?<i>*Wait, what was that last bit. Was that a name?!*</i></td>
 </tr>
 <tr>
   <td colspan="6">Huh? @#$%&amp;?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*They tilt their head quizzically at you.*</i> Yes, <b>@#$%&amp;</b>. The famed Lance Leshi's brother?</td>
+  <td colspan="6"><i>*They tilt their head quizzically at you.*</i> Yes, @#$%&amp;. The famed Lance Leshi's brother?</td>
 </tr>
 <tr>
   <td colspan="6">Oh, you mean <i>(?)</i>?</td>
 </tr>
 <tr>
-  <td colspan="6">Uh? No, I don't believe so. <b>@#$%&amp;</b> was the name their mother gave me. Extraordinary cook she was. And a keen blade too. <i>*Okay, no luck. This guy clearly doesn't know his name either.*</i></td>
+  <td colspan="6">Uh? No, I don't believe so. @#$%&amp; was the name their mother gave me. Extraordinary cook she was. And a keen blade too. <i>*Okay, no luck. This guy clearly doesn't know his name either.*</i></td>
 </tr>
 <tr>
   <td colspan="6">End (Given 25 Notes)</td>

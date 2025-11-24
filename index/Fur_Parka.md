@@ -1,9 +1,9 @@
 ---
 title: Fur Parka
-revid: 169334
+revid: 175375
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Parkas]
+categories: [Equipment, Arms, Parkas]
 ---
 
 # Fur Parka

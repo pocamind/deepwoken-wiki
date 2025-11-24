@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 175082
+revid: 175122
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -103,7 +103,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td>UHH NO I MEANT YOUR MIDDLE NAME?</td>
 </tr>
 <tr>
-  <td>Oh... Well, it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a Drowned God or something? A Vow? What is wrong with this guy?*</i> People always seem so interested in my middle name...</td>
+  <td>Oh... Well, it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a <a href="Glossary.md#the-drowned-gods">Drowned God</a> or something? A <a href="Glossary.md#vows">Vow</a>? What is wrong with this guy?*</i> People always seem so interested in my middle name...</td>
 </tr>
 <tr>
   <td>End</td>

@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 170965
+revid: 175691
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -160,8 +160,34 @@ After defeating Titus, the Detainment Core's special crafting station will open 
 
 \*\*Many of these items drop from [Titus](Titus_Fulminus_Destellus.md), see his page for the different drops\*\*
 
+## Authority Systems
+
+When deactivating any of the systems with the corresponding keys, the messages from the Authority Intercom and Defence System will appear.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="3">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Authority Intercom</td>
+  <td>Authority Defence System</td>
+</tr>
+<tr>
+  <td>You think this is a game? Those prisoners aren't just petty thieves - they're monsters we locked away for a reason! <b>Guards, alert!</b></td>
+  <td>Attention all personnel, we've lost control of the cannon system! If they stay down, we'll be completely defenseless!</td>
+  <td>Manual override acknowledged. Laser grid offline.</td>
+</tr>
+<tr>
+  <td>End, prison cells are opened, Titus can be spoken to</td>
+  <td>End, cannon system turns off, player gains artillery whistle</td>
+  <td>End, laser system turns off</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia/Notes
 
--   After disabling the security system, taunt is replaced with a cannon whistle used by the guards. This allows the player to use the artillery to shoot cannonballs at their cursors.
+-   After disabling the security system, taunt (spit) is replaced with a cannon whistle used by the Authority guards. This allows the player to utilize the artillery to shoot cannonballs at their cursors.
 -   After defeating [Titus](Titus_Fulminus_Destellus.md), a special crafting bench can be accessed to create exclusive items such as the [Specialist Plate](Specialist_Plate.md) and [Reinforced War Helmet](Reinforced_War_Helmet.md).
--   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore books and song books.
+-   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore and song books.

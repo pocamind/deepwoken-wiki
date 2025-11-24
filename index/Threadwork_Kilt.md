@@ -1,9 +1,9 @@
 ---
 title: Threadwork Kilt
-revid: 153973
+revid: 175463
 source: https://deepwoken.fandom.com/wiki/Threadwork_Kilt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Items, Torso]
+categories: [Equipment, Torso]
 ---
 
 # Threadwork Kilt

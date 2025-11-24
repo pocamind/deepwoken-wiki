@@ -1,9 +1,9 @@
 ---
 title: Moon Brow Rings
-revid: 173463
+revid: 175358
 source: https://deepwoken.fandom.com/wiki/Moon_Brow_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Face, Piercings]
+categories: [Equipment, Face, Piercings]
 ---
 
 # Moon Brow Rings

@@ -1,9 +1,9 @@
 ---
 title: Silver Sabatons
-revid: 155651
+revid: 175438
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Legs, Sabatons]
+categories: [Equipment, Legs, Sabatons]
 ---
 
 # Silver Sabatons

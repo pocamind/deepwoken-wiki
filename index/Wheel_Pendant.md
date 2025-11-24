@@ -1,9 +1,9 @@
 ---
 title: Wheel Pendant
-revid: 152585
+revid: 175500
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Necklaces]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Wheel Pendant

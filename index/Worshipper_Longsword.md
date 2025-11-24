@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 173269
+revid: 175670
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -35,11 +35,13 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 
 The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widow](Deep_Widow.md). Additionally, it can be purchased in Miner's Landing, in a room behind the craft station, on the right side of the water wheel.
 
-### Talent: Belief
+## Talent: Belief
 
-Your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) gain a secondary damage instance dealing 0.15 \* your current Willpower investment as physical damage. For example, your Medium Mantras will deal 7.5 more damage at 50 Willpower and 15 more damage at 100 Willpower.
+Equipping the Worshipper Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this Talent's effects twice.
+**Belief** gives your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) a secondary damage instance, dealing 0.15 \* your current Willpower investment as physical damage. For example, your Medium Mantras will deal 7.5 more damage at 50 Willpower and 15 more damage at 100 Willpower.
+
+This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this Talent's effects twice with one cast.
 
 ## Critical
 

@@ -1,9 +1,9 @@
 ---
 title: "Trickster's Habit"
-revid: 168238
+revid: 175475
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Unique Outfits, World Event]
+categories: [Outfits, Unique Outfits, World Event]
 ---
 
 # Trickster's Habit

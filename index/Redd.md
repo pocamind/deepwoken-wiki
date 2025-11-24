@@ -1,9 +1,9 @@
 ---
 title: Redd
-revid: 171614
+revid: 175578
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food, Harvestables, Food Ingredients]
+categories: [Consumables, Harvestables, Food Ingredients]
 ---
 
 # Redd

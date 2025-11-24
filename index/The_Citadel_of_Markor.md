@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 175088
+revid: 175167
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -13,7 +13,7 @@ notices:
 | The Citadel of Markor | |
 |---|---|
 | leader | The High Convocation |
-| subunits | The Citadel Divers[1], Pioneer Divers (formerly)[1], Black Divers division[1], Memorial Masons[1] |
+| subunits | The Citadel Divers[1], The Pioneers (formerly)[1], Black Divers division[1], Memorial Masons[1] |
 | territory | Markor[2] |
 | goals | Learning about the Lumen and the Depths., Overcoming the Depths and stopping the Voidsea from consuming all of the Surface. |
 
@@ -27,7 +27,7 @@ As well as an archive, the Citadel is also an institute of education where peopl
 
 Due to the cultural and historical importance of the Citadel, the global calendar calculates the date based on the time relative to the founding of the Citadel. Years after its founding use "CE" (Citadel Era),[\[4\]](#cite-note-glosscitadel-4) while those after it are designated "BCE".[\[3\]](#cite-note-glossresurge-3)[\[10\]](#cite-note-glossauth-10)
 
-57 years after its initial founding, the Citadel established [The Citadel Divers](The_Divers.md) in response to reports of individuals returning from the Depths, theorizing that they could deploy agents to the Depths directly to coordinate research, recon, and offensive action.[\[1\]](#cite-note-fathoms-1)
+57 years after its initial founditng, the Citadel established [The Citadel Divers](The_Divers.md) in response to reports of individuals returning from the Depths, theorizing that they could deploy agents to the Depths directly to coordinate research, recon, and offensive action.[\[1\]](#cite-note-fathoms-1)
 
 In 108 CE, a fire broke out in the Citadel's archives, destroying some of their records, many of which concerned the early history of the Citadel.[\[1\]](#cite-note-fathoms-1)
 
@@ -36,6 +36,12 @@ In 108 CE, a fire broke out in the Citadel's archives, destroying some of their 
 **[The Citadel Divers](The_Divers.md)**: Currently known as [the Divers](The_Divers.md). The unit, specifically designated to explore [the Depths](The_Depths.md) and set up bases there.
 
 **[Memorial Masons](Memorial_Masons.md)**: A subdivision of [the Divers](The_Divers.md) consisting of the Stonemasons. Their job is to carve the names of retired or, more likely, deceased [Divers](The_Divers.md) into stone monuments.
+
+## Trivia
+
+-   The Citadel of Markor is loosely based off of the [Mouseion of Alexandria](https://en.wikipedia.org/wiki/Mouseion), a large, ancient institution that was notable for its research into various arts and sciences.
+    -   The Library of Alexandria was part of the institution as well.
+        -   An incident in 48 BCE involving Julius Caesar's soldiers setting fire to ships, which spread and destroyed a portion of the library. This may also reflect on the fire that occurred in the Markor Citadel.
 
 ## References
 

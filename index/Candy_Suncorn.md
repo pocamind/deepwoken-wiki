@@ -1,9 +1,9 @@
 ---
 title: Candy Suncorn
-revid: 173195
+revid: 175622
 source: https://deepwoken.fandom.com/wiki/Candy_Suncorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Items, Food]
+categories: [Event Only Content, Food]
 notices:
   - "This page contains Event Exclusive Content This item is exclusive to Goodie Bags, which are only obtainable during the Hallowtide event."
 ---

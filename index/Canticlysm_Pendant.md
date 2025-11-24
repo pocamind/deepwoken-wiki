@@ -1,9 +1,9 @@
 ---
 title: Canticlysm Pendant
-revid: 153833
+revid: 175220
 source: https://deepwoken.fandom.com/wiki/Canticlysm_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Necklaces]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Canticlysm Pendant

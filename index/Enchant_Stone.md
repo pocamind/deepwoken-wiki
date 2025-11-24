@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 173628
+revid: 175404
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -13,8 +13,8 @@ categories: [Items, Relics, Layer 2]
 | type | Relic |
 | rarity | Mythical |
 | selling price | 200 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Purchasing from Klaris Llfiend for 5 , Deepshore Fossil, Saramaed Hollow, The Diluvian Mechanism, Second Layer, Maestro Evengarde Rest, Chaser, Heart of Enmity, Scion of Ethiron, War Mode, Hell Mode, Meteor Isle |

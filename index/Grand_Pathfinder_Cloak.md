@@ -1,9 +1,9 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 169768
+revid: 175514
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Expert Outfits]
+categories: [Outfits, Expert Outfits]
 ---
 
 # Grand Pathfinder Cloak

@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Axe"
-revid: 169596
+revid: 175255
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, Items, "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Enforcer's Axe

@@ -1,9 +1,9 @@
 ---
 title: Warmonger
-revid: 163812
+revid: 175671
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, War Weapons, Heavy Weapons]
+categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Talents]
 ---
 
 # Warmonger
@@ -40,11 +40,13 @@ The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul
 
 Dying in the Overworld/[The Depths](The_Depths.md) with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Steel Maul**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) will not deteriorate the Warmonger, though its unique Talent is disabled in Chime. Warmonger **cannot** be enchanted.
 
-### Talent: Pugnacious
+## Talent: Pugnacious
 
-On basic attack, gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost per combat tag you have.
+Equipping the Warmonger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-The damage, posture damage, and chip damage bonuses are additive and ignore the damage and posture damage modifier caps. These effects cap at +30% (3 or more combat tags), and are applied to Mantras as well. The chip damage bonus will only apply if some amount of chip is present.
+**Pugnacious** procs on basic attack, applying various buffs to the user. On proc, you gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost **per combat tag** you have.
+
+The damage, posture damage, and chip damage bonuses are additive and ignore the damage and posture damage modifier caps. These effects cap at +30% (3 or more combat tags), and are applied to Mantras as well. The chip damage bonus will only apply if some amount of chip is already present.
 
 The elemental and physical damage resistance is multiplicative to other resistance sources.
 

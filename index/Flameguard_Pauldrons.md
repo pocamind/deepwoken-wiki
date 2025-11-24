@@ -1,9 +1,9 @@
 ---
 title: Flameguard Pauldrons
-revid: 169357
+revid: 175273
 source: https://deepwoken.fandom.com/wiki/Flameguard_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Pauldrons]
+categories: [Equipment, Arms, Pauldrons]
 ---
 
 # Flameguard Pauldrons

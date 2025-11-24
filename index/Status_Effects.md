@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 174705
+revid: 175717
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -144,13 +144,13 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
 -   Brain: Increases the effectiveness or efficiency of your [Deep Gems](Deep_Gems.md); _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
     -   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
     -   [Blessed Gem](Blessed_Gem.md): Cooldown reduction is increased from -50% to -66%.
-    -   [Bloodless Gem](Bloodless_Gem.md): Heal cap increased from 15 to ?.
-    -   [Blue Gem](Blue_Gem.md): Unknown effect.
-    -   [Insignia Gem](Insignia_Gem.md): Unknown effect.
-    -   [Might Gem](Might_Gem.md): Posture damage buff increased from +10% to +20%.
+    -   [Bloodless Gem](Bloodless_Gem.md): Heal cap increased from 15 to 20.
+    -   [Blue Gem](Blue_Gem.md): No noticeable difference.
+    -   [Insignia Gem](Insignia_Gem.md): No noticeable difference.
+    -   [Might Gem](Might_Gem.md): Posture damage buff increased from +10% to +15%.
     -   [Nocturnal Gem](Nocturnal_Gem.md): Damage is increased from 10 to 15.
-    -   [Warped Blue Gem](Warped_Blue_Gem.md): Unknown effect.
-    -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 5s.
+    -   [Warped Blue Gem](Warped_Blue_Gem.md): No noticeable difference.
+    -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 3s.
     -   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration increased from 10s to 15s.
     -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
 -   Scale: Effect currently unknown; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
@@ -464,7 +464,7 @@ Applied through the Reinforced War Set's Talent _Lasting Trauma_; be unable to u
 
 ### Etherguard
 
-Applied through the Bluestone Set's _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based on their Ether cost for 16 seconds.
+Applied through the Bluestone Set's _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based on their Ether cost for 15 seconds.
 
 ### Embraced in Light
 

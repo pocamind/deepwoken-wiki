@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 174708
+revid: 175690
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -13,8 +13,8 @@ categories: [Relics, Items]
 | type | Treasure |
 | rarity | Relic |
 | selling price | 250 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | Yes, but not on death |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Duke Erisia, Chaser, The First Layer, The Diluvian Mechanism, Maestro Evengarde Rest, Elder Primadon, The Titan Warlord, Weird Trader, Moon's Eyrie, War Mode, Depths Sea Island, Saramaed Hollow, Lysander Spellhardt, Hell Mode, Heart of Enmity, Goodie Bag, Sold in Traan Zakshun's black market for 7 |
@@ -38,6 +38,5 @@ The known downsides of a Corrupted [Resonance](Resonance.md) are as followed:
 
 ## Trivia
 
--   You can hold more than one of this item.
--   The message that appears when using the Sinner's ash without a Resonance used to also appear when using it with a corrupted [Resonance](Resonance.md).
--   Its estimated drop chance is around 1/333 (Needs further testing)
+-   The message that appears when using the Sinner's Ash without a Resonance used to also appear when using it with a corrupted [Resonance](Resonance.md).
+-   Attempting to use a Sinner's Ash without a Resonance will prompt the message "The ashes don't seem to have any effect."

@@ -1,9 +1,9 @@
 ---
 title: Silver Ring
-revid: 151973
+revid: 175437
 source: https://deepwoken.fandom.com/wiki/Silver_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Rings]
+categories: [Equipment, Rings]
 ---
 
 # Silver Ring

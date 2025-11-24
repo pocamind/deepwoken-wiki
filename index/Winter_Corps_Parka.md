@@ -1,9 +1,9 @@
 ---
 title: Winter Corps Parka
-revid: 170496
+revid: 175505
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Parkas]
+categories: [Equipment, Arms, Parkas]
 ---
 
 # Winter Corps Parka

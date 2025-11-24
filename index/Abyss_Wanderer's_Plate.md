@@ -1,9 +1,9 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 169313
+revid: 175182
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates, The Divers, Items]
+categories: [Equipment, Arms, Plates, The Divers]
 ---
 
 # Abyss Wanderer's Plate

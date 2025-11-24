@@ -1,9 +1,9 @@
 ---
 title: Noodles
-revid: 161617
+revid: 175648
 source: https://deepwoken.fandom.com/wiki/Noodles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items]
+categories: [Food]
 ---
 
 # Noodles

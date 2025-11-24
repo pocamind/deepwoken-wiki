@@ -1,9 +1,9 @@
 ---
 title: "Investigator's Hat"
-revid: 169286
+revid: 175319
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Items]
+categories: [Equipment, Head, Hats]
 ---
 
 # Investigator's Hat

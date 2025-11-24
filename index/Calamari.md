@@ -1,9 +1,9 @@
 ---
 title: Calamari
-revid: 161321
+revid: 175619
 source: https://deepwoken.fandom.com/wiki/Calamari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Calamari

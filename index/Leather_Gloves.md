@@ -1,9 +1,9 @@
 ---
 title: Leather Gloves
-revid: 171984
+revid: 175337
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Gloves]
+categories: [Equipment, Arms, Gloves]
 ---
 
 # Leather Gloves

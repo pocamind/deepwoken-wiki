@@ -1,9 +1,9 @@
 ---
 title: "Scholar's Brew"
-revid: 163000
+revid: 175656
 source: https://deepwoken.fandom.com/wiki/Scholar's_Brew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Scholar's Brew

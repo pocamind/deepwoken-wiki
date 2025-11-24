@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 167542
+revid: 175416
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -13,8 +13,8 @@ categories: [Relics, Items]
 | type | Treasure |
 | rarity | Relic |
 | selling price | 80 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | Yes, but not on death |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Duke Erisia, The Ferryman, Primadon's Gem Chest, Elder Primadon, The Titan Warlord, Fishing, The Diluvian Mechanism, Heart of Enmity, War Mode, The Doom of Caeranthil, Maestro Evengarde Rest, Bounty Hunting, Saramaed Hollow, Titus Fulminus Destellus, Hollow Forge, Lysander Spellhardt, Diver Expedition Sea Event, Carnival of Hearts, Weird Trader, Sold in Traan Zakshun's black market for 3 |

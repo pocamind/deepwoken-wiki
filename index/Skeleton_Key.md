@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 158715
+revid: 175695
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,7 +36,7 @@ Pressing C will activate the **Skeleton Key** Resonance.
 
 Skeleton key will summon a wall, up to five if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
 
-If Skeleton Key is corrupted, the wall size is increased by over 500%.[\[1\]](#cite-note-1)
+If Skeleton Key is corrupted, a third wall type can be rolled. When used, your wall is 500% larger. It is unknown if this can stack with the spiked variant.[\[1\]](#cite-note-1)
 
 ### Resonance Point Usage
 

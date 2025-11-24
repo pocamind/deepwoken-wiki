@@ -1,6 +1,6 @@
 ---
 title: Port Merit
-revid: 174802
+revid: 175561
 source: https://deepwoken.fandom.com/wiki/Port_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant, Territory of The Central Authority]

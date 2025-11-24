@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 169233
+revid: 175710
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer, Vendors]
@@ -144,6 +144,5 @@ Sold Items
 
 ## Trivia
 
--   You can check her wares, log and wait an hour or more to try obtaining a specific weapon or outfit schematic.
 -   Nyanna's name likely comes from the Japanese word for meow: "Nyan."
 -   Nyanna's hair can be found here: [https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns](https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns)

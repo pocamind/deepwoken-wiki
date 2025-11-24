@@ -1,9 +1,9 @@
 ---
 title: Louie Spellhardt
-revid: 172405
+revid: 175118
 source: https://deepwoken.fandom.com/wiki/Louie_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
+categories: [Lightborn NPCs, Vendors, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
 ---
 
 # Louie Spellhardt
@@ -18,6 +18,50 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 ## Description
 
 Louie Spellhardt is a [Lightborn](Lightborn.md) NPC, he is the [Blacksmith](Blacksmith.md) of the Spellhardt family.
+
+## Shop
+
+Smithy's Supplies
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>6 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Cloth</div><div><i>Useful for a bit of tailoring.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Fiber</div><div><i>Spun into thread or woven into cloth for tailoring.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Coal</div><div><i>Used for fuel and in the production of steel.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+Smithy's Tools
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Pickaxe</div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Lumber Axe</div><div><i>A sturdy axe for felling trees.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Repair Hammer</div><div><i>Handy if your boat springs a leak.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 

@@ -1,9 +1,9 @@
 ---
 title: Varicosan Finery
-revid: 170984
+revid: 175483
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Expert Outfits]
+categories: [Outfits, Expert Outfits]
 ---
 
 # Varicosan Finery

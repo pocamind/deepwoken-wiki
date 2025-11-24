@@ -1,9 +1,9 @@
 ---
 title: Relics
-revid: 172843
+revid: 175449
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Equipment]
+categories: [Pages with broken file links, Equipment]
 ---
 
 # Relics
@@ -615,6 +615,6 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 ## Trivia
 
--   All Relics are storeable in banks (excluding the Mantle Of Enmity), which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 to make.
+-   All Relics are storeable in banks (excluding the [Mantle of Enmity](Mantle_of_Enmity.md), [Pluripotent Alloy](Pluripotent_Alloy.md), and the [teleportation Relics](#teleportation-relics)), which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 to make.
 -   Some relics (Smith’s Alloy, Sinner’s Ash, Moonseye Tome, and Idol of Yun’Shul) were ideas by the YouTuber Agamatsu.
     -   Video: [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

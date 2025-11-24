@@ -1,9 +1,9 @@
 ---
 title: Wartreads of Enmity
-revid: 169458
+revid: 175494
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boots, Equipment, Items]
+categories: [Pages with broken file links, Boots, Equipment]
 ---
 
 # Wartreads of Enmity

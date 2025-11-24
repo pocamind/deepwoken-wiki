@@ -1,9 +1,9 @@
 ---
 title: Nepo
-revid: 172680
+revid: 175712
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
+categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
 ---
 
 # Nepo
@@ -26,8 +26,6 @@ Nepo is the NPC who accepts a bribe for [The Summer Company](The_Summer_Company.
 ## Location
 
 Nepo is located leaning by the archway across a series of bridges behind the Summer Isle Castle.
-
-File:Nepo Map.png
 
 ## Dialogue
 

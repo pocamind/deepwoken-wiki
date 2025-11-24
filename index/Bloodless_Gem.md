@@ -1,6 +1,6 @@
 ---
 title: Bloodless Gem
-revid: 175105
+revid: 175703
 source: https://deepwoken.fandom.com/wiki/Bloodless_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mantras, Deep Gems]
@@ -33,10 +33,10 @@ This has a healing cap of 15 health. Reaching this cap will put Bloodless Gem on
 ### Notes
 
 -   This Gem is best used on high damage Mantras, especially those that hit multiple times.
--   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Bloodless Gem's healing cap will be increased. Additionally, you will heal for 60% of your Mantra's scaled damage instead of 30%.
+-   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Bloodless Gem's healing cap will be increased from 15 to 20.
 -   Although the description states "unscaled damage," it really just means damage before damage modifiers are applied.
 -   The heal cap will be hit once you deal 50 scaled damage.
-    -   The heal cap with the Brain [Food Buff](Status_Effects.md#food-buff) will be hit once you reach ? scaled damage.
+    -   The heal cap with the Brain [Food Buff](Status_Effects.md#food-buff) will be hit once you reach 66.7 scaled damage.
 -   The healing is based on scaled damage dealt **before** Bloodless Gem's reduced damage comes into effect.
 -   When Bloodless Gem is on cooldown, your Mantra's damage will return to normal as well as the healing being disabled.
 

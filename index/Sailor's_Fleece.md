@@ -1,9 +1,9 @@
 ---
 title: "Sailor's Fleece"
-revid: 171921
+revid: 175422
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms]
+categories: [Equipment, Arms]
 ---
 
 # Sailor's Fleece

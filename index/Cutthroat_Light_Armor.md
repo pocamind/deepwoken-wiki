@@ -1,9 +1,9 @@
 ---
 title: Cutthroat Light Armor
-revid: 169716
+revid: 175529
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Adept Outfits]
+categories: [Outfits, Adept Outfits]
 ---
 
 # Cutthroat Light Armor

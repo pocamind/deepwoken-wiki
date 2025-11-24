@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 173592
+revid: 175410
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -12,8 +12,8 @@ categories: [Relics]
 |---|---|
 | type | Utility |
 | rarity | Relic |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | Yes, but not on death |
 | pass down | No |
 | obtainment | Crafting, Sold in Traan Zakshun's black market for 2 |
 

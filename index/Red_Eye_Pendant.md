@@ -1,9 +1,9 @@
 ---
 title: Red Eye Pendant
-revid: 152039
+revid: 175394
 source: https://deepwoken.fandom.com/wiki/Red_Eye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Torso, Necklaces]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Red Eye Pendant

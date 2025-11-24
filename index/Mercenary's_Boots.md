@@ -1,9 +1,9 @@
 ---
 title: "Mercenary's Boots"
-revid: 169453
+revid: 175347
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Mercenary's Boots

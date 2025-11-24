@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 168027
+revid: 175709
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Reputation]

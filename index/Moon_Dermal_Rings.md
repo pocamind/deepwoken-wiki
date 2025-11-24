@@ -1,9 +1,9 @@
 ---
 title: Moon Dermal Rings
-revid: 170780
+revid: 175359
 source: https://deepwoken.fandom.com/wiki/Moon_Dermal_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Face, Piercings]
+categories: [Equipment, Face, Piercings]
 ---
 
 # Moon Dermal Rings

@@ -1,9 +1,9 @@
 ---
 title: Celtorian Sabatons
-revid: 169272
+revid: 175225
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Legs, Sabatons]
+categories: [Equipment, Legs, Sabatons]
 ---
 
 # Celtorian Sabatons

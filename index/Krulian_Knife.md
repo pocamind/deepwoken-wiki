@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 173669
+revid: 175680
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Multiple Criticals, Light Weapons, Weapons with Talents]
@@ -36,9 +36,11 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 
 The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defeating [the Ferryman](The_Ferryman.md) in any of his chests, or buying it from a [Merchant Ships](Travelling_Merchant.md) or [Traan Zakshun](Traan_Zakshun.md).
 
-### Talent: Cruel Counter
+## Talent: Cruel Counter
 
-If you cancel your opponent's attack with your Krulian Charge critical attack, apply the [Cruel Counter](Status_Effects.md#cruel-counter) status effect on them, increasing your critical damage against them for 20 seconds.
+Equipping the Krulian Knife grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Cruel Counter** procs when you cancel your opponent's attack with your Krulian Charge critical attack, applying the [Cruel Counter](Status_Effects.md#cruel-counter) status effect to your opponent. This effect increases your critical attack damage against them for 20 seconds.
 
 Critical attacks gain a +40% damage modifier to anyone who is under the Cruel Counter status effect. This includes non-Krulian Knife critical attacks, even if they come from people who did not apply the status effect. This damage modifier **bypasses** the damage modifier cap.
 

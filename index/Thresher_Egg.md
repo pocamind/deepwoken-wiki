@@ -1,9 +1,9 @@
 ---
 title: Thresher Egg
-revid: 174811
+revid: 175688
 source: https://deepwoken.fandom.com/wiki/Thresher_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Harvestables]
+categories: [Items, Ingredients, Harvestables, Consumable with Termite]
 ---
 
 # Thresher Egg

@@ -1,9 +1,9 @@
 ---
 title: "Titus's Raiment"
-revid: 172646
+revid: 175469
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Unique Outfits]
+categories: [Outfits, Unique Outfits]
 ---
 
 # Titus's Raiment

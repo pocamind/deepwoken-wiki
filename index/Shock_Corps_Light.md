@@ -1,9 +1,9 @@
 ---
 title: Shock Corps Light
-revid: 172617
+revid: 175433
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Unique Outfits, Outfits of The Central Authority]
+categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 ---
 
 # Shock Corps Light

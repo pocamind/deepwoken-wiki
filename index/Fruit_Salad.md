@@ -1,9 +1,9 @@
 ---
 title: Fruit Salad
-revid: 161302
+revid: 175637
 source: https://deepwoken.fandom.com/wiki/Fruit_Salad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Fruit Salad

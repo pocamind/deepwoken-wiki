@@ -1,9 +1,9 @@
 ---
 title: Fauld of Enmity
-revid: 169958
+revid: 175268
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Items, Torso]
+categories: [Equipment, Torso]
 ---
 
 # Fauld of Enmity

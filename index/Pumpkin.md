@@ -1,9 +1,9 @@
 ---
 title: Pumpkin
-revid: 174784
+revid: 175591
 source: https://deepwoken.fandom.com/wiki/Pumpkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Items, Food, Harvestables, Food Ingredients]
+categories: [Event Only Content, Consumables, Harvestables, Food Ingredients]
 notices:
   - This page contains Event Exclusive Content Pumpkins only grow during the Hallowtide event.
 ---

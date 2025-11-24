@@ -1,16 +1,18 @@
 ---
 title: Treasures
-revid: 172757
+revid: 175610
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Treasures]
 ---
 
 # Treasures
 
 _Not to be confused with [Deep Gems](Deep_Gems.md) or [Ores](Ores.md)._
 
-Items commonly dropped from Chests that can be sold to the [Antiquarian](Antiquarian.md) or a [Mantra Collector](Mantra_Collector.md) for various amounts of Notes.
+**Treasures** are a category of item commonly found in [Chests](Chests_&_Sacks.md). They can be sold to the [Antiquarian](Antiquarian.md) or a [Mantra Collector](Mantra_Collector.md) for various amounts of [Notes](Notes.md).
+
+[Deep Gems](Deep_Gems.md) are also categorized as Treasures. Unlike traditional Treasures, these drop from specific sources.
 
 | Appearance | Name | Description | Sell Price |
 | --- | --- | --- | --- |

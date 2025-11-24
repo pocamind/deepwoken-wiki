@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 167799
+revid: 175647
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
@@ -31,9 +31,11 @@ categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", We
 
 The Metal Greatsword is a Heavy Greatsword exclusive to the [Rending Needle: Augmenter](Talents.md#rending-needle) Talent. After applying 5 Iron Rods and then pulling them with X, Metal Greatsword will be equipped for 10 seconds, overriding your previous weapon.
 
-### Talent: Forced Fulfilment
+## Talent: Forced Fulfilment
 
-Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
+Equipping the Metal Greatsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Forced Fulfilment** procs when landing a critical attack using your Metal Greatsword, attaching a heavy rod onto your opponent and heavily slowing them.
 
 Additionally, your [Metal Armament](Ironsing.md#metal-armament) damage is increased by 50%.
 

@@ -1,9 +1,9 @@
 ---
 title: Alchemy
-revid: 173154
+revid: 175576
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Ingredients, Items, Alchemy]
+categories: [Mechanics, Consumables, Alchemy]
 ---
 
 # Alchemy

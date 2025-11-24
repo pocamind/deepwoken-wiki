@@ -1,9 +1,9 @@
 ---
 title: Trimmed Overcoat
-revid: 167228
+revid: 175374
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms]
+categories: [Equipment, Arms]
 ---
 
 # Trimmed Overcoat

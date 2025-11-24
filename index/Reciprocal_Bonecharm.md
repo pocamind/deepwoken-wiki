@@ -1,6 +1,6 @@
 ---
 title: Reciprocal Bonecharm
-revid: 174380
+revid: 175406
 source: https://deepwoken.fandom.com/wiki/Reciprocal_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -13,12 +13,12 @@ categories: [Relics, Items]
 | type | Effigy |
 | rarity | Relic |
 | selling price | 100 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Scion of Ethiron, Lysander Spellhardt |
-| description | "A fleshbound Kyrsan effigy of Ethironal worship. As their minds and focuses were robbed, their precise artisanry was twisted into a feverish production of foul convolutions of the organic. Peering into the beady eyes of the bonecharm, you see an early Ethironal shrine; unfinished, misshapen taxidermies lining the walls like an abattoir." |
+| description | A fleshbound Kyrsan effigy of Ethironal worship. As their minds and focuses were robbed, their precise artisanry was twisted into a feverish production of foul convolutions of the organic. Peering into the beady eyes of the bonecharm, you see an early Ethironal shrine; unfinished, misshapen taxidermies lining the walls like an abattoir. |
 
 ## Description
 

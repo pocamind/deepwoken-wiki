@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 174917
+revid: 175557
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -30,7 +30,7 @@ It has some basic functions but merely acts as a safe place for moderators to wo
 
 ### Yum-Yum Machine
 
--   A machine with a big button that says "HUNGRY". Interacting with it gives a a YUM YUM BAR, with a cooldown of 10 minutes. The item restores 50 hunger and 50 thirst. Its food type is Plant / Meat / Yum. It is not droppable however. "A bar of what appears to be cement, wrapped in flimsy paper, I'm told that it's food, though my colleagues seem to be shaking their heads at me and mouthing 'no'."
+-   A machine with a big button that says "HUNGRY". Interacting with it gives a a [YUM YUM BAR](YUM_YUM_BAR.md), with a cooldown of 10 minutes. The item restores 50 hunger and 50 thirst. Its food type is Plant / Meat / Yum. It is not droppable however. "A bar of what appears to be cement, wrapped in flimsy paper, I'm told that it's food, though my colleagues seem to be shaking their heads at me and mouthing 'no'."
 
 ### Gallery
 
@@ -79,7 +79,7 @@ or something
 ### Cosmetics Room
 
 -   A room populated by [Fadetrimmer](Oath%253A_Fadetrimmer.md) entities.
--   GLUMBO - A Reskinned dark humanoid barber.
+-   [Glumbo](<Barber_(Glumbo).md>) - A Reskinned dark humanoid barber.
 -   Contains a machine that dispenses Dye Packets.
 
 ### Office Creature

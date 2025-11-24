@@ -1,9 +1,9 @@
 ---
 title: "Nemit's Sickle"
-revid: 170888
+revid: 175654
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Items, Weapons with Talents]
+categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
 ---
 
 # Nemit's Sickle
@@ -36,9 +36,11 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Mult
 
 The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and an extremely high swing speed like most of the other daggers. It does less damage than few other daggers, however its high penetration and high scaling make up for it.
 
-### Talent: Curved Edge
+## Talent: Curved Edge
 
-Grants +60% chip damage to all [Light Weapon Mantras](Attunement-less.md#light-weapon-mantras).
+Equipping the Nemit's Sickle grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Curved Edge** grants +60% chip damage to all [Light Weapon Mantras](Attunement-less.md#light-weapon-mantras).
 
 ## Critical
 

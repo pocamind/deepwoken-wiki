@@ -1,9 +1,9 @@
 ---
 title: Cooked Fish
-revid: 161333
+revid: 175625
 source: https://deepwoken.fandom.com/wiki/Cooked_Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Cooked Fish

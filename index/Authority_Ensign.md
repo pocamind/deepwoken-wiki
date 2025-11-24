@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 175109
+revid: 175607
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -162,7 +162,7 @@ This list may be incomplete.
 
 ## Promotions
 
-Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards. Promotion points are reset upon being promoted. Upon being promoted, you will gain a promotion Talent hand [see below](#talents).
+Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards. Promotion points are reset upon being promoted. Upon being promoted, you will gain a promotion Talent hand [see below](#talents). The message "**YOU HAVE BEEN PROMOTED TO \[RANK\]. OORAH!**" will appear when you reach enough points to rank up.
 
 Enlistment Ranks
 

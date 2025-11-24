@@ -1,9 +1,9 @@
 ---
 title: Attribute Flasks
-revid: 174847
+revid: 175579
 source: https://deepwoken.fandom.com/wiki/Attribute_Flasks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Harvestables]
+categories: [Items, Tools, Consumables, Craftable]
 ---
 
 # Attribute Flasks
@@ -113,5 +113,5 @@ Crafted from two [Miasmic Lotuses](Primordial_Lotuses.md#miasmic-lotus), this At
 ## Trivia
 
 -   The [Hidden Grove](The_Hidden_Grove.md), a now cut location, was able to produce any of the Primordial Lotuses depending on the season.
--   Using any Attribute Flask will award the "Drink an Attribute Flask" [Echo Triumph](Echoes.md#echo-triumphs), even if the Flask did not provide any stat increases (e.g. using an Attribute Flask while fully invested).
--   Strangely, the colors of the Willpower, Intelligence, and Fortitude Flasks are entirely different from that of their respective Lotuses.
+-   Using any Attribute Flask will award the "Drink an Attribute Flask" [Echo Triumph](Echoes.md#echo-triumphs), even if the Flask did not increase one of your stats (e.g. using an Attribute Flask while fully invested or on an Attribute that's already maxed).
+-   Strangely, the colors of the Willpower, Intelligence, and Fortitude Flasks are entirely different from the colors of their respective Lotuses.

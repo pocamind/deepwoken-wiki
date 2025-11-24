@@ -1,9 +1,9 @@
 ---
 title: Bluestone Pauldrons
-revid: 169337
+revid: 175719
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons, Items]
+categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons]
 ---
 
 # Bluestone Pauldrons
@@ -39,6 +39,8 @@ The [Ether Emergency](Talents.md#ether-emergency) Talent grants you a flat amoun
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Etherguard](Talents.md#etherguard) - [Warped Blue Gems](Warped_Blue_Gem.md) now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
+
+Etherguard applies the [Etherguard](Status_Effects.md#etherguard) status effect to yourself for 15 seconds. While you have this status effect, Mantras will deal reduced damage to you based on their Ether cost.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 174909
+revid: 175408
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Relics, Items, Hallowtide]
@@ -70,5 +70,4 @@ The Goodie Bag is a consumable [Relic](Relics.md) that on use will grant the use
 
 ## Trivia
 
--   Despite being [Relic](Relics.md) rarity, Goodie Bags can be banked without a Vow of Safekeeping.
 -   Attempting to open a Goodie Bag while in the [Fragments of Self](Fragments_of_Self.md) will prompt the message, "Yo. it's me, the little pumpkin on the goodie bag. Why open me here man? Not cool man, not cool."

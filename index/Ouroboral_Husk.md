@@ -1,6 +1,6 @@
 ---
 title: Ouroboral Husk
-revid: 157719
+revid: 175405
 source: https://deepwoken.fandom.com/wiki/Ouroboral_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -13,12 +13,12 @@ categories: [Relics, Items]
 | type | Effigy |
 | rarity | Relic |
 | selling price | 100 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Saramaed Summit, Saramaed Hollow |
-| description | "Effigial remnant of a Ventworm, manyspawn of Korilfiend. Heat seeps from the joints of its carapace, charring and defacing all that it brushes against. In hand, the husk's cradlememories are your own, a homeward call that would sear the very flesh off your bones." |
+| description | Effigial remnant of a Ventworm, manyspawn of Korilfiend. Heat seeps from the joints of its carapace, charring and defacing all that it brushes against. In hand, the husk's cradlememories are your own, a homeward call that would sear the very flesh off your bones. |
 
 ## Description
 

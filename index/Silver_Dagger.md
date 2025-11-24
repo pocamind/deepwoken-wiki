@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 172269
+revid: 175668
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
@@ -39,9 +39,11 @@ It is a decent dagger to use from early to mid game. However, it is highly sugge
 
 ## Talent: Assassin's Strike
 
-Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals double damage.
+Equipping the Silver Dagger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-This Talent is quite strong, even when at Silver Dagger's requirements, as a level 2 Rapid Slashes paired with this Talent will deal more damage than a level 5 one without it.
+**Assassin's Strike** doubles the **base damage** of the [Rapid Slashes](Attunement-less.md#rapid-slashes) Mantra.
+
+This Talent is quite strong, even when at Silver Dagger's requirements, as a level 2 Rapid Slashes paired with this Talent will deal more damage than a level 5 one without it. Additionally, because this increases the Mantra's base damage, it provides a higher starting value for damage modifiers.
 
 ## Critical
 

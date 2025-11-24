@@ -1,9 +1,9 @@
 ---
 title: Cerulean Gown
-revid: 153802
+revid: 175533
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Expert Outfits]
+categories: [Outfits, Expert Outfits]
 ---
 
 # Cerulean Gown

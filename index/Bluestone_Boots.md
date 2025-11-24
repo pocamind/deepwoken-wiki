@@ -1,9 +1,9 @@
 ---
 title: Bluestone Boots
-revid: 175025
+revid: 175718
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots, Items]
+categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 ---
 
 # Bluestone Boots
@@ -41,6 +41,8 @@ The [I'm Blue](Talents.md#im-blue) Talent increases the effectiveness of your [B
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Etherguard](Talents.md#etherguard) - [Warped Blue Gems](Warped_Blue_Gem.md) now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
+
+Etherguard applies the [Etherguard](Status_Effects.md#etherguard) status effect to yourself for 15 seconds. While you have this status effect, Mantras will deal reduced damage to you based on their Ether cost.
 
 ## Obtainment
 

@@ -1,9 +1,9 @@
 ---
 title: Fish Meat
-revid: 164152
+revid: 175632
 source: https://deepwoken.fandom.com/wiki/Fish_Meat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food, Items, Ingredients, Alchemy]
+categories: [Food, Ingredients, Alchemy]
 ---
 
 # Fish Meat

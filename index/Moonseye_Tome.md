@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 172465
+revid: 175413
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -13,8 +13,8 @@ categories: [Relics, Items]
 | type | Treasure |
 | rarity | Relic |
 | selling price | 100 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | Yes, but not on death |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chaser, Crypt of the Unbroken, First Layer, Diluvian Mechanism, Moon's Eyrie, Lysander Spellhardt, Primadon, Fishing, Hell Mode, Weird Trader, Heart of Enmity, Titus Fulminus Destellus, Sold in Traan Zakshun's black market for 4 , Goodie Bag |
@@ -27,11 +27,55 @@ _(one-time use, re-obtainable)_
 
 ## Moonseye Tome Dialogue
 
-First Interaction, _"The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed."_ This will grant +100 Knowledge.
+**First use:**
 
-Second Interaction, _"The Voices reach out to you more gently now, offering their sympathies in a vast procession of guilt."_ This will grant +50 Knowledge.
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed.</td>
+</tr>
+<tr>
+  <td colspan="2">End, you receive 100 and the Tome is consumed</td>
+</tr>
+</tbody>
+</table>
 
-Attempting to use at Knowledge Cap (999), _"Your mind is too full to take in the knowledge within."_ This will not grant Knowledge and The Tome will not be consumed.
+**Subsequent uses:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">The Voices reach out to you more gently now, offering their sympathies in a vast procession of guilt.</td>
+</tr>
+<tr>
+  <td colspan="2">End, you receive 50 and the Tome is consumed</td>
+</tr>
+</tbody>
+</table>
+
+**Max Knowledge:**
+
+Using the Tome at max Knowledge (999) displays this message.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Your mind is too full to take in the knowledge within.</td>
+</tr>
+<tr>
+  <td colspan="2">End, nothing happens</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

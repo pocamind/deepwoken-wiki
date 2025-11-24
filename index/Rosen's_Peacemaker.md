@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 173598
+revid: 175661
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -35,9 +35,11 @@ Rosen's Peacemaker is a Medium Weapon and was released in the Verse 2 content up
 
 Rosen's Peacemaker, like the Iron Blunderbuss, rotates between a blunt swing attack and a longer-range firing attack during its M1 combo. The critical of Rosen's Peacemaker is a slightly slower version of its M1 firing cycle, but it shoots a projectile in the direction the wielder faces. The bullets do not incur parry stun on the attacker if they get parried at far range.
 
-### Talent: Rosen's Technique
+## Talent: Rosen's Technique
 
-Reduces the cooldown of your [Tactical Reload](Talents.md#marksman) Talent by 45 seconds; from 90 seconds to 45.
+Equipping the Rosen's Peacemaker grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Rosen's Technique** reduces the cooldown of your [Tactical Reload](Talents.md#tactical-reload) Talent by 45 seconds; from 90 seconds to 45.
 
 ## Critical
 

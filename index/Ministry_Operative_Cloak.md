@@ -1,9 +1,9 @@
 ---
 title: Ministry Operative Cloak
-revid: 169390
+revid: 175352
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Cloaks]
+categories: [Equipment, Arms, Cloaks]
 ---
 
 # Ministry Operative Cloak

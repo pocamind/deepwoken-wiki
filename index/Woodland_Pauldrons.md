@@ -1,9 +1,9 @@
 ---
 title: Woodland Pauldrons
-revid: 169432
+revid: 175507
 source: https://deepwoken.fandom.com/wiki/Woodland_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Pauldrons]
+categories: [Equipment, Arms, Pauldrons]
 ---
 
 # Woodland Pauldrons

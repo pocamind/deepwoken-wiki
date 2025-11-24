@@ -1,9 +1,9 @@
 ---
 title: Authority Helm
-revid: 173168
+revid: 175194
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Equipment, Head, Helmets, Items, Drops, Equipment of The Central Authority]
+categories: [Authority Faction Item, Equipment, Head, Helmets, Drops, Equipment of The Central Authority]
 ---
 
 # Authority Helm

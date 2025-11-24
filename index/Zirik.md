@@ -1,9 +1,9 @@
 ---
 title: Zirik
-revid: 172670
+revid: 175713
 source: https://deepwoken.fandom.com/wiki/Zirik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Pages with broken file links, NPCs, Reputation, NPCs located in the Eastern Luminant, The Hive]
+categories: [Ganymede NPCs, NPCs, Reputation, NPCs located in the Eastern Luminant, The Hive]
 ---
 
 # Zirik
@@ -26,8 +26,6 @@ Zirik is the NPC who accepts a bribe for [The Hive](The_Hive.md); you can pay th
 ## Location
 
 Zirik is located in front of ruins near the [Fountain](Fountain_Gates.md) to [Greathive Aratel](Greathive_Aratel.md).
-
-File:Zirik Map.png
 
 ## Dialogue
 

@@ -1,9 +1,9 @@
 ---
 title: Bread
-revid: 162914
+revid: 175616
 source: https://deepwoken.fandom.com/wiki/Bread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food, Food Ingredients]
+categories: [Food, Food Ingredients]
 ---
 
 # Bread

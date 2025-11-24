@@ -1,9 +1,9 @@
 ---
 title: Carefree Garments
-revid: 169715
+revid: 175534
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Adept Outfits]
+categories: [Outfits, Adept Outfits]
 ---
 
 # Carefree Garments

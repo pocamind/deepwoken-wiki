@@ -1,9 +1,9 @@
 ---
 title: Bronze Aspis
-revid: 171138
+revid: 175216
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Shields, Offhand, Items]
+categories: [Authority Faction Item, Weapons, Shields, Offhand]
 ---
 
 # Bronze Aspis

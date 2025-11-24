@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 170054
+revid: 175633
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -40,11 +40,13 @@ The Messer is an early-game sword that can be found in chests in [Lower Erisia](
 
 The Messer can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requirements to make it a viable lategame weapon. The Messer gains a purple hue to indicate this change.
 
-### Talent: Finishing Slay
+## Talent: Finishing Slay
 
-On critical, consume all of your [Chain of Perfection](Talents.md#metamancer) to add a secondary damage instance to your attack. This secondary damage instance deals 5 damage per Perfection stack (118 damage per stack in PvE).
+Equipping the Messer grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-The first 5 hits that normally do not grant Perfection stacks contributes to this damage bonus, stacking up to 120 PvP damage or 2.8k PvE damage at max stacks.
+On critical, consume all of your [Chain of Perfection](Talents.md#metamancer) to proc **Finishing Slay**, adding a secondary damage instance to your attack. This secondary damage instance deals 7 damage per Perfection stack (166 damage per stack in PvE).
+
+The first 5 hits that normally do not grant Perfection stacks contributes to this damage bonus, stacking up to 150 PvP damage or 3.5k PvE damage at max stacks.
 
 This effect can be procced on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals and has no cooldown. This effect does not change if your Messer is alloyed.
 

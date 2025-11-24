@@ -1,6 +1,6 @@
 ---
 title: Enchant Grease
-revid: 157971
+revid: 175403
 source: https://deepwoken.fandom.com/wiki/Enchant_Grease
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -13,8 +13,8 @@ categories: [Items, Relics, Layer 2]
 | type | Relic |
 | rarity | Mythical |
 | selling price | 200 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Sold by Klaris Llfiend for 5 , Sold by Laplace for 5 , The Diluvian Mechanism, War Mode, Second Layer (Galewax chamber) |

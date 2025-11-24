@@ -1,9 +1,9 @@
 ---
 title: "Seamstress's Attire"
-revid: 162601
+revid: 175431
 source: https://deepwoken.fandom.com/wiki/Seamstress's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Expert Outfits, World Event]
+categories: [Outfits, Expert Outfits, World Event]
 ---
 
 # Seamstress's Attire

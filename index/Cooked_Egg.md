@@ -1,9 +1,9 @@
 ---
 title: Cooked Egg
-revid: 161293
+revid: 175624
 source: https://deepwoken.fandom.com/wiki/Cooked_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Food]
+categories: [Food]
 ---
 
 # Cooked Egg

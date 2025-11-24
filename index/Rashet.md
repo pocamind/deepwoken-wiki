@@ -1,9 +1,9 @@
 ---
 title: Rashet
-revid: 172596
+revid: 175714
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pages with broken file links, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
+categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
 ---
 
 # Rashet
@@ -26,8 +26,6 @@ Rashet is the NPC who accepts a bribe for [The Central Authority](The_Central_Au
 ## Location
 
 Rashet is located by a pillar at [Merit's Reach](<Merit's_Reach.md>) from across the river.
-
-File:Rashet Map.png
 
 ## Dialogue
 

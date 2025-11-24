@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 175100
+revid: 175132
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -95,12 +95,3 @@ Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire 
 **Pleeksty's Will:** You gain significantly more Ether from consuming elemental ingredients
 
 Pleetsky's Will is obtained via talking to [Ploom](Ploom.md) in Lance's Food, [Etris](Etris.md). It can be obtained if you have 20 Flamecharm. If you have 50 Charisma or 40 Flamecharm, you can pick those options to instantly get the Talent. If you do not have those, you can trade him 3 [Dying Embers](Dying_Embers.md) in order to get the Talent.
-
-### Mercy Kill
-
-**Mercy Kill:** When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-
-Mercy Kill is obtained whenever the player [unbounds](Attributes_Unbound.md) their [attunement](Attunements.md) or weapon mastery. It is very useful against large swaths of 1-hitable enemies.  
-Mercy Kill can also be obtained by unbounding the Agility attribute or defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
-
-As of late September 2025, Mercy Kill has been made innate,

@@ -1,9 +1,9 @@
 ---
 title: Keeper
-revid: 157736
+revid: 175546
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Outfits, Adept Outfits]
+categories: [Outfits, Adept Outfits]
 ---
 
 # Keeper

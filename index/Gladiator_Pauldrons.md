@@ -1,9 +1,9 @@
 ---
 title: Gladiator Pauldrons
-revid: 169359
+revid: 175277
 source: https://deepwoken.fandom.com/wiki/Gladiator_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Equipment, Arms, Pauldrons]
+categories: [Equipment, Arms, Pauldrons]
 ---
 
 # Gladiator Pauldrons
