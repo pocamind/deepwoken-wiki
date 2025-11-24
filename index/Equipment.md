@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 175256
+revid: 175721
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -721,8 +721,7 @@ Legs: [Specialist Boots](Specialist_Boots.md)
 
  |
 |  | [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
-(**Set**)  
-(**Unobtainable**) | _+2 Posture_
+(**Set**) | _+2 Posture_
 
 +1 Rare Pip  
 **Requires Power 5**
@@ -758,8 +757,7 @@ Arms: [Aristocrat Coat](Aristocrat_Coat.md)
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-|  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)  
- | _+4 Health_
+|  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>) | _+4 Health_
 
 +1 Uncommon Pip
 
