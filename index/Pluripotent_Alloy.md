@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 175564
+revid: 175948
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -17,7 +17,7 @@ categories: [Items, Relics]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Duke Erisia, Primadon, The Ferryman, Dread Serpent, Chaser, Scion of Ethiron, The Doom of Caeranthil, Saramaed Hollow |
+| obtainment | Duke Erisia, Primadon, Elder Primadon, The Ferryman, Dread Serpent, Chaser, Scion of Ethiron, The Doom of Caeranthil, Interluminary Parasol, Saramaed Hollow |
 | description | A liquid metal that can be applied to certain weapons to draw out inner strength. The discovery of the Pluripotent Alloys is said to have sparked the development of Ironsing during the Canticlysm. |
 
 ## Description

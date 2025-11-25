@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 174431
+revid: 175932
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -102,7 +102,7 @@ A bound Etrean with a [Pathfinder Cloak](Pathfinder_Cloak.md) surrounded by a ba
 
 #### Megalodaunt vs Golem
 
-A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) in [Upper Erisia](Upper_Erisia.md) (especially in [Burning Stone Garden](Burning_Stone_Gardens.md)). The Golem will usually win. If you are low level, use this opportunity to finish off the victor, as it is probably low from the fight.
+A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) in [Upper Erisia](Upper_Erisia.md) (especially in [Burning Stone Garden](Burning_Stone_Gardens.md)). The Golem will almost always win, due to his high damaging spin attack and way higher health pool (1500 HP compared to the Megalodaunt's 900.) If you are low level, use this opportunity to finish off the victor, as it is probably low from the fight.
 
 #### Feasting Megalodaunt
 

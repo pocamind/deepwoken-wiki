@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 174166
+revid: 175959
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -103,6 +103,16 @@ In addition to be found wandering around various places or loitering around in s
 (☆☆☆)
 
  | If the target is above it, the Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+
+ | 
+
+ |
+| 
+
+**Bite**  
+(★☆☆)
+
+ | The Megalodaunt leans forward and bites down, putting those who are hit in ragdoll. Only used while in water.
 
  | 
 

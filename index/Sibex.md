@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 174950
+revid: 175825
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -91,7 +91,7 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
   <td colspan="2">End</td>
 </tr>
 <tr>
-  <td>colspan="9"</td>
+  <td colspan="9"></td>
   <td>End</td>
 </tr>
 </tbody>

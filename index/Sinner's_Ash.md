@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 175690
+revid: 175942
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -31,7 +31,7 @@ Using **Sinner's Ash** in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) after 
 
 The known downsides of a Corrupted [Resonance](Resonance.md) are as followed:
 
--   **WITHER:** On use player will receive Wither for 10% of their max HP.
+-   **WITHER:** On use player will receive [Wither](Status_Effects.md#wither) for 10% of their max HP.
 -   **MANIA:** On use, player will lose 40 sanity.
 -   **POISON:** On use, player will lose 7% HP. If used below 6% health, you will be left at 1 health.
 -   **BLOOD LOSS:** On use player will lose 15% of their max blood.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 172034
+revid: 175927
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -32,8 +32,8 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | Title Screen & Celestial Telescope turned Anti-clockwise,
-Using [Moonseye Tome](Moonseye_Tome.md)
+| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | Title Screen
+Celestial Telescope viewing Constellia Using [Moonseye Tome](Moonseye_Tome.md)
 
  | File:Mainmenu contour1.ogg |
 | 2 | [To Sleep, Dreaming (Contour 2)](https://soundcloud.com/naktigonis/to-sleep-dreaming-2) | 1:40 | Can play as title screen music while health bar is stained | File:To Sleep, Dreaming (Contour 2).mp3 |

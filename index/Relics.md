@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 175449
+revid: 175951
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -116,10 +116,29 @@ One-time consumables that provide direct improvement value to items, equipment, 
  |
 | 
 
+ | **[Pluripotent Alloy](Pluripotent_Alloy.md)** - An alloy that changes the appearance, requirements, and stats of eligible weapons to make them viable for endgame combat. The full list of weapons that can be alloyed can be found here.
+
+-   _(Consumed on usage)_
+
+ | 
+
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
+-   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
+-   [The Ferryman](The_Ferryman.md)
+-   [Dread Serpent](Dread_Serpent.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+-   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+
+ |
+| 
+
  | **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - A ritual idol that is used to redeem a [Yun'Shul Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without the need of a [Resonance](Resonance.md). Can be used in any location.
 
 -   _(Consumed upon usage)_
--   (_using this item changes your flaw_)
 
  | 
 
@@ -165,10 +184,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
  |
 | 
 
- | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon its first usage.
-
-  
-It grants the user +50 knowledge on subsequent uses.
+ | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +100 Knowledge upon its first usage and +50 Knowledge on subsequent uses.
 
 -   _(Consumed upon usage)_
 
@@ -210,7 +226,7 @@ It grants the user +50 knowledge on subsequent uses.
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 -   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 -   [Fishing](Fishing.md)
--   8 Star [Bounty](Bounty_Hunting.md) VoidWalker Chests
+-   8 Star [Bounty](Bounty_Hunting.md) Voidwalker Chests
 -   [Etris: Siege](Cinders_of_Etris.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
@@ -221,7 +237,7 @@ It grants the user +50 knowledge on subsequent uses.
  |
 | 
 
- | **[Gilded Needle](Gilded_Needle.md)** - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations.)
+ | **[Gilded Needle](Gilded_Needle.md)** - A needle that changes one of your [Equipment's pips](Equipment.md) to another pip of your choice (with regards to pip diversity limitations).
 
 -   _(Consumed upon usage)_
 

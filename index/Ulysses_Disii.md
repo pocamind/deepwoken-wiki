@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 175723
+revid: 175950
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Black Divers, The Divers]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | name | Ulysses Disii |
 | aspect | Vesperian[1] |
-| affiliation | The Divers |
+| affiliation | The Divers, Black Divers division |
 
 “ How resolute of you. Should we clap? Should the High Convocation throw you a party? Should we invite Drallis Ehr? ”
 

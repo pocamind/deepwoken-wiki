@@ -1,6 +1,6 @@
 ---
 title: Authority Voltspark Mask
-revid: 166001
+revid: 175925
 source: https://deepwoken.fandom.com/wiki/Authority_Voltspark_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -26,9 +26,9 @@ categories: [Equipment, Face, Masks]
 
 ## Description
 
-The Authority Voltspark Mask is an [Equipment](Equipment.md) item under the "Face" category. The Authority Voltspark Mask is a white mask with a glowing cross in the center, similar to [The Central Authority's](The_Central_Authority.md) logo. When worn, this grants +1 Common pip, 3% Lightning Armor, and the [Volt Reflex](Talents.md#equipment-talents) Talent.
+The Authority Voltspark Mask is an [Equipment](Equipment.md) item under the "Face" category. The Authority Voltspark Mask is a white mask with a glowing cross in the center, similar to [The Central Authority's](The_Central_Authority.md) logo.
 
-_Volt Reflex_ increases your dodge window, but also your dodge cooldown, based on your [Thundercall](Thundercall.md) investment.
+The [Volt Reflex](Talents.md#volt-reflex) Talent increases your dodge window, but also your dodge cooldown. Both of these effects scale on your [Thundercall](Thundercall.md) investment.
 
 ## Obtainment
 

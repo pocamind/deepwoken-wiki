@@ -1,6 +1,6 @@
 ---
 title: Coffee
-revid: 175174
+revid: 176016
 source: https://deepwoken.fandom.com/wiki/Coffee
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive]
@@ -23,7 +23,7 @@ notices:
 | desc | Tickets? For what? |
 | obtainment | The Hall of Shattered Wills |
 
-“ Almost tastes like food! ”
+“ Tastes just like the stuff at the hospital! ”
 
 ― Corporate
 

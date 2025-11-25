@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 174706
+revid: 175945
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Divers]
@@ -10,7 +10,7 @@ categories: [Factions, The Divers]
 
 | The Divers | |
 |---|---|
-| subunits | Memorial Masons[1], Pioneer Divers (formerly)[1], Black Divers division[1] |
+| subunits | Memorial Masons[1], The Pioneers (formerly)[1], Black Divers division[1] |
 | territory | The Central Luminant, Markor, The Depths, Castle Light |
 | goals | Research The Depths and bring the information back to the surface to the Citadel of Markor |
 

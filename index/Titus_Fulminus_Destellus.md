@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 174173
+revid: 175993
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -387,7 +387,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td>And I've had <i>enough with mercy</i>. <b><i>Enough</i> </b>with restraint.</td>
 </tr>
 <tr>
-  <td><b>LET ME SHOW YOU HOW A WARRIOR EARNS THEIR NAME.</b></td>
+  <td>LET ME SHOW YOU HOW A WARRIOR <font>EARNS THEIR NAME</font>.</td>
 </tr>
 <tr>
   <td>End</td>

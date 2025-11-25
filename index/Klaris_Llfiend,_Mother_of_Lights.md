@@ -1,9 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 175749
+revid: 175890
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First Layer, Oath Trainer, Black Divers]
+categories: [Canor NPCs, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -23,7 +23,7 @@ categories: [Canor NPCs, Vendors, NPCs, The Divers, NPCs located in the First La
 
 Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the end of [Castle Light](Castle_Light.md). She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
-She is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a "web" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the [Moonseye](Moonseye.md), as a result of being the inventor of Radiant Magic. She wears the standard [coat of the Black Divers](Black_Diver.md).
+She is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a "web" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the [Moonseye](Moonseye.md), as a result of being the inventor of the Radiant Magic and the Tones/ She wears the standard [Black Diver](Black_Diver.md).
 
 Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
@@ -492,8 +492,6 @@ Radiant Teachings
 
 ## Trivia
 
--   You don't have to beat Chaser after you unlock the Galewax shrine for it to count to the Deepshore Fossil quest.
--   She is the inventor of Radiant Magic.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend.
 -   Despite her appearance, she's actually a Canor without eyeliner.[\[4\]](#cite-note-4)
 -   Klaris Colors: #F0E2B6 Skin | #F0E2B6 Hair
@@ -501,14 +499,12 @@ Radiant Teachings
     -   Klaris' Hair id's are  
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them.
--   The name Klaris is likely derived from the French name Claire, which fittingly means "clear."
 -   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
-    -   Klaris uses Regular Torso, unlike [Eylis](Eylis,_the_Punished_Dreamer.md) who uses Lean.
 -   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
     -   The old version of the dialogue can be viewed [here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D).
 -   Attempting to enhance your skills as a [Dawnwalker](Oath%253A_Dawnwalker.md) while fully progressed will prompt the message, "Your mastery can go no further."
 
-## Footnotes
+## References
 
 1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 2.  [↑](#cite-ref-2) [Mark Adaset](Mark_Adaset.md)

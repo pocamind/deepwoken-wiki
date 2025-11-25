@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 174140
+revid: 175961
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -123,6 +123,16 @@ File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
 (☆☆☆)
 
  | If the target is above it, the Crimson Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+
+ | 
+
+ |
+| 
+
+**Bite**  
+(★☆☆)
+
+ | The Alpha Megalodaunt leans forward and bites down, putting those who are hit in ragdoll. Only used while in water.
 
  | 
 

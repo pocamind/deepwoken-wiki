@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 172669
+revid: 175958
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -118,6 +118,16 @@ A Mechalodaunt, finally back under control, can also ambush players who have Hun
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
+
+ | 
+
+ |
+| 
+
+**Bite**  
+(★☆☆)
+
+ | The Mechalodaunt leans forward and bites down, putting those who are hit in ragdoll. Only used while in water.
 
  | 
 

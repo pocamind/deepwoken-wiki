@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 175721
+revid: 175966
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -2602,7 +2602,7 @@ Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
 |  | [Brow Stud](Brow_Stud.md) | _+1 Health_ | N/A |
 |  | [Citadel Frames](Citadel_Frames.md)  
 (**Series**) | +5 Health  
-\-1 or -2 Posture
+\-1 Posture
 
 +1 Rare Pip
 
@@ -3003,6 +3003,7 @@ _+2% Wind Armor_
 -   Highest theoretical **stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% Shrouded Capes, 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md))
 -   Highest theoretical **ETH** kit in game is 415 ETH. (4x 30 ETH [Moon](Moon_Ring.md) and [Waning Rings](Waning_Ring.md), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
 -   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/Gladiator Helmet/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
--   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP [Moon](Moon_Ring.md) and 2x 9 HP [Waning Rings](Waning_Ring.md), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>)/[Bastions of Enmity](Bastions_of_Enmity.md), 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md), 5 HP [Citadel Frames](Citadel_Frames.md))
+    -   Conversely, the lowest **Posture** you can have on any character is 16, with [Citadel Frames](Citadel_Frames.md) and [Dark Pearls](Dark_Pearls.md).
+-   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP [Moon](Moon_Ring.md) and 2x 9 HP [Waning Rings](Waning_Ring.md), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>)/[Bastions of Enmity](Bastions_of_Enmity.md), 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md)/[Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**
 -   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 175756
+revid: 175918
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -413,8 +413,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   The Drowned Gods are able to create Avatars from small pieces of themselves, creating puppets to their will. One example of this is the Scion of Ethiron in Layer 2.
 -   Arch\_Mage has alluded to the Drowned God "Murchendice" who is responsible for turning notable characters into merchandise
     -   The ritual of the 'Crowdfunded Murchendice Campaign.'
-    -   A notable victim is [Destroyman III](Destroyman_III.md).
-    -   The next suspected victim is to be [Duke Erisia](Duke_Ishamon_Erisia.md).
+    -   List of victims: [Destroyman III](Destroyman_III.md), [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Thresher](Thresher.md), [Mudskipper](Mudskipper.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Black Diver](Black_Diver.md), [Deep Owl](Deep_Owl.md)
 
 **Voices of the Trials**
 

@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 169224
+revid: 175964
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics]
@@ -36,4 +36,4 @@ _[Inky Pearls](Talents.md#inky-pearls)_ turns your [Vent](Combat_Mechanics.md#te
 -   Dark Pearls is the first Relic **Ears** equipment, as all Relic equipment prior to Dark Pearls have been Torso equipment.
 -   Though exclusive to the Shadowcast attunement, these earrings are frequently sought after due to being only one of two earrings, the other being [Moonlit Earrings](Crescent_Earrings.md), that offer Health, and the only earrings that have a Talent.
 -   These are one of two items that grant negative stats, the other being [Citadel Frames](Citadel_Frames.md).
--   The lowest Posture possible is 15, when pairing the default [Citadel Frames](Citadel_Frames.md) with Dark Pearls.
+-   The lowest Posture possible is 16, when pairing [Citadel Frames](Citadel_Frames.md) with Dark Pearls.

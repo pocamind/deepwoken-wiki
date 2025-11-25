@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 172773
+revid: 175962
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -201,23 +201,26 @@ Lucky Spot
 
 ## Chest Lootpool
 
-100 Chests with and without a lucky spot.
+100 Chests with and without a lucky spot. (This was done in Hallowtide 25)
 
 | Items | With Lucky spot | Without Lucky spot |
 | --- | --- | --- |
-| Curse of Ysleys Ember |  | 5 |
-| Enchanted Items |  | 1 |
+| Curse of Ysleys Ember | 5 | 5 |
+| Enchanted Items | 2 | 1 |
 | Legendary Weapons |  |  |
-| Imperial Staff |  | 4 |
-| Stormseye |  | 2 |
-| Imperators Edge |  | 4 |
-| Wyrmtooth |  | 2 |
+| Imperial Staff | 0 | 4 |
+| Stormseye | 2 | 2 |
+| Imperators Edge | 0 | 4 |
+| Ysley's Pyre Keeper | 4 | 0 |
+| Wyrmtooth | 2 | 2 |
 | Relics |  |  |
-| Armorer's Needle |  | 5 |
-| Tiran Pendant |  | 1 |
-| Idol of Yunshul |  | 3 |
-| Smiths Alloy |  | 4 |
-| Void/Rain Spire |  | 2/4 |
+| Armorer's Needle | 2 | 5 |
+| Tiran Pendant | 2 | 1 |
+| Moonseye Tome | 1 | 0 |
+| Idol of Yunshul | 0 | 3 |
+| Smiths Alloy | 4 | 4 |
+| Void/Rain Spire | 2/1 | 2/4 |
+| Goodie Bag | 1 | 0 |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: ??? (Scion Caller)
-revid: 175747
+revid: 175956
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Scion_Caller)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -55,3 +55,7 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The entity who awakens the Scion is none other than [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) himself.

@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 166781
+revid: 175931
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Enemies]
@@ -11,6 +11,8 @@ categories: [NPCs, NPCs located in the Etrean Luminant, Enemies]
 Template:EnemyInfobox1.0
 
 ## Description
+
+The Hobo is a wealthy and proficient [Flamecharmer](Flamecharm.md) that you may find when roaming around [Erisia](Erisia.md).
 
 The Hobo is a neutral NPC that can be found in the wild. It guards three chests that can be obtained safely if you pass a [Charisma](Attributes.md) check, or alternatively you can kill them, granting you another chest. You may loot the chests without completing the Charisma check, but it will anger them and initiate a fight.
 
@@ -125,4 +127,5 @@ A Hobo executes it's opponent after knocking them:
 -   Hobos can spawn in such a way that one of their chests is inside a wall.
 -   The Hobo seems to be someone who escaped from The Depths or from [The Duke](Duke_Ishamon_Erisia.md), and has lost their mind since.
     -   This can be supported by the fact that when gripping them, they laugh like a madman.
+    -   It could be suggested that the Hobo is "wealthy" due to him stealing from The Duke.
 -   All factions appear to have it out for them, as they all try to attack them.
