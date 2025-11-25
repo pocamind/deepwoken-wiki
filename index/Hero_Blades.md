@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 176144
+revid: 176232
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals]
@@ -43,16 +43,16 @@ Although they purely scale off of the player's element, Hero Blades deal physica
     -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
 -   Prior to Verse 2 (12/24/2022), the critical of the Hero Blades was the basic sword critical.
 -   Every critical of the hero blade summons a hero and features their own aspect.
-    -   The Hero of Flame is a [Khan](Khan.md) named Jace.
+    -   The Hero of Flame is a [Khan](Khan.md) named [Jace](Jace.md).
         -   Identified by his crown.
-    -   The Hero of Frost is a [Capra](Capra.md) named Faust.
+    -   The Hero of Frost is a [Capra](Capra.md) named [Faust](Faust.md).
         -   Identified by his horns and mask.
-    -   The Hero of Thunder is an [Adret](Adret.md).
+    -   The Hero of Thunder is an [Adret](Adret.md) named [Tessa](Tessa.md).
         -   Identified by her face markings.
-        -   The Hero of Thunder was named Tessa, as in [this](https://x.com/Deepwoken/status/1801820070403772727) Twitter post stated.
-    -   The Hero of Wind is a [Tiran](Tiran.md) named Trinity Galenwarde.
+        -   Her name was first stated in [this](https://x.com/Deepwoken/status/1801820070403772727) Twitter post.
+    -   The Hero of Wind is a [Tiran](Tiran.md) named [Trinity Galenwarde](Trinity_Galenwarde.md).
         -   Identified by the feathers on their head.
         -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken. Whether this is a retcon or they are simply another Hero of Gale is unclear.
-    -   The Hero of Shadow is a [Felinor](Felinor.md) named Urek Felhand.
+    -   The Hero of Shadow is a [Felinor](Felinor.md) named [Urek Felhand](Urek_Felhand.md).
         -   Identified by his ears.
 -   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Lightning Clones](Thundercall.md#lightning-clones)) will use the default starting sword critical instead of the Hero Blade crit.

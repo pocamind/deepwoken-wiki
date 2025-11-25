@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 176172
+revid: 176272
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Ministry Necromancers, commonly referred as "Shadow NPCS", are NPCs that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground. Defeating them will be rewarded with a chest containing decent gear and loot.
 
-Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being purely white. They have 600 HP, making them tankier **AND** more annoying than [Ministry Scouts](Ministry_Scout.md).
+Every Ministry Necromancer is a [Ganymede](Ganymede.md). Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being purely white. They have 600 HP, making them tankier **AND** more annoying than [Ministry Scouts](Ministry_Scout.md).
 
 ## Moves
 
@@ -87,6 +87,5 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 ## Trivia
 
--   Every Ministry Necromancer is a [Ganymede](Ganymede.md).
 -   Necromancer hair id - 4735347390
 -   They have a rare chance of dropping the [Night Axe](Night_Axe.md) on death.

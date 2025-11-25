@@ -1,9 +1,9 @@
 ---
 title: The Pioneers
-revid: 175161
+revid: 176207
 source: https://deepwoken.fandom.com/wiki/The_Pioneers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Citadel of Markor, The Divers, Deceased groups]
+categories: [The Citadel of Markor, The Divers, Dissolved organizations]
 ---
 
 # The Pioneers

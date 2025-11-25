@@ -1,6 +1,6 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 174018
+revid: 176278
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Starkindred Church]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Star
 
 # Astaroth, Sinner of Wind
 
-Template:Creature Info Box v2
+Template:EnemyInfobox1.0
 
 ## Description
 

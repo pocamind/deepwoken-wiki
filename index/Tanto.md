@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 170051
+revid: 176205
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -37,6 +37,8 @@ The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is 
 ## Critical
 
 A short windup before jumping in the air and slashing forwards in a cartwheel-like motion.
+
+Deal 1.25x + .375x bleed = 1.625x
 
 ### Damage
 

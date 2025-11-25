@@ -1,6 +1,6 @@
 ---
 title: District of Commerce
-revid: 166604
+revid: 176299
 source: https://deepwoken.fandom.com/wiki/District_of_Commerce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]

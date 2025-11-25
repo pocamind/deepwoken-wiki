@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 176199
+revid: 176208
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -137,6 +137,6 @@ A Mechalodaunt, finally back under control, can also ambush players who have Hun
 
 -   Mechalodaunts probably have a radio built into them, as if you were to get ambushed by the Ignition Union with hunted rep it could say " \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\* " Alternatively, they could also have the ability to talk, although this is probably not true.
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1) [Parsnip](Parsnip.md)

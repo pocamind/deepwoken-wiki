@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Wind"
-revid: 176138
+revid: 176246
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons]
@@ -43,6 +43,6 @@ The critical has a cooldoown of **10 seconds**.
 
 ## Trivia
 
--   The Hero of Wind is a [Tiran](Tiran.md) named Trinity Galenwarde. Identified by the feathers on its head.
-    -   Trinity Galenwarde tells the player to decide to let the wind carry them, or defy the wind itself. Elaborated on their respective Saintsworn Obelisk.
+-   The Hero of Wind is a [Tiran](Tiran.md) named [Trinity Galenwarde](Trinity_Galenwarde.md). Identified by the feathers on its head.
+    -   Trinity Galenwarde tells the player to decide to let the wind carry them, or defy the wind itself, elaborated on their respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
     -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken.

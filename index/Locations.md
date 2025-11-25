@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 160823
+revid: 176219
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -54,7 +54,7 @@ A list of named locations that can be found in Deepwoken's world "Lumen".
 **Upper Erisia:**
 
 -   [Upper Erisia](Upper_Erisia.md)
-    -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
+    -   [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)
     -   [The Birdcage](The_Birdcage.md)
     -   [Towerstruck Lands](Towerstruck_Lands.md)
     -   [The Hidden Village](The_Hidden_Village.md)

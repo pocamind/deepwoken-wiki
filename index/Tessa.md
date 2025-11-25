@@ -1,8 +1,11 @@
 ---
 title: Tessa
-revid: 176031
+revid: 176248
 source: https://deepwoken.fandom.com/wiki/Tessa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Lore, Oath Trainer]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Tessa
@@ -10,5 +13,16 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Tessa | |
 |---|---|
 | name | Tessa |
+| alias | The Hero of Lightning |
+| aspect | Adret[1] |
+| affiliation | The Five Heroes |
+| death | Killed during a battle[2] |
 
+## Description
 
+**Tessa** was the Hero of [Thundercall](Thundercall.md), she wielded the [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). Along with all the other [Heroes](The_Five_Heroes.md), she bound her soul to [her respective Heroblade](<Hero's_Blade_of_Lightning.md>). Eventually she fell in a battle, her spirit now watches over the [Saintsworn](Oath%253A_Saintsworn.md).[\[2\]](#cite-note-tweet-2)
+
+## References
+
+1.  [↑](#cite-ref-maud-1-0) When using the [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>)'s critical, a figure with Maudet tattoos appears.
+2.  ↑ [2.0](#cite-ref-tweet-2-0) [2.1](#cite-ref-tweet-2-1) [https://fxtwitter.com/Deepwoken/status/1801820070403772727](https://fxtwitter.com/Deepwoken/status/1801820070403772727)
